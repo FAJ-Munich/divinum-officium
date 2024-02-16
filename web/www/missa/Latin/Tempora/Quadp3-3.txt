@@ -62,10 +62,10 @@ _
 _
 !Responsorium
 !Esther 13; Joël 2
-Emendémus in mélius, quæ ignoránter peccávimus: ne, subito præoccupáti die mortis, quærámus spátium pæniténtiæ, et inveníre non possímus. Atténde, Dómine, et miserére: quia peccávimus tibi,
+Emendémus in mélius, quæ ignoránter peccávimus: ne, subito præoccupáti die mortis, quærámus spátium pæniténtiæ, et inveníre non possímus. Atténde, Dómine, et miserére: quia peccávimus tibi.
 !Ps 78:9
-Adjuva nos, Deus, salutáris noster: et propter honórem nóminis tui, Dómine, líbera nos. Atténde, Dómine,
-V. Glória Patri, et Fílio, et Spirítui Sancto. Atténde, Dómine.
+Adjuva nos, Deus, salutáris noster: et propter honórem nóminis tui, Dómine, líbera nos. Atténde, Dómine, et miserére: quia peccávimus tibi.
+V. Glória Patri, et Fílio, et Spirítui Sancto. Atténde, Dómine, et miserére: quia peccávimus tibi.
 !Sacerdos vero, dum cantantur Antiphonæ et Responsorium, detecto capite, primo imponit cineres digniori Sacerdoti, a quo ipse accepit, deinde Ministris paratis, genibus flexis coram Altari, dicens:
 !Genesis 3:19
 Memento, homo, quia pulvis es, et in púlverem revertéris.
@@ -75,7 +75,8 @@ _
 V. Dóminus vobíscum.
 R. Et cum spíritu tuo.
 v. Orémus.
-Concéde nobis, Dómine, præsídia milítiæ christiánæ sanctis inchoáre jejúniis: ut, contra spiritáles nequítias pugnatúri, continéntiæ muniámur auxíliis. Per Christum, Dóminum nostrum. R. Amen.
+Concéde nobis, Dómine, præsídia milítiæ christiánæ sanctis inchoáre jejúniis: ut, contra spiritáles nequítias pugnatúri, continéntiæ muniámur auxíliis. Per Christum, Dóminum nostrum.
+R. Amen.
 
 [Introitus]
 !Sap 11:24 11:25; 11:27
@@ -109,7 +110,7 @@ V. Adjuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómin
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthǽum.
 !Matt 6:16-21
-In illo témpore: Dixit Jesus discípulis suis: Cum jejunátis, nolíte fíeri, sicut hypócritæ, tristes. Extérminant enim fácies suas, ut appáreant homínibus jejunántes. Amen, dico vobis, quia recepérunt mercédem suam. Tu autem, cum jejúnas, unge caput tuum, et fáciem tuam lava, ne videáris homínibus jejúnans, sed Patri tuo, qui est in abscóndito: et Pater tuus, qui videt in abscóndito, reddet tibi. Nolíte thesaurizáre vobis thesáuros in terra: ubi ærúgo et tínea demólitur: et ubi fures effódiunt et furántur. Thesaurizáte autem vobis thesáuros in coelo: ubi neque ærúgo neque tínea demólitur; et ubi fures non effódiunt nec furántur. Ubi enim est thesáurus tuus, ibi est et cor tuum.
+In illo témpore: Dixit Jesus discípulis suis: Cum jejunátis, nolíte fíeri, sicut hypócritæ, tristes. Extérminant enim fácies suas, ut appáreant homínibus jejunántes. Amen, dico vobis, quia recepérunt mercédem suam. Tu autem, cum jejúnas, unge caput tuum, et fáciem tuam lava, ne videáris homínibus jejúnans, sed Patri tuo, qui est in abscóndito: et Pater tuus, qui videt in abscóndito, reddet tibi. Nolíte thesaurizáre vobis thesáuros in terra: ubi ærúgo et tínea demolítur: et ubi fures effódiunt et furántur. Thesaurizáte autem vobis thesáuros in coelo: ubi neque ærúgo neque tínea demolítur; et ubi fures non effódiunt nec furántur. Ubi enim est thesáurus tuus, ibi est et cor tuum.
 
 [Offertorium]
 !Ps 29:2-3
