@@ -1045,9 +1045,9 @@ sub psalmi_major {
   setcomment($label, 'Source', $comment, $lang, $prefix);
 
   if ($version =~ /monastic/i) {
-    antetpsalm_mm('', -1);
-    for ($i = 0; $i < @psalmi; $i++) { antetpsalm_mm($psalmi[$i], $i); }
-    antetpsalm_mm('', -2);
+    my $lastant;
+    for ($i = 0; $i < @psalmi; $i++) { antetpsalm_mm($psalmi[$i], $i, \$lastant, $lang); }
+    antetpsalm_mm('', -2, \$lastant);
   } else {
     for ($i = 0; $i < @psalmi; $i++) {
       my $last = ($i == (@psalmi - 1)) ? 1 : 0;
@@ -1365,7 +1365,7 @@ sub oratio {
 				}
 				
 				# add commemorated from cwinner
-				unless(($rank >= 6 && $dayname[0] !~ /Pasc[07]/)
+				unless(($rank >= 6 && $dayname[0] !~ /Pasc[07]|Nat0?6/)
 				|| $rule =~ /no commemoratio/i
 				|| ($version =~ /196/ && $c{Rule} =~ /nocomm1960/i)) {
 					if (exists($c{"Commemoratio $cvespera"})) {
@@ -1397,8 +1397,7 @@ sub oratio {
 					foreach my $ic (@ic) {
 						if (!$ic || $ic =~ /^\s*$/
 							|| ($ic =~ /$octavestring|!.*?$sundaystring/i && nooctnat())
-							|| ($version =~ /19(?:55|6)/ && $ic =~ /!.*?Vigil/i && $cwinner =~ /Sancti/i && $cwinner !~ /08\-14|06\-23|06\-28|08\-09/)) { next;
-							}
+							|| ($version =~ /19(?:55|6)/ && $ic =~ /!.*?Vigil/i && $cwinner =~ /Sancti/i && $cwinner !~ /08\-14|06\-23|06\-28|08\-09/)) { next; }
 						if ($ic !~ /^!/) { $ic = "!$ic"; }
 						$ccind++;
 						$key = ($ic =~ /$sundaystring/i) ? ($version !~ /trident/i ? 3000 : 7100) : $ccind + 9900; # Sundays are all privilegde commemorations under DA

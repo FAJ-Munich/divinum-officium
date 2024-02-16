@@ -163,11 +163,7 @@ sub psalmi_matutinum_monastic {
   setcomment($label, 'Source', $comment, $lang, $prefix);
   my $i = 0;
   my %w = (columnsel($lang)) ? %winner : %winner2;
-  antetpsalm_mm('', -1);    #initialization for multiple psalms under one antiphon
-  push(@s, '!Nocturn I.', '_');
-  for (0..5) { antetpsalm_mm($psalmi[$_], $_); }
-  antetpsalm_mm('', -2);    # set antiphon for multiple psalms under one antiphon situation
-  push(@s, $psalmi[6], $psalmi[7], "\n");
+  nocturn(1, $lang, \@psalmi, (0..7));
 
   if ($rule =~ /12 lectiones/ || ((($rank >= 4 && $version =~ /divino/i) || ($rank >= 2 && $version =~ /trident/i)) && $dayname[1] !~ /infra octavam/i)) {
     lectiones(1, $lang);    # first Nocturn of 4 lessons (
@@ -185,29 +181,27 @@ sub psalmi_matutinum_monastic {
       legend_monastic($lang);   # on a III. class feast in "Summer", we have the contracted Saint's legend
 			setbuild2("Lectio legend monastic");
     }
+    push(@s, "\n");
   } else {
-    lectiones($winner{Rank} !~ /vigil/i && $version !~ /trident|divino/i, $lang);
-      # unless it's a vigil, the standard Nocturn 1 Absolutio is going to be combined with the Benedictions depending on the day of the week;
-      # for a vigil, even the Absolutio is changed as above (Is this really what the BM1963 rubrics say?)
+    lectiones(0, $lang);
+      # the Absolutio and the Benedictions are taken depending on the day of the week;
   }
-  push(@s, "\n", '!Nocturn II.', '_');
-  for (8..13) { antetpsalm_mm($psalmi[$_], $_); }
-  antetpsalm_mm('', -2);    #draw out antiphon if any
+  nocturn(2, $lang, \@psalmi, (8..15));
 
   # In case of Matins of 3 nocturns with 12 lessons:
-  if ($winner{Rule} =~ /12 lectiones/) {
-    push(@s, $psalmi[14], $psalmi[15], "\n");           #  V.R. directly after the Pss. #7-#12
+  if ($winner{Rule} =~ /12 lectiones/ || ((($rank >= 4 && $version =~ /divino/i) || ($rank >= 2 && $version =~ /trident/i)) && $dayname[1] !~ /infra octavam/i)) {
     lectiones(2, $lang);                                # lessons 5 – 8
-    push(@s, "\n", '!Nocturn III.', '_');
+    # push(@s, "\n", '!Nocturn III.', '_');
 
     # Tenebrae office:
-    if (($dayname[0] eq "Quad6") && ($dayofweek > 3))  {
-      for (16..18) { antetpsalm_mm($psalmi[$_], $_); }
-      antetpsalm_mm('', -2);
-      push(@s, $psalmi[19], $psalmi[20], "\n");
-      lectiones(3, $lang);
-      return;
-    }
+    # commented out tenebre is Roman Matutinum
+    # if (($dayname[0] eq "Quad6") && ($dayofweek > 3))  {
+    #   for (16..18) { antetpsalm_mm($psalmi[$_], $_); }
+    #   antetpsalm_mm('', -2);
+    #   push(@s, $psalmi[19], $psalmi[20], "\n");
+    #   lectiones(3, $lang);
+    #   return;
+    # }
 
     # Prepare 3rd nocturn canticles (sub una antiphona)
     my ($ant, $p) = split(/;;/, $psalmi[16]);
@@ -222,11 +216,14 @@ sub psalmi_matutinum_monastic {
     $p =~ s/[\(\-]/\,/g;
     $p =~ s/\)//g;
 
-    push(@s, "Ant. $ant");
-    for (split(';', $p)) { push(@s, "\&psalm($_)", "\n"); } pop(@s);
-    $ant =~ s/\* //;
-    push(@s, "Ant. $ant");
-    push(@s, "\n", $psalmi[17], $psalmi[18], "\n"); # Versicle directly after the Ant.
+    postprocess_ant($ant, $lang);
+
+    # insert canticles as single entries in psalmi
+    my @p = split(';', $p);  
+    $psalmi[16] = $ant . ';;' . shift @p;
+    splice(@psalmi, 17, 0, map { ';;' . $_ } @p);
+
+    nocturn(3, $lang, \@psalmi, (16..20));
     lectiones(3, $lang);            # Homily with responsories #9-#12
     push(@s, '&teDeum', "\n");      # Te Deum comes after the 12th responsory only
  
@@ -289,16 +286,14 @@ sub psalmi_matutinum_monastic {
 # sets the antiphon and psalm call into the output flow
 # handles the multiple psalms under one antiphon situation
 sub antetpsalm_mm {
-  my $line = shift;
-  my $ind = shift;
+  my ($line, $ind, $lastantiphon, $lang) = @_;
   my @line = split(';;', $line);
-  our $lastantiphon;
-  $lastantiphon =~ s/\s+\*//;
+  $$lastantiphon =~ s/\s+\*//;
 
-  if ($ind == -1) { $lastantiphon = ''; return; }
+  if ($ind == -1) { $$lastantiphon = ''; return; }
 
   if ($ind == -2) {
-    if ($lastantiphon) { push(@s, "Ant. $lastantiphon"); push(@s, "\n"); $lastantiphon = ''; }
+    if ($$lastantiphon) { push(@s, "Ant. $$lastantiphon"); push(@s, "\n"); $$lastantiphon = ''; }
     return;
   }
 
@@ -308,14 +303,14 @@ sub antetpsalm_mm {
   {
     if ($hora =~ /Vespera/i)
     {
-      if ($ind == 0) { $line[0] = Alleluia_ant($lang, 0, 0); $lastantiphon = ''; } 
-      else { $line[0] = ''; $lastantiphon = Alleluia_ant($lang, 0, 0); }
+      if ($ind == 0) { $line[0] = Alleluia_ant($lang, 0, 0); $$lastantiphon = ''; } 
+      else { $line[0] = ''; $$lastantiphon = Alleluia_ant($lang, 0, 0); }
     }
     elsif ($hora =~ /Laudes/i && $winner{Rank} !~ /Dominica/i )
     {
-      if ($ind == 0) { $line[0] = Alleluia_ant($lang, 0, 0); $lastantiphon = ''; }
-      if ($ind == 1) { $line[0] = ''; $lastantiphon = ''; }
-      if ($ind == 2) { $line[0] = ''; $lastantiphon = Alleluia_ant($lang, 0, 0); }
+      if ($ind == 0) { $line[0] = Alleluia_ant($lang, 0, 0); $$lastantiphon = ''; }
+      if ($ind == 1) { $line[0] = ''; $$lastantiphon = ''; }
+      if ($ind == 2) { $line[0] = ''; $$lastantiphon = Alleluia_ant($lang, 0, 0); }
       if ($ind == 3) { ensure_single_alleluia($line[0], $lang); }
       if ($ind == 4) { $line[0] = Alleluia_ant($lang, 0, 0); }
     }
@@ -327,19 +322,20 @@ sub antetpsalm_mm {
 		postprocess_ant($ant, $lang);
 		my $ant1 = ($duplex > 2) ? $ant : $ant[0];
 		
-		if ($line[0] && $lastantiphon) { push(@s, "Ant. $lastantiphon"); push(@s, "\n"); }
-		if ($ant1) { push(@s, "Ant. $ant1"); $lastantiphon = $ant; }
+		if ($line[0] && $$lastantiphon) { push(@s, "Ant. $$lastantiphon"); push(@s, "\n"); }
+		if ($ant1) { push(@s, "Ant. $ant1"); $$lastantiphon = $ant; }
 	}
 	else {																	# in Monastic 1963, Antiphones are always doubled
-		if ($line[0] && $lastantiphon) { push(@s, "Ant. $lastantiphon"); push(@s, "\n"); }
-		if ($line[0]) { push(@s, "Ant. $line[0]"); $lastantiphon = $line[0]; }
+		if ($line[0] && $$lastantiphon) { push(@s, "Ant. $$lastantiphon"); push(@s, "\n"); }
+		postprocess_ant($line[0], $lang);
+		if ($line[0]) { push(@s, "Ant. $line[0]"); $$lastantiphon = $line[0]; }
 	}
 
 	my $p = $line[1];
   my @p = split(';', $p);
   my $i = 0;
 
-  foreach $p (@p) {
+  foreach my $p (@p) {
     if (!$p || $p =~ /^\s*$/) { next; }
     $p =~ s/[\(\-]/\,/g;
     $p =~ s/\)//;
