@@ -164,7 +164,7 @@ sub nocturn {
 	}
 	if ($monasticf) {
 		antetpsalm_mm('', -2, \$lastant, $lang);    #draw out antiphon if any
-		return if ($num == 2 && $winner{Rule} !~ /12 lectiones/);
+		return if ($num == 2 && ($winner{Rule} !~ /12 lectiones/ || ((($rank >= 4 && $version =~ /divino/i) || ($rank >= 2 && $version =~ /trident/i)) && $dayname[1] !~ /feria|sabbato|infra octavam/i)));
 	}
 	my (@vs) = ($select[-1] =~ /^\d+$/ ? (@{$psalmi}[$select[-2]], @{$psalmi}[$select[-1]]) : ($select[-2], $select[-1]));
 	process_inline_alleluias($vs[0]);
