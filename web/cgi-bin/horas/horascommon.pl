@@ -1832,7 +1832,9 @@ sub cache_prayers() {
 	our ($lang1, $lang2);
 	our $datafolder;
 	my $dir = our $missa ? 'Ordo' : 'Psalterium';
+	if ($Ck) { $version = $version1; }
 	$prayers{$lang1} = setupstring($lang1, "$dir/Prayers.txt");
+	if ($Ck) { $version = $version2; }
 	$prayers{$lang2} = setupstring($lang2, "$dir/Prayers.txt");
 }
 
