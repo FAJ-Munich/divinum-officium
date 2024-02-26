@@ -204,7 +204,7 @@ sub psalmi_matutinum_monastic {
 		}
 		$p =~ s/[\(\-]/\,/g;
 		$p =~ s/\)//g;
-
+		
 		postprocess_ant($ant, $lang);
 		
 		# insert canticles as single entries in psalmi
