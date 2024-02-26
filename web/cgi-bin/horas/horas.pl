@@ -299,14 +299,13 @@ sub Alleluia : ScriptFunc {
 }
 
 sub Alleluia_ant {
-  my ($lang, $full, $ucase) = @_;
-  my $s = translate('Alleluia', $lang);
-  $s =~ s/\.$//;
-  if (($full || ($duplex >= 3) || ($version =~ /196/))) {
-    $s .= ", * $s, $s.";
-    $s =~ s/ ./\L$&/g unless $ucase;
-  }
-  return $s;
+  my ($lang, $ucase) = @_;
+
+  my $ant = $prayers{$lang}{"Alleluia Duplex"};
+  $ant =~ s/ / * /;
+  $ant =~ s/\./$prayers{$lang}{"Alleluia Simplex"}/;
+  $ant =~ s/ ./\L$&/g unless $ucase;
+  return $ant;
 }
 
 #*** Septuagesima_vesp
@@ -1022,7 +1021,7 @@ sub martyrologium : ScriptFunc {
   }
 
   if (my @a = do_read($fname)) {
-    my ($luna, $mo) =
+		my ($luna, $mo) =
       ($year >= 1900 && $year < 2200)
       ? gregor($m, $d, $y, $lang)
       : luna($m, $d, $y, $lang);
@@ -1044,7 +1043,7 @@ sub martyrologium : ScriptFunc {
     my $prefix = "v. ";
 
     foreach $line (@a) {
-      if (length($line) > 3) {
+      if (length($line) > 3 && $line !~ /^\/\:/) { # allowing /:rubrics:/ in Martyrology
         $t .= "$prefix$line\n";
       } else {
         $t .= "$line\n";
@@ -1069,16 +1068,22 @@ sub gregor {
   my @epact = (29, 10, 21, 2, 13, 24, 5, 16, 27, 8, 19, 30, 11, 22, 3, 14, 25, 6, 17);
   my @om = (30, 29, 30, 29, 30, 29, 30, 29, 30, 29, 30, 29, 30, 100);
   my @firstmonth = (2, 21, 10, 29, 18, 7, 26, 15, 4, 23, 12, 1, 20, 9, 28, 17, 6, 25, 14);
-
+  my $leapday;  # only set in the last days of February in a leap year
+	
   if ($golden == 18) {
     $om[12] = 29;
   } else {
     $om[12] = 30;
   }
-  if (leapyear($year) && ($month > 2 || ($month == 2 && $day > 24))) { $om[1] = 30; }
+	if (leapyear($year) && ($month > 2)) { $om[1] = 30;	} # || ($month == 2 && $day > 24)
   if ($golden == 0) { unshift(@om, 30); }
   if ($golden == 8 || $golden == 11) { unshift(@om, 30); }
 
+	if(leapyear($year) && $month == 2 && $day >= 24) {
+		$leapday = ($day + 1) % 30;  #  24->25, 25->26, "29"->0
+		if ($day == 29) { $day = 24; }
+	}
+	
   my $t = date_to_days($day, $month - 1, $year);
   my @d = days_to_date($t);
   my $yday = $d[7];
@@ -1106,6 +1111,7 @@ sub gregor {
     'January', 'February', 'March', 'April', 'May', 'June',
     'July', 'August', 'September', 'October', 'November', 'December'
   );
+	$day = $leapday||$day;  # recover English date in Leap Years
   my $sfx1 =
       ($day > 3 && $day < 21) ? 'th'
     : (($day % 10) == 1) ? 'st'
@@ -1322,25 +1328,25 @@ sub process_inline_alleluias(\$) {
 # Performs necessary adjustments to an antiphon.
 sub postprocess_ant(\$$) {
   my ($ant, $lang) = @_;
-  our @dayname;
+  our (@dayname, $votive);
 
   # Don't do anything to null antiphons.
   return unless $$ant;
   process_inline_alleluias($$ant);
-  ensure_single_alleluia($$ant, $lang) if ($dayname[0] =~ /Pasc/i && !officium_defunctorum());
+  ensure_single_alleluia($$ant, $lang) if alleluia_required($dayname[0], $votive);
 }
 
 #*** postprocess_vr($vr, $lang)
 # Performs necessary adjustments to a versicle and repsonse.
 sub postprocess_vr(\$$) {
   my ($vr, $lang) = @_;
-  our @dayname;
+  our (@dayname, $votive);
 
   # Don't do anything to null v/r.
   return unless $$vr;
   process_inline_alleluias($$vr);
 
-  if ($dayname[0] =~ /Pasc/i && !officium_defunctorum()) {
+  if (alleluia_required($dayname[0], $votive)) {
     my ($versicle, $response) = split(/(?=^\s*R\.)/m, $$vr);
     ensure_single_alleluia($versicle, $lang);
     ensure_single_alleluia($response, $lang);
@@ -1376,10 +1382,11 @@ sub postprocess_short_resp(\@$) {
   }
 }
 
-#*** officium_defunctorum()
-# Detects whether the office is of the dead. This is checked in lots
-# of different ways throughout the program; this function is the
-# beginning of an attempt at uniformity.
-sub officium_defunctorum() {
-  return our $votive =~ /C9|Defunctorum/i;
+#*** alleluia_required
+# check if alleluia addition is required 
+# it is Paschaltide and not officium defunctorum or BMV Parv.
+sub alleluia_required {
+  my($dayname, $votive) = @_;
+
+  $dayname =~ /Pasc/i && $votive !~ /C(?:9|12)/;
 }
