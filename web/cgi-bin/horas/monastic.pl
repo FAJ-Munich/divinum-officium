@@ -192,18 +192,18 @@ sub psalmi_matutinum_monastic {
 	# In case of Matins of 3 nocturns with 12 lessons:
 	if ($winner{Rule} =~ /12 lectiones/ || ((($rank >= 4 && $version =~ /divino/i) || ($rank >= 2 && $version =~ /trident/i)) && $dayname[1] !~ /feria|sabbato|infra octavam/i)) {
 		lectiones(2, $lang);                                # lessons 5 – 8
-#		# Prepare 3rd nocturn canticles (sub una antiphona)
-#		my ($ant, $p) = split(/;;/, $psalmi[16]);
-#		my %w = (columnsel($lang)) ? %winner : %winner2;
-#		if (exists($w{"Ant Matutinum 3N"})) {
-#			my @t = split("\n",$w{"Ant Matutinum 3N"});
-#			for(my $i=0; $i <= $#t; $i++) { $psalmi[16+$i] = $t[$i]; }
-#			my($p1);
-#			($ant, $p1) = split(/;;/, $psalmi[16]);
-#			$p = $p1 || $p;
-#		}
-#		$p =~ s/[\(\-]/\,/g;
-#		$p =~ s/\)//g;
+		# Prepare 3rd nocturn canticles (sub una antiphona)
+		my ($ant, $p) = split(/;;/, $psalmi[16]);
+		my %w = (columnsel($lang)) ? %winner : %winner2;
+		if (exists($w{"Ant Matutinum 3N"})) {
+			my @t = split("\n",$w{"Ant Matutinum 3N"});
+			for(my $i=0; $i <= $#t; $i++) { $psalmi[16+$i] = $t[$i]; }
+			my($p1);
+			($ant, $p1) = split(/;;/, $psalmi[16]);
+			$p = $p1 || $p;
+		}
+		$p =~ s/[\(\-]/\,/g;
+		$p =~ s/\)//g;
 
 		postprocess_ant($ant, $lang);
 		
