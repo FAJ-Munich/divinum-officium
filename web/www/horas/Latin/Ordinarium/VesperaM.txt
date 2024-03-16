@@ -1,7 +1,9 @@
 #Incipit
+/:secreto:/
 $Pater noster
 $Ave Maria
 _
+/:Deinde, clara voce, dicitur Versus::/
 $Deus in adjutorium
 &Alleluia
 
@@ -21,4 +23,6 @@ $Deus in adjutorium
 &Dominus_vobiscum
 &Benedicamus_Domino
 $Fidelium animae
+
+/:Et si tunc terminetur Officium, dicitur tantum « Pater Noster » secreto.:/
 $Pater noster
