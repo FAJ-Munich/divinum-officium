@@ -1076,6 +1076,7 @@ sub antetpsalm {
   my @line = split(';;', $line);
   my $ant = $line[0];
   my @ant = split(/\s*\*\s*/, $ant);
+	if ($lang =~ /gabc/i && $ant =~ /\{.*\}/) { $ant[0] =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/; }
   postprocess_ant($ant, $lang);
   my $ant1 = ($duplex > 2 || $version =~ /196/) ? $ant : $ant[0];    #difference between 1995, 1960
 

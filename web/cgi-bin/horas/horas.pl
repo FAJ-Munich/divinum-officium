@@ -80,7 +80,7 @@ sub horas {
       $text1 =~ s/$alleluia_regex//g;
     }
     $text1 =~ s/\<BR\>\s*\<BR\>/\<BR\>/g;
-    if ($lang1 =~ /Latin/i) { $text1 = spell_var($text1); }
+    if ($lang1 =~ /Latin$/i) { $text1 = spell_var($text1); }
     if ($text1 && $text1 !~ /^\s+$/) { setcell($text1, $lang1); }
 
     if (!$only) {
@@ -92,7 +92,7 @@ sub horas {
         $text2 =~ s/$alleluia_regex//ig;
       }
       $text2 =~ s/\<BR\>\s*\<BR\>/\<BR\>/g;
-      if ($lang2 =~ /Latin/i) { $text2 = spell_var($text2); }
+      if ($lang2 =~ /Latin$/i) { $text2 = spell_var($text2); }
       if ($text2 && $text2 !~ /^\s+$/) { setcell($text2, $lang2); }
     }
   }
@@ -485,15 +485,27 @@ sub psalm : ScriptFunc {
   # the invitatory, lives elsewhere, and is loaded here only for its
   # special third-nocturn use on the day of the Epiphany.
   my $fname = ($psnum == 94) ? 'Psalterium/Invitatorium1.txt' : "$psalmfolder/Psalm$psnum.txt";
+	my $ftone = '';	# to save the chant tone to retrieve the Gloria Patri
   if ($version =~ /1960|Newcal/) { $fname =~ s/Psalm226/Psalm226r/; }
   if ($version =~ /1960|Newcal/ && $num !~ /\(/ && $dayname[0] =~ /Nat/i) { $fname =~ s/Psalm88/Psalm88r/; }
   if ($version =~ /1960|Newcal/ && $num !~ /\(/ && $month == 8 && $day == 6) { $fname =~ s/Psalm88/Psalm88a/; }
-  $fname = checkfile($lang, $fname);
+	if ($lang =~ /gabc/i) {
+		if($num > 230 && $num < 234) { $num .= ",$canticaTone"; }
+		$fname = ($num =~ /,/) ? "$psalmfolder/$num.gabc" : "$psalmfolder/Psalm$num.txt"; # distingiush between chant and text
+		$fname =~ s/\:/\./g;
+		$fname =~ s/,/-/g;	# file name with dash not comma
+		$num =~ s/\:\:/ \& /g;  # Multiple Psalms joined together
+		$num =~ s/\:/; Part: /; # n-th Part of Psalm
+		$num =~ s/,,.*?,,//;
+		$num =~ s/,/; Tone: /;	# name Tone in Psalm headline
+		$ftone = ($num =~ /Tone: (.*)/) ? $1 : '';
+	}
+	$fname = checkfile($lang, $fname);
 
   # load psalm
   my(@lines) = do_read($fname);
   unless (@lines > 0) {
-    return "$t$datafolder/$lang/$psalmfolder/Psalm$psnum.txt not found";
+    return "$t$datafolder/$lang/$fname not found";
   }
 
   # Extract limits of the division of the psalm.
@@ -505,7 +517,7 @@ sub psalm : ScriptFunc {
   my $title = translate('Psalmus', $lang) . " $num";
   my $source;
 
-  if ($num > 150 && $num < 300 && @lines) {
+  if ($num > 150 && $num < 300 && @lines && $fname !~ /\.gabc/) {
     shift(@lines) =~ /\(?(?<title>.*?) \* (?<source>.*?)\)?\s*$/;
     ($title, $source) = ($+{title}, $+{source});
     if ($v1) { $source =~ s/:\K.*/"$v1-$v2"/e; }
@@ -520,9 +532,15 @@ sub psalm : ScriptFunc {
   my $formatted_antline;
   my $first = $antline;
   my $initial = $nonumbers;
-
+  my $gabc = 0;
+	
   foreach my $line (@lines) {
 
+		if ($lang =~ /gabc/i && !$gabc && $line =~ /^(name:|\([cf][1-4]\))/) {
+			$gabc = 1;
+			$line = "{" . $line; # append brace, s.t. gabc is recognized by webdia.pl
+		}
+		
     # Interleave antiphon into the psalm "Venite exsultemus".
     if ($psnum == 94 && $line =~ /^\s*\$ant\s*$/) {
       $formatted_antline ||= setfont($redfont, 'Ant.') . " $antline";
@@ -530,38 +548,47 @@ sub psalm : ScriptFunc {
       next;
     }
 
-    if ($line =~ /^\s*([0-9]+)\:([0-9]+)/) {
-      $v = $2;
-    } elsif ($line =~ /^\s*([0-9]+)/) {
-      $v = $1;
-    }
-    if ($v < $v1 && $v > 0) { next; }
-    if ($v > $v2) { last; }
-    my $lnum = '';
-
-    if ($line =~ /^([0-9]*[\:]*[0-9]+)(.*)/) {
-      $lnum = setfont($smallfont, $1) unless ($nonumbers);
-      $line = $2;
-    }
-    my $rest;
-
-    if ($line =~ /(.*?)(\(.*?\))(.*)/) {
-      $rest = $3;
-      $before = $1;
-      $this = $2;
-      $before =~ s/^\s*([a-z])/uc($1)/ei;
-      $line = $before . setfont($smallfont, ($this));
-      $initial = 0 if ($rest);
-    } else {
-      $rest = $line;
-      $line = '';
-      if ($initial) {
-        $lnum = "v. ";
-        $initial = 0;
-      }
-    }
-    $rest =~ s/[ ]*//;
-
+			if ($gabc) {
+				if ($line !~ /\S/) { last; }
+				$line =~ s/(\s)_([\^\s*]+)_(\(\))?(\s)/$1\^_$2_\^$3$4/g; # ensure red digits for chant
+				$line =~ s/(\([cf][1-4]\)|\s?)(\d+\.)(\s\S)/$1\^$2\^$3/g;
+				$t .= " \n$line";
+				next;
+			}
+			
+			if ($line =~ /^\s*([0-9]+)\:([0-9]+)/) {
+				$v = $2;
+			} elsif ($line =~ /^\s*([0-9]+)/) {
+				$v = $1;
+			}
+			if ($v < $v1 && $v > 0) { next; }
+			if ($v > $v2) { last; }
+			my $lnum = '';
+			
+			if ($line =~ /^([0-9]*[\:]*[0-9]+)(.*)/) {
+				$lnum = setfont($smallfont, $1) unless ($nonumbers);
+				$line = $2;
+			}
+			my $rest;
+			
+			if ($line =~ /(.*?)(\(.*?\))(.*)/) {
+				$rest = $3;
+				$before = $1;
+				$this = $2;
+				$before =~ s/^\s*([a-z])/uc($1)/ei;
+				$line = $before . setfont($smallfont, ($this));
+				$initial = 0 if ($rest);
+			} else {
+				$rest = $line;
+				$line = '';
+				if ($initial) {
+					$lnum = "v. ";
+					$initial = 0;
+				}
+			}
+			$rest =~ s/[ ]*//;
+		
+			
     if ($prepend_dagger) {
       $rest = "\x{2021} $rest";
       $prepend_dagger = 0;
@@ -580,9 +607,22 @@ sub psalm : ScriptFunc {
     $rest =~ s/^\s*([a-z])/uc($1)/ei;
     $t .= "\n$lnum $line $rest";
   }
-  $t .= "\n";
+  $t .= $gabc ? "}\n" : "\n";			# end chant with brace for recognition
   if ($version =~ /Monastic/ && $num == 129 && $hora eq 'Prima') { $t .= $prayers{$lang}->{Requiem}; }
-  elsif ($num != 210 && !$nogloria) { $t .= "\&Gloria\n"; }
+	elsif ($num != 210 && !$nogloria || ($gabc && $canticlef)) {
+		if ($gabc && !triduum_gloria_omitted()) {
+			$fname = "$psalmfolder/gloria-$ftone.gabc";
+			$fname =~ s/,/-/g;	# file name with dash not comma
+			$fname = checkfile($lang, $fname);
+			my(@lines) = do_read($fname);
+			foreach my $line (@lines) {
+				$t =~ s/\}\n$/ \n$line\}\n/;
+			}
+		#	$t .= "$fname\n";
+		} else {
+			$t .= "\&Gloria\n";
+		}
+	}
   $t .= settone(0);
   return $t;
 }
@@ -896,6 +936,7 @@ sub ant_Benedictus : ScriptFunc {
     $ant = $specials{"Adv Ant $day" . "L"};
   }
   my @ant_parts = split('\*', $ant);
+	if ($lang =~ /gabc/i && $ant =~ /\{.*\}/) { $ant_parts[0] =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/; }
   if ($num == 1 && $duplex < 3 && $version !~ /196/) { return "Ant. $ant_parts[0]"; }
 
   if ($num == 1) {
@@ -909,34 +950,38 @@ sub ant_Benedictus : ScriptFunc {
 #*** ant_Magnificat($num, $lang)
 # returns the antiphon for $num=1 the beginning, or =2 for the end
 sub ant_Magnificat : ScriptFunc {
-
-  my $num = shift;    #1=before, 2=after
-  my $lang = shift;
-
-  our ($version, $winner);
-  our ($month, $day);
-  our $duplex;
-  our $rank;
-  our $vespera;
-
-  my $v = ($version =~ 1960 && $winner =~ /Sancti/i && $rank < 5) ? 3 : $vespera;
-  my ($ant) = getantvers('Ant', $v, $lang);
-
-  # Special processing for Common of Supreme Pontiffs. Confessor-Popes
-  # have a common Magnificat antiphon at second Vespers.
+	
+	my $num = shift;    #1=before, 2=after
+	my $lang = shift;
+	
+	our ($version, $winner);
+	our ($month, $day);
+	our $duplex;
+	our $rank;
+	our $vespera;
+	
+	my $v = ($version =~ 1960 && $winner =~ /Sancti/i && $rank < 5) ? 3 : $vespera;
+	my ($ant) = getantvers('Ant', $v, $lang);
+	
+	# Special processing for Common of Supreme Pontiffs. Confessor-Popes
+	# have a common Magnificat antiphon at second Vespers.
 	my $popeclass = '';
 	if ($version !~ /Trident/i && $v == 3 && ( (undef, $popeclass, undef) = papal_rule($winner{Rule})) && $popeclass =~ /C/i) {
-    $ant = papal_antiphon_dum_esset($lang);
+		$ant = papal_antiphon_dum_esset($lang);
 		setbuild2("subst: Special Magnificat Ant. Dum esset");
-  }
+	}
 	
 	
-  if ($month == 12 && ($day > 16 && $day < 24) && $winner =~ /tempora/i) {
-    my %specials = %{setupstring($lang, "Psalterium/Major Special.txt")};
-    $ant = $specials{"Adv Ant $day"};
-    $num = 2;
-  }
-  my @ant_parts = split('\*', $ant);
+	if ($month == 12 && ($day > 16 && $day < 24) && $winner =~ /tempora/i) {
+		my %specials = %{setupstring($lang, "Psalterium/Major Special.txt")};
+		$ant = $specials{"Adv Ant $day"};
+		$num = 2;
+	}
+	my @ant_parts = split('\*', $ant);
+	if ($lang =~ /gabc/i && $ant =~ /\{.*\}/) {
+		if ($ant =~ /tone:(.*?);/) { our $canticaTone = $1; }
+		$ant_parts[0] =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/;
+	}
   if ($num == 1 && $duplex < 3 && $version !~ /196/) { return "Ant. $ant_parts[0]"; }
 
   if ($num == 1) {

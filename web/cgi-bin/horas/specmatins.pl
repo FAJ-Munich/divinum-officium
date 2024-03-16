@@ -1221,21 +1221,18 @@ sub responsory_gloria {
 	my $flag = 0;
 	
 	my $read_per_noct = ($rule =~ /12 lectio/) ? 4 : 3;
-	if (
-		($num % $read_per_noct == 0)
-		|| ($rule =~ /9 lectiones/i && ($winner !~ /tempora/i || $dayname[0] !~ /(Adv|Quad)/i) && $num == 8)
-		|| ( $version =~ /1960/
-		&& $rule =~ /9 lectiones/i
-		&& $rule =~ /Feria Te Deum/i
-		&& $num == 2
-		&& ($dayname[0] !~ /quad/i))
-		|| (gettype1960() > 1 && $num == 2 && $winner !~ /C12/)
-		|| ($rank < 2 && $num == 2 && $winner =~ /(Sancti)/)
-		|| ($num == 2 && $winner =~ /C10/)
-		|| ($num == 2 && ($rule =~ /Feria Te Deum/i || $dayname[0] =~ /Pasc[07]/i) && $rule !~ /9 lectiones/i)
-		)
-	{
-		if ($w !~ /\&Gloria/i) {
+	if (($num % $read_per_noct == 0)		# we are at the last Lesson of the Nocturn
+			|| ($rule =~ /9 lectiones/i && ($winner !~ /tempora/i || $dayname[0] !~ /(Adv|Quad)/i) && $num == 8) # or at the 8th Lesson with Te Deum
+			|| ( $version =~ /1960/ && $rule =~ /9 lectiones/i && $rule =~ /Feria Te Deum/i
+				&& $num == 2 && ($dayname[0] !~ /quad/i))	# or at the 2nd Lesson at a 1960s with Te Deum
+			|| (gettype1960() > 1 && $num == 2 && $winner !~ /C12/)
+			|| ($rank < 2 && $num == 2 && $winner =~ /(Sancti)/)	# or a simple Matins at the 2nd
+			|| ($num == 2 && $winner =~ /C10/)  # or at BMV in Sabbato
+			|| ($num == 2 && ($rule =~ /Feria Te Deum/i || $dayname[0] =~ /Pasc[07]/i) && $rule !~ /9 lectiones/i))	{ # let's add the Gloria
+		if ($lang =~ /gabc/ && $w =~ /\{.*\}/) {
+			if ($w =~ /\_\s\{gabc:/) { $w =~ s/\_\s\{gabc:(.*)\}/\_ \{gabc:$1-gloria\}/; }
+				
+		}	elsif ($w !~ /\&Gloria/i) {
 			$w =~ s/[\s_]*$//gs;
 			$line = ($w =~ /(R\..*?$)/) ? $1 : '';
 			$w .= "\n\&Gloria1\n$line";
