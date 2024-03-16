@@ -1,23 +1,19 @@
 #Incipit
-V. Iube, Dómine, benedícere.
+V. Jube, domne, benedícere.
 Benedictio. Noctem quiétam et finem perféctum concédat nobis Dóminus omnípotens. Amen.
 
 #Lectio brevis
 !1 Pet 5:8-9
-v. Fratres: Sóbrii estóte, et vigiláte: quia adversárius vester diábolus tamquam leo rúgiens círcuit, quærens quem dévoret: cui resístite fortes in fide.
+v. Fratres: Sóbrii estóte, et vigiláte: quia adversárius vester diábolus tamquam leo rúgiens círcuit, quærens quem dévoret: cui resístite fortes in fide. 
 $Tu autem
 
-V. Adjutórium nóstrum + in nómine Dómini.
-R. Qui fecit cælum et terram.
-_
-!Examen conscientiæ vel Pater Noster totum secreto.
+$Adjutorium nostrum
 $Pater noster
 $Confiteor
 $Misereatur
 $Indulgentiam
 
-V. Convérte nos +++ Deus, salutáris noster.
-R. Et avérte iram tuam a nobis.
+$Converte nos
 $Deus in adjutorium
 &Alleluia
 
@@ -28,7 +24,7 @@ $Deus in adjutorium
 #Capitulum Responsorium Versus
 !Jer 14:9
 v. Tu autem in nobis es, Dómine, et nomen sanctum tuum invocátum est super nos: ne derelínquas nos, Dómine, Deus noster. 
-R. Deo grátias.
+$Deo gratias
 _
 R.br. In manus tuas, Dómine, * Comméndo spíritum meum. 
 R. In manus tuas, Dómine, * Comméndo spíritum meum. 
@@ -48,8 +44,8 @@ Ant. {::}Salva nos, Dómine, vigilántes, custódi nos dormiéntes;  ut vigilém
 
 #Preces Dominicales
 v. Kyrie eléison. Christe eléison. Kyrie, eléison.
-&pater_noster
-$Credo
+$Pater secreto
+$Credo secreto
 V. Benedíctus es, Dómine, Deus patrum nostrórum. 
 R. Et laudábilis et gloriósus in sǽcula.
 V. Benedicámus Patrem et Fílium cum Sancto Spíritu. 
@@ -81,7 +77,8 @@ R. Amen.
 
 &antiphona_finalis
 &Divinum_auxilium
-!Pater noster, Ave Marie et Credo totum secreto
+
+/:Pater noster, Ave Maria et Credo totum secreto:/
 $Pater noster
 $Ave Maria
 $Credo

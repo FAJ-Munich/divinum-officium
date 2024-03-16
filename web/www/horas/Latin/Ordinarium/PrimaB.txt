@@ -1,7 +1,10 @@
 #Incipit
+/:secreto:/
 $Pater noster
 $Ave Maria
 $Credo
+_
+/:Deinde, clara voce, dicitur Versus::/
 $Deus in adjutorium
 &Alleluia
 
@@ -95,7 +98,7 @@ V. Pretiósa in conspéctu Dómini.
 R. Mors Sanctórum ejus.
 v. Sancta María et omnes Sancti intercédant pro nobis ad Dóminum, ut nos mereámur ab eo adjuvári et salvári, qui vivit et regnat in sǽcula sæculórum.
 R. Amen.
-
+_
 V. Deus in adjutórium meum inténde.
 R. Dómine, ad adjuvándum me festína.
 V. Deus in adjutórium meum inténde.
@@ -103,7 +106,7 @@ R. Dómine, ad adjuvándum me festína.
 V. Deus in adjutórium meum inténde.
 R. Dómine, ad adjuvándum me festína.
 &Gloria
-_
+
 $MLitany2
 V. Réspice in servos tuos, Dómine, et in ópera tua, et dírige fílios eórum.
 R. Et sit splendor Dómini Dei nostri super nos, et ópera mánuum nostrárum dírige super nos, et opus mánuum nostrárum dírige.
@@ -126,4 +129,6 @@ V. Benedícite.
 R. Deus.
 V. Dóminus nos benedícat, + et ab omni malo deféndat, et ad vitam perdúcat ætérnam. Et fidélium ánimæ per misericórdiam Dei requiéscant in pace.
 R. Amen.
+
+/:Deinde dicitur tantum « Pater Noster » secreto, nisi sequatur alia Hora.:/
 $Pater noster

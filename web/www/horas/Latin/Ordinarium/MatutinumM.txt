@@ -9,6 +9,8 @@ $Deus in adjutorium
 &Alleluia
 _
 &Domine_labia
+&Domine_labia
+&Domine_labia
 _
 &psalm(3)
 

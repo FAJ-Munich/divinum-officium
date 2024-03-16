@@ -1,6 +1,9 @@
 #Incipit
+/:still:/
 $Pater noster
 $Ave Maria
+_
+/:im Anschluß mit hörbarer Stimme::/
 $Deus in adjutorium
 &Alleluia
 
@@ -14,11 +17,11 @@ $Deus in adjutorium
 $MLitany2
 _
 V. O Herr, du mächtiger Gott, wend' unsre Lage.
-R. Und zeige uns dein Antlitz, dass wir Heil erhalten.
+R. Und zeige uns dein Antlitz, daß wir Heil erhalten.
 V. Auf, Christus, sei unser Beistand.
 R. Und mach uns frei um deinetwillen.
 V. O Herr, erhöre mein Gebet.
-R. Und lass mein Rufen zu dir kommen.
+R. Und laß mein Rufen zu dir kommen.
 
 #Oratio
 
@@ -26,4 +29,6 @@ R. Und lass mein Rufen zu dir kommen.
 &Dominus_vobiscum
 &Benedicamus_Domino
 $Fidelium animae
+
+/:Falls sich keine weitere Hore anschließt, ganz im Stillen::/
 $Pater noster

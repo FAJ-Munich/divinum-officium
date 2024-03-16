@@ -1,7 +1,10 @@
 #Incipit
+/:secreto:/
 $Pater noster
 $Ave Maria
 $Credo
+_
+/:Deinde, clara voce, dicitur Versus::/
 $Domine labia
 $Deus in adjutorium
 &Alleluia

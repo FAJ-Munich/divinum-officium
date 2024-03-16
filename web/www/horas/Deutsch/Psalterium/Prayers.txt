@@ -218,6 +218,8 @@ $Kyrie
 $Pater secreto
 
 [Divinum auxilium]
+(Rubrica monastica)
+/:Falls man aus dem Chorraum herabsteige, beschließt man es mit den Worten::/
 Die Hilfe Gottes + möge ständig bei uns bleiben.
 Amen.
 

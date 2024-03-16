@@ -1,4 +1,5 @@
 #Incipit
+/:secreto:/
 $Pater noster
 $Ave Maria
 $Credo

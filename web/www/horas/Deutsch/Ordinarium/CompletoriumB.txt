@@ -79,6 +79,8 @@ R. Amen.
 
 &antiphona_finalis
 &Divinum_auxilium
+
+/:ganz im Stillen:/
 $Pater noster
 $Ave Maria
 $Credo

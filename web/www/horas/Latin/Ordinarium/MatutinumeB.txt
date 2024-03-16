@@ -2,20 +2,12 @@
 $Pater noster
 $Ave Maria
 $Credo
-_
-$Domine labia
-_
-&psalm(3)
-
-#Invitatorium
-
-#Hymnus
 
 #Psalmi cum lectionibus
 
-#Oratio
-
 !Reliqua omittuntur, nisi %Laudes% separandae sint.
+
+#Oratio
 
 #Conclusio
 &Dominus_vobiscum

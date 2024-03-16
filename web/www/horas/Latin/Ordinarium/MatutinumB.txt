@@ -3,8 +3,10 @@ $Pater noster
 $Ave Maria
 $Credo
 _
+/:Deinde, clara voce, dicitur Versus::/
 $Deus in adjutorium
 &Alleluia
+_
 $Domine labia
 $Domine labia
 $Domine labia
@@ -17,9 +19,9 @@ _
 
 #Psalmi cum lectionibus
 
-#Oratio
-
 !Reliqua omittuntur, nisi %Laudes% separandae sint.
+
+#Oratio
 
 #Conclusio
 &Dominus_vobiscum
