@@ -1,6 +1,9 @@
 #Incipit
+/:secreto:/
 $Pater noster
 $Ave Maria
+_
+/:Deinde, clara voce, dicitur Versus::/
 $Deus in adjutorium
 &Alleluia
 
@@ -16,4 +19,6 @@ $Deus in adjutorium
 &Dominus_vobiscum
 &Benedicamus_Domino
 $Fidelium animae
+
+/:Deinde dicitur tantum « Pater Noster » secreto, nisi sequatur alia Hora.:/
 $Pater noster
