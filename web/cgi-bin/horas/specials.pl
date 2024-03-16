@@ -1088,7 +1088,6 @@ sub antetpsalm {
   my @p = split(';', $line[1]);
 
   for (my $i = 0; $i < @p; $i++) {
-    if ($expand =~ /(psalms|all)/i && $i > 0) { push(@s, "\_"); }
     $p = $p[$i];
     $p =~ s/[\(\-]/\,/g;
     $p =~ s/\)//;

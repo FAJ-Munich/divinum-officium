@@ -8,7 +8,8 @@ Brüder, seid umsichtig und haltet Wache, weil euer Feind, der Teufel, wie ein L
 $Tu autem
 
 $Adjutorium nostrum
-!Pater noster quod dicitur totum secreto.
+_
+!Gewissenserforschung oder Vater unser (ganz im Stillen)
 $Pater noster
 $ConfiteorM
 $Misereatur

@@ -84,7 +84,8 @@ sub invitatorium {
       s/&Gloria/\&Gloria2/;
 			s/v\. .* \^ (.)/v. \u\1/m;
 			s/\$ant2\s*(?=\$)//s;
-		} elsif (!$w && $dayofweek == 1 && $dayname[0] =~ /(Epi|Pent|Quadp)/i && $winner =~ /Tempora/) { 
+		} elsif (!$w && $dayofweek == 1 && $winner =~ /Tempora/
+				&& ($dayname[0] =~ /(Epi|Pent|Quadp)/i || ($dayname[0] =~ /Quad/i && $version =~ /Trident|Monastic/i))) { 
 			# old Invitatorium4
 			s/^v\. .* \+ (.)/v. \u\1/m;
 		}
@@ -1104,6 +1105,9 @@ sub lect1960 {
 		if ($i == 0) { $i = 3; }
 	}
 	my $w = lectio(1, $lang);
+	if (!$w) { $w = $w{'Lectio1'}; }
+	if (!$w) { $w = $s{'Lectio1'}; }
+	
 	if ($w =~ $evan_regexp) { $i = 3; }
 	my @a = split("\n", $benedictio{"Nocturn $i"});
 	
@@ -1123,9 +1127,7 @@ sub lect1960 {
 	if ($rule =~ /Ipsa Virgo Virginum/i || $winner{Rank} =~ /Mari\w*\b\s*Virgin/i) { $a[3] = $a[10]; }
 	if ($rule =~ /Quorum Festum/i && !$divaux) { $a[3] = $a[7]; }
 	if ($rule =~ /Quarum Festum/i && !$divaux) { $a[3] = $a[9]; }
-	$w = $w{'Lectio1'};
-	if (!$w) { $w = $s{'Lectio1'}; }
-	
+
 	if ($w =~ $evan_regexp) {
 		$a[2] = $benedictio{Evangelica};
 	} else {

@@ -8,7 +8,8 @@ v. Fratres: Sóbrii estóte, et vigiláte: quia adversárius vester diábolus ta
 $Tu autem
 
 $Adjutorium nostrum
-!Pater noster quod dicitur totum secreto.
+_
+!Examen conscientiæ vel Pater Noster totum secreto.
 $Pater noster
 $ConfiteorM
 $Misereatur

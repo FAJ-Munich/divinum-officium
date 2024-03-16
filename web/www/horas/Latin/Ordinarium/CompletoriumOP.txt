@@ -86,5 +86,4 @@ _
 $Oremus
 v. Concede, quaesumus omnipotens Deus, ut qui peccatorum nostrorum pondere premimur, beati Dominici confessoris tui Patris nostri patrocinio sublevemur. Per Christium Dominum Nostrum. Amen.
 _
-V. Fidelium animae per misericodriam Dei requescant in pace. 
-R. Amen. 
+$Fidelium animae

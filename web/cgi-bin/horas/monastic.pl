@@ -192,6 +192,7 @@ sub psalmi_matutinum_monastic {
 	# In case of Matins of 3 nocturns with 12 lessons:
 	if ($winner{Rule} =~ /12 lectiones/ || ((($rank >= 4 && $version =~ /divino/i) || ($rank >= 2 && $version =~ /trident/i)) && $dayname[1] !~ /feria|sabbato|infra octavam/i)) {
 		lectiones(2, $lang);                                # lessons 5 – 8
+
 		# Prepare 3rd nocturn canticles (sub una antiphona)
 		my ($ant, $p) = split(/;;/, $psalmi[16]);
 		my %w = (columnsel($lang)) ? %winner : %winner2;
@@ -207,15 +208,12 @@ sub psalmi_matutinum_monastic {
 		
 		postprocess_ant($ant, $lang);
 		
-		# insert canticles as single entries in psalmi
-		my @p = split(';', $p);
-		$psalmi[16] = $ant . ';;' . shift @p;
-		splice(@psalmi, 17, 0, map { ';;' . $_ } @p);
+		$psalmi[16] = $ant . ';;' . $p;
 		
-		nocturn(3, $lang, \@psalmi, (16..20));
+		nocturn(3, $lang, \@psalmi, (16..18));
 		lectiones(3, $lang);            # Homily with responsories #9-#12
 		push(@s, '&teDeum', "\n");      # Te Deum comes after the 12th responsory only
-		
+
 		my @e;
 		if (exists($w{LectioE})) {    #** set evangelium
 			@e = split("\n", $w{LectioE}); }
@@ -251,17 +249,12 @@ sub psalmi_matutinum_monastic {
 	
 	# end 2nd nocturn in ferial office
 	my ($w, $c) = getproprium('MM Capitulum', $lang, 0, 1);
-	my %s = %{setupstring($lang, 'Psalterium/Matutinum Special.txt')};
-	
+
 	if (!$w && $commune) {
-		if ($commune =~ /(C\d+)/) {
-			$w = $s{"MM Capitulum $1"};
-		} else {
-			my %c = (columnsel($lang)) ? %commune : %commune2;
-			$w = $c{"MM Capitulum"};
-		}
+		my %c = (columnsel($lang)) ? %commune : %commune2;
+		$w = $c{"MM Capitulum"};
 	}
-	
+
 	if (!$w) {
 		my $name = "";
 		if ($dayname[0] =~ /(Adv|Nat|Epi1|Quad|Pasc)/i) {
@@ -270,6 +263,7 @@ sub psalmi_matutinum_monastic {
 			if ($name eq ' Nat' && $day > 6 && $day < 13) { $name = ' Epi'; }
 			if ($name eq ' Epi1') { $name = ($day > 6 && $day < 13) ? ' Epi' : ''; }
 		}
+		my %s = %{setupstring($lang, 'Psalterium/Matutinum Special.txt')};
 		$w = $s{"MM Capitulum$name"};
 	}
 	postprocess_vr($w,$lang) if ($dayname[0] =~ /Pasc/);

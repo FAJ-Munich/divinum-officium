@@ -10,7 +10,8 @@ Whom resist ye, strong in faith.
 $Tu autem
 
 $Adjutorium nostrum
-!The Our Father is said silently.
+_
+!There follows an examination of conscience, or the Our Father said silently.
 $Pater noster
 $ConfiteorM
 $Misereatur
