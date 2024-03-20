@@ -1,4 +1,20 @@
 *January*
+01-00=01-00=Sanctissimi Nominis Iesu=5=
+01-01=01-01=In Circumcisione Domini=5=
+01-02=01-02=In Octava Sancti Stephani=1=
+01-03=01-03=In Octavam S. Joannis=1=
+01-04=01-04=In Octava Ss. Innocentium=1=
+01-05=01-05=Vigilia Epiphaniae=5=S. Telesphori Papae et Martyris=1=
+01-06=01-06=Epiphaniae Domini=6=
+01-07=01-07=Secunda die infra Octavam Epiphaniae=2=
+01-08=01-08=Tertia die infra Octavam Epiphaniae=2=
+01-09=01-09=Quarta die infra Octavam Epiphaniae=2=
+01-10=01-10~01-10cc=Quinta die infra Octavam Epiphaniae=2=
+01-11=01-11=Sexta die infra Octavam Epiphaniae=2=S. Hygini Papæ et Martyris=1=
+01-12=01-12=Septima die infra Octavam Epiphaniae=2=
+01-13=01-13=Die Octava Epiphaniae=4=
+01-23=01-23=S. Emerentianae Virginis et Martyris=1=
+*November*
 11-01=11-01=Omnium Sanctorum=6=
 11-25=11-25=S. Catharinæ Virg. et Mart.=1=
 *December*
