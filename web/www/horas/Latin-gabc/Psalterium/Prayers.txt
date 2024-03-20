@@ -48,15 +48,26 @@ R. Et lux perpétua * lúceat eis.
 
 [Alleluia]
 {(c3) Al(h)le(i)lú(hg~){ia}.(g.) (::)}
-{(c3) Laus(h) ti(h)bi(h) Dó(h)mi(h)ne(h'_) Rex(h) æ(h)tér(h)næ(i) gló(h')ri(h)ae.(g.) (::)}
+{(c3) Laus(h) ti(h)bi(h) Dó(h)mi(h)ne(h'_) Rex(h) æ(h)tér(h)næ(i) gló(h')ri(h)æ.(g.) (::)}
 
 [Alleluia] (rubrica monastica)
 {(c3) Al(h)le(hi)lú(h.){ia}.(h.) (::)}
 {(c3) Laus(h) ti(h)bi(h) Dó(h)mi(h)ne(h'_) (,) Rex(h) æ(h)tér(hi)næ(h) gló(h')ri(h)æ.(h.) (::)}
 
-[Alleluia] (tonus solemnis)
-v. Allelúja.
-v. Laus tibi, Dómine, Rex ætérnæ glóriæ.
+[Alleluia1]
+@:Alleluia
+
+[Alleluia1] (rubrica monastica)
+{(c4) Al(h)le(hi)lú(hg~){ia}.(g.) (::)}
+{(c4) Laus(h) ti(h)bi(h) Dó(h)mi(h)ne(h'_) (,) Rex(h) æ(h)tér(hi)næ(h) gló(h)ri(hg)æ.(g.) (::)}
+
+[Alleluia2]
+{(c4) Al(h)le(ixi)lú(hg~){ia}.(g.) (::)}
+{(c4) Laus(h) ti(h)bi(h) Dó(h)mi(h)ne(h'_) Rex(h) æ(h)tér(h)næ(ixi) gló(h')ri(h)æ.(g.) (::)}
+
+[Alleluia2] (rubrica monastica)
+{(c4) Al(h)le(hixi)lú(hg~){ia}.(g.) (::)}
+{(c4) Laus(h) ti(h)bi(h) Dó(h)mi(h)ne(h'_) (,) Rex(h) æ(h)tér(hixi)næ(h) gló(h)ri(hg)æ.(g.) (::)}
 
 [Dominus]
 V. Dóminus vobíscum.
@@ -88,16 +99,17 @@ V. Dómine, lábia ++ mea apéries.
 R. Et os meum annuntiábit laudem tuam.
 
 [Deus in adjutorium]
-{(c3) DE(h)us(h'_) ^✠^(,) in(h) ad(h)ju(h)tó(i)ri(h)um(h) me(h)um(h'_) in(h)tén(g)de.(h.) (::) <sp>R/</sp>. Dó(h)mi(h)ne(h'_) (,) ad(h) ad(h)ju(h)ván(h)dum(h) me(h'_) fe(h)stí(g)na.(h.) (:) Gló(h)ri(h)a(h) Pa(h)tri,(h) et(h) Fí(h)li(h)o,(h'_) (,) et(h) Spi(h)rí(h)tu(h)i(h) San(g)cto.(h.) (:) Sic(h)ut(h) e(h)rat(h) in(h) prin(h)cí(h)pi(h)o,(h) et(h) nunc,(h) et(h) sem(h)per,(h.) (,) et(h) in(h) saé(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(h) A(g)men.(h.) (::)}
+{(c3) DE(h)us(h'_) ^✠^(,) in(h) ad(h)ju(h)tó(i)ri(h)um(h) me(h)um(h'_) in(h)tén(g)de.(h.) (::) <sp>R/</sp>. Dó(h)mi(h)ne(h'_) (,) ad(h) ad(h)ju(h)ván(h)dum(h) me(h'_) fe(h)stí(g)na.(h.) (:) Gló(h)ri(h)a(h) Pa(h)tri,(h) et(h) Fí(h)li(h)o,(h'_) (,) et(h) Spi(h)rí(h)tu(h)i(h) San(g)cto.(h.) (:) Sic(h)ut(h) e(h)rat(h) in(h) prin(h)cí(h)pi(h)o,(h) et(h) nunc,(h) et(h) sem(h)per,(h.) (,) et(h) in(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(h) A(g)men.(h.) (::)}
+(sed rubrica monastica)
+{(c3) DE(h)us(h'_) ^✠^(,) in(h) ad(h)ju(h)tó(hi)ri(h)um(h) me(h)um(h'_) in(h)tén(h)de.(h.) (::) <sp>R/</sp>. Dó(h)mi(h)ne(h'_) (,) ad(h) ad(h)ju(h)ván(h)dum(h) me(h'_) fes(h)tí(h)na.(h.) (:) Gló(h)ri(h)a(h) Pa(h)tri,(h) et(h) Fí(h)li(h)o,(h'_) (,) et(h) Spi(h)rí(h)tu(h)i(h) San(h)cto.(h.) (:) Sic(h)ut(h) e(h)rat(h) in(h) prin(h)cí(h)pi(h)o,(h) et(h) nunc,(h) et(h) sem(h)per,(h'_) (,) et(h) in(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(h) A(h)men.(h.) (::)}
 
-[Deus in adjutorium] (rubrica monastica)
-{(c3) DE(h)us(h'_) ^✠^(,) in(h) ad(h)ju(h)tó(hi)ri(h)um(h) me(h)um(h'_) in(h)tén(h)de.(h.) (::) <sp>R/</sp>. Dó(h)mi(h)ne(h'_) (,) ad(h) ad(h)ju(h)ván(h)dum(h) me(h'_) fes(h)tí(h)na.(h.) (:) Gló(h)ri(h)a(h) Pa(h)tri,(h) et(h) Fí(h)li(h)o,(h'_) (,) et(h) Spi(h)rí(h)tu(h)i(h) San(h)cto.(h.) (:) Sic(h)ut(h) e(h)rat(h) in(h) prin(h)cí(h)pi(h)o,(h) et(h) nunc,(h) et(h) sem(h)per,(h'_) (,) et(h) in(h) saé(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(h) A(h)men.(h.) (::)}
+[Deus in adjutorium1]
+{(c3) DE(h)us(h'_) ^✠^(,) in(h) ad(h)ju(h)tó(hi)ri(h)um(h) me(h)um(h'_) in(h)tén(gh)de.(h.) (::) <sp>R/</sp>. Dó(h)mi(h)ne(h'_) (,) ad(h) ad(h)ju(h)ván(h)dum(h) me(h'_) fe(h)stí(gh)na.(h.) (:) Gló(h)ri(h)a(h) Pa(h)tri,(h) et(h) Fí(h)li(h)o,(h'_) (,) et(h) Spi(h)rí(h)tu(h)i(h) San(gh)cto.(h.) (:) Sic(h)ut(h) e(h)rat(h) in(h) prin(h)cí(h)pi(h)o,(h) et(h) nunc,(h) et(h) sem(h)per,(h.) (,) et(h) in(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(h) A(gh)men.(h.) (::)}
+(sed rubrica monastica)
+{(c4) DE(h)us(h'_) ^✠^(,) in(h) ad(h)ju(h)tó(hi)ri(h)um(h) me(h)um(h'_) in(g)tén(gh)de.(h.) (::) <sp>R/</sp>. Dó(h)mi(h)ne(h'_) (,) ad(h) ad(h)ju(h)ván(h)dum(h) me(h'_) fes(g)tí(gh)na.(h.) (:) Gló(h)ri(h)a(h) Pa(h)tri,(h) et(h) Fí(h)li(g)o,(g'_) (,) et(g) Spi(h)rí(h)tu(h)i(g) San(gh)cto.(h.) (:) Sic(h)ut(h) e(h)rat(h) in(h) prin(h)cí(h)pi(h)o,(h) et(h) nunc,(h) et(h) sem(h)per,(g'_) (,) et(g) in(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(g) A(gh)men.(h.) (::)}
 
-[Deus in adjutorium] (tonus solemnis)
-V. Deus + in adjutórium meum inténde.
-R. Dómine, ad adjuvándum me festína.
-v. Glória Patri, et Fílio, * et Spirítui Sancto.
-Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.
+[Deus in adjutorium2]
+{(c4) DE(f)us(g_[uh:l]h) ^✠^(,) in(h) ad(h)ju(h)tó(h)ri(h)um(h) me(ixg!hwi)um(h) in(h)tén(hg)de.(gh..) (::) <sp>R/</sp>. Dó(f)mi(gh)ne(h'_) (,) ad(h) ad(h)ju(h)ván(h)dum(h) me(ixg!hwi) fe(h)stí(hg)na.(gh..) (:) Gló(f)ri(gh)a(h) Pa(h)tri,(h) et(h) Fí(h)li(h)o,(h'_) (,) et(h) Spi(h)rí(ixg!hwi)tu(h)i(h) San(hg)cto.(gh..) (:) Sic(f)ut(gh) e(h)rat(h) in(h) prin(h)cí(h)pi(h)o,(h'_) (,) et(h) nunc,(ixg!hwi) et(h) sem(hg)per,(gh..) (;) et(h) in(h) saé(h)cu(h)la(h) sae(h)cu(h)ló(h)rum.(ixi) A(h)men.(g.) (::)}
 
 [Tu autem]
 V. Tu autem, Dómine, miserére nobis.
@@ -119,6 +131,8 @@ R. Deo grátias, allelúja, allelúja.
 {initial-style:0;%%(c3) R/. De(h)o(h) grá(f)ti(e)as.(ef..) (::)}
 
 [Fidelium animae]
+{initial-style: 0;%%(c3) V/. Fi(e)dé(e)li(e)um(e) á(e)ni(e)mæ(e) per(e) mi(e)se(e)ri(e)cór(e)di(e)am(e) De(e)i(e) re(e)qui(e)é(e)scant(e) in(e) pa(e)ce.(e) (::) R/.() A(e)men.(e) (::)}
+(Sed rubrica monastica)
 {initial-style: 0;%%(c4) V/. Fi(d)dé(d)li(d)um(d) á(d)ni(d)mæ(d) per(d) mi(d)se(d)ri(d)cór(d)di(d)am(d) De(d)i(d) re(d)qui(d)é(d)scant(d) in(d) pa(d)ce.(d) (::) R/.() A(d)men.(d) (::)}
 
 [Per Dominum]
