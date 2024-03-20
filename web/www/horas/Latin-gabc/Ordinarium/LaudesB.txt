@@ -3,10 +3,10 @@
 $Pater noster
 $Ave Maria
 
-$Deus in adjutorium
+&Deus_in_adjutorium
 &Alleluia
 
-&psalm(66)
+&psalm('66,in-dir-monasticus')
 
 #Psalmi
 
@@ -51,7 +51,7 @@ R. Et de Sion tuére eos.
 V. Dómine, exáudi oratiónem meam.
 R. Et clamor meus ad te véniat.
 
-&psalm(129) 
+&psalm('129,in-dir-monasticus') 
 
 V. Dómine, Deus virtútum, convérte nos.
 R. Et osténde fáciem tuam, et salvi érimus.

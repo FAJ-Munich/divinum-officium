@@ -39,11 +39,10 @@ R. Sub umbra alárum tuárum prótege nos.
 #Canticum Nunc dimittis
 Ant. Salva nos
 &canticum(3)
-&Gloria
 Ant. {::}Salva nos, Dómine, vigilántes, custódi nos dormiéntes;  ut vigilémus cum Christo, et requiescámus in pace.
 
 #Preces Dominicales
-v. Kyrie eléison. Christe eléison. Kyrie, eléison.
+$Kyrie
 $Pater secreto
 $Credo secreto
 V. Benedíctus es, Dómine, Deus patrum nostrórum. 

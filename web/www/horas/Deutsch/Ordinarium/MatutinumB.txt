@@ -1,8 +1,10 @@
 #Incipit
+/:still:/
 $Pater noster
 $Ave Maria
 $Credo
-_
+
+/:In Anschluß mit hörbarer Stimme::/
 $Deus in adjutorium
 &Alleluia
 $Domine labia
@@ -25,4 +27,6 @@ _
 &Dominus_vobiscum
 &Benedicamus_Domino
 $Fidelium animae
+
+/:still:/
 $Pater noster

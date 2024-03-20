@@ -1,8 +1,21 @@
 #Incipit
-/:secreto:/
 $Pater noster
 $Ave Maria
 $Credo
+
+/:Deinde, clara voce, dicitur Versus::/
+&Deus_in_adjutorium
+&Alleluia
+_
+$Domine labia
+$Domine labia
+$Domine labia
+_
+&psalm(3)
+
+#Invitatorium
+
+#Hymnus
 
 #Psalmi cum lectionibus
 

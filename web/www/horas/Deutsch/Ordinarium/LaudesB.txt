@@ -15,12 +15,11 @@ $Deus in adjutorium
 #Canticum Benedictus
 &ant_Benedictus(1)
 &canticum(1)
-&Gloria
 &ant_Benedictus(2)
 
 #Preces Feriales
-v. Kyrie, eleison. Christe, eleison. Kyrie, eleison.
-&pater_noster
+$Kyrie
+$Pater secreto
 V. Ach, ich klage, Herr, erbarme dich meiner.
 R. Heile meine Seele, denn ich habe gegen dich gesündigt.
 V. Wende dich uns zu, o Herr, wie lange willst du zögern?

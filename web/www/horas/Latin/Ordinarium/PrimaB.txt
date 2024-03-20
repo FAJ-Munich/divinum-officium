@@ -3,7 +3,7 @@
 $Pater noster
 $Ave Maria
 $Credo
-_
+
 /:Deinde, clara voce, dicitur Versus::/
 $Deus in adjutorium
 &Alleluia

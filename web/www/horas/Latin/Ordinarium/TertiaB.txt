@@ -2,7 +2,7 @@
 /:secreto:/
 $Pater noster
 $Ave Maria
-_
+
 /:Deinde, clara voce, dicitur Versus::/
 $Deus in adjutorium
 &Alleluia

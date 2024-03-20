@@ -1,21 +1,20 @@
 #Incipit
-/:Si Matutinum a Laudibus separatur, tunc dicitur secreto::/
+/:secreto:/
 $Pater noster
 $Ave Maria
 
-$Deus in adjutorium
+/:Deinde, clara voce, dicitur Versus::/
+&Deus_in_adjutorium
 &Alleluia
-
-&psalm(66)
 
 #Psalmi
 
 #Capitulum Responsorium Hymnus Versus
 
-#Canticum Benedictus
-&ant_Benedictus(1)
-&canticum(1)
-&ant_Benedictus(2)
+#Canticum Magnificat
+&ant_Magnificat(1)
+&canticum(2)
+&ant_Magnificat(2)
 
 #Preces Feriales
 $Kyrie
@@ -51,7 +50,7 @@ R. Et de Sion tuére eos.
 V. Dómine, exáudi oratiónem meam.
 R. Et clamor meus ad te véniat.
 
-&psalm(129) 
+&psalm('50,in-dir-monasticus') 
 
 V. Dómine, Deus virtútum, convérte nos.
 R. Et osténde fáciem tuam, et salvi érimus.
@@ -69,12 +68,5 @@ R. Et clamor meus ad te véniat.
 &Benedicamus_Domino
 $Fidelium animae
 
-/:secreto:/
+/:Et si tunc terminetur Officium, dicitur tantum « Pater Noster » secreto.:/
 $Pater noster
-
-V. Dóminus det nobis suam pacem.
-R. Et vitam ætérnam. Amen.
-_
-&antiphona_finalis
-V. Divínum auxílium + máneat semper nobíscum.
-R. Amen.

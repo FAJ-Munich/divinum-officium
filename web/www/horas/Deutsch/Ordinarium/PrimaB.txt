@@ -3,7 +3,7 @@
 $Pater noster
 $Ave Maria
 $Credo
-_
+
 /:im Anschluß mit hörbarer Stimme::/
 $Deus in adjutorium
 &Alleluia
@@ -26,9 +26,9 @@ V. Auf, Christus, sei unser Beistand.
 R. Und mach uns [vom Übel] frei um deinetwillen.
 
 #Preces Dominicales et Feriales
-v. O Herr, sei gnädig. O Christus, sei gnädig. O Herr, sei gnädig.
-&pater_noster
-$Credo
+$Kyrie
+$Pater secreto
+$Credo secreto
 V. Und nun rufe ich zu dir, o Herr.
 R. Und am Morgen trifft dich früh mein Fleh'n.
 V. Voll möge mein Mund von deinem Lobe werden.
@@ -69,8 +69,7 @@ V. Der dein Verlangen mit Gutem erfüllt.
 R. Daß deine Jugend wie die des Adlers sich erneuert.
 
 #Preces Dominicales et Feriales
-V. Von der Majestät des Herrn + erwarten wir die uns so nötige Hilfe.
-R. Der gemacht den Himmel und die Erde.
+$Adjutorium nostrum
 $Confiteor
 $Misereatur
 $Indulgentiam
