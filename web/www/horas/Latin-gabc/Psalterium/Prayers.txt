@@ -120,12 +120,16 @@ V. Tu autem, Dómine, miserére nostri.
 R. Deo grátias.
 
 [Benedicamus Domino]
-V. Benedicámus Dómino.
-R. Deo grátias.
+{initial-style:0;%%(c3) V/. Be(h)ne(h)di(h)cá(hi)mus(i') Dó(i)mi(i)no(iHG.) (::)} 
+{initial-style:0;%%(c3) R/. De(i)o(i') grá(i)ti(i)as(iHG.) (::)}
+
+[Benedicamus Domino] (rubrica monastica)
+{initial-style:0;%%(c3) V/. Be(h)ne(h)di(h)cá(h)mus(h') Dó(f)mi(ef)no(f.) (::)} 
+{initial-style:0;%%(c3) R/. De(h)o(h') grá(f)ti(ef)as(f.) (::)}
 
 [Benedicamus Domino1]
-V. Benedicámus Dómino, allelúja, allelúja.
-R. Deo grátias, allelúja, allelúja.
+{initial-style:0;%%(c4) V/. Be(g)ne(g)di(g)cá(g)mus(g) Dó(g')mi(g)no,(h.) (,) al(g)le(f)lú(gh~)ia,(h_') (,) al(h)le(gjIH'G)lú(fgh)ia.(h.g.) (::)}
+{initial-style:0;%%(c4) R/. De(g)o(g) grá(g')ti(g)as,(h.) (,) al(g)le(f)lú(gh~)ia,(h_') (,) al(h)le(gjIH'G)lú(fgh)ia.(h.g.) (::)}
 
 [Deo gratias]
 {initial-style:0;%%(c3) R/. De(h)o(h) grá(f)ti(e)as.(ef..) (::)}
@@ -316,7 +320,7 @@ R. Et de Sion tuére eos.
 
 (sed rubrica tridentina dicuntur)
 @:Dominus:3-4
-&psalm(129) 
+&psalm('129,in-directum') 
 
 (deinde dicuntur)
 V. Dómine, Deus virtútum, convérte nos.

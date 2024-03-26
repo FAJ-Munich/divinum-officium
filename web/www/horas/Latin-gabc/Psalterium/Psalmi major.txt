@@ -387,22 +387,22 @@ Et omnis * mansuetúdinis ejus;;131
 Ecce quam bonum, * et quam jucúndum, habitáre fratres in unum!;;132
 
 [Daym3 Vespera]
-Ómnia * quæcúmque vóluit, Dóminus fecit;;134
-Quóniam * in ætérnum misericórdia ejus;;135
-Hymnum cantáte nobis * de cánticis Sion;;136
-In conspéctu * Angelórum psallam tibi, Deus meus;;137
+{name:Omnia quaecumque;annotation:3.g;%%(c4)O(g)mni(h)a(hj) *() quæ(ji)cúm(h)que(g) vó(gh)lu(g)it,(g.) (,) Dó(g_f)mi(g)nus(gf) fe(e.)cit.(e.) (::)};;'134,3g'
+{name:Quoniam;annotation:3.g;%%(c4)Quó-(g)ni-(h)am(hj) * in(ji) ae-(h)tér(g>)num(gh) mi-(g)se-(e')ri-(f)cór-(ggf~)di-(gh)a(gf) e-(e.)jus.(e.) (::)};;'135,3g'
+{name:Hymnum cantáte;annotation:8.G;%%(c4) HY(hg~)mnum(f') *() can(g>)tá(g_)te(h') no(g)bis(f.) (,) de(h!iwj) cán(i)ti(jkj)cis(h) Si(hg)on(g.) (::)};;'136,8G'
+{name:In conspéctu;annotation:5.a;%%(c3) IN(f) con(e')spé(f)ctu(e_d) * An(h)ge(h_i)ló(h_g)rum(f'_) (,) psal(f)lam(e') ti(f)bi(ed) De(ef)us(ef) me(d.)us.(d.) (::)};;'137,5'
 
 [Daym4 Vespera]
-Dómine, * probásti me, et cognovísti me;;138(1-10)
-;;138(11-24)
+Dómine, * probásti me, et cognovísti me;;138:1--monastic--
+;;138:2--monastic--
 A viro iníquo * líbera me, Dómine;;139
 Dómine, * clamávi ad te, exáudi me;;140
 
 [Daym5 Vespera]
 Pórtio mea, * Dómine, sit in terra vivéntium;;141
-Benedíctus * Dóminus, Deus meus;;143(1-8)
-;;143(9-15)
-Per síngulos dies * benedícam te, Dómine;;144(1-9)
+Benedíctus * Dóminus, Deus meus;;143:1--monastic--
+;;143:2--monastic--
+Per síngulos dies * benedícam te, Dómine;;144:1--monastic--
 
 [Daym6 Vespera]
 {name:Regnum tuum;office-part:Antiphona;annotation:7c2;book:Antiphonale Monasticum, 1934, p. 160;transcriber:gregofacsimil;%%(c3)RE(h)gnum(h) tu(h_i)um,(i) *() Dó(hi__H_G_)mi(f')ne,(h) re(g_f)gnum(e'_) óm(f>)ni(d)um(f') sæ(h)cu(g)ló(e.)rum.(e.) (::)};;'144:2--monastic--,7c2'

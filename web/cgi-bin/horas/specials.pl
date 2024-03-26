@@ -640,7 +640,8 @@ sub psalmi_minor {
   my $lang = shift;
   my %psalmi = %{setupstring($lang, 'Psalterium/Psalmi minor.txt')};
   my (@psalmi, $ant, $psalms);
-
+	my $psalmTone;
+	
   if ($version =~ /monastic/i) {
     @psalmi = split("\n", $psalmi{Monastic});
     my $i =
@@ -658,6 +659,7 @@ sub psalmi_minor {
     my @a = split(';;', $psalmi[$i]);
     $ant = chompd($a[1]);
     $psalms = chompd($a[2]);
+		if($lang =~ /gabc/i) { $psalmTone = chompd($a[3]); }
   } elsif ($version =~ /trident/i) {
     my $daytype = ($dayofweek == 0) ? 'Dominica' : 'Feria';
     my %psalmlines = split(/\n|=/, $psalmi{Tridentinum});
@@ -800,12 +802,22 @@ sub psalmi_minor {
 
   if ($w{Rule} =~ /Minores sine Antiphona/i) {
     $ant = '';
+		$psalmTone = ($version =~ /monastic/) ? 'in-dir-monasticus' : 'in-directum';
     setbuild2('Sine antiphonae');
   }
+
+	if ($lang =~ /gabc/i) {
+		if ($ant =~ s/;;(.*);;(.*)/;;$1/ ) {
+			$psalmTone = $2;
+			$ant =~ s/;;\s*$//;
+		}
+	}
+	
   if ($ant =~ /(.*?)\;\;/s) { $ant = $1; }
   if ($dayname[0] =~ /Quad/i) { $ant =~ s/[(]*allel[uú][ij]a[\.\,]*[)]*//ig; }
   if ($ant) { $ant = "Ant. $ant"; }
   my @ant = split('\*', $ant);
+	if ($lang =~ /gabc/i && $ant =~ /\{.*\}/) { $ant[0] =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/; }
   postprocess_ant($ant, $lang);
   $ant1 = ($version !~ /196/) ? $ant[0] : $ant;    #difference between 1955 and 1960
   setcomment($label, 'Source', $comment, $lang, $prefix);
@@ -836,7 +848,11 @@ sub psalmi_minor {
     $p =~ s/[\[\]]//g;
     $p =~ s/[\(\-]/\,/g;
     $p =~ s /\)//;
-    push(@s, "\&psalm($p)");
+		if ($lang =~ /gabc/i && $psalmTone) {
+			push (@s, "&psalm(\'$p,$psalmTone\')");
+		} else {
+			push(@s, "\&psalm($p)");
+		}
     push(@s, "\n");
   }
 

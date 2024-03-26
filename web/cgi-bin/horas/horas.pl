@@ -293,15 +293,17 @@ sub Deus_in_adjutorium : ScriptFunc {
 	my $latrank = $latrank[2];
 	
 	if ($lang !~ /gabc/ || $hora !~ /matutinum|laudes|vespera/i || $rank < 2 || $latname =~ /Feria|Sabbato|Vigilia(?! Epi)/i || $latrank < 2) {
+		our $incipitTone = 'ferial';
 		return $prayers{$lang}->{'Deus in adjutorium'};
 	}
-	
-	if ($hora !~ /vespera/i || $rank < (($version =~ /196/) ? 6 : 5) || ($latname =~ /Dominica|In(.*)Octava/i && ($dayname[0] !~ /Pasc[017]|Pent01/i || $dayofweek > 0))) {
-		our $toneType = 'festal';
-		return $prayers{$lang}->{'Deus in adjutorium1'};
+
+	my $toneType = getChantTones();
+	if ($hora !~ /vespera/i || $toneType !~ /solemnis|resurrectionis/i) {
+		our $incipitTone = 'festal';
+		return $prayers{$lang}->{'Deus in adjutorium1'};  # Festal tone
 	} else {
-		our $toneType = 'solemn';
-		return $prayers{$lang}->{'Deus in adjutorium2'};
+		our $incipitTone = 'solemn';
+		return $prayers{$lang}->{'Deus in adjutorium2'};  # Solemn tone
 	}
 }
 
@@ -309,12 +311,13 @@ sub Deus_in_adjutorium : ScriptFunc {
 # return the text Alleluia or Laus tibi
 sub Alleluia : ScriptFunc {
   my $lang = shift;
-  our %prayers;
+  our (%prayers, $incipitTone);
   my $text = $prayers{$lang}->{'Alleluia'};
 	
-	our $toneType;  # filled by &Deus_in_adjutorium, if at all
-	if ($lang =~ /gabc/i && $toneType) {
-		$text = ($toneType =~ /festal/i) ? $prayers{$lang}->{'Alleluia1'} : $prayers{$lang}->{'Alleluia2'};
+	if ($lang =~ /gabc/i && $incipitTone) {
+		$text = ($incipitTone =~ /festal/i) ? $prayers{$lang}->{'Alleluia1'}
+			: ($incipitTone =~ /solemn/i) ?  $prayers{$lang}->{'Alleluia2'}
+			: $text;
 	}
   
   my @text = split("\n", $text);
@@ -342,8 +345,8 @@ sub Alleluia_ant {
 #*** Septuagesima_vesp
 # Determines whether we're saying first Vespers of Septuagesima Sunday.
 sub Septuagesima_vesp {
-  our ($dayofweek, @dayname, $hora);
-  return ($dayofweek == 6 && $dayname[0] =~ /Quadp1/ && $hora =~ /Vespera/i);
+  our ($dayofweek, @dayname, $hora, $vespera, $cwinner);
+  return ($dayofweek == 6 && $hora =~ /Vespera/i && (($vespera == 1 && $dayname[0] =~ /Quadp1/) || ($vespera == 3 && $cwinner =~ /Quadp1\-0/)));
 }
 
 #*** triduum_gloria_omitted
@@ -422,12 +425,19 @@ sub Dominus_vobiscum2 : ScriptFunc {    #* officium defunctorum
 # adds Alleluia, alleluia for Pasc0
 sub Benedicamus_Domino : ScriptFunc {
   my $lang = shift;
-  our %prayers;
-  my $text = $prayers{$lang}->{'Benedicamus Domino'};
-  if (Septuagesima_vesp()) { $text = $prayers{$lang}->{'Benedicamus Domino1'}; }
-  if ($dayname[0] !~ /Pasc0/i || $hora !~ /(Laudes|Vespera)/i) { return $text; }
-  my @text = split("\n", $text);
-  return "$text[0] $prayers{$lang}->{'Alleluia Duplex'}\n$text[1] $prayers{$lang}->{'Alleluia Duplex'}\n";
+  our (%prayers, @dayname, $hora, $vespera);
+
+	my $chantTone = getChantTones();
+	
+	if (Septuagesima_vesp() || ($dayname[0] =~ /Pasc0/i && $hora =~ /(Laudes|Vespera)/i) && ($lang !~ /gabc/i || $chantTone !~ /resurrectionis/i)) {
+			return $prayers{$lang}->{'Benedicamus Domino1'};
+	} elsif ($lang !~ /gabc/i || $hora !~ /(Matutinum|Laudes|Vespera)/i) {
+		return $prayers{$lang}->{'Benedicamus Domino'};
+	}
+	
+	my %benedicamus = %{setupstring($lang, 'Psalterium/Benedicamus.txt')};
+	
+	return ($benedicamus{"$chantTone$vespera"}) || ($benedicamus{"$chantTone"}) || ($prayers{'Latin'}->{'Benedicamus Domino'});
 }
 
 #*** antiphona_finalis

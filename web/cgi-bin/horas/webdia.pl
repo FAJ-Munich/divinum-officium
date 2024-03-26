@@ -504,7 +504,7 @@ sub setcell {
 			}
 			while($text =~ /\{(\(|name:|initial-style:)(.+?)\(\:\:\)\}/is) {
 				$dId++;
-				$text =~ s/\{(\(|name:|initial-style:)/<DIV ID="GABC$searchind$dId" class="GABC">$1/s;
+				$text =~ s/\{(\(|name:|initial-style:)/<DIV ID="GABC$hora$searchind$dId" class="GABC">$1/s;
 				$text =~ s/<i>T.\s?P.<\/i>/\_\^T. P.\^\_ /g;
 			  $text =~ s/<\/?i>/\_/g;
 				$text =~ s/<\/?b>|<v>\\greheightstar<\/v>/*/g;
@@ -522,7 +522,7 @@ sub setcell {
 				$text =~ s/<sp>V\/<\/sp>\.?/V\/\./g;
 				$text =~ s/<sp>R\/<\/sp>\.?/R\/\./g;
 				$text =~ s/<\/?nlba>//g;
-				$text =~ s/\(\:\:\)\}/\(\:\:\)<\/DIV><DIV ID="GCHANT$searchind$dId" class="GCHANT" width="100\%"><\/DIV>/s;
+				$text =~ s/\(\:\:\)\}/\(\:\:\)<\/DIV><DIV ID="GCHANT$hora$searchind$dId" class="GCHANT" width="100\%"><\/DIV>/s;
 				$text =~ s/\_/\|\|/g;
 			}
 		} else {
