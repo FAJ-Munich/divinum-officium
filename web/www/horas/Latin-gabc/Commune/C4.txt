@@ -266,8 +266,7 @@ Amen.
 @:Hymnus Laudes:s/Indúlgeas precántibus/Nostris favéto précibus/ s/Æternitátis prǽmio/Cum Ángelis cæléstibus/ s/Potítur inter Ángelos/Lætus potítur prǽmiis/ s/Nunc, et per omne sǽculum/Et nunc, et in perpétuum/
 
 [Versum 2]
-V. Justum dedúxit Dóminus per vias rectas.
-R. Et osténdit illi regnum Dei.
+{initial-style:0;%%(c3) V/. Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas.(g_0hGF'Efgf.) (::) R/. Et(h) os(h)tén(h)dit(h) il(h)li(h) reg(h)num(h) De(h)i.(g_0hGF'Efgf.) (::)}
 
 [Ant 2]
 Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, dicit Dóminus.

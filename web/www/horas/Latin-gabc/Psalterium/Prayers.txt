@@ -19,7 +19,7 @@ Credo in Spíritum Sanctum, sanctam Ecclésiam cathólicam, Sanctórum communió
 &pater_noster
 
 [Pater totum secreto]
-!« Pater Noster » dicitur totum secreto
+!« Pater Noster » dicitur totum secreto.
 $Pater noster
 
 [Credo secreto]

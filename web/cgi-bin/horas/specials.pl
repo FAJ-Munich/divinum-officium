@@ -1660,9 +1660,13 @@ sub getcommemoratio {
   if (!$v) { $v = getfrompsalterium('Versum', $ind, $lang); }
   if (!$v) { $v = 'versus missing'; }
   postprocess_vr($v, $lang);
+	if ($lang =~/gabc/i) {
+		$v =~ s/\([a-zA-Z0-9\_\.\~\>\<\']+?\) \(::\)/\(f\.\) \(::\)/g; # Change Versicle into the simple tone
+		$v =~ s/\((?:hi|hr|h\_0|fe|f\_h|\,)\)/\(h\)/g; # More changes for solemn Versicle
+	}
   our %prayers;
 	my $w = "!" . &translate("Commemoratio", $lang) . (($lang !~ /latin/i || $wday =~ /tempora/i) ? ':' : ''); # Adding : except for Latin Sancti which are in Genetiv
- $a =~ s/\s*\*\s*/ / unless ($version =~ /Monastic/i);
+  $a =~ s/\s*\*\s*/ / unless ($version =~ /Monastic/i);
   $o =~ s/^(?:v. )?/v. /;
   $w .= " $rank[0]\nAnt. $a\n_\n$v\n_\n\$Oremus\n$o\n";
   return $w;

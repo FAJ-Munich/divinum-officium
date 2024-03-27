@@ -12,21 +12,21 @@ Minores sine Antiphona
 Feria
 
 [Ant Matutinum]
-{name:Zelus domus tuae;office-part:Antiphona;mode:8;book:The Liber Usualis, 1961, p. 626;transcriber:Andrew Hinkley;annotation: 8 c.;%%(c4) ZE(j)lus(j) do(j)mus(j) tu(j_k)æ(ji/jkj') * (`) co(h)mé(j')dit(i) me,(g.) (;) et(f) op(h)pró(j')bri(i)a(g_[uh:l]h) ex(f)pro(h)brán(j')ti(k)um(i') ti(j)bi(h.) (,) ce(h)ci(g)dé(hi)runt(h') su(g)per(fg~) me.(g.) (::)};;'68,8c'
-Avertántur retrórsum, * et erubéscant, qui cógitant mihi mala.;;69
-Deus meus, * éripe me de manu peccatóris.;;70
-V. Avertántur retrórsum, et erubéscant.
-R. Qui cógitant mihi mala.
-Liberávit Dóminus * páuperem a poténte, et ínopem, cui non erat adjútor.;;71
-Cogitavérunt ímpii, * et locúti sunt nequítiam: iniquitátem in excélso locúti sunt.;;72
-Exsúrge, Dómine, * et júdica causam meam.;;73
-V. Deus meus, éripe me de manu peccatóris.
-R. Et de manu contra legem agéntis et iníqui.
-Dixi iníquis: * Nolíte loqui advérsus Deum iniquitátem.;;74
-Terra trémuit * et quiévit, dum exsúrgeret in judício Deus.;;75
-In die tribulatiónis * meæ Deum exquisívi mánibus meis.;;76
-V. Exsúrge, Dómine.
-R. Et júdica causam meam.
+{gabc:tenebrae/an--zelus_domus_tuae--solesmes_1961.1};;'68,8c'
+{gabc:tenebrae/an--avertantur_retrorsum--solesmes_1961};;'69,8c'
+{gabc:tenebrae/an--deus_meus_eripe_me--solesmes_1961.1};;'70,8c'
+{initial-style:0;%%(c4) V/. A(h)ver(h)tán(h)tur(h) re(h)trór(h)sum,(h) et (h) e(i')ru(h)bé(g.)scant.(g.) (::)}
+{initial-style:0;%%(c4) R/. Qui(h) có(h)gi(h)tant(h) mí(i')hi(h) má(g.)la.(g.) (::)}
+{gabc:tenebrae/an--liberavit_dominus};;'71,7c'
+{gabc:tenebrae/an--cogitaverunt_impii};;'72,8c'
+{gabc:tenebrae/an--exsurge_domine_et_judica};;'73,1g'
+{initial-style:0;%%(c4) V/. De(h)us(h) me(h)us,(h) é(h)ri(h)pe(h) me(h) de(h) ma(h)nu(h) pec(i')ca(h)tó(g.)ris.(g.) (::)}
+{initial-style:0;%%(c4) R/. Et(h) de(h) ma(h)nu(h) con(h)tra(h) le(h)gem(h) a(h)gén(h)tis(h) et(i') in(h)í(g.)qui.(g.) (::)}
+{gabc:tenebrae/an--dixi_iniquis};;'74,7c'
+{gabc:tenebrae/an--terra_tremuit};;'75,8c'
+{gabc:tenebrae/an--in_die_tribulationis};;'76,7a'
+{initial-style:0;%%(c4) V/. Ex(h)súr(i')ge,(h) Dó(g')mi(g.)ne.(g.) (::)}
+{initial-style:0;%%(c4) R/. Et(h) jú(h)di(h)ca(h) cau(i')sam(h) me(g.)am.(g.) (::)}
 
 [Lectio1]
 !Lam 1:1-5 
@@ -50,97 +50,58 @@ R. Et júdica causam meam.
 {gabc:tenebrae/re--ecce_vidimus_--solesmes_1961.1}
 
 [Lectio4]
-Ex tractátu sancti Augustíni Epíscopi super Psalmos
 !In Psalmum 54 ad 1 versum
-Exáudi, Deus, oratiónem meam, et ne despéxeris deprecatiónem meam: inténde mihi, et exáudi me. Satagéntis, sollíciti, in tribulatióne pósiti, verba sunt ista. Orat multa pátiens, de malo liberári desíderans. Súperest ut videámus in quo malo sit: et cum dícere cœ́perit, agnoscámus ibi nos esse: ut communicáta tribulatióne, conjungámus oratiónem. Contristátus sum, inquit, in exercitatióne mea, et conturbátus sum. Ubi contristátus? ubi conturbátus? In exercitatióne mea, inquit. Hómines malos, quos pátitur, commemorátus est: eandémque passiónem malórum hóminum exercitatiónem suam dixit. Ne putétis gratis esse malos in hoc mundo, et nihil boni de illis ágere Deum. Omnis malus aut ídeo vivit, ut corrigátur; aut ídeo vivit, ut per illum bonus exerceátur.
+{gabc:tenebrae/lesson-cena-4}
 
 [Responsory4]
-R. Amicus meus ósculi me trádidit signo: Quem osculátus fúero, ipse est, tenéte eum: hoc malum fecit signum, qui per ósculum adimplévit homicídium. 
-* Infélix prætermísit prétium sánguinis, et in fine láqueo se suspéndit.
-V. Bonum erat ei, si natus non fuísset homo ille.
-R. Infélix prætermísit prétium sánguinis, et in fine láqueo se suspéndit.
+{gabc:tenebrae/re--amicus_meus}
 
 [Lectio5]
-Utinam ergo qui nos modo exércent, convertántur, et nobíscum exerceántur: tamen quámdiu ita sunt ut exérceant, non eos odérimus: quia in eo quod malus est quis eórum, utrum usque in finem perseveratúrus sit, ignorámus. Et plerúmque cum tibi vidéris odísse inimícum, fratrem odísti, et nescis. Diábolus, et ángeli ejus in Scriptúris sanctis manifestáti sunt nobis, quod ad ignem ætérnum sint destináti. Ipsórum tantum desperánda est corréctio, contra quos habémus occúltam luctam: ad quam luctam nos armat Apóstolus, dicens: Non est nobis colluctátio advérsus carnem et sánguinem: id est, non advérsus hómines, quos vidétis, sed advérsus príncipes, et potestátes, et rectóres mundi, tenebrárum harum. Ne forte cum dixísset, mundi, intellégeres dǽmones esse rectóres cæli et terræ. Mundi dixit, tenebrárum harum: mundi dixit, amatórum mundi: mundi dixit, impiórum et iniquórum: mundi dixit, de quo dicit Evangélium: Et mundus eum non cognóvit.
+{gabc:tenebrae/lesson-cena-5}
 
 [Responsory5]
-R. Judas mercátor péssimus ósculo pétiit Dóminum: ille ut agnus ínnocens non negávit Judæ ósculum: 
-* Denariórum número Christum Judǽis trádidit.
-V. Mélius illi erat, si natus non fuísset.
-R. Denariórum número Christum Judǽis trádidit.
+{gabc:tenebrae/re--judas_mercator}
 
 [Lectio6]
-Quóniam vidi iniquitátem, et contradictiónem in civitáte. Atténde glóriam crucis ipsíus. Jam in fronte regum crux illa fixa est, cui inimíci insultavérunt. Efféctus probávit virtútem: dómuit orbem non ferro, sed ligno. Lignum crucis contuméliis dignum visum est inimícis, et ante ipsum lignum stantes caput agitábant, et dicébant: Si Fílius Dei est, descéndat de cruce. Extendébat ille manus suas ad pópulum non credéntem, et contradicéntem. Si enim justus est, qui ex fide vivit; iníquus est, qui non habet fidem. Quod ergo hic ait, iniquitátem: perfídiam intéllege. Vidébat ergo Dóminus in civitáte iniquitátem et contradictiónem, et extendébat manus suas ad pópulum non credéntem et contradicéntem: et tamen et ipsos exspéctans dicébat: Pater, ignósce illis, quia nésciunt quid fáciunt.
+{gabc:tenebrae/lesson-cena-6}
 
 [Responsory6]
-R. Unus ex discípulis meis tradet me hódie: Væ illi per quem tradar ego: 
-* Mélius illi erat, si natus non fuísset.
-V. Qui intíngit mecum manum in parópside, hic me traditúrus est in manus peccatórum.
-R. Mélius illi erat, si natus non fuísset.
-&Gloria
-R. Unus ex discípulis meis tradet me hódie: Væ illi per quem tradar ego: * Mélius illi erat, si natus non fuísset.
+{gabc:tenebrae/re--unus_ex_discipulis}
 
 [Lectio7]
-De Epístola prima beáti Pauli Apóstoli ad Corínthios
 !1 Cor 11:17-22
-17 Hoc autem præcípio: non laudans quod non in mélius, sed in detérius convenítis. 
-18 Primum quidem conveniéntibus vobis in Ecclésiam, áudio scissúras esse inter vos, et ex parte credo. 
-19 Nam opórtet et hǽreses esse, ut et qui probáti sunt, manifésti fiant in vobis. 
-20 Conveniéntibus ergo vobis in unum, jam non est Domínicam cenam manducáre.
-21 Unusquísque enim suam cenam præsúmit ad manducándum. Et álius quidem ésurit, álius autem ébrius est. 
-22 Numquid domos non habétis ad manducándum et bibéndum? aut Ecclésiam Dei contémnitis, et confúnditis eos, qui non habent? Quid dicam vobis? Laudo vos? In hoc non laudo.
+{gabc:tenebrae/lesson-cena-7}
 
 [Responsory7]
-R. Eram quasi agnus ínnocens: ductus sum ad immolándum, et nesciébam: consílium fecérunt inimíci mei advérsum me, dicéntes: 
-* Veníte, mittámus lignum in panem ejus, et eradámus eum de terra vivéntium.
-V. Omnes inimíci mei advérsum me cogitábant mala mihi: verbum iníquum mandavérunt advérsum me, dicéntes.
-R. Veníte, mittámus lignum in panem ejus, et eradámus eum de terra vivéntium.
+{gabc:tenebrae/re--eram_quasi_agnus}
 
 [Lectio8]
 !1 Cor 11:23-26
-23 Ego enim accépi a Dómino quod et trádidi vobis, quóniam Dóminus Jesus, in qua nocte tradebátur, accépit panem, 
-24 et grátias agens fregit, et dixit: Accípite, et manducáte: hoc est corpus meum, quod pro vobis tradétur: hoc fácite in meam commemoratiónem. 
-25 Simíliter et cálicem, postquam cœnávit, dicens: Hic calix novum testaméntum est in meo sánguine: hoc fácite, quotiescúmque bibétis, in meam commemoratiónem. 
-26 Quotiescúmque enim manducábitis panem hunc, et cálicem bibétis, mortem Dómini annuntiábitis donec véniat.
+{gabc:tenebrae/lesson-cena-8}
 
 [Responsory8]
-R. Una hora non potuístis vigiláre mecum, qui exhortabámini mori pro me? 
-* Vel Judam non vidétis, quómodo non dormit, sed festínat trádere me Judǽis.
-V. Quid dormítis? súrgite, et oráte, ne intrétis in tentatiónem.
-R. Vel Judam non vidétis, quómodo non dormit, sed festínat trádere me Judǽis.
+{gabc:tenebrae/re--una_hora}
 
 [Lectio9]
 !1 Cor 11:27-34
-27 Itaque quicúmque manducáverit panem hunc, vel bíberit cálicem Dómini indígne, reus erit córporis et sánguinis Dómini. 
-28 Probet autem seípsum homo: et sic de pane illo edat, et de cálice bibat. 
-29 Qui enim mandúcat et bibit indígne, judícium sibi mandúcat et bibit, non dijúdicans corpus Dómini. 
-30 Ideo inter vos multi infírmi et imbecílles, et dórmiunt multi. 
-31 Quod, si nosmetípsos dijudicarémus, non útique judicarémur. 
-32 Dum judicámur autem, a Dómino corrípimur, ut non cum hoc mundo damnémur. 
-33 Itaque, fratres mei, cum convenítis ad manducándum, ínvicem exspectáte. 
-34 Si quis ésurit, domi mandúcet: ut non in judícium conveniátis. Cétera autem, cum vénero, dispónam.
+{gabc:tenebrae/lesson-cena-9}
 
 [Responsory9]
-R. Senióres pópuli consílium fecérunt, 
-* Ut Jesum dolo tenérent, et occíderent: cum gládiis et fústibus exiérunt tamquam ad latrónem.
-V. Collegérunt pontífices et pharisǽi concílium.
-R. Ut Jesum dolo tenérent, et occíderent: cum gládiis et fústibus exiérunt tamquam ad latrónem.
-&Gloria
-R. Senióres pópuli consílium fecérunt, * Ut Jesum dolo tenérent, et occíderent: cum gládiis et fústibus exiérunt tamquam ad latrónem.
+{gabc:tenebrae/re--seniores}
 
 [Ant Laudes]
-Justificéris, Dómine, * in sermónibus tuis, et vincas cum judicáris.
-Dóminus * tamquam ovis ad víctimam ductus est, et non apéruit os suum.
-Contrítum est * cor meum in médio mei, contremuérunt ómnia ossa mea.
-Exhortátus es * in virtúte tua, et in refectióne sancta tua, Dómine.
-Oblátus est * quia ipse vóluit, et peccáta nostra ipse portávit.
+Justificéris, Dómine, * in sermónibus tuis, et vincas cum judicáris.;;'50,8G'
+Dóminus * tamquam ovis ad víctimam ductus est, et non apéruit os suum.;;;;2
+Contrítum est * cor meum in médio mei, contremuérunt ómnia ossa mea.;;;;8G
+Exhortátus es * in virtúte tua, et in refectióne sancta tua, Dómine.;;;;4-alt-Astar
+Oblátus est * quia ipse vóluit, et peccáta nostra ipse portávit.;;;;2
 
 [Versum 2]
-V. Homo pacis meæ, in quo sperávi.
-R. Qui edébat panes meos, ampliávit advérsum me supplantatiónem.
+{initial-style:0;%%(c4) V/. Ho(h)mo(h) pa(h)cis(h) mé(h)æ,(h) in(h) quo(i') spe(h)rá(g.)vi.(g.) (::)}
+{initial-style:0;%%(c4) R/. Qui(h) e(h)dé(h)bat(h) pá(h)nes(h) mé(h)os,(h) am(h)pli(h)á(h)vit(h) ad(h)vér(h)sum(h) me(h) sup(h)plan(h)ta(i')ti(h)ó(g.)nem.(g.) (::)}
 
 [Ant 2]
-Tráditor autem * dedit eis signum, dicens: Quem osculátus fúero, ipse est, tenéte eum.
+{name:Traditor autem;annotation:1;mode:1;book:The Liber Usualis, 1961, p. 658 & Liber antiphonarius, 1960, p. 434;transcriber:Andrew Hinkley;%%(c4) TRá(f)di(c')tor(d) au(dh)tem(ixh_i) *() de(h')dit(g) e(e')is(f) si(g)gnum,(fe~) di(d.)cens :(d.) (;) Quem(d) o(fe)scu(d)lá(e')tus(f) fú(gh)e(g)ro,(f.) (,) i(f_g)pse(f) est,(c.) (;) te(e)né(g_[oh:h]e)te(f_e) e(d.)um.(d.) (::)};;solemn1g
 
 [Oratio]
 v. . {(c4) CHri(ffg)stus(f.) *(,) fa(fg)ctus(f) est(f') pro(f) no(ghF'ED.g_[oh:h]e/fg)bis(f.) (;) ob(f)é(hf/gh!jj/kjk)di(jij)ens(h_g) (,) us(h!jjh)que(f.) ad(ixfiH'Gh) mor(f_[oh:h]g_[oh:h]f_[oh:h])tem.(f.) (::)}
