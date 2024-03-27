@@ -258,6 +258,9 @@ $Kyrie
 $Kyrie
 $Pater secreto
 
+[RLitany simplex]
+{(c3) KY(h)ri(h)e(h) e(h)lé(h)i(h)son.(h.) (::) R/. Chri(h)ste(h) e(h)lé(h)i(h)son.(h.) (,) Ký(h)ri(h)e(h) e(f)lé(g)i(h)son.(h.) (::) Pa(h)ter(h) nos(h)ter.(f.) (::) ^_secreto_^ () V/. Et(h) ne(h) nos(h) in(h)dú(h)cas(h) in(h) ten(h)ta(h)ti(h)ó(h)nem.(f.) (::) R/. Sed(h) lí(h)be(h)ra(h) nos(h) a(h) ma(h)lo.(f.) (::) Cre(h)do(f.) (::)  ^_secreto_^ () V/. Car(h)nis(h) re(h)sur(h)rec(h)ti(h)ó(h)nem.(f.) R/. Vi(h)tam(h) æ(h)tér(h)nam.(h) A(h)men.(f.) (::)}
+
 [Divinum auxilium]
 Divínum auxílium + máneat semper nobíscum.
 R. Amen.
@@ -334,8 +337,7 @@ R. Et clamor meus ad te véniat.
 @:Preces feriales Laudes:s/129/50/
 
 [Preces feriales Tertia]
-$Kyrie
-$Pater secreto
+{(c3) KY(h)ri(h)e(h) e(h)lé(h)i(h)son.(h.) (::) R/. Chri(h)ste(h) e(h)lé(h)i(h)son.(h.) (,) Ký(h)ri(h)e(h) e(f)lé(g)i(h)son.(h.) (::) Pa(h)ter(h) nos(h)ter.(f.) (::) ^_secreto_^ () V/. Et(h) ne(h) nos(h) in(h)dú(h)cas(h) in(h) ten(h)ta(h)ti(h)ó(h)nem.(f.) (::) R/. Sed(h) lí(h)be(h)ra(h) nos(h) a(h) ma(h)lo.(f.) (::)}
 V. Dómine, Deus virtútum, convérte nos.
 R. Et osténde fáciem tuam, et salvi érimus.
 V. Exsúrge, Christe, ádjuva nos.

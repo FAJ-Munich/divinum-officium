@@ -1492,15 +1492,20 @@ sub setheadline {
 				$rankname = $ranktable[$rank];
 			}
 		}
-		my $chantTone = getChantTones();
-		return "$name ~ $rankname : $chantTone";
+		if ($lang2 =~ /gabc/i || $lang1 =~ /gabc/i) {
+			our $chantTone;
+			setChantTone();
+			return "$name ~ $rankname : Tonus $chantTone";
+		} else {
+			return "$name ~ $rankname";
+		}
 	} else {
 		return $dayname[1];
 	}
 }
 
 
-sub getChantTones {
+sub setChantTone {
 	# aptures the appropriate chant types for GABC Common Tones
 	
 	my %latwinner = %{setupstring('Latin', $winner)};
@@ -1511,7 +1516,7 @@ sub getChantTones {
 	# read only globals
 	our(%winner, $winner, @dayname, $version, $day, $month, $year, $dayofweek, $hora, $rule, $commune);
 	
-	my $chantTone = 'ferialis';
+	our $chantTone = 'ferialis';
 
 	if (($name !~ /(?:Die|Feria|Sabbato|^In Octava)/i) && ($dayname[0] !~ /Pasc[07]/i || $dayofweek == 0 || $name !~ /Pasc|Pent/i)) {
 		# on all feasts except during the Octaves of Easter and Pentecost

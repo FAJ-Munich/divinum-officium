@@ -297,8 +297,9 @@ sub Deus_in_adjutorium : ScriptFunc {
 		return $prayers{$lang}->{'Deus in adjutorium'};
 	}
 
-	my $toneType = getChantTones();
-	if ($hora !~ /vespera/i || $toneType !~ /solemnis|resurrectionis/i) {
+	#my $toneType = getChantTones();
+	our $chantTone;
+	if ($hora !~ /vespera/i || $chantTone !~ /solemnis|resurrectionis/i) {
 		our $incipitTone = 'festal';
 		return $prayers{$lang}->{'Deus in adjutorium1'};  # Festal tone
 	} else {
@@ -427,7 +428,7 @@ sub Benedicamus_Domino : ScriptFunc {
   my $lang = shift;
   our (%prayers, @dayname, $hora, $vespera);
 
-	my $chantTone = getChantTones();
+	our $chantTone; # = getChantTones();
 	
 	if (Septuagesima_vesp() || ($dayname[0] =~ /Pasc0/i && $hora =~ /(Laudes|Vespera)/i) && ($lang !~ /gabc/i || $chantTone !~ /resurrectionis/i)) {
 			return $prayers{$lang}->{'Benedicamus Domino1'};
