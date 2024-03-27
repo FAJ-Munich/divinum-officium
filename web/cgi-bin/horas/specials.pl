@@ -889,7 +889,7 @@ sub psalmi_major {
   my @psalmi = splice(@psalmi, @psalmi);
 	my @psalmTones;
 	
-  if ($version =~ /monastic/i) {
+  if ($version =~ /monastic/i && !($hora =~ /Laudes/i && $rule =~ /Matutinum romanum/i)) {
     my $head = "Daym$dayofweek";
     if ($hora =~ /Laudes/i) {
       if ($rule =~ /Psalmi Dominica/ || ($winner =~ /Sancti/i && $rank >= 4 && $dayname[1] !~ /vigil/i)) { $head = 'DaymF'; }

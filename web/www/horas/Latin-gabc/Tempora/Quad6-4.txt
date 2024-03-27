@@ -90,11 +90,11 @@ Feria
 {gabc:tenebrae/re--seniores}
 
 [Ant Laudes]
-Justificéris, Dómine, * in sermónibus tuis, et vincas cum judicáris.;;'50,8G'
-Dóminus * tamquam ovis ad víctimam ductus est, et non apéruit os suum.;;;;2
-Contrítum est * cor meum in médio mei, contremuérunt ómnia ossa mea.;;;;8G
-Exhortátus es * in virtúte tua, et in refectióne sancta tua, Dómine.;;;;4-alt-Astar
-Oblátus est * quia ipse vóluit, et peccáta nostra ipse portávit.;;;;2
+{gabc:tenebrae/an--justificeris_domine};;;;8G
+{gabc:tenebrae/an--dominus_tamquam_ovis};;;;2
+{gabc:tenebrae/an--contritum_est_cor_meum};;;;8G
+{gabc:tenebrae/an--exhortatus_es};;;;4-alt-Astar
+{gabc:tenebrae/an--oblatus_est};;;;2
 
 [Versum 2]
 {initial-style:0;%%(c4) V/. Ho(h)mo(h) pa(h)cis(h) mé(h)æ,(h) in(h) quo(i') spe(h)rá(g.)vi.(g.) (::)}
@@ -105,8 +105,7 @@ Oblátus est * quia ipse vóluit, et peccáta nostra ipse portávit.;;;;2
 
 [Oratio]
 v. . {(c4) CHri(ffg)stus(f.) *(,) fa(fg)ctus(f) est(f') pro(f) no(ghF'ED.g_[oh:h]e/fg)bis(f.) (;) ob(f)é(hf/gh!jj/kjk)di(jij)ens(h_g) (,) us(h!jjh)que(f.) ad(ixfiH'Gh) mor(f_[oh:h]g_[oh:h]f_[oh:h])tem.(f.) (::)}
-!secreto
-$Pater noster
+$Pater totum secreto
 !aliquantulum altius
 _
 &psalm(50)
