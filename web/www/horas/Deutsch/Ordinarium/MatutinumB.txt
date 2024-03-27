@@ -19,9 +19,9 @@ _
 
 #Psalmi cum lectionibus
 
-#Oratio
-
 !Das Folgende betet man nur, wenn sich die %Laudes% nicht unmittelbar anschließen.
+
+#Oratio
 
 #Conclusio
 &Dominus_vobiscum

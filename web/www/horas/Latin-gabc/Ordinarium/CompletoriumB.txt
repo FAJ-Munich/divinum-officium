@@ -1,14 +1,14 @@
 #Incipit
-V. Jube, Dómine, benedícere.
-Benedictio. Noctem quiétam et finem perféctum concédat nobis Dóminus omnípotens. Amen.
+{initial-style:0;%%(c3) V/. Ju(h)be,(h) Dóm(h)i(h)ne,(g_) be(h)ne(h)dí(h)ce(d)re.(d.) (::)}
+Benedictio. {(c3) Noc(h)tem(h) qui(h)é(h)tam(h) et(h) fi(h)nem(g) per(f)féc(h)tum(h.) (;) con(h)cé(h)dat(h) no(h)bis(h) Dó(h)mi(h)nus(h) om(h)ní(h)po(d)tens.(d.) (::) A(g.)men.(h.) (::)}
 
 #Lectio brevis
 !1 Pet 5:8-9
-v. Fratres: Sóbrii estóte, et vigiláte: quia adversárius vester diábolus tamquam leo rúgiens círcuit, quærens quem dévoret: cui resístite fortes in fide. 
+{(c3) Fra(h)tres:(h.) (,) Só(h)bri(h)i(h) es(h)tó(h)te,(h) et(h) vi(h)gi(h)lá(h)te:(f.) (;) qui(h)a(h) ad(h)ver(h)sá(h)ri(h)us(h) ves(h)ter(h) di(h)á(h)bo(h)lus(h_') (,) tam(h)quam(h) le(h)o(h) rú(h)gi(h)ens(h_') (,) cír(h)cu(h)it,(h) quæ(h)re(g)ns quem(f) dé(h)vo(h)ret:(h.) (;) cu(h)i(h) re(h)sís(h)ti(h)te(h) for(h)tes(h) in(h) fi(h.)de.(d.) (::)}
 $Tu autem
 
 $Adjutorium nostrum
-$Pater noster
+$Pater totum secreto
 $Confiteor
 $Misereatur
 $Indulgentiam
@@ -24,22 +24,18 @@ $Deus in adjutorium
 #Capitulum Responsorium Versus
 !Jer 14:9
 v. Tu autem in nobis es, Dómine, et nomen sanctum tuum invocátum est super nos: ne derelínquas nos, Dómine, Deus noster. 
-$Deo gratias
+R. Deo grátias.
 _
-R.br. In manus tuas, Dómine, * Comméndo spíritum meum. 
-R. In manus tuas, Dómine, * Comméndo spíritum meum. 
-V. Redemísti nos, Dómine, Deus veritátis. 
-R. Comméndo spíritum meum. 
-&Gloria1
-R. In manus tuas, Dómine, * Comméndo spíritum meum.
-_
-V. Custódi nos, Dómine, ut pupíllam óculi. 
-R. Sub umbra alárum tuárum prótege nos. 
+{gabc:Psalterium/rb--in_manus_tuas--solesmes_1961}
+(sed tempore passionis)
+{gabc:Psalterium/rb--in_manus_tuas--passionis--solesmes_1961}
 
 #Canticum Nunc dimittis
-Ant. Salva nos
-&canticum(3)
-Ant. {::}Salva nos, Dómine, vigilántes, custódi nos dormiéntes;  ut vigilémus cum Christo, et requiescámus in pace.
+Ant. {(c4) Sal(g)va(hj) nos.(j.) (::)}
+&psalm('233,3a')
+Ant. {(c4) Sal(g)va(hj) nos,(j.) Dó(jk)mi(j)ne,(ji) vi(h)gi(i')lán(h)tes,(g.) (;) cus(g)tó(i')di(j) nos(k') dor(j)mi(h')én(j)tes;(i.) (;)  ut(i) vi(g')gi(i)lé(k')mus(i) cum(h') Chri(j)sto,(i_0j) (,) et(h) re(h)qui(h)es(h)cá(gf)mus(gh) in(gf) pa(e.)ce.(e.) (::)}
+(sed tempore paschalis)
+Ant. {(c4) Sal(g)va(hj) nos,(j.) Dó(jk)mi(j)ne,(ji) vi(h)gi(i')lán(h)tes,(g.) (;) cus(g)tó(i')di(j) nos(k') dor(j)mi(h')én(j)tes;(i.) (;)  ut(i) vi(g')gi(i)lé(k')mus(i) cum(h') Chri(j)sto,(i_0j) (,) et(h) re(h)qui(h)es(h)cá(gf)mus(gh) in(gf) pa(e.)ce.(e.) (::) ^_T. P._^() Al(g)le(gf)lú(e.)ja.(e.) (::)}
 
 #Preces Dominicales
 $RLitany simplex
@@ -73,7 +69,7 @@ Benedictio. Benedícat et custódiat nos omnípotens et miséricors Dóminus, + 
 R. Amen.
 
 &antiphona_finalis
-&Divinum_auxilium
+$Divinum auxilium
 
 /:Pater noster, Ave Maria et Credo totum secreto:/
 $Pater noster
