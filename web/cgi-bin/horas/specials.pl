@@ -1266,7 +1266,7 @@ sub oratio {
   if ($rule !~ /Limit.*?Oratio/i) {
     # no dominus vobiscum after Te decet
     if ($version !~ /Monastic/ || $hora ne 'Matutinum' || $rule !~ /12 lectiones/ ) {
-      if ($version =~ /Monastic/) {
+      if ($version =~ /Monastic/ && $version !~ /bavariae/i) {
         if ($hora =~ /Laudes|Vespera/) { push(@s, $prayers{$lang}->{'MLitany'}); }
         else { push(@s, $prayers{$lang}->{'MLitany2'}); }
 				$precesferiales = 0;
