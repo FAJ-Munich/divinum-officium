@@ -63,7 +63,7 @@ Sabbato = Ne tacúeris Deus, * quia sermónibus ódii circumdedérunt me.
 108(2-13), 108(14-21), 108(22-31)
 
 [Completorium]
-Dominica = Miserére * mihi, Dómine, et exáudi oratiónem meam.
+Dominica = {name:Miserere;annotation:8.G;%%(c4) Mi(g)se(g')ré(h)re(gf..) *() mi(gh)hi,(h') Dó(g)mi(fg)ne,(g.) (;) et(h) ex(j)áu(i_0j)di(h) o(h)ra(hg)ti(f)ó(gh)nem(h) me(h.)am(h.) (::)};;;;8G
 4,90,133
 Feria II = Salvum me fac, * Dómine, propter misericórdiam tuam.
 6,7(2-10),7(11-18)
@@ -192,7 +192,7 @@ Sexta Dominica=Allelúja, * allelúja, allelúja;;118:6,118:7,118:8
 Sexta Feria=Ádjuva me * et salvus ero Dómine;;118:6,118:7,118:8
 Nona Dominica=Allelúja, * allelúja, allelúja;;118:9,118:10,118:11
 Nona Feria=Áspice * in me, et miserére mei Dómine;;118:9,118:10,118:11
-Completorium=Miserére * mihi, Dómine, et exáudi oratiónem meam;;4,30(2-6),90,133
+Completorium={name:Miserere;annotation:8.G;%%(c4) Mi(g)se(g')ré(h)re(gf..) *() mi(gh)hi,(h') Dó(g)mi(fg)ne,(g.) (;) et(h) ex(j)áu(i_0j)di(h) o(h)ra(hg)ti(f)ó(gh)nem(h) me(h.)am(h.) (::)};;4,30:TridC,90,133;;8G
 
 [Monastic]
 Prima Dominica=Allelúja, * allelúja, allelúja (allelúja);;118:1--monastic--,118:2--monastic--,118:3--monastic--,118:4--monastic--;;7c2

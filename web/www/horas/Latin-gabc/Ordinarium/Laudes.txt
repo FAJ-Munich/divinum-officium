@@ -28,4 +28,4 @@ $Pater noster
 $Dominus det
 
 &antiphona_finalis
-&Divinum_auxilium
+$Divinum auxilium

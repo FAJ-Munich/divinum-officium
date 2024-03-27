@@ -18,6 +18,10 @@ Credo in Spíritum Sanctum, sanctam Ecclésiam cathólicam, Sanctórum communió
 !« Pater Noster » dicitur secreto usque ad « Et ne nos indúcas in tentatiónem: »
 &pater_noster
 
+[Pater totum secreto]
+!« Pater Noster » dicitur totum secreto
+$Pater noster
+
 [Credo secreto]
 !« Credo » dicitur secreto usque ad « Carnis resurrectiónem. »
 v. Credo in Deum, Patrem omnipoténtem, Creatórem cæli et terræ. Et in Jesum Christum, Fílium ejus únicum, Dóminum nostrum: qui concéptus est de Spíritu Sancto, natus ex María Vírgine, passus sub Póntio Piláto, crucifíxus, mórtuus, et sepúltus: descéndit ad ínferos; tértia die resurréxit a mórtuis; ascéndit ad cælos; sedet ad déxteram Dei Patris omnipoténtis: inde ventúrus est judicáre vivos et mórtuos. Credo in Spíritum Sanctum, sanctam Ecclésiam cathólicam, Sanctórum communiónem, remissiónem peccatórum.
@@ -25,12 +29,12 @@ V. Carnis resurrectiónem.
 R. Vitam ætérnam. Amen.
 
 [Adjutorium nostrum]
-V. Adjutórium nóstrum + in nómine Dómini. 
-R. Qui fecit cælum et terram.
+{initial-style:0;%%(c3) V/. Ad(h)ju(h)tó(h)ri(h)um(h) nós(h)trum(h) ^✠^() in(h) nó(h)mi(h)ne(h) Dó(h)mi(f)ni.(f.) (::)} 
+{initial-style:0;%%(c3) R/. Qui(h) fe(h)cit(h) cæ(h)lum(h) et(h) ter(h)ram.(f.) (::)}
 
 [Converte nos]
-V. Convérte nos +++ Deus, salutáris noster.
-R. Et avérte iram tuam a nobis.
+{initial-style:0;%%(c3) V/. Con(h)vér(h)te(h) nos(h) ^✙︎^() De(h)us,(h) sa(h)lu(h)tá(g)ris(f) nos(h)ter.(h.) (::)}
+{initial-style:0;%%(c3) R/. Et(h) a(h)vér(h)te(h) i(h)ram(h) tu(h)am(g) a(f) no(h)bis.(h.) (::)}
 
 [Dominus det]
 {initial-style:0;%%(c3)V/. Dó(d)mi(d)nus(d) det(d) no(d)bis(d) su(d)am(d) pa(d)cem.(d.) (::) (Z)R/. Et(d) vi(d)tam(d) æ(d)tér(d)nam.(d) A(d)men.(d.) (::)}
@@ -112,8 +116,8 @@ R. Et os meum annuntiábit laudem tuam.
 {(c4) DE(f)us(g_[uh:l]h) ^✠^(,) in(h) ad(h)ju(h)tó(h)ri(h)um(h) me(ixg!hwi)um(h) in(h)tén(hg)de.(gh..) (::) <sp>R/</sp>. Dó(f)mi(gh)ne(h'_) (,) ad(h) ad(h)ju(h)ván(h)dum(h) me(ixg!hwi) fe(h)stí(hg)na.(gh..) (:) Gló(f)ri(gh)a(h) Pa(h)tri,(h) et(h) Fí(h)li(h)o,(h'_) (,) et(h) Spi(h)rí(ixg!hwi)tu(h)i(h) San(hg)cto.(gh..) (:) Sic(f)ut(gh) e(h)rat(h) in(h) prin(h)cí(h)pi(h)o,(h'_) (,) et(h) nunc,(ixg!hwi) et(h) sem(hg)per,(gh..) (;) et(h) in(h) saé(h)cu(h)la(h) sae(h)cu(h)ló(h)rum.(ixi) A(h)men.(g.) (::)}
 
 [Tu autem]
-V. Tu autem, Dómine, miserére nobis.
-R. Deo grátias.
+{initial-style:0;%%(c3) V/. Tu(h) au(g)tem,(f) Dó(h)mi(h)ne,(h.) (,) mi(h)se(h)ré(h)re(h) no(h.)bis.(d.) (::)}
+{initial-style:0;%%(c3) R/. De(h)o(h) grá(h)ti(d)as.(d.) (::)}
 
 [Tu autemOP]
 V. Tu autem, Dómine, miserére nostri.
@@ -137,7 +141,7 @@ R. Deo grátias.
 [Fidelium animae]
 {initial-style: 0;%%(c3) V/. Fi(e)dé(e)li(e)um(e) á(e)ni(e)mæ(e) per(e) mi(e)se(e)ri(e)cór(e)di(e)am(e) De(e)i(e) re(e)qui(e)é(e)scant(e) in(e) pa(e)ce.(e) (::) R/.() A(e)men.(e) (::)}
 (Sed rubrica monastica)
-{initial-style: 0;%%(c4) V/. Fi(d)dé(d)li(d)um(d) á(d)ni(d)mæ(d) per(d) mi(d)se(d)ri(d)cór(d)di(d)am(d) De(d)i(d) re(d)qui(d)é(d)scant(d) in(d) pa(d)ce.(d) (::) R/.() A(d)men.(d) (::)}
+{initial-style: 0;%%(c3) V/. Fi(d)dé(d)li(d)um(d) á(d)ni(d)mæ(d) per(d) mi(d)se(d)ri(d)cór(d)di(d)am(d) De(d)i(d) re(d)qui(d)é(d)scant(d) in(d) pa(d)ce.(d) (::) R/.() A(d)men.(d) (::)}
 
 [Per Dominum]
 r. Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
@@ -262,8 +266,7 @@ $Pater secreto
 {(c3) KY(h)ri(h)e(h) e(h)lé(h)i(h)son.(h.) (::) R/. Chri(h)ste(h) e(h)lé(h)i(h)son.(h.) (,) Ký(h)ri(h)e(h) e(f)lé(g)i(h)son.(h.) (::) Pa(h)ter(h) nos(h)ter.(f.) (::) ^_secreto_^ () V/. Et(h) ne(h) nos(h) in(h)dú(h)cas(h) in(h) ten(h)ta(h)ti(h)ó(h)nem.(f.) (::) R/. Sed(h) lí(h)be(h)ra(h) nos(h) a(h) ma(h)lo.(f.) (::) Cre(h)do(f.) (::)  ^_secreto_^ () V/. Car(h)nis(h) re(h)sur(h)rec(h)ti(h)ó(h)nem.(f.) R/. Vi(h)tam(h) æ(h)tér(h)nam.(h) A(h)men.(f.) (::)}
 
 [Divinum auxilium]
-Divínum auxílium + máneat semper nobíscum.
-R. Amen.
+{initial-style:0;%%(c3)V/. Di(e)ví(e)num(e) au(e)xí(e)li(e)um(e) ^✠^ má(e)ne(e)at(e) sem(e)per(e) no(e)bís(e)cum.(e.) (::) R/. A(e)men.(e.) (::)}
 
 [Divinum auxilium] (rubrica monastica)
 /:Si descendendum sit a choro, concluditur dicendo.:/

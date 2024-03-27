@@ -530,7 +530,7 @@ sub psalm : ScriptFunc {
   if ($version =~ /1960|Newcal/ && $num !~ /\(/ && $dayname[0] =~ /Nat/i) { $fname =~ s/Psalm88/Psalm88r/; }
   if ($version =~ /1960|Newcal/ && $num !~ /\(/ && $month == 8 && $day == 6) { $fname =~ s/Psalm88/Psalm88a/; }
 	if ($lang =~ /gabc/i) {
-		if($num > 230 && $num < 234) { $num .= ",$canticaTone"; }
+		if($num > 230 && $num < 233) { $num .= ",$canticaTone"; }
 		$fname = ($num =~ /,/) ? "$psalmfolder/$num.gabc" : "$psalmfolder/Psalm$num.txt"; # distingiush between chant and text
 		$fname =~ s/\:/\./g;
 		$fname =~ s/,/-/g;	# file name with dash not comma

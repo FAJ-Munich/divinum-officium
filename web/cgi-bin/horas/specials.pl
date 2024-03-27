@@ -130,7 +130,10 @@ sub specials {
 			$skipflag = !preces($item);
 			setcomment($label, 'Preces', $skipflag, $lang);
 			setbuild1($item, $skipflag ? 'omit' : 'include');
-			if (!$skipflag && $hora =~ /Laudes|Tertia|Sexta|Nona|Vespera/ && $version !~ /Bavariae/) { # the text vor Bavariae is still in the Ordo files
+			if(!$skipflag && $precesferiales && $item =~ /Dominicales/i) {
+				push(@s, '/:flexis genibus:/');
+			}
+			if (!$skipflag && $hora =~ /Laudes|Tertia|Sexta|Nona|Vespera/ && $version !~ /Bavariae/) { # the text for Bavariae is still in the Ordo files
         push(@s, $prayers{$lang}{"Preces feriales $hora"});
       }
       next;
@@ -198,7 +201,8 @@ sub specials {
     }
 
     if ($item =~ /Capitulum/i && $hora =~ /Completorium/i) {
-      $tind--;
+			$tind--;
+			if ($lang =~ /gabc/i) {  push(@s, $t[$tind++]); next; }
       while ($tind < @t && $t[$tind] !~ /^\s*(?:V|R.br)\./) { push(@s, $t[$tind++]); }
       my @resp = ();
       while ($tind < @t && $t[$tind] !~ /^\s*\#/) { push(@resp, $t[$tind++]); }
@@ -566,7 +570,7 @@ sub translate_label {
 # returns 1 = yes or 0 = omit after deciding about the preces
 sub preces {
 
-  return 0 if ( 
+  return 0 if (
     $winner =~ /C12/i 
     || $rule =~ /Omit.*? Preces/i
     || ($duplex > 2 && $seasonalflag) 
@@ -602,8 +606,7 @@ sub preces {
     }
   }
 
-  if ($item =~ /Feriales/i
-      && $dayofweek && !($dayofweek == 6 && $hora =~ /vespera/i)
+  if ($dayofweek && !($dayofweek == 6 && $hora =~ /vespera/i)
 			&& ($winner !~ /sancti/i && ($rule =~ /Preces/i || $dayname[0] =~ /Adv|Quad(?!p)/i || emberday())	#
 				|| ($version !~ /1955|1960|Newcal/ && $winner{Rank} =~ /vigil/i && $dayname[1] !~ /Epi|Pasc/i)) # certain vigils before 1955
 			&& ($version !~ /1955|1960|Newcal/ || $dayofweek =~ /[35]/ || emberday())		# in 1955 and 1960, only Wednesdays, Fridays and emberdays
@@ -688,9 +691,10 @@ sub psalmi_minor {
       # Sext and None is different on Sundays.
       $psalmkey = ($hora =~ /Completorium/i) ? 'Completorium' : "$hora $daytype";
     }
-    ($ant, $psalms) = split(';;', $psalmlines{$psalmkey});
-    $ant = chompd($ant);
-    $psalms = chompd($psalms);
+		my @a = split(';;', $psalmlines{$psalmkey});
+		$ant = chompd($a[0]);
+		$psalms = chompd($a[1]);
+		if($lang =~ /gabc/i) { $psalmTone = chompd($a[2]); }
   } else {
     @psalmi = split("\n", $psalmi{$hora});
     my $i = 2 * $dayofweek;
