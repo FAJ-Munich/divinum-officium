@@ -36,16 +36,23 @@ sub horas {
   our $reciteindex = 0;
   our $recitelimit = 0;
   $tlang = ($lang1 !~ /Latin/) ? $lang1 : $lang2;
-  our %translate;
-  $translate{$lang1} = setupstring($lang1, "Psalterium/Translate.txt");
-  $translate{$lang2} = setupstring($lang2, "Psalterium/Translate.txt");
-  cache_prayers();
+	our %translate;
   %chant = %{setupstring('Latin', "Psalterium/Chant.txt")};
   $column = 1;
+	my $templang1 = $lang1;
+	my $templang2 = $lang2;
+	if (triduum_gloria_omitted() && $hora =~ /Prima|Tertia|Sexta|Nona|Completorium/i) {
+		$lang1 =~ s/\-gabc//;
+		$lang2 =~ s/\-gabc//;
+		precedence(); setsecondcol();   #fills our hashes et variables
+	}
+	$translate{$lang1} = setupstring($lang1, "Psalterium/Translate.txt");
+	$translate{$lang2} = setupstring($lang2, "Psalterium/Translate.txt");
+	cache_prayers();
   if ($Ck) { $version = $version1; precedence(); }
   @script1 = getordinarium($lang1, $command);
   @script1 = specials(\@script1, $lang1);
-  $column = 2;
+	$column = 2;
 	if ($Ck) { $version = $version2; precedence(); setsecondcol(); }
   @script2 = getordinarium($lang2, $command);
   @script2 = specials(\@script2, $lang2);
@@ -104,6 +111,8 @@ sub horas {
   }
   table_end();
   if ($column == 1) { $searchind++; }
+	$lang1 = $templang1;
+	$lang2 = $templang2;
 }
 
 #*** getunits(\@s, $ind)
