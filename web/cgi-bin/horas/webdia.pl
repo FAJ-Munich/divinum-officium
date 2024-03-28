@@ -1,6 +1,5 @@
 #!/usr/bin/perl
 use utf8;
-use LWP::Simple;
 
 # Name : Laszlo Kiss
 # Date : 01-11-04
@@ -216,7 +215,7 @@ sub cleanse($) {
     @parts = split(/;/, $str);
 
     foreach my $part (@parts) {
-			unless ($part =~ /^([^'`"\\={}()]*|'[^'`"\\]*'|\$\w+='[^'`"\\]*')$/i) {  #`
+			unless ($part =~ /^([^'`"\\={}()]*|'[^'`"\\]*'|\$\w+='[^'`"\\]*')$/i) {  #` #accente grave for editor
 
         #print STDERR "erasing $part\n";
         $part = '';
@@ -482,14 +481,16 @@ sub setcell {
 				$notefile =~ s/^pc/p/;
 				my $colspan = ($only) ? 1 : 2;
 				print "<TR><TD COLSPAN=$colspan WIDTH=100% VALIGN=MIDDLE ALIGN=CENTER>\n"
-					. "<IMG SRC=\"$imgurl/$notefile.gif\" WIDTH=80%></TD></TR>\n";
+				. "<IMG SRC=\"$imgurl/$notefile.gif\" WIDTH=80%></TD></TR>\n";
 			}
 		}
 		print "<TD VALIGN=TOP WIDTH=$width%" . ($lang1 ne $lang || $text =~ /{omittitur}/ ? "" : " ID=$hora$searchind") . ">";
 		topnext_cell($lang);
-
-		if ($lang =~ /gabc/i) {
+		
+		if ($lang =~ /gabc/i) {	# post process GABC chants
 			my $dId = 0;
+			
+			# retrieve all GABC scores from files
 			while($text =~ /\{gabc:(.+?)\}/is) {
 				my $temp = $1;
 				my $gregFile = "chants/$1.gabc";
@@ -502,6 +503,8 @@ sub setcell {
 				my(@gregScore) = do_read($gregFile);
 				$text =~ s/gabc:$temp/@gregScore/s;
 			}
+			
+			# identify all GABC sections and post process to be suitable for JavaScript
 			while($text =~ /\{(\(|name:|initial-style:|centering-scheme:)(.+?)\(\:\:\)\}/is) {
 				$dId++;
 				$text =~ s/\{(\(|name:|initial-style:|centering-scheme:)/<DIV ID="GABC$hora$searchind$dId" class="GABC">$1/s;
@@ -528,7 +531,7 @@ sub setcell {
 				$text =~ s/\(\:\:\)\}/\(\:\:\)<\/DIV><DIV ID="GCHANT$hora$searchind$dId" class="GCHANT" width="100\%"><\/DIV>/s;
 				$text =~ s/\_/\|\|/g;
 			}
-		} else {
+		} else {	# post process non-GABC
 			if ($text =~ /%(.*?)%/) {
 				$text = activate_links(\$text, $lang);
 			}
@@ -538,13 +541,15 @@ sub setcell {
 	$text =~ s/\_/ /g;
 	$text =~ s/\{\:.*?\:\}(<BR>)*\s*//g;
 	$text =~ s/\{\:.*?\:\}//sg;
-	$text =~ s/\`//g;			#`
+	$text =~ s/\`//g;			#` #accent grave for editor
+	
+	# Remove line breaks from chants
 	if($lang =~ /gabc/i) {
 		$text =~ s/\|\|(<BR>)/<BR>/g;
 		$text =~ s/\|\|/\_/g;
 	}
-
-	if ($Ck) {
+	
+  if ($Ck) {
     if ($column == 1) {
       push(@ctext1, $text);
     } else {

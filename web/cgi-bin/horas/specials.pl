@@ -131,7 +131,7 @@ sub specials {
 			setcomment($label, 'Preces', $skipflag, $lang);
 			setbuild1($item, $skipflag ? 'omit' : 'include');
 			if(!$skipflag && $precesferiales && $item =~ /Dominicales/i) {
-				push(@s, '/:flexis genibus:/');
+				push(@s, '/:flexis genibus:/');	# as a reminder //TODO: needs to be "translated"
 			}
 			if (!$skipflag && $hora =~ /Laudes|Tertia|Sexta|Nona|Vespera/ && $version !~ /Bavariae/) { # the text for Bavariae is still in the Ordo files
         push(@s, $prayers{$lang}{"Preces feriales $hora"});
@@ -201,8 +201,8 @@ sub specials {
     }
 
     if ($item =~ /Capitulum/i && $hora =~ /Completorium/i) {
-			$tind--;
-			if ($lang =~ /gabc/i) {  push(@s, $t[$tind++]); next; }
+      $tind--;
+			if ($lang =~ /gabc/i) {  push(@s, $t[$tind++]); next; } # GABC: don't look for start of response
       while ($tind < @t && $t[$tind] !~ /^\s*(?:V|R.br)\./) { push(@s, $t[$tind++]); }
       my @resp = ();
       while ($tind < @t && $t[$tind] !~ /^\s*\#/) { push(@resp, $t[$tind++]); }
@@ -571,7 +571,7 @@ sub translate_label {
 sub preces {
 
   return 0 if (
-    $winner =~ /C12/i 
+    $winner =~ /C12/i
     || $rule =~ /Omit.*? Preces/i
     || ($duplex > 2 && $seasonalflag) 
     || $dayname[0] =~ /Pasc[67]/i
@@ -606,7 +606,7 @@ sub preces {
     }
   }
 
-  if ($dayofweek && !($dayofweek == 6 && $hora =~ /vespera/i)
+  if ($dayofweek && !($dayofweek == 6 && $hora =~ /vespera/i) # Domincales at Completorium are also said if Feriales at Vespers!
 			&& ($winner !~ /sancti/i && ($rule =~ /Preces/i || $dayname[0] =~ /Adv|Quad(?!p)/i || emberday())	#
 				|| ($version !~ /1955|1960|Newcal/ && $winner{Rank} =~ /vigil/i && $dayname[1] !~ /Epi|Pasc/i)) # certain vigils before 1955
 			&& ($version !~ /1955|1960|Newcal/ || $dayofweek =~ /[35]/ || emberday())		# in 1955 and 1960, only Wednesdays, Fridays and emberdays
@@ -662,7 +662,7 @@ sub psalmi_minor {
     my @a = split(';;', $psalmi[$i]);
     $ant = chompd($a[1]);
     $psalms = chompd($a[2]);
-		if($lang =~ /gabc/i) { $psalmTone = chompd($a[3]); }
+		if($lang =~ /gabc/i) { $psalmTone = chompd($a[3]); } # retrieve Psalm Tone
   } elsif ($version =~ /trident/i) {
     my $daytype = ($dayofweek == 0) ? 'Dominica' : 'Feria';
     my %psalmlines = split(/\n|=/, $psalmi{Tridentinum});
@@ -694,7 +694,7 @@ sub psalmi_minor {
 		my @a = split(';;', $psalmlines{$psalmkey});
 		$ant = chompd($a[0]);
 		$psalms = chompd($a[1]);
-		if($lang =~ /gabc/i) { $psalmTone = chompd($a[2]); }
+		if($lang =~ /gabc/i) { $psalmTone = chompd($a[2]); } # retrieve Psalm Tone
   } else {
     @psalmi = split("\n", $psalmi{$hora});
     my $i = 2 * $dayofweek;
@@ -810,8 +810,8 @@ sub psalmi_minor {
     setbuild2('Sine antiphonae');
   }
 
-	if ($lang =~ /gabc/i) {
-		if ($ant =~ s/;;(.*);;(.*)/;;$1/ ) {
+	if ($lang =~ /gabc/i) { # retrieve Psalm Tone
+		if ($ant =~ s/;;(.*);;(.*)/;;$1/ ) { # strip from antiphone
 			$psalmTone = $2;
 			$ant =~ s/;;\s*$//;
 		}
@@ -821,7 +821,7 @@ sub psalmi_minor {
   if ($dayname[0] =~ /Quad/i) { $ant =~ s/[(]*allel[uú][ij]a[\.\,]*[)]*//ig; }
   if ($ant) { $ant = "Ant. $ant"; }
   my @ant = split('\*', $ant);
-	if ($lang =~ /gabc/i && $ant =~ /\{.*\}/) { $ant[0] =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/; }
+	if ($lang =~ /gabc/i && $ant =~ /\{.*\}/) { $ant[0] =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/; } # undouble GABC-Antiphone
   postprocess_ant($ant, $lang);
   $ant1 = ($version !~ /196/) ? $ant[0] : $ant;    #difference between 1955 and 1960
   setcomment($label, 'Source', $comment, $lang, $prefix);
@@ -853,7 +853,7 @@ sub psalmi_minor {
     $p =~ s/[\(\-]/\,/g;
     $p =~ s /\)//;
 		if ($lang =~ /gabc/i && $psalmTone) {
-			push (@s, "&psalm(\'$p,$psalmTone\')");
+			push (@s, "&psalm(\'$p,$psalmTone\')");  # GABC format: 'Psalmnumber,PsalmTone'
 		} else {
 			push(@s, "\&psalm($p)");
 		}
@@ -889,7 +889,7 @@ sub psalmi_major {
   my @psalmi = splice(@psalmi, @psalmi);
 	my @psalmTones;
 	
-  if ($version =~ /monastic/i && !($hora =~ /Laudes/i && $rule =~ /Matutinum romanum/i)) {
+  if ($version =~ /monastic/i && !($hora =~ /Laudes/i && $rule =~ /Matutinum romanum/i)) { # Triduum like Roman
     my $head = "Daym$dayofweek";
     if ($hora =~ /Laudes/i) {
       if ($rule =~ /Psalmi Dominica/ || ($winner =~ /Sancti/i && $rank >= 4 && $dayname[1] !~ /vigil/i)) { $head = 'DaymF'; }
@@ -996,6 +996,7 @@ sub psalmi_major {
   if ($w) { @antiphones = split("\n", $w); $comment = $c; }
 
 	if ($lang =~ /gabc/ && @antiphones) {
+		# strip Psalm Tones from Antiphones
 		foreach $myant (@antiphones) {
 			if ($myant =~ s/;;(.*);;(.*)/;;$1/ ) {
 				push (@psalmTones, $2);
@@ -1069,9 +1070,10 @@ sub psalmi_major {
         $aflag = 1;
       }
 			
-			if ($lang =~ /gabc/i ) { $p = ($p =~ /\'(.*),/s) ? $1 : $p; }
-			
 			if ($lang =~ /gabc/i ) {
+				# recombine antiphones with psalms and psalmtones according to antiphone
+				$p = ($p =~ /\'(.*),/s) ? $1 : $p;
+
 				$p = ($antiphones[$i] =~ s/\;\;([0-9\;\n]+)// && !$aflag) ? $1 : $p;
 				my @p = split(';', $p);
 				foreach $p1 (@p) {
@@ -1126,7 +1128,7 @@ sub antetpsalm {
   my @line = split(';;', $line);
   my $ant = $line[0];
   my @ant = split(/\s*\*\s*/, $ant);
-	if ($lang =~ /gabc/i && $ant =~ /\{.*\}/) { $ant[0] =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/; }
+	if ($lang =~ /gabc/i && $ant =~ /\{.*\}/) { $ant[0] =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/; } # undouble antiphone
   postprocess_ant($ant, $lang);
   my $ant1 = ($duplex > 2 || $version =~ /196/) ? $ant : $ant[0];    #difference between 1995, 1960
 
@@ -1142,7 +1144,7 @@ sub antetpsalm {
     $p =~ s/[\(\-]/\,/g;
     $p =~ s/\)//;
 		if ($i < (@p - 1)) { $p = '-' . $p; }
-		$p =~ s/\-\'/\'\-/;
+		$p =~ s/\-\'/\'\-/; # ensure dash behind apostrophe to be passed through to psalm script
     push(@s, "\&psalm($p)");
     if ($i < (@p - 1)) { push(@s, "\n"); }
   }

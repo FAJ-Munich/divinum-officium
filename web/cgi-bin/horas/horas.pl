@@ -36,10 +36,12 @@ sub horas {
   our $reciteindex = 0;
   our $recitelimit = 0;
   $tlang = ($lang1 !~ /Latin/) ? $lang1 : $lang2;
-	our %translate;
+  our %translate;
   %chant = %{setupstring('Latin', "Psalterium/Chant.txt")};
   $column = 1;
-	my $templang1 = $lang1;
+	
+	# Ensure no chant is displayed at the little hours during the Triduum
+	my $templang1 = $lang1;   # save settings for later
 	my $templang2 = $lang2;
 	my $temponly = $only;
 	if (triduum_gloria_omitted() && $hora =~ /Prima|Tertia|Sexta|Nona|Completorium/i) {
@@ -48,6 +50,7 @@ sub horas {
 		$only = ($lang1 eq $lang2);
 		precedence(); setsecondcol();   #fills our hashes et variables
 	}
+	
 	$translate{$lang1} = setupstring($lang1, "Psalterium/Translate.txt");
 	$translate{$lang2} = setupstring($lang2, "Psalterium/Translate.txt");
 	cache_prayers();
@@ -89,7 +92,7 @@ sub horas {
       $text1 =~ s/$alleluia_regex//g;
     }
     $text1 =~ s/\<BR\>\s*\<BR\>/\<BR\>/g;
-    if ($lang1 =~ /Latin$/i) { $text1 = spell_var($text1); }
+    if ($lang1 =~ /Latin$/i) { $text1 = spell_var($text1); }	# Spell check not for 'Latin-gabc' (destroys chant)
     if ($text1 && $text1 !~ /^\s+$/) { setcell($text1, $lang1); }
 
     if (!$only) {
@@ -101,7 +104,7 @@ sub horas {
         $text2 =~ s/$alleluia_regex//ig;
       }
       $text2 =~ s/\<BR\>\s*\<BR\>/\<BR\>/g;
-      if ($lang2 =~ /Latin$/i) { $text2 = spell_var($text2); }
+      if ($lang2 =~ /Latin$/i) { $text2 = spell_var($text2); }	# Spell check not for 'Latin-gabc' (destroys chant)
       if ($text2 && $text2 !~ /^\s+$/) { setcell($text2, $lang2); }
     }
   }
@@ -113,6 +116,8 @@ sub horas {
   }
   table_end();
   if ($column == 1) { $searchind++; }
+	
+	# restore original values if changed
 	$lang1 = $templang1;
 	$lang2 = $templang2;
 	$only = $temponly;
@@ -304,17 +309,17 @@ sub Deus_in_adjutorium : ScriptFunc {
 	my $latname = $latrank[0];
 	my $latrank = $latrank[2];
 	
+	# Ferial chant for all Little hours and Ferials and Simples
 	if ($lang !~ /gabc/ || $hora !~ /matutinum|laudes|vespera/i || $rank < 2 || $latname =~ /Feria|Sabbato|Vigilia(?! Epi)/i || $latrank < 2) {
 		our $incipitTone = 'ferial';
 		return $prayers{$lang}->{'Deus in adjutorium'};
 	}
 
-	#my $toneType = getChantTones();
-	our $chantTone;
+	our $chantTone; # has been filled by setChantTone() @horascommon.pl
 	if ($hora !~ /vespera/i || $chantTone !~ /solemnis|resurrectionis/i) {
 		our $incipitTone = 'festal';
 		return $prayers{$lang}->{'Deus in adjutorium1'};  # Festal tone
-	} else {
+	} else { # Solemn Vespers only
 		our $incipitTone = 'solemn';
 		return $prayers{$lang}->{'Deus in adjutorium2'};  # Solemn tone
 	}
@@ -440,16 +445,15 @@ sub Benedicamus_Domino : ScriptFunc {
   my $lang = shift;
   our (%prayers, @dayname, $hora, $vespera);
 
-	our $chantTone; # = getChantTones();
+	our $chantTone; # filled by setChantTone() @horascommon.pl
 	
 	if (Septuagesima_vesp() || ($dayname[0] =~ /Pasc0/i && $hora =~ /(Laudes|Vespera)/i) && ($lang !~ /gabc/i || $chantTone !~ /resurrectionis/i)) {
-			return $prayers{$lang}->{'Benedicamus Domino1'};
+			return $prayers{$lang}->{'Benedicamus Domino1'}; # Paschal octave (Feria IV - Sabbato)
 	} elsif ($lang !~ /gabc/i || $hora !~ /(Matutinum|Laudes|Vespera)/i) {
-		return $prayers{$lang}->{'Benedicamus Domino'};
+		return $prayers{$lang}->{'Benedicamus Domino'}; # Little hours
 	}
 	
 	my %benedicamus = %{setupstring($lang, 'Psalterium/Benedicamus.txt')};
-	
 	return ($benedicamus{"$chantTone$vespera"}) || ($benedicamus{"$chantTone"}) || ($prayers{'Latin'}->{'Benedicamus Domino'});
 }
 
@@ -490,7 +494,7 @@ sub psalm : ScriptFunc {
   my @a = @_;
 
   my ($num, $lang, $antline, $nogloria);
-	
+  
   if (@a < 4) {
     $num = shift @a;
     if ($a[0] =~ /^1$/) {
@@ -537,10 +541,12 @@ sub psalm : ScriptFunc {
   # the invitatory, lives elsewhere, and is loaded here only for its
   # special third-nocturn use on the day of the Epiphany.
   my $fname = ($psnum == 94) ? 'Psalterium/Invitatorium1.txt' : "$psalmfolder/Psalm$psnum.txt";
-	my $ftone = '';	# to save the chant tone to retrieve the Gloria Patri
+	my $ftone = '';	# to save the chant tone to retrieve the Gloria Patri below
   if ($version =~ /1960|Newcal/) { $fname =~ s/Psalm226/Psalm226r/; }
   if ($version =~ /1960|Newcal/ && $num !~ /\(/ && $dayname[0] =~ /Nat/i) { $fname =~ s/Psalm88/Psalm88r/; }
   if ($version =~ /1960|Newcal/ && $num !~ /\(/ && $month == 8 && $day == 6) { $fname =~ s/Psalm88/Psalm88a/; }
+	
+	# select right Psalm file
 	if ($lang =~ /gabc/i) {
 		if($num > 230 && $num < 233) { $num .= ",$canticaTone"; }
 		$fname = ($num =~ /,/) ? "$psalmfolder/$num.gabc" : "$psalmfolder/Psalm$num.txt"; # distingiush between chant and text
@@ -561,7 +567,6 @@ sub psalm : ScriptFunc {
   # load psalm
   my(@lines) = do_read($fname);
   unless (@lines > 0) {
-    #return "$datafolder/$lang/$fname not found";
 		return "$fname not found";
   }
 
@@ -651,7 +656,7 @@ sub psalm : ScriptFunc {
 		}
 		$rest =~ s/[ ]*//;
 
-		if ($prepend_dagger) {
+    if ($prepend_dagger) {
       $rest = "\x{2021} $rest";
       $prepend_dagger = 0;
     }
@@ -671,7 +676,7 @@ sub psalm : ScriptFunc {
   }
   $t .= $gabc ? "}\n" : "\n";			# end chant with brace for recognition
   if ($version =~ /Monastic/ && $num == 129 && $hora eq 'Prima') { $t .= $prayers{$lang}->{Requiem}; }
-	elsif ($num != 210 && !$nogloria ) { #|| ($gabc && $canticlef)
+	elsif ($num != 210 && !$nogloria ) {
 		if ($gabc && !triduum_gloria_omitted()) {
 			$fname = "$psalmfolder/gloria-$ftone.gabc";
 			$fname =~ s/,/-/g;	# file name with dash not comma
@@ -984,23 +989,22 @@ sub translate {
 #*** ant_Benedictus($num, $lang)
 # returns the antiphona $num=1 = for beginning =2 for end
 sub ant_Benedictus : ScriptFunc {
+  my $num = shift;
+  my $lang = shift;
+  our ($version, $winner);
+  our ($month, $day);
+  our $duplex;
+  
+  my ($ant) = getantvers('Ant', 2, $lang);
 	
-	my $num = shift;
-	my $lang = shift;
-	our ($version, $winner);
-	our ($month, $day);
-	our $duplex;
-	
-	my ($ant) = getantvers('Ant', 2, $lang);
-	
-	if ($month == 12 && ($day == 21 || $day == 23) && $winner =~ /tempora/i) {
-		my %specials = %{setupstring($lang, "Psalterium/Major Special.txt")};
-		$ant = $specials{"Adv Ant $day" . "L"};
-	}
-	
+  if ($month == 12 && ($day == 21 || $day == 23) && $winner =~ /tempora/i) {
+    my %specials = %{setupstring($lang, "Psalterium/Major Special.txt")};
+    $ant = $specials{"Adv Ant $day" . "L"};
+  }
+  
 	my @ant_parts = split('\*', $ant);
 	if ($lang =~ /gabc/i && $ant =~ /\{.*\}/) {
-		$ant_parts[0] =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/;
+		$ant_parts[0] =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/; # Un-duplicate GABC Antiphon
 	}
   if ($num == 1 && $duplex < 3 && $version !~ /196/) { return "Ant. $ant_parts[0]"; }
 
@@ -1045,7 +1049,7 @@ sub ant_Magnificat : ScriptFunc {
 	
 	my @ant_parts = split('\*', $ant);
 	if ($lang =~ /gabc/i && $ant =~ /\{.*\}/) {
-		$ant_parts[0] =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/;
+		$ant_parts[0] =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/; # Un-duplicate GABC Antiphon
 	}
   if ($num == 1 && $duplex < 3 && $version !~ /196/) { return "Ant. $ant_parts[0]"; }
 

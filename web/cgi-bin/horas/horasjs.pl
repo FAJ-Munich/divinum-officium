@@ -178,6 +178,7 @@ PrintTag
   $output
 }
 
+#to convert gabc into chant svg
 sub horasjsend {
 	
 	print "\n<SCRIPT TYPE='text/JavaScript'>\n";

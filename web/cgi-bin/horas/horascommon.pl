@@ -1492,21 +1492,23 @@ sub setheadline {
 				$rankname = $ranktable[$rank];
 			}
 		}
-		if ($lang2 =~ /gabc/i || $lang1 =~ /gabc/i) {
+		if ($lang1 =~ /gabc/i || $lang2 =~ /gabc/i) { # setChantTone if necessary
 			our $chantTone;
 			setChantTone();
-			return "$name ~ $rankname : Tonus $chantTone";
-		} else {
-			return "$name ~ $rankname";
+			if ($lang1 =~ /gabc/i) {
+				return "$name ~ $rankname : Tonus $chantTone"; # Display Chant Tone in Headline
+			}
 		}
+		return "$name ~ $rankname";
+		
 	} else {
 		return $dayname[1];
 	}
 }
 
-
+# captures the appropriate chant types for GABC Common Tones
+# the function is modeled from setheadline(), hence its clumsy look and feel
 sub setChantTone {
-	# aptures the appropriate chant types for GABC Common Tones
 	
 	my %latwinner = %{setupstring('Latin', $winner)};
 	my @latrank = split(';;', $latwinner{Rank});

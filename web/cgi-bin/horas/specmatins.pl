@@ -254,16 +254,16 @@ sub psalmi_matutinum {
 	
 	if ($lang =~/gabc/i) {
 		foreach my $psalmline (@psalmi) {
-			my @a = split(';;', $psalmline);
+			my @a = split(';;', $psalmline); # retrieve psalmtone behind second ;;
 			if (@a > 2) {
 				my $ant0 = chompd($a[0]);
 				my @psalm0 = split(';', chompd($a[1]));
 				my $psalmTone = chompd($a[2]);
 				foreach my $ps0 (@psalm0) {
-					$ps0 = "'$ps0,$psalmTone'";
+					$ps0 = "'$ps0,$psalmTone'"; # combine psalm tone with all psalms
 				}
 				my $psalm0 = join(';', @psalm0);
-				$psalmline = "$ant0;;$psalm0";
+				$psalmline = "$ant0;;$psalm0"; # recombine antiphone line
 			}
 		}
 	}
@@ -1245,7 +1245,7 @@ sub responsory_gloria {
 			|| ($num == 2 && $winner =~ /C10/)  # or at BMV in Sabbato
 			|| ($num == 2 && ($rule =~ /Feria Te Deum/i || $dayname[0] =~ /Pasc[07]/i) && $rule !~ /9 lectiones/i))	{ # let's add the Gloria
 		if ($lang =~ /gabc/ && $w =~ /\{.*\}/) {
-			if ($w =~ /\_\s\{gabc:/) { $w =~ s/\_\s\{gabc:(.*)\}/\_ \{gabc:$1-gloria\}/; }
+			if ($w =~ /\_\s\{gabc:/) { $w =~ s/\_\s\{gabc:(.*)\}/\_ \{gabc:$1-gloria\}/; } # choose Responsory with Gloria #TODO: check T.P.!
 				
 		}	elsif ($w !~ /\&Gloria/i) {
 			$w =~ s/[\s_]*$//gs;
