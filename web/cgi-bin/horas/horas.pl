@@ -41,9 +41,11 @@ sub horas {
   $column = 1;
 	my $templang1 = $lang1;
 	my $templang2 = $lang2;
+	my $temponly = $only;
 	if (triduum_gloria_omitted() && $hora =~ /Prima|Tertia|Sexta|Nona|Completorium/i) {
 		$lang1 =~ s/\-gabc//;
 		$lang2 =~ s/\-gabc//;
+		$only = ($lang1 eq $lang2);
 		precedence(); setsecondcol();   #fills our hashes et variables
 	}
 	$translate{$lang1} = setupstring($lang1, "Psalterium/Translate.txt");
@@ -113,6 +115,7 @@ sub horas {
   if ($column == 1) { $searchind++; }
 	$lang1 = $templang1;
 	$lang2 = $templang2;
+	$only = $temponly;
 }
 
 #*** getunits(\@s, $ind)

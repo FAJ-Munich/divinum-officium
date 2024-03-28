@@ -10,7 +10,7 @@ Psalmi Dominica
 [Capitulum Vespera]
 @Sancti/03-19:Capitulum Laudes
 _
-{gabc:Sancti/rb--invocavi_dominum--solesmes_1957}
+{gabc:Sancti/03-19/rb--invocavi_dominum--solesmes_1957}
 
 [AntMatutinumM]
 Induxérunt * púerum Jesum paréntes ejus † ut fácerent secúndum consuetúdinem legis pro eo.;;23

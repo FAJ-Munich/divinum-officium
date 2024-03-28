@@ -27,7 +27,9 @@ Serve bone * et fidélis, intra in gáudium Dómini tui, allelúja.;;116
 @Commune/C4p
 
 [Ant 1]
-O Doctor óptime, * Ecclésiæ sanctæ lumen, beáte N., divínæ legis amátor, deprecáre pro nobis Fílium Dei, allelúja.
+{name:O Doctor optime;annotation:2.D;mode:2;book:The Liber Usualis, 1961, p. 1188 & Liber antiphonarius, 1960, p. [66] & Liber antiphonarius, 1960, p. 577.17;transcriber:Andrew Hinkley;%%(f3) O(ehhg) Do(h)ctor(f) ó(gf)pti(ef)me,(f'_) *(,) Ec(f)clé(fg)si(f)ae(f) san(g_[uh:l]h)ctae(fg) lu(ff)men,(e.) (;) be(f)á(cf)te(f) N. (;) di(j)ví(j')nae(i) le(h)gis(hg) a(f!gwh)má(h)tor :(e.) (:) de(eh)pre(g')cá(h)re(g') pro(f) no(g)bis(f.) (,) Fí(e_[uh:l]f)li(h_g)um(e) De(gg)i.(f.) (::) ^<i>T. P.</i>^ Al(e)le(ef)lú(f.){ia}.(f.) (::)}
+(sed rubrica monastica)
+{name:O Doctor optime;annotation:2.D;mode:2;book:Antiphonale Monasticum, 1934, p. 665;transcriber:Matthias Bry;%%(f3)O(ehhg) Do(hg)ctor(f) óp(gf)ti(ef)me,(f'_) <v>\greheightstar</v>(,) Ec(f)clé(fg)si(f)æ(f) san(g_h)ctæ(fg) lu(f)men,(e.) (;) be(f)á(ef)te(f) N. (,) di(j)ví(j)næ(i') le(h)gis(hg) a(f!gwh)má(h)tor :(e.) (;) de(eh)pre(g)cá(h')re(g) pro(f') no(g)bis(f.) (,) Fí(e_f)li(h_g)um(e) De(gh)i.(f.)  (::) ^<i>T. P.</i>^ Al(e)le(ef)lú(f.)ia.(f.) (::)}
 
 [Invit]
 Regem Confessórum Dóminum, * Veníte, adorémus, allelúja.
@@ -83,7 +85,7 @@ R. Ideo jurejurando fecit illum Dominus crescere in plebem suam, allelúja.
 @Commune/C4a
 
 [Responsory3]
-{gabc:Commune/re--juravitdominus--sandhofe-TP}
+{gabc:Commune/C4/re--juravitdominus--sandhofe-TP}
 
 [Lectio4]
 @Commune/C4

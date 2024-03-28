@@ -428,12 +428,12 @@ Amen.
 [Hymnus Completorium]
 {gabc:Psalterium/hy--te_lucis_ante_terminum_in_fer_et_fest_simpl--solesmes}
 (sed tempore Passionis)
-{gabc:Psalterium/hy--te_lucis_ante_terminum_passiontide--solesmes_1961.1}
+{gabc:Psalterium/Passionis/hy--te_lucis_ante_terminum_passiontide--solesmes_1961.1}
 
 [HymnusM Completorium]
 {gabc:Psalterium/hy--te_lucis_ante_terminum_in_feriis_per_annum--solesmes_1934}
 (sed tempore Passionis)
-{gabc:Psalterium/hy--te_lucis_ante_terminum_in_tempore_passionis--solesmes_1934}
+{gabc:Psalterium/Passionis/hy--te_lucis_ante_terminum_in_tempore_passionis--solesmes_1934}
 
 [Hymnus Tertia]
 v. Nunc, Sancte, nobis, Spíritus,
@@ -453,7 +453,7 @@ Regnans per omne sǽculum.
 Amen.
 
 [HymnusM Tertia] (tempore Passionis)
-{gabc:quadragesima/hy--nunc_sancte_nobis_in_tempore_passionis--solesmes_1934}
+{gabc:Psalterium/Passionis/hy--nunc_sancte_nobis_in_tempore_passionis--solesmes_1934}
 
 [Hymnus Sexta]
 v. Rector potens, verax Deus,
@@ -476,7 +476,7 @@ Amen.
 @:Hymnus Sexta:s/illúminas/ínstruis/
 
 [HymnusM Sexta] (tempore Passionis)
-{gabc:quadragesima/hy--rector_potens_in_tempore_passionis--solesmes_1934}
+{gabc:Psalterium/Passionis/hy--rector_potens_in_tempore_passionis--solesmes_1934}
 
 [Hymnus Nona]
 v. Rerum, Deus, tenax vigor,
@@ -499,7 +499,7 @@ Amen.
 @:Hymnus Nona:s/lumen/clarum/
 
 [HymnusM Nona] (tempore Passionis)
-{gabc:quadragesima/hy--rerum_deus_in_tempore_passionis--solesmes_1934}
+{gabc:Psalterium/Passionis/hy--rerum_deus_in_tempore_passionis--solesmes_1934}
 
 [Hymnus Prima]
 v. Jam lucis orto sídere,
@@ -531,6 +531,6 @@ Amen.
 [HymnusM Prima]
 @:Hymnus Prima:s/Nunc et per omne sǽculum/Et nunc et in perpétuum/
 (sed tempore Passionis)
-{gabc:quadragesima/hy--jam_lucis_orto_sidere_in_tempore_passionis--solesmes_1934}
+{gabc:Psalterium/Passionis/hy--jam_lucis_orto_sidere_in_tempore_passionis--solesmes_1934}
 (sed tonus in solemnitatibus)
-{gabc:toni_communes/hy--jam_lucis_orto_sidere_solemnitatibus--solesmes_1934}
+{gabc:Psalterium/hy--jam_lucis_orto_sidere_solemnitatibus--solesmes_1934}

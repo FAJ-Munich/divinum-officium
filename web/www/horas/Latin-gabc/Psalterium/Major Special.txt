@@ -1113,7 +1113,7 @@ $Deo gratias
 [HymnusM Quad5 Vespera]
 {gabc:hy--vexilla_regis_exaltatio--solesmes_1934}
 (sed tempore Passionis)
-{gabc:quadragesima/hy--vexilla_regis_tempore_passionis--solesmes_1934}
+{gabc:Psalterium/Passionis/hy--vexilla_regis_tempore_passionis--solesmes_1934}
 (sed tempore Paschali)
 {gabc:hy--vexilla_regis_inventio--solesmes_1934}
 
@@ -1759,7 +1759,7 @@ R. Érue a frámea * Deus ánimam meam.
 [Quad5M Vespera]
 @:Quad5 Vespera
 _
-{gabc:quadragesima/rb--de_ore_leonis--solesmes_1934}
+{gabc:Psalterium/Passionis/rb--de_ore_leonis--solesmes_1934}
 
 [PaschM Laudes]
 @:Pasch Laudes

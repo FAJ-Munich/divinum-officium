@@ -12,89 +12,89 @@ Minores sine Antiphona
 Feria
 
 [Ant Matutinum]
-{gabc:tenebrae/an--zelus_domus_tuae--solesmes_1961.1};;'68,8c'
-{gabc:tenebrae/an--avertantur_retrorsum--solesmes_1961};;'69,8c'
-{gabc:tenebrae/an--deus_meus_eripe_me--solesmes_1961.1};;'70,8c'
+{gabc:tenebrae/coena/an--zelus_domus_tuae--solesmes_1961.1};;'68,8c'
+{gabc:tenebrae/coena/an--avertantur_retrorsum--solesmes_1961};;'69,8c'
+{gabc:tenebrae/coena/an--deus_meus_eripe_me--solesmes_1961.1};;'70,8c'
 {initial-style:0;%%(c4) V/. A(h)ver(h)tán(h)tur(h) re(h)trór(h)sum,(h) et (h) e(i')ru(h)bé(g.)scant.(g.) (::)}
 {initial-style:0;%%(c4) R/. Qui(h) có(h)gi(h)tant(h) mí(i')hi(h) má(g.)la.(g.) (::)}
-{gabc:tenebrae/an--liberavit_dominus};;'71,7c'
-{gabc:tenebrae/an--cogitaverunt_impii};;'72,8c'
-{gabc:tenebrae/an--exsurge_domine_et_judica};;'73,1g'
+{gabc:tenebrae/coena/an--liberavit_dominus};;'71,7c'
+{gabc:tenebrae/coena/an--cogitaverunt_impii};;'72,8c'
+{gabc:tenebrae/coena/an--exsurge_domine_et_judica};;'73,1g'
 {initial-style:0;%%(c4) V/. De(h)us(h) me(h)us,(h) é(h)ri(h)pe(h) me(h) de(h) ma(h)nu(h) pec(i')ca(h)tó(g.)ris.(g.) (::)}
 {initial-style:0;%%(c4) R/. Et(h) de(h) ma(h)nu(h) con(h)tra(h) le(h)gem(h) a(h)gén(h)tis(h) et(i') in(h)í(g.)qui.(g.) (::)}
-{gabc:tenebrae/an--dixi_iniquis};;'74,7c'
-{gabc:tenebrae/an--terra_tremuit};;'75,8c'
-{gabc:tenebrae/an--in_die_tribulationis};;'76,7a'
+{gabc:tenebrae/coena/an--dixi_iniquis};;'74,7c'
+{gabc:tenebrae/coena/an--terra_tremuit};;'75,8c'
+{gabc:tenebrae/coena/an--in_die_tribulationis};;'76,7a'
 {initial-style:0;%%(c4) V/. Ex(h)súr(i')ge,(h) Dó(g')mi(g.)ne.(g.) (::)}
 {initial-style:0;%%(c4) R/. Et(h) jú(h)di(h)ca(h) cau(i')sam(h) me(g.)am.(g.) (::)}
 
 [Lectio1]
 !Lam 1:1-5 
-{gabc:tenebrae/va--incipit_lamentatio_jeremiae_prophetae--solesmes}
+{gabc:tenebrae/coena/va--incipit_lamentatio_jeremiae_prophetae--solesmes}
 
 [Responsory1]
-{gabc:tenebrae/re--in_monte_oliveti--solesmes_1961}
+{gabc:tenebrae/coena/re--in_monte_oliveti--solesmes_1961}
 
 [Lectio2]
 !Lam 1:6-9
-{gabc:tenebrae/va--vau_et_egressus_est--solesmes}
+{gabc:tenebrae/coena/va--vau_et_egressus_est--solesmes}
 
 [Responsory2]
-{gabc:tenebrae/re--tristis_est--solesmes_1961}
+{gabc:tenebrae/coena/re--tristis_est--solesmes_1961}
 
 [Lectio3]
 !Lam 1:10-14
-{gabc:tenebrae/va--jod_manum_suam_misit--solesmes}
+{gabc:tenebrae/coena/va--jod_manum_suam_misit--solesmes}
 
 [Responsory3]
-{gabc:tenebrae/re--ecce_vidimus_--solesmes_1961.1}
+{gabc:tenebrae/coena/re--ecce_vidimus_--solesmes_1961.1}
 
 [Lectio4]
 !In Psalmum 54 ad 1 versum
-{gabc:tenebrae/lesson-cena-4}
+{gabc:tenebrae/coena/lesson-cena-4}
 
 [Responsory4]
-{gabc:tenebrae/re--amicus_meus}
+{gabc:tenebrae/coena/re--amicus_meus}
 
 [Lectio5]
-{gabc:tenebrae/lesson-cena-5}
+{gabc:tenebrae/coena/lesson-cena-5}
 
 [Responsory5]
-{gabc:tenebrae/re--judas_mercator}
+{gabc:tenebrae/coena/re--judas_mercator}
 
 [Lectio6]
-{gabc:tenebrae/lesson-cena-6}
+{gabc:tenebrae/coena/lesson-cena-6}
 
 [Responsory6]
-{gabc:tenebrae/re--unus_ex_discipulis}
+{gabc:tenebrae/coena/re--unus_ex_discipulis}
 
 [Lectio7]
 !1 Cor 11:17-22
-{gabc:tenebrae/lesson-cena-7}
+{gabc:tenebrae/coena/lesson-cena-7}
 
 [Responsory7]
-{gabc:tenebrae/re--eram_quasi_agnus}
+{gabc:tenebrae/coena/re--eram_quasi_agnus}
 
 [Lectio8]
 !1 Cor 11:23-26
-{gabc:tenebrae/lesson-cena-8}
+{gabc:tenebrae/coena/lesson-cena-8}
 
 [Responsory8]
-{gabc:tenebrae/re--una_hora}
+{gabc:tenebrae/coena/re--una_hora}
 
 [Lectio9]
 !1 Cor 11:27-34
-{gabc:tenebrae/lesson-cena-9}
+{gabc:tenebrae/coena/lesson-cena-9}
 
 [Responsory9]
-{gabc:tenebrae/re--seniores}
+{gabc:tenebrae/coena/re--seniores}
 
 [Ant Laudes]
-{gabc:tenebrae/an--justificeris_domine};;;;8G
-{gabc:tenebrae/an--dominus_tamquam_ovis};;;;2
-{gabc:tenebrae/an--contritum_est_cor_meum};;;;8G
-{gabc:tenebrae/an--exhortatus_es};;;;4-alt-Astar
-{gabc:tenebrae/an--oblatus_est};;;;2
+{gabc:tenebrae/coena/an--justificeris_domine};;;;8G
+{gabc:tenebrae/coena/an--dominus_tamquam_ovis};;;;2
+{gabc:tenebrae/coena/an--contritum_est_cor_meum};;;;8G
+{gabc:tenebrae/coena/an--exhortatus_es};;;;4-alt-Astar
+{gabc:tenebrae/coena/an--oblatus_est};;;;2
 
 [Versum 2]
 {initial-style:0;%%(c4) V/. Ho(h)mo(h) pa(h)cis(h) mé(h)æ,(h) in(h) quo(i') spe(h)rá(g.)vi.(g.) (::)}
@@ -105,6 +105,8 @@ Feria
 
 [Oratio]
 v. . {(c4) CHri(ffg)stus(f.) *(,) fa(fg)ctus(f) est(f') pro(f) no(ghF'ED.g_[oh:h]e/fg)bis(f.) (;) ob(f)é(hf/gh!jj/kjk)di(jij)ens(h_g) (,) us(h!jjh)que(f.) ad(ixfiH'Gh) mor(f_[oh:h]g_[oh:h]f_[oh:h])tem.(f.) (::)}
+(sed hora vespera)
+v. Christus factus est pro nobis obédiens usque ad mortem. /:sine cantu:/
 $Pater totum secreto
 !aliquantulum altius
 _
@@ -135,7 +137,18 @@ $Qui tecum
 {gabc:tenebrae/an--considerabam_ad_dexteram--solesmes_1934};;141;;7a
 
 [Ant 3]
-{name:Coenantibus autem;annotation:1.f;book:Antiphonale Romanum 1949, p. 437;%%(c4) CŒ(d)nán(d_c)ti(f)bus(g) au(fgwhv_)tem,(h_') (,) ac(f)cé(h')pit(j) Je(h)sus(gf) pa(g_0h)nem,(g.) (;) be(g)ne(g')dí(g)xit(e') ac(g) fre(h_g)git,(f_') (,) de(g)dít(e) di(dc)scí(e_0g)pu(e)lis(fe) su(d.)is.(d.) (::)};;1f
+{name:Coenantibus autem;annotation:1.f;book:Antiphonale Romanum 1949, p. 437;%%(c4) CŒ(d)nán(d_c)ti(f)bus(g) au(fgwhv_)tem,(h_') (,) ac(f)cé(h')pit(j) Je(h)sus(gf) pa(g_0h)nem,(g.) (;) be(g)ne(g')dí(g)xit(e') ac(g) fre(h_g)git,(f_') (,) de(g)dít(e) di(dc)scí(e_0g)pu(e)lis(fe) su(d.)is.(d.) (::)};;solemn1f
+
+[Oratio Vespera]
+/:sine cantu:/
+v. Christus factus est pro nobis obédiens usque ad mortem.
+$Pater totum secreto
+!aliquantulum altius
+_
+&psalm(50)
+(sed rubrica 1955 aut rubrica 196 omittitur)
+@Tempora/Quad6-4:Oratio Matutinum
+
 
 [Special Completorium]
 !Special Completorium

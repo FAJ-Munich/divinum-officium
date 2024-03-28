@@ -502,18 +502,18 @@ sub setcell {
 				my(@gregScore) = do_read($gregFile);
 				$text =~ s/gabc:$temp/@gregScore/s;
 			}
-			while($text =~ /\{(\(|name:|initial-style:)(.+?)\(\:\:\)\}/is) {
+			while($text =~ /\{(\(|name:|initial-style:|centering-scheme:)(.+?)\(\:\:\)\}/is) {
 				$dId++;
-				$text =~ s/\{(\(|name:|initial-style:)/<DIV ID="GABC$hora$searchind$dId" class="GABC">$1/s;
+				$text =~ s/\{(\(|name:|initial-style:|centering-scheme:)/<DIV ID="GABC$hora$searchind$dId" class="GABC">$1/s;
 				$text =~ s/<i>T.\s?P.<\/i>/\_\^T. P.\^\_ /g;
 			  $text =~ s/<\/?i>/\_/g;
 				$text =~ s/<\/?b>|<v>\\greheightstar<\/v>/*/g;
 				$text =~ s/<\/?sc>/\%/g;
 				$text =~ s/<\/?c>/\^/g;
+				$text =~ s/<sp>\'(?:ae|æ)<\/sp>/ǽ/g;
+				$text =~ s/<sp>\'(?:oe|œ)<\/sp>/œ́/g;
 				$text =~ s/<sp>(?:ae|æ)<\/sp>/æ/g;
 				$text =~ s/<sp>(?:oe|œ)<\/sp>/œ/g;
-				$text =~ s/<sp>'(?:ae|æ)<\/sp>/ǽ/g;
-				$text =~ s/<sp>'(?:oe|œ)<\/sp>/œ́/g;
 				$text =~ s/; <br>\n/;\n/gi;
 				$text =~ s/%% <br>\n/%%\n/gi;
 				$text =~ s/%%\(/%%\n\(/gi;

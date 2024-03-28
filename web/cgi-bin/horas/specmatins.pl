@@ -156,7 +156,7 @@ sub nocturn {
 	pop(@s);
 	push(@s, "Ant. $lastant", "\n");
 
-	# versus cant be text or reference (number)
+	# versus can't be text or reference (number)
 	my (@vs) = ($select[-1] =~ /^\d+$/ ? (@{$psalmi}[$select[-2]], @{$psalmi}[$select[-1]]) : ($select[-2], $select[-1]));
 	process_inline_alleluias($vs[0]);
 	process_inline_alleluias($vs[1]);
@@ -224,12 +224,13 @@ sub psalmi_matutinum {
 		}
 		setbuild2("Subst Matutitunun Versus $name $dayofweek");
 	}
-	my ($w, $c) = getproprium('Ant Matutinum', $lang, 0, 1);
 	
+	my ($w, $c) = getproprium('Ant Matutinum', $lang, 0, 1);
 	if ($w) {
 		@psalmi = split("\n", $w);
 		$comment = $c;
 		$prefix .= ' ' . translate('et Psalmi', $lang);
+		#setbuild2("Subst proper Ant Matutinum $winner");
 	}
 
 	if ($dayname[0] =~ /Pasc[1-6]/i && $votive !~ /C9/) {
@@ -247,6 +248,22 @@ sub psalmi_matutinum {
 				$psalmi[10] =~ s/^.*?;;/$wa;;/; 
 			} else {
 				$psalmi[$ind] =~ s/^.*?;;/$wa;;/;
+			}
+		}
+	}
+	
+	if ($lang =~/gabc/i) {
+		foreach my $psalmline (@psalmi) {
+			my @a = split(';;', $psalmline);
+			if (@a > 2) {
+				my $ant0 = chompd($a[0]);
+				my @psalm0 = split(';', chompd($a[1]));
+				my $psalmTone = chompd($a[2]);
+				foreach my $ps0 (@psalm0) {
+					$ps0 = "'$ps0,$psalmTone'";
+				}
+				my $psalm0 = join(';', @psalm0);
+				$psalmline = "$ant0;;$psalm0";
 			}
 		}
 	}
@@ -272,16 +289,14 @@ sub psalmi_matutinum {
 	if ($rule =~ /9 lectio/i && !$ltype1960 && $rank >= 2 && !($version =~ /trident/i && $winner{Rank} =~ /Dominica/i && $dayofweek>0)) {
 		setbuild2("9 lectiones");
 		
-		if ($dayname[0] =~ /Pasc/i && !exists($winner{'Ant Matutinum'}) && $rank < 5) {    #??? ex
+		if ($dayname[0] =~ /Pasc/i && !exists($winner{'Ant Matutinum'}) && $rank < 5) {    # Paschal tide
 			my $dname = ($winner{Rank} =~ /Dominica/i) ? 'Dominica' : 'Feria';
 			@spec = split("\n", $spec{"Pasc Ant $dname"});
-			foreach my $i (3, 4, 8, 9, 13, 14) { $psalmi[$i] = $spec[$i]; }
-		} elsif ($winner =~ /tempora/i
-		&& $dayname[0] =~ /(Adv|Quad|Pasc)/i
-		&& !exists($winner{'Ant Matutinum'}))
+			foreach my $i (3, 4, 8, 9, 13, 14) { $psalmi[$i] = $spec[$i]; }		# replace Versicles at Nocturns
+		} elsif ($winner =~ /tempora/i && $dayname[0] =~ /(Adv|Quad|Pasc)/i && !exists($winner{'Ant Matutinum'})) # Advent, Quad, and Paschaltide
 		{
-			$tmp = $1;
-			if ($dayname[0] =~ /(Quad5|Quad6)/) { $tmp = 'Quad5'; }
+			$tmp = $1;		# Adv or Quad or Pasc
+			if ($dayname[0] =~ /(Quad5|Quad6)/) { $tmp = 'Quad5'; }	# change for Passiontide
 			@spec = split("\n", $spec{"$tmp 1 Versum"});
 			if (@spec) { $psalmi[3] = $spec[0]; $psalmi[4] = $spec[1]; }
 			@spec = split("\n", $spec{"$tmp 2 Versum"});

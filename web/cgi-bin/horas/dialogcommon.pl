@@ -130,6 +130,7 @@ our %subjects = (
   'die' => \&get_dayname_for_condition,
 	tonus => sub {$chantTone},
 	tonus => sub {$chantTone},
+	hora => sub {$hora},
 );
 our %predicates = (
   tridentina => sub { shift =~ /Trident/ },

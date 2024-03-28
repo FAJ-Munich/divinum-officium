@@ -24,7 +24,7 @@ v. Vir fidélis multum laudábitur. Et, qui custos est Dómini sui, glorificábi
 $Deo gratias 
 
 [Hymnus Vespera]
-{gabc:Sancti/hy--te_joseph_celebrent--solesmes.1}
+{gabc:Sancti/03-19/hy--te_joseph_celebrent--solesmes.1}
 
 [Versum 1]
 {initial-style:0;%%(c3) V/. Con(h)stí(h)tu(h)it(h) e(h)um(h) dó(hi)mi(hr)num(h_0)(,) do(h)mus(fe) su(f_h)æ.(hiH'Ghih.ghG'FE'fggf.) (::)}

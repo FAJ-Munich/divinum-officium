@@ -162,7 +162,7 @@ R. Ideo jurejurándo fecit illum Dóminus créscere in plebem suam.
 8 verbum sanum, irreprehensíbile: ut is qui ex advérso est, vereátur, nihil habens malum dícere de nobis.
 
 [Responsory3]
-{gabc:Commune/re--juravitdominus--sandhofe}
+{gabc:Commune/C4/re--juravitdominus--sandhofe}
 
 [Lectio4]
 Sermo sancti Maxími Epíscopi
