@@ -532,39 +532,39 @@ sub psalm : ScriptFunc {
       next;
     }
 
-    if ($line =~ /^\s*([0-9]+)\:([0-9]+)([abc]?)/) {
-      $v = $2; $cc = $3;
-    } elsif ($line =~ /^\s*([0-9]+)([abc]?)/) {
-      $v = $1; $cc = $2;
-    }
-    if ($v < $v1 && $v > 0) { next; }
+		if ($line =~ /^\s*([0-9]+)\:([0-9]+)([abc]?)/) {
+			$v = $2; $cc = $3;
+		} elsif ($line =~ /^\s*([0-9]+)([abc]?)/) {
+			$v = $1; $cc = $2;
+		}
+		if ($v < $v1 && $v > 0) { next; }
 		if($cc && $v == $v1 && $cc lt $c1) { next; } # breaking within a Psalm Verse
-    if ($v > $v2) { last; }
+		if ($v > $v2) { last; }
 		if($cc && $v == $v2 && $cc gt $c2) { last; } # breaking within a Psalm Verse
-    my $lnum = '';
-
-    if ($line =~ /^([0-9]*[\:]*[0-9]+[abc]?)(.*)/) {
-      $lnum = setfont($smallfont, $1) unless ($nonumbers);
-      $line = $2;
-    }
-    my $rest;
-
-    if ($line =~ /(.*?)(\(.*?\))(.*)/) {
-      $rest = $3;
-      $before = $1;
-      $this = $2;
-      $before =~ s/^\s*([a-z])/uc($1)/ei;
-      $line = $before . setfont($smallfont, ($this));
-      $initial = 0 if ($rest);
-    } else {
-      $rest = $line;
-      $line = '';
-      if ($initial) {
-        $lnum = "v. ";
-        $initial = 0;
-      }
-    }
-    $rest =~ s/[ ]*//;
+		my $lnum = '';
+		
+		if ($line =~ /^([0-9]*[\:]*[0-9]+[abc]?)(.*)/) {
+			$lnum = setfont($smallfont, $1) unless ($nonumbers);
+			$line = $2;
+		}
+		my $rest;
+			
+		if ($line =~ /(.*?)(\(.*?\))(.*)/) {
+			$rest = $3;
+			$before = $1;
+			$this = $2;
+			$before =~ s/^\s*([a-z])/uc($1)/ei;
+			$line = $before . setfont($smallfont, ($this));
+			$initial = 0 if ($rest);
+		} else {
+			$rest = $line;
+			$line = '';
+			if ($initial) {
+				$lnum = "v. ";
+				$initial = 0;
+			}
+		}
+		$rest =~ s/[ ]*//;
 
     if ($prepend_dagger) {
       $rest = "\x{2021} $rest";
