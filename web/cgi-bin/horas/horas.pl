@@ -507,8 +507,7 @@ sub psalm : ScriptFunc {
     $lang = $a[3];
     $antline = $a[4];
   }
-	
-  my $canticlef = 230 < $num && $num < 234;
+	my $canticlef = 230 < $num && $num < 234;
 
 	if ($num =~ /^-(.*)/) {
 		$num = $1;
@@ -548,7 +547,7 @@ sub psalm : ScriptFunc {
 	
 	# select right Psalm file
 	if ($lang =~ /gabc/i) {
-		if($num > 230 && $num < 233) { $num .= ",$canticaTone"; }
+		if($canticaTone && $num > 230 && $num < 233) { $num .= ",$canticaTone"; }
 		$fname = ($num =~ /,/) ? "$psalmfolder/$num.gabc" : "$psalmfolder/Psalm$num.txt"; # distingiush between chant and text
 		$fname =~ s/\:/\./g;
 		$fname =~ s/,/-/g;	# file name with dash not comma

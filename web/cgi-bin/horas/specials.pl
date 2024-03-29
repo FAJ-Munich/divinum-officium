@@ -393,7 +393,9 @@ sub specials {
             postprocess_ant($t[$tind], $lang) if ($version =~ /1960/ || $non_first_ant);
           }
           $non_first_ant = 1;
-        }
+				} elsif ($lang =~ /gabc/i && $w && $non_first_ant) {
+					$t[$tind] = (split("\n", $w))[1];	# get special Tone for Nunc dimittis in Easter octave
+				}
         push(@s, $t[$tind++]);
       }
       next;
