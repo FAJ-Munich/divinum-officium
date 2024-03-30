@@ -64,13 +64,19 @@ sub invitatorium {
 	}
 	$ant =~ s/^.*?\=\s*//;
 	$ant = chompd($ant);
+	my $invitMode;
+	if ($lang =~ /gabc/i) { $ant =~ s/;;(.*)$//; $invitMode = $1; } # strip Invit Mode from Antiphone
 	$ant = "Ant. $ant";
 	postprocess_ant($ant, $lang);
 	my @ant = split('\*', $ant);
+	if ($lang =~ /gabc/i && $ant =~ /(\([cf][1-4]\))/) {	# postProcess Ant1 for GABC
+		$ant[1] = '{' . $1 . $ant[1];
+	}
 	my $ant2 = "Ant. $ant[1]";
 
 	my $invitpath = "Psalterium/Invitatorium.txt";
 	$invitpath =~ s/Psalterium/PiusXII/ if ($lang eq 'Latin' && $psalmvar);
+	if ($lang =~ /gabc/i && $invitMode) { $invitpath = "Psalterium/Invitatorium-$invitMode.txt"; }
 	$fname = checkfile($lang, $invitpath);
 	
 	if (my @a = do_read($fname)) {
@@ -972,12 +978,11 @@ sub lectio : ScriptFunc {
 			
 			#$$$ watch initia rule
 		}
-		
+
 		if (!$s) {
 			my %w = (columnsel($lang)) ? %winner : %winner2;
 			if ($winner =~ /C9/ && $na == 9) { $na = 91; }
 			if (exists($w{"Responsory$na"})) { $s = $w{"Responsory$na"}; }
-			
 			if (!$s) {
 				%w = (columnsel($lang)) ? %commune : %commune2;
 				if (exists($w{"Responsory$na"})) { $s = $w{"Responsory$na"}; }
@@ -996,12 +1001,12 @@ sub lectio : ScriptFunc {
 		$tuautem = '$Tu autem';
 	}
 	$w =~ s/^\_//;
-	
+		
 	if ($rule !~ /Limit.*?Benedictio/i) {
 		my $before = '';
 		my $rest = $w;
 		$rest =~ s/[\n\_ ]*$//gs;
-		while ($rest =~ /(.*?)_(.*)/s) { $before .= "$1_"; $rest = $2; }
+		while ($rest =~ /(.*?\s)_(.*)/s) { $before .= "$1_"; $rest = $2; }
 		if (!$before) { $before = $w; $rest = ''; }
 		$before =~ s/[\n\_ ~]*$//gs;
 		
@@ -1012,7 +1017,7 @@ sub lectio : ScriptFunc {
 			$before .= "\n_\n$1";
 			$rest = "&teDeum\n";
 		}
-		$w = "$before" . "\n$tuautem\n_\n$rest";
+		$w = "$before" . "\n$tuautem\n\_\n$rest";
 	}
 	
 	# add initial to text
