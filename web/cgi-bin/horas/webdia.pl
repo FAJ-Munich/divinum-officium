@@ -501,7 +501,9 @@ sub setcell {
 					$gregFile = checkfile($lang, $gregFile);
 				}
 				my(@gregScore) = do_read($gregFile);
-				$text =~ s/gabc:$temp/@gregScore/s;
+				if (@gregScore) {
+					$text =~ s/gabc:$temp/@gregScore/s;
+				}
 			}
 			
 			# identify all GABC sections and post process to be suitable for JavaScript
@@ -528,6 +530,7 @@ sub setcell {
 				$text =~ s/<sp>V\/<\/sp>\.?/V\/\.() /g;
 				$text =~ s/<sp>R\/<\/sp>\.?/R\/\.() /g;
 				$text =~ s/<\/?nlba>//g;
+				$text =~ s/\((.*)>(.*)\)/\($1$2\)/g; # there seems to be an issue with interpreting the > sign in neumes
 				$text =~ s/\(\:\:\)\}/\(\:\:\)<\/DIV><DIV ID="GCHANT$hora$searchind$dId" class="GCHANT" width="100\%"><\/DIV>/s;
 				$text =~ s/\_/\|\|/g;
 			}

@@ -1390,7 +1390,9 @@ sub columnsel {
 # appropriate translation for $lang).
 sub ensure_single_alleluia(\$$) {
   my ($text, $lang) = @_;
-  our %prayers;
+	if ($lang =~ /gabc/i) { return; }
+	
+	our %prayers;
   my $alleluia = $prayers{$lang}->{'Alleluia Simplex'};
   $alleluia =~ s/\s+$//;
   my $alleluia_depunct = depunct($alleluia);
@@ -1406,6 +1408,8 @@ sub ensure_single_alleluia(\$$) {
 # the Paschal form.
 sub ensure_double_alleluia(\$$) {
   my ($text, $lang) = @_;
+	if ($lang =~ /gabc/i) { return; }
+	
   our %prayers;
   my $alleluia = $prayers{$lang}->{'Alleluia Duplex'};
   $alleluia =~ s/\s+$//;
@@ -1427,12 +1431,17 @@ sub process_inline_alleluias(\$) {
   my $text = shift;
   our @dayname;
 
-  if ($dayname[0] !~ /Pasc/i) {
-    $$text =~ s/\(Allel[uú][ij]a.*?\)//isg;
-  } else {
-    $$text =~ s/\((Allel[uú][ij]a.*?)\)/$1/isg;
-  }
-  if ($dayname[0] =~ /Quad/i) { $$text =~ s/[(]*allel[uú][ij]a[\.\,]*[)]*//ig; }
+	if($lang !~ /gabc/i) {
+		if ($dayname[0] !~ /Pasc/i) {
+			$$text =~ s/\(Allel[uú][ij]a.*?\)//isg;
+		} else {
+			$$text =~ s/\((Allel[uú][ij]a.*?)\)/$1/isg;
+		}
+		if ($dayname[0] =~ /Quad/i) { $$text =~ s/[(]*allel[uú][ij]a[\.\,]*[)]*//ig; }
+	} else {
+		if ($dayname[0] !~ /Pasc/i) { $$text =~ s/\s?<i>T.\s?P.<\/i>.*?\(\:\:\)//isg; }
+		if ($dayname[0] =~ /Quad/i) { $$text =~ s/[(]*al\(.*\)le\(.*\)l[uú]\(.*\)[ij]a[\.\,]*\(.*\)[)]*//ig; }
+	}
 }
 
 #*** postprocess_ant($ant, $lang)
