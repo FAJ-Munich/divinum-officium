@@ -510,11 +510,12 @@ sub setcell {
 			while($text =~ /\{(\(|name:|initial-style:|centering-scheme:)(.+?)\(\:\:\)\}/is) {
 				$dId++;
 				$text =~ s/\{(\(|name:|initial-style:|centering-scheme:)/<DIV ID="GABC$hora$searchind$dId" class="GABC">$1/s;
-				$text =~ s/<i>T.\s?P.<\/i>/\_\^T. P.\^\_ /g;
-			  $text =~ s/<\/?i>/\_/g;
+				$text =~ s/<i>T.\s?P.<\/i>/\_\^T. P.\^\_ /g;  #Tempore Paschalis
+			  $text =~ s/<\/?i>/\_/g; # italics
 				$text =~ s/<\/?b>|<v>\\greheightstar<\/v>/*/g;
-				$text =~ s/<\/?sc>/\%/g;
-				$text =~ s/<\/?c>/\^/g;
+				$text =~ s/<\/?sc>/\%/g; # small capitals
+				$text =~ s/<\/?c>/\^/g;	# coloured
+				$text =~ s/<\/?e>/\_/g; # elisions
 				$text =~ s/<sp>\'(?:ae|æ)<\/sp>/ǽ/g;
 				$text =~ s/<sp>\'(?:oe|œ)<\/sp>/œ́/g;
 				$text =~ s/<sp>(?:ae|æ)<\/sp>/æ/g;
