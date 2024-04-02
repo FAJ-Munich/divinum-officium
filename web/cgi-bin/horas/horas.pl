@@ -1390,7 +1390,7 @@ sub columnsel {
 # appropriate translation for $lang).
 sub ensure_single_alleluia(\$$) {
   my ($text, $lang) = @_;
-	if ($lang =~ /gabc/i) { return; } # TODO: check T.P.
+	if ($lang =~ /gabc/i) { return; } # TODO: check T.P. (for Antiphones and Versicles)
 	
 	our %prayers;
   my $alleluia = $prayers{$lang}->{'Alleluia Simplex'};
@@ -1408,7 +1408,7 @@ sub ensure_single_alleluia(\$$) {
 # the Paschal form.
 sub ensure_double_alleluia(\$$) {
   my ($text, $lang) = @_;
-	if ($lang =~ /gabc/i) { return; } # TODO: check T.P.
+	if ($lang =~ /gabc/i) { return; } # TODO: check T.P. (for Resp. breve)
 	
   our %prayers;
   my $alleluia = $prayers{$lang}->{'Alleluia Duplex'};

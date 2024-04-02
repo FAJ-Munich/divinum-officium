@@ -238,15 +238,14 @@ v. Christus resúrgens ex mórtuis jam non móritur, mors illi ultra non dominá
 $Deo gratias
 
 [Responsory Pasch Tertia]
-R.br. Surréxit Dóminus de sepúlcro, * Allelúja, allelúja.
-R. Surréxit Dóminus de sepúlcro, * Allelúja, allelúja.
-V. Qui pro nobis pepéndit in ligno.
-R. Allelúja, allelúja.
-&Gloria
-R. Surréxit Dóminus de sepúlcro, * Allelúja, allelúja.
+R.br. {(c4) SUr(f)ré(f)xit(f) Dó(g')mi(f)nus(f) de(f) se(e')púl(g)cro,(h.) (;) *() Al(h)le(h_g)lú(g>)ia,(f'_) al(d)le(f_g)lú(gf~)ia.(f.) (::)
+R/.() Sur(f)ré(f)xit(f) Dó(g')mi(f)nus(f) de(f) se(e')púl(g)cro,(h.) *(;) Al(h)le(h_g)lú(g>)ia,(f'_) al(d)le(f_g)lú(gf~)ia.(f.) (::) 
+<sp>V/</sp>.() Qui(f) pro(f) no(g)bis(f'_) (,) pe(f)pén(f)dit(f) in(e) li(g)gno,(h.) (::) 
+*() Al(h)le(h_g)lú(g>)ia,(f'_) al(d)le(f_g)lú(gf~)ia.(f.) (::) 
+<sp>V/</sp>. Gló(f)ri(f)a(e') Pá(g)tri,(h'_) et(h) Fí(ixhi)li(h)o,(h'_) (,) et(h) Spi(h)rí(h')tu(g)i(h) Sán(gf~)cto.(f.) (::) 
+Sur(f)ré(f)xit(f) Dó(g')mi(f)nus(f) de(f) se(e')púl(g)cro,(h.) *(;) Al(h)le(h_g)lú(g>)ia,(f'_) al(d)le(f_g)lú(gf~)ia.(f.) (::)}
 _
-V. Surréxit Dóminus vere, allelúja.
-R. Et appáruit Simóni, allelúja.
+{initial-style:0;%%(c3) V/. Sur(h)ré(h)xit(h) Dó(h)mi(h)nus(h) ve(h)re,(h) al(h)le(h)lú(h)ja.(g_0hGF'Efgf.) (::) R/. Et(h) ap(h)pá(h)ru(h)it(h) Si(h)mó(h)ni,(h) al(h)le(h)lú(h)ja.(g_0hGF'Efgf.) (::)}
 
 [Pasch Sexta]
 !1 Cor 15:20-22
@@ -376,7 +375,7 @@ R. Qui pro nobis pepéndit in ligno, allelúja.
 @:Pasch Sexta
 
 [Responsory Pasch SextaM]
-@:Responsory Pasch Tertia:s/.*_.//s
+@:Responsory Pasch Tertia:8:s/g\_0hGF\'Efg//g
 
 [Pasch NonaM]
 @:Pasch Nona

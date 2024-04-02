@@ -54,8 +54,7 @@ sub specials {
     # Handle replacement of the Chapter (etc.) with a versicle on those
     # occasions when this occurs. The 'Capitulum Versum 2' directive takes
     # precedence over the 'Omit' directive, and so we handle this first.
-    if ( $item =~ /Capitulum/i
-      && $rule =~ /Capitulum Versum 2(.*);?$/im)
+    if ( $item =~ /Capitulum/i && $rule =~ /Capitulum Versum 2(.*);?$/im)
     {
       my $cv2hora = $1;
 
@@ -79,14 +78,9 @@ sub specials {
     }
 
     # Omit this section if the rule says so.
-    if (
-      $rule =~ /Omit.*? $ite[0]/i
-      && !(
-           $item =~ /Capitulum/i
-        && $rule =~ /Capitulum Versum 2( etiam ad Vesperas)?/i
-        && (($1 && $hora =~ /Vespera/i) || $hora =~ /Laudes/i)
-      )
-      )
+    if ($rule =~ /Omit.*? $ite[0]/i
+      && !($item =~ /Capitulum/i && $rule =~ /Capitulum Versum 2( etiam ad Vesperas)?/i
+        && (($1 && $hora =~ /Vespera/i) || $hora =~ /Laudes/i)))
     {
       $skipflag = 1;
 
@@ -108,13 +102,13 @@ sub specials {
       next;
     }
 
-    # Prelude pseudo-item. Include it if it exists; otherwise drop it
-    # entirely.
+    # Prelude pseudo-item. Include it if it exists; otherwise drop it entirely.
     if ($item =~ /Prelude/i) {
       push(@s, $w{"Prelude $hora"}) if exists($w{"Prelude $hora"});
       next;
     }
 
+		#if rule says 'Ave only', omit Pater and Credo from Incipit
     if ($rule =~ /Ave only/i && $item =~ /incipit/i) {
       setcomment($label, 'Preces', 2, $lang);
 
@@ -126,8 +120,9 @@ sub specials {
       next;
     }
 
+		# Preces:
     if ($item =~ /preces/i) {
-      $skipflag = !preces($item);
+      $skipflag = !preces($item);			# check if Preces Feriales or Dominicales are to be said
       setcomment($label, 'Preces', $skipflag, $lang);
       setbuild1($item, $skipflag ? 'omit' : 'include');
 			if(!$skipflag && $precesferiales && $item =~ /Dominicales/i) {
@@ -139,11 +134,13 @@ sub specials {
       next;
     }
 
+	  # Invitatorium:
     if ($item =~ /invitatorium/i) {
-      invitatorium($lang);
+      invitatorium($lang);	# see specmatins.pl
       next;
     }
 
+		# Psalmi
     if ($item =~ /psalm/i) {
       $psalmnum1 = 0;
       $psalmnum2 = 0;
@@ -151,7 +148,7 @@ sub specials {
       if ($hora =~ /matutinum/i) {
         my $saveduplex = $duplex;
         if ($rule =~ /Matins simplex/i) { $duplex = 1; }
-        psalmi_matutinum($lang);
+        psalmi_matutinum($lang); # see specmatins.pl
         $duplex = $saveduplex;
       } elsif ($hora =~ /(laudes|vespera)/i) {
         psalmi_major($lang);
@@ -161,6 +158,7 @@ sub specials {
       next;
     }
 
+		# Capitulum @ Primam (if not replaced by Versum in loco capituli
     if ($item =~ /Capitulum/i && $hora =~ /prima/i) {
       my %brevis = %{setupstring($lang, 'Psalterium/Prima Special.txt')};
 
@@ -200,6 +198,7 @@ sub specials {
       next;
     }
 
+		# Capitulum @ Completorium
     if ($item =~ /Capitulum/i && $hora =~ /Completorium/i) {
       $tind--;
 			if ($lang =~ /gabc/i) {  push(@s, $t[$tind++]); next; } # GABC: don't look for start of response
@@ -212,6 +211,7 @@ sub specials {
     }
 
     if ($item =~ /Capitulum/i && $hora =~ /(Tertia|Sexta|Nona)/i) {
+			# initially choose from Psalterium of the season
       my %capit = %{setupstring($lang, 'Psalterium/Minor Special.txt')};
       my $name = minor_getname();
       $name .= 'M' if ($version =~ /monastic/i);
@@ -238,7 +238,7 @@ sub specials {
         if ($wr) { $w .= "\n_\n$wr"; }
       }
 
-      if ($w && $w !~ /\_\nR\.br/i && !($version =~ /monastic/i && $w =~ /\_\nV\. /)) {
+			if ($w && $w !~ /\_\nR\.br/i && !($version =~ /monastic/i && $w =~ /\_\n(V\. |\{.*V\/\. )/)) {
         $w =~ s/\s*//;
         $w .= "\n_\n$resp";
       }

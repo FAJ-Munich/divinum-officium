@@ -1759,17 +1759,17 @@ R. Érue a frámea * Deus ánimam meam.
 [Quad5M Vespera]
 @:Quad5 Vespera
 _
-{gabc:Psalterium/Passionis/rb--de_ore_leonis--solesmes_1934}
+R.br. {gabc:Psalterium/Passionis/rb--de_ore_leonis--solesmes_1934}
 
 [PaschM Laudes]
 @:Pasch Laudes
 _
-@Psalterium/Minor Special:Responsory Pasch Tertia:s/._.*//s
+@Psalterium/Minor Special:Responsory Pasch Tertia:1-6
 
 [PaschM Vespera]
 @:Pasch Laudes
 _
-@Psalterium/Minor Special:Responsory Pasch Sexta:s/._.*//s
+@Psalterium/Minor Special:Responsory Pasch Sexta:1-6
 
 [LitaniaM]
 @:Litania

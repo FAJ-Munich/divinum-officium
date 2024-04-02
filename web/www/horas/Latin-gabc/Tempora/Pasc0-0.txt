@@ -66,10 +66,12 @@ Præ timóre autem ejus * extérriti sunt custódes, et facti sunt velut mórtui
 Respóndens autem Angelus, * dixit muliéribus: Nolíte timére: scio enim quod Jesum quǽritis, allelúja.
 
 [Versum 2]
-Ant. Hæc dies * quam fecit Dóminus: exsultémus et lætémur in ea.
+Ant. {gabc:Tempora/Pascha/an--haec_dies_quam_fecit--solesmes}
 
 [Ant 2]
-Et valde mane * una sabbatórum véniunt ad monuméntum, orto jam sole, allelúja.
+{(c4) ET(g) val(gj)de(h') ma(h)ne(g'_[oh:h]) *(,) u(h)na(gf) sab(gh)ba(h)tó(g.)rum,(g.) (;) vé(i)ni(j)unt(k') ad(h) mo(hk)nu(j)mén(i.)tum,(i.) (;) or(j_2/j_)to(h_j) jam(h) so(hg)le,(f) al(gh)le(h)lú(g.){ia}.(g.) (::)};;solemn8G
+(sed rubrica monastica)
+{(c4) ET(g) val(gj)de(h') ma(h)ne(g'_) *(,) u(h)na(gf) sab(gh)ba(h)tó(g.)rum,(g.) (;) vé(i)ni(j)unt(k>') ad(h>) mo(hk)nu(i')mén(j_)tum,(i.) (;) or(i_j)to(h_j) jam(i_) so(hg)le,(f) al(gh)le(h)lú(g.){ia}.(g.) (::)};;solemn8G
 
 [Oratio]
 Deus, qui hodiérna die per Unigénitum tuum æternitátis nobis áditum devícta morte reserásti: vota nostra, quæ præveniéndo aspíras, étiam adjuvándo proséquere.
@@ -106,9 +108,9 @@ $Pater noster
 Et respiciéntes * vidérunt revolútum lápidem: erat quippe magnus valde, allelúja.
 
 [Ant 43]
-Ant. Allelúja, allelúja, allelúja, allelúja.
-&canticum(3)
+Ant. {(c4) Al(g)le(g')lú(h)ja,(f') al(h)le(j)lú(j_0k)ja,(ji!jkj.) (,) al(h)le(j)lú(i_0j)ja,(h_GF) al(gh)le(h)lú(g.)ja.(g.) (::)}
+&psalm('233,in-directum')
 &Gloria
 _
 {::}
-Ant. Hæc dies * quam fecit Dóminus: exsultémus et lætémur in ea.
+Ant. {gabc:Tempora/Pascha/an--haec_dies_quam_fecit--solesmes}
