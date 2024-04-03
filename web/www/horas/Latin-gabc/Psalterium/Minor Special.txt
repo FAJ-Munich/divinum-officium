@@ -533,3 +533,7 @@ Amen.
 {gabc:Psalterium/Passionis/hy--jam_lucis_orto_sidere_in_tempore_passionis--solesmes_1934}
 (sed tonus in solemnitatibus)
 {gabc:Psalterium/hy--jam_lucis_orto_sidere_solemnitatibus--solesmes_1934}
+(sed tempore Pasc)
+{gabc:Psalterium/Pascha/hy--jam_lucis_orto_sidere_in_tempore_paschali--solesmes_1934}
+(sed commune C11 aut tonus BMV aut tempore Nativitatis aut tempore Corpus)
+{gabc:Psalterium/Nativitate/hy--jam_lucis_orto_sidere_in_nativitate_domini--solesmes_1934}

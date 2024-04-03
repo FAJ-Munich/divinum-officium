@@ -1582,9 +1582,9 @@ sub setChantTone {
 			: ($rank < 3 && $name !~ /Asc/i) ? 'festivus 8vam priv'
 			: ($rank < 3) ? 'paschalis'
 			: ($rank < 5 && $name !~ /Asc|Nat|Cord/i) ? 'festivus major'
-			: ($rank < 5) ? 'festivus major'
-			: ($rank < 5.61) ? ($name =~ /Asc/i) ? 'paschalis' : 'festivus major'
-			: ($rank < 6.5) ? 'festivus major'
+			: ($rank < 5)  ? (($name =~ /Asc/i) ? 'paschalis' : 'festivus major')
+			: ($rank < 5.61) ? 'festivus 8vam priv'     # Epi & CC
+			: ($rank < 6.5) ? 'festivus major'					# Epi & CC
 			: 'paschalis' ;
 		} else {	# Default for Ferias
 			if ($version !~ /196/) {

@@ -2091,7 +2091,7 @@ sub doxology {
     setbuild2("Doxology: $dname");
   }
 
-  if ($dox) { $dname = '' unless ($hymn =~ s/\*.*/$dox/s) }
+  if ($dox) { $dname = '' unless ($hymn =~ s/\*.*/$dox/s) || $lang =~ /gabc/i}
   ($hymn, $dname)
 }
 
