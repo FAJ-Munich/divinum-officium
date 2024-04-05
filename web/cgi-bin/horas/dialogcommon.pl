@@ -104,9 +104,13 @@ sub get_tempus_id {
     : /^Pasc0/ ? 'Octava Paschæ'
     : /^Pasc(\d)/ && ($1 < 5 || ($1 == 5 && ($dayofweek < 3 || (!$vesp_or_comp && $dayofweek == 3))))
     ? 'post Octavam Paschæ'
-    : /^Pasc6-(5|6)/ ? 'post Octavam Ascensionis'
+    : /^Pasc6/ && $dayofweek > 4 ? 'post Octavam Ascensionis'
     : /^Pasc(\d)/ && $1 < 7 ? 'Octava Ascensionis'
     : /^Pasc/ ? 'Octava Pentecostes'
+	  : /^Pent01/ && $dayofweek == 4 ? 'Corpus Christi post Pentecosten'
+		: /^Pent0(\d)/ && (($1 == 1 && $dayofweek > 4) || ($1 == 2 && $dayofweek < 5)) && $version !~ /19(?:55|6)/ ? 'Octava Corpus Christi post Pentecosten'
+	  : /^Pent02/ && $dayofweek == 5 && $version !~ /1570/ ? 'SSmi Cordis post Pentecosten'
+		: /^Pent0(\d)/ && (($1 == 2 && $dayofweek > 5) || ($1 == 3 && $dayofweek < 6)) && $version =~ /Divino/i ? 'Octava SSmi Cordis post Pentecosten'
     : 'post Pentecosten';
 }
 
@@ -129,8 +133,9 @@ our %subjects = (
   communi => sub { {summpont => ($version =~ /1960/ || $version =~ /1955/ || $version =~ /Divino/)} },
   'die' => \&get_dayname_for_condition,
 	tonus => sub {$chantTone},
-	tonus => sub {$chantTone},
-	hora => sub {$hora},
+	toni => sub {$chantTone},
+	#hora => sub {$hora},
+	commune => sub {$commune},
 );
 our %predicates = (
   tridentina => sub { shift =~ /Trident/ },

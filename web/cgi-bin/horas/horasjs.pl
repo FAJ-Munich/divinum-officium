@@ -189,13 +189,9 @@ sub horasjsend {
 		
 	
 	
-		var ctxt = new exsurge.ChantContext();
-		ctxt.lyricTextFont = "'Crimson Text', serif";
-		ctxt.lyricTextSize *= 1.2;
-		ctxt.dropCapTextFont = ctxt.lyricTextFont;
-		ctxt.annotationTextFont = ctxt.lyricTextFont;
-	
 		const scores = [];
+		const mappings = [];
+		const ctexts = [];
 		var gabcSources = [];
 		var chantContainers = [];
 	
@@ -208,18 +204,30 @@ sub horasjsend {
 	var updateChant = function() {
 		if (scores.length) {
 			for (let i = 0; i < scores.length; i++) {
-				exsurge.Gabc.updateMappingsFromSource(ctxt, scores[i].mappings, gabcSources[i].innerHTML);
-				scores[i].updateNotations(ctxt);
+				exsurge.Gabc.updateMappingsFromSource(ctexts[i], mappings[i], gabcSources[i].innerHTML.replace(/\&gt\;/g, '>').replace(/\&lt\;/g, '<'));
+				scores[i].updateNotations(ctexts[i]);
 			}
 		} else {
 			for (let i = 0; i < gabcSources.length; i++) {
+				let ctxt = new exsurge.ChantContext();
+				//ctxt.setFont("'Crimson Text', serif", 19.2 / 0.9);
+				ctxt.lyricTextFont = "'Crimson Text', serif";
+				ctxt.lyricTextSize *= 1.2;
+				ctxt.spaceBetweenSystems = 0;
+				ctxt.dropCapTextFont = ctxt.lyricTextFont;
+				ctxt.annotationTextFont = ctxt.lyricTextFont;
+			
+
 				header = getHeader(gabcSources[i].innerHTML);
-				mappings = exsurge.Gabc.createMappingsFromSource(ctxt, gabcSources[i].innerHTML);
-				let score = new exsurge.ChantScore(ctxt, mappings, header['initial-style']!=='0');
+				header["centering-scheme"] = 'latin';
+				let mapping = exsurge.Gabc.createMappingsFromSource(ctxt, gabcSources[i].innerHTML.replace(/\&gt\;/g, '>').replace(/\&lt\;/g, '<'));
+				let score = new exsurge.ChantScore(ctxt, mapping, header['initial-style']!=='0');
 				if(header['initial-style']!=='0' && header.annotation) {
 					score.annotation = new exsurge.Annotation(ctxt, header.annotation);
 				}
+				ctexts.push(ctxt);
 				scores.push(score);
+				mappings.push(mapping);
 			};
 		}
 		layoutChant();
@@ -229,13 +237,14 @@ sub horasjsend {
 		for (let i = 0; i < chantContainers.length; i++) {
 			// perform layout on the chant
 			if(scores.length) {
-				scores[i].performLayoutAsync(ctxt, function() {
-					scores[i].layoutChantLines(ctxt, chantContainers[i].clientWidth, function() {
+				scores[i].performLayoutAsync(ctexts[i], function() {
+					scores[i].layoutChantLines(ctexts[i], chantContainers[i].clientWidth, function() {
 						// render the score to svg code
-						chantContainers[i].innerHTML = scores[i].createSvg(ctxt);
+						chantContainers[i].innerHTML = scores[i].createSvg(ctexts[i]);
 					});
 				});
-				gabcSources[i].style.display = 'none';
+				
+				gabcSources[i].style.display = 'none'; // hide Chant text
 			}
 		}
 	};
