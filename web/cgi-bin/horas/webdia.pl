@@ -531,7 +531,6 @@ sub setcell {
 				$text =~ s/<sp>V\/<\/sp>\.?/V\/\.() /g;
 				$text =~ s/<sp>R\/<\/sp>\.?/R\/\.() /g;
 				$text =~ s/<\/?nlba>//g;
-				$text =~ s/\((.*)>(.*)\)/\($1$2\)/g; # there seems to be an issue with interpreting the > sign in neumes
 				$text =~ s/\(\:\:\)\}/\(\:\:\)<\/DIV><DIV ID="GCHANT$hora$searchind$dId" class="GCHANT" width="100\%"><\/DIV>/s;
 				$text =~ s/\_/\|\|/g;
 			}
