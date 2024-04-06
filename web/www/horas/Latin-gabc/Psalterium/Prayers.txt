@@ -237,6 +237,9 @@ $Pater secreto
 [Alleluia Duplex]
 Allelúja, allelúja.
 
+[Alleluia Ant]
+{name:AllelujaAnt;annotation:6.f;%%(c4) AL(f)le(g)lú(g_0h)ja,(f_') (,) * al(g)le(f)lú(fe)ja,(d') al(f)le(g')lú(g)ja.(f.) (::)}
+
 [Preces feriales Laudes]
 $Kyrie
 $Pater secreto

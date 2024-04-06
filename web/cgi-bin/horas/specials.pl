@@ -1103,6 +1103,16 @@ sub psalmi_major {
     } else {
       $psalmi[3] =~ s/.*(?=;;)//;
     }
+		if ($lang =~ /gabc/i) {
+			$psalmi[0] =~ s/(?=;;\')(.*)\,.*\'/$1,6\'/;
+			$psalmi[1] =~ s/(?=;;\')(.*)\,.*\'/$1,6\'/;
+			$psalmi[2] =~ s/(?=;;\')(.*)\,.*\'/$1,6\'/;
+			if ($version =~ /monastic/i && $hora =~ /laudes/i) {
+				$psalmi[-1] =~ s/(?=;;\')(.*)\,.*\'/$1,6\'/;
+			} else {
+				$psalmi[3] =~ s/(?=;;\')(.*)\,.*\'/$1,6\'/;
+			}
+		}
   }
 	
   if (($dayname[0] =~ /(Adv|Quad)/i || emberday()) && $hora =~ /laudes/i && $version !~ /trident/i) {
