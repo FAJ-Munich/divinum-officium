@@ -353,6 +353,8 @@ sub Alleluia : ScriptFunc {
 sub Alleluia_ant {
   my ($lang, $ucase) = @_;
 
+	if ($lang =~ /gabc/i) { return $prayers{$lang}{"Alleluia Ant"}; }
+	
   my $ant = $prayers{$lang}{"Alleluia Duplex"};
   $ant =~ s/ / * /;
   $ant =~ s/\./$prayers{$lang}{"Alleluia Simplex"}/;
