@@ -68,7 +68,7 @@ Content-type: text/html; charset=utf-8
 	<SCRIPT TYPE='text/JavaScript' SRC='js/exsurge.js'></SCRIPT>
 $horasjs
 </HEAD>
-<BODY VLINK=$visitedlink LINK=$link BGCOLOR="#eeeeee"$onload>
+<BODY VLINK=$visitedlink LINK=$link BGCOLOR="#eeeeee"$onload onresize="layoutChant()">
 <FORM ACTION="$officium" METHOD=post TARGET=_self>
 PrintTag
 }
