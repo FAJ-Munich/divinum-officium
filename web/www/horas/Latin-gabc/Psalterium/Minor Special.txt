@@ -433,6 +433,8 @@ Amen.
 {gabc:Psalterium/hy--te_lucis_ante_terminum_in_feriis_per_annum--solesmes_1934}
 (sed tempore Passionis)
 {gabc:Psalterium/Passionis/hy--te_lucis_ante_terminum_in_tempore_passionis--solesmes_1934}
+(sed tempore Pasc)
+{gabc:Psalterium/Pascha/hy--te_lucis_ante_terminum_in_tempore_paschali--solesmes_1934}
 
 [Hymnus Tertia]
 v. Nunc, Sancte, nobis, Spíritus,
