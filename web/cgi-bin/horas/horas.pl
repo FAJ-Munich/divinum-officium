@@ -478,7 +478,7 @@ sub antiphona_finalis : ScriptFunc {
   } elsif (($month == 2 || $month == 3 || $dayname[0] =~ /Quad/i) && $dayname[0] !~ /Pasc/i) {
     $t = $ant{'Quadragesimae'};
   } elsif ($dayname[0] =~ /Pasc/) {
-    $t = $ant{'Paschalis'};
+		$t = ($lang !~ /gabc/i || $dayofweek) ? $ant{'Paschalis'} : $ant{'Paschalis0'};
   } else {
     $t = $ant{'Postpentecost'};
   }
