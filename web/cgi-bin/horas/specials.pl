@@ -763,8 +763,25 @@ sub psalmi_minor {
       }
       $name = "Adv4$i";
     }
-    if ($name =~ /pasc/i && ($dayname[0] !~ /Pasc7/i || $hora =~ /Completorium/i)) { $ind = 0; }
-
+		
+		if ($name =~ /pasc/i && $lang =~ /gabc/i && $version =~ /monastic/i) {
+			$ind =
+			($hora =~ /prima/i) ? 0
+			: ($hora =~ /tertia/i) ? 2
+			: ($hora =~ /sexta/i) ? 5
+			: ($hora =~ /nona/i) ? 8
+			: 11;
+			
+			if ($hora !~ /completorium/i) {
+				if ($dayofweek > 0) { $ind++; }
+				if ($hora !~ /prima/i && $dayofweek > 1) { $ind++; }
+			}
+		} elsif ($name =~ /pasc/i && $lang =~ /gabc/i && $ind < 0) { 
+			$ind = 5;	# for Roman Completorium has a Paschal tone for the whole week
+		}	elsif ($name =~ /pasc/i && ($dayname[0] !~ /Pasc7/i || $hora =~ /Completorium/i)) {
+			$ind = 0; # ensure Antiphone is changed next
+		}
+		
     if ($name && $ind >= 0) {
       my @ant = split("\n", $psalmi{$name});
       $ant = chompd($ant[$ind]);
