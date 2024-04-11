@@ -1431,8 +1431,8 @@ sub ensure_double_alleluia(\$$) {
 # Removes all alleluias after Septuagesima; removes bracketed alleluias
 # outside of Paschaltide; unbrackets bracketed alleluias in
 # Paschaltide.
-sub process_inline_alleluias(\$) {
-  my $text = shift;
+sub process_inline_alleluias(\$$) {
+	my ($text, $lang) = @_;
   our @dayname;
 
 	if($lang !~ /gabc/i) {
@@ -1462,7 +1462,7 @@ sub postprocess_ant(\$$) {
 		$$ant =~ s/;;.*//;
 	}
 	
-  process_inline_alleluias($$ant);
+  process_inline_alleluias($$ant, $lang);
   ensure_single_alleluia($$ant, $lang) if alleluia_required($dayname[0], $votive);
 }
 
@@ -1474,7 +1474,7 @@ sub postprocess_vr(\$$) {
 
   # Don't do anything to null v/r.
   return unless $$vr;
-  process_inline_alleluias($$vr);
+  process_inline_alleluias($$vr, $lang);
 
   if (alleluia_required($dayname[0], $votive)) {
     my ($versicle, $response) = split(/(?=^\s*R\.)/m, $$vr);

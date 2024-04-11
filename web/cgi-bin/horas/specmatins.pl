@@ -164,8 +164,8 @@ sub nocturn {
 
 	# versus can't be text or reference (number)
 	my (@vs) = ($select[-1] =~ /^\d+$/ ? (@{$psalmi}[$select[-2]], @{$psalmi}[$select[-1]]) : ($select[-2], $select[-1]));
-	process_inline_alleluias($vs[0]);
-	process_inline_alleluias($vs[1]);
+	process_inline_alleluias($vs[0], $lang);
+	process_inline_alleluias($vs[1], $lang);
 	push(@s, @vs, "\n");
 }
 
@@ -1054,7 +1054,7 @@ sub lectio : ScriptFunc {
 		$w .= "$_";
 	}
 
-	process_inline_alleluias($w);
+	process_inline_alleluias($w, $lang);
 	
 	#handle parentheses in non Latin
 	if ($lang !~ /Latin/i) {
