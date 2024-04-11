@@ -40,6 +40,13 @@ R. Da mihi virtútem contra hostes tuos.
 v. Orémus. 	
 v. Concéde, miséricors Deus, fragilitáti nostræ præsídium; ut, qui sanctæ Dei Genetrícis memóriam ágimus; intercessiónis ejus auxílio, a nostris iniquitátibus resurgámus. Per eúmdem Christum Dóminum nóstrum. Amen.
 
+[Paschalis0]
+{gabc:Psalterium/Pascha/an--regina_caeli--solesmes.1}
+(sed rubrica monastica)
+{gabc:Psalterium/Pascha/an--regina_caeli_monasticum--solesmes_1934}
+_
+@:Paschalis: s/.*V. /V. /s
+
 [Paschalis]
 {gabc:Psalterium/Pascha/an--regina_caeli_simple_tone--solesmes.1}
 _
