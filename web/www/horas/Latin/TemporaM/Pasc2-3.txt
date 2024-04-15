@@ -1,1 +1,115 @@
 @Tempora/Pasc2-3
+
+[Rule]
+proper
+Psalmi Dominica
+12 lectiones
+Antiphonas horas
+
+[Ant Matutinum]
+@Tempora/Pasc2-3::1-3 s/3/4/
+@Tempora/Pasc2-3::7-8 
+;;10
+@Tempora/Pasc2-3::4-5
+@Tempora/Pasc2-3::6 s/4/14/ 
+@Tempora/Pasc2-3::12-13
+;;95
+;;96
+;;97
+@Tempora/Pasc2-3::9-10
+@Tempora/Pasc2-3::11 s/;;14/;;256;257;258/
+@Tempora/Pasc2-3::14-15
+
+[Lectio3]
+@Tempora/Pasc2-3::s/-49/-45a/ s/Egréssus .*//s
+
+[Lectio4]
+@Tempora/Pasc2-3:Lectio3:s/44-/45b-/ s/44 .*Egréssus /45 Egréssus /s
+
+[Responsory3]
+R. Fuit Dóminus cum Joseph, et dedit ei grátiam in conspéctu príncipis cárceris;
+* Qui trádidit in manu illíus univérsos vinctos, allelúja.
+V. Quidquid fiébat, sub ipso erat: Dóminus enum erat cum illo, et ómnia ópera ejus dirigébat.
+R. Qui trádidit in manu illíus univérsos vinctos, allelúja. 
+
+[Responsory4]
+@Tempora/Pasc2-3:Responsory3
+
+[Lectio5]
+@Tempora/Pasc2-3:Lectio4
+
+[Responsory5]
+@Tempora/Pasc2-3:Responsory4
+
+[Lectio6]
+@Tempora/Pasc2-3:Lectio5
+
+[Responsory6]
+@Tempora/Pasc2-3:Responsory5
+
+[Lectio7]
+@Tempora/Pasc2-3:Lectio6:s/ Meménto .*//s
+
+[Responsory7]
+R. Exáudi vocem meam, qua clamávi ad te:
+* Miserére mei, et exáudi me, allelúja.
+V. Adjútor meus esto, ne derelínquas me.
+R. Miserére mei, et exáudi me, allelúja. 
+
+[Lectio8]
+@Tempora/Pasc2-3:Lectio6:s/.* Meménto /Meménto /s
+
+[Responsory8]
+@Tempora/Pasc2-3:Responsory6
+
+[Lectio9]
+@Tempora/Pasc2-3:Lectio7
+
+[Responsory9]
+@Tempora/Pasc2-3:Responsory7
+
+[Lectio10]
+@Tempora/Pasc2-3:Lectio8
+
+[Responsory10]
+R. Ascéndit Joseph a Galilæa de civitáte Názareth in Judæam, in civitátem David, quæ vocatur Béthlehem:
+* Eo quod esset de domo et família David, allelúja.
+V. Ut profiterétur cum María desponsáta sibi uxóre.
+R. Eo quod esset de domo et família David, allelúja.
+
+[Lectio11]
+@Tempora/Pasc2-3:Lectio9:s/ Neque .*//s
+
+[Responsory11]
+@Tempora/Pasc2-3:Responsory8
+
+[Lectio12]
+@Tempora/Pasc2-3:Lectio9:s/.* Neque /Neque /s
+
+[Responsory12]
+R. Fidélis servus et prudens, quem constítuit Dóminus super famíliam suam:
+* Amen dico vobis, quóniam super ómnia bona sua constítuet eum, allelúja.
+V. Qui custos est Dómini sui, glorificátur.
+R. Amen dico vobis, quóniam super ómnia bona sua constítuet eum, allelúja.
+
+[Capitulum Vespera]
+@Tempora/Pasc2-3
+_
+@Tempora/Pasc2-3:Responsory Tertia:1-6
+
+[Versum 1]
+@Tempora/Pasc2-3:Responsory Tertia:8-9
+
+[Capitulum Laudes]
+@Tempora/Pasc2-3
+_
+@Tempora/Pasc2-3:Responsory Sexta:1-6
+
+[Responsory Tertia]
+@:Versum 1
+
+[Responsory Sexta]
+@Tempora/Pasc2-3:Responsory Sexta:8-9
+
+[Responsory Nona]
+@Tempora/Pasc2-3:Responsory Nona:8-9
