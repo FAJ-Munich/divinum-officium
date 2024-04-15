@@ -12,10 +12,10 @@ Antiphonas horas
 Psalm5 Vespera=116
 
 [Ant Vespera]
-Jacob autem * génuit Joseph, virum Maríæ, de qua natus est Jesus, qui vocátur Christus.;;109
-Missus est * Angelus Gábriel a Deo ad Vírginem desponsátam viro, cui nomen erat Joseph, de domo David, et nomen Vírginis María.;;110
-Cum esset desponsáta * Mater Jesu María Joseph, ántequam convenírent, invénta est in útero habens de Spíritu Sancto.;;111
-Joseph vir ejus, * cum esset justus, et nollet eam tradúcere, vóluit occúlte dimíttere eam.;;112
+{name:Jacob autem genuit;annotation:1.g;mode:1;book:The Liber Usualis, 1961, p. 1400 & The Liber Usualis, 1961, p. 467 & Liber antiphonarius, 1960, p. 319;transcriber:Andrew Hinkley;%%(c4) JA(c)cob(d) au(ixdh'!iv)tem(h.) *(,) gé(hj)nu(h)it(h') Jo(h)seph,(ixhg/hiHG'g) (,) vi(f')rum(g) Ma(h)rí(fe)ae,(d.) (;) de(g) qua(ge) na(gh)tus(g) est(fg) Je(d)sus,(d!ewf.) (,) qui(e') vo(f)cá(g)tur(fe) Chri(d.)stus.(d.) (::) <i>T. P.</i> Al(e)le(fe)lú(d.){ia}.(d.) (::)};;109;;1g
+{name:Missus est Angelus Gabriel 19 Martii;annotation:2;mode:2;book:The Liber Usualis, 1961, p. 1400;transcriber:Andrew Hinkley;%%(f3) MIs(fc)sus(ef) est(f') *(,) An(e)ge(f')lus(h) Gá(gf)bri(e)el(fe) a(h) De(ij)o(j.) (;) ad(ji~) Vír(kxjk)gi(j)nem(j') de(j)spon(i)sá(hg)tam(h') vi(i)ro,(g'_[oh:h]) (,) cu(i)i(i') no(j)men(h') e(i)rat(hg) Jo(f)seph,(f_i) (,) de(h) do(hg)mo(fg) Da(f)vid :(e.) (;) et(c) no(ef)men(f') Vír(e)gi(f)nis(hg) Ma(e)rí(gg)a.(f.) (::) <i>T. P.</i> Al(e)le(ef)lú(f.){ia}.(f.) (::)};;110;;2
+{name:Cum esset desponsata 19 Martii;annotation:3.a2;mode:3;book:The Liber Usualis, 1961, p. 1401 & Liber antiphonarius, 1960, p. 649;transcriber:Andrew Hinkley;%%(c4) CUM(e_[oh:h][ll:1]d) es(ghj)set(h) de(g)spon(h')sá(j)ta(j_i) *(,) Ma(i')ter(j) Je(k)su(l') Ma(k)rí(ji)a(hi) Jo(h)seph,(g.) (;) án(g')te(g)quam(i') con(g)ve(h)ní(fe)rent,(d.) (;) in(gh~)vén(g)ta(h) est(j') in(h) ú(j)te(j)ro(i) ha(g!hwi_[oh:h]g)bens(h_g) (,) de(e_[uh:l]f) Spí(g_[uh:l]hGF')ri(g)tu(gf) San(e.)cto.(e.) (::) <i>T. P.</i> Al(g)le(gf)lú(e.){ia}.(e.) (::)};;111;;3a2
+{name:Joseph vir ejus;annotation:4. E;mode:4;book:The Liber Usualis, 1961, p. 1401 & Liber antiphonarius, 1960, p. 649;transcriber:Andrew Hinkley;%%(c4) JO(f)seph(ef) vir(dc) e(de)jus,(e'_[oh:h]) *(,) cum(e) es(gh)set(hg) ju(ixhi)stus,(h'_) (,) et(g) nol(g)let(f') e(g)am(gh) tra(gf)dú(g)ce(f)re,(e.) (;) vó(f)lu(d)it(dc) oc(f)cúl(ef)te(d) di(e_[uh:l]f)mít(gh)te(g)re(gf) e(e.)am.(e.) (::) <i>T. P.</i> Al(g)le(gf)lú(e.){ia}.(e.) (::)};;112;;4E
 Angelus Dómini * appáruit Joseph, dicens: Joseph, fili David, noli timére accípere Maríam cónjugem tuam; quod enim in ea natum est, de Spíritu Sancto est: páriet autem fílium, et vocábis nomen ejus Jesum.;;116
 
 [Capitulum Vespera]
@@ -27,11 +27,12 @@ $Deo gratias
 {gabc:Sancti/03-19/hy--te_joseph_celebrent--solesmes.1}
 
 [Versum 1]
-{initial-style:0;%%(c3) V/. Con(h)stí(h)tu(h)it(h) e(h)um(h) dó(hi)mi(hr)num(h_0)(,) do(h)mus(fe) su(f_0h)æ.(hiH'Ghih.ghG'FE'fggf.) (::)}
-{initial-style:0;%%(c3) R/. Et(h) prí(h)nci(h)pem(h) om(hi)nis(h_0) (,) pos(h)ses(h)si(h)ó(h)nis(fe) su(f_0h)æ.(hiH'Ghih.ghG'FE'fggf.) (::)}
+{initial-style:0;%%(c3) V/. Con(h)stí(h)tu(h)it(h) e(h)um(h) dó(hi)mi(hr)num(h_0)(,) do(h)mus(fe) su(f_0h)æ.(hiH'Ghih.ghG'FE'fggf.) (::) R/. Et(h) prí(h)nci(h)pem(h) om(hi)nis(h_0) (,) pos(h)ses(h)si(h)ó(h)nis(fe) su(f_0h)æ.(hiH'Ghih.ghG'FE'fggf.) (::)}
+(sed tempore paschali)
+{initial-style:0;%%(c3) V/. Con(h)stí(h)tu(h)it(h) e(h)um(h) dó(h)mi(h)num(h) do(h)mus(h) su(hi)æ,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::) R/. Et(h) prí(h)nci(h)pem(h) om(h)nis(h) pos(h)ses(h)si(h)ó(h)nis(h) su(hi)æ,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 1]
-{name:Exsurgens Joseph;office-part:Antiphona;annotation:1.g3;book:Antiphonale Monasticum, 1934, p. 840;transcriber:Dominique CROCHU;%%(c4) EX(f)súr(h)gens(g') Jo(h)seph(g') a(f) som(gf~)no,(d.) *(,) fe(hih)cit(g') sic(h)ut(g') præ(h)cé(jk)pit(j) e(ji)i(hg) An(ij)ge(ih)lus(i) Dó(h')mi(g)ni,(h.) (;) et(fe) ac(c_d)cé(ffg)pit(ff)  cón(e_f)ju(g)gem(fe) su(d.)am.(d.) (::)};;solemn1g3
+{name:Exsurgens Joseph;office-part:Antiphona;annotation:1.g3;book:Antiphonale Monasticum, 1934, p. 840;transcriber:Dominique CROCHU;%%(c4) EX(f)súr(h)gens(g') Jo(h)seph(g') a(f) som(gf~)no,(d.) *(,) fe(hih)cit(g') sic(h)ut(g') præ(h)cé(jk)pit(j) e(ji)i(hg) An(ij)ge(ih)lus(i) Dó(h')mi(g)ni,(h.) (;) et(fe) ac(c_d)cé(ffg)pit(ff)  cón(e_f)ju(g)gem(fe) su(d.)am.(d.) (::) <i>T. P.</i> Al(e)le(fe)lú(d.){ja}.(d.) (::)};;solemn1g3
 
 [Oratio]
 Sanctíssimæ Genetrícis tuæ spónsi, quǽsumus, Dómine, méritis adjuvémur; ut quod possibílitas nostra non óbtinet, ejus nobis intercessióne donétur.
