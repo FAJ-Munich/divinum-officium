@@ -26,10 +26,10 @@ S. Ik zal opgaan naar het altaar van God.
 M. Naar God, die de blijdschap is van mijn jeugd.
 
 !Signat se, dicens:
-S. Onze hulp + is in de Naam des Heren.
-M. Die hemel en aarde gemaakt heeft.
+V. Onze hulp + is in de Naam des Heren.
+R. Die hemel en aarde gemaakt heeft.
 !Deinde junctis manibus profunde inclinatus facit Confessionem.
-S. Ik belijd voor de almachtige God, voor de heilige Maria, altijd Maagd, voor de heilige aartsengel Michaël, de heilige Johannes de Doper, de heilige apostelen Petrus en Paulus, voor alle heiligen en voor u, broeders, dat ik zwaar gezondigd heb in gedachten, woorden en werken door mijn schuld, door mijn schuld, door mijn allergrootste schuld. Daarom smeek ik de heilige Maria, altijd Maagd, de heilige aartsengel Michaël, de heilige Johannes de Doper, de heilige apostelen Petrus en Paulus, alle heiligen en u, broeders, voor mij te willen bidden tot de Heer, onze God.
+v. Ik belijd voor de almachtige God, voor de heilige Maria, altijd Maagd, voor de heilige aartsengel Michaël, de heilige Johannes de Doper, de heilige apostelen Petrus en Paulus, voor alle heiligen en voor u, broeders, dat ik zwaar gezondigd heb in gedachten, woorden en werken door mijn schuld, door mijn schuld, door mijn allergrootste schuld. Daarom smeek ik de heilige Maria, altijd Maagd, de heilige aartsengel Michaël, de heilige Johannes de Doper, de heilige apostelen Petrus en Paulus, alle heiligen en u, broeders, voor mij te willen bidden tot de Heer, onze God.
 M. Moge de almachtige God zich over u ontfermen, uw zonden vergeven en u zo het eeuwige leven binnenleiden.
 !Sacerdos dicit: 
 S. Amen.
@@ -43,16 +43,16 @@ S. Moge + de almachtige en barmhartige God ons genade, vrijspraak en vergiffenis
 M. Amen.
 
 !Et inclinatus prosequitur:
-S. God, keer U tot ons en doe ons herleven.
-M. Opdat uw volk zich in U verblijde.
-S. Doe ons uw barmhartigheid kennen, o Heer.
-M. En schenk ons uw heil.
-S. Heer, verhoor mijn gebed.
-M. En mijn geroep kome tot U.
-S. De Heer zij met u.
-M. En met uw geest.
+V. God, keer U tot ons en doe ons herleven.
+R. Opdat uw volk zich in U verblijde.
+V. Doe ons uw barmhartigheid kennen, o Heer.
+R. En schenk ons uw heil.
+V. Heer, verhoor mijn gebed.
+R. En mijn geroep kome tot U.
+V. De Heer zij met u.
+R. En met uw geest.
 !Et extendens ac jungens manus, clara voce dicit: 
-S. Laat ons bidden. (De priester bestijgt het altaar, terwijl hij bidt:)
+v. Laat ons bidden. (De priester bestijgt het altaar, terwijl hij bidt:)
 v. Wij vragen U, Heer, neem onze zonden van ons weg, opdat wij zuiver van hart het Heilige der Heilige mogen binnengaan. Door Christus, onze Heer. Amen.
 !Deinde, manibus junctis super Altare, inclinatus dicit: 
 v. Wij bidden U, Heer, door de verdiensten van uw heiligen, wier relikwieën hier rusten, en van alle heiligen, al mijn zonden genadig te vergeven. Amen.
@@ -121,8 +121,8 @@ M. En met uw geest.
 v. Zuiver mijn hart en mijn lippen, almachtige God, die de lippen van de profeet Isaias met een gloeiende kool hebt gezuiverd. Wil mij ook door uw genadige erbarming zo zuiveren, dat ik uw heilig Evangelie waardig kan verkondigen. Door Christus, onze Heer. Amen.
 v. Gewaardig U mij te zegenen, o Heer. Moge de Heer in mijn hart zijn en op mijn lippen, opdat ik waardig en naar behoren zijn Evangelie verkondig. Amen.
 !Deinde, conversus ad librum, junctis manibus, dicit: 
-S. De Heer zij met U. 
-M. En met uw geest.
+V. De Heer zij met U. 
+R. En met uw geest.
 !Et pronuntians: Inítium, sive Sequéntia sancti Evangélii, signat librum, et se in fronte, ore et pectore, et legit Evangelium, ut dictum est. Quo finito, respondet Minister: Laus tibi, Christe, et Sacerdos osculatur Evangelium, dicens: per evangelica dicta, ut supra.
 &evangelium
 
@@ -131,8 +131,8 @@ M. En met uw geest.
 !In Missis Defunctorum dicitur Munda cor meum, sed non petitur benedictio, non deferuntur luminaria, nec Celebrans osculatur librum.
 v. Zuiver mijn hart en mijn lippen, almachtige God, die de lippen van de profeet Isaias met een gloeiende kool hebt gezuiverd. Wil mij ook door uw genadige erbarming zo zuiveren, dat ik uw heilig Evangelie waardig kan verkondigen. Door Christus, onze Heer. Amen.
 !Deinde, conversus ad librum, junctis manibus, dicit: 
-S. De Heer zij met U. 
-M. En met uw geest.
+V. De Heer zij met U. 
+R. En met uw geest.
 !Et pronuntians: Inítium, sive Sequéntia sancti Evangélii, signat librum, et se in fronte, ore et pectore, et legit Evangelium, ut dictum est. Quo finito, respondet Minister: Laus tibi, Christe.
 &evangelium
 
@@ -143,8 +143,8 @@ v. Ik geloof in één God, de almachtige Vader, Schepper van hemel en aarde, van
 
 # Offertorium
 !Deinde osculatur Altare, et versus ad populum, dicit: 
-S. De Heer zij met u. 
-M. En met uw geest.  
+V. De Heer zij met u. 
+R. En met uw geest.  
 !Postea dicit: Orémus, et Offertorium. 
 v. Laat ons bidden.
 &offertorium
@@ -200,12 +200,12 @@ _
 
 # Præfatio
 !Quibus finitis, cum pervenerit ad conclusionem, clara voce dicit: Per ómnia sǽcula sæculórum, cum Præfatione, ut in sequentibus. Præfationem incipit ambabus manibus positis hinc inde super Altare: quas aliquantulum elevat, cum dicit: Sursum corda. Jungit eas ante pectus, et caput inclinat, cum dicit: Grátias agamus Dómino, Deo nostro. Deinde disjungit manus, et disjunctas tenet usque ad finem Præfationis: qua finita, iterum jungit eas, et inclinatus dicit: Sanctus. Et cum dicit: Benedíctus, qui venit, signum crucis sibi producit a fronte ad pectus.
-S. De Heer zij met u.
-M. En met uw geest.
-S. Hoog de harten.
-M. Wij hebben ze tot de Heer verheven.
-S. Laten wij de Heer, onze God, danken.
-M. Dat is passend en rechtvaardig.
+V. De Heer zij met u.
+R. En met uw geest.
+V. Hoog de harten.
+R. Wij hebben ze tot de Heer verheven.
+V. Laten wij de Heer, onze God, danken.
+R. Dat is passend en rechtvaardig.
 _
 &prefatio
 _
@@ -219,7 +219,7 @@ v. Wij bidden en smeken U dan ootmoedig, goedertierendste Vader, door Jezus Chri
 v. Gedenk, o Heer, uw dienaren en dienaressen N. en N. en alle aanwezigen, die hun geloof in U bewezen hebben en wier toewijding Gij kent, voor wie wij U dit offer van lof opdragen, en die het met ons opdragen voor zich zelf en al de hunnen, voor de redding van hun zielen, voor hun welzijn en behoud, en zo brengen zij hun offergaven aan U, eeuwige, levende en ware God.
 
 &communicantes
-maar ook van de heilige apostelen en martelaren Petrus en Paulus, Andreas, Jacobus, Johannes, Thomas, Jacobus, Filippus, Bartholomeüs, Mattheüs, Simon en Thaddeüs, Linus, Cletus, Clemens, Xistus, Cornelius, Cyprianus, Laurentius, Chrysogonus, Johannes en Paulus, Cosmas en Damianus en al uw heiligen; en wil ons om hun verdiensten en gebeden in alles de beschuttende steun van uw bescherming schenken. Door dezelfde Christus, onze Heer. Amen.
+en van de heilige apostelen en martelaren Petrus en Paulus, Andreas, Jacobus, Johannes, Thomas, Jacobus, Filippus, Bartholomeüs, Mattheüs, Simon en Thaddeüs, Linus, Cletus, Clemens, Xistus, Cornelius, Cyprianus, Laurentius, Chrysogonus, Johannes en Paulus, Cosmas en Damianus en al uw heiligen; en wil ons om hun verdiensten en gebeden in alles de beschuttende steun van uw bescherming schenken. Door dezelfde Christus, onze Heer. Amen.
 
 (Tenens manus expansas super Oblata, dicit:) 
 v. Wij vragen u dan, Heer, aanvaard genadig dit offer van ons, uw dienaren, maar ook van geheel uw gezin;
@@ -232,7 +232,7 @@ v. Die daags voor zijn lijden brood nam in zijn heilige en eerbiedwaardige hande
 
 !Tenens ambabus manibus Hostiam inter indices et pollices, profert verba consecrationis secrete, distincte et attente super Hostiam, et simul super omnes, si plures sint consecrandæ.
 _
-!!!WANT DIT IS MIJN LICHAAM.
+!!!WANT DIT IS MIJN LICHAAM
 _
 !Quibus verbis prolatis, statim Hostiam consecratam genuflexus adorat: surgit, ostendit populo, reponit super Corporale, et genuflexus iterum adorat: nec amplius pollices et indices disjungit, nisi quando Hostia tractanda est, usque ad ablutionem digitorum.
 wait5
@@ -242,7 +242,7 @@ v. Op dezelfde wijze nam Hij na het avondmaal deze heerlijke kelk in zijn heilig
 
 !Profert verba consecrationis super Calicem, attente, continuate, et secrete, tenens illum parum elevatum.
 _
-!!!WANT DIT IS DE KELK VAN MIJN BLOED, VAN HET NIEUW EN EEUWIG VERBOND, GEHEIM VAN HET GELOOF, DAT VOOR U EN VOOR VELEN VERGOTEN ZAL WORDEN TOT VERGIFFENIS DER ZONDEN.
+!!!WANT DIT IS DE KELK VAN MIJN BLOED, VAN HET NIEUW EN EEUWIG VERBOND, GEHEIM VAN HET GELOOF, DAT VOOR U EN VOOR VELEN VERGOTEN ZAL WORDEN TOT VERGIFFENIS DER ZONDEN
 _
 !Quibus verbis prolatis, deponit Calicem super Corporale, et dicens secrete:
 v. Zo dikwijls gij dit doen zult, zult gij het doen ter gedachtenis aan Mij.
@@ -263,34 +263,34 @@ v. Gedenk ook, o Heer, uw dienaren en dienaressen N. en N., die ons zijn voorgeg
 !Manu dextera percutit sibi pectus, elata aliquantulum voce dicens:
 v. Wil ook ons, uw zondige dienaren, die op uw rijke barmhartigheid vertrouwen, enig deel en gemeenschap te geven met uw heilige apostelen en martelaren: Johannes, Stefanus, Matthias, Barnabas, Ignatius, Alexander, Marcellinus, Petrus, Felicitas, Perpetua, Agatha, Lucia, Agnes, Cecilia, Anastasia en al uw heiligen; laat ons in hun gezelschap toe, niet op grond van onze verdiensten, maar om wille van uw barmhartigheid. Door Christus, onze Heer.
 
-v. Door wie Gij, Heer, dit alles steeds weer als iets goeds voortbrengt, heiligt, + levend maakt +, zegent + en ons schenkt.
+v. Door wie Gij, Heer, dit alles steeds weer als iets goeds voortbrengt, heiligt, + levend maakt, + zegent + en ons schenkt.
 !Discooperit Calicem, genuflectit, accipit Hostiam inter pollicem et indicem manus dexteræ: et tenens sinistra Calicem, cum Hostia signat ter a labio ad labium Calicis, dicens:
 v. Door Hem + en met Hem + en in Hem + gewordt U, God, almachtige Vader, + in eenheid met de Heilige Geest, + 
 !Elevans parum Calicem cum Hostia, dicit:
 alle eer en heerlijkheid.
 !ponit Hostiam, Calicem Palla cooperit, genuflectit, surgit, et dicit intellegibili voce vel cantat:
 v. Door alle eeuwen der eeuwen. 
-M. Amen.
+R. Amen.
 
 # Preparatio Communionis
 (Iungit manus.)
 v. Laten wij bidden. Door heilzame voorschriften aangemaand, en in de goddelijke school gevormd, durven wij zeggen:
 v. Onze Vader, die in de hemel zijt, uw Naam worde geheiligd, uw rijk kome, uw wil geschiede op aarde zoals in de hemel. Geef ons heden ons dagelijks brood en vergeef ons onze schuld, zoals ook wij aan anderen hun schuld vergeven, en leid ons niet in bekoring. 
-M. Maar verlos ons van het kwade. 
+R. Maar verlos ons van het kwade. 
 S. (in stilte) Amen.
 
 !Deinde manu dextera accipit inter indicem et medium digitos Patenam, quam tenens super Altare erectam, dicit secrete:
 v. Wij vragen U, Heer, verlos ons van alle kwaad uit het verleden, het heden en de toekomst, en schenk ons op voorspraak van de roemrijke, altijd maaagdelijke Moeder van God, Maria, uw heilige apostelen Petrus en Paulus, en Andreas en alle heiligen, genadig uw vrede in onze dagen, opdat wij, met de steun van uw barmhartigheid, ons altijd vrij van zonden mogen houden, en tegen alle onrust beschermd zijn. 
 !Submittit Patenam Hostiæ, discooperit Calicem, genuflectit, surgit, accipit Hostiam, et eam super Calicem tenens utraque manu, frangit per medium, dicens:
-v. Door dezelfde Jezus Christus onze Heer, uw Zoon: 
+v. Door dezelfde Jezus Christus onze Heer, uw Zoon. 
 !Et mediam partem, quam in dextera manu tenet, ponit super Patenam. Deinde ex parte, quæ in sinistra remanserat, frangit particulam, dicens:
-die met U leeft en heerst in eenheid met de de Heilige Geest, God.
+Die met U leeft en heerst in eenheid met de de Heilige Geest, God.
 !Aliam mediam partem, quam in sinistra manu habet, adjungit mediæ super Patenam positæ, et particulam parvam dextera retinens super Calicem, quem sinistra per nodum infra cuppam tenet, dicit intellegibili voce vel cantat:
-v. Door alle eeuwen der eeuwen. 
-M. Amen. 
+V. Door alle eeuwen der eeuwen. 
+R. Amen. 
 !Cum ipsa particula signat ter super Calicem, dicens:
-S. De vrede des Heren zij altijd met u.
-M. En met uw geest.
+v. De vrede des Heren zij altijd met u.
+R. En met uw geest.
 
 !Particulam ipsam immittit in Calicem, dicens secrete:
 v. Deze vermenging en heiliging van het Lichaam en Bloed van onze Heer Jezus Christus moge ons, die het ontvangen, tot eeuwig leven strekken. Amen.
@@ -328,9 +328,9 @@ v. Moge de nuttiging van uw Lichaam, Heer Jezus Christus, dat ik, onwaardige, du
 !Genuflectit, surgit, et dicit:
 v. Het hemels brood zal ik nemen en de naam des Heren aanroepen. 
 !Deinde parum inclinatus, accipit ambas partes Hostiæ inter pollicem et indicem sinistræ manus, et Patenam inter eundem indicem et medium supponit, et dextera tribus vicibus percutiens pectus, elata aliquantulum voce, ter dicit devote et humiliter: 
-S. Heer, ik ben niet waardig, dat Gij onder mijn dank komt, maar spreek slechts een woord en mijn ziel zal gezond worden.
-S. Heer, ik ben niet waardig, dat Gij onder mijn dank komt, maar spreek slechts een woord en mijn ziel zal gezond worden.
-S. Heer, ik ben niet waardig, dat Gij onder mijn dank komt, maar spreek slechts een woord en mijn ziel zal gezond worden.
+V. Heer, ik ben niet waardig, dat Gij onder mijn dak komt, maar spreek slechts een woord en mijn ziel zal gezond worden.
+V. Heer, ik ben niet waardig, dat Gij onder mijn dak komt, maar spreek slechts een woord en mijn ziel zal gezond worden.
+V. Heer, ik ben niet waardig, dat Gij onder mijn dak komt, maar spreek slechts een woord en mijn ziel zal gezond worden.
 
 !Postea dextera se signans cum Hostia super Patenam, dicit:
 v.  Het Lichaam van onze Heer Jezus Christus moge mijn ziel bewaren voor het eeuwig leven. Amen.
@@ -357,14 +357,14 @@ v. Moge uw Lichaam, dat ik genuttigd heb, o Heer, een vast verblijf in mij vinde
 # Postcommunio
 !Dicta antiphona ad Communionem, osculatur altare, et versus ad populum dicit :
 S. De Heer zij met U.
-M. En met uw geest.
+R. En met uw geest.
 !Deinde, reversus ad altare, dicit :
 &postcommunio
 
 # Conclusio
 !Dicto, post ultimam Orationem, 
 S. De Heer zij met U.  
-M. En met uw geest. 
+R. En met uw geest. 
 !dicit pro Missæ qualitate, vel Ite, Missa est, vel Benedicámus Dómino. Deo grátias.
 !*D In Missis Defunctorum dicit:  Requiescant in pace.  Amen.
 
@@ -376,18 +376,18 @@ v. Moge, o Heilige Drieëenheid, de hulde van mijn dienstwerk U behagen en laat 
 
 !*&CheckBlessing
 !Deinde osculatur Altare: et elevatis oculis, extendens, elevans et jungens manus, caputque Cruci inclínans, dicit: 
-v. U zegene de almachtige God, 
+v. U zegene de almachtige God, de
 !et versus ad  populum, semel tantum benedícens, etiam in Missis sollemnibus; In Missa Pontificali ter benedicitur, ut in Pontificali habetur. Deinde prosequitur: 
-v. de Vader, de Zoon, + en de heilige Geest.
-M. Amen.
+v. Vader, de Zoon, + en de heilige Geest.
+R. Amen.
 
 !*D
 !In Missis Defunctorum non datur benedíctio, sed dicto Requiéscant in pace, dicit: Pláceat tibi, sancta Trinitas; deinde osculato Altari, legit Evangelium sancti Joannis. 
 
 !*&CheckUltimaEv
 !Deinde sacerdos in cornu Evangelii, junctis manibus dicit:
-S. De Heer zij met U.
-M. En met uw geest.
+V. De Heer zij met U.
+R. En met uw geest.
 !Et signans signo crucis primum Altare vel librum, deinde se in fronte, ore et pectore, dicit:
 &Ultimaev
 !Finito Evangelio sancti Joannis, discedens ab Altari, pro gratiarum actione dicit Ant. Trium puerórum, cum reliquis, ut habetur in principio Missalis.
@@ -396,23 +396,23 @@ M. En met uw geest.
 # Orationes Leonis XIII
 !  
 S. Wees gegroet, Maria, vol van genade, de Heer is met U. Gezegend zijt Gij boven alle vrouwen, en gezegend is de Vrucht van uw lichaam, Jezus.
-M. Heilige Maria, Moeder Gods, bid voor ons, arme zondaars, nu en in het uur van onze dood. Amen.
+O. Heilige Maria, Moeder Gods, bid voor ons, arme zondaars, nu en in het uur van onze dood. Amen.
 S. Wees gegroet, Maria, vol van genade, de Heer is met U. Gezegend zijt Gij boven alle vrouwen, en gezegend is de Vrucht van uw lichaam, Jezus.
-M. Heilige Maria, Moeder Gods, bid voor ons, arme zondaars, nu en in het uur van onze dood. Amen.
+O. Heilige Maria, Moeder Gods, bid voor ons, arme zondaars, nu en in het uur van onze dood. Amen.
 S. Wees gegroet, Maria, vol van genade, de Heer is met U. Gezegend zijt Gij boven alle vrouwen, en gezegend is de Vrucht van uw lichaam, Jezus.
-M. Heilige Maria, Moeder Gods, bid voor ons, arme zondaars, nu en in het uur van onze dood. Amen.
+O. Heilige Maria, Moeder Gods, bid voor ons, arme zondaars, nu en in het uur van onze dood. Amen.
 _
 M. Wees gegroet, Koningin, Moeder van barmhartigheid. Ons leven, onze vreugde en onze hoop, wees gegroet. Tot U roepen wij, ballingen, kinderen van Eva. Tot U smeken wij, zuchtend en wenend in dit dal van tranen. Daarom dan, onze Voorspreekster, sla op ons uw barmhartige ogen. En toon ons na deze ballingschap Jezus, de gezegende Vrucht van uw schoot. O goedertiern, o liefdevolle, o zoete Maagd Maria.
 S. Bid voor ons, heilige Moeder van God. 
-M. Opdat wij de beloften van Christus waardig worden.
+O. Opdat wij de beloften van Christus waardig worden.
 _
 S. Laat ons bidden. God, onze toevlucht en onze kracht, zie genadig neder op het volk, dat tot U smeekt en verhoor barmhartig en goedgunstig de gebeden, die wij storten voor de bekering van de zondaars, voor de vrijheid en de verheffing van onze Moeder, de heilige Kerk. Dat vragen wij U op de voorspraak van de heilige Maria, de glorierijke en onbevlekte Maagd en Moeder van God, en van de heilige Jozef, haar bruidegom, van de heilige apostelen Petrus en Paulus en van alle heiligen. Door dezelfde Christus, onze Heer. Amen.
 _
-M. Heilige Aartsengel Michaël, verdedig ons in de strijd, wees onze bescherming tegen de boosheid en de listen van de duivel. Wij smeken ootmoedig, dat God hem Zijn macht doe gevoelen. En gij, vorst van de hemelse legerscharen, drijf Satan en de andere boze geesten, die tot verderf van de zielen over de wereld rondgaan, door de goddelijke kracht in de hel terug. Amen.
+O. Heilige Aartsengel Michaël, verdedig ons in de strijd, wees onze bescherming tegen de boosheid en de listen van de duivel. Wij smeken ootmoedig, dat God hem Zijn macht doe gevoelen. En gij, vorst van de hemelse legerscharen, drijf Satan en de andere boze geesten, die tot verderf van de zielen over de wereld rondgaan, door de goddelijke kracht in de hel terug. Amen.
 _
 S. Allerheiligst Hart van Jezus. 
-M. Ontferm U over ons.
+O. Ontferm U over ons.
 S. Allerheiligst Hart van Jezus. 
-M. Ontferm U over ons.
+O. Ontferm U over ons.
 S. Allerheiligst Hart van Jezus. 
-M. Ontferm U over ons.
+O. Ontferm U over ons.
