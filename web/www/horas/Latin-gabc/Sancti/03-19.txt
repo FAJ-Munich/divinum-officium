@@ -42,31 +42,7 @@ $Qui vivis
 Christum Dei Fílium, qui putári dignátus est fílius Joseph, * Veníte adorémus.
 
 [Hymnus Matutinum]
-v. Cǽlitum Joseph, decus atque nostræ
-Certa spes vitæ, columénque mundi,
-Quas tibi læti cánimus, benígnus
-Súscipe laudes.
-_
-Te Sator rerum státuit pudícæ
-Vírginis sponsum, voluítque Verbi
-Te patrem dici, dedit et minístrum
-Esse salútis.
-_
-Tu Redemptórem stábulo jacéntem,
-Quem chorus Vatum cécinit futúrum,
-Aspicis gaudens, humilísque natum
-Numen adóras.
-_
-Rex Deus regum, Dominátor orbis,
-Cujus ad nutum tremit inferórum
-Turba, cui pronus famulátur æther,
-Se tibi subdit.
-_
-Laus sit excélsæ Tríadi perénnis,
-Quæ tibi præbens súperos honóres,
-Det tuis nobis méritis beátæ
-Gáudia vitæ.
-Amen.
+{gabc:Sancti/03-19/hy--caelitum_joseph_decus--solesmes}
 
 [Ant Matutinum]
 Ascéndit Joseph, * a Galilǽa de civitáte Názareth in Judǽam, in civitátem David, quæ vocátur Béthlehem, ut profiterétur cum María.;;1

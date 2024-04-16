@@ -12,7 +12,7 @@ Antiphonas horas
 Psalm5 Vespera=116
 
 [Ant Vespera]
-@Sancti/03-19::1-2 s/;;\d*;;/;;;;/g
+@Sancti/03-19:Ant Vespera:1-2 s/;;\d*;;/;;;;/g
 {name:Ascendit autem Joseph;annotation:6. F;mode:6;book:Liber antiphonarius, 1960, p. 688;transcriber:Andrew Hinkley;%%(c4) A(f)scén(gh)dit(f') au(g)tem(fe) Jo(d)seph(d_g) *(,) a(e) Ga(f')li(g)laé(fh)a(h'_) (,) de(h) ci(g)vi(h')tá(ixi)te(gf) Ná(g)za(h)reth,(g.) (;) in(h) Ju(f)daé(hj)am(j'_) (,) in(j) ci(k')vi(j)tá(ixhi)tem(gf) Da(ixgig)vid,(h.) (;) quæ(f) vo(e)cá(de)tur(d) Bé(c)thle(d)hem,(fe) al(g)le(gh)lú(f.)ja.(f.) (::)};;;;6
 {name:Et venerunt festinantes;annotation:7. d;mode:7;book:Liber antiphonarius, 1960, p. 689;transcriber:Andrew Hinkley;%%(c3) ET(e) ve(ei)né(i)runt(h') *() fe(i)sti(k')nán(j)tes,(i!jwk.) (;) et(i) in(h)ve(ik)né(k')runt(k) Ma(j')rí(k)am(j') et(i) Jo(hi)seph,(i.) (;) et(e) in(f)fán(ed~)tem(e) pó(fh)si(g')tum(f) in(g') præ(h)sé(f')pi(e)o,(d) al(ef~)le(f)lú(e.)ja.(e.) (::)};;;;7d
 {name:Et ipse Jesus erat;annotation:7. d;mode:7;book:Liber antiphonarius, 1960, p. 689;transcriber:Andrew Hinkley;%%(c3) ET(e) i(e_i)pse(g_h) Je(i_j)sus(i'_) *(,) e(j)rat(i') in(h)cí(hi)pi(h)ens(h.) (,) qua(hf)si(g) an(h)nó(ij)rum(i) tri(h')gín(i)ta,(i.) (;) ut(e') pu(f)ta(e)bá(d!e'f)tur(f.) (,) fí(f_i)li(h)us(f') Jo(h)seph,(g_h) al(i'_)le(f)lú(e.)ja.(e.) (::)};;;;7d
@@ -178,11 +178,10 @@ Quamquam si étiam Lucas génitum díceret Joseph ab Heli, nec sic nos hoc verbu
 @Sancti/03-19:Hymnus Matutinum
 
 [Versum 2]
-V. Dedísti mihi protectiónem salútis tuæ, allelúja.
-R. Et déxtera tua suscépit me, allelúja.
+{initial-style:0;%%(c3) V/. De(h)dís(h)ti(h) mi(h)hi(h) pro(h)tec(h)ti(h)ó(h)nem(h) sa(h)lú(h)tis(h) tu(hi)æ,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::) R/. Et(h) déx(h)te(h)ra(h) tu(h)a(h) sus(h)cé(hi)pit(hr) me,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 2]
-Joseph, fili David, * noli timére accípere Maríam cónjugem tuam; quod enim in ea natum est, de Spíritu Sancto est, allelúja.
+{name:Joseph fili David;annotation:7. a;mode:7;book:Liber antiphonarius, 1960, p. 691;transcriber:Andrew Hinkley;%%(c3) JO(e)seph(e') fi(e)li(g') Da(h)vid,(i.) (,) * no(h')li(j) ti(i)mé(k)re(j') ac(i)cí(g')pe(h)re(ij) Ma(i)rí(hi)am(i.) (,) cón(hg)ju(fe)gem(de) tu(e)am:(e.) (:) quod(e') e(e)nim(g') in(h) e(i'_)a(i_) na(j_k)tum(j) est,(h'_) (,) de(j_) Spí(i')ri(i)tu(g_h) San(i)cto(gh) est,(fv_ED) al(ef~)le(f)lú(e.)ja.(e.) (::)};;7a
 
 [Lectio Prima]
 !Gen 49:22
@@ -234,8 +233,7 @@ V. Plantátus in domo Dómini, allelúja.
 R. In átriis domus Dei nostri, allelúja.
 
 [Versum 3]
-V. Sub umbra illíus, quem desideráveram, sedi, allelúja.
-R. Et fructus ejus dulcis guttúri meo, allelúja.
+{initial-style:0;%%(c3) V/. Sub(h) um(h)bra(h) il(h)lí(h)us,(h) quem(h) de(h)si(h)de(h)rá(h)ve(h)ram,(h) se(hi)di,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::) R/. Et(h) fru(h)ctus(h) e(h)jus(h) dul(h)cis(h) gut(h)tú(h)ri(h) me(hi)o,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 3]
-Fili, quid fecísti * nobis sic? Ecce pater tuus et ego doléntes quærebámus te, allelúja.
+{name:Fili quid fecisti S. Joseph;annotation:3. b;mode:3;book:Liber antiphonarius, 1960, p. 693;transcriber:Andrew Hinkley;%%(c4) FI(g_j)li,(i.) (,) * quid(gh) fe(e)cí(gh)sti(g') no(f)bis(de) sic?(e.) (;) Ec(g)ce(gh) pa(f)ter(h') tu(j)us(ji) et(h) e(i_j)go(i'_) (,) do(k)lén(jv_IG)tes(h_g) quæ(e)re(f)bá(gh)mus(gf) te,(g) (,) al(gv_FD)le(e_f)lú(gg)ja.(e.) (::)};;solemn3b
