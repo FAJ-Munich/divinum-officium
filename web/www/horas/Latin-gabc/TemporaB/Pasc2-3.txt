@@ -130,7 +130,7 @@ R. Amen dico vobis, quóniam super ómnia bona sua constítuet eum, allelúja.
 [Capitulum Laudes]
 @Tempora/Pasc2-3
 _
-@Tempora/Pasc2-3:Responsory Sexta:1-6
+R.br. {gabc:Sancti/03-19/rb--confitebor_nomini_tuo--solesmes}
 
 [Hymnus Laudes]
 @SanctiM/03-19:Hymnus Matutinum
