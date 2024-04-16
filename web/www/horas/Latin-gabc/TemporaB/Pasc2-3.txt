@@ -18,6 +18,7 @@ Antiphonas horas
 v. Benedictiónes patris tui confortátæ sunt benedictiónibus patrum ejus, donec veníret Desidérium cóllium æternórum: fiant in cápite Joseph, et in vértice Nazarǽi inter fratres suos.
 $Deo gratias
 _
+R.br.
 {gabc:Sancti/03-19/rb--constituit_eum--solesmes_1957}
 (sed tonus minor)
 {gabc:Sancti/03-19/rb--constituit_eum_dominum_t._pasch.--solesmes_1934}
