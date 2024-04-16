@@ -1317,7 +1317,7 @@ sub officestring($$;$) {
 		%s = %{setupstring($lang, $fname)};
     return \%s;
   }
-  $monthday = monthday($day, $month, $year, ($version =~ /1960|Monastic/) + 0, $flag);
+  $monthday = monthday($day, $month, $year, ($version =~ /196/) + 0, $flag);
 
   if (!$monthday) {
     %s = %{setupstring($lang, $fname)};
