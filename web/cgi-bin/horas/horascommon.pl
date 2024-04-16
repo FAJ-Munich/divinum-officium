@@ -137,7 +137,8 @@ sub occurrence {
 			$tfile = '';
 		}
 
-		if ($tfile && (-e "$datafolder/Latin/$tfile.txt" || $weekname =~ /Epi0/i)) {
+		if ($tfile && (-e "$datafolder/Latin/$tfile.txt" || $weekname =~ /Epi0/i
+			|| ($tfile =~ /(Sancti|Tempora)M(.*)/ && -e "$datafolder/Latin/$1$2.txt"))) {
 			
 			$tname = "$tfile.txt";
 			
@@ -199,7 +200,7 @@ sub occurrence {
 		
 		$BMVSabbato = ($sfile =~ /v/ || $dayofweek !~ 6) ? 0 : 1; # nicht sicher, ob das notwendig ist
 		
-		if (-e "$datafolder/Latin/$sfile.txt") {
+		if (-e "$datafolder/Latin/$sfile.txt" || ($sfile =~ /(Sancti|Tempora)M(.*)/ && -e "$datafolder/Latin/$1$2.txt")) {
 			$sname = "$sfile.txt";
 			if ($caller && $hora =~ /(Matutinum|Laudes)/i) { $sname =~ s/11-02t/11-02/; }	# special for All Souls day
 			
