@@ -4,7 +4,7 @@
 [solemnis1]
 {initial-style:0;%%(f3) V/. Be(fc)ne(ef)di(f)cá(f)mus(f_e) Dó(fhF'Ef.)(,)(hif/ge/fgf.)(,)(hjI//F'hvG'EC'ef)mi(fe)no.(fhG'Ef.) (::) R/. De(fc/ef)o(f_e) grá(fhF'Ef.)(,)(hif/ge/fgf.)(,)(hjI//F'hvG'EC'ef)ti(fe)as.(fhG'Ef.) (::)}
 (sed rubrica monastica)
-{initial-style:0;%%(f3) V/. Be(fc)ne(ef)di(f)cá(f)mus(fe) Dó(f_gF'Ef./,/hif'/ge./fgf./,/hjI!F'_/hvG'EC.ef)mi(fe)no.(f_hG'Ef.) (::) R/. De(fc/ef)o(fe) grá(f_gF'Ef./,/hif'/ge./fgf./,/hjI/F'_/hvG'EC.ef)ti(fe)as.(f_hG'Ef.) (::)}
+{initial-style:0;%%(f3) V/. Be(fc)ne(ef)di(f)cá(f)mus(fe) Dó(f_gF'Ef./,/hif'/ge./fgf./,/hjI!F'_/hvG'EC.ef)mi(fe)no.(f_0hG'Ef.) (::) R/. De(fc/ef)o(fe) grá(f_gF'Ef./,/hif'/ge./fgf./,/hjI/F'_/hvG'EC.ef)ti(fe)as.(f_0hG'Ef.) (::)}
 
 [solemnis2]
 {initial-style:0;%%(c4) V/. Be(j')ne(i)di(g')cá(h)mus(g.) Dó(ef!gvv//deDC.)(,)(jvIG'hg.ef!gvv//deDC.)(,)(cdefe)mi(dc)no.(c.) (::) R/. De(jvIG'h)o(gv.ef!gvv//deDC.) (,) (jvIG'hg.ef!gvv//deDC.) (,) grá(cdefe)ti(dc)as.(c.) (::)}
