@@ -7,8 +7,8 @@ Antiphonas horas
 12 lectiones;
 
 [Ant Vespera]
-@SanctiM/03-19::1
-{name:Missus est Angelus Gabriel a Deo In Sol. S. Joseph;annotation:8.g2;mode:8;book:Antiphonale Monasticum, 1934, p. 886;%%(c4) Mis(f)sus(fg) est(gg) * An(f)ge(h)lus(j) Gá(jk)bri(j)el(j') a(j) De(j)o(h_') (,) in(h) ci(g)vi(h')tá(i)tem(h') Ga(g)li(f)lǽ(gh)æ,(g_') (,) cu(g)i(h) no(g)men(e_f) Ná(gh)za(h)reth,(g.) (;) ad(g) Vír(g')gi(h)nem(j') de(j)spon(h')sá(j)tam(ig) vi(hi)ro(h.) (,) cui(fe)i(d) no(e')men(f) e(gh)rat(h') Jo(g)seph,(gv_FD_') al(f)le(fg)lú(g.)ja.(g.) (::)};;;;8g
+@SanctiM/03-19:Ant Vespera:1
+{name:Missus est Angelus Gabriel a Deo In Sol. S. Joseph;annotation:8.g2;mode:8;book:Antiphonale Monasticum, 1934, p. 886;%%(c4) Mis(f)sus(fg) est(gg) * An(f)ge(h)lus(j) Gá(jk)bri(j)el(j') a(j) De(j)o(h_') (,) in(h) ci(g)vi(h')tá(i)tem(h') Ga(g)li(f)lǽ(gh)æ,(g_') (,) cu(g)i(h) no(g)men(e_f) Ná(gh)za(h)reth,(g.) (;) ad(g) Vír(g')gi(h)nem(j') de(j)spon(h')sá(j)tam(ig) vi(hi)ro(h.) (,) cu(fe)i(d) no(e')men(f) e(gh)rat(h') Jo(g)seph,(gv_FD_') al(f)le(fg)lú(g.)ja.(g.) (::)};;;;8g
 {name:Ascendit autem Joseph;annotation:7. a;mode:7;book:Antiphonale Monasticum, 1934, p. 887;%%(c3) A(e)scén(e)dit(e) au(g')tem(h) Jo(i_j)seph(i_') (,) * a(i) Ga(h)li(g)lǽ(i_j)a(i_') de(h) ci(i)vi(k')tá(j)te(i') Ná(h)za(hi)reth,(i.) (:) in(e) Ju(g)dǽ(h_i)am(i_') in(i) ci(h)vi(i')tá(k)tem(j') Da(i)vid,(i_h) (,) quæ(h) vo(f')cá(h)tur(gf) Béth(e')le(e)hem,(e_f) al(g')le(f)lú(e.)ja(e.) (::)};;;;7a
 {name:Et venerunt festinantes;annotation:3. a;mode:3;book:Antiphonale Monasticum, 1934, p. 887;%%(c4) ET(gj) ve(h)né(g!hwi)runt(i') * fes(i)ti(j')nán(k>)tes,(i_') (,) et(k) in(k')ve(i)né(kl)runt(k) Ma(j)rí(ji)am,(h') et(g) Jo(hi)seph,(i.) (;) et(g) in(h')fán(g)tem(e>') pó(f)si(e)tum(d) in(f) præ(e_f)sé(gh)pi(g)o,(gf) al(g)le(gf)lú(e.)ja.(e.) (::)};;;;3a
 {name:Et ipse Jesus;annotation:7. d;mode:7;book:Antiphonale Monasticum, 1934, p. 887;%%(c3) ET(e) ip(e_i)se(g_h) Je(i_j)sus(i_') (,) * e(j)rat(i') in(h)cí(hi)pi(h)ens(h.) (,) qua(hf)si(h') an(i)nó(ij)rum(i) tri(h')gín(i)ta(i.) (;) ut(e') pu(f)ta(e)bá(d_0ef)tur(f.) fí(f_i)li(h)us(g') Jo(e)seph,(e_f) al(g>)le(fg)lú(e.)ja.(e.) (::)};;;;7d
@@ -130,17 +130,13 @@ R. Amen dico vobis, quóniam super ómnia bona sua constítuet eum, allelúja.
 [Capitulum Laudes]
 @Tempora/Pasc2-3
 _
-@Tempora/Pasc2-3:Responsory Sexta:1-6
+R.br. {gabc:Sancti/03-19/rb--confitebor_nomini_tuo--solesmes}
 
 [Hymnus Laudes]
-@Sancti/03-19:Hymnus Matutinum
-
-[Versum 2]
-V. Dedísti mihi protectiónem salútis tuæ, allelúja.
-R. Et déxtera tua suscépit me, allelúja.
+@SanctiM/03-19:Hymnus Matutinum
 
 [Ant 2]
-Joseph, fili David, * noli timére accípere Maríam cónjugem tuam; quod enim in ea natum est, de Spíritu Sancto est, allelúja.
+{name:Joseph fili David;annotation:7. a;mode:7;book:Antiphonale Monasticum, 1934, p. 889;transcriber:Dominique CROCHU;%%(c3) JO(e)seph,(e) fi(e)li(g') Da(h)vid,(i.) (,) * no(h)li(j') ti(i)mé(k)re(j') ac(i)cí(g')pe(h)re(ij) Ma(i)rí(h)am(i'_) (,) cón(g>)ju(fe~)gem(de~) tu(e.)am :(e.) (:) quod(e) e(e)nim(g) in(h) e(i'_)a(i_) na(j_k)tum(j>) est(h'_) (,) de(j) Spí(i)ri(i)tu(g_i) San(g)cto(h) est,(fv_ED) al(ef)le(f)lú(e.)ja.(e.) (::)};;7a
 
 [Responsory Tertia]
 @:Versum 1
@@ -151,9 +147,5 @@ Joseph, fili David, * noli timére accípere Maríam cónjugem tuam; quod enim i
 [Responsory Nona]
 @Tempora/Pasc2-3:Responsory Nona:8-9
 
-[Versum 3]
-V. Sub umbra illíus, quem desideráveram, sedi, allelúja.
-R. Et fructus ejus dulcis guttúri meo, allelúja.
-
 [Ant 3]
-Fili, quid fecísti * nobis sic? Ecce pater tuus et ego doléntes quærebámus te, allelúja.
+{name:Fili quid fecisti S. Joseph;annotation:3. b;mode:3;%%(c4) FI(g_j)li,(i.) (,) * quid(gh) fe(e_0f)cí(gh)sti(g') no(f)bis(de) sic?(e.) (;) Ec(g)ce(gh) pa(f)ter(h') tu(j)us(ji) et(h) e(i_j)go(i'_) (,) do(k)lén(jv_IG)tes(h_g) quæ(h)re(g)bá(e_0f)mus(g) te,(e_') (,) al(g)le(gf)lú(e.)ja.(e.) (::)};;solemn3-antiquo-b
