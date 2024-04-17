@@ -12,24 +12,25 @@ $Deus in adjutorium
 #Capitulum Responsorium Versus
 R. Deo grátias.
 _
+R.br.
 {gabc:Psalterium/rb--christe_fili_dei_vivi--solesmes_1961}
 (sed tempore passionis)
-{gabc:Psalterium/rb--christe_fili_dei_vivi--passionis--solesmes_1961}
+{gabc:Psalterium/Passionis/rb--christe_fili_dei_vivi--passionis--solesmes_1961}
 
 #Preces Dominicales et Feriales
 $RLitany simplex
-V. Et ego ad te, Dómine, clamávi.
-R. Et mane orátio mea prævéniet te.
-V. Repleátur os meum laude.
-R. Ut cantem glóriam tuam, tota die magnitúdinem tuam.
-V. Dómine, avérte fáciem tuam a peccátis meis.
-R. Et omnes iniquitátes meas dele.
-V. Cor mundum crea in me, Deus.
-R. Et spíritum rectum ínnova in viscéribus meis.
-V. Ne projícias me a fácie tua.
-R. Et spíritum sanctum tuum ne áuferas a me.
-V. Redde mihi lætítiam salutáris tui.
-R. Et spíritu principáli confírma me.
+{initial-style:0;%%(c3) V/. Et(h) e(h)go(h) ad(h) te,(h) Dó(h)mi(h)ne,(h) cla(h)má(h)vi.(f.) (::) 
+R/. Et(h) ma(h)ne(h) o(h)rá(h)ti(h)o(h) me(h)a(h) præ(h)vé(h)ni(g)et(f) te.(h.) (::Z) 
+V/. Re(h)ple(h)á(h)tur(h) os(h) me(h)um(h) lau(h)de.(f.) (::) 
+R/. Ut(h) can(h)tem(h) gló(h)ri(h)am(h) tu(h)am,(h) to(h)ta(h) di(h)e(h) mag(h)ni(h)tú(h)di(h)nem(h) tu(h)am.(f.) (::Z) 
+V/. Dó(h)mi(h)ne,(h) a(h)vér(h)te(h) fá(h)ci(h)em(h) tu(h)am(h) a(h) pec(h)cá(h)tis(h) me(h)is.(f.) (::) 
+R/. Et(h) om(h)nes(h) in(h)i(h)qui(h)tá(h)tes(h) me(h)as(h) de(h)le.(f.) (::Z) 
+V/. Cor(h) mun(h)dum(h) cre(h)a(h) in(h) me,(h) De(h)us.(f.) (::) 
+R/. Et(h) spí(h)ri(h)tum(h) rec(h)tum(h) ín(h)no(h)va(h) in(h) vi(h)scé(h)ri(h)bus(h) me(h)is.(f.) (::Z) 
+V/. Ne(h) pro(h)jí(h)ci(h)as(h) me(h) a(h) fá(h)ci(h)e(h) tu(h)a.(f.) (::) 
+R/. Et(h) spí(h)ri(h)tum(h) sanc(h)tum(h) tu(h)um(h) ne(h) áu(h)fe(g)ras(gr) a(f) me.(h.) (::Z)
+V/. Red(h)de(h) mi(h)hi(h) læ(h)tí(h)ti(h)am(h) sa(h)lu(h)tá(h)ris(h) tu(h)i.(f.) (::) 
+R/. Et(h) spí(h)ri(h)tu(h) prin(h)ci(h)pá(h)li(h) con(h)fír(h)ma(f) me.(h.) (::)}
 
 #Preces Feriales 
 V. Éripe me, Dómine, ab hómine malo.
@@ -62,14 +63,14 @@ $Adjutorium nostrum
 $Confiteor
 $Misereatur
 $Indulgentiam
-V. Dignáre, Dómine, die isto.
-R. Sine peccáto nos custodíre.
-V. Miserére nostri, Dómine.
-R. Miserére nostri.
-V. Fiat misericórdia tua, Dómine, super nos.
-R. Quemádmodum sperávimus in te.
-V. Dómine, exáudi oratiónem meam.
-R. Et clamor meus ad te véniat.
+{initial-style:0;%%(c3) V/. Dig(h)ná(h)re,(h) Dó(h)mi(h)ne,(h) di(h)e(h) is(h)to.(f.) (::)
+R/. Si(h)ne(h) pec(h)cá(h)to(h) nos(h) cus(h)to(h)dí(h)re.(f.) (::Z)
+V/. Mi(h)se(h)ré(h)re(h) nos(h)tri,(h) Dó(h)mi(f)ne.(f.) (::)
+R/. Mi(h)se(h)ré(h)re(h) nos(h)tri.(f.) (::Z)
+V/. Fi(h)at(h) mi(h)se(h)ri(h)cór(h)di(h)a(h) tu(h)a,(h) Dó(h)mi(h)ne,(h) su(h)per(f) nos.(h.) (::)
+R/. Que(h)mád(h)mo(h)dum(h) spe(h)rá(h)vi(g)mus(gr) in(f) te.(h.) (::Z)
+V/. Dó(h)mi(h)ne,(h) ex(h)áu(h)di(h) o(h)ra(h)ti(h)ó(h)nem(h) me(h)am.(f.) (::)
+R/. Et(h) cla(h)mor(h) me(h)us(h) ad(h) te(h) vé(h)ni(f)at.(f.) (::)}
 
 #Orationes
 &Dominus_vobiscum1
@@ -94,8 +95,7 @@ V. Deus in adjutórium meum inténde.
 R. Dómine, ad adjuvándum me festína.
 &Gloria
 
-$Kyrie
-$Pater secreto
+$RLitany simplex0
 V. Réspice in servos tuos, Dómine, et in ópera tua, et dírige fílios eórum.
 R. Et sit splendor Dómini Dei nostri super nos, et ópera mánuum nostrárum dírige super nos, et opus mánuum nostrárum dírige.
 &Gloria

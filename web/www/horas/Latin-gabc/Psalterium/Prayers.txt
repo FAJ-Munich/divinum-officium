@@ -213,15 +213,18 @@ v. Te decet laus, + te decet hymnus: tibi glória Deo Patri, et Fílio, cum Spí
 v. Kýrie, eléison. Christe, eléison. Kýrie, eléison.
 
 [MLitany]
-$Kyrie
-&pater_noster
+{(c3) KY(h)ri(h)e(h_g) e(f)lé(g')i(g)son.(h.) (::) R/. Chri(h)ste(h_g) e(f)lé(g')i(g)son.(h.) (,) Ký(h)ri(h)e(h_g) e(f)lé(g')i(g)son.(h.) (::)} 
+{(c3) Pa(f)ter(g) nos(h)ter,(h) qui(h) es(h) in(h) cæ(h)lis,(g.) (,) san(h)cti(h)fi(h)cé(h)tur(h) no(g)men(f') tu(h)um:(h.) (;) ad(f)vé(g)ni(h)at(h) reg(h)num(h) tu(h)um:(g.) (,) fi(f)at(g) vo(h)lún(h)tas(h) tu(h)a,(h_') (,) sic(h)ut(h) in(h) cæ(h)lo(h) et(g) in(f') ter(h)ra.(h.) (;) Pa(f)nem(g) nos(h)trum(h) quo(h)ti(h)di(h)á(h)num(h) da(h) no(h)bis(h) hó(h')di(h)e:(g.) (,) et(f) di(f)mít(g)te(g) no(h)bis(h) dé(h)bi(h)ta(h) nos(h)tra,(h_') (,) sic(h)ut(h) et(h) nos(h) di(h)mít(h)ti(h)mus(h) de(h)bi(h)tó(h)ri(g)bus(f') nos(h)tris:(h.) (;) et(f) ne(f) nos(f) in(g)dú(g)cas(h) in(h) ten(h)ta(h)ti(h)ó(h)nem:(f.) (::) R/. Sed(h) lí(h)be(h)ra(h) nos(h) a(h) ma(h)lo.(f.) (::)}
 
 [MLitany2]
-$Kyrie
-$Pater secreto
+{(c3) KY(h)ri(h)e(h_g) e(f)lé(g')i(g)son.(h.) (::) R/. Chri(h)ste(h_g) e(f)lé(g')i(g)son.(h.) (,) Ký(h)ri(h)e(h_g) e(f)lé(g')i(g)son.(h.) (::)} 
+{(c3) Pa(h)ter(h) nos(h)ter.(f.) (::) ^_secreto usque ad_^(h+Z) V/. Et(h) ne(h) nos(h) in(h)dú(h)cas(h) in(h) ten(h)ta(h)ti(h)ó(h)nem.(f.) (::) R/. Sed(h) lí(h)be(h)ra(h) nos(h) a(h) ma(h)lo.(f.) (::)}
+
+[RLitany simplex0]
+{(c3) KY(h)ri(h)e(h) e(h)lé(h)i(h)son.(h.) (::) R/. Chri(h)ste(h) e(h)lé(h)i(h)son.(h.) (,) Ký(h)ri(h)e(h) e(f)lé(g)i(h)son.(h.) (::Z) Pa(h)ter(h) nos(h)ter.(f.) (::) ^_secreto usque ad_^(h+Z) V/. Et(h) ne(h) nos(h) in(h)dú(h)cas(h) in(h) ten(h)ta(h)ti(h)ó(h)nem.(f.) (::) R/. Sed(h) lí(h)be(h)ra(h) nos(h) a(h) ma(h)lo.(f.) (::)}
 
 [RLitany simplex]
-{(c3) KY(h)ri(h)e(h) e(h)lé(h)i(h)son.(h.) (::) R/. Chri(h)ste(h) e(h)lé(h)i(h)son.(h.) (,) Ký(h)ri(h)e(h) e(f)lé(g)i(h)son.(h.) (::) Pa(h)ter(h) nos(h)ter.(f.) (::) ^_secreto_^ () V/. Et(h) ne(h) nos(h) in(h)dú(h)cas(h) in(h) ten(h)ta(h)ti(h)ó(h)nem.(f.) (::) R/. Sed(h) lí(h)be(h)ra(h) nos(h) a(h) ma(h)lo.(f.) (::) Cre(h)do(f.) (::)  ^_secreto_^ () V/. Car(h)nis(h) re(h)sur(h)rec(h)ti(h)ó(h)nem.(f.) R/. Vi(h)tam(h) æ(h)tér(h)nam.(h) A(h)men.(f.) (::)}
+{(c3) KY(h)ri(h)e(h) e(h)lé(h)i(h)son.(h.) (::) R/. Chri(h)ste(h) e(h)lé(h)i(h)son.(h.) (,) Ký(h)ri(h)e(h) e(f)lé(g)i(h)son.(h.) (::Z) Pa(h)ter(h) nos(h)ter.(f.) (::) ^_secreto usque ad_^(h+Z) V/. Et(h) ne(h) nos(h) in(h)dú(h)cas(h) in(h) ten(h)ta(h)ti(h)ó(h)nem.(f.) (::) R/. Sed(h) lí(h)be(h)ra(h) nos(h) a(h) ma(h)lo.(f.) (::Z) Cre(h)do(f.) (::) ^_secreto usque ad_^(h+Z) V/. Car(h)nis(h) re(h)sur(h)rec(h)ti(h)ó(h)nem.(f.) (::) R/. Vi(h)tam(h) æ(h)tér(h)nam.(h) A(h)men.(f.) (::)}
 
 [Divinum auxilium]
 {initial-style:0;%%(c3)V/. Di(e)ví(e)num(e) au(e)xí(e)li(e)um(e) ^✠^ má(e)ne(e)at(e) sem(e)per(e) no(e)bís(e)cum.(e.) (::) R/. A(e)men.(e.) (::)}
@@ -241,6 +244,7 @@ Allelúja, allelúja.
 {name:AllelujaAnt;annotation:6.f;%%(c4) AL(f)le(g)lú(g_0h)ja,(f_') (,) * al(g)le(f)lú(fe)ja,(d') al(f)le(g')lú(g)ja.(f.) (::)}
 
 [Preces feriales Laudes]
+/:non cantantur, sed dicitur recto tono:/
 $Kyrie
 $Pater secreto
 V. Ego dixi: Dómine, miserére mei.
@@ -301,13 +305,13 @@ R. Et clamor meus ad te véniat.
 @:Preces feriales Laudes:s/129/50/
 
 [Preces feriales Tertia]
-{(c3) KY(h)ri(h)e(h) e(h)lé(h)i(h)son.(h.) (::) R/. Chri(h)ste(h) e(h)lé(h)i(h)son.(h.) (,) Ký(h)ri(h)e(h) e(f)lé(g)i(h)son.(h.) (::) Pa(h)ter(h) nos(h)ter.(f.) (::) ^_secreto_^ () V/. Et(h) ne(h) nos(h) in(h)dú(h)cas(h) in(h) ten(h)ta(h)ti(h)ó(h)nem.(f.) (::) R/. Sed(h) lí(h)be(h)ra(h) nos(h) a(h) ma(h)lo.(f.) (::)}
-V. Dómine, Deus virtútum, convérte nos.
-R. Et osténde fáciem tuam, et salvi érimus.
-V. Exsúrge, Christe, ádjuva nos.
-R. Et líbera nos propter nomen tuum.
-V. Dómine, exáudi oratiónem meam.
-R. Et clamor meus ad te véniat.
+$RLitany simplex0
+{initial-style:0;%%(c3) V/. Dó(h)mi(h)ne,(h) De(h)us(h) vir(h)tú(h)tum,(h) con(h)vér(h)te(f) nos.(h.) (::)
+R/. Et(h) os(h)tén(h)de(h) fá(h)ci(h)em(h) tu(h)am,(h) et(h) sal(h)vi(h) é(h)ri(f)mus.(f.) (::Z)
+V/. Ex(h)súr(h)ge,(h) Chris(h)te,(h) ád(h)ju(g)va(f) nos.(h.) (::)
+R/. Et(h) lí(h)be(h)ra(h) nos(h) prop(h)ter(h) no(h)men(h) tu(h)um.(f.) (::Z)
+V/. Dó(h)mi(h)ne,(h) ex(h)áu(h)di(h) o(h)ra(h)ti(h)ó(h)nem(h) me(h)am.(f.) (::)
+R/. Et(h) cla(h)mor(h) me(h)us(h) ad(h) te(h) vé(h)ni(f)at.(f.) (::)}
 
 [Preces feriales Sexta]
 @:Preces feriales Tertia
