@@ -507,9 +507,10 @@ sub setcell {
 			}
 			
 			# identify all GABC sections and post process to be suitable for JavaScript
-			while($text =~ /\{(\(|name:|initial-style:|centering-scheme:)(.+?)\(\:\:\)\}/is) {
+			while($text =~ /\{(\(|name:|annotation:|initial-style:|centering-scheme:)(.+?)\(\:\:\)\}/is) {
 				$dId++;
-				$text =~ s/\{(\(|name:|initial-style:|centering-scheme:)/<DIV ID="GABC$hora$searchind$dId" class="GABC">$1/s;
+				$text =~ s/\{(\(|name:|annotation:|initial-style:|centering-scheme:)/<DIV ID="GABC$hora$searchind$dId" class="GABC">$1/s;
+				$text =~ s/\(\:\:\)\}/\(\:\:\)<\/DIV><DIV ID="GCHANT$hora$searchind$dId" class="GCHANT" width="100\%"><\/DIV>/s;
 				$text =~ s/<i>T.\s?P.<\/i>/\_\^T. P.\^\_ /g;  #Tempore Paschalis
 			  $text =~ s/<\/?i>/\_/g; # italics
 				$text =~ s/<\/?b>|<v>\\greheightstar<\/v>/*/g;
@@ -525,13 +526,12 @@ sub setcell {
 				$text =~ s/%%\(/%%\n\(/gi;
 				$text =~ s/;([a-z\%\(])/;\n$1/gi;
 				$text =~ s/(\(\:\:\)\}?) <br>\n/$1 \n/gi;
-				$text =~ s/\* /\*() /g;
+				$text =~ s/\) \* /\) \*() /g;
 				$text =~ s/†\((.+?)\)/($1) † /g;
-				$text =~ s/\^?†\^?\(?\)?/^†^() /g;
-				$text =~ s/<sp>V\/<\/sp>\.?/V\/\.() /g;
-				$text =~ s/<sp>R\/<\/sp>\.?/R\/\.() /g;
+			  $text =~ s/\) \^?†\^?\(?\)?/\) ^†^() /g;
+				$text =~ s/(<sp>)?V\/(<\/sp>)?\.?(\(\))?/V\/\.() /g;
+				$text =~ s/(<sp>)?R\/(<\/sp>)?\.?(\(\))?/R\/\.() /g;
 				$text =~ s/<\/?nlba>//g;
-				$text =~ s/\(\:\:\)\}/\(\:\:\)<\/DIV><DIV ID="GCHANT$hora$searchind$dId" class="GCHANT" width="100\%"><\/DIV>/s;
 				$text =~ s/\_/\|\|/g;
 			}
 		} else {	# post process non-GABC
