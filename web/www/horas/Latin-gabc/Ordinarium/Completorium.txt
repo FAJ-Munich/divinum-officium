@@ -24,17 +24,19 @@ $Deus in adjutorium
 #Capitulum Responsorium Versus
 !Jer 14:9
 v. Tu autem in nobis es, Dómine, et nomen sanctum tuum invocátum est super nos: ne derelínquas nos, Dómine, Deus noster. 
-R. Deo grátias.
+$Deo gratias
 _
 {gabc:Psalterium/rb--in_manus_tuas--solesmes_1961}
 (sed tempore passionis)
 {gabc:Psalterium/Passionis/rb--in_manus_tuas--passionis--solesmes_1961}
+(sed tempore paschali)
+{gabc:Psalterium/Pascha/rb--in_manus_tuas_domine_tempore_paschali--solesmes}
 
 #Canticum Nunc dimittis
 Ant. {(c4) Sal(g)va(hj) nos.(j.) (::)}
 &psalm('233,3a')
 Ant. {(c4) Sal(g)va(hj) nos,(j.) Dó(jk)mi(j)ne,(ji) vi(h)gi(i')lán(h)tes,(g.) (;) cus(g)tó(i')di(j) nos(k') dor(j)mi(h')én(j)tes;(i.) (;)  ut(i) vi(g')gi(i)lé(k')mus(i) cum(h') Chri(j)sto,(i_0j) (,) et(h) re(h)qui(h)es(h)cá(gf)mus(gh) in(gf) pa(e.)ce.(e.) (::)}
-(sed tempore paschalis)
+(sed tempore paschali)
 Ant. {(c4) Sal(g)va(hj) nos,(j.) Dó(jk)mi(j)ne,(ji) vi(h)gi(i')lán(h)tes,(g.) (;) cus(g)tó(i')di(j) nos(k') dor(j)mi(h')én(j)tes;(i.) (;)  ut(i) vi(g')gi(i)lé(k')mus(i) cum(h') Chri(j)sto,(i_0j) (,) et(h) re(h)qui(h)es(h)cá(gf)mus(gh) in(gf) pa(e.)ce.(e.) (::) ^_T. P._^() Al(g)le(gf)lú(e.)ja.(e.) (::)}
 
 #Preces Dominicales
