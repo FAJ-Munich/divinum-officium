@@ -115,8 +115,8 @@ v. Indulgéntiam, + absolutiónem et remissiónem peccatórum nostrórum tríbua
 {(c4) DE(f)us(g_[uh:l]h) ^✠^(,) in(h) ad(h)ju(h)tó(h)ri(h)um(h) me(ixg!hwi)um(h) in(h)tén(hg~)de.(gh..) (::) <sp>R/</sp>. Dó(f)mi(gh)ne(h'_) (,) ad(h) ad(h)ju(h)ván(h)dum(h) me(ixg!hwi) fe(h)stí(hg)na.(gh..) (:) Gló(f)ri(gh)a(h) Pa(h)tri,(h) et(h) Fí(h)li(h)o,(h'_) (,) et(h) Spi(h)rí(ixg!hwi)tu(h)i(h) San(hg~)cto.(gh..) (:) Sic(f)ut(gh) e(h)rat(h) in(h) prin(h)cí(h)pi(h)o,(h'_) (,) et(h) nunc,(ixg!hwi) et(h) sem(hg~)per,(gh..) (;) et(h) in(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(ixi) A(h)men.(g.) (::)}
 
 [Tu autem]
-{initial-style:0;%%(c3) V/. Tu(h) au(g)tem,(f) Dó(h)mi(h)ne,(h.) (,) mi(h)se(h)ré(h)re(h) no(h.)bis.(d.) (::)}
-{initial-style:0;%%(c3) R/. De(h)o(h) grá(h)ti(d)as.(d.) (::)}
+{initial-style:0;%%(c3) V/. Tu(h) au(g)tem,(f) Dó(h)mi(h)ne,(h.) (,) mi(h)se(h)ré(h)re(h) no(h.)bis.(d.) (::)
+R/. De(h)o(h) grá(h)ti(d)as.(d.) (::)}
 
 [Tu autemOP]
 V. Tu autem, Dómine, miserére nostri.

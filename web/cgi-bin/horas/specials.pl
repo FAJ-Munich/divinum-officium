@@ -187,8 +187,8 @@ sub specials {
       my @resp = ();
 
       while ($t[$tind] !~ /^\s*\#/) {
-        if (($t[$tind] =~ /^\s*V\. /) && $primaresponsory) {
-          $t[$tind] = "V. $primaresponsory";
+				if (($t[$tind] =~ /^\s*V\. |^\s*\{gabc/) && $primaresponsory) {
+          $t[$tind] = $lang =~ /gabc/i ? $primaresponsory : "V. $primaresponsory";
           $primaresponsory = '';
         }
         push(@resp, $t[$tind++]);
