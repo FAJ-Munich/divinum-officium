@@ -24,37 +24,39 @@ $Deus in adjutorium
 #Capitulum Responsorium Versus
 !Jer 14:9
 v. Tu autem in nobis es, Dómine, et nomen sanctum tuum invocátum est super nos: ne derelínquas nos, Dómine, Deus noster. 
-R. Deo grátias.
+$Deo gratias
 _
 {gabc:Psalterium/rb--in_manus_tuas--solesmes_1961}
 (sed tempore passionis)
-{gabc:Psalterium/rb--in_manus_tuas--passionis--solesmes_1961}
+{gabc:Psalterium/Passionis/rb--in_manus_tuas--passionis--solesmes_1961}
+(sed tempore paschali)
+{gabc:Psalterium/Pascha/rb--in_manus_tuas_domine_tempore_paschali--solesmes}
 
 #Canticum Nunc dimittis
 Ant. {(c4) Sal(g)va(hj) nos.(j.) (::)}
 &psalm('233,3a')
 Ant. {(c4) Sal(g)va(hj) nos,(j.) Dó(jk)mi(j)ne,(ji) vi(h)gi(i')lán(h)tes,(g.) (;) cus(g)tó(i')di(j) nos(k') dor(j)mi(h')én(j)tes;(i.) (;)  ut(i) vi(g')gi(i)lé(k')mus(i) cum(h') Chri(j)sto,(i_0j) (,) et(h) re(h)qui(h)es(h)cá(gf)mus(gh) in(gf) pa(e.)ce.(e.) (::)}
-(sed tempore paschalis)
+(sed tempore paschali)
 Ant. {(c4) Sal(g)va(hj) nos,(j.) Dó(jk)mi(j)ne,(ji) vi(h)gi(i')lán(h)tes,(g.) (;) cus(g)tó(i')di(j) nos(k') dor(j)mi(h')én(j)tes;(i.) (;)  ut(i) vi(g')gi(i)lé(k')mus(i) cum(h') Chri(j)sto,(i_0j) (,) et(h) re(h)qui(h)es(h)cá(gf)mus(gh) in(gf) pa(e.)ce.(e.) (::) ^_T. P._^() Al(g)le(gf)lú(e.)ja.(e.) (::)}
 
 #Preces Dominicales
 $RLitany simplex
-V. Benedíctus es, Dómine, Deus patrum nostrórum. 
-R. Et laudábilis et gloriósus in sǽcula.
-V. Benedicámus Patrem et Fílium cum Sancto Spíritu. 
-R. Laudémus, et superexaltémus eum in sǽcula.
-V. Benedíctus es, Dómine, in firmaménto cæli. 
-R. Et laudábilis, et gloriósus, et superexaltátus in sǽcula.
-V. Benedícat et custódiat nos omnípotens et miséricors Dóminus. 
-R. Amen.
-V. Dignáre, Dómine, nocte ista. 
-R. Sine peccáto nos custodíre.
-V. Miserére nostri, Dómine. 
-R. Miserére nostri.
-V. Fiat misericórdia tua, Dómine, super nos. 
-R. Quemádmodum sperávimus in te.
-V. Dómine, exáudi oratiónem meam.
-R. Et clamor meus ad te véniat.
+{initial-style:0;%%(c3) V/. Be(h)ne(h)díc(h)tus(h) es,(h) Dó(h)mi(h)ne,(h) De(h)us(h) pa(h)trum(h) nos(h)tró(h)rum.(f.) (::) 
+R/. Et(h) lau(h)dá(h)bi(h)lis(h) et(h) glo(h)ri(h)ó(h)sus(h) in(h) sǽ(h)cu(f)la.(f.) (::Z)
+V/. Be(h)ne(h)di(h)cá(h)mus(h) Pa(h)trem(h) et(h) Fí(h)li(h)um(h) cum(h) San(h)cto(h) Spí(h)ri(f)tu.(f.) (::) 
+R/. Lau(h)dé(h)mus,(h) et(h) su(h)per(h)ex(h)al(h)té(h)mus(h) e(h)um(h) in(h) sǽ(h)cu(f)la.(f.) (::Z)
+V/. Be(h)ne(h)dí(h)ctus(h) es,(h) Dó(h)mi(h)ne,(h) in(h) fir(h)ma(h)mén(h)to(h) cæ(h)li.(f.) (::) 
+R/. Et(h) lau(h)dá(h)bi(h)lis,(h) et(h) glo(h)ri(h)ó(h)sus,(h) et(h) su(h)per(h)ex(h)al(h)tá(h)tus(h) in(h) sǽ(h)cu(f)la.(f.) (::Z)
+V/. Be(h)ne(h)dí(h)cat(h) et(h) cus(h)tó(h)di(h)at(h) nos(h) om(h)ní(h)po(h)tens(h) et(h) mi(h)sér(h)i(h)cors(h) Dó(h)mi(f)nus.(f.) (::) 
+R/. A(f)men.(h.) (::Z)
+V/. Dig(h)ná(h)re,(h) Dó(h)mi(h)ne,(h) noc(h)te(h) is(h)ta.(f.) (::)
+R/. Si(h)ne(h) pec(h)cá(h)to(h) nos(h) cus(h)to(h)dí(h)re.(f.) (::Z)
+V/. Mi(h)se(h)ré(h)re(h) nos(h)tri,(h) Dó(h)mi(f)ne.(f.) (::)
+R/. Mi(h)se(h)ré(h)re(h) nos(h)tri.(f.) (::Z)
+V/. Fi(h)at(h) mi(h)se(h)ri(h)cór(h)di(h)a(h) tu(h)a,(h) Dó(h)mi(h)ne,(h) su(h)per(f) nos.(h.) (::)
+R/. Que(h)mád(h)mo(h)dum(h) spe(h)rá(h)vi(g)mus(gr) in(f) te.(h.) (::Z)
+V/. Dó(h)mi(h)ne,(h) ex(h)áu(h)di(h) o(h)ra(h)ti(h)ó(h)nem(h) me(h)am.(f.) (::)
+R/. Et(h) cla(h)mor(h) me(h)us(h) ad(h) te(h) vé(h)ni(f)at.(f.) (::)}
 
 #Oratio
 &Dominus_vobiscum1
