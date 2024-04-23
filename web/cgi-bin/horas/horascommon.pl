@@ -874,7 +874,7 @@ sub concurrence {
 		foreach $commemo (@ccommemoentries) {
 			if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
 			%cstr = %{officestring('Latin', $commemo, 1)};
-			if (($commemo =~ /tempora/i || $cstr{Rank} =~ /infra octavam/i) && $cstr{Rank} !~ /Dominica/i) { next; }	# no superseded Tempora or day within octave can have 1st vespers unless a Sunday
+			if (($commemo =~ /tempora/i || $cstr{Rank} =~ /infra octavam/i) && $cstr{Rank} !~ /Dominica|In octava/i) { next; }	# no superseded Tempora or day within octave can have 1st vespers unless a Sunday
 			if (%cstr) {
 				my @cr = split(";;", $cstr{Rank});
 				unless ($cr[2] < $ranklimit || $cstr{Rule} =~ /No prima vespera/i || ($version =~ /1955|196/ && $cstr{Rank} !~ /Dominica/i) || ($cstr{Rank} =~ /Feria|Sabbato|Vigilia|Quat[t]*uor/i && $cstr{Rank} !~ /in Vigilia Epi|in octava|Dominica/i)) { push(@comentries, $commemo); }

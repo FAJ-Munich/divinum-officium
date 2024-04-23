@@ -1,0 +1,89 @@
+@Commune/C1p
+
+[Ant Vespera]
+{(c3) SAnc(e)ti(e') tu(g)i(g'_) *(,) Dó(h)mi(f')ne(h) flo(g)ré(e.)bunt(e.) (;) sic(i)ut(hf~) lí(g')li(f)um,(e_d) al(ef)le(f)lú(e.)ja:(e.) (:) et(e) sic(e)ut(e') o(g)dor(hi~) bál(i>)sa(h_i)mi(i.) (,) e(ii)runt(e) an(f')te(h) te,(gv_FE) al(fg)le(fg)lú(e.)ja.(e.) (::)};;109;;7a
+{(c3)IN(e) cæ(e)lés(h')ti(g)bus(h) re(i_j)gnis(i'_) *(,) Sanc(h)tó(j')rum(k) ha(j)bi(i')tá(j)ti(i')o(i) est,(h.) al(ij)le(j)lú(i.)ja:(i.) (:) et(i) in(j) æ(i')tér(h)num(hf~) ré(h')qui(h)es(g') e(i)ó(hg)rum,(f') al(g>)le(fg)lú(e.)ja.(e.) (::)};;110;;7a
+{(f3)IN(ff) ve(e)la(fh)mén(hg)to(f'_) *(,) cla(h)má(h_g)bant(e') Sanc(h)ti(i') tu(j)i,(i')  Dó(h)mi(ij)ne:(j.) (;) al(h)le(jh/j_k)lú(i>)ja,(g.) (,) al(i)le(h)lú(hg)ja,(fe) al(f)le(hg)lú(f.)ja.(f.) (::)};;111;;2-monasticus
+{(c4) SPí(f)ri(fg)tus(g'_) *(,) et(g) á(g')ni(f)mæ(g_h) ju(fe)stó(d)rum(d.) (;) hym(g)num(g) dí(h')ci(g)te(f') De(g)o(gh) no(f.)stro,(f.) (;) al(f_h)le(j)lú(ij)ja,(hv_GF) al(gh)le(h)lú(g.)ja.(g.) (::)};;112;;8g2
+{(f3)FUl(f)gé(h')bunt(h) ju(f_g)sti(f_e) *(,) sic(h!iwji)ut(hg) sol(f!gwh/ih.) (;) in(e) con(f)spé(h')ctu(i) De(hg)i,(fe) al(f)le(hg)lú(f.)ja.(f.) (::)};;116;;2-monasticus
+
+[Capitulum Vespera]
+@Commune/C1p
+_
+{gabc:Commune/C1/rb--lux_perpetua--solesmes_1934}
+
+[Versum 1]
+V. Sancti et justi in Dómino gaudéte, allelúja. R. Vos elégit Deus in hereditátem sibi, allelúja.
+(sed tonus solemnis)
+{initial-style:0;%%(c3) V/. San(h)cti(h) et(h) jus(h)ti(h) in(h) Dó(h)mi(h)no(h) gau(h)dé(hi)te,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::) R/. Vos(h) e(h)lé(h)git(h) De(h)us(h) in(h) he(h)re(h)di(h)tá(h)tem(h) si(hi)bi,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
+
+[Ant 1]
+{name:Lux perpetua;annotation:1. g;mode:1;book:Antiphonale Monasticum, 1934, p. 632;%%(c4) LUX(d_f) per(ddc~)pé(c)tu(de)a(e.) *(,) lu(ed)cé(dg)bit(g) San(gh)ctis(e) tu(fe)is,(d) Dó(ed)mi(cd)ne :(d.;) et(g_h!jvIH'Gh) æ(ed)tér(g)ni(gf)tas(dd) tém(c)po(de)rum,(e.) (,) al(ce~)le(e_d/fvEDd)lú(cd~)ja.(d.) (::)};;1g
+
+[Ant Matutinum]
+@Commune/C1p::1-3
+;;46
+;;60
+;;63
+@Commune/C1p::4-5
+@Commune/C1p:Ant Vespera:5 s/\d+/74/
+;;95
+;;96
+;;97
+;;98
+;;100
+@Commune/C1p::9-11 s/74/253;254;255/
+@Commune/C1p::14-15
+
+[Responsory4]
+R. Ibant Apóstoli gaudéntes a conspéctu concílii, 
+* Quóniam digni hábiti sunt pro nómine Jesu contuméliam pati, † allelúja, allelúja, allelúja.
+V. Non sunt loquélæ, neque sermónes, quorum non audiántur voces eórum.
+R. Quóniam digni hábiti sunt pro nómine Jesu contuméliam pati, † allelúja, allelúja, allelúja.
+
+[Responsory5]
+@Commune/C1p:Responsory4
+
+[Responsory6]
+@Commune/C1p:Responsory5
+
+[Responsory7]
+@Commune/C1p:Responsory6
+
+[Responsory8]
+@Tempora/Pasc3-1:Responsory1
+
+[Responsory9]
+@Commune/C1p:Responsory7
+
+[Responsory10]
+@Commune/C1p:Responsory8
+
+[Responsory11]
+@Tempora/Pasc0-2:Responsory2
+
+[Responsory12]
+@Tempora/Pasc7-5:Responsory1
+
+[MM Capitulum]
+@:Capitulum Sexta
+_
+@:Responsory Sexta
+
+[Capitulum Laudes]
+@Commune/C1p
+_
+@Commune/C1p:Responsory Tertia:1-6
+
+[Responsory Tertia]
+@Commune/C1p:Versum 1
+
+[Responsory Sexta]
+@Commune/C1p:Responsory Tertia:8-9
+
+[Responsory Nona]
+@Commune/C1p:Responsory Sexta:8-9
+
+[Ant Vespera 3]
+@Commune/C1p::s/125/138/
+
