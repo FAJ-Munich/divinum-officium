@@ -1054,6 +1054,11 @@ sub precedence {
 	}
 	$rule = $communerule = '';
 	
+	if ($lang1 =~ /gabc/i || $lang2 =~ /gabc/i) { # setChantTone if necessary
+		our $chantTone;
+		setChantTone();
+	}
+	
 	if ($winner) {
 		if ($missa && $missanumber) {
 			my $wm = $winner;
@@ -1486,12 +1491,10 @@ sub setheadline {
 				$rankname = $ranktable[$rank];
 			}
 		}
-		if ($lang1 =~ /gabc/i || $lang2 =~ /gabc/i) { # setChantTone if necessary
+
+		if ($lang1 =~ /gabc/i) {
 			our $chantTone;
-			setChantTone();
-			if ($lang1 =~ /gabc/i) {
-				return "$name ~ $rankname : Tonus $chantTone"; # Display Chant Tone in Headline
-			}
+			return "$name ~ $rankname : Tonus $chantTone"; # Display Chant Tone in Headline
 		}
 		return "$name ~ $rankname";
 		
