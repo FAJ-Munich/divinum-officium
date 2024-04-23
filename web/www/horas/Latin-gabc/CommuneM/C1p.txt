@@ -13,9 +13,12 @@ _
 {gabc:Commune/C1/rb--lux_perpetua--solesmes_1934}
 
 [Versum 1]
-V. Sancti et justi in Dómino gaudéte, allelúja. R. Vos elégit Deus in hereditátem sibi, allelúja.
-(sed tonus solemnis)
-{initial-style:0;%%(c3) V/. San(h)cti(h) et(h) jus(h)ti(h) in(h) Dó(h)mi(h)no(h) gau(h)dé(hi)te,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::) R/. Vos(h) e(h)lé(h)git(h) De(h)us(h) in(h) he(h)re(h)di(h)tá(h)tem(h) si(hi)bi,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
+V. Sancti et justi in Dómino gaudéte, allelúja.
+R. Vos elégit Deus in hereditátem sibi, allelúja.
+
+[Versum 1] (tonus solemnis)
+{initial-style:0;%%(c3) V/. San(h)cti(h) et(h) jus(h)ti(h) in(h) Dó(h)mi(h)no(h) gau(h)dé(hi)te,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)
+R/. Vos(h) e(h)lé(h)git(h) De(h)us(h) in(h) he(h)re(h)di(h)tá(h)tem(h) si(hi)bi,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 1]
 {name:Lux perpetua;annotation:1. g;mode:1;book:Antiphonale Monasticum, 1934, p. 632;%%(c4) LUX(d_f) per(ddc~)pé(c)tu(de)a(e.) *(,) lu(ed)cé(dg)bit(g) San(gh)ctis(e) tu(fe)is,(d) Dó(ed)mi(cd)ne :(d.;) et(g_h!jvIH'Gh) æ(ed)tér(g)ni(gf)tas(dd) tém(c)po(de)rum,(e.) (,) al(ce~)le(e_d/fvEDd)lú(cd~)ja.(d.) (::)};;1g
