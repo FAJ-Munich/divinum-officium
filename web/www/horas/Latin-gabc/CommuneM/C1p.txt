@@ -1,5 +1,8 @@
 @Commune/C1p
 
+[Name]
+Commune Apostolorum et Evangelistarum Tempore Paschali
+
 [Ant Vespera]
 {(c3) SAnc(e)ti(e') tu(g)i(g'_) *(,) Dó(h)mi(f')ne(h) flo(g)ré(e.)bunt(e.) (;) sic(i)ut(hf~) lí(g')li(f)um,(e_d) al(ef)le(f)lú(e.)ja:(e.) (:) et(e) sic(e)ut(e') o(g)dor(hi~) bál(i>)sa(h_i)mi(i.) (,) e(ii)runt(e) an(f')te(h) te,(gv_FE) al(fg)le(fg)lú(e.)ja.(e.) (::)};;109;;7a
 {(c3)IN(e) cæ(e)lés(h')ti(g)bus(h) re(i_j)gnis(i'_) *(,) Sanc(h)tó(j')rum(k) ha(j)bi(i')tá(j)ti(i')o(i) est,(h.) al(ij)le(j)lú(i.)ja:(i.) (:) et(i) in(j) æ(i')tér(h)num(hf~) ré(h')qui(h)es(g') e(i)ó(hg)rum,(f') al(g>)le(fg)lú(e.)ja.(e.) (::)};;110;;7a
@@ -16,7 +19,7 @@ _
 V. Sancti et justi in Dómino gaudéte, allelúja.
 R. Vos elégit Deus in hereditátem sibi, allelúja.
 
-[Versum 1] (tonus solemnis)
+[Versum 1 solemn]
 {initial-style:0;%%(c3) V/. San(h)cti(h) et(h) jus(h)ti(h) in(h) Dó(h)mi(h)no(h) gau(h)dé(hi)te,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)
 R/. Vos(h) e(h)lé(h)git(h) De(h)us(h) in(h) he(h)re(h)di(h)tá(h)tem(h) si(hi)bi,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
@@ -87,6 +90,8 @@ _
 [Responsory Nona]
 @Commune/C1p:Responsory Sexta:8-9
 
-[Ant Vespera 3]
-@Commune/C1p::s/125/138/
+[Ant Laudes]
+@:Ant Vespera
 
+[Ant Vespera 3]
+@:Ant Vespera:s/112/138/ s/111/115/ s/110/112/

@@ -19,6 +19,9 @@ Antiphonas horas
 [Versum 1]
 @CommuneM/C1p
 
+[Versum 1 solemn]
+@CommuneM/C1p
+
 [Ant 1]
 @CommuneM/C1p
 
@@ -187,7 +190,7 @@ R. Rectos decet collaudátio, allelúja, allelúja.
 @:Versum 2
 
 [Ant Vespera 3]
-@Commune/C1p::s/112/111/ s/115/112/ s/125/115/
+@CommuneM/C1p:Ant Vespera:s/112/115/ s/111/112/ s/110/111/
 
 [Ant 3]
 @Commune/C1p
