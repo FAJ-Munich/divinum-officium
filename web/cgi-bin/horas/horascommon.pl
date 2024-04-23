@@ -1618,11 +1618,11 @@ sub setChantTone {
 
 
 sub subdirname {
-  my($subdir, $version) = @_;
-  $subdir .= 'M' if $version =~ /monastic/i;
-	$subdir .= 'B' if $version =~ /Bavariae/i;
+	my($subdir, $version) = @_;
+	$subdir .= 'M' if $version =~ /monastic/i;
+	$subdir .= 'B' if $version =~ /Bavariae/i && $subdir !~ /Commune/i;
 	$subdir =~ s/MB/B/;
-   "$subdir/"
+	"$subdir/"
 }
 
 sub nomatinscomm {
