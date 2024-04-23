@@ -32,7 +32,7 @@
 [minus solemnis3]
 @:solemnis3
 (sed rubrica monastica)
-{initial-style:0;%%(c4) V/. Be(g)ne(g)di(hi)cá(i)mus(ig/ijH'GFg.) (,)Dó(gikvkjkvJI'Gijh'hg)mi(fg)no.(g.) (,) Dó(ixf!gwhg/ih)mi(gf)no.(f.) (::) R/. De(g!hi)o(ig/ijH'GFg.) (,) grá(gikvkjkvJI'Gijh'hg)ti(fg)as.(g.) (::)}
+{initial-style:0;%%(c4) V/. Be(g)ne(g)di(hi)cá(i)mus(ig/ijH'GFg.) (,) Dó(gikvkjkvJI'Gijh'hg)mi(fg)no.(g.) (::) R/. De(g!hi)o(ig/ijH'GFg.) (,) grá(gikvkjkvJI'Gijh'hg)ti(fg)as.(g.) (::)}
 
 [festivus major1]
 @:festivus1
