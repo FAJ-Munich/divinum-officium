@@ -1426,7 +1426,7 @@ sub oratio {
 				
 				if($c) {
 					my @cr = split(";;", $c{Rank});
-					if ($version =~ /trident/i && $version !~ /1906/) {
+					if ($version =~ /trident/i && $version !~ /1906|Bavariae/i) {
 						$key = ($cr[0] =~ /Vigilia Epi|$sundaystring/i) ? 2900 : $cr[2] * 1000;
 					} else {
 						$key = 9000; # concurrent office comes first under DA and also 1906
@@ -1499,7 +1499,7 @@ sub oratio {
 				if($c) {
 					my @cr = split(";;", $c{Rank});
 					if ($cr[0] =~ /Vigilia Epi|$sundaystring/i) {
-						$key = ($version !~ /trident/i || ($version =~ /1906/ && $cr[2] > 5)) ? 7000 : 2900;	# under DA, all Sundays, in 1906, priviliged Sundays, are all privilegded commemorations
+						$key = ($version !~ /trident/i || ($version =~ /1906|Bavariae/i && $cr[2] > 5)) ? 7000 : 2900;	# under DA, all Sundays, in 1906, priviliged Sundays, are all privilegded commemorations
 					} else {
 						$key = $cr[2] * 1000;		# rank depending on the type of commemoration to be made
 					}
@@ -1699,7 +1699,7 @@ sub getcommemoratio {
   postprocess_vr($v, $lang);
 	if ($lang =~/gabc/i) {
 		$v =~ s/\([a-zA-Z0-9\_\.\~\>\<\']+?\) \(::\)/\(f\.\) \(::\)/g; # Change Versicle into the simple tone
-		$v =~ s/\((?:hi|hr|h\_0|fe|f\_h|\,)\)/\(h\)/g; # More changes for solemn Versicle
+		$v =~ s/\((?:hi|hr|h\_0|fe|f\_0?h|\,)\)/\(h\)/g; # More changes for solemn Versicle
 	}
   our %prayers;
 	my $w = "!" . &translate("Commemoratio", $lang) . (($lang !~ /latin/i || $wday =~ /tempora/i) ? ':' : ''); # Adding : except for Latin Sancti which are in Genetiv

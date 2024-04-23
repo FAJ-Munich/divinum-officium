@@ -1,0 +1,11 @@
+[Rank]
+S. Conradi a Parzham Confessoris;;Duplex;;3;;vide C5
+
+[Rule]
+vide C5;
+12 lectiones
+
+[Oratio]
+Deus, qui misericórdiæ tuæ jánuam fidélibus patére voluísti: te súpplices exorámus; ut intercedénte beáto Confessóre tuo, temporália subsídia nobis tríbuas et ætérna. 
+$Per Dominum
+

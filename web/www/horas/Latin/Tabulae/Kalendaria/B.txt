@@ -83,6 +83,7 @@
 04-20=04-20B=
 04-21=04-21=S. Anselmi Episcopi Confessoris et Ecclesiae Doctoris=3=
 04-22=04-22=Ss. Soteris ct Caji Pont et Mart=2=
+04-23=04-23B=Conrad Parzham=3=
 04-24=04-23~04-24=S. Georgii Martyris=5=S. Fidelis Sigmaringa Martyris=3=
 04-25=04-25=S. Marci Evangelistae=5=
 04-26=04-26=S. Cleti et Marcellini Pontif Martyrum=2=
