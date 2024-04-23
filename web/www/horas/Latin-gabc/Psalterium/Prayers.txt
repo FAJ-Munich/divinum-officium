@@ -70,8 +70,8 @@ R. Et lux perpétua * lúceat eis.
 {(c4) Laus(h) ti(h)bi(h) Dó(h)mi(h)ne(h'_) Rex(h) æ(h)tér(h)næ(ixi) gló(h')ri(h)æ.(g.) (::)}
 
 [Alleluia2] (rubrica monastica)
-{(c4) Al(h)le(hixi)lú(hg~){ia}.(g.) (::)}
-{(c4) Laus(h) ti(h)bi(h) Dó(h)mi(h)ne(h'_) (,) Rex(h) æ(h)tér(hixi)næ(h) gló(h)ri(hg)æ.(g.) (::)}
+{(c4) Al(h)le(ixhi)lú(hg~){ia}.(g.) (::)}
+{(c4) Laus(h) ti(h)bi(h) Dó(h)mi(h)ne(h'_) (,) Rex(h) æ(h)tér(ixhi)næ(h) gló(h)ri(hg)æ.(g.) (::)}
 
 [Dominus]
 V. Dóminus vobíscum.
