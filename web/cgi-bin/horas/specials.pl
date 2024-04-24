@@ -1929,18 +1929,21 @@ sub getantvers {
   my $item = shift;
   my $ind = shift;
   my $lang = shift;
-  our ($hora, $winner, $chantTone);
+  our ($hora, $winner);
   my $w = '';
   my $c = 0;
 
-	if ($lang =~ /gabc/ && $chantTone =~ /solemnis/i) {
-		($w, $c) = getproprium("$item $ind solemn", $lang, 1, 1);
-		if (!$w && $ind > 1) {
-			my $i = 4 - $ind;
-			($w, $c) = getproprium("$item $i solemn", $lang, 1, 1);
-		}
-	}
-	if (!$w) { ($w, $c) = getproprium("$item $ind", $lang, 1, 1); }
+#	our $chantTone;
+#	if ($lang =~ /gabc/ && $chantTone =~ /solemnis/i) {
+#		($w, $c) = getproprium("$item $ind solemn", $lang, 1, 1);
+#		if (!$w && $ind > 1) {
+#			my $i = 4 - $ind;
+#			($w, $c) = getproprium("$item $i solemn", $lang, 1, 1);
+#		}
+#	}
+#	if (!$w) {
+		($w, $c) = getproprium("$item $ind", $lang, 1, 1);
+#	}
 
   if (!$w && $ind > 1) {
     my $i = 4 - $ind;
