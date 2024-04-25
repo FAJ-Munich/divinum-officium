@@ -26,36 +26,7 @@ v. Stabunt justi in magna constántia advérsus eos qui se angustiavérunt et qu
 $Deo gratias
 
 [HymnusM Vespera]
-v. Tristes erant Apóstoli
-De nece sui Dómini,
-Quem pœna mortis crudéli
-Servi damnárant ímpii.
-_
-Sermóne blando Angelus
-Prædíxit muliéribus:
-In Galilǽa Dóminus
-Vidéndus est quantócius.
-_
-Illæ dum pergunt cóncitæ,
-Apóstolis hoc dícere,
-Vidéntes eum vívere,
-Osc[u]lántur pedes Dómini.
-_
-Quo ágnito, discípuli
-In Galilǽam própere
-Pergunt vidére fáciem
-Desiderátam Dómini.
-_
-Quǽsumus, Auctor ómnium,
-In hoc pascháli gáudio,
-Ab omni mortis ímpetu
-Tuum defénde pópulum.
-_
-Glória tibi Dómine,
-Qui surrexíst[i] a mórtuis,
-Cum Patr[e] et Sancto Spíritu,
-In sempitérna sǽcula.
-Amen.
+{gabc:Commune/C1/hy--tristes_erant_apostoli--solesmes_1934}
 
 [Hymnus Vespera]
 {:H-Tristeserantapostoli:}v. Tristes erant Apóstoli
@@ -272,31 +243,7 @@ In sempitérna sǽcula.
 Amen.
 
 [HymnusM Laudes]
-{:H-Paschalemundogaudium:}v. Claro Pascháli gáudio
-Sol mundo nitet rádio,
-Cum Christum jam Apóstoli
-Visu cernunt corpóreo.
-_
-Osténsa sibi vúlnera,
-In Christi carne fúlgida,
-Ressurexísse Dóminum,
-Voce faténtur pública.
-_
-Rex Christe clementíssime,
-Tu corda nostra pósside,
-Ut tibi laudes débitas
-Reddámus omni témpore.
-_
-Quǽsumus Auctor ómnium,
-In hoc Pascháli gáudio,
-Ab omnis morti ímpetu
-Tuum defénde pópulum.
-_
-Glória tibi, Dómine,
-Qui surrexísti a mórtuis,
-Cum Patre, et Sancto Spíritu,
-In sempitérna sǽcula.
-Amen.
+{gabc:Commune/C1/hy--claro_paschali_gaudio--solesmes_1934}
 
 [Versum 2]
 {initial-style:0;%%(c3) V/. Pre(h)ti(h)ó(h)sa(h) in(h) con(h)spé(h)ctu(h) Dó(h)mi(h)ni,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)
@@ -304,6 +251,8 @@ R/. Mors(h) San(h)ctó(h)rum(h) e(h)jus,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!
 
 [Ant 2]
 Fíliæ Jerúsalem, * veníte et vidéte Mártyres cum corónis, quibus coronávit eos Dóminus in die solemnitátis et lætítiæ, allelúja, allelúja.
+(sed rubrica monastica)
+{(c4)FI(c)li(d)æ(f) Je(fgf)rú(d)sa(cd)lem,(d.) *(,) ve(dc)ní­(f)te,(gh) et(h>) vi(gf)dé(gf)te(d') Már(f>)ty(de)res(ddc.) (;) cum(c) co(cg)ró(g.f!gwh)nis(fv_EDdo) (,) qui(c)bus(d') co(d)ro(dg)ná(fe)vit(dc) e(d)os(fe) Dó(d)mi(cd)nus(d.) (:) in(h!iwj_IH) di(gv_FD)e(dd) (,) so(c)le(d')mni(g)tá(gh)tis(ggf) et(d>) læ(fe)tí­(de)ti(dc)æ,(c.) (;) al(c_d)le(f_gF'E)lú(ggh)ja,(fvED'C__) al(d_g)le(fe)lú(d.)ja.(d.) (::)};;1d2
 
 [Lectio Prima]
 !Rom 8:28
@@ -366,3 +315,5 @@ Fulgébunt justi * sicut sol in conspéctu Dei, allelúja.;;138
 
 [Ant 3]
 Sancti et justi * in Dómino gaudéte, allelúja: vos elégit Deus in hereditátem sibi, allelúja.
+(sed rubrica monastica)
+{(c4) SAn(g_fgvFD)cti(e') et(f) ju(g_h)sti(g'_) *(,) in(g) Dó(g')mi(g)no(hg) gau(f)dé(gh)te,(h_g) al(f)le(fg)lú(g.)ja:(g.) (:) vos(g) e(g)lé(h')git(g) De(fg)us(f'_) (,) in(g) hæ(g')re(f)di(h')tá(j_)tem(ig~) si(i')bi,(j) al(h')le(h)lú(g.)ja.(g.) (::)}
