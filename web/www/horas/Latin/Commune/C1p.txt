@@ -1,5 +1,5 @@
 [Name]
-Commune apostolorum tempore Paschali
+Commune Apostolorum tempore Paschali
 
 [Rule]
 Psalmi Dominica
