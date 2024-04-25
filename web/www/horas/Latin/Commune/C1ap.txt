@@ -123,6 +123,9 @@ Una Antiphona
 [Ant Vespera 3]
 @Commune/C1p
 
+[Versum 3]
+@Commune/C1p
+
 [Ant 3]
 @Commune/C1p
 
