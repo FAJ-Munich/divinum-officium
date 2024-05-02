@@ -42,6 +42,9 @@ Christum Regem crucifíxum, * Veníte, adorémus. (Allelúja.)
 [Hymnus Matutinum]
 @Psalterium/Matutinum Special:Hymnus Quad5
 
+[HymnusM Matutinum]
+@Psalterium/Matutinum Special:HymnusM Quad5
+
 [Ant Matutinum]
 Invéntæ Crucis festa recólimus, cujus præcónium univérsum per orbem micánti lúmine fulget, allelúja.;;1
 ;;2
@@ -178,6 +181,9 @@ Alexánder Románus, Hadriáno imperatóre regens Ecclésiam, magnam partem Rom�
 
 [Hymnus Laudes]
 @Psalterium/Major Special:Hymnus Quad5 Laudes
+
+[HymnusM Laudes]
+@Psalterium/Major Special:HymnusM Quad5 Laudes
 
 [Versum 2]
 @Sancti/05-03:Ant Matutinum:9-10

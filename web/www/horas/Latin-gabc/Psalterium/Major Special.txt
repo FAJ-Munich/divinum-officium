@@ -1014,48 +1014,7 @@ v. Veníte, mittámus lignum in panem ejus, et eradámus eum de terra vivéntium
 $Deo gratias
 
 [HymnusM Quad5 Laudes]
-v. Lustris sex qui jam peráctis,
-Tempus implens córporis,
-Se volénte natus ad hoc,
-Passióni déditus,
-Agnus in Crucis levátur
-Immolándus stípite.
-_
-Hic acétum, fel, arúndo,
-Sputa, clavi, láncea:
-Mite corpus perforátur,
-Sanguis, unda prófluit:
-Terra, pontus, astra, mundus,
-Quo lavántur flúmine!
-_
-Crux fidélis, inter omnes
-Arbor una nóbilis:
-Nulla silva talem profert
-Fronde, flore, gérmine:
-Dulce lignum, dulces clavos,
-Dulce pondus sústinet.
-_
-Flecte ramos, arbor alta,
-Tensa laxa víscera,
-Et rigor lentéscat ille,
-Quem dedit natívitas:
-Ut supérni membra Regis
-Miti tendas stípite.
-_
-Sola digna tu fuísti
-Ferre sæcli prétium,
-Atque portum præparáre
-Nauta mundo náufrago,
-Quem sacer cruor perúnxit,
-Fusus Agni córpore.
-_
-Glória et honor Deo
-Usquequáqu[e] altíssimo:
-Una Patri, Filíoque,
-Inclyto Paráclito:
-Cui laus est et potéstas
-Per ætérna sǽcula.
-Amen.
+{gabc:Psalterium/Passionis/hy--lustris_sex_qui_jam_peractis--solesmes_1934}
 
 [Hymnus Quad5 Laudes]
 {:H-Lustrasex:}v. Lustra sex qui jam perégit,
@@ -1111,11 +1070,11 @@ v. Tu autem, Dómine Sábaoth, qui júdicas juste, et probas renes et corda, ví
 $Deo gratias
 
 [HymnusM Quad5 Vespera]
-{gabc:hy--vexilla_regis_exaltatio--solesmes_1934}
+{gabc:Sancti/09-14/hy--vexilla_regis_exaltatio--solesmes_1934}
 (sed tempore Passionis)
 {gabc:Psalterium/Passionis/hy--vexilla_regis_tempore_passionis--solesmes_1934}
 (sed tempore Paschali)
-{gabc:hy--vexilla_regis_inventio--solesmes_1934}
+{gabc:Sancti/05-03/hy--vexilla_regis_inventio--solesmes_1934}
 
 [Hymnus Quad5 Vespera]
 {:H-Vexillaregis:}v. Vexílla Regis pródeunt;
