@@ -1704,8 +1704,9 @@ sub getcommemoratio {
   if (!$v) { $v = 'versus missing'; }
   postprocess_vr($v, $lang);
 	if ($lang =~ /gabc/i) { # Change Versicle into the simple tone
-		$v =~ s/\([a-zA-Z0-9\_\.\~\>\<\'\/\!]+?\) \(::\)/\(f\.\) \(::\)/g;
-		$v =~ s/\((?:hi|hr|h\_0|fe|f\_0?h|\,|h\_\')\)/\(h\)/g; # More changes for solemn Versicle
+		$v =~ s/\([a-zA-Z0-9\_\.\~\>\<\'\/\!]+?\) (R\/\.)?\(::\)/\(f\.\) $1\(::\)/g;
+		$v =~ s/\((?:hi|hr|h\_0|fe|f\_0?h|h\_\')\)/\(h\)/g; # More changes for solemn Versicle
+		$v =~ s/\(\,\)//g;
 	}
   our %prayers;
 	my $w = "!" . &translate("Commemoratio", $lang) . (($lang !~ /latin/i || $wday =~ /tempora/i) ? ':' : ''); # Adding : except for Latin Sancti which are in Genetiv
@@ -2307,8 +2308,9 @@ sub getrefs {
       do_inclusion_substitutions($o, $substitutions);
       $a =~ s/\s*\*\s*/ /;
 			if ($lang =~ /gabc/i) { # Change Versicle into the simple tone
-				$v =~ s/\([a-zA-Z0-9\_\.\~\>\<\'\/\!]+?\) \(::\)/\(f\.\) \(::\)/g;
-				$v =~ s/\((?:hi|hr|h\_0|fe|f\_0?h|\,|h\_\')\)/\(h\)/g; # More changes for solemn Versicle
+				$v =~ s/\([a-zA-Z0-9\_\.\~\>\<\'\/\!]+?\) (R\/\.)?\(::\)/\(f\.\) $1\(::\)/g;
+				$v =~ s/\((?:hi|hr|h\_0|fe|f\_0?h|h\_\')\)/\(h\)/g; # More changes for solemn Versicle
+				$v =~ s/\(\,\)//g;
 			}
       $w = $before . "\nAnt. $a\n" . "_\n$v" . "_\n$o" . "_\n$after";
       next;
