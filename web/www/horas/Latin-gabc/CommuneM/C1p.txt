@@ -6,7 +6,7 @@ Commune Apostolorum et Evangelistarum Tempore Paschali
 [Capitulum Vespera]
 @Commune/C1p
 _
-{gabc:Commune/C1/rb--lux_perpetua--solesmes_1934}
+R.br. {gabc:Commune/C1/rb--lux_perpetua--solesmes_1934}
 
 [Ant Matutinum]
 @Commune/C1p::1-3
@@ -61,16 +61,13 @@ _
 [Capitulum Laudes]
 @Commune/C1p
 _
-@Commune/C1p:Responsory Tertia:1-6
+R.br. {gabc:Commune/C1/rb--sancti_et_justi--solesmes_1934}
 
 [Responsory Tertia]
-@Commune/C1p:Versum 1
+@Commune/C1p:Ant Matutinum:4-5 s/\(g\_.* \(\:\:\)/(f\.) (\:\:)/g s/\(h\_'\)/\(h\)/g s/\(\,\)//g
 
 [Responsory Sexta]
-@Commune/C1p:Responsory Tertia:8-9
+@Commune/C1p:Ant Matutinum:9-10 s/\(g\_.* \(\:\:\)/(f\.) (\:\:)/g s/\(h\_'\)/\(h\)/g s/\(\,\)//g
 
 [Responsory Nona]
-@Commune/C1p:Responsory Sexta:8-9
-
-[Ant Vespera 3]
-@Commune/C1p:Ant Vespera:s/112/138/ s/111/115/ s/110/112/
+@Commune/C1p:Ant Matutinum:14-15 s/\(g\_.* \(\:\:\)/(f\.) (\:\:)/g s/\(h\_'\)/\(h\)/g s/\(\,\)//g

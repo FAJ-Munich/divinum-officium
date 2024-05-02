@@ -60,40 +60,30 @@ Surréxit, ac Paráclito
 In sempitérna sǽcula.
 Amen.
 
-[Versum 1]
-{initial-style:0;%%(c3) V/. San(h)cti(h) et(h) jus(h)ti(h) in(h) Dó(h)mi(h)no(h) gau(h)dé(h)te,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)
-R/. Vos(h) e(h)lé(h)git(h) De(h)us(h) in(h) he(h)re(h)di(h)tá(h)tem(h) si(h)bi,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)}
-
 [Ant 1]
 Lux perpétua * lucébit Sanctis tuis, Dómine, et ætérnitas témporum, allelúja.
 (sed rubrica monastica)
-{name:Lux perpetua;annotation:1. g;mode:1;book:Antiphonale Monasticum, 1934, p. 632;%%(c4) LUX(d_f) per(ddc~)pé(c)tu(de)a(e.) *(,) lu(ed)cé(dg)bit(g) San(gh)ctis(e) tu(fe)is,(d) Dó(ed)mi(cd)ne :(d.;) et(g_h!jvIH'Gh) æ(ed)tér(g)ni(gf)tas(dd) tém(c)po(de)rum,(e.) (,) al(ce~)le(e_d/fvEDd)lú(cd~)ja.(d.) (::)};;1g
+{annotation:1. g;%%name:Lux perpetua;annotation:1. g;mode:1;book:Antiphonale Monasticum, 1934, p. 632;%%(c4) LUX(d_f) per(ddc~)pé(c)tu(de)a(e.) *(,) lu(ed)cé(dg)bit(g) San(gh)ctis(e) tu(fe)is,(d) Dó(ed)mi(cd)ne :(d.;) et(g_h!jvIH'Gh) æ(ed)tér(g)ni(gf)tas(dd) tém(c)po(de)rum,(e.) (,) al(ce~)le(e_d/fvEDd)lú(cd~)ja.(d.) (::)};;1g
 
 [Invit]
 Regem Apostolórum Dóminum, * Veníte, adorémus, allelúja.
-
-[Hymnus Matutinum]
-@Commune/C1p:Hymnus Vespera
-
-[HymnusM Matutinum]
-@:HymnusM Vespera
 
 [Ant Matutinum]
 Stabunt justi * in magna constántia advérsus eos, qui se angustiavérunt, allelúja.;;18
 ;;33
 ;;44
-V. Sancti et justi in Dómino gaudéte, allelúja.
-R. Vos elegit Deus in hereditátem sibi, allelúja.
+{initial-style:0;%%(c3) V/. San(h)cti(h) et(h) jus(h)ti(h) in(h) Dó(h)mi(h)no(h) gau(h)dé(h)te,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)
+R/. Vos(h) e(h)lé(h)git(h) De(h)us(h) in(h) he(h)re(h)di(h)tá(h)tem(h) si(h)bi,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)}
 Ecce * quómodo computáti sunt inter fílios Dei, et inter sanctos sors illórum est, allelúja.;;46
 ;;60
 ;;63
-V. Lux perpétua lucébit Sanctis tuis, Dómine, allelúja.
-R. Et ætérnitas témporum, allelúja.
+{initial-style:0;%%(c3) V/. Lux(h) per(h)pé(h)tu(h)a(h) lu(h)cé(h)bit(h) San(h)ctis(h) tu(h)is,(h) Dó(h)mi(h)ne,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)
+R/. Et(h) æ(h)tér(h)ni(h)tas(h) tém(h)po(h)rum,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)}
 Lux perpétua * lucébit Sanctis tuis, Dómine, et ætérnitas témporum, allelúja.;;74
 ;;96
 ;;98
-V. Lætítia sempitérna super cápita eórum, allelúja.
-R. Gáudium et exsultatiónem obtinébunt, allelúja.
+{initial-style:0;%%(c3) V/. Læ(h)tí(h)ti(h)a(h) sem(h)pi(h)tér(h)na(h) su(h)per(h) cá(h)pi(h)ta(h) e(h)ó(h)rum,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)
+R/. Gáu(h)di(h)um(h) et(h) ex(h)sul(h)ta(h)ti(h)ó(h)nem(h) ob(h)ti(h)né(h)bunt,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)}
 
 [Lectio1]
 @Commune/C1
@@ -258,19 +248,11 @@ Fíliæ Jerúsalem, * veníte et vidéte Mártyres cum corónis, quibus coronáv
 !Rom 8:28
 v. Scimus quóniam diligéntibus Deum ómnia cooperántur in bonum, iis qui secúndum propósitum vocáti sunt sancti.
 
-[Capitulum Tertia]
-@:Capitulum Vespera
-
 [Responsory Tertia]
-R.br. Sancti et justi in Dómino gaudéte, * Allelúja, allelúja.
-R. Sancti et justi in Dómino gaudéte, * Allelúja, allelúja.
-V. Vos elégit Deus in hereditátem sibi.
-R. Allelúja, allelúja.
-&Gloria
-R. Sancti et justi in Dómino gaudéte, * Allelúja, allelúja.
+R.br. {gabc:Commune/C1/rb--sancti_et_justi--solesmes_1934}
 _
-V. Lux perpétua lucébit Sanctis tuis, Dómine, allelúja.
-R. Et ætérnitas témporum, allelúja.
+@:Ant Matutinum:9
+@:Ant Matutinum:10
 
 [Capitulum Sexta]
 !Sap. 5:5
@@ -278,19 +260,10 @@ v. Ecce quómodo computáti sunt inter fílios Dei, et inter sanctos sors illór
 $Deo gratias
 
 [Responsory Sexta]
-R.br. Lux perpétua lucébit Sanctis tuis, Dómine, * Allelúja, allelúja.
-R. Lux perpétua lucébit Sanctis tuis, Dómine, * Allelúja, allelúja.
-V. Et ætérnitas témporum.
-R. Allelúja, allelúja.
-&Gloria
-R. Lux perpétua lucébit Sanctis tuis, Dómine, * Allelúja, allelúja.
+R.br. {gabc:Commune/C1/rb--lux_perpetua--solesmes_1934}
 _
-V. Lætítia sempitérna super cápita eórum, allelúja.
-R. Gáudium et exsultatiónem obtinébunt, allelúja.
-
-[Capitulum Nona]
-@:Lectio Prima
-$Deo gratias
+@:Ant Matutinum:14
+@:Ant Matutinum:15
 
 [Responsory Nona]
 R.br. Lætítia sempitérna super cápita eórum, * Allelúja, allelúja.
@@ -300,17 +273,10 @@ R. Allelúja, allelúja.
 &Gloria
 R. Lætítia sempitérna super cápita eórum, * Allelúja, allelúja.
 _
-V. Pretiósa in conspéctu Dómini, allelúja.
-R. Mors Sanctórum ejus, allelúja.
-
-[Ant Vespera 3]
-Sancti tui, * Dómine, florébunt sicut lílium, allelúja: et sicut odor bálsami erunt ante te, allelúja.;;109
-In cæléstibus regnis * Sanctórum habitátio est, allelúja: et in ætérnum réquies eórum, allelúja.;;112
-In velaménto * clamábant Sancti tui, Dómine, allelúja, allelúja, allelúja.;;115
-Spíritus et ánimæ * justórum hymnum dícite Deo nostro, allelúja, allelúja.;;125
-Fulgébunt justi * sicut sol in conspéctu Dei, allelúja.;;138
+@:Versum 2:1
+@:Versum 2:2
 
 [Ant 3]
 Sancti et justi * in Dómino gaudéte, allelúja: vos elégit Deus in hereditátem sibi, allelúja.
 (sed rubrica monastica)
-{(c4) SAn(g_fgvFD)cti(e') et(f) ju(g_h)sti(g'_) *(,) in(g) Dó(g')mi(g)no(hg) gau(f)dé(gh)te,(h_g) al(f)le(fg)lú(g.)ja:(g.) (:) vos(g) e(g)lé(h')git(g) De(fg)us(f'_) (,) in(g) hæ(g')re(f)di(h')tá(j_)tem(ig~) si(i')bi,(j) al(h')le(h)lú(g.)ja.(g.) (::)}
+{annotation:8. G;%%(c4) SAn(g_fgvFD)cti(e') et(f) ju(g_h)sti(g'_) *(,) in(g) Dó(g')mi(g)no(hg) gau(f)dé(gh)te,(h_g) al(f)le(fg)lú(g.)ja:(g.) (:) vos(g) e(g)lé(h')git(g) De(fg)us(f'_) (,) in(g) hæ(g')re(f)di(h')tá(j_)tem(ig~) si(i')bi,(j) al(h')le(h)lú(g.)ja.(g.) (::)};;8G

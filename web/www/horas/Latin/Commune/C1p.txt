@@ -1,3 +1,5 @@
+@Commune/C1
+
 [Name]
 Commune Apostolorum tempore Paschali
 
@@ -83,8 +85,7 @@ In sempitérna sǽcula.
 Amen.
 
 [Versum 1]
-V. Sancti et justi in Dómino gaudéte, allelúja.
-R. Vos elégit Deus in hereditátem sibi, allelúja.
+@:Ant Matutinum:4-5
 
 [Ant 1]
 Lux perpétua * lucébit Sanctis tuis, Dómine, et ætérnitas témporum, allelúja.
@@ -93,7 +94,7 @@ Lux perpétua * lucébit Sanctis tuis, Dómine, et ætérnitas témporum, allel�
 Regem Apostolórum Dóminum, * Veníte, adorémus, allelúja.
 
 [Hymnus Matutinum]
-@Commune/C1p:Hymnus Vespera
+@:Hymnus Vespera
 
 [HymnusM Matutinum]
 @:HymnusM Vespera
@@ -115,26 +116,17 @@ Lux perpétua * lucébit Sanctis tuis, Dómine, et ætérnitas témporum, allel�
 V. Lætítia sempitérna super cápita eórum, allelúja.
 R. Gáudium et exsultatiónem obtinébunt, allelúja.
 
-[Lectio1]
-@Commune/C1
-
 [Responsory1]
 R. Beátus vir qui métuit Dóminum, allelúja:
 * In mandátis ejus cupit nimis, allelúja, allelúja, allelúja.
 V. Glória et divítiæ in domo ejus, et justítia ejus manet in sǽculum sǽculi.
 R. In mandátis ejus cupit nimis, allelúja, allelúja, allelúja.
 
-[Lectio2]
-@Commune/C1
-
 [Responsory2]
 R. Tristítia vestra, allelúja,
 * Convertétur in gáudium, allelúja, allelúja.
 V. Mundus autem gaudébit, vos vero contristabímini, sed tristítia vestra.
 R. Convertétur in gáudium, allelúja, allelúja.
-
-[Lectio3]
-@Commune/C1
 
 [Responsory3]
 R. Pretiósa in conspéctu Dómini, allelúja,
@@ -144,26 +136,17 @@ R. Mors Sanctórum ejus, allelúja.
 &Gloria
 R. Mors Sanctórum ejus, allelúja.
 
-[Lectio4]
-@Commune/C1
-
 [Responsory4]
 R. Lux perpétua lucébit Sanctis tuis, Dómine,
 * Et ætérnitas témporum, allelúja, allelúja.
 V. Lætítia sempitérna erit super cápita eórum: gáudium et exsultatiónem obtinébunt.
 R. Et ætérnitas témporum, allelúja, allelúja.
 
-[Lectio5]
-@Commune/C1
-
 [Responsory5]
 R. Virtúte magna reddébant Apóstoli
 * Testimónium resurrectiónis Jesu Christi Dómini nostri, allelúja, allelúja.
 V. Repléti quidem Spíritu Sancto, loquebántur cum fidúcia verbum Dei.
 R. Testimónium resurrectiónis Jesu Christi Dómini nostri, allelúja, allelúja.
-
-[Lectio6]
-@Commune/C1
 
 [Responsory6]
 R. Isti sunt agni novélli, qui annuntiavérunt, allelúja, modo venérunt ad fontes,
@@ -173,17 +156,11 @@ R. Repléti sunt claritáte, allelúja, allelúja.
 &Gloria
 R. Repléti sunt claritáte, allelúja, allelúja.
 
-[Lectio7]
-@Commune/C1
-
 [Responsory7]
 R. Ego sum vitis vera, et vos pálmites:
 * Qui manet in me, et ego in eo, hic fert fructum multum, allelúja, allelúja.
 V. Sicut diléxit me Pater, et ego diléxi vos.
 R. Qui manet in me, et ego in eo, hic fert fructum multum, allelúja, allelúja.
-
-[Lectio8]
-@Commune/C1
 
 [Responsory8]
 R. Cándidi facti sunt Nazarǽi ejus, allelúja: splendórem Deo dedérunt, allelúja:
@@ -193,44 +170,15 @@ R. Et sicut lac coaguláti sunt, allelúja, allelúja.
 &Gloria
 R. Et sicut lac coaguláti sunt, allelúja, allelúja.
 
-[Lectio9]
-@Commune/C1
-
 [Ant Laudes]
-Sancti tui, * Dómine, florébunt sicut lílium, allelúja: et sicut odor bálsami erunt ante te, allelúja.
-In cæléstibus regnis * Sanctórum habitátio est, allelúja: et in ætérnum réquies eórum, allelúja.
-In velaménto * clamábant Sancti tui, Dómine, allelúja, allelúja, allelúja.
-Spíritus et ánimæ * justórum hymnum dícite Deo nostro, allelúja, allelúja.
-Fulgébunt justi * sicut sol in conspéctu Dei, allelúja.
+@:Ant Vespera:1 s/;;.*//
+@:Ant Vespera:2 s/;;.*//
+@:Ant Vespera:3 s/;;.*//
+@:Ant Vespera:4 s/;;.*//
+@:Ant Vespera:5 s/;;.*//
 
 [Capitulum Laudes]
 @:Capitulum Vespera
-
-[HymnusM Laudes]
-v. Claro pascháli gáudio
-Sol mundo nitet rádio,
-Cum Christum jam Apóstoli
-Visu cernunt corpóreo.
-_
-Osténsa sibi vúlnera
-In Christi carne fúlgida,
-Resurrexísse Dóminum
-Voce faténtur pública.
-_
-Rex Christe clementíssime,
-Tu corda nostra pósside,
-Ut tibi laudes débitas
-Reddámus omni témpore.
-_
-Quǽsumus, Auctor ómnium,
-In hoc pascháli gáudio,
-Ab omni mortis ímpetu
-Tuum defénde pópulum.
-_
-Glória tibi Dómine,
-Qui surrexíst[i] a mórtuis,
-Cum Patr[e] et Sancto Spíritu,
-In sempitérna sǽcula. Amen.
 
 [Hymnus Laudes]
 {:H-Paschalemundogaudium:}v. Paschále mundo gáudium
@@ -260,14 +208,14 @@ In sempitérna sǽcula.
 Amen.
 
 [HymnusM Laudes]
-{:H-Paschalemundogaudium:}v. Claro Pascháli gáudio
+{:H-Paschalemundogaudium:}v. Claro pascháli gáudio
 Sol mundo nitet rádio,
 Cum Christum jam Apóstoli
 Visu cernunt corpóreo.
 _
-Osténsa sibi vúlnera,
+Osténsa sibi vúlnera
 In Christi carne fúlgida,
-Ressurexísse Dóminum,
+Resurexísse Dóminum,
 Voce faténtur pública.
 _
 Rex Christe clementíssime,
@@ -277,14 +225,13 @@ Reddámus omni témpore.
 _
 Quǽsumus Auctor ómnium,
 In hoc Pascháli gáudio,
-Ab omnis morti ímpetu
+Ab omni morti ímpetu
 Tuum defénde pópulum.
 _
-Glória tibi, Dómine,
-Qui surrexísti a mórtuis,
-Cum Patre, et Sancto Spíritu,
-In sempitérna sǽcula.
-Amen.
+Glória tibi Dómine,
+Qui surrexíst[i] a mórtuis,
+Cum Patr[e] et Sancto Spíritu,
+In sempitérna sǽcula. Amen.
 
 [Versum 2]
 V. Pretiósa in conspéctu Dómini, allelúja.
@@ -301,15 +248,15 @@ v. Scimus quóniam diligéntibus Deum ómnia cooperántur in bonum, iis qui sec�
 @:Capitulum Vespera
 
 [Responsory Tertia]
-R.br. Sancti et justi in Dómino gaudéte, * Allelúja, allelúja.
-R. Sancti et justi in Dómino gaudéte, * Allelúja, allelúja.
-V. Vos elégit Deus in hereditátem sibi.
-R. Allelúja, allelúja.
+@:Ant Matutinum:4 s/V./R.br./ s/\, al.*/./
+@:Ant Matutinum:4 s/V./R./ s/\, al.*/./
+@:Ant Matutinum:5 s/R./V./ s/\, al.*/./
+@Psalterium/Prayers:Alleluia Duplex: s/^/R. /
 &Gloria
-R. Sancti et justi in Dómino gaudéte, * Allelúja, allelúja.
+@:Ant Matutinum:4 s/V./R./ s/\, al.*/./
 _
-V. Lux perpétua lucébit Sanctis tuis, Dómine, allelúja.
-R. Et ætérnitas témporum, allelúja.
+@:Ant Matutinum:9
+@:Ant Matutinum:10
 
 [Capitulum Sexta]
 !Sap. 5:5
@@ -317,40 +264,36 @@ v. Ecce quómodo computáti sunt inter fílios Dei, et inter sanctos sors illór
 $Deo gratias
 
 [Responsory Sexta]
-R.br. Lux perpétua lucébit Sanctis tuis, Dómine, * Allelúja, allelúja.
-R. Lux perpétua lucébit Sanctis tuis, Dómine, * Allelúja, allelúja.
-V. Et ætérnitas témporum.
-R. Allelúja, allelúja.
+@:Ant Matutinum:9 s/V./R.br./ s/\, al.*/./
+@:Ant Matutinum:9 s/V./R./ s/\, al.*/./
+@:Ant Matutinum:10 s/R./V./ s/\, al.*/./
+@Psalterium/Prayers:Alleluia Duplex: s/^/R. /
 &Gloria
-R. Lux perpétua lucébit Sanctis tuis, Dómine, * Allelúja, allelúja.
+@:Ant Matutinum:9 s/V./R./ s/\, al.*/./
 _
-V. Lætítia sempitérna super cápita eórum, allelúja.
-R. Gáudium et exsultatiónem obtinébunt, allelúja.
+@:Ant Matutinum:14
+@:Ant Matutinum:15
 
 [Capitulum Nona]
 @:Lectio Prima
 $Deo gratias
 
 [Responsory Nona]
-R.br. Lætítia sempitérna super cápita eórum, * Allelúja, allelúja.
-R. Lætítia sempitérna super cápita eórum, * Allelúja, allelúja.
-V. Gáudium et exsultatiónem obtinébunt.
-R. Allelúja, allelúja.
+@:Ant Matutinum:14 s/V./R.br./ s/\, al.*/./
+@:Ant Matutinum:14 s/V./R./ s/\, al.*/./
+@:Ant Matutinum:15 s/R./V./ s/\, al.*/./
+@Psalterium/Prayers:Alleluia Duplex: s/^/R. /
 &Gloria
-R. Lætítia sempitérna super cápita eórum, * Allelúja, allelúja.
+@:Ant Matutinum:14 s/V./R./ s/\, al.*/./
 _
-V. Pretiósa in conspéctu Dómini, allelúja.
-R. Mors Sanctórum ejus, allelúja.
+@:Versum 2:1
+@:Versum 2:2
+
+[Ant Vespera 3]
+@:Ant Vespera: s/116/138/ s/112/125/ s/111/115/ s/110/112/
 
 [Versum 3]
 @:Versum 2
-
-[Ant Vespera 3]
-Sancti tui, * Dómine, florébunt sicut lílium, allelúja: et sicut odor bálsami erunt ante te, allelúja.;;109
-In cæléstibus regnis * Sanctórum habitátio est, allelúja: et in ætérnum réquies eórum, allelúja.;;112
-In velaménto * clamábant Sancti tui, Dómine, allelúja, allelúja, allelúja.;;115
-Spíritus et ánimæ * justórum hymnum dícite Deo nostro, allelúja, allelúja.;;125
-Fulgébunt justi * sicut sol in conspéctu Dei, allelúja.;;138
 
 [Ant 3]
 Sancti et justi * in Dómino gaudéte, allelúja: vos elégit Deus in hereditátem sibi, allelúja.
