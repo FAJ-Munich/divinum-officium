@@ -7,12 +7,12 @@ Psalmi Dominica
 [Capitulum Vespera]
 @Sancti/05-03:Capitulum Laudes
 _
-{gabc:Sancti/05-03/rb--adoramus_te_christe_tp--solesmes_1934}
+R.br. {gabc:Sancti/05-03/rb--adoramus_te_christe_tp--solesmes_1934}
 
 [Capitulum Laudes]
 @Sancti/05-03
 _
-{gabc:Sancti/05-03/rb--hoc_signum_crucis_t._paschali--solesmes}
+R.br. {gabc:Sancti/05-03/rb--hoc_signum_crucis_t._paschali--solesmes}
 
 [Responsory Tertia]
 @Sancti/05-03:Ant Matutinum:4-5 s/\(g\_.* \(\:\:\)/(f\.) (\:\:)/g s/\(h\_'\)/\(h\)/g s/\(\,\)//g

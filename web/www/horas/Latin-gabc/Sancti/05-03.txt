@@ -179,7 +179,7 @@ Alexánder Románus, Hadriáno imperatóre regens Ecclésiam, magnam partem Rom�
 [Ant 2]
 Super ómnia * ligna cedrórum tu sola excélsior, in qua Vita mundi pepéndit, in qua Christus triumphávit, et mors mortem superávit in ætérnum. (Allelúja.)
 (sed rubrica monastica)
-{annotation:1. D2;%%(c4) SU(c)per(d') ó(f)mni(fe)a(d') *() li(d)gna(e_f) ce(de)dró(d)rum(c.) (,) tu(f) so(g)la(h') ex(g)cél(fe~)si(fg)or,(gf'fvED.) (;) in(f) qua(fe) vi(g)ta(ge) mun(fe~)di(d) pe(fe)pén(de)dit,(c'_) (,) in(f) qua(fe) Chri(g)stus(gh) tri(ed)um(fe~)phá(d.)vit,(d.) (;) et(cd~) mors(d_/eed.) mor(d.e!fw!g_h)tem(gg) (,) su(fg)pe(f)rá(fe)vit,(dc) in(d') æ(f)tér(d_c)num,(e_0f) al(g>)le(fe)lú(d.)ja(d.) (::)};;1d2
+{annotation:1. D2;book:Antiphonale Monasticum, 1934, p. 901;%%(c4) SU(c)per(d') ó(f)mni(fe)a(d') *() li(d)gna(e_f) ce(de)dró(d)rum(c.) (,) tu(f) so(g)la(h') ex(g)cél(fe~)si(fg)or,(gf'fvED.) (;) in(f) qua(fe) vi(g)ta(ge) mun(fe~)di(d) pe(fe)pén(de)dit,(c'_) (,) in(f) qua(fe) Chri(g)stus(gh) tri(ed)um(fe~)phá(d.)vit,(d.) (;) et(cd~) mors(d_/eed.) mor(d.e!fw!g_h)tem(gg) (,) su(fg)pe(f)rá(fe)vit,(dc) in(d') æ(f)tér(d_c)num,(e_0f) al(g>)le(fe)lú(d.)ja(d.) (::)};;1d2
 
 [Commemoratio 2]
 !Commemoratio Ss. Mártyrum
@@ -224,4 +224,6 @@ V. Hoc signum Crucis erit in cælo, allelúja.
 R. Cum Dóminus ad judicándum vénerit, allelúja.
 
 [Ant 3]
-Crucem sanctam súbiit, * qui inférnum confrégit: accínctus est poténtia, surréxit die tértia. (Allelúja.)
+{name:Crucem sanctam subiit;annotation:2. D;mode:2;book:Liber antiphonarius, 1960, p. 704;transcriber:Andrew Hinkley;%%(f3) CRu(e)cem(ef) san(f)ctam(f!gwh) sú(hg)bi(fg)it,(g.) *(,) qui(gi) in(g)fér(hg~)num(f) con(gf)fré(ef)git:(f.) (:) ac(f)cín(fe)ctus(cb) est(e) po(fh)tén(hg)ti(fg)a,(g'_) (,) sur(i)ré(i_j)xit(g) di(hg)e(f) tér(gf)ti(ef)a,(f.) (;) al(eg~)le(g_f/hvGF/gf)lú(ef~)ja.(f.) (::)};;2
+(sed rubrica monastica)
+{name:Crucem sanctam subiit;annotation:2. D;mode:2;book:Antiphonale Monasticum, 1934, p. 903;%%(f3) CRu(e)cem(ef~) san(f)ctam(f!gwh) sú(hg)bi(fg)it,(g.) *(,) qui(gi) in(g)fér(hg~)num(f) con(gf~)fré(ef)git:(f.) (:) ac(f)cín(f>)ctus(ec) est(e) po(f!gwh)tén(hg~)ti(fg)a,(g'_) (,) sur(i)ré(i_j)xit(g) di(hg)e(f) tér(gf~)ti(ef)a,(f.) (;) al(eg~)le(gf/hvGF/gf)lú(ef~)ja.(f.) (::)};;2-monasticus
