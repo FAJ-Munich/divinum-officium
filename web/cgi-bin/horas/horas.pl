@@ -1078,7 +1078,7 @@ sub Divinum_auxilium : ScriptFunc {
   my $lang = shift;
   my @text = split(/\n/, $prayers{$lang}{"Divinum auxilium"});
   $text[-2] = "V. $text[-2]";
-  $text[-1] =~ s/.*\. // unless ($version =~ /Monastic/i); # contract resp. "Et cum fratribus… " to "Amen." for Roman
+  $text[-1] =~ s/.*\. // unless ($version =~ /Monastic/i && $version !~ /Bavariae/i); # contract resp. "Et cum fratribus… " to "Amen." for Roman
   $text[-1] = "R. $text[-1]";
   join("\n", @text);
 }
