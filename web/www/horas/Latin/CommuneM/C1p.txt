@@ -61,13 +61,13 @@ _
 @Commune/C1p:Responsory Tertia:1-6
 
 [Responsory Tertia]
-@Commune/C1p:Versum 1
+@Commune/C1p:Ant Matutinum:4-5
 
 [Responsory Sexta]
-@Commune/C1p:Responsory Tertia:8-9
+@Commune/C1p:Ant Matutinum:9-10
 
 [Responsory Nona]
-@Commune/C1p:Responsory Sexta:8-9
+@Commune/C1p:Ant Matutinum:14-15
 
 [Ant Vespera 3]
 @Commune/C1p::s/125/138/
