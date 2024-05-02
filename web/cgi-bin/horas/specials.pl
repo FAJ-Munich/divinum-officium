@@ -1709,8 +1709,8 @@ sub getcommemoratio {
   if (!$v) { $v = getfrompsalterium('Versum', $ind, $lang); }
   if (!$v) { $v = 'versus missing'; }
   postprocess_vr($v, $lang);
-	if ($lang =~/gabc/i) {
-		$v =~ s/\([a-zA-Z0-9\_\.\~\>\<\'\/\!]+?\) \(::\)/\(f\.\) \(::\)/g; # Change Versicle into the simple tone
+	if ($lang =~ /gabc/i) { # Change Versicle into the simple tone
+		$v =~ s/\([a-zA-Z0-9\_\.\~\>\<\'\/\!]+?\) \(::\)/\(f\.\) \(::\)/g;
 		$v =~ s/\((?:hi|hr|h\_0|fe|f\_0?h|\,|h\_\')\)/\(h\)/g; # More changes for solemn Versicle
 	}
   our %prayers;
@@ -2311,10 +2311,15 @@ sub getrefs {
       do_inclusion_substitutions($v, $substitutions);
       do_inclusion_substitutions($o, $substitutions);
       $a =~ s/\s*\*\s*/ /;
+			if ($lang =~ /gabc/i) { # Change Versicle into the simple tone
+				$v =~ s/\([a-zA-Z0-9\_\.\~\>\<\'\/\!]+?\) \(::\)/\(f\.\) \(::\)/g;
+				$v =~ s/\((?:hi|hr|h\_0|fe|f\_0?h|\,|h\_\')\)/\(h\)/g; # More changes for solemn Versicle
+			}
       $w = $before . "\nAnt. $a\n" . "_\n$v" . "_\n$o" . "_\n$after";
       next;
     }
-    my $a = $s{$item};
+    
+		my $a = $s{$item};
     if ($after && $after !~ /^\s*$/) { $after = "_\n$after"; }
     if ($before && $before !~ /^\s*$/) { $before .= "_\n"; }
     if (!$a) { $a = "$file $item missing\n"; }

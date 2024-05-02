@@ -48,9 +48,6 @@ $Qui vivis
 [Invit]
 Christum Regem crucifíxum, * Veníte, adorémus. (Allelúja.)
 
-[Hymnus Matutinum]
-@Psalterium/Matutinum Special:Hymnus Quad5
-
 [Ant Matutinum]
 Invéntæ Crucis festa recólimus, cujus præcónium univérsum per orbem micánti lúmine fulget, allelúja.;;1
 ;;2
@@ -181,6 +178,8 @@ Alexánder Románus, Hadriáno imperatóre regens Ecclésiam, magnam partem Rom�
 
 [Ant 2]
 Super ómnia * ligna cedrórum tu sola excélsior, in qua Vita mundi pepéndit, in qua Christus triumphávit, et mors mortem superávit in ætérnum. (Allelúja.)
+(sed rubrica monastica)
+{annotation:1. D2;%%(c4) SU(c)per(d') ó(f)mni(fe)a(d') *() li(d)gna(e_f) ce(de)dró(d)rum(c.) (,) tu(f) so(g)la(h') ex(g)cél(fe~)si(fg)or,(gf'fvED.) (;) in(f) qua(fe) vi(g)ta(ge) mun(fe~)di(d) pe(fe)pén(de)dit,(c'_) (,) in(f) qua(fe) Chri(g)stus(gh) tri(ed)um(fe~)phá(d.)vit,(d.) (;) et(cd~) mors(d_/eed.) mor(d.e!fw!g_h)tem(gg) (,) su(fg)pe(f)rá(fe)vit,(dc) in(d') æ(f)tér(d_c)num,(e_0f) al(g>)le(fe)lú(d.)ja(d.) (::)};;1d2
 
 [Commemoratio 2]
 !Commemoratio Ss. Mártyrum
