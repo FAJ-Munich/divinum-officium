@@ -779,7 +779,7 @@ sub psalmi_minor {
 		} elsif ($name =~ /pasc/i && $lang =~ /gabc/i && $ind < 0) { 
 			$ind = 5;	# for Roman Completorium has a Paschal tone for the whole week
 		}	elsif ($name =~ /pasc/i && ($dayname[0] !~ /Pasc7/i || $hora =~ /Completorium/i)) {
-			$ind = 0; # ensure Antiphone is changed next
+			$ind = $lang !~ /gabc/i ? 0 : $ind; # ensure Antiphone is changed next
 		}
 		
     if ($name && $ind >= 0) {
@@ -923,7 +923,7 @@ sub psalmi_major {
       {
         my @canticles = split("\n", $psalmi{'DaymF Canticles'});
         if ($dayofweek == 6) { $psalmi[1] .= '(1-7)'; $psalmi[2] = ';;142(8-12)'; }
-        $psalmi[3] = $canticles[$dayofweek];
+        $psalmi[-2] = $canticles[$dayofweek];
       }
     }
   } elsif ($version =~ /Trident/i
@@ -1009,7 +1009,7 @@ sub psalmi_major {
 
 	if ($lang =~ /gabc/ && @antiphones) {
 		# strip Psalm Tones from Antiphones
-		foreach $myant (@antiphones) {
+		foreach my $myant (@antiphones) {
 			if ($myant =~ s/;;(.*);;(.*)/;;$1/ ) {
 				push (@psalmTones, $2);
 				$myant =~ s/;;\s*$//;
@@ -1100,13 +1100,25 @@ sub psalmi_major {
 						: "$antiphones[$i];;$p";
 			}
     }
-  }
+	} elsif ($lang =~ /gabc/i) {
+		foreach $mypsalm (@psalmi) {
+			if ($mypsalm =~ s/;;(.*);;(.*)// ) {
+				my $psalmTone = $2;
+				my @p = split(';', $1);
+				foreach $p1 (@p) {
+					$p1 = "\'$p1,$psalmTone\'";
+				}
+				$p = join(';', @p);
+				$mypsalm .= ";;$p";
+			}
+		}
+	}
 	
-  if (alleluia_required($dayname[0], $votive)
+  if (alleluia_required($dayname[0], $votive) && $lang !~ /gabc/i
     && (!exists($winner{"Ant $hora"}) || $commune =~ /C10/)
     && $communetype !~ /ex/i
     && ($version !~ /trident/i || $hora =~ /vespera/i) 
-    && ($version !~ /monastic/i || $hora !~ /laudes/i || $winner{Rank} !~ /Dominica/i)
+    && !($version =~ /monastic/i && $hora =~ /laudes/i && $winner{Rank} =~ /Dominica/i)
   )
   {
     $psalmi[0] =~ s/.*(?=;;)/ Alleluia_ant($lang) /e;

@@ -319,7 +319,7 @@ Allelúja, * allelúja, allelúja;;148;149;150
 
 [DaymF Canticles]
 ;;
-Laudámus nomen tuum * inclitum, Deus noster.;;211
+{annotation:1. f;%%(c4) Lau(dc~)dá(f)mus(g') no(h)men(gf~) tu(g)um(gh~) *() in(f)cly(fe)tum,(c_') (,) De(d)us(fe) nos(d.)ter.(d.) (::) ^_T. P._^ Al(e)le(fe)lú(d.)ja(d.) (::)};;211;;1f
 Exaltáte * Regem sæculórum in opéribus vestris.;;212
 Dómine, * magnus es tu et præclárus in virtúte tua.;;213
 Pópulus meus, * ait Dóminus, bonis meis adimplébitur.;;214
@@ -330,8 +330,13 @@ Osténde nobis, Dómine, * lucem miseratiónum tuárum.;;216(1-13)
 Miserére * mei, Deus;;50
 Intéllege * clamórem meum, Dómine;;5
 Dómine, * in cælo misericórdia tua;;35
-Convérsus est * furor tuus, Dómine, et consolátus es me;;221
+{annotation:8. G;%%(c4) Con(h)vér(f)sus(fg) est(g.) *() fu(h)ror(j) tu(i')us,(j) Dó(h')mi(j)ne,(i.) (,) et(j) con(h)so(gf)lá(g_0h)tus(i') es(h) me.(g.) (::)};;221;;8G
 Laudáte * Dóminum de cælis;;148;149;150
+
+[Daym1 Laudes] (tempore paschali)
+{annotation:6. F;%%(c4) Al(f)le(g')lú(h)ja,(f') *() al(g)le(f)lú(fe)ja,(d_') al(f)le(g')lú(g)ja.(f.) (::)};;50;5;35;;6
+{annotation:8. G;%%(c4) Con(h)vér(f)sus(fg) est(g.) *() fu(h)ror(j) tu(i')us,(j) Dó(h')mi(j)ne,(i.) (,) et(j) con(h)so(gf)lá(g_0h)tus(i') es(h) me,(g_0h) al(i')le(h)lú(g.)ja(g.) (::)};;221;;8G
+{annotation:1. a;%%(c4) Al(h)le(h')lú(h)ja,(g') *() al(f)le(e')lú(f)ja,(g') al(e)le(fe)lú(d.)ja.(d.) (::)};;148;149;150;;1a
 
 [Daym2 Laudes]
 Dele, Dómine, * iniquitátem meam;;50
@@ -380,6 +385,9 @@ Inclinávit * Dóminus aurem suam mihi;;114
 Crédidi, * propter quod locútus sum;;115;116
 Sæpe * expugnavérunt me a juventúte mea;;128
 
+[Daym1 Vespera] (tempore paschali)
+{annotation:1. g2;%%(c4) Al(f)le(f)lú(gh)ja,(h.) *() al(h)le(g)lú(hg)ja,(e_0f) al(g)le(fe)lú(d.)ja.(d.) (::)};;113;114;115;116;128;;1g2
+
 [Daym2 Vespera]
 De profúndis * clamávi ad te, Dómine;;129
 Speret * Israël in Dómino;;130
@@ -411,6 +419,6 @@ Per síngulos dies * benedícam te, Dómine;;144:1--monastic--
 {name:Lauda Jerusalem;office-part:Antiphona;annotation:t. irreg.;book:Antiphonale Monasticum, 1934, p. 162;transcriber:Harpa Dei;%%(c4) Lau(h)da(g') *() Je(g)rú(f')sa(g)lem(ixh_i) Dó(g')mi(ixi)num.(h.) (::)};;'147,irregularis-a'
 
 [DaymP Laudes]
-Allelúja, * allelúja, allelúja, allelúja, allelúja, allelúja, allelúja, allelúja, allelúja.;;92;99;62
-Surréxit Christus * de sepúlcro, qui liberávit tres púeros de camino ignis ardéntis, allelúja.;;210
-Allelúja, * allelúja, allelúja.;;148;149;150
+Allelúja, * allelúja, allelúja, allelúja, allelúja, allelúja, allelúja, allelúja, allelúja.;;92;99;62;;8G
+Surréxit Christus * de sepúlcro, qui liberávit tres púeros de camino ignis ardéntis, allelúja.;;210;;6
+Allelúja, * allelúja, allelúja.;;148;149;150;;6
