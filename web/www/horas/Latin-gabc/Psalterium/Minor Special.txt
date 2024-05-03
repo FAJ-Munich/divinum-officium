@@ -435,6 +435,8 @@ Amen.
 {gabc:Psalterium/Passionis/hy--te_lucis_ante_terminum_in_tempore_passionis--solesmes_1934}
 (sed tempore Pasc)
 {gabc:Psalterium/Pascha/hy--te_lucis_ante_terminum_in_tempore_paschali--solesmes_1934}
+(sed commune C11 aut tonus BMV)
+{gabc:Commune/C11/hy--te_lucis_ante_terminum_in_festis_b_m_v_--solesmes_1934}
 
 [Hymnus Tertia]
 v. Nunc, Sancte, nobis, Spíritus,
@@ -466,7 +468,7 @@ Amen.
 (sed tonus festivus$)
 {gabc:Psalterium/hy--nunc_sancte_nobis_in_festis_minoribus--solesmes_1934}
 (sed tonus festivus major)
-{gabc:Psalterium/{gabc:Psalterium/hy--nunc_sancte_nobis_in_festis_majoribus--solesmes_1934}
+{gabc:Psalterium/hy--nunc_sancte_nobis_in_festis_majoribus--solesmes_1934}
 (sed tonus solemnis)
 {gabc:Psalterium/hy--nunc_sancte_nobis_in_solemnitatibus--solesmes_1934}
 (sed tempore Nativitatis aut tempore Corpus)
@@ -498,9 +500,10 @@ Amen.
 
 [HymnusM Sexta]
 @:Hymnus Sexta:s/illúminas/ínstruis/
-
-[HymnusM Sexta] (tempore Passionis)
+(sed tempore Passionis)
 {gabc:Psalterium/Passionis/hy--rector_potens_in_tempore_passionis--solesmes_1934}
+(sed tempore Pasc)
+{gabc:Psalterium/Pascha/hy--rector_potens_in_tempore_paschali--solesmes_1934}
 
 [Hymnus Nona]
 v. Rerum, Deus, tenax vigor,
@@ -523,6 +526,8 @@ Amen.
 @:Hymnus Nona:s/lumen/clarum/
 (sed tempore Passionis)
 {gabc:Psalterium/Passionis/hy--rerum_deus_in_tempore_passionis--solesmes_1934}
+(sed tempore Pasc)
+{gabc:Psalterium/Pascha/hy--rerum_deus_in_tempore_paschali--solesmes_1934}
 
 [Hymnus Prima]
 v. Jam lucis orto sídere,
