@@ -1,6 +1,6 @@
 $ant
 $ant
-{(c4)VE(h)ní(g)te,(h) ex(h)sul(h)té(h)mus(h) Dó(h)mi(h)no,(h'_) (,) iu(g)bi(h)lé(h)mus(h) De(h)o,(h) sa(g)lu(f)tá(g)ri(h) no(f)stro.(g.) (;) Præ(h)oc(g)cu(h)pé(h)mus(h) fá(h)ci(h)em(h) e(h)ius(h_') (,) in(h) con(g)fes(h)si(g)ó(g)ne,(gf..) (;) et(g) in(g) psal(h)mis(g') iu(f)bi(f)lé(f_g)mus(gf) e(g)i.(gh..) (::)}
+{(c4) VE(h)ní(g)te,(h) ex(h)sul(h)té(h)mus(h) Dó(h)mi(h)no,(h'_) (,) iu(g)bi(h)lé(h)mus(h) De(h)o,(h) sa(g)lu(f)tá(g)ri(h) no(f)stro.(g.) (;) Præ(h)oc(g)cu(h)pé(h)mus(h) fá(h)ci(h)em(h) e(h)ius(h_') (,) in(h) con(g)fes(h)si(g)ó(g)ne,(gf..) (;) et(g) in(g) psal(h)mis(g') iu(f)bi(f)lé(f_g)mus(gf) e(g)i.(gh..) (::)}
 $ant
 {(c4) Quó(h)ni(g)am(h) De(h)us(h) ma(h)gnus(h) Dó(h)mi(h)nus,(h'_) (,) et(g) rex(h) ma(h)gnus(h) su(g)per(f) om(g)nes(h) de(f)os.(g.) (;) Quó(h)ni(g)am(h) non(h) re(h)pél(h)let(h) Dó(h)mi(h)nus(h) ple(h)bem(h) su(h)am,(h_') (,) qui(g)a(h) in(h) ma(h)nu(h) e(h)ius(h_') sunt(h) om(h)nes(g) fi(h)nes(g) ter(g)ræ,(gf..) (;) et(g) al(g)ti(g)tú(h)di(g)nes(f) món(g)ti(f)um(f.) (,) i(f_g)pse(g) cón(gf~)spi(g)cit.(gh..) (::)}
 $ant2

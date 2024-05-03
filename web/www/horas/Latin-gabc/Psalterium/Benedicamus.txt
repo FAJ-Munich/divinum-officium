@@ -58,7 +58,6 @@
 [festivus2]
 {initial-style:0;%%(c4) V/. Be(j)ne(hgh')di(ixi)cá(hvGF'g)mus(f.) (,) Dó(ixjkJH'ij./f!gwh/ih)mi(gf)no.(f.) (::) R/. De(j)o(ixhgh'ivH'GF'gf.0) (,) grá(ixjkJH'ij./f!gwh/ih)ti(gf)as.(f.) (::)}
 
-
 [festivus2] (rubrica monastica)
 {initial-style:0;%%(c4) V/. Be(h!ij)ne(i)di(j)cá(ih)mus(g_f) Dó(ghG'F)mi(ef)no.(f.) (::) R/. De(h!ijI'H)o(g_f) grá(ghG'F)ti(ef)as.(f.) (::)}
 
