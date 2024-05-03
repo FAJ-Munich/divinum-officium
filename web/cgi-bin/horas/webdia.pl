@@ -512,26 +512,27 @@ sub setcell {
 				$text =~ s/\{(\(|name:|annotation:|initial-style:|centering-scheme:)/<DIV ID="GABC$hora$searchind$dId" class="GABC">$1/s;
 				$text =~ s/\(\:\:\)\}/\(\:\:\)<\/DIV><DIV ID="GCHANT$hora$searchind$dId" class="GCHANT" width="100\%"><\/DIV>/s;
 				$text =~ s/<i>T.\s?P.<\/i>/\_\^T. P.\^\_ /g;  #Tempore Paschalis
-			  $text =~ s/<\/?i>/\_/g; # italics
+			  $text =~ s/<\/?i>/\_/g; 				# italics
 				$text =~ s/<\/?b>|<v>\\greheightstar<\/v>/*/g;
-				$text =~ s/<\/?sc>/\%/g; # small capitals
-				$text =~ s/<\/?c>/\^/g;	# coloured
-				$text =~ s/<\/?e>/\_/g; # elisions
+				$text =~ s/<\/?sc>/\%/g; 				# small capitals
+				$text =~ s/<\/?c>/\^/g;					# coloured
+				$text =~ s/<\/?e>/\_/g; 				# elisions
 				$text =~ s/<sp>\'(?:ae|æ)<\/sp>/ǽ/g;
 				$text =~ s/<sp>\'(?:oe|œ)<\/sp>/œ́/g;
 				$text =~ s/<sp>(?:ae|æ)<\/sp>/æ/g;
 				$text =~ s/<sp>(?:oe|œ)<\/sp>/œ/g;
-				$text =~ s/; <br>\n/;\n/gi;
-				$text =~ s/%% <br>\n/%%\n/gi;
-				$text =~ s/%%\(/%%\n\(/gi;
-				$text =~ s/;([a-z\%\(])/;\n$1/gi;
-				$text =~ s/(\(\:\:\)\}?) <br>\n/$1 \n/gi;
-				$text =~ s/\) \* /\) \*() /g;
+				$text =~ s/; <br>\n/;\n/gi; 		# remove wrong HTML linebreaks
+				$text =~ s/%% <br>\n/%%\n/gi; 	# remove wrong HTML linebreaks
+				$text =~ s/%%\(/%%\n\(/gi;			# insert break at end of header
+				$text =~ s/;([a-z\%\(])/;\n$1/gi;		# insert break in header
+				$text =~ s/(\(\:\:\)\}?) <br>\n/$1 \n/gi; # remove wrong HTML linebreaks
+				$text =~ s/\) \* /\) \*() /g;		# star to be followed by ()
+				$text =~ s/(\([\,\;\:]+\))\s*?(\^?\d+\.\^?|(<sp>)?[VR]\/(<\/sp>)?\.)\s/ $2$1 /gs;
 				$text =~ s/†\((.+?)\)/($1) † /g;
 			  $text =~ s/\) \^?†\^?\(?\)?/\) ^†^() /g;
 				$text =~ s/(<sp>)?V\/(<\/sp>)?\.?(\(\))?/V\/\.() /g;
 				$text =~ s/(<sp>)?R\/(<\/sp>)?\.?(\(\))?/R\/\.() /g;
-				$text =~ s/\.\(\) \(\:\:\)/.(::)/g;
+				$text =~ s/\.\(\) \(\:\:\)/.(::)/g;   # contract () (::)
 				$text =~ s/<\/?nlba>//g;
 				$text =~ s/\_/\|\|/g;
 			}
