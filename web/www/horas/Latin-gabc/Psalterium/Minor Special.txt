@@ -453,8 +453,31 @@ Cum Spíritu Paráclito
 Regnans per omne sǽculum.
 Amen.
 
-[HymnusM Tertia] (tempore Passionis)
+[HymnusM Tertia] 
+{gabc:Psalterium/hy--nunc_sancte_nobis_in_feriis_per_annum--solesmes_1934}
+(sed tonus dominicalis aut tonus festivus minor aut tonus 8vam)
+{gabc:Psalterium/hy--nunc_sancte_nobis_in_dominicis_per_annum--solesmes_1934}
+(sed tempore adventu)
+{gabc:Psalterium/Adventu/hy--nunc_sancte_nobis_in_adventu--solesmes_1934}
+(sed tempore quadragesima)
+{gabc:Psalterium/Quadragesima/hy--nunc_sancte_nobis_in_quadragesima--solesmes_1934}
+(sed tempore Passionis)
 {gabc:Psalterium/Passionis/hy--nunc_sancte_nobis_in_tempore_passionis--solesmes_1934}
+(sed tonus festivus$)
+{gabc:Psalterium/hy--nunc_sancte_nobis_in_festis_minoribus--solesmes_1934}
+(sed tonus festivus major)
+{gabc:Psalterium/{gabc:Psalterium/hy--nunc_sancte_nobis_in_festis_majoribus--solesmes_1934}
+(sed tonus solemnis)
+{gabc:Psalterium/hy--nunc_sancte_nobis_in_solemnitatibus--solesmes_1934}
+(sed tempore Nativitatis aut tempore Corpus)
+{gabc:Psalterium/Nativitate/hy--nunc_sancte_nobis_in_nativitate_domini--solesmes_1934}
+(sed tempore Pasc)
+{gabc:Psalterium/Pascha/hy--nunc_sancte_nobis_in_tempore_paschali--solesmes_1934}
+(sed tempore Ascensionis)
+{gabc:Psalterium/Pascha/hy--nunc_sancte_nobis_in_tempore_ascensionis--solesmes_1934}
+(sed commune C11 aut tonus BMV)
+{gabc:Commune/C11/hy--nunc_sancte_nobis_in_festis_bmv--solesmes_1934}
+
 
 [Hymnus Sexta]
 v. Rector potens, verax Deus,
@@ -498,8 +521,7 @@ Amen.
 
 [HymnusM Nona]
 @:Hymnus Nona:s/lumen/clarum/
-
-[HymnusM Nona] (tempore Passionis)
+(sed tempore Passionis)
 {gabc:Psalterium/Passionis/hy--rerum_deus_in_tempore_passionis--solesmes_1934}
 
 [Hymnus Prima]
