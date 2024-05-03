@@ -1117,11 +1117,13 @@ sub martyrologium : ScriptFunc {
   my $mobile = '';
   my $hd = 0;
   if (exists($a{$a})) { $mobile = "$a{$a}\n"; }
-  if ($month == 10 && $dayofweek == 6 && $day > 23 && $day < 31 && exists($a{'10-DU'})) { $mobile = $m{'10-DU'}; }
+  if ($month == 10 && $dayofweek == 6 && $day > 23 && $day < 31 && exists($a{'10-DU'})) { $mobile = $a{'10-DU'}; }
   if ($a =~ /Pasc0\-1/i) { $hd = 1; }
   if ($winner{Rank} =~ /ex C9/i && exists($a{'Defuncti'})) { $mobile = $a{'Defuncti'}; $hd = 1; }
   if ($month == 11 && $day == 14 && $version =~ /Monastic/i) { $mobile = $a{'DefunctiM'}; $hd = 1; }
-
+	if ($version =~ /bavariae/i && $dayofweek == 5 && (($month == 4 && $day == 30) || ($month == 5 && $day < 7)) && exists($a{'05-SP'})) { $mobile = $a{'05-SP'};}
+	elsif ($version =~ /bavariae/i && $dayofweek == 5 && ($month == 5 && $day < 14) && $dayname[0] !~ /Pasc[67]/i && exists($a{'05-SS'})) { $mobile = $a{'05-SS'};}
+	
   #if ($month == 12 && $day == 25 && exists($a{'Nativity'})) {$mobile = $a{'Nativity'}; $hd = 1;}
   if ($hd == 1) { $t = "v. $mobile" . "_\n$t"; $mobile = ''; }
   $fname = nextday($month, $day, $year);
