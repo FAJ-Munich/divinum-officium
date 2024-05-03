@@ -8,11 +8,11 @@ Antiphonas horas
 Doxology=Nat
 
 [Ant Vespera]
-Stella maris * attendámus, qui transíre decertámus Babylónis flúmina, allelúja.;;109
-Hæc ut nostram * indefésse cymbam regat, est necésse, per fluctus et fúlmina, allelúja.;;112 
-Ad Mariam *  dirigámus cursum, ad hanc erigámus mentes, manus, lúmina, allelúja.;;121
-Hæc de lacu * Babylónis ad tranquíllæ visiónis nos edúcat cúlmina, allelúja.;;126
-Hinc celéuma * præcinámus, quo Patrónam salutámus: Ave, magna Dómina, allelúja!;;147
+Stella maris * attendámus, qui transíre decertámus Babylónis flúmina, allelúja.;;109;;8G
+Hæc ut nostram * indefésse cymbam regat, est necésse, per fluctus et fúlmina, allelúja.;;112;;1g
+Ad Mariam *  dirigámus cursum, ad hanc erigámus mentes, manus, lúmina, allelúja.;;121;;8G
+Hæc de lacu * Babylónis ad tranquíllæ visiónis nos edúcat cúlmina, allelúja.;;126;;1f
+Hinc celéuma * præcinámus, quo Patrónam salutámus: Ave, magna Dómina, allelúja!;;147;;8Gstar
 
 [Capitulum Vespera]
 @CommuneM/C10
@@ -22,7 +22,7 @@ Hinc celéuma * præcinámus, quo Patrónam salutámus: Ave, magna Dómina, alle
 R/.(::) Ut(h) dig(h)ni(h) ef(h)fi(h)ci(h)á(h)mur(h) pro(h)mis(h)si(h)ó(h)ni(h)bus(h) Chri(hi)sti,(h_) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 1]
-Descénde cælo, * fília Príncipis, pulchrósque gressus fígere Bóicis gináre terris, qua vocáris, ínclita magna Patróna regni, allelúja.
+Descénde cælo, * fília Príncipis, pulchrósque gressus fígere Bóicis gináre terris, qua vocáris, ínclita magna Patróna regni, allelúja.;;solemn8G
 
 [Oratio]
 Deus, qui dilécti Fílii tui Genetrícem nobis Matrem ac Regni Patrónam dare dignátus es: concéde propítius; ut sub hujus Matris tutéla ab omni hóstium defendámur incúrsu, et sine timóre in sanctitáte et justítia tibi serviámus.
@@ -247,9 +247,8 @@ R. In tabernáculo suo habitáre facit eam, allelúja.
 {initial-style:0;%%(c3) V/. Rem,(h) re(h)gem,(h) ré(h)gi(h)men,(h) re(h)gi(h)ó(h)nem,(h) re(h)li(h)gi(h)ó(hi)nem,(h_) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) 
 R/.(::) Con(h)sér(h)va(h) Bá(h)va(h)ris,(h) Vir(h)go(h) Pa(h)tró(h)na,(h) tu(hi)is,(h_) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
-
 [Ant 3]
-Occúrre votis * et Bávaros reges adfla benígni Núminis hálitu, tu, robur afflictǽque scutum et dulce decus Patriǽque Mater, María, allelúja.
+Occúrre votis * et Bávaros reges adfla benígni Núminis hálitu, tu, robur afflictǽque scutum et dulce decus Patriǽque Mater, María, allelúja.;;solemn7a
 
 [Octava 1]
 !Commemoratio die infra Octavam B.M.V. Patronæ Bavariæ
