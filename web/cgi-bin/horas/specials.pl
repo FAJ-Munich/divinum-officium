@@ -180,7 +180,7 @@ sub specials {
       }
       setcomment($label, 'Source', $comment, $lang);
       foreach $l (@capit) { push(@s, $l); }
-      my $primaresponsory = ($version !~ /monastic/i) ? get_prima_responsory($lang) : '';
+      my $primaresponsory = ($version !~ /monastic/i || $version =~ /bavariae/i) ? get_prima_responsory($lang) : '';
       my %wpr = (columnsel($lang)) ? %winner : %winner2;
       if (exists($wpr{'Versum Prima'}) && ($version !~ /monastic/i)) { $primaresponsory = $wpr{'Versum Prima'}; }
       push(@s, $t[$tind++]);
