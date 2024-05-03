@@ -11,7 +11,7 @@ $Domine labia
 $Domine labia
 $Domine labia
 _
-&psalm(3)
+&psalm('3,in-dir-monasticus')
 
 #Invitatorium
 

@@ -72,8 +72,7 @@ $Fidelium animae
 /:secreto:/
 $Pater noster
 
-V. Dóminus det nobis suam pacem.
-R. Et vitam ætérnam. Amen.
+$Dominus det
 _
 &antiphona_finalis
 $Divinum auxilium
