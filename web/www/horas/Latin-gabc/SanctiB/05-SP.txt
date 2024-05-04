@@ -8,11 +8,14 @@ Antiphonas horas
 Doxology=Nat
 
 [Ant Vespera]
-Stella maris * attendámus, qui transíre decertámus Babylónis flúmina, allelúja.;;109;;8G
-Hæc ut nostram * indefésse cymbam regat, est necésse, per fluctus et fúlmina, allelúja.;;112;;1g
-Ad Mariam *  dirigámus cursum, ad hanc erigámus mentes, manus, lúmina, allelúja.;;121;;8G
-Hæc de lacu * Babylónis ad tranquíllæ visiónis nos edúcat cúlmina, allelúja.;;126;;1f
-Hinc celéuma * præcinámus, quo Patrónam salutámus: Ave, magna Dómina, allelúja!;;147;;8Gstar
+Stella maris * attendámus, qui transíre decertámus Babylónis flúmina, allelúja.;;109;;1f
+Hæc ut nostram * indefésse cymbam regat, est necésse, per fluctus et fúlmina, allelúja.;;112;;2-monasticus
+Ad Mariam *  dirigámus cursum, ad hanc erigámus mentes, manus, lúmina, allelúja.;;121;;3-antiquo-a
+Hæc de lacu * Babylónis ad tranquíllæ visiónis nos edúcat cúlmina, allelúja.;;126;;4-antiquo-E
+
+[Ant Vespera 3]
+@:Ant Vespera:1-3
+Hinc celéuma * præcinámus, quo Patrónam salutámus: Ave, magna Dómina, allelúja!;;147;;5
 
 [Capitulum Vespera]
 @CommuneM/C10
@@ -22,14 +25,14 @@ Hinc celéuma * præcinámus, quo Patrónam salutámus: Ave, magna Dómina, alle
 R/.(::) Ut(h) dig(h)ni(h) ef(h)fi(h)ci(h)á(h)mur(h) pro(h)mis(h)si(h)ó(h)ni(h)bus(h) Chri(hi)sti,(h_) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 1]
-Descénde cælo, * fília Príncipis, pulchrósque gressus fígere Bóicis gináre terris, qua vocáris, ínclita magna Patróna regni, allelúja.;;solemn8G
+Descénde cælo, * fília Príncipis, pulchrósque gressus fígere Bóicis gináre terris, qua vocáris, ínclita magna Patróna regni, allelúja.;;solemn6
 
 [Oratio]
 Deus, qui dilécti Fílii tui Genetrícem nobis Matrem ac Regni Patrónam dare dignátus es: concéde propítius; ut sub hujus Matris tutéla ab omni hóstium defendámur incúrsu, et sine timóre in sanctitáte et justítia tibi serviámus.
 $Per eumdem
 
 [Invit]
-Christum Regem adorémus * Et Maríam collaudémus, piam nostram Dóminam, allelúja.
+{(c4) CHri(c)stum(de) Re(edffe)gem(dc) ad(d)o(de)ré(e)mus,(e.) (;) * Et(d) Ma(dh)rí(ixhg/hiHG'h)am(g) col(fe)lau(er)dé(de)mus,(e.) (:) pi(efgFE)am(de) nos(e)tram(e) Dó(edf)mi(fe)nam,(e.) al(g)le(gf)lú(e.)ja.(e.) (::)};;4
 
 [Hymnus Matutinum]
 Supérni Sponsa Príncipis,
@@ -119,7 +122,7 @@ V. Placa mare, maris stella, ne invólvat nos procélla nec tempéstas obvia.
 R. Désuper irrádia, allelúja.
 
 [Lectio4]
-@CommuneB/C11:Lectio2
+@CommuneM/C11:Lectio2
 
 [Lectio5]
 Maximiliánus, dux Baváriæ et princeps eléctor primus, cum anno millésimo sexcentésimo vigésimo e prœ́lio ad Montem Album commísso, milítibus sanctam Maríam invocántibus, victor cum suis Monáchium rediísset, statim in ecclésiam Cathedrálem secéssit. Ubi, jánuis clausis, segregátus ab ómnibus, coram státua illa celebérrima Mariána, quam paulo post inde in forum principále supra altam colúmnam transférri jussit, multas de victória reportáta grátias egit atque ad singuláre Matris cæléstis præsídium univérso regno suo implorándum eníxe eam rogávit, ut Patróna Baváriæ et esse et appellári dignarétur. Cujus pii voti áliud signum est áltera illa státua ejúsdem Patróna Baváriæ, qua idem dux frontem principálem residéntiæ régiæ insigníri vóluit.
@@ -189,11 +192,11 @@ Quod si (ut vere sunt) plena magis ómnia pietátis et grátiæ, plena mansuetú
 @Tempora/Epi2-0
 
 [Ant Laudes]
-Laudet rosam caritátis, * víolam humilitátis, lílium integritátis júbilans Ecclésia, allelúja.
-Laudent templum Trinitátis, * laudent matrem pietátis, laudent stellam claritátis regna et impéria, allelúja.
-Laudet rubum visiónis, * laudet vellus Gedeónis mánnaque refectiónis vígilans família, allelúja.
-Altum thronum Salomónis, * fulgens vas devotiónis, claram vallem visiónis benedicant ómnia, allelúja.
-Laudent Matrem veri Dei * cuncta, quæ subsístunt ei, cælum, terra, lux déi et supérna cúria, allelúja.
+Laudet rosam caritátis, * víolam humilitátis, lílium integritátis júbilans Ecclésia, allelúja.;;;;1g
+Laudent templum Trinitátis, * laudent matrem pietátis, laudent stellam claritátis regna et impéria, allelúja.;;;;2-monasticus
+Laudet rubum visiónis, * laudet vellus Gedeónis mánnaque refectiónis vígilans família, allelúja.;;;;3-antiquo-a
+Altum thronum Salomónis, * fulgens vas devotiónis, claram vallem visiónis benedicant ómnia, allelúja.;;;;4E
+Laudent Matrem veri Dei * cuncta, quæ subsístunt ei, cælum, terra, lux déi et supérna cúria, allelúja.;;;;5
 
 [Capitulum Laudes]
 @CommuneM/C10:Capitulum Vespera
@@ -229,7 +232,7 @@ Amen.
 @:Versum 1
 
 [Ant 2]
-Judítha nostræ * pulchra Bethúliæ, tu spes senátus, tu pópuli salus, regísque natorúmque et urbis glória lætitiǽque causa, allelúja.
+Judítha nostræ * pulchra Bethúliæ, tu spes senátus, tu pópuli salus, regísque natorúmque et urbis glória lætitiǽque causa, allelúja.;;solemn1a2
 
 [Responsory Tertia]
 V. Spécie tua et pulchritdudine tua, allelúja.
@@ -248,7 +251,7 @@ R. In tabernáculo suo habitáre facit eam, allelúja.
 R/.(::) Con(h)sér(h)va(h) Bá(h)va(h)ris,(h) Vir(h)go(h) Pa(h)tró(h)na,(h) tu(hi)is,(h_) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 3]
-Occúrre votis * et Bávaros reges adfla benígni Núminis hálitu, tu, robur afflictǽque scutum et dulce decus Patriǽque Mater, María, allelúja.;;solemn7a
+{annotation:5.;%%(cb3) Oc(ffe)cúr(df/hhi)re(h) vo(ij)tis(kj) *() et(jr) Bá(ih)va(hr)ros(h'_) (;) re(h)ges(fef) ad(g)fla(fe) be(d)ní(d_[oh:h]e_[oh:h]d_[oh:h])gni(d.) (;) Nú(f)mi(h'i)nis(h) há(ij)li(j)tu,(ih) tu,(h'_) (,) ro(h)bur(ji) af(klk)fli(ih)ctǽ(ijiio)que(h.) (:) scu(i/g_[uh:l]h/ihf'ged)tum(d.) (;) et(d) dul(dr)ce(ef) de(gf)cus(e') Pa(ehhi)tr<i>i</i>()ǽ(h)que(h'_) (,) Ma(ikj)ter,(lk) Ma(ih)rí(ijiio)a,(h.) (;) al(k)le(kvJIH.ivH'FgvED.efef)lú(d_[oh:h]e_[oh:h]d_[oh:h])ja.(d.) (::)};;solemn5
 
 [Octava 1]
 !Commemoratio die infra Octavam B.M.V. Patronæ Bavariæ
