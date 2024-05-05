@@ -22,7 +22,7 @@ Fulgébunt justi * sicut sol in conspéctu Dei, allelúja.;;116
 
 [Capitulum Vespera]
 !Sap 5:1
-v. Stabunt justi in magna constántia advérsus eos qui se angustiavérunt et qui abstulérunt labóres eórum.
+{(c3) Sta(h)bunt(h) jus(h)ti(h) in(h) ma(h)gna(h) con(h)stán(h)ti(h)a(h) ad(h)vér(h)sus(h) e(h)os,(h) qui(h) se(h) an(h)gus(h)ti(h)a(h)vé(h)runt,(h) et(h) qui(h) abs(h)tu(h)lé(h)runt(h) la(h)bó(h)res(h) e(h)ó(f)rum.(ef..) (::)}
 $Deo gratias
 
 [HymnusM Vespera]
