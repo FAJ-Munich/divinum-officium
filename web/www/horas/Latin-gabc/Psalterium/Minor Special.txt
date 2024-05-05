@@ -425,14 +425,14 @@ Amen.
 @:Hymnus Pasc7 Tertia:s/díceris Paráclitus/Paráclitus díceris/ s/Altíssimi donum Dei/Donum Dei altíssimi/ s/Dígitus patérnæ déxteræ/Dextræ Dei tu dígitus/ s/Teque/Te/ s/Deo Patri sit glória/Glória Patri Domino/ s/Et Fílio/Natóque/
 
 [Hymnus Completorium]
-{gabc:Psalterium/hy--te_lucis_ante_terminum_in_fer_et_fest_simpl--solesmes}
+{gabc:Psalterium/Feria/hy--te_lucis_ante_terminum_in_fer_et_fest_simpl--solesmes}
 (sed tempore Passionis)
 {gabc:Psalterium/Passionis/hy--te_lucis_ante_terminum_passiontide--solesmes_1961.1}
 
 [HymnusM Completorium]
-{gabc:Psalterium/hy--te_lucis_ante_terminum_in_feriis_per_annum--solesmes_1934}
+{gabc:Psalterium/Feria/hy--te_lucis_ante_terminum_in_feriis_per_annum--solesmes_1934}
 (sed tonus dominicalis aut tonus festivus minor aut tonus 8vam)
-{gabc:Psalterium/}
+{gabc:Psalterium/Dominica/}
 (sed tempore adventu)
 {gabc:Psalterium/Adventu/}
 (sed tempore quadragesima)
@@ -440,11 +440,11 @@ Amen.
 (sed tempore Passionis)
 {gabc:Psalterium/Passionis/hy--te_lucis_ante_terminum_in_tempore_passionis--solesmes_1934}
 (sed tonus festivus$)
-{gabc:Psalterium/}
+{gabc:Psalterium/Festis_minor/}
 (sed tonus festivus major)
-{gabc:Psalterium/}
+{gabc:Psalterium/Festis_major/}
 (sed tonus solemnis)
-{gabc:Psalterium/}
+{gabc:Psalterium/Solemnis}
 (sed tempore Nativitatis aut tempore Corpus)
 {gabc:Psalterium/Nativitate/}
 (sed tempore Pasc)
@@ -474,9 +474,9 @@ Regnans per omne sǽculum.
 Amen.
 
 [HymnusM Tertia] 
-{gabc:Psalterium/hy--nunc_sancte_nobis_in_feriis_per_annum--solesmes_1934}
+{gabc:Psalterium/Feria/hy--nunc_sancte_nobis_in_feriis_per_annum--solesmes_1934}
 (sed tonus dominicalis aut tonus festivus minor aut tonus 8vam)
-{gabc:Psalterium/hy--nunc_sancte_nobis_in_dominicis_per_annum--solesmes_1934}
+{gabc:Psalterium/Dominica/hy--nunc_sancte_nobis_in_dominicis_per_annum--solesmes_1934}
 (sed tempore adventu)
 {gabc:Psalterium/Adventu/hy--nunc_sancte_nobis_in_adventu--solesmes_1934}
 (sed tempore quadragesima)
@@ -484,11 +484,11 @@ Amen.
 (sed tempore Passionis)
 {gabc:Psalterium/Passionis/hy--nunc_sancte_nobis_in_tempore_passionis--solesmes_1934}
 (sed tonus festivus$)
-{gabc:Psalterium/hy--nunc_sancte_nobis_in_festis_minoribus--solesmes_1934}
+{gabc:Psalterium/Festis_minor/hy--nunc_sancte_nobis_in_festis_minoribus--solesmes_1934}
 (sed tonus festivus major)
-{gabc:Psalterium/hy--nunc_sancte_nobis_in_festis_majoribus--solesmes_1934}
+{gabc:Psalterium/Festis_major/hy--nunc_sancte_nobis_in_festis_majoribus--solesmes_1934}
 (sed tonus solemnis)
-{gabc:Psalterium/hy--nunc_sancte_nobis_in_solemnitatibus--solesmes_1934}
+{gabc:Psalterium/Solemnis/hy--nunc_sancte_nobis_in_solemnitatibus--solesmes_1934}
 (sed tempore Nativitatis aut tempore Corpus)
 {gabc:Psalterium/Nativitate/hy--nunc_sancte_nobis_in_nativitate_domini--solesmes_1934}
 (sed tempore Pasc)
@@ -519,7 +519,7 @@ Amen.
 [HymnusM Sexta]
 @:Hymnus Sexta:s/illúminas/ínstruis/
 (sed tonus dominicalis aut tonus festivus minor aut tonus 8vam)
-{gabc:Psalterium/}
+{gabc:Psalterium/Dominica/}
 (sed tempore adventu)
 {gabc:Psalterium/Adventu/}
 (sed tempore quadragesima)
@@ -527,11 +527,11 @@ Amen.
 (sed tempore Passionis)
 {gabc:Psalterium/Passionis/hy--rector_potens_in_tempore_passionis--solesmes_1934}
 (sed tonus festivus$)
-{gabc:Psalterium/}
+{gabc:Psalterium/Festis_minor/}
 (sed tonus festivus major)
-{gabc:Psalterium/}
+{gabc:Psalterium/Festis_major/}
 (sed tonus solemnis)
-{gabc:Psalterium/}
+{gabc:Psalterium/Solemnis/}
 (sed tempore Nativitatis aut tempore Corpus)
 {gabc:Psalterium/Nativitate/}
 (sed tempore Pasc)
@@ -563,7 +563,7 @@ Amen.
 [HymnusM Nona]
 @:Hymnus Nona:s/lumen/clarum/
 (sed tonus dominicalis aut tonus festivus minor aut tonus 8vam)
-{gabc:Psalterium/}
+{gabc:Psalterium/Dominica}
 (sed tempore adventu)
 {gabc:Psalterium/Adventu/}
 (sed tempore quadragesima)
@@ -571,11 +571,11 @@ Amen.
 (sed tempore Passionis)
 {gabc:Psalterium/Passionis/hy--rerum_deus_in_tempore_passionis--solesmes_1934}
 (sed tonus festivus$)
-{gabc:Psalterium/}
+{gabc:Psalterium/Festis_minor/}
 (sed tonus festivus major)
-{gabc:Psalterium/}
+{gabc:Psalterium/Festis_major/}
 (sed tonus solemnis)
-{gabc:Psalterium/}
+{gabc:Psalterium/Solemnis/}
 (sed tempore Nativitatis aut tempore Corpus)
 {gabc:Psalterium/Nativitate/}
 (sed tempore Pasc)
@@ -615,19 +615,19 @@ Nunc et per omne sǽculum.
 Amen.
 
 [HymnusM Prima]
-@:Hymnus Prima:s/Nunc et per omne sǽculum/Et nunc et in perpétuum/
+{gabc:Psalterium/Feria/hy--jam_lucis_orto_sidere_feriis_et_officiis_simplicibus_per_annum--solesmes_1934}
 (sed tonus dominicalis aut tonus festivus minor aut tonus 8vam)
-{gabc:Psalterium/}
+{gabc:Psalterium/Dominica/hy--jam_lucis_orto_sidere_dominicis_per_annum--solesmes_1934}
 (sed tempore adventu)
-{gabc:Psalterium/Adventu/}
+{gabc:Psalterium/Adventu/hy--jam_lucis_orto_sidere_tempore_adventus--solesmes_1934}
 (sed tempore quadragesima)
-{gabc:Psalterium/Quadragesima/}
+{gabc:Psalterium/Quadragesima/hy--jam_lucis_orto_sidere_in_quadragesima--solesmes_1934}
 (sed tempore Passionis)
 {gabc:Psalterium/Passionis/hy--jam_lucis_orto_sidere_in_tempore_passionis--solesmes_1934}
 (sed tonus festivus$)
-{gabc:Psalterium/}
+{gabc:Psalterium/Festis_minor/hy--jam_lucis_orto_sidere_festis_minoribus_per_annum--solesmes_1934}
 (sed tonus festivus major)
-{gabc:Psalterium/}
+{gabc:Psalterium/Festis_major/hy--jam_lucis_orto_sidere_festis_majoribus--solesmes_1934}
 (sed tonus solemnis)
 {gabc:Psalterium/hy--jam_lucis_orto_sidere_solemnitatibus--solesmes_1934}
 (sed tempore Nativitatis aut tempore Corpus)
