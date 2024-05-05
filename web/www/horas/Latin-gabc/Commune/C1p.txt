@@ -27,6 +27,8 @@ $Deo gratias
 
 [HymnusM Vespera]
 {gabc:Commune/C1/hy--tristes_erant_apostoli--solesmes_1934}
+(sed tempore Ascensionis)
+{gabc:Commune/C1/hy--tristes_erant_apostoli-Ascensionis-solesmes_1934}
 
 [Hymnus Vespera]
 {:H-Tristeserantapostoli:}v. Tristes erant Apóstoli
