@@ -528,7 +528,7 @@ sub setcell {
 				$text =~ s/(\(\:\:\)\}?) <br>\n/$1 \n/gi; # remove wrong HTML linebreaks
 				$text =~ s/\) \* /\) \*() /g;		# star to be followed by ()
 				$text =~ s/(\([\,\;\:]+\))\s*?(\^?\d+\.\^?|(<sp>)?[VR]\/(<\/sp>)?\.)\s/ $2$1 /gs;
-				$text =~ s/†\((.+?)\)/($1) † /g;
+				$text =~ s/†\((.*?)\)/($1) † /g;
 			  $text =~ s/\) \^?†\^?\(?\)?/\) ^†^() /g;
 				$text =~ s/(<sp>)?V\/(<\/sp>)?\.?(\(\))?/V\/\.() /g;
 				$text =~ s/(<sp>)?R\/(<\/sp>)?\.?(\(\))?/R\/\.() /g;
