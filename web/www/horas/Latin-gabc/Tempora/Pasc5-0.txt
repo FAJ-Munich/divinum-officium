@@ -124,4 +124,4 @@ $Deo gratias
 [Ant 3]
 Pétite, et accipiétis, * ut gáudium vestrum sit plenum: ipse enim Pater amat vos, quia vos me amástis, et credidístis, allelúja.
 (sed rubrica monastica)
-{name:Petite et accipietis quaerite;annotation:8. g2;mode:8;book:Antiphonale Monasticum, 1934, p. 501;transcriber:Dominique CROCHU;commentary:Io. 16, 24; Mt. 7, 7;%%(c4)PE(f)ti(fg)te,(g'_) *(,) et(g) ac(h')ci(g)pi(f)é(g_h)tis :(h.) (;) quǽ(j_)ri(ji)te,(h_g) (,) et(h) in(gf~)ve(h)ni(ih)é(g.)tis :(g.) ( ;) pul(g)sá(f_e)te,(d.) (,) et(e) a(f)pe(g')ri(f)é(gh)tur(h') vo(g)bis,(gv_FD'_) al(f)le(fg)lú(g.)ja.(g.)(::)};;8G
+{name:Petite et accipietis ut gaudium;annotation:8. G2;mode:8;book:Antiphonale Monasticum, 1934, p. 501;transcriber:Dominique CROCHU;commentary:Io. 16, 27.29;%%(c4) PE(f)ti(fg)te,(g'_) *(,) et(h) ac(g')ci(j)pi(i)é(hig___)tis,(g.) (;) ut(f_h) gáu(j)di(jk)um(k) ve(k')strum(j) sit(k_l) ple(j_i)num :(h.) (:) i(j)pse(i') e(j)nim(h) Pa(ji)ter(hg) á(hi)mat(h) vos,(g.) (;) qui(g)a(g) vos(h') me(g) a(g)má(f_e)stis,(f'_) (,) et(d) cre(e')di(f)dí(g')stis,(f) al(gh)le(h)lú(g.)ja.(g.) (::)};;8G
