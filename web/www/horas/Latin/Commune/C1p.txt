@@ -208,12 +208,12 @@ In sempitérna sǽcula.
 Amen.
 
 [HymnusM Laudes]
-{:H-Paschalemundogaudium:}v. Claro pascháli gáudio
+{:H-Paschalemundogaudium:}v. Claro Pascháli gáudio
 Sol mundo nitet rádio,
 Cum Christum jam Apóstoli
 Visu cernunt corpóreo.
 _
-Osténsa sibi vúlnera
+Osténsa sibi vúlnera,
 In Christi carne fúlgida,
 Resurexísse Dóminum,
 Voce faténtur pública.
@@ -231,7 +231,8 @@ _
 Glória tibi Dómine,
 Qui surrexíst[i] a mórtuis,
 Cum Patr[e] et Sancto Spíritu,
-In sempitérna sǽcula. Amen.
+In sempitérna sǽcula.
+Amen.
 
 [Versum 2]
 V. Pretiósa in conspéctu Dómini, allelúja.
