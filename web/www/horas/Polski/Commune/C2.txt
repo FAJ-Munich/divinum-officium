@@ -46,10 +46,6 @@ Wespół ze Świętym Pocieszycielem
 Na wieki wieków. 
 Amen.
 
-[Versum 1]
-V. Chwałą i czcią ukoronowałeś go, Panie.
-R. I postanowiłeś go nad dziełami rąk Twoich.
-
 [Ant 1]
 Święty ten * o prawo Boga swojego walczył aż do śmierci: i nie bał się słowa bezbożnych, bo utwierdził się na silnej opoce.
 
@@ -70,7 +66,7 @@ R. Koronę z kamienia drogiego.
 Sprawiedliwy Pan, * i sprawiedliwość miłuje: prawość widziało oblicze jego.;;10
 Mieszka * w przybytku twoim: odpocznie na górze twojéj świętéj.;;14
 Włożyłeś, Panie, * na głowę jego, koronę z kamienia drogiego.;;20
-V. Wielka jest chwała jego w zbawieniu twojem.
+V. Wielka jest chwała jego w zbawieniu twojem. 
 R. Sławę i wielką ozdobę nań włożysz.
 
 [Lectio1]
@@ -137,12 +133,6 @@ R. I włożył mu na głowę wspaniałą koronę.
 &Gloria
 R. I włożył mu na głowę wspaniałą koronę.
 
-[Ant Laudes]
-@:Ant Vespera
-
-[Capitulum Laudes]
-@:Capitulum Vespera
-
 [Hymnus Laudes]
 {:H-Invictemartyrunicum:}v. Niepokonany Męczenniku, 
 naśladujący jedynego Syna Ojca, 
@@ -195,51 +185,34 @@ v. Obróci serce swe, aby wstawał rano do Pana, który go stworzył, a przed oc
 [Capitulum Tertia]
 @:Capitulum Vespera
 
-[Responsory Tertia]
+[Responsory Breve3]
 R.br. Chwałą i czcią * Ukoronowałeś go, Panie, 
 R. Chwałą i czcią * Ukoronowałeś go, Panie, 
 V. I postanowiłeś go nad dziełami rąk Twoich.
 R. Ukoronowałeś go, Panie.
 &Gloria
 R. Chwałą i czcią * Ukoronowałeś go, Panie, 
-_
-V. Włożyłeś, Panie, na głowę jego.
-R. Koronę z kamienia drogiego.
 
 [Capitulum Sexta]
 !Syr 15:3
 v. Nakarmi go chlebem żywota i rozumienia, a wodą mądrości zbawiennej napoi go Pan, Bóg nasz.
 $Deo gratias
 
-[Responsory Sexta]
+[Responsory Breve6]
 R.br. Włożyłeś Panie, * Na głowę jego.
 R. Włożyłeś Panie, * Na głowę jego.
 V. Koronę z kamienia drogiego.
 R. Na głowę jego.
 &Gloria
 R. Włożyłeś Panie, * Na głowę jego.
-_
-V. Wielka jest chwała jego w zbawieniu twojem. 
-R. Sławę i wielką ozdobę nań włożysz.
 
-[Capitulum Nona]
-!Syr 39:6
-v. Obróci serce swe, aby wstawał rano do Pana, który go stworzył, a przed oczyma Nawyższego modlić się będzie.
-$Deo gratias
-
-[Responsory Nona]
+[Responsory Breve9]
 R.br. Wielka jest chwała jego * W zbawieniu twojem.
 R. Wielka jest chwała jego * W zbawieniu twojem.
 V. Sławę i wielką ozdobę nań włożysz.
 R. W zbawieniu twojem.
 &Gloria
 R. Wielka jest chwała jego * W zbawieniu twojem.
-_
-V. Sprawiedliwy zakwitnie jako palma.
-R. Rozkrzewi się jako cedr na Libanie.
-
-[Versum 3]
-@:Versum 2
 
 [Ant 3]
 Kto chce za mną iść, * niech sam siebie zaprze, i weźmie krzyż swój i pójdzie za Mną.

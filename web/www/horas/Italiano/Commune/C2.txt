@@ -8,11 +8,11 @@ Psalm5 Vespera=116
 Psalm5 Vespera3=115
 
 [Ant Vespera]
-Chi mi avrà confessato * davanti agli uomini, anch'io Io confesserò davanti al Padre mio.;;109
-Chi segue me, *  non camminerà nelle tenebre, ma avrà la luce della vita, dice il Signore.;;110
-Chi mi serve, * mi segua: e dove sono io, ci sarà pure il mio servo.;;111
-Se uno mi servirà, * sarà onorato dal Padre mio che è nei cieli, dice il Signore.;;112
-Io voglio, * o Padre, che dove sono io, ci sia anche il mio servo.;;116
+Chi mi avrà confessato * davanti agli uomini, anch'io Io confesserò davanti al Padre mio.
+Chi segue me, *  non camminerà nelle tenebre, ma avrà la luce della vita, dice il Signore.
+Chi mi serve, * mi segua: e dove sono io, ci sarà pure il mio servo.
+Se uno mi servirà, * sarà onorato dal Padre mio che è nei cieli, dice il Signore.
+Io voglio, * o Padre, che dove sono io, ci sia anche il mio servo.
 
 [Capitulum Vespera]
 !Gia 1:12
@@ -46,18 +46,11 @@ insieme con lo Spirito Santo,
 per tutti i secoli. 
 Amen.
 
-[Versum 1]
-V. Lo hai incoronato, o Signore, di gloria e di onore.
-R. E lo hai preposto alle opere delle tue mani.
-
 [Ant 1]
 Questo Santo * per la legge del suo Dio combatté sino alla morte senza timore delle minacce degli empi: era invero fondato su solida pietra.
 
 [Invit]
 Il Signore, re dei martiri, * venite, adoriamo.
-
-[Hymnus Matutinum]
-@Commune/C2:Hymnus Vespera
 
 [Ant Matutinum]
 Nella legge del Signore * fu il suo diletto, giorno e notte.;;1
@@ -197,18 +190,6 @@ R. Hai posto sul suo capo una corona di pietre preziose.
 Ma ci si deve chiedere come mai ci venga comandato di odiare i genitori e gli altri congiunti, mentre poi ci è prescritto di amare anche i nemici. E certo la Verità a proposito della moglie dice: "Quel che Dio ha unito, l'uomo non divida". E Paolo dice: "Uomini, amate le vostre mogli come anche Cristo ama la Chiesa".  Ecco, il discepolo predica che bisogna amare la moglie, mentre il Maestro dice: "Chi non odia la moglie, non può essere mio discepolo". Forse che il giudice prescrive una cosa e il banditore ne annuncia un'altra? Oppure possiamo odiare e amare nel medesimo tempo? Però se valutiamo la forza del precetto, siamo in grado di fare l'una cosa e l'altra  operando un giusto discernimento: amare cioè la moglie e quelli che ci sono uniti per parentela e che riconosciamo come prossimo: e ignorarli, quasi odiandoli e fuggendoli, qualora ci fossero di impaccio nel percorrere la via voluta da Dio.  
 &teDeum
 
-[Ant Laudes]
-Chi mi avrà confessato * davanti agli uomini, anch'io Io confesserò davanti al Padre mio.
-Chi segue me, *  non camminerà nelle tenebre, ma avrà la luce della vita, dice il Signore.
-Chi mi serve, * mi segua: e dove sono io, ci sarà pure il mio servo.
-Se uno mi servirà, * sarà onorato dal Padre mio che è nei cieli, dice il Signore.
-Io voglio, * o Padre, che dove sono io, ci sia anche il mio servo.
-
-[Capitulum Laudes]
-!Gia 1:12
-v. Beato l'uomo che sopporta la tentazione, poiché quando sarà stato provato, riceverà la corona della vita, che Dio ha promesso a coloro che lo amano.  
-$Deo gratias
-
 [Hymnus Laudes]
 v. Martire invitto, seguendo
 l'unigenito Figlio del Padre,
@@ -258,56 +239,33 @@ $Per Dominum
 !Sir 39:6
 v. Il giusto appena svegliato, fin dal mattino rivolge il suo cuore al Signore, che lo ha creato, e prega alla presenza dell'Altissimo.  
 
-[Capitulum Tertia]
-!Gia 1:12
-v. Beato l'uomo che sopporta la tentazione, poiché quando sarà stato provato, riceverà la corona della vita, che Dio ha promesso a coloro che lo amano.  
-$Deo gratias
-
-[Responsory Tertia]
+[Responsory Breve3]
 R.br. Di gloria e di onore, * lo hai incoronato, Signore.
 R. Di gloria e di onore, * lo hai incoronato, Signore.
 V. E lo hai preposto alle opere delle tue mani.
 R. Lo hai incoronato, Signore.
 &Gloria
 R. Di gloria e di onore, * lo hai incoronato, Signore.
-_
-V. Hai posto, o Signore, sul suo capo.
-R. Una corona di pietre preziose.
 
 [Capitulum Sexta]
 !Sir 15:3
 v. Lo nutrì col pane della vita e dell'intelligenza e gli offrì da bere l'acqua della sapienza e della salvezza, il Signore Dio nostro.  
 $Deo gratias
 
-[Responsory Sexta]
+[Responsory Breve6]
 R.br. Hai posto, o Signore, * sul suo capo.              
 R. Hai posto, o Signore, * sul suo capo.
 V. Una corona di pietre preziose.
 R. Sul suo capo.             
 &Gloria
 R. Hai posto, o Signore, * sul suo capo.
-_
-V. Grande è la sua gloria per la tua salvezza.
-R. Lo hai ricoperto di grande gloria e di splendore.
 
-[Capitulum Nona]
-!Sir 39:6
-v. Il giusto appena svegliato, fin dal mattino rivolge il suo cuore al Signore, che lo ha creato, e prega alla presenza dell'Altissimo.  
-$Deo gratias
-
-[Responsory Nona]
+[Responsory Breve9]
 R.br. Grande è la sua gloria, * per la tua salvezza.
 R. Grande è la sua gloria, * per la tua salvezza.
 V. Lo hai ricoperto di grande gloria e di splendore.
 &Gloria
 R. Grande è la sua gloria, * per la tua salvezza.
-_
-V. Il giusto fiorirà come palma.
-R. Crescerà come il cedro del Libano.
-
-[Versum 3]
-V. Il giusto fiorirà come palma.
-R. Crescerà come il cedro del Libano.
 
 [Ant 3]
 Chi vuol venire dietro a me, * rinneghi se stesso, prenda la sua croce e mi segua.  
