@@ -1,24 +1,3 @@
-[Ant Matutinum]
-I giusti staranno * con grande sicurezza davanti a coloro che li perseguitarono, alleluia.;;1
-;;2
-;;4
-;;5
-;;8
-;;10
-V. Santi e giusti, gioite nel Signore, alleluia.
-R. Iddio vi ha scelti per sua eredità, alleluia.
-I giusti risplenderanno * come il sole dinanzi a Dio, alleluia.;;14
-;;20
-;;23
-;;63
-;;64
-;;95
-V. La luce perpetua risplenderà per i tuoi santi, o Signore, alleluia.
-R. E l'eternità dei secoli, alleluia.
-La luce perpetua * risplenderà per i tuoi santi, o Signore, e l'eternità dei secoli, alleluia.;;256;257;258
-V. Essi saranno incoronati di eterna letizia, alleluia.
-R. Avranno gaudio e consolazione, alleluia.
-
 [LectioE]
 v. Dal vangelo secondo Giovanni
 !John 15:1-7
@@ -30,3 +9,23 @@ v. Dal vangelo secondo Giovanni
 15:6 Quelli che non sì terranno in me, gettati vìa a guisa dì tralci seccheranno, e li raccoglieranno, e li butteranno sul fuoco, e brucieranno.
 15:7 Se vi terrete in me, e rimarranno in voi le mie parole, qualunque cosa vorrete, la chiederete, e vi sarà concessa.
 $Te decet
+
+[Lectio 6 in 2 loco]
+@Commune/C2p:Lectio5 in 2 loco:s/La piaga .*//s
+
+[Lectio 7 in 2 loco]
+@Commune/C2p:Lectio5 in 2 loco:s/.* La piaga /La piaga /s s/$/~/
+@Commune/C2p:Lectio6 in 2 loco:s/"Preziosa è .*//s
+
+[Lectio 8 in 2 loco]
+@Commune/C2p:Lectio6 in 2 loco:s/.* "Preziosa è /"Preziosa è /s
+
+[Lectio 9 in 2 loco]
+@Commune/C2p:Lectio7 in 2 loco:s/Dunque .*//s
+
+[Lectio 10 in 2 loco]
+@Commune/C2p:Lectio7 in 2 loco:s/.* Dunque /Dunque /s s/$/~/
+@Commune/C2p:Lectio8 in 2 loco:s/I tralci .*//s
+
+[Lectio 11 in 2 loco]
+@Commune/C2p:Lectio8 in 2 loco:s/.* I tralci /I tralci /s
