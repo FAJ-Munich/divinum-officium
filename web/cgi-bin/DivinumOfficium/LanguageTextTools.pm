@@ -30,21 +30,31 @@ sub alleluia {
 
 ## public functions
 #
-#*** suppress_alleluia($text_ref)
+#*** suppress_alleluia($text_ref, $gabc)
 # Removes all alleluia
 sub suppress_alleluia {
-  my $text_ref = shift;
-
-  $$text_ref =~ s/[,.]?\s*$alleluia_regexp//ig;
+  my ($text_ref, $gabcf) = @_;
+	
+	if ($gabcf) {
+		$$text_ref =~ s/[(]*al\(.*\)le\(.*\)l[uú]\(.*\)\{?[ij]a\}?[\.\,]*\(.*\)[)]*/ /ig;
+	} else {
+		$$text_ref =~ s/[,.]?\s*$alleluia_regexp//ig;
+	}
 }
 
 #*** process_inline_alleluia($text_ref, $paschalf)
 # unbrackets bracketed alleluias when $paschalf is true
 # removes bracketed alleluias otherwise
 sub process_inline_alleluias {
-  my($text_ref, $paschalf) = @_;
-
-  if ($paschalf) {
+  my ($text_ref, $lang, $paschalf) = @_;
+	
+	if($lang =~ /gabc/i) {
+		if ($paschalf) {
+			$$text_ref =~ s/†.*?\s?(\<i\>|\^|\|)*?T\.\s?P\.(\<\/i\>|\^|\|)*?.s?†/†/isg;
+		} else {
+			$$text_ref =~ s/\s*(\<\/i\>|\^|\|)+T\.\s?P\.(\<\/i\>|\^|\|)+.*?\(\:\:\)//isg;
+		}
+	} elsif ($paschalf) {
     $$text_ref =~ s/\(($alleluia_regexp.*?)\)/ $1 /isg;
   } else {
     $$text_ref =~ s/\($alleluia_regexp.*?\)//isg;
@@ -56,7 +66,8 @@ sub process_inline_alleluias {
 # appropriate translation for $lang).
 sub ensure_single_alleluia {
   my ($text_ref, $lang) = @_;
-
+	if ($lang =~ /gabc/i) { return; } # TODO: check T.P. (for Antiphones and Versicles)
+	
   # Add a single 'alleluia', unless it's already there.
   $$text_ref =~ s/\p{P}?\s*$/ ", " . lc(alleluia($lang)) . '.'/e unless $$text_ref =~ /$alleluia_regexp\p{P}?\)?\s*$/
 }
@@ -68,7 +79,8 @@ sub ensure_single_alleluia {
 # the Paschal form.
 sub ensure_double_alleluia {
   my ($text_ref, $lang) = @_;
-
+	if ($lang =~ /gabc/i) { return; } # TODO: check T.P. (for Resp. breve)
+	
   my $alleluia = prayer('Alleluia Duplex', $lang);
   $alleluia =~ s/\s+$//;
 
@@ -83,6 +95,7 @@ sub ensure_double_alleluia {
 # 'Alleluja * alleluja, alleluja.'
 sub alleluia_ant {
   my($lang) = @_;
+	if ($lang =~ /gabc/i) { return prayer('Alleluia Ant', $lang); }
   my $u = alleluia($lang);
   my $l = lc $u;
 
