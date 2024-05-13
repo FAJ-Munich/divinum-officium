@@ -13,7 +13,7 @@ Bienheureux les pacifiques, * bienheureux ceux qui ont le cœur pur, parce qu’
 C’est par votre patience * que vous posséderez vos âmes.;;116
 
 [Capitulum Vespera]
-!Eph 2:19
+!Eph 2:19-20
 v. Mes frères, vous n’êtes plus des hôtes et des étrangers, mais des concitoyens des saints et de la maison de Dieu ; bâtis sur le fondement des Apôtres et des Prophètes, le Christ Jésus étant lui-même la pierre angulaire.
 $Deo gratias.
 
@@ -48,13 +48,6 @@ gloire à vous, Saint-Esprit,
 comme il fut toujours, comme maintenant
 et à jamais dans tous les siècles.
 Amen.
-
-[HymnusM Vespera]
-@:Hymnus Vespera
-
-[Versum 1]
-V. Leur bruit s’est répandu dans toute la terre.
-R. Et leurs paroles jusqu’aux confins du globe de la terre.
 
 [Ant 1]
 Ils vous feront comparaître * dans leurs assemblées et vous flagelleront dans leurs synagogues et vous serez conduits à cause de moi devant les gouverneurs et les rois, en témoignage pour eux et pour les nations.
@@ -200,21 +193,6 @@ R. L’Église est éclairée par leur doctrine comme la lune est éclairée par
 Certains esprits s’appuient sur cette promesse pour imaginer une période de mille ans après la résurrection, période pendant laquelle nous recevrions le centuple de ce que nous avons quitté et ensuite la vie éternelle ; ils ne réfléchissent pas que si cela paraît convenable pour la plupart des biens, il serait ridicule, sous le rapport des femmes, que celui qui aurait quitté son épouse pour le Seigneur, en reçoive cent dans la vie future. Voici dons le sens de cette promesse : celui qui, pour l’amour du Sauveur aura quitté les biens charnels recevra des biens spirituels, lesquels, par leur valeur propre et comparés aux premiers, leur sont aussi supérieurs que le nombre cent l’est à un petit nombre.
 &teDeum
 
-[Ant Laudes]
-Voici mon commandement, * c’est que vous vous aimiez les uns les autres comme je vous ai aimés.
-Personne n’a un plus grand amour * que celui qui donne sa vie pour ses amis.
-Vous êtes mes amis, * si vous faites ce que je vous commande.
-Bienheureux les pacifiques, * bienheureux ceux qui ont le cœur pur, parce qu’ils verront Dieu.
-C’est par votre patience * que vous posséderez vos âmes.
-
-[Capitulum Laudes]
-!Eph. 2:19-20
-v. Mes frères, vous n’êtes plus des hôtes et des étrangers, mais des concitoyens des saints et de la maison de Dieu ; bâtis sur le fondement des Apôtres et des Prophètes, le Christ Jésus étant lui-même la pierre angulaire.
-$Deo gratias.
-
-[Hymnus Laudes]
-@Commune/C1:Hymnus Vespera
-
 [Versum 2]
 V. Ils ont annoncé les œuvres de Dieu.
 R. Et ils ont compris les choses qu’il a faites.
@@ -230,50 +208,34 @@ $Per Dominum
 !Act 5:41
 v. Les Apôtres sortirent du sanhédrin, joyeux d'avoir été jugés dignes de souffrir des opprobres pour le nom de Jésus.
 
-[Capitulum Tertia]
-@:Capitulum Laudes
-
-[Responsory Tertia]
+[Responsory Breve3]
 R.br. Leur bruit s’est répandu * dans toute la terre.
 R. Leur bruit s’est répandu * dans toute la terre.
 V. Et leurs paroles jusqu’aux confins du globe de la terre.
 R. dans toute la terre.
 &Gloria
 R. Leur bruit s’est répandu * dans toute la terre.
-_
-V. Vous les établirez princes sur toute la terre.
-R. Ils se souviendront de votre nom Seigneur, dans toute la suite des générations.
 
 [Capitulum Sexta]
 !Act 5:12
 v. Or les Apôtres faisaient beaucoup de miracles et de prodiges parmi le peuple.
 $Deo gratias
 
-[Responsory Sexta]
+[Responsory Breve6]
 R.br. Vous les établirez princes * sur toute la terre.
 R. Vous les établirez princes * sur toute la terre.
 V. Ils se souviendront de votre nom Seigneur, dans toute la suite des générations.
 R. Sur toute la terre.
 &Gloria
 R. Vous les établirez princes * sur toute la terre.
-_
-V. Vos amis ont été grandement honorés, ô Dieu.
-R. Leur autorité de princes a été établie avec une grande puissance.
 
-[Capitulum Nona]
-@:Lectio Prima
-$Deo gratias
-
-[Responsory Nona]
+[Responsory Breve9]
 R.br. Vos amis ont été grandement honorés, * ô Dieu.
 R. Vos amis ont été grandement honorés, * ô Dieu.
 V. Leur autorité de princes a été établie avec une grande puissance.
 R. Ô Dieu.
 &Gloria
 R. Vos amis ont été grandement honorés, * ô Dieu.
-_
-V. Ils ont annoncé les œuvres de Dieu.
-R. Et ils ont compris les choses qu’il a faites.
 
 [Ant Vespera 3]
 Le Seigneur a juré * il ne s’en repentira point : vous êtes prêtre pour l’éternité.;;109
@@ -281,9 +243,6 @@ Il sera placé * par le Seigneur, avec les princes de son peuple.;;112
 Vous avez rompu, Seigneur, * mes liens : c’est à vous que je sacrifierai une hostie de louanges.;;115
 Allant, ils allaient * et pleuraient, jetant leurs semences.;;125
 Elle a été établie avec puissance * leur autorité de prince et vos amis ont été honorés, ô Dieu.;;138
-
-[Versum 3]
-@:Versum 2
 
 [Ant 3]
 Soyez courageux * dans la guerre ; combattez contre l’ancien serpent, et vous recevrez le royaume éternel. Allelúia.

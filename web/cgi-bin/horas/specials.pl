@@ -1317,6 +1317,7 @@ sub oratio {
 			if ($version =~ /Monastic/ && $version !~ /bavariae/i) {
         if ($hora =~ /Laudes|Vespera/) { push(@s, prayer('MLitany', $lang)); }
         else { push(@s, prayer('MLitany2', $lang)); }
+#				$precesferiales = 0;
       }
       if ($priest) {
         push(@s, "&Dominus_vobiscum");

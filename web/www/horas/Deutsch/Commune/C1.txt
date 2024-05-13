@@ -13,7 +13,7 @@ Selig sind die Segenswirker, * selig, die ein reines Herz haben, denn sie werden
 Wenn ihr geduldig ausharret, * werdet ihr eure Seelen voll und ganz gewinnen.;;116
 
 [Capitulum Vespera]
-!Eph 2,19
+!Eph 2,19-20
 v. Brüder, ihr seid nicht mehr Gäste und Fremdlinge, sondern ihr seid Mitbürger von Heiligen und Glieder der Familie Gottes, aufgebaut auf dem Fundament, das die Apostel bilden, wobei Jesus Christus der Grundstein ist.
 $Deo gratias.
 
@@ -48,13 +48,6 @@ Die Erd und Himmel ewig preist,
 Sei, wie sie war, so allezeit
 Die höchste Ehr und Herrlichkeit.
 Amen.
-
-[HymnusM Vespera]
-@:Hymnus Vespera
-
-[Versum 1]
-V. In alle Lande ist gedrungen ihre Kunde.
-R. Bis zu der Erde Grenzen ihre Meldung.
 
 [Ant 1]
 Man wird euch * (den Henkern) überliefern in den Zusammenkünften, und man wird euch bei Versammlungen mit Peitschen schlagen, und man wird euch zu Königen und Statthaltern schleppen, um meinetwillen, damit ihr mich von ihnen und vor den Heiden bezeuget.
@@ -212,18 +205,6 @@ R. Auf Grund ihrer Lehre glänzt die Kirche wie auf Grund der Sonne der Mond.
 Durch diese Worte "hundertfach" wollen manche meinen, dass es nach der Auferstehung tausend Jahre geben wird, in denen die, die alles verlassen haben, das Hundertfache von dem erhalten werden, was sie verlassen haben, und das ewige Leben erben werden. Solche Menschen bedenken nicht, dass dies zwar in anderen Dingen würdig wäre, aber in Bezug auf die Frauen unschicklich ist; denn es ziemt sich nicht zu denken, dass derjenige, der in dieser Welt eine Frau verlassen hat, in der kommenden hundert Frauen erhalten wird. Es heißt aber, daß jeder, der um des Heilandes willen das Irdische verlassen hat, das Geistliche empfangen wird, das, wenn es richtig gegen das Irdische abgewogen wird, so ist, als ob hundertfach gegen eines abgewogen würde.
 &teDeum
 
-[Ant Laudes]
-Dies ist mein Gebot, * daß ihr einander liebet, wie ich euch liebe.
-Eine größere Liebe * hat niemand als die, daß man sein Leben für seine Freunde hingibt.
-Ihr seid meine Freunde, * wenn ihr das tut, was ich euch gebiete.
-Selig sind die Segenswirker, * selig, die ein reines Herz haben, denn sie werden sich an Gott laben.
-Wenn ihr geduldig ausharret, * werdet ihr eure Seelen voll und ganz gewinnen.
-
-[Capitulum Laudes]
-!Eph 2,19-20
-v. Brüder, ihr seid nicht mehr Gäste und Fremdlinge, sondern ihr seid Mitbürger von Heiligen und Glieder der Familie Gottes, aufgebaut auf dem Fundament, das die Apostel bilden, wobei Jesus Christus der Grundstein ist.
-$Deo gratias.
-
 [Versum 2]
 V. Sie kündeten, was Gott getan hat.
 R. Und achteten auf seine Werke.
@@ -239,53 +220,39 @@ $Per Dominum
 !Apg 5,41
 Es gingen die Apostel freudig hinweg von der Gerichtssitzung, da sie würdig befunden worden waren, für den Namen Jesu Schmach zu erleiden.
 
-[Capitulum Tertia]
-!Eph 2,19-20
-v. Brüder, ihr seid nicht mehr Gäste und Fremdlinge, sondern ihr seid Mitbürger von Heiligen und Glieder der Familie Gottes, aufgebaut auf dem Fundament, das die Apostel bilden, wobei Jesus Christus der Grundstein ist.
-$Deo gratias.
-
-[Responsory Tertia]
+[Responsory Breve3]
 R.br. In alle Lande * Ist gedrungen ihre Kunde.
 R. In alle Lande * Ist gedrungen ihre Kunde.
 V. Und bis an der Erde Grenzen ihre Meldung.
 R. Ist gedrungen ihre Kunde.
 &Gloria
 R. In alle Lande * Ist gedrungen ihre Kunde.
-_
-V. Du verteilst sie als Fürsten in sämtliche Länder.
-R. Sie werden, o Herr, das Andenken an dich erhalten.
 
 [Capitulum Sexta]
 !Apg 5,12
 v. Durch die Apostel aber geschahen viele Wunder und erstaunliche Dinge unter dem Volke.
 $Deo gratias
 
-[Responsory Sexta]
+[Responsory Breve6]
 R.br. Du verteilst sie als Fürsten * In sämtliche Länder.
 R. Du verteilst sie als Fürsten * In sämtliche Länder.
 V. Sie werden, o Herr, das Andenken an dich erhalten.
 R. In sämtlichen Ländern.
 &Gloria
 R. Du verteilst sie als Fürsten * In sämtliche Länder.
-_
-V. Überaus geehrt, o Gott, sind deine Freunde.
-R. Und überaus gewaltig erscheint ihre Würde.
 
 [Capitulum Nona]
 !Apg 5,41
 v. Es gingen die Apostel freudig hinweg von der Gerichtssitzung, da sie würdig befunden worden waren, für den Namen Jesu Schmach zu erleiden.
 $Deo gratias
 
-[Responsory Nona]
+[Responsory Breve9]
 R.br. Überaus geehrt sind, * o Gott, deine Freunde.
 R. Überaus geehrt sind, * o Gott, deine Freunde.
 V. Und überaus gewaltig erscheint ihre Würde.
 R. O Gott, deine Freunde.
 &Gloria
 R. Überaus geehrt sind, * o Gott, deine Freunde.
-_
-V. Sie kündeten, was Gott getan hat.
-R. Und achteten auf seine Werke.
 
 [Ant Vespera 3]
 Es hat der Herr geschworen * und nie nimmt er zurück den Schwur: Du sollst ein Priester sein auf ewig.;;109
@@ -293,10 +260,6 @@ Es setzt ihn * der Herr unter die Fürsten seines Volkes.;;112
 Du hast, o Herr, gesprengt * meine Ketten; dir bringe ich ein Dankesopfer.;;115
 Sie geh'n umher * und weinen und streuen ihren Samen.;;125
 Groß ist geworden * ihre Würde und hochgeehrt, o Gott, sind deine Freunde.;;138
-
-[Versum 3]
-V. Sie kündeten, was Gott getan hat.
-R. Und achteten auf seine Werke.
 
 [Ant 3]
 Seid tapfer * im Kampfe und streitet mit dem alten Schleicher; und dann werdet ihr ein ewiges Königtum erhalten, alleluja.

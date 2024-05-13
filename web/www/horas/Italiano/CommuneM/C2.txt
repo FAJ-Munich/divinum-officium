@@ -1,23 +1,9 @@
-[Ant Matutinum]
-Nella legge del Signore * fu il suo diletto, giorno e notte.;;1
-Per annunziare * i precetti del Signore egli fu costituito sul suo santo monte.;;2
-Figli degli uomini, * osservate come il Signore ha glorificato il suo santo.;;4
-O Signore, * lo hai circondato di benevolenza, come di scudo.;;5
-Per tutta la terra * lo hai incoronato di gloria e di onore.;;8
-Il Signore è giusto * ed ama la giustizia: le persone rette contempleranno il suo volto.;;10
-V. Lo hai incoronato, o Signore, di gloria e di onore.
-R. E lo hai preposto alle opere delle tue mani.
-Abiterà * nella tua dimora: riposerà sul tuo santo monte.;;14
-Hai posto, o Signore, * sul suo capo, una corona di pietre preziose.;;20
+[AntMatutinumM]
 Questi riceverà * benedizione dal Signore, e misericordia da Dio, suo Salvatore: tale è la generazione di quei che cercano il Signore;;23
 Il giusto si rallegrerà * nel Signore, e spererà in lui; e tutti i retti di cuore saranno lodati.;;63
 Beatus * quem elegisti Domine, habitabit in atriis tuis;;64
 Il giusto fiorirà * come la palma: crescerà come il cedro del Libano.;;91
-V. Hai posto, o Signore, sul suo capo.
-R. Una corona di pietre preziose.
 Chi vuol venire dietro a me, rinneghi se stesso, e tolga la sua croce, e mi segua.;;256;257;258
-V. Grande è la sua gloria per la tua salvezza.
-R. Lo hai ricoperto di grande gloria e di splendore.
 
 [Responsory9]
 R.br.  Beato l'uomo che sopporta la tentazione, poiché quando sarà stato provato, riceverà la corona della vita, 

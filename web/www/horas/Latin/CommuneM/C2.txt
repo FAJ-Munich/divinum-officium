@@ -3,7 +3,7 @@
 [Capitulum Vespera]
 @Commune/C2
 _
-@Commune/C2:Responsory Sexta:1-6
+@Commune/C2:Responsory Breve6
 
 [AntMatutinumM]
 Hic accípiet * benedictiónem a Dómino, et misericórdiam a Deo salutári suo; qui hæc est generátio quæréntium Dóminum;;23
@@ -112,22 +112,25 @@ R. Quam repromísit Deus diligéntibus se.
 &Gloria
 R. Quam repromísit Deus diligéntibus se.
 
+[MM Capitulum]
+@:Capitulum Sexta
+_
+V. Lætabitur justus in Dómino, et soerábit in eo.
+R. Et laudabúntur omnes recti corde.
+
 [Capitulum Laudes]
 @Commune/C2
 _
-@Commune/C2:Responsory Tertia:1-6
-
-[Capitulum Tertia]
-@Commune/C2
+@Commune/C2:Responsory Breve3
 
 [Responsory Tertia]
-@Commune/C2:Versum 1
+@Commune/C2:Ant Matutinum:4-5
 
 [Responsory Sexta]
-@Commune/C2:Responsory Tertia:8-9
+@Commune/C2:Ant Matutinum:9-10
 
 [Responsory Nona]
-@Commune/C2:Responsory Sexta:8-9
+@Commune/C2:Ant Matutinum:14-15
 
 [Ant Vespera 3]
 @Commune/C2::s/112/115/ s/111/112/ s/110/111/
