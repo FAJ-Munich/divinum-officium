@@ -1221,7 +1221,7 @@ sub getordinarium {
 
   # don't loose time for non existent files
   $suffix = '' if $command =~ /^Completorium$/;
-  $lang = 'Latin' if $command !~ /^(?:Matutinum|Prima)$/; 
+  $lang = 'Latin' if $command !~ /^(?:Matutinum|Prima)$/ && $lang !~ /gabc/i; 
 
   my $fname = checkfile($lang, "Ordinarium/$command$suffix.txt");
 
