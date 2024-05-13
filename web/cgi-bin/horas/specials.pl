@@ -16,8 +16,6 @@ sub specials {
   my $lang = shift;
   $octavam = '';    #check duplicate commemorations
   my %w = (columnsel($lang)) ? %winner : %winner2;
-  my $hymntrans = $translate{$lang}{Hymnus};
-  $hymntrans =~ s/\s+//g;    # this should be done in setupstring @mbab 2016-1-14
 
   if ($column == 1) {
     my $r = $w{Rule};
@@ -37,6 +35,7 @@ sub specials {
 
   while ($tind < @t) {
     $item = $t[$tind];
+    $item =~ s/\s*$//;
     $tind++;
 
     if ($item !~ /^\s*\#/) {
@@ -45,7 +44,6 @@ sub specials {
     }
     if ($skipflag) { push(@s, "\n"); }
     $label = $item;
-    $item =~ s/\n//g;
     $skipflag = 0;
     $ite = $item;
     $ite =~ s/#//;
@@ -94,9 +92,7 @@ sub specials {
       setcomment($label, 'Preces', $comment, $lang) if ($rule !~ /Omit.*? $ite[0] mute/i);
 
       if ($item =~ /incipit/i && $version !~ /1955|196/) {
-        my $p1 = translate_label('$Pater noster', $lang);
-        my $p2 = translate_label('$Ave Maria', $lang);
-        push(@s, (setfont($smallfont, 'secreto'), $p1, $p2));
+        push(@s, setfont($smallfont, 'secreto'), '$Pater noster', '$Ave Maria');
         if ($hora =~ /(matutinum|prima)/i) { push(@s, '$Credo'); }
       }
       next;
@@ -125,11 +121,14 @@ sub specials {
       $skipflag = !preces($item);			# check if Preces Feriales or Dominicales are to be said
       setcomment($label, 'Preces', $skipflag, $lang);
       setbuild1($item, $skipflag ? 'omit' : 'include');
-			if(!$skipflag && $precesferiales && $item =~ /Dominicales/i) {
-				push(@s, '/:flexis genibus:/');	# as a reminder //TODO: needs to be "translated"
+      next if $skipflag;
+			if($precesferiales && $item =~ /Dominicales/i) {
+				push(@s, prayer("Preces flexis genibus", $lang));
 			}
-			if (!$skipflag && $hora =~ /Laudes|Tertia|Sexta|Nona|Vespera/ && $version !~ /Bavariae/) { # the text for Bavariae is still in the Ordo files
-        push(@s, $prayers{$lang}{"Preces feriales $hora"});
+      if ($hora =~ /Laudes|Tertia|Sexta|Nona|Vespera/ && $version !~ /Bavariae/) { # the text for Bavariae is still in the Ordo files
+        push(@s, prayer("Preces feriales $hora", $lang));
+      } elsif ($hora eq 'Completorium') {
+        push(@s, prayer("Preces Dominicales", $lang));
       }
       next;
     }
@@ -179,7 +178,7 @@ sub specials {
         setbuild1('Capitulum', 'Psalterium Dominica');
       }
       setcomment($label, 'Source', $comment, $lang);
-      foreach $l (@capit) { push(@s, $l); }
+			push(@s, @capit);
       my $primaresponsory = ($version !~ /monastic/i || $version =~ /bavariae/i) ? get_prima_responsory($lang) : '';
       my %wpr = (columnsel($lang)) ? %winner : %winner2;
       if (exists($wpr{'Versum Prima'}) && ($version !~ /monastic/i)) { $primaresponsory = $wpr{'Versum Prima'}; }
@@ -199,53 +198,67 @@ sub specials {
     }
 
 		# Capitulum @ Completorium
-    if ($item =~ /Capitulum/i && $hora =~ /Completorium/i) {
-      $tind--;
-			if ($lang =~ /gabc/i) {  push(@s, $t[$tind++]); next; } # GABC: don't look for start of response
-      while ($tind < @t && $t[$tind] !~ /^\s*(?:V|R.br)\./) { push(@s, $t[$tind++]); }
-      my @resp = ();
-      while ($tind < @t && $t[$tind] !~ /^\s*\#/) { push(@resp, $t[$tind++]); }
-      postprocess_short_resp(@resp, $lang);
-      push(@s, @resp);
-      next;
+#    if ($item =~ /Capitulum/i && $hora =~ /Completorium/i) {
+#      $tind--;
+#			if ($lang =~ /gabc/i) {  push(@s, $t[$tind++]); next; } # GABC: don't look for start of response
+#      while ($tind < @t && $t[$tind] !~ /^\s*(?:V|R.br)\./) { push(@s, $t[$tind++]); }
+#      my @resp = ();
+#      while ($tind < @t && $t[$tind] !~ /^\s*\#/) { push(@resp, $t[$tind++]); }
+#      postprocess_short_resp(@resp, $lang);
+#      push(@s, @resp);
+#      next;
+#    }
+
+    if ($item =~ /Lectio brevis/i && $hora eq 'Completorium') {
+      my %lectio = %{setupstring($lang, 'Psalterium/Minor Special.txt')};
+      push(@s, $item, $lectio{'Lectio Completorium'});
+      next
     }
 
-    if ($item =~ /Capitulum/i && $hora =~ /(Tertia|Sexta|Nona)/i) {
-			# initially choose from Psalterium of the season
+    if ($item =~ /Capitulum/i && $hora =~ /^(?:Tertia|Sexta|Nona|Completorium)$/i) {
       my %capit = %{setupstring($lang, 'Psalterium/Minor Special.txt')};
       my $name = minor_getname();
       $name .= 'M' if ($version =~ /monastic/i);
+      $name = 'Completorium' if $hora eq 'Completorium';
       my $capit = $capit{$name};
       my $resp = '';
 
-      if ($capit !~ /\_\nR\.br. (.*)/is) {
+      if ($version !~ /^Monastic/) {
         $resp = $capit{"Responsory $name"};
         $capit =~ s/\s*$//;
         $capit .= "\n_\n$resp";
-      } else {
-        $resp = "R.br. $1";
       }
       my @capit = split("\n", $capit);
-      $comment = ($name =~ /(Dominica|Feria)/i) ? 5 : 1;
-      setbuild('Psalterium/Minor Special', $name, 'Capitulum ord');
 
-      #look for special from prorium the tempore of sancti
-      my ($w, $c) = getproprium("Capitulum $hora", $lang, $seasonalflag, 1);
+      if ($name eq "Completorium" && $version !~ /^Ordo Praedicatorum/) {
+        push(@capit, '_', split("\n", $capit{'Versum 4'}));
+      } else {
+        $comment = ($name =~ /(Dominica|Feria)/i) ? 5 : 1;
+        setbuild('Psalterium/Minor Special', $name, 'Capitulum ord');
 
-      if ($w !~ /\_\nR\.br/i) {
-        ($wr, $cr) = getproprium("Responsory $hora", $lang, $seasonalflag, 1);
-        $w =~ s/\s*$//;
-        if ($wr) { $w .= "\n_\n$wr"; }
+        #look for special from prorium the tempore of sancti
+        my ($w, $c) = getproprium("Capitulum $hora", $lang, $seasonalflag, 1);
+
+        if ($w !~ /\_\nR\.br/i) {
+          ($wr, $cr) = getproprium("Responsory $hora", $lang, $seasonalflag, 1);
+          $w =~ s/\s*$//;
+          if ($wr) { $w .= "\n_\n$wr"; }
+        }
+
+        if ($w && $w !~ /\_\nR\.br/i && !($version =~ /monastic/i && $w =~ /\_\n(V\. |\{.*V\/\. )/)) {
+          $w =~ s/\s*//;
+          $w .= "\n_\n$resp";
+        }
+        if ($w) { @capit = split("\n", $w); $comment = $c; }
       }
-
-			if ($w && $w !~ /\_\nR\.br/i && !($version =~ /monastic/i && $w =~ /\_\n(V\. |\{.*V\/\. )/)) {
-        $w =~ s/\s*//;
-        $w .= "\n_\n$resp";
-      }
-      if ($w) { @capit = split("\n", $w); $comment = $c; }
+				
       postprocess_short_resp(@capit, $lang);
-      setcomment($label, 'Source', $comment, $lang);
-      foreach $l (@capit) { push(@s, $l); }
+      if ($hora eq 'Completorium') {
+        push(@s, translate($item, $lang))
+      } else {
+        setcomment($label, 'Source', $comment, $lang);
+      }
+      push(@s, @capit);
       next;
     }
 
@@ -329,13 +342,13 @@ sub specials {
         if ($b) { @brevis = split("\n", $b); }
       }
       setcomment($label, 'Source', $comment, $lang);
-      foreach $l (@brevis) { push(@s, $l); }
+      push(@s, @brevis);
       next;
     }
 
     if ($item =~ /hymnus/i) {
       my ($name, $hymn, $hymnsource, $versum) = '';
-      my $section = translate_label('Hymnus', $lang);
+      my $section = translate('Hymnus', $lang);
 
       if ($hora =~ /matutinum/i) {
         ($hymn, $name) = hymnusmatutinum($lang);
@@ -352,6 +365,10 @@ sub specials {
       } else {
         $name = "Hymnus $hora";
         $name =~ s/ / Pasc7 / if ($hora =~ /Tertia/ && $dayname[0] =~ /Pasc7/);
+        if ($hora eq 'Completorium' && $version =~ /^Ordo Praedicatorum/) {
+          $versum = %{setupstring($lang, 'Psalterium/Minor Special.txt')}{'Versum 4'};
+          postprocess_vr($versum, $lang);
+        }
         $hymnsource = 'Minor';
         $section = "#". $section;
       }
@@ -367,7 +384,9 @@ sub specials {
       $hymn =~ s/\*\s*//g;
       $hymn =~ s/_\n(?!!)/_\nr. /g;
       push(@s, "$section\n$hymn");
-      push(@s, "\n_\n$versum") if $versum;
+      if ($versum) {
+        push(@s, "_\n$versum");
+      }
       next;
     }
 
@@ -378,26 +397,7 @@ sub specials {
     }
 
     if ($item =~ /Nunc Dimittis/i) {
-      my $w = $w{"Ant 4$vespera"};
-      my $c;
-      if (!$w && $communetype =~ /ex/) { ($w, $c) = getproprium("Ant 4$vespera", $lang, 1); }
-      if ($w) { setbuild1($ite, 'special'); }
-      $tind--;
-      my $non_first_ant = 0;
-
-      while ($t[$tind] !~ /^\s*$/) {
-        if ($t[$tind] =~ /^Ant/) {
-          if ($w) {
-            $t[$tind] = (split("\n", $w))[-1 * $non_first_ant];
-          } else {
-            postprocess_ant($t[$tind], $lang) if ($version =~ /1960/ || $non_first_ant);
-          }
-          $non_first_ant = 1;
-				} elsif ($lang =~ /gabc/i && $w && $non_first_ant) {
-					$t[$tind] = (split("\n", $w))[1];	# get special Tone for Nunc dimittis in Easter octave
-				}
-        push(@s, $t[$tind++]);
-      }
+      Nunc_dimittis($lang);
       next;
     }
 
@@ -478,8 +478,7 @@ sub specials {
     }
 
     # Insert the title.
-    $label = translate_label($label, $lang);
-    push(@s, $label);
+    push(@s, translate($label, $lang));
 
     # The remaining special cases come *after* the title has been inserted.
     if (
@@ -511,17 +510,16 @@ sub specials {
 
     # Set special conclusion when Office of the Dead follows.
     if ($item =~ /Conclusio/i && $commune !~ /C9/i && $votive !~ /C9/i) {
-      our %prayers;
       my $dirge = dirge($version, $hora, $day, $month, $year);
 
       if (($dirge || ($winner{Rule} =~ /Vesperae Defunctorum/ && $vespera == 3)) 
           && $hora =~ /Vespera/i) {
-        push(@s, $prayers{$lang}->{DefunctV});
+        push(@s, prayer('DefunctV', $lang));
         setbuild1($item, 'Recite Vespera defunctorum');
         $skipflag = 1;
       } elsif (($dirge || $winner{Rule} =~ /Matutinum et Laudes Defunctorum/) 
                && $hora =~ /Laudes/i) {
-        push(@s, $prayers{$lang}->{DefunctM});
+        push(@s, prayer('DefunctM', $lang));
         setbuild1($item, 'Recite Officium defunctorum');
         $skipflag = 1;
       }
@@ -543,7 +541,7 @@ sub setcomment {
   my $prefix = shift;
 
   if ($comment =~ /Source/i && $votive && $votive !~ /hodie/i) { $ind = 7; }
-  $label = translate_label($label, $lang);
+  $label = translate($label, $lang);
   my %comm = %{setupstring($lang, 'Psalterium/Comment.txt')};
   my @comm = split("\n", $comm{$comment});
   $comment = $comm[$ind];
@@ -555,17 +553,6 @@ sub setcomment {
     $label .= "{$comment}";
   }
   push(@s, $label);
-}
-
-#*** translate_label($label, $lang)
-# finds the equivalent of the latin label in translate file
-sub translate_label {
-  my $item = shift;
-  my $lang = shift;
-  $item =~ s/\s*$//;
-  if (exists($translate{$lang}{$item})) { $item = $translate{$lang}{$item}; }
-  $item =~ s/\n//g;
-  return $item;
 }
 
 #*** preces($item)
@@ -721,7 +708,7 @@ sub psalmi_minor {
   setbuild("Psalterium/Psalmi minor", "$hora Day$dayofweek", 'Psalmi ord');
   $comment = 0;
 
-  if ($hora =~ /completorium/i && $version !~ /trident/i) {
+  if ($hora =~ /completorium/i && $version !~ /trident|monastic/i) {
     if ($winner =~ /tempora/i && $dayofweek > 0 && $winner{Rank} =~ /Dominica/i && $rank < 6) {
       ;
     }
@@ -820,8 +807,15 @@ sub psalmi_minor {
       $prefix = translate("Psalmi Dominica, antiphonae", $lang) . ' ';
       setbuild2('Psalmi dominica');
     }
+  } else {
+    $ant = '' if $version =~ /Monastic/ && $version !~ /Bavariae/i;
   }
 
+  if ($hora eq 'Completorium' && $version =~ /^(?:Trident|Monastic)/) {
+    push(@s, '#' . translate('Psalmi', $lang))
+  } else {
+    setcomment($label, 'Source', $comment, $lang, $prefix);
+  }
 
   if ($w{Rule} =~ /Minores sine Antiphona/i) {
     $ant = '';
@@ -837,13 +831,14 @@ sub psalmi_minor {
 	}
 	
   if ($ant =~ /(.*?)\;\;/s) { $ant = $1; }
-  if ($dayname[0] =~ /Quad/i) { $ant =~ s/[(]*allel[uú][ij]a[\.\,]*[)]*//ig; }
   if ($ant) { $ant = "Ant. $ant"; }
-  my @ant = split('\*', $ant);
+
+	postprocess_ant($ant, $lang);
+	my @ant = split('\*', $ant);
 	if ($lang =~ /gabc/i && $ant =~ /\{.*\}/) { $ant[0] =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/; } # undouble GABC-Antiphone
-  postprocess_ant($ant, $lang);
+
   $ant1 = ($version !~ /196/) ? $ant[0] : $ant;    #difference between 1955 and 1960
-  setcomment($label, 'Source', $comment, $lang, $prefix);
+
   $psalms =~ s/\s//g;
   @psalm = split(',', $psalms);
 
@@ -864,7 +859,7 @@ sub psalmi_minor {
       setbuild2("First psalms #99 and  #92");
     }
   }
-  push(@s, $ant1);
+  push(@s, $ant1) if $ant1;
 
   foreach $p (@psalm) {
     if ($p =~ /[\[\]]/ && ($laudes != 2 || $version =~ /1960/)) { next; }
@@ -1126,12 +1121,12 @@ sub psalmi_major {
     && !($version =~ /monastic/i && $hora =~ /laudes/i && $winner{Rank} =~ /Dominica/i)
   )
   {
-    $psalmi[0] =~ s/.*(?=;;)/ Alleluia_ant($lang) /e;
+    $psalmi[0] =~ s/.*(?=;;)/ alleluia_ant($lang) /e;
     $psalmi[1] =~ s/.*(?=;;)//;
     $psalmi[2] =~ s/.*(?=;;)//;
     $psalmi[-1] =~ s/.*(?=;;)//;
     if ($version =~ /monastic/i && $hora =~ /laudes/i) {
-      $psalmi[-1] =~ s/.*(?=;;)/ Alleluia_ant($lang) /e;
+      $psalmi[-1] =~ s/.*(?=;;)/ alleluia_ant($lang) /e;
     } else {
       $psalmi[3] =~ s/.*(?=;;)//;
     }
@@ -1319,18 +1314,16 @@ sub oratio {
   if ($rule !~ /Limit.*?Oratio/i) {
     # no dominus vobiscum after Te decet
     if ($version !~ /Monastic/ || $hora ne 'Matutinum' || $rule !~ /12 lectiones/ ) {
-      if ($version =~ /Monastic/ && $version !~ /bavariae/i) {
-        if ($hora =~ /Laudes|Vespera/) { push(@s, $prayers{$lang}->{'MLitany'}); }
-        else { push(@s, $prayers{$lang}->{'MLitany2'}); }
-				$precesferiales = 0;
+			if ($version =~ /Monastic/ && $version !~ /bavariae/i) {
+        if ($hora =~ /Laudes|Vespera/) { push(@s, prayer('MLitany', $lang)); }
+        else { push(@s, prayer('MLitany2', $lang)); }
       }
       if ($priest) {
         push(@s, "&Dominus_vobiscum");
       } elsif (!$precesferiales) {
         push(@s, "&Dominus_vobiscum");
       } else {
-        our %prayers;
-        my $text = $prayers{$lang}->{'Dominus'};
+        my $text = prayer('Dominus', $lang);
         my @text = split("\n", $text);
         push(@s, $text[4]);
         $precesferiales = 0;
@@ -1709,13 +1702,15 @@ sub getcommemoratio {
   if (!$v) { $v = getfrompsalterium('Versum', $ind, $lang); }
   if (!$v) { $v = 'versus missing'; }
   postprocess_vr($v, $lang);
+
 	if ($lang =~ /gabc/i) { # Change Versicle into the simple tone
 		$v =~ s/\([a-zA-Z0-9\_\.\~\>\<\'\/\!]+?\) (R\/\.)?\(::\)/\(f\.\) $1\(::\)/g;
 		$v =~ s/\((?:hi|hr|h\_0|fe|f\_0?h|h\_\')\)/\(h\)/g; # More changes for solemn Versicle
 		$v =~ s/\(\,\)//g;
 	}
-  our %prayers;
-	my $w = "!" . &translate("Commemoratio", $lang) . (($lang !~ /latin/i || $wday =~ /tempora/i) ? ':' : ''); # Adding : except for Latin Sancti which are in Genetiv
+  
+	# my $w = "!" . &translate("Commemoratio", $lang) . (($lang !~ /latin/i || $wday =~ /tempora/i) ? ':' : ''); # Adding : except for Latin Sancti which are in Genetiv
+  my $w = "!" . &translate("Commemoratio", $lang);
   $a =~ s/\s*\*\s*/ / unless ($version =~ /Monastic/i);
   $o =~ s/^(?:v. )?/v. /;
   $w .= " $rank[0]\nAnt. $a\n_\n$v\n_\n\$Oremus\n$o\n";
@@ -2335,30 +2330,31 @@ sub getrefs {
 
 sub get_prima_responsory {
   my $lang = shift;
-  my $key = '';
-  if ($dayname[0] =~ /(Adv|Nat)/i) { $key = $1; }
-  if ($dayname[0] =~ /Pasc/i && $dayname[0] !~ /Pasc5-[4-6]/i && $dayname[0] !~ /Pasc6/i) { $key = 'Pasch'; }
-  if ($dayname[0] =~ /Pasc5-[4-6]|Pasc6/i) {$key = 'Asc';}
+  my $key;
+
+  if ($dayname[0] =~ /^(Adv|Nat)/i) {
+    $key = $1;
+  } elsif ($dayname[0] =~ /^Pasc/i) {
+    $key = $dayname[0] eq 'Pasc7' ? 'Pent' :
+            ($dayname[0] eq 'Pasc5' && $dayofweek > 4)
+              || $dayname[0] eq 'Pasc6' ? 'Asc' : 'Pasch';
+  }
 
   if ( $rule =~ /Doxology=(Nat|Epi|Pasch|Asc|Corp|Heart)/i
-    || $scriptura{Rule} =~ /Doxology=(Nat|Epi|Pasch|Asc)/i
-    || ($version !~ /(1960|Newcal)/ && $scriptura{Rule} =~ /Doxology=(Nat|Epi|Pasch|Asc|Corp|Heart)/i)
-    || ($version !~ /(1960|Newcal)/ && $commemoratio{Rule} =~ /Doxology=(Nat|Epi|Pasch|Asc|Corp|Heart)/i))
+    || $commemoratio{Rule} =~ /Doxology=(Nat|Epi|Pasch|Asc|Corp|Heart)/i)
   {
     $key = $1;
-  } elsif ($version !~ /1960/ && $month == 8 && $day > 15 && $day < 23) {
+  } elsif ($version !~ /196/ && $month == 8 && $day > 15 && $day < 23) {
     $key = 'Nat';
   }
-  if ($dayname[0] =~ /Pasc7/i) { $key = 'Pent'; }
 
-  if ( ($version =~ /1960/ && $month == 12 && $day > 8 && $day < 16 && $version !~ /Newcal/ && $day !~ 12)
-    || ($version !~ /Trident/i && $winner{Rank} =~ /Adventus/))
-  {
+  if ($version =~ /196/ && $month == 12 && $day > 8 && $day < 16 && $version !~ /Newcal/ && $day !~ 12) {
     $key = 'Adv';
   }
-  if ($version =~ /1960/ && $month == 1 && $day > 5 && $day < 14 && $commune !~ /C10/) { $key = 'Epi'; }
-  if ($version =~ /1960/ && $key =~ /Corp/) { $key = ''; }
-  if (!$key) { return ''; }
+
+  if ($version =~ /196/ && $key =~ /Corp|Heart/) { $key = ''; }
+  return '' unless $key;
+
   my %t = %{setupstring($lang, 'Psalterium/Prima Special.txt')};
   return $t{"Responsory $key"};
 }

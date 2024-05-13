@@ -11,7 +11,7 @@ use FindBin qw($Bin);
 use lib "$Bin/..";
 
 # Defines ScriptFunc and ScriptShortFunc attributes.
-use horas::Scripting;
+use DivinumOfficium::Scripting;
 my $a = 4;
 
 #*** makeferia()
@@ -63,7 +63,7 @@ sub psalmi_matutinum_monastic {
 			if ($psalmi[$i] =~ /;;(.*)/s) { $p = ";;$1"; }
 			if ($i == 0 || $i == 8) {
 				if ($dayname[0] !~ /Nat[23]\d|Pasc0/) {
-					$p = Alleluia_ant($lang) . $p;
+					$p = alleluia_ant($lang) . $p;
 				}
 				else {
 					$p = "$p[$i]$p";
@@ -76,35 +76,34 @@ sub psalmi_matutinum_monastic {
 	
 	#** change of versicle for Adv, Quad, Quad5, Pasc
 	if ( ($winner =~ /tempora/i && $dayname[0] =~ /(Adv|Quad|Pasc)([0-9])/i)
-		|| $dayname[0] =~ /(Nat)((?:0?[2-9])|(?:1[0-2]))$/
-		|| ($dayname[0] =~ /(Epi)1/ && $day > 6 && $day < 13)) {
-			my $name = $1;
-			my $i = $2;
-			if ($name =~ /Nat/ && $i > 6 && $i < 13) { $name = 'Epi'; }
-			if ($name =~ /Quad/i && $i > 4) { $name = 'Quad5'; }
-			$i = $dayofweek || 1;
-			$_ = $winner; s+.*/++; s/.txt//;
-			if ($_ gt 'Pasc5-4' && $_ lt 'Pasc7-0') { $name = 'Asc' }
-			if ($name =~ /Nat|Epi|Asc/ && $i > 3) { $i -= 3; }
-			if ($name ne 'Asc') {
-				($psalmi[6],$psalmi[7]) = split("\n", $psalmi{"$name $i Versum"});
-				if ($dayofweek == 0) {
-					($psalmi[14],$psalmi[15]) = split("\n", $psalmi{"$name 2 Versum"});
-					($psalmi[17],$psalmi[18]) = split("\n", $psalmi{"$name 3 Versum"});
-				}
+			|| $dayname[0] =~ /(Nat)((?:0?[2-9])|(?:1[0-2]))$/
+			|| ($dayname[0] =~ /(Epi)1/ && $day > 6 && $day < 13)) {
+		my $name = $1;
+		my $i = $2;
+		if ($name =~ /Nat/ && $i > 6 && $i < 13) { $name = 'Epi'; }
+		if ($name =~ /Quad/i && $i > 4) { $name = 'Quad5'; }
+		$i = $dayofweek || 1;
+		$_ = $winner; s+.*/++; s/.txt//;
+		if ($_ gt 'Pasc5-4' && $_ lt 'Pasc7-0') { $name = 'Asc' }
+		if ($name =~ /Nat|Epi|Asc/ && $i > 3) { $i -= 3; }
+		if ($name ne 'Asc') {
+			($psalmi[6],$psalmi[7]) = split("\n", $psalmi{"$name $i Versum"});
+			if ($dayofweek == 0) {
+				($psalmi[14],$psalmi[15]) = split("\n", $psalmi{"$name 2 Versum"});
+				($psalmi[17],$psalmi[18]) = split("\n", $psalmi{"$name 3 Versum"});
 			}
-			else {
-				my %c = (columnsel($lang)) ? %commune : %commune2;
-				my @v = split("\n", $c{"Ant Matutinum"});
-				my @f = (0,6,14,17);
-				($psalmi[6],$psalmi[7]) = ($v[$f[$i]],$v[$f[$i]+1]);
-				if ($dayofweek == 0) {
-					($psalmi[14],$psalmi[15]) = ($v[14],$v[15]);
-					($psalmi[17],$psalmi[18]) = ($v[17],$v[18]);
-				}
+		}	else {
+			my %c = (columnsel($lang)) ? %commune : %commune2;
+			my @v = split("\n", $c{"Ant Matutinum"});
+			my @f = (0,6,14,17);
+			($psalmi[6],$psalmi[7]) = ($v[$f[$i]],$v[$f[$i]+1]);
+			if ($dayofweek == 0) {
+				($psalmi[14],$psalmi[15]) = ($v[14],$v[15]);
+				($psalmi[17],$psalmi[18]) = ($v[17],$v[18]);
 			}
-			setbuild2("Subst Matutinum Versus $name $dayofweek");
 		}
+		setbuild2("Subst Matutinum Versus $name $dayofweek");
+	}
 
 	if ($month == 12 && $day == 24) {
 		if ($dayofweek) {
@@ -375,8 +374,8 @@ sub brevis_monastic {
 		my $name = getC10readingname();
 		my @resp = split(/\n/, $c{'Responsory3'});
 		if ($dayname[0] =~ /Pasc/i) {
-			ensure_single_alleluia($resp[1], $lang);
-			ensure_single_alleluia($resp[-1], $lang);
+			ensure_single_alleluia(\$resp[1], $lang);
+			ensure_single_alleluia(\$resp[-1], $lang);
 		}
 		$lectio = join("\n", $c{$name}, "\$Tu autem\n_", @resp);
 		setbuild2("Mariae $name");
@@ -385,7 +384,7 @@ sub brevis_monastic {
 		$lectio = $c{"MM LB"};
 	} else {
 		my %b = %{setupstring($lang, 'Psalterium/Matutinum Special.txt')};
-		$lectio	= $b{"MM LB" . (($dayname[0] =~ /Pasc/) ? " Pasc" : $dayofweek)};
+		$lectio = $b{"MM LB" . (($dayname[0] =~ /Pasc/) ? " Pasc" : $dayofweek)};
 	}
 	$lectio =~ s/&Gloria1?/&Gloria1/;
 	push(@s, $lectio);
