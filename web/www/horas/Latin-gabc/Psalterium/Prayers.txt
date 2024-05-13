@@ -80,24 +80,6 @@ R. Et cum spíritu tuo.
 R/. Et(h) cla(h)mor(h) me(h)us(h) ad(h) te(h) vé(h)ni(h)at.(f.) (::)}
 /:secunda 'Domine, exaudi' omittitur:/
 
-[Confiteor]
-v. Confíteor Deo omnipoténti, beátæ Maríæ semper Vírgini, beáto Michaéli Archángelo, beáto Joánni Baptístæ, sanctis Apóstolis Petro et Paulo, et ómnibus Sanctis,  quia peccávi nimis, cogitatióne, verbo et ópere: /:percutit sibi pectus:/ mea culpa, mea culpa, mea máxima culpa. Ídeo precor beátam Maríam semper Vírginem, beátum Michaélem Archángelum, beátum Joánnem Baptístam, sanctos Apóstolos Petrum et Paulum, et omnes Sanctos, oráre pro me ad Dóminum Deum nostrum.
-
-[ConfiteorM]
-@:Confiteor:s/Paulo/Paulo, beáto Patri nostro Benedícto/ s/Paulum/Paulum, beátum Patrem nostrum Benedíctum/
-
-[ConfiteorOP]
-v. Confiteor Deo omnipotenti, et beáte Maríae semper Vírgini, et beáto Domíníco Patri nostro, et omnibus Sanctis: quia peccavi nimis cogitatione, locutione, opere et omissione, me cupla: precor beátam Maríam semper Vírginem, et beátum Domínicum Patrem nostrum, et omnes Sanctos oráre pro me.
-
-[Misereatur]
-v. Misereátur nostri omnípotens Deus, et dimíssis peccátis nostris, perdúcat nos ad vitam ætérnam. Amen.
-
-[MisereaturOP]
-v. Misereatur mei omnipotens Deus, et dimittat mihi omnia peccata mea, liberet me ab omni malo, salvet, et confirmet in omni opere bono, et perducat me ad vitam aeternam. Amen.
-
-[Indulgentiam]
-v. Indulgéntiam, + absolutiónem et remissiónem peccatórum nostrórum tríbuat nobis omnípotens et miséricors Dóminus. Amen.
-
 [Domine labia]
 {(c3) DO(h)mi(h)ne,(h'_) lá(h)bi(h)a(h) ^+︎^ me(h)a(h) a(h)pé(g)ri(h)es.(h.) (::) <sp>R/</sp>. Et(h) os(h) me(h)um(h) an(h)nun(h)ti(h)á(h)bit(h) lau(h)dem(h) tu(g)am.(h.) (::)}
 
@@ -173,35 +155,9 @@ R. Amen.
 [Te Deum]
 {(c4)TE(e) De(gh)um(h) lau(hg)dá(hiwj)mus:(i.h.)* (;) te(h) Dó(h)mi(h)num(g) con(h')fi(i)té(h.)mur.(g.) (::) Te(j) æ(j)tér(j')num(i) Pa(hi)trem,(h.) om(h)nis(h) ter(h)ra(g) ve(h')ne(i)rá(h.)tur.(g.) (::) Ti(j)bi(j) om(j')nes(i) án(hi)ge(h)li,(h.) (;) ti(h)bi(h) cæ(h)li,(h) et(h) u(h)ni(h)vér(h)sæ(g) pot(h')es(i)tá(h.)tes  :(g.) (::) Ti(j)bi(j) ché(j)ru(j)bim(j') et(i) sé(hi)ra(h)phim(h.) (;) in(h)ces(h)sá(h)bi(h)li(h) vo(g)ce(h') pro(i)clá(h.)mant :(g.) (::) ^_Fit reverentia_^ () Sanc(g.h/iwj)tus,(i.h.) (::) Sanc(g.h/iwj)tus,(i.h.) (::) Sanc(he/gh)tus(h.) (,) Dó(h)mi(h)nus(g) De(h')us(i) Sá(h')ba(h)oth.(g.) (::) Ple(j)ni(j) sunt(j) cæ(j)li(j') et(i) ter(hi)ra(h.) (;) ma(h)ies(h)tá(h)tis(h) gló(g)ri(h')æ(i) tu(h.)æ :(g.) (::) Te(j) glo(j')ri(i)ó(hi)sus(h.) (,) A(h)pos(h)to(g)ló(h')rum(i) cho(h.)rus :(g.) (::) te(j) pro(j')phe(i)tá(hi)rum(h.) lau(h)dá(g)bi(h')lis(i) nú(h')me(h)rus :(g.) (::) te(j) már(j)ti(j)rum(j) can(j')di(i)dá(hi)tus(h.) (;) lau(g)dat(h') ex(i)ér(h')ci(h)tus.(g.) (::) Te(j) per(j) or(j)bem(j') ter(i)rá(hi)rum(h.) (;) sanc(h)ta(h) con(h)fi(h)té(g)tur(h') Ec(i)clé(h')si(h)a:(g.) (::) Pa(gh/iwj)trem(i.h.) (;) im(h)mén(h)sæ(g) ma(h')ies(i)tá(h.)tis :(g.) (::) ve(j)ne(j)rán(j)dum(j) tu(j')um(i) ve(hi)rum(h.) (;) et(h) ú(g)ni(h')cum(i) Fí(h')li(h)um :(g.) (::) Sanc(g)tum(h') quo(i)que(h.) (;) Pa(h)rá(g)cli(h')tum(i) Spí(h')ri(h)tum.(g.) (::) Tu(gh) rex(h) gló(g)ri(h')æ,(i) Chris(g.)te.(e.) (::) Tu(h) Pa(i)tris(h.) (,) sem(h)pi(h)tér(g)nus(h') es(i) Fí(g')li(g)us.(e.) (::) ^_Fit reverentia_^ () Tu,(gj) ad(j) li(j)be(j)rán(j)dum(j) su(j)scep(j)tú(i')rus(h) hó(ij)mi(i)nem,(h.) (;) non(h) hor(h)ru(h)ís(h)ti(h) Vír(g)gi(h')nis(i) u(g')te(g)rum.(e.) (::) Tu,(gj) de(j)víc(j)to(j) mor(j)tis(i') a(h)cú(ij)le(i)o,(h.) (;) a(h)pe(h)ru(h)ís(h)ti(h) cre(h)dén(i)ti(h)bus(h) re(g)gna(h') cæ(i)ló(g.)rum.(e.) (::) Tu(gj) ad(j) déx(j)te(j)ram(j) De(i')i(h) se(ij)des(i.h.) (;) in(h) gló(g)ri(h')a(i) Pa(g.)tris.(e.) (::) Iu(h)dex(h) cré(i)de(h)ris(h.) (;) es(g)se(h') ven(i)tú(g.)rus.(e.) (::) ^_Sequens versus dicitur flexis genibus_^ () Te(gj) er(j)go(j) quæ(j)su(j)mus,(j.) tu(j)is(j) fá(j)mu(i')lis(h) súb(ij)ve(i)ni,(h.) (;) quos(h) pre(h)ti(h)ó(h)so(h) sán(i)gui(h)ne(g) red(h')e(i)mis(g.)ti.(e.) (::) Æ(f)tér(fe)na(df) fac(evDC.) cum(c) Sanc(e)tis(f) tu(g)is(g) in(g) gló(g)ri(g)a(g) nu(h)me(f)rá(gvFE)ri.(e.) (::) Sal(c)vum(df) fac(f) pó(f)pu(f)lum(f) tu(f)um,(f) Dó(d)mi(f)ne,(evDC.) (;) et(c) bé(df)ne(f)dic(f) he(f)re(fe)di(d)tá(f)ti(gh) tu(gvFE)æ.(e.) (::) Et(f) re(fe)ge(d) e(f)os,(EvDC.) (;) et(c) ex(df)tól(fe)le(d) il(g)los(g.) (,) us(g)que(g) in(h) æ(f)tér(gvFE)num.(e.) (::) Per(h) sín(h)gu(h')los(g) di(ij)es(i.h.) (;) be(h)ne(g)dí(h')ci(i)mus(g.) te.(e.) (::) ^_Fit reverentia, secundum consuetudinem_^ () et(h) lau(h)dá(h)mus(h) no(h)men(h) tu(h)um(h') in(g) sæ(ij)cu(i)lum,(h) (;) et(h) in(h) sæ(g)cu(h')lum(i) sæ(g')cu(g)li.(e.) (::) Di(h)gná(h)re,(h) Dó(h)mi(h)ne,(h) di(h')e(g) is(ij)to(i.h.) (;) si(h)ne(h) pec(h)cá(h)to(h) nos(g) cus(h')to(i)di(g.)re.(e.) (::) Mi(h)se(h)ré(h)re(h) nos(h')tri,(g) Dó(ij)mi(i)ne,(h.) (;) mi(h)se(g)ré(h')re(i) nos(g.)tri.(e.) (::) Fi(h)at(h) mi(h)se(h)ri(h)cór(h)di(h)a(h) tu(h)a,(h.) Dó(h)mi(h')ne,(g) su(ij)per(i) nos,(h.) (;) quem(h)ád(h)mo(h)dum(h) spe(h)rá(g)vi(h')mus(i) in(g.) te.(e.) (::) In(c) te,(df) Dó(fe)mi(d)ne,(f) spe(gh)rá(gf/gf)vi : (e.d.) (;) non(c) con(df)fún(fe)dar(dc) in(f) æ(gh)tér(gfgvFE)num.(e.) (::)}
 
-[Ante]
-/:flexis genibus:/
-v. Aperi Dómine, os meum ad benedicéndum nomen sanctum tuum: munda quoque cor meum ab ómnibus vanis, pervérsis et aliénis cogitatiónibus; intelléctum illúmina, afféctum inflámma, ut digne, atténte ac devóte hoc Offícium recitáre váleam, et exaudíri mérear ante conspéctum divínæ Majestátis túæ. Per Christum Dóminum nostrum.
-R. Amen.
-v. Dómine, in unióne illíus divínæ intentiónis, qua ipse in terris laudes Deo persolvísti, has tibi Horas (vel hanc tibi Horam) persólvo.
-
-[Post]
-v. Sacrosánctæ et indivíduæ Trinitáti, crucifíxi Dómini nostri Jesu Christi humanitáti, beatíssimæ et gloriosíssimæ sempérque Vírginis Maríæ fœcúndæ integritáti, et ómnium Sanctórum universitáti sit sempitérna laus, honor, virtus et glória ab omni creatúra, nobísque remíssio ómnium peccatórum, per infiníta sǽcula sæculórum.
-R. Amen.
-_
-V. Beáta víscera Maríæ Vírginis, quæ portavérunt ætérni Pátris Fílium.
-R. Et beáta úbera, quæ lactavérunt Christum Dóminum.
-_
-r. Pater noster.
-r. Ave Maria.
-
 [Conclmart]
 {initial-style:0;%%(c3) V/. Et(h) á(h)li(h)bi(h) a(h)li(h)ó(h)rum(h) plu(h)ri(h)mó(h)rum(h) san(h)ctó(h)rum(h) Már(h)ty(h)rum(h) et(h) Con(h)fes(h)só(h)rum,(h) at(h)que(h) san(h)ctá(h)rum(h) Vír(h)gi(d)num.(d.) (::)
 R/. De(h)o(h) grá(h)ti(d)as.(d.) (::)} 
-
-[DefunctV]
-&Dominus_vobiscum
-&Benedicamus_Domino
-! Post Vesperas diei dicuntur %Vesperae Defunctorum%.
-
-[DefunctM]
-&Dominus_vobiscum
-&Benedicamus_Domino
-! Post Laudes diei dicuntur %Matutinum et Laudes Defunctorum%.
 
 [Oremus]
 v. Orémus.
@@ -304,9 +260,6 @@ R. Et líbera nos propter nomen tuum.
 V. Dómine, exáudi oratiónem meam.
 R. Et clamor meus ad te véniat.
 
-[Preces feriales Vespera]
-@:Preces feriales Laudes:s/129/50/
-
 [Preces feriales Tertia]
 $RLitany simplex0
 {initial-style:0;%%(c3) V/. Dó(h)mi(h)ne,(h) De(h)us(h) vir(h)tú(h)tum,(h) con(h)vér(h)te(f) nos.(h.) (::)
@@ -315,12 +268,6 @@ V/. Ex(h)súr(h)ge,(h) Chris(h)te,(h) ád(h)ju(g)va(f) nos.(h.) (::)
 R/. Et(h) lí(h)be(h)ra(h) nos(h) prop(h)ter(h) no(h)men(h) tu(h)um.(f.) (::Z)
 V/. Dó(h)mi(h)ne,(h) ex(h)áu(h)di(h) o(h)ra(h)ti(h)ó(h)nem(h) me(h)am.(f.) (::)
 R/. Et(h) cla(h)mor(h) me(h)us(h) ad(h) te(h) vé(h)ni(f)at.(f.) (::)}
-
-[Preces feriales Sexta]
-@:Preces feriales Tertia
-
-[Preces feriales Nona]
-@:Preces feriales Tertia
 
 [Preces Dominicales]
 $RLitany simplex
@@ -358,24 +305,8 @@ Per Christum Dominum nostrum.
 [Oratio Visita_]
 v. Vísita, quǽsumus, Dómine, habitatiónem istam, et omnes insídias inimíci ab ea lónge repélle: Ángeli tui sancti hábitent in ea, qui nos in pace custódiant; et benedíctio tua sit super nos semper.
 
-[Oratio_Visita]
-@:Oratio Visita_
-
 [Oratio_Visita] (rubrica Ordo Praedicatorum)
 @:Oratio Visita_:s/Ángeli tui sancti hábitent/et Ángeli tui sancti habitántes/ s/qui //
-
-[Oratio Visita]
-(rubrica Monastica dicitur)
-$MLitany2
-&Dominus_vobiscum1
-(sed rubrica 196 aut rubrica 1955 dicitur)
-&Dominus_vobiscum
-$Oremus
-@:Oratio_Visita
-$Per Dominum
-
-[Examen]
-/:Examen conscientiæ vel Pater Noster totum secreto.:/
 
 [Benedictio Completorium_]
 {initial-style:0;%%(c3) V/. Ju(h)be,(h) dom(h)ne,(g_) be(h)ne(h)dí(h)ce(d)re.(d.) (::)}
@@ -388,9 +319,3 @@ Benedictio. {(c3) Noc(h)tem(h) qui(h)é(h)tam(h) et(h) fi(h)nem(g) per(f)féc(h)
 
 [Benedictio Completorium] (rubrica Ordo Praedicatorum)
 @:Benedictio Completorium_:s/con.*?dat/trí(h)bu(h)at/
-
-[Benedictio Completorium2]
-Benedictio. Benedícat et custódiat nos omnípotens et miséricors Dóminus, + Pater, et Fílius, et Spíritus Sanctus.
-
-[Benedictio Completorium2] (rubrica Ordo Praedicatorum)
-Benedictio. Benedíctio Dei omnipoténtis + Patris, et Fílii, et Spíritus Sancti descéndat super nos et máneat semper.
