@@ -60,11 +60,11 @@ V. O Herr, erhöre mein Gebet.
 R. Und laß mein Rufen zu dir kommen.
 /:das zweite 'O Herr, erhöre mein Gebet' wird ausgelassen:/
 
-[Confiteor]
+[Confiteor_]
 v. Ich bekenne Gott, dem Allmächtigen, der seligen, allzeit reinen Jungfrau Maria, dem heiligen Erzengel Michael, dem heiligen Johannes dem Täufer, den heiligen Aposteln Petrus und Paulus und allen Heiligen, daß ich viel gesündigt habe in Gedanken, Worten und Werken: /:man schlägt sich an die Brust:/ durch meine Schuld, durch meine Schuld, durch meine große Schuld. Darum bitte ich die selige, allzeit reine Jungfrau Maria, den heiligen Erzengel Michael, den heiligen Johannes den Täufer, die heiligen Apostel Petrus und Paulus und alle Heiligen für mich zu beten bei Gott, unserem Herrn. 
 
-[ConfiteorM]
-@:Confiteor:s/Paulus und allen /Paulus, unserem heiligen Vater Benedikt und allen / s/Paulus und alle/Paulus, unseren heiligen Vater Benedikt und alle/
+[Confiteor] (rubrica Monastica)
+@:Confiteor_:s/Paulus und allen /Paulus, unserem heiligen Vater Benedikt und allen / s/Paulus und alle/Paulus, unseren heiligen Vater Benedikt und alle/
 
 [Misereatur]
 v. Der allmächtige Gott erbarme sich unser, er lasse uns die Sünden nach und führe uns zum ewigen Leben. Amen.
@@ -138,9 +138,7 @@ v. Dich, Gott, loben wir, * Dich, Herr, preisen wir.
 Dir, dem ewigen Vater, * huldigt das Erdenrund.
 Dir rufen die Engel alle, * Dir Himmel und Mächte insgesamt,
 die Cherubim dir und die Seraphim, * mit niemals endender Stimme zu:
-_
-/:(Mit Reverenz):/ Heilig, heilig, heilig * der Herr, der Gott der Scharen!
-_
+/:Mit Reverenz:/ Heilig, heilig, heilig * der Herr, der Gott der Scharen!
 Voll sind Himmel und Erde * von deiner hohen Herrlichkeit.
 Dich preist der glorreiche * Chor der Apostel;
 Dich der Propheten * lobwürdige Zahl;
@@ -151,25 +149,17 @@ Deinen wahren * und einzigen Sohn;
 und den Heiligen * Fürsprecher Geist.
 Du König der Herrlichkeit, * Christus.
 Du bist des Vaters * allewiger Sohn.
-_
-!Mit Reverenz
-Du hast der Jungfrau Schoß nicht verschmäht, * bist Mensch geworden, den Menschen zu befreien.
-_
+/:Mit Reverenz:/ Du hast der Jungfrau Schoß nicht verschmäht, * bist Mensch geworden, den Menschen zu befreien.
 Du hast bezwungen des Todes Stachel * und denen, die glauben, die Reiche der Himmel aufgetan.
 Du sitzest zur Rechten Gottes * in Deines Vaters Herrlichkeit.
 Als Richter, so glauben wir, * kehrst Du einst wieder.
-_
-!knieend beten wir
+/:knieend beten wir:/
 Dich bitten wir denn, komm Deinen Dienern zu Hilfe, * die Du erlöst mit kostbarem Blute.
-_
 In der ewigen Herrlichkeit * zähle uns deinen Heiligen zu.
 Rette Dein Volk, o Herr, * und segne Dein Erbe;
 und führe sie * und erhebe sie bis in Ewigkeit.
 An jedem Tag * benedeien wir Dich;
-_
-!Mit Reverenz, wie es Brauch ist 
-Und loben in Ewigkeit Deinen Namen, * ja, in der ewigen Ewigkeit.
-_
+/:Mit Reverenz, wie es Brauch ist :/ Und loben in Ewigkeit Deinen Namen, * ja, in der ewigen Ewigkeit.
 In Gnaden wollest Du, Herr, an diesem Tag * uns ohne Schuld bewahren.
 Erbarme Dich unser, o Herr, * erbarme Dich unser.
 Laß über uns Dein Erbarmen geschehn, * wie wir gehofft auf Dich.
@@ -295,3 +285,39 @@ R. Und mach uns frei um deinetwillen.
 V. O Herr, erhöre mein Gebet.
 R. Und laß mein Rufen zu dir kommen.
 
+[Preces Dominicales]
+$Kyrie
+$Pater secreto
+$Credo secreto
+V. Sei uns gepriesen, Herr, Gott unserer Väter.
+R. Und sei gelobt und gerühmt auf ewig.
+V. Wir wollen preisen den Vater und den Sohn mit dem Heiligen Geiste. 
+R. Und sie loben und über alles erheben auf ewig.
+V. Sei gepriesen, o Herr, auf dem Himmelsthrone. 
+R. Und gelobt und gerühmt und über alles erhoben auf ewig.
+V. Es möge uns segnen und beschützen der allmächtige und barmherzige Gott. 
+R. Amen.
+V. Würdige dich, o Herr, in dieser Nacht. 
+R. Uns ohne Sünde zu bewahren.
+V. Erbarme dich unser, o Herr. 
+R. Erbarme dich unser.
+V. Es geschehe, o Herr, an uns dein Erbarmen. 
+R. Wie wir auf dich vertrauen.
+V. O Herr, erhöre mein Gebet.
+R. Und laß mein Rufen zu dir kommen.
+
+[Per Christum]
+Im Hinblick auf Christus, unsern Herrn.
+
+[Oratio Visita_]
+v. Nimm, wir bitten dich, o Herr, Wohnung in diesem Gemach und alle Nachstellungen des Feindes scheuche weit von ihm weg; deine heiligen Engel mögen in ihm Wohnung nehmen, die uns im Frieden beschützen, und dein Segen walte stets über uns.
+
+[Examen]
+/:Gewißenserforschung oder Vater unser (ganz im Stillen):/
+
+[Benedictio Completorium_]
+V. Laß, o Herr, den Segen erteilen.
+Segen. Eine ungestörte Nacht und ein vollkommen gutes Ende verleihe uns der allmächtige und barmherzige Herr.
+
+[Benedictio Completorium2]
+Benedictio. Es segne uns und beschütze uns der allmächtige und barmherzige Herr, + der Vater und der Sohn und der Heilige Geist.
