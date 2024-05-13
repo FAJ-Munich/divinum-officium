@@ -73,6 +73,13 @@ $horasjs
 PrintTag
 }
 
+sub htmlEnd {
+  if ($error) { print "<P ALIGN=CENTER><FONT COLOR=red>$error</FONT></P>\n"; }
+  if ($debug) { print "<P ALIGN=center><FONT COLOR=blue>$debug</FONT></P>\n"; }
+	horasjsend();
+  print "</FORM></BODY></HTML>";
+}
+
 #*** htmlInput()
 # generates html inputs as input, select, checkbox
 # parmode = Label | Entry~>'width' | Text~>'rows'x'columns' |
@@ -255,6 +262,8 @@ sub clean_setupsave {
 sub setfont {
   my $istr = shift;
   my $text = shift;
+  return $text unless $istr;
+
   my $size = ($istr =~ /^\.*?([0-9\-\+]+)/i) ? $1 : 0;
   my $color = ($istr =~ /([a-z]+)\s*$/i) ? $1 : '';
   if ($istr =~ /(\#[0-9a-f]+)\s*$/i || $istr =~ /([a-z]+)\s*$/i) { $color = $1; }
@@ -471,6 +480,9 @@ sub setcell {
   my $lang = shift;
   my $width = ($only) ? 100 : 50;
 
+	return unless ($text && $text !~ /^[_\s]+$/);
+	$text = resolve_refs($text, $lang);
+
 	if (!$Ck) {
 		if (columnsel($lang)) {
 			$searchind++ if ($text !~ /{omittitur}/);
@@ -485,8 +497,8 @@ sub setcell {
 			}
 		}
 		print "<TD VALIGN=TOP WIDTH=$width%" . ($lang1 ne $lang || $text =~ /{omittitur}/ ? "" : " ID=$hora$searchind") . ">";
-		topnext_cell($lang);
-		
+		topnext_cell(\$text, $lang) unless $popup;
+
 		if ($lang =~ /gabc/i) {	# post process GABC chants
 			my $dId = 0;
 			
@@ -511,7 +523,7 @@ sub setcell {
 				$dId++;
 				$text =~ s/\{(\(|name:|annotation:|initial-style:|centering-scheme:)/<DIV ID="GABC$hora$searchind$dId" class="GABC">$1/s;
 				$text =~ s/\(\:\:\)\}/\(\:\:\)<\/DIV><DIV ID="GCHANT$hora$searchind$dId" class="GCHANT" width="100\%"><\/DIV>/s;
-				$text =~ s/<i>T.\s?P.<\/i>/\_\^T. P.\^\_ /g;  #Tempore Paschalis
+				$text =~ s/<i>T\.\s?P\.<\/i>/\_\^T. P.\^\_ /g;  #Tempore Paschalis
 			  $text =~ s/<\/?i>/\_/g; 				# italics
 				$text =~ s/<\/?b>|<v>\\greheightstar<\/v>/*/g;
 				$text =~ s/<\/?sc>/\%/g; 				# small capitals
@@ -521,7 +533,8 @@ sub setcell {
 				$text =~ s/<sp>\'(?:oe|œ)<\/sp>/œ́/g;
 				$text =~ s/<sp>(?:ae|æ)<\/sp>/æ/g;
 				$text =~ s/<sp>(?:oe|œ)<\/sp>/œ/g;
-				$text =~ s/; <br>\n/;\n/gi; 		# remove wrong HTML linebreaks
+				$text =~ s/\(\:\:\)\s*?<br>\n/(::)\n/gi; 		# remove wrong HTML linebreaks
+				$text =~ s/;\s*?<br>\n/;\n/gi; 		# remove wrong HTML linebreaks
 				$text =~ s/%% <br>\n/%%\n/gi; 	# remove wrong HTML linebreaks
 				$text =~ s/%%\(/%%\n\(/gi;			# insert break at end of header
 				$text =~ s/;([a-z\%\(])/;\n$1/gi;		# insert break in header
@@ -542,9 +555,18 @@ sub setcell {
 			}
 		}
 	}
+	
+	process_inline_alleluias(\$text, $lang, $dayname[0] =~ /Pasc/) unless $missa; # missa use own solution
+	# which should removed
+	
+	suppress_alleluia(\$text, $lang =~ /gabc/i) if ($dayname[0] =~ /Quad/i && ($missa || !Septuagesima_vesp()));
+
+	$text =~ s/\<BR\>\s*\<BR\>/\<BR\>/g;
+	if ($lang =~ /Latin(\-bea)?$/i) { $text = spell_var($text); } 	# Spell check not for 'Latin-gabc' (destroys chant)
+
 	$text =~ s/wait[0-9]+//ig;
 	$text =~ s/\_/ /g;
-	$text =~ s/\{\:.*?\:\}(<BR>)*\s*//g;
+	# $text =~ s/\{\:.*?\:\}(<BR>)*\s*//g;
 	$text =~ s/\{\:.*?\:\}//sg;
 	$text =~ s/\`//g;			#` #accent grave for editor
 	
@@ -553,8 +575,8 @@ sub setcell {
 		$text =~ s/\|\|(<BR>)/<BR>/g;
 		$text =~ s/\|\|/\_/g;
 	}
-	
-  if ($Ck) {
+
+	if ($Ck) {
     if ($column == 1) {
       push(@ctext1, $text);
     } else {
@@ -570,8 +592,8 @@ sub setcell {
 #prints T N for positioning
 sub topnext_cell {
   if ($officium =~ /Pofficium/i) { return; }
-  my $lang = shift;
-  my @a = split('<BR>', $text1);
+  my ($text, $lang) = @_;
+  my @a = split('<BR>', $$text);
   if (@a > 2 && $expand !~ /skeleton/i) { 
     my $str = "<DIV ALIGN=right><FONT SIZE=1 COLOR=green>";
     if (columnsel($lang)) {
@@ -600,7 +622,7 @@ sub table_start {
 }
 
 #antepost('$title')
-# prints Ante of Post call
+# prints Ante or Post call
 sub ante_post {
   my $title = shift;
   if ($Ck) { return; }
@@ -774,4 +796,51 @@ sub html_dayhead {
 	}
 
   $output;
+}
+
+sub print_content {
+  my($lang1, $script1, $lang2, $script2, $antepost) = @_;
+  our $version, $version1, $version2, $only, $expandind, $column;
+  my($ind1, $ind2);
+
+  table_start();
+  ante_post('Ante') if $antepost;
+  while ($ind1 < @$script1 || $ind2 < @$script2) {
+    $expandind++;
+
+    $column = 1;
+    $version = $version1 if $Ck;
+    ($text, $ind1) = getunit($script1, $ind1);
+    setcell($text, $lang1);
+    if (!$only) {
+      $column = 2;
+      $version = $version2 if $Ck;
+      ($text, $ind2) = getunit($script2, $ind2);
+      setcell($text, $lang2);
+    } else {
+      $ind2 = $ind1;
+    }
+  }
+  ante_post('Post') if $antepost;
+  table_end();
+}
+
+#*** getunits(\@s, $ind)
+# break the array into units separated by double newlines
+# from $ind  to the returned new $ind
+sub getunit {
+  my $s = shift;
+  my @s = @$s;
+  my $ind = shift;
+  my $t = '';
+
+  while ($ind < @s) {
+    my $line = chompd($s[$ind]);
+    $ind++;
+    if ($line && !($line =~ /^\s+$/)) { $t .= "$line\n"; next; }
+    if (!$t) { next; }
+    last;
+  }
+
+  return ($t, $ind);
 }
