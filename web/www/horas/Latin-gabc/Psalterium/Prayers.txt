@@ -379,8 +379,8 @@ $Per Dominum
 
 [Benedictio Completorium_]
 {initial-style:0;%%(c3) V/. Ju(h)be,(h) dom(h)ne,(g_) be(h)ne(h)dí(h)ce(d)re.(d.) (::)}
-(sed rubrica 196 aut rubrica 1955 dicitur)
-V. Jube, Dómine, benedícere.
+(sed rubrica 196 aut rubrica 1955 aut rubrica bavariae dicitur)
+{initial-style:0;%%(c3) V/. Ju(h)be,(h) Dóm(h)i(h)ne,(g_) be(h)ne(h)dí(h)ce(d)re.(d.) (::)}
 Benedictio. {(c3) Noc(h)tem(h) qui(h)é(h)tam(h) et(h) fi(h)nem(g) per(f)féc(h)tum(h.) (;) con(h)cé(h)dat(h) no(h)bis(h) Dó(h)mi(h)nus(h) om(h)ní(h)po(d)tens.(d.) (::)}
 
 [Benedictio Completorium]
