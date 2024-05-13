@@ -324,6 +324,9 @@ R. Et clamor meus ad te véniat.
 [Preces feriales Nona]
 @:Preces feriales Tertia
 
+[Preces flexis genibus]
+/:flexis genibus:/
+
 [Preces Dominicales]
 $Kyrie
 $Pater secreto

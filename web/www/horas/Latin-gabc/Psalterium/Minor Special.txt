@@ -640,3 +640,31 @@ Amen.
 {gabc:Psalterium/Pascha/hy--jam_lucis_orto_sidere_in_festo_pentecostes--solesmes_1934}
 (sed commune C11 aut tonus BMV) 
 {gabc:Commune/C11/hy--jam_lucis_orto_sidere_in_festis_bmv--solesmes_1934}
+
+[Lectio Completorium]
+!1 Pet 5:8-9
+{(c3) Fra(h)tres:(h.) (,) Só(h)bri(h)i(h) es(h)tó(h)te,(h) et(h) vi(h)gi(h)lá(h)te:(f.) (;) qui(h)a(h) ad(h)ver(h)sá(h)ri(h)us(h) ves(h)ter(h) di(h)á(h)bo(h)lus(h_') (,) tam(h)quam(h) le(h)o(h) rú(h)gi(h)ens(h_') (,) cír(h)cu(h)it,(h) quæ(h)re(g)ns quem(f) dé(h)vo(h)ret:(h.) (;) cu(h)i(h) re(h)sís(h)ti(h)te(h) for(h)tes(h) in(h) fi(h.)de.(d.) (::)}
+$Tu autem
+
+[Completorium_]
+!Jer 14:9
+v. Tu autem in nobis es, Dómine, et nomen sanctum tuum invocátum est super nos: ne derelínquas nos, Dómine, Deus noster.
+$Deo gratias
+
+[Completorium]
+@:Completorium_
+
+[Completorium] (rubrica Ordo Praedicatorum)
+@:Completorium_:s/autem //
+
+[Responsory Completorium]
+{gabc:Psalterium/rb--in_manus_tuas--solesmes_1961}
+(sed tempore passionis)
+{gabc:Psalterium/Passionis/rb--in_manus_tuas--passionis--solesmes_1961}
+(sed tempore paschali)
+{gabc:Psalterium/Pascha/rb--in_manus_tuas_domine_tempore_paschali--solesmes}
+
+[Versum 4]
+{initial-style:0;%%(c3) V/. Cus(h)tó(h)di(h) nos(h) Dó(h)mi(h)ne(h) ut(h) pu(h)píl(h)lam(h) ó(h)cu(h)li.(f.) (::) (Z-) R/. Sub(h) um(h)bra(h) a(h)lá(h)rum(h) tu(h)á(h)rum(h) pró(h)te(h)ge(h) nos.(f.) (::)}
+(sed tempore paschali)
+{initial-style:0;%%(c3) V/. Cus(h)tó(h)di(h) nos(h) Dó(h)mi(h)ne(h) ut(h) pu(h)píl(h)lam(h) ó(h)cu(h)li,(h_') (,) al(h)le(h)lú(h)ja.(f.) (::) (Z-) R/. Sub(h) um(h)bra(h) a(h)lá(h)rum(h) tu(h)á(h)rum(h) pró(h)te(h)ge(h) nos(h_') (,) al(h)le(h)lú(h)ja.(f.) (::)}
