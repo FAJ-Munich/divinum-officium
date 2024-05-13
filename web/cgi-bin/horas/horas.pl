@@ -940,6 +940,7 @@ sub canticum : ScriptFunc {
 sub Nunc_dimittis {
 	my $lang = shift;
 	my $ant, $ant2, $_antl;
+	my $canticaTone;
 	my($w,$c) = getproprium("Ant 4$vespera", $lang, 1);
 	if ($w) {
 		setbuild1($ite, 'special');
@@ -952,12 +953,15 @@ sub Nunc_dimittis {
 		}
 	}
 	my $ant1 = substr($ant, 0, index($ant, ' *'));
+	$ant1 =~ s/;;.*//;
 	if ($lang =~ /gabc/i) {
-		$ant1 =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/; # Un-duplicate GABC Antiphon
+		$ant =~ s/;;(.*)//;
+		$canticaTone = $1;
+		$ant1 =~ s/[\,\.](\(.*?\))\s*$/\.$1 (::)\}/; # Un-duplicate GABC Antiphon
 	}
   push(@s, translate('#Canticum Nunc dimittis',$lang),
            'Ant. ' . ($version =~ /196/ ? $ant : $ant1),
-           '&psalm(233)',
+           $canticaTone ? "&psalm('233,$canticaTone')" : '&psalm(233)',
            'Ant. ' . ($ant2 || $ant =~ s/\ \*//r));
  # FIXME Ordo Praedicatorum has Ant depended on Tempora
 }
