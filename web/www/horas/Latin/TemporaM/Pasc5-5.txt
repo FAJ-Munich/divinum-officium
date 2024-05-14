@@ -31,7 +31,6 @@ Feria Te Deum
 ;;
 ;;
 ;;
-@TemporaM/Pasc5-4:MM Capitulum:5-6
 
 [Lectio1]
 @Tempora/Pasc5-5:Lectio7
