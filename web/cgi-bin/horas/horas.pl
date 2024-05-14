@@ -29,11 +29,13 @@ sub horas {
   $hora = 'Vespera' if $hora =~ /vesper/i;
   print "<H2 ID='${hora}top'>" . adhoram($hora) ."</H2>\n";
   my (@script1, @script2);
-  our ($lang1, $lang2);
+  our ($lang1, $lang2, $column);
+	$column = 1;
   if ($Ck) { $version = $version1; precedence(); }
   @script1 = getordinarium($lang1, $command);
   @script1 = specials(\@script1, $lang1);
-  if ($Ck) { $version = $version2; 
+	$column = 2;
+	if ($Ck) { $version = $version2;
     load_languages_data($lang1, $lang2, $version, $missa);
     precedence(); }
   if (!$only) {
