@@ -27,7 +27,7 @@
 01-25=01-25=In Conversione S. Pauli Apostoli=4=
 01-26=01-26=S. Polycarpi Episcopi et Martyris=3=
 01-27=01-27=S. Joannis Chrysostomi Episcopi Confessoris Ecclesiae Doctoris=3=
-01-28=01-28=S. Petri Nolasci Confessoris=3=S. Agnetis Virginis Martyris secundo=1=
+01-28=01-28~01-28t=S. Petri Nolasci Confessoris=3=S. Agnetis Virginis Martyris secundo=1=
 01-29=01-29=S. Francisci Salesii Episcopi Confessoris Ecclesiae Doctoris=3=
 01-30=01-30=S. Martinae Virginis et Martyris=2=
 01-31=01-31=S.Joannis Bosco Confessoris=3=
