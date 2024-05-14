@@ -234,7 +234,7 @@ sub occurrence {
 						|| ($srank =~ /vigilia/i && ($version !~ /196/ || $sname !~ /08\-09/)) # Vigils with the ackward exception of S. Lawrence in 1960 rules
 						|| ($version !~ /1960|Trident/ && $hora =~ /Completorium/i && $month == 11 && $day == 1 && $dayofweek != 6) # Office of All Souls supersedes All Saints at Completorium from 1911 to 1959
 						|| ($srank[2] < 2 && $trank && !($month == 1 && $day > 6 && $day < 13)) # Simplex end after None.
-						|| ($version =~ /1955|1963/ && $srank[2] >= 2.2 && $srank[2] < 2.9 && $srank[1] =~ /Semiduplex/i) # Reduced to Simplex/Comm ad Laudes tantum ends after None.
+						|| ($version =~ /1955|Monastic.*Divino|1963/ && $srank[2] >= 2.2 && $srank[2] < 2.9 && $srank[1] =~ /Semiduplex/i) # Reduced to Simplex/Comm ad Laudes tantum ends after None.
 					) {
 					$srank = '';
 					%saint = undef;
@@ -267,8 +267,8 @@ sub occurrence {
 				$tname = $trank = '';
 				@trank = undef;
 				%tempora = undef;
-			}	elsif ($version =~ /1955|1963/ && $srank[2] >= 2.2 && $srank[2] < 2.9 && $srank[1] =~ /Semiduplex/i) {
-				$srank[2] = ($version =~ /monastic/i) ? 1.1 : 1.19; #1955: semiduplex reduced to simplex; Monastic post-DA reduced to "Memoria"
+			}	elsif ($version =~ /1955|Monastic.*Divino|1963/ && $srank[2] >= 2.2 && $srank[2] < 2.9 && $srank[1] =~ /Semiduplex/i) {
+				$srank[2] = ($version =~ /Monastic/i) ? 1.1 : 1.19; #1955: semiduplex reduced to simplex // Monastic post-DA reduced to "Memoria" unless Octave
 			} elsif ($version =~ /196/i && $srank[2] < 2 && $srank[1] =~ /Simplex/i	&& $testmode =~ /seasonal/i	&& ($month > 1 || $day > 13))	{
 				$srank[2] = 1;
 			}
@@ -1423,12 +1423,13 @@ sub setheadline {
 			);
 			
 			if ($version =~ /Monastic.*Divino/i) { $tradtable[1,2] = 'Memoria'; }
+			elsif ($version =~ /1955/) { $tradtable[1,2] = 'Simplex'; }
 			$rankname = ($version !~ /196/) ? $tradtable[$rank] : $newtable[$rank];
 			
 			
 			if ($version =~ /19(?:55|60)/ && $winner !~ /Pasc5-3/i && $dayname[1] =~ /feria/i) { $rankname = 'Feria'; }
 			
-			if ($version =~ /1570/i) { $rankname =~ s/ majus//;	} # no Duplex majus yet in 1570
+			if ($version =~ /1570|1617/i) { $rankname =~ s/ majus//;	} # no Duplex majus yet in 1570/1617
 			
 			if($latname =~ /Vigilia Epi/i) {
 				$rankname = ($version =~ /trident/i) ? 'Semiduplex' : 'Semiduplex Vigilia II. classis';
