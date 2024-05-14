@@ -13,17 +13,17 @@
 01-11=01-11=Die Undecima Januarii=1=
 01-12=01-12=Die Duodecima Januarii=1=
 01-13=01-13=Commemoratio Baptismi Domini=5=
-01-14=01-14~01-14cc=S. Hilarii Episcopi Confessoris et Ecclesiae Doctoris=3=S. Felicis Presbyteri et Mart.=1=
+01-14=01-14~01-14cc=S. Hilarii Episcopi Confessoris et Ecclesiae Doctoris=1=S. Felicis Presbyteri et Mart.=1=
 01-16=01-16=S. Marcelli Papae et Martyris=2=
 01-17=01-17=S. S. Antonii Abbatis=3=
-01-19=01-19=S. Marii et Soc. Mart.=1=S. Canuti Mart.=1=
+01-19=01-19=S. Marii et Soc. Mart.=1=
 01-20=01-20=Ss. Fabiani et Sebastiani Martyrum=3=
 01-21=01-21=S. Agnetis Virginis et Martyris=3=
-01-22=01-22=Ss. Vincentii et Anastasii Martyrum=2=
-01-23=01-23=S. Emerentianae Virginis et Martyris=1=
-01-24=01-24=S. Timothei Episcopi et Martyris=3=
+01-22=01-22=Ss. Vincentii Martyris=2=
+01-23=01-23o=S. Emerentianae Virginis et Martyris=1=
+01-24=01-24=S. Timothei Episcopi et Martyris=2=
 01-25=01-25=In Conversione S. Pauli Apostoli=4=
-01-26=01-26=S. Polycarpi Episcopi et Martyris=1=
+01-26=01-26=S. Polycarpi Episcopi et Martyris=2=
 01-27=01-27=S. Joannis Chrysostomi Episcopi Confessoris Ecclesiae Doctoris=3=
 01-28=01-28=S. Cyrilli Episc Alexandrini Confessoris Ecclesiae Doctoris=1=
 01-29=01-29=S. Francisci Salesii Episcopi Confessoris Ecclesiae Doctoris=3=
@@ -34,7 +34,7 @@
 02-03=02-03=S. S. Blasii Episcopi et Martyris=1=
 02-05=02-05=S. Agathae Virginis et Martyris=3=
 02-07=02-07=S. Romualdi Abbatis=3=
-02-10=02-10=S. Scholasticae Virginis=3=
+02-10=02-10=S. Scholasticae Virginis=3= 
 02-14=02-14=S. Valentini=1=
 02-22=02-22=In Cathedra S. Petri Ap=5=
 02-23=02-23=S. Petri Damiani=3=

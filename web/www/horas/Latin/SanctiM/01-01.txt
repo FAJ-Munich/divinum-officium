@@ -1,7 +1,7 @@
 @Sancti/01-01
 
-[Rank]
-Die Octavæ Nativitatis Domini;;Duplex I classis;;7;;ex Sancti/12-25
+[Rank] (rubrica 1963)
+In Octava Nativitatis Domini;;Duplex I classis;;7;;ex Sancti/12-25
 
 [Rule]
 12 lectiones
