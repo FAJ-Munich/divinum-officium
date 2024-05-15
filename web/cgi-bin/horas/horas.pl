@@ -42,14 +42,25 @@ sub horas {
 		precedence(); setsecondcol(); #fills our hashes et variables
 	}
 
-	$column = 1;
-	if ($Ck) { $version = $version1; precedence(); }
+	$column = 1;	# The 'setbuild' functions in specials.pl check for this to set the Building Script
+	if ($Ck) {
+		$version = $version1;
+		precedence();
+	}
 	@script1 = getordinarium($lang1, $command);
 	@script1 = specials(\@script1, $lang1);
-	$column = 2;
-	if ($Ck) { $version = $version2;
-    load_languages_data($lang1, $lang2, $version, $missa);
-    precedence(); }
+	$column = 2;	# This prevents the duplications in the Building Script
+	if ($Ck) {
+		$version = $version1;
+		precedence();
+	}
+  @script1 = getordinarium($lang1, $command);
+  @script1 = specials(\@script1, $lang1);
+	if ($Ck) {
+		$version = $version2;
+		load_languages_data($lang1, $lang2, $version, $missa);
+		precedence();
+	}
   if (!$only) {
     @script2 = getordinarium($lang2, $command);
     @script2 = specials(\@script2, $lang2);
