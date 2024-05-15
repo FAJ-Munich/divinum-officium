@@ -67,6 +67,7 @@ sub horas {
   }
 
   print_content($lang1, \@script1, $lang2, \@script2, $version !~ /(1570|1955|196)/);
+
 	# GABC: restore original values if changed
 	$lang1 = $templang1;
 	$lang2 = $templang2;
