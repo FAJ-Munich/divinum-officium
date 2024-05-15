@@ -29,8 +29,8 @@ sub horas {
   $hora = 'Vespera' if $hora =~ /vesper/i;
   print "<H2 ID='${hora}top'>" . adhoram($hora) ."</H2>\n";
   my (@script1, @script2);
-  our ($lang1, $lang2);
-	
+	our ($lang1, $lang2, $column);
+
 	# GABC: Ensure no chant is displayed at the little hours during the Triduum
 	my $templang1 = $lang1;   # save settings for later
 	my $templang2 = $lang2;
@@ -42,18 +42,32 @@ sub horas {
 		precedence(); setsecondcol(); #fills our hashes et variables
 	}
 
-	if ($Ck) { $version = $version1; precedence(); }
+	$column = 1;	# The 'setbuild' functions in specials.pl check for this to set the Building Script
+	if ($Ck) {
+		$version = $version1;
+		precedence();
+	}
+	@script1 = getordinarium($lang1, $command);
+	@script1 = specials(\@script1, $lang1);
+	$column = 2;	# This prevents the duplications in the Building Script
+	if ($Ck) {
+		$version = $version1;
+		precedence();
+	}
   @script1 = getordinarium($lang1, $command);
   @script1 = specials(\@script1, $lang1);
-  if ($Ck) { $version = $version2; 
-    load_languages_data($lang1, $lang2, $version, $missa);
-    precedence(); }
+	if ($Ck) {
+		$version = $version2;
+		load_languages_data($lang1, $lang2, $version, $missa);
+		precedence();
+	}
   if (!$only) {
     @script2 = getordinarium($lang2, $command);
     @script2 = specials(\@script2, $lang2);
   }
 
   print_content($lang1, \@script1, $lang2, \@script2, $version =~ /Divino|1888|1906/i);
+	
 	# GABC: restore original values if changed
 	$lang1 = $templang1;
 	$lang2 = $templang2;
