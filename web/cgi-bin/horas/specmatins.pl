@@ -710,10 +710,7 @@ sub lectio : ScriptFunc {
 		&& (($communetype =~ /^ex/i && $commune !~ /Sancti/i && $rank > 3)      # either we have 'ex C.' on Duplex majus or higher
 		|| ( ($num < 4 || ($num == 4 && $rule =~ /12 lectiones/i))              # or we are in the first nocturn
 		&& $homilyflag                                                          # and there is a homily to be commemorated
-		&& exists($commune{"Lectio$num"})                                     # which has not been superseded by the sanctoral
-	)
-	)
-	) {
+		&& exists($commune{"Lectio$num"})))) {                                     # which has not been superseded by the sanctoral
 		%w = (columnsel($lang)) ? %commune : %commune2;
 		$w = $w{"Lectio$num"};
 		if ($w && $num == 1) { setbuild2("Lectio1-3 from Tempora/$file replacing homily"); }
