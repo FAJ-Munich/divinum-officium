@@ -29,7 +29,7 @@ sub horas {
   $hora = 'Vespera' if $hora =~ /vesper/i;
   print "<H2 ID='${hora}top'>" . adhoram($hora) ."</H2>\n";
   my (@script1, @script2);
-  our ($lang1, $lang2);
+	our ($lang1, $lang2, $column);
 	
 	# GABC: Ensure no chant is displayed at the little hours during the Triduum
 	my $templang1 = $lang1;   # save settings for later
@@ -42,10 +42,12 @@ sub horas {
 		precedence(); setsecondcol(); #fills our hashes et variables
 	}
 
+	$column = 1;
 	if ($Ck) { $version = $version1; precedence(); }
-  @script1 = getordinarium($lang1, $command);
-  @script1 = specials(\@script1, $lang1);
-  if ($Ck) { $version = $version2;
+	@script1 = getordinarium($lang1, $command);
+	@script1 = specials(\@script1, $lang1);
+	$column = 2;
+	if ($Ck) { $version = $version2;
     load_languages_data($lang1, $lang2, $version, $missa);
     precedence(); }
   if (!$only) {

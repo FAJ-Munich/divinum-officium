@@ -1419,7 +1419,11 @@ sub setheadline {
 			'none', 'Simplex', 'Semiduplex', 'Duplex',
 			'Duplex majus', 'Duplex II. classis', 'Duplex I. classis', 'Duplex I. classis'
 			);
-			if ($version =~ /1955/) { $tradtable[2] = 'Simplex'; }
+			if ($version =~ /Monastic.*Divino/i) {
+				$tradtable[1,2] = 'Memoria';
+			}	elsif ($version =~ /1955/) {
+				$tradtable[1,2] = 'Simplex';
+			}
 			my @newtable = (
 			'none',
 			'Commemoratio',
@@ -1431,8 +1435,6 @@ sub setheadline {
 			'I. classis'
 			);
 			
-			if ($version =~ /Monastic.*Divino/i) { $tradtable[1,2] = 'Memoria'; }
-			elsif ($version =~ /1955/) { $tradtable[1,2] = 'Simplex'; }
 			$rankname = ($version !~ /196/) ? $tradtable[$rank] : $newtable[$rank];
 			
 			

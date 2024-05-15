@@ -742,7 +742,7 @@ sub psalmi_minor {
 
     if ($month == 12 && $day > 16 && $day < 24 && $dayofweek > 0) {
       my $i = $dayofweek + 1;
-      if ($dayofweek == 6 && $version =~ /trident|1930/i) { # take ants from feria occuring Dec 21st
+      if ($dayofweek == 6 && $version =~ /trident|monastic.*divino/i) { # take ants from feria occuring Dec 21st
         $i = get_stThomas_feria($year) + 1;
         if ($day == 23) { $i = ""; } # use Sundays ant
       }
@@ -948,7 +948,8 @@ sub psalmi_major {
   
 
   my @antiphones;
-	if (($hora =~ /Laudes/ || ($hora =~ /Vespera/ && $version =~ /1963/)) && $month == 12 && $day > 16 && $day < 24 && $dayofweek > 0) { # TODO: is this really the case in Monastic 1963 Vespers throughout the week?
+	if (($hora =~ /Laudes/ || ($hora =~ /Vespera/ && $version =~ /1963/)) && $month == 12 && $day > 16 && $day < 24 && $dayofweek > 0) {
+		# TODO: is this really the case in Monastic 1963 Vespers throughout the week?
     my @p1 = split("\n", $psalmi{"Day$dayofweek Laudes3"});
     if ($dayofweek == 6 && $version =~ /trident|monastic/i) {
 			my $expectetur = $p1[3]; # save Expectetur
@@ -1315,7 +1316,7 @@ sub oratio {
 			if ($version =~ /Monastic/ && $version !~ /bavariae/i) {
         if ($hora =~ /Laudes|Vespera/) { push(@s, prayer('MLitany', $lang)); }
         else { push(@s, prayer('MLitany2', $lang)); }
-#				$precesferiales = 0;
+				#$precesferiales = 0;
       }
       if ($priest) {
         push(@s, "&Dominus_vobiscum");
