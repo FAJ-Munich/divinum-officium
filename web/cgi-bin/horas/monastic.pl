@@ -167,19 +167,17 @@ sub psalmi_matutinum_monastic {
 		# The change from "summer" to "winter" matins (pre- and post-1960) is tied to the 1st Sunday of November not All Saints' Day.
 		# Unless this has been changed with moving the 1st Sunday of November occuring after 10-29 to after 11-01
 		# The previous elsif made a mistake and referred to non-existing scriptura of the last week of October
-    if ($winner =~ /Tempora/i
-      || !(exists($winner{Lectio94}) || exists($winner{Lectio4})))
-    {
-      brevis_monastic($lang);   # on a ferial day in "Summer", we have just a Lectio brevis
-			setbuild2("Lectio brevis monastic");
+    if ($winner =~ /Tempora/i || !(exists($winner{Lectio94}) || exists($winner{Lectio4}))) {
+      brevis_monastic($lang);
+			# on a ferial day in "Summer", we have just a Lectio brevis
     } elsif (exists($winner{Lectio94}) || exists($winner{Lectio4})) {
-      legend_monastic($lang);   # on a III. class feast in "Summer", we have the contracted Saint's legend
-			setbuild2("Lectio legend monastic");
+      legend_monastic($lang);   
+			# on a III. class feast in "Summer", we have the contracted Saint's legend
     }
     push(@s, "\n");
   } else {
     lectiones(0, $lang);
-      # the Absolutio and the Benedictions are taken depending on the day of the week;
+    # the Absolutio and the Benedictions are taken depending on the day of the week;
   }
   $psalmi[14] = $psalmi[15] = '' if ($rule !~ /12 lectiones/);
   nocturn(2, $lang, \@psalmi, (8..15));
