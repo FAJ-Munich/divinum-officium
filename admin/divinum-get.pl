@@ -34,7 +34,7 @@ my @versions = (
   'Reduced 1955',
   'Rubrics 1960',
   'Monastic',
-  'Ordo Praedicatorum'
+  'Ordo Praedicatorum',
 );
 my $versions = join('|', @versions);
 

@@ -46,7 +46,7 @@ In hoc pascháli gáudio,
 Ab omni mortis ímpetu
 Tuum defénde pópulum.
 _
-Glória tibi Dómine,
+* Glória tibi Dómine,
 Qui surrexíst[i] a mórtuis,
 Cum Patr[e] et Sancto Spíritu,
 In sempitérna sǽcula.
@@ -208,14 +208,14 @@ In sempitérna sǽcula.
 Amen.
 
 [HymnusM Laudes]
-{:H-Paschalemundogaudium:}v. Claro Pascháli gáudio
+v. Claro pascháli gáudio
 Sol mundo nitet rádio,
 Cum Christum jam Apóstoli
 Visu cernunt corpóreo.
 _
-Osténsa sibi vúlnera,
+Osténsa sibi vúlnera
 In Christi carne fúlgida,
-Resurexísse Dóminum,
+Resurrexísse Dóminum
 Voce faténtur pública.
 _
 Rex Christe clementíssime,
@@ -223,12 +223,12 @@ Tu corda nostra pósside,
 Ut tibi laudes débitas
 Reddámus omni témpore.
 _
-Quǽsumus Auctor ómnium,
-In hoc Pascháli gáudio,
-Ab omni morti ímpetu
+Quǽsumus, Auctor ómnium,
+In hoc pascháli gáudio,
+Ab omni mortis ímpetu
 Tuum defénde pópulum.
 _
-Glória tibi Dómine,
+* Glória tibi Dómine,
 Qui surrexíst[i] a mórtuis,
 Cum Patr[e] et Sancto Spíritu,
 In sempitérna sǽcula.
