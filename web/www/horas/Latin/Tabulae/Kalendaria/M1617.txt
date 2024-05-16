@@ -29,7 +29,7 @@
 01-28=01-28t=S. Agnetis Virginis et Martyris secundo=1=
 *February*
 *December*
-12-02=12-02o=S. Bibiana virgin and martyr=1=
+12-02=12-02=S. Bibiana virgin and martyr=1=
 12-04=12-04o=S.  Barbara virgin and martyr=1=
 12-05=12-05=S. Sabbas Abbot=1=
 12-06=12-06=S. Nicolai Episcopi et Confessoris=2=
