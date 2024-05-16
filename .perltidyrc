@@ -1,3 +1,5 @@
+-b
+-bext=/
 -i=2
 --cuddled-blocks
 --cuddled-break-option=2
