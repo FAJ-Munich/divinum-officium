@@ -1,48 +1,26 @@
 [Pater noster]
-v. Notre Père, qui êtes aux cieux,
-Que votre nom soit sanctifié, que votre règne arrive,
-Que votre volonté soit faite sur la terre comme au ciel.
-Donnez-nous aujourd'hui notre pain de chaque jour.
-Pardonnez-nous nos offenses comme nous pardonnons à ceux qui nous ont offensés.
-Et ne nous laissez pas succomber à la tentation.
-Mais délivrez-nous du mal.
-Ainsi soit-il.
+v. Notre Père, qui êtes aux cieux, Que votre nom soit sanctifié, que votre règne arrive, Que votre volonté soit faite sur la terre comme au ciel. Donnez-nous aujourd'hui notre pain quotidien. Pardonnez-nous nos offenses comme nous pardonnons à ceux qui nous ont offensés. Et ne nous laissez pas succomber à la tentation. Mais délivrez-nous du mal. Ainsi soit-il.
 
 [Pater_noster1]
-v. Notre Père, qui êtes aux cieux,
-Que votre nom soit sanctifié, que votre règne arrive,
-Que votre volonté soit faite sur la terre comme au ciel.
-Donnez-nous aujourd'hui notre pain de chaque jour.
-Pardonnez-nous nos offenses comme nous pardonnons à ceux qui nous ont offensés :
+v. Notre Père, qui êtes aux cieux, Que votre nom soit sanctifié, que votre règne arrive, Que votre volonté soit faite sur la terre comme au ciel. Donnez-nous aujourd'hui notre pain quotidien. Pardonnez-nous nos offenses comme nous pardonnons à ceux qui nous ont offensés : 
 V. Et ne nous laissez pas succomber à la tentation.
 R. Mais délivrez-nous du mal.
 
 [Ave Maria]
-v. Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous ;
-Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni.
-Sainte Marie, Mère de Dieu, priez pour nous, pauvres pécheurs, maintenant et à l'heure de notre mort.
-Ainsi soit-il.
+v. Je vous salue, Marie, pleine de grâce, le Seigneur est avec vous ; Vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous, pauvres pécheurs, maintenant et à l'heure de notre mort. Ainsi soit-il.
 
 [Credo]
-v. Je crois en Dieu, le Père tout-puissant, Créateur du ciel et de la terre.
-Et en Jésus-Christ, son Fils unique, notre Seigneur,
-Qui a été conçu du Saint Esprit, est né de la Vierge Marie,
-A souffert sous Ponce Pilate, a été crucifié, est mort, a été enseveli,
-Est descendu aux enfers, le troisième jour est ressuscité des morts,
-Est monté aux cieux,
-Est assis à la droite de Dieu le Père tout-puissant,
-D'où il viendra juger les vivants et les morts.
-Je crois au Saint Esprit,
-A la sainte Eglise Catholique,
-A la communion des Saints,
-A la rémission de péchés,
-A la resurrection de la chair,
-A la vie éternelle.
-Ainsi soit-il.
+v. Je crois en Dieu, le Père tout-puissant, Créateur du ciel et de la terre. Et en Jésus-Christ, son Fils unique, notre Seigneur, Qui a été conçu du Saint Esprit, est né de la Vierge Marie,
+A souffert sous Ponce Pilate, a été crucifié, est mort, a été enseveli, Est descendu aux enfers, le troisième jour est ressuscité des morts, Est monté aux cieux, Est assis à la droite de Dieu le Père tout-puissant, D'où il viendra juger les vivants et les morts. Je crois au Saint Esprit,
+A la sainte Eglise Catholique, A la communion des Saints, A la rémission de péchés, A la resurrection de la chair, A la vie éternelle. Ainsi soit-il.
 
 [Pater secreto]
 /:« Notre Père » en silence jusqu'à « Et ne nous laissez pas succomber à la tentation : »:/
 &pater_noster
+
+[Dominus det]
+V. Que le Seigneur nous donne Sa paix.
+R. Et la vie éternelle. Ainsi soit-il.
 
 [Adjutorium nostrum]
 V. Notre secours est dans le Nom du Seigneur.
@@ -75,26 +53,11 @@ R. Et que ma voix aille jusqu'à vous !
 /:on omet le deuxième "Seigneur, exaucez ma prière":/
 
 [Confiteor]
-v. Je confesse à Dieu tout puissant,
-à la bienheureuse Marie toujours Vierge,
-à Saint Michel Archange, à Saint Jean-Baptiste,
-aux saints Apôtres Pierre et Paul, à tous les Saints
-que j'ai beaucoup péché, par pensées, par paroles et par actions : /:on se frappe le cœur :/ C'est ma faute, c'est ma faute, c'est ma très grande faute.
-C'est pourquoi je supplie la bienheureuse Marie toujours Vierge,
-Saint Michel Archange, Saint Jean-Baptiste,
-les saints Apôtres Pierre et Paul, tous les Saints,
-de prier pour moi le Seigneur notre Dieu.
+v. Je confesse à Dieu tout puissant, à la bienheureuse Marie toujours Vierge, à Saint Michel Archange, à Saint Jean-Baptiste, aux saints Apôtres Pierre et Paul, à tous les Saints que j'ai beaucoup péché, par pensées, par paroles et par actions : /:on se frappe le cœur :/ C'est ma faute, c'est ma faute, c'est ma très grande faute. C'est pourquoi je supplie la bienheureuse Marie toujours Vierge, Saint Michel Archange, Saint Jean-Baptiste, les saints Apôtres Pierre et Paul, tous les Saints, de prier pour moi le Seigneur notre Dieu.
 
 [Confiteor](rubrica Monastica)
-v. Je confesse à Dieu tout puissant,
-à la bienheureuse Marie toujours Vierge,
-à Saint Michel Archange, à Saint Jean-Baptiste,
-aux saints Apôtres Pierre et Paul, à notre bienheureux père Saint Benoît, et à tous les Saints
-que j'ai beaucoup péché, par pensées, par paroles et par actions : /:on se frappe le cœur :/ C'est ma faute, c'est ma faute, c'est ma très grande faute.
-C'est pourquoi je supplie la bienheureuse Marie toujours Vierge,
-Saint Michel Archange, Saint Jean-Baptiste,
-les saints Apôtres Pierre et Paul, à notre bienheureux père Saint Benoît, tous les Saints,
-de prier pour moi le Seigneur notre Dieu.
+v. Je confesse à Dieu tout puissant, à la bienheureuse Marie toujours Vierge, à Saint Michel Archange, à Saint Jean-Baptiste, aux saints Apôtres Pierre et Paul, à notre bienheureux père Saint Benoît, et à tous les Saints que j'ai beaucoup péché, par pensées, par paroles et par actions : /:on se frappe le cœur :/ C'est ma faute, c'est ma faute, c'est ma très grande faute.
+C'est pourquoi je supplie la bienheureuse Marie toujours Vierge, Saint Michel Archange, Saint Jean-Baptiste, les saints Apôtres Pierre et Paul, à notre bienheureux père Saint Benoît, tous les Saints, de prier pour moi le Seigneur notre Dieu.
 
 [Misereatur]
 v. Que le Dieu tout-puissant ait pitié de vous, et que, après vous avoir pardonné vos péchés, il vous conduise à la vie éternelle. Ainsi soit-il.
@@ -236,6 +199,12 @@ v. Seigneur ayez pitié de nous. Christ ayez pitié de nous. Seigneur ayez piti�
 [Divinum auxilium]
 Que le secours divin + demeure toujours avec nous.
 Ainsi soit-il.
+
+[Divinum auxilium]
+(rubrica Monastica)
+/:Puis, dans la récitation publique de l'Office, si la Communauté doit quitter le Chœur, on dit le verset suivant.:/
+Que le secours divin + demeure toujours avec nous.
+Et avec nos frères absents. Ainsi soit-il.
 
 [Alleluia Simplex]
 , alleluia.
