@@ -1136,7 +1136,7 @@ sub special : ScriptFunc {
   return $r;
 }
 
-#*** getordinarium($lanf, $command)
+#*** getordinarium($lang, $command)
 # returns the ordinarium for the language and hora
 sub getordinarium {
   my $lang = shift;
@@ -1145,7 +1145,8 @@ sub getordinarium {
   my @script = ();
   my $suffix = "";
   if ($command =~ /Matutinum/i && $rule =~ /Special Matutinum Incipit/i) { $suffix .= "e"; }    # for Epiphanias
-
+	if ($command =~ /Tertia|Sexta|Nona/i) { $command = 'Minor'; } 		# identical for Terz/Sext/Non
+	
   if ($version =~ /(1955|1960|Newcal)/) {
     $suffix .= "1960";
   } elsif ($version =~ /1963/) {
@@ -1157,7 +1158,7 @@ sub getordinarium {
   }
 
   # don't loose time for non existent files
-  $suffix = '' if $command =~ /^Completorium$/;
+  $suffix = '' if $command =~ /^Completorium|^Minor$|^Vespera$|^Laudes$/;
   $lang = 'Latin' if $command !~ /^(?:Matutinum|Prima)$/;
 
   my $fname = checkfile($lang, "Ordinarium/$command$suffix.txt");
