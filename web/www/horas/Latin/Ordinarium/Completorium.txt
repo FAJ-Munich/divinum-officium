@@ -39,7 +39,7 @@ $Oratio Visita
 
 #Conclusio
 &Dominus_vobiscum
-&Benedicamus_Domino
+$Benedicamus Domino
 $Benedictio Completorium2
 $Amen
 

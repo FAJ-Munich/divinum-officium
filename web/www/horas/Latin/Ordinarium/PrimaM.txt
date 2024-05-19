@@ -22,7 +22,7 @@ $Per Dominum
 
 #Conclusio
 &Dominus_vobiscum
-&Benedicamus_Domino
+$Benedicamus Domino
 
 /:Deinde in Choro legitur Martyrologium, quod laudabiliter fit etiam extra Chorum.:/
 _
