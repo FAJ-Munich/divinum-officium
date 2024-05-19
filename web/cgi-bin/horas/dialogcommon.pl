@@ -226,6 +226,7 @@ use constant {
 # the cache. Inclusions are performed according to the value of
 # $params{'resolve@'}. If omitted, the default is RESOLVE_ALL.
 sub setupstring($$%) {
+
   my ($lang, $fname, %params) = @_;
 
   my $basedir = our $datafolder;

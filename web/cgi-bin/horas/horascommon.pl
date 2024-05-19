@@ -734,7 +734,7 @@ sub concurrence {
     $rank = $wrank[2] = 4.9;
   }
 
-  if ($cwrank[0] =~ /Dominica/i && $cwrank[0] !~ /infra octavam/i && $version !~ /1955|196/) {
+  if ($cwrank[0] =~ /Dominica/i && $cwrank[0] !~ /infra octavam/i && $crank < 7 && $version !~ /1955|196/) {
     $cwrank[2] = $crank = $version =~ /trident/i ? 2.9 : 4.9;
   }
 
@@ -832,14 +832,17 @@ sub concurrence {
       $cvespera = 0;
       $winner = $cwinner;
 
-      if ($comrank >= $ccomrank && $comrank > 2) {
-        $tomorrowname[2] = $dayname[2];
+      if ($crank < 7 && $comrank >= $ccomrank && $comrank > 2) {
+        $tomorrowname[2] = $dayname[2] .= "<br>Vespera de sequenti; nihil de præcedenti (tempora)";
+      } else {
+        $tomorrowname[2] .= "<br>Vespera de sequenti; nihil de præcedenti";
+        @commemoentries = ();
+        $commemoratio = '';
       }
       @dayname = @tomorrowname;
       $rank = $crank;
       $commune = $ccommune;
       $communetype = $ccommunetype;
-      $dayname[2] .= "<br>Vespera de sequenti; nihil de præcedenti (tempora) ";
       $cwinner = '';
       %cwinner = undef;
       @cwrank = undef;
@@ -1616,8 +1619,6 @@ sub officestring($$;$) {
       $s{$key} = $m{$key};
     }
   }
-
-  #%s = updaterank(\%s);
   return \%s;
 }
 
@@ -1702,7 +1703,6 @@ sub setheadline {
       );
 
       $rankname = ($version !~ /196/) ? $tradtable[$rank] : $newtable[$rank];
-
       if ($version =~ /19(?:55|60)/ && $winner !~ /Pasc5-3/i && $dayname[1] =~ /feria/i) { $rankname = 'Feria'; }
 
       if ($version =~ /1570|1617/i) { $rankname =~ s/ majus//; }    # no Duplex majus yet in 1570/1617

@@ -1037,8 +1037,8 @@ sub Divinum_auxilium : ScriptFunc {
   my @text = split(/\n/, prayer("Divinum auxilium", $lang));
   $text[-2] = "V. $text[-2]";
   $text[-1] =~ s/.*\. //
-    unless ($version =~ /Monastic/i && $version !~ /Bavariae/i)
-    ;    # contract resp. "Et cum fratribus… " to "Amen." for Roman
+    unless ($version =~ /Monastic/i && $version !~ /Bavariae/i);
+    # contract resp. "Et cum fratribus… " to "Amen." for Roman
   $text[-1] = "R. $text[-1]";
   join("\n", @text);
 }
@@ -1290,7 +1290,7 @@ sub special : ScriptFunc {
   return $r;
 }
 
-#*** getordinarium($lanf, $command)
+#*** getordinarium($lang, $command)
 # returns the ordinarium for the language and hora
 sub getordinarium {
   my $lang = shift;
@@ -1299,13 +1299,13 @@ sub getordinarium {
   my @script = ();
   my $suffix = "";
   if ($command =~ /Matutinum/i && $rule =~ /Special Matutinum Incipit/i) { $suffix .= "e"; }    # for Epiphanias
+	if ($command =~ /Tertia|Sexta|Nona/i) { $command = 'Minor'; }    # identical for Terz/Sext/Non
 
   if ($version =~ /(1955|1960|Newcal)/) {
     $suffix .= "1960";
   } elsif ($version =~ /Bavariae/i) {
-    $suffix .= "B";
-  }                                                                                             # mal schauen
-  elsif ($version =~ /1963/) {
+    $suffix .= "B";# mal schauen
+  } elsif ($version =~ /1963/) {
     $suffix .= "M1963";
   } elsif ($version =~ /Monastic/i) {
     $suffix .= "M";
@@ -1314,8 +1314,9 @@ sub getordinarium {
   }
 
   # don't loose time for non existent files
-  $suffix = '' if $command =~ /^Completorium$/;
-  $lang = 'Latin' if $command !~ /^(?:Matutinum|Prima)$/ && $lang !~ /gabc/i && $version !~ /bavariae/i;
+	$suffix = '' if $command =~ /^Completorium|^Minor$|^Vespera$|^Laudes$/;
+#  $lang = 'Latin' if $command !~ /^(?:Matutinum|Prima)$/ && $lang !~ /gabc/i && $version !~ /bavariae/i;
+  $lang = 'Latin' if $command !~ /^(?:Matutinum|Prima)$/ && $lang !~ /gabc/i;
 
   my $fname = checkfile($lang, "Ordinarium/$command$suffix.txt");
 

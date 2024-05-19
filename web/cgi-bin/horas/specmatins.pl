@@ -247,8 +247,6 @@ sub psalmi_matutinum {
     @psalmi = split("\n", $w);
     $comment = $c;
     $prefix .= ' ' . translate('et Psalmi', $lang);
-
-    #setbuild2("Subst proper Ant Matutinum $winner");
   }
 
   if ($dayname[0] =~ /Pasc[1-6]/i && $votive !~ /C9/) {
@@ -696,7 +694,8 @@ sub lectio : ScriptFunc {
   }
 
   #Nat1-0 special rule
-  # TODO: Get rid of this special case by separating the temporal and sanctoral parts of Christmas, thus allowing occurring Scripture to be defined.
+  # TODO: Get rid of this special case by separating the temporal and sanctoral
+  # parts of Christmas, thus allowing occurring Scripture to be defined.
   if ($num <= 3 && $rule =~ /Lectio1 OctNat/i) {
     my $c;
 
@@ -807,11 +806,10 @@ sub lectio : ScriptFunc {
       || (
         ($num < 4 || ($num == 4 && $rule =~ /12 lectiones/i))    # or we are in the first nocturn
         && $homilyflag                                           # and there is a homily to be commemorated
-        && exists($commune{"Lectio$num"})
+        && exists($commune{"Lectio$num"})                        # which has not been superseded by the sanctoral
       )
     )
-    )
-  {    # which has not been superseded by the sanctoral
+  ) {
     %w = (columnsel($lang)) ? %commune : %commune2;
     $w = $w{"Lectio$num"};
     if ($w && $num == 1) { setbuild2("Lectio1-3 from Tempora/$file replacing homily"); }
@@ -1110,7 +1108,7 @@ sub lectio : ScriptFunc {
     my $before = '';
     my $rest = $w;
     $rest =~ s/[\n\_ ]*$//gs;
-    while ($rest =~ /(.*?\s)_(.*)/s) { $before .= "$1_"; $rest = $2; }
+    while ($rest =~ /(.*?)_(.*)/s) { $before .= "$1_"; $rest = $2; }
     if (!$before) { $before = $w; $rest = ''; }
     $before =~ s/[\n\_ ~]*$//gs;
 
@@ -1121,7 +1119,7 @@ sub lectio : ScriptFunc {
       $before .= "\n_\n$1";
       $rest = "&teDeum\n";
     }
-    $w = "$before" . "\n$tuautem\n\_\n$rest";
+    $w = "$before" . "\n$tuautem\n_\n$rest";
   }
 
   # add initial to text
