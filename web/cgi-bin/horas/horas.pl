@@ -441,6 +441,7 @@ sub psalm : ScriptFunc {
     $lang = $a[3];
     $antline = $a[4];
   }
+
   my $canticlef = 230 < $num && $num < 234;
 
   if ($num =~ /^-(.*)/) {

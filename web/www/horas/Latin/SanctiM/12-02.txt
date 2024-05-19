@@ -1,7 +1,4 @@
-@Sancti/12-04
+@Sancti/12-02
 
-[Rank] (rubrica 1963)
-S. Petri Chrysologi Episcopi Confessoris et Ecclesiæ Doctoris;;Simplex;;1.1;;vide C4a
-
-[Responsory3]
-@Commune/C4a:Responsory8
+[Rank]
+S. Bibianæ Virginis et Martyris;;Simplex;;1.1;;vide C6b

@@ -591,7 +591,7 @@ sub lectiones {
       my $j = 6;                                                                         # "Cujus …, ipse"
       if ($winner{Rank} =~ /(virgin|vidua|poenitentis|pœnitentis|C6|C7)/i) { $j += 2; }  # "Cujus …, ipsa"
       if ($winner{Rank} =~ /ss\./i) { $j++; }                                            # "Quorum / Quarum"
-      $a[($version =~ /Monastic/) ? 4 : 3] = $a[$j];                                     # Replace Benediction 8 (or 11)
+      $a[($version =~ /Monastic/i) ? 4 : 3] = $a[$j];                                    # Replace Benediction 8 (or 11)
     }
 
     if ($rule =~ /Ipsa Virgo Virginum/i && !$divaux) {
@@ -694,8 +694,7 @@ sub lectio : ScriptFunc {
   }
 
   #Nat1-0 special rule
-  # TODO: Get rid of this special case by separating the temporal and sanctoral
-  # parts of Christmas, thus allowing occurring Scripture to be defined.
+  # TODO: Get rid of this special case by separating the temporal and sanctoral parts of Christmas, thus allowing occurring Scripture to be defined.
   if ($num <= 3 && $rule =~ /Lectio1 OctNat/i) {
     my $c;
 
@@ -717,8 +716,7 @@ sub lectio : ScriptFunc {
   # TODO: get TemporaM folder updated and completed
   if ((($winner eq 'TemporaM/Nat2-0.txt') || ($winner eq 'SanctiM/01-13.txt')) && $num <= 4) {
     $c =
-      officestring($lang, $winner =~ /Tempora/ ? sprintf("SanctiM/01-%02d.txt", $day) : "TemporaM/Epi1-$dayofweek.txt",
-      );
+      officestring($lang, $winner =~ /Tempora/ ? sprintf("SanctiM/01-%02d.txt", $day) : "TemporaM/Epi1-$dayofweek.txt");
     $w{"Lectio$num"} = $c->{"LectioM$num"} || $c->{"Lectio$num"};
   }
 
@@ -806,10 +804,11 @@ sub lectio : ScriptFunc {
       || (
         ($num < 4 || ($num == 4 && $rule =~ /12 lectiones/i))    # or we are in the first nocturn
         && $homilyflag                                           # and there is a homily to be commemorated
-        && exists($commune{"Lectio$num"})                        # which has not been superseded by the sanctoral
+        && exists($commune{"Lectio$num"})
       )
     )
-  ) {
+    )
+  {    # which has not been superseded by the sanctoral
     %w = (columnsel($lang)) ? %commune : %commune2;
     $w = $w{"Lectio$num"};
     if ($w && $num == 1) { setbuild2("Lectio1-3 from Tempora/$file replacing homily"); }
@@ -910,8 +909,7 @@ sub lectio : ScriptFunc {
     && $commune !~ /C10/
     && $rule !~ /no93/i
     && $winner{Rank} !~ /Octav.*(Epi|Corp)/i
-
-    # && ($dayofweek != 0 || $winner =~ /Sancti/i || $winner =~ /Nat2/i)
+    #&& ($dayofweek != 0 || $winner =~ /Sancti/i || $winner =~ /Nat2/i)
     && (
          ($rule =~ /9 lectio/i && $num == 9 && !exists($winner{Responsory9}))
       || ($rule !~ /(9|12) lectio/i && $num == 3 && $winner !~ /Tempora/i && !exists($winner{Responsory3}))
