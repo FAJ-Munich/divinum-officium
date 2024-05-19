@@ -1,6 +1,6 @@
 #Incipit
 $Pater Ave L
-$Deus in adjutorium
+&Deus_in_adjutorium
 &Alleluia
 
 (rubrica Monastica dicitur)

@@ -20,7 +20,7 @@ $Deus in adjutorium
 
 #Conclusio
 &Dominus_vobiscum
-&Benedicamus_Domino
+$Benedicamus Domino
 $Fidelium animae
 
 $Pater post

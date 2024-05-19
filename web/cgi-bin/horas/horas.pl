@@ -226,7 +226,6 @@ sub teDeum : ScriptFunc {
 sub Deus_in_adjutorium : ScriptFunc {
 
   my $lang = shift;
-  our %prayers;
 
   our ($winner, @dayname);
   my %latwinner = %{setupstring('Latin', $winner)};
@@ -242,17 +241,17 @@ sub Deus_in_adjutorium : ScriptFunc {
     || $latrank < 2)
   {
     our $incipitTone = 'ferial';
-    return $prayers{$lang}->{'Deus in adjutorium'};
+    return prayer('Deus in adjutorium', $lang);
   }
 
   our $chantTone;    # has been filled by setChantTone() @horascommon.pl
 
   if ($hora !~ /vespera/i || $chantTone !~ /solemnis|resurrectionis/i) {
     our $incipitTone = 'festal';
-    return $prayers{$lang}->{'Deus in adjutorium1'};    # Festal tone
+    return prayer('Deus in adjutorium1', $lang);    # Festal tone
   } else {    # Solemn Vespers only
     our $incipitTone = 'solemn';
-    return $prayers{$lang}->{'Deus in adjutorium2'};    # Solemn tone
+    return prayer('Deus in adjutorium2', $lang);    # Solemn tone
   }
 }
 
@@ -1318,6 +1317,7 @@ sub getordinarium {
 	$suffix = '' if $command =~ /^Completorium|^Minor$|^Vespera$|^Laudes$/;
 #  $lang = 'Latin' if $command !~ /^(?:Matutinum|Prima)$/ && $lang !~ /gabc/i && $version !~ /bavariae/i;
   $lang = 'Latin' if $command !~ /^(?:Matutinum|Prima)$/ && $lang !~ /gabc/i;
+
 
   my $fname = checkfile($lang, "Ordinarium/$command$suffix.txt");
 
