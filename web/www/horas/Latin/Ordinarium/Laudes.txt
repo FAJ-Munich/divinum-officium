@@ -20,7 +20,7 @@ $Pater Ave L
 &ant_Benedictus(2)
 
 #Preces Feriales
-(sed rubrica Monastica omittitur)
+(sed rubrica ^Monastic omittitur)
 
 #Oratio
 
@@ -31,7 +31,7 @@ $Pater Ave L
 &Dominus_vobiscum
 &Benedicamus_Domino
 $Fidelium animae
-(rubrica Monastica dicitur)
+(rubrica ^Monastic dicitur)
 &Divinum_auxilium
 
 $Secreto

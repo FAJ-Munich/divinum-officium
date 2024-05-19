@@ -93,7 +93,7 @@ v. I confess to almighty God, to blessed Mary ever Virgin, to blessed Michael th
 [Confiteor] (rubrica Ordo Praedicatorum)
 v.  I confess to almighty God, to blessed Mary ever Virgin, to blessed Dominic our father, to all the Saints and to you, brethren, that I have sinned exceedingly by thought, word, deed and omission, through my fault: I beseech you to pray for me.
 
-[Confiteor] (rubrica Monastica)
+[Confiteor] (rubrica ^Monastic)
 @:Confiteor_:s/Paul/Paul, our holy Father Benedict/g
 
 [Misereatur]

@@ -123,7 +123,7 @@ v. Confíteor Deo omnipoténti, beátæ Maríæ semper Vírgini, beáto Michaél
 [Confiteor]
 @:Confiteor_
 
-[Confiteor] (rubrica Monastica)
+[Confiteor] (rubrica ^Monastic)
 @:Confiteor_:s/Paulo/Paulo, beáto Patri nostro Benedícto/ s/Paulum/Paulum, beátum Patrem nostrum Benedíctum/
 
 [Confiteor] (rubrica Ordo Praedicatorum)

@@ -130,8 +130,6 @@ sub specials {
         push(@s, prayer("Preces flexis genibus", $lang));
       }
 
-#      if ($hora =~ /Laudes|Tertia|Sexta|Nona|Vespera/ && $version !~ /Bavariae/)
-#      {                              # the text for Bavariae is still in the Ordo files
       if ($hora =~ /Laudes|Tertia|Sexta|Nona|Vespera/) {
         push(@s, prayer("Preces feriales $hora", $lang));
       } elsif ($hora eq 'Completorium') {

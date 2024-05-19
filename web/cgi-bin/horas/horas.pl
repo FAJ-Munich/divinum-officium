@@ -1315,7 +1315,6 @@ sub getordinarium {
 
   # don't loose time for non existent files
 	$suffix = '' if $command =~ /^Completorium|^Minor$|^Vespera$|^Laudes$/;
-#  $lang = 'Latin' if $command !~ /^(?:Matutinum|Prima)$/ && $lang !~ /gabc/i && $version !~ /bavariae/i;
   $lang = 'Latin' if $command !~ /^(?:Matutinum|Prima)$/ && $lang !~ /gabc/i;
 
 

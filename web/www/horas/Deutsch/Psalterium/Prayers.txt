@@ -94,7 +94,7 @@ R. Und laß mein Rufen zu dir kommen.
 [Confiteor_]
 v. Ich bekenne Gott, dem Allmächtigen, der seligen, allzeit reinen Jungfrau Maria, dem heiligen Erzengel Michael, dem heiligen Johannes dem Täufer, den heiligen Aposteln Petrus und Paulus und allen Heiligen, daß ich viel gesündigt habe in Gedanken, Worten und Werken: /:man schlägt sich an die Brust:/ durch meine Schuld, durch meine Schuld, durch meine große Schuld. Darum bitte ich die selige, allzeit reine Jungfrau Maria, den heiligen Erzengel Michael, den heiligen Johannes den Täufer, die heiligen Apostel Petrus und Paulus und alle Heiligen für mich zu beten bei Gott, unserem Herrn. 
 
-[Confiteor] (rubrica Monastica)
+[Confiteor] (rubrica ^Monastic)
 @:Confiteor_:s/Paulus und allen /Paulus, unserem heiligen Vater Benedikt und allen / s/Paulus und alle/Paulus, unseren heiligen Vater Benedikt und alle/
 
 [Misereatur]
