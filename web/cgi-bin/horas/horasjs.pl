@@ -1,7 +1,8 @@
 #*** Javascript functions
 # the sub is called from htmlhead
 sub horasjs {
-  my($output);
+  my ($output);
+
   # $caller in principle might not be defined.
   my $caller_flag = $caller || 0;
 
@@ -175,17 +176,18 @@ function clearradio() {
 }
 PrintTag
 
-  $output
+  $output;
 }
 
 #to convert gabc into chant svg
 sub horasjsend {
-	
-	print "\n<SCRIPT TYPE='text/JavaScript'>\n";
-	# $caller in principle might not be defined.
-	my $caller_flag = $caller || 0;
-	
-	print << "PrintTag";
+
+  print "\n<SCRIPT TYPE='text/JavaScript'>\n";
+
+  # $caller in principle might not be defined.
+  my $caller_flag = $caller || 0;
+
+  print << "PrintTag";
 		
 	
 	
@@ -256,5 +258,5 @@ sub horasjsend {
 		</SCRIPT>
 PrintTag
 }
-	
+
 1;
