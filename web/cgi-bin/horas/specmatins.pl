@@ -1051,7 +1051,7 @@ sub lectio : ScriptFunc {
     my $before = '';
     my $rest = $w;
     $rest =~ s/[\n\_ ]*$//gs;
-    while ($rest =~ /(.*?\s)_(.*)/s) { $before .= "$1_"; $rest = $2; }
+    while ($rest =~ /(.*?)_(.*)/s) { $before .= "$1_"; $rest = $2; }
     if (!$before) { $before = $w; $rest = ''; }
     $before =~ s/[\n\_ ~]*$//gs;
 
@@ -1062,7 +1062,7 @@ sub lectio : ScriptFunc {
       $before .= "\n_\n$1";
       $rest = "&teDeum\n";
     }
-    $w = "$before" . "\n$tuautem\n\_\n$rest";
+    $w = "$before" . "\n$tuautem\n_\n$rest";
   }
 
   # add initial to text

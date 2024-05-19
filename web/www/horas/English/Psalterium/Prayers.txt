@@ -1,5 +1,5 @@
 [Pater noster]
-v. Our Father, who art in heaven,  Hallowed be thy name.  Thy kingdom come.  Thy will be done on earth as it is in heaven. Give us this day our daily bread.  And forgive us our trespasses, as we forgive those who trespass against us.  And lead us not into temptation:  But deliver us from evil.  Amen.
+v. Our Father, who art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done on earth as it is in heaven. Give us this day our daily bread.  And forgive us our trespasses, as we forgive those who trespass against us.  And lead us not into temptation: But deliver us from evil. Amen.
 
 [Pater_noster1]
 v. Our Father, who art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done on earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, as we forgive those who trespass against us. 
@@ -13,7 +13,7 @@ v. Hail Mary, full of grace, the Lord is with thee; blessed art thou amongst wom
 v. I believe in God, the Father almighty, Creator of heaven and earth. And in Jesus Christ, his only Son, our Lord; who was conceived by the Holy Ghost, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried: he descended into hell; the third day he arose again from the dead; he ascended into heaven; sitteth at the right hand of God the Father almighty: from thence he shall come to judge the living and the dead. I believe in the Holy Ghost, the holy catholic Church, the communion of Saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.
 
 [Pater secreto]
-!"Our Father" is said silently until "And lead us not into temptation:".
+/:"Our Father" is said silently until "And lead us not into temptation:".:/
 &pater_noster
 
 [Pater totum secreto]
@@ -25,6 +25,33 @@ $Pater noster
 v. I believe in God, the Father almighty, Creator of heaven and earth. And in Jesus Christ, his only Son, our Lord; who was conceived by the Holy Ghost, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried: he descended into hell; the third day he arose again from the dead; he ascended into heaven; sitteth at the right hand of God the Father almighty: from thence he shall come to judge the living and the dead. I believe in the Holy Ghost, the holy catholic Church, the communion of Saints, the forgiveness of sins. 
 V. The resurrection of the body. 
 R. And life everlasting. Amen.
+
+[Pater post]
+/:Thereafter, only « Pater Noster » is said silently, unless another Hour follows immediately.:/
+@:Pater noster
+
+[Pater post V]
+/:And if thus the Office is ended, only « Pater Noster » is said silently.:/
+@:Pater noster
+
+[Secreto]
+/:silently:/
+
+[Secreto L]
+/:If Matins and Lauds are separated, then is said silently::/
+
+[Clara voce]
+/:Thereafter, with hearable voice, the Versicle is said::/
+
+[Secus absolute]
+/:Otherwise, the hour is started directly as follows::/
+
+[Pater Ave Credo C]
+/:Thereafter is said silently:/
+@:Pater noster
+@:Ave Maria
+@:Credo
+/:If right after Compline, Matins is said, then:/ Our Father, Hail Mary /:and:/ Credo, /:are said twice, once each for the Office of the previous day, and for the beginning of the Office of the next.:/
 
 [Adjutorium nostrum]
 V. Our help is + in the name of the Lord,  
@@ -210,11 +237,6 @@ v. Thou art worthy of praise, thou art worthy of hymns, to Thee be glory: to God
 [Kyrie]
 v. Lord have mercy upon us, Christ have mercy upon us, Lord have mercy upon us.
 
-[MLitany2]
-$Kyrie
-/:"Our Father" is said silently until "And lead us not into temptation:".:/
-&pater_noster
-
 [Divinum auxilium]
 (rubrica Monastica)
 /:Then, in the public recitation of the Office, if the Community is to leave the Choir, the following Versicle is said.:/
@@ -335,7 +357,7 @@ v. Visit, we beseech thee, O Lord, this dwelling, and drive far from it the snar
 
 [Benedictio Completorium_]
 V. Grant, Lord, a blessing.
-Benedictio. May almighty God grant us a quiet night and a perfect end. Amen.
+Benedictio. May almighty God grant us a quiet night and a perfect end.
 
 [Benedictio Completorium2]
 Benedictio. The almighty and merciful Lord, + the Father, the Son and the Holy Spirit, bless us and keep us.
