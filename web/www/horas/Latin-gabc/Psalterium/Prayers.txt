@@ -280,6 +280,14 @@ R/. Que(h)mád(h)mo(h)dum(h) spe(h)rá(h)vi(g)mus(gr) in(f) te.(h.) (::Z)
 V/. Dó(h)mi(h)ne,(h) ex(h)áu(h)di(h) o(h)ra(h)ti(h)ó(h)nem(h) me(h)am.(f.) (::)
 R/. Et(h) cla(h)mor(h) me(h)us(h) ad(h) te(h) vé(h)ni(f)at.(f.) (::)}
 
+[Preces Dominicales] (rubrica monastica)
+$MLitany2
+$Credo secreto
+{initial-style:0;%%(c3) V/. Dig(h)ná(h)re,(h) Dó(h)mi(h)ne,(h) noc(h)te(h) is(h)ta.(f.) (::)
+R/. Si(h)ne(h) pec(h)cá(h)to(h) nos(h) cus(h)to(h)dí(h)re.(f.) (::Z)
+V/. Dó(h)mi(h)ne,(h) ex(h)áu(h)di(h) o(h)ra(h)ti(h)ó(h)nem(h) me(h)am.(f.) (::)
+R/. Et(h) cla(h)mor(h) me(h)us(h) ad(h) te(h) vé(h)ni(f)at.(f.) (::)}
+
 [A porta inferi]
 V. A porta ínferi.
 R. Erue, Dómine, ánimas eórum.

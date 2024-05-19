@@ -377,6 +377,7 @@ R. Et clamor meus ad te véniat.
 $Kyrie
 $Pater secreto
 $Credo secreto
+
 V. Benedíctus es, Dómine, Deus patrum nostrórum. 
 R. Et laudábilis et gloriósus in sǽcula.
 V. Benedicámus Patrem et Fílium cum Sancto Spíritu. 
@@ -385,12 +386,17 @@ V. Benedíctus es, Dómine, in firmaménto cæli.
 R. Et laudábilis, et gloriósus, et superexaltátus in sǽcula.
 V. Benedícat et custódiat nos omnípotens et miséricors Dóminus. 
 R. Amen.
+(sed rubrica monastica omittitur)
+
 V. Dignáre, Dómine, nocte ista. 
 R. Sine peccáto nos custodíre.
+
 V. Miserére nostri, Dómine. 
 R. Miserére nostri.
 V. Fiat misericórdia tua, Dómine, super nos. 
 R. Quemádmodum sperávimus in te.
+(sed rubrica monastica omittitur)
+
 V. Dómine, exáudi oratiónem meam.
 R. Et clamor meus ad te véniat.
 
