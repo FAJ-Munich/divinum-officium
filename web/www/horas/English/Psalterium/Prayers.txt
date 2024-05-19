@@ -17,7 +17,7 @@ v. I believe in God, the Father almighty, Creator of heaven and earth. And in Je
 &pater_noster
 
 [Pater totum secreto]
-!"Our Father" is said completely in silence
+/:"Our Father" is said completely in silence.:/
 $Pater noster
 
 [Credo secreto]

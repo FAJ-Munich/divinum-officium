@@ -458,7 +458,7 @@ sub votivenocturn {
   if ($rule !~ /Limit.*?Benedictio/i) {
     push(@s, "\&pater_noster");
   } else {
-    push(@s, "\$Pater noster");
+    push(@s, "\$Pater totum secreto");
   }
 
   if ($winner !~ /C12/i) {

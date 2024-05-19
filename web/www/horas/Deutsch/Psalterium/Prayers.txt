@@ -19,7 +19,7 @@ Ich glaube an den Heiligen Geist, die heilige katholische Kirche, Gemeinschaft d
 &pater_noster
 
 [Pater totum secreto]
-!Das « Vater unser » wird gänzlich still gebetet.
+/:Das « Vater unser » wird gänzlich still gebetet.:/
 $Pater noster
 
 [Credo secreto]
