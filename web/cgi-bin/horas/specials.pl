@@ -1169,6 +1169,7 @@ sub oratio {
 
   if ($dayofweek > 0 && exists($w{"OratioW"}) && $rank < 5) {
     $w = $w{"OratioW"};    # Ferias in 1st week after Pentecost only
+		setbuild2("Oratio de Dominica I post Pentecosten");
   } else {
     $w = $w{"Oratio"};
   }
