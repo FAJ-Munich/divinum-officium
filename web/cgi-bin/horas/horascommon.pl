@@ -734,7 +734,9 @@ sub concurrence {
     $rank = $wrank[2] = 4.9;
   }
 
-  if ($cwrank[0] =~ /Dominica/i && $cwrank[0] !~ /infra octavam/i && $crank < 7 && $version !~ /1955|196/) {
+  if ($cwrank[0] =~ /Dominica/i && $cwrank[0] !~ /infra octavam/i && $cwrank[1] =~ /semiduplex/i && $version !~ /1955|196/) {
+		
+		# before 1955, even Major Sundays gave way at I Vespers to a Duplex (or Duplex II. cl.)
     $cwrank[2] = $crank = $version =~ /trident/i ? 2.9 : 4.9;
   }
 
@@ -1551,7 +1553,9 @@ sub precedence {
   } else {
     $laudes = (
         (
-             (($dayname[0] =~ /Adv/i && $dayofweek != 0) || $dayname[0] =~ /Quad/i || emberday())
+             (($dayname[0] =~ /Adv/i && $dayofweek != 0) 
+               || $dayname[0] =~ /Quad/i 
+               || (emberday() && $dayname[0] !~ /Pasc/))
           && $winner =~ /tempora/i
           && $winner{Rank} !~ /(Beatæ|Sanctæ) Mariæ/i
         )
