@@ -14,14 +14,6 @@ v. Credo in Deum, Patrem omnipoténtem, Creatórem cæli et terræ.
 Et in Jesum Christum, Fílium ejus únicum, Dóminum nostrum: qui concéptus est de Spíritu Sancto, natus ex María Vírgine, passus sub Póntio Piláto, crucifíxus, mórtuus, et sepúltus: descéndit ad ínferos; tértia die resurréxit a mórtuis; ascéndit ad cælos; sedet ad déxteram Dei Patris omnipoténtis: inde ventúrus est judicáre vivos et mórtuos.
 Credo in Spíritum Sanctum, sanctam Ecclésiam cathólicam, Sanctórum communiónem, remissiónem peccatórum, carnis resurrectiónem, vitam ætérnam. Amen.
 
-[Pater secreto]
-!« Pater Noster » dicitur secreto usque ad « Et ne nos indúcas in tentatiónem: »
-&pater_noster
-
-[Pater totum secreto]
-!« Pater Noster » dicitur totum secreto.
-$Pater noster
-
 [Credo secreto]
 !« Credo » dicitur secreto usque ad « Carnis resurrectiónem. »
 v. Credo in Deum, Patrem omnipoténtem, Creatórem cæli et terræ. Et in Jesum Christum, Fílium ejus únicum, Dóminum nostrum: qui concéptus est de Spíritu Sancto, natus ex María Vírgine, passus sub Póntio Piláto, crucifíxus, mórtuus, et sepúltus: descéndit ad ínferos; tértia die resurréxit a mórtuis; ascéndit ad cælos; sedet ad déxteram Dei Patris omnipoténtis: inde ventúrus est judicáre vivos et mórtuos. Credo in Spíritum Sanctum, sanctam Ecclésiam cathólicam, Sanctórum communiónem, remissiónem peccatórum.
@@ -285,6 +277,14 @@ V/. Mi(h)se(h)ré(h)re(h) nos(h)tri,(h) Dó(h)mi(f)ne.(f.) (::)
 R/. Mi(h)se(h)ré(h)re(h) nos(h)tri.(f.) (::Z)
 V/. Fi(h)at(h) mi(h)se(h)ri(h)cór(h)di(h)a(h) tu(h)a,(h) Dó(h)mi(h)ne,(h) su(h)per(f) nos.(h.) (::)
 R/. Que(h)mád(h)mo(h)dum(h) spe(h)rá(h)vi(g)mus(gr) in(f) te.(h.) (::Z)
+V/. Dó(h)mi(h)ne,(h) ex(h)áu(h)di(h) o(h)ra(h)ti(h)ó(h)nem(h) me(h)am.(f.) (::)
+R/. Et(h) cla(h)mor(h) me(h)us(h) ad(h) te(h) vé(h)ni(f)at.(f.) (::)}
+
+[Preces Dominicales] (rubrica monastica)
+$MLitany2
+$Credo secreto
+{initial-style:0;%%(c3) V/. Dig(h)ná(h)re,(h) Dó(h)mi(h)ne,(h) noc(h)te(h) is(h)ta.(f.) (::)
+R/. Si(h)ne(h) pec(h)cá(h)to(h) nos(h) cus(h)to(h)dí(h)re.(f.) (::Z)
 V/. Dó(h)mi(h)ne,(h) ex(h)áu(h)di(h) o(h)ra(h)ti(h)ó(h)nem(h) me(h)am.(f.) (::)
 R/. Et(h) cla(h)mor(h) me(h)us(h) ad(h) te(h) vé(h)ni(f)at.(f.) (::)}
 
