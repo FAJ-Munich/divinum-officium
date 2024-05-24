@@ -5,9 +5,6 @@
 Psalmi Dominica
 Antiphonas horas
 
-[Ant Vespera]
-@Tempora/Pasc7-0::s/\n/;;109_/ s/\n/;;110_/ s/\n/;;111_/ s/\n/;;112_/ s/_/\n/g
-
 [Capitulum Vespera]
 @Tempora/Pasc7-0
 _
@@ -115,19 +112,7 @@ $Deo gratias
 _
 @Tempora/Pasc7-0:Versum 3
 
-[Ant Laudes]
-@Tempora/Pasc7-0:Ant Vespera:s/;;.*//
-
 [Capitulum Laudes]
 @Tempora/Pasc7-0
 _
-@Tempora/Pasc7-0:Responsory Tertia:1-6
-
-[Responsory Tertia]
-@Tempora/Pasc7-0:Ant Matutinum:4-5
-
-[Responsory Sexta]
-@Tempora/Pasc7-0:Responsory Tertia:8-9
-
-[Responsory Nona]
-@Tempora/Pasc7-0:Versum 1
+R.br. {gabc:Tempora/Pascha/rb--spiritus_domini_replevit--solesmes}
