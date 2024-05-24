@@ -1285,14 +1285,22 @@ sub getordinarium {
 
   # don't loose time for non existent files
   $suffix = '' if $command =~ /^Completorium|^Minor$|^Vespera$|^Laudes$/;
-  $lang = 'Latin' if $command !~ /^(?:Matutinum|Prima)$/;
+#  $lang = 'Latin' if $command !~ /^(?:Matutinum|Prima)$/;
 
-  my $fname = checkfile($lang, "Ordinarium/$command$suffix.txt");
-
+  my $fname = checkfile($command =~ /^(?:Matutinum|Prima)$/ ? $lang : 'Latin',
+		"Ordinarium/$command$suffix.txt");
+	
   @script = process_conditional_lines(do_read($fname));
   $error = "$fname cannot be opened or gives an empty script." unless @script;
 
-  # Prelude pseudo-item.
+	# Psalms 3 and 66 in ordinarium get their chanttone here:
+	if ($lang =~ /gabc/i) {
+		foreach my $line (@script) {
+			$line =~ s/^\&psalm\((\d+)\)/\&psalm(\'$1,in-dir-monasticus\')/
+		}
+	}
+	
+	# Prelude pseudo-item.
   unshift @script, '#Prelude', '';
   return @script;
 }
