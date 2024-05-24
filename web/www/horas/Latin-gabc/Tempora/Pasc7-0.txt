@@ -36,45 +36,10 @@ $Deo gratias
 
 [Hymnus Vespera]
 !Prima stropha hymni sequentis dicitur flexibus genibus.
-v. Veni, Creátor Spíritus,
-Mentes tuórum vísita,
-Imple supérna grátia,
-Quæ tu creásti péctora.
-_
-Qui díceris Paráclitus,
-Altíssimi donum Dei,
-Fons vivus, ignis, cáritas,
-Et spiritális únctio.
-_
-Tu septifórmis múnere,
-Dígitus patérnæ déxteræ,
-Tu rite promíssum Patris,
-Sermóne ditans gúttura.
-_
-Accénde lumen sénsibus:
-Infúnde amórem córdibus:
-Infírma nostri córporis
-Virtúte firmans pérpeti.
-_
-Hostem repéllas lóngius,
-Pacémque dones prótinus:
-Ductóre sic te prǽvio
-Vitémus omne nóxium.
-_
-Per te sciámus da Patrem,
-Noscámus atque Fílium,
-Teque utriúsque Spíritum
-Credámus omni témpore.
-_
-* Deo Patri sit glória,
-Et Fílio, qui a mórtuis
-Surréxit, ac Paráclito,
-In sæculórum sǽcula.
-Amen.
+{gabc:Tempora/Pascha/hy--veni_creator_spiritus--solesmes.1}
 
 [Versum 1]
-V. Repléti sunt omnes Spíritu Sancto, allelúja.
-R. Et cœpérunt loqui, allelúja.
+{initial-style:0;%%(c3) V/. Re(h)plé(h)ti(h) sunt(h) om(h)nes(h) Spí(h)ri(h)tu(h) San(hi)cto,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::) R/. Et(h) cœ(h)pé(h)runt(h) lo(hi)qui,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 1]
 Non vos relínquam * órphanos, allelúja: vado et vénio ad vos, allelúja: et gaudébit cor vestrum, allelúja.
@@ -217,51 +182,14 @@ R. Et convénit multitúdo dicéntium, allelúja.
 Et Pater meus díliget eum, et ad eum veniémus, et mansiónem apud eum faciémus. Pensáte, fratres caríssimi, quanta sit ista dígnitas, habére in cordis hospítio advéntum Dei. Certe, si domum nostram quisquam dives aut prǽpotens amícus intráret, omni festinántia domus tota mundarétur, ne quid fortásse esset, quod óculos amíci intrántis offénderet. Tergat ergo sordes pravi óperis, qui Deo prǽparat domum mentis. Sed vidéte quid Véritas dicat: Veniémus, et mansiónem apud eum faciémus. In quorúmdam étenim corda venit, et mansiónem non facit: quia, per compunctiónem quidem, Dei respéctum percípiunt, sed tentatiónis témpore hoc ipsum quo compúncti fúerant, obliviscúntur; sicque ad perpetránda peccáta rédeunt, ac si hæc mínime planxíssent.
 &teDeum
 
-[Ant Laudes]
-@:Ant Vespera
-
 [Capitulum Laudes]
 @:Capitulum Vespera
 
 [HymnusM Laudes]
-@:Hymnus Laudes:s/Illápsus est Apóstolis/Effúlsit in discípulos/ s/círculo/número/
+{gabc:Tempora/Pascha/hy--beata_nobis_gaudia--solesmes_1934}
 
 [Hymnus Laudes]
-{:H-Beatanobisgaudia:}v. Beáta nobis gáudia
-Anni redúxit órbita,
-Cum Spíritus Paráclitus
-Illápsus est Apóstolis.
-_
-Ignis vibránte lúmine
-Linguæ figúram détulit,
-Verbis ut essent próflui,
-Et caritáte férvidi.
-_
-Linguis loquúntur ómnium;
-Turbæ pavent Gentílium,
-Musto madére députant
-Quos Spíritus repléverat.
-_
-Patráta sunt hæc mýstice,
-Paschæ perácto témpore,
-Sacro diérum círculo,
-Quo lege fit remíssio.
-_
-Te nunc, Deus piíssime,
-Vultu precámur cérnuo:
-Illápsa nobis cǽlitus
-Largíre dona Spíritus.
-_
-Dudum sacráta péctora
-Tua replésti grátia:
-Dimítte nostra crímina,
-Et da quiéta témpora.
-_
-* Deo Patri sit glória,
-Et Fílio, qui a mórtuis
-Surréxit, ac Paráclito,
-In sæculórum sǽcula.
-Amen.
+{gabc:Tempora/Pascha/hy--beata_nobis_gaudia--solesmes_1961.1}
 
 [Versum 2]
 @:Versum 1
@@ -335,5 +263,3 @@ Hódie * compléti sunt dies Pentecóstes, allelúja: hódie Spíritus Sanctus i
 (sed rubrica monastica)
 {name:Hodie completi sunt;annotation:1. D;mode:1;book:Antiphonale Monasticum, 1934, p. 524;transcriber:Matthias Bry;%%(c4)HO(c)di(cd)e(d_') *(,) com(f>)plé(fe)ti(de) sunt(ddc) di(f_h)es(g_h) Pen(f_g)te(h)có(fe)stes,(dc) al(d_g)le(fe)lú(d.)ja :(d.) (:) hó(dh'1iv)di(h)e(h'_) (,) Spí(h)ri(hg)tus(gf) San(ghg~)ctus(h_/i/ih.) (;) in(d) i(f>)gne(d'_) di(d)scí(dg)pu(f)lis(fe) ap(d)pá(fe)ru(dc)it,(c'_) (,) et(c) trí(d')bu(d)it(e) e(dc)is(c.) cha(f)rís(g)ma(ed)tum(fe~) do(d.)na :(d.) (:) mi(dh'1iv)sit(h) e(hg)os(g_h) in(h) u(h)ni(hg)vér(h)sum(ji~) mun(h_i)dum(h_') (,) præ(h)di(g')cá(h)re(g') et(f) te(e_f)sti(gh)fi(fe)cá(d.)ri :(d.) (;) qui(fe) cre(d)dí(e')de(f)rit,(gh/hg'_,) et(fh/hg) bap(e')ti(g)zá(fe)tus(d) fú(fe)e(dc)rit,(c.) (,) sal(c_d)vus(f_gF'E) e(ggh)rit,(fv_ED'C__) al(d_g)le(fe)lú(d.)ja.(d.) (::)};;solemn1D
 
-[Ant Vespera 3]
-@:Ant Vespera
