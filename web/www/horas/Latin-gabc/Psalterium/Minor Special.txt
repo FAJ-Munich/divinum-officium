@@ -615,14 +615,14 @@ $Tu autem
 
 [Completorium_]
 !Jer 14:9
-v. Tu autem in nobis es, Dómine, et nomen sanctum tuum invocátum est super nos: ne derelínquas nos, Dómine, Deus noster.
+{centering-scheme: latin;%%(c3) TU(h) au(h)tem(h) in(h) no(h)bis(h) es(h) Dó(h)mi(h)ne,(h) et(h) no(h)men(h) tu(h)um(h) in(h)vo(h)cá(h)tum(h) est(h) su(h)per(h) nos,(h) ne(h) de(h)re(h)lín(f)quas(e) nos.(ef..) (::)}
 $Deo gratias
 
 [Completorium]
 @:Completorium_
 
 [Completorium] (rubrica Ordo Praedicatorum)
-@:Completorium_:s/autem //
+@:Completorium_:s/au(h)tem(h) //
 
 [Responsory Completorium]
 R.br. ~
