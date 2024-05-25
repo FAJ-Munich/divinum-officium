@@ -5,6 +5,7 @@ Dominica Pentecostes;;Duplex I Classis cum Octava privilegiata I ordinis;;7
 1 Nocturn
 Psalmi Dominica;
 Antiphonas horas
+Special Evangelii Benedictio
 Hymnus Tertia
 Prima=53
 
@@ -24,7 +25,6 @@ $Deo gratias
 @:Hymnus Vespera:s/díceris Paráclitus/Paráclitus díceris/ s/Altíssimi donum Dei/Donum Dei Altíssimi/ s/Dígitus patérnæ déxteræ/Dextræ Dei tu dígitus/ s/Teque/Te/
 
 [Hymnus Vespera]
-{:H-Venicreator:}
 !Prima stropha hymni sequentis dicitur flexibus genibus.
 v. Veni, Creátor Spíritus,
 Mentes tuórum vísita,
