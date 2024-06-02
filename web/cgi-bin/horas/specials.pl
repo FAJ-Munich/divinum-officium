@@ -291,9 +291,15 @@ sub specials {
 
       my ($resp, $c) = getproprium($key, $lang, $seasonalflag, 1);
 
+			if (!$resp) {    # take defaults from Roman minor hours
+				$key =~ s/Vespera/Breve6/;
+				$key =~ s/Laudes/Breve3/;
+				($resp, $c) = getproprium($key, $lang, $seasonalflag, 1);
+			}
+			
       if (!$resp) {    # take defaults from Roman minor hours
-        $key =~ s/Vespera/Sexta/;
-        $key =~ s/Laudes/Tertia/;
+        $key =~ s/Breve6/Sexta/;
+        $key =~ s/Breve3/Tertia/;
         ($resp, $c) = getproprium($key, $lang, $seasonalflag, 1);
       }
 
