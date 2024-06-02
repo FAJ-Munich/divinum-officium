@@ -55,20 +55,10 @@ Feria Te Deum
 _
 @TemporaM/Pasc5-4::5-6
 
-[Capitulum Tertia] (rubrica 1963)
+[Capitulum Laudes] (rubrica 1963)
 !Eph 2:6-7
 v. Conresuscitávit, et consedére nos fecit Deus in cæléstibus in Christo Jesu, ut osténderet in sǽculis superveniéntibus abundántes divítias grátiæ suæ, in bonitáte super nos in Christo Jesu.
 $Deo gratias
-
-[Capitulum Vespera] (rubrica 1963)
-@:Capitulum Tertia
-_
-@Tempora/Pasc5-4:Responsory Sexta:1-6
-
-[Capitulum Laudes] (rubrica 1963)
-@:Capitulum Tertia
-_
-@Tempora/Pasc5-4:Responsory Tertia:1-6
 
 [Capitulum Sexta] (rubrica 1963)
 !Eph 1:20-21

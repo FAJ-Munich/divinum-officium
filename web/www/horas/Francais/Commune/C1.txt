@@ -12,11 +12,6 @@ Vous êtes mes amis, * si vous faites ce que je vous commande.;;111
 Bienheureux les pacifiques, * bienheureux ceux qui ont le cœur pur, parce qu’ils verront Dieu.;;112
 C’est par votre patience * que vous posséderez vos âmes.;;116
 
-[Capitulum Vespera]
-!Eph 2:19-20
-v. Mes frères, vous n’êtes plus des hôtes et des étrangers, mais des concitoyens des saints et de la maison de Dieu ; bâtis sur le fondement des Apôtres et des Prophètes, le Christ Jésus étant lui-même la pierre angulaire.
-$Deo gratias.
-
 [Hymnus Vespera]
 {:H-Exsultetorbisgaudiis:}v. Que la terre exulte de joie :
 que le ciel retentisse de louanges :
@@ -192,6 +187,11 @@ R. L’Église est éclairée par leur doctrine comme la lune est éclairée par
 [Lectio9]
 Certains esprits s’appuient sur cette promesse pour imaginer une période de mille ans après la résurrection, période pendant laquelle nous recevrions le centuple de ce que nous avons quitté et ensuite la vie éternelle ; ils ne réfléchissent pas que si cela paraît convenable pour la plupart des biens, il serait ridicule, sous le rapport des femmes, que celui qui aurait quitté son épouse pour le Seigneur, en reçoive cent dans la vie future. Voici dons le sens de cette promesse : celui qui, pour l’amour du Sauveur aura quitté les biens charnels recevra des biens spirituels, lesquels, par leur valeur propre et comparés aux premiers, leur sont aussi supérieurs que le nombre cent l’est à un petit nombre.
 &teDeum
+
+[Capitulum Laudes]
+!Eph 2:19-20
+v. Mes frères, vous n’êtes plus des hôtes et des étrangers, mais des concitoyens des saints et de la maison de Dieu ; bâtis sur le fondement des Apôtres et des Prophètes, le Christ Jésus étant lui-même la pierre angulaire.
+$Deo gratias.
 
 [Versum 2]
 V. Ils ont annoncé les œuvres de Dieu.

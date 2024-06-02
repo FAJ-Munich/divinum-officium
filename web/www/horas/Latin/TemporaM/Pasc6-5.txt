@@ -66,22 +66,12 @@ No suffragium
 _
 @TemporaM/Pasc5-4::5-6
 
-[Capitulum Vespera] 
+[Capitulum Laudes]
 @TemporaM/Pasc6-0
 (sed rubrica 1963)
 @TemporaM/Pasc5-5
 
-[Capitulum Laudes] 
-@TemporaM/Pasc6-0
-(sed rubrica 1963)
-@TemporaM/Pasc5-5
-
-[Capitulum Tertia] 
-@TemporaM/Pasc6-0
-(sed rubrica 1963)
-@TemporaM/Pasc5-5
-
-[Capitulum Sexta] 
+[Capitulum Sexta]
 @TemporaM/Pasc6-0
 (sed rubrica 1963)
 @TemporaM/Pasc5-5
@@ -90,4 +80,3 @@ _
 @TemporaM/Pasc6-0
 (sed rubrica 1963)
 @TemporaM/Pasc5-5
-

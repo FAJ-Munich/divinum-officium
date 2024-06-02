@@ -14,11 +14,6 @@ Si quelqu'un veut être Mon serviteur, * qu'il Me suive, et là où Je suis, qu'
 Si quelqu'un Me sert, * Mon Père qui est dans les cieux l'honorera, dit le Seigneur.
 Je veux, Mon Père, * que là où Je suis, Mon serviteur y soit aussi.
 
-[Capitulum Vespera]
-!Jac 1:12
-v. Heureux l'homme qui supporte l'épreuve ! Car l'homme éprouvé recevra la couronne de vie, que Dieu a promise à ceux qui l'aiment.
-$Deo gratias
-
 [Hymnus Vespera]
 {:H-Deustuorummilitum:}v. Dieu, partage, couronne
 Et récompense de Vos soldats,
@@ -189,6 +184,11 @@ R. Il a mis sur sa tête une couronne de pierres précieuses.
 [Lectio9]
 Mais il est bon d'examiner en ce lieu comment il nous est commandé d'avoir de la haine pour nos parents, puisqu'il nous est ordonné d'aimer nos ennemis mêmes. D'ailleurs Jésus Christ qui est la Vérité même dit en parlant de la femme : "Que l'homme ne sépare point ce que Dieu a joint ensemble." Et Saint Paul recommande aux hommes d'aimer leurs femmes, comme Jésus Christ aime Son Eglise. Comment donc le disciple recommande-t-il d'aimer sa femme après que son maître a déclaré que si l'on ne hait sa femme, l'on ne peut être son disciple ? Comment celui qui lit la sentence du Juge, la lit-ul autrement que le Juge ne l'a prononcé ? Et pouvons-nous en même temps aimer et haïr les mêmes personnes ? Oui certes, nous pouvons le faire, si nous avons soin de bien distinguer les choses et si nous concevons comme il le faut la vertu et l'esprit du commandement. Car de cette force nous aimerons simplement nos parents et notre prochain mais en même temps nous méconnaitrons tous ceux qui s'opposent à notre course dans la voie de Dieu, jusqu'à les haïr et à nous en éloigner.
 &teDeum
+
+[Capitulum Laudes]
+!Jac 1:12
+v. Heureux l'homme qui supporte l'épreuve ! Car l'homme éprouvé recevra la couronne de vie, que Dieu a promise à ceux qui l'aiment.
+$Deo gratias
 
 [Hymnus Laudes]
 {:H-Invictemartyrunicum:}v. Invincible Martyr,

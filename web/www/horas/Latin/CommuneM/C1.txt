@@ -1,10 +1,5 @@
 @Commune/C1
 
-[Capitulum Vespera]
-@Commune/C1
-_
-@Commune/C1:Responsory Breve6
-
 [AntMatutinumM]
 Annuntiavérunt * inter gentes glóriam Dómini, in ómnibus pópulis mirabília ejus;;95
 Déxtera Dómini * salvávit eos, et bráchium sanctum ejus, allelúja;;97
@@ -97,26 +92,18 @@ R. In omnem terram exívit sonus eórum, † et in fines orbis terræ verba eór
 [MM Capitulum]
 @:Capitulum Sexta
 _
-@:Responsory Sexta
-
-[Capitulum Laudes]
-@Commune/C1
-_
-@Commune/C1:Responsory Breve3
+@:Responsory SextaM
 
 [Hymnus Laudes]
 @:Hymnus Vespera
 
-[Capitulum Tertia]
-@Commune/C1:Capitulum Laudes
-
-[Responsory Tertia]
+[Responsory TertiaM]
 @Commune/C1:Ant Matutinum:4-5
 
-[Responsory Sexta]
+[Responsory SextaM]
 @Commune/C1:Ant Matutinum:9-10
 
-[Responsory Nona]
+[Responsory NonaM]
 @Commune/C1:Ant Matutinum:14-15
 
 [Ant Vespera 3]

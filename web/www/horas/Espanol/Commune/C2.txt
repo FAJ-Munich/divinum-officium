@@ -14,11 +14,6 @@ El que me sirve, * que me siga, y donde Yo estoy allí estará también mi servi
 Al que me sirva, * mi Padre, que está en los cielos, lo honrará, dice el Señor.
 Padre, el que me sirve, * quiero que esté donde Yo estoy.
 
-[Capitulum Vespera]
-!St 1:12
-v. Dichoso el hombre que soporta la prueba, porque, una vez aquilatado, recibirá la corona de la vida, que Dios ha prometido a los que le aman.
-$Deo gratias
-
 [Hymnus Vespera]
 {:H-Deustuorummilitum:}v. Dios, de tus fieles soldados
 herencia, premio, corona,
@@ -189,6 +184,11 @@ R. Pusiste sobre su frente una corona de piedras preciosas.
 [Lectio9]
 Pregunto: ¿cómo es que se nos ordena aborrecer a los padres y parientes, y se nos manda amar a los enemigos? Y si, la Verdad dice con relación a la esposa: Lo que Dios unió, el hombre no lo separe. Y Pablo dice: Varones, amad a vuestras esposas como Cristo a la Iglesia. He aquí que el discípulo enseña la obligación de amar a la esposa, siendo así que dice el Maestro: Quien no aborrece a la esposa, no puede ser mi discípulo. ¿Acaso el juez anuncia una cosa, y el pregonero publica otra diferente? ¿Acaso podemos a un mismo tiempo amar y aborrecer? Pero, si pesamos bien el precepto, mediante la discreción podemos practicar ambas cosas, de suerte que amemos a la esposa y a cuantos están unidos con nosotros mediante el parentesco y a nuestros prójimos; y a los que nos impidan amar a Dios, los aborrezcamos y huyamos de ellos.
 &teDeum
+
+[Capitulum Laudes]
+!St 1:12
+v. Dichoso el hombre que soporta la prueba, porque, una vez aquilatado, recibirá la corona de la vida, que Dios ha prometido a los que le aman.
+$Deo gratias
 
 [Hymnus Laudes]
 {:H-Invictemartyrunicum:}v. Invicto mártir que al Hijo

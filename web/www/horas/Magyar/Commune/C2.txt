@@ -14,11 +14,6 @@ Aki nekem szolgál, * az engem kövessen, s ahol én vagyok, ott lesz a szolgám
 Aki nekem szolgál, * azt megtiszteli az Atya, ki a mennyben van, mondja az Úr.
 Úgy akarom Atyám, * hogy ahol én vagyok, ott legyen a szolgám is.
 
-[Capitulum Vespera]
-!Jas 1:12
-v. Boldog az az ember, aki a kísértésben helytáll, mert miután kiállja a próbát, megkapja az élet koszorúját, amelyet az Úr azoknak ígért, akik őt szeretik.
-$Deo gratias
-
 [Hymnus Vespera]
 {:H-Deustuorummilitum:}v. Isten, jutalma, otthona`
 Katonáidnak s korona:
@@ -68,7 +63,6 @@ He shall dwell * in thy tabernacle, He shall rest upon thy holy hill.;;14
 O Lord, Thou hast set a crown * of precious stones upon his head.;;20
 V. Segítségeddel nagy lett a hírneve.
 R. Fönséggel és dicsőséggel övezted.
-
 
 [Lectio1]
 Olvasmány az Apostolok Cselekedeiből
@@ -129,6 +123,11 @@ Atyaistennek glória,
 És velük a Vigasztaló,
 Most és örök időkön át.
 Ámen.
+
+[Capitulum Laudes]
+!Jas 1:12
+v. Boldog az az ember, aki a kísértésben helytáll, mert miután kiállja a próbát, megkapja az élet koszorúját, amelyet az Úr azoknak ígért, akik őt szeretik.
+$Deo gratias
 
 [Versum 2]
 V. Az igaz virul, mint a pálma.

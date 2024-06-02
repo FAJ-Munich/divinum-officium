@@ -14,11 +14,6 @@ Wer sich mir hingibt, * soll mir nachkommen; und wo ich bin, da soll auch der si
 Wer sich mir hingegeben hat, * den wird mein Vater ehren, der im Himmel ist, sagt der Herr.
 Ich möchte, o Vater, * dass da, wo ich bin, auch der ist, der sich mir hingibt.
 
-[Capitulum Vespera]
-!Jak 1,12
-v. Selig ist der Mann, der in der Prüfung aushält; denn wenn er erprobt ist, wird er als Krone das Leben erhalten, das Gott seinen Liebhabern versprochen hat.
-$Deo gratias
-
 [Hymnus Vespera]
 {:H-Deustuorummilitum:}v. O Gott, du deiner Streiter Lohn,
 Ihr Glück und ew'ge Ehrenkron':
@@ -192,6 +187,11 @@ R. Hast aufs Haupt ihm gesetzt eine Krone von edelsten Steinen.
 [Lectio9]
 Sed percontári libet, quómodo paréntes et carnáliter propínquos præcípimur odísse, qui jubémur et inimícos dilígere? Et certe Véritas de uxóre dicit: Quod Deus conjúnxit, homo non séparet. Et Paulus ait: Viri, dilígite uxóres vestras, sicut et Christus Ecclésiam. Ecce, discípulus uxórem diligéndam prǽdicat, cum magíster dicat: Qui uxórem non odit, non potest meus esse discípulus. Numquid áliud judex núntiat, áliud præco clamat? An simul et odísse póssumus, et dilígere? Sed si vim præcépti perpéndimus, utrúmque ágere per discretiónem valémus: ut uxórem, et eos, qui nobis carnis cognatióne conjúncti sunt, et quos próximos nóvimus, diligámus; et quos adversários in via Dei pátimur, odiéndo et fugiéndo nesciámus.
 &teDeum
+
+[Capitulum Laudes]
+!Jak 1,12
+v. Selig ist der Mann, der in der Prüfung aushält; denn wenn er erprobt ist, wird er als Krone das Leben erhalten, das Gott seinen Liebhabern versprochen hat.
+$Deo gratias
 
 [Hymnus Laudes]
 {:H-Invictemartyrunicum:}v. O unbesiegter Glaubensheld,

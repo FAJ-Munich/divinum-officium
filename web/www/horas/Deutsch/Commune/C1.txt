@@ -12,11 +12,6 @@ Ihr seid meine Freunde, * wenn ihr das tut, was ich euch gebiete.;;111
 Selig sind die Segenswirker, * selig, die ein reines Herz haben, denn sie werden sich an Gott laben.;;112
 Wenn ihr geduldig ausharret, * werdet ihr eure Seelen voll und ganz gewinnen.;;116
 
-[Capitulum Vespera]
-!Eph 2,19-20
-v. Brüder, ihr seid nicht mehr Gäste und Fremdlinge, sondern ihr seid Mitbürger von Heiligen und Glieder der Familie Gottes, aufgebaut auf dem Fundament, das die Apostel bilden, wobei Jesus Christus der Grundstein ist.
-$Deo gratias.
-
 [Hymnus Vespera]
 {:H-Exsultetorbisgaudiis:}v. Von Lob erschalle hocherfreut
 Der Himmel und die Erde heut;
@@ -204,6 +199,11 @@ R. Auf Grund ihrer Lehre glänzt die Kirche wie auf Grund der Sonne der Mond.
 [Lectio9]
 Durch diese Worte "hundertfach" wollen manche meinen, dass es nach der Auferstehung tausend Jahre geben wird, in denen die, die alles verlassen haben, das Hundertfache von dem erhalten werden, was sie verlassen haben, und das ewige Leben erben werden. Solche Menschen bedenken nicht, dass dies zwar in anderen Dingen würdig wäre, aber in Bezug auf die Frauen unschicklich ist; denn es ziemt sich nicht zu denken, dass derjenige, der in dieser Welt eine Frau verlassen hat, in der kommenden hundert Frauen erhalten wird. Es heißt aber, daß jeder, der um des Heilandes willen das Irdische verlassen hat, das Geistliche empfangen wird, das, wenn es richtig gegen das Irdische abgewogen wird, so ist, als ob hundertfach gegen eines abgewogen würde.
 &teDeum
+
+[Capitulum Laudes]
+!Eph 2,19-20
+v. Brüder, ihr seid nicht mehr Gäste und Fremdlinge, sondern ihr seid Mitbürger von Heiligen und Glieder der Familie Gottes, aufgebaut auf dem Fundament, das die Apostel bilden, wobei Jesus Christus der Grundstein ist.
+$Deo gratias.
 
 [Versum 2]
 V. Sie kündeten, was Gott getan hat.

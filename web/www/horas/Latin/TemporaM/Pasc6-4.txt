@@ -78,13 +78,7 @@ Doxology=Asc
 [Lectio12]
 @Tempora/Pasc6-4:Lectio9: s/.* Desidéria/Desidéria/
 
-[Capitulum Vespera] (rubrica 196)
-@TemporaM/Pasc5-5
-
 [Capitulum Laudes] (rubrica 196)
-@TemporaM/Pasc5-5
-
-[Capitulum Tertia] (rubrica 196)
 @TemporaM/Pasc5-5
 
 [Capitulum Sexta] (rubrica 196)
@@ -92,4 +86,3 @@ Doxology=Asc
 
 [Capitulum Nona] (rubrica 196)
 @TemporaM/Pasc5-5
-

@@ -5,11 +5,6 @@ Commune Apostolorum
 Psalmi Dominica
 Antiphonas horas
 
-[Capitulum Vespera]
-!Eph 2:19-20
-v. Brødre: Så er I da ikke længere fremmede og udlændinge. I er de helliges medborgere og hører til Guds husstand. I er bygget på apostlenes og profeternes grundvold med Kristus Jesus selv som hovedhjørnesten.
-$Deo gratias.
-
 [Ant 1]
 For they shall deliver you * up to councils: and in the synagogues you shall be beaten: and you shall stand before governors and kings for my sake, for a testimony unto them.
 
@@ -32,6 +27,11 @@ Light is risen * to the just, alleluia, and joy to the right of heart. Alleluia.
 They kept his testimonies, * and the commandment which he gave them. Alleluia.;;98
 V. Hvor er dine venner dyrebare for dig, Gud.
 R. Hvor stort er dog deres fyrstedømme.
+
+[Capitulum Laudes]
+!Eph 2:19-20
+v. Brødre: Så er I da ikke længere fremmede og udlændinge. I er de helliges medborgere og hører til Guds husstand. I er bygget på apostlenes og profeternes grundvold med Kristus Jesus selv som hovedhjørnesten.
+$Deo gratias.
 
 [Versum 2]
 V. De forkyndte Guds gerning.
