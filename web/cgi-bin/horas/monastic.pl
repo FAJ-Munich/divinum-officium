@@ -133,9 +133,11 @@ sub psalmi_matutinum_monastic {
 
   if (
     (
-      (($rank > 4.9 || $votive =~ /C8/)
-      || (($rank >= 4 && $version =~ /divino/i) || ($rank >= 2 && $version =~ /trident/i)))
-        && $dayname[1] !~ /feria|sabbato|Die.*infra octavam/i
+      (
+           ($rank > 4.9 || $votive =~ /C8/)
+        || (($rank >= 4 && $version =~ /divino/i) || ($rank >= 2 && $version =~ /trident/i))
+      )
+      && $dayname[1] !~ /feria|sabbato|Die.*infra octavam/i
     )
     && !($dayname[0] =~ /Pasc0/ && $dayofweek > 2)
     && $winner !~ /Pasc6-6/i
