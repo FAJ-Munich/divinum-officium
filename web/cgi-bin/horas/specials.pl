@@ -33,6 +33,7 @@ sub specials {
   @s = ();
   $skipflag = 0;
   $tind = 0;
+  my $precdomfer = ($hora =~ /prima/i) ? 1 : 0;
 
   while ($tind < @t) {
     $item = $t[$tind];
@@ -131,10 +132,28 @@ sub specials {
       setbuild1($item, $skipflag ? 'omit' : 'include');
       next if $skipflag;
 
-      if ($hora =~ /Laudes|Tertia|Sexta|Nona|Vespera/) {
-        push(@s, prayer("Preces feriales $hora", $lang));
+      if ($hora =~ /Tertia|Sexta|Nona/) {
+        my %brevis = %{setupstring($lang, 'Psalterium/Minor Special.txt')};
+        my @prec = split("\n", $brevis{"Preces Feriales"});
+        push(@s, @prec);
+      } elsif ($hora =~ /Laudes|Vespera/) {
+        my %brevis = %{setupstring($lang, 'Psalterium/Major Special.txt')};
+        my @prec = split("\n", $brevis{"Preces feriales $hora"});
+        foreach my $line (@prec) { $line =~ s/^\s*$/\_/; }
+        push(@s, @prec);
       } elsif ($hora eq 'Completorium') {
-        push(@s, prayer("Preces Dominicales", $lang));
+        my %brevis = %{setupstring($lang, 'Psalterium/Minor Special.txt')};
+        my @prec = split("\n", $brevis{"Preces Dominicales"});
+        push(@s, @prec);
+      } elsif ($item =~ /Dominicales/i) {
+        my %brevis = %{setupstring($lang, 'Psalterium/Prima Special.txt')};
+        my @prec = split("\n", $brevis{"Preces Dominicales Prima $precdomfer"});
+        push(@s, @prec);
+        $precdomfer++;
+      } else {
+        my %brevis = %{setupstring($lang, 'Psalterium/Prima Special.txt')};
+        my @prec = split("\n", $brevis{"Preces feriales Prima"});
+        push(@s, @prec);
       }
       next;
     }
@@ -182,19 +201,22 @@ sub specials {
       }
       setcomment($label, 'Source', $comment, $lang);
       push(@s, @capit);
-      my $primaresponsory = ($version !~ /monastic/i) ? get_prima_responsory($lang) : '';
-      my %wpr = (columnsel($lang)) ? %winner : %winner2;
-      if (exists($wpr{'Versum Prima'}) && ($version !~ /monastic/i)) { $primaresponsory = $wpr{'Versum Prima'}; }
-      push(@s, $t[$tind++]);
+      push(@s, prayer("Deo gratias", $lang));
+      push(@s, "_");
+
       my @resp = ();
 
-      while ($t[$tind] !~ /^\s*\#/) {
-        if (($t[$tind] =~ /^\s*V\. /) && $primaresponsory) {
-          $t[$tind] = "V. $primaresponsory";
-          $primaresponsory = '';
-        }
-        push(@resp, $t[$tind++]);
+      if ($item =~ /Responsorium/i) {
+        @resp = split("\n", $brevis{'Responsory'});
+        my $primaresponsory = get_prima_responsory($lang);
+        my %wpr = (columnsel($lang)) ? %winner : %winner2;
+        if (exists($wpr{'Versum Prima'})) { $primaresponsory = $wpr{'Versum Prima'}; }
+        if ($primaresponsory) { $resp[2] = "V. $primaresponsory"; }
+        push(@resp, "_");
       }
+      my @versum = split("\n", $brevis{'Versum'});
+      push(@resp, @versum);
+
       postprocess_short_resp(@resp, $lang);
       push(@s, $_) for (@resp);
       next;
@@ -209,17 +231,17 @@ sub specials {
     if ($item =~ /Capitulum/i && $hora =~ /^(?:Tertia|Sexta|Nona|Completorium)$/i) {
       my %capit = %{setupstring($lang, 'Psalterium/Minor Special.txt')};
       my $name = minor_getname();
-      $name .= 'M' if ($version =~ /monastic/i);
       $name = 'Completorium' if $hora eq 'Completorium';
+      $name .= 'M' if ($version =~ /monastic/i);
       my $capit = $capit{$name} =~ s/\s*$//r;
       my $resp = '';
 
-      if ($version !~ /^Monastic/ && ($resp = $capit{"Responsory $name"})) {
+      if ($resp = $capit{"Responsory $name"}) {
         $resp =~ s/\s*$//;
         $capit =~ s/\s*$/\n_\n$resp/;
       }
 
-      if ($name eq "Completorium" && $version !~ /^Ordo Praedicatorum/) {
+      if ($name =~ /Completorium/ && $version !~ /^Ordo Praedicatorum/) {
         $capit .= "\n_\n$capit{'Versum 4'}";
       } else {
         $comment = ($name =~ /(Dominica|Feria)/i) ? 5 : 1;
@@ -479,6 +501,11 @@ sub specials {
       setcomment($label, 'Suffragium', $comment, $lang);
       setbuild1("Suffragium$comment", 'included');
       push(@s, split("\n", $suffr));
+      next;
+    }
+
+    if ($item =~ /Martyrologium/i) {
+      setcomment($label, 'Martyrologium', 0, $lang);
       next;
     }
 
@@ -945,26 +972,32 @@ sub psalmi_major {
 
   my @antiphones;
 
-  if ( ($hora =~ /Laudes/ || ($hora =~ /Vespera/ && $version =~ /Monastic/))
+  if ( ($hora =~ /Laudes/ || ($hora =~ /Vespera/ && $version =~ /1963/))
     && $month == 12
     && $day > 16
     && $day < 24
     && $dayofweek > 0)
   {
+    # TODO: is this really the case in Monastic 1963 Vespers throughout the week?
     my @p1 = split("\n", $psalmi{"Day$dayofweek Laudes3"});
 
-    if ($dayofweek == 6) {
-      if ($version =~ /trident/i) {    # take ants from feria occuring Dec 21st
-        my $expectetur = $p1[3];       # save Expectetur
+    if ($dayofweek == 6 && $version =~ /trident|monastic/i) {
+      my $expectetur = $p1[3];    # save Expectetur
+
+      if ($version =~ /trident|monastic.*divino/i) {    # take ants from feria occuring Dec 21st
         @p1 = split("\n", $psalmi{"Day" . get_stThomas_feria($year) . " Laudes3"});
 
-        if ($day == 23) {              # use Sundays ants
+        if ($day == 23 && $version !~ /divino/i) {      # use Sundays ants
           my %w = %{setupstring($lang, subdirname('Tempora', $version) . "Adv4-0.txt")};
           @p1 = split("\n", $w{"Ant Laudes"});
         }
+      }
+
+      if ($version =~ /monastic/i) {
+        $p1[2] = $expectetur;
+        $p1[3] = '';
+      } else {
         $p1[3] = $expectetur;
-      } elsif ($version =~ /monastic/i) {
-        ($p1[2], $p1[3]) = ($p1[3], '');    # both Canticle parts under Expectetur
       }
     }
 
@@ -972,7 +1005,7 @@ sub psalmi_major {
       my @p2 = split(';;', $psalmi[$i]);
       $antiphones[$i] = "$p1[$i];;$p2[1]";
     }
-    setbuild2("Special laudes antiphonas for week before vigil of Christmas");
+    setbuild2("Special Laudes antiphonas for week before vigil of Christmas");
   }
 
   #look for de tempore or Sancti
@@ -1398,6 +1431,7 @@ sub oratio {
           $ccind++;
           $key = $ccind + 8500;    # 10000 - 1.5 * 1000
           $cc{$key} = $c;
+          setbuild2("Commemorated Vigil: $key");
         }
       }
     }
@@ -1929,7 +1963,7 @@ sub hymnusmajor {
 sub getanthoras {
   my $lang = shift;
   my $tflag = ($version =~ /Trident|Monastic/i && $winner =~ /Sancti/i) ? 1 : 0;
-  $tflag = 0 if ($winner =~ /SanctiM.01-(?:(?:0[2-5789])|(?:1[012]))/);
+  $tflag = 0 if ($version =~ /1963/ && $winner =~ /SanctiM.01-(?:(?:0[2-5789])|(?:1[012]))/);
 
   my $ant = '';
   if ($rule !~ /Antiphonas horas/i && $communerule !~ /Antiphonas horas/i && !$tflag) { return ''; }
@@ -2129,8 +2163,8 @@ sub doxology {
       && $commemoratio{Rule} =~ /Doxology=([a-z]+)/i)
     {
       $dname = $1;
-    } elsif (($month == 8 && $day > 15 && $day < 23 && $version !~ /Monastic/i)
-      || ($version != /1570/ && $month == 12 && $day > 8 && $day < 16 && $dayofweek > 0))
+    } elsif (($month == 8 && $day > 15 && $day < 23 && $version !~ /1955|1963/i)
+      || ($version !~ /1570|1617/ && $month == 12 && $day > 8 && $day < 16 && $dayofweek > 0))
     {
       $dname = 'Nat';
     } else {

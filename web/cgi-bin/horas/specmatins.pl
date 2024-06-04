@@ -650,7 +650,7 @@ sub lectio : ScriptFunc {
       $c = officestring($lang, "Sancti/12-25.txt")
         ;    # GitHub3539: in 1960 rubrics, Scripture on Sunday (26-28) comes from Nativity
     } else {
-      my $tfile = "Tempora/Nat$day" . ($version =~ /trident/i ? "o.txt" : ".txt");
+      my $tfile = subdirname('Tempora', $version) . "Nat$day" . ($version =~ /trident/i ? "o.txt" : ".txt");
       $c = officestring($lang, $tfile);
     }
     $c->{'Lectio2'} .= $c->{'Lectio3'} if (contract_scripture(2));
@@ -664,12 +664,11 @@ sub lectio : ScriptFunc {
   # TODO: get TemporaM folder updated and completed
   if ((($winner eq 'TemporaM/Nat2-0.txt') || ($winner eq 'SanctiM/01-13.txt')) && $num <= 4) {
     $c =
-      officestring($lang, $winner =~ /Tempora/ ? sprintf("SanctiM/01-%02d.txt", $day) : "TemporaM/Epi1-$dayofweek.txt",
-      );
+      officestring($lang, $winner =~ /Tempora/ ? sprintf("SanctiM/01-%02d.txt", $day) : "TemporaM/Epi1-$dayofweek.txt");
     $w{"Lectio$num"} = $c->{"LectioM$num"} || $c->{"Lectio$num"};
   }
 
-  #Lectio1 tempora
+  #Lectio1 tempora: special fule for Octave of Epiphany
   if ($num <= 3 && $rule =~ /Lectio1 tempora/i && exists($scriptura{"Lectio$num"})) {
     my %c = (columnsel($lang)) ? %scriptura : %scriptura2;
     $w{"Lectio$num"} = $c{"Lectio$num"};
@@ -731,7 +730,11 @@ sub lectio : ScriptFunc {
     $w = '';
   }    # Q.T. Septembris...
 
-  if ($w && $num % 3 == 1) {
+  if (($num == 4 && $rule =~ /12 lectiones/i) && !exists($w{Lectio1})) {
+    $w = '';
+  }    # accidental Lectio4 from Roman version
+
+  if ($w && $num % ($rule =~ /12 lectiones/i ? 4 : 3) == 1) {
     my @n = split('/', $winner);
     setbuild2("Lectio$num ex $n[0]");
   }
@@ -739,6 +742,10 @@ sub lectio : ScriptFunc {
   #prepares for case of homily instead of scripture
   my $homilyflag = (exists($commemoratio{Lectio1})
       && $commemoratio{Lectio1} =~ /\!(Matt|Mark|Marc|Luke|Luc|Joannes|John)\s+[0-9]+\:[0-9]+\-[0-9]+/i) ? 1 : 0;
+
+  if ($homilyflag && $commemoratio{Rank} =~ /vigilia/i) {
+    $homilyflag = 9;
+  }
 
   if (
     !$w    # we don't have a lectio yet
@@ -748,7 +755,7 @@ sub lectio : ScriptFunc {
         && $rank > 3)    # either we have 'ex C.' on Duplex majus or higher
       || (
         ($num < 4 || ($num == 4 && $rule =~ /12 lectiones/i))    # or we are in the first nocturn
-        && $homilyflag                                           # and there is a homily to be commemorated
+        && $homilyflag == 1                                      # and there is a homily to be commemorated
         && exists($commune{"Lectio$num"})                        # which has not been superseded by the sanctoral
       )
     )
@@ -850,11 +857,11 @@ sub lectio : ScriptFunc {
 
     if (
          ($commemoratio =~ /tempora/i && $commemoratio !~ /Nat30/i || $commemoratio =~ /01\-05/)
-      && ($homilyflag || exists($commemoratio{Lectio7}))
+      && ($homilyflag == 1 || exists($commemoratio{Lectio7}))
       && $comrank > 1
       && ( $rank > 4
         || ($rank >= 3 && $version =~ /Trident/i)
-        || $homilyflag
+        || $homilyflag == 1
         || exists($winner{Lectio1}))
     ) {
       %w = (columnsel($lang)) ? %commemoratio : %commemoratio2;
@@ -874,6 +881,14 @@ sub lectio : ScriptFunc {
       if (!(-e "$datafolder/$lang/$transfervigil")) { $transfervigil =~ s/v\.txt/\.txt/; }
       my %tro = %{setupstring($lang, $transfervigil)};
       if (exists($tro{'Lectio Vigilia'})) { $w = $tro{'Lectio Vigilia'}; }
+    } elsif ($homilyflag == 9) {
+      my %tro = (columnsel($lang)) ? %commemoratio : %commemoratio2;
+
+      if (exists($tro{'Lectio1'})) {
+        my $trorank = $tro{Rank};
+        $trorank =~ s/;;.*//;
+        $w = '!' . translate('Commemoratio', $lang) . ": $trorank\n" . $tro{'Lectio1'};
+      }
     }
     my $cflag = 1;    #*************  03-30-10
                       #if ($winner{Rule} =~ /9 lectiones/i && exists($winner{Responsory9})) { $cflag = 0; }

@@ -25,8 +25,13 @@ sub checkfile {
   my $file = shift;
   our $datafolder;
 
+  my $tempFile = $file;
+  $tempFile =~ s/(Sancti|Tempora)M/$1/;
+
   if (-e "$datafolder/$lang/$file") {
     return "$datafolder/$lang/$file";
+  } elsif (-e "$datafolder/$lang/$tempFile") {
+    return "$datafolder/$lang/$tempFile";
   } elsif ($lang =~ /-/) {
     my $temp = $lang;
     $temp =~ s/-[^-]+$//;
@@ -88,10 +93,12 @@ sub occurrence {
     ;    # look for permanent Transfers assigned to the day of the year (as of 2023-5-22 only 12-12n in Newcal version)
 
   if ($transfertemp && $transfertemp !~ /tempora/i) {
-    $transfertemp = subdirname('Sancti', $version) . "$transfertemp";
-  }      # add path to Sancti folder if necessary
+    $transfertemp = subdirname('Sancti', $version) . "$transfertemp";    # add path to Sancti folder if necessary
+  } elsif ($transfertemp && $version =~ /monastic/i) {
+    $transfertemp =~ s/TemporaM?/TemporaM/;    # modify path to Monastic Tempora folder if necessary
+  }
   my $transfers =
-    get_transfer($year, $version, $sday);    # get annual transfers if applicable depending on the day of Easter
+    get_transfer($year, $version, $sday);      # get annual transfers if applicable depending on the day of Easter
   my @transfers = split("~", $transfers);
 
   foreach $transfer (@transfers) {
@@ -138,7 +145,12 @@ sub occurrence {
       $tfile = '';
     }
 
-    if ($tfile && (-e "$datafolder/Latin/$tfile.txt" || $weekname =~ /Epi0/i)) {
+    if (
+      $tfile
+      && ( -e "$datafolder/Latin/$tfile.txt"
+        || $weekname =~ /Epi0/i
+        || ($tfile =~ /(Sancti|Tempora)M(.*)/ && -e "$datafolder/Latin/$1$2.txt"))
+    ) {
 
       $tname = "$tfile.txt";
 
@@ -203,7 +215,7 @@ sub occurrence {
 
     $BMVSabbato = ($sfile =~ /v/ || $dayofweek !~ 6) ? 0 : 1;    # nicht sicher, ob das notwendig ist
 
-    if (-e "$datafolder/Latin/$sfile.txt") {
+    if (-e "$datafolder/Latin/$sfile.txt" || ($sfile =~ /(Sancti|Tempora)M(.*)/ && -e "$datafolder/Latin/$1$2.txt")) {
       $sname = "$sfile.txt";
       if ($caller && $hora =~ /(Matutinum|Laudes)/i) { $sname =~ s/11-02t/11-02/; }    # special for All Souls day
 
@@ -696,7 +708,7 @@ sub concurrence {
   %winner = $sanctoraloffice ? %saint : %tempora;
   my @wrank = $sanctoraloffice ? @srank : @trank;
 
-  if ($winner{Rule} =~ /No secunda Vespera/i && $version !~ /1960|Monastic/i) {
+  if ($winner{Rule} =~ /No secunda Vespera/i && $version !~ /196[03]/i) {
     @wrank = undef;
     %winner = undef;
     $winner = '';
@@ -1464,9 +1476,7 @@ sub precedence {
     }
   }
 
-  my $vtv = $votive =~ /^C1?\da?/ ? $votive : '';
-
-  if ($vtv && !$missa) {
+  if (my $vtv = $votive ne 'Hodie' ? $votive : '') {
     if ($vtv =~ /C12/i) {
       if ( ($month == 12 && ($day == 24 && $hora =~ /Vespera|Completorium/ || ($day > 24)))
         || $month == 1
@@ -1497,24 +1507,6 @@ sub precedence {
       $commune = subdirname('Commune', $version) . "C11.txt";
       $communetype = 'ex';
       %commune = %{setupstring($lang1, $commune)};
-    }
-    $dayname[1] = $winner{Name};
-    $dayname[2] = '';
-  }
-
-  if ($vtv && $missa) {
-    $winner = "Votive/$vtv.txt";
-    $commemoratio = $commemoratio1 = $scriptura = $commune = '';
-    %winner = %{setupstring($lang1, $winner)};
-    %commemoratio = %scriptura = %commune = {};
-    $rule = $winner{Rule};
-
-    if ($vtv =~ /Maria/i) {
-      $commune = "Commune/C11.txt";
-      $communetype = 'ex';
-      %commune = %{setupstring($lang1, $commune)};
-
-      # %commune2 = updaterank(setupstring($lang2, $commune));
     }
     $dayname[1] = $winner{Name};
     $dayname[2] = '';
@@ -1681,7 +1673,9 @@ sub setheadline {
         'I. classis',
         'I. classis',
       );
+
       $rankname = ($version !~ /196/) ? $tradtable[$rank] : $newtable[$rank];
+
       if ($version =~ /19(?:55|60)/ && $winner !~ /Pasc5-3/i && $dayname[1] =~ /feria/i) { $rankname = 'Feria'; }
 
       if ($version =~ /1570/i) { $rankname =~ s/ majus//; }    # no Duplex majus yet in 1570
@@ -2121,8 +2115,8 @@ sub expand {
   if ($sigil eq '&') {
 
     # Make popup link if we shouldn't expand.
-    if ($expand =~ /nothing/i
-      || ($expand !~ /all/i && ($line =~ /^(?:[A-Z]|pater_noster)/)))
+    if ($expand =~ /none/i
+      || ($expand !~ /all|skeleton/i && ($line =~ /^(?:[A-Z]|pater_noster)/)))
     {
       return setlink($sigil . $line, 0, $lang);
     }
@@ -2140,12 +2134,12 @@ sub expand {
     return dispatch_script_function($function_name, @args);
   } else    # Sigil is $, so simply look up the prayer.
   {
-    if ($expand =~ /all/i) {
+    if ($expand =~ /all|skeleton/i) {
 
       #actual expansion for $ references
       return prayer($line, $lang);
     } else {
-      return setlink($sigil . $line, 0, $lang);
+      return (length prayer($line, $lang) > 1) ? setlink($sigil . $line, 0, $lang) : '';
     }
   }
 }

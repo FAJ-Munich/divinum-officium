@@ -231,6 +231,11 @@ r. Hail Mary
 [Conclmart]
 V. And elsewhere many other holy martyrs, confessors, and holy virgins.
 $Deo gratias.
+_
+V. Precious in the sight of the Lord
+R. Is the death of his saints.
+v. Holy Mary and all the Saints, intercede for us with the Lord, our God, so that we may merit His help and salvation, who lives and reigns for ever and ever.
+$Amen
 
 [DefunctV]
 &Dominus_vobiscum
@@ -263,108 +268,52 @@ And with our brothers, who are absent. Amen.
 [Alleluia Duplex]
 Alleluia, alleluia.
 
-[Preces feriales Laudes]
-$Kyrie
-$Pater secreto
-V. I said: Lord, be merciful unto me: 
-R. Heal my soul, for I have sinned against thee.
-V. Turn thee again, O Lord; how long will it be? 
-R. And be gracious unto thy servants. 
-V. Let thy mercy, O Lord, be upon us.
-R. As we have hoped in thee.
-V. Let thy priests be clothed with justice: 
-R. And may thy saints rejoice.
-
-V. Let us pray for our most blessed Pope~
-r. N.
-R. The Lord preserve him and give him life, and make him blessed upon the earth: and deliver him not up to the will of his enemies. 
-V. Let us pray for our bishop ~
-r. N.
-R. May he stand firm and care for us in the strength of the Lord, in the might of thy name.
-/:In Rome, the preceding Versicle and its Response are omitted.  Elsewhere, the name of the local Ordinary is inserted at the letter N.  If the Holy See or the See of the local Bishop is vacant, the appropriate V. and R., either or both as the case may be, is omitted.:/
-(sed rubrica tridentina omittitur)
-
-V. O Lord, save our leaders.
-R. And mercifully hear us when we call upon thee.
-V. O Lord, save thy people, and bless thine inheritance: 
-R. Govern them and lift them up for ever.
-V. Remember thy congregation, 
-R. Which thou hast possessed from the beginning. 
-V. Let peace be in thy strength:
-R. And abundance in thy towers.
-
-V. Let us pray for our benefactors.
-R. O Lord, for thy name's sake, deign to reward with eternal life all who do us good. Amen.  
-(sed rubrica tridentina omittitur)
-
-V. Let us pray for the faithful departed.
-R. Eternal rest grant unto them, O Lord, and let perpetual light shine upon them.
-V. May they rest in peace.
-R. Amen.
-V. Let us pray for our absent brothers.
-R. Save thy servants, O God, who put their trust in thee.
-V. Let us pray for the afflicted and imprisoned.
-R. Deliver them, God of Israel, from all their tribulations.
-V. O Lord, send them help from thy sanctuary.
-R. And defend them out of Sion. 
-
-(sed rubrica tridentina dicuntur)
-@:Dominus:3-4
-&psalm(129) 
-
-(deinde dicuntur)
-V. Turn us again, O Lord, God of Hosts.
-R. Show us thy face, and we shall be whole.
-V. Arise, O Christ, and help us.
-R. And redeem us for thy name's sake.
-V. O Lord, hear my prayer.
-R. And let my cry come unto thee. 
-
-[Preces feriales Tertia]
-$Kyrie
-$Pater secreto
-V. Turn us again, O Lord God of hosts:
-R. Show us thy face, and we shall be saved.
-V. Arise, O Christ, and help us
-R. And deliver us for thy name's sake.
-V. O Lord, hear my prayer:
-R. And let my cry come unto thee.
-
-[Preces Dominicales]
-#Preces Dominicales
-$Kyrie
-$Pater secreto
-$Credo secreto
-V. Blessed are you, Lord, God of our fathers. 
-R. Worthy of praise, and glorious for ever.
-V. Let us bless the Father, the Son and the Holy Spirit.
-R. Let us praise and exalt him above all for ever.
-V. Blessed art thou in the firmament of heaven: 
-R. Worthy of praise, and glorious for ever.
-V. May the almighty and merciful God bless us and keep us.
-R. Amen.
-V. Vouchsafe, O Lord, 
-R. To keep us this night without sin.
-V. O Lord, have mercy upon us. 
-R. Have mercy upon us.
-V. O Lord, let thy mercy lighten upon us
-R. As our trust is in you.
-V. Lord, hear my prayer:
-R. And let my cry come unto thee. 
-
-[A porta inferi]
+[A_porta_inferi]
 V. From the gates of hell.
 R. Deliver their souls, O Lord!
-V. May they rest in peace.
-R. Amen.
-@:Dominus:3-4
-&Dominus_vobiscum2
 
 [Per Christum]
 Through Christ our Lord.
 
 [Oratio Visita_]
 v. Visit, we beseech thee, O Lord, this dwelling, and drive far from it the snares of the enemy; let thy holy angels dwell herein to preserve us in peace, and let thy blessing be always upon us.
+
+[Oratio_Domine]
+v. O Lord, our heavenly Father, Almighty and everlasting God, who has safely brought us to the beginning of this day: defend us by thy mighty power; and grant that this day we fall into no sin, but that all our doings may be ordered by thy governance, to do always what is righteous in thy sight.
+
+[Rubrica Martyrologium] (rubrica monastica)
+/:Then the Martyrology is read in Choir.:/
+
+[Rubrica Regula] (rubrica monastica)
+/:Even outside of Choir, it is laudible to read the Holy Regula; otherwise, the Short Reading is prayed:/
+
+[Respice]
+V. Look upon thy servants and upon thy works: and direct their children.
+R. And let the brightness of the Lord our God be upon us. Direct thou the works of our hands; yea, the work of our hands do thou direct.
+
+[Dirigere]
+v. O Lord, Almighty God, King of heaven and earth, Saviour of the world, bless, lead, rule and govern our hearts and bodies, our senses, words and deeds today, following thy law and commandments, that here and for eternity with thy help we shall be saved in freedom.
+
+[Benedictio Prima]
+V. Grant, Lord, a blessing.
+Benedictio. May Almighty God arrange our deeds and our day in His peace. Amen.
+
+[Benedictio Prima2]
+Benedictio. May the Lord bless us, + protect us from all evil and bring us to everlasting life. And may the souls of the faithful, through the mercy of God, rest in peace. 
+
+[Benedicite]
+V. Let us bless.
+R. God.
+
+[Commemoratio omnium]
+R.br. Commemoration of all brothers, friends of our Order, and our benefactors.
+
+[Requiescant]
+V. May they rest in peace.
+R. Amen.
+
+[Deus veniae]
+v. O God the giver of pardon, and the lover of human salvation, we beseech thy clemency: that thou grant the brethren of our congregation, kinsfolk, and benefactors, which are departed out of this world, blessed Mary ever Virgin making intercession with all the saints, to come to the fellowship of eternal blessedness.
 
 [Examen]
 /:There follows an examination of conscience, or the Our Father said silently.:/
