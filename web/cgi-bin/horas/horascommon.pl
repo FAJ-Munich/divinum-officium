@@ -2126,8 +2126,8 @@ sub expand {
   if ($sigil eq '&') {
 
     # Make popup link if we shouldn't expand.
-    if ($expand =~ /nothing/i
-      || ($expand !~ /all/i && ($line =~ /^(?:[A-Z]|pater_noster)/)))
+    if ($expand =~ /none/i
+      || ($expand !~ /all|skeleton/i && ($line =~ /^(?:[A-Z]|pater_noster)/)))
     {
       return setlink($sigil . $line, 0, $lang);
     }
@@ -2145,12 +2145,12 @@ sub expand {
     return dispatch_script_function($function_name, @args);
   } else    # Sigil is $, so simply look up the prayer.
   {
-    if ($expand =~ /all/i) {
+    if ($expand =~ /all|skeleton/i) {
 
       #actual expansion for $ references
       return prayer($line, $lang);
     } else {
-      return setlink($sigil . $line, 0, $lang);
+      return (length prayer($line, $lang) > 1) ? setlink($sigil . $line, 0, $lang) : '';
     }
   }
 }
