@@ -36,7 +36,6 @@ sub psalmi_matutinum_monastic {
   my %psalmi = %{setupstring($lang, 'Psalterium/Psalmi matutinum.txt')};
   my $dw = $dayofweek;
 
-  #if ($winner{Rank} =~ /Dominica/i) { $dw = 0; }
   my @psalmi = split("\n", $psalmi{"Daym$dw"});
   setbuild("Psalterium/Psalmi matutinum monastic", "dayM$dw", 'Psalmi ord');
   $comment = 1;

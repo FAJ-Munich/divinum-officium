@@ -1188,7 +1188,8 @@ sub extract_common {
   } elsif ($common_field =~ /(ex|vide)\s*(.*)\s*$/i) {
     $communetype = $1;
     my $name = $2;
-		$name =~ s/TemporaM?\///i;			# ensure consistency also for Monastic
+    $name =~ s/TemporaM?\///i;    # ensure consistency also for Monastic
+
     if ($name !~ /Sancti|Commune|Tempora/i) {
       $commune = subdirname('Tempora', $version) . "$name.txt";
     } else {
