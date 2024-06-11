@@ -108,8 +108,6 @@ sub occurrence {
       }    # add path to Sancti folder if necessary
       elsif ($version =~ /monastic/i) {
         $transfer =~ s/TemporaM?/TemporaM/;    # modify path to Monastic Tempora folder if necessary
-      } elsif ($version =~ /Bavariae/i) {
-        $transfer =~ s/Tempora[MB]?/TemporaB/;
       }
     }
   }
@@ -1917,8 +1915,6 @@ sub setChantTone {
 sub subdirname {
   my ($subdir, $version) = @_;
   $subdir .= 'M' if $version =~ /monastic/i;
-  $subdir .= 'B' if $version =~ /Bavariae/i && $subdir !~ /Commune/i;
-  $subdir =~ s/MB/B/;
   "$subdir/";
 }
 

@@ -20,11 +20,4 @@ dirge2=02-27 03-13 03-27 06-05 07-07 08-25 09-01 10-02 11-13 12-01 12-04 12-18;;
 dirge1=02-13;;1888 1906
 dirge2=02-27 03-27 06-22 09-06 10-11 11-27 12-18;;1888 1906
 Hy05-18=1;;DA
-05-06=05-06SP;;B
-05-07=TemporaB/Pasc4-0pb;;B
-05-08=TemporaB/Pasc4-1pb;;B
-05-09=TemporaB/Pasc4-2pb;;B
-05-10=TemporaB/Pasc4-3pb;;B
-05-11=TemporaB/Pasc4-4pb;;B
-05-12=TemporaB/Pasc4-5pb;;B
-05-13=05-13SS;;B
+
