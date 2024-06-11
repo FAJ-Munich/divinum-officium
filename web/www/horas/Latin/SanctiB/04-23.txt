@@ -1,8 +1,0 @@
-@Sancti/04-23
-
-[Rank]
-S. Georgii Martyris;;Duplex II. classis;;5;;ex C2
-
-[Rule]
-ex C2;
-12 lectiones

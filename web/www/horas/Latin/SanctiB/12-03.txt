@@ -1,5 +1,0 @@
-@Sancti/12-03
-
-[Rule]
-ex C5
-12 lectiones
