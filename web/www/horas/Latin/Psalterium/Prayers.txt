@@ -453,3 +453,6 @@ Benedictio. Benedícat et custódiat nos omnípotens et miséricors Dóminus, + 
 
 [Benedictio Completorium2] (rubrica Ordo Praedicatorum)
 Benedictio. Benedíctio Dei omnipoténtis + Patris, et Fílii, et Spíritus Sancti descéndat super nos et máneat semper.
+
+[Preces flexis genibus]
+/:flexis genibus:/
