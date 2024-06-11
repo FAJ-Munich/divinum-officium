@@ -6,13 +6,11 @@ Antiphonas horas
 12 lectiones
 Psalmi Dominica
 
-[Capitulum Vespera]
-@Tempora/Pasc2-3
-_
-@Tempora/Pasc2-3:Responsory Tertia:1-6
+[Rank]
+In Solemnitate S. Joseph Sponsi B.M.V., Confessoris et Ecclesie Universalis Patroni;;Duplex I classis;;6;;
 
 [Versum 1]
-@Tempora/Pasc2-3:Responsory Tertia:8-9
+@Tempora/Pasc2-3:Responsory Tertia:s/.*_.//s
 
 [Ant Matutinum]
 @Tempora/Pasc2-3::1-2
@@ -20,7 +18,8 @@ _
 ;;5
 ;;8
 ;;10
-@Tempora/Pasc2-3::4-6 s/;;4/;;14/
+@Tempora/Pasc2-3::4-5
+@Tempora/Pasc2-3::6 s/;;4/;;14/
 ;;20
 ;;23
 ;;95
@@ -54,16 +53,13 @@ _
 @Tempora/Pasc2-3:Responsory5
 
 [Lectio7]
-@Tempora/Pasc2-3:Lectio6:s/ Meménto.*//s
+@Tempora/Pasc2-3:Lectio6:s/Mem.*//s
 
 [Responsory7]
-R. Exáudi † vocem meam, qua clamávi ad te: 
-* Miserére mei, et exáudi me, allelúja.
-V. Adjútor meus esto, ne derelínquas me.
-R. Miserére mei, et exáudi me, allelúja.
+@SanctiM/05-01r
 
 [Lectio8]
-@Tempora/Pasc2-3:Lectio6:s/.* Meménto/Meménto/s
+@Tempora/Pasc2-3:Lectio6:s/.* Mem/Mem/s
 
 [Responsory8]
 @Tempora/Pasc2-3:Responsory6
@@ -81,28 +77,25 @@ R. Miserére mei, et exáudi me, allelúja.
 @Sancti/03-19:Responsory4
 
 [Lectio11]
-@Tempora/Pasc2-3:Lectio9:s/ Neque.*//s
+@Tempora/Pasc2-3:Lectio9:s/Neque.*//s
 
 [Responsory11]
 @Tempora/Pasc2-3:Responsory8
 
 [Lectio12]
-@Tempora/Pasc2-3:Lectio9:s/.* Neque/Neque/s
+@Tempora/Pasc2-3:Lectio9:s/.*Neque/Neque/s
 
 [Responsory12]
 @SanctiM/03-19
 
-[Capitulum Laudes]
+[LectioE]
 @Tempora/Pasc2-3
-_
-@Tempora/Pasc2-3:Responsory Sexta:1-6
 
-[Responsory Tertia]
-@:Versum 1
+[Responsory TertiaM]
+@Tempora/Pasc2-3:Responsory Tertia:s/.*_.//s
 
-[Responsory Sexta]
-@Tempora/Pasc2-3::8-9
+[Responsory SextaM]
+@Tempora/Pasc2-3:Responsory Sexta:s/.*_.//s
 
-[Responsory Nona]
-@Tempora/Pasc2-3::8-9
-
+[Responsory NonaM]
+@Tempora/Pasc2-3:Responsory Nona:s/.*_.//s

@@ -8,11 +8,6 @@ Sub unica concl
 [Rule] (rubrica 196)
 Sub unica concl
 
-[Capitulum Vespera]
-@Sancti/01-25:Capitulum Vespera
-_
-@Commune/C1:Responsory Sexta:1-6
-
 [AntM Matutinum]
 Ter virgis cæsus sum, * semel lapidátus sum, ter naufrágium pértuli pro Christo Dómino.;;97
 Grátia Dei * sum id quod sum: et grátia ejus in me vácua non fuit.;;98
@@ -122,9 +117,7 @@ V. Per quem mihi mundus crucifíxus est, et ego mundo.
 R. Gloriári me opórtet in cruce Dómini mei Jesu Christi.
 
 [Capitulum Laudes]
-@Sancti/01-25:Capitulum Vespera
-_
-@Commune/C1:Responsory Tertia:1-6
+@Sancti/01-25
 
 [Versum 2]
 @Sancti/06-30:Versum 1
@@ -132,16 +125,13 @@ _
 [Ant 2]
 @Sancti/06-30
 
-[Capitulum Tertia]
-@Sancti/01-25:Capitulum Vespera
-
-[Responsory Tertia]
+[Responsory TertiaM]
 @CommuneM/C1
 
-[Responsory Sexta]
+[Responsory SextaM]
 @CommuneM/C1
 
-[Responsory Nona]
+[Responsory NonaM]
 @CommuneM/C1
 
 [Ant Vespera 3]

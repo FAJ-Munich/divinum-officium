@@ -13,11 +13,6 @@ Al sicuro * i tuoi Santi, o Signore, gridavano, alleluia, alleluia, alleluia.;;1
 Spirito ed anime * dei giusti, sciogliete un inno al nostro Dio, alleluia, alleluia.;;112
 I giusti risplenderanno * come il sole dinanzi a Dio, alleluia.;;116
 
-[Capitulum Vespera]
-!Sap 5:1
-v. I giusti staranno con grande sicurezza davanti a coloro che li perseguitarono e depredarono il frutto delle loro fatiche.
-$Deo gratias
-
 [Hymnus Vespera]
 v. Tristi erano gli Apostoli
 per l'atroce supplizio di Cristo,

@@ -1,9 +1,9 @@
 [Name]
-Sancta Maria Sabbato ex Purificatione ad Pascham; Salve Sancta parens
+Sancta Maria Sabbato ex Purificatione ad Pascham: Salve Sancta parens
 
 [Rule]
 Gloria
-Suffr=Spiritu;;Ecclesiae,Papa
+Suffr=Spiritu;Ecclesiæ,Papa;;
 Prefatio=Maria=veneratione;
 
 [Introitus]

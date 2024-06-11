@@ -28,6 +28,12 @@
 [#Canticum]
 #Canticle
 
+[#Canticum: Benedictus]
+#Canticle: Benedictus
+
+[#Canticum: Magnificat]
+#Canticle: Magnificat
+
 [#Canticum Nunc dimittis]
 #Canticle: Nunc dimittis
 
@@ -48,6 +54,12 @@
 
 [#Orationes]
 #Prayers
+
+[#De Officio Capituli]
+#The Capitular Office
+
+[#Commemoratio defunctorum]
+#Commemoration of departed
 
 [#Lectio brevis]
 #Short reading
@@ -118,7 +130,7 @@ But Thou Lord
 [Aperi]
 Open my mouth
 
-[Benedicamus Domino]
+[Benedicamus_Domino]
 Let us bless the Lord
 
 [Benedicamus Domino alleluja]
@@ -214,11 +226,8 @@ May the divine assistance
 [Gloria tibi Domine]
 Glory be to you, O Lord.
 
-[#Commemoratio defunctorum]
-#Commemoration of departed
-
-[MLitany]
-Lord have mercy … Our Father
+[Kyrie]
+Lord have mercy
 
 [Dominica]
 Sunday
@@ -262,5 +271,35 @@ Nocturn
 [Adjutorium nostrum]
 Our help is
 
-[Pater secreto]
-Our Father
+[Oratio Domine_]
+O Lord, our heavenly
+
+[Respice]
+Look upon
+
+[Dirigere]
+O Lord, Almighty
+
+[Pater secreto_]
+And lead us not
+
+[Pater totum secreto_]
+/:in silence:/
+
+[Credo secreto_]
+The resurrection
+
+[Pater Ave L_]
+/:rubrics for Lauds:/
+
+[Deus in adjutorium iij_]
+/:thrice:/
+
+[Benedictio Prima]
+Grant, … May Almighty
+
+[Benedictio Prima2]
+Dóminus nos benedícat
+
+[Benedicite]
+Let us bless

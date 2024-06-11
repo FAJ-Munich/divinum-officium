@@ -54,28 +54,17 @@ No93
 [Responsory3]
 @Tempora/Pasc6-0:Responsory8
 
-
 [MM Capitulum] (rubrica tridentina aut rubrica divino)
 @Tempora/Pasc6-0:Capitulum Sexta
 _
 @Tempora/Pasc5-4:Ant Matutinum:9-10
 
-[Capitulum Vespera] 
+[Capitulum Laudes]
 @TemporaM/Pasc6-0
 (sed rubrica 1963)
 @TemporaM/Pasc5-5
 
-[Capitulum Laudes] 
-@TemporaM/Pasc6-0
-(sed rubrica 1963)
-@TemporaM/Pasc5-5
-
-[Capitulum Tertia] 
-@TemporaM/Pasc6-0
-(sed rubrica 1963)
-@TemporaM/Pasc5-5
-
-[Capitulum Sexta] 
+[Capitulum Sexta]
 @TemporaM/Pasc6-0
 (sed rubrica 1963)
 @TemporaM/Pasc5-5

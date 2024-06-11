@@ -114,40 +114,43 @@ function clearradio() {
   document.forms[0].command.value = '';
   document.forms[0].submit();
 	}
-	
-	//restart the programlet if parameter change
-		function parchange() {
-			var c = document.forms[0].command.value;
-			if (c && !c.match("change")) {
-				clearradio();
-			}
-			if (c && !c.match("pray")) document.forms[0].command.value = "pray" + c;
-			document.forms[0].submit();
-		}
-	
-	//calls kalendar
-	function callkalendar() {
-		document.forms[0].action = 'kalendar.pl';
-		document.forms[0].target = "_self"
-		document.forms[0].submit();
-	}
 
-	// for Cofficium
-	function callbrevi(date) {
-		document.forms[0].date.value = date;
-		document.forms[0].action = 'officium.pl'
-		document.forms[0].target = "_self"
-		document.forms[0].submit();
-	}
-	
-	//calls missa
-	function callmissa() {
-		document.forms[0].action = "../missa/missa.pl";
-		document.forms[0].target = "_self"
-		document.forms[0].submit();
-	}
-	
-	function prevnext(ch) {
+//restart the programlet if parameter change
+function parchange() {
+  var c = document.forms[0].command.value;
+  if (c && !c.match("change")) {
+     clearradio();
+  }
+  if (c && !c.match("pray")) document.forms[0].command.value = "pray" + c;
+  document.forms[0].submit();
+}
+
+//calls kalendar
+function callkalendar() {
+  document.forms[0].action = 'kalendar.pl';
+  document.forms[0].target = "_self"
+  document.forms[0].submit();
+}
+
+// for Cofficium
+function callbrevi(date) {
+  document.forms[0].date.value = date;
+  document.forms[0].action = 'officium.pl'
+  document.forms[0].target = "_self"
+  document.forms[0].submit();
+}
+
+//calls missa
+function callmissa() {
+  document.forms[0].action = "../missa/missa.pl";
+  if (document.forms[0].command.value != "") {
+    document.forms[0].command.value = "praySanctaMissa"
+  }
+  document.forms[0].target = "_self"
+  document.forms[0].submit();
+}
+
+function prevnext(ch) {
   var dat = document.forms[0].date.value;
   var adat = dat.split('-');
   var mtab = new Array(31,28,31,30,31,30,31,31,30,31,30,31);

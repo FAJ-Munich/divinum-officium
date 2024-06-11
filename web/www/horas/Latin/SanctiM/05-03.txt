@@ -4,43 +4,30 @@
 12 lectiones
 Psalmi Dominica
 
-[Capitulum Vespera]
-@Sancti/05-03:Capitulum Laudes
-_
-@Sancti/05-03:Responsory Sexta:1-6
-
-[Ant Matutinum 3N]
-@Sancti/05-03:Ant Matutinum:11 s/;;.*//
-
 [Ant Matutinum]
-@Sancti/05-03::1 
+@Sancti/05-03::1
 ;;2
 ;;4
 ;;5
 ;;8
 ;;14
-@Sancti/05-03::4-5
-@Sancti/05-03::6 s/4/22/
+@Sancti/05-03::4-6 s/4/22/
 ;;26
 ;;75
 ;;95
 ;;96
 ;;97
-@Sancti/05-03::9-10
-;;246;247;248
+@Sancti/05-03::9-11 s/95/246;247;248/
 @Sancti/05-03::14-15
 
 [Lectio3]
-@Sancti/05-03::s/-15/-12/ s/13.*//s
+@Sancti/05-03::1-6 s/-15/-12/
 
 [Lectio4]
-@Sancti/05-03:Lectio3:s/9-/13-/ s/9.*13/13/s
+@Sancti/05-03:Lectio3:s/.*!/!/s s/9-/13-/ s/9.*13/13/s
 
 [Responsory4]
-R. O crux benedícta,
-* Quæ sola fuísti digna portáre Regem cælórum et Dóminum, allelúja.
-V. O crux gloriósa et admirábilis o crux veneránda!
-R. Quæ sola fuísti digna portáre Regem cælórum et Dóminum, allelúja.
+@SanctiM/09-14
 
 [Lectio5]
 @Sancti/05-03:Lectio4
@@ -55,57 +42,52 @@ R. Quæ sola fuísti digna portáre Regem cælórum et Dóminum, allelúja.
 @Sancti/05-03:Responsory5
 
 [Lectio7]
-@Sancti/05-03:Lectio6: s/ Clavos .*//
+@Sancti/05-03:Lectio6:s/Clavos.*//s
 
 [Responsory7]
 @Sancti/05-03:Responsory6
 
 [Lectio8]
-@Sancti/05-03:Lectio6: s/.* Clavos/Clavos/
+@Sancti/05-03:Lectio6:s/.*(Clavos)/$1/s
 
 [Responsory8]
-R. Per signum Crucis de inimícis nostris, allelúja.
-* Líbera nos, Deus noster, allelúja.
-V. Salva nos, Christe Salvátor, per virtútem crucis.
-R. Líbera nos, Deus noster, allelúja.
+@SanctiM/09-14
 
 [Lectio9]
-@Sancti/05-03:Lectio7: s/ Et de N.*//
+@Sancti/05-03:Lectio7:s/Et de.*//s
 
 [Responsory9]
 @Sancti/05-03:Responsory7
 
 [Lectio10]
-@Sancti/05-03:Lectio7: s/.* Et de N/Et de N/
+@Sancti/05-03:Lectio7:s/.* (Et de)/$1/s
 
 [Responsory10]
 @Sancti/05-03:Responsory8
 
 [Lectio11]
-@Sancti/05-03:Lectio8
+@Sancti/05-03:Lectio8:s/Int.ndat.*//s
 
 [Responsory11]
-R. Tuam Crucem adorámus Dómine: † tuam gloriósam recólimus passiónem:
-* Miserére nostri, qui passus es pro nobis, allelúja.
-V. Adorámus te, Christe, et benedícimus tibi: † quia per Crucem tuam redemísti mundum.
-R. Miserére nostri, qui passus es pro nobis, allelúja.
+@SanctiM/09-14
+
+[Lectio12]
+@Sancti/05-03:Lectio8:s/.*(Int.ndat)/$1/s
 
 [Responsory12]
-R. Ecce Crucem Dómini, fúgite partes advérsæ, vicit Leo de tribu Juda,
-* Radix David, allelúja, allelúja.
-V. Crux benedícta, in qua triumphávit Rex Angelórum.
-R. Radix David, allelúja, allelúja.
+@SanctiM/09-14
 
-[Capitulum Laudes]
+[LectioE]
 @Sancti/05-03
-_
-@Sancti/05-03:Responsory Tertia:1-6
 
-[Responsory Tertia]
+[Versum 3]
+@Sancti/05-03:Responsory Nona:8-9
+
+[Responsory TertiaM]
 @Sancti/05-03:Ant Matutinum:4-5
 
-[Responsory Sexta]
+[Responsory SextaM]
 @Sancti/05-03:Ant Matutinum:9-10
 
-[Responsory Nona]
+[Responsory NonaM]
 @Sancti/05-03:Ant Matutinum:14-15

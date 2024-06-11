@@ -36,7 +36,6 @@ sub psalmi_matutinum_monastic {
   my %psalmi = %{setupstring($lang, 'Psalterium/Psalmi matutinum.txt')};
   my $dw = $dayofweek;
 
-  #if ($winner{Rank} =~ /Dominica/i) { $dw = 0; }
   my @psalmi = split("\n", $psalmi{"Daym$dw"});
   setbuild("Psalterium/Psalmi matutinum monastic", "dayM$dw", 'Psalmi ord');
   $comment = 1;
@@ -133,9 +132,11 @@ sub psalmi_matutinum_monastic {
 
   if (
     (
-      ($rank > 4.9 || $votive =~ /C8/)
-      || ((($rank >= 4 && $version =~ /divino/i) || ($rank >= 2 && $version =~ /trident/i))
-        && $dayname[1] !~ /feria|sabbato|Die.*infra octavam/i)
+      (
+           ($rank > 4.9 || $votive =~ /C8/)
+        || (($rank >= 4 && $version =~ /divino/i) || ($rank >= 2 && $version =~ /trident/i))
+      )
+      && ($duplex == 3 || $dayname[1] !~ /feria|sabbato|Die.*infra octavam/i)
     )
     && !($dayname[0] =~ /Pasc0/ && $dayofweek > 2)
     && $winner !~ /Pasc6-6/i
@@ -160,9 +161,15 @@ sub psalmi_matutinum_monastic {
       }
     }
     setbuild2("Antiphonas Psalmi Proprium aut Communem");
-  } elsif ($dayname[1] =~ /(?:Die|Feria|Sabbato).*infra octavam|post Octavam Asc|in Vigilia Pent/i
-    && !($dayname[0] =~ /Pasc0/ && $dayofweek > 2))
-  {
+  } elsif (
+    (
+      $dayname[1] =~ /(?:Die|Feria|Sabbato).*infra octavam|post Octavam Asc|Quattuor Temporum Pent/
+      || ($dayname[1] =~ /in Vigilia Pent/i && $version !~ /196/)
+
+    )
+    && !($dayname[0] =~ /Pasc0/ && $dayofweek > 2)
+  ) {
+
     if (exists($winner{'Ant Matutinum'})) {
       my $start = 0;
       my ($w, $c) = getproprium('Ant Matutinum', $lang, 0, 0);
@@ -218,16 +225,16 @@ sub psalmi_matutinum_monastic {
       && $dayname[1] !~ /feria|sabbato|infra octavam/i)
   ) {
     lectiones(1, $lang);    # first Nocturn of 4 lessons (
-	} elsif ($dayname[0] =~ /(Pasc[1-6]|Pent)/i
-	&& monthday() !~ /^11[1-5]\-/
-	&& $winner{Rank} !~ /vigil|quat(t?)uor|infra octavam|post octavam asc/i
-	&& ($winner{Rank} !~ /secunda.*roga/i || $version =~ /196/)
-	&& $rule !~ /3 lectiones/)
-	{
-		# from Low Sunday till the first Sunday of November, unless there is a Homily,
-		# i.e., outside Ascensiontide and Rogation Monday (pre-55), Pentecost, Vigils, Ember days and Octaves:
-		# The change from "summer" to "winter" matins (pre- and post-1960) is tied to the 1st Sunday of November not All Saints' Day.
-		# The previous elsif made a mistake and referred to non-existing scriptura of the last week of October
+  } elsif ($dayname[0] =~ /(Pasc[1-6]|Pent)/i
+    && monthday($day, $month, $year, ($version =~ /196/) + 0, 0) !~ /^11[1-5]\-/
+    && $winner{Rank} !~ /vigil|quat(t?)uor|infra octavam|post octavam asc/i
+    && ($winner{Rank} !~ /secunda.*roga/i || $version =~ /196/)
+    && $rule !~ /3 lectiones/)
+  {
+    # from Low Sunday till the first Sunday of November, unless there is a Homily,
+    # i.e., outside Ascensiontide and Rogation Monday (pre-55), Pentecost, Vigils, Ember days and Octaves:
+    # The change from "summer" to "winter" matins (pre- and post-1960) is tied to the 1st Sunday of November not All Saints' Day.
+    # The previous elsif made a mistake and referred to non-existing scriptura of the last week of October
     if ($winner =~ /Tempora/i || !(exists($winner{Lectio94}) || exists($winner{Lectio4}))) {
       brevis_monastic($lang);
 
@@ -485,5 +492,7 @@ sub regula : ScriptFunc {
     $t .= join("\n", @a);
   }
 
+  $t .= "\n" . prayer("Tu autem", $lang);
+  $t .= "\n_\n" . prayer("Rubrica Regula", $lang) . "\n_";
   return $t;
 }
