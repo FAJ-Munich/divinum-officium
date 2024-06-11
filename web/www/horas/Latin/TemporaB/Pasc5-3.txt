@@ -1,9 +1,0 @@
-@Tempora/Pasc5-3
-
-[Rule]
-Doxology=Pasc
-Laudes Litania
-No prima vespera
-
-[Responsory3]
-@TemporaM/Pasc4-0:Responsory11
