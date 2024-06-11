@@ -1735,3 +1735,16 @@ _
 
 [LitaniaT]
 @:Litania
+
+[Preces feriales Laudes]
+/:non cantantur, sed dicitur recto tono:/
+$Kyrie
+$Pater secreto
+@:Preces feriales Laudes_
+
+[Preces feriales Vespera]
+/:non cantantur, sed dicitur recto tono:/
+$Kyrie
+$Pater secreto
+@:Preces feriales Laudes_:s/129/50/
+

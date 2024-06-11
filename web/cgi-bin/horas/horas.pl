@@ -1289,14 +1289,14 @@ sub getordinarium {
   my @script = process_conditional_lines(do_read($fname));
   $error = "$fname cannot be opened or gives an empty script." unless @script;
 
-	# Psalms 3 and 66 in ordinarium get their chanttone here:
-	if ($lang =~ /gabc/i) {
-		foreach my $line (@script) {
-			$line =~ s/^\&psalm\((\d+)\)/\&psalm(\'$1,in-dir-monasticus\')/
-		}
-	}
-	
-	# Prelude pseudo-item.
+  # Psalms 3 and 66 in ordinarium get their chanttone here:
+  if ($lang =~ /gabc/i) {
+    foreach my $line (@script) {
+      $line =~ s/^\&psalm\((\d+)\)/\&psalm(\'$1,in-dir-monasticus\')/;
+    }
+  }
+
+  # Prelude pseudo-item.
   unshift @script, '#Prelude', '';
   return @script;
 }
