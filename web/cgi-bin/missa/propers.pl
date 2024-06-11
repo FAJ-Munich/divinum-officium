@@ -253,8 +253,17 @@ sub oratio {
 
   if (exists($w{"$type Vigilia"}) && ($version !~ /(1955|196)/ || $rule =~ /Vigilia/i)) {
     $w .= $w{"$type Vigilia"};
-    $retvalue .= "$oremusflag$w\n";
-    $oremusflag = "";
+
+    if ($version =~ /(1955|196)/) {
+      $retvalue .= "$oremusflag$w\n";
+      $oremusflag = "";
+    } else {
+      setcc($w, 3, %c);
+    }
+  } elsif ($transfervigil) {
+    my %ctv = %{setupstring($lang, "$transfervigil")};
+    $w .= $ctv{"$type Vigilia"};
+    setcc($w, 3, %c);
   }
 
   # add IV Temporum lectio/gradual/collect  (LectioLn) for the main oration
@@ -918,7 +927,7 @@ sub Credo {
   } elsif ($rule =~ /Credo/i || $communerule =~ /Credo/i) {
     $flag = 0;
   }
-  if ($version =~ /(1955|196)/ && $rule =~ /CredoDA/i) { $flag = 1; }
+  if ($version =~ /(196)/ && $rule =~ /CredoDA/i) { $flag = 1; }
   if ($flag) { push(@s, "!omit."); }
   return $flag;
 }
@@ -1148,6 +1157,7 @@ sub Ultimaev : ScriptFunc {
     || !exists($commemoratio{Evangelium})
     || $commemoratio{Rule} =~ /Evangelium non appropriatum/)
   {
+    return '' if $Propers;
     our %prayers;
     $t = prayer('Ultima Evangelium', $lang);
   } else {

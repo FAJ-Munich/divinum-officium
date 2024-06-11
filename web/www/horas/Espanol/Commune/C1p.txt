@@ -13,11 +13,6 @@ A la sombra de tus alas * gritaban tus Santos, Señor, aleluya, aleluya, aleluya
 Almas y espíritus * de los justos, bendecid al Señor Dios nuestro, aleluya, aleluya.;;112
 Brillarán los justos * como el sol en presencia de Dios, aleluya.;;116
 
-[Capitulum Vespera]
-!Sab 5:1
-v. Entonces el justo estará en pie con gran aplomo delante de los que lo afligieron y despreciaron sus trabajos.
-$Deo gratias
-
 [Hymnus Vespera]
 {:H-Tristeserantapostoli:}v. Tristes están los Apóstoles,
 su corazón viste duelo,

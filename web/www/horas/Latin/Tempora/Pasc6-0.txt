@@ -5,15 +5,10 @@ Dominica infra Octavam Ascensionis;;Semiduplex;;5;;ex Tempora/Pasc5-4
 Dominica post Ascensionem;;Semiduplex;;5;;vide Tempora/Pasc5-4
 
 [Rule]
-ex Tempora/Pasc5-4;(rubrica tridentina aut rubrica divino)
+ex Tempora/Pasc5-4; (rubrica tridentina aut rubrica divino)
 9 lectiones
 Doxology=Asc
 StJamesRule=John,Rev
-
-[Capitulum Vespera]
-!1 Petri 4:7-8
-v. Caríssimi: Estóte prudéntes, et vigiláte in oratiónibus. Ante ómnia autem mútuam in vobismetípsis caritátem contínuam habéntes, quia cáritas óperit multitúdinem peccatórum.
-$Deo gratias
 
 [Versum 1]
 @Tempora/Pasc5-4:Versum 2
@@ -25,7 +20,7 @@ Cum vénerit Paráclitus, * quem ego mittam vobis Spíritum veritátis, qui a Pa
 Omnípotens sempitérne Deus: fac nos tibi semper et devótam gérere voluntátem; et majestáti tuæ sincéro corde servíre.
 $Per Dominum
 
-[Ant Matutinum](rubrica tridentina aut rubrica divino)
+[Ant Matutinum] (rubrica tridentina aut rubrica divino)
 @Tempora/Pasc5-4:Ant Matutinum
 
 [Lectio1]
@@ -92,10 +87,9 @@ Deínde tamquam consequénter adjúnxit, unde modo disputáre suscépimus: Cum a
 &teDeum
 
 [Capitulum Laudes]
-@:Capitulum Vespera
-
-[Capitulum Tertia]
-@:Capitulum Vespera
+!1 Petri 4:7-8
+v. Caríssimi: Estóte prudéntes, et vigiláte in oratiónibus. Ante ómnia autem mútuam in vobismetípsis caritátem contínuam habéntes, quia cáritas óperit multitúdinem peccatórum.
+$Deo gratias
 
 [Capitulum Sexta]
 !1 Petri 4:7-8

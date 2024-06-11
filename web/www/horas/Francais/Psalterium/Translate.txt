@@ -22,8 +22,14 @@
 [#Canticum]
 #Cantique
 
+[#Canticum: Benedictus]
+#Cantique : Benedictus
+
+[#Canticum: Magnificat]
+#Cantique : Magnificat
+
 [#Canticum Nunc dimittis]
-#Cantique Nunc dimittis
+#Cantique : Nunc dimittis
 
 [#Preces Dominicales]
 #Prières dominicales
@@ -42,6 +48,9 @@
 
 [#Orationes]
 #Oraisons
+
+[#De Officio Capituli]
+#L'Office du Chapitre
 
 [#Lectio brevis]
 #Leçon brève
@@ -205,8 +214,8 @@ Antienne finale à la très Sainte Vierge Marie
 [Divinum auxilium]
 Que le secours divin
 
-[MLitany]
-Seigneur ayez pitié … Notre Père
+[Kyrie]
+Seigneur ayez pitié
 
 [Dominica]
 dimanche
@@ -217,5 +226,5 @@ octave
 [Adjutorium nostrum]
 Notre secours est
 
-[Pater secreto]
-Notre Père
+[Pater secreto_]
+Et ne nous

@@ -1,8 +1,5 @@
 @Sancti/01-03
 
-[Rank]
-Die Tertia Januarii;;Feria;;1.2;;vide Sancti/01-01
-
 [Oratio]
 @Sancti/01-01
 
@@ -12,5 +9,5 @@ Die Tertia Januarii;;Feria;;1.2;;vide Sancti/01-01
 [LectioM4]
 @Sancti/01-03:Lectio3:s/12/14/ s/12.*14/14/s
 
-[Capitulum Vespera]
+[Capitulum Laudes]
 @SanctiM/01-01

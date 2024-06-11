@@ -1,0 +1,29 @@
+#Incipit
+$Pater Ave 
+$Deus in adjutorium
+&Alleluia
+
+#Hymnus
+
+#Psalmi
+
+#Capitulum Responsorium Versus
+(rubrica Monastica omittitur)
+
+(rubrica Monastica dicitur)
+#Capitulum Versus
+
+#Preces Feriales
+(rubrica 196 aut rubrica 1955 aut rubrica monastica omittitur)
+
+#Oratio
+
+#Conclusio
+&Dominus_vobiscum
+$Benedicamus Domino
+$Fidelium animae
+(rubrica Monastica dicitur)
+&Divinum_auxilium
+
+$Pater post
+(sed rubrica 196 aut rubrica 1955 omittitur)

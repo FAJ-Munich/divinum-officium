@@ -5,11 +5,6 @@
 Psalmi Dominica
 Antiphonas horas
 
-[Capitulum Vespera]
-@Tempora/Pasc7-0
-_
-@Tempora/Pasc7-0:Responsory Sexta:1-6
-
 [Ant Matutinum]
 @Tempora/Pasc7-0::1 s/47/1/
 ;;8
@@ -112,16 +107,11 @@ $Deo gratias
 _
 @Tempora/Pasc7-0:Versum 3
 
-[Capitulum Laudes]
-@Tempora/Pasc7-0
-_
-@Tempora/Pasc7-0:Responsory Tertia:1-6
-
-[Responsory Tertia]
+[Responsory TertiaM]
 @Tempora/Pasc7-0:Ant Matutinum:4-5
 
-[Responsory Sexta]
+[Responsory SextaM]
 @Tempora/Pasc7-0:Responsory Tertia:8-9
 
-[Responsory Nona]
+[Responsory NonaM]
 @Tempora/Pasc7-0:Versum 1

@@ -1,8 +1,5 @@
 @Sancti/12-27
 
-[Rank]
-S. Joanni Apostoli;;Duplex II Class;;5;;ex C1
-
 [Rule]
 12 lectiones
 
@@ -86,16 +83,6 @@ R. Sic eum volo manére, donec véniam:
 * Quid ad te, tu me séquere.
 V. Hunc ergo cum vidísset Petrus, dixit ad Jesum: † Dómine hic autem quid?
 R. Quid ad te, tu me séquere.
-
-[Capitulum Laudes]
-@Sancti/12-27
-_
-@Commune/C1:Responsory Tertia:1-6
-
-[Capitulum Vespera]
-@Sancti/12-27:Capitulum Laudes
-_
-@Commune/C1:Responsory Sexta:1-6
 
 [Ant Vespera 3]
 @Sancti/12-25::s/129.*/129/s

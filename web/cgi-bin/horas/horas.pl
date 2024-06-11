@@ -74,7 +74,7 @@ sub horas {
     @script2 = specials(\@script2, $lang2);
   }
 
-  print_content($lang1, \@script1, $lang2, \@script2, $version =~ /Divino|1888|1906/i);
+  print_content($lang1, \@script1, $lang2, \@script2, $version !~ /1570|1955|196/);
 
   # GABC: restore original values if changed
   $lang1 = $templang1;
@@ -357,6 +357,12 @@ sub Dominus_vobiscum2 : ScriptFunc {    #* officium defunctorum
   return Dominus_vobiscum($lang);
 }
 
+sub MLitany2 : ScriptFunc {
+  my $lang = shift;
+  if (preces('Dominicales')) { return; }
+  return prayer('MLitany2', $lang);
+}
+
 #*** Benedicamus_Domino
 # adds Alleluia, alleluia for Pasc0
 sub Benedicamus_Domino : ScriptFunc {
@@ -440,9 +446,11 @@ sub psalm : ScriptFunc {
     $num = $1;
 
     if (
-      ($version =~ /Trident/i && $num =~ /(62|148|149)/)    # Tridentine Laudes: Pss. 62/66 & 148/149/150 under 1 gloria
+      (    $version =~ /Trident/i
+        && $version !~ /Monastic/i
+        && $num =~ /(62|148|149)/)    # Tridentine Romanum Laudes: Pss. 62/66 & 148/149/150 under 1 gloria
       || ($version =~ /Monastic/i && $num =~ /(115|148|149)/)
-      )    # Monastic Vespers: Pss. 115/116 & 148/149/150 under 1 gloria
+      )                               # Monastic Vespers: Pss. 115/116 & 148/149/150 under 1 gloria
     {
       $nogloria = 1;
     }
@@ -835,7 +843,7 @@ sub setlink {
     $t = '';
   }
 
-  if ($name =~ /(Deus in adjutorium|Indulgentiam|Te decet)/i) {
+  if ($name =~ /(Deus in adjutorium$|Indulgentiam|Te decet|Benedictio Prima2)/i) {
     $suffix = " + $suffix";
   }
 
@@ -1048,7 +1056,7 @@ sub Domine_labia : ScriptFunc {
 #returns the text of the martyrologium for the day
 sub martyrologium : ScriptFunc {
   my $lang = shift;
-  my $t = setfont($largefont, "Martyrologium ") . setfont($smallblack, "(anticip.)") . "\n";
+  my $t = '';    # Title and Comment is now set in specials.pl for #Martyrolgium
 
   my $a = getweek($day, $month, $year, 1) . "-" . (($dayofweek + 1) % 7);
   my %a = %{setupstring($lang, "Martyrologium/Mobile.txt")};
@@ -1124,7 +1132,9 @@ sub martyrologium : ScriptFunc {
       }
     }
   }
-  $t .= prayer('Conclmart', $lang);
+  my $conclmart = prayer('Conclmart', $lang);
+  $conclmart =~ s/\_.*/ /si if $rule =~ /ex C9/;
+  $t .= $conclmart;
   return $t;
 }
 
@@ -1269,29 +1279,14 @@ sub special : ScriptFunc {
 sub getordinarium {
   my $lang = shift;
   my $command = shift;
+
   $command =~ s/Vesperae/Vespera/;
-  my @script = ();
-  my $suffix = "";
-  if ($command =~ /Matutinum/i && $rule =~ /Special Matutinum Incipit/i) { $suffix .= "e"; }    # for Epiphanias
   if ($command =~ /Tertia|Sexta|Nona/i) { $command = 'Minor'; }    # identical for Terz/Sext/Non
 
-  if ($command =~ /Prima/i) {
-    if ($version =~ /(1955|1960|Newcal)/) {
-      $suffix .= "1960";
-    } elsif ($version =~ /Monastic/i) {
-      $suffix .= "M";
-    } elsif ($version =~ /Ordo Praedicatorum/i) {
-      $suffix .= "OP";
-    }
-  }
+  our $datafolder;
+  my $fname = "$datafolder/Ordinarium/$command.txt";
 
-  # don't loose time for non existent files
-#  $lang = 'Latin' if $command !~ /^(?:Prima)$/;
-
-  my $fname = checkfile($command =~ /^(?:Prima)$/ ? $lang : 'Latin',
-		"Ordinarium/$command$suffix.txt");
-	
-  @script = process_conditional_lines(do_read($fname));
+  my @script = process_conditional_lines(do_read($fname));
   $error = "$fname cannot be opened or gives an empty script." unless @script;
 
 	# Psalms 3 and 66 in ordinarium get their chanttone here:
