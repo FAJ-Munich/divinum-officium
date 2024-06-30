@@ -4,6 +4,7 @@ S. Joannis a Cruce Confessoris et Ecclesiæ Doctoris;;Duplex;;3;;vide C5a
 [Rule]
 vide C5a;
 Gloria
+CredoDA
 
 [Oratio]
 Deus, qui sanctum Joánnem Confessórem tuum atque Doctorem perféctæ sui abnegatiónis et Crucis amatórem exímium effecísti: concéde; ut, ejus imitatióni júgiter inhæréntes, glóriam assequámur ætérnam.

@@ -38,16 +38,10 @@ sub horas {
     $version = $version1;
     precedence();
   }
+
   @script1 = getordinarium($lang1, $command);
   @script1 = specials(\@script1, $lang1);
   $column = 2;    # This prevents the duplications in the Building Script
-
-  if ($Ck) {
-    $version = $version1;
-    precedence();
-  }
-  @script1 = getordinarium($lang1, $command);
-  @script1 = specials(\@script1, $lang1);
 
   if ($Ck) {
     $version = $version2;
@@ -296,6 +290,12 @@ sub Dominus_vobiscum2 : ScriptFunc {    #* officium defunctorum
   return Dominus_vobiscum($lang);
 }
 
+sub MLitany2 : ScriptFunc {
+  my $lang = shift;
+  if (preces('Dominicales')) { return; }
+  return prayer('MLitany2', $lang);
+}
+
 #*** Benedicamus_Domino
 # adds Alleluia, alleluia for Pasc0
 sub Benedicamus_Domino : ScriptFunc {
@@ -335,7 +335,8 @@ sub antiphona_finalis : ScriptFunc {
   } else {
     $name = 'Postpentecost';
   }
-  my $t = %{setupstring($lang, "Psalterium/Mariaant.txt")}{$name};
+  my %ant = %{setupstring($lang, "Psalterium/Mariaant.txt")};
+  my $t = $ant{$name};
   $t = '#' . translate($name eq 'Ant Finalis OP' ? 'Antiphonae finalis' : 'Antiphona finalis BMV', $lang) . "\n$t";
   return ($t);
 }
@@ -988,7 +989,9 @@ sub martyrologium : ScriptFunc {
       }
     }
   }
-  $t .= prayer('Conclmart', $lang);
+  my $conclmart = prayer('Conclmart', $lang);
+  $conclmart =~ s/\_.*/ /si if $rule =~ /ex C9/;
+  $t .= $conclmart;
   return $t;
 }
 
@@ -1042,6 +1045,10 @@ sub gregor {
     'January', 'February', 'March', 'April', 'May', 'June',
     'July', 'August', 'September', 'October', 'November', 'December',
   );
+  my @months_it = (
+    'Gennaio', 'Febbraio', 'Marzo', 'Aprile', 'Maggio', 'Giugno',
+    'Luglio', 'Agosto', 'Settembre', 'Ottobre', 'Novembre', 'Dicembre',
+  );
   $day = $leapday || $day;    # recover English date in Leap Years
   my $sfx1 =
       ($day > 3 && $day < 21) ? 'th'
@@ -1063,6 +1070,8 @@ sub gregor {
     return ("Roku Pańskiego $year");
   } elsif ($lang =~ /Francais/i) {
     return ("L'année du Seigneur $year, le $gday$sfx2 jour de la Lune");
+  } elsif ($lang =~ /Italiano/i) {
+    return ("Anno del Signore $year, $day $months_it[$month - 1], Luna $gday");
   } else {
     return ("$months[$month - 1] $day$sfx1 $year, the $gday$sfx2 day of the Moon,", $months[$month - 1]);
   }
@@ -1079,6 +1088,10 @@ sub luna {
   my @months = (
     'January', 'February', 'March', 'April', 'May', 'June',
     'July', 'August', 'September', 'October', 'November', 'December',
+  );
+  my @months_it = (
+    'Gennaio', 'Febbraio', 'Marzo', 'Aprile', 'Maggio', 'Giugno',
+    'Luglio', 'Agosto', 'Settembre', 'Ottobre', 'Novembre', 'Dicembre',
   );
   my @ordinals = (
     'prima', 'secúnda', 'tértia', 'quarta',
@@ -1101,6 +1114,8 @@ sub luna {
 
   if ($lang =~ /Latin/i) {
     return ("Luna $ordinals[$dist-1]. Anno $year\n", ' ');
+  } elsif ($lang =~ /Italiano/i) {
+    return ("$day $months_it[$month - 1] $year, Luna $gday");
   } else {
     return ("$months[$month - 1] $day$sfx1 $year. The $dist$sfx2 day of the Moon.", $months[$month - 1]);
   }
@@ -1133,16 +1148,14 @@ sub special : ScriptFunc {
 sub getordinarium {
   my $lang = shift;
   my $command = shift;
+
   $command =~ s/Vesperae/Vespera/;
-  my @script = ();
-  my $suffix = "";
-  if ($command =~ /Matutinum/i && $rule =~ /Special Matutinum Incipit/i) { $suffix .= "e"; }    # for Epiphanias
   if ($command =~ /Tertia|Sexta|Nona/i) { $command = 'Minor'; }    # identical for Terz/Sext/Non
 
   our $datafolder;
-  my $fname = "$datafolder/Ordinarium/$command$suffix.txt";
+  my $fname = "$datafolder/Ordinarium/$command.txt";
 
-  @script = process_conditional_lines(do_read($fname));
+  my @script = process_conditional_lines(do_read($fname));
   $error = "$fname cannot be opened or gives an empty script." unless @script;
 
   # Prelude pseudo-item.

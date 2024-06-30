@@ -5,28 +5,17 @@ S. Petri Celestini Papæ Confessoris;;Duplex;;3;;vide C4
 Gloria
 
 [Introitus]
-!Joannes 21:15; 21:16; 21:17
-v. Si díligis me, Simon Petre, pasce agnos meos, pasce oves meas. Allelúja, allelúja
-!Ps 29:2
-Exaltábo te, Dómine, quóniam suscepísti me, nec delectásti inimícos meos super me.
-&Gloria
-v. Si díligis me, Simon Petre, pasce agnos meos, pasce oves meas. Allelúja, allelúja
+@Commune/C4b
 
 [Oratio]
 Deus, qui beátum Petrum Cœlestínum ad summi pontificátus ápicem sublimásti, quique illum humilitáti postpónere docuísti: concéde propítius; ut ejus exémplo cuncta mundi despícere, et ad promíssa humílibus præmia perveníre felíciter mereámur.
 $Per Dominum
 
 [Lectio]
-Léctio Epístolæ beáti Petri Apóstoli
-!1 Pet 5:1-4; 5:10-11
-Caríssimi: Senióres, qui in vobis sunt, obsécro consénior et testis Christi passiónum, qui et ejus, quæ in futúro revelánda est, glóriæ communicátor: páscite qui in vobis est gregem Dei, providéntes non coácte, sed spontánee secúndum Deum, neque turpis lucri grátia, sed voluntárie; neque ut dominántes in cleris, sed forma facti gregis ex ánimo. Et, cum appáruerit princeps pastórum, percipiétis immarcescíbilem glóriæ corónam. Deus autem omnis grátiæ, qui vocávit nos in ætérnam suam glóriam in Christo Jesu, módicum passos ipse perfíciet, confirmábit solidabítque. Ipsi glória et impérium in sǽcula sæculórum. Amen.
+@Commune/C4b
 
 [Graduale]
-!Ps 106:32, 31
-Exáltent eum in Ecclésia plebis: et in cáthedra seniórum laudent eum.
-V. Confiteántur Dómino misericórdiæ ejus; et mirabília ejus fíliis hóminum. Allelúja, allelúja.
-!Matt 16:18
-Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam. Allelúja.
+@Commune/C4b
 
 [GradualeP]
 Allelúja, allelúja.
@@ -36,13 +25,10 @@ V. Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam.
 Constítues eos príncipes super omnem terram: mémores erunt nóminis tui, Dómine. Allelúja.
 
 [Evangelium]
-Sequéntia ++ sancti Evangélii secúndum Matthǽum
-!Matt 16:13-19
-In illo témpore: Venit Jesus in partes Cæsaréæ Philíppi, et interrogábat discípulos suos, dicens: Quem dicunt hómines esse Fílium hóminis? At illi dixérunt: Alii Joánnem Baptístam, alii autem Elíam, alii vero Jeremíam aut unum ex prophétis. Dicit illis Jesus: Vos autem quem me esse dícitis? Respóndens Simon Petrus, dixit: Tu es Christus, Fílius Dei vivi. Respóndens autem Jesus, dixit ei: Beátus es, Simon Bar Jona: quia caro et sanguis non revelávit tibi, sed Pater meus, qui in cœlis est. Et ego dico tibi, quia tu es Petrus, et super hanc petram ædificábo Ecclésiam meam, et portæ ínferi non prævalébunt advérsus eam. Et tibi dabo claves regni cœlórum. Et quodcúmque ligáveris super terram, erit ligátum et in cœlis: et quodcúmque sólveris super terram, erit solútum et in cœlis.
+@Commune/C4b
 
 [Offertorium]
-!Jer 1:9-10
-Ecce, dedi verba mea in ore tuo: ecce, constítui te super gentes et super regna, ut evéllas et destruas, et ædífices et plantes. (Allelúja.)
+@Commune/C4b
 
 [Secreta]
 Sancti tui, quǽsumus, Dómine, nos ubíque lætíficent: ut, dum eórum mérita recólimus, patrocínia sentiámus. 
@@ -53,16 +39,14 @@ Oblátis munéribus, quǽsumus, Dómine, Ecclésiam tuam benígnus illúmina: ut
 $Per Dominum
 
 [Communio]
-!Matt 16:18
-Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam. Allelúja.
+@Commune/C4b
 
 [Postcommunio]
 Præsta, quǽsumus, omnípotens Deus: ut, de percéptis munéribus grátias exhibéntes, intercedénte beáto Petro Cœlestíno Confessóre tuo atque Pontífice, benefícia potióra sumámus.
 $Per Dominum
 
 [Postcommunio](rubrica 1960)
-Refectióne sancta enutrítam gubérna, quǽsumus, Dómine, tuam placátus Ecclésiam: ut, poténti moderatióne dirécta, et increménta libertátis accípiat et in religiónis integritáte persístat.
-$Per Dominum
+@Commune/C4b
 
 [Commemoratio Oratio]
 !Pro S. Pudentiana Virgine.
@@ -71,10 +55,8 @@ $Per Dominum
 
 [Commemoratio Secreta]
 !Pro S. Pudentiana Virgine.
-Accépta tibi sit, Dómine, sacrátæ plebis oblátio pro tuórum honóre Sanctórum: quorum se méritis de tribulatióne percepísse cognóscit auxílium.
-$Per Dominum
+@Commune/C6b:Secreta
 
 [Commemoratio Postcommunio]
 !Pro S. Pudentiana Virgine.
-Satiásti, Dómine, famíliam tuam munéribus sacris: ejus, quǽsumus, semper interventióne nos réfove, cujus sollémnia celebrámus.
-$Per Dominum
+@Commune/C6b:Postcomunnio

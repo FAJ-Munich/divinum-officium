@@ -86,6 +86,7 @@ sub specials {
         && $rule =~ /Capitulum Versum 2( etiam ad Vesperas)?/i
         && (($1 && $hora =~ /Vespera/i) || $hora =~ /Laudes/i)
       )
+      && ($rule !~ /Omit ad Matutinum/ || $hora eq 'Matutinum')
     ) {
       $skipflag = 1;
 
@@ -99,7 +100,12 @@ sub specials {
       setcomment($label, 'Preces', $comment, $lang) if ($rule !~ /Omit.*? $ite[0] mute/i);
 
       if ($item =~ /incipit/i && $version !~ /1955|196/) {
-        push(@s, setfont($smallfont, 'secreto'), '$Pater noster', '$Ave Maria');
+        if ($hora =~ /Laudes/i) {
+          push(@s, setfont($smallfont, 'Si Laudes extra Chorum separentur a Matutino, ante eas dicitur secreto'));
+        } else {
+          push(@s, setfont($smallfont, 'secreto'));
+        }
+        push(@s, '$Pater noster', '$Ave Maria');
         if ($hora =~ /(matutinum|prima)/i) { push(@s, '$Credo'); }
       }
       next;
@@ -402,7 +408,8 @@ sub specials {
         $name =~ s/ / Pasc7 / if ($hora =~ /Tertia/ && $dayname[0] =~ /Pasc7/);
 
         if ($hora eq 'Completorium' && $version =~ /^Ordo Praedicatorum/) {
-          $versum = %{setupstring($lang, 'Psalterium/Minor Special.txt')}{'Versum 4'};
+          my %ant = %{setupstring($lang, 'Psalterium/Minor Special.txt')};
+          $versum = $ant{'Versum 4'};
           postprocess_vr($versum, $lang);
         }
         $hymnsource = 'Minor';
@@ -801,9 +808,9 @@ sub psalmi_minor {
     if ($month == 12 && $day > 16 && $day < 24 && $dayofweek > 0) {
       my $i = $dayofweek + 1;
 
-      if ($dayofweek == 6 && $version =~ /trident/i) {    # take ants from feria occuring Dec 21st
+      if ($dayofweek == 6 && $version =~ /trident|monastic.*divino/i) {    # take ants from feria occuring Dec 21st
         $i = get_stThomas_feria($year) + 1;
-        if ($day == 23) { $i = ""; }                      # use Sundays ant
+        if ($day == 23) { $i = ""; }                                       # use Sundays ant
       }
       $name = "Adv4$i";
     }
@@ -937,7 +944,8 @@ sub psalmi_major {
     @psalmi = split("\n", $psalmi{"$head $hora"});
 
     if ($hora =~ /Laudes/i && $head =~ /Daym[1-6]/) {
-      unless ((($dayname[0] =~ /Adv|Quadp/) && ($duplex < 3) && ($commune !~ /C10/))
+      unless ($version =~ /trident/i
+        || (($dayname[0] =~ /Adv|Quadp/) && ($duplex < 3) && ($commune !~ /C10/))
         || (($dayname[0] =~ /Quad\d/) && ($dayname[1] =~ /Feria/))
         || ($dayname[1] =~ /Quattuor Temporum Septembris/)
         || (($dayname[0] =~ /Pent/) && ($dayname[1] =~ /Vigil/)))
@@ -1686,7 +1694,7 @@ sub getcommemoratio {
   if ($rank[3] =~ /(ex|vide)\s+(.*)\s*$/i) {
     my $file = $2;
     if ($w{Rule} =~ /Comex=(.*?);/i && $rank < 5) { $file = $1; }
-    if ($file =~ /^C[0-9]+$/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
+    if ($file =~ /^C[0-7]+$/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
     $file = "$file.txt";
     if ($file =~ /^C/) { $file = "Commune/$file"; }
     %c = %{setupstring($lang, $file)};
@@ -2218,8 +2226,8 @@ sub checksuffragium {
       my @cccentries = (@commemoentries, @ccommemoentries);
 
       foreach my $commemo (@cccentries) {
-        if (!(-e "$datafolder/$lang/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
-        my %c = %{officestring($lang, $commemo, 0)};
+        if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
+        my %c = %{officestring('Latin', $commemo, 0)};
         my @cr = split(";;", $c{Rank});
 
         if ($cr[2] >= 3 || $c{Rank} =~ /in.*Octav/i || checkcommemoratio(\%c) =~ /octav/i) {

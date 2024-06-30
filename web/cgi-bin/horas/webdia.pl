@@ -219,7 +219,7 @@ sub cleanse($) {
     @parts = split(/;/, $str);
 
     foreach my $part (@parts) {
-      unless ($part =~ /^([^'`"\\={}()]*|'[^'`"\\]*'|\$\w+='[^'`"\\]*')$/i) {
+      unless ($part =~ /^([^'`"\\={}()]*|'[^'`"\\]*'|\$\w+='[^'`"\\]*')$/i) {    #`
 
         #print STDERR "erasing $part\n";
         $part = '';
@@ -304,7 +304,7 @@ sub getcookies {
 
   foreach (keys %cookies) {
     my $c = $cookies{$_};
-    if ($c->name =~ /$cname/) { $sti = $c->value; }
+    if ($c->name eq $cname) { $sti = $c->value; }
   }
 
   if ($sti) {
@@ -504,7 +504,7 @@ sub setcell {
   process_inline_alleluias(\$text, $dayname[0] =~ /Pasc/) unless $missa;    # missa use own solution
                                                                             # which should removed
 
-  suppress_alleluia(\$text) if ($dayname[0] =~ /Quad/i && ($missa || !Septuagesima_vesp()));
+  suppress_alleluia(\$text) if ($dayname[0] =~ /Quadp|Quad[1-5]|Quad6-[0-5]/i && ($missa || !Septuagesima_vesp()));
 
   $text =~ s/\<BR\>\s*\<BR\>/\<BR\>/g;
   if ($lang =~ /Latin/i) { $text = spell_var($text); }
@@ -517,7 +517,7 @@ sub setcell {
 
   # $text =~ s/\{\:.*?\:\}(<BR>)*\s*//g;
   $text =~ s/\{\:.*?\:\}//sg;
-  $text =~ s/\`//g;
+  $text =~ s/\`//g;    #`
 
   if ($Ck) {
     if ($column == 1) {

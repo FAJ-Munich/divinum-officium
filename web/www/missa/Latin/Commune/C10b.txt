@@ -3,7 +3,7 @@ Sancta Maria Sabbato a Nativitate usque ad Purificationem: Vultum tuum
 
 [Rule]
 Gloria
-Suffr=Spiritu;;Ecclesiae,Papa
+Suffr=Spiritu;Ecclesiæ,Papa;;
 Prefatio=Maria=veneratione;
 
 [Introitus]
@@ -59,7 +59,6 @@ revérsi sunt pastores, glorificántes et laudántes Deum in ómnibus, quæ aud�
 et víderant, sicut dictum est ad illos.
 
 [Offertorium]
-!  
 Felix namque es, sacra Virgo María, et omni laude digníssima: quia ex te ortus~
 est sol justítiæ, Christus, Deus noster.
 
@@ -69,8 +68,7 @@ perpétuam atque præséntem hæc oblátio nobis profíciat prosperitátem et pa
 $Per Dominum
 
 [Communio]
-!  
-Beáta víscera Maríæ Vírginis, quæ portavérunt ætérni Patris Fílium.
+@Commune/C10
 
 [Postcommunio]
 Hæc nos commúnio, Dómine, purget a crímine: et, intercedénte beáta Vírgine Dei~

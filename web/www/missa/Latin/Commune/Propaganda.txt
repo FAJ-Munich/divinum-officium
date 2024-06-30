@@ -15,7 +15,6 @@ Confiteántur tibi pópuli, Deus: confiteántur tibi pópuli omnes.
 &Gloria
 v. Deus misereátur nostri, et benedícat nobis: illúminet vultum suum super nos, et misereátur nostri: ut cognoscámus in terra viam tuam, in ómnibus géntibus salutáre tuum. (Allelúja, allelúja.)
 
-
 [Oratio]
 Deus, qui omnes hómines vis salvos fíeri, et ad~
 agnitiónem veritátis veníre: mitte, quǽsumus,~
@@ -28,14 +27,14 @@ Dóminum nostrum.
 $Qui tecum
 
 [Lectio]
-Léctio libri Sapiéntiae.
+Léctio libri Sapiéntiae
 !Eccli 36:1-10,17-19
 Miserére nostri, Deus ómnium, et réspice nos, et osténde nobis lucem miseratiónum tuárum: et immítte timórem tuum super gentes, quae non exquisiérunt te, ut cognóscant quia non est Deus nisi tu, et enárrent magnália tua. Alleva manum tuam super gentes aliénas, ut vídeant poténtiam tuam. Sicut enim in conspéctu eórum sanctificátus es in nobis, sic in conspéctu nostro magnificáberis in eis, ut cognóscant te, sicut et nos cognóvimus, quóniam non est Deus praeter te, Dómine. Innova signa, et immúta mirabília. Glorífica manum et bráchium dextrum. Excita furórem, et effúnde iram. Tolle adversárium, et afflíge inimícum. Festína tempus, et meménto finis, ut enárrent mirabília tua. Da testimónium his, qui ab inítio creatúrae tuae sunt, et súscita praedicatiónes, quas locúti sunt in nómine tuo prophétae prióres. Da mercédem sustinéntibus te, ut prophétae tui fidéles inveniántur: et exáudi oratiónes servórum tuórum, secúndum benedictiónem Aaron de pópulo tuo, et dírige nos in viam justítiae, et sciant omnes, qui hábitant terram, quia tu es Deus conspéctor saeculórum.
 
-
 [Graduale]
 !Ps 66:6-8
-Confiteántur tibi pópuli, Deus: confiteántur tibi pópuli omnes: terra dedit fructum suum. V/. Benedícat nos Deus, Deus noster, benedícat nos Deus: et métuant eum omnes fines terrae.
+Confiteántur tibi pópuli, Deus: confiteántur tibi pópuli omnes: terra dedit fructum suum. 
+V. Benedícat nos Deus, Deus noster, benedícat nos Deus: et métuant eum omnes fines terrae.
 Allelúja , allelúja.
 !Ps 99:1
 Jubiláte Deo, omnis terra: servíte Dómino in laetítia: introíte in conspéctu ejus, in exsultatióne. Allelúja.
@@ -53,7 +52,7 @@ Jubiláte Deo, omnis terra: servíte Dómino in laetítia: introíte in conspéc
 Scitóte quóniam Dóminus ipse est Deus: ipse fecit nos, et non ipsi nos. Allelúja.
 
 [Evangelium]
-Sequéntia ++ sancti Evangélii secúndum Matthaéum.
+Sequéntia ++ sancti Evangélii secúndum Matthaéum
 !Matt 9:35-38
 In illo témpore: Circuíbat Jesus omnes civitátes et castélla, docens in synagógis eórum, et praédicans Evangélium regni, et curans omnem languórem et omnem infirmitátem. Videns autem turbas, misértus est eis: quia erant vexáti et jacéntes sicut oves non habéntes pastórem. Tunc dicit discípulis suis: Messis quidem multa, operárii autem pauci. Rogáte ergo Dóminum messis, ut mittat operários in messem suam.
 
@@ -63,7 +62,7 @@ Afférte Dómino, pátriae géntium, afférte Dómino glóriam et honórem, aff�
 
 [Secreta]
 Protéctor noster, áspice, Deus, et réspice in~
-fáciem Christi tui, qui dedit redeptiónem~
+fáciem Christi tui, qui dedit redemptiónem~
 semetípsum pro ómnibus: et fac, ut ab ortu solis~
 usque ad occásum magnificétur nomen tuum in~
 géntibus, ac in omni loco sacrificétur, et offerátur~

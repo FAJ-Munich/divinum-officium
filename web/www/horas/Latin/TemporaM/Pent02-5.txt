@@ -1,8 +1,5 @@
 @Tempora/Pent02-5
 
-[Rank]
-Sanctissimi Cordis Domini Nostri Jesu Christi;;Duplex I classis;;6
-
 [Rule]
 12 lectiones
 Psalmi Dominica
@@ -14,6 +11,9 @@ Qui Corde fundis grátiam,
 Cum Patre, et Sancto Spíritu,
 In sempitérna sǽcula.
 Amen.
+
+[Ant Vespera]
+@Tempora/Pent02-5::s/115/129/
 
 [AntMatutinumM]
 Gustáte * et vidéte, quóniam suávis est Dóminus: † beátus vir, qui sperat in eo.;;33

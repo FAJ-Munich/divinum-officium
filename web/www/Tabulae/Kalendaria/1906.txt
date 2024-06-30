@@ -113,7 +113,7 @@
 06-10=06-10=S. Margaritae Reginae viduae=2=
 06-11=06-11=S. Barnabae Apostoli=4=
 06-12=06-12=S. Joannis a S Facundo Confessoris=3=SS Martyrum =1=
-06-13=06-13=S. Antonii de Padua Confessoris=3=
+06-13=06-13t=S. Antonii de Padua Confessoris=3=
 06-14=06-14=S. Basilii Magni Confessoris et Ecclesiae Doctoris=3=
 06-15=06-15=Ss. Viti, Modesti atque Crescentiae Martyrum=1=
 06-18=06-18t=SS Marci et Marcellini Martyrum=1=
@@ -152,7 +152,7 @@
 07-21=07-21=S. Praxedis Virginis=1=
 07-22=07-22=S. Mariae Magdalenae Poenitentis=3=
 07-23=07-23=S. Apollinaris Episcopi et Mart=3=S. Liborii Ep Conf=1=
-07-24=07-24=Vigilia S. Jacobi Apostoli=1.5=S. Christinae=1=
+07-24=07-24~07-24r=Vigilia S. Jacobi Apostoli=1.5=S. Christinae=1=
 07-25=07-25=S. Jacobi Apostoli=5=S. Christophori Mart=1=
 07-26=07-26=S. Annae Matris BMV=5=
 07-27=07-27=S. Pantaleon Martyr=1=
@@ -267,7 +267,7 @@
 11-24=11-24t=S. Joannis de Cruce Confessoris=3=S. Chrysogoni Martyris=1=
 11-25=11-25=S. Catharinae Virginis et Martyris=3=
 11-26=11-26t=S. Petri Alexandrini=1=
-11-29=11-29=Vigilia S. Andrae Apostoli=1.5=S. Saturnini Martyris=1=
+11-29=11-29~11-29r=Vigilia S. Andrae Apostoli=1.5=S. Saturnini Martyris=1=
 11-30=11-30=S. Andrae Apostoli=5=
 *December*
 12-02=12-02=S. Bibianae Virginis et Martyris=2=

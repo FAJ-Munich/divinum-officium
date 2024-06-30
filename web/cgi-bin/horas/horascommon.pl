@@ -259,7 +259,7 @@ sub occurrence {
             && $day == 1
             && $dayofweek != 6)    # Office of All Souls supersedes All Saints at Completorium from 1911 to 1959
           || ($srank[2] < 2 && $trank && !($month == 1 && $day > 6 && $day < 13))    # Simplex end after None.
-          || ( $version =~ /1955|1963/
+          || ( $version =~ /1955|Monastic.*Divino|1963/
             && $srank[2] >= 2.2
             && $srank[2] < 2.9
             && $srank[1] =~ /Semiduplex/i)    # Reduced to Simplex/Comm ad Laudes tantum ends after None.
@@ -293,9 +293,15 @@ sub occurrence {
         )                                          # on Duplex II. cl nothing of common octaves
         || (
           $version =~ /19(?:55|6)/i
-          && ( ($srank =~ /vigil/i && $sday !~ /(06\-23|06\-28|08\-09|08\-14|12\-24)/)
-            || ($srank =~ /(infra octavam|in octava)/i && nooctnat()))
-        )                                          # TODO: to be made obsolte s.a.
+          && (
+            (
+              $srank =~ /vigil/i
+              && ($sday !~ /(06\-23|06\-28|08\-09|08\-14|12\-24)/
+                || ($dayofweek == 0 && $month < 12))    # #3873: ensure no Vigil on Sunday except Nativity
+            )
+            || ($srank =~ /(infra octavam|in octava)/i && nooctnat())
+          )
+        )
         || ( $version =~ /1960/
           && $dayofweek == 0
           && (($trank[2] >= 6 && $srank[2] < 6) || ($trank[2] >= 5 && $srank[2] < 5)))
@@ -323,11 +329,15 @@ sub occurrence {
         $tname = $trank = '';
         @trank = undef;
         %tempora = undef;
-      } elsif ($version =~ /1955|1963/ && $srank[2] >= 2.2 && $srank[2] < 2.9 && $srank[1] =~ /Semiduplex/i) {
+      } elsif ($version =~ /1955|Monastic.*Divino|1963/
+        && $srank[2] >= 2.2
+        && $srank[2] < 2.9
+        && $srank[1] =~ /Semiduplex/i)
+      {
         $srank[2] =
-          ($version =~ /monastic/i)
+          ($version =~ /Monastic/i)
           ? 1.1
-          : 1.19;    #1955: semiduplex reduced to simplex; Monastic post-DA reduced to "Memoria"
+          : 1.19;    #1955: semiduplex reduced to simplex // Monastic post-DA reduced to "Memoria" unless Octave
       } elsif ($version =~ /196/i
         && $srank[2] < 2
         && $srank[1] =~ /Simplex/i
@@ -383,8 +393,10 @@ sub occurrence {
 
   # Sort out occurrence between the sanctoral and temporal cycles.
   # Dispose of some cases in which the office can't be sanctoral:
-  if (!$srank[2] || ($version =~ /19(?:55|6)/i && $srank[2] <= 1.1) || $trank[0] =~ /Sanctæ Mariaæ Sabbato/i) {
-
+  if ( !$srank[2]
+    || ($version =~ /19(?:55|6)|Monastic.*Divino/i && $srank[2] <= 1.1)
+    || $trank[0] =~ /Sanctæ Mariaæ Sabbato/i)
+  {
     # if we have no sanctoral office, or it was reduced to a commemoration by Cum nostra or its our Lady on Saturday
     $sanctoraloffice = 0;    # Office is temporal
   } elsif ($srank[2] > $trank[2]) {
@@ -881,14 +893,15 @@ sub concurrence {
     }
 
     if (
-      ($rank >= (($version =~ /19(?:55|6)/) ? 6 : 7) && $crank < 6)    # e.g. 05-26-2022
+      (    $rank >= (($version =~ /19(?:55|6)/ && $dayofweek < 6) ? 6 : 7)
+        && $crank < 6)    # On Saturday, 1st Vespers gets commemorated in Festis I. cl. github #3907
       || ( $version =~ /196/
         && ($cwinner{Rank} =~ /Dominica/i && $dayname[0] !~ /Nat1/i && $crank <= 5)
         && ($rank >= 5 && $winner{Rule} =~ /Festum Domini/i)
-      )    #on a II. cl Sunday nothing at 1st Vespers in concurrence with a Feast of the Lord
+      )                   #on a II. cl Sunday nothing at 1st Vespers in concurrence with a Feast of the Lord
       || ($rank >= ($version =~ /trident/i ? 6 : 5) && $winner !~ /feria|in.*octava/i && $crank < 2.1)
       )
-    {      # on Duplex I. cl / II. cl no commemoration of following Simplex and Common Octaves
+    {                     # on Duplex I. cl / II. cl no commemoration of following Simplex and Common Octaves
       $dayname[2] .= "<br>Vespera de præcedenti; nihil de sequenti";
       $cwinner = '';
       %cwinner = ();
@@ -900,8 +913,8 @@ sub concurrence {
     } elsif (
       $rank < 2    # no 2nd Vespers of a Simplex
       || ( $version =~ /196/
-        && $cwinner{Rank} =~ /Dominica/i
-        && $rank < 5)    # on any Sunday, nothing of a preceding III. cl feast
+        && ($cwrank[0] =~ /Dominica/i || ($cwinner{Rule} =~ /Festum Domini/i && $dayofweek == 6))
+        && $rank < 5)    # on any Sunday or 1st Vespers of a Feast of the Lord , nothing of a preceding III. cl feast
       || ( $crank >= 6
         && !($rank == 2.1 || $rank == 2.99 || $rank == 3.9 || $rank >= 4.2)
         && $cwrank[0] !~ /Dominica|feria|in.*octava/i
@@ -957,7 +970,8 @@ sub concurrence {
       $cvespera = 1;
       $commemoratio = $cwinner;
       $dayname[2] = "Commemoratio: $cwrank[0]";
-      $dayname[2] .= "<br>Vespera de præcedenti; commemoratio de sequenti Dominica";
+      $dayname[2] .= "<br>Vespera de præcedenti; commemoratio de sequenti";
+      $dayname[2] .= " Dominica" if $cwinner{Rank} =~ /Dominica/i;
     } elsif ($flcrank == $flrank) {    # "flattend ranks" are equal => a capitulo
       $commemoratio = $winner;
       %commune =
@@ -1173,7 +1187,7 @@ sub extract_common {
       $commune .= 'p' if -e $paschal_fname;
     }
     $commune = subdirname('Commune', $version) . "$commune.txt" if ($commune);
-  } elsif ($common_field =~ /(ex|vide)\s*Sancti\/(.*)\s*$/i) {
+  } elsif ($common_field =~ /(ex|vide)\s*SanctiM?\/(.*)\s*$/i) {
 
     # Another sanctoral office used as a pseudo-common.
     $communetype = $1;
@@ -1182,6 +1196,7 @@ sub extract_common {
   } elsif ($common_field =~ /(ex|vide)\s*(.*)\s*$/i) {
     $communetype = $1;
     my $name = $2;
+    $name =~ s/TemporaM?\///i;    # ensure consistency also for Monastic
 
     if ($name !~ /Sancti|Commune|Tempora/i) {
       $commune = subdirname('Tempora', $version) . "$name.txt";
@@ -1411,7 +1426,11 @@ sub precedence {
   #	}
 
   # only short readings in monastic summer
-  $scriptura = '' if ($version =~ /monastic/i && $scriptura =~ /(?:Pasc|Pent)/ && $month < 11);
+  $scriptura = ''
+    if ( $version =~ /monastic/i
+      && $scriptura =~ /(?:Pasc|Pent)/
+      && $month < 11
+      && $dayname[1] !~ /Vigilia/);
 
   if ($scriptura) {
     %scriptura = %{officestring($lang1, $scriptura)};
@@ -1662,7 +1681,12 @@ sub setheadline {
         'none', 'Simplex', 'Semiduplex', 'Duplex',
         'Duplex majus', 'Duplex II. classis', 'Duplex I. classis', 'Duplex I. classis',
       );
-      if ($version =~ /1955/) { $tradtable[2] = 'Simplex'; }
+
+      if ($version =~ /Monastic.*Divino/i) {
+        $tradtable[1, 2] = 'Memoria';
+      } elsif ($version =~ /1955/) {
+        $tradtable[1, 2] = 'Simplex';
+      }
       my @newtable = (
         'none',
         'Commemoratio',
@@ -1678,10 +1702,12 @@ sub setheadline {
 
       if ($version =~ /19(?:55|60)/ && $winner !~ /Pasc5-3/i && $dayname[1] =~ /feria/i) { $rankname = 'Feria'; }
 
-      if ($version =~ /1570/i) { $rankname =~ s/ majus//; }    # no Duplex majus yet in 1570
+      if ($version =~ /1570|1617/i) { $rankname =~ s/ majus//; }    # no Duplex majus yet in 1570/1617
 
       if ($latname =~ /Vigilia Epi/i) {
         $rankname = ($version =~ /trident/i) ? 'Semiduplex' : 'Semiduplex Vigilia II. classis';
+      } elsif ($latname =~ /^In Vigilia/i && $rank <= 2.5) {
+        $rankname = 'Simplex';
       }
 
       if ($latname =~ /Sanctæ Fami/i && $version !~ /196/) {
@@ -1748,7 +1774,7 @@ sub setheadline {
       if ($version !~ /196/) {
         $rankname =
             ($rank < 2) ? 'Ferial'
-          : ($rank < 3) ? 'Feria major'
+          : ($rank < 3) ? ($version =~ /monastic.*divino/i ? 'Feria privilegiata III. ordinis' : 'Feria major')
           : ($rank < 5) ? 'Feria privilegiata II. ordinis'
           : 'Feria privilegiata';
       } else {

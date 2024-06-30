@@ -354,6 +354,8 @@ v. Vísita, quǽsumus, Dómine, habitatiónem istam, et omnes insídias inimíci
 [Oratio Visita]
 (rubrica 1963 dicitur)
 $MLitany2
+(sed rubrica 1617 aut rubrica 1930 dicitur)
+&MLitany2
 &Dominus_vobiscum1
 (sed rubrica 196 aut rubrica 1955 dicitur)
 &Dominus_vobiscum
@@ -372,13 +374,15 @@ V. Réspice in servos tuos, Dómine, et in ópera tua, et dírige fílios eórum
 R. Et sit splendor Dómini Dei nostri super nos, et ópera mánuum nostrárum dírige super nos, et opus mánuum nostrárum dírige.
 
 [Dirigere]
-v. Dirígere et sanctificáre, régere et gubernáre dignáre, Dómine Deus, Rex cæli et terræ, hódie corda et córpora nostra, sensus, sermónes et actus nostros in lege tua, et in opéribus mandatórum tuórum: ut hic et in ætérnum, te auxiliánte, salvi et líberi esse mereámur, Salvátor mundi: 
+v. Dirígere et sanctificáre, régere et gubernáre dignáre, Dómine Deus, Rex cæli et terræ, hódie corda et córpora nostra, sensus, sermónes et actus nostros in lege tua, et in opéribus mandatórum tuórum: ut hic et in ætérnum, te auxiliánte, salvi et líberi esse mereámur, Salvátor mundi: Qui vivis et regnas in sǽcula sæculórum.
+R. Amen.
 
 [Benedictio Prima]
 V. Jube, domne, benedícere.
 (sed rubrica 196 aut rubrica 1955 dicitur)
 V. Jube, Dómine, benedícere.
 Benedictio. Dies et actus nostros in sua pace dispónat Dóminus omnípotens.
+R. Amen.
 
 [Benedictio Prima2]
 Benedictio. Dóminus nos benedícat, + et ab omni malo deféndat, et ad vitam perdúcat ætérnam. Et fidélium ánimæ per misericórdiam Dei requiéscant in pace.
