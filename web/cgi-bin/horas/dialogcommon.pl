@@ -116,13 +116,13 @@ sub get_tempus_id {
     : /^Pasc/ ? 'Octava Pentecostes'
     : /^Pent01/ && $dayofweek == 4 ? 'Corpus Christi post Pentecosten'
     : /^Pent0(\d)/
-    && (($1 == 1 && $dayofweek > 4 && !($dayofweek == 6 && $vesp_or_comp))
-    || ($1 == 2 && ($dayofweek < 5 || ($dayofweek == 6 && $vesp_or_comp))))
+    && ( ($1 == 1 && $dayofweek > 4 && !($dayofweek == 6 && $vesp_or_comp))
+      || ($1 == 2 && ($dayofweek < 5 || ($dayofweek == 6 && $vesp_or_comp))))
     && $version !~ /19(?:55|6)/ ? 'Octava Corpus Christi post Pentecosten'
     : /^Pent02/ && $dayofweek == 5 && $version !~ /1570/ ? 'SSmi Cordis post Pentecosten'
     : /^Pent0(\d)/
-    && (($1 == 2 && $dayofweek > 5 && !($dayofweek == 6 && $vesp_or_comp))
-    || ($1 == 3 && ($dayofweek < 6 || ($dayofweek == 6 && $vesp_or_comp))))
+    && ( ($1 == 2 && $dayofweek > 5 && !($dayofweek == 6 && $vesp_or_comp))
+      || ($1 == 3 && ($dayofweek < 6 || ($dayofweek == 6 && $vesp_or_comp))))
     && $version =~ /Divino/i
     ? 'Octava SSmi Cordis post Pentecosten'
     : 'post Pentecosten';
@@ -233,6 +233,13 @@ sub setupstring($$%) {
 
   my $basedir = our $datafolder;
   my $fullpath = "$basedir/$lang/$fname";
+
+  if ($lang =~ /\.\.\/missa\/(.+)/) {
+
+    # For Monastic look-up of Evangelium, prevent __preamble from horas file to contaminate missa structure which could lead to infinite cycles github #525
+    $basedir =~ s/horas/missa/;
+    $lang = $1;
+  }
 
   if (!-e "$basedir/Latin/$fname" && $fname =~ /(Sancti|Tempora)M(.*)/i && -e "$basedir/Latin/$1$2") {
     $fullpath = "$basedir/$lang/$1$2";    # Allow for Fallback to Roman folder if fallback is used in Latin

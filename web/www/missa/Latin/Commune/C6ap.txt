@@ -22,7 +22,7 @@ tibi grata semper éxstitit, et mérito castitátis, et tuæ professióne virtú
 $Per Dominum
 
 [Lectio]
-Léctio libri Sapiéntiæ.
+Léctio libri Sapiéntiæ
 !Eccli 51:13-17
 Dómine, Deus meus, exaltásti super terram habitatiónem meam, et pro morte defluénte deprecáta sum. Invocávi Dóminum, Patrem Dómini mei, ut non derelínquat me in die tribulatiónis meæ, et in témpore superbórum sine adjutório. Laudábo nomen tuum assídue, et collaudábo illud in confessióne, et exaudíta est orátio mea. Et liberásti me de perditióne, et eripuísti me de témpore iníquo. Proptérea confitébor et laudem dicam tibi, Dómine, Deus noster.
 
@@ -36,30 +36,14 @@ V. Hæc est Virgo sápiens, et una de número prudéntum. Allelúja.
 [GradualeP]
 Allelúja, allelúja.
 V. Hæc est Virgo sápiens, et una de número prudéntum.
-!Sap 4:1.
+!Sap 4:1
 O quam pulchra est casta generátio cum claritáte! Allelúja.
 
 [Evangelium]
-Sequéntia ++ sancti Evangélii secúndum Matthǽum.
-!Matt 13:44-52
-In illo témpore: Dixit Jesus discípulis suis parábolam hanc: Símile est regnum~
-cœlórum thesáuro abscóndito in agro: quem qui invénit homo, abscóndit, et præ~
-gáudio illíus vadit, et vendit univérsa, quæ habet, et emit agrum illum. Iterum~
-símile est regnum cœlórum hómini negotiatóri, quærénti bonas margarítas.~
-Invénta autem una pretiósa margaríta, ábiit, et véndidit ómnia, quæ hábuit, et~
-emit eam. Iterum símile est regnum cœlórum sagénæ missæ in mare et ex omni~
-génere píscium congregánti. Quam, cum impléta esset, educéntes, et secus litus~
-sedéntes, elegérunt bonos in vasa, malos autem foras misérunt. Sic erit in~
-consummatióne sǽculi: exíbunt Angeli, et separábunt malos de médio justórum, et~
-mittent eos in camínum ignis: ibi erit fletus et stridor déntium. Intellexístis~
-hæc ómnia? Dicunt ei: Etiam. Ait illis: Ideo omnis scriba doctus in regno~
-cœlórum símilis est hómini patrifamílias, qui profert de thesáuro suo nova et~
-vétera.
+@Commune/C6a
 
 [Offertorium]
-!Ps 44:3
-Diffúsa est grátia in lábiis tuis: proptérea benedíxit te Deus in ætérnum, et in~
-sǽculum sǽculi. Allelúja.
+@Commune/C6a
 
 [Secreta1]
 Hóstias tibi, Dómine, beátæ N. Vírginis et Mártyris tuæ dicátas méritis,~
@@ -67,7 +51,7 @@ benígnus assúme: et ad perpétuum nobis tríbue proveníre subsídium.
 $Per Dominum
 
 [Communio]
-!Ps 118:121; 118:122;118:128
+!Ps 118:121; 118:122; 118:128
 Feci judícium et justítiam, Dómine, non calumniéntur mihi supérbi: ad ómnia~
 mandáta tua dirigébar, omnem viam iniquitátis ódio hábui. Allelúja.
 
@@ -78,7 +62,7 @@ vivámus.
 $Per Dominum
 
 [Evangelium1]
-Sequéntia ++ sancti Evangélii secúndum Matthǽum.
+Sequéntia ++ sancti Evangélii secúndum Matthǽum
 !Matt 19:3-12
 In illo témpore: Accessérunt ad Jesum pharisǽi, tentántes eum et dicéntes: Si~
 licet hómini dimíttere uxórem suam quacúmque ex causa? Qui respóndens, ait eis:~
