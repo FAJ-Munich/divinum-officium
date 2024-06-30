@@ -433,7 +433,8 @@ sub specials {
         $name =~ s/ / Pasc7 / if ($hora =~ /Tertia/ && $dayname[0] =~ /Pasc7/);
 
         if ($hora eq 'Completorium' && $version =~ /^Ordo Praedicatorum/) {
-          $versum = %{setupstring($lang, 'Psalterium/Minor Special.txt')}{'Versum 4'};
+          my %ant = %{setupstring($lang, 'Psalterium/Minor Special.txt')};
+          $versum = $ant{'Versum 4'};
           postprocess_vr($versum, $lang);
         }
         $hymnsource = 'Minor';
@@ -2365,8 +2366,8 @@ sub checksuffragium {
       my @cccentries = (@commemoentries, @ccommemoentries);
 
       foreach my $commemo (@cccentries) {
-        if (!(-e "$datafolder/$lang/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
-        my %c = %{officestring($lang, $commemo, 0)};
+        if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
+        my %c = %{officestring('Latin', $commemo, 0)};
         my @cr = split(";;", $c{Rank});
 
         if ($cr[2] >= 3 || $c{Rank} =~ /in.*Octav/i || checkcommemoratio(\%c) =~ /octav/i) {

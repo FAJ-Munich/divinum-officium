@@ -38,13 +38,16 @@ De excélso misit ignem in óssibus meis, et erudívit me. Allelúja
 !Ps 38:4
 Concáluit cor meum intra me: et in meditatióne mea exardéscet ignis. Allelúja.
 
+[Evangelium]
+@Commune/C5
+
 [Offertorium]
 !Ps 118:32
 Viam mandatórum tuórum cucúrri, cum dilatásti cor meum. (Allelúja.)
 
 [Secreta]
 Sacrifíciis præséntibus, quǽsumus, Dómine, inténde placatus: et præsta; ut illo nos igne Spíritus Sanctus inflámmet, quo beáti Phílippi cor mirabíliter penetrávit.
-$Per Dominum ejusdem
+$Per Dominum eiusdem
 
 [Communio]
 !Ps 83:3
