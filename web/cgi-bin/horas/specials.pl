@@ -326,7 +326,7 @@ sub specials {
         $capit = $capit{$name};
       }
 
-      if ($version =~ /^Monastic/) {
+      if ($version =~ /monastic/i) {
         (@capit) = split(/\n/, $capit);
         postprocess_short_resp(@capit, $lang);
         $capit = join("\n", @capit);
@@ -336,7 +336,7 @@ sub specials {
       push(@s, $capit);
     }
 
-    if ($version =~ /^Monastic/i && $item =~ /Responsor/i && $hora =~ /^(?:Laudes|Vespera)/i) {
+    if ($version =~ /monastic/i && $item =~ /Responsor/i && $hora =~ /^(?:Laudes|Vespera)/i) {
       my $key = "Responsory $hora";
 
       # special case only 4 times
@@ -350,9 +350,9 @@ sub specials {
         ($resp, $c) = getproprium($key, $lang, $seasonalflag, 1);
       }
 
-      $resp =~ s/\n?_.*//s;
+			$resp =~ s/\n?_.*//s if $lang !~ /gabc/;
 
-      if ($resp) {
+			if ($resp) {
         my @resp = split("\n", $resp);
         postprocess_short_resp(@resp, $lang);
         push(@s, '_', @resp);
