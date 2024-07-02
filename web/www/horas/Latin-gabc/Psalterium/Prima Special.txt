@@ -43,10 +43,9 @@ v. Si consurrexístis cum Christo, quæ sursum sunt quǽrite, ubi Christus est i
 v. Judǽi quoque, et Prosélyti, Cretes, et Arabes: audívimus eos loquéntes nostris linguis magnália Dei.
 
 [Responsory]
-R.br.
-{gabc:Psalterium/rb--christe_fili_dei_vivi--solesmes_1961}
+R.br. {gabc:Psalterium/rb--christe_fili_dei_vivi--solesmes_1961}
 (sed tempore passionis)
-{gabc:Psalterium/Passionis/rb--christe_fili_dei_vivi--passionis--solesmes_1961}
+R.br. {gabc:Psalterium/Passionis/rb--christe_fili_dei_vivi--passionis--solesmes_1961}
 
 [Versum]
 {initial-style:0;%%(c4) V/. Ex(f)súr(f)ge(f) Chri(f)ste,(f) ád(f)ju(f)va(f) nos.(e'_[oh:h]//fvED'Cded.) (::) (z-9 R./ Et(f) lí(f)be(f)ra(f) nos(f) pro(f)pter(f) no(f)men(f) tu(f)um,(f_') (,) al(f)le(f)lú(f)ja.(e'_[oh:h]//fvED'Cded.) (::)}
@@ -62,17 +61,17 @@ R.br.
 Qui ventúrus es in mundum.
 
 [Responsory Nat]
-Qui natus es de María Vírgine.
+R.br. {gabc:Psalterium/Nativitate/rb--christe_fili_dei_vivi_..._qui_natus_es--solesmes}
 (sed tempore paschali)
-{gabc:Psalterium/Pascha/rb--christe_fili_dei_vivi_tempore_paschali_BMV--solesmes}
+R.br. {gabc:Psalterium/Pascha/rb--christe_fili_dei_vivi_tempore_paschali_BMV--solesmes}
 
 [Responsory Epi]
 Qui apparuísti hódie.
 
 [Responsory Pasch]
-{gabc:Psalterium/Pascha/rb--christe_fili_dei_vivi_tempore_paschali--solesmes}
+R.br. {gabc:Psalterium/Pascha/rb--christe_fili_dei_vivi_tempore_paschali--solesmes}
 (sed commune C11 aut tonus BMV)
-{gabc:Psalterium/Pascha/rb--christe_fili_dei_vivi_tempore_paschali_BMV--solesmes}
+R.br. {gabc:Psalterium/Pascha/rb--christe_fili_dei_vivi_tempore_paschali_BMV--solesmes}
 
 [Responsory Asc]
 Qui scandis super sídera.
