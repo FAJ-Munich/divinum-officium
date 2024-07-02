@@ -1418,6 +1418,8 @@ sub postprocess_vr(\$$) {
 # Performs necessary adjustments to a short responsory.
 sub postprocess_short_resp(\@$) {
   my ($capit, $lang) = @_;
+	return $capit if $lang =~ /gabc/i;
+	
   s/&Gloria1?/&Gloria1/ for (@$capit);
 
   if ($dayname[0] =~ /Pasc/i) {
