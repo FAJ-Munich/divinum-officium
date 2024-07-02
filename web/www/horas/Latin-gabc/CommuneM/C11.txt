@@ -1,7 +1,10 @@
 @Commune/C11
 
 [Capitulum Vespera]
-@CommuneM/C10:Capitulum Vespera
+@CommuneM/C10
+
+[Responsory Vespera]
+@CommuneM/C10
 
 [AntMatutinumM]
 Favus distíllans * lábia tua, Sponsa, mel et lac sub lingua tua: † et odor vestimentórum tuórum sicut odor thuris.;;47
