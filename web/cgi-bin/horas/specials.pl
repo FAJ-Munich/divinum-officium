@@ -1,4 +1,3 @@
-#!/usr/bin/perl
 use utf8;
 
 # Name : Laszlo Kiss
@@ -175,19 +174,9 @@ sub specials {
 
     # Psalmi
     if ($item =~ /psalm/i) {
-      $psalmnum1 = 0;
-      $psalmnum2 = 0;
 
-      if ($hora =~ /matutinum/i) {
-        my $saveduplex = $duplex;
-        if ($rule =~ /Matins simplex/i) { $duplex = 1; }
-        psalmi_matutinum($lang);    # see specmatins.pl
-        $duplex = $saveduplex;
-      } elsif ($hora =~ /(laudes|vespera)/i) {
-        psalmi_major($lang);
-      } else {
-        psalmi_minor($lang);
-      }
+      require "$Bin/psalmi.pl";
+      psalmi($lang);
       next;
     }
 
