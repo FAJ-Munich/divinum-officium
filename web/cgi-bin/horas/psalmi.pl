@@ -237,13 +237,6 @@ sub psalmi_minor {
   }
 
   if ($ant =~ /(.*?)\;\;/s) { $ant = $1; }
-#  if ($ant) { $ant = "Ant. $ant"; }
-#
-#  postprocess_ant($ant, $lang);
-#  my @ant = split('\*', $ant);
-#  if ($lang =~ /gabc/i && $ant =~ /\{.*\}/) { $ant[0] =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/; } # undouble GABC-Antiphone
-
-#  $ant1 = ($version !~ /196/) ? $ant[0] : $ant;    #difference between 1955 and 1960
 
   if ($hora eq 'Prima') {    # Prima has additional psalm in brackets
     if ($laudes != 2 || $version =~ /1960/) {
@@ -284,12 +277,12 @@ sub psalmi_minor {
     setbuild2('Quicumque');
   }
 
-	if ($lang =~ /gabc/i && $psalmTone) {
-		foreach my $p (@psalm) {
-			$p = "\'$p,$psalmTone\'"; # GABC format: 'Psalmnumber,PsalmTone'
-		}
-	}
-	my @psalmi = ($ant . ";;" . join(';', @psalm));
+  if ($lang =~ /gabc/i && $psalmTone) {
+    foreach my $p (@psalm) {
+      $p = "\'$p,$psalmTone\'";    # GABC format: 'Psalmnumber,PsalmTone'
+    }
+  }
+  my @psalmi = ($ant . ";;" . join(';', @psalm));
   \@psalmi;
 }
 
@@ -301,11 +294,11 @@ sub psalmi_major {
   my %psalmi = %{setupstring($lang, 'Psalterium/Psalmi major.txt')};
   my $name = $hora;
   if ($hora =~ /Laudes/) { $name .= $laudes; }
-	my @psalmi;
+  my @psalmi;
   my @psalmTones;
 
   #if ($version =~ /monastic/i && !($hora =~ /Laudes/i && $rule =~ /Matutinum romanum/i)) {    # Triduum like Roman
-	if ($version =~ /monastic/i) {
+  if ($version =~ /monastic/i) {
     my $head = "Daym$dayofweek";
 
     if ($hora =~ /Laudes/i) {
@@ -573,7 +566,7 @@ sub psalmi_major {
   }
   setcomment($label, 'Source', $comment, $lang, $prefix);
 
-\@psalmi;
+  \@psalmi;
 }
 
 #*** antetpsalm($psalmi_ref, $duplexf, $lang)
@@ -591,13 +584,14 @@ sub antetpsalm {
       my $antp = $ant;
 
       unless ($duplexf) {
-				$antp =~ s/\s*\*.*//;
-				if ($lang =~ /gabc/i && $ant =~ /\{.*\}/) {
-					$antp =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/; # proper closure of GABC antiphone
-					$antp =~ s/\,\.\(/.(/;
-				} else {
-					$antp =~ s/\,$/./;
-				}
+        $antp =~ s/\s*\*.*//;
+
+        if ($lang =~ /gabc/i && $ant =~ /\{.*\}/) {
+          $antp =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/;    # proper closure of GABC antiphone
+          $antp =~ s/\,\.\(/.(/;
+        } else {
+          $antp =~ s/\,$/./;
+        }
       }
       push(@s, "Ant. $antp");
       $lastant = ($ant =~ s/\* //r);
@@ -610,7 +604,7 @@ sub antetpsalm {
       $p =~ s/[\(\-]/\,/g;
       $p =~ s/\)//;
       if ($i < (@p - 1)) { $p = '-' . $p; }
-			$p =~ s/\-\'/\'\-/;    # ensure dash behind apostrophe to be passed through to psalm script
+      $p =~ s/\-\'/\'\-/;    # ensure dash behind apostrophe to be passed through to psalm script
       push(@s, "\&psalm($p)", "\n");
     }
   }
