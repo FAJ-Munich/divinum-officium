@@ -350,9 +350,9 @@ sub specials {
         ($resp, $c) = getproprium($key, $lang, $seasonalflag, 1);
       }
 
-			$resp =~ s/\n?_\n.*//s;
+      $resp =~ s/\n?_\n.*//s;
 
-			if ($resp) {
+      if ($resp) {
         my @resp = split("\n", $resp);
         postprocess_short_resp(@resp, $lang);
         push(@s, '_', @resp);
@@ -710,8 +710,6 @@ sub checkcommemoratio {
   if (exists($w{'Commemoratio 3'})) { return $w{'Commemoratio 3'}; }
   return '';
 }
-
-
 
 #*** oratio($lang, $month, $day, %params)
 # Collects and prints the appropriate oratio and commemorationes. If

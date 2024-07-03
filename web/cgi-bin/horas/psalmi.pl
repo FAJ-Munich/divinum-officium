@@ -3,23 +3,21 @@ use utf8;
 
 #*** specials(\@s, $lang)
 sub psalmi {
-	my $lang = shift;
-	our $psalmnum1 = 0;
-	our $psalmnum2 = 0;
-	
-	if ($hora =~ /matutinum/i) {
-		my $saveduplex = $duplex;
-		if ($rule =~ /Matins simplex/i) { $duplex = 1; }
-		psalmi_matutinum($lang);    # see specmatins.pl
-		$duplex = $saveduplex;
-	} elsif ($hora =~ /(laudes|vespera)/i) {
-		psalmi_major($lang);
-	} else {
-		psalmi_minor($lang);
-	}
+  my $lang = shift;
+  our $psalmnum1 = 0;
+  our $psalmnum2 = 0;
+
+  if ($hora =~ /matutinum/i) {
+    my $saveduplex = $duplex;
+    if ($rule =~ /Matins simplex/i) { $duplex = 1; }
+    psalmi_matutinum($lang);    # see specmatins.pl
+    $duplex = $saveduplex;
+  } elsif ($hora =~ /(laudes|vespera)/i) {
+    psalmi_major($lang);
+  } else {
+    psalmi_minor($lang);
+  }
 }
-
-
 
 #*** psalmi_minor($lang)
 #collects and returns psalms for prim, tertia, sexta, none, completorium
@@ -620,8 +618,8 @@ sub antetpsalm {
 #*** get_stThomas_feria($year)
 # used in trident psalmi_{major,minor}
 sub get_stThomas_feria {
-	my ($year) = shift;
-	my ($sec_, $min_, $hour_, $mday_, $mon_, $year_, $wday, $yday_, $isdst_) =
-	localtime(timelocal(0, 0, 0, 21, 11, $year));
-	$wday ? $wday : 1;    # on Sunday transfer stThomas to Feria II
+  my ($year) = shift;
+  my ($sec_, $min_, $hour_, $mday_, $mon_, $year_, $wday, $yday_, $isdst_) =
+    localtime(timelocal(0, 0, 0, 21, 11, $year));
+  $wday ? $wday : 1;    # on Sunday transfer stThomas to Feria II
 }
