@@ -567,7 +567,8 @@ sub setcell {
   process_inline_alleluias(\$text, $lang, $dayname[0] =~ /Pasc/) unless $missa;    # missa use own solution
                                                                                    # which should removed
 
-  suppress_alleluia(\$text, $lang =~ /gabc/i) if ($dayname[0] =~ /Quadp|Quad[1-5]|Quad6-[0-5]/i && ($missa || !Septuagesima_vesp()));
+  suppress_alleluia(\$text, $lang =~ /gabc/i)
+    if ($dayname[0] =~ /Quadp|Quad[1-5]|Quad6-[0-5]/i && ($missa || !Septuagesima_vesp()));
 
   $text =~ s/\<BR\>\s*\<BR\>/\<BR\>/g;
   if ($lang =~ /Latin(\-bea)?$/i) { $text = spell_var($text); }    # Spell check not for 'Latin-gabc' (destroys chant)
