@@ -297,8 +297,8 @@ sub psalmi_major {
   my @psalmi;
   my @psalmTones;
 
-  #if ($version =~ /monastic/i && !($hora =~ /Laudes/i && $rule =~ /Matutinum romanum/i)) {    # Triduum like Roman
-  if ($version =~ /monastic/i) {
+  if ($version =~ /monastic/i && !($hora =~ /Laudes/i && $rule =~ /Matutinum romanum/i)) {    # Triduum like Roman
+  #if ($version =~ /monastic/i) {
     my $head = "Daym$dayofweek";
 
     if ($hora =~ /Laudes/i) {
