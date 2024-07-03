@@ -350,7 +350,7 @@ sub specials {
         ($resp, $c) = getproprium($key, $lang, $seasonalflag, 1);
       }
 
-			$resp =~ s/\n?_.*//s if $lang !~ /gabc/;
+			$resp =~ s/\n?_\n.*//s;
 
 			if ($resp) {
         my @resp = split("\n", $resp);

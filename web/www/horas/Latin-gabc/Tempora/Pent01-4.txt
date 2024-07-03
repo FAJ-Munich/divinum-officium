@@ -277,12 +277,7 @@ v. Quotiescúmque enim manducábitis panem hunc, et cálicem bibétis, mortem D�
 $Deo gratias
 
 [Responsory Sexta]
-R.br. Cibávit illos ex ádipe fruménti, * Allelúja, allelúja.
-R. Cibávit illos ex ádipe fruménti, * Allelúja, allelúja.
-V. Et de petra, melle saturávit eos.
-R. Allelúja, allelúja.
-&Gloria
-R. Cibávit illos ex ádipe fruménti, * Allelúja, allelúja.
+R.br. {gabc:Tempora/CorpusChristi/rb--cibavit_illos._i--solesmes_1957.1}
 _
 V. Edúcas panem de terra, allelúja.
 R. Et vinum lætíficet cor hóminis, allelúja.
