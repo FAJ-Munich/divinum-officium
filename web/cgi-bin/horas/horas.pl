@@ -575,6 +575,12 @@ sub psalm : ScriptFunc {
       $lnum = setfont($smallfont, $1) unless ($nonumbers);
       $line = $2;
     }
+
+    if ($noinnumbers) {
+      $lnum =~ s/[abc]//;            # Remove sub-verse letter if inline numbers hidden
+      $line =~ s/\(\d+[abc]?\)//;    # Remove inline verse numbers
+    }
+    $line =~ s/†// if ($noflexa);
     my $rest;
 
     if ($line =~ /(.*?)(\(.*?\))(.*)/) {

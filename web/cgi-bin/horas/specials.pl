@@ -831,11 +831,15 @@ sub oratio {
 
     # no dominus vobiscum after Te decet
     if ($version !~ /Monastic/ || $hora ne 'Matutinum' || $rule !~ /12 lectiones/) {
-      if ($version =~ /Monastic/ && $version !~ /bavariae/i) {
-        if ($hora =~ /Laudes|Vespera/) {
-          push(@s, prayer('MLitany', $lang));
+			if ($version =~ /Monastic/ && $version !~ /bavariae/i
+					|| ( $version =~ /Ordo Praedicatorum/
+					&& ($rank < 3 || $dayname[1] =~ /Vigil/)
+					&& $winner !~ /12-24|Pasc|01-0[2-5]/)
+					) {
+        if ($hora =~ /Laudes|Vespera/ && $version !~ /Ordo Praedicatorum/) {
+          push(@s, prayer('MLitany', $lang), "_");
         } else {
-          push(@s, prayer('MLitany2', $lang));
+          push(@s, prayer('MLitany2', $lang), "_");
         }
       }
 
