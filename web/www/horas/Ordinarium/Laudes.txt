@@ -1,5 +1,7 @@
 #Incipit
 $Pater Ave L
+(sed rubrica 196 aut rubrica 1955)
+ ~
 &Deus_in_adjutorium
 &Alleluia
 
@@ -20,7 +22,7 @@ $Pater Ave L
 &ant_Benedictus(2)
 
 #Preces Feriales
-(sed rubrica Monastica omittitur)
+(sed rubrica Monastica aut rubrica 1962 omittitur)
 
 #Oratio
 
