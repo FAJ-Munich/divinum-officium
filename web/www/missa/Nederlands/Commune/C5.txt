@@ -7,7 +7,7 @@ Commune Confessoris non pontificis: Os justi
 @Commune/C4c
 
 [Oratio]
-God, Gij verblijdt ons met het jaarlijks feest van uw heilige belijder N.; zorg in uw goedheid, dat wij, die zijn geboortefeest vieren, zijn daden ook navolgen.
+God, Gij verblijdt ons met het jaarlijks feest van uw heilige belijder N.. Zorg in uw goedheid, dat wij, die zijn geboortefeest vieren, zijn daden ook navolgen.
 $Per Dominum
 
 [Lectio]
@@ -56,5 +56,5 @@ $Per Dominum
 @Commune/C4d
 
 [Postcommunio]
-Verkwikt door de hemelse spijs en drank, bidden wij U, onze God, nederig, dat wij gesterkt mogen worden door de gebeden van hem, op wiens gedenkdag wij ze nuttigen.
+Verkwikt door de hemelse spijs en drank, bidden wij U, onze God, nederig, dat wij gesterkt mogen worden door de gebeden van degene, op wiens gedenkdag wij ze nuttigen.
 $Per Dominum

@@ -19,8 +19,7 @@ $Per Dominum
 
 [Commemoratio Oratio]
 !Pro S. Dorotheæ Virg. et Mart.
-Indulgéntiam nobis, quǽsumus, Dómine, beáta Dorothéa Virgo et Martyr implóret: quæ tibi grata semper éxstitit, et mérito castitátis, et tuæ professióne virtútis.
-$Per Dominum
+@Commune/C6a:Oratio1:s/N\./Dorothéa/
 
 [Lectio]
 Léctio libri Sapiéntiæ
@@ -48,7 +47,18 @@ V. Glória et divítiæ in domo ejus: et justítia ejus manet in sǽculum sǽcul
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Lucam
 !Luc 10:1-9
-In illo témpore: Designávit Dóminus et álios septuagínta duos: et misit illos binos ante fáciem suam in omnem civitátem et locum, quo erat ipse ventúrus. Et dicebat illis: Messis quidem multa, operárii autem pauci. Rogáte ergo Dóminum messis, ut mittat operários in messem suam. Ite: ecce, ego mitto vos sicut agnos inter lupos. Nolíte portáre sácculum neque peram neque calceaménta; et néminem per viam salutavéritis. In quamcúmque domum intravéritis, primum dícite: Pax huic dómui: et si ibi fúerit fílius pacis, requiéscet super illum pax vestra: sin autem, ad vos revertátur. In eádem autem domo manéte, edéntes et bibéntes quæ apud illos sunt: dignus est enim operárius mercéde sua. Nolíte transíre de domo in domum. Et in quamcúmque civitátem intravéritis, et suscéperint vos, manducáte quæ apponúntur vobis: et curáte infírmos, qui in illa sunt, et dícite illis: Appropinquávit in vos regnum Dei.
+In illo témpore: Designávit Dóminus et álios septuagínta duos: et misit illos~
+binos ante fáciem suam in omnem civitátem et locum, quo erat ipse ventúrus.~
+Et dicebat illis: Messis quidem multa, operárii autem pauci. Rogáte ergo Dóminum~
+messis, ut mittat operários in messem suam. Ite: ecce, ego mitto vos sicut agnos~
+inter lupos. Nolíte portáre sácculum neque peram neque calceaménta; et néminem~
+per viam salutavéritis. In quamcúmque domum intravéritis, primum dícite: Pax~
+huic dómui: et si ibi fúerit fílius pacis, requiéscet super illum pax vestra:~
+sin autem, ad vos revertátur. In eádem autem domo manéte, edéntes et bibéntes~
+quæ apud illos sunt: dignus est enim operárius mercéde sua. Nolíte transíre de~
+domo in domum. Et in quamcúmque civitátem intravéritis, et suscéperint vos,~
+manducáte quæ apponúntur vobis: et curáte infírmos, qui in illa sunt, et dícite~
+illis: Appropinquávit in vos regnum Dei.
 
 [Offertorium]
 !Ps 88:21-22
@@ -59,9 +69,8 @@ Sancti tui, quǽsumus, Dómine, nos ubique lætíficent: ut, dum eórum mérita 
 $Per Dominum
 
 [Commemoratio Secreta]
-!Pro S. Dorothea
-Hóstias tibi, Dómine, beátæ Dorótheæ Vírginis et Mártyris tuæ dicatas méritis, benígnus assúme: et ad perpétuum nobis tríbue proveníre subsídium.
-$Per Dominum
+!Pro S. Dorotheæ Virg. et Mart.
+@Commune/C6a:Secreta1:s/N\./Dorótheæ/
 
 [Communio]
 @Commune/C4
@@ -71,6 +80,5 @@ Præsta, quǽsumus, omnípotens Deus: ut, de percéptis munéribus grátias exhi
 $Per Dominum
 
 [Commemoratio Postcommunio]
-!Pro S. Dorothea
-Divíni múneris largitáte satiáti, quǽsumus, Dómine, Deus noster: ut, intercedénte beáta Dorothéa Vírgine et Mártyre tua, in ejus semper participatióne vivámus.
-$Per Dominum
+!Pro S. Dorotheæ Virg. et Mart.
+@Commune/C6a:Postcommunio1:s/N\./Dorótheæ/
