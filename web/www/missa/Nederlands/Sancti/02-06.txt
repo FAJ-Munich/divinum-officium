@@ -13,7 +13,8 @@ God, Gij hebt uw heilige belijder en bisschop Titus met apostolische deugden ges
 $Per Dominum
 
 [Commemoratio Oratio]
-@Commune/C6a:Oratio:s/N\./Dorothea/
+!Pro S. Dorotheæ Virg. et Mart.
+@Commune/C6a:Oratio1:s/N\./Dorothea/
 
 [Lectio]
 @Commune/C4
@@ -36,7 +37,8 @@ In die tijd stelde de Heer nog twee en zeventig anderen aan, en Hij zond hen twe
 @Commune/C4
 
 [Commemoratio Secreta]
-@Commune/C6a:Secreta:s/N\./Dorothea/
+!Pro S. Dorotheæ Virg. et Mart.
+@Commune/C6a:Secreta1:s/N\./Dorothea/
 
 [Communio]
 @Commune/C4:Communio
@@ -45,4 +47,5 @@ In die tijd stelde de Heer nog twee en zeventig anderen aan, en Hij zond hen twe
 @Commune/C4:Postcommunio:s/N\./Titus/
 
 [Commemoratio Postcommunio]
-@Commune/C6a:Postcommunio:s/N\./Dorothea/
+!Pro S. Dorotheæ Virg. et Mart.
+@Commune/C6a:Postcommunio1:s/N\./Dorothea/

@@ -6,47 +6,41 @@ vide C5
 Gloria
 
 [Introitus]
-@Commune/C5:Introitus
+@Commune/C4c
 
 [Lectio]
-@Commune/C5:Lectio
+@Commune/C5
 
 [Graduale]
-@Commune/C5:Graduale
+@Commune/C5
 
 [Evangelium]
-@Commune/C5:Evangelium
+@Commune/C5
 
 [Offertorium]
-@Commune/C5:Offertorium
+@Commune/C2c
 
 [Communio]
-@Commune/C5:Communio
+@Commune/C4d
 
 [Oratio]
 God, die vrede geeft en liefde bemint, Gij hebt uw heilige belijder Johannes gesierd met een wonderbare gave om twistenden te verzoenen. Wil ons om zijn verdiensten en op zijn voorspraak in uw liefde bevestigen en laat geen bekoring ons van U scheiden.
 $Per Dominum
 
 [Secreta]
-Wij brengen U, o Heer, deze offerande van lof op het gedachtenisfeest van uw heiligen en vertrouwen, dat wij daardoor bevrijd worden van alle ongeluk, nu en in de toekomst.
-$Per Dominum
+@Commune/C5
 
 [Postcommunio]
-Verkwikt door hemelse spijs en drank, bidden wij U, onze God, nederig, dat wij gesterkt mogen worden door de gebeden van hem, tot wiens gedachtenis wij ze nuttigden.
-$Per Dominum
+@Commune/C5
 
 [Commemoratio Oratio]
 !Pro SS. Martyribus
-Wij vragen U, Heer, dat de plechtige viering van het geboortefeest van uw heilige martelaren Basilides, Cyrinus, Nabor en Nazarius over ons zijn glans mag spreiden, en dat ook in ons door een vruchtbare godsvrucht mag groeien, wat hun de eeuwige verheffing schonk.
-$Per Dominum
+@Sancti/06-12o:Oratio
 
 [Commemoratio Secreta]
 !Pro SS. Martyribus
-Om het heilig bloed te eren van uw heiligen Basilides, Cyrinus, Nabor en Nazarius, dragen wij U, Heer, plechtig deze offers op, in de viering van de wondervolle geheimen van Hem, door wie zo'n overwinning tot stand kon komen.
-$Per Dominum
+@Sancti/06-12o:Secreta
 
 [Commemoratio Postcommunio]
 !Pro SS. Martyribus
-Wij vragen U, Heer, doe ons, die steeds weer het feest vieren van uw heilige martelaren Basilides, Cyrinus, Nabor en Nazarius voortdurend hun bescherming ondervinden.
-$Per Dominum
-
+@Sancti/06-12o:Postcommunio
