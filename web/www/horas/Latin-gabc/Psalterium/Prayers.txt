@@ -90,13 +90,12 @@ R/. Et(h) cla(h)mor(h) me(h)us(h) ad(h) te(h) vé(h)ni(h)at.(f.) (::)}
 [Deus in adjutorium iij]
 {initial-style:0;%%(c3) V/. De(h)us(h) in(h) ad(h)ju(h)tó(h)ri(h)um(h) me(h)um(h) in(h)tén(h)de.(f.) (::) R/. Dó(h)mi(h)ne,(h) ad(h) ad(h)ju(h)ván(h)dum(h) me(h) fes(h)tí(h)na.(f.) ^_iij._^(::)}
 
-[Tu autem]
+[Tu autem_]
 {initial-style:0;%%(c3) V/. Tu(h) au(g)tem,(f) Dó(h)mi(h)ne,(h.) (,) mi(h)se(h)ré(h)re(h) no(h.)bis.(d.) (::)
 R/. De(h)o(h) grá(h)ti(d)as.(d.) (::)}
 
-[Tu autemOP]
-V. Tu autem, Dómine, miserére nostri.
-R. Deo grátias.
+[Tu autem] (rubrica Ordo Praedicatorum)
+@:Tu autem_:s/no(h.)bis.(d.)/nos(h.)tri.(d.)/
 
 [Benedicamus Domino]
 {initial-style:0;%%(c3) V/. Be(h)ne(h)di(h)cá(hi)mus(i') Dó(i)mi(i)no(iHG.) (::)
@@ -204,13 +203,9 @@ Allelúja, allelúja.
 [Alleluia Ant]
 {name:AllelujaAnt;annotation:6.f;%%(c4) AL(f)le(g)lú(g_0h)ja,(f_') (,) * al(g)le(f)lú(fe)ja,(d') al(f)le(g')lú(g)ja.(f.) (::)}
 
-[A porta inferi]
+[Aportainferi]
 V. A porta ínferi.
 R. Erue, Dómine, ánimas eórum.
-V. Requiéscant in pace.
-R. Amen.
-@:Dominus:3-4
-&Dominus_vobiscum2
 
 [Amen]
 {initial-style:0;%%(c3) R/. A(g.)men.(h.) (::)}
@@ -224,21 +219,21 @@ v. Vísita, quǽsumus, Dómine, habitatiónem istam, et omnes insídias inimíci
 [Oratio_Visita] (rubrica Ordo Praedicatorum)
 @:Oratio Visita_:s/Ángeli tui sancti hábitent/et Ángeli tui sancti habitántes/ s/qui //
 
-[Respice]
+[respice]
 {initial-style:0;%%(c3) V/. Rés(h)pi(h)ce(h) in(h) ser(h)vos(h) tu(h)os,(h) Dó(h)mi(h)ne,(h) (,) et(h) in(h) ó(h)pe(g)ra(f) tu(h)a,(h) * et(h) dí(h)ri(h)ge(h) fí(h)li(h)os(h) e(h)ó(h)rum.(f.) (::)
 R/. Et(h) sit(h) splen(h)dor(h) Dó(h)mi(h)ni(h) De(h)i(h) nos(h)tri(h) su(h)per(f) nos,(f.) † et(h) ó(h)pe(h)ra(h) má(h)nu(h)um(h) nos(h)trá(h)rum(h) dí(h)ri(h)ge(h) su(g)per(f) nos,(h.) * et(h) o(h)pus(h) má(h)nu(h)um(h) nos(h)trá(h)rum(h) dí(h)ri(f)ge.(f.) (::)}
 
-[Dirigere]
+[dirigere]
 v. Dirígere et sanctificáre, régere et gubernáre dignáre, Dómine Deus, Rex cæli et terræ, hódie corda et córpora nostra, sensus, sermónes et actus nostros in lege tua, et in opéribus mandatórum tuórum: ut hic et in ætérnum, te auxiliánte, salvi et líberi esse mereámur, Salvátor mundi: Qui vivis et regnas in sǽcula sæculórum.
 R. Amen.
 
-[Benedictio Prima]
+[benedictio Prima]
 {initial-style:0;%%(c3) V/. Ju(h)be,(h) dom(h)ne,(g_') be(h)ne(h)dí(h)ce(d)re.(d.) (::)}
 (sed rubrica 196 aut rubrica 1955 aut rubrica bavariae dicitur)
 {initial-style:0;%%(c3) V/. Ju(h)be,(h) Dóm(h)i(h)ne,(g_) be(h)ne(h)dí(h)ce(d)re.(d.) (::)}
 Benedictio. {initial-style:0;%%(c3) Di(h)es(h) et(h) ac(g)tus(f) nos(h)tros(h.) *(;) in(h) su(h)a(h) pa(h)ce(h) dis(h)pó(h)nat(h) Dó(h)mi(h)nus(h) om(h)ní(h)po(d)tens.(d.) (::) R/. A(g.)men.(h.) (::)}
 
-[Benedictio Prima2]
+[benedictio Prima2]
 Benedictio. {initial-style:0;%%(c3) Dó(h)mi(h)nus(h) nos(h) be(h)ne(h)dí(h)cat,(f.) ^✠^(;) et(h) ab(h) om(h)ni(h) ma(h)lo(g) de(f)fén(h)dat:(h.) (;) et(h) ad(h) vi(h)tam(h) per(h)dú(h)cat(h) æ(h)tér(h.)nam.(d.) (:) Et(d) fi(d)dé(d)li(d)um(d) á(d)ni(d)mæ(d) per(d) mi(d)se(d)ri(d)cór(d)di(d)am(d) De(d)i(d) re(d)qui(d)és(d)cant(d) in(d) pa(d)ce.(d.) (::)
 R/. A(d.)men.(d.) (::)}
 
@@ -246,17 +241,17 @@ R/. A(d.)men.(d.) (::)}
 {initial-style:0;%%(c3) V/. Be(h)ne(h)dí(h)ci(f)te.(f.) (::)
 R/. De(h)us.(f.) (::)}
 
-[Commemoratio omnium]
+[commemoratio omnium]
 R.br. Commemorátio ómnium fratrum, familiárum Órdinis nostri, atque benefactórum nostrórum.
 
 [Requiescant]
 V. Requiéscant in pace.
 R. Amen.
 
-[Deus veniae]
+[deus veniae]
 v. Deus véniæ largítor et humánæ salútis amátor: quǽsumus cleméntiam tuam: ut nostræ congregatiónis fratres, propínquos et benefactóres, qui ex hoc sǽculo transiérunt, beáta María semper vírgine intercedénte cum ómnibus sanctis tuis ad perpétuæ beatitúdinis consórtium perveníre concédas.
 
-[Oratio_Domine]
+[oratio_Domine]
 v. Dómine Deus omnípotens, qui ad princípium hujus diéi nos perveníre fecísti: tua nos hódie salva virtúte; ut in hac die ad nullum declinémus peccátum, sed semper ad tuam justítiam faciéndam nostra procédant elóquia, dirigántur cogitatiónes et ópera.
 
 [Benedictio Completorium_]
@@ -264,9 +259,6 @@ v. Dómine Deus omnípotens, qui ad princípium hujus diéi nos perveníre fecí
 (sed rubrica 196 aut rubrica 1955 aut rubrica bavariae dicitur)
 {initial-style:0;%%(c3) V/. Ju(h)be,(h) Dóm(h)i(h)ne,(g_) be(h)ne(h)dí(h)ce(d)re.(d.) (::)}
 Benedictio. {(c3) Noc(h)tem(h) qui(h)é(h)tam(h) et(h) fi(h)nem(g) per(f)féc(h)tum(h.) (;) con(h)cé(h)dat(h) no(h)bis(h) Dó(h)mi(h)nus(h) om(h)ní(h)po(d)tens.(d.) (::)}
-
-[Benedictio Completorium]
-@:Benedictio Completorium_
 
 [Benedictio Completorium] (rubrica Ordo Praedicatorum)
 @:Benedictio Completorium_:s/con.*?dat/trí(h)bu(h)at/
