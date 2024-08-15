@@ -29,9 +29,7 @@ V. Laqueus contrítus est et nos liberati sumus: adjutórium nostrum in nómine 
 V. Sicut abúndant passiónes Christi in nobis, ita et per Christum abúndat consolátio nostra, allelúia.
 
 [Evangelium]
-Sequentia ++ sancti Evangelii secundum Lucam. 
-!Luc 6:17-23
-In illo témpore: Descéndens Jesus de monte stetit in loco campéstri, et turba discipulórum ejus, et multitúdo copiósa plebis ab omni Judǽa, et Jerúsalem, et marítima, et Tyri, et Sidónis, qui vénerant, ut audírent eum, et sanaréntur a languóribus suis. Et qui vexabántur a spirítibus immúndis, curabántur. Et omnis turba quærébat eum tángere: quia virtus de illo exíbat, et sanábat omnes. Et ipse elevátis óculis in discípulos suos, dicébat: "Beáti páuperes: quia vestrum est regnum Dei. Beáti, qui nunc esúritis, quia saturabímini. Beáti, qui nunc fletis: quia ridébitis. Beáti éritis, cum vos óderint hómines, et cum separáverint vos, et exprobráverint, et ejécerint nomen vestrum tamquam malum, propter Fílium hóminis. Gaudéte in illa die, et exsultáte: ecce enim merces vestra multa est in Cœlo." 
+@Commune/C3a
 
 [Offertorium]
 !Sap 3:6
@@ -56,10 +54,8 @@ $Per Dominum
 
 [Commemoratio Secreta]
 !Pro SS. Cypriano et Justina 
-Wij dragen U, o Heer, de gaven van onze toewijding op. Mogen zij U welgevallig zijn als eerbetoon voor uw rechtvaardigen en ons door uw barmhartigheid tot heil strekken.
-$Per Dominum
+@Commune/C3a:Secreta
 
 [Commemoratio Postcommunio]
 !Pro SS. Cypriano et Justina 
-Wij vragen U, Heer, doe ons op voorspraak van uw heilige martelaren Cyprianus en Justina met een zuiver hart ontvangen wat wij nuttigen met de mond.
-$Per Dominum
+@Commune/C3a:Postcommunio:s/N\./Cyprianus en Justina/

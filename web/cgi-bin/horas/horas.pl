@@ -357,6 +357,16 @@ sub MLitany2 : ScriptFunc {
   return prayer('MLitany2', $lang);
 }
 
+#*** versiculum_ante_laudes($lang)
+# return versiculum ante Laudes used in Ordo Praedicatorum only
+sub versiculum_ante_laudes : ScriptFunc {
+  my $lang = shift;
+
+  my ($v, $c) = getantvers('Versum', 0, $lang);
+
+  $v;
+}
+
 #*** Benedicamus_Domino
 # adds Alleluia, alleluia for Pasc0
 sub Benedicamus_Domino : ScriptFunc {
@@ -998,37 +1008,43 @@ sub canticum : ScriptFunc {
 
 sub Nunc_dimittis {
   my $lang = shift;
-  my $ant, $ant2, $_antl;
+  my $ant, $ant2;
   my $canticaTone;
+
   my ($w, $c) = getproprium("Ant 4$vespera", $lang, 1);
 
   if ($w) {
     setbuild1($ite, 'special');
     ($ant, $ant2) = split("\n", $w);
   } else {
-    my %a = %{setupstring($lang, "Psalterium/Psalmi minor.txt")};
-    $ant = $a{'Ant Nunc dimittis'};
+    my %a = %{setupstring($lang, "Psalterium/Minor Special.txt")};
+    my $name;
+    $name = gettempora('Nunc dimittis') if $version =~ /^Ordo Praedicatorum/;
+    $ant = $a{"Ant 4$name"};
 
-    if (alleluia_required($dayname[0], $votive)) {
-      ensure_single_alleluia(\$ant, $lang);
+    if ($version =~ /^Ordo Praedicatorum/ && $name eq ' Quad3') {
+      ($ant, $ant2) = split("\n", $ant);
+      $ant2 = "$ant\n$ant2";
     }
   }
-  my $ant1 = substr($ant, 0, index($ant, ' *'));
-  $ant1 =~ s/;;.*//;
+#  my $ant1 = substr($ant, 0, index($ant, ' *'));
+#  $ant1 =~ s/;;.*//;
 
   if ($lang =~ /gabc/i) {
     $ant =~ s/;;(.*)//;
     $canticaTone = $1;
-    $ant1 =~ s/[\,\.](\(.*?\))\s*$/\.$1 (::)\}/;    # Un-duplicate GABC Antiphon
+#    $ant1 =~ s/[\,\.](\(.*?\))\s*$/\.$1 (::)\}/;    # Un-duplicate GABC Antiphon
   }
-  push(@s,
-    translate('#Canticum Nunc dimittis', $lang),
-    'Ant. ' . ($version =~ /196/ ? $ant : $ant1),
-    $canticaTone ? "&psalm('233,$canticaTone')" : '&psalm(233)',
-    'Ant. ' . ($ant2 || $ant =~ s/\ \*//r),
-  );
 
-  # FIXME Ordo Praedicatorum has Ant depended on Tempora
+if (alleluia_required($dayname[0], $votive)) {
+	ensure_single_alleluia(\$ant, $lang);
+}
+
+my @psalmi = $canticaTone ? ("$ant;;'233,$canticaTone'") : ("$ant;;233");
+my $duplexf = $version =~ /196/;
+push(@s, translate('#Canticum Nunc dimittis', $lang));
+antetpsalm(\@psalmi, $duplexf, $lang);
+$s[-1] = "Ant. $ant2" if $ant2;
 }
 
 sub Divinum_auxilium : ScriptFunc {

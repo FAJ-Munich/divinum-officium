@@ -696,7 +696,7 @@ sub lectio : ScriptFunc {
 
   # TODO: There seems to be a mismatch between taking care of a conflict of Die VII infra 8vam Immaculata Conceptio. and Q.T. in Adventum
   # The lessons are repeated from the feast day 12-08 unless it is Feria IV Q.T.?
-  if ($version =~ /(Trident|Divino)/i && $month == 12 && $day == 14 && $dayofweek !~ 3) {
+  if ($version =~ /(?:1888|1906|Divino)/i && $month == 12 && $day == 14 && $dayofweek !~ 3 && $dayofweek) {
     $w{"Lectio$num"} = $c{"Lectio$num"};
   }
 
@@ -868,7 +868,6 @@ sub lectio : ScriptFunc {
   {
     %w = (columnsel($lang)) ? %winner : %winner2;
     $w = $w{Lectio8} . $w{Lectio9};
-    $w =~ s/\&teDeum//;
   }
   my $wo = $w;
 
@@ -879,10 +878,12 @@ sub lectio : ScriptFunc {
     && $commune !~ /C10/
     && $rule !~ /no93/i
     && $winner{Rank} !~ /Octav.*(Epi|Corp)/i
-
-    #&& ($dayofweek != 0 || $winner =~ /Sancti/i || $winner =~ /Nat2/i)
     && (
-         ($rule =~ /9 lectio/i && $num == 9 && !exists($winner{Responsory9}))
+      (
+           $rule =~ /9 lectio/i
+        && $num == 9
+        && !(exists($winner{Responsory9}) || ($winner{Rank} =~ /Dominica/i && $version !~ /Trid/i))
+      )
       || ($rule !~ /(9|12) lectio/i && $num == 3 && $winner !~ /Tempora/i && !exists($winner{Responsory3}))
       || ( $rule =~ /12 lectio/i
         && $num == 12
@@ -890,7 +891,7 @@ sub lectio : ScriptFunc {
     )
     || ($rank < 2 && $winner =~ /Sancti/i && $num == 4)
     )
-  {    # diverged to legend
+  {    # 9th lesson diverged to Legend of Commemorated Saint
     %w = (columnsel($lang)) ? %winner : %winner2;
 
     if (($w{Rank} =~ /Simplex/i || ($version =~ /1955/ && $rank == 1.5)) && exists($w{'Lectio94'})) {
@@ -960,6 +961,14 @@ sub lectio : ScriptFunc {
       }
       $wc ||= $w{"Lectio93"};
 
+      if (!$wc && $w{Rank} =~ /infra octav/i) {
+        if (my $commemo1 = $commemoentries[1]) {
+          %w = %{setupstring($lang, $commemo1 . ".txt")};
+          $wc = $w{Lectio94} || ($w{Lectio4} . $w{Lectio5} . $w{Lectio6}) || $w{Lectio93};
+          setbuild2("entered $commemo1");
+        }
+      }
+
       if ($wc) {
         setbuild2("Last lectio: Commemoratio from Sancti #$ji");
 
@@ -978,7 +987,6 @@ sub lectio : ScriptFunc {
     if (exists($w{'Lectio Vigilia'})) { $w = $w{'Lectio Vigilia'}; }
 
     #if ($w =~ /!.*?Octav/i || $w{Rank} =~ /Octav/i) { $w = $wo; setbuild2("transfervigil deleted");}
-    $w = addtedeum($w);
   }
 
   if ($ltype1960 == LT1960_SANCTORAL && $num == 4) {
@@ -1000,17 +1008,21 @@ sub lectio : ScriptFunc {
       %w = %w1;
     }
   }
-  if (($ltype1960 || ($winner =~ /Sancti/i && $rank < 2)) && $num > 2) { $num = 3; $w = addtedeum($w); }
-  if ($num == 3 && $winner =~ /Tempora/ && $rule !~ /9 lectiones/i && $rule =~ /Feria Te Deum/i) { $w = addtedeum($w); }
+  if (($ltype1960 || ($winner =~ /Sancti/i && $rank < 2)) && $num > 2) { $num = 3; }
 
-  if ( $rule =~ /no Te Deum/i
-    || $version =~ /monastic/i)    # te deum is added as needed after the last responsory
-  { $w =~ s/\&teDeum//g; }
-  $w =~ s/¶//;                     # remove ¶ mark if any
+  $w =~ s/¶//;               # remove ¶ mark if any
+  $w =~ s/\&teDeum\n*//g;    # remove tedeum, will add if needed later
 
-  #get item from [Responsory$num] if no responsory
-  if ($w && $w !~ /\nR\./ && $w !~ /\&teDeum/i) {
-    my $s = '';
+  if ($rule !~ /Limit.*?Benedictio/i) {
+
+    #add Tu autem before responsory
+    my $tuautem = $expand =~ /all/ ? prayer('Tu autem', $lang) : '$Tu autem';
+    $w .= "\n$tuautem\n";
+  }
+
+  # add responsory
+  if (!tedeum_required($num) || $version =~ /^(?:Monastic|Ordo Praedicatorum)/) {
+    my $s;
     $na = $num;
 
     if ($version =~ /1960/ && $winner =~ /tempora/i && $dayofweek == 0 && $dayname[0] =~ /(Adv|Quad)/i && $na == 3) {
@@ -1069,35 +1081,11 @@ sub lectio : ScriptFunc {
       }
     }
     matins_lectio_responsory_alleluia($s, $lang) if alleluia_required($dayname[0], $votive);
+    $s = responsory_gloria($s, $num);
     $w =~ s/\s*$/\n\_\n$s/;
   }
-  $w = responsory_gloria($w, $num);
 
-  #add Tu autem before responsory
-  if ($expand =~ /all/) {
-    $tuautem = prayer('Tu autem', $lang);
-  } else {
-    $tuautem = '$Tu autem';
-  }
   $w =~ s/^\_//;
-
-  if ($rule !~ /Limit.*?Benedictio/i) {
-    my $before = '';
-    my $rest = $w;
-    $rest =~ s/[\n\_ ]*$//gs;
-    while ($rest =~ /(.*?)_(.*)/s) { $before .= "$1_"; $rest = $2; }
-    if (!$before) { $before = $w; $rest = ''; }
-    $before =~ s/[\n\_ ~]*$//gs;
-
-    if ($before =~ /(.*?)\&teDeum/s) {
-      $before = $1;
-      $rest = "&teDeum\n";
-    } elsif ($rest =~ /(.*?)\&teDeum/s) {
-      $before .= "\n_\n$1";
-      $rest = "&teDeum\n";
-    }
-    $w = "$before" . "\n$tuautem\n_\n$rest";
-  }
 
   # add initial to text
   if ($w !~ /^!/m) {
@@ -1140,8 +1128,11 @@ sub lectio : ScriptFunc {
     process_inline_alleluias(\$w, $lang, $dayname[0] =~ /Pasc/);
     $w =~ s/\((.*?[.,\d].*?)\)/parenthesised_text($1)/eg;
   }
+
   $w = replaceNdot($w, $lang);
-  return $w;
+  $w .= "\n_\n\&teDeum\n" if tedeum_required($num);
+
+  $w;
 }
 
 sub parenthesised_text {
@@ -1151,32 +1142,37 @@ sub parenthesised_text {
   return "($text)";
 }
 
-#Te Deum instead of responsory
-sub addtedeum {
-  my $w = shift;
+sub tedeum_required {
+  my $num = shift;
+  our ($rule, $version, $winner, $commune, @dayname, $dayofweek, $duplex);
 
-  if ($rule =~ /no Te Deum/i
-    || ($winner =~ /(Tempora|C12A|C12Q)/i && $dayname[0] =~ /(Adv|Quad)/i) && $winner{Rank} !~ /Septem dolorum/i)
-  {
-    $w =~ s/\&teDeum//;
-  }
+  return $num == 12 if $version =~ /^Monastic/;
 
-  if ($w =~ /teDeum/i || $winner =~ /C12/i || ($rule =~ /no Te Deum/i && ($winner !~ /12-28/ || $dayofweek > 0))) {
-    return $w;
-  }
-  if ($votive =~ /(C9|Defunctorum)/i) { return ($w); }
-  if ($winner =~ /Tempora/i && $dayname[0] =~ /(Adv|Quad)/i && $winner !~ /C10/i) { return $w; }
-  if ($month == 12 && $day == 24) { return $w; }
+  (    # last lectio?
+    ($num == 9 && $rule =~ /9 lectiones/i)
+      || (
+        $num == 3
+        && (
+          $rule !~ /9 lectiones/i
 
-  if ( ($rank >= 2 && $dayname[1] !~ /(feria|vigilia)/i && $rule !~ /Responsory9/i)
-    || ($rule =~ /Feria Te Deum/i || $winner =~ /Sancti/i || $winner =~ /C10/i))
-  {
-    my $before = ($w =~ /(.*?)(\nR. |\n\@)/s) ? $1 : $w;
-    $before =~ s/\_$//;
-    $before =~ s/\n*$//;
-    $w = "$before" . "\n\&teDeum\n";
-  }
-  return $w;
+          # 2 below conditions can be ommited if [Rule] '9 lectiones' wont be false
+          || $duplex == 1
+          || ($version =~ /19(?:55|60)/ && gettype1960() != LT1960_DEFAULT)
+        )
+      )
+    )
+    && $rule !~ /no Te Deum/
+    && $commune !~ /C9/
+    && ($winner !~ /(?:Adv|Quad)/ || $version =~ /^Monastic/)
+    && (
+         (!$dayofweek && $dayname[1] !~ /(Vigilia)/)
+      || ($winner =~ /Sancti/i && $dayname[1] !~ /(Vigilia)/)
+      || $rule =~ /Feria Te Deum/i
+      || $winner =~ /Pasc|Nat|C10/
+      || ($winner =~ /^Tempora/ && $rank > 5 && $dayofweek)
+      || ($version !~ /19(?:55|6)/ && $winner =~ /Pent01-[56]|Pent02-[1-4]/)    # Octave CC
+      || ($version =~ /Divino/ && $winner =~ /Pent02-6|Pent03-[1-5]/)           # Octave SSCord
+    );
 }
 
 #*** beginwith($str)
@@ -1295,49 +1291,28 @@ sub gettype1960 {
 }
 
 #*** responsory_gloria($lectio_text, $num)
-# adds or removes \&gloria to lection
-# return the modified lectio text
+# adds or removes \&gloria to responsory
+# return the modified responsory
 #
 sub responsory_gloria {
   my $w = shift;
-  my $num = shift;
   $w =~ s/\&Gloria1?/\&Gloria1/g;
-  $prev = $w;
-  if ($w =~ /(.*?)\&Gloria/is) { $prev = $1; }
-  $prev =~ s/\s*$//gm;
+  my $num = shift;
 
-  if ($w =~ /\&teDeum/i || ($num == 1 && $dayname[0] =~ /Adv1|Pasc0/i && $dayofweek == 0) || $rule =~ /requiem Gloria/i)
-  {
-    return $w;
-  }
-  if ($num == 2 && $version =~ /1960/ && $dayname[0] =~ /(Adv|Quad)/i && $winner =~ /Tempora/i) { return $prev; }
-
-  if ($num == 8 && $winner =~ /12-28/ && $dayofweek == 0) {
-    delete($winner{Responsory9});
-    delete($winner2{Responsory9});
-  }
-  if ($num == 8 && exists($winner{Responsory9}) && ($rule !~ /12 lectio/)) { return $w; }
-  if ($version =~ /Monastic/i && $num == 2) { return $prev; }
-  my $flag = 0;
+  return $w
+    if (($num == 1 && $winner =~ /(?:Adv1|Pasc0)-0/i) || $rule =~ /requiem Gloria/i);
 
   my $read_per_noct = ($rule =~ /12 lectio/) ? 4 : 3;
 
   if (
-    ($num % $read_per_noct == 0)    # we are at the last Lesson of the Nocturn
-    || ( $rule =~ /9 lectiones/i
-      && ($winner !~ /tempora/i || $dayname[0] !~ /(Adv|Quad)/i)
-      && $num == 8)                 # or at the 8th Lesson with Te Deum
-    || ( $version =~ /1960/
-      && $rule =~ /9 lectiones/i
-      && $rule =~ /Feria Te Deum/i
-      && $num == 2
-      && ($dayname[0] !~ /quad/i))    # or at the 2nd Lesson at a 1960s with Te Deum
-    || (gettype1960() > 1 && $num == 2 && $winner !~ /C12/)
-    || ($rank < 2 && $num == 2 && $winner =~ /(Sancti)/)    # or a simple Matins at the 2nd
-    || ($num == 2 && $winner =~ /C10/)                      # or at BMV in Sabbato
-    || ($num == 2 && ($rule =~ /Feria Te Deum/i || $dayname[0] =~ /Pasc[07]/i) && $rule !~ /9 lectiones/i)
-    )
-  {                                                         # let's add the Gloria
+		($num % $read_per_noct == 0)    # responsory after last lectio in nocturn
+		||                              # or
+		(
+		$version !~ /^Monastic/                             # for non Monastic
+		&& $num % $read_per_noct == ($read_per_noct - 1)    # before last
+		&& tedeum_required($num + 1)                        # when there is Te Deum after last
+		)
+		) {                                                         # let's add the Gloria
 
     if ($lang =~ /gabc/ && $w =~ /\{.*\}/) {
       if ($w =~ /\_\s\{gabc:/) {
@@ -1346,12 +1321,12 @@ sub responsory_gloria {
 
     } elsif ($w !~ /\&Gloria/i) {
       $w =~ s/[\s_]*$//gs;
-      $line = ($w =~ /(R\..*?$)/) ? $1 : '';
-      $w .= "\n\&Gloria1\n$line";
+      $w =~ s/(R\..*?)$/$1\n\&Gloria1\n$1/;
     }
-    return $w;
+  } else {
+    $w =~ s/.\&Gloria.*//s;
   }
-  return $prev;
+  $w;
 }
 
 #*** ant matutinum_paschal(@_ref, $lang)

@@ -25,13 +25,8 @@ sub checkfile {
   my $file = shift;
   our $datafolder;
 
-  my $tempFile = $file;
-  $tempFile =~ s/(Sancti|Tempora)M/$1/;
-
   if (-e "$datafolder/$lang/$file") {
     return "$datafolder/$lang/$file";
-  } elsif (-e "$datafolder/$lang/$tempFile") {
-    return "$datafolder/$lang/$tempFile";
   } elsif ($lang =~ /-/) {
     my $temp = $lang;
     $temp =~ s/-[^-]+$//;
@@ -43,6 +38,18 @@ sub checkfile {
   } else {
     return "$datafolder/Latin/$file";
   }
+}
+
+sub checklatinfile {
+  my $file_ref = shift;
+  my $file = $$file_ref;
+  our $datafolder;
+  my $txt = $file =~ s/\.txt$// ? '.txt' : '';
+
+  -e "$datafolder/Latin/$file.txt"
+    || $file =~ s/(Sancti|Tempora|Commune)(?:M|OP)(.*)/$1$2/
+    && (-e "$datafolder/Latin/$file.txt")
+    && ($$file_ref = "$file$txt");
 }
 
 sub occurrence {
@@ -97,6 +104,7 @@ sub occurrence {
   } elsif ($transfertemp && $version =~ /monastic/i) {
     $transfertemp =~ s/TemporaM?/TemporaM/;    # modify path to Monastic Tempora folder if necessary
   }
+
   my $transfers =
     get_transfer($year, $version, $sday);      # get annual transfers if applicable depending on the day of Easter
   my @transfers = split("~", $transfers);
@@ -145,13 +153,7 @@ sub occurrence {
       $tfile = '';
     }
 
-    if (
-      $tfile
-      && ( -e "$datafolder/Latin/$tfile.txt"
-        || $weekname =~ /Epi0/i
-        || ($tfile =~ /(Sancti|Tempora)M(.*)/ && -e "$datafolder/Latin/$1$2.txt"))
-    ) {
-
+    if ($tfile && (checklatinfile(\$tfile) || $weekname =~ /Epi0/i)) {
       $tname = "$tfile.txt";
 
       if ($tomorrow) {
@@ -215,7 +217,7 @@ sub occurrence {
 
     $BMVSabbato = ($sfile =~ /v/ || $dayofweek !~ 6) ? 0 : 1;    # nicht sicher, ob das notwendig ist
 
-    if (-e "$datafolder/Latin/$sfile.txt" || ($sfile =~ /(Sancti|Tempora)M(.*)/ && -e "$datafolder/Latin/$1$2.txt")) {
+    if (checklatinfile(\$sfile)) {
       $sname = "$sfile.txt";
       if ($caller && $hora =~ /(Matutinum|Laudes)/i) { $sname =~ s/11-02t/11-02/; }    # special for All Souls day
 
@@ -363,7 +365,7 @@ sub occurrence {
       && !$transfervigil)
     {
       unless ($tomorrow) {
-        $scriptura = $tname =~ /Epi0/i ? $sname : $tname;
+        $scriptura = ($month == 1 && $day < 13) ? $sname : $tname;
       }
       $tempora{Rank} = $trank = "Sanctæ Mariæ Sabbato;;Simplex;;1.2;;vide $C10";
       $tname = subdirname('Commune', $version) . "$C10.txt";
@@ -1371,6 +1373,10 @@ sub precedence {
       $commune = 'Tempora/Epi1-0a.txt';
     }
     $rule = $winner{Rule};
+
+    if ($winner =~ /12-28/ && $dayofweek == 0) {
+      $rule =~ s/no Te Deum//;
+    }
   }
 
   if ($version !~ /196/ && exists($winner{'Oratio Vigilia'}) && $dayofweek != 0 && $hora =~ /Laudes/i) {
@@ -1583,16 +1589,14 @@ sub officestring($$;$) {
   # set this global here
   our $monthday;
 
-  if ($fname !~ /tempora[M]*\/(Pent|Epi)/i) {
+  if ( $fname !~ m{^Tempora[^/]*/(?:Pent|Epi)}
+    || $fname =~ m{^Tempora[^/]*/Pent0[1-5]})
+  {
     %s = %{setupstring($lang, $fname)};
     if ($version =~ /196/ && $s{Rank} =~ /Feria.*?(III|IV) Adv/i && $day > 16) { $s{Rank} =~ s/;;2.1/;;4.9/; }
     return \%s;
   }
 
-  if ($fname =~ /tempora[M]*\/Pent([0-9]+)/i && $1 < 5) {
-    %s = %{setupstring($lang, $fname)};
-    return \%s;
-  }
   $monthday = monthday($day, $month, $year, ($version =~ /196/) + 0, $flag);
 
   if (!$monthday) {
@@ -1929,7 +1933,8 @@ sub setChantTone {
 
 sub subdirname {
   my ($subdir, $version) = @_;
-  $subdir .= 'M' if $version =~ /monastic/i;
+  return "${subdir}M/" if $version =~ /^Monastic/;
+  return "${subdir}OP/" if $version =~ /^Ordo Praedicatorum/;
   "$subdir/";
 }
 
@@ -2298,7 +2303,7 @@ sub gettempora {
   my $caller = shift;
   my $tname =
       ($dayname[0] =~ /^Adv[34]$/ && $caller eq 'Invitatorium') ? 'Adv3'
-    : ($dayname[0] =~ /^Adv/ && $caller ne 'Doxology') ? 'Adv'
+    : ($dayname[0] =~ /^Adv/ && $caller ne 'Doxology' && $caller ne 'Nunc dimittis') ? 'Adv'
     : ($dayname[0] =~ /^Quad[56]/ && $caller ne 'Doxology') ? 'Quad5'
     : ($dayname[0] =~ /^Quad(?!p)/ && $caller ne 'Doxology') ? 'Quad'
     : ($dayname[0] =~ /^Pasc6/ || ($dayname[0] =~ /Pasc5/i && $dayofweek > 3 && $dayname[1] !~ /^Dominica/)) ? 'Asc'
@@ -2328,7 +2333,10 @@ sub gettempora {
     $tname = "Day$dayofweek";
   }
 
-  if ($caller eq 'Doxology' || $caller eq 'Prima responsory' || ($version =~ /196/ && $caller ne 'Psalmi minor')) {
+  if ( $caller eq 'Doxology'
+    || $caller eq 'Prima responsory'
+    || ($version =~ /196/ && $caller ne 'Psalmi minor' && $caller ne 'Nunc dimittis'))
+  {
     if ($dayname[0] =~ /^Nat/) {
       $tname = ($day >= 6 && $day < 13) ? 'Epi' : 'Nat';
     } elsif ($dayname[0] =~ /^Epi[01]/i && $day < 14) {
@@ -2336,8 +2344,12 @@ sub gettempora {
     }
   }
 
-  if ($caller eq 'MM Capitulum' && $tname) {
+  if (($caller eq 'MM Capitulum' || $caller eq 'Nunc dimittis') && $tname) {
     $tname = " $tname";
+
+    if ($caller eq 'Nunc dimittis' && $dayname[0] =~ /^Quad[34]/) {
+      $tname .= '3';
+    }
   }
 
   $tname;

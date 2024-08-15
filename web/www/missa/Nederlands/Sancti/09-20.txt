@@ -8,12 +8,10 @@ S. Eustachii et Sociorum Martyrum;;Simplex;;1.1;;vide C3a
 Gloria
 
 [Oratio]
-God, laat ons, die Gij de geboortedag van uw heilige martelaren Eustachius en Gezellen laat vieren, in een gelukkige eeuwigheid van hun gezelschap genieten.
-$Per Dominum
+@Commune/C3a:Oratio:s/N\. en N\./Eustachius en gezellen/
 
 [Postcommunio]
-Wij vragen U, Heer, doe ons op voorspraak van uw heilige martelaren Eustachius en Gezellen met een zuiver hart ontvangen, wat wij met de mond nuttigen.
-$Per Dominum
+@Commune/C3a:Postcommunio:s/N\. en N\./Eustachius en gezellen/
 
 [Commemoratio Oratio]
 !Pro Vigilia S. Matthæi Apostoli

@@ -7,7 +7,6 @@ vide Sancti/01-01
 Gloria
 Prefatio=Nat 
 
-
 [Commemoratio Oratio]
 !Pro S. Telesphori Papæ et Mart.
 @Commune/C2b:Oratio:s/N\./Telésphori/
@@ -22,7 +21,7 @@ Prefatio=Nat
 
 [Commemoratio Postcommunio]
 !Pro S. Telesphori Papæ et Mart.
-@Commune/C2c:Postcommunio:s/N\./Telésphoro/
+@Commune/C2a:Postcommunio:s/N\./Telésphoro/
 !De S. Maria
 @Commune/C10:Postcommunio
 

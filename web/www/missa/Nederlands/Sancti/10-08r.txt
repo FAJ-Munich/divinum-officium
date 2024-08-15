@@ -9,49 +9,43 @@ vide C7a;
 Gloria
 
 [Introitus]
-@Commune/C7a:Introitus
+@Commune/C7a
 
 [Lectio]
 @Commune/C7a:Lectio1
 
 [Graduale]
-@Commune/C7a:Graduale
+@Commune/C7a
 
 [Evangelium]
-@Commune/C7a:Evangelium
+@Commune/C6a
 
 [Offertorium]
-@Commune/C7a:Offertorium
+@Commune/C6a
 
 [Communio]
-@Commune/C7a:Communio
+@Commune/C7a
 
 [Oratio]
-Heer, onze God, Gij hebt de heilige Birgitta door uw enige Zoon hemelse geheimen geopenbaard. Doe ons, uw dienaren, door haar liefdevolle voorspraak eens vreugdevol genieten van de openbaring van uw eeuwige heerlijkheid.
-$Per eundem
+@Sancti/10-08
 
 [Secreta]
-Moge, o Heer, het offer, door het U toegewijde volk ter ere van uw heiligen gebracht, U aangenaam zijn, want door hun verdiensten weten wij ons uit de nood gered.
-$Per Dominum
+@Commune/C6b
 
 [Postcommunio]
-Gij hebt, Heer, uw gezin verzadigd met heilige gaven. Wij vragen U, verkwik ons blijvend door bemiddeling van haar, wier feest wij vieren.
-$Per Dominum
+@Commune/C6b
 
 [Commemoratio Oratio]
 !Pro Ss. Sergio, Baccho, Marcello et Apulejo Martyribus
-Mogen, o Heer, de rijke verdiensten van uw heilige martelaren Sergius, Bacchus, Marcellus en Apulejus ons ten goede komen en ons altijd doen branden van liefde voor U.
-$Per Dominum
+@Sancti/10-07o:Oratio
 
 [Commemoratio Secreta]
 !Pro Ss. Sergio, Baccho, Marcello et Apulejo Martyribus
-Wij vragen U, Heer, moge deze offerande, die wij U opdragen, en die zijn waarde ontleent aan de smeking van uw heiligen, ons met uw Majesteit verzoenen.
-$Per Dominum
+@Sancti/10-07o:Secreta
 
 [Commemoratio Postcommunio]
 !Pro Ss. Sergio, Baccho, Marcello et Apulejo Martyribus
-Mogen wij kracht putten, o Heer, uit het ontvangen van de Sacramenten, en door de voorspraak van uw heilige martelaren Sergius, Bacchus, Marcellus en Apulejus tegen alle aanvallen van de boze met hemelse wapens beschermd worden.
-$Per Dominum
+@Sancti/10-07o:Postcommunio
 
 
 

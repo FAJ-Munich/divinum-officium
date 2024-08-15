@@ -1,5 +1,5 @@
 [Rank]
-In Octava Ss. Petri et Pauli.;;Duplex;;3.1;;ex Sancti/06-29
+In Octava Ss. Petri et Pauli;;Duplex;;3.1;;ex Sancti/06-29
 
 [Rule]
 Gloria
@@ -28,7 +28,7 @@ Prefatio=Apostolis
 @Sancti/07-06
 
 [Communio]
-@Sancti/07-06
+@Sancti/06-02
 
 [Postcommunio]
 @Sancti/07-06
