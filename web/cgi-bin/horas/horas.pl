@@ -1027,24 +1027,26 @@ sub Nunc_dimittis {
       $ant2 = "$ant\n$ant2";
     }
   }
-#  my $ant1 = substr($ant, 0, index($ant, ' *'));
-#  $ant1 =~ s/;;.*//;
+
+  #  my $ant1 = substr($ant, 0, index($ant, ' *'));
+  #  $ant1 =~ s/;;.*//;
 
   if ($lang =~ /gabc/i) {
     $ant =~ s/;;(.*)//;
     $canticaTone = $1;
-#    $ant1 =~ s/[\,\.](\(.*?\))\s*$/\.$1 (::)\}/;    # Un-duplicate GABC Antiphon
+
+    #    $ant1 =~ s/[\,\.](\(.*?\))\s*$/\.$1 (::)\}/;    # Un-duplicate GABC Antiphon
   }
 
-if (alleluia_required($dayname[0], $votive)) {
-	ensure_single_alleluia(\$ant, $lang);
-}
+  if (alleluia_required($dayname[0], $votive)) {
+    ensure_single_alleluia(\$ant, $lang);
+  }
 
-my @psalmi = $canticaTone ? ("$ant;;'233,$canticaTone'") : ("$ant;;233");
-my $duplexf = $version =~ /196/;
-push(@s, translate('#Canticum Nunc dimittis', $lang));
-antetpsalm(\@psalmi, $duplexf, $lang);
-$s[-1] = "Ant. $ant2" if $ant2;
+  my @psalmi = $canticaTone ? ("$ant;;'233,$canticaTone'") : ("$ant;;233");
+  my $duplexf = $version =~ /196/;
+  push(@s, translate('#Canticum Nunc dimittis', $lang));
+  antetpsalm(\@psalmi, $duplexf, $lang);
+  $s[-1] = "Ant. $ant2" if $ant2;
 }
 
 sub Divinum_auxilium : ScriptFunc {

@@ -642,6 +642,28 @@ R.br. ~
 (sed tempore paschali)
 {initial-style:0;%%(c3) V/. Cus(h)tó(h)di(h) nos(h) Dó(h)mi(h)ne(h) ut(h) pu(h)píl(h)lam(h) ó(h)cu(h)li,(h_') (,) al(h)le(h)lú(h)ja.(f.) (::) R/. Sub(h) um(h)bra(h) a(h)lá(h)rum(h) tu(h)á(h)rum(h) pró(h)te(h)ge(h) nos(h_') (,) al(h)le(h)lú(h)ja.(f.) (::)}
 
+[Ant 4]
+{(c4) Sal(g)va(hj) nos,(j.) *() Dó(jk)mi(j)ne,(ji) vi(h)gi(i')lán(h)tes,(g.) (;) cus(g)tó(i')di(j) nos(k') dor(j)mi(h')én(j)tes;(i.) (;)  ut(i) vi(g')gi(i)lé(k')mus(i) cum(h') Chri(j)sto,(i_0j) (,) et(h) re(h)qui(h)es(h)cá(gf)mus(gh) in(gf) pa(e.)ce.(e.) (::) ^_T. P._^() Al(g)le(gf)lú(e.)ja.(e.) (::)};;3a
+
+[Ant 4 Quad]
+Evígila super nos, * ætérne Salvátor, ne nos apprehéndat cállidus tentátor, quia tu nobis factus es sempitérnus adjútor.
+
+[Ant 4 Quad3]
+Média vita in mórte sumus: quem quǽrimus adjutórem, nísi te, Dómine, qui pro peccátis nóstris juste irásceris? * Sancte Deus, Sancte fortis, Sancte et miséricors Salvátor, amáræ morti ne trádas nos.
+V. Ne projícias nos in témpore senectutis; cum defécerit virtus nostra, ne derelínquas nos, Dómine. Sancte Deus.
+
+[Ant 4 Quad5]
+O Rex glorióse inter Sanctos tuos, qui semper es laudábilis et tamen ineffábilis: tu in nobis es, Dómine, et nomen sanctum tuum invocátum est super nos: ne derelínquas nos Deus noster: ut in die judícii nos collocáre dignéris inter Sanctos et Eléctos tuos, Rex benedícte.
+
+[Ant 4 Pasch]
+Allelúja. Resurréxit Dóminus, allelúja: sicut dixit vobis, allelúja, allelúja.
+
+[Ant 4 Asc]
+Allelúja. Ascéndens Christus in altum, allelúja, captívam duxit captivitátem, allelúja, allelúja.
+
+[Ant 4 Pent]
+Allelúja. Spíritus Paráclitus, allelúja, docébit vos ómnia, allelúja, allelúja.
+
 [Preces feriales]
 $RLitany simplex0
 {initial-style:0;%%(c3) V/. Dó(h)mi(h)ne,(h) De(h)us(h) vir(h)tú(h)tum,(h) con(h)vér(h)te(f) nos.(h.) (::)

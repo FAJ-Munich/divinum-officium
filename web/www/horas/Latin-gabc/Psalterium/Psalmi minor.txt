@@ -228,6 +228,3 @@ Nona Dominica={(c3)AL(e)le(f)lú(h_i)ja,(ii) (,) al(h_i)le(j_h)lú(i.)ja,(i.) (;
 Nona Feria II={(c4) AL(d_h)le(h_0i)lú(h)ja,(g_') *() al(f)le(gh)lú(fe)ja,(d!ewf.) (;) al(fg)le(f)lú(fe)ja,(dc) al(d)le(fe)lú(d.)ja.(d.) (::)};;;;1a2
 Nona Hebdomadam={(f3) AL(f)le(h)lú(h_g~)ja,(f_') *() al(g)le(e')lú(f)ja,(e.) (;) al(f)le(h)lú(hg)ja,(fe) al(f)le(gh)lú(f.)ja.(f.) (::)};;;;2
 Completorium={name:Alleluja;annotation:8.G;%%(c4) AL(g)le(g')lú(h)ja,(gf__) *(,) al(h)le(j)lú(i_0j)ja,(h_GF) al(gh)le(h)lú(g.)ja.(g.) (::)};;;;8G
-
-[Ant Nunc dimittis]
-{(c4) Sal(g)va(hj) nos,(j.) *() Dó(jk)mi(j)ne,(ji) vi(h)gi(i')lán(h)tes,(g.) (;) cus(g)tó(i')di(j) nos(k') dor(j)mi(h')én(j)tes;(i.) (;)  ut(i) vi(g')gi(i)lé(k')mus(i) cum(h') Chri(j)sto,(i_0j) (,) et(h) re(h)qui(h)es(h)cá(gf)mus(gh) in(gf) pa(e.)ce.(e.) (::) ^_T. P._^() Al(g)le(gf)lú(e.)ja.(e.) (::)};;3a

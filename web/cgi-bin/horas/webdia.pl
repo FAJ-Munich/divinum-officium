@@ -548,8 +548,8 @@ sub setcell {
   # $text =~ s/\{\:.*?\:\}(<BR>)*\s*//g;
   $text =~ s/\{\:.*?\:\}//sg;
   $text =~ s/\`//g;                                                #` #accent grave for editor
-  $text =~ s/\s([»!?;:])/&nbsp;$1/g;                     # no-break space before punctutation (mostly French)
-  $text =~ s/«\s/«&nbsp;/g unless $lang eq 'Deutsch';    # no-break space after begin quote
+  $text =~ s/\s([»!?;:])/&nbsp;$1/g;                               # no-break space before punctutation (mostly French)
+  $text =~ s/«\s/«&nbsp;/g unless $lang eq 'Deutsch';              # no-break space after begin quote
 
   # Remove line breaks from chants
   if ($lang =~ /gabc/i) {

@@ -1305,14 +1305,15 @@ sub responsory_gloria {
   my $read_per_noct = ($rule =~ /12 lectio/) ? 4 : 3;
 
   if (
-		($num % $read_per_noct == 0)    # responsory after last lectio in nocturn
-		||                              # or
-		(
-		$version !~ /^Monastic/                             # for non Monastic
-		&& $num % $read_per_noct == ($read_per_noct - 1)    # before last
-		&& tedeum_required($num + 1)                        # when there is Te Deum after last
-		)
-		) {                                                         # let's add the Gloria
+    ($num % $read_per_noct == 0)    # responsory after last lectio in nocturn
+    ||                              # or
+    (
+      $version !~ /^Monastic/                             # for non Monastic
+      && $num % $read_per_noct == ($read_per_noct - 1)    # before last
+      && tedeum_required($num + 1)                        # when there is Te Deum after last
+    )
+    )
+  {                                                       # let's add the Gloria
 
     if ($lang =~ /gabc/ && $w =~ /\{.*\}/) {
       if ($w =~ /\_\s\{gabc:/) {
