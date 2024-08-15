@@ -528,7 +528,14 @@ sub psalm : ScriptFunc {
   my $title = translate('Psalmus', $lang) . " $num";
   my $source;
 
-  if ($num > 150 && $num < 300 && @lines && $fname !~ /\.gabc/) {
+  if ($num > 150 && $num < 300 && @lines) {
+		if($fname =~ /\.gabc/) {
+			$num =~ s/(;.*)//;
+			my $latFile = "$datafolder/Latin/$psalmfolder/Psalm$num.txt";
+			my (@latlines) = do_read($latFile);
+			$latlines[0] =~ s/ \*/; Tone: $ftone */;
+			unshift(@lines, $latlines[0]);
+		}
     shift(@lines) =~ /\(?(?<title>.*?) \* (?<source>.*?)\)?\s*$/;
     ($title, $source) = ($+{title}, $+{source});
     if ($v1) { $source =~ s/:\K.*/"$v1-$v2"/e; }
