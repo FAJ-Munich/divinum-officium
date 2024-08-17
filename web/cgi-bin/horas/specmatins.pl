@@ -281,10 +281,15 @@ sub psalmi_matutinum {
     setbuild2("9 lectiones");
 
     unless (exists($winner{'Ant Matutinum'})) {
-      if (($name eq 'Pasch' || $name eq 'Asc') && $rank < 5) {    # Paschal tide
+      if ( ($name eq 'Pasch' || $name eq 'Asc')    # Paschal tide
+        && $version !~ /trident/i
+        && $rank < 5
+        && $winner{'Rank'} !~ /(?:in|post).*octava.*Ascensio/i)
+      {
         my $dname = ($winner{Rank} =~ /Dominica/i) ? 'Dominica' : 'Feria';
         @spec = split("\n", $spec{"Pasch Ant $dname"});
         foreach my $i (3, 4, 8, 9, 13, 14) { $psalmi[$i] = $spec[$i]; }    # replace Versicles at Nocturns
+        setbuild2("Pasch Ant $dname special versums for nocturns");
       } elsif ($winner =~ /tempora/i
         && $name =~ /^(?:Adv|Quad|Pasch)$/i)                               # Advent, Quad, and Paschaltide
       {
