@@ -162,10 +162,15 @@ our %subjects = (
   rubricis => sub {$version},
   rubrica => sub {$version},
   tempore => \&get_tempus_id,
-  missa => sub { our $missanumber },
+  missa => sub {$missanumber},
   communi => sub { {summpont => ($version =~ /1960/ || $version =~ /1955/ || $version =~ /Divino/)} },
   'die' => \&get_dayname_for_condition,
-);
+  tonus => sub {$chantTone},
+  toni => sub {$chantTone},
+
+  #hora => sub {$hora},
+  commune => sub {$commune},
+  );
 our %predicates = (
   tridentina => sub { shift =~ /Trident/ },
   monastica => sub { shift =~ /Monastic/ },
@@ -179,6 +184,7 @@ our %predicates = (
   longior => sub { shift == 1 },
   brevior => sub { shift == 2 },
   'summorum pontificum' => sub { ${shift()}{summpont} },
+  'in solemnitatibus' => sub { shift =~ /solemnis|resurrectionis/i },
 );
 
 # parse and evaluate a condition
