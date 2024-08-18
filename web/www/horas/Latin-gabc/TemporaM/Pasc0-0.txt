@@ -99,15 +99,13 @@ Assúmpsit, quod detérius erat, ut det, quod pæstántius est: mendícus factus
 [Responsory12]
 @Tempora/Pasc0-5:Responsory2
 
-[Capitulum Laudes]
-@:Capitulum Tertia
-_
+[Responsory Laudes]
 @Psalterium/Minor Special:Responsory Pasch Tertia:1-6
 
 [Versum 2]
 {initial-style:0;%%(c3) V/. Hæc(h) di(h)es,(h) quam(h) fé(h)cit(h) Do(hi)mi(h)nus,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)  R/. Ex(h)sul(h)té(h)mus(h) et(h) læ(h)té(h)mur(h) in(h) e(hi)a,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
-[Capitulum Tertia]
+[Capitulum Laudes]
 !1 Cor 5:7
 v. Fratres: Expurgáte vetus ferméntum, ut sitis nova conspérsio, sicut estis ázymi. Etenim Pascha nostrum immolátus est Christus.
 $Deo gratias
@@ -121,7 +119,5 @@ $Deo gratias
 @Psalterium/Prima Special:Pasch
 $Deo gratias
 
-[Capitulum Vespera]
-@:Capitulum Tertia
-_
+[Responsory Vespera]
 @Psalterium/Minor Special:Responsory Pasch Tertia:1-6

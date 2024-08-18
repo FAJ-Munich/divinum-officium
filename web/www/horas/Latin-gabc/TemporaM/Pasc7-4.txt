@@ -10,6 +10,5 @@
 [Responsory3]
 @Tempora/Pasc7-2:Responsory1
 
-
-[Capitulum Vespera]
+[Responsory Vespera]
 @TemporaM/Pasc7-1

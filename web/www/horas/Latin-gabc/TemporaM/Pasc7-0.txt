@@ -5,9 +5,7 @@
 Psalmi Dominica
 Antiphonas horas
 
-[Capitulum Vespera]
-@Tempora/Pasc7-0
-_
+[Responsory Vespera]
 R.br. {gabc:Tempora/Pascha/rb--spiritus_paraclitus--solesmes_1934}
 
 [Ant Matutinum]
@@ -112,7 +110,5 @@ $Deo gratias
 _
 @Tempora/Pasc7-0:Versum 3
 
-[Capitulum Laudes]
-@Tempora/Pasc7-0
-_
+[Responsory Laudes]
 R.br. {gabc:Tempora/Pascha/rb--spiritus_domini_replevit--solesmes}
