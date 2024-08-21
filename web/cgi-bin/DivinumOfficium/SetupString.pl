@@ -21,6 +21,9 @@ my %subjects = (
   missa => sub { our $missanumber },
   communi => sub { {summpont => ($version =~ /1960/ || $version =~ /1955/ || $version =~ /Divino/)} },
   'die' => \&get_dayname_for_condition,
+  tonus => sub {$chantTone},
+  toni => sub {$chantTone},
+  commune => sub {$commune},
 );
 my %predicates = (
   tridentina => sub { shift =~ /Trident/ },
@@ -35,6 +38,7 @@ my %predicates = (
   longior => sub { shift == 1 },
   brevior => sub { shift == 2 },
   'summorum pontificum' => sub { ${shift()}{summpont} },
+  'in solemnitatibus' => sub { shift =~ /solemnis|resurrectionis/i },
 );
 
 # Constants specifying which @-directives to resolve when calling &setupstring.
