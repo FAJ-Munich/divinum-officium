@@ -1,6 +1,12 @@
 [Name]
 Commune Confessoris Pontificis
 
+[Rule]
+
+[Oratio]
+Grant, we beseech You, almighty God, that the venerable feast of N. Your blessed Confessor and Bishop may increase our devotion and promote our salvation.
+$Per Dominum
+
 [Lectio]
 Lesson from the book of Ecclesiasticus
 !Sir 44:16-27; 45:3-20
