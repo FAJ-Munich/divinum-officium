@@ -11,7 +11,7 @@ Credo
 Prefatio=Apostolis
 
 [Introitus]
-!Acts 12:11
+!Act 12:11
 v. Nu begrijp ik eerst goed, dat de Heer zijn engel heeft gezonden en mij gered heeft uit de hand van Herodes en uit alles wat het Joodse volk verwachtte.
 !Ps 138:1-2
 Heer, Gij doorvorst en kent mij. Of ik nederzit of oprijs, Gij kent mij.
@@ -30,27 +30,23 @@ In die dagen sloeg koning Herodes de hand aan sommigen uit de gemeente, om hen t
 [Graduale]
 !Ps 44:17-18
 Gij zult hen aanstellen tot vorsten over heel de wereld. Zij zullen uw Naam gedenken, o Heer. 
-V. In plaats van uw vaderen worden u zonen geboren, daarom zullen de volkeren u prijzen. Alleluia, alleluia.
+V. In plaats van uw vaderen worden u zonen geboren, daarom zullen de volkeren u prijzen.
+Alleluia, alleluia.
 !Matt 16:18
 Gij zijt Petrus en op deze steenrots zal Ik mijn Kerk bouwen. Alleluia.
 
 [Evangelium]
-Vervolg ++ van het heilig Evangelie volgens Mattheüs
-!Matt 16:13-19
-In die tijd kwam Jezus in de omgeving van Caesarea Philippi; en Hij stelde aan zijn leerlingen de vraag: Wie zeggen de mensen, dat de Mensenzoon is? En zij gaven ten antwoord: Sommigen zeggen: Johannes de Doper; anderen: Elias; weer anderen: Jeremias of één van de profeten. Jezus vroeg hen: Maar gij, wie zegt gij, dat Ik ben? Simon Petrus antwoordde: Gij zijt de Christus, de Zoon van de levende God. Toen hernam Jezus en sprak tot hem: Zalig zijt gij, Simon, zoon van Jona; want niet vlees en bloed hebben u dit geopenbaard, maar mijn Vader, die in de hemel is. En Ik zeg u: gij zijt Petrus; en op deze steenrots zal Ik mijn Kerk bouwen, en de poorten der hel zullen Haar niet overweldigen. En aan u zal Ik de sleutels geven van het rijk der hemelen. En al wat gij zult binden op aarde, zal ook gebonden zijn in de hemel; en al wat gij zult ontbinden, zal ook ontbonden zijn in de hemel.
+@Commune/C4b
 
 [Offertorium]
-!Ps 44:17-18
-Gij zult hen tot vorsten aanstellen over heel de wereld. Zij zullen uw Naam gedenken, o Heer, van geslacht tot geslacht.
+@Sancti/02-24
 
 [Secreta]
 Mogen, Heer, de offergaven, die wij ter verheerlijking van uw Naam opdragen, vergezeld gaan van de gebeden van uw apostelen, opdat wij daardoor vergiffenis en steun mogen ontvangen.
 $Per Dominum
 
 [Communio]
-!Matt 16:18
-Gij zijt Petrus en op deze steenrots zal Ik mijn Kerk bouwen.
+@Commune/C4b
 
 [Postcommunio]
-Wil, o Heer, hen, die Gij verzadigt hebt met hemelse spijs, door de tussenkomst van uw apostelen voor alle tegenslag bewaren.
-$Per Dominum
+@Sancti/06-28r

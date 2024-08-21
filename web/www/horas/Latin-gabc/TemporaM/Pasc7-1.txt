@@ -20,7 +20,5 @@
 [Responsory3]
 @TemporaM/Pasc7-0
 
-[Capitulum Vespera]
-@Tempora/Pasc7-0
-_
+[Responsory Vespera]
 R.br. {gabc:Tempora/Pascha/rb--spiritus_paraclitus_tonus_simplex_pro_diebus_infra_octavam--solesmes_1934}

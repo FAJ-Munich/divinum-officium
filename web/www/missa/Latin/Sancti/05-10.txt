@@ -10,12 +10,10 @@ Sancti Antoníni, Dómine, Confessóris tui atque Pontíficis méritis adjuvému
 $Per Dominum
 
 [Secreta]
-Sancti tui, quǽsumus, Dómine, nos úbique lætíficant: ut, dum eórum mérita recólimus, patrocínia sentiámus.
-$Per Dominum.
+@Commune/C4
 
 [Postcommunio]
-Præsta, quǽsumus, omnípotens Deus: ut, de percéptis munéribus grátias exhibéntes, intercedénte beáto Antoníno Confessóre tuo atque Pontífice, benefícia potióra sumámus.
-$Per Dominum
+@Commune/C4::s/N\./Antoníno/
 
 [Commemoratio Oratio]
 !Pro Ss. Gordiano et Epimacho Martyribus

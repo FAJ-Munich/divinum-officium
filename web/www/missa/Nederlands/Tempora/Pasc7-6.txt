@@ -33,12 +33,12 @@ $Deo gratias
 
 [GradualeL1]
 Alleluia.
-!Joannes 6:64
+!Joann 6:64
 Het is de Geest, die levend maakt. Het vlees draagt daartoe niets bij.
 
 [GradualeL1](missa brevior)
 Alleluia.
-!Joannes 6:64
+!Joann 6:64
 Het is de Geest, die levend maakt. Het vlees draagt daartoe niets bij.
 _
 #Gloria
@@ -71,7 +71,7 @@ $Deo gratias
 
 [GradualeL3]
 Alleluia.
-!Acts 2:1
+!Act 2:1
 Toen de Pinksterdagen aangebroken waren, zaten allen bij elkaar.
 
 [OratioL3]
@@ -107,8 +107,7 @@ _
 v. Eer aan God in den hoge, en op aarde vrede aan de mensen van goede wil. Wij loven U. Wij zegenen U. Wij aanbidden U. Wij verheerlijken U. Wij danken U om uw grote heerlijkheid. Heer, God, Koning in de hemel, God, almachtige Vader. Heer, enige Zoon, Jezus Christus. Heer God, Lam Gods, Zoon van de Vader. Gij, die de zonden van de wereld wegneemt, ontferm U over ons. Gij, die de zonden van de wereld wegneemt, aanvaard ons gebed. Gij, die zetelt aan de rechterhand van de Vader, ontferm U over ons. Want Gij alleen zijt heilig, Gij alleen de Heer, Gij alleen de Allerhoogste, Jezus Christus, met de Heilige Geest + in de heerlijkheid van God de Vader. Amen.
 
 [OratioL5]
-God, Gij hebt voor de drie jongelingen de vlammen van het vuur getemperd. Zorg in uw goedheid, dat de vlam der ondeugden ons, uw dienaren, niet vertere.
-$Per Dominum.
+@Tempora/093-6
 
 [Lectio]
 Lezing uit de Brief van de heilige Apostel Paulus aan de Romeinen
@@ -128,7 +127,7 @@ V. (Hier maakt men een kniebuiging.) Kom, Heilige Geest, vervul de harten van uw
 @Tempora/Pasc7-0:Sequentia
 
 [Sequentia](missa longior)
-@Tempora/Pasc7-0:Sequentia::s/Allelúja.//
+@Tempora/Pasc7-0:Sequentia::s/Alleluia.//
 
 [Evangelium]
 Vervolg ++ van het heilig Evangelie volgens Lucas
@@ -136,15 +135,14 @@ Vervolg ++ van het heilig Evangelie volgens Lucas
 In die tijd verliet Jezus de synagoge en ging het huis van Simon binnen. De schoonmoeder van Simon had hoge koorts. En men riep zijn hulp in voor haar. Toen boog Hij zich over haar heen en gaf bevel aan de koorts, en deze verliet haar. En onmiddellijk stond zij op en bediende hen. En toen de zon was ondergegaan, brachten allen hun zieken bij Hem, die aan verschillende kwalen leden. En aan ieder afzonderlijk legde Hij de handen op en genas hen. Van velen gingen er duivelen uit, terwijl zij riepen: Gij zijt de Zoon van God. Maar onder bedreiging belette Hij hen om zo te spreken, omdat zij wisten, dat Hij de Christus was. En toen het dag werd, ging Hij de stad uit en begaf zich naar een eenzame plaats. Maar de menigte zocht Hem. En toen zij Hem gevonden hadden, wilden zij Hem tegenhouden, dat Hij niet van hen zou heengaan. Maar Hij zeide hun: Ook aan de andere steden moet Ik de blijde boodschap brengen van het rijk Gods; want daartoe ben Ik gezonden. En Hij predikte in de synagogen van Galilea.
 
 [Offertorium]
-!Ps 87:2-3.
-Heer, mijn God en mijn heil, dag en nacht roep ik tot U. Moge mijn gebed voor uw aanschijn treden, o Heer, alleluia.
+@Tempora/093-6
 
 [Secreta]
 Opdat ons vasten U welgevallig zij, o Heer, vragen wij U, laat ons U een hart mogen aanbieden, gezuiverd door deze geheimvolle gaven.
 $Per Dominum.
 
 [Communio]
-!Joannes 3:8
+!Joann 3:8
 De Geest waait waar Hij wil en gij hoort zijn geluid, alleluia, alleluia, maar gij weet niet vanwaar Hij komt, of waarheen Hij gaat, alleluia, alleluia, alleluia.
 
 [Postcommunio]

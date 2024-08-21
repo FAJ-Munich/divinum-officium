@@ -5,12 +5,6 @@ S. Praxedis Virginis;;Simplex;;1.1;;vide C7a
 vide C6;
 Gloria
 
-[Oratio]
-Graciously hear us, O God our Saviour, that, as we rejoice in the festival of~
-blessed Praxedes, Your Virgin, so may we be nourished by the food of her~
-heavenly teaching as to be enlightened by the fervor of her dedicated holiness.
-$Per Dominum
-
 [Lectio]
 A reading from the Epistle of blessed Paul the Apostle to the Corinthians.
 !1 Cor 7:25-34
@@ -40,9 +34,3 @@ V. Therefore God, your God, has anointed you with the oil of gladness. Alleluia,
 alleluia.
 !Ps 44:5
 V. In your splendor and your beauty ride on triumphant, and reign. Alleluia.
-
-[Communio]
-!Matth 13:45-46
-The kingdom of heaven is like a merchant in search of fine pearls.~
-When he finds a single pearl of great price, he goes and sells all~
-that he has and buys it.

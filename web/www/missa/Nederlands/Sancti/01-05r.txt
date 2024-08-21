@@ -2,11 +2,10 @@
 Die Quinta Januarii;;Feria;;1.2;;vide Sancti/01-01
 
 [Rule]
-CPapaM=Telésphorum;
+CPapaM=Telesforus;
 vide Sancti/01-01
 Gloria
 Prefatio=Nat 
-
 
 [Commemoratio Oratio]
 !Pro S. Telesphori Papæ et Mart.

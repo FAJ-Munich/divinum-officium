@@ -6,10 +6,13 @@ vide C6a;
 Gloria
 
 [Oratio]
-@Commune/C6a:Oratio:s/N\./Dorothea/
+!Pro S. Dorotheæ Virg. et Mart.
+@Commune/C6a:Oratio1s/N\./Dorothea/
 
 [Secreta]
-@Commune/C6a:Secreta:s/N\./Dorothea/
+!Pro S. Dorotheæ Virg. et Mart.
+@Commune/C6a:Secreta1:s/N\./Dorothea/
 
 [Postcommunio]
-@Commune/C6a:Postcommunio:s/N\./Dorothea/
+!Pro S. Dorotheæ Virg. et Mart.
+@Commune/C6a:Postcommunio1:s/N\./Dorothea/

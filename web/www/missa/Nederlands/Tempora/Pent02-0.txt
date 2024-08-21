@@ -25,18 +25,18 @@ $Per Dominum
 
 [Commemoratio Oratio]
 !Pro Octava SSmi. Corporis Christi
-God, Gij hebt ons in het wonderbaar Sacrament een gedachtenis van uw lijden nagelaten. Wij vragen U, doe ons zo de heilige geheimen van uw Lichaam en Bloed vereren, dat wij de uitwerking van uw verlossing altijd in ons mogen ervaren.
-$Qui vivis
+@Tempora/Pent01-4:Oratio
 
 [Lectio]
 Lezing uit de eerste Brief van de heilige Apostel Johannes
-!1 John 3:13-18
+!1 Joannes 3:13-18
 Veelgeliefden, wilt u niet verwonderen, als de wereld u haat. Wij weten, dat wij zijn overgebracht van de dood naar het leven, daar wij immers onze broeders beminnen. Wie geen liefde heeft, blijft nog in de dood. Ieder, die zijn broeder haat, is een moordenaar. En gij weet, dat geen moordenaar eeuwig leven in zich draagt. Hieraan hebben wij de liefde van God leren kennen, dat Hij zijn leven voor ons gegeven heeft; ook wij moeten ons leven geven voor onze broeders. Wie de goederen dezer wereld bezit, en zijn broeder gebrek ziet lijden en niettemin zijn hart voor hem sluit, hoe zou in hem de liefde Gods aanwezig zijn? Mijn kinderkens, laat ons niet beminnen met woorden of met de tong, maar metterdaad en in waarheid.
 
 [Graduale]
 !Ps 119:1-2
 In mijn kwelling riep ik tot de Heer, en Hij heeft mij verhoord.
-V. Bevrijd mij, Heer, van boze lippen en van de valse tong. Alleluia, alleluia.
+V. Bevrijd mij, Heer, van boze lippen en van de valse tong.
+Alleluia, alleluia.
 !Ps 7:2
 Heer, mijn God, op U vertrouw ik. Verlos en bevrijd mij van al mijn vervolgers. Alleluia.
 
@@ -55,8 +55,7 @@ $Per Dominum.
 
 [Commemoratio Secreta]
 !Pro Octava Ssmi Corporis Christi
-Wij vragen U, Heer, schenk uw Kerk genadig de gaven van eenheid en vrede, die door deze offergaven op geheimzinnige wijze worden betekend.
-$Per Dominum
+@Tempora/Pent01-4:Secreta
 
 [Communio]
 !Ps 12:6
@@ -68,5 +67,4 @@ $Per Dominum
 
 [Commemoratio Postcommunio]
 !Pro Octava Ssmi Corporis Christi
-Wij vragen U, Heer, doe ons in volle omvang het bezit van uw godheid in de eeuwigheid genieten, waarvan het ontvangen van uw kostbaar Lichaam en Bloed in de tijd een voorafbeelding is.
-$Qui vivis
+@Tempora/Pent01-4:Postcommunio

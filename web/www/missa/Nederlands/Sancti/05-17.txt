@@ -4,18 +4,27 @@ S. Paschalis Baylon Confessoris;;Duplex;;3;;vide C5
 [Rule]
 Gloria
 
+[Introitus]
+@Commune/C4c
+
 [Oratio]
 God, Gij hebt uw heilige belijder Paschalis gesierd met een wonderbare liefde voor de heilige geheimen van uw Lichaam en Bloed. Laat in uw goedheid ook ons uit dit goddelijk gastmaal een even geestelijke voldoening smaken als hij.
 $Qui vivis
 
+[Lectio]
+@Commune/C5
+
+[Evangelium]
+@Commune/C4c
+
+[Offertorium]
+@Commune/C2c
+
 [Secreta]
-Wij brengen U, Heer, deze offerande van lof op het gedachtenisfeest van uw heiligen, en vertrouwen, dat wij daardoor bevrijd worden van alle kwaad, nu en in de toekomst.
-$Per Dominum
+@Commune/C5
 
 [Communio]
-!Matt 24:46-47
-Gelukkig de knecht, die de Heer bij zijn komst wakend vindt. Voorwaar, Ik zeg u: Hij zal hem aanstellen over al zijn goederen. (Alleluia.)
+@Commune/C4d
 
 [Postcommunio]
-Verkwikt door hemelse spijs en drank, bidden wij U, onze God, nederig, dat wij gesterkt mogen worden door de gebeden van hem, op wiens gedenkdag wij ze nuttigen.
-$Per Dominum
+@Commune/C5

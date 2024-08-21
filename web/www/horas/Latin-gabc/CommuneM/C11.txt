@@ -1,8 +1,5 @@
 @Commune/C11
 
-[Capitulum Vespera]
-@CommuneM/C10
-
 [Responsory Vespera]
 @CommuneM/C10
 
@@ -106,17 +103,14 @@ R. Intercéde pro nobis ad Dóminum Deum nostrum.
 _
 @Commune/C10:Responsory Tertia:s/.*_.//s
 
-[Capitulum Laudes]
-@CommuneM/C10:Capitulum Vespera
-
 [Hymnus Laudes]
 @Commune/C10:HymnusM Laudes
 
-[Responsory Tertia]
+[Responsory TertiaM]
 @CommuneM/C10:Responsory Tertia
 
-[Responsory Sexta]
+[Responsory SextaM]
 @CommuneM/C10:Responsory Sexta
 
-[Responsory Nona]
+[Responsory NonaM]
 @CommuneM/C10:Responsory Nona

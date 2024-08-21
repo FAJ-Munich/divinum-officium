@@ -12,6 +12,9 @@ Gloria
 Dómine Jesu, qui beáto Bernardíno Confessóri tuo exímium sancti nóminis tui amórem tribuísti: ejus, quǽsumus, méritis et intercessióne, spíritum nobis tuæ dilectiónis benígnus infúnde:
 $Qui vivis
 
+[Lectio]
+@Commune/C5
+
 [Graduale]
 !Ps 91:13; 91:14
 Justus ut palma florébit: sicut cedrus Líbani multiplicábitur in domo Dómini.
@@ -21,7 +24,7 @@ Ad annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem. Allel�
 Beátus vir, qui suffert tentatiónem: quóniam, cum probátus fúerit, accípiet corónam vitæ. Allelúja.
 
 [GradualeP]
-Allelúja, allelúja
+Allelúja, allelúja.
 !Jas 1:1-2
 Beátus vir, qui suffert tentatiónem: quóniam, cum probátus fúerit, accípiet corónam vitæ. Allelúja.
 !Eccli. 45:9
@@ -34,8 +37,10 @@ Amávit eum Dóminus et ornávit eum: stolam glóriæ índuit eum. Allelúja.
 @Commune/C2c
 
 [Secreta]
-Laudis tibi, Dómine, hóstias immolámus in tuórum commemoratióne Sanctórum: quibus nos et præséntibus éxui malis confídimus et futúris.
-$Per Dominum
+@Commune/C5
 
 [Communio]
 @Commune/C4d
+
+[Postcommunio]
+@Commune/C5

@@ -192,6 +192,17 @@ $Per Dominum.
 !Phil 2:8-9
 v. Humiliávit semetípsum factus obédiens usque ad mortem, mortem autem Crucis. Propter quod et Deus exaltávit illum, et donávit illi nomen, quod est super omne nomen.
 
+[Responsory Tertia]
+@:Ant Matutinum:4 s/V./R.br./ s/\, al.*/./
+@:Ant Matutinum:4 s/V./R./ s/\, al.*/./
+@:Ant Matutinum:5 s/R./V./ s/\, al.*/./
+@Psalterium/Prayers:Alleluia Duplex: s/^/R. /
+&Gloria
+@:Ant Matutinum:4 s/V./R./ s/\, al.*/./
+_
+@:Ant Matutinum:9
+@:Ant Matutinum:10
+
 [Capitulum Sexta]
 !Gal 6:14
 v. Mihi autem absit gloriári, nisi in Cruce Dómini nostri Jesu Christi: per quem mihi mundus crucifíxus est, et ego mundo.

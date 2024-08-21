@@ -10,7 +10,7 @@ Credo
 Prefatio=Baptista
 
 [Introitus]
-!Isa 49:1; 49:2
+!Is 49:1; 49:2
 v. Vanaf de moederschoot heeft de Heer mijn naam genoemd. Hij maakte mijn mond een scherp zwaard. In de dekking van zijn hand beschermde Hij mij, en scherpte mij tot een uitmuntende pijl.
 !Ps 91:2
 Wat is het heerlijk, de Heer te loven, uw Naam te bezingen, o Allerhoogste.
@@ -29,7 +29,8 @@ Luistert, gij, eilanden, en geeft acht, gij, volken in de verte. De Heer heeft m
 [Graduale]
 !Jer 1:5; 1:9
 Voordat Ik u in de schoot van uw moeder vormde, kende Ik u, en voor gij uit uw moeder geboren waart, heb Ik u geheiligd. 
-V. De Heer strekte zijn hand uit, raakte mijn mond, en sprak tot mij. Alleluia, alleluia.
+V. De Heer strekte zijn hand uit, raakte mijn mond, en sprak tot mij.
+Alleluia, alleluia.
 !Luc 1:76
 Gij, knaap, zult profeet van de Allerhoogste genoemd worden. Ge zult de Heer vooruitgaan om zijn weg te banen. Alleluia.
 
@@ -39,8 +40,7 @@ Vervolg ++ van het heilig Evangelie volgens Lucas
 Voor Elisabeth brak de tijd aan, dat zij moeder zou worden; en zij schonk het leven aan een zoon. En haar buren en verwanten vernamen, dat de Heer haar in hoge mate begenadigd had, en zij verheugden zich met haar. En het geschiedde op de achtste dag, dat men het kind kwam besnijden; en men wilde het de naam geven van zijn vader, Zacharias. Maar zijn moeder nam het woord en zeide: Neen, hij moet Johannes heten. Doch zij antwoordden haar: Er is niemand in uw familie, die zo heet. Toen vroeg men met gebaren aan zijn vader, hoe hij hem wilde noemen. En deze vroeg om een schrijfbordje en schreef: Johannes is zijn naam. En allen verwonderden zich. Maar op hetzelfde ogenblik ging zijn mond en zijn tong weer los, en hij sprak en verheerlijkte God. En al hun buren werden door vrees bevangen; en door geheel het bergland van Judea werden al deze dingen bekend. En allen, die het hoorden, dachten er over na en zeiden: Wat zal er uit dit kind nog worden? Inderdaad, de hand des Heren was met hem. En zijn vader Zacharias werd vervuld met de Heilige Geest, en hij sprak dit profetisch woord: Gezegend zij de Heer, de God van Israël, want Hij heeft zijn volk bezocht en het verlossing gebracht.
 
 [Offertorium]
-!Ps 91:13
-De rechtvaardige zal als een palmboom bloeien, als een ceder van de Libanon gedijen.
+@Commune/C4a
 
 [Secreta]
 Wij leggen, o Heer, onze gaven op uw altaren, nu wij met passend eerbetoon de geboorte vieren van hem, die aankondigde, dat de Verlosser van de wereld zou komen, en Hem aanwees, toen Hij gekomen was: onze Heer Jezus Christus, uw Zoon.

@@ -1,0 +1,35 @@
+[Rank]
+S. Elisabeth Viduæ;;Duplex;;3;;vide C7a
+
+[Rule]
+CPapaM=Pontianus;
+vide C7a;
+Gloria
+
+[Oratio]
+Verlicht, God van erbarmen, de harten van uw gelovigen en doe ons door de roemrijke voorspraak van de heilige Elizabeth aardse voordelen versmaden en altijd uw hemelse troost genieten.
+$Per Dominum
+
+[Secreta]
+@Commune/C6b
+
+[Postcommunio]
+@Commune/C6b
+
+[Commemoratio Oratio]
+!Pro S. Pontiano Papa et Martyre
+@Commune/C2c:Oratio:s/N\./Pontianus/
+(sed communi Summorum Pontificum dicitur)
+@Commune/C4b:Oratio
+
+[Commemoratio Secreta]
+!Pro S. Pontiano Papa et Martyre
+@Commune/C2c:Secreta:s/N\./Pontianus/
+(sed communi Summorum Pontificum dicitur)
+@Commune/C4b:Secreta
+
+[Commemoratio Postcommunio]
+!Pro S. Pontiano Papa et Martyre
+@Commune/C2a:Postcommunio:s/N\./Pontianus/
+(sed communi Summorum Pontificum dicitur)
+@Commune/C4b:Postcommunio

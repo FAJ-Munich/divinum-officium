@@ -22,9 +22,7 @@ God, de onschuldige Martelaren hebben op deze dag uw lof verkondigd niet met woo
 $Per Dominum
 
 [Commemoratio Oratio]
-!Pro Octava Nativitatis:
-Wij vragen U, almachtige God, laat de nieuwe geboorte naar het vlees van uw enige Zoon de bevrijding inluiden voor ons, die in de oude slavernij nog onder het juk van de zonde gevangen zijn.
-$Per eundem
+@Sancti/12-26
 
 [Lectio]
 Lezing uit het Boek der Openbaring van Johannes
@@ -34,7 +32,8 @@ In die dagen zag ik het Lam staan op de berg Sion en met Hem honderd vier en vee
 [Graduale]
 !Ps 123:7-8
 Als een mus zijn wij ontsnapt aan de strik der vogelaars.
-V. De strik is verbroken en wij zijn bevrijd! Onze hulp is in de Naam des Heren, die hemel en aarde gemaakt heeft. Alleluia, alleluia.
+V. De strik is verbroken en wij zijn bevrijd! Onze hulp is in de Naam des Heren, die hemel en aarde gemaakt heeft.
+Alleluia, alleluia.
 !Ps 112:1
 Looft de Heer, gij, zijn dienaren, looft de Naam des Heren. Alleluia.
 
@@ -57,17 +56,14 @@ Vervolg ++ van het heilig Evangelie volgens Mattheüs
 In die tijd verscheen er aan Jozef in de slaap een engel des Heren en deze sprak: Sta op, en neem het Kind en zijn moeder, en vlucht naar Egypte, en blijf daar, totdat ik het u zal zeggen. Want Herodes gaat het Kind zoeken, om Het te doden. Toen stond hij op in de nacht, nam het Kind en zijn moeder en trok naar Egypte. En daar bleef hij tot de dood van Herodes. Zo moest vervuld worden, wat de Heer door de profeet gesproken had: "Uit Egypte heb Ik mijn Zoon geroepen." Toen Herodes nu zag, dat hij door de Wijzen misleid was, werd hij ten zeerste vertoornd, en hij liet al de knaapjes ombrengen, die er te Bethlehem en heel de omtrek waren van twee jaar en daaronder, overeenkomstig de tijd, die hij van de Wijzen had weten te achterhalen. Toen ging in vervulling, wat er gesproken was door Jeremias de profeet: "In Rama werd een stem gehoord, een groot geween en luid gekerm: Rachel, die om haar kinderen schreit, en zich niet wil laten troosten, omdat zij er niet meer zijn."
 
 [Offertorium]
-!Ps 123:7
-Als een mus zijn wij ontsnapt aan de strik der vogelaars. De strik is verbroken en wij zijn bevrijd!
+@sancti/01-19
 
 [Secreta]
 Laat ons, Heer, de liefdevolle voorbede van uw heiligen niet ontbreken, opdat hij onze gaven bij U aanbevele en ons voortdurend vergeving verwerve.
 $Per Dominum
 
 [Commemoratio Secreta]
-!Pro Octava Nativitatis:
-Heilig, Heer, de offergaven door de nieuwe geboorte van uw enige Zoon en zuiver ons van de smetten van onze zonden.
-$Per eundem
+@Sancti/12-26
 
 [Communio]
 !Matt 2:18.
@@ -78,6 +74,4 @@ Wij hebben, Heer, de gewijde gaven genuttigd; wij vragen U, zorg dat zij ons doo
 $Per Dominum
 
 [Commemoratio Postcommunio]
-!Pro Octava Nativitatis:
-Wij vragen U, almachtige God, laat de Redder der wereld, die vandaag geboren is en in ons het goddelijk leven heeft verwekt, ons zo ook de onsterfeljkheid schenken.
-$Qui tecum
+@Sancti/12-26

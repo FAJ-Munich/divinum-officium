@@ -4,7 +4,6 @@
 Psalmi Dominica
 Antiphonas horas
 12 lectiones
-Doxology=Pasc
 
 [AntM Matutinum]
 Terra * trémuit et quiévit, † dum exsúrgeret in judício Deus, allelúja.;;29
@@ -17,16 +16,16 @@ Nolíte expavéscere: * Jesum quǽritis Nazarénum, crucifíxum: surréxit, non 
 ;;15
 ;;23
 ;;27
-@Psalterium/Psalmi matutinum:Pascm0:7-8
+@Psalterium/Psalmi matutinum:Paschm0:7-8
 @:AntM Matutinum:1
 ;;63
 ;;65
 ;;75
 ;;87
 ;;107
-@Psalterium/Psalmi matutinum:Pascm0:15-16
+@Psalterium/Psalmi matutinum:Paschm0:15-16
 @:AntM Matutinum:2
-@Psalterium/Psalmi matutinum:Pascm0:18-19
+@Psalterium/Psalmi matutinum:Paschm0:18-19
 
 [Lectio1]
 @Sancti/01-03::1-6 s/1-5/2-4/ s/1.*Absit. /2 /s
@@ -100,15 +99,13 @@ Assúmpsit, quod detérius erat, ut det, quod pæstántius est: mendícus factus
 [Responsory12]
 @Tempora/Pasc0-5:Responsory2
 
-[Capitulum Laudes]
-@:Capitulum Tertia
-_
+[Responsory Laudes]
 @Psalterium/Minor Special:Responsory Pasch Tertia:1-6
 
 [Versum 2]
 {initial-style:0;%%(c3) V/. Hæc(h) di(h)es,(h) quam(h) fé(h)cit(h) Do(hi)mi(h)nus,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)  R/. Ex(h)sul(h)té(h)mus(h) et(h) læ(h)té(h)mur(h) in(h) e(hi)a,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
-[Capitulum Tertia]
+[Capitulum Laudes]
 !1 Cor 5:7
 v. Fratres: Expurgáte vetus ferméntum, ut sitis nova conspérsio, sicut estis ázymi. Etenim Pascha nostrum immolátus est Christus.
 $Deo gratias
@@ -119,10 +116,8 @@ v. Itaque epulémur: non in ferménto véteri, neque in ferménto malítiæ et n
 $Deo gratias
 
 [Capitulum Nona]
-@Psalterium/Prima Special:Pasc
+@Psalterium/Prima Special:Pasch
 $Deo gratias
 
-[Capitulum Vespera]
-@:Capitulum Tertia
-_
+[Responsory Vespera]
 @Psalterium/Minor Special:Responsory Pasch Tertia:1-6

@@ -26,7 +26,8 @@ Dit zegt de Heer: Breek voor de behoeftige uw brood, en breng armen en zwervers 
 !Prov 5:16
 Laat uw bronnen over de rand stromen, uw watergolven door de straten.
 !Ps 111:5-6
-Gelukkig de mens, die zich ontfermt en te leen geeft, die zijn woorden wikt in het gericht: hij zal niet wankelen in eeuwigheid. Alleluia, alleluia.
+Gelukkig de mens, die zich ontfermt en te leen geeft, die zijn woorden wikt in het gericht: hij zal niet wankelen in eeuwigheid.
+Alleluia, alleluia.
 !Ps 111:9
 Hij deelt uit, geeft aan de armen, zijn gerechtigheid duurt eeuwig voort. Alleluia.
 
@@ -59,16 +60,13 @@ $Per Dominum
 
 [Commemoratio Oratio]
 !S. Margaritæ Virg. et Mart.
-Wij vragen U, Heer, laat de heilige maagd en martelares Margarita vergiffenis voor ons vragen, want steeds was zij U welgevallig, zowel door de verdienste van haar kuisheid, als door het getuigenis van uw kracht.
-$Per Dominum
+@Commune/C6a:Oratio1:s/N\./Margarita/
 
 [Commemoratio Secreta]
 !S. Margaritæ Virg. et Mart.
-Aanvaard genadig, o Heer, de offergaven, die wij U wijden met de verdiensten van uw heilige maagd en martelares Margarita, en doe ze ons strekken tot een blijvende steun.
-$Per Dominum
+@Commune/C6a:Secreta1:s/N\./Margarita/
 
 [Commemoratio Postcommunio]
 !S. Margaritæ Virg. et Mart.
-Nu wij ons aan uw rijke, goddelijke gaven verzadigd hebben, vragen wij U, Heer, onze God, dat wij door de voorspraak van uw heilige maagd en martelares Margarita steeds in de gemeenschap ervan mogen leven.
-$Per Dominum
+@Commune/C6a:Postcommunio1:s/N\./Margarita/
 

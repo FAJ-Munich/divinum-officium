@@ -1,18 +1,18 @@
 [Prima]
 Dominica = Alléluia, chantez au Seigneur * qu’éternelle est sa miséricorde, alléluia, alléluia.
-117, 118(1-16), 118(17-32)
+117,118(1-16),118(17-32)
 Feria II = L’homme aux mains innocentes * et au coeur pur montera à la montagne du Seigneur.
-23, 18(2-7), 18(8-15), [46]
+23,18(2-7),18(8-15),[46]
 Feria III = Mon Dieu, * en vous j’ai confiance, je n’en rougirai pas.
-24(1-7), 24(8-14), 24(15-22), [95]
+24(1-7),24(8-14),24(15-22),[95]
 Feria IV = Votre miséricorde est devant mes yeux, * Seigneur, et je me suis complu dans votre vérité.
-25, 51, 52, [96]
+25,51,52,[96]
 Feria V = Dans un lieu de pâturage, * voilà où le Seigneur m’a placé.
-22, 71(2-8), 71(9-19), [97]
+22,71(2-8),71(9-19),[97]
 Feria VI = Ne vous éloignez pas de moi, Seigneur, * car la tribulation est tout proche et il n’est personne qui m’aide.
-21(2-12), 21(13-23), 21(24-32), [98]
+21(2-12),21(13-23),21(24-32),[98]
 Sabbato = Levez-vous, * Seigneur, qui jugez la terre et donnez rétribution aux orgueilleux.
-93(1-11), 93(12-23), 107, [149]
+93(1-11),93(12-23),107,[149]
 
 [Tertia]
 Dominica = Alléluia, * conduisez-moi, Seigneur, dans la voie de vos commandements, alléluia, alléluia.
@@ -206,6 +206,3 @@ Nona Dominica=Allelúia, * allelúia, allelúia (allelúia);;118(81-88), 118(89-
 Nona Feria II=Que Votre main s'étende pour me sauver, * car j'ai choisi Vos commandements.;;118(153-160), 118(161-168), 118(169-176)
 Nona Feria=Heureux tous ceux * qui craignent le Seigneur,.;;125, 126, 127
 Completorium=;;4,90,133
-
-[Ant Nunc dimittis]
-Sauvez-nous, * Seigneur, durant la veille, gardez-nous durant le sommeil ; afin que nous puissions veiller avec Jésus-Christ, et que nous reposions dans la paix.

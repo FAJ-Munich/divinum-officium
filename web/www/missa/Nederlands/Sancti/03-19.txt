@@ -10,19 +10,14 @@ Credo
 Prefatio=Joseph=Festivitáte;
 
 [Introitus]
-!Ps 91:13-14
-v. Als een palmboom zal de rechtvaardige bloeien, als een ceder van de Libanon gedijen, geplant in het huis des Heren, in de voorhoven van het huis van onze God.
-!Ps 91:2
-Heerlijk is het de Heer te loven, uw Naam te bezingen, o Allerhoogste.
-&Gloria
-v. Als een palmboom zal de rechtvaardige bloeien, als een ceder van de Libanon gedijen, geplant in het huis des Heren, in de voorhoven van het huis van onze God.
+@Commune/C5b
 
 [Oratio]
 Wij vragen U, Heer, dat wij door de verdiensten van de bruidegom van uw allerheiligste Moeder geholpen mogen worden, opdat ons door zijn voorspraak wordt gegeven, wat buiten het bereik ligt van onze krachten.
 $Qui vivis
 
 [Lectio]
-@Commune/C4c:Lectio
+@Commune/C4c
 
 [Graduale]
 !Ps 20:4-5
@@ -48,8 +43,7 @@ Vervolg ++ van het heilig Evangelie volgens Mattheüs
 Toen Maria, de Moeder van Jezus, aan Jozef ten huwelijk was gegeven, bemerkte men, voordat zij gingen samenwonen, dat Zij ontvangen had van de Heilige Geest. Jozef echter, haar man, was rechtschapen, en wilde haar niet in opspraak brengen; daarom dacht hij er over om in stilte van haar te scheiden. Maar, terwijl hij met die gedachte omging, verscheen hem opeens in een droom een engel des Heren, die hem zeide: Jozef, zoon van David, vrees niet Maria, uw vrouw, tot u te nemen; want wat in Haar geboren is, is het werk van de Heilige Geest. En zij zal een zoon ter wereld brengen, en gij zult Hem de Naam Jezus geven; want Hij is het, die zijn volk verlossen zal van hun zonden. 
 
 [Offertorium]
-!Ps 88:25
-Mijn trouw en barmhartigheid zullen met hem zijn en in mijn Naam zal zijn hoorn zich verheffen.
+@Commune/C2c
 
 [Secreta]
 Wij bieden U, Heer, onze verschuldigde eredienst en smeken U nederig uw gaven in ons te beschermen door de hulp van de heilige Jozef, de bruidegom van de Moeder van uw Zoon Jezus Christus, op wiens plechtig feest wij U ons offer van lof opdragen.

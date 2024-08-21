@@ -10,12 +10,7 @@ Suffragium=Sanctorum;Vivis;;
 Super popul
 
 [Introitus]
-!Ps 104:3-4
-v. Verheugd zij het hart van wie de Heer zoeken. Zoekt de Heer en gij zult sterk staan. Zoekt immer zijn aanschijn.
-!Ps 104:1
-Looft de Heer en wilt zijn Naam aanroepen. Maakt zijn daden bekend aan de volkeren.
-&Gloria
-v. Verheugd zij het hart van wie de Heer zoeken. Zoekt de Heer en gij zult sterk staan. Zoekt immer zijn aanschijn.
+@Tempora/093-5
 
 [Oratio]
 Wij vragen U, almachtige God, dat wij, die ons in plechtig vasten kastijden, juist in deze heilige godsvrucht onze vreugde mogen vinden, opdat wij door onze aardse verlangens te matigen, gemakkelijker tot het hemelse opstijgen.
@@ -32,9 +27,7 @@ Heer, denk aan uw verbond en vergeet het leven van uw armen niet voor immer.
 V. Rijs dan op, o Heer, en beslecht uw zaak. Gedenk de smaad van uw dienaren.
 
 [Evangelium]
-Vervolg ++ van het heilig Evangelie volgens Lucas
-!Luc 7:11-16
-In die tijd ging Jezus naar een stad, die Naïm heette; en Hij was vergezeld van zijn leerlingen en een talrijke menigte. Toen Hij nu de stadspoort naderde, werd er juist een dode uitgedragen, een enige zoon van zijn moeder, en deze was weduwe; en een grote menigte uit de stad was bij haar. Toen de Heer haar zag, kreeg Hij innig medelijden met haar en zeide tot haar: Ween niet! Dan kwam Hij naderbij en raakte de lijkbaar aan. [De dragers bleven stilstaan.] Vervolgens sprak Hij: Jongeling, Ik zeg U: sta op! En de dode ging overeind zitten en begon te spreken. En Hij gaf hem terug aan zijn moeder. En vrees greep allen aan, en zij verheerlijkten God en zeiden: Een groot profeet is is onder ons opgestaan, en: God heeft zijn volk bezocht.
+@Tempora/Pent15-0
 
 [Offertorium]
 !Ps 69:2, 3, 4
@@ -45,8 +38,7 @@ Reinig ons, goedertieren God, opdat de gebeden van uw Kerk, waarmee wij onze lie
 $Per Dominum
 
 [Communio]
-!Ps 70:16-17, 18
-Heer, uw gerechtigheid, de uwe alleen, wil ik gedenken. O God, gij hebt mij onderwezen vanaf mijn jeugd. Nu ik oud ben en grijs, verlaat mij toch niet, o God.
+@Tempora/Pent16-0
 
 [Postcommunio]
 Wij vragen U, Heer, duld niet, dat de hemelse gaven, die wij ontvangen en die Gij voor uw gelovigen als geneesmiddel hebt bedoeld, ons ten oordeel strekken.

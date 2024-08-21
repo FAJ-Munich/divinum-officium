@@ -6,7 +6,7 @@ vide C3;
 Gloria
 
 [Introitus]
-!Ps 33:18.
+!Ps 33:18
 v. Clamavérunt justi, et Dóminus exaudívit eos: et ex ómnibus tribulatiónibus~
 eórum liberávit eos.
 !Ps 33:2
@@ -21,9 +21,7 @@ natalítia cólere: da nobis in ætérna beatitúdine de eórum societáte gaud�
 $Per Dominum
 
 [Lectio]
-Léctio Epístolæ beáti Pauli Apóstoli ad Hebræos.
-!Hebr 11:33-39
-Fratres: Sancti per fidem vicérunt regna, operáti sunt justítiam, adépti sunt repromissiónes, obturavérunt ora leónum, exstinxérunt ímpetum ignis, effugérunt áciem gládii, convaluérunt de infirmitáte, fortes facti sunt in bello, castra vertérunt exterórum: accepérunt mulíeres de resurrectióne mórtuos suos: álii autem disténti sunt, non suscipiéntes redemptiónem, ut meliórem invenírent resurrectiónem: álii vero ludíbria et vérbera expérti, ínsuper et víncula et cárceres: lapidáti sunt, secti sunt, tentári sunt, in occisióne gládii mórtui sunt: circuiérunt in melótis, in péllibus caprínis, egéntes, angustiáti, afflicti: quibus dignus non erat mundus: in solitudínibus errántes, in móntibus et spelúncis et in cavérnis terræ. Et hi omnes testimónio fídei probáti, invénti sunt in Christo Jesu, Dómino nostro.
+@Sancti/01-20
 
 [Graduale]
 @Sancti/06-26
@@ -32,16 +30,13 @@ Fratres: Sancti per fidem vicérunt regna, operáti sunt justítiam, adépti sun
 @Commune/C3b
 
 [Offertorium]
-!Ps 31:11
-Lætámini in Dómino et exsultáte, justi: et gloriámini, omnes recti corde.
+@Commune/C3pp
 
 [Secreta]
-@Sancti/01-22
+@Commune/C3a
 
 [Communio]
 @Sancti/03-10
 
 [Postcommunio]
-Præsta nobis, quǽsumus, Dómine: intercedéntibus sanctis Martýribus tuis~
-Symphorósa et fíliis ejus; ut, quod ore contíngimus, pura mente capiámus.
-$Per Dominum
+@Commune/C3a:Postcommunio:s/N\. et N\./Symphorósa et fíliis ejus/

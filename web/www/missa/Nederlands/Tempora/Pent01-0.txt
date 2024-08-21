@@ -20,8 +20,7 @@ $Per Dominum
 
 [Commemoratio Oratio]
 !Pro Dominicam I post Pentecosten
-God, kracht van hen die op U hopen, luister welwillend naar onze aanroepingen en, omdat wij, zwakke stervelingen, zonder U niets vermogen, bied ons hulp met uw genade, opdat wij door het onderhouden van uw geboden U met wil en daad behagen.
-$Per Dominum.
+@Tempora/Pent01-0a:Oratio
 
 [Lectio]
 Lezing uit de Brief van de heilige Apostel Paulus aan de Romeinen
@@ -31,7 +30,8 @@ O diepte der rijkdommen van Gods wijsheid en kennis! Wat zijn toch zijn oordelen
 [Graduale]
 !Dan 3:55-56
 Gezegend zijt Gij, Heer, die de afgronden doorschouwt en troont op de Cherubs.
-V. Gezegend zijt Gij in het firmament, o Heer, en lofwaardig voor eeuwig. Alleluia, alleluia.
+V. Gezegend zijt Gij in het firmament, o Heer, en lofwaardig voor eeuwig.
+Alleluia, alleluia.
 !Dan 3:52
 Gezegend zijt Gij, Heer, God onzer vaderen en lofwaardig voor eeuwig. Alleluia.
 
@@ -41,7 +41,7 @@ Vervolg ++ van het heilig Evangelie volgens Mattheüs
 In die tijd sprak Jezus tot zijn leerlingen: Mij is alle macht gegeven in de hemel en op aarde. Gaat dan, en onderwijst alle volkeren, en doopt hen in de Naam van de Vader en de Zoon en de Heilige Geest; en leert hen onderhouden alles, wat Ik u bevolen heb. En ziet, Ik ben met u alle dagen, tot aan het einde der wereld.
 
 [Offertorium]
-!Tob 12:6.
+!Tob 12:6
 Gezegend zij God de Vader, de eengeboren Zoon van God, en ook de Heilige Geest, want Hij heeft ons barmhartigheid bewezen.
 
 [Secreta]
@@ -50,8 +50,7 @@ $Per Dominum
 
 [Commemoratio Secreta]
 !Pro Dominica
-Heer, aanvaard goedgunstig de offers, die wij U brengen en doe ze ons strekken tot een eeuwige steun.
-$Per Dominum
+@Tempora/Pent01-0a:Secreta
 
 [Communio]
 !Tob 12:6
@@ -63,8 +62,7 @@ $Per Dominum
 
 [Commemoratio Postcommunio]
 !Pro Dominica
-Met zo grote gunsten overladen, vragen wij U, o Heer, bewerk dat wij niet alleen de heilige gaven ontvangen, maar ook nooit ophouden U te prijzen.
-$Per Dominum
+@Tempora/Pent01-0a:Postcommunio
 
 [Ultima Evangelium]
 @Tempora/Pent01-0a:Evangelium

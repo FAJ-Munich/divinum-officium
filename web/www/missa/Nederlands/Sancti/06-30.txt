@@ -12,12 +12,7 @@ Prefatio=Apostolis
 Sub unica concl
 
 [Introitus]
-!2 Tim 1:12
-v. Ik weet op wie ik mijn vertrouwen stel en ik ben gerust, want Hij is in staat mijn pand zeker te stellen tot die dag, Hij, de rechtvaardige Rechter.
-!Ps 138:1-2
-Heer, Gij doorvorst en kent mij. Of ik nederzit of oprijs, Gij kent mij.
-&Gloria
-v. Ik weet op wie ik mijn vertrouwen stel en ik ben gerust, want Hij is in staat mijn pand zeker te stellen tot die dag, Hij, de rechtvaardige Rechter.
+@Sancti/01-25
 
 [Oratio]
 God, Gij hebt een menigte heidenen door de prediking van uw heilige apostel Paulus onderwezen. Wij vragen U, doe ons, die zijn geboortefeest vieren, de macht van zijn voorspraak bij U ondervinden.
@@ -37,7 +32,8 @@ Broeders, ik verzeker u, dat het Evangelie, dat ik verkondig, niet van menselijk
 !Gal 2:8-9
 Hij, die Petrus de kracht heeft gegeven voor het apostelambt, heeft ook aan mij kracht geschonken voor de heidenen; en zij hebben de genade Gods erkend, die mij geschonken is.
 !1 Cor 15:10
-De genade van God was in mij niet ijdel, maar zijn genade blijft altijd in mij. Alleluia, alleluia.
+De genade van God was in mij niet ijdel, maar zijn genade blijft altijd in mij.
+Alleluia, alleluia.
 V. Heilige apostel Paulus, prediker van de waarheid, leraar van de heidenen, wees onze voorspreker. Alleluia.
 
 [Tractus]
@@ -53,11 +49,10 @@ Confiteántur Dómino misericórdiæ ejus. et mirabília ejus fíliis hóminum. 
 V. Heilige apostel Paulus, prediker van de waarheid, leraar van de heidenen, wees onze voorspreker. Alleluia.
 
 [Evangelium]
-@Sancti/06-11:Evangelium
+@Sancti/06-11
 
 [Offertorium]
-!Ps 138:17
-Hoe hoog, o God, staan uw vrienden bij mij in ere. Hoe machtig is hun heerschappij!
+@Sancti/01-25
 
 [Secreta]
 Heilig, Heer, door de gebeden van uw apostel Paulus de gaven van uw volk, opdat, wat U aangenaam is reeds door uw schepping, nog aangenamer wordt door de voorbede van onze voorspreker.
@@ -69,8 +64,7 @@ Wij vragen U, Heer, moge de voorbede van de heilige apostel Petrus voor de gebed
 $Per Dominum
 
 [Communio]
-!Matt 19:28-29
-Voorwaar Ik zeg u: dat gij, die alles verlaten hebt en Mij zijt gevolgd, het honderdvoud zult ontvangen en het eeuwig leven bezitten.
+@Commune/C5b
 
 [Postcommunio]
 Na het ontvangen van de Sacramenten bidden wij U, o Heer, door de voorspraak van uw heilige apostel Paulus, dat ons tot genezing mag strekken, wat wij voor zijn verheerlijking vieren.
@@ -82,16 +76,13 @@ Moge, Heer, het offer, dat wij opdroegen, ons tot vreugde strekken, opdat wij do
 $Per Dominum
 
 [Commemoratio Oratio]
-!Pro Octava S. Johannis Baptistæ
-God, Gij hebt deze dag voor ons gedenkwaardig gemaakt door de geboorte van de heilige Johannes. Schenk uw volkeren de genade van de geestelijke vreugde en richt de wil van alle gelovigen naar de weg van het eeuwig heil.
-$Per Dominum
+!Pro Octava S. Joannis Baptistæ
+@Sancti/06-24:Oratio
 
 [Commemoratio Secreta]
-!Pro Octava S. Johannis Baptistæ
-Wij leggen, o Heer, onze gaven op uw altaren, nu wij met passend eerbetoon de geboorte vieren van hem, die aankondigde, dat de Verlosser van de wereld zou komen, en Hem aanwees, toen Hij gekomen was: onze Heer Jezus Christus, uw Zoon.
-$Qui tecum
+!Pro Octava S. Joannis Baptistæ
+@Sancti/06-24:Secreta
 
 [Commemoratio Postcommunio]
-!Pro Octava S. Johannis Baptistæ
-Moge uw Kerk, o Heer, vreugde putten uit het geboortefeest van de heilige Johannes de Doper, door wie zij de Bewerker van haar wedergeboorte heeft leren kennen: onze Heer Jezus Christus, uw Zoon.
-$Qui tecum
+!Pro Octava S. Joannis Baptistæ
+@Sancti/06-24:Postcommunio

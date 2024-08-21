@@ -4,9 +4,7 @@
 12 lectiones
 Psalmi Dominica
 
-[Capitulum Vespera]
-@Sancti/05-03:Capitulum Laudes
-_
+[Responsory Vespera]
 R.br. {gabc:Sancti/05-03/rb--adoramus_te_christe_tp--solesmes_1934}
 
 [Capitulum Laudes]
@@ -14,11 +12,11 @@ R.br. {gabc:Sancti/05-03/rb--adoramus_te_christe_tp--solesmes_1934}
 _
 R.br. {gabc:Sancti/05-03/rb--hoc_signum_crucis_t._paschali--solesmes}
 
-[Responsory Tertia]
+[Responsory TertiaM]
 @Sancti/05-03:Ant Matutinum:4-5 s/\(g\_.* \(\:\:\)/(f\.) (\:\:)/g s/\(h\_'\)/\(h\)/g s/\(\,\)//g
 
-[Responsory Sexta]
+[Responsory SextaM]
 @Sancti/05-03:Ant Matutinum:9-10 s/\(g\_.* \(\:\:\)/(f\.) (\:\:)/g s/\(h\_'\)/\(h\)/g s/\(\,\)//g
 
-[Responsory Nona]
+[Responsory NonaM]
 @Sancti/05-03:Ant Matutinum:14-15 s/\(g\_.* \(\:\:\)/(f\.) (\:\:)/g s/\(h\_'\)/\(h\)/g s/\(\,\)//g

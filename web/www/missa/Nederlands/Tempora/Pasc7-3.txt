@@ -44,7 +44,7 @@ $Per Dominum eiusdem
 
 [Lectio]
 Lezing uit de Handelingen van de Apostelen
-!Acts 5:12-16
+!Act 5:12-16
 In die dagen geschiedden er door de hand van de apostelen vele tekenen en wonderen onder het volk. En zij bleven allen bijeen in de zuilengang van Salomon; van de anderen echter durfde niemand zich bij hen voegen; het volk evenwel prees hen zeer. De menigte nu van mannen en vrouwen, die in de Heer geloofden, groeide steeds aan, zodat men de zieken buiten op straat bracht en daar neerlegde op bedden en matrassen, opdat - wanneer Petrus voorbijging - tenminste zijn schaduw op iemand van hen zou vallen en zij zouden genezen van hun ziekten. Zelfs uit de naburige plaatsen stroomde het volk naar Jeruzalem, en zij brachten hun zieken mee en degenen, die door onreine geesten gekweld werden; en allen werden zij genezen.
 
 [Graduale]
@@ -52,11 +52,11 @@ Alleluia, alleluia.
 V. (Hier maakt men een kniebuiging.) Kom, Heilige Geest, vervul de harten van uw gelovigen en ontsteek in hen het vuur van uw liefde.
 
 [Sequentia]
-@Tempora/Pasc7-0:Sequentia
+@Tempora/Pasc7-0
 
 [Evangelium]
 Vervolg ++ van het heilig Evangelie volgens Johannes
-!Joannes 6:44-52
+!Joann 6:44-52
 In die tijd sprak Jezus tot de scharen der Joden: Niemand kan tot Mij komen, als de Vader, die Mij gezonden heeft, hem niet trekt; en Ik zal hem opwekken op de jongste dag. Er staat geschreven bij de profeten: "En zij zullen allen door God onderwezen worden." Ieder, die van de Vader heeft gehoord en geleerd, komt tot Mij. Niet, dat iemand de Vader heeft gezien; alleen Hij, die van God is, Hij heeft de Vader gezien. Voorwaar, voorwaar, Ik zeg u: wie in Mij gelooft, heeft eeuwig leven. Ik ben het Brood des Levens. Uw vaderen hebben in de woestijn het manna gegeten, en zij zijn gestorven. Dit is het Brood, dat uit de hemel nederdaalt, opdat wie daarvan eet, niet zou sterven. Ik ben het levend Brood, Ik, die uit de hemel ben neergedaald. Wanneer iemand van dit Brood eet, zal hij leven in eeuwigheid; en het Brood, dat Ik zal geven, is mijn Vlees voor het leven der wereld.
 
 [Offertorium]
@@ -68,7 +68,7 @@ Aanvaard, vragen wij U, o Heer, de offergave en gewaardig U te bewerken, dat wij
 $Per Dominum.
 
 [Communio]
-!Joannes 14:27
+!Joann 14:27
 Mijn vrede laat Ik u na, alleluia, mijn vrede geef Ik u, alleluia, alleluia.
 
 [Postcommunio]

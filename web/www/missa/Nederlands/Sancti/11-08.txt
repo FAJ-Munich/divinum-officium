@@ -1,0 +1,21 @@
+[Rank]
+In Octava Omnium Sanctorum;;Duplex majus;;4.1;;vide Sancti/11-01
+
+[Rank] (rubrica tridentina)
+In Octava Omnium Sanctorum;;Duplex majus;;4;;ex Sancti/11-01
+
+[Rule]
+vide Sancti/11-01;
+9 lectiones
+
+[Commemoratio Oratio]
+!Pro Ss. Quatuor Coronatis Martyribus
+@Sancti/11-08r:Oratio
+
+[Commemoratio Secreta]
+!Pro Ss. Quatuor Coronatis Martyribus
+@Sancti/11-08r:Secreta
+
+[Commemoratio Postcommunio]
+!Pro Ss. Quatuor Coronatis Martyribus
+@Sancti/11-08r:Postcommunio

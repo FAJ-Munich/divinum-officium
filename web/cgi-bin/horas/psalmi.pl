@@ -129,34 +129,29 @@ sub psalmi_minor {
 
   if ($winner =~ /tempora/i || $testmode =~ /seasonal/i || $dayname[0] =~ /pasc/i) {
 
-    #*** look for Adv, Quad Pasc
     my $ind =
         ($hora =~ /Prima/i) ? 0
       : ($hora =~ /Tertia/i) ? 1
       : ($hora =~ /Sexta/i) ? 2
       : ($hora =~ /Nona/i) ? 4
       : -1;
-    my $name =
-        ($dayname[0] =~ /Adv1/i) ? 'Adv1'
-      : ($dayname[0] =~ /Adv2/i) ? 'Adv2'
-      : ($dayname[0] =~ /Adv3/i) ? 'Adv3'
-      : ($dayname[0] =~ /Adv4/i) ? 'Adv4'
-      : ($dayname[0] =~ /(Quad5|Quad6)/i) ? 'Quad5'
-      : ($dayname[0] =~ /Quad/i && $dayname[0] !~ /Quadp/i) ? 'Quad'
-      : ($dayname[0] =~ /Pasc/i && ($dayname[0] !~ /Pasc7/i || $hora =~ /Completorium/i)) ? 'Pasch'
-      : '';
+    my $name = gettempora('Psalmi minor');
 
-    if ($month == 12 && $day > 16 && $day < 24 && $dayofweek > 0) {
-      my $i = $dayofweek + 1;
+    if ($name eq 'Adv') {
+      $name = $dayname[0];
 
-      if ($dayofweek == 6 && $version =~ /trident|monastic.*divino/i) {    # take ants from feria occuring Dec 21st
-        $i = get_stThomas_feria($year) + 1;
-        if ($day == 23) { $i = ""; }                                       # use Sundays ant
+      if ($day > 16 && $day < 24 && $dayofweek) {
+        my $i = $dayofweek + 1;
+
+        if ($dayofweek == 6 && $version =~ /trident|monastic.*divino/i) {    # take ants from feria occuring Dec 21st
+          $i = get_stThomas_feria($year) + 1;
+          if ($day == 23) { $i = ""; }                                       # use Sundays ant
+        }
+        $name = "Adv4$i";
       }
-      $name = "Adv4$i";
     }
 
-    if ($name =~ /pasc/i && $lang =~ /gabc/i && $version =~ /monastic/i) {
+    if ($name eq 'Pasch' && $lang =~ /gabc/i && $version =~ /monastic/i) {
       $ind =
           ($hora =~ /prima/i) ? 0
         : ($hora =~ /tertia/i) ? 2
@@ -168,9 +163,9 @@ sub psalmi_minor {
         if ($dayofweek > 0) { $ind++; }
         if ($hora !~ /prima/i && $dayofweek > 1) { $ind++; }
       }
-    } elsif ($name =~ /pasc/i && $lang =~ /gabc/i && $ind < 0) {
+    } elsif ($name eq 'Pasch' && $lang =~ /gabc/i && $ind < 0) {
       $ind = 5;    # for Roman Completorium has a Paschal tone for the whole week
-    } elsif ($name =~ /pasc/i && ($dayname[0] !~ /Pasc7/i || $hora =~ /Completorium/i)) {
+    } elsif ($name eq 'Pasch' && ($dayname[0] !~ /Pasc7/i || $hora =~ /Completorium/i)) {
       $ind = $lang !~ /gabc/i ? 0 : $ind;    # ensure Antiphone is changed next
     }
 
@@ -184,6 +179,7 @@ sub psalmi_minor {
       setbuild("Psalterium/Psalmi minor", $name, "subst Antiphonas");
     }
   }
+
   my %w = (columnsel($lang)) ? %winner : %winner2;
   $ant =~ s/^.*?=\s*//;
   $feastflag = 0;
@@ -471,6 +467,11 @@ sub psalmi_major {
       $antiphones[3] = "$a2;;$p1";                               # and say antiphone 5 with psalm no. 4
       if (@psalmTones) { $psalmTones[3] = "$psalmTones[4]"; }    # and use the Tone of the 5th antiphone
     }
+  }
+
+  if ($version =~ /^Ordo Praedicatorum/ && @antiphones == 1) {    #  psalmi ad Vesperam sub una antiphopna
+    $lim = 1;
+    @psalmi = ();
   }
 
   if (@antiphones) {
