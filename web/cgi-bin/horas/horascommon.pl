@@ -962,6 +962,19 @@ sub concurrence {
           : (exists($commune2{'Ant Vespera 3'})) ? $commune2{'Ant Vespera 3'}
           : (exists($commune2{'Ant Vespera'})) ? $commune2{'Ant Vespera'}
           : '';
+
+        if (
+             $winner{Rule} !~ /no Psalm5/i
+          && $version !~ /monastic/i
+          && ( $winner{Rule} =~ /Psalm5 Vespera3=([0-9]+)/i
+            || $commune{Rule} =~ /Psalm5 Vespera3=([0-9]+)/i
+            || $winner{Rule} =~ /Psalm5 Vespera=([0-9]+)/i
+            || $commune{Rule} =~ /Psalm5 Vespera=([0-9]+)/i)
+        ) {
+          #	Hi-jacking an "unused" 6th line to pass on Psalm5 Vespera information to psalmi.pl
+          $antecapitulum .= "\nPsalm5 VesperaAnte=$1";
+        }
+
       }
       $vespera = 1;
       $cvespera = 3;
@@ -1212,12 +1225,13 @@ sub gettoday {
 
 sub setsecondcol {
   our ($winner, $commemoratio, $commune, $scriptura);
-  our ($lang2, $tvesp, $testmode);
+  our ($lang2, $vespera, $cvespera, $testmode);
 
   our (%winner2, %commemoratio2, %commune2, %scriptura2) = () x 4;
 
-  %winner2 = %{officestring($lang2, $winner, $winner =~ /tempora/i && $tvesp == 1)} if $winner;
-  %commemoratio2 = %{officestring($lang2, $commemoratio)} if $commemoratio;
+  %winner2 = %{officestring($lang2, $winner, $winner =~ /tempora/i && $vespera == 1)} if $winner;
+  %commemoratio2 = %{officestring($lang2, $commemoratio, $commemoratio =~ /tempora/i && $cvespera == 1)}
+    if $commemoratio;
   %commune2 = %{officestring($lang2, $commune)} if $commune;
   %scriptura2 = %{officestring($lang2, $scriptura)} if $scriptura;
 
@@ -1293,7 +1307,7 @@ sub precedence {
   }
 
   ### Get the relevant Office and Commemorations
-  if ($hora =~ /vespera|completorium/i) {
+  if ($hora =~ /vespera|completorium/i && $votive !~ /C12/i) {
     concurrence($day, $month, $year, $version);
   } else {
     occurrence($day, $month, $year, $version, 0);
@@ -1493,15 +1507,30 @@ sub precedence {
       }
     }
     $winner = subdirname('Commune', $version) . "$vtv.txt";
-    $commemoratio = $commemoratio1 = $scriptura = $commune = '';
+    $commemoratio = $commemoratio1 = $cwinner = $scriptura = $commune = '';
     %winner = %{setupstring($lang1, $winner)};
-    %commemoratio = %commemoratio1 = %scriptura = %commune = {};
+    %commemoratio = %commemoratio1 = %cwinner = %scriptura = %commune = {};
+    @commemoentries = @ccommemoentries = ();
     $rule = $winner{Rule};
 
     if ($vtv =~ /C12/i) {
       $commune = subdirname('Commune', $version) . "C11.txt";
       $communetype = 'ex';
       %commune = %{setupstring($lang1, $commune)};
+    } else {
+
+      if ($version =~ /^Trident|^Divino/i) {
+
+        # Make Votive Matutinum fully Sanctoral (Duplex, 3 Nocturns) irrespective of rank of the day
+        $rule .= "\n9 lectiones";
+        $rank = 4;
+        $duplex = 3;
+      }
+
+      # Self-referencing of Commune to safeguard "getproprium" function
+      $commune = $winner;
+      $communetype = 'ex';
+      %commune = %winner;
     }
     $dayname[1] = $winner{Name};
     $dayname[2] = '';

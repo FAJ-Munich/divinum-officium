@@ -272,38 +272,8 @@ sub psalmi_matutinum_monastic {
     nocturn(3, $lang, \@psalmi, (16 .. 18));
     lectiones(3, $lang);    # Homily with responsories #9-#12
 
-    my @e;
+    push(@s, lectioE($lang), "R. " . translate("Amen", $lang), "_", "\$Te decet");
 
-    if (exists($w{LectioE})) {    #** set evangelium
-      @e = split("\n", $w{LectioE});
-    }
-
-    if (!$e[0] || ($e[0] =~ s/^@//)) {
-
-      # if the Evangelium is missing in the Sanctoral or is just a cross-reference
-      my ($w, $s) = split(/:/, $e[0]);
-
-      if ($w) {
-        $w .= '.txt';
-      } else {
-        $w = $winner;
-      }
-      $w =~ s/M//g;    # there is no corresponding folder missa/latin/SanctiM
-      $s =~ s/(?:LectioE)?/Evangelium/;
-      my %missa = %{setupstring("../missa/$lang", $w)};
-      @e = split("\n", $missa{$s});
-    }
-
-    my $firstline = shift @e;
-    $firstline =~ s/^(v. )?/v./;
-    $firstline =~ s/\++/++/;
-    push(@s, $firstline, shift @e, "R. " . translate("Gloria tibi Domine", $lang));
-
-    @e = grep { !/^!/ } @e;
-    $e[0] =~ s/^(v. )?/v./;
-    for ($i = 0; $i < $#e; $i++) { $e[$i] =~ s/~?$/~/ }
-
-    push(@s, @e, "R. " . translate("Amen", $lang), "_", "\$Te decet");
     return;
   }
 
@@ -340,29 +310,28 @@ sub monastic_lectio3 {
 sub absolutio_benedictio {
   my $lang = shift;
 
-  push(@s, "\n");
-  push(@s, '&pater_noster');
   my @a;
+  my ($abs, $ben);
 
   if ($commune =~ /C10/) {
     my %m = (columnsel($lang)) ? %commune : %commune2;
     @a = split("\n", $m{Benedictio});
+    $abs = $a[0];
+    $ben = $a[3];
     setbuild2('Special benedictio');
   } else {
-    my %benedictio = %{setupstring($lang, 'Psalterium/Benedictions.txt')};
-    my $i =
-        ($dayofweek == 1 || $dayofweek == 4) ? 1
-      : ($dayofweek == 2 || $dayofweek == 5) ? 2
-      : ($dayofweek == 3 || $dayofweek == 6) ? 3
-      : 1;
-    @a = split("\n", $benedictio{"Nocturn $i"});
-    $a[4] = $a[5] if ($i != 3);
+    my %ben = %{setupstring($lang, 'Psalterium/Benedictions.txt')};
+    my $i = dayofweek2i();
+    @a = split(/\n/, $ben{"Nocturn $i"});
+    my @abs = split(/\n/, $ben{Absolutiones});
+    $abs = $abs[dayofweek2i() - 1];
+    $ben = $a[3 - ($i == 3)];
   }
-  push(@s, "Absolutio. $a[0]");
-  push(@s, "\n");
-  push(@s, "V. $a[1]");
-  push(@s, "Benedictio. $a[4]");
-  push(@s, "_");
+
+  push(@s, "\n", '&pater_noster', '_');
+  push(@s, "Absolutio. $abs", '$Amen', "\n");
+  push(@s, "V. " . prayer('Jube domne', $lang));
+  push(@s, "Benedictio. $ben", '$Amen', '_');
 }
 
 #*** legend_monastic($lang)
@@ -431,13 +400,89 @@ sub brevis_monastic {
   push(@s, $lectio);
 }
 
+sub lectioE {
+  my $lang = shift;
+
+  my @e;
+  my %w = (columnsel($lang)) ? %winner : %winner2;
+
+  if (exists($w{LectioE})) {    #** set evangelium
+    @e = split("\n", $w{LectioE});
+  }
+
+  if (!$e[0] || ($e[0] =~ s/^@//)) {
+
+    # if the Evangelium is missing in the Sanctoral or is just a cross-reference
+    my ($w, $s) = split(/:/, $e[0]);
+
+    if ($w) {
+      $w .= '.txt';
+    } else {
+      $w = $winner;
+    }
+    $w =~ s/M//g;    # there is no corresponding folder missa/latin/SanctiM
+    $s =~ s/(?:LectioE)?/Evangelium/;
+    my %missa = %{setupstring("../missa/$lang", $w)};
+    @e = split("\n", $missa{$s});
+  }
+
+  my $begin = shift @e;
+  $begin =~ s/^(v. )?/v./;
+
+  if ($version =~ /^Monastic/) {
+    $begin =~ s/\++/++/;
+    $begin .= "\n" . shift(@e) . "\nR. " . translate("Gloria tibi Domine", $lang) . "\n";
+  } else {
+    $begin =~ s/\++//;    # in true begin should be shorted to eg. "Secundum Joannem"
+    shift @e;
+  }
+  unshift(@e, $begin);
+
+  @e = grep { !/^!/ } @e;    # remove rubrics
+  $e[1] =~ s/^(v. )?/v./;
+
+  join("\n", @e);
+}
+
+sub lectioE_required {
+  our $rank > 2 || our $commune =~ /C10/;
+}
+
+#*** sub regula_vel_lectio_evangeli
+# for Ordo Praedicatorum
+sub regula_vel_evangelium : ScriptFunc {
+
+  my $lang = shift;
+
+  my %b = %{setupstring($lang, 'Psalterium/Benedictions.txt')};
+  my @b = split(/\n/, $b{'Nocturn 3'});
+  my %r = %{setupstring($lang, 'Regula/OrdoPraedicatorum.txt')};
+  my $be;
+  my @output;
+
+  if (lectioE_required()) {
+    $be = $b[3];
+    push(@output, lectioE($lang));
+  } else {
+    $be = $r{Benedictio};
+    push(@output, '_', $r{Incipit}, "v. $r{our $dayofweek}");
+  }
+
+  unshift(@output, "Benedictio. $be", '$Amen');
+  unshift(@output, "V. $b[1]");
+
+  push @output, '$Tu autem', $r{'Finita lectione'};
+  join("\n", @output);
+}
+
 #*** regula($lang)
 #returns the text of the Regula for the day
 sub regula : ScriptFunc {
-
   my $lang = shift;
+
   my @a;
-  my $t = setfont($largefont, translate("Regula", $lang)) . "\n";
+  my $t = prayer('benedictio Prima', $lang) . "\n";
+  $t .= setfont($largefont, translate("Regula", $lang)) . "\n";
   my $d = $day;
   my $l = leapyear($year);
 
