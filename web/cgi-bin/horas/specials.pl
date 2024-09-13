@@ -1213,7 +1213,7 @@ sub getcommemoratio {
 
   if ($lang =~ /gabc/i) {    # Change Versicle into the simple tone
     $v =~ s/\([a-zA-Z0-9\_\.\~\>\<\'\/\!]+?\) (R\/\.)?\(::\)/\(f\.\) $1\(::\)/g;
-    $v =~ s/\((?:hi|hr|h\_0|fe|f\_0?h|h\_\')\)/\(h\)/g;    # More changes for solemn Versicle
+    $v =~ s/\((?:hi|hr|h\_0|f?e|f\'?|f\_0?h|h\_\')\)/\(h\)/g;    # More changes for solemn Versicle
     $v =~ s/\(\,\)//g;
   }
 

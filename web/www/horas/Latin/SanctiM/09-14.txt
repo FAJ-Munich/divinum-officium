@@ -1,6 +1,6 @@
 @Sancti/09-14
 
-[Rank]
+[Rank] (rubrica 196)
 In Exaltatione Sanctæ Crucis;;Duplex II classis;;5.5
 
 [Rule]
