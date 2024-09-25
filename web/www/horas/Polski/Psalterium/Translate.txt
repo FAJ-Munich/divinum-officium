@@ -37,15 +37,6 @@
 [#Canticum: Magnificat]
 #Kantyk: Magnificat
 
-[#Canticum Nunc dimittis]
-#Kantyk Nunc dimittis
-
-[#Canticum Benedictus]
-#Kantyk Benedictus
-
-[#Canticum Magnificat]
-#Kantyk Magnificat
-
 [#Preces Dominicales]
 #Prośby niedzielne
 
@@ -282,3 +273,9 @@ Niech odpoczywają
 
 [A_porta_inferi]
 Od wrót
+
+[Domine_labia]
+Panie otwórz
+
+[pater_noster]
+Ojcze nasz

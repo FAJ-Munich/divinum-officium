@@ -1,8 +1,5 @@
 @Sancti/09-14
 
-[Rank] (rubrica 196)
-In Exaltatione Sanctæ Crucis;;Duplex II classis;;5.5
-
 [Rule]
 12 lectiones
 Psalmi Dominica
