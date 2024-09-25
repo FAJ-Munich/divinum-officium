@@ -6,14 +6,15 @@ Commune Apostolorum tempore Paschali
 [Rule]
 Psalmi Dominica
 Antiphonas horas
+Psalm5 Vespera=116
 Una Antiphona
 
 [Ant Vespera]
-Sancti tui, * Dómine, florébunt sicut lílium, allelúja: et sicut odor bálsami erunt ante te, allelúja.;;109
-In cæléstibus regnis * Sanctórum habitátio est, allelúja: et in ætérnum réquies eórum, allelúja.;;110
-In velaménto * clamábant Sancti tui, Dómine, allelúja, allelúja, allelúja.;;111
-Spíritus et ánimæ * justórum hymnum dícite Deo nostro, allelúja, allelúja.;;112
-Fulgébunt justi * sicut sol in conspéctu Dei, allelúja.;;116
+Sancti tui, * Dómine, florébunt sicut lílium, allelúja: et sicut odor bálsami erunt ante te, allelúja.
+In cæléstibus regnis * Sanctórum habitátio est, allelúja: et in ætérnum réquies eórum, allelúja.
+In velaménto * clamábant Sancti tui, Dómine, allelúja, allelúja, allelúja.
+Spíritus et ánimæ * justórum hymnum dícite Deo nostro, allelúja, allelúja.
+Fulgébunt justi * sicut sol in conspéctu Dei, allelúja.
 
 [HymnusM Vespera]
 v. Tristes erant Apóstoli
@@ -98,16 +99,18 @@ Regem Apostolórum Dóminum, * Veníte, adorémus, allelúja.
 Stabunt justi * in magna constántia advérsus eos, qui se angustiavérunt, allelúja.;;18
 ;;33
 ;;44
-V. Sancti et justi in Dómino gaudéte, allelúja.
-R. Vos elegit Deus in hereditátem sibi, allelúja.
 Ecce * quómodo computáti sunt inter fílios Dei, et inter sanctos sors illórum est, allelúja.;;46
 ;;60
 ;;63
-V. Lux perpétua lucébit Sanctis tuis, Dómine, allelúja.
-R. Et ætérnitas témporum, allelúja.
 Lux perpétua * lucébit Sanctis tuis, Dómine, et ætérnitas témporum, allelúja.;;74
 ;;96
 ;;98
+
+[Nocturn 2 Versum]
+V. Lux perpétua lucébit Sanctis tuis, Dómine, allelúja.
+R. Et ætérnitas témporum, allelúja.
+
+[Nocturn 3 Versum]
 V. Lætítia sempitérna super cápita eórum, allelúja.
 R. Gáudium et exsultatiónem obtinébunt, allelúja.
 
@@ -166,11 +169,7 @@ R. Et sicut lac coaguláti sunt, allelúja, allelúja.
 R. Et sicut lac coaguláti sunt, allelúja, allelúja.
 
 [Ant Laudes]
-@:Ant Vespera:1 s/;;.*//
-@:Ant Vespera:2 s/;;.*//
-@:Ant Vespera:3 s/;;.*//
-@:Ant Vespera:4 s/;;.*//
-@:Ant Vespera:5 s/;;.*//
+@:Ant Vespera
 
 [Capitulum Laudes]
 !Sap 5:1
@@ -242,50 +241,45 @@ Fíliæ Jerúsalem, * veníte et vidéte Mártyres cum corónis, quibus coronáv
 !Rom 8:28
 v. Scimus quóniam diligéntibus Deum ómnia cooperántur in bonum, iis qui secúndum propósitum vocáti sunt sancti.
 
-[Responsory Tertia]
-@:Ant Matutinum:4 s/V./R.br./ s/\, al.*/./
-@:Ant Matutinum:4 s/V./R./ s/\, al.*/./
-@:Ant Matutinum:5 s/R./V./ s/\, al.*/./
+[Responsory Breve Tertia]
+@:Versum 1:1 s/V./R.br./ s/\, al.*/./
+@:Versum 1:1 s/V./R./ s/\, al.*/./
+@:Versum 1:2 s/R./V./ s/\, al.*/./
 @Psalterium/Prayers:Alleluia Duplex: s/^/R. /
 &Gloria
-@:Ant Matutinum:4 s/V./R./ s/\, al.*/./
-_
-@:Ant Matutinum:9
-@:Ant Matutinum:10
+@:Versum 1:1 s/V./R./ s/\, al.*/./
 
 [Capitulum Sexta]
 !Sap. 5:5
 v. Ecce quómodo computáti sunt inter fílios Dei, et inter sanctos sors illórum est.
 $Deo gratias
 
-[Responsory Sexta]
-@:Ant Matutinum:9 s/V./R.br./ s/\, al.*/./
-@:Ant Matutinum:9 s/V./R./ s/\, al.*/./
-@:Ant Matutinum:10 s/R./V./ s/\, al.*/./
+[Responsory Breve Sexta]
+@:Nocturn 2 Versum:1 s/V./R.br./ s/\, al.*/./
+@:Nocturn 2 Versum:1 s/V./R./ s/\, al.*/./
+@:Nocturn 2 Versum:2 s/R./V./ s/\, al.*/./
 @Psalterium/Prayers:Alleluia Duplex: s/^/R. /
 &Gloria
-@:Ant Matutinum:9 s/V./R./ s/\, al.*/./
-_
-@:Ant Matutinum:14
-@:Ant Matutinum:15
+@:Nocturn 2 Versum:1 s/V./R./ s/\, al.*/./
 
 [Capitulum Nona]
 @:Lectio Prima
 $Deo gratias
 
-[Responsory Nona]
-@:Ant Matutinum:14 s/V./R.br./ s/\, al.*/./
-@:Ant Matutinum:14 s/V./R./ s/\, al.*/./
-@:Ant Matutinum:15 s/R./V./ s/\, al.*/./
+[Responsory Breve Nona]
+@:Nocturn 3 Versum:1 s/V./R.br./ s/\, al.*/./
+@:Nocturn 3 Versum:1 s/V./R./ s/\, al.*/./
+@:Nocturn 3 Versum:2 s/R./V./ s/\, al.*/./
 @Psalterium/Prayers:Alleluia Duplex: s/^/R. /
 &Gloria
-@:Ant Matutinum:14 s/V./R./ s/\, al.*/./
-_
-@:Versum 2:1
-@:Versum 2:2
+@:Nocturn 3 Versum:1 s/V./R./ s/\, al.*/./
 
 [Ant Vespera 3]
-@:Ant Vespera: s/116/138/ s/112/125/ s/111/115/ s/110/112/
+@:Ant Vespera:1 s/$/;;109/
+@:Ant Vespera:2 s/$/;;112/
+@:Ant Vespera:3 s/$/;;115/
+@:Ant Vespera:4 s/$/;;125/
+@:Ant Vespera:5 s/$/;;138/
 
 [Versum 3]
 @:Versum 2
