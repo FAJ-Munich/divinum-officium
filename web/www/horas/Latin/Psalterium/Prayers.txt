@@ -425,7 +425,7 @@ Benedictio. Benedíctio Dei omnipoténtis + Patris, et Fílii, et Spíritus Sanc
 
 [Jube domne]
 V. Jube, domne, benedícere.
-(sed rubrica 1960 dicitur)
+(sed rubrica 1960 aut rubrica Bavariae dicitur)
 V. Jube, Dómine, benedícere.
 
 [Preces flexis genibus]
