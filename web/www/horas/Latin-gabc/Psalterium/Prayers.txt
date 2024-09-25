@@ -227,10 +227,7 @@ R/. Et(h) sit(h) splen(h)dor(h) Dó(h)mi(h)ni(h) De(h)i(h) nos(h)tri(h) su(h)per
 v. Dirígere et sanctificáre, régere et gubernáre dignáre, Dómine Deus, Rex cæli et terræ, hódie corda et córpora nostra, sensus, sermónes et actus nostros in lege tua, et in opéribus mandatórum tuórum: ut hic et in ætérnum, te auxiliánte, salvi et líberi esse mereámur, Salvátor mundi: Qui vivis et regnas in sǽcula sæculórum.
 R. Amen.
 
-[benedictio Prima]
-{initial-style:0;%%(c3) V/. Ju(h)be,(h) dom(h)ne,(g_') be(h)ne(h)dí(h)ce(d)re.(d.) (::)}
-(sed rubrica 196 aut rubrica 1955 aut rubrica bavariae dicitur)
-{initial-style:0;%%(c3) V/. Ju(h)be,(h) Dóm(h)i(h)ne,(g_) be(h)ne(h)dí(h)ce(d)re.(d.) (::)}
+[benedictio Prima_]
 Benedictio. {initial-style:0;%%(c3) Di(h)es(h) et(h) ac(g)tus(f) nos(h)tros(h.) *(;) in(h) su(h)a(h) pa(h)ce(h) dis(h)pó(h)nat(h) Dó(h)mi(h)nus(h) om(h)ní(h)po(d)tens.(d.) (::) R/. A(g.)men.(h.) (::)}
 
 [benedictio Prima2]
@@ -255,10 +252,13 @@ v. Deus véniæ largítor et humánæ salútis amátor: quǽsumus cleméntiam tu
 v. Dómine Deus omnípotens, qui ad princípium hujus diéi nos perveníre fecísti: tua nos hódie salva virtúte; ut in hac die ad nullum declinémus peccátum, sed semper ad tuam justítiam faciéndam nostra procédant elóquia, dirigántur cogitatiónes et ópera.
 
 [Benedictio Completorium_]
-{initial-style:0;%%(c3) V/. Ju(h)be,(h) dom(h)ne,(g_) be(h)ne(h)dí(h)ce(d)re.(d.) (::)}
-(sed rubrica 196 aut rubrica 1955 aut rubrica bavariae dicitur)
-{initial-style:0;%%(c3) V/. Ju(h)be,(h) Dóm(h)i(h)ne,(g_) be(h)ne(h)dí(h)ce(d)re.(d.) (::)}
 Benedictio. {(c3) Noc(h)tem(h) qui(h)é(h)tam(h) et(h) fi(h)nem(g) per(f)féc(h)tum(h.) (;) con(h)cé(h)dat(h) no(h)bis(h) Dó(h)mi(h)nus(h) om(h)ní(h)po(d)tens.(d.) (::)}
 
 [Benedictio Completorium] (rubrica Ordo Praedicatorum)
+@:Jube domne
 @:Benedictio Completorium_:s/con.*?dat/trí(h)bu(h)at/
+
+[Jube domne]
+{initial-style:0;%%(c3) V/. Ju(h)be,(h) dom(h)ne,(g_) be(h)ne(h)dí(h)ce(d)re.(d.) (::)}
+(sed rubrica 1960 aut rubrica bavariae dicitur)
+{initial-style:0;%%(c3) V/. Ju(h)be,(h) Dóm(h)i(h)ne,(g_) be(h)ne(h)dí(h)ce(d)re.(d.) (::)}

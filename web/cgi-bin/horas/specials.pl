@@ -355,35 +355,9 @@ sub specials {
     }
 
     if ($item =~ /Lectio brevis/i && $hora =~ /prima/i) {
-      my %brevis = %{setupstring($lang, 'Psalterium/Prima Special.txt')};
-      my $name = gettempora("Lectio brevis Prima");
-      my @brevis = split("\n", $brevis{$name});
-      $comment = ($name =~ /per annum/i) ? 5 : 1;
-      setbuild('Psalterium/Prima Special', $name, 'Lectio brevis ord');
-
-      #look for [Lectio Prima]
-      if ($version !~ /(1955|196)/) {
-        %w = (columnsel($lang)) ? %winner : %winner2;
-        my $b = '';
-
-        if (exists($w{'Lectio Prima'})) {
-          $b = $w{'Lectio Prima'};
-          if ($b) { setbuild2("Subst Lectio Pima $winner"); $comment = 3; }
-        }
-
-        if (!$b && $communetype =~ /ex/i && exists($commune{'Lectio Prima'})) {
-          $b = (columnsel($lang)) ? $commune{'Lectio Prima'} : $commune2{'Lectio Prima'};
-          if ($b) { setbuild2("Subst Lectio Pima $commune"); $comment = 3; }
-        }
-
-        if (!$b && ($winner =~ /sancti/i || $commune =~ /C10/)) {
-          $b = getfromcommune("Lectio", "Prima", $lang, 1, 1);
-          if ($b) { $comment = 4; }
-        }
-        if ($b) { @brevis = split("\n", $b); }
-      }
-      setcomment($label, 'Source', $comment, $lang);
-      push(@s, @brevis);
+      my ($b, $c) = lectio_brevis_prima($lang);
+      setcomment($label, 'Source', $c, $lang);
+      push(@s, $b);
       next;
     }
 
@@ -393,14 +367,8 @@ sub specials {
       next;
     }
 
-    if ($item =~ /(benedictus|magnificat)/i) {
-      $comment = ($winner =~ /sancti/i) ? 3 : 2;
-      setcomment($label, 'Source', $comment, $lang, translate('Antiphona', $lang));
-      next;
-    }
-
-    if ($item =~ /Nunc Dimittis/i) {
-      Nunc_dimittis($lang);
+    if ($item =~ /Canticum/i) {
+      canticum($item, $lang);
       next;
     }
 
@@ -1237,7 +1205,7 @@ sub getcommemoratio {
 
   if ($lang =~ /gabc/i) {    # Change Versicle into the simple tone
     $v =~ s/\([a-zA-Z0-9\_\.\~\>\<\'\/\!]+?\) (R\/\.)?\(::\)/\(f\.\) $1\(::\)/g;
-    $v =~ s/\((?:hi|hr|h\_0|fe|f\_0?h|h\_\')\)/\(h\)/g;    # More changes for solemn Versicle
+    $v =~ s/\((?:hi|hr|h\_0|f?e|f\'?|f\_0?h|h\_\')\)/\(h\)/g;    # More changes for solemn Versicle
     $v =~ s/\(\,\)//g;
   }
 
@@ -1773,20 +1741,13 @@ sub get_prima_responsory {
 # removes second part of antifones for non 1960 versions
 # returns arrat of the string
 sub loadspecial {
-  my $str = shift;
-  my @s = split("\n", $str);
+  local ($_) = shift;
 
   # Un-double the antiphons, except in 1960
   unless ($version =~ /196/) {
-    my $i;
-    my $ant = 0;
-
-    for ($i = 0; $i < @s; $i++) {
-      if (($ant & 1) == 0 && $s[$i] =~ /^(Ant\..*?)\*/) { $s[$i] = $1; }
-      if ($s[$i] =~ /^Ant\./) { $ant++; }
-    }
+    s/^Ant\. .*?\K \* .*?$//ms;
   }
-  return @s;
+  split "\n";
 }
 
 #*** delconclusio($ostr)
@@ -1825,4 +1786,42 @@ sub replaceNdot {
     $s =~ s/N\./$name/;
   }
   return $s;
+}
+
+sub lectio_brevis_prima {
+
+  my $lang = shift;
+
+  my %brevis = %{setupstring($lang, 'Psalterium/Prima Special.txt')};
+  my $name = gettempora("Lectio brevis Prima");
+  my $brevis = $brevis{$name};
+  my $comment = ($name =~ /per annum/i) ? 5 : 1;
+
+  setbuild('Psalterium/Prima Special', $name, 'Lectio brevis ord');
+
+  #look for [Lectio Prima]
+  if ($version !~ /(1955|196)/) {
+    %w = (columnsel($lang)) ? %winner : %winner2;
+    my $b;
+
+    if (exists($w{'Lectio Prima'})) {
+      $b = $w{'Lectio Prima'};
+      if ($b) { setbuild2("Subst Lectio Prima $winner"); $comment = 3; }
+    }
+
+    if (!$b && $communetype =~ /ex/i && exists($commune{'Lectio Prima'})) {
+      $b = (columnsel($lang)) ? $commune{'Lectio Prima'} : $commune2{'Lectio Prima'};
+      if ($b) { setbuild2("Subst Lectio Prima $commune"); $comment = 3; }
+    }
+
+    if (!$b && ($winner =~ /sancti/i || $commune =~ /C10/)) {
+      $b = getfromcommune("Lectio", "Prima", $lang, 1, 1);
+      if ($b) { $comment = 4; }
+    }
+
+    $brevis = $b || $brevis;
+  }
+  $brevis = prayer('benedictio Prima', $lang) . "\n$brevis" unless $version =~ /^Monastic/;
+  $brevis .= "\n\$Tu autem";
+  ($brevis, $comment);
 }

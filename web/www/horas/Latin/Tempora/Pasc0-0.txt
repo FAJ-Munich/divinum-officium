@@ -7,7 +7,6 @@ Omit Hymnus Preces Suffragium Commemoratio;
 Minores sine Antiphona;
 Capitulum Versum 2;
 Psalmi Dominica
-Special Evangelii Benedictio
 Prima=53
 
 [Ant 1]
@@ -94,9 +93,7 @@ Ant. Allelúja, Allelúja, Allelúja.
 Ant. Allelúja, Allelúja, Allelúja.
 _
 Ant. Véspere autem sábbati quæ lucéscit in prima sábbati, venit María Magdaléne et áltera María vidére sepúlcrum, allelúja.
-&canticum(2)
-&Gloria
-{::}
+&psalm(232)
 Ant. Véspere autem sábbati quæ lucéscit in prima sábbati, venit María Magdaléne et áltera María vidére sepúlcrum, allelúja.
 
 &Dominus_vobiscum

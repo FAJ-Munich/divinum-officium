@@ -81,7 +81,7 @@ Amen.
 
 [Hymnus Day0 Laudes2]
 {:H-Aeternererum:}v. Ætérne rerum Cónditor,
-Noctem diémque qui régis,
+Noctem diémque qui regis,
 Et témporum das témpora,
 Ut álleves fastídium.
 _
@@ -312,7 +312,7 @@ Amen.
 @:Day1 Laudes
 
 [HymnusM Day2 Laudes]
-@:Hymnus Day2 Laudes:s/Nunc et per omne sǽculum/Et nunc, et in perpétuum/
+@:Hymnus Day2 Laudes:s/Nunc et per omne sǽculum/Et nunc, et in perpétuum/ s/recti/rect[i]/ s/Vigiláte/Vig[i]láte/
 
 [Hymnus Day2 Laudes]
 {:H-LaudsFeria:}v. Ales diéi núntius
@@ -375,7 +375,7 @@ Regnans per omne sǽculum.
 Amen.
 
 [HymnusM Day2 Vespera]
-@:Hymnus Day2 Vespera:s/alme/ingens/ s/séparans/éruens/ s/ictum/actum/
+@:Hymnus Day2 Vespera:s/dedísti/dedíst[i]/ s/alme/ingens/ s/séparans/éruens/ s/ictum/actum/
 
 [Day2 Versum 3]
 @:Day0 Versum 3
@@ -411,7 +411,7 @@ Nunc et per omne sǽculum.
 Amen.
 
 [HymnusM Day3 Laudes]
-@:Hymnus Day3 Laudes:s/vera lux cæléstium/lux Eói síderis/ s/Nunc et per omne sǽculum/Et nunc, et in perpétuum/
+@:Hymnus Day3 Laudes:s/vera lux cæléstium/lux Eói síderis/ s/Nunc et per omne sǽculum/Et nunc, et in perpétuum/ s/tenébræ/tenébr[æ]/ s/mundi/mund[i]/ s/pura/pur[a]/ s/Flendo/Flend[o]/ s/seréno/serén[o]/
 
 [Day3 Versum 2]
 @:Day1 Versum 2
@@ -456,7 +456,7 @@ Amen.
 @:Day1 Laudes
 
 [HymnusM Day4 Laudes]
-@:Hymnus Day4 Laudes:s/Nunc et per omne sǽculum/Et nunc, et in perpétuum/
+@:Hymnus Day4 Laudes:s/Nunc et per omne sǽculum/Et nunc, et in perpétuum/ s/Oculíve/Oculív[e]/ s/Speculátor/Spec[u]látor/ s/prima/prim[a]/
 
 [Hymnus Day4 Laudes]
 {:H-LaudsFeria:}v. Lux ecce surgit áurea,
@@ -1679,7 +1679,7 @@ v. Deus, a quo sancta desidéria, recta consília et justa sunt ópera: da servi
 v. Ure igne Sancti Spíritus renes nostros et cor nóstrum, Dómine: ut tibi casto córpore serviámus, et mundo corde placeámus.
 v. Fidélium, Deus, ómnium Cónditor et Redémptor, animábus famulórum famularúmque tuárum remissiónem cunctórum tríbue peccatórum: ut indulgéntiam, quam semper optavérunt, piis supplicatiónibus consequántur.
 v. Actiónes nostras, quǽsumus, Dómine, aspirándo prǽveni et adjuvándo proséquere: ut cuncta nostra orátio et operátio a te semper incípiat, et per te cœpta finiátur.
-v. Omnípotens sempitérne Deus, qui vivórum domináris simul et mortuórum, omniúmque miseréris quos tuos fide et ópere futúros esse prænóscis: te súpplices exorámus; ut, pro quibus effúndere preces decrévimus, quosque vel præsens sǽculum adhuc in carne rétinet vel futúrum jam exútos córpore suscépit, intercédentibus ómnibus Sanctis tuis, pietátis tuæ cleméntia, ómnium delictórum suórum véniam consequántur.
+v. Omnípotens sempitérne Deus, qui vivórum domináris simul et mortuórum, omniúmque miseréris quos tuos fide et ópere futúros esse prænóscis: te súpplices exorámus; ut, pro quibus effúndere preces decrévimus, quosque vel præsens sǽculum adhuc in carne rétinet vel futúrum jam exútos córpore suscépit, intercedéntibus ómnibus Sanctis tuis, pietátis tuæ cleméntia, ómnium delictórum suórum véniam consequántur.
 $Per Dominum
 &Dominus_vobiscum
 V. Exáudiat nos omnípotens et miséricors Dóminus.
@@ -1821,7 +1821,7 @@ R. Et deprecábilis esto super servos tuos.
 V. Fiat misericórdia tua, Dómine, super nos.
 R. Quemádmodum sperávimus in te.
 V. Sacerdótes tui induántur justítiam.
-R. Et sancti tui exsúltent.
+R. Et sancti tui exsúltent. ~
 
 V. Orémus pro beatíssimo Papa nostro~
 r. N.
@@ -1829,7 +1829,7 @@ R. Dóminus consérvet eum, et vivíficet eum, et beátum fáciat eum in terra, 
 V. Orémus et pro Antístite nostro ~
 r. N.
 R. Stet et pascat in fortitúdine tua, Dómine, in sublimitáte nóminis tui.
-/:Romæ præcedens Versus cum suo Responsorio omittitur; alibi vero ad litteram N. ab omnibus nomen diœcesani Episcopi exprimatur, Vacante Apostolica vel Episcopali Sede, alteruter vel uterque respectivus Versus cum suo Responsorio præteritur.:/
+/:Romæ præcedens Versus cum suo Responsorio omittitur; alibi vero ad litteram N. ab omnibus nomen diœcesani Episcopi exprimatur, Vacante Apostolica vel Episcopali Sede, alteruter vel uterque respectivus Versus cum suo Responsorio præteritur.:/ ~
 (sed rubrica tridentina omittitur)
 
 V. Dómine, salvum fac regem.
@@ -1839,10 +1839,10 @@ R. Et rege eos, et extólle illos usque in ætérnum.
 V. Meménto Congregatiónis tuæ.
 R. Quam possedísti ab inítio.
 V. Fiat pax in virtúte tua.
-R. Et abundántia in túrribus tuis.
+R. Et abundántia in túrribus tuis. ~
 
 V. Orémus pro benefactóribus nostris.
-R. Retribúere dignáre, Dómine, ómnibus, nobis bona faciéntibus propter nomen tuum, vitam ætérnam.  Amen.
+R. Retribúere dignáre, Dómine, ómnibus, nobis bona faciéntibus propter nomen tuum, vitam ætérnam.  Amen. ~
 (sed rubrica tridentina omittitur)
 
 V. Orémus pro fidélibus defúnctis.
@@ -1855,10 +1855,10 @@ V. Pro afflíctis et captívis.
 R. Líbera eos, Deus Israël, ex ómnibus tribulatiónibus suis.
 V. Mitte eis, Dómine, auxílium de sancto.
 R. Et de Sion tuére eos.
-
 (sed rubrica tridentina dicuntur)
+_
 $Domine exaudi
-&psalm(129) 
+&psalm(129)
 
 (deinde dicuntur)
 V. Dómine, Deus virtútum, convérte nos.

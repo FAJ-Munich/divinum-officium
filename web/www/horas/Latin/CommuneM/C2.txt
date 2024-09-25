@@ -1,9 +1,8 @@
 @Commune/C2
 
-[Capitulum Vespera]
-@Commune/C2
-_
-@Commune/C2:Responsory Breve6
+[Rule]
+Psalmi Dominica
+Antiphonas horas
 
 [AntMatutinumM]
 Hic accípiet * benedictiónem a Dómino, et misericórdiam a Deo salutári suo; qui hæc est generátio quæréntium Dóminum;;23

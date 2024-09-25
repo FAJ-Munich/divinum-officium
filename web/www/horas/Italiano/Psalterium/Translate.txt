@@ -34,7 +34,7 @@
 [#Canticum: Magnificat]
 #Cantico Magnificat
 
-[#Canticum Nunc dimittis]
+[#Canticum: Nunc dimittis]
 #Cantico Nunc dimittis
 
 [#Preces Dominicales]
@@ -213,9 +213,6 @@ Salmi e antifone
 
 [Psalmi Dominica, antiphonae]
 Salmi per la domenica, antifone
-
-[Evangelist]
-Mat|Mar|Luc|Gio
 
 [Antiphona finalis BMV]
 Antifona finale della beata Vergine Maria

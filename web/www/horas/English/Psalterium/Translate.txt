@@ -34,7 +34,7 @@
 [#Canticum: Magnificat]
 #Canticle: Magnificat
 
-[#Canticum Nunc dimittis]
+[#Canticum: Nunc dimittis]
 #Canticle: Nunc dimittis
 
 [#Preces Dominicales]
@@ -213,9 +213,6 @@ Psalms & antiphons
 
 [Psalmi Dominica, antiphonae]
 Psalms for Sunday & antiphons
-
-[Evangelist]
-Matt|Mark|Luke|John
 
 [Antiphona finalis BMV]
 Final Antiphon of the Blessed Virgin Mary

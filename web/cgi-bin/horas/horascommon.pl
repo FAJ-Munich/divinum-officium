@@ -318,6 +318,7 @@ sub occurrence {
       %saint = undef;
       $sname = '';
       @srank = undef;
+      @commemoentries = undef;
     }
 
     # In Festo Sanctae Mariae Sabbato according to the rubrics.
@@ -436,8 +437,9 @@ sub occurrence {
         $officename[2] =~ s/:/ ad Laudes tantum:/ if $cr[2] < 6;
       } elsif ($version !~ /trident/i && $srank[2] >= 6) {
         $officename[2] =~ s/:/ ad Laudes tantum:/ if $cr[2] < 4.2 && $cr[2] != 2.1 && $srank[0] !~ /infra octavam/i;
-      } elsif ($srank[2] >= 6 && $srank[0] !~ /in.*octava/i && $cr[2] < 3.1)
-      {    # for Tridentine:  either Transfer or no Commemoration in Duplex I. cl. (of Sanctoral) unless dies 8va
+      } elsif ($srank[2] >= 6 && $srank[0] !~ /in.*octava/i && $cr[2] < 3.1) {
+
+        # for Tridentine:  either Transfer or no Commemoration in Duplex I. cl. (of Sanctoral) unless dies 8va
         $commemoratio = '';
         $comrank = 0;
         @commemoentries = undef;
@@ -526,7 +528,11 @@ sub occurrence {
       $officename[1] .= " $communetype $communesname{$commune} [$commune]";
     }
 
-    if ($version =~ /1960/ && $vespera == 1 && $rank >= 6 && $comrank < 5) { $commemoratio = ''; $srank[2] = 0; }
+    if ($version =~ /1960/ && $vespera == 1 && $rank >= 6 && $comrank < 5) {
+      $commemoratio = '';
+      $srank[2] = 0;
+      @commemoentries = undef;
+    }
 
     my $climit1960 = climit1960($sname);
 
@@ -582,26 +588,35 @@ sub occurrence {
       }
 
       if ($version =~ /196/i && $officename[2] =~ /Januarii/i) { $officename[2] = ''; }
-    } elsif (my $transferedC =
-      $commemoentries[0] && $tempora{Rule} !~ /omit.*? commemoratio/i && ($tempora{Rule} !~ /No commemoratio/i))
+    } elsif ((my $transferedC = $commemoentries[0])
+      && $tempora{Rule} !~ /omit.*? commemoratio/i
+      && ($tempora{Rule} !~ /No commemoratio/i))
     {
       $commemoratio = "$transferedC.txt";
-      my %tc = %{setupstring('Latin', "$transferedC.txt")};
-      my @cr = split(";;", $tc{Rank});
-      $comrank = $cr[2];
-      $cvespera = $svesp;
-      $officename[2] = "Commemoratio: $cr[0]";
+      $climit1960 = climit1960($commemoratio);
 
-      if ($version =~ /196/i) {
-        $officename[2] =~ s/:/ $laudesonly:/ if ($trank[2] >= 5 && $cr[2] < 2) || ($climit1960 == 2);
-      } elsif ($version !~ /trident/i && $trank[2] >= 6) {
-        $officename[2] =~ s/:/ ad Laudes tantum:/
-          if $cr[2] < 4.2 && $cr[2] != 2.1 && $trank[0] !~ /infra octavam|cinerum|majoris hebd/i;
-      } elsif ($laudesonly) {
-        $officename[2] =~ s/:/ $laudesonly:/;
+      if ($climit1960) {
+        $laudesonly = ($missa) ? '' : ($climit1960 == 2) ? ' ad Laudes tantum' : '';
+        my %tc = %{setupstring('Latin', "$transferedC.txt")};
+        my @cr = split(";;", $tc{Rank});
+        $comrank = $cr[2];
+        $cvespera = $svesp;
+        $officename[2] = "Commemoratio: $cr[0]";
+
+        if ($version =~ /196/i) {
+          $officename[2] =~ s/:/ $laudesonly:/ if ($trank[2] >= 5 && $cr[2] < 2) || ($climit1960 == 2);
+        } elsif ($version !~ /trident/i && $trank[2] >= 6) {
+          $officename[2] =~ s/:/ ad Laudes tantum:/
+            if $cr[2] < 4.2 && $cr[2] != 2.1 && $trank[0] !~ /infra octavam|cinerum|majoris hebd/i;
+        } elsif ($laudesonly) {
+          $officename[2] =~ s/:/ $laudesonly:/;
+        } else {
+          $officename[2] =~ s/:/ ad Laudes \& Matutinum:/
+            if $trank[2] >= 5 && $cr[2] < 2 && $trank[0] !~ /infra octavam|cinerum|majoris hebd/i;
+        }
       } else {
-        $officename[2] =~ s/:/ ad Laudes \& Matutinum:/
-          if $trank[2] >= 5 && $cr[2] < 2 && $trank[0] !~ /infra octavam|cinerum|majoris hebd/i;
+        $commemoratio = '';
+        @commemoentries = undef;
       }
     } elsif (transfered($sday, $year, $version)) {
       if ($hora !~ /Vespera|Completorium/i) {
@@ -962,6 +977,19 @@ sub concurrence {
           : (exists($commune2{'Ant Vespera 3'})) ? $commune2{'Ant Vespera 3'}
           : (exists($commune2{'Ant Vespera'})) ? $commune2{'Ant Vespera'}
           : '';
+
+        if (
+             $winner{Rule} !~ /no Psalm5/i
+          && $version !~ /monastic/i
+          && ( $winner{Rule} =~ /Psalm5 Vespera3=([0-9]+)/i
+            || $commune{Rule} =~ /Psalm5 Vespera3=([0-9]+)/i
+            || $winner{Rule} =~ /Psalm5 Vespera=([0-9]+)/i
+            || $commune{Rule} =~ /Psalm5 Vespera=([0-9]+)/i)
+        ) {
+          #	Hi-jacking an "unused" 6th line to pass on Psalm5 Vespera information to psalmi.pl
+          $antecapitulum .= "\nPsalm5 VesperaAnte=$1";
+        }
+
       }
       $vespera = 1;
       $cvespera = 3;
@@ -1212,12 +1240,13 @@ sub gettoday {
 
 sub setsecondcol {
   our ($winner, $commemoratio, $commune, $scriptura);
-  our ($lang2, $tvesp, $testmode);
+  our ($lang2, $vespera, $cvespera, $testmode);
 
   our (%winner2, %commemoratio2, %commune2, %scriptura2) = () x 4;
 
-  %winner2 = %{officestring($lang2, $winner, $winner =~ /tempora/i && $tvesp == 1)} if $winner;
-  %commemoratio2 = %{officestring($lang2, $commemoratio)} if $commemoratio;
+  %winner2 = %{officestring($lang2, $winner, $winner =~ /tempora/i && $vespera == 1)} if $winner;
+  %commemoratio2 = %{officestring($lang2, $commemoratio, $commemoratio =~ /tempora/i && $cvespera == 1)}
+    if $commemoratio;
   %commune2 = %{officestring($lang2, $commune)} if $commune;
   %scriptura2 = %{officestring($lang2, $scriptura)} if $scriptura;
 
@@ -1293,7 +1322,7 @@ sub precedence {
   }
 
   ### Get the relevant Office and Commemorations
-  if ($hora =~ /vespera|completorium/i) {
+  if ($hora =~ /vespera|completorium/i && $votive !~ /C12/i) {
     concurrence($day, $month, $year, $version);
   } else {
     occurrence($day, $month, $year, $version, 0);
@@ -1493,15 +1522,30 @@ sub precedence {
       }
     }
     $winner = subdirname('Commune', $version) . "$vtv.txt";
-    $commemoratio = $commemoratio1 = $scriptura = $commune = '';
+    $commemoratio = $commemoratio1 = $cwinner = $scriptura = $commune = '';
     %winner = %{setupstring($lang1, $winner)};
-    %commemoratio = %commemoratio1 = %scriptura = %commune = {};
+    %commemoratio = %commemoratio1 = %cwinner = %scriptura = %commune = {};
+    @commemoentries = @ccommemoentries = ();
     $rule = $winner{Rule};
 
     if ($vtv =~ /C12/i) {
       $commune = subdirname('Commune', $version) . "C11.txt";
       $communetype = 'ex';
       %commune = %{setupstring($lang1, $commune)};
+    } else {
+
+      if ($version =~ /^Trident|^Divino/i) {
+
+        # Make Votive Matutinum fully Sanctoral (Duplex, 3 Nocturns) irrespective of rank of the day
+        $rule .= "\n9 lectiones";
+        $rank = 4;
+        $duplex = 3;
+      }
+
+      # Self-referencing of Commune to safeguard "getproprium" function
+      $commune = $winner;
+      $communetype = 'ex';
+      %commune = %winner;
     }
     $dayname[1] = $winner{Name};
     $dayname[2] = '';
@@ -1688,7 +1732,7 @@ sub setheadline {
     } else {    # Default for Ferias
       if ($version !~ /196/) {
         $rankname =
-            ($rank < 2) ? 'Ferial'
+            ($rank < 2) ? 'Feria'
           : ($rank < 3) ? ($version =~ /monastic.*divino/i ? 'Feria privilegiata III. ordinis' : 'Feria major')
           : ($rank < 5) ? 'Feria privilegiata II. ordinis'
           : 'Feria privilegiata';

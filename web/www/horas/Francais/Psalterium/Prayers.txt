@@ -105,7 +105,7 @@ v. Je confesse à Dieu tout puissant, à la bienheureuse Marie toujours Vierge, 
 C'est pourquoi je supplie la bienheureuse Marie toujours Vierge, Saint Michel Archange, Saint Jean-Baptiste, les saints Apôtres Pierre et Paul, à notre bienheureux père Saint Benoît, tous les Saints, de prier pour moi le Seigneur notre Dieu.
 
 [Misereatur]
-v. Que le Dieu tout-puissant ait pitié de vous, et que, après vous avoir pardonné vos péchés, il vous conduise à la vie éternelle. Ainsi soit-il.
+v. Que le Dieu tout-puissant ait pitié de nous, et que, après nous avoir pardonné nos péchés, il nous conduise à la vie éternelle. Ainsi soit-il.
 
 [Indulgentiam]
 v. Que le Seigneur tout-puissant et tout miséricordieux + nous accorde l'indulgence, l'absolution et la rémission de nos péchés. Ainsi soit-il.
@@ -288,8 +288,7 @@ R. Et que la lumière du Seigneur notre Dieu brille sur nous. Dirigez les œuvre
 [dirigere]
 v. Daignez, Seigneur Dieu, Roi du Ciel et de la terre, diriger et sanctifier, régir et gouverner en ce jour nos cœurs et nos corps, nos sentiments, nos paroles et nos actes, selon Votre loi et l'accomplissement de Vos préceptes, afin qu'ici-bas et pour l'Eternité, nous obtenions d'être sauvés et délivrés par Votre secours, ô Sauveur du monde, qui vivez et régnez dans les siècles des siècles.
 
-[benedictio Prima]
-V. Seigneur, veuillez me bénir.
+[benedictio Prima_]
 Benedictio. Que le Seigneur tout-puissant établisse dans Sa paix nos jours et nos actions. 
 R. Ainsi soit-il.
 
@@ -313,8 +312,12 @@ v. Ô Dieu qui donnez le pardon et qui aimez le salut des hommes, nous implorons
 /:Examen de conscience ou Notre Père en silence.:/
 
 [Benedictio Completorium_]
-V. Père, veuillez bénir.
 Benedictio. Que le Seigneur tout-puissant nous accorde une nuit tranquille et une fin parfaite.
 
 [Benedictio Completorium2]
 Benedictio. Le Seigneur tout-puissant et miséricordieux, + Père, Fils et Saint-Esprit, nous bénisse et nous garde.
+
+[Jube domne]
+V. Veuillez, père, bénir. 
+(sed rubrica 1960 dicitur)
+V. Veuillez, Seigneur, bénir.
