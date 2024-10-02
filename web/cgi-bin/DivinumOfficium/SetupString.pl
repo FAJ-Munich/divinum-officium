@@ -22,6 +22,7 @@ my %subjects = (
   communi => sub { {summpont => ($version =~ /1960/ || $version =~ /1955/ || $version =~ /Divino/)} },
   'die' => \&get_dayname_for_condition,
   feria => sub { our $dayofweek + 1 },
+  commune => sub {$commune},
 );
 my %predicates = (
   tridentina => sub { shift =~ /Trident/ },
@@ -647,7 +648,12 @@ sub officestring($$;$) {
     || $fname =~ m{^Tempora[^/]*/Pent0[1-5]})
   {
     %s = %{setupstring($lang, $fname)};
-    if ($version =~ /196/ && $s{Rank} =~ /Feria.*?(III|IV) Adv/i && $day > 16) { $s{Rank} =~ s/;;2.1/;;4.9/; }
+
+    if ($version =~ /196/ && $s{Rank} =~ /Feria.*?(III|IV) Adv/i && $day > 16) {
+      $s{Rank} =~ s/;;2\.1/;;4.9/;
+    } elsif ($version =~ /cist/i && $s{Rank} =~ /Feria.*?(III|IV) Adv/i && $day > 16) {
+      $s{Rank} =~ s/;;1\.15/;;2.1/;
+    }
     return \%s;
   }
 

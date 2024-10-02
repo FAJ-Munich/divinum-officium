@@ -815,9 +815,8 @@ sub oratio {
 
     # add commemorated from winner
     unless (
-      ($rank >= 6 && $dayname[0] !~ /Pasc[07]|Pent01/)
-
-      #				|| $rule =~ /no commemoratio/i
+      # Duplex I. classis: excludes Commemoratio reduced to Simplex
+      ($rank >= ($version !~ /cist/i ? 6 : 7) && $dayname[0] !~ /Pasc[07]|Pent01/)
       || ($version =~ /196/ && $winner{Rule} =~ /nocomm1960/i)
     ) {
 
@@ -915,7 +914,7 @@ sub oratio {
         }
 
         # add commemorated from cwinner
-        unless (($rank >= 6 && $dayname[0] !~ /Pasc[07]|Nat0?6/)
+        unless (($rank >= ($version !~ /cist/i ? 6 : 7) && $dayname[0] !~ /Pasc[07]|Nat0?6/)
           || $rule =~ /no commemoratio/i
           || ($version =~ /196/ && $c{Rule} =~ /nocomm1960/i))
         {
@@ -1006,7 +1005,7 @@ sub oratio {
         }
 
         # add commemorated from commemo
-        unless (($rank >= 6 && $dayname[0] !~ /Pasc[07]/)
+        unless (($rank >= ($version !~ /cist/i ? 6 : 7) && $dayname[0] !~ /Pasc[07]/)
           || $rule =~ /no commemoratio/i
           || ($version =~ /196/ && $c{Rule} =~ /nocomm1960/i))
         {
@@ -1072,7 +1071,7 @@ sub oratio {
 
           if ($c) {
             $ccind++;
-            $key = $ccind + 8500;    # 10000 - 1.5 * 1000
+            $key = $ccind + ($version !~ /cist/i ? 8500 : 8750);    # 10000 - 1.5 * 1000
             $cc{$key} = $c;
           }
         }
@@ -1126,15 +1125,18 @@ sub getcommemoratio {
     return '';
   }
   my @rank = split(";;", $w{Rank});
-  if ($rank[1] =~ /Feria/ && $rank[2] < 2.1) { return; }    #no commemoration of no privileged feria
+  return
+    if (
+         $rank[2] < 2.1
+      && $rank[2] != 1.15
+      && (
+        # no commemoration of no privileged feria
+        $rank[1] =~ /Feria/
 
-  if ( $rank[0] =~ /Infra Octav/i
-    && $rank[2] < 2.1
-    && $rank >= 5
-    && $winner =~ /Sancti/i)
-  {
-    return;
-  }    #no commemoration of octava common in 2nd class unless in concurrence => to be checked
+        #no commemoration of octava common in 2nd class unless in concurrence => to be checked
+        || ($rank[0] =~ /Infra Octav/i && $rank >= 5 && $winner =~ /Sancti/i)
+      )
+    );
 
   if ($rank[3] =~ /(ex|vide)\s+(.*)\s*$/i) {
     my $file = $2;
