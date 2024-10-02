@@ -21,6 +21,7 @@ my %subjects = (
   missa => sub { our $missanumber },
   communi => sub { {summpont => ($version =~ /1960/ || $version =~ /1955/ || $version =~ /Divino/)} },
   'die' => \&get_dayname_for_condition,
+  feria => sub { our $dayofweek + 1 },
   tonus => sub {$chantTone},
   toni => sub {$chantTone},
   commune => sub {$commune},

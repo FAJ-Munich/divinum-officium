@@ -411,7 +411,7 @@ sub occurrence {
       $officename[1] .= " $communetype $communesname{$commune} [$commune]";
     }
 
-    if ($winner =~ /01-12t/ && ($hora =~ /laudes/i || $vespera == 3)) {
+    if ($winner =~ /01-12t/ && $hora =~ /laudes/i) {
       unshift(@commemoentries, 'Sancti/01-06.txt');
       $commemoratio = 'Sancti/01-06.txt';
       $comrank = 5.6;
@@ -538,7 +538,9 @@ sub occurrence {
 
     if ($srank[0] =~ /vigil/i && $srank[0] !~ /Epiph/i) {
       $laudesonly =
-        ($dayname[0] =~ /(Adv|Quad[0-6])/i || ($dayname[0] =~ /Quadp3/i && $dayofweek >= 4))
+        (    $dayname[0] =~ /(Adv|Quad[0-6])/i
+          || ($dayname[0] =~ /Quadp3/i && $dayofweek >= 4)
+          || ($dayname[0] =~ /Quadp/i && $version =~ /Monastic.*Divino/i))
         ? ' ad Missam tantum'
         : ' ad Laudes tantum';
     } else {
@@ -2076,7 +2078,7 @@ sub gettempora {
 
   if ( $caller eq 'Doxology'
     || $caller eq 'Prima responsory'
-    || ($version =~ /196/ && $caller ne 'Psalmi minor' && $caller ne 'Nunc dimittis'))
+    || ($version =~ /monastic|196/i && $caller ne 'Psalmi minor' && $caller ne 'Nunc dimittis'))
   {
     if ($dayname[0] =~ /^Nat/) {
       $tname = ($day >= 6 && $day < 13) ? 'Epi' : 'Nat';
