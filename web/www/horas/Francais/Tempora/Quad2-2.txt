@@ -1,8 +1,6 @@
 [Rank]
 Feria Tertia infra Hebdomadam II in Quadragesima;;Feria major;;3
 
-[Rule]
-
 [Lectio1]
 Lecture du saint Évangile selon saint Matthieu
 !Matt 23:1-12

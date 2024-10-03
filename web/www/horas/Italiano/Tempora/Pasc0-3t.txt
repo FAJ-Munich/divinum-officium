@@ -9,6 +9,10 @@ Minores sine Antiphona;
 Capitulum Versum 2;
 Psalmi Dominica;
 
+[Oratio]
+O Dio, che ogni anno ci allieti colla solennità della risurrezione del Signore: concedi benigno, che, mediante le feste temporali che celebriamo, meritiamo di giungere alle gioie eterne.
+$Per eumdem
+
 [Ant Matutinum]
 @Tempora/Pasc0-0::s/^V\..*//sm
 V. Si rallegrarono i discepoli, alleluia.
@@ -46,10 +50,6 @@ Si può anche domandare, perché il Signore dopo la sua risurrezione stava sul l
 
 [Ant 2]
 Gettate la rete * a destra della barca e ne troverete, alleluia.
-
-[Oratio]
-O Dio, che ogni anno ci allieti colla solennità della risurrezione del Signore: concedi benigno, che, mediante le feste temporali che celebriamo, meritiamo di giungere alle gioie eterne.
-$Per eumdem
 
 [Ant 3]
 Gesù disse * ai suoi discepoli: Portate qua dei pesci che avete preso ora. Simon Pietro montò nella barca e tirò a terra la rete piena di grossi pesci, alleluia.

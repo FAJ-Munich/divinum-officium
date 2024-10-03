@@ -1,8 +1,6 @@
 [Rank]
 Feria Quinta infra Hebdomadam I in Quadragesima;;Feria major;;2
 
-[Rule]
-
 [Lectio1]
 Lettura del santo Vangelo secondo Matteo
 !Matt 15:21-28

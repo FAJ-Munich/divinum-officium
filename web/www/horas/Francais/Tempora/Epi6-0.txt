@@ -90,8 +90,8 @@ Mais celles-ci, lorsqu’elles ont poussé, ne manifestent rien de mordant, rien
 [Ant 2]
 Le royaume des cieux * est semblable à un grain de sénevé ; c’est la plus petite de toutes les semences ; mais lorsqu’elle a grandi, elle est plus grande, que toutes les autres plantes.
 
-[Ant 3]
-Le royaume des cieux * est semblable à un ferment qu’une femme prend et mêle à trois mesures de farine, jusqu’à ce que le tout soit levé.
-
 [Versum 3]
 @Tempora/Epi2-0:Versum 3
+
+[Ant 3]
+Le royaume des cieux * est semblable à un ferment qu’une femme prend et mêle à trois mesures de farine, jusqu’à ce que le tout soit levé.

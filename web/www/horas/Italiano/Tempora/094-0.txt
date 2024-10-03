@@ -1,9 +1,9 @@
-[Ant 1]
-Adonai, Signore, * Dio grande e mirabile, che desti la salvezza per mano d'una donna, esaudisci le preghiere dei tuoi servi.
-
 [Versum 1]
 V. La preghiera della sera salga a te, o Signore.
 R. E discenda su di noi la tua misericordia.
+
+[Ant 1]
+Adonai, Signore, * Dio grande e mirabile, che desti la salvezza per mano d'una donna, esaudisci le preghiere dei tuoi servi.
 
 [Lectio1]
 Incomincia il libro di Giuditta

@@ -1,5 +1,7 @@
 [Rank]
 Feria Quarta in Rogationibus in Vigilia Ascensionis;;Vigilia;;1.5
+(sed rubrica cisterciensis)
+Feria Quarta in Rogationibus in Vigilia Ascensionis;;Feria;;1.25
 
 [Rank](rubrica 196 aut rubrica innovata)
 In Vigilia Ascensionis;;Feria;;5

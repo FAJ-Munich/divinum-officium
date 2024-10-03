@@ -1,1 +1,4 @@
 @Tempora/Quad4-4
+
+[Rule]
+

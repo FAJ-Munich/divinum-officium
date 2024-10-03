@@ -4,7 +4,7 @@
 12-01=12-01C=S. Eligii, Episcopi et Confessoris=1=
 12-02=12-02=S. Bibianae Virginis et Martyris=2=
 12-03=12-03C=S. Galgani Confessoris=3=
-12-04=12-04~12-04o=S. Petri Chrysologi Episcopi Confessoris Ecclesiae Doctoris=3=S. Barbarae Virginis et Martyris=1=
+12-04=12-02m~12-04o=S. Petri Chrysologi Episcopi Confessoris Ecclesiae Doctoris=3=S. Barbarae Virginis et Martyris=1=
 12-05=12-03=S. Francisci Xaverii Confessoris=3=
 12-06=12-06=S. Nicolai Episcopi et Confessoris=2=
 12-07=12-07C=Vigilia

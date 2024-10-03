@@ -20,6 +20,10 @@ Quando verrà il Consolatore, * che io vi manderò, lo Spirito di verità, che p
 Dio onnipotente ed eterno, fa che la nostra volontà ti sia sempre devota, e che serviamo alla tua maestà con cuore sincero. 
 $Per Dominum
 
+[Commemoratio]
+!Commemorazione dell'Ottava dell'Ascensione.
+@Tempora/Pasc5-4:Oratio
+
 [Lectio1]
 Incomincia la prima Lettera dell'Apostolo san Giovanni
 !1 Giov 1:1-5
@@ -86,20 +90,16 @@ Quindi aggiunse, come conseguenza, queste parole che abbiamo cominciato a spiega
 v. Carissimi: Siate prudenti, e vegliate nella preghiera. Ma sopra tutto abbiate l'un per l'altro una carità perseverante: perché la carità copre una moltitudine di peccati.
 $Deo gratias
 
-[Ant 2]
-@:Ant 1
-
 [Versum 2]
 @Tempora/Pasc5-4:Versum 1
 (sed rubrica tridentina)
 @:Versum 1
+
+[Ant 2]
+@:Ant 1
 
 [Versum 3]
 @:Versum 1
 
 [Ant 3]
 Vi ho detto questo, * affinché, giunta quell'ora, vi ricordiate ch'io ve l'ho detto, alleluia.
-
-[Commemoratio]
-!Commemorazione dell'Ottava dell'Ascensione.
-@Tempora/Pasc5-4:Oratio

@@ -22,8 +22,8 @@ Olvasmány Ezekiel próféta könyvéből
 [Lectio3]
 !Ezek 33:9-11
 9 Ha ellenben meginted az istentelent, hogy hagyjon fel életmódjával és térjen meg, de nem tér le útjáról, meghal ugyan gonoszsága miatt, de te megmented életedet.
-10 Te meg emberfia, mondd meg Izrael házának: Azt mondogatjátok: "Gonoszságaink és bűneink ránk nehezednek, elveszünk miattuk. Hogy is maradhatnánk életben?"
-11 Mondd meg nekik: "Amint igaz, hogy élek - mondja az Úr, az Isten -, nem lelem kedvemet az istentelen halálában. Inkább annak örülök, ha az istentelen letér útjáról és él. Térjetek meg, térjetek le gonosz utatokról! Miért akartok meghalni, Izrael háza?"
+10 Te meg emberfia, mondd meg Izrael házának: Azt mondogatjátok: „Gonoszságaink és bűneink ránk nehezednek, elveszünk miattuk. Hogy is maradhatnánk életben?”
+11 Mondd meg nekik: „Amint igaz, hogy élek - mondja az Úr, az Isten -, nem lelem kedvemet az istentelen halálában. Inkább annak örülök, ha az istentelen letér útjáról és él. Térjetek meg, térjetek le gonosz utatokról! Miért akartok meghalni, Izrael háza?”
 
 [Responsory3]
 @Tempora/111-1:Responsory3

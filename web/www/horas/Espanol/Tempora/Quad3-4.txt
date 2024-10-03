@@ -1,8 +1,6 @@
 [Rank]
 Feria Quinta infra Hebdomadam III in Quadragesima;;Feria major;;3
 
-[Rule]
-
 [Lectio1]
 @Tempora/Pasc7-6:Lectio1
 

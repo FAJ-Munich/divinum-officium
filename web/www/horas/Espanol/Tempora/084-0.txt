@@ -18,7 +18,7 @@ Empieza el Libro del Eclesiástico.
 7 ¿El arte con que obra la sabiduría, a quién ha sido jamás descubierto y manifestado?; 
 8 ¿y quién pudo entender la multiplicidad de sus designios? Sólo uno es el sabio y el grandemente terrible, que se sienta sobre su trono. 
 9 Es el Señor quien la creó y la vio y la distribuyó. 
-10 La derramó sobre todas sus obras y sobre toda carne, según la medida de su liberalidad, y la otorgó a los que le aman. 
+10 La derramó sobre todas sus obras y sobre toda carne, según la medida de su liberalidad, y la otorgó a los que le aman.
 
 [Responsory2]
 @Tempora/081-0:Responsory2
@@ -29,7 +29,7 @@ Empieza el Libro del Eclesiástico.
 12 El temor del Señor regocija el corazón, da prudencia, alegría y longevidad. 
 13 Al que teme al Señor le irá bien en sus postrimerías, y el día de su fin hallará gracia. 
 14 El amor de Dios es gloriosa sabiduría. Aquellos a quienes ella se manifiesta, la aman luego que la ven y que reconocen sus grandes obras.  
-15 El principio de la sabiduría es el temor del Señor, el cual es creado con los fieles en el seno materno. 
+15 El principio de la sabiduría es el temor del Señor, el cual es creado con los fieles en el seno materno.
 
 [Responsory3]
 @Tempora/081-0:Responsory3

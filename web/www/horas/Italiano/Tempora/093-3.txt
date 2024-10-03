@@ -7,6 +7,10 @@ Feria Quarta Quattuor Temporum Septembris;;Feria major;;4
 [Rule]
 Preces Feriales
 
+[Oratio]
+Dai rimedi della tua misericordia, Signore, sia sostenuta la nostra fragilità: affinché, se è abbattuta dalla sua miseria, sia rialzata dalla tua clemenza.
+$Per Dominum
+
 [Lectio1]
 Lettura del santo Vangelo secondo Marco
 !Marc 9:16-28
@@ -37,10 +41,6 @@ R. E ne esultammo, e ne siamo rallegrati.
 
 [Ant 2]
 Questa è una razza di demoni * che non si può far uscire altrimenti che per mezzo dell'orazione e del digiuno.
-
-[Oratio]
-Dai rimedi della tua misericordia, Signore, sia sostenuta la nostra fragilità: affinché, se è abbattuta dalla sua miseria, sia rialzata dalla tua clemenza.
-$Per Dominum
 
 [Ant 3]
 Questa è una razza di demoni * che non si può far uscire altrimenti che per mezzo dell'orazione e del digiuno.

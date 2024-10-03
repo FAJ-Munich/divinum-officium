@@ -1,7 +1,7 @@
 [Rank]
 Dominica II Post Pentecosten infra Octavam Corporis Christi;;Semiduplex I classis;;5.9;;ex Tempora/Pent01-4
 
-[Rank] (rubrica 1960)
+[Rank] (rubrica 196)
 Dominica II Post Pentecosten;;Semiduplex I classis;;5.9
 
 [Rule]
@@ -24,18 +24,22 @@ El joven Samuel * servía a Dios en presencia de Helí, y la palabra del Señor 
 Concédenos vivir siempre, Señor, en el amor y respeto a tu santo nombre, porque jamás dejas de dirigir a quienes estableces en el sólido fundamento de tu amor.
 $Per Dominum.
 
+[Commemoratio]
+!Conmemoración de la Octava del Corpus Christi
+@Tempora/Pent01-4:Oratio
+
 [Lectio1]
 Del Libro Primero de los Reyes 
 !1 Sam 4:1-3
 1 Sucedió por entonces que los filisteos se reunieron para hacer la guerra a Israel. Israel salió al encuentro de los filisteos para combatir. Acamparon cerca de Eben-Ezer, y los filisteos estaban acampados en Afec. 
 2 Habiendo presentado batalla los filisteos contra Israel, se empeñó el combate, e Israel fue derrotado por los filisteos, que mataron en el combate, en el campo, unos cuatro mil hombres. 
-3 El pueblo se recogió en el campamento, y los ancianos se preguntaron: “¿Por qué nos ha derrotado Yahvé hoy ante los filisteos?  Vamos a traer de Silo el arca de la alianza de Yahvé, para que esté entre nosotros y nos salve de la mano de nuestros enemigos.” 
+3 El pueblo se recogió en el campamento, y los ancianos se preguntaron: “¿Por qué nos ha derrotado Yahvé hoy ante los filisteos?  Vamos a traer de Silo el arca de la alianza de Yahvé, para que esté entre nosotros y nos salve de la mano de nuestros enemigos.”
 
 [Lectio2]
 !1 Sam 4:4-6
 4 Mandaron a Silo, y se trajo de allí el arca de la alianza de Yahvé Sebaot, que se sienta sobre los querubines, y con ella fueron los dos hijos de Helí, Ofni y Finés. 
 5 Cuando el arca de la alianza de Yahvé entró en el campamento, todo Israel lanzó tan grandes gritos de júbilo, que hacían retemblar la tierra. 
-6 Oyeron los filisteos el vocerío y dijeron: “¿Qué vocerío es éste tan grande que se oye hoy en el campamento de los hebreos?” Y supieron que había sido traída al campamento el arca de Yahvé. 
+6 Oyeron los filisteos el vocerío y dijeron: “¿Qué vocerío es éste tan grande que se oye hoy en el campamento de los hebreos?” Y supieron que había sido traída al campamento el arca de Yahvé.
 
 [Lectio3]
 !1 Sam 4:7-11
@@ -43,7 +47,7 @@ Del Libro Primero de los Reyes
 8 ¡Desgraciados de nosotros! ¿Quién nos librará de la mano de esos dioses poderosos? ¿Acaso no son éstos los que castigaron a Egipto con toda suerte de plagas y con peste en el desierto? 
 9 Esforzaos y sed hombres, filisteos; no tengamos que servirles nosotros a ellos, como os sirven ellos a vosotros. Sed hombres, luchad.” 
 10 Combatieron, pues, los filisteos y fue derrotado Israel, huyendo cada uno a sus tiendas. 
-11 Fue una gran derrota, en la que cayeron de Israel treinta mil peones, y fue tomada el arca de Dios, y murieron los dos hijos de Helí, Ofni y Finés. 
+11 Fue una gran derrota, en la que cayeron de Israel treinta mil peones, y fue tomada el arca de Dios, y murieron los dos hijos de Helí, Ofni y Finés.
 
 [Lectio4]
 Sermón de S. Juan Crisóstomo. 
@@ -122,7 +126,3 @@ $Deo gratias
 
 [Ant 3]
 Sal corriendo * a las plazas y calles de la ciudad y tráete a los pobres, a los lisiados, a los ciegos y a los cojos: insísteles hasta que entren y se llene la casa. Aleluya.
-
-[Commemoratio]
-!Conmemoración de la Octava del Corpus Christi
-@Tempora/Pent01-4:Oratio

@@ -9,6 +9,7 @@ Feria Quarta infra Hebdomadam II in Quadragesima;;Feria major;;3.9
 
 [Rule]
 
+
 [Lectio1]
 Léctio sancti Evangélii secúndum Matthǽum
 !Matt 20:17-28

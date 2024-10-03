@@ -7,6 +7,10 @@
 [Rule]
 Preces Feriales
 
+[Oratio]
+Niechaj miłosierdzie Twoje, Panie, wzmacnia słabość naszą, abyśmy, którzy z własnej niemocy upadamy, łaskawością Twoją wspomożeni byli.
+$Per Dominum
+
 [Lectio1]
 Czytanie Ewangelii świętej według Marka
 !Mk 9:16-28
@@ -24,7 +28,3 @@ I rzekł im: Ten rodzaj żadnym sposobem wyjść nie może, jak tylko przez modl
 
 [Ant 2]
 Ten rodzaj * demona żadnym sposobem wyjść nie może, jedno za modlitwą i postem.
-
-[Oratio]
-Niechaj miłosierdzie Twoje, Panie, wzmacnia słabość naszą, abyśmy, którzy z własnej niemocy upadamy, łaskawością Twoją wspomożeni byli.
-$Per Dominum

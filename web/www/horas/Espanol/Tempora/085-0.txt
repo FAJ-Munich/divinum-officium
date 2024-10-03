@@ -8,7 +8,7 @@ Del Libro del Eclesiástico.
 2 No te apoyes en ti mismo y en tu fuerza para vivir según los deseos de tu corazón. 
 3 No digas: “¿Quién me dominará?” porque sin duda te castigará el Señor. 
 4 No digas: “He pecado, ¿y qué me ha sucedido?” porque el Señor es paciente. 
-5 No vivas confiado en el perdón y no añadas pecados a pecados. 
+5 No vivas confiado en el perdón y no añadas pecados a pecados.
 
 [Responsory1]
 @Tempora/081-0:Responsory1
@@ -20,7 +20,7 @@ Del Libro del Eclesiástico.
 8 No difieras convertirte al Señor y no lo dejes de un día para otro; 
 9 porque de repente se desfoga su ira, y en el día de la venganza perecerás. 
 10 No te apoyes en las riquezas mal adquiridas, porque nada te aprovecharán en el día de la ira. 
-11 No te dejes llevar de todo viento y no camines por una senda cualquiera, que así es como obra el pecador de doble lengua. 
+11 No te dejes llevar de todo viento y no camines por una senda cualquiera, que así es como obra el pecador de doble lengua.
 
 [Responsory2]
 @Tempora/081-0:Responsory2

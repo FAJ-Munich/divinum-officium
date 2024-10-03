@@ -9,6 +9,7 @@ Feria Tertia infra Hebdomadam Passionis;;Feria major;;3.9
 
 [Rule]
 
+
 [Lectio1]
 Léctio sancti Evangélii secúndum Joánnem
 !Joannes 7:1-13

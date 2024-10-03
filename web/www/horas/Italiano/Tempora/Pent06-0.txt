@@ -7,12 +7,12 @@ Psalmi Dominica
 Antiphonas horas
 Symbolum Athanasium
 
-[Ant 1]
-Signore, * cancella l'iniquità del tuo servo, perchè ho agito da stolto.  
-
 [Versum 1]
 V. La preghiera della sera salga a te, o Signore.
 R. E discenda su di noi la tua misericordia.
+
+[Ant 1]
+Signore, * cancella l'iniquità del tuo servo, perchè ho agito da stolto.  
 
 [Oratio]
 O Dio delle virtù, autore di tutto ciò che è ottimo: infondi nei nostri cuori l'amore del tuo nome e metti in noi un aumento di religione; così che nutrisca ciò che è buono, e ciò che è nutrito lo conserva collo zelo della pietà.
@@ -96,15 +96,15 @@ Era quindi naturale ch'egli tenesse in riserva un alimento spirituale per far ce
 C'è dunque un ordine misterioso sempre osservato: prima la remissione dei peccati guarisce le ferite spirituali, poi si accorda l'alimento della mensa celeste con larghezza; e tuttavia questa moltitudine non è ancora chiamata a nutrirsi di alimenti più sostanziosi, e quei cuori, mancanti di fede solida, non sono punto ristorati dal corpo e sangue di Cristo. «Vi ho nutriti, dice l'Apostolo, di latte, non di cibo solido; perché ancora non potevate digerirlo, ma e neppure adesso lo potete» (1Cor. 3,2). Qui i cinque pani ricordano il latte: il cibo più sostanzioso, e il corpo di Cristo; la bevanda più corroborante e il sangue del Signore.
 &teDeum
 
-[Ant 2]
-Siccome con Gesù * c'era una gran moltitudine, la quale non aveva da mangiare, egli chiamò a sé i discepoli, e disse loro: Sento compassione di questa moltitudine, perché ecco che già da tre giorni si trattiene con me e non ha da mangiare, alleluia.
-
 [Versum 2]
 V. Il Signore regna, s'è rivestito di maestà.
 R. Il Signore s'è rivestito di forza, e s'è cinto di potenza.
 
-[Ant 3]
-Sento compassione * di questa moltitudine, perché ecco che già da tre giorni si trattiene con me e non ha da mangiare, e, se li rimando a casa loro digiuni, cadranno svenuti per via, alleluia.
+[Ant 2]
+Siccome con Gesù * c'era una gran moltitudine, la quale non aveva da mangiare, egli chiamò a sé i discepoli, e disse loro: Sento compassione di questa moltitudine, perché ecco che già da tre giorni si trattiene con me e non ha da mangiare, alleluia.
 
 [Versum 3]
 @Tempora/Pent21-0:Versum 3
+
+[Ant 3]
+Sento compassione * di questa moltitudine, perché ecco che già da tre giorni si trattiene con me e non ha da mangiare, e, se li rimando a casa loro digiuni, cadranno svenuti per via, alleluia.

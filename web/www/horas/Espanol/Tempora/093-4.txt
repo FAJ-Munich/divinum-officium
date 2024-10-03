@@ -16,7 +16,7 @@ Del Libro de Tobías.
 7 Bueno es guardar el secreto del rey, pero glorioso pregonar las obras de Dios.  
 8 Habéis hecho el bien y nada malo os pasará. Buena es la oración con el ayuno, y la limosna con la justicia. 
 9 Mejor es poco en justicia que mucho en iniquidad. Mejor es dar limosna que acumular tesoros, pues la limosna libra de la muerte y limpia de todo pecado. 
-10 Los que practican la misericordia y la justicia serán repletos de vida, mientras que los pecadores son enemigos de su propia dicha.” 
+10 Los que practican la misericordia y la justicia serán repletos de vida, mientras que los pecadores son enemigos de su propia dicha.”
 
 [Responsory2]
 @Tempora/093-0:Responsory2
@@ -29,7 +29,7 @@ Cuando sin pereza te levantabas y dejabas de comer para ir a sepultarlos, no se 
 13 Por eso me envió Dios a curarte a ti y a Sara, tu nuera. 
 15 Yo soy Rafael, uno de los siete santos ángeles que presentamos las oraciones de los justos 
 16 y tienen entrada ante la majestad del Santo. Los dos se quedaron turbados, y cayeron sobre su rostro, llenos de temor. 
-17 El les dijo: “No temáis; la paz sea con vosotros”. 
+17 El les dijo: “No temáis; la paz sea con vosotros”.
 
 [Responsory3]
 @Tempora/093-0:Responsory3

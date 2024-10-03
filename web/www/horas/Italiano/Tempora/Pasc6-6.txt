@@ -21,14 +21,6 @@ Doxology=Asc
 [Oratio]
 @Tempora/Pasc6-0
 
-[LectioJudae1]
-Incomincia la Lettera cattolica dell'Apostolo san Giuda
-!Giuda 1:1-4
-1 Giuda, servo di Gesù Cristo e fratello di Giacomo, a quelli che sono amati da Dio Padre, conservati e chiamati in Gesù Cristo. 
-2 La misericordia, la pace e la carità abbondi in voi. 
-3 Carissimi, mentre ponevo ogni sollecitudine per scrivervi sulla comune vostra salute, sono stato costretto a scrivervi per esortarvi a combattere per la fede che fu già insegnata ai cristiani. 
-4 Perché si sono intrusi certi uomini empi, per i quali già da tempo è stata scritta questa condanna, i quali convertono in lascivia la grazia del nostro Dio, e rinnegano il solo Dominatore e Signor nostro Gesù Cristo.
-
 [Lectio1]
 @:LectioJudae1
 (sed rubrica 1960)
@@ -39,13 +31,6 @@ R. Io pregherò il Padre ed egli vi darà un altro Paraclito,
 * Affinché rimanga con voi in eterno lo Spirito di verità, alleluia.
 V. Se io non andrò, il Paraclito non verrà a voi; se invece andrò, ve lo manderò.
 R. Affinché rimanga con voi in eterno lo Spirito di verità, alleluia.
-
-[LectioJudae2]
-!Giuda 1:5-8
-5 Ora io voglio ricordarvi, sebbene già sappiate tutte queste cose, che Gesù, dopo d'aver liberato il popolo dalla terra d'Egitto, sterminò poi quelli che non credettero: 
-6 e gli angeli che non conservarono la loro dignità ma abbandonarono il loro domicilio, li ha riservati sepolti nella caligine in eterne catene, per il giudizio del gran giorno. 
-7 Come Sodoma e Gomorra e le città confinanti che si macchiarono delle stesse impurità ed andarono dietro ad eccessi disonoranti, sono rimaste ad esempio, essendo state condannate alla pena del fuoco eterno; 
-8 così anche questi contaminano la (loro) carne, disprezzano l'autorità, bestemmiano la maestà.
 
 [Lectio2]
 @:LectioJudae2
@@ -59,14 +44,6 @@ V. Non parlerà da sé, ma dirà tutto ciò che avrà udito e vi annunzierà le 
 R. Quando egli verrà, vi insegnerà ogni verità, alleluia.
 &Gloria
 R. Quando egli verrà, vi insegnerà ogni verità, alleluia.
-
-[LectioJudae3]
-!Giuda 1:9-13
-9 Quando Michele Arcangelo disputando col diavolo gli contestava il corpo di Mosè, non ardì di condannarlo con parole di maledizione, ma disse: Ti reprima il Signore! 
-10 Questi invece bestemmiano tutto quello che non capiscono: e di tutto quanto che, come gli animali muti, naturalmente conoscono, abusano per pervertirsi. 
-11 Guai a loro, perché battono la strada di Caino, e per sete di guadagno si sono precipitati nell'errore di Balaam, e sono periti nella ribellione di Core!
-12 Costoro sono tante macchie nelle loro agapi, stando insieme a mensa senza rispetto, pascendo se stessi, nuvole senz'acqua, trasportate qua e là dai venti, alberi d'autunno, infruttiferi, due volte morti, sradicati, 
-13 onde furiose del mare, che spumano le proprie turpitudini, stelle erranti: cui è riserbata una tenebrosa caligine in eterno.
 
 [Lectio3]
 @:LectioJudae3
@@ -106,9 +83,31 @@ Il mondo quindi non può ricevere questo spirito, perché non lo vede, né lo co
 Si vede dunque (lo Spirito S.) in maniera invisibile. E s'egli non è in noi, non possiamo averne conoscenza: è così che noi vediamo in noi stessi la nostra coscienza. Noi vediamo bene la faccia d'un altro, e non possiamo vedere la nostra: vediamo invece la nostra coscienza, e non vediamo l'altrui. Ma la coscienza non può mai esistere che in noi: mentre lo Spirito Santo può essere anche senza di noi. Esso ci viene dato perché sia pure in noi: ma, s'egli non è in noi, ci è impossibile di vederlo e conoscerlo, come dev'essere veduto e conosciuto. Dopo aver promesso lo Spirito Santo, il Signore non volendo che si potesse credere ch'egli lo dava per sostituire se stesso, e che egli cesserebbe così d'essere co' suoi discepoli, aggiunse: «Non vi lascerò orfani, tornerò a voi» (Joann. 14, 18). Non contento dunque il Figlio di Dio di averci fatti figli adottivi di suo Padre e d'aver voluto che noi abbiamo per Padre, per un effetto della grazia, quello ch'è suo Padre per natura, mostra ancora egli stesso verso di noi una tenerezza in certo modo paterna quando dice: «Non vi lascerò orfani» (Ibi).
 &teDeum
 
+[LectioJudae1]
+Incomincia la Lettera cattolica dell'Apostolo san Giuda
+!Giuda 1:1-4
+1 Giuda, servo di Gesù Cristo e fratello di Giacomo, a quelli che sono amati da Dio Padre, conservati e chiamati in Gesù Cristo. 
+2 La misericordia, la pace e la carità abbondi in voi. 
+3 Carissimi, mentre ponevo ogni sollecitudine per scrivervi sulla comune vostra salute, sono stato costretto a scrivervi per esortarvi a combattere per la fede che fu già insegnata ai cristiani. 
+4 Perché si sono intrusi certi uomini empi, per i quali già da tempo è stata scritta questa condanna, i quali convertono in lascivia la grazia del nostro Dio, e rinnegano il solo Dominatore e Signor nostro Gesù Cristo.
+
+[LectioJudae2]
+!Giuda 1:5-8
+5 Ora io voglio ricordarvi, sebbene già sappiate tutte queste cose, che Gesù, dopo d'aver liberato il popolo dalla terra d'Egitto, sterminò poi quelli che non credettero: 
+6 e gli angeli che non conservarono la loro dignità ma abbandonarono il loro domicilio, li ha riservati sepolti nella caligine in eterne catene, per il giudizio del gran giorno. 
+7 Come Sodoma e Gomorra e le città confinanti che si macchiarono delle stesse impurità ed andarono dietro ad eccessi disonoranti, sono rimaste ad esempio, essendo state condannate alla pena del fuoco eterno; 
+8 così anche questi contaminano la (loro) carne, disprezzano l'autorità, bestemmiano la maestà.
+
+[LectioJudae3]
+!Giuda 1:9-13
+9 Quando Michele Arcangelo disputando col diavolo gli contestava il corpo di Mosè, non ardì di condannarlo con parole di maledizione, ma disse: Ti reprima il Signore! 
+10 Questi invece bestemmiano tutto quello che non capiscono: e di tutto quanto che, come gli animali muti, naturalmente conoscono, abusano per pervertirsi. 
+11 Guai a loro, perché battono la strada di Caino, e per sete di guadagno si sono precipitati nell'errore di Balaam, e sono periti nella ribellione di Core!
+12 Costoro sono tante macchie nelle loro agapi, stando insieme a mensa senza rispetto, pascendo se stessi, nuvole senz'acqua, trasportate qua e là dai venti, alberi d'autunno, infruttiferi, due volte morti, sradicati, 
+13 onde furiose del mare, che spumano le proprie turpitudini, stelle erranti: cui è riserbata una tenebrosa caligine in eterno.
+
 [Versum 2]
 @Tempora/Pasc6-0
 
 [Ant 2]
 @Tempora/Pasc6-0
-

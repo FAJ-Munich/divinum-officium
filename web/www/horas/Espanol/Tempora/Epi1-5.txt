@@ -22,7 +22,7 @@ De la Epístola I a los Corintios
 7 todo lo excusa, todo lo cree, todo lo espera, todo lo tolera. 
 8 La caridad no pasa jamás; las profecías tienen su fin, las lenguas cesarán, la ciencia se desvanecerá. 
 9 Al presente, nuestro conocimiento es imperfecto y lo mismo la profecía; 
-10 cuando llegue el fin desaparecerá eso que es imperfecto. 
+10 cuando llegue el fin desaparecerá eso que es imperfecto.
 
 [Responsory2]
 @Tempora/Epi2-5:Responsory2
@@ -31,7 +31,7 @@ De la Epístola I a los Corintios
 !1 Cor 13:11-13
 11 Cuando yo era niño hablaba como niño, pensaba como niño, razonaba como niño; cuando llegué a ser hombre dejé como inútiles las cosas de niño. 
 12 Ahora vemos por un espejo de modo confuso; entonces veremos cara a cara. Al presente conozco sólo en parte; entonces conoceré como soy conocido. 
-13 Ahora permanecen estas tres cosas: la fe, la esperanza, la caridad; pero la más excelente de ellas es la caridad. 
+13 Ahora permanecen estas tres cosas: la fe, la esperanza, la caridad; pero la más excelente de ellas es la caridad.
 
 [Responsory3]
 @Tempora/Epi2-5:Responsory3

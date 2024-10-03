@@ -1,9 +1,9 @@
-[Ant 1]
-Signore Re onnipotente, * in tuo potere son tutte le cose, e non c'è chi possa resistere al tuo volere.
-
 [Versum 1]
 V. La preghiera della sera salga a te, o Signore.
 R. E discenda su di noi la tua misericordia.
+
+[Ant 1]
+Signore Re onnipotente, * in tuo potere son tutte le cose, e non c'è chi possa resistere al tuo volere.
 
 [Lectio1]
 Incomincia il libro di Ester

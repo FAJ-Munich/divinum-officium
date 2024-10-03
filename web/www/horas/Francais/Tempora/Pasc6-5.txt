@@ -14,10 +14,6 @@ Doxology=Asc
 Feria Te Deum
 No suffragium
 
-[Commemoratio 2]
-
-[Commemoratio 3]
-
 [Lectio1]
 @Tempora/Pasc6-4r:Lectio1
 
@@ -52,18 +48,11 @@ Mes bien chers frères, si ce n’est pas dans notre chair que le Sauveur a trio
 (rubrica 1570)
 @:InIllo
 
-[InIllo]
-C’est donc dans ce corps appartenant à notre nature que la mort du Christ nous a donné la vie, que sa résurrection nous a relevés, que son ascension nous a consacrés. C’est en ce corps, d’une origine identique à la nôtre, qu’il a placé dans le royaume céleste l’arrhe de notre condition future.~
-
 [Lectio5]
 @:InIllo
 (rubrica 1570 hæc versus omittitur)
-Travaillons donc, très chers frères, afin que, de même que le Seigneur est en ce jour monté au ciel avec notre chair, ainsi, autant que nous le pouvons, nous montions par notre espérance après lui et que nous le suivions de cœur. Montons après lui par notre affection, par notre avancement dans la vertu, et même au moyen de nos vices et de nos passions. Certes, si chacun de nous s’efforce de les soumettre à sa volonté, s’accoutume à se tenir debout au-dessus d’eux, il s’en fera comme un degré pour monter plus haut. Ils nous élèveront, s’ils restent au-dessous de nous.~
-(rubrica 1570)
+Travaillons donc, très chers frères, afin que, de même que le Seigneur est en ce jour monté au ciel avec notre chair, ainsi, autant que nous le pouvons, nous montions par notre espérance après lui et que nous le suivions de cœur. Montons après lui par notre affection, par notre avancement dans la vertu, et même au moyen de nos vices et de nos passions. Certes, si chacun de nous s’efforce de les soumettre à sa volonté, s’accoutume à se tenir debout au-dessus d’eux, il s’en fera comme un degré pour monter plus haut. Ils nous élèveront, s’ils restent au-dessous de nous. (rubrica 1570)
 @:DeVitiis
-
-[DeVitiis]
-De nos vices nous nous faisons une échelle, si nous les foulons eux-mêmes aux pieds. Car la malice ne monte pas au ciel avec l’auteur du bien, ni la passion déréglée et la vie sensuelle avec le Fils de la Vierge.~
 
 [Lectio6]
 @:DeVitiis
@@ -85,3 +74,9 @@ En effet, le sang de Jésus-Christ a été répandu pour la rémission de tous l
 [Lectio9]
 « Il rendra donc témoignage de moi, et vous aussi vous rendrez témoignage ». « Car la charité de Dieu, répandue dans vos cœurs par l’Esprit-Saint qui vous sera donné », vous inspirera le courage de rendre ce témoignage. C’est ce courage qui a fait défaut à Pierre, lorsque, effrayé de la question d’une servante, il ne put rendre un témoignage véritable et fut entraîné par la crainte à renier trois fois son Maître, malgré la promesse qu’il avait faite. Or « il n’y a point de crainte dans la charité ; mais la charité parfaite chasse la crainte ». Ainsi, avant la passion du Seigneur, la crainte servile de Pierre fut interrogée par une femme esclave ; mais après la résurrection du Seigneur, c’est l’amour d’un cœur libre qui est interrogé par l’auteur même de la liberté. Aussi dans le premier cas fut-il troublé, dans le second, il était dans le calme ; alors il renia celui qu’il avait aimé, en ce moment il aimait celui qu’il avait renié. Cependant après la résurrection son amour même était encore faible et borné, il le fut jusqu’à ce que le Saint-Esprit le fortifiât et l’agrandît.
 &teDeum
+
+[DeVitiis]
+De nos vices nous nous faisons une échelle, si nous les foulons eux-mêmes aux pieds. Car la malice ne monte pas au ciel avec l’auteur du bien, ni la passion déréglée et la vie sensuelle avec le Fils de la Vierge.~
+
+[InIllo]
+C’est donc dans ce corps appartenant à notre nature que la mort du Christ nous a donné la vie, que sa résurrection nous a relevés, que son ascension nous a consacrés. C’est en ce corps, d’une origine identique à la nôtre, qu’il a placé dans le royaume céleste l’arrhe de notre condition future.~

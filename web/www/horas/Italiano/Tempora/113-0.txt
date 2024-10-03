@@ -1,9 +1,9 @@
-[Ant 1]
-Circondaci, o Signore, col tuo muro inespugnabile, e difendici sempre colle armi della tua potenza.
-
 [Versum 1]
 V. La preghiera della sera salga a te, o Signore.
 R. E discenda su di noi la tua misericordia.
+
+[Ant 1]
+Circondaci, o Signore, col tuo muro inespugnabile, e difendici sempre colle armi della tua potenza.
 
 [Lectio1]
 Incomincia il libro del Profeta Daniele

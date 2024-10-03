@@ -10,6 +10,7 @@ Antiphonas Horas
 
 [Rule] (rubrica 196)
 
+
 [Ant Vespera] (rubrica tridentina aut rubrica divino)
 @TemporaM/Pent01-4:Ant Vespera 3
 

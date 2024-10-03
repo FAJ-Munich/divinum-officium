@@ -7,6 +7,10 @@ Feria Quarta Quattuor Temporum Septembris;;Feria major;;4
 [Rule]
 Preces Feriales
 
+[Oratio]
+Te suplicamos, Señor, que mediante los auxilios de tu misericordia, sostengas nuestra fragilidad; a fin de que se repare con tu clemencia, lo que por su misma condición se deteriora.
+$Per Dominum
+
 [Lectio1]
 Lección del santo Evangelio según San Marcos. 
 !Mc 9:16-28
@@ -34,10 +38,6 @@ San Marcos dice que aquel demoníaco que el Señor curó al descender de la mont
 [Ant 2]
 Esta raza de demonios * no se puede expulsar más que con oración y ayuno.
 
-
-[Oratio]
-Te suplicamos, Señor, que mediante los auxilios de tu misericordia, sostengas nuestra fragilidad; a fin de que se repare con tu clemencia, lo que por su misma condición se deteriora.
-$Per Dominum
 
 [Ant 3]
 @:Ant 2

@@ -1,7 +1,7 @@
 [Rank]
 Dominica II. Post Pentecosten infra Octavam Corporis Christi;;Semiduplex I classis;;5.9;;ex Tempora/Pent01-4
 
-[Rank] (rubrica 1960)
+[Rank] (rubrica 196 aut rubrica 1955)
 Dominica II. Post Pentecosten;;Semiduplex;;5
 
 [Rule]
@@ -98,4 +98,3 @@ Un uomo * fece una gran cena e invitò molti: e all'ora della cena mandò un suo
 
 [Ant 3]
 Va presto * per le piazze e per le vie della città: e i poveri, gli storpi, i ciechi, e gli zoppi costringili ad entrare, finché la mia casa sia piena, alleluia.
-

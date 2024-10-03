@@ -9,6 +9,7 @@ Feria Quarta infra Hebdomadam Passionis;;Feria major;;3.9
 
 [Rule]
 
+
 [Lectio1]
 Léctio sancti Evangélii secúndum Joánnem
 !Joannes 10:22-38
