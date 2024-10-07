@@ -11,6 +11,9 @@ Capitulum Versum 2 ad Laudes tantum
 Minores sine Antiphona
 Feria
 
+[Oratio Matutinum]
+@Tempora/Quad6-4
+
 [Ant Matutinum]
 In pace * insieme io dormirò e riposerò.;;4
 Egli abiterà * nella tua dimora, riposerà sul tuo santo monte.;;14
@@ -178,6 +181,3 @@ Le donne * sedute presso il sepolcro si lamentavano, piangendo il Signore.
 
 [Oratio 2]
 @Tempora/Quad6-4:Oratio:s/sino a morire/sino a morire e morire in croce: per questo anche Dio l'ha esaltato e gli ha dato un nome che è al disopra di ogni nome/
-
-[Oratio Matutinum]
-@Tempora/Quad6-4

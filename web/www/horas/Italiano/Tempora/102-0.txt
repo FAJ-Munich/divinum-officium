@@ -1,9 +1,9 @@
-[Ant 1]
-Appena il sole * rifulse sugli scudi d'oro, i monti ne risplendettero: e la forza delle Genti fu dissipata.
-
 [Versum 1]
 V. La preghiera della sera salga a te, o Signore.
 R. E discenda su di noi la tua misericordia.
+
+[Ant 1]
+Appena il sole * rifulse sugli scudi d'oro, i monti ne risplendettero: e la forza delle Genti fu dissipata.
 
 [Lectio1]
 Dal primo libro dei Maccabei

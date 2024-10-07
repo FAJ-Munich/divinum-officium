@@ -1,7 +1,9 @@
 [Rank]
 Feria V post Cineres;;Feria major;;2
+
 [Rule]
 Preces Feriales
+
 [Lectio1]
 Lettura del santo Vangelo secondo Matteo.
 !Matt 8:5-13
@@ -50,4 +52,3 @@ Signore, * io non sono degno che tu entri sotto il mio tetto: ma di' solamente u
 [Oratio 3]
 Perdona, Signore, perdona al tuo popolo: così che dopo essere stato punito con meritati flagelli, respiri nella tua misericordia. 
 $Per Dominum
-

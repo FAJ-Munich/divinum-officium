@@ -1,8 +1,6 @@
 [Rank]
 Feria Quinta infra Hebdomadam IV in Quadragesima;;Feria major;;3
 
-[Rule]
-
 [Lectio1]
 Lecture du saint Évangile selon saint Luc
 !Luc 7:11-16

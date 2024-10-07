@@ -1,8 +1,6 @@
 [Rank]
 Sabbato infra Hebdomadam III in Quadragesima;;Feria major;;3
 
-[Rule]
-
 [Lectio1]
 Lectura del santo Evangelio según San Juan
 !Jn 8:1-11

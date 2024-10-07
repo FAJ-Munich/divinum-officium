@@ -1,9 +1,6 @@
 [Rank]
 Sobota Suchych Dni Pięćdziesiątnicy;;Semiduplex I classis;;6;;ex Pasc7-0
 
-[Rank]
-Sobota Suchych Dni Pięćdziesiątnicy;;Semiduplex I classis;;6;;ex Pasc7-0
-
 [RankNewcal]
 Sobota po Pięćdziesiątnicy;;Feria;;1;;
 
@@ -15,6 +12,10 @@ Psalmi Dominica;
 Hymnus Tertia
 Feria Te Deum
 no93
+
+[Oratio]
+Racz łaskawie, prosimy Cię, Panie, napełnić umysły nasze Duchem Świętym, którego mądrością stworzeni, a Opatrznością rządzeni jesteśmy.
+$Per Dominum eiusdem
 
 [Ant Matutinum]
 @Tempora/Pasc7-0::s/V\. .*/V. Napełnieni byli wszyscy Duchem Świętym, alleluja.\nR. I poczęli mówić, alleluja./s
@@ -51,7 +52,3 @@ I dobrze się stało, że w szabat rozpoczął, aby okazać, iż jest Stwórcą 
 
 [Ant 2]
 Miłość Boża * rozlana jest w sercach naszych, przez Ducha Świętego mieszkającego w nas, alleluja.
-
-[Oratio]
-Racz łaskawie, prosimy Cię, Panie, napełnić umysły nasze Duchem Świętym, którego mądrością stworzeni, a Opatrznością rządzeni jesteśmy.
-$Per Dominum eiusdem

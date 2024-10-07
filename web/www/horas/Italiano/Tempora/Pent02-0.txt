@@ -1,7 +1,7 @@
 [Rank]
 Dominica II. Post Pentecosten infra Octavam Corporis Christi;;Semiduplex I classis;;5.9;;ex Tempora/Pent01-4
 
-[Rank] (rubrica 1960)
+[Rank] (rubrica 196)
 Dominica II. Post Pentecosten;;Semiduplex I classis;;5.9
 
 [Rule]
@@ -23,6 +23,10 @@ Il giovinetto Samuele * serviva il Signore sotto gli occhi di Eli, e raro era in
 [Oratio]
 Signore, facci avere continuamente il timore insieme e l'amore del tuo santo nome: perché non privi mai della tua assistenza quelli che tu confermi nella saldezza del tuo amore. 
 $Per Dominum.
+
+[Commemoratio]
+!Commemorazione dell'Ottava del Corpus Domini
+@Tempora/Pent01-4:Oratio
 
 [Lectio1]
 Dal primo libro dei Re
@@ -148,7 +152,3 @@ R. E li saziò del miele stillante dalla roccia, alleluia.
 
 [Ant 3]
 Va presto * per le piazze e per le vie della città: e i poveri, gli storpi, i ciechi, e gli zoppi costringili ad entrare, finché la mia casa sia piena, alleluia.
-
-[Commemoratio]
-!Commemorazione dell'Ottava del Corpus Domini
-@Tempora/Pent01-4:Oratio

@@ -1,8 +1,6 @@
 [Rank]
 Sabbato infra Hebdomadam IV in Quadragesima;;Feria major;;3
 
-[Rule]
-
 [Lectio1]
 Lectura del santo Evangelio según San Juan
 !Jn 8:12-20
@@ -22,7 +20,7 @@ Mas la recta fe de la Iglesia Católica, condena tal aberración, y la tiene por
 @Tempora/Quad4-0:Responsory8
 
 [Lectio3]
-Él es la luz que hizo esta luz. Amemos, pues, a esta divina luz; procuremos conocerla, tengamos sed de ella para que a ella podamos llegar guiados por ella misma, y en ella de tal suerte vivamos, que jamás del todo muramos. De esta luz, profetizó el Salmista: “¡Cuán grande es, oh Dios, vuestra bondad! Porque en Vos está la fuente de la vida, y veremos la luz en vuestra luz". Y uno de los más grandes servidores de Dios: “Vos, dijo, conserváis, Señor, a los hombres y a las bestias, ya que Vos habéis multiplicado vuestra misericordia”.
+Él es la luz que hizo esta luz. Amemos, pues, a esta divina luz; procuremos conocerla, tengamos sed de ella para que a ella podamos llegar guiados por ella misma, y en ella de tal suerte vivamos, que jamás del todo muramos. De esta luz, profetizó el Salmista: “¡Cuán grande es, oh Dios, vuestra bondad! Porque en Vos está la fuente de la vida, y veremos la luz en vuestra luz”. Y uno de los más grandes servidores de Dios: “Vos, dijo, conserváis, Señor, a los hombres y a las bestias, ya que Vos habéis multiplicado vuestra misericordia”.
 
 [Responsory3]
 @Tempora/Quad4-0:Responsory9

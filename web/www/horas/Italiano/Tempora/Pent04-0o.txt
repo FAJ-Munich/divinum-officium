@@ -7,12 +7,12 @@ Psalmi Dominica
 Antiphonas horas
 Symbolum Athanasium
 
-[Ant 1]
-Davide trionfò * del Filisteo con una fionda e una pietra nel nome del Signore.
-
 [Versum 1]
 V. La preghiera della sera salga a te, o Signore.
 R. E discenda su di noi la tua misericordia.
+
+[Ant 1]
+Davide trionfò * del Filisteo con una fionda e una pietra nel nome del Signore.
 
 [Oratio]
 Concedici, o Signore che e il corso del mondo si svolga pacificamente per  noi secondo il tuo ordine; e che la tua Chiesa gusti la gioia d'una tranquilla devozione. 
@@ -117,15 +117,15 @@ Non corre alcun rischio questa barca che porta la sapienza, da cui è assente la
 Poiché, sebbene non mi dato di sapere come egli è nato (da Dio), tuttavia non m'è lecito d'ignorare ch'è nato (da Dio). Ignoro, sì, il modo della sua generazione; ma conosco il principio della sua generazione. Non eravamo presenti quando il Figlio di Dio fu generato dal Padre ; ma eravamo là quando il Padre lo proclamò Figlio di Dio. Se non crediamo a Dio, a chi crederemo? Poiché tutto ciò che crediamo, lo crediamo o per la vista o per l'udito. La vista spesso s'inganna, l'udito è sicuro in materia di fede.
 &teDeum
 
-[Ant 2]
-Entrato Gesù * in una barca, e sedutosi, si mise ammaestrare le turbe, alleluia.
-
 [Versum 2]
 V. Il Signore regna, s'è rivestito di maestà.
 R. Il Signore s'è rivestito di forza, e s'è cinto di potenza.
 
-[Ant 3]
-Maestro, * ci siamo affaticati tutta la notte, e non biamo preso nulla ; però sulla tua parola calerò rete.
+[Ant 2]
+Entrato Gesù * in una barca, e sedutosi, si mise ammaestrare le turbe, alleluia.
 
 [Versum 3]
 @Tempora/Pent21-0:Versum 3
+
+[Ant 3]
+Maestro, * ci siamo affaticati tutta la notte, e non biamo preso nulla ; però sulla tua parola calerò rete.

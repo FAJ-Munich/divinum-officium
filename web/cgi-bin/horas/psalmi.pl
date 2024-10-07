@@ -504,9 +504,10 @@ sub antetpsalm {
       postprocess_ant($ant, $lang);
       my $antp = $ant;
 
-      unless ($duplexf) {
+      unless ($duplexf && $version !~ /cist/i) {
         $antp =~ s/\s*\*.*//;
         $antp =~ s/\,$/./;
+        if ($version =~ /cist/i) { $antp .= ' ' . prayer("Ant cisterciensis", $lang); }
       }
       push(@s, "Ant. $antp");
       $lastant = ($ant =~ s/\* //r);

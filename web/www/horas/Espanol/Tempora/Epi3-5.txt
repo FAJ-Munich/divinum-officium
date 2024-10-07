@@ -10,7 +10,7 @@ De la Epístola a los Efesios
 1 Sed, en fin, imitadores de Dios, como hijos amados, 
 2 y vivid en caridad, como Cristo nos amó y se entregó por nosotros en oblación y sacrificio a Dios en olor suave. 
 3 Cuanto a la fornicación y cualquier género de impureza o avaricia, que ni se nombren entre vosotros, como conviene a santos: 
-4 ni palabras torpes, ni groserías, ni truhanerías, que desdicen de vosotros, sino más bien acción de gracias. 
+4 ni palabras torpes, ni groserías, ni truhanerías, que desdicen de vosotros, sino más bien acción de gracias.
 
 [Responsory1]
 @Tempora/Epi2-5:Responsory1
@@ -32,7 +32,7 @@ De la Epístola a los Efesios
 11 sin comunicar en las obras vanas de las tinieblas, antes bien, estigmatizadlas; 
 12 pues lo que éstos hacen en secreto repugna decirlo; 
 13 y todas estas torpezas, una vez manifestadas por la luz, quedan al descubierto, y todo lo descubierto, luz es. 
-14 Por lo cual dice: “Despierta tú que duermes, y levántate de entre los muertos, y te iluminará Cristo.” 
+14 Por lo cual dice: “Despierta tú que duermes, y levántate de entre los muertos, y te iluminará Cristo.”
 
 [Responsory3]
 @Tempora/Epi2-5:Responsory3

@@ -7,12 +7,12 @@ Psalmi Dominica
 Antiphonas horas
 Symbolum Athanasium
 
-[Ant 1]
-Conobbero tutti * da Dan fino a Bersabea, che Samuele era un fedele profeta del Signore.
-
 [Versum 1]
 V. La preghiera della sera salga a te, o Signore.
 R. E discenda su di noi la tua misericordia.
+
+[Ant 1]
+Conobbero tutti * da Dan fino a Bersabea, che Samuele era un fedele profeta del Signore.
 
 [Oratio]
 Protettore di quelli che sperano in te, o Dio, senza di cui niente è valido, niente è santo, moltiplica su di noi la tua misericordia; affinché sotto la tua guida e la tua direzione, passiamo così fra i beni temporali che non perdiamo gli eterni. 
@@ -90,16 +90,16 @@ Poiché si sdegnano, sì, ma come non si sdegnassero; disperano dei peccatori, m
 Al contrario quelli che sogliono insuperbirsi per falsa giustizia, disprezzano tutti gli altri, senza usare veruna indulgenza alla loro debolezza; e cosi quanto più non si credono peccatori, tanto più peccatori diventano. Di questo numero erano certamente i farisei, perché biasimando essi il Signore che accoglieva i peccatori, riprendevano nella durezza del loro cuore la stessa sorgente della misericordia. Ma perché erano talmente malati da ignorare il loro male, affinché conoscessero quello che erano, il medico celeste li cura con dolci rimedi, presenta loro una commovente parabola, e spreme nel loro cuore il tumore della piaga.
 &teDeum
 
-[Ant 2]
-Chi è tra voi, * che se ha cento pecore, e ne perde una, non lascia le altre novantanove nel deserto, e non va dietro a quella che ha perduta, finché l'abbia ritrovata? Alleluia.
-
 [Versum 2]
 V. Il Signore regna, s'è rivestito di maestà.
 R. Il Signore s'è rivestito di forza, e s'è cinto di potenza.
 
-[Ant 3]
-Qual è la donna, * che, se ha dieci dramme e ne perde una, non accende la lucerna, e non spazza la casa, e non cerca attentamente, finché l'abbia trovata?
+[Ant 2]
+Chi è tra voi, * che se ha cento pecore, e ne perde una, non lascia le altre novantanove nel deserto, e non va dietro a quella che ha perduta, finché l'abbia ritrovata? Alleluia.
 
 [Versum 3]
 V. Salga, Signore, la mia preghiera.
 R. Come l'incenso al tuo cospetto.
+
+[Ant 3]
+Qual è la donna, * che, se ha dieci dramme e ne perde una, non accende la lucerna, e non spazza la casa, e non cerca attentamente, finché l'abbia trovata?

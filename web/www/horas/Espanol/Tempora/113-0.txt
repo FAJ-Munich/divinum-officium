@@ -7,7 +7,7 @@ Empieza el Libro de Daniel
 1 El año tercero del reinado de Joaquim, rey de Judá, Nabucodonosor, rey de Babilonia, fue contra Jerusalén y la asedió. 
 2 Y entregó el Señor en sus manos a Joaquim, rey de Judá, y parte de los vasos de la casa de Dios, y los trajo a la tierra de Sanaar, a la casa de su dios, y metió los vasos en la casa del tesoro de su dios. 
 3 Dijo el rey a Aspenaz, jefe de sus eunucos, que trajese de los hijos de Israel, del linaje real y del de sus nobles, 
-4 cuatro mozos en los que no hubiera tacha, de buen parecer, de talento, instruidos en toda suerte de sabiduría, dotados intelectualmente y educados, capaces de servir en el palacio del rey, y a quienes se les instruyese en las letras y la lengua de los caldeos. 
+4 cuatro mozos en los que no hubiera tacha, de buen parecer, de talento, instruidos en toda suerte de sabiduría, dotados intelectualmente y educados, capaces de servir en el palacio del rey, y a quienes se les instruyese en las letras y la lengua de los caldeos.
 
 [Responsory1]
 @Tempora/Pent01-0:Responsory1
@@ -30,7 +30,7 @@ Empieza el Libro de Daniel
 12 Prueba, te ruego, a tus siervos por diez días, y que nos den a comer legumbres y agua a beber, 
 13 y compara luego nuestros rostros con los de los mozos que comen los manjares del rey, y haz después con tus siervos según veas.  
 14 Concedioles lo que le pedían y los probó por diez días, 
-15 al cabo de los cuales tenían mejor aspecto y estaban más metidos en carnes que los mozos que comían los manjares del rey. 
+15 al cabo de los cuales tenían mejor aspecto y estaban más metidos en carnes que los mozos que comían los manjares del rey.
 
 [Responsory3]
 @Tempora/111-0:Responsory3

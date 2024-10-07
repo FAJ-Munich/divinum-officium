@@ -156,18 +156,31 @@ $Indulgentiam
 @:Preces Dominicales Prima_2
 
 [Commemoratio defunctorum]
-$commemoratio omnium
-$Requiescant
+$commemoratio omnium 
+
+(rubrica altovadensis dicitur)
+&necrologium
+
+$RequiescantC
 _
 &psalm(129)
 _
-$Aportainferi
+$Aportainferi ~
+
 $Requiescant
 $Domine exaudi
+(sed rubrica cisterciensis omittitur)
+
 &Dominus_vobiscum2
+(sed rubrica cisterciensis)
+&Dominus_vobiscum
 $Oremus
 $deus veniae
 $Per Dominum
+(sed rubrica cisterciensis)
+$Amen
 _
 $Requiem2
+(sed rubrica cisterciensis)
+ ~
 $Requiescant

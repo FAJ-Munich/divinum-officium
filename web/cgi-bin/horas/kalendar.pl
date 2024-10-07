@@ -217,10 +217,19 @@ sub kalendar_entry {
     $c2 .= setfont($smallfont, " *L1*");
   }
 
+  our $hora;
+  my $temphora = $hora;
+  $hora = 'Vespera';
+  precedence($date);
+  $hora = $temphora;
+  my $cv = $dayname[2];
+  $cv =~ s/.*?(Vespera|A capitulo|$)/$1/;
+
   if ($compare) {
     $c2 ||= '_';
+    $cv ||= '_';
   }
-  return ($c1, $c2);
+  return ($c1, $c2, $cv);
 }
 
 # prepare html table with entries
@@ -230,7 +239,7 @@ sub kalendar_table {
   my $output = << "PrintTag";
 <P ALIGN=CENTER>
 <TABLE BORDER=$border WIDTH=90% CELLPADDING=3 STYLE="color: black">
-<TR><TH>Dies</TH><TH>de Tempore</TH><TH>Sanctorum</TH><TH>d.h.</TH></TR>
+  <TR><TH>Dies</TH><TH>de Tempore</TH><TH>Sanctorum</TH><TH>Vespera</TH><TH>d.h.</TH></TR>
 PrintTag
 
   my $to = (MONTHLENGTH)[$kmonth];
@@ -250,25 +259,28 @@ PrintTag
 
       if ($yday == 1) {    # add extra headline at the start of a new month
         $output .= << "PrintTag";
-<TR><TH COLSPAN="4" ALIGN=CENTER">
+<TR><TH COLSPAN="5" ALIGN=CENTER">
 <A HREF=# onclick=\"setkm($ymonth)\">@{[(MONTHNAMES)[$ymonth]]} $kyear</A>
 </TH></TR>
 PrintTag
       }
     }
-    my (@c1, @c2) = ((), ());
+    my (@c1, @c2, @cv) = ((), (), ());
 
     for (0 .. $compare) {
-      my ($c1, $c2) = kalendar_entry($date1, $ver[$_], $compare);
+      my ($c1, $c2, $cv) = kalendar_entry($date1, $ver[$_], $compare);
       push(@c1, $c1);
       push(@c2, $c2);
+      push(@cv, $cv);
     }
     my $c1 = join('<BR>', @c1);
     my $c2 = join('<BR>', @c2);
+    my $cv = join('<BR>', @cv);
     $output .= << "PrintTag";
 <TR><TD ALIGN=CENTER><A HREF=# onclick="callbrevi('$date1');">$d1</A></TD>
 <TD>$c1</TD>
 <TD>$c2</TD>
+<TD><FONT SIZE=-2>$cv</FONT></TD>
 <TD ALIGN=CENTER>@{[(DAYNAMES)[$dayofweek]]}</TD>
 </TR>
 PrintTag

@@ -1,5 +1,3 @@
-@Tempora/Epi3-0
-
 [Rank]
 Dominica III Post Epiphaniam;;Simplex;;1
 

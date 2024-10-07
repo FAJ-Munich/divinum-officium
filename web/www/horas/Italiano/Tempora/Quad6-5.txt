@@ -16,6 +16,18 @@ Capitulum Versum 2 ad Laudes tantum
 Minores sine Antiphona
 Feria
 
+[Ant Vespera]
+@Tempora/Quad6-4
+
+[Oratio Matutinum]
+@Tempora/Quad6-4
+
+[Oratio]
+@Tempora/Quad6-4::s/sino a morire/sino a morire e morire in croce/
+
+[Prelude Vespera] (rubrica 1955 aut rubrica 1960)
+!Coloro che sono presenti all'Azione liturgica pomeridiana oggi non dicono i Vespri
+
 [Ant Matutinum]
 Son insorti i re della terra * e i principi han cospirato insieme contro il Signore e contro il suo Cristo.;;2
 Si divisero * i miei panni, e sulla mia tunica tiraron la sorte.;;21
@@ -87,7 +99,6 @@ R. Vigna mia eletta, io stesso t'ho piantata: * Come sei divenuta così amara, d
 Dal Trattato di sant'Agostino Vescovo sui Salmi
 !Sul Salmo 63 al verso 2
 «Mi hai protetto, o Dio. dalla congiura dei malvagi, da una ciurma di operatori d'iniquità» (Ps. 63,3). Miriamo ora il nostro stesso capo. Molti Martiri hanno sofferto simili cose, ma nessuno risplende tanto come il capo dei Martiri: in lui comprendiamo meglio ciò ch'essi han sofferto. Egli fu protetto da una ciurma di malvagi, per la protezione di Dio, per la protezione che lo stesso Figlio accordò alla sua carne e umanità che portava: essendo egli figlio dell'uomo e Figlio di Dio. Figlio di Dio per la natura divina: figlio dell'uomo per la natura di servo, avendo potere di lasciar la sua vita e di riprenderla. Che cosa gli poterono fare i nemici? Uccisero sì il suo corpo, ma non ne uccisero l'anima. Notatelo bene. Sarebbe stato poco per il Signore esortare i Martiri colla parola, se non li avesse incoraggiati coll'esempio.
-
 
 [Responsory4]
 R. Quasi io fossi un assassino siete venuti a prendermi con spade e bastoni: 
@@ -174,18 +185,6 @@ R. Come i morti da secoli.
 
 [Ant 2]
 E gli posero * sopra la testa il titolo della condanna: Gesù di Nazaret, Re dei Giudei.
-
-[Oratio]
-@Tempora/Quad6-4::s/sino a morire/sino a morire e morire in croce/
-
-[Oratio Matutinum]
-@Tempora/Quad6-4
-
-[Prelude Vespera] (rubrica 1955 aut rubrica 1960)
-!Coloro che sono presenti all'Azione liturgica pomeridiana oggi non dicono i Vespri
-
-[Ant Vespera]
-@Tempora/Quad6-4
 
 [Versum 3]
 @:Versum 2

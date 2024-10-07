@@ -55,9 +55,7 @@ R. El Señor, al son de trompetas. Aleluya.
 Padre, * he revelado tu nombre a los que me has dado. Ahora Yo ruego por ellos, no ruego por el mundo, porque voy a ti. Aleluya.
 
 [Oratio]
-Dios todopoderoso, concede a quienes creemos que tu Hijo~
-y Salvador nuestro ha subido hoy a los cielos, vivir en ascensión continua~
-hasta alcanzar la eterna morada.
+Dios todopoderoso, concede a quienes creemos que tu Hijo y Salvador nuestro ha subido hoy a los cielos, vivir en ascensión continua hasta alcanzar la eterna morada.
 $Per eumdem
 
 [Invit]
@@ -142,7 +140,7 @@ R. Y contemplándolo ellos se elevó, aleluya; y una nube le ocultó a sus ojos,
 6 Ellos, pues, estando reunidos, le preguntaban: Señor, ¿es ahora cuando vas a restablecer el reino de Israel? 
 7 Él les dijo: No os toca a vosotros conocer los tiempos ni los momentos que el Padre ha fijado en virtud de su poder soberano; 
 8 pero recibiréis la virtud del Espíritu Santo, que descenderá sobre vosotros, y seréis mis testigos en Jerusalén, en toda la Judea, en Samaría y hasta los extremos de la tierra. 
-9 Dicho esto y viéndole ellos, se elevó, y una nube le ocultó a sus ojos. 
+9 Dicho esto y viéndole ellos, se elevó, y una nube le ocultó a sus ojos.
 
 [Responsory2]
 R. Toda la hermosura del Señor ha sido exaltada sobre los cielos: 
@@ -156,7 +154,7 @@ R. Su hermosura resplandece en las nubes del cielo, y su nombre permanece para s
 11 y les dijeron: Varones galileos, ¿qué estáis mirando al cielo? Ese Jesús que ha sido llevado de entre vosotros al cielo vendrá así, como le habéis visto ir al cielo. 
 12 Entonces se volvieron del monte llamado de los Olivos a Jerusalén, que dista de allí el camino de un sábado. 
 13 Cuando hubieron llegado, subieron al aposento superior, en donde solían morar Pedro y Juan; Santiago y Andrés; Felipe y Tomás; Bartolomé y Mateo; Santiago de Alfeo y Simón el Zelotes y Judas de Santiago. 
-14 Todos éstos perseveraban unánimes en la oración, con algunas mujeres, con María, la madre de Jesús, y con los hermanos de éste. 
+14 Todos éstos perseveraban unánimes en la oración, con algunas mujeres, con María, la madre de Jesús, y con los hermanos de éste.
 
 [Responsory3]
 R. Elévate, Señor, aleluya, 
@@ -252,9 +250,7 @@ V. El Señor en el cielo. Aleluya.
 R. Estableció su trono. Aleluya.
 _
 $Oremus
-Te rogamos nos concedas, oh Dios omnipotente, que así como creemos que tu Unigénito Hijo,~
-Redentor nuestro, subió en este día a los cielos, moremos también con el espíritu~
-en las celestes moradas.
+Te rogamos nos concedas, oh Dios omnipotente, que así como creemos que tu Unigénito Hijo, Redentor nuestro, subió en este día a los cielos, moremos también con el espíritu en las celestes moradas.
 $Per eumdem
 
 [Lectio Prima]
@@ -321,7 +317,5 @@ V. El Señor en el cielo. Aleluya.
 R. Estableció su trono. Aleluya.
 _
 $Oremus
-Te rogamos nos concedas, oh Dios omnipotente, que así como creemos que tu Unigénito Hijo,~
-Redentor nuestro, subió en este día a los cielos, moremos también con el espíritu~
-en las celestes moradas.
+Te rogamos nos concedas, oh Dios omnipotente, que así como creemos que tu Unigénito Hijo, Redentor nuestro, subió en este día a los cielos, moremos también con el espíritu en las celestes moradas.
 $Per eumdem

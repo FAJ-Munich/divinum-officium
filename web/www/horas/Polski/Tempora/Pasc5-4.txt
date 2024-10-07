@@ -20,11 +20,6 @@ Podniósłszy ręce, * błogosławił im, i był niesiony do nieba, alleluja.
 Wysławiajcie Króla nad królami * i pieśń śpiewajcie Bogu, alleluja.
 Gdy patrzyli, * podniesiony jest, a obłok wziął Go do nieba, alleluja.
 
-[Capitulum Laudes]
-!Dz 1:1-2
-v. Pierwsząm mowę uczynił, o Theophile, o wszystkiem, co począł Jezus czynić i uczyć, aż do dnia, którego rozkazawszy Apostołom przez Ducha Świętego, które obrał, wzięt jest.
-$Deo gratias
-
 [Hymnus Vespera]
 {:H-Salutishumanaesator:}v. Dawco ludzkiego odkupienia,
 Jezu, Ty naszych serc rozkoszy,
@@ -187,8 +182,7 @@ V. Bo jeżeli nie odejdę, Pocieszyciel nie przyjdzie do was, a jeśli odejdę, 
 R. Aby pozostał z wami na zawsze, Ducha prawdy, alleluja.
 
 [Lectio8]
-Dla tym większego wykazania, iż Zmartwychwstanie Pana było prawdziwe i rzeczywiste, należy zwrócić uwagę na to, co podaje Łukasz: Gdy zasiadł z nimi do stołu, przykazał im, aby nie odchodzili z Jerozolimy. I nieco dalej: W ich oczach wzniósł się w górę i obłok skrył Go przed oczyma ich.~
-Zauważcie słowa, uznajcie tajemnicę. Zasiadł z nimi do stołu i wzniósł się w górę. Posilił się i wstąpił do nieba, aby przez to przyjęcie posiłku okazała się rzeczywistość ciała. Marek zaś wspomina, iż Pan zanim wstąpił do nieba, wyrzucał uczniom twardość serca i niedowiarstwo. Co o tym sądzić należy, jak tylko to, iż Pan wtedy dlatego uczniów skarcił, ciałem ich opuszczając, aby słowa, które, odchodząc wypowiedział, w sercach słuchaczy tym głębiej się wyryły?~
+Dla tym większego wykazania, iż Zmartwychwstanie Pana było prawdziwe i rzeczywiste, należy zwrócić uwagę na to, co podaje Łukasz: Gdy zasiadł z nimi do stołu, przykazał im, aby nie odchodzili z Jerozolimy. I nieco dalej: W ich oczach wzniósł się w górę i obłok skrył Go przed oczyma ich. Zauważcie słowa, uznajcie tajemnicę. Zasiadł z nimi do stołu i wzniósł się w górę. Posilił się i wstąpił do nieba, aby przez to przyjęcie posiłku okazała się rzeczywistość ciała. Marek zaś wspomina, iż Pan zanim wstąpił do nieba, wyrzucał uczniom twardość serca i niedowiarstwo. Co o tym sądzić należy, jak tylko to, iż Pan wtedy dlatego uczniów skarcił, ciałem ich opuszczając, aby słowa, które, odchodząc wypowiedział, w sercach słuchaczy tym głębiej się wyryły?~
 
 [Responsory8]
 R. Chmury czynisz Twoim rydwanem, o Panie,
@@ -199,9 +193,13 @@ R. Przechadzasz się na skrzydłach wiatru, alleluja.
 R. Przechadzasz się na skrzydłach wiatru, alleluja.
 
 [Lectio9]
-Posłuchajmy, co po skarceniu ich zatwardziałości, upominając ich, powiedział: Idąc na cały świat, głoście Ewangelię wszelkiemu stworzeniu. Czy, moi bracia, Ewangelia miała być głoszona czy to rzeczom materialnym, czy też nierozumnym zwierzętom, iż o niej powiedział: głoście wszelkiemu stworzeniu? Jednakże w imieniu wszelkiego stworzenia jest człowiek wyrażony.~
-Człowiek ma w sobie coś z każdego stworzenia. Ma bowiem wspólne istnienie z kamieniami, życie z drzewami, czucie ze zwierzętami, rozum z Aniołami. Skoro więc człowiek z każdym stworzeniem ma coś wspólnego, to pod pewnym względem człowiek jest wszelkim stworzeniem. Wszelkiemu więc stworzeniu głoszona jest Ewangelia, jeśli jest głoszona tylko człowiekowi.
+Posłuchajmy, co po skarceniu ich zatwardziałości, upominając ich, powiedział: Idąc na cały świat, głoście Ewangelię wszelkiemu stworzeniu. Czy, moi bracia, Ewangelia miała być głoszona czy to rzeczom materialnym, czy też nierozumnym zwierzętom, iż o niej powiedział: głoście wszelkiemu stworzeniu? Jednakże w imieniu wszelkiego stworzenia jest człowiek wyrażony. Człowiek ma w sobie coś z każdego stworzenia. Ma bowiem wspólne istnienie z kamieniami, życie z drzewami, czucie ze zwierzętami, rozum z Aniołami. Skoro więc człowiek z każdym stworzeniem ma coś wspólnego, to pod pewnym względem człowiek jest wszelkim stworzeniem. Wszelkiemu więc stworzeniu głoszona jest Ewangelia, jeśli jest głoszona tylko człowiekowi.
 &teDeum
+
+[Capitulum Laudes]
+!Dz 1:1-2
+v. Pierwsząm mowę uczynił, o Theophile, o wszystkiem, co począł Jezus czynić i uczyć, aż do dnia, którego rozkazawszy Apostołom przez Ducha Świętego, które obrał, wzięt jest.
+$Deo gratias
 
 [Versum 2]
 V. Pan na niebie, alleluja.

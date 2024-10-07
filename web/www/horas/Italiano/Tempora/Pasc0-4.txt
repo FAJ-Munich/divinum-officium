@@ -9,6 +9,10 @@ Minores sine Antiphona;
 Capitulum Versum 2;
 Psalmi Dominica;
 
+[Oratio]
+O Dio, che hai radunato le Nazioni diverse nella confessione del tuo nome: fa che per i rigenerati al fonte battesimale una sola sia la fede delle menti e la pietà delle azioni.
+$Per Dominum
+
 [Lectio1]
 Lettura del santo Vangelo secondo Giovanni
 !Gio 20:11-18
@@ -42,10 +46,5 @@ R. E mentre piangevo presso il sepolcro, ho visto il Signore, alleluia, alleluia
 [Ant 2]
  Maria se ne stava * di fuori presso il sepolcro piangendo, e vide due Angeli vestiti di bianco, seduti, e il sudario ch'era stato messo sulla testa di Gesù, alleluia.
 
-[Oratio]
-O Dio, che hai radunato le Nazioni diverse nella confessione del tuo nome: fa che per i rigenerati al fonte battesimale una sola sia la fede delle menti e la pietà delle azioni.
-$Per Dominum
-
 [Ant 3]
 Han portato via il mio Signore, * e non so dove lo hanno posto: se sei tu che l'hai portato via, dimmi dove l'hai posto, alleluia: ed io lo prenderò, alleluia.
-

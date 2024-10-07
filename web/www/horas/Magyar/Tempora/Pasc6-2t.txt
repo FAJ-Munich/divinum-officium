@@ -8,7 +8,7 @@ Feria III post Ascension;;Feria;;1;;vide Tempora/Pasc5-4
 ex Tempora/Pasc5-4;
 9 Lectiones
 Doxology=Asc
-Feria Te Deum 
+Feria Te Deum
 
 [Lectio1]
 Olvasmány szent János apostol első leveléből
@@ -18,7 +18,7 @@ Olvasmány szent János apostol első leveléből
 3 S minden lélek, amely nem vallja meg Jézust, nem az Istentől való, hanem az antikrisztusé, akiről hallottátok, hogy eljön, és most már a világban is van. 
 4 Gyermekeim, ti az Istentől vagytok, és legyőztétek őket, mert nagyobb az, aki bennetek van, mint aki a világban van. 
 5 Ők a világból valók, ezért a világról beszélnek, és a világ hallgat rájuk. 
-6 Mi az Istentől vagyunk. Aki ismeri Istent, hallgat ránk. Aki nem ismeri Istent, nem hallgat ránk. Így különböztetjük meg az igazság lelkét és a tévedés lelkét. 
+6 Mi az Istentől vagyunk. Aki ismeri Istent, hallgat ránk. Aki nem ismeri Istent, nem hallgat ránk. Így különböztetjük meg az igazság lelkét és a tévedés lelkét.
 
 [Responsory1]
 @Tempora/Pasc5-4:Responsory1
@@ -28,7 +28,7 @@ Olvasmány szent János apostol első leveléből
 7 Szeretteim, szeressük egymást, mert a szeretet Istentől van, és mindenki, aki szeret, Istentől van, és mindenki, aki szeret, Istentől való és ismeri Istent. 
 8 Aki nem szeret, nem ismeri az Istent, mert az Isten szeretet. 
 9 Az Isten szeretete abban nyilvánul meg bennünk, hogy az Isten elküldte a világba egyszülött Fiát, hogy általa éljünk. 
-10 A szeretet nem abban áll, hogy mi szeretjük Istent, hanem hogy ő szeret minket, és elküldte a Fiát bűneinkért engesztelésül. 
+10 A szeretet nem abban áll, hogy mi szeretjük Istent, hanem hogy ő szeret minket, és elküldte a Fiát bűneinkért engesztelésül.
 
 [Responsory2]
 @Tempora/Pasc5-4:Responsory2
@@ -40,7 +40,7 @@ Olvasmány szent János apostol első leveléből
 13 Abból tudjuk, hogy benne élünk, ő meg bennünk, hogy a Lelkéből adott nekünk. 
 14 Láttuk és tanúságot teszünk róla, hogy az Atya elküldte a Fiút a világ Üdvözítőjéül. 
 15 Aki vallja, hogy Jézus az Isten Fia, abban benne marad az Isten, és ő is az Istenben. 
-16 Megismertük és hittünk a szeretetben, amellyel Isten van irántunk. Az Isten szeretet, és aki kitart a szeretetben, az az Istenben marad, s az Isten is benne marad. 
+16 Megismertük és hittünk a szeretetben, amellyel Isten van irántunk. Az Isten szeretet, és aki kitart a szeretetben, az az Istenben marad, s az Isten is benne marad.
 
 [Responsory3]
 @Tempora/Pasc5-4:Responsory3
@@ -52,4 +52,4 @@ Azon időben Jézus a tizenegynek jelent meg, amikor egyszer asztalnál ültek. 
 _
 Homily by Pope St Gregory the Great.
 !Same as before.
-We must ponder the meaning of these words of Mark, "He sat on the right hand of God," and how that Stephen said, (Acts vii. 56,) "Behold, I see the heavens opened, and the Son of man standing on the right hand of God." Wherefore doth Mark say that He sat, whereas Stephen testifieth that he saw Him standing But ye know, my brethren, that to sit is for him that judgeth, to stand, for him that fighteth, or helpeth.
+We must ponder the meaning of these words of Mark, „He sat on the right hand of God,” and how that Stephen said, (Acts vii. 56,) „Behold, I see the heavens opened, and the Son of man standing on the right hand of God.” Wherefore doth Mark say that He sat, whereas Stephen testifieth that he saw Him standing But ye know, my brethren, that to sit is for him that judgeth, to stand, for him that fighteth, or helpeth.

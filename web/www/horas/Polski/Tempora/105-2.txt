@@ -1,3 +1,8 @@
+[Lectio1]
+@Tempora/105-1:Lectio1Tridentina
+(sed rubrica tridentina)
+@Tempora/105-2:Lectio1Tridentina
+
 [Lectio1Tridentina]
 Z Drugiej Księgi Machabejskiej
 !2 Mch 7:24-27
@@ -6,10 +11,10 @@ Z Drugiej Księgi Machabejskiej
 26 A gdy ją długimi słowy napominał, obiecała, że synowi radzić miała.
 27 A tak schyliwszy się do niego, szydząc z okrutnego tyrana, mówiła głosem ojczystym: Synu mój, smiłuj się nade mną, któram cię dziewięć miesięcy w żywocie nosiła i przez trzy lata przy piersiach miała i chowała, i do tych lat przywiodła
 
-[Lectio1]
-@Tempora/105-1:Lectio1Tridentina
+[Lectio2]
+@Tempora/105-1:Lectio2Tridentina
 (sed rubrica tridentina)
-@Tempora/105-2:Lectio1Tridentina
+@Tempora/105-2:Lectio2Tridentina
 
 [Lectio2Tridentina]
 !2 Mch 7:28-33
@@ -20,10 +25,10 @@ Z Drugiej Księgi Machabejskiej
 32 Bo my to dla grzechów naszych cierpiemy.
 33 I acz się na nas, dla kaźni i karania, Pan Bóg nasz trochę rozgniewał, ale przejednan będzie sługom swoim.
 
-[Lectio2]
-@Tempora/105-1:Lectio2Tridentina
+[Lectio3]
+@Tempora/105-1:Lectio3Tridentina
 (sed rubrica tridentina)
-@Tempora/105-2:Lectio2Tridentina
+@Tempora/105-2:Lectio3Tridentina
 
 [Lectio3Tridentina]
 !2 Mch 7:34-41
@@ -35,8 +40,3 @@ Z Drugiej Księgi Machabejskiej
 39 Tedy król gniewem zapalony, nad tym okrutniej niż nad wszytkimi się srożył, gniewając się, że był naigrany.
 40 A tak i ten czystym zszedł, na wszytkim w Panu ufając.
 41 A na ostatek po syniech i matka koniec wzięła.
-
-[Lectio3]
-@Tempora/105-1:Lectio3Tridentina
-(sed rubrica tridentina)
-@Tempora/105-2:Lectio3Tridentina

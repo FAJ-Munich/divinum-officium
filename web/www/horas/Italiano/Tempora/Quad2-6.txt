@@ -1,8 +1,6 @@
 [Rank]
 Sabbato infra Hebdomadam II in Quadragesima;;Feria major;;2
 
-[Rule]
-
 [Lectio1]
 Lettura del santo Vangelo secondo Luca
 !Luca 15:11-32
@@ -25,7 +23,7 @@ R. Trattami come uno dei tuoi garzoni.
 @Tempora/Quad2-0:Responsory8
 
 [Lectio3]
-Ma noi che abbiamo davanti agli occhi Cristo Signore, ch'è come l'anima della nostra anima, viviamo all'ombra di Cristo. E perciò la Chiesa canta: «All'ombra di lui ch'è il mio desiderio, io m'assisi»  (Cant. 2,3). Egli dunque menando vita dissoluta, perdé la grazia, ch'è tutto l'ornamento della nostra natura. Perciò tu che hai impressa l'immagine di Dio, e che hai la sua somiglianza, non volerla distruggere colla lordura del peccato indegna d'una creatura ragionevole. Sei opera di Dio: non voler dire a un pezzo di legno: Tu sei mio padre, per non divenire simile al legno (degli idoli), essendo scritto: «Diventino simili ad essi quelli che li fanno» (Ps. 113,8). 
+Ma noi che abbiamo davanti agli occhi Cristo Signore, ch'è come l'anima della nostra anima, viviamo all'ombra di Cristo. E perciò la Chiesa canta: «All'ombra di lui ch'è il mio desiderio, io m'assisi»  (Cant. 2,3). Egli dunque menando vita dissoluta, perdé la grazia, ch'è tutto l'ornamento della nostra natura. Perciò tu che hai impressa l'immagine di Dio, e che hai la sua somiglianza, non volerla distruggere colla lordura del peccato indegna d'una creatura ragionevole. Sei opera di Dio: non voler dire a un pezzo di legno: Tu sei mio padre, per non divenire simile al legno (degli idoli), essendo scritto: «Diventino simili ad essi quelli che li fanno» (Ps. 113,8).
 
 [Responsory3]
 @Tempora/Quad2-0:Responsory9

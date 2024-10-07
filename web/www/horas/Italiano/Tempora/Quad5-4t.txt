@@ -1,8 +1,6 @@
 [Rank]
 Feria Quinta infra Hebdomadam Passionis;;Feria major;;2
 
-[Rule]
-
 [Lectio1]
 Lettura del santo Vangelo secondo Luca
 !Luca 7:36-50

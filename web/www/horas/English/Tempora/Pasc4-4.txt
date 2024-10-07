@@ -1,4 +1,4 @@
- [Rank]
+[Rank]
 Feria Quinta infra Hebdomadam IV post Octavam Paschae;;Feria;;1
 
 [Rule]

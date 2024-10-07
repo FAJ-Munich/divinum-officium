@@ -1,9 +1,9 @@
-[Ant 1]
-Non ricordare, * Signore, le mie colpe né quelle dei miei parenti, e non prender vendetta dei miei peccati.
-
 [Versum 1]
 V. La preghiera della sera salga a te, o Signore.
 R. E discenda su di noi la tua misericordia.
+
+[Ant 1]
+Non ricordare, * Signore, le mie colpe né quelle dei miei parenti, e non prender vendetta dei miei peccati.
 
 [Lectio1]
 Incomincia il libro di Tobia

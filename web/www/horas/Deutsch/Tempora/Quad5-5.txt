@@ -53,6 +53,13 @@ Niemals mich von Christus trennen,
 Dass er Freude hab' an mir.
 Amen.
 
+[Doxology]
+Mach, Jesus, dass das All dich preist,
+Der du für uns trugst großes Leid,
+Den Vater auch, den Heil'gen Geist
+Mit dir durch alle Ewigkeit.
+Amen.
+
 [Versum 1]
 V. Bitte für uns, o leidensvolle Jungfrau.
 R. Auf dass wir würdig werden der Verheißungen Christi.
@@ -74,16 +81,6 @@ _
 $Oremus
 Sei, wir bitten dich, o Herr, deinem Volke gnädig, damit wir vermeiden, was dir nicht gefällt, und dafür lieber mit der Freude an deinen Geboten gesättigt werden.
 $Per Dominum.
-
-[Doxology]
-Mach, Jesus, dass das All dich preist,
-Der du für uns trugst großes Leid,
-Den Vater auch, den Heil'gen Geist
-Mit dir durch alle Ewigkeit.
-Amen.
-
-[Versum Prima]
-Der du um unseres Heiles willen den Tod gelitten hast.
 
 [Invit]
 In Vergenwärtigung der Schmerzen der glorienreichen Jungfrau wollen wir den für uns sterbenden Herrn, * Kommt, wir wollen ihn anbeten.
@@ -281,6 +278,9 @@ $Per Dominum
 [Lectio Prima]
 !Isa 53:8
 Generationem ejus quis enarrabit, quia abscissus est de terra viventium; propter scelus populi mei percussi eum.
+
+[Versum Prima]
+Der du um unseres Heiles willen den Tod gelitten hast.
 
 [Responsory Tertia]
 R.br. Posuit me * Desolatam.
