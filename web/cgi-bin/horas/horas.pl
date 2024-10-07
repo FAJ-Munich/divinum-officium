@@ -55,7 +55,7 @@ sub horas {
     @script2 = specials(\@script2, $lang2);
   }
 
-  print_content($lang1, \@script1, $lang2, \@script2, $version !~ /(1570|1955|196)/);
+  print_content($lang1, \@script1, $lang2, \@script2, $version !~ /(1570|1955|196|Altovadensis)/);
 }
 
 #*** resolve refs($text_of_block, $lang)
@@ -907,6 +907,13 @@ sub Domine_labia : ScriptFunc {
     $text =~ s/\+\+ / /g;
   }
   $text;
+}
+
+sub Conclusio_cisterciensis : ScriptFunc {
+  my $lang = shift;
+  my @text = split(/\n/, prayer("Concl cisterciensis", $lang));
+  shift(@text) if $hora =~ /Prima/i;
+  join("\n", @text);
 }
 
 #*** martyrologium($lang)

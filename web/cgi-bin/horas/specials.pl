@@ -1888,7 +1888,7 @@ sub lectio_brevis_prima {
   setbuild('Psalterium/Prima Special', $name, 'Lectio brevis ord');
 
   #look for [Lectio Prima]
-  if ($version !~ /(1955|196)/) {
+  if ($version !~ /(1955|196|cist)/i) {
     %w = (columnsel($lang)) ? %winner : %winner2;
     my $b;
 

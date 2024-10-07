@@ -2003,7 +2003,7 @@ sub gettempora {
 
   if ($caller eq 'Lectio brevis Prima') {
     $tname = 'Feria'
-      if ($version !~ /196/ && $dayofweek >= 3 && $dayname[0] eq 'Quadp3');
+      if ($version !~ /196|cist/i && $dayofweek >= 3 && $dayname[0] eq 'Quadp3');
     $tname = 'Per Annum'
       unless $tname;
   }

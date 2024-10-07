@@ -36,14 +36,22 @@ R. Vitam ætérnam. Amen.
 
 [Secreto]
 /:secreto:/
+(sed rubrica cisterciensis)
+/:In Choro, finita Officio parvo B.M.V., dicitur secreto::/
+(sed die in Cœna Domini aut die in Parasceve aut die Sabbato Sancto)
+/:secreto:/
 
 [Secreto L]
 /:Si Matutinum a Laudibus separatur, tunc dicitur secreto::/
 (sed rubrica monastica)
 /:In Festi Simplicis, et in Officio Ferialis, et si Matutinum a Laudibus separatur, tunc dicitur secreto::/
+(sed rubrica cisterciensis)
+/:Præterquam Officio duodecim Lectionum dicitur secreto::/
 
 [Clara voce]
 /:Deinde, clara voce, dicitur Versus::/
+(sed rubrica cisterciensis)
+/:Deinde alta voce et graviter dicitur Versus::/
 
 [Secus absolute]
 /:Secus absolute incipiuntur, ut sequitur::/
@@ -312,6 +320,7 @@ $Pater secreto
 [Divinum auxilium]
 (rubrica Monastica)
 /:Si descendendum sit a choro, concluditur dicendo.:/
+(sed rubrica cisterciensis omittitur)
 Divínum auxílium + máneat semper nobíscum.
 Et cum frátribus nostris abséntibus. Amen.
 
@@ -360,9 +369,16 @@ $Per Dominum
 
 [rubrica Martyrologium] (rubrica monastica)
 /:Deinde in Choro legitur Martyrologium, quod laudabiliter fit etiam extra Chorum.:/
+(sed rubrica cisterciensis)
+/:Hic expletur Prima. Deinde legitur Martyrologium in Capitulo sine benedictione. Extra Conventum non legitur Martyrologium, sed immediate incipitur « Pretiósa. » ut infra.:/
 
 [rubrica Regula] (rubrica monastica)
 /:Extra Chorum etiam laudabiliter dicitur lectio ex S. Regulæ; secus dicitur Lectio brevis.:/
+(sed rubrica cisterciensis)
+/:Cum vero recitatur privatim, hæc erit brevis Lectio per totum annum.:/
+
+[rubrica Regula ante] (rubrica cisterciensis)
+/:In Capitulo legitur unum caput, vel pars capitis ex Regula sancti Benedicti..:/
 
 [respice]
 V. Réspice in servos tuos, Dómine, et in ópera tua, et dírige fílios eórum.
@@ -376,6 +392,9 @@ Benedictio. Dies et actus nostros in sua pace dispónat Dóminus omnípotens.
 R. Amen.
 
 [benedictio Prima]
+ ~
+(sed rubrica cisterciensis)
+$Adjutorium nostrum
 @:Jube domne
 @:benedictio Prima_
 
@@ -388,13 +407,22 @@ R. Deus.
 
 [commemoratio omnium]
 R.br. Commemorátio ómnium fratrum, familiárum Órdinis nostri, atque benefactórum nostrórum.
+(sed rubrica cisterciensis)
+/:Deinde dicit Lector::/ Commemorátio ómnium fratrum, familiárium et benefactórum defunctórum Ordinis nostri.
 
 [Requiescant]
 V. Requiéscant in pace.
 R. Amen.
 
+[deus veniae_]
+v. Deus véniæ largítor et humánæ salútis amátor: quǽsumus cleméntiam tuam: ut nostræ congregatiónis fratres, propínquos et benefactóres, qui ex hoc sǽculo transiérunt, beáta María semper vírgine intercedénte cum ómnibus sanctis tuis ad perpétuæ beatitúdinis consórtium perveníre concédas. 
+
 [deus veniae]
-v. Deus véniæ largítor et humánæ salútis amátor: quǽsumus cleméntiam tuam: ut nostræ congregatiónis fratres, propínquos et benefactóres, qui ex hoc sǽculo transiérunt, beáta María semper vírgine intercedénte cum ómnibus sanctis tuis ad perpétuæ beatitúdinis consórtium perveníre concédas.
+@:deus veniae_
+
+[deus veniae] (rubrica cisterciensis)
+@:deus veniae_: s/$/~/
+$Per Christum
 
 [oratio_Domine]
 v. Dómine Deus omnípotens, qui ad princípium hujus diéi nos perveníre fecísti: tua nos hódie salva virtúte; ut in hac die ad nullum declinémus peccátum, sed semper ad tuam justítiam faciéndam nostra procédant elóquia, dirigántur cogitatiónes et ópera.
@@ -429,3 +457,32 @@ V. Jube, Dómine, benedícere.
 
 [Ant cisterciensis]
 /:inchoatur in officio quod cum cantu celebratur tantum:/
+
+[Concl cisterciensis]
+/:Et quandocumque terminata Hora discendum est a Choro (nisi quando immediate subsequitur Missa aut cum Officio diei Officium Defunctorum, vel Sepultura, vel Processio, aut Litaniæ, ut in Rogationibus, etc.) dicitur::/
+Ant. Spíritus sanctus in te descéndet, María, ne tímeas, habébis in útero Fílium Dei.
+_
+V. Ecce ancílla Dómini.
+R. fiat mihi secúndum verbum tuum.
+_
+$Oremus
+v. Lætífica, et ádjuva nos, omnípotens et miséricors Deus, Domínicæ Conceptiónis gáudia recoléntes, et pia Dei Génitrix Virgo semper María (in cujus veneratióne hæc commemorámus) in cunctis necessitátibus nostris grátiam sancti Spíritus nobis ímpetret, et levámen. Per eúmdem Christum Dóminum nostrum.
+$Amen
+
+[sine Oremus]
+/:Et sine Oremus.:/
+(sed rubrica altovadensis)
+/:Et sine Oremus prosequitur Hebdomadarius.:/
+
+[Quorum animae]
+V. Quorum ánimæ piis ádmodum reverendórum patrum ac religiosórum fratrum suffrágiis commendántur!
+
+[Lectio regulae]
+Lectio ex Regula S.P.N.Benedicti, Caput № 
+
+[RequiescantC]
+ ~
+(sed rubrica cisterciensis)
+/:Superior::/
+$Requiescant
+
