@@ -426,3 +426,6 @@ Benedictio. Benedíctio Dei omnipoténtis + Patris, et Fílii, et Spíritus Sanc
 V. Jube, domne, benedícere.
 (sed rubrica 1960 dicitur)
 V. Jube, Dómine, benedícere.
+
+[Ant cisterciensis]
+/:inchoatur in officio quod cum cantu celebratur tantum:/
