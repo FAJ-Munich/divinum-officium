@@ -4,6 +4,7 @@ $Pater Ave Credo
  ~
 $Deus in adjutorium
 &Alleluia
+(sed rubrica cisterciensis)
 
 #Hymnus
 
@@ -43,7 +44,7 @@ $Per Dominum
 (rubrica cisterciensis dicitur)
 $Fidelium animae
 
-(rubrica cisterciensis dicitur)
+(rubrica 1951 dicitur)
 &Conclusio_cisterciensis
 
 (rubrica ^Monastic dicitur)
@@ -65,7 +66,6 @@ $Amen
 
 (rubrica ^Monastic dicitur)
 &regula
-
 #Lectio brevis
 (sed rubrica Ordo Praedicatorum omittitur)
 

@@ -2005,7 +2005,7 @@ sub gettempora {
     $tname = 'Feria'
       if ($version !~ /196|cist/i && $dayofweek >= 3 && $dayname[0] eq 'Quadp3');
     $tname = 'Per Annum'
-      unless $tname;
+      unless $tname && $version !~ /cist/i;
   }
 
   if ($caller eq 'Capitulum minor' && !$tname) {

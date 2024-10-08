@@ -118,10 +118,20 @@ sub prayer {
   my $lang = shift;
   my $version = $main::version;
 
-       $_prayers{"$lang$version"}{$name}
+  my $prayer = $_prayers{"$lang$version"}{$name}
     || $_prayers{"English$version"}{$name}
     || $_prayers{"Latin$version"}{$name}
     || $name;
+  if ($version =~ /cist/i && $name !~ /Pater Ave/i) {
+    if ($name =~ /Deus in adjutorium$/i && $version =~ /altovadensis/i) {
+      $prayer =~ s/\+ /† /;
+      $prayer =~ s/\++ //g;
+      $prayer =~ s/†/+/;
+    } else {
+      $prayer =~ s/\++ //g;
+    }
+  }
+  return $prayer;
 }
 
 #*** load_languages_data($lang1, $lang2, $missaf)
