@@ -1,9 +1,10 @@
 #Incipit
 $Pater Ave
-(sed rubrica 196 aut rubrica 1955)
+(sed rubrica 196 aut rubrica 1955 aut rubrica altovadensis)
  ~
 $Deus in adjutorium
 &Alleluia
+(sed rubrica cisterciensis)
 
 #Psalmi
 
@@ -27,8 +28,15 @@ $Deus in adjutorium
 &Dominus_vobiscum
 &Benedicamus_Domino
 $Fidelium animae
-(rubrica monastica dicitur)
-&Divinum_auxilium 
+(sed rubrica cisterciensis)
+ ~
+(rubrica Monastica dicitur)
+&Divinum_auxilium
+(rubrica cisterciensis dicitur)
+$Fidelium animae
+
+(rubrica 1951 dicitur)
+&Conclusio_cisterciensis
 
 $Pater post V
-(sed rubrica 196 aut rubrica 1955 omittitur)
+(sed rubrica 196 aut rubrica 1955 aut rubrica cisterciensis omittitur)
