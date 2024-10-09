@@ -124,14 +124,8 @@ sub prayer {
     || $_prayers{"Latin$version"}{$name}
     || $name;
 
-  if ($version =~ /cist/i && $name !~ /Pater Ave/i) {
-    if ($name =~ /Deus in adjutorium$/i && $version =~ /altovadensis/i) {
-      $prayer =~ s/\+ /† /;
-      $prayer =~ s/\++ //g;
-      $prayer =~ s/†/+/;
-    } else {
-      $prayer =~ s/\++ //g;
-    }
+  if ($version =~ /cist/i && $name !~ /Pater Ave|Incipit|clara|bene.*Final/i) {
+    $prayer =~ s/\++ //g;
   }
   return $prayer;
 }
