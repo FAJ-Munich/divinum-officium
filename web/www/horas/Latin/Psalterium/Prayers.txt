@@ -48,7 +48,7 @@ R. Vitam ætérnam. Amen.
 (sed rubrica cisterciensis)
 /:Præterquam Officio duodecim Lectionum dicitur secreto::/
 
-[Clara voce]
+[clara voce]
 /:Deinde, clara voce, dicitur Versus::/
 (sed rubrica cisterciensis)
 /:In Choro, facimus signum Crucis + atque ad signum Superioris inclinamus Altari. Deinde alta voce et graviter dicitur Versus::/
@@ -67,13 +67,15 @@ R. Vitam ætérnam. Amen.
 !Reliqua omittuntur, nisi %Laudes% separandæ sint.
 (sed rubrica tridentina aut rubrica divino)
 !Reliqua omittuntur in Officium duodecim Lectionum, quando immediatæ subsequuntur %Laudes%. Sed in Festi Simplicis, et in Officio Ferialis tam trium, quam unius Lectionis semper dicuntur ut sequitur.
+(sed rubrica cisterciensis)
+!Reliqua omittuntur in Officium xij. Lectionum, quas immediatæ subsequuntur %Laudes%. Sed tam in Feriis, quam in Festis iij. Lectionum, in Hieme et in Æstate semper dicuntur ut sequitur.
 
 [Pater Ave]
 @:Secreto
 @:Pater noster
 @:Ave Maria
 _
-@:Clara voce
+@:clara voce
 
 [Pater Ave L] (rubrica tridentina)
 @:Secus absolute
@@ -84,6 +86,8 @@ _
 @:Ave Maria
 _
 @:Secus absolute
+(rubrica cisterciensis dicitur)
+@:clara voce
 
 [Pater Ave Credo]
 @:Secreto
@@ -91,7 +95,7 @@ _
 @:Ave Maria
 @:Credo
 _
-@:Clara voce
+@:clara voce
 (sed die Epiphaniæ)
  ~
 
@@ -167,24 +171,28 @@ v. Indulgéntiam, + absolutiónem et remissiónem peccatórum nostrórum tríbua
 V. Dómine, lábia ++ mea apéries.
 R. Et os meum annuntiábit laudem tuam.
 
+[Domine labia iij] (rubrica cisterciensis)
+/:Deinde ter dicitur:/
+@:Domine labia: s/\+\+ //
+/:Mox sequitur:/
+
 [Deus in adjutorium]
-(rubrica altovadensis dicitur)
-/:Finita Commemoratione officii parvi B.M.V., facimus signum Crucis + atque ad signum Superioris inclinamus Altari.:/
 V. Deus + in adjutórium meum inténde.
 R. Dómine, ad adjuvándum me festína.
 v. Glória Patri, et Fílio, * et Spirítui Sancto.
 Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.
 
+[Deus in adjutorium tantum]
+@:Deus in adjutorium:1-2 s/\+ //
+
 [Deus in adjutorium iij]
-@:Deus in adjutorium:1-2 s/\+ //
-@:Deus in adjutorium:1-2 s/\+ //
-@:Deus in adjutorium:1-2 s/\+ //
+@:Deus in adjutorium tantum
+@:Deus in adjutorium tantum
+@:Deus in adjutorium tantum
 
 [Deus in adjutorium iij] (rubrica cisterciensis)
 /:Deinde ter dicitur:/
-@:Deus in adjutorium:1-2 s/\+ //
-(sed rubrica altovadensis)
-@:Deus in adjutorium:2-3 s/\+ //
+@:Deus in adjutorium tantum
 /:Ultimo additur::/
 
 [Tu autem_]
@@ -360,23 +368,11 @@ Per Christum Dominum nostrum.
 [Oratio Visita_]
 v. Vísita, quǽsumus, Dómine, habitatiónem istam, et omnes insídias inimíci ab ea lónge repélle: Ángeli tui sancti hábitent in ea, qui nos in pace custódiant; et benedíctio tua sit super nos semper.
 
-[Oratio_Visita]
+[oratio_Visita]
 @:Oratio Visita_
 
-[Oratio_Visita] (rubrica Ordo Praedicatorum)
+[oratio_Visita] (rubrica Ordo Praedicatorum)
 @:Oratio Visita_:s/Ángeli tui sancti hábitent/et Ángeli tui sancti habitántes/ s/qui //
-
-[oratio Visita]
-(rubrica 1963 dicitur)
-$MLitany2
-(sed rubrica 1617 aut rubrica 1930 dicitur)
-&MLitany2
-&Dominus_vobiscum1
-(sed rubrica 196 aut rubrica 1955 dicitur)
-&Dominus_vobiscum
-$Oremus
-@:Oratio_Visita
-$Per Dominum
 
 [rubrica Martyrologium] (rubrica monastica)
 /:Deinde in Choro legitur Martyrologium, quod laudabiliter fit etiam extra Chorum.:/
@@ -466,9 +462,6 @@ V. Jube, domne, benedícere.
 (sed rubrica 1960 dicitur)
 V. Jube, Dómine, benedícere.
 
-[Ant cisterciensis]
-/:inchoatur in officio quod cum cantu celebratur tantum:/
-
 [Concl cisterciensis]
 /:Et quandocumque terminata Hora discendum est a Choro (nisi quando immediate subsequitur Missa aut cum Officio diei Officium Defunctorum, vel Sepultura, vel Processio, aut Litaniæ, ut in Rogationibus, etc.) dicitur::/
 Ant. Spíritus sanctus in te descéndet, María, ne tímeas, habébis in útero Fílium Dei.
@@ -479,7 +472,6 @@ _
 $Oremus
 v. Lætífica, et ádjuva nos, omnípotens et miséricors Deus, Domínicæ Conceptiónis gáudia recoléntes, et pia Dei Génitrix Virgo semper María (in cujus veneratióne hæc commemorámus) in cunctis necessitátibus nostris grátiam sancti Spíritus nobis ímpetret, et levámen. Per eúmdem Christum Dóminum nostrum.
 $Amen
-(sed rubrica altovadensis omittuntur)
 
 [sine Oremus]
 /:Et sine Oremus.:/
@@ -492,6 +484,17 @@ V. Quorum ánimæ piis ádmodum reverendórum patrum ac religiosórum fratrum su
 [Lectio regulae]
 Lectio ex Regula S.P.N.Benedicti, Caput № 
 
-[rubrica Superior]
+[rubrica Superior] (rubrica cisterciensis)
 /:Superior::/
 
+[rubrica Incipit] (rubrica altovadensis)
+/:Finita Commemoratione officii parvi B.M.V., facimus signum Crucis + atque ad signum Superioris inclinamus Altari.:/
+
+[rubrica IncipitL] (rubrica altovadensis)
+/:Dicta Oratione Matutina aut finita Commemoratione officii parvi B.M.V. in Officio ferialis vel  iij. Lectionum, facimus signum Crucis + atque ad signum Superioris inclinamus Altari.:/
+
+[rubrica Antiphona]
+/:inchoatur in officio quod cum cantu celebratur tantum:/
+
+[rubrica CompletBMV]
+/:Postea dicitur Completorium B. Mariæ. Quo finito per totum annum, excepta Feria v. et vj. majoris hebdomadæ, cantatur solemniter:/
