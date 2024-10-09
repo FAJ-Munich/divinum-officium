@@ -236,7 +236,8 @@ sub psalmi_minor {
     && $hora =~ /prima/i
     && ($dayname[0] =~ /(Epi|Pent)/i || $version !~ /Divino/i)
     && $dayofweek == 0
-    && ($dayname[0] =~ /(Adv|Pent01)/i || checksuffragium()))
+    && ($dayname[0] =~ /(Adv|Pent01)/i || checksuffragium() || ($dayname[0] =~ /Pasc1/i && $version =~ /cist/i))
+    && ($winner =~ /Tempora/i || $version !~ /cist/i))
   {
     push(@psalm, 234);
     setbuild2('Quicumque');

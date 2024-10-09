@@ -51,7 +51,7 @@ R. Vitam ætérnam. Amen.
 [Clara voce]
 /:Deinde, clara voce, dicitur Versus::/
 (sed rubrica cisterciensis)
-/:Deinde alta voce et graviter dicitur Versus::/
+/:In Choro, facimus signum Crucis + atque ad signum Superioris inclinamus Altari. Deinde alta voce et graviter dicitur Versus::/
 
 [Secus absolute]
 /:Secus absolute incipiuntur, ut sequitur::/
@@ -168,6 +168,8 @@ V. Dómine, lábia ++ mea apéries.
 R. Et os meum annuntiábit laudem tuam.
 
 [Deus in adjutorium]
+(rubrica altovadensis dicitur)
+/:Finita Commemoratione officii parvi B.M.V., facimus signum Crucis + atque ad signum Superioris inclinamus Altari.:/
 V. Deus + in adjutórium meum inténde.
 R. Dómine, ad adjuvándum me festína.
 v. Glória Patri, et Fílio, * et Spirítui Sancto.
@@ -177,6 +179,13 @@ Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.
 @:Deus in adjutorium:1-2 s/\+ //
 @:Deus in adjutorium:1-2 s/\+ //
 @:Deus in adjutorium:1-2 s/\+ //
+
+[Deus in adjutorium iij] (rubrica cisterciensis)
+/:Deinde ter dicitur:/
+@:Deus in adjutorium:1-2 s/\+ //
+(sed rubrica altovadensis)
+@:Deus in adjutorium:2-3 s/\+ //
+/:Ultimo additur::/
 
 [Tu autem_]
 V. Tu autem, Dómine, miserére nobis.
@@ -323,6 +332,8 @@ $Pater secreto
 (sed rubrica cisterciensis omittitur)
 Divínum auxílium + máneat semper nobíscum.
 Et cum frátribus nostris abséntibus. Amen.
+(sed rubrica cisterciensis)
+Et cum frátribus nostris abséntibus. 
 
 [Alleluia Simplex]
 , allelúja.
@@ -468,6 +479,7 @@ _
 $Oremus
 v. Lætífica, et ádjuva nos, omnípotens et miséricors Deus, Domínicæ Conceptiónis gáudia recoléntes, et pia Dei Génitrix Virgo semper María (in cujus veneratióne hæc commemorámus) in cunctis necessitátibus nostris grátiam sancti Spíritus nobis ímpetret, et levámen. Per eúmdem Christum Dóminum nostrum.
 $Amen
+(sed rubrica altovadensis omittuntur)
 
 [sine Oremus]
 /:Et sine Oremus.:/
@@ -480,9 +492,6 @@ V. Quorum ánimæ piis ádmodum reverendórum patrum ac religiosórum fratrum su
 [Lectio regulae]
 Lectio ex Regula S.P.N.Benedicti, Caput № 
 
-[RequiescantC]
- ~
-(sed rubrica cisterciensis)
+[rubrica Superior]
 /:Superior::/
-$Requiescant
 

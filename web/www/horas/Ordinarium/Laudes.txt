@@ -1,11 +1,12 @@
 #Incipit
 $Pater Ave L
-(sed rubrica 196 aut rubrica 1955)
+(sed rubrica 196 aut rubrica 1955 aut rubrica altovadensis)
  ~
 (rubrica Ordo Praedicatorum dicitur)
 &versiculum_ante_laudes 
 $Deus in adjutorium
 &Alleluia
+(sed rubrica cisterciensis)
 
 (rubrica Monastica dicitur)
 &psalm(66)
@@ -32,13 +33,17 @@ $Deus in adjutorium
 &Dominus_vobiscum
 &Benedicamus_Domino
 $Fidelium animae
+(sed rubrica cisterciensis)
+ ~
 (rubrica Monastica dicitur)
 &Divinum_auxilium
+(rubrica cisterciensis dicitur)
+$Fidelium animae
 
 $Pater totum secreto
 $Dominus det
-(sed rubrica 196 aut rubrica 1955 omittitur)
+(sed rubrica 196 aut rubrica 1955 aut rubrica cisterciensis omittitur)
 
 &antiphona_finalis
 &Divinum_auxilium
-(sed rubrica 196 aut rubrica 1955 omittitur)
+(sed rubrica 196 aut rubrica 1955 aut rubrica cisterciensis omittitur)

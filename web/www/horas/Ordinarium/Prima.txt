@@ -1,9 +1,11 @@
 #Incipit
+(deinde dicitur)
 $Pater Ave Credo
-(sed rubrica 196 aut rubrica 1955 aut rubrica altovadensis)
- ~
+(sed rubrica 196 aut rubrica 1955 aut rubrica altovadensis omittitur)
 $Deus in adjutorium
+(deinde dicitur)
 &Alleluia
+(sed rubrica cisterciensis omittitur)
 
 #Hymnus
 
@@ -18,15 +20,14 @@ $Deus in adjutorium
 #Preces Dominicales
 (sed rubrica 196 aut rubrica 1955 aut rubrica cisterciensis omittitur)
 
+(deinde dicuntur)
 #Preces Feriales 
-(sed rubrica 196 aut rubrica 1955 aut rubrica ^Monastic omittitur)
 
 #Preces Dominicales et Feriales
-(sed rubrica 196 aut rubrica 1955 aut rubrica ^Monastic omittitur)
+(sed rubrica 196 aut rubrica 1955 aut rubrica ^Monastic omittuntur)
 
 #Oratio
- ~
-(rubrica 1963 aut rubrica cisterciensis dicitur)
+(rubrica ^Monastic aut rubrica cisterciensis dicitur)
 $MLitany2
 (sed rubrica 1617 aut rubrica 1930 dicitur)
 &MLitany2
@@ -38,13 +39,10 @@ $oratio_Domine
 $Per Dominum
 &Dominus_vobiscum
 &Benedicamus_Domino
-(rubrica cisterciensis dicitur)
-&Divinum_auxilium
-(rubrica cisterciensis dicitur)
-$Fidelium animae
+(rubrica cisterciensis) &Divinum_auxilium
+(rubrica cisterciensis) $Fidelium animae
 
-(rubrica cisterciensis dicitur)
-&Conclusio_cisterciensis
+(rubrica 1951) &Conclusio_cisterciensis
 
 (rubrica ^Monastic dicitur)
 $rubrica Martyrologium
@@ -65,7 +63,6 @@ $Amen
 
 (rubrica ^Monastic dicitur)
 &regula
-
 #Lectio brevis
 (sed rubrica Ordo Praedicatorum omittitur)
 
