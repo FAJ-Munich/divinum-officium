@@ -492,9 +492,6 @@ V. Quorum ánimæ piis ádmodum reverendórum patrum ac religiosórum fratrum su
 [Lectio regulae]
 Lectio ex Regula S.P.N.Benedicti, Caput № 
 
-[RequiescantC]
- ~
-(sed rubrica cisterciensis)
-/:Superior::/ ~
-$Requiescant
+[rubrica Superior]
+/:Superior::/
 

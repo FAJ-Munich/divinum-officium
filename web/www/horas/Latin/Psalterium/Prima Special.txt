@@ -157,11 +157,10 @@ $Indulgentiam
 
 [Commemoratio defunctorum]
 $commemoratio omnium 
-
 (rubrica altovadensis dicitur)
 &necrologium
-
-$RequiescantC
+(rubrica cisterciensis) $rubrica Superior
+$Requiescant
 _
 &psalm(129)
 _
