@@ -40,17 +40,21 @@ $oratio_Domine
 $Per Dominum
 &Dominus_vobiscum
 &Benedicamus_Domino
-(rubrica cisterciensis) &Divinum_auxilium
-(rubrica cisterciensis) $Fidelium animae
+(sed rubrica cisterciensis dicuntur semper)
+&Divinum_auxilium
+$Fidelium animae
+(deinde rubrica 1951 dicuntur)
 
-(rubrica 1951) &Conclusio_cisterciensis
+&Conclusio_cisterciensis
 
-(rubrica ^Monastic dicitur)
+(atque rubrica ^Monastic dicitur)
 $rubrica Martyrologium
+
 #Martyrologium
 &martyrologium
 
 #De Officio Capituli
+(rubrica cisterciensis) $pretiosa
 $Deus in adjutorium iij
 &Gloria
 $MLitany2
@@ -62,13 +66,11 @@ $sine Oremus
 $dirigere
 $Amen
 
-(rubrica ^Monastic dicitur)
-&regula
 #Lectio brevis
-(sed rubrica Ordo Praedicatorum omittitur)
-
-(rubrica Ordo Praedicatorum dicitur)
-&regula_vel_evangelium
+(sed rubrica ^Monastic dicitur)
+#Regula vel Lectio brevis
+(sed rubrica Ordo Praedicatorum dicitur)
+#Regula vel Evangelium
 
 #Conclusio
 $Adjutorium nostrum
