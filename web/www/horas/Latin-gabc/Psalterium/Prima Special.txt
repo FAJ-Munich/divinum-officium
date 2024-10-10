@@ -48,7 +48,7 @@ R.br. {gabc:Psalterium/rb--christe_fili_dei_vivi--solesmes_1961}
 R.br. {gabc:Psalterium/Passionis/rb--christe_fili_dei_vivi--passionis--solesmes_1961}
 
 [Versum]
-{initial-style:0;%%(c4) V/. Ex(f)súr(f)ge(f) Chri(f)ste,(f) ád(f)ju(f)va(f) nos.(e'_[oh:h]//fvED'Cded.) (::) (z-9 R./ Et(f) lí(f)be(f)ra(f) nos(f) pro(f)pter(f) no(f)men(f) tu(f)um,(f_') (,) al(f)le(f)lú(f)ja.(e'_[oh:h]//fvED'Cded.) (::)}
+{initial-style:0;%%(c4) V/. Ex(f)súr(f)ge(f) Chri(f)ste,(f) ád(f)ju(f)va(f) nos.(e'_[oh:h]//fvED'Cded.) (::) (Z-) R/. Et(f) lí(f)be(f)ra(f) nos(f) pro(f)pter(f) no(f)men(f) tu(f)um,(f_') (,) al(f)le(f)lú(f)ja.(e'_[oh:h]//fvED'Cded.) (::)}
 (sed tempore paschali)
 {initial-style:0;%%(c4) V/. Ex(f)súr(f)ge(f) Chri(f)ste,(f) ád(f)ju(f)va(f) nos,(f_') (,) al(f)le(f)lú(f)ja.(e'_[oh:h]//fvED'Cded.) (::) (Z-)  R./ Et(f) lí(f)be(f)ra(f) nos(f) pro(f)pter(f) no(f)men(f) tu(f)um,(f_') (,) al(f)le(f)lú(f)ja.(e'_[oh:h]//fvED'Cded.) (::)}
 
