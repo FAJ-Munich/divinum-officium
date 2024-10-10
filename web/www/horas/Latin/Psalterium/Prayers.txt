@@ -388,7 +388,7 @@ v. Vísita, quǽsumus, Dómine, habitatiónem istam, et omnes insídias inimíci
 /:Cum vero recitatur privatim, hæc erit brevis Lectio per totum annum.:/
 
 [rubrica Regula ante] (rubrica cisterciensis)
-/:In Capitulo legitur unum caput, vel pars capitis ex Regula sancti Benedicti..:/
+/:In Capitulo legitur unum caput, vel pars capitis ex Regula S. Benedicti.:/
 
 [respice]
 V. Réspice in servos tuos, Dómine, et in ópera tua, et dírige fílios eórum.
