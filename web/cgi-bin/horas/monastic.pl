@@ -471,7 +471,6 @@ sub regula {
 
   my @a;
   my $t = prayer('benedictio Prima', $lang) . "\n";
-  $t .= prayer('rubrica Regula ante', $lang) . "\n" if $version =~ /cist/i;
   my $d = $day;
   my $l = leapyear($year);
 
