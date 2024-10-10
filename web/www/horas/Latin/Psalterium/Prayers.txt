@@ -66,7 +66,7 @@ R. Vitam ætérnam. Amen.
 [rubrica Matutinum] (rubrica monastica)
 !Reliqua omittuntur, nisi %Laudes% separandæ sint.
 (sed rubrica tridentina aut rubrica divino)
-!Reliqua omittuntur in Officium duodecim Lectionum, quando immediatæ subsequuntur %Laudes%. Sed in Festi Simplicis, et in Officio Ferialis tam trium, quam unius Lectionis semper dicuntur ut sequitur.
+!Reliqua omittuntur in Officium duodecim Lectionum, quando immediatæ subsequuntur %Laudes%. Sed in Festi Simplicis, et in Officio Feriali tam trium, quam unius Lectionis semper dicuntur ut sequitur.
 (sed rubrica cisterciensis)
 !Reliqua omittuntur in Officium xij. Lectionum, quas immediatæ subsequuntur %Laudes%. Sed tam in Feriis, quam in Festis iij. Lectionum, in Hieme et in Æstate semper dicuntur ut sequitur.
 
@@ -491,7 +491,7 @@ Lectio ex Regula S.P.N.Benedicti, Caput №
 /:Finita Commemoratione officii parvi B.M.V., facimus signum Crucis + atque ad signum Superioris inclinamus Altari.:/
 
 [rubrica IncipitL] (rubrica altovadensis)
-/:Dicta Oratione Matutina aut finita Commemoratione officii parvi B.M.V. in Officio ferialis vel  iij. Lectionum, facimus signum Crucis + atque ad signum Superioris inclinamus Altari.:/
+/:Dicta Oratione Matutina aut finita Commemoratione officii parvi B.M.V. in Officio feriali vel  iij. Lectionum, facimus signum Crucis + atque ad signum Superioris inclinamus Altari.:/
 
 [rubrica Antiphona]
 /:inchoatur in officio quod cum cantu celebratur tantum:/
