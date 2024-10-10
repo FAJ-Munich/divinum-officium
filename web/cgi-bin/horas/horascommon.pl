@@ -180,7 +180,7 @@ sub occurrence {
       $sfile = subdirname('Sancti', $version) . (($sfile =~ /02-23o/) ? '' : ($sfile =~ /02-23/) ? '02-23r' : '');
     }
 
-    $BMVSabbato = ($sfile =~ /v/ || $dayofweek !~ 6) ? 0 : 1;    # nicht sicher, ob das notwendig ist
+    $BMVSabbato = ($sfile =~ /v/ || $dayofweek !~ 6 || $transfervigil) ? 0 : 1;    # nicht sicher, ob das notwendig ist
 
     if (checklatinfile(\$sfile)) {
       $sname = "$sfile.txt";
@@ -192,7 +192,7 @@ sub occurrence {
 
       if ($tomorrow) {
         $svesp = 1;
-        $BMVSabbato = ($saint{Rank} !~ /Vigilia/ && $srank[2] < 2 && $version !~ /196/ && $dayofweek == 6);
+        $BMVSabbato = ($srank[2] < 1.4 && $version !~ /196/ && $dayofweek == 6 && !$transfervigil);
 
         if ($version !~ /196|Trident/ && $hora =~ /Completorium/i && $month == 11 && $day == 1 && $dayofweek != 6) {
           $srank[2] = 7;    # Office of All Souls supersedes All Saints at Completorium from 1911 to 1959
@@ -322,18 +322,11 @@ sub occurrence {
     }
 
     # In Festo Sanctae Mariae Sabbato according to the rubrics.
-    if ( $dayname[0] !~ /(Adv|Quad[0-6]|Quadp3)/i
-      && $testmode !~ /^season$/i
-      && $BMVSabbato
-      && $srank !~ /(Vigil|in Octav)/i
-      && $trank[2] < 2
-      && $srank[2] < 2
-      && !$transfervigil)
-    {
+    if ($testmode !~ /^season$/i && $BMVSabbato && $trank[2] < 1.4 && $srank[2] < 1.4) {
       unless ($tomorrow) {
         $scriptura = ($month == 1 && $day < 13) ? $sname : $tname;
       }
-      $tempora{Rank} = $trank = "Sanctæ Mariæ Sabbato;;Simplex;;1.2;;vide $C10";
+      $tempora{Rank} = $trank = "Sanctæ Mariæ Sabbato;;Simplex;;1.3;;vide $C10";
       $tname = subdirname('Commune', $version) . "$C10.txt";
       @trank = split(";;", $trank);
     }
@@ -416,7 +409,7 @@ sub occurrence {
       $commemoratio = 'Sancti/01-06.txt';
       $comrank = 5.6;
     } elsif (($srank[2] < 7 && $sname !~ /01-01/)
-      && $trank[2] >= ($srank[2] >= 5 ? 2.1 : 2)
+      && $trank[2] >= ($srank[2] >= 5 ? 2.1 : 1.5)
       && !($srank[0] =~ /Sangu/i && $trank[0] =~ /Cord/i))
     {    # incl. github #2950
       unshift(@commemoentries, $tname);
@@ -424,7 +417,8 @@ sub occurrence {
       $comrank = $trank[2];
       $cvespera = $tvesp;
       $officename[2] = "Commemoratio: $trank[0]";
-      $officename[2] =~ s/:/ ad Laudes tantum:/ if $tfile =~ /Pasc5\-[123]/i;    # on Rogations and QT in Sep
+      $officename[2] =~ s/:/ ad Laudes \& Matutinum:/ if $tfile =~ /Pasc5\-[13]/i;    # Rogation Monday and Vigilia Acs
+      $officename[2] =~ s/:/ ad Laudes tantum:/ if $trank[0] =~ /Quattuor.*Sept/;     # QT in Sep
     } elsif (my $transferedC = $commemoentries[0]) {
       $commemoratio = "$transferedC.txt";
       my %tc = %{setupstring('Latin', "$transferedC.txt")};
@@ -854,7 +848,7 @@ sub concurrence {
     }
   } else {
 
-    #	before DA, more Semiduplex and Duplex where treated as "A capitulo"
+    #  before DA, more Semiduplex and Duplex where treated as "A capitulo"
     my $flrank =
       $version =~ /trident/i
       ? (
@@ -961,7 +955,7 @@ sub concurrence {
       %commune =
         ($version =~ /trident/i || $flrank >= 5)
         ? %{officestring($lang1, $commune, 0)}
-        : ();                          #	Commune psalms only in Trident or Dpx I./II.cl
+        : ();                          #  Commune psalms only in Trident or Dpx I./II.cl
       $tomorrowname[2] = "Commemoratio: $wrank[0]";
       $antecapitulum =
           (exists($winner{'Ant Vespera 3'})) ? $winner{'Ant Vespera 3'}
@@ -988,7 +982,7 @@ sub concurrence {
             || $winner{Rule} =~ /Psalm5 Vespera=([0-9]+)/i
             || $commune{Rule} =~ /Psalm5 Vespera=([0-9]+)/i)
         ) {
-          #	Hi-jacking an "unused" 6th line to pass on Psalm5 Vespera information to psalmi.pl
+          #  Hi-jacking an "unused" 6th line to pass on Psalm5 Vespera information to psalmi.pl
           $antecapitulum .= "\nPsalm5 VesperaAnte=$1";
         }
 
@@ -1477,7 +1471,7 @@ sub precedence {
     if ($commune =~ /C10/) {
       $rule .= "ex $C10";
       $rule =~ s/Oratio Dominica//gi;
-      $winner{Rank} = "Sanctæ Mariæ Sabbato;;Feria;;1;;ex $C10";
+      $winner{Rank} = "Sanctæ Mariæ Sabbato;;Simplex;;1.3;;ex $C10";
     }
 
     if ($winner{Rank} =~ /\;\;ex\s/

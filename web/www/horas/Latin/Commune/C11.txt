@@ -307,7 +307,7 @@ $Deo gratias.
 
 [Capitulum Nona]
 @:Lectio Prima
-$Deo gratias.
+$Deo gratias
 
 [Versum Nona]
 @Commune/C6:Versum 2

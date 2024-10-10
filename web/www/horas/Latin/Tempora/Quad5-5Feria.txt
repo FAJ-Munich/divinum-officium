@@ -1,6 +1,9 @@
 [Rank]
 Feria Sexta infra Hebdomadam Passionis;;Feria major;;2.1
 
+[Rank] (rubrica 1930)
+Feria Sexta infra Hebdomadam Passionis;;Feria major;;4.9
+
 [Rank] (rubrica 196)
 Feria Sexta infra Hebdomadam Passionis;;Feria major;;3.9
 
@@ -58,5 +61,5 @@ Non in die festo, ne forte tumúltus fíeret in pópulo.
 
 [Oratio 3]
 Concéde, quǽsumus, omnípotens Deus: ut qui protectiónis tuæ grátiam quǽrimus,~
-liberáti a malis ómnibus, secúra tibi mente servíamus.
+liberáti a malis ómnibus, secúra tibi mente serviámus.
 $Per Dominum

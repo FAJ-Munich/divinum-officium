@@ -44,7 +44,7 @@ R. Beáta Virgo, cujus víscera meruérunt portáre Dóminum Christum.
 [Lectio4]
 Sermo sancti Leónis Papæ
 !Sermo 9 de Nativ. Dom.
-Excédit quidem, dilectíssimi, multúmque superéminet humáni elóquii facultátem divini operis magnitúdo: et inde óritur difficultas fándi, unde adest rátio non tacendi. Quia in Christo Jesu Fílio Dei non solum ad divinam esséntiam, sed étiam ad humanam spectat natúram quod dictum est per prophétam: Generatiónem ejus quis enárrabit? Utrámque enim substántiam in unam convenísse persónam, nisi fides credat, sermo non explicat. Et ideo numquam materia déficit laudis, quia numquam sufficit copia laudatóris.
+Excédit quidem, dilectíssimi, multúmque superéminet humáni elóquii facultátem divini operis magnitúdo: et inde óritur difficultas fándi, unde adest rátio non tacendi. Quia in Christo Jesu Fílio Dei non solum ad divinam esséntiam, sed étiam ad humanam spectat natúram quod dictum est per prophétam: Generatiónem ejus quis enarrábit? Utrámque enim substántiam in unam convenísse persónam, nisi fides credat, sermo non explicat. Et ideo numquam materia déficit laudis, quia numquam sufficit copia laudatóris.
 
 [Responsory4]
 @Sancti/12-25:Responsory5
@@ -108,7 +108,7 @@ v. Itaque jam non est servus, sed fílius: quod si fílius, et hæres per Deum.
 v. At ubi venit plenitúdo témporis, misit Deus Fílium suum factum ex mulíere, factum sub lege, ut eos, qui sub lege erant, redímeret, ut adoptiónem filiórum reciperémus.
 $Deo gratias
 
-[Capitulum Nona]
+[Capitulum Nona] (rubrica divino aut rubrica tridentina aut rubrica monastica)
 @:Lectio Prima
 $Deo gratias
 
