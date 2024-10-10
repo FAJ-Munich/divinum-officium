@@ -1480,6 +1480,7 @@ sub getanthoras {
     : ($hora =~ /tertia/i) ? 1
     : ($hora =~ /Sexta/i) ? 2
     : 4;
+  $ind++ if $ind < 3 && $version =~ /cist/i;  # Cistercian: shift by 1 except ad Nonam
   if (@ant > 3) { $ant = $ant[$ind]; }
   return ($ant, $c);
 }
