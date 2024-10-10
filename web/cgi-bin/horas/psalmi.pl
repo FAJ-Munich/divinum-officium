@@ -481,9 +481,9 @@ sub psalmi_major {
       $psalmi[3] =~ s/.*(?=;;)//;
     }
   } elsif ($version =~ /cist/i && $hora =~ /laudes/i && $rule !~ /matutinum romanum/i) {
-    
+
     # Cistercien Lauds under single Antiphone except for Triduum and Officium Defunctorum
-    $psalmi[$_] =~ s/.*(?=;;)// foreach (1..4);
+    $psalmi[$_] =~ s/.*(?=;;)// foreach (1 .. 4);
   }
 
   if (($dayname[0] =~ /(Adv|Quad)/i || emberday()) && $hora =~ /laudes/i && $version !~ /trident/i) {
