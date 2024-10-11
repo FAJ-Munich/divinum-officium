@@ -20,8 +20,8 @@ $Deus in adjutorium tantum
 $Domine labia iij
 _
 &psalm(3)
-
 (deinde dicitur)
+
 #Invitatorium
 
 #Hymnus

@@ -362,7 +362,7 @@ sub psalmi_major {
     }
   }
 
-  if (!$w && exists($w{"Ant $hora"}) && $winner !~ /M\/C10/) {
+  if (!$w && exists($w{"Ant $hora"})) {
     $w = $w{"Ant $hora"};
     $c = ($winner =~ /tempora/i) ? 2 : 3;
   }
@@ -475,11 +475,15 @@ sub psalmi_major {
     $psalmi[2] =~ s/.*(?=;;)//;
     $psalmi[-1] =~ s/.*(?=;;)//;
 
-    if ($version =~ /monastic/i && $hora =~ /laudes/i) {
+    if ($version =~ /monastic(?! cist)/i && $hora =~ /laudes/i) {
       $psalmi[-1] =~ s/.*(?=;;)/ alleluia_ant($lang) /e;
     } else {
       $psalmi[3] =~ s/.*(?=;;)//;
     }
+  } elsif ($version =~ /cist/i && $hora =~ /laudes/i && $rule !~ /matutinum romanum/i) {
+
+    # Cistercien Lauds under single Antiphone except for Triduum and Officium Defunctorum
+    $psalmi[$_] =~ s/.*(?=;;)// foreach (1 .. 4);
   }
 
   if (($dayname[0] =~ /(Adv|Quad)/i || emberday()) && $hora =~ /laudes/i && $version !~ /trident/i) {

@@ -997,7 +997,7 @@ sub martyrologium : ScriptFunc {
     }
   }
   my $conclmart = prayer('Conclmart', $lang);
-  $conclmart =~ s/\_.*/ /si if $rule =~ /ex C9/;
+  $conclmart =~ s/\_.*/ /si if $rule =~ /ex C9/ || $version =~ /cist/i;
   $t .= $conclmart;
   return $t;
 }
