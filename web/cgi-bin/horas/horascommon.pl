@@ -326,6 +326,12 @@ sub occurrence {
       unless ($tomorrow) {
         $scriptura = ($month == 1 && $day < 13) ? $sname : $tname;
       }
+
+      if ($trank[2] == 1.15) {
+        unshift(@commemoentries, $tname);
+        $commemoratio = $tname;
+        $comrank = $trank[2];
+      }
       $tempora{Rank} = $trank = "Sanctæ Mariæ Sabbato;;Simplex;;1.3;;vide $C10";
       $tname = subdirname('Commune', $version) . "$C10.txt";
       @trank = split(";;", $trank);
@@ -1154,7 +1160,7 @@ sub concurrence {
     @comentries = ();
 
     foreach $commemo (@commemoentries) {
-      if ($commemo =~ /tempora/i && ($trank[2] < 2 || $trank[0] =~ /Rogatio|Quattuor.*Sept/i)) {
+      if ($commemo =~ /tempora/i && $trank[2] != 1.15 && ($trank[2] < 2 || $trank[0] =~ /Rogatio|Quattuor.*Sept/i)) {
         next;
       }    # Feria minor and Vigils have no Vespers if superseded
       if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
@@ -1163,7 +1169,7 @@ sub concurrence {
       if (%cstr) {
         my @cr = split(";;", $cstr{Rank});
 
-        unless (($cr[2] < $ranklimit && !($cr[2] == 2.1 || $cr[2] == 2.99 || $cr[2] == 3.9))
+        unless (($cr[2] < $ranklimit && !($cr[2] == 1.15 || $cr[2] == 2.1 || $cr[2] == 2.99 || $cr[2] == 3.9))
           || $cstr{Rule} =~ /No secunda vespera/i
           || $cr[0] =~ /De VII di/i)
         {
