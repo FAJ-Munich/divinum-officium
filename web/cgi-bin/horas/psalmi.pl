@@ -362,7 +362,7 @@ sub psalmi_major {
     }
   }
 
-  if (!$w && exists($w{"Ant $hora"}) && $winner !~ /M\/C10/) {
+  if (!$w && exists($w{"Ant $hora"})) {
     $w = $w{"Ant $hora"};
     $c = ($winner =~ /tempora/i) ? 2 : 3;
   }

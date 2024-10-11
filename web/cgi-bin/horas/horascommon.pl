@@ -328,6 +328,7 @@ sub occurrence {
       }
 
       if ($trank[2] == 1.15) {
+        $tname =~ s/\.txt$//;
         unshift(@commemoentries, $tname);
         $commemoratio = $tname;
         $comrank = $trank[2];
@@ -599,7 +600,7 @@ sub occurrence {
 
       if ($climit1960) {
         $laudesonly = ($missa) ? '' : ($climit1960 == 2) ? ' ad Laudes tantum' : '';
-        my %tc = %{setupstring('Latin', "$transferedC.txt")};
+        my %tc = %{setupstring('Latin', $commemoratio)};
         my @cr = split(";;", $tc{Rank});
         $comrank = $cr[2];
         $cvespera = $svesp;
