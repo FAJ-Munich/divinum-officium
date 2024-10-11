@@ -3,7 +3,7 @@
 $Pater Ave L
 (sed rubrica 196 aut rubrica 1955 aut rubrica altovadensis omittitur)
 (rubrica Ordo Praedicatorum) &versiculum_ante_laudes
-(rubrica altovadensis) $rubrica IncipitL
+(rubrica altovadensis) $rubrica Incipit
 $Deus in adjutorium
 (deinde dicitur)
 &Alleluia

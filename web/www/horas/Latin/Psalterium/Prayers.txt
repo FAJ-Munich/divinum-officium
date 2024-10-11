@@ -44,7 +44,7 @@ R. Vitam ætérnam. Amen.
 [Secreto L]
 /:Si Matutinum a Laudibus separatur, tunc dicitur secreto::/
 (sed rubrica monastica)
-/:In Festi Simplicis, et in Officio Ferialis, et si Matutinum a Laudibus separatur, tunc dicitur secreto::/
+/:In Festi Simplicis, et in Officio Feriali, et si Matutinum a Laudibus separatur, tunc dicitur secreto::/
 (sed rubrica cisterciensis)
 /:Præterquam Officio duodecim Lectionum dicitur secreto::/
 
@@ -95,9 +95,9 @@ _
 @:Ave Maria
 @:Credo
 _
+(deinde dicitur)
 @:clara voce
-(sed die Epiphaniæ)
- ~
+(sed die Epiphaniæ omittitur)
 
 [Pater Ave Credo C]
 /:Deinde dicitur secreto:/
