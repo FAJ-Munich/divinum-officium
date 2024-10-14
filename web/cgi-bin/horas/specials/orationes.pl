@@ -144,8 +144,6 @@ sub oratio {
   }
   if (!$w) { $w = 'Oratio missing'; }
 
-  my $horamajor = $hora eq 'Laudes' || $hora eq 'Vespera';
-
   #* limit oratio
   if ($rule !~ /Limit.*?Oratio/i) {
 
@@ -211,9 +209,8 @@ sub oratio {
 
     # add commemorated from winner
     unless (
-      ($rank >= 6 && $dayname[0] !~ /Pasc[07]|Pent01/)
-
-      #				|| $rule =~ /no commemoratio/i
+      # Duplex I. classis: excludes Commemoratio reduced to Simplex
+      ($rank >= ($version !~ /cist/i ? 6 : 7) && $dayname[0] !~ /Pasc[07]|Pent01/)
       || ($version =~ /196/ && $winner{Rule} =~ /nocomm1960/i)
     ) {
 
@@ -280,7 +277,7 @@ sub oratio {
 
         if ($c) {
           $ccind++;
-          my $key = $ccind + 8500;    # 10000 - 1.5 * 1000
+          $key = $ccind + 8500;    # 10000 - 1.5 * 1000
           $cc{$key} = $c;
           setbuild2("Commemorated Vigil: $key");
         }
@@ -313,7 +310,7 @@ sub oratio {
         }
 
         # add commemorated from cwinner
-        unless (($rank >= 6 && $dayname[0] !~ /Pasc[07]|Nat0?6/)
+        unless (($rank >= ($version !~ /cist/i ? 6 : 7) && $dayname[0] !~ /Pasc[07]|Nat0?6/)
           || $rule =~ /no commemoratio/i
           || ($version =~ /196/ && $c{Rule} =~ /nocomm1960/i))
         {
@@ -404,7 +401,7 @@ sub oratio {
         }
 
         # add commemorated from commemo
-        unless (($rank >= 6 && $dayname[0] !~ /Pasc[07]/)
+        unless (($rank >= ($version !~ /cist/i ? 6 : 7) && $dayname[0] !~ /Pasc[07]/)
           || $rule =~ /no commemoratio/i
           || ($version =~ /196/ && $c{Rule} =~ /nocomm1960/i))
         {
@@ -472,7 +469,7 @@ sub oratio {
 
           if ($c) {
             $ccind++;
-            $key = $ccind + 8500;    # 10000 - 1.5 * 1000
+            $key = $ccind + ($version !~ /cist/i ? 8500 : 8750);    # 10000 - 1.5 * 1000
             $cc{$key} = $c;
           }
         }
