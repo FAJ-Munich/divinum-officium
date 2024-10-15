@@ -144,6 +144,8 @@ sub oratio {
   }
   if (!$w) { $w = 'Oratio missing'; }
 
+  my $horamajor = $hora eq 'Laudes' || $hora eq 'Vespera';
+
   #* limit oratio
   if ($rule !~ /Limit.*?Oratio/i) {
 
@@ -277,7 +279,7 @@ sub oratio {
 
         if ($c) {
           $ccind++;
-          $key = $ccind + 8500;    # 10000 - 1.5 * 1000
+          my $key = $ccind + 8500;    # 10000 - 1.5 * 1000
           $cc{$key} = $c;
           setbuild2("Commemorated Vigil: $key");
         }
@@ -534,25 +536,21 @@ sub getcommemoratio {
   our ($rule, $hora, $vespera, $version, $rank, $winner, @dayname, $month, $day, %winner, %winner2);
 
   if ($rule =~ /no commemoratio/i && !($hora eq 'Vespera' && $vespera == 3 && $ind == 1)) { return ''; }
-
-  if ( $version =~ /1960/
-    && $hora eq 'Vespera'
-    && $ind == 3
-    && $rank >= 6
-    && $w{Rank} !~ /Adv|Quad|Passio|Epi|Corp|Nat|Cord|Asc|Dominica|;;6/i)
-  {
-    return '';
-  }
   my @rank = split(";;", $w{Rank});
-  if ($rank[1] =~ /Feria/ && $rank[2] < 2.1) { return; }    #no commemoration of no privileged feria
 
-  if ( $rank[0] =~ /Infra Octav/i
-    && $rank[2] < 2.1
-    && $rank >= 5
-    && $winner =~ /Sancti/i)
-  {
+  if (
+       $rank[2] < 2.1
+    && $rank[2] != 1.15
+    && (
+      # no commemoration of no privileged feria
+      $rank[1] =~ /Feria/
+
+      #no commemoration of octava common in 2nd class unless in concurrence => to be checked
+      || ($rank[0] =~ /Infra Octav/i && $rank >= 5 && $winner =~ /Sancti/i)
+    )
+  ) {
     return;
-  }    #no commemoration of octava common in 2nd class unless in concurrence => to be checked
+  }
 
   if ($rank[3] =~ /(ex|vide)\s+(.*)\s*$/i) {
     my $file = $2;
