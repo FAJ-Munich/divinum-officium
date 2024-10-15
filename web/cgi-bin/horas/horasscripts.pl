@@ -372,13 +372,20 @@ sub Divinum_auxilium : ScriptFunc {
 sub Domine_labia : ScriptFunc {
   my $lang = shift;
   my $text = prayer("Domine labia", $lang);
-
+  
   if ($version =~ /monastic/i) {                              # triple times with one cross sign
     $text .= "\n$text\n$text";
     $text =~ s/\+\+/$&++/;
     $text =~ s/\+\+ / /g;
   }
   $text;
+}
+
+sub Conclusio_cisterciensis : ScriptFunc {
+  my $lang = shift;
+  my @text = split(/\n/, prayer("Concl cisterciensis", $lang));
+  shift(@text) if $hora =~ /Prima/i;
+  join("\n", @text);
 }
 
 #*** martyrologium($lang)
@@ -462,7 +469,7 @@ sub martyrologium : ScriptFunc {
     }
   }
   my $conclmart = prayer('Conclmart', $lang);
-  $conclmart =~ s/\_.*/ /si if $rule =~ /ex C9/;
+  $conclmart =~ s/\_.*/ /si if $rule =~ /ex C9/ || $version =~ /cist/i;
   $t .= $conclmart;
   return $t;
 }
