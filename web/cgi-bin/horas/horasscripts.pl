@@ -372,7 +372,7 @@ sub Divinum_auxilium : ScriptFunc {
 sub Domine_labia : ScriptFunc {
   my $lang = shift;
   my $text = prayer("Domine labia", $lang);
-  
+
   if ($version =~ /monastic/i) {                              # triple times with one cross sign
     $text .= "\n$text\n$text";
     $text =~ s/\+\+/$&++/;

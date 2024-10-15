@@ -41,7 +41,7 @@ our $version = 'Rubrics 1960 - 1960';
   'Divino Afflatu - 1954',
   'Reduced - 1955',
   'Rubrics 1960 - 1960',
-  'Rubrica 1960 - 2020 USA/Rubrics 1960 Newcalendar'
+  'Rubrica 1960 - 2020 USA/Rubrics 1960 Newcalendar',
 );
 
 #***common variables arrays and hashes
