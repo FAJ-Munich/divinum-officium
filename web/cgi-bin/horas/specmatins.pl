@@ -275,17 +275,18 @@ sub psalmi_matutinum {
     setbuild2("9 lectiones");
 
     unless (exists($winner{'Ant Matutinum'})) {
-      if ( ($name eq 'Pasch' || $name eq 'Asc')    # Paschal tide
+      if (
+        ($name eq 'Pasch' || $name eq 'Asc')    # Paschal tide
         && $version !~ /trident/i
         && $rank < 5
-        && $winner{'Rank'} !~ /(?:in|post).*octava.*Ascensio/i)
-      {
+        && $winner{'Rank'} !~ /(?:in|post).*octava.*Ascensio/i
+      ) {
         my $dname = ($winner{Rank} =~ /Dominica/i) ? 'Dominica' : 'Feria';
         my @spec = split("\n", $psalmi{"Pasch Ant $dname"});
         foreach my $i (3, 4, 8, 9, 13, 14) { $psalmi[$i] = $spec[$i]; }
         setbuild2("Pasch Ant $dname special versums for nocturns");
       } elsif ($winner =~ /tempora/i
-        && $name =~ /^(?:Adv|Quad|Pasch)$/i)                               # Advent, Quad, and Paschaltide
+        && $name =~ /^(?:Adv|Quad|Pasch)$/i)    # Advent, Quad, and Paschaltide
       {
         foreach my $i (1 .. 3) {
           ($psalmi[($i - 1) * 5 + 3], $psalmi[($i - 1) * 5 + 4]) = split("\n", $psalmi{"$name $i Versum"}, 2);
@@ -1282,7 +1283,7 @@ sub responsory_gloria {
       && tedeum_required($num + 1)             # when there is Te Deum after last
     )
     )
-  {                                                       # let's add the Gloria
+  {                                            # let's add the Gloria
 
     if ($lang =~ /gabc/ && $w =~ /\{.*\}/) {
       if ($w =~ /\_\s\{gabc:/) {
