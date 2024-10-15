@@ -23,23 +23,23 @@ sub preces {
     $dayofweek
     && !($dayofweek == 6 && $hora =~ /vespera/i)    # Dominicales at Completorium are also said if Feriales at Vespers!
     && (
-    $winner !~ /sancti/i && ($rule =~ /Preces/i || $dayname[0] =~ /Adv|Quad(?!p)/i || emberday())    #
-    || ($version !~ /1955|1960|Newcal/ && $winner{Rank} =~ /vigil/i && $dayname[1] !~ /Epi|Pasc/i)
-  )    # certain vigils before 1955
-  && ( $version !~ /1955|1960|Newcal/
-  || $dayofweek =~ /[35]/
-  || emberday())    # in 1955 and 1960, only Wednesdays, Fridays and emberdays
+      $winner !~ /sancti/i && ($rule =~ /Preces/i || $dayname[0] =~ /Adv|Quad(?!p)/i || emberday())    #
+      || ($version !~ /1955|1960|Newcal/ && $winner{Rank} =~ /vigil/i && $dayname[1] !~ /Epi|Pasc/i)
+    )    # certain vigils before 1955
+    && ( $version !~ /1955|1960|Newcal/
+      || $dayofweek =~ /[35]/
+      || emberday())    # in 1955 and 1960, only Wednesdays, Fridays and emberdays
   ) {
     $precesferiales = 1;
     return 1;
   }
-  
+
   if ($item =~ /Dominicales/i) {
     my $dominicales = 1;
-    
+
     if ($commemoratio) {
       my @r = split(';;', $commemoratio{Rank});
-      
+
       if ($r[2] >= 3 || $commemoratio{Rank} =~ /Octav/i || checkcommemoratio(\%commemoratio) =~ /octav/i) {
         $dominicales = 0;
       }
@@ -55,10 +55,10 @@ sub preces {
         }
       }
     }
-    
+
     if ( $dominicales
       && ($winner{Rank} !~ /octav/i || $winner{Rank} =~ /post octav/i)
-    && checkcommemoratio(\%winner) !~ /Octav/i)
+      && checkcommemoratio(\%winner) !~ /Octav/i)
     {
       # $precesferiales = $hora eq 'Prima';
       return 1;

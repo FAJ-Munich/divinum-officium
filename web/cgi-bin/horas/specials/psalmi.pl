@@ -26,6 +26,7 @@ sub psalmi {
 #*** psalmi_minor($lang)
 #collects and returns psalms for prim, tertia, sexta, none, completorium
 sub psalmi_minor {
+
   my $lang = shift;
   our (
     $version, $hora, $dayofweek, $winner, %winner, @dayname, $rule, $communerule,
@@ -476,9 +477,9 @@ sub psalmi_major {
     $lim = 4;
 
     if ($antiphones[4]) {    # if 5 psalms and antiphones are given
-      my ($a1, $p1) = split(/;;/, $antiphones[3]);    # split no. 4
-      my ($a2, $p2) = split(/;;/, $antiphones[4]);    # spilt no. 5
-      $antiphones[3] = "$a2;;$p1"                     # and say antiphone 5 with psalm no. 4
+      my ($a1, $p1) = split(/;;/, $antiphones[3]);               # split no. 4
+      my ($a2, $p2) = split(/;;/, $antiphones[4]);               # spilt no. 5
+      $antiphones[3] = "$a2;;$p1";                               # and say antiphone 5 with psalm no. 4
       if (@psalmTones) { $psalmTones[3] = "$psalmTones[4]"; }    # and use the Tone of the 5th antiphone
     }
   }

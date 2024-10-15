@@ -482,7 +482,7 @@ sub setcell {
       }
     }
     print "<TD VALIGN='TOP' WIDTH='$width%'"
-    . ($lang1 ne $lang || $text =~ /{omittitur}/ ? "" : " ID='$hora$searchind'") . ">";
+      . ($lang1 ne $lang || $text =~ /{omittitur}/ ? "" : " ID='$hora$searchind'") . ">";
     print "<p>" if $officium =~ /Eofficium|Emissa/;
     topnext_cell(\$text, $lang) unless $popup || $officium =~ /Eofficium|Emissa/;
 
@@ -523,12 +523,12 @@ sub setcell {
         $text =~ s/<sp>\'(?:oe|œ)<\/sp>/œ́/g;
         $text =~ s/<sp>(?:ae|æ)<\/sp>/æ/g;
         $text =~ s/<sp>(?:oe|œ)<\/sp>/œ/g;
-        $text =~ s/\(\:\:\)\s*?<br>\n/(::)\n/gi;          # remove wrong HTML linebreaks
-        $text =~ s/;\s*?<br>\n/;\n/gi;                    # remove wrong HTML linebreaks
-        $text =~ s/%% <br>\n/%%\n/gi;                     # remove wrong HTML linebreaks
+        $text =~ s/\(\:\:\)\s*?<br\/?>\n/(::)\n/gi;       # remove wrong HTML linebreaks
+        $text =~ s/;\s*?<br\/?>\n/;\n/gi;                 # remove wrong HTML linebreaks
+        $text =~ s/%% <br\/?>\n/%%\n/gi;                  # remove wrong HTML linebreaks
         $text =~ s/%%\(/%%\n\(/gi;                        # insert break at end of header
         $text =~ s/;([a-z\%\(])/;\n$1/gi;                 # insert break in header
-        $text =~ s/(\(\:\:\)\}?) <br>\n/$1 \n/gi;         # remove wrong HTML linebreaks
+        $text =~ s/(\(\:\:\)\}?) <br\/?>\n/$1 \n/gi;      # remove wrong HTML linebreaks
         $text =~ s/\) \* /\) \*() /g;                     # star to be followed by ()
         $text =~ s/(\([\,\;\:]+\))\s*?(\^?\d+\.\^?|(<sp>)?[VR]\/(<\/sp>)?\.)\s/ $2$1 /gs;
         $text =~ s/†\((.*?)\)/($1) † /g;
@@ -563,11 +563,11 @@ sub setcell {
   $text =~ s/\`//g;                                                 #` #accent grave for editor
   $text =~ s/\s([»!?;:])/&nbsp;$1/g unless $lang eq 'Latin-gabc';   # no-break space before punctutation (mostly French)
   $text =~ s/«\s/«&nbsp;/g unless $lang =~ /Deutsch|gabc/i;         # no-break space after begin quote
-  $text =~ s/\s\&\s/ &amp; /;                            # HTML - Ampersand;
+  $text =~ s/\s\&\s/ &amp; /;                                       # HTML - Ampersand;
 
   # Remove line breaks from chants
   if ($lang =~ /gabc/i) {
-    $text =~ s/\|\|(<BR>)/<BR>/g;
+    $text =~ s/\|\|(<br\/>)/<br\/>/g;
     $text =~ s/\|\|/\_/g;
   }
 

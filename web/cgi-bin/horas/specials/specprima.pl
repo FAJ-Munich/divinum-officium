@@ -70,6 +70,7 @@ sub capitulum_prima {
     my $primaresponsory = get_prima_responsory($lang);
     my %wpr = columnsel($lang) ? %winner : %winner2;
     if (exists($wpr{'Versum Prima'})) { $primaresponsory = $wpr{'Versum Prima'}; }
+
     if ($primaresponsory) {
       if ($lang =~ /gabc/i) {
         $resp[0] = $primaresponsory;
