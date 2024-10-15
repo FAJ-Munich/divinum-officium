@@ -72,13 +72,14 @@ our $duplex;                                 #1=simplex-feria, 2=semiduplex-feri
 binmode(STDOUT, ':encoding(utf-8)');
 
 #*** collect standard items
-require "$Bin/do_io.pl";
+require "$Bin/../DivinumOfficium/do_io.pl";
 require "$Bin/../DivinumOfficium/SetupString.pl";
 require "$Bin/horascommon.pl";
-require "$Bin/dialogcommon.pl";
+require "$Bin/../DivinumOfficium/dialogcommon.pl";
 require "$Bin/webdia.pl";
-require "$Bin/setup.pl";
+require "$Bin/../DivinumOfficium/setup.pl";
 require "$Bin/horas.pl";
+require "$Bin/horasscripts.pl";
 require "$Bin/specials.pl";
 require "$Bin/specmatins.pl";
 require "$Bin/monastic.pl";
@@ -118,6 +119,7 @@ set_runtime_options('parameters');                    # priest, lang1 ... etc
 
 if ($command =~ s/changeparameters//) { getsetupvalue($command); }
 
+#print "Content-type: text/html; charset=utf-8\n\n"; #<= uncomment for debuggin "Internal Server Errors"
 $version = check_version($version) || (error("Unknown version: $version") && 'Rubrics 1960 - 1960');
 $lang1 = check_language($lang1) || (error("Unknown language: $lang1") && 'Latin');
 $lang2 = check_language($lang2) || 'English';
@@ -233,14 +235,14 @@ if ($command =~ /setup(.*)/i) {
           my $vesperahead = setheadline();
 
           if ($dayhead ne $vesperahead) {
-            print par_c("<BR><BR>" . html_dayhead($vesperahead));
+            print par_c("<BR/><BR/>" . html_dayhead($vesperahead));
           }
         }
         horas($hora);
       }
 
       if ($officium ne 'Pofficium.pl' && @horas == 1) {
-        print par_c("<INPUT TYPE=SUBMIT VALUE='$hora persolut.' onclick='okbutton();'>");
+        print par_c("<INPUT TYPE='SUBMIT' VALUE='$hora persolut.' onclick='okbutton();'>");
       }
     } elsif ($officium ne 'Pofficium.pl') {
       print par_c(mainpage());
@@ -256,7 +258,7 @@ if ($command =~ /setup(.*)/i) {
   } else {
     print par_c(pmenu());
 
-    print '<TABLE ALIGN=CENTER BORDER=1 STYLE="color: black">';
+    print "<TABLE ALIGN='CENTER' BORDER='1' $background>";
     print selectable_p('versions', $version, $date1, $version, $lang2, $votive, $testmode);
     print selectable_p('languages', $lang2, $date1, $version, $lang2, $votive, $testmode, 'Language 2');
     print selectable_p('votives', $votive, $date1, $version, $lang2, $votive, $testmode);

@@ -11,9 +11,8 @@ use DivinumOfficium::LanguageTextTools
   qw(prayer translate omit_regexp suppress_alleluia process_inline_alleluias alleluia_ant ensure_single_alleluia ensure_double_alleluia);
 use DivinumOfficium::Date qw(date_to_days days_to_date);
 
-# Defines ScriptFunc and ScriptShortFunc attributes.
-use DivinumOfficium::Scripting;
 my $precesferiales;
+
 $a = 1;
 
 sub adhoram {
@@ -195,11 +194,11 @@ sub resolve_refs {
 
   # Concatenate the expansions of the lines with a line break between each.
   push @resolved_lines, '';
-  my $resolved_block = join "<BR>\n", @resolved_lines;
+  my $resolved_block = join "<br/>\n", @resolved_lines;
 
   #removes occasional double linebreaks
-  $resolved_block =~ s/<BR>\s*<BR>/<BR>/g;
-  $resolved_block =~ s/<\/P>\s*<BR>/<\/P>/g;
+  $resolved_block =~ s/<br\/>\s*<br\/>/<br\/>/ig;
+  $resolved_block =~ s/<\/P>\s*<br\/>/<\/P>/ig;
   return $resolved_block;
 }
 

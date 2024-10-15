@@ -45,10 +45,11 @@ sub preces {
       }
     } elsif (@commemoentries) {
       foreach my $commemo (@commemoentries) {
-        if (!(-e "$datafolder/$lang/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
+
+        # if (!(-e "$datafolder/$lang/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
         my %c = %{officestring($lang, $commemo, 0)};
         my @cr = split(";;", $c{Rank});
-        
+
         if ($cr[2] >= 3 || $c{Rank} =~ /Octav/i || checkcommemoratio(\%c) =~ /octav/i) {
           $dominicales = 0;
         }
@@ -59,11 +60,11 @@ sub preces {
       && ($winner{Rank} !~ /octav/i || $winner{Rank} =~ /post octav/i)
     && checkcommemoratio(\%winner) !~ /Octav/i)
     {
-      #      $precesferiales = $hora =~ /prima/i;
+      # $precesferiales = $hora eq 'Prima';
       return 1;
     }
   }
-  
+
   return 0;
 }
 
