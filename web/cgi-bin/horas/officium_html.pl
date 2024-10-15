@@ -86,7 +86,7 @@ sub mainpage {
 <TD ALIGN="CENTER"><FONT COLOR="MAROON">Commune Sanctorum</FONT></TD>
 <TD ALIGN="CENTER"><FONT COLOR="MAROON">Proprium Sanctorum</FONT></TD>
 </TR></TABLE>
-<BR />
+<br/>
 PrintTag
 }
 
@@ -123,9 +123,9 @@ SubmitTag
 sub pmenu {
   return << "PrintTag";
 <A HREF="Pofficium.pl?date1=$date1&command=setupparameters&pcommand=$command&version=$version&testmode=$testmode&lang2=$lang2&votive=$votive">
-Options</A>&nbsp;&nbsp;&nbsp;
-<A HREF=# onclick="callmissa();">Sancta Missa</A>&nbsp;&nbsp;&nbsp;
-<A HREF=# onclick="callkalendar();">Ordo</A>
+Options</A>&ensp;
+<A HREF="#" onclick="callmissa();">Sancta Missa</A>&ensp;
+<A HREF="#" onclick="callkalendar();">Ordo</A>
 PrintTag
 }
 
@@ -154,13 +154,13 @@ PrintTag
 
 sub buildscript {
   local ($_) = @_;
-  s/[\n]+/<BR \/>/g;
+  s/[\n]+/<br\/>/g;
   s/\_//g;
   s/\,\,\,/\&ensp\;/g;
   return << "PrintTag";
 <TABLE $background BORDER="3" ALIGN="CENTER" WIDTH="60%" CELLPADDING="8"><TR><TD>
 $_
-</TD></TR><TABLE><BR />
+</TD></TR><TABLE><br/>
 PrintTag
 }
 
