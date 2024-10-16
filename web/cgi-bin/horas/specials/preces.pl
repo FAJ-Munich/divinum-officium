@@ -96,7 +96,7 @@ sub getpreces {
     $key = 'feriales Prima';
   }
 
-  my %brevis = %{setupstring($lang, "Psalterium/$src Special.txt")};
+  my %brevis = %{setupstring($lang, "Psalterium/Special/$src Special.txt")};
   $brevis{"Preces $key"};
 }
 

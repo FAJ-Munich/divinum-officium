@@ -7,12 +7,12 @@ sub lectio_brevis_prima {
 
   our ($version, %winner, %winner2, %commune, %commune2, $winner, $commune);
 
-  my %brevis = %{setupstring($lang, 'Psalterium/Prima Special.txt')};
+  my %brevis = %{setupstring($lang, 'Psalterium/Special/Prima Special.txt')};
   my $name = gettempora("Lectio brevis Prima");
   my $brevis = $brevis{$name};
   my $comment = $name =~ /per annum/i ? 5 : 1;
 
-  setbuild('Psalterium/Prima Special', $name, 'Lectio brevis ord');
+  setbuild('Psalterium/Special/Prima Special', $name, 'Lectio brevis ord');
 
   #look for [Lectio Prima]
   if ($version !~ /1955|196/) {
@@ -44,7 +44,7 @@ sub capitulum_prima {
 
   our ($dayofweek, $version, %winner, $commune, $rank, @dayname, $label, %winner2);
 
-  my %brevis = %{setupstring($lang, 'Psalterium/Prima Special.txt')};
+  my %brevis = %{setupstring($lang, 'Psalterium/Special/Prima Special.txt')};
 
   my $key =
     (    $dayofweek > 0

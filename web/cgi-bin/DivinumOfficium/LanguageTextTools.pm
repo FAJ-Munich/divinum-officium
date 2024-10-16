@@ -144,12 +144,12 @@ sub load_languages_data {
   my @langs = qw/Latin English/;
   push(@langs, $lang1) unless $lang1 =~ /(?:Latin|English)$/;
   push(@langs, $lang2) unless $lang2 =~ /(?:Latin|English)$/;
-  my $dir = $missaf ? 'Ordo' : 'Psalterium';
+  my $dir = $missaf ? 'Ordo' : 'Psalterium/Common';
 
   foreach my $lang (@langs) {
     $_prayers{"$lang$version"} = main::setupstring($lang, "$dir/Prayers.txt");
-    $_translate{$lang} = main::setupstring($lang, "Psalterium/Translate.txt");
     $_rubrics{"$lang$version"} = main::setupstring($lang, "Psalterium/Common/Rubricae.txt");
+    $_translate{$lang} = main::setupstring($lang, "Psalterium/Common/Translate.txt");
   }
 
   my $alleluias = join('|', map { lc(alleluia($_)) } @langs);

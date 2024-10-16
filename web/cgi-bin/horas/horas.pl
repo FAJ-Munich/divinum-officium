@@ -479,7 +479,7 @@ sub ant123_special {
   my $ant, $duplexf;
 
   if ($month == 12 && ($day > 16 && $day < 24) && $winner =~ /tempora/i) {
-    my %specials = %{setupstring($lang, 'Psalterium/Major Special.txt')};
+    my %specials = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
 
     if ($hora eq 'Laudes' && ($day == 21 || $day == 23)) {
       $ant = $specials{"Adv Ant $day" . 'L'};
@@ -528,7 +528,7 @@ sub canticum {
       setbuild1($ite, 'special');
       ($ant, $ant2) = split("\n", $w);
     } else {
-      my %a = %{setupstring($lang, 'Psalterium/Minor Special.txt')};
+      my %a = %{setupstring($lang, 'Psalterium/Special/Minor Special.txt')};
       my $name;
       $name = gettempora('Nunc dimittis') if $version =~ /^Ordo Praedicatorum/;
       $ant = $a{"Ant 4$name"};

@@ -156,7 +156,7 @@ sub specials {
     }
 
     if ($item =~ /Lectio brevis/i && $hora eq 'Completorium') {
-      my %lectio = %{setupstring($lang, 'Psalterium/Minor Special.txt')};
+      my %lectio = %{setupstring($lang, 'Psalterium/Special/Minor Special.txt')};
       push(@s, $item, $lectio{'Lectio Completorium'});
       next;
     }
@@ -257,7 +257,7 @@ sub specials {
     if ($item eq '#Commemoratio defunctorum') {
       $item =~ s/.//;
       push @s, translate($label, $lang);
-      my %ps = %{setupstring($lang, 'Psalterium/Prima Special.txt')};
+      my %ps = %{setupstring($lang, 'Psalterium/Special/Prima Special.txt')};
       push @s, $ps{$item};
       next;
     }
@@ -286,7 +286,7 @@ sub specials {
         || $scriptura{Rule} =~ /Laudes Litania/i
         || $flag)
     ) {
-      my %w = %{setupstring($lang, 'Psalterium/Major Special.txt')};
+      my %w = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
       my $lname = $version =~ /Monastic/ ? 'LitaniaM' : 'Litania';
       if ($version =~ /1570/ && exists($w{LitaniaT})) { $lname = 'LitaniaT'; }
       push(@s, $w{$lname});
@@ -561,7 +561,7 @@ sub getfrompsalterium {
   my $lang = shift;
 
   #get from psalterium
-  my %c = %{setupstring($lang, 'Psalterium/Major Special.txt')};
+  my %c = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
   my $name = gettempora('getfrompsalterium major') . " $item";
 
   my $w = $c{"$name $ind"};
@@ -682,7 +682,7 @@ sub getrefs {
     $item =~ s/\s*$//;
 
     if ($file =~ /^feria$/i) {
-      %s = %{setupstring($lang, 'Psalterium/Major Special.txt')};
+      %s = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
       my $a = chompd($s{"Day$dayofweek Ant $ind"});
       if (!$a) { $a = "Day$dayofweek Ant $ind missing"; }
       my $v = chompd($s{"Day$dayofweek Versum $ind"});
@@ -805,7 +805,7 @@ sub get_prima_responsory {
   if ($version =~ /196/ && $key =~ /Corp|Heart/) { $key = ''; }
   return '' unless $key;
 
-  my %t = %{setupstring($lang, 'Psalterium/Prima Special.txt')};
+  my %t = %{setupstring($lang, 'Psalterium/Special/Prima Special.txt')};
   return $t{"Responsory $key"};
 }
 
