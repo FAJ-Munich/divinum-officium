@@ -24,8 +24,7 @@ use constant {
 #*** invitatorium($lang)
 # collects and returns psalm 94 with the antipones
 sub invitatorium {
-  my $lang = shift;
-  my %invit = %{setupstring($lang, 'Psalterium/Special/Matutinum Special.txt')};
+  our ($dayofweek, $month, $monthday, $winner, $version, @dayname, $psalmvar, $rule);
   my $name = gettempora('Invitatorium');
 
   if ($version =~ /Trid|Monastic/i && (!$name || ($name eq 'Quad' && $dayofweek != 0))) {
@@ -39,12 +38,13 @@ sub invitatorium {
     $name = 'Invit';
     $comment = 0;
   }
+  my $as = "Psalterium/Special/Matutinum Special.txt#$name";
   my $i = ($name =~ /^Invit$/i || $name =~ /Invit Trid/i) ? $dayofweek : 0;
   if ($i == 0 && $name =~ /^Invit$/i && ($month < 4 || ($monthday && $monthday =~ /^1[0-9][0-9]\-/))) { $i = 7; }
-  my @invit = split("\n", $invit{$name});
   setbuild('Psalterium/Special/Matutinum Special', $name, 'Invitatorium ord');
-  my $ant = chompd($invit[$i]);
   my ($w, $c);
+
+  my $alleluia_ant;
 
   if ( $version =~ /Monastic/i
     && $dayofweek
@@ -53,57 +53,61 @@ sub invitatorium {
     && $winner !~ /Pasc5-4/
     && !($version =~ /trident|divino/i && $dayname[1] =~ /ascensio|pent|joseph/i))
   {
-    $ant = prayer("Alleluia Duplex", $lang);
-    $ant =~ s/(\S+), (\S+)\./$1, $2, * $1/;
+    $alleluia_ant = 1;
+    $as = 'Psalterium/Common/Prayers#Alleluia Duplex';
   } else {
 
     #look for special from proprium the tempore or sancti
-    ($w, $c) = getproprium("Invit", $lang, $seasonalflag, 1);
-    if ($w) { $ant = chompd($w); $comment = $c; }
-    setcomment($label, 'Source', $comment, $lang, translate('Antiphona', $lang));
+    my $as2;
+    ($w, $c, $as2) = getproprium("Invit", $lang, $seasonalflag, 1);
+    if ($w) { $comment = $c; $as = $as2 }
   }
-  $ant =~ s/^.*?\=\s*//;
-  $ant = chompd($ant);
-  $ant = "Ant. $ant";
-  postprocess_ant($ant, $lang);
-  my @ant = split('\*', $ant);
-  my $ant2 = "Ant. $ant[1]";
 
   my $invitpath = "Psalterium/Invitatorium.txt";
   $invitpath =~ s/Psalterium/PiusXII/ if ($lang eq 'Latin' && $psalmvar);
-  $fname = checkfile($lang, $invitpath);
 
-  if (my @a = do_read($fname)) {
-    $_ = join("\n", @a);
+  (
+    setcomment2($label, 'Source', $comment, 'Antiphona'),
+    [ "$as;;$invitpath", sub {
+        my($ants, $invit, $lang) = @_;
 
-    if ($rule =~ /Invit2/i) {
+        my @ant = split(/\n/, $ants);
+        my $ant = $ant[$i];
+        $ant =~ s/^.*?\=\s*// if $i;
+        $ant =~ s/(\S+), (\S+)\./$1, $2, * $1/ if $alleluia_ant;
+        postprocess_ant($ant, $lang);
+        $ant = "Ant. $ant";
+        my $ant2 = 'Ant. ' . substr($ant, index($ant, '*') + 1);
+        local $_ = $invit;
 
-      # old Invitatorium2 = Quadp[123]-0
-      s/ \*.*//;
-    } elsif ($dayname[0] =~ /Quad[56]/i && $winner =~ /tempora/i && $rule !~ /Gloria responsory/i) {
+        if ($rule =~ /Invit2/i) {
 
-      # old Invitatorium3
-      s/&Gloria/\&Gloria2/;
-      s/v\. .* \^ (.)/v. \u\1/m;
-      s/\$ant2\s*(?=\$)//s;
-    } elsif (!$w
-      && $dayofweek == 1
-      && $winner =~ /Tempora/
-      && ($dayname[0] =~ /(Epi|Pent|Quadp)/i || ($dayname[0] =~ /Quad/i && $version =~ /Trident|Monastic/i)))
-    {
-      # old Invitatorium4
-      s/^v\. .* \+ (.)/v. \u\1/m;
-    }
+          # old Invitatorium2 = Quadp[123]-0
+          s/ \*.*//;
+        } elsif ($dayname[0] =~ /Quad[56]/i && $winner =~ /tempora/i && $rule !~ /Gloria responsory/i) {
 
-    s{[+*^] }{}g;    # clean division marks
+          # old Invitatorium3
+          s/&Gloria/\&Gloria2/;
+          s/v\. .* \^ (.)/v. \u\1/m;
+          s/\$ant2\s*(?=\$)//s;
+        } elsif (!$w
+          && $dayofweek == 1
+          && $winner =~ /Tempora/
+          && ($dayname[0] =~ /(Epi|Pent|Quadp)/i || ($dayname[0] =~ /Quad/i && $version =~ /Trident|Monastic/i)))
+        {
+          # old Invitatorium4
+          s/^v\. .* \+ (.)/v. \u\1/m;
+        }
 
-    s/\$ant2/$ant2/eg;
-    s/\$ant/$ant/eg;
+        s{[+*^] }{}g;    # clean division marks
 
-    push(@s, $_);
-  } else {
-    $error .= "$fname cannnot open";
-  }
+        s/\$ant2/$ant2/eg;
+        s/\$ant/$ant/eg;
+
+        $_
+      }
+    ]
+  )
 }
 
 #*** hymnus($lang)

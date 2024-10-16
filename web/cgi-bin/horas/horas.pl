@@ -10,6 +10,7 @@ use lib "$Bin/..";
 use DivinumOfficium::LanguageTextTools
   qw(prayer rubric prex translate omit_regexp suppress_alleluia process_inline_alleluias alleluia_ant ensure_single_alleluia ensure_double_alleluia);
 use DivinumOfficium::Date qw(date_to_days days_to_date);
+use DivinumOfficium::Linker qw(linker);
 
 my $precesferiales;
 
@@ -39,19 +40,23 @@ sub horas {
     precedence();
   }
 
-  @script1 = getordinarium($lang1, $command);
-  @script1 = specials(\@script1, $lang1);
+  my (@ordinarium) = getordinarium($command);
+  @script1 = specials(\@ordinarium, $lang1);
+  @script1 = @{linker(\@script1, $lang1)};
   $column = 2;    # This prevents the duplications in the Building Script
 
   if ($Ck) {
     $version = $version2;
     load_languages_data($lang1, $lang2, $version, $missa);
     precedence();
+    @script2 = getordinarium($command);
+  } elsif (!$only) {
+    @script2 = @ordinarium;
   }
 
   if (!$only) {
-    @script2 = getordinarium($lang2, $command);
-    @script2 = specials(\@script2, $lang2);
+    @script2 = specials(\@script2, $lang2); # this line will be removed when %winner2 will be removed
+    @script2 = @{linker(\@script2, $lang2)};
   }
 
   print_content($lang1, \@script1, $lang2, \@script2, $version !~ /(1570|1955|196)/);
@@ -747,7 +752,6 @@ sub laudes {
 #*** getordinarium($lang, $command)
 # returns the ordinarium for the language and hora
 sub getordinarium {
-  my $lang = shift;
   my $command = shift;
 
   $command =~ s/Vesperae/Vespera/;
