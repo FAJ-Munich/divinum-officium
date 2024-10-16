@@ -34,41 +34,12 @@ R. Vitam ætérnam. Amen.
 /:Et si tunc terminetur Officium, dicitur tantum « Pater Noster » secreto.:/
 @:Pater noster
 
-[Secreto]
-/:secreto:/
-
-[Secreto L]
-/:Si Matutinum a Laudibus separatur, tunc dicitur secreto::/
-(sed rubrica monastica)
-/:In Festi Simplicis, et in Officio Ferialis, et si Matutinum a Laudibus separatur, tunc dicitur secreto::/
-
-[Clara voce]
-/:Deinde, clara voce, dicitur Versus::/
-
-[Secus absolute]
-/:Secus absolute incipiuntur, ut sequitur::/
-(sed rubrica ^Trident)
-/:Dicto Hymno:/ Te Deum laudamus /:vel ultimo Responsorio, absolute dicitur Versus::/
-
-[rubrica Matutinum]
-!Reliqua omittuntur, nisi %Laudes% separandæ sint.
-(sed rubrica tridentina)
-!Dicto Hymno « Te Deum » aut nono vel tertio Responsorio ejus loco ponitur, statim inchoantur %Laudes%, præterquam in Nocte Nativitatis Domini; quia tunc dicitur Oratio, postea celebratur Missa, ut suo loco notatur.
-
-[rubrica Matutinum] (rubrica monastica)
-!Reliqua omittuntur, nisi %Laudes% separandæ sint.
-(sed rubrica tridentina aut rubrica divino)
-!Reliqua omittuntur in Officium duodecim Lectionum, quando immediatæ subsequuntur %Laudes%. Sed in Festi Simplicis, et in Officio Ferialis tam trium, quam unius Lectionis semper dicuntur ut sequitur.
-
 [Pater Ave]
 @:Secreto
 @:Pater noster
 @:Ave Maria
 _
 @:Clara voce
-
-[Pater Ave L] (rubrica tridentina)
-@:Secus absolute
 
 [Pater Ave L] (rubrica divino aut rubrica monastica)
 @:Secreto L
@@ -414,3 +385,6 @@ Benedictio. Benedíctio Dei omnipoténtis + Patris, et Fílii, et Spíritus Sanc
 V. Jube, domne, benedícere.
 (sed rubrica 1960 dicitur)
 V. Jube, Dómine, benedícere.
+
+[Preces flexis genibus]
+/:flexis genibus:/
