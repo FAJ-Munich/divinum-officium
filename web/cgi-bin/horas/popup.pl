@@ -21,7 +21,7 @@ use File::Basename;
 use Time::Local;
 
 use lib "$Bin/..";
-use DivinumOfficium::LanguageTextTools qw(prayer rubric translate load_languages_data);
+use DivinumOfficium::LanguageTextTools qw(prayer rubric prex translate load_languages_data);
 
 #use DateTime;
 use locale;

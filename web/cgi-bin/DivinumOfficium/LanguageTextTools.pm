@@ -8,7 +8,7 @@ BEGIN {
   require Exporter;
   our $VERSION = 1.00;
   our @ISA = qw(Exporter);
-  our @EXPORT_OK = qw(prayer rubric translate load_languages_data
+  our @EXPORT_OK = qw(prayer rubric prex translate load_languages_data
     omit_regexp suppress_alleluia process_inline_alleluias
     alleluia_ant ensure_single_alleluia ensure_double_alleluia);
 }
@@ -17,6 +17,7 @@ BEGIN {
 #
 my %_translate;
 my %_prayers;
+my %_preces;
 my %_rubrics;
 my $alleluia_regexp;
 my $omit_regexp;
@@ -131,11 +132,24 @@ sub rubric {
   my $name = shift;
   my $lang = shift;
   my $version = $main::version;
-  
-  $_rubrics{"$lang$version"}{$name}
-  || $_rubrics{"English$version"}{$name}
-  || $_rubrics{"Latin$version"}{$name}
-  || $name;
+
+       $_rubrics{"$lang$version"}{$name}
+    || $_rubrics{"English$version"}{$name}
+    || $_rubrics{"Latin$version"}{$name}
+    || $name;
+}
+
+#*** prex($name)
+# return the prayer
+sub prex {
+  my $name = shift;
+  my $lang = shift;
+  my $version = $main::version;
+
+       $_preces{"$lang$version"}{$name}
+    || $_preces{"English$version"}{$name}
+    || $_preces{"Latin$version"}{$name}
+    || $name;
 }
 
 #*** load_languages_data($lang1, $lang2, $missaf)
@@ -149,6 +163,7 @@ sub load_languages_data {
   foreach my $lang (@langs) {
     $_prayers{"$lang$version"} = main::setupstring($lang, "$dir/Prayers.txt");
     $_rubrics{"$lang$version"} = main::setupstring($lang, "Psalterium/Common/Rubricae.txt");
+    $_preces{"$lang$version"} = main::setupstring($lang, "Psalterium/Special/Preces.txt");
     $_translate{$lang} = main::setupstring($lang, "Psalterium/Common/Translate.txt");
   }
 

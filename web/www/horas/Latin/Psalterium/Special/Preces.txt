@@ -190,7 +190,13 @@ V. Exáudiat nos omnípotens et miséricors Dóminus.
 R. Amen.
 $Fidelium animae
 
-[Preces feriales Laudes_]
+[LitaniaM]
+@:Litania
+
+[LitaniaT]
+@:Litania
+
+[Preces feriales Laudes]
 V. Ego dixi: Dómine, miserére mei.
 R. Sana ánimam meam quia peccávi tibi.
 V. Convértere, Dómine, úsquequo? 
@@ -242,3 +248,34 @@ R. Et osténde fáciem tuam, et salvi érimus.
 V. Exsúrge, Christe, ádjuva nos.
 R. Et líbera nos propter nomen tuum.
 
+[Preces feriales Vespera]
+@:Preces feriales Laudes:s/129/50/
+
+[Preces feriales minor]
+V. Dómine, Deus virtútum, convérte nos.
+R. Et osténde fáciem tuam, et salvi érimus.
+V. Exsúrge, Christe, ádjuva nos.
+R. Et líbera nos propter nomen tuum.
+V. Dómine, exáudi oratiónem meam.
+R. Et clamor meus ad te véniat.
+
+[Preces dominicales_]
+V. Benedíctus es, Dómine, Deus patrum nostrórum.
+R. Et laudábilis et gloriósus in sǽcula.
+V. Benedicámus Patrem et Fílium cum Sancto Spíritu. 
+R. Laudémus, et superexaltémus eum in sǽcula.
+V. Benedíctus es, Dómine, in firmaménto cæli. 
+R. Et laudábilis, et gloriósus, et superexaltátus in sǽcula.
+V. Benedícat et custódiat nos omnípotens et miséricors Dóminus. 
+R. Amen.
+V. Dignáre, Dómine, nocte ista. 
+R. Sine peccáto nos custodíre.
+V. Miserére nostri, Dómine. 
+R. Miserére nostri.
+V. Fiat misericórdia tua, Dómine, super nos. 
+R. Quemádmodum sperávimus in te.
+
+[Preces dominicales Completorium]
+@:Preces dominicales_
+(sed rubrica ^Monastic dicuntur)
+@:Preces dominicales_:9-10

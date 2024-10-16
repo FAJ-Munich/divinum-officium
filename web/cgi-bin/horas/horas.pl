@@ -8,7 +8,7 @@ use FindBin qw($Bin);
 use lib "$Bin/..";
 
 use DivinumOfficium::LanguageTextTools
-  qw(prayer rubric translate omit_regexp suppress_alleluia process_inline_alleluias alleluia_ant ensure_single_alleluia ensure_double_alleluia);
+  qw(prayer rubric prex translate omit_regexp suppress_alleluia process_inline_alleluias alleluia_ant ensure_single_alleluia ensure_double_alleluia);
 use DivinumOfficium::Date qw(date_to_days days_to_date);
 
 my $precesferiales;
@@ -40,6 +40,7 @@ sub horas {
   }
 
   @script1 = getordinarium($lang1, $command);
+  $error .= join("<br/>\n", @script1);
   @script1 = specials(\@script1, $lang1);
   $column = 2;    # This prevents the duplications in the Building Script
 
@@ -136,7 +137,7 @@ sub resolve_refs {
       my $suffix = '';
       if ($l =~ s/(\{[^:].*?\})//) { $suffix = setfont($smallblack, $1); }
       $line = setfont($largefont, $l) . " $suffix\n";
-      if ($expand =~ /skeleton/i) { $line .= linkcode1(); }
+      if ($expand eq 'lineamenta') { $line .= linkcode1(); }
     }
 
     #red line
@@ -434,7 +435,7 @@ sub setlink {
     return $name;
   } elsif ($disabled || $smallflag) {
     $name = setfont($smallblack, $name);
-  } elsif ($expand =~ /skeleton/i) {
+  } elsif ($expand eq 'lineamenta') {
     $name = setfont($largefont, substr($name, 0, 1)) . setfont($redfont, substr($name, 1));
   } else {
     $name = setfont($largefont, uc(substr($name, 0, 1))) . substr($name, 1);
