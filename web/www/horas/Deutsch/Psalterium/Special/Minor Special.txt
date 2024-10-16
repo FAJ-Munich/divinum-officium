@@ -233,7 +233,7 @@ V. Eripe me, Domine, ab homine malo.
 R. A viro iniquo eripe me.
 
 [Pasch Tertia]
-@Psalterium/Major Special:Pasch Laudes
+@Psalterium/Special/Major Special:Pasch Laudes
 
 [Responsory Pasch Tertia]
 R.br. Der Herr ist auferstanden aus dem Grabe: * Alleluja, alleluja.

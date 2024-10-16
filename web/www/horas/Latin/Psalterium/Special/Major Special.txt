@@ -1800,12 +1800,12 @@ R. De ore leónis * líbera me, Dómine.
 [PaschM Laudes]
 @:Pasch Laudes
 _
-@Psalterium/Minor Special:Responsory Pasch Tertia:s/._.*//s
+@Psalterium/Special/Minor Special:Responsory Pasch Tertia:s/._.*//s
 
 [PaschM Vespera]
 @:Pasch Laudes
 _
-@Psalterium/Minor Special:Responsory Pasch Sexta:s/._.*//s
+@Psalterium/Special/Minor Special:Responsory Pasch Sexta:s/._.*//s
 
 [LitaniaM]
 @:Litania

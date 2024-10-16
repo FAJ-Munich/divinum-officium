@@ -488,7 +488,7 @@ Amen.
 
 [Hymnus Completorium Pasch] (rubrica Ordo Praedicatorum)
 @Tempora/Pasc5-4:HymnusM Vespera:1-20
-@Psalterium/Major Special:HymnusM Pasch Vespera:31-40
+@Psalterium/Special/Major Special:HymnusM Pasch Vespera:31-40
 
 [Hymnus Completorium Asc] (rubrica Ordo Praedicatorum)
 @Tempora/Pasc5-4:HymnusM Vespera:1-24

@@ -1,2 +1,2 @@
 [Litaniae]
-@Psalterium/Major Special:Litania
+@Psalterium/Special/Major Special:Litania
