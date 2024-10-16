@@ -8,7 +8,7 @@ use FindBin qw($Bin);
 use lib "$Bin/..";
 
 use DivinumOfficium::LanguageTextTools
-  qw(prayer translate omit_regexp suppress_alleluia process_inline_alleluias alleluia_ant ensure_single_alleluia ensure_double_alleluia);
+  qw(prayer rubric translate omit_regexp suppress_alleluia process_inline_alleluias alleluia_ant ensure_single_alleluia ensure_double_alleluia);
 use DivinumOfficium::Date qw(date_to_days days_to_date);
 
 my $precesferiales;
@@ -66,7 +66,7 @@ sub resolve_refs {
   my @t = split("\n", $t);
 
   #handles expanding for skeleton
-  if ($expand =~ /skeleton/ && $expandind != $expandnum) {
+  if ($expand eq 'lineamenta' && $expandind != $expandnum) {
     if ($t[0] =~ /\#/) {
       return setlink($t[0], $expandind, $lang);
     } else {
