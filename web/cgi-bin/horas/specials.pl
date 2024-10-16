@@ -138,12 +138,12 @@ sub specials {
       $skipflag = !preces($item);
       setcomment($label, 'Preces', $skipflag, $lang);
       setbuild1($item, $skipflag ? 'omit' : 'include');
-      push(@s, getpreces($hora, $lang, $item =~ /Dominicales/)) unless $skipflag;
+      push(@s, getpreces($hora, $item =~ /Dominicales/)) unless $skipflag;
       next;
     }
 
     if ($item =~ /invitatorium/i) {
-      invitatorium($lang);
+      push(@s, invitatorium($lang));
       next;
     }
 
@@ -189,7 +189,7 @@ sub specials {
     }
 
     if ($item =~ /Lectio brevis/i && $hora eq 'Prima') {
-      my ($b, $c) = lectio_brevis_prima($lang);
+      my ($b, $c) = lectio_brevis_prima();
       $label = '' if $label =~ /regula/i;
       setcomment($label, 'Source', $c, $lang);
 
@@ -201,7 +201,7 @@ sub specials {
         $regula =~ s/\.?\:\/\s*$/ $comment:\//;
         push(@s, $regula);
       }
-      push(@s, $b);
+      push(@s, @{$b});
       next;
     }
 
@@ -390,6 +390,39 @@ sub setcomment {
   push(@s, $label);
 }
 
+# final version return item for Linker
+sub setcomment2 {
+
+  my $label = shift;
+  my $comment = shift;
+  my $ind = shift;
+  my $prefix = shift;
+
+  if ($ind > -1) {
+    if ($comment =~ /Source/i && $votive && $votive !~ /hodie/i) { $ind = 7; }
+
+    [
+      "Psalterium/Common/Translate#$label;;Psalterium/Comment#Source" . ($prefix ? ";;Psalterium/Common/Translate#$prefix" : ''),
+      sub {
+        my($label, $comments, $prefix, $lang) = @_;
+
+        my @c = split(/\n/, $comments);
+        $comment = $c[$ind];
+        $comment = "$prefix $comment" if $prefix;
+
+        if ($label =~ /\}\s*/) {
+          $label =~ s/\}\s*$/ $comment}/;
+        } else {
+          $label .= " {$comment}";
+        }
+
+        $label
+      }
+    ]
+  } else {
+    []
+  }
+}
 #*** getproprium($name, $lang, $flag, $buidflag)
 # returns $name item from tempora or sancti file
 # if $flag and no item in the proprium checks commune
@@ -402,22 +435,19 @@ sub getproprium {
   my $buildflag = shift;
   my $w = '';
   my $c = 0;
-  my $prefix = 0;
-  my %w = columnsel($lang) ? %winner : %winner2;
+  my $s;  # file name where item was found
 
-  if (exists($w{$name})) {
-    $name = tryoldhymn(\%w, $name) if $name =~ /^Hymnus/;
-    $w = $w{$name};
+  our ($winner, %winner, $commune, %commune, $communetype);
+
+  if (exists($winner{$name})) {
+    $name = tryoldhymn(\%winner, $name) if $name =~ /^Hymnus/;
+    $w = $winner{$name};
     $c = $winner =~ /Sancti/ ? 3 : 2;
-  }
-
-  if ($w) {
-    if ($buildflag) { setbuild($winner, $name, 'subst'); }
-    return ($w, $c);
+    $s = $winner;
+    setbuild($winner, $name, 'subst');
   }
 
   if (!$w && $communetype && ($communetype =~ /^ex/i || $flag)) {
-    my %com = columnsel($lang) ? %commune : %commune2;
     my $cn = $commune;
     my $substitute =
         $name eq 'Nocturn 1 Versum' ? 'Versum 1'
@@ -431,18 +461,18 @@ sub getproprium {
     while (!$w && $loopcounter < 5) {
       $loopcounter++;
 
-      if (exists($com{$name})) {
+      if (exists($commune{$name})) {
 
         # if element exists in referenced Commune, go for it
-        $name = tryoldhymn(\%com, $name) if $name =~ /^Hymnus/;
-        $w = $com{$name};
+        $name = tryoldhymn(\%commune, $name) if $name =~ /^Hymnus/;
+        $w = $commune{$name};
         $c = 4;
         last;
-      } elsif ($cn =~ /^C/i && $substitute && exists($com{$substitute})) {
+      } elsif ($cn =~ /^C/i && $substitute && exists($commune{$substitute})) {
 
         # for 1st Nocturn default to [Versum 1] for Commune files
         # for Versicle ad Nonam default to [Versum 2] for Commune files
-        $w = $com{$substitute};
+        $w = $commune{$substitute};
         $c = 4;
         $name .= " ex $substitute";
         last;
@@ -463,13 +493,15 @@ sub getproprium {
     }
 
     if ($w) {
+      $s = $cn;
       $w = replaceNdot($w, $lang);
-      my $n = $com{Name};
+      my $n = $commune{Name};
       $n =~ s/\n//g;
-      if ($buildflag) { setbuild($n, $name, 'subst'); }
+      setbuild($n, $name, 'subst');
     }
   }
-  return ($w, $c);
+
+  ($w, $c, "$s#$name");
 }
 
 #*** tryoldhymn(\%source, $name)

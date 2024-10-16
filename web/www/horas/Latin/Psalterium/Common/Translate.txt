@@ -346,7 +346,7 @@ Salve Regina
 [#Incipit]
 
 [#Invitatorium]
-[#Invitatorium]
+#Invitatorium
 
 [#Hymnus]
 [#Hymnus]

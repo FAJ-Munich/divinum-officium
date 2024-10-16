@@ -49,31 +49,36 @@ sub monastic_major_responsory {
   # special case only 4 times
   $key .= ' 1' if ($winner =~ /(?:12-25|Quadp[123]-0)/ && $vespera == 1);
 
-  my ($resp, $c) = getproprium($key, $lang, $seasonalflag, 1);
+  my ($resp, $c, $src) = getproprium($key, $lang, $seasonalflag, 1);
 
   # Monastic Responsories at Major Hours are usually identical to Roman at Tertia and Sexta
   if (!$resp) {
     $key =~ s/Vespera/Breve Sexta/;
     $key =~ s/Laudes/Breve Tertia/;
-    ($resp, $c) = getproprium($key, $lang, $seasonalflag, 1);
+    ($resp, $c, $src) = getproprium($key, $lang, $seasonalflag, 1);
+    $src =~ s+M/+/+; # if so use Roman non Monastic source
   }
 
   # For backwards compatability, look for the legacy "R.br & Versicle" if necessary
   if (!$resp) {
     $key =~ s/Breve //;
-    ($resp, $c) = getproprium($key, $lang, $seasonalflag, 1);
+    ($resp, $c, $src) = getproprium($key, $lang, $seasonalflag, 1);
   }
 
-  # For backwards compatibility, remove any attached versicle
-  $resp =~ s/\n?_.*//s;
+  [ $src,
+    sub {
+      my($resp, $lang) = @_;
 
-  if ($resp) {
-    my @resp = split("\n", $resp);
-    postprocess_short_resp(@resp, $lang);
-    $resp = join("\n", @resp);
-  }
+      # For backwards compatibility, remove any attached versicle
+      $resp =~ s/\n?_.*//s;
 
-  $resp;
+      if ($resp) {
+        my @resp = split("\n", $resp);
+        postprocess_short_resp(@resp, $lang);
+        $resp = join("\n", @resp);
+      }
+    }
+  ];
 }
 
 sub capitulum_minor {

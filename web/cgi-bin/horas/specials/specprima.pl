@@ -4,38 +4,33 @@ use utf8;
 
 sub lectio_brevis_prima {
 
-  my $lang = shift;
+  our ($version, $winner, $commune);
 
-  our ($version, %winner, %winner2, %commune, %commune2, $winner, $commune);
-
-  my %brevis = %{setupstring($lang, 'Psalterium/Special/Prima Special.txt')};
-  my $name = gettempora("Lectio brevis Prima");
-  my $brevis = $brevis{$name};
+  my $src = 'Psalterium/Special/Prima Special';
+  my $name = gettempora('Lectio brevis Prima');
   my $comment = $name =~ /per annum/i ? 5 : 1;
 
   setbuild('Psalterium/Special/Prima Special', $name, 'Lectio brevis ord');
 
   #look for [Lectio Prima]
   if ($version !~ /1955|196/) {
-    my $b;
-
     if (exists($winner{'Lectio Prima'})) {
-      $b = columnsel($lang) ? $winner{'Lectio Prima'} : $winner2{'Lectio Prima'};
-      setbuild2("Subst Lectio Prima $winner");
+      $src = $winner;
+      $name = 'Lectio Prima';
       $comment = 3;
+      setbuild2("Subst Lectio Prima $winner");
     } elsif (exists($commune{'Lectio Prima'})) {
-      $b = columnsel($lang) ? $commune{'Lectio Prima'} : $commune2{'Lectio Prima'};
-      setbuild2("Subst Lectio Prima $commune");
+      $src = $commune;
+      $name = 'Lectio Prima';
       $comment = 4;
+      setbuild2("Subst Lectio Prima $commune");
     }
-
-    $brevis = $b || $brevis;
   }
 
-  $brevis = prayer('benedictio Prima', $lang) . "\n$brevis" unless $version =~ /^Monastic/;
-  $brevis .= "\n\$Tu autem";
+  my @brevis = ("\@${src}#${name}", '$Tu autem');
+  unshift @brevis, '@Psalterium/Common/Prayers#benedictio Prima'  unless $version =~ /^Monastic/;
 
-  ($brevis, $comment);
+  (\@brevis, $comment);
 }
 
 sub capitulum_prima {

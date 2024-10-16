@@ -72,7 +72,6 @@ sub preces {
 
 sub getpreces {
   my $hora = shift;
-  my $lang = shift;
   my $flag = shift;    # 1 for 'Dominicales'
 
   use v5.10;
@@ -97,8 +96,7 @@ sub getpreces {
     $key = 'feriales Prima';
   }
 
-  my %brevis = %{setupstring($lang, "Psalterium/Special/$src Special.txt")};
-  $brevis{"Preces $key"};
+  "\@Psalterium/Special/$src Special#Preces $key";
 }
 
 1;
