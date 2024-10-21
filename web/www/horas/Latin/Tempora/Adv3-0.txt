@@ -15,7 +15,7 @@ Antiphonas horas
 @:Ant Laudes
 
 [Ant Vespera](rubrica tridentina)
-@Psalterium/Psalmi major:Daya6 Vespera
+@Psalterium/Psalmi/Psalmi major:Daya6 Vespera
 
 [Ant 1]
 Ante me * non est formátus Deus, et post me non erit: quia mihi curvábitur omne genu, et confitébitur omnis lingua.

@@ -12,7 +12,7 @@ ex TemporaM/Pasc5-4; (rubrica tridentina aut rubrica divino)
 Doxology=Asc
 
 [Ant Matutinum 3N] (rubrica 1963)
-@Psalterium/Psalmi matutinum:Paschm0:17
+@Psalterium/Psalmi/Psalmi matutinum:Paschm0:17
 
 [Ant Matutinum] (rubrica tridentina aut rubrica divino)
 @TemporaM/Pasc5-4:Ant Matutinum

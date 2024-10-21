@@ -109,7 +109,7 @@ C’est donc pour affermir la chasteté conjugale que le Seigneur invité aux no
 &teDeum
 
 [Versum 2]
-@Psalterium/Major Special:Day0 Versum 2
+@Psalterium/Special/Major Special:Day0 Versum 2
 
 [Ant 2]
 Des noces furent célébrées * à Cana de Galilée, et Jésus y était avec Marie sa mère.

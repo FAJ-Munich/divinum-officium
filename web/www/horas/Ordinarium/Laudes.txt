@@ -1,7 +1,16 @@
 #Incipit
+(atque dicuntur semper)
+(deinde dicuntur)
+$rubrica Secreto a Laudibus
+$Pater noster
+$Ave Maria
+_
+(sed rubrica ^Trident omittuntur)
 (deinde dicitur)
-$Pater Ave L
-(sed rubrica 196 aut rubrica 1955 aut rubrica altovadensis omittitur)
+$rubrica Secus absolute
+(sed rubrica cisterciensis dicitur)
+$rubrica Clara voce
+(atque rubrica 196 aut rubrica 1955 aut rubrica altovadensis omittuntur)
 (rubrica Ordo Praedicatorum) &versiculum_ante_laudes
 (rubrica altovadensis) $rubrica Incipit
 $Deus in adjutorium
@@ -37,13 +46,12 @@ $Fidelium animae
 (rubrica Monastica) &Divinum_auxilium
 (rubrica cisterciensis) $Fidelium animae
 
-(rubrica 1951 dicitur)
-&Conclusio_cisterciensis
-
+(deinde rubrica 1951 dicuntur)
+$rubrica Conclusio cisterciensis
+$Conclusio cisterciensis
 (deinde dicuntur)
 $Pater totum secreto
 $Dominus det
 
-&antiphona_finalis
-&Divinum_auxilium
+#Antiphona finalis
 (sed rubrica 196 aut rubrica 1955 aut rubrica cisterciensis omittuntur)

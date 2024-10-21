@@ -5,7 +5,7 @@ Sonntag Septuagesima;;Semiduplex;;5.6
 Sonntag Septuagesima;;Semiduplex;;5
 
 [Versum 1]
-@Psalterium/Major Special:Day6 Versum 3
+@Psalterium/Special/Major Special:Day6 Versum 3
 
 [Ant 1]
 Der Herr sprach * zu Adam: Von dem Baum, der in der Mitte des Paradieses steht, sollst du nicht essen; sobald du davon genießest, wirst du sterben.
@@ -153,7 +153,7 @@ v. Brüder! Wisset ihr nicht, dass die Renner in der Wettbahn zwar alle rennen, 
 $Deo gratias
 
 [Versum 2]
-@Psalterium/Major Special:Day02 Versum 2
+@Psalterium/Special/Major Special:Day02 Versum 2
 
 [Ant 2]
 Es verhält sich * mit dem himmlischen Reiche wie mit einem Hausvater, der am frühsten Morgen ausging, um Arbeiter in seinem Weinberg zu dingen, spricht der Herr.
@@ -181,7 +181,7 @@ v. Sie trinken also aus einem übernatürliche Kraft besitzenden, nach ihnen in 
 $Deo gratias
 
 [Versum 3]
-@Psalterium/Major Special:Day0 Versum 3
+@Psalterium/Special/Major Special:Day0 Versum 3
 
 [Ant 3]
 Es sagte der Hausherr * zu den Arbeitern: Was steht ihr hier den ganzen Tag müßig? Sie aber antworteten und sprachen: Weil uns niemand gedungen hat. Geht auch ihn in meinen Weinberg und was recht ist, das will ich euch geben.

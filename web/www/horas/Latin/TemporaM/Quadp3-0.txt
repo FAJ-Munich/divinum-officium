@@ -5,10 +5,10 @@
 Invit2
 
 [Responsory Vespera 1]
-@Psalterium/Major Special:Day6M Vespera:3-8
+@Psalterium/Special/Major Special:Day6M Vespera:3-8
 
 [Responsory Vespera]
-@Psalterium/Major Special:Day0M Vespera:3-8
+@Psalterium/Special/Major Special:Day0M Vespera:3-8
 
 [Ant Matutinum 3N]
 Miserére mei, Fili David! † Quid vis ut fáciam tibi? Dómine, ut vídeam.
@@ -88,13 +88,13 @@ R. Témpore quo prædíxerat ei Deus.
 @Tempora/Quadp3-0:Responsory9
 
 [Responsory Laudes]
-@Psalterium/Major Special:Day0M Laudes:3-8
+@Psalterium/Special/Major Special:Day0M Laudes:3-8
 
 [Responsory TertiaM]
-@Psalterium/Minor Special:Dominica Tertia:s/.*_.//s
+@Psalterium/Special/Minor Special:Dominica Tertia:s/.*_.//s
 
 [Responsory SextaM]
-@Psalterium/Minor Special:Dominica Sexta:s/.*_.//s
+@Psalterium/Special/Minor Special:Dominica Sexta:s/.*_.//s
 
 [Responsory NonaM]
-@Psalterium/Minor Special:Dominica Nona:s/.*_.//s
+@Psalterium/Special/Minor Special:Dominica Nona:s/.*_.//s

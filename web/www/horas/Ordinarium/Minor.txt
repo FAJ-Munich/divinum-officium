@@ -1,6 +1,10 @@
 #Incipit
-(deinde dicitur)
-$Pater Ave
+(deinde dicuntur)
+$rubrica Secreto
+$Pater noster
+$Ave Maria
+_
+$rubrica Clara voce
 (sed rubrica 196 aut rubrica 1955 aut rubrica altovadensis omittitur)
 (rubrica altovadensis) $rubrica Incipit
 $Deus in adjutorium
@@ -30,7 +34,10 @@ $Fidelium animae
 (rubrica Monastica) &Divinum_auxilium
 (rubrica cisterciensis) $Fidelium animae
 
-(rubrica 1951) &Conclusio_cisterciensis
-
-$Pater post
+(deinde rubrica 1951 dicuntur)
+$rubrica Conclusio cisterciensis
+$Conclusio cisterciensis
+(deinde dicuntur)
+$rubrica Pater post
+$Pater noster
 (sed rubrica 196 aut rubrica 1955 aut rubrica cisterciensis omittitur)

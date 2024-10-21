@@ -733,7 +733,10 @@ sub concurrence {
     $cwrank[2] = $crank = $version =~ /trident/i ? 2.9 : 4.9;
   }
 
-  if ($cwrank[0] =~ /in.*octava/i && $wrank[0] =~ /Dominica/i && $version =~ /divino/i) {
+  if ( $cwrank[0] =~ /in.*octava/i
+    && ($wrank[0] =~ /Dominica/i || ($winner =~ /Sancti/ && $wrank !~ /in.*octava/i))
+    && $version =~ /divino/i)
+  {
     $octvespera = 1;    # Commemoration of resumed Octave on Sunday from 1st Vespers (Divino only)
   } elsif ($cwrank[0] =~ /Dominica/i && $trank[0] =~ /in.*octava/i) {
     $octvespera = 3;    # Commemoration of Octave on Saturday from 2nd Vespers
@@ -1348,7 +1351,7 @@ sub precedence {
   $date1 =~ s/\//\-/g;
   ($month, $day, $year) = split('-', $date1);
 
-  my $dayofweek = day_of_week($day, $month, $year);
+  our $dayofweek = day_of_week($day, $month, $year);
 
   if ($month < 1 || $month > 12 || $day < 1 || $day > 31) {
     error("Wrong date $date1 using today");
@@ -1942,48 +1945,6 @@ sub papal_antiphon_dum_esset($) {
   our $version;
   my %papalcommon = %{setupstring($lang, subdirname('Commune', $version) . "C4.txt")};
   return $papalcommon{'Ant 3 summi Pontificis'};
-}
-
-#*** sub expand($line, $lang, $antline)
-# for & references calls the sub
-# $ references are filled from Psalterium/Prayers file
-# antline to handle redding the beginning of psalm is same as antiphona
-# returns the expanded text or the link
-sub expand {
-  use strict;
-  my ($line, $lang, $antline) = @_;
-  $line =~ s/^\s+//;
-  $line =~ s/\s+$//;
-
-  # Extract and remove the sigil indicating the required expansion type.
-  # TODO: Fail more drastically when the sigil is invalid.
-  $line =~ s/^([&\$])// or return $line;
-  my $sigil = $1;
-  our ($expand, $missa);
-  local $expand = $missa ? 'all' : $expand;
-
-  # Make popup link if we shouldn't expand.
-  if ($expand =~ /none/i
-    || ($expand !~ /all|skeleton/i && ($line =~ /^(?:[A-Z](?!men)|pater_noster)/)))
-  {
-    setlink($sigil . $line, 0, $lang);
-  } elsif ($sigil eq '&') {
-
-    # Actual expansion for & references.
-    # Get function name and any parameters.
-    my ($function_name, $arg_string) = ($line =~ /(.*?)(?:[(](.*)[)])?$/);
-    my @args = (parse_script_arguments($arg_string), $lang);
-
-    # If we have an antiphon, pass it on to the script function.
-    if ($antline) {
-      $antline =~ s/^\s*Ant\. //i;
-      push @args, $antline;
-    }
-    dispatch_script_function($function_name, @args);
-  } else    # Sigil is $, so simply look up the prayer.
-  {
-    prayer($line, $lang);
-  }
 }
 
 #*** sub gettempora($caller)
