@@ -13,7 +13,7 @@ Symbolum Athanasium(rubrica tridentina)
 Invit2
 
 [Versum 1]
-@Psalterium/Major Special:Day6 Versum 3
+@Psalterium/Special/Major Special:Day6 Versum 3
 
 [Ant 1]
 Dixit Dóminus * ad Adam: De ligno quod est in médio paradísi, ne cómedas: in qua hora coméderis, morte moriéris.
@@ -160,7 +160,7 @@ v. Fratres: Nescítis quod ii qui in stádio currunt, omnes quidem currunt, sed 
 $Deo gratias
 
 [Versum 2]
-@Psalterium/Major Special:Day02 Versum 2
+@Psalterium/Special/Major Special:Day02 Versum 2
 
 [Ant 2]
 Símile est * regnum cælórum hómini patrifamílias, qui éxiit primo mane condúcere operários in víneam suam, dicit Dóminus.
@@ -188,7 +188,7 @@ v. Bibébant autem de spiritáli, consequénte eos, petra: petra autem erat Chri
 $Deo gratias
 
 [Versum 3]
-@Psalterium/Major Special:Day0 Versum 3
+@Psalterium/Special/Major Special:Day0 Versum 3
 
 [Ant 3]
 Dixit paterfamílias * operáriis suis: Quid hic statis tota die otiósi? At illi respondéntes dixérunt: Quia nemo nos condúxit. Ite et vos in víneam meam: et quod justum fúerit, dabo vobis.

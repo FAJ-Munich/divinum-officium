@@ -9,7 +9,7 @@ Sonntag Quinquagesima;;Semiduplex;;5
 Invit2
 
 [Versum 1]
-@Psalterium/Major Special:Day6 Versum 3
+@Psalterium/Special/Major Special:Day6 Versum 3
 
 [Ant 1]
 Der Vater unseres Glaubens, * Abraham, der so hoch Stehende, hat ein Ganzbrandopfer auf dem Altar dargebracht, der für seinen Sohn errichtet war.
@@ -149,7 +149,7 @@ v. Brüder! Wenn ich in den Sprachen der Menschen und Engel redete, die Liebe ab
 $Deo gratias
 
 [Versum 2]
-@Psalterium/Major Special:Day0 Versum 2
+@Psalterium/Special/Major Special:Day0 Versum 2
 
 [Ant 2]
 Seht, wir gehen hinauf * nach Jerusalem, und es wird alles in Erfüllung gehen, was vom Menschensohn geschrieben steht: er wird nämlich den Heiden überliefert, verspottet und angespien werden: und nachdem man ihn gegeißelt, wird man ihn töten, doch am dritten Tage wird er auferstehen.
@@ -177,7 +177,7 @@ v. Drum bleiben uns gegenwärtig Glaube, Hoffnung und Liebe, diese drei: das gr�
 $Deo gratias
 
 [Versum 3]
-@Psalterium/Major Special:Day0 Versum 3
+@Psalterium/Special/Major Special:Day0 Versum 3
 
 [Ant 3]
 Jesus aber blieb stehen, * ließ den Blinden zu sich führen und sagte ihm: Was soll ich dir tun? O Herr, dass ich sehen kann. Und Jesus sagte zu ihm: Blick auf, dein Glaube ist dir zum Heil geworden. Und sogleich war er sehend, und er folgt ihm nach und pries Gott.

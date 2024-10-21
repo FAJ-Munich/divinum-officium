@@ -4,7 +4,7 @@
 12 lectiones
 
 [Responsory Vespera]
-@Psalterium/Major Special:QuadM Vespera:3-8
+@Psalterium/Special/Major Special:QuadM Vespera:3-8
 
 [Ant Matutinum 3N]
 Faciámus hic tria tabernácula: † tibi unum, Móysi unum, et Elíæ unum.;;269;270;271
@@ -88,4 +88,4 @@ V. Deus, in cujus conspéctu ambulavérunt patres mei † Dómine qui pascis me 
 R. Erue me de manu fratris mei, quia valde eum tímeo.
 
 [Responsory Laudes]
-@Psalterium/Major Special:QuadM Laudes:3-8
+@Psalterium/Special/Major Special:QuadM Laudes:3-8

@@ -4,7 +4,7 @@
 12 lectiones
 
 [Responsory Vespera]
-@Psalterium/Major Special:Quad5M Vespera:3-8
+@Psalterium/Special/Major Special:Quad5M Vespera:3-8
 
 [Ant Matutinum 3N]
 Ego * glóriam meam non quæro: † est qui quærat, et júdicet.
@@ -74,4 +74,4 @@ Ego * glóriam meam non quæro: † est qui quærat, et júdicet.
 @Tempora/Quad5-1:Responsory3
 
 [Responsory Laudes]
-@Psalterium/Major Special:Quad5M Laudes:3-8
+@Psalterium/Special/Major Special:Quad5M Laudes:3-8

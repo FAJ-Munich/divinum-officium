@@ -1,7 +1,12 @@
 #Incipit
-(deinde dicitur)
-$Pater Ave Credo
-(sed rubrica 196 aut rubrica 1955 aut rubrica altovadensis omittitur)
+(deinde dicuntur)
+$rubrica Secreto
+$Pater noster
+$Ave Maria
+$Credo
+_
+$rubrica Clara voce
+(sed rubrica 196 aut rubrica 1955 aut rubrica altovadensis omittuntur)
 (rubrica altovadensis) $rubrica Incipit
 $Deus in adjutorium
 (deinde dicitur)
@@ -28,10 +33,13 @@ $Deus in adjutorium
 (sed rubrica 196 aut rubrica 1955 aut rubrica ^Monastic omittuntur)
 
 #Oratio
-(rubrica ^Monastic aut rubrica cisterciensis dicitur)
-$MLitany2
-(sed rubrica 1617 aut rubrica 1930 dicitur)
-&MLitany2
+(deinde rubrica ^Monastic aut rubrica cisterciensis dicitur)
+$Kyrie
+$rubrica Pater secreto
+$Pater noster Et
+(sed rubrica 1617 aut rubrica 1930 loco hujus versus dicitur)
+&mLitany
+(deinde dicitur semper)
 &Dominus_vobiscum1
 (sed rubrica 196 aut rubrica 1955 aut rubrica cisterciensis dicitur)
 &Dominus_vobiscum
@@ -45,18 +53,18 @@ $Per Dominum
 $Fidelium animae
 (deinde rubrica 1951 dicuntur)
 
-&Conclusio_cisterciensis
+$Conclusio cisterciensis
 (deinde rubrica ^Monastic dicitur)
 $rubrica Martyrologium
 
 #Martyrologium
-&martyrologium
 
-#De Officio Capituli
-(rubrica cisterciensis) $pretiosa
+(rubrica 1960) #De Officio Capituli
 $Deus in adjutorium iij
 &Gloria
-$MLitany2
+$Kyrie
+$rubrica Pater secreto
+$Pater noster Et
 $respice
 &Gloria
 $Oremus
@@ -78,7 +86,8 @@ $benedictio Prima2
 $Amen
 (sed rubrica cisterciensis omittitur)
 
-$Pater post
+$rubrica Pater post
+$Pater noster
 (sed rubrica 196 aut rubrica 1955 aut rubrica ^Monastic omittitur)
 
 (rubrica ^Monastic dicuntur)

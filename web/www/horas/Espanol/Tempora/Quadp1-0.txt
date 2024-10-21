@@ -9,7 +9,7 @@ Dominica in Septuagesima;;Semiduplex;;5
 Invit2
 
 [Versum 1]
-@Psalterium/Major Special:Day6 Versum 3
+@Psalterium/Special/Major Special:Day6 Versum 3
 
 [Ant 1]
 Dijo el Señor * a Adán: No comas del árbol que está en medio del paraíso. El día en que comas de él, morirás.
@@ -158,7 +158,7 @@ v. Hermanos: ¿No sabéis que en el estadio los corredores corren todos, pero un
 $Deo gratias
 
 [Versum 2]
-@Psalterium/Major Special:Day02 Versum 2
+@Psalterium/Special/Major Special:Day02 Versum 2
 
 [Ant 2]
 El reino de los cielos * se parece a un propietario, que al amanecer salió a contratar jornaleros para su viña, dice el Señor.
@@ -186,7 +186,7 @@ v. Bebían de la roca milagrosa que los acompañaba: roca que significaba a Cris
 $Deo gratias
 
 [Versum 3]
-@Psalterium/Major Special:Day0 Versum 3
+@Psalterium/Special/Major Special:Day0 Versum 3
 
 [Ant 3]
 Dijo el propietario * a sus jornaleros: ¿Cómo es que estáis aquí el día entero sin trabajar? Le respondieron: Porque nadie nos ha contratado. –Id también vosotros a mi viña y os pagaré lo debido.

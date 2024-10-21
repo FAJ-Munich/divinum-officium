@@ -15,7 +15,7 @@ Antiphonas horas
 @:Ant Laudes
 
 [Ant Vespera](rubrica tridentina)
-@Psalterium/Psalmi major:Daya6 Vespera
+@Psalterium/Psalmi/Psalmi major:Daya6 Vespera
 
 [Ant 1]
 Veni, Dómine, * visitáre nos in pace, ut lætémur coram te corde perfécto.
