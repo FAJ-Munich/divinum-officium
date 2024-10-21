@@ -417,3 +417,5 @@ Lectio ex Regula S.P.N.Benedicti, Caput №
 @Psalterium/Mariaant:Postpentecost
 (sed rubrica Ordo Praedicatorum)
 @Psalterium/Mariaant:Ant Finalis OP
+(sed rubrica cisterciensis)
+@Psalterium/Mariaant:Ant Finalis Cist

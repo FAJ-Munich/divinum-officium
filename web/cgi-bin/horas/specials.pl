@@ -272,7 +272,9 @@ sub specials {
       } else {
         push(@s, '#' . translate('Antiphona finalis BMV', $lang));
 
-        if ( $dayname[0] =~ /Adv|Nat/i
+        if ($version =~ /cist/i) {
+          push(@s, '$ant Salve Regina');
+        } elsif ($dayname[0] =~ /Adv|Nat/i
           || $month == 1
           || ($month == 2 && $day < 2)
           || ($month == 2 && $day == 2 && $hora !~ /Completorium/i))
