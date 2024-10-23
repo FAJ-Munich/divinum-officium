@@ -873,7 +873,7 @@ V. Az Úr csodálatossá tette szentjeit
 R. És meghallgatja azokat akik hozzá kiáltanak
 _
 !Könyörgés
-!N. a helyi templom védőszentje
+/:N. a helyi templom védőszentje:/
 $Oremus
 v. Szabadíts meg kérünk Urunk minden szellemi és testi bajtól és a boldogságos mindenkor szeplőtelen Szűz Mária, szent József, szent Péter és Pál apostolok, szent~
 r. N. és minden szentek kőzbenjárására, adj nekünk üdvösséget és békét hogy Egyházad ellenségeit és a tévedéseket legyőzve biztonságban szolgálhasson Téged
@@ -886,7 +886,7 @@ V. Az Úr csodálatossá tette szentjeit
 R. És meghallgatja azokat akik hozzá kiáltanak
 _
 !Könyörgés
-!N. a helyi templom védőszentje
+/:N. a helyi templom védőszentje:/
 $Oremus
 v. Szabadíts meg kérünk Urunk minden szellemi és testi bajtól szent József, szent Péter és Pál apostolok, szent~
 r. N. és minden szentek kőzbenjárására, adj nekünk üdvösséget és békét hogy Egyházad ellenségeit és a tévedéseket legyőzve biztonságban szolgálhasson Téged

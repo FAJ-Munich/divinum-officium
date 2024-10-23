@@ -114,22 +114,21 @@ $Requiescant
 _
 &psalm(129)
 _
-$Aportainferi ~
-
+$Aportainferi  
+(deinde dicuntur)
 $Requiescant
 $Domine exaudi
 (sed rubrica cisterciensis omittitur)
 
 &Dominus_vobiscum2
-(sed rubrica cisterciensis)
+(sed rubrica cisterciensis dicitur)
 &Dominus_vobiscum
 $Oremus
 $deus veniae
 $Per Dominum
-(sed rubrica cisterciensis)
+(sed rubrica cisterciensis dicitur)
 $Amen
 _
 $Requiem2
-(sed rubrica cisterciensis)
- ~
+(sed rubrica cisterciensis omittitur)
 $Requiescant

@@ -1372,7 +1372,7 @@ R. Et exaudívit eos clamántes ad se.
 _
 !Oratio
 /:In hac oratione, ad litteram N. exprimitur nomen Titularis propriæ ecclesiæ, dummodo Titulus non sit Persona divina vel Mysterium Domini, aut de ipso ratione Festi factum non fuerit Officium vel Commemoratio, aut illius nomen non sit in eadem Suffragii Oratione expressum; ac nomina sanctorum Angelorum et sancti Joannis Baptistæ, si Titulares fuerint, præponuntur nomini sancti Joseph. In hisce autem omnibus casibus omittuntur verba «atque beáto N.».:/
-$Oremus.  
+$Oremus  
 v. A cunctis nos, quǽsumus, Dómine, mentis et córporis defénde perículis: et, intercedénte beáta et gloriósa semper Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto~
 r. N. et ómnibus Sanctis, salútem nobis tríbue benígnus et pacem; ut, destrúctis adversitátibus et erróribus univérsis, Ecclésia tua secúra tibi sérviat libertáte.
 $Per eumdem
@@ -1385,7 +1385,7 @@ R. Et exaudívit eos clamántes ad se.
 _
 !Oratio
 /:In hac oratione, ad litteram N. exprimitur nomen Titularis propriæ ecclesiæ, dummodo Titulus non sit Persona divina vel Mysterium Domini, aut de ipso ratione Festi factum non fuerit Officium vel Commemoratio, aut illius nomen non sit in eadem Suffragii Oratione expressum; ac nomina sanctorum Angelorum et sancti Joannis Baptistæ, si Titulares fuerint, præponuntur nomini sancti Joseph. In hisce autem omnibus casibus et omittuntur verba «atque beáto N.». Si Titularis ante omnes fuerit nominandus, particula «cum» omittitur ante nomen sanctorum Petri et Pauli ac præponitur nomini Sancti Joseph.:/
-$Oremus.  
+$Oremus  
 v. A cunctis nos, quǽsumus, Dómine, mentis et córporis defénde perículis: et, intercedénte beáto Joseph, cum beátis Apóstolis tuis Petro et Paulo, atque beáto~
 r. N. et ómnibus Sanctis, salútem nobis tríbue benígnus et pacem; ut, destrúctis adversitátibus et erróribus univérsis, Ecclésia tua secúra tibi sérviat libertáte.
 $Per eumdem

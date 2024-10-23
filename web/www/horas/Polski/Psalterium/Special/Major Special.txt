@@ -947,8 +947,8 @@ V. Uczcił Pan Świętych swoich.
 R. I wysłuchał ich wołających do siebie.
 _
 !Modlitwa
-!Za N. wstawić imię patrona parafii
-$Oremus.
+/:Za N. wstawić imię patrona parafii:/
+$Oremus
 v. Broń nas, prosimy Cię, Panie, od wszelkich niebezpieczeństw duszy i ciała, a za wstawieniem się świętej i przechwalebnej Dziewicy, Bogarodzicy Marji, świętego Józefa, świętych Apostołów Twoich, Piotra i Pawła, i świętego~
 r. N. i wszystkich Świętych udziel nam łaskawie zbawienia i pokoju: aby Kościół Twój, pokonawszy przeciwności i błędy, mógł Ci służyć w bezpiecznej wolności.
 $Per eumdem
@@ -960,8 +960,8 @@ V. Uczcił Pan Świętych swoich.
 R. I wysłuchał ich wołających do siebie.
 _
 !Modlitwa
-!Za N. wstawić imię patrona parafii
-$Oremus.
+/:Za N. wstawić imię patrona parafii:/
+$Oremus
 v. Broń nas, prosimy Cię, Panie, od wszelkich niebezpieczeństw duszy i ciała, a za wstawieniem się, świętego Józefa, świętych Apostołów Twoich, Piotra i Pawła, i świętego~
 r. N. i wszystkich Świętych udziel nam łaskawie zbawienia i pokoju: aby Kościół Twój, pokonawszy przeciwności i błędy, mógł Ci służyć w bezpiecznej wolności.
 $Per eumdem

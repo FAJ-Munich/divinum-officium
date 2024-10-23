@@ -1220,8 +1220,8 @@ V. Mirificávit Dóminus Sanctos suos.
 R. Et exaudívit eos clamántes ad se.
 _
 !Oratio
-!In hac oratione, ad litteram N. exprimitur nomen Titularis propriæ ecclesiæ, dummodo Titulus non sit Persona divina vel Mysterium Domini, aut de ipso ratione Festi factum non fuerit Officium vel Commemoratio, aut illius nomen non sit in eadem Suffragii Oratione expressum; ac nomina sanctorum Angelorum et sancti Joannis Baptistæ, si Titulares fuerint, præponuntur nomini sancti Joseph. In hisce autem omnibus casibus omittuntur verba “atque beáto N.”.
-v. Orémus.
+/:In hac oratione, ad litteram N. exprimitur nomen Titularis propriæ ecclesiæ, dummodo Titulus non sit Persona divina vel Mysterium Domini, aut de ipso ratione Festi factum non fuerit Officium vel Commemoratio, aut illius nomen non sit in eadem Suffragii Oratione expressum; ac nomina sanctorum Angelorum et sancti Joannis Baptistæ, si Titulares fuerint, præponuntur nomini sancti Joseph. In hisce autem omnibus casibus omittuntur verba “atque beáto N.”:/
+$Oremus
 v. A cunctis nos, quǽsumus, Dómine, mentis et córporis defénde perículis: et, intercedénte beáta et gloriósa semper Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto~
 r. N. et ómnibus Sanctis, salútem nobis tríbue benígnus et pacem; ut, destrúctis adversitátibus et erróribus univérsis, Ecclésia tua secúra tibi sérviat libertáte.
 $Per eumdem
@@ -1233,8 +1233,8 @@ V. Mirificávit Dóminus Sanctos suos.
 R. Et exaudívit eos clamántes ad se.
 _
 !Oratio
-!In hac oratione, ad litteram N. exprimitur nomen Titularis propriæ ecclesiæ, dummodo Titulus non sit Persona divina vel Mysterium Domini, aut de ipso ratione Festi factum non fuerit Officium vel Commemoratio, aut illius nomen non sit in eadem Suffragii Oratione expressum; ac nomina sanctorum Angelorum et sancti Joannis Baptistæ, si Titulares fuerint, præponuntur nomini sancti Joseph. In hisce autem omnibus casibus et omittuntur verba “atque beáto N.”. Si Titularis ante omnes fuerit nominandus, particula “cum” omittitur ante nomen sanctorum Petri et Pauli ac præponitur nomini Sancti Joseph.
-v. Orémus.
+/:In hac oratione, ad litteram N. exprimitur nomen Titularis propriæ ecclesiæ, dummodo Titulus non sit Persona divina vel Mysterium Domini, aut de ipso ratione Festi factum non fuerit Officium vel Commemoratio, aut illius nomen non sit in eadem Suffragii Oratione expressum; ac nomina sanctorum Angelorum et sancti Joannis Baptistæ, si Titulares fuerint, præponuntur nomini sancti Joseph. In hisce autem omnibus casibus et omittuntur verba “atque beáto N.”. Si Titularis ante omnes fuerit nominandus, particula “cum” omittitur ante nomen sanctorum Petri et Pauli ac præponitur nomini Sancti Joseph.:/
+$Oremus
 v. A cunctis nos, quǽsumus, Dómine, mentis et córporis defénde perículis: et, intercedénte beáto Joseph, cum beátis Apóstolis tuis Petro et Paulo, atque beáto~
 r. N. et ómnibus Sanctis, salútem nobis tríbue benígnus et pacem; ut, destrúctis adversitátibus et erróribus univérsis, Ecclésia tua secúra tibi sérviat libertáte.
 $Per eumdem
@@ -1247,7 +1247,7 @@ V. Omnis terra adóret te, et psallat tibi.
 R. Psalmum dicat nómini tuo, Dómine.
 _
 !Oratio
-v. Orémus.
+$Oremus
 v. Perpétua nos, quǽsumus, Dómine, pace custódi, quos per lignum sanctæ Crucis redímere dignátus es.
 
 [Suffragium Paschale]
@@ -1257,7 +1257,7 @@ V. Dícite in natiónibus, allelúja.
 R. Quia Dóminus regnávit a ligno, allelúja.
 _
 !Oratio
-v. Orémus.
+$Oremus
 v. Deus qui pro nobis Fílium tuum Crucis patíbulum subíre voluísti, ut inimíci a nobis expélleres potestátem: concéde nobis fámulis tuis; ut resurrectiónis grátiam consequámur.
 $Per eumdem
 
@@ -1286,7 +1286,7 @@ V. Glória et divítiæ in domo ejus.
 R. Et justítia ejus manet in sǽculum sǽculi.
 _
 !Oratio
-v. Orémus.
+$Oremus
 v. Deus, qui ineffábili providéntia beátum Joseph sanctíssimæ Genitrícis tuæ sponsum elígere dignátus es: præsta quǽsumus; ut quem protectórem venerámur in terris, intercessórem habére mereámur in cælis.
 
 [Suffragium DeJoseph]
@@ -1308,7 +1308,7 @@ V. Constítues eos príncipes super omnem terram.
 R. Mémores erunt nóminis tui Dómine.
 _
 !Oratio
-v. Orémus.
+$Oremus
 v. Deus, cujus déxtera beátum Petrum ambulántem in flúctibus, ne mergerétur, eréxit, et coapóstolum ejus Paulum tértio naufragántem de profúndo pélagi liberávit: exáudi nos propítius, et concéde; ut ambórum méritis, æternitátis glóriam consequámur.
 
 [Suffragium DeApostolis]
