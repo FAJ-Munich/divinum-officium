@@ -246,7 +246,7 @@ v. Sancta María et omnes Sancti intercédant pro nobis ad Dóminum, ut nos mere
 $Amen
 
 [pretiosa]
-@:Conclmart:s/.*_\n//gs
+@:Pretiosa
 
 [DefunctV]
 &Dominus_vobiscum
@@ -267,13 +267,20 @@ v. Te decet laus, + te decet hymnus: tibi glória Deo Patri, et Fílio, cum Spí
 [Kyrie]
 v. Kýrie, eléison. Christe, eléison. Kýrie, eléison.
 
-[MLitany]
+[mLitany]
 $Kyrie
 $Pater noster Et
 
 [mLitany2]
 $Kyrie
-$Pater secreto
+$pater secreto
+
+[mLitany simplex]
+$Kyrie
+$rubrica Pater secreto
+$Pater noster Et
+$rubrica Credo secreto
+$Credo Carnis
 
 [rLitany simplex0]
 @:mLitany2
@@ -425,4 +432,3 @@ Lectio ex Regula S.P.N.Benedicti, Caput №
 @Psalterium/Mariaant:Ant Finalis OP
 (sed rubrica cisterciensis)
 @Psalterium/Mariaant:Ant Finalis Cist
-
