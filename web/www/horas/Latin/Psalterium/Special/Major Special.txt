@@ -1537,14 +1537,14 @@ _
 
 [Suffragium Laudes] (rubrica cisterciensis)
 @:Suffragium BMV
+(deinde rubrica 1951 aut feria 4 dicuntur)
 _
-(deinde rubrica 1951 aut feria 4 dicitur)
 @:Suffragium DeJoseph
+(deinde rubrica 1951 aut feria 3 dicuntur)
 _
-(deinde rubrica 1951 aut feria 3 dicitur)
 @:Suffragium DeSSPN
+(deinde rubrica 1951 aut feria 7 dicuntur)
 _
-(deinde rubrica 1951 aut feria 7 dicitur)
 @:Suffragium DePace
 
 
@@ -1580,14 +1580,14 @@ _
 @Psalterium/Mariaant:Nativiti: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/Amen.*$/\n/s
 (sed Paschali dicitur)
 @Psalterium/Mariaant:Paschalis: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(Per|Through).*$/\n/s
+(deinde rubrica 1951 aut feria 3 dicuntur)
 _
-(deinde rubrica 1951 aut feria 3 dicitur)
 @:Suffragium DeJoseph
+(deinde rubrica 1951 aut feria 2 dicuntur)
 _
-(deinde rubrica 1951 aut feria 2 dicitur)
 @:Suffragium DeSSPN
+(deinde rubrica 1951 aut feria 6 dicuntur)
 _
-(deinde rubrica 1951 aut feria 6 dicitur)
 @:Suffragium DePace
 
 

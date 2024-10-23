@@ -705,17 +705,17 @@ sub getsuffragium {
 
   our ($version, @dayname, $hora, $commune, $month, $day, $churchpatron, %cwinner);
   $commune = "C10"
-    if $cwinner{Rank} =~ /C1[012]/ && $hora eq 'Vespera';    # if Sancta Maria in Sabbato is commemorated on Friday Vespers
+    if $cwinner{Rank} =~ /C1[012]/ && $hora eq 'Vespera'; # if Sancta Maria in Sabbato is commemorated on Friday Vespers
   my %suffr = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
   my ($suffr, $comment);
 
-  if ($version =~ /trident/i) {
-    $comment = 3;
-    $suffr = $suffr{"Suffragium $hora"};
-  } else {
-    $comment = ($dayname[0] =~ /pasc/i) + 1;
-    $suffr = $suffr{'Suffragium'};
-  }
+  $comment =
+      $version =~ /altovadensis/i ? 5
+    : $version =~ /cisterciensis/i ? 4
+    : $version =~ /trident/i ? 3
+    : $dayname[0] =~ /pasc/i ? 2
+    : 1;
+  $suffr = $comment > 2 ? $suffr{"Suffragium $hora"} : $suffr{'Suffragium'};
   if ($churchpatron) { $suffr =~ s/r\. N\./$churchpatron/; }
   ($suffr, $comment);
 }
