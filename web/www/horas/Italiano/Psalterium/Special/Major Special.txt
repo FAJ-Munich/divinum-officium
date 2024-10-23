@@ -900,8 +900,8 @@ V. Signore ha reso mirabili i suoi Santi.
 R. E li ha esauditi, quando lo invocavano.
 _
 !Preghiera
-!N. esprime il nome del Titolare della propria Chiesa.
-$Oremus.
+/:N. esprime il nome del Titolare della propria Chiesa.:/
+$Oremus
 v. O Signore, difendici da tutti i pericoli dell'anima e del corpo: e, ad intercessione della beata e gloriosa sempre Vergine Maria Madre di Dio, del beato Giuseppe, dei beati tuoi Apostoli Pietro e Paolo, del beato~
 r. N. e di tutti i Santi, concedici benigno la salute e la pace; affinché, tolte tutte le contrarietà e tutti gli errori, la tua Chiesa ti serva con sicura libertà.
 $Per eumdem 
@@ -913,8 +913,8 @@ V. Signore ha reso mirabili i suoi Santi.
 R. E li ha esauditi, quando lo invocavano.
 _
 !Preghiera
-!N. esprime il nome del Titolare della propria Chiesa.
-$Oremus.
+/:N. esprime il nome del Titolare della propria Chiesa.:/
+$Oremus
 v. O Signore, difendici da tutti i pericoli dell'anima e del corpo: e, ad intercessione del beato Giuseppe, dei beati tuoi Apostoli Pietro e Paolo e del beato~
 r. N., e di tutti i Santi, concedici benigno la salute e la pace, affinché, tolte tutte le contrarietà e tutti gli errori, la tua Chiesa ti serva con sicura libertà.
 $Per eumdem

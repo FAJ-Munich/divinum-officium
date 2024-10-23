@@ -283,6 +283,12 @@ $Pater noster Et
 $rubrica Credo secreto
 $Credo Carnis
 
+[rLitany simplex0]
+@:mLitany2
+
+[rLitany simplex]
+@:mLitany simplex
+
 [Divinum auxilium]
 (rubrica Monastica)
 /:Si descendendum sit a choro, concluditur dicendo.:/
