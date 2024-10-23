@@ -597,7 +597,7 @@ sub setcell {
   $text =~ s/\s([»!?;:])/&nbsp;$1/g unless $lang eq 'Latin-gabc';   # no-break space before punctutation (mostly French)
   $text =~ s/«\s/«&nbsp;/g unless $lang =~ /Deutsch|gabc/i;         # no-break space after begin quote
   $text =~ s/\s\&\s/ &amp; /;                                       # HTML - Ampersand;
-    $text =~
+  $text =~
     s/↊|\&\#x218a\;/<span style='color:grey; display:inline-block; transform: rotate(180deg) translate(-40%, 15%);'>2<\/span><span style='color:grey; display:inline-block; transform: translate(-100%, 16%);'>.<\/span>/gu;
 
   # Remove line breaks from chants

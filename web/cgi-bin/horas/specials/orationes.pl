@@ -888,7 +888,7 @@ sub getrefs {
       do_inclusion_substitutions($v, $substitutions);
       do_inclusion_substitutions($o, $substitutions);
       $a =~ s/\s*\*\s*/ /;
-      
+
       # GABC: Change Versicles into the simple tone for commemorations
       if ($lang =~ /gabc/i) {
 

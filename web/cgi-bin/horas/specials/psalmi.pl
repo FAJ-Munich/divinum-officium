@@ -568,11 +568,11 @@ sub psalmi_major {
     $psalmi[1] =~ s/.*(?=;;)//;
     $psalmi[2] =~ s/.*(?=;;)//;
     $psalmi[-1] =~ s/.*(?=;;)//;
-    
+
     if ($version =~ /Monastic(?! Cist)/ && $hora eq 'Laudes') {
       $psalmi[-1] =~ s/.*(?=;;)/ alleluia_ant($lang) /e;
     } elsif ($version =~ /cist/i && $hora =~ /laudes/i && $rule !~ /matutinum romanum/i) {
-      
+
       # Cistercien Lauds under single Antiphone except for Triduum and Officium Defunctorum
       $psalmi[$_] =~ s/.*(?=;;)// foreach (1 .. 4);
     } else {
@@ -592,7 +592,6 @@ sub psalmi_major {
       }
     }
   }
-
 
   if (($dayname[0] =~ /Adv|Quad/ || emberday()) && $hora eq 'Laudes' && $version !~ /Trident/) {
     $prefix = "Laudes:$laudes $prefix";

@@ -367,7 +367,7 @@ sub psalm : ScriptFunc {
       $lnum =~ s/(\d)[a-z]/$1/;      # Remove sub-verse letter if inline numbers hidden
       $line =~ s/\(\d+[a-z]?\)//;    # Remove inline verse numbers
     }
-    $line =~ s/†// if ($noflexa);                   # Remove flexa if option is active
+    $line =~ s/†// if ($noflexa);                               # Remove flexa if option is active
     $line =~ s/\s(\+|\^✠\^\(\))\s/ / if $version =~ /cist/i;    # no sign-of the cross in Cistercian
     my $rest;
 
