@@ -1547,7 +1547,6 @@ _
 _
 @:Suffragium DePace
 
-
 [Suffragium Vespera] (rubrica tridentina)
 (si officio feriali dicuntur)
 @:Suffragium Feriale
@@ -1589,7 +1588,6 @@ _
 (deinde rubrica 1951 aut feria 6 dicuntur)
 _
 @:Suffragium DePace
-
 
 [Day0M Laudes]
 @:Day0 Laudes

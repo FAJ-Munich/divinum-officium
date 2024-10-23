@@ -385,14 +385,14 @@ Inclinávit * Dóminus aurem suam mihi;;114
 Crédidi, * propter quod locútus sum;;115;116
 Sæpe * expugnavérunt me a juventúte mea;;128
 
-[Daym1 Vespera] (tempore paschali)
-{annotation:1. g2;%%(c4) Al(f)le(f)lú(gh)ja,(h.) *() al(h)le(g)lú(hg)ja,(e_0f) al(g)le(fe)lú(d.)ja.(d.) (::)};;113;114;115;116;128;;1g2
-
 [Daym2 Vespera]
 De profúndis * clamávi ad te, Dómine;;129
 Speret * Israël in Dómino;;130
 Et omnis * mansuetúdinis ejus;;131
 Ecce quam bonum, * et quam jucúndum, habitáre fratres in unum!;;132
+
+[Daym1 Vespera] (tempore paschali)
+{annotation:1. g2;%%(c4) Al(f)le(f)lú(gh)ja,(h.) *() al(h)le(g)lú(hg)ja,(e_0f) al(g)le(fe)lú(d.)ja.(d.) (::)};;113;114;115;116;128;;1g2
 
 [Daym3 Vespera]
 {name:Omnia quaecumque;annotation:3.g;%%(c4)O(g)mni(h)a(hj) *() quæ(ji)cúm(h)que(g) vó(gh)lu(g)it,(g.) (,) Dó(g_f)mi(g)nus(gf) fe(e.)cit.(e.) (::)};;'134,3g'

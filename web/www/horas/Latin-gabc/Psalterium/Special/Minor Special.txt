@@ -41,7 +41,7 @@ R. Exáudi me, Dómine.
 R. Clamávi in toto corde meo: * Exáudi me, Dómine.
 _
 V. Ab occúltis meis munda me, Dómine.
-R. Et ab aliénis parce servo tuo. 
+R. Et ab aliénis parce servo tuo.
 
 [Feria Tertia]
 !Jer 17:14
@@ -86,7 +86,7 @@ R. Et miserére mei.
 R. Rédime me, Dómine, * Et miserére mei.
 _
 V. Ab occúltis meis munda me, Dómine.
-R. Et ab aliénis parce servo tuo. 
+R. Et ab aliénis parce servo tuo.
 
 [Adv Tertia]
 !Jer 23:5
@@ -440,7 +440,7 @@ Cum Spíritu Paráclito
 Regnans per omne sǽculum.
 Amen.
 
-[HymnusM Tertia] 
+[HymnusM Tertia]
 {gabc:Psalterium/Feria/hy--nunc_sancte_nobis_in_feriis_per_annum--solesmes_1934}
 (sed tonus dominicalis aut tonus festivus minor aut tonus 8vam)
 {gabc:Psalterium/Dominica/hy--nunc_sancte_nobis_in_dominicis_per_annum--solesmes_1934}
@@ -464,7 +464,6 @@ Amen.
 {gabc:Psalterium/Pascha/hy--nunc_sancte_nobis_in_tempore_ascensionis--solesmes_1934}
 (sed commune C11 aut tonus BMV)
 {gabc:Commune/C11/hy--nunc_sancte_nobis_in_festis_bmv--solesmes_1934}
-
 
 [Hymnus Sexta]
 v. Rector potens, verax Deus,
@@ -613,6 +612,11 @@ Amen.
 {(c3) Fra(h)tres:(h.) (,) Só(h)bri(h)i(h) es(h)tó(h)te,(h) et(h) vi(h)gi(h)lá(h)te:(f.) (;) qui(h)a(h) ad(h)ver(h)sá(h)ri(h)us(h) ves(h)ter(h) di(h)á(h)bo(h)lus(h_') (,) tam(h)quam(h) le(h)o(h) rú(h)gi(h)ens(h_') (,) cír(h)cu(h)it,(h) quæ(h)re(g)ns quem(f) dé(h)vo(h)ret:(h.) (;) cu(h)i(h) re(h)sís(h)ti(h)te(h) for(h)tes(h) in(h) fi(h.)de.(d.) (::)}
 $Tu autem
 
+[Versum 4] (rubrica ^Monastic)
+{initial-style:0;%%(c3) V/. Cus(h)tó(h)di(h) nos(h) Dó(h)mi(h)ne(h) ut(h) pu(h)píl(h)lam(h) ó(h)cu(h)li.(f.) (::) R/. Sub(h) um(h)bra(h) a(h)lá(h)rum(h) tu(h)á(h)rum(h) pró(h)te(h)ge(h) nos.(f.) (::)}
+(sed tempore paschali)
+{initial-style:0;%%(c3) V/. Cus(h)tó(h)di(h) nos(h) Dó(h)mi(h)ne(h) ut(h) pu(h)píl(h)lam(h) ó(h)cu(h)li,(h_') (,) al(h)le(h)lú(h)ja.(f.) (::) R/. Sub(h) um(h)bra(h) a(h)lá(h)rum(h) tu(h)á(h)rum(h) pró(h)te(h)ge(h) nos(h_') (,) al(h)le(h)lú(h)ja.(f.) (::)}
+
 [Completorium_]
 !Jer 14:9
 {centering-scheme: latin;%%(c3) TU(h) au(h)tem(h) in(h) no(h)bis(h) es(h) Dó(h)mi(h)ne,(h) et(h) no(h)men(h) tu(h)um(h) in(h)vo(h)cá(h)tum(h) est(h) su(h)per(h) nos,(h) ne(h) de(h)re(h)lín(f)quas(e) nos.(ef..) (::)}
@@ -625,8 +629,7 @@ $Deo gratias
 @:Completorium_:s/au(h)tem(h) //
 
 [Responsory Completorium]
-R.br. ~
-{gabc:Psalterium/rb--in_manus_tuas--solesmes_1961}
+R.br.  {gabc:Psalterium/rb--in_manus_tuas--solesmes_1961}
 (sed tempore passionis)
 {gabc:Psalterium/Passionis/rb--in_manus_tuas--passionis--solesmes_1961}
 (sed tempore paschali)
@@ -636,11 +639,6 @@ R.br. ~
 {initial-style:0;%%(c4) V/. Cus(f)tó(f)di(f) nos(f) Dó(f)mi(f)ne(f) ut(f) pu(f)píl(f)lam(f) ó(f)cu(f)li.(e_'/fvED'Cded.) (::) R/. Sub(f) um(f)bra(f) a(f)lá(f)rum(f) tu(f)á(f)rum(f) pró(f)te(f)ge(f) nos.(e_'/fvED'Cded.) (::)}
 (sed tempore paschali)
 {initial-style:0;%%(c3) V/. Cu(f)stó(f)di(f) nos(f) Dó(f)mi(f)ne(f) ut(f) pu(f)píl(f)lam(f) ó(f)cu(f)li,(f'_) (,) al(f)le(f)lú(f)ja.(e'_//fvED'Cded.) (::) R/. Sub(f) um(f)bra(f) a(f)lá(f)rum(f) tu(f)á(f)rum(f) pró(f)te(f)ge(f) nos,(f'_) (,) al(f)le(f)lú(f)ja.(e'_//fvED'Cded.) (::)}
-
-[Versum 4] (rubrica ^Monastic)
-{initial-style:0;%%(c3) V/. Cus(h)tó(h)di(h) nos(h) Dó(h)mi(h)ne(h) ut(h) pu(h)píl(h)lam(h) ó(h)cu(h)li.(f.) (::) R/. Sub(h) um(h)bra(h) a(h)lá(h)rum(h) tu(h)á(h)rum(h) pró(h)te(h)ge(h) nos.(f.) (::)}
-(sed tempore paschali)
-{initial-style:0;%%(c3) V/. Cus(h)tó(h)di(h) nos(h) Dó(h)mi(h)ne(h) ut(h) pu(h)píl(h)lam(h) ó(h)cu(h)li,(h_') (,) al(h)le(h)lú(h)ja.(f.) (::) R/. Sub(h) um(h)bra(h) a(h)lá(h)rum(h) tu(h)á(h)rum(h) pró(h)te(h)ge(h) nos(h_') (,) al(h)le(h)lú(h)ja.(f.) (::)}
 
 [Ant 4]
 {(c4) Sal(g)va(hj) nos,(j.) *() Dó(jk)mi(j)ne,(ji) vi(h)gi(i')lán(h)tes,(g.) (;) cus(g)tó(i')di(j) nos(k') dor(j)mi(h')én(j)tes;(i.) (;)  ut(i) vi(g')gi(i)lé(k')mus(i) cum(h') Chri(j)sto,(i_0j) (,) et(h) re(h)qui(h)es(h)cá(gf)mus(gh) in(gf) pa(e.)ce.(e.) (::) ^_T. P._^() Al(g)le(gf)lú(e.)ja.(e.) (::)};;3a
@@ -664,38 +662,14 @@ Allelúja. Ascéndens Christus in altum, allelúja, captívam duxit captivitáte
 [Ant 4 Pent]
 Allelúja. Spíritus Paráclitus, allelúja, docébit vos ómnia, allelúja, allelúja.
 
-[Preces feriales]
-$RLitany simplex0
-{initial-style:0;%%(c3) V/. Dó(h)mi(h)ne,(h) De(h)us(h) vir(h)tú(h)tum,(h) con(h)vér(h)te(f) nos.(h.) (::)
-R/. Et(h) os(h)tén(h)de(h) fá(h)ci(h)em(h) tu(h)am,(h) et(h) sal(h)vi(h) é(h)ri(f)mus.(f.) (::Z)
-V/. Ex(h)súr(h)ge,(h) Chris(h)te,(h) ád(h)ju(g)va(f) nos.(h.) (::)
-R/. Et(h) lí(h)be(h)ra(h) nos(h) prop(h)ter(h) no(h)men(h) tu(h)um.(f.) (::Z)
-V/. Dó(h)mi(h)ne,(h) ex(h)áu(h)di(h) o(h)ra(h)ti(h)ó(h)nem(h) me(h)am.(f.) (::)
-R/. Et(h) cla(h)mor(h) me(h)us(h) ad(h) te(h) vé(h)ni(f)at.(f.) (::)}
+[Preces Feriales]
+$rLitany simplex0
+$Preces feriales minora
+
 
 [Preces Dominicales]
-$RLitany simplex
-{initial-style:0;%%(c3) V/. Be(h)ne(h)díc(h)tus(h) es,(h) Dó(h)mi(h)ne,(h) De(h)us(h) pa(h)trum(h) nos(h)tró(h)rum.(f.) (::) 
-R/. Et(h) lau(h)dá(h)bi(h)lis(h) et(h) glo(h)ri(h)ó(h)sus(h) in(h) sǽ(h)cu(f)la.(f.) (::Z)
-V/. Be(h)ne(h)di(h)cá(h)mus(h) Pa(h)trem(h) et(h) Fí(h)li(h)um(h) cum(h) San(h)cto(h) Spí(h)ri(f)tu.(f.) (::) 
-R/. Lau(h)dé(h)mus,(h) et(h) su(h)per(h)ex(h)al(h)té(h)mus(h) e(h)um(h) in(h) sǽ(h)cu(f)la.(f.) (::Z)
-V/. Be(h)ne(h)dí(h)ctus(h) es,(h) Dó(h)mi(h)ne,(h) in(h) fir(h)ma(h)mén(h)to(h) cæ(h)li.(f.) (::) 
-R/. Et(h) lau(h)dá(h)bi(h)lis,(h) et(h) glo(h)ri(h)ó(h)sus,(h) et(h) su(h)per(h)ex(h)al(h)tá(h)tus(h) in(h) sǽ(h)cu(f)la.(f.) (::Z)
-V/. Be(h)ne(h)dí(h)cat(h) et(h) cus(h)tó(h)di(h)at(h) nos(h) om(h)ní(h)po(h)tens(h) et(h) mi(h)sér(h)i(h)cors(h) Dó(h)mi(f)nus.(f.) (::) 
-R/. A(f)men.(h.) (::Z)
-V/. Dig(h)ná(h)re,(h) Dó(h)mi(h)ne,(h) noc(h)te(h) is(h)ta.(f.) (::)
-R/. Si(h)ne(h) pec(h)cá(h)to(h) nos(h) cus(h)to(h)dí(h)re.(f.) (::Z)
-V/. Mi(h)se(h)ré(h)re(h) nos(h)tri,(h) Dó(h)mi(f)ne.(f.) (::)
-R/. Mi(h)se(h)ré(h)re(h) nos(h)tri.(f.) (::Z)
-V/. Fi(h)at(h) mi(h)se(h)ri(h)cór(h)di(h)a(h) tu(h)a,(h) Dó(h)mi(h)ne,(h) su(h)per(f) nos.(h.) (::)
-R/. Que(h)mád(h)mo(h)dum(h) spe(h)rá(h)vi(g)mus(gr) in(f) te.(h.) (::Z)
-V/. Dó(h)mi(h)ne,(h) ex(h)áu(h)di(h) o(h)ra(h)ti(h)ó(h)nem(h) me(h)am.(f.) (::)
-R/. Et(h) cla(h)mor(h) me(h)us(h) ad(h) te(h) vé(h)ni(f)at.(f.) (::)}
+$rLitany simplex
+(sed rubrica ^Monastic dicitur)
+$mLitany simplex
+$Preces dominicales Completorium
 
-[Preces Dominicales] (rubrica monastica)
-$MLitany2
-$Credo secreto
-{initial-style:0;%%(c3) V/. Dig(h)ná(h)re,(h) Dó(h)mi(h)ne,(h) noc(h)te(h) is(h)ta.(f.) (::)
-R/. Si(h)ne(h) pec(h)cá(h)to(h) nos(h) cus(h)to(h)dí(h)re.(f.) (::Z)
-V/. Dó(h)mi(h)ne,(h) ex(h)áu(h)di(h) o(h)ra(h)ti(h)ó(h)nem(h) me(h)am.(f.) (::)
-R/. Et(h) cla(h)mor(h) me(h)us(h) ad(h) te(h) vé(h)ni(f)at.(f.) (::)}

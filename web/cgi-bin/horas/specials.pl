@@ -141,7 +141,7 @@ sub specials {
       setbuild1($item, $skipflag ? 'omit' : 'include');
 
       if ($precesferiales && $item =~ /Dominicales/i) {
-        push(@s, prayer("Preces flexis genibus", $lang)) unless $skipflag;
+        push(@s, '$rubrica Preces flexis genibus') unless $skipflag;
       }
 
       push(@s, getpreces($hora, $lang, $item =~ /Dominicales/)) unless $skipflag;

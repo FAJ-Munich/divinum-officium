@@ -17,9 +17,6 @@ Feria V=Dóminum, qui fecit nos, * Veníte, adorémus.
 Feria VI=Adorémus Dóminum, * Quóniam ipse fecit nos.
 Sabbato=Dóminum, Deum nostrum, * Veníte, adorémus.
 
-[ ]
-Invit monastic same as Trid, but preceeded by psalm #3
-
 [Invit Adv]
 Regem ventúrum Dóminum, * Veníte, adorémus.
 

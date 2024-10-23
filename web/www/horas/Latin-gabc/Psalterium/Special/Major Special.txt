@@ -272,9 +272,6 @@ Amen.
 V. Repléti sumus mane misericórdia tua.
 R. Exsultávimus, et delectáti sumus.
 
-[Day1 Vespera]
-@:Day0 Vespera
-
 [Hymnus Day1 Vespera]
 {:H-VespFeria:}v. Imménse cæli Cónditor,
 Qui mixta ne confúnderent,
@@ -304,12 +301,6 @@ Amen.
 
 [HymnusM Day1 Vespera]
 @:Hymnus Day1 Vespera:s/adáugeat/invéniat/ s/Hæc/Ut/
-
-[Day1 Versum 3]
-@:Day0 Versum 3
-
-[Day2 Laudes]
-@:Day1 Laudes
 
 [HymnusM Day2 Laudes]
 @:Hymnus Day2 Laudes:s/Nunc et per omne sǽculum/Et nunc, et in perpétuum/
@@ -341,12 +332,6 @@ Cum Spíritu Paráclito,
 Nunc et per omne sǽculum.
 Amen.
 
-[Day2 Versum 2]
-@:Day1 Versum 2
-
-[Day2 Vespera]
-@:Day0 Vespera
-
 [Hymnus Day2 Vespera]
 {:H-VespFeria:}v. Tellúris alme Cónditor,
 Mundi solum qui séparans,
@@ -376,12 +361,6 @@ Amen.
 
 [HymnusM Day2 Vespera]
 @:Hymnus Day2 Vespera:s/alme/ingens/ s/séparans/éruens/ s/ictum/actum/
-
-[Day2 Versum 3]
-@:Day0 Versum 3
-
-[Day3 Laudes]
-@:Day1 Laudes
 
 [Hymnus Day3 Laudes]
 {:H-LaudsFeria:}v. Nox, et tenébræ, et núbila,
@@ -413,12 +392,6 @@ Amen.
 [HymnusM Day3 Laudes]
 @:Hymnus Day3 Laudes:s/vera lux cæléstium/lux Eói síderis/ s/Nunc et per omne sǽculum/Et nunc, et in perpétuum/
 
-[Day3 Versum 2]
-@:Day1 Versum 2
-
-[Day3 Vespera]
-@:Day0 Vespera
-
 [Hymnus Day3 Vespera]
 {:H-VespFeria:}v. Cæli Deus sanctíssime,
 Qui lúcidas mundi plagas
@@ -448,12 +421,6 @@ Amen.
 
 [HymnusM Day3 Vespera]
 @:Hymnus Day3 Vespera:s/mundi plagas/centrum poli/ s/Dum solis accéndis rotam/Solis rotam constítuens/ s/Expélle noctem córdium:/Illúmina cor hóminum,/
-
-[Day3 Versum 3]
-@:Day0 Versum 3
-
-[Day4 Laudes]
-@:Day1 Laudes
 
 [HymnusM Day4 Laudes]
 @:Hymnus Day4 Laudes:s/Nunc et per omne sǽculum/Et nunc, et in perpétuum/
@@ -485,12 +452,6 @@ Cum Spíritu Paráclito,
 Nunc et per omne sǽculum.
 Amen.
 
-[Day4 Versum 2]
-@:Day1 Versum 2
-
-[Day4 Vespera]
-@:Day0 Vespera
-
 [Hymnus Day4 Vespera]
 {:H-VespFeria:}v. Magnæ Deus poténtiæ,
 Qui fértili natos aqua
@@ -520,12 +481,6 @@ Amen.
 
 [HymnusM Day4 Vespera]
 @:Hymnus Day4 Vespera:s/fértili natos aqua/ex aquis ortum genus/ s/relínquis/remíttis/ s/érigens/írrigans/ s/répleant/rápiant/ s/éfferat/levet/
-
-[Day4 Versum 3]
-@:Day0 Versum 3
-
-[Day5 Laudes]
-@:Day1 Laudes
 
 [Hymnus Day5 Laudes]
 {:H-LaudsFeria:}v. Ætérna cæli glória,
@@ -562,12 +517,6 @@ Amen.
 [HymnusM Day5 Laudes]
 @:Hymnus Day5 Laudes:s/Summi/Celsi/ s/Præítque solem núntius/Sparmsámque lucem núntiat/ s/Cadunt tenébræ/Cadit calígo/ s/témporis/diéi/ s/In corde radíces agat/Radícet altis sénsibus/ s/Nunc et per omne sǽculum/Et nunc, et in perpétuum/
 
-[Day5 Versum 2]
-@:Day1 Versum 2
-
-[Day5 Vespera]
-@:Day0 Vespera
-
 [Hymnus Day5 Vespera]
 {:H-VespFeria:}v. Hóminis superne Cónditor,
 Qui cuncta solus órdinans,
@@ -598,12 +547,6 @@ Amen.
 [HymnusM Day5 Vespera]
 @:Hymnus Day5 Vespera:s/Hóminis superne Cónditor/Plasmátor hóminis Deus/ s/Et magna/Qui magna/ s/Per témporum certas vices/Ut sérviant per órdinem,/ s/Obtemperáre sérvulis/Subdens dedísti hómini/ s/quod cupídinis/a servis tuis,/ s/Ciénte vi nos ímpetit/Quidquid per immundítiam/
 
-[Day5 Versum 3]
-@:Day0 Versum 3
-
-[Day6 Laudes]
-@:Day1 Laudes
-
 [Hymnus Day6 Laudes]
 {:H-LaudsFeria:}v. Auróra jam spargit polum:
 Terris dies illábitur:
@@ -628,9 +571,6 @@ Amen.
 
 [HymnusM Day6 Laudes]
 @:Hymnus Day6 Laudes:s/éxsulet/décidat/ s/córruat/súbruat/ s/Ut .* cóncrepat./Et mane illud últimum,\nQuod præstolámur cérnui,\nIn lucem nobis éffluat,\nDum hoc canóre cóncrepat./s s/Nunc et per omne sǽculum/Et nunc, et in perpétuum/
-
-[Day6 Versum 2]
-@:Day1 Versum 2
 
 [Day6 Vespera]
 !Rom 11:33
@@ -674,15 +614,6 @@ Amen.
 [Day6 Versum 3]
 V. Vespertína orátio ascéndat ad te, Dómine.
 R. Et descéndat super nos misericórdia tua.
-
-[Day0 Ant 2]
-missing from próprium
-
-[Day02 Ant 2]
-missing from próprium
-
-[Day0 Ant 3]
-missing from próprium
 
 [Day1 Ant 2]
 Benedíctus * Dóminus Deus Israël, quia visitávit et liberávit nos.
@@ -877,9 +808,6 @@ Amen.
 V. Roráte, cæli, désuper, et nubes pluant justum.
 R. Aperiátur terra, et gérminet Salvatórem.
 
-[Adv Versum 3]
-@:Adv Versum 1
-
 [Adv Ant 17]
 O Sapiéntia, * quæ ex ore Altíssimi prodiísti, attíngens a fine usque ad finem, fórtiter suavitérque dispónens ómnia: veni ad docéndum nos viam prudéntiæ.
 
@@ -1004,9 +932,6 @@ Concéde, simplex Únitas;
 Ut fructuósa sint tuis
 Jejuniórum múnera.
 Amen.
-
-[Quad Versum 3]
-@:Quad Versum 2
 
 [Quad5 Laudes]
 !Jer 11:19
@@ -1200,9 +1125,6 @@ Amen.
 V. In resurrectióne tua, Christe, allelúja.
 R. Cæli et terra læténtur, allelúja.
 
-[Pasch Vespera]
-@:Pasch Laudes
-
 [HymnusM Pasch Vespera]
 v. Ad cenam Agni próvidi,
 Et stolis albis cándidi,
@@ -1291,33 +1213,33 @@ Amen.
 V. Mane nobíscum, Dómine, allelúja.
 R. Quóniam advesperáscit, allelúja.
 
-[Suffragium1]
+[Suffragium Divino]
 Ant. Beáta Dei Génitrix Virgo María, Sanctíque omnes intercédant pro nobis ad Dóminum.
 _
 V. Mirificávit Dóminus Sanctos suos.
 R. Et exaudívit eos clamántes ad se.
 _
 !Oratio
-!In hac oratione, ad litteram N. exprimitur nomen Titularis propriæ ecclesiæ, dummodo Titulus non sit Persona divina vel Mysterium Domini, aut de ipso ratione Festi factum non fuerit Officium vel Commemoratio, aut illius nomen non sit in eadem Suffragii Oratione expressum; ac nomina sanctorum Angelorum et sancti Joannis Baptistæ, si Titulares fuerint, præponuntur nomini sancti Joseph. In hisce autem omnibus casibus omittuntur verba "atque beáto N.".
+!In hac oratione, ad litteram N. exprimitur nomen Titularis propriæ ecclesiæ, dummodo Titulus non sit Persona divina vel Mysterium Domini, aut de ipso ratione Festi factum non fuerit Officium vel Commemoratio, aut illius nomen non sit in eadem Suffragii Oratione expressum; ac nomina sanctorum Angelorum et sancti Joannis Baptistæ, si Titulares fuerint, præponuntur nomini sancti Joseph. In hisce autem omnibus casibus omittuntur verba “atque beáto N.”.
 v. Orémus.
 v. A cunctis nos, quǽsumus, Dómine, mentis et córporis defénde perículis: et, intercedénte beáta et gloriósa semper Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto~
 r. N. et ómnibus Sanctis, salútem nobis tríbue benígnus et pacem; ut, destrúctis adversitátibus et erróribus univérsis, Ecclésia tua secúra tibi sérviat libertáte.
 $Per eumdem
 
-[Suffragium11]
+[Suffragium Divino1]
 Ant. Sancti omnes intercédant pro nobis ad Dóminum.
 _
 V. Mirificávit Dóminus Sanctos suos.
 R. Et exaudívit eos clamántes ad se.
 _
 !Oratio
-!In hac oratione, ad litteram N. exprimitur nomen Titularis propriæ ecclesiæ, dummodo Titulus non sit Persona divina vel Mysterium Domini, aut de ipso ratione Festi factum non fuerit Officium vel Commemoratio, aut illius nomen non sit in eadem Suffragii Oratione expressum; ac nomina sanctorum Angelorum et sancti Joannis Baptistæ, si Titulares fuerint, præponuntur nomini sancti Joseph. In hisce autem omnibus casibus et omittuntur verba "atque beáto N.". Si Titularis ante omnes fuerit nominandus, particula "cum" omittitur ante nomen sanctorum Petri et Pauli ac præponitur nomini Sancti Joseph.
+!In hac oratione, ad litteram N. exprimitur nomen Titularis propriæ ecclesiæ, dummodo Titulus non sit Persona divina vel Mysterium Domini, aut de ipso ratione Festi factum non fuerit Officium vel Commemoratio, aut illius nomen non sit in eadem Suffragii Oratione expressum; ac nomina sanctorum Angelorum et sancti Joannis Baptistæ, si Titulares fuerint, præponuntur nomini sancti Joseph. In hisce autem omnibus casibus et omittuntur verba “atque beáto N.”. Si Titularis ante omnes fuerit nominandus, particula “cum” omittitur ante nomen sanctorum Petri et Pauli ac præponitur nomini Sancti Joseph.
 v. Orémus.
 v. A cunctis nos, quǽsumus, Dómine, mentis et córporis defénde perículis: et, intercedénte beáto Joseph, cum beátis Apóstolis tuis Petro et Paulo, atque beáto~
 r. N. et ómnibus Sanctis, salútem nobis tríbue benígnus et pacem; ut, destrúctis adversitátibus et erróribus univérsis, Ecclésia tua secúra tibi sérviat libertáte.
 $Per eumdem
 
-[SuffragiumTridentinumFeriale]
+[Suffragium Feriale]
 !De cruce
 Ant. Per signum Crucis de inimícis nostris líbera nos, Deus noster.
 _
@@ -1328,7 +1250,7 @@ _
 v. Orémus.
 v. Perpétua nos, quǽsumus, Dómine, pace custódi, quos per lignum sanctæ Crucis redímere dignátus es.
 
-[Suffragium2]
+[Suffragium Paschale]
 Ant. Crucifíxus surréxit a mórtuis, et redémit nos, allelúja, allelúja.
 _
 V. Dícite in natiónibus, allelúja.
@@ -1339,33 +1261,24 @@ v. Orémus.
 v. Deus qui pro nobis Fílium tuum Crucis patíbulum subíre voluísti, ut inimíci a nobis expélleres potestátem: concéde nobis fámulis tuis; ut resurrectiónis grátiam consequámur.
 $Per eumdem
 
-[Suffragium2v]
+[Suffragium PaschaleV]
 Ant. Crucem sanctam súbiit, qui inférnum confrégit; accínctus est poténtia, surréxit die tértia, allelúja.
 @:Suffragium2:2-9
 
-[Suffragium3]
+[Suffragium BMV]
 !De Beata Maria
 Ant. Sancta María succúrre míseris, juva pusillánimes, réfove flébiles, ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu: séntiant omnes tuum juvámen, quicúmque célebrant tuam sanctam commemoratiónem.
 _
+(deinde dicuntur semper)
 V. Ora pro nobis sancta Dei Génitrix.
 R. Ut digni efficiámur promissiónibus Christi.
 _
-!Oratio
-v. Orémus.
+$Oremus
 v. Concéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére, et gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia.
+(sed tempore post partum loco horum versuum dicuntur)
+@Psalterium/Mariaant:Nativiti:s/.*V\./V\./s
 
-[Suffragium3Epi]
-!De Beata Maria
-Ant. Sancta María succúrre míseris, juva pusillánimes, réfove flébiles, ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu: séntiant omnes tuum juvámen, quicúmque célebrant tuam sanctam commemoratiónem.
-_
-V. Post partum Virgo invioláta permansísti.
-R. Dei Génitrix intercéde pro nobis.
-_
-!Oratio
-v. Orémus.
-v. Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fecúnda, humáno géneri prǽmia præstitísti: tríbue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum:
-
-[Suffragium41]
+[Suffragium DeJosephV]
 !De sancto Joseph
 Ant. Ecce fidélis servus et prudens, quem constítuit Dóminus super famíliam suam.
 _
@@ -1376,18 +1289,18 @@ _
 v. Orémus.
 v. Deus, qui ineffábili providéntia beátum Joseph sanctíssimæ Genitrícis tuæ sponsum elígere dignátus es: præsta quǽsumus; ut quem protectórem venerámur in terris, intercessórem habére mereámur in cælis.
 
-[Suffragium42]
+[Suffragium DeJoseph]
 !De sancto Joseph
-Ant. Ipse Jesus erat incípiens quasi annórum trigínta ut putabátur fílius Joseph.
+Ant. Ipse Jesus erat incípiens quasi annórum trigínta ut putabátur fílius Joseph. (Allelúja.)
 _
-V. Os justi meditábitur sapiéntiam.
-R. Et lingua ejus loquétur judícium.
+V. Os justi meditábitur sapiéntiam. (Allelúja.)
+R. Et lingua ejus loquétur judícium. (Allelúja.)
+(sed commune C4 aut commune C5 loco hujus versus dicitur)
+@:Suffragium DeJosephV:4-5
 _
-!Oratio
-v. Orémus
-v. Deus, qui ineffábili providéntia beátum Joseph sanctíssimæ Genitrícis tuæ sponsum elígere dignátus es: præsta quǽsumus; ut quem protectórem venerámur in terris, intercessórem habére mereámur in cælis.
+@:Suffragium DeJosephV:7-8
 
-[Suffragium51]
+[Suffragium DeApostolisV]
 !De Apostolis
 Ant. Petrus Apóstolus, et Paulus Doctor Géntium, ipsi nos docuérunt legem tuam Dómine.
 _
@@ -1398,18 +1311,16 @@ _
 v. Orémus.
 v. Deus, cujus déxtera beátum Petrum ambulántem in flúctibus, ne mergerétur, eréxit, et coapóstolum ejus Paulum tértio naufragántem de profúndo pélagi liberávit: exáudi nos propítius, et concéde; ut ambórum méritis, æternitátis glóriam consequámur.
 
-[Suffragium52]
+[Suffragium DeApostolis]
 !De Apostolis
 Ant. Gloriósi príncipes terræ, quómodo in vita sua dilexérunt se, ita et in morte non sunt separáti.
 _
 V. In omnem terram exívit sonus eórum.
 R. Et in fines orbis terræ verba eórum.
 _
-!Oratio
-v. Orémus.
-v. Deus, cujus déxtera beátum Petrum ambulántem in flúctibus, ne mergerétur, eréxit, et coapóstolum ejus Paulum tértio naufragántem de profúndo pélagi liberávit: exáudi nos propítius, et concéde; ut ambórum méritis, æternitátis glóriam consequámur.
+@:Suffragium DeApostolisV:7-8
 
-[Suffragium6]
+[Suffragium DePace]
 !De Pace
 Ant. Da pacem Dómine in diébus nostris, quia non est álius, qui pugnet pro nobis, nisi tu Deus noster.
 _
@@ -1420,198 +1331,6 @@ _
 v. Orémus
 v. Deus, a quo sancta desidéria, recta consília, et justa sunt ópera: da servis tuis illam, quam mundus dare non potest, pacem; ut et corda nostra mandátis tuis dédita, et hóstium subláta formídine, témpora sint tua protectióne tranquílla.
 $Per Dominum
-
-[Litania]
-&Dominus_vobiscum
-&Benedicamus_Domino
-_
-!Litaniæ
-v. Kýrie, eléison.
-Christe, eléison.
-Kýrie, eléison.
-Christe, audi nos.
-Christe, exáudi nos.
-_
-Pater de cælis, Deus, miserére nobis.
-Fili, Redémptor mundi, Deus, miserére nobis.
-Spíritus Sancte, Deus, miserére nobis.
-Sancta Trínitas, unus Deus, miserére nobis.
-_
-Sancta María, ora pro nobis.
-Sancta Dei Génetrix, ora pro nobis.
-Sancta Virgo vírginum, ora pro nobis.
-Sancte Míchaël, ora pro nobis.
-Sancte Gábriel, ora pro nobis.
-Sancte Ráphaël, ora pro nobis.
-Omnes sancti Ángeli et Archángeli, oráte pro nobis.
-Omnes sancti beatórum Spirítuum órdines, oráte pro nobis.
-_
-Sancte Joánnes Baptísta, ora pro nobis.
-Sancte Joseph, ora pro nobis.
-Omnes sancti Patriárchæ et Prophétæ, oráte pro nobis.
-Sancte Petre, ora pro nobis.
-Sancte Paule, ora pro nobis.
-Sancte Andréa, ora pro nobis.
-Sancte Jacóbe, ora pro nobis.
-Sancte Joánnes, ora pro nobis.
-Sancte Thoma, ora pro nobis.
-Sancte Jacóbe, ora pro nobis.
-Sancte Philíppe, ora pro nobis.
-Sancte Bartolomǽe, ora pro nobis.
-Sancte Matthǽe, ora pro nobis.
-Sancte Simon, ora pro nobis.
-Sancte Thaddǽe, ora pro nobis.
-Sancte Matthía, ora pro nobis.
-Sancte Bárnaba, ora pro nobis.
-Sancte Luca, ora pro nobis.
-Sancte Marce, ora pro nobis.
-Omnes sancti Apóstoli et Evangelístæ, oráte pro nobis.
-Omnes sancti Discípuli Dómini, oráte pro nobis.
-_
-Omnes sancti Innocéntes, oráte pro nobis.
-Sancte Stéphane, ora pro nobis.
-Sancte Laurénti, ora pro nobis.
-Sancte Vincénti, ora pro nobis.
-Sancti Fabiáne et Sebastiáne, oráte pro nobis.
-Sancti Joánnes et Paule, oráte pro nobis.
-Sancti Cosma et Damiáne, oráte pro nobis.
-Sancti Gervási et Protási, oráte pro nobis.
-Omnes sancti Mártyres, oráte pro nobis.
-Sancte Silvéster, ora pro nobis.
-Sancte Gregóri, ora pro nobis.
-Sancte Ambrósi, ora pro nobis.
-Sancte Augustíne, ora pro nobis.
-Sancte Hierónyme, ora pro nobis.
-Sancte Martíne, ora pro nobis.
-Sancte Nicoláe, ora pro nobis.
-Omnes sancti Pontífices et Confessóres,	oráte pro nobis.
-Omnes sancti Doctóres, oráte pro nobis.
-Sancte Antóni, ora pro nobis.
-Sancte Benedícte, ora pro nobis.
-Sancte Bernárde, ora pro nobis.
-Sancte Domínice, ora pro nobis.
-Sancte Francísce, ora pro nobis.
-Omnes sancti Sacerdótes et Levítæ, oráte pro nobis.
-Omnes sancti Mónachi et Eremítæ, oráte pro nobis.
-_
-Sancta María Magdaléna, ora pro nobis.
-Sancta Agatha, ora pro nobis.
-Sancta Lúcia, ora pro nobis.
-Sancta Agnes, ora pro nobis.
-Sancta Cæcília, ora pro nobis.
-Sancta Catharína, ora pro nobis.
-Sancta Anastásia, ora pro nobis.
-Omnes sanctæ Vírgines et Víduæ,	oráte pro nobis.
-Omnes Sancti et Sanctæ Dei, intercédite pro nobis.
-_
-Propítius esto, parce nobis, Dómine.
-Propítius esto, exáudi nos, Dómine.
-Ab omni malo, líbera nos, Dómine.
-Ab omni peccáto, líbera nos, Dómine.
-Ab ira tua, líbera nos, Dómine.
-A subitánea et improvísa morte, líbera nos, Dómine.
-Ab insídiis diáboli, líbera nos, Dómine.
-Ab ira et ódio et omni mala voluntáte, líbera nos, Dómine.
-A spíritu fornicatiónis, líbera nos, Dómine.
-A fúlgure et tempestáte, líbera nos, Dómine.
-A flagéllo terræmótus, líbera nos, Dómine.
-A peste, fame et bello, líbera nos, Dómine.
-A morte perpétua, líbera nos, Dómine.
-Per mystérium sanctæ Incarnatiónis tuæ, líbera nos, Dómine.
-Per advéntum tuum, líbera nos, Dómine.
-Per nativitátem tuam, líbera nos, Dómine.
-Per baptísmum et sanctum jejúnium tuum, líbera nos, Dómine.
-Per crucem et passiónem tuam, líbera nos, Dómine.
-Per mortem et sepultúram tuam, líbera nos, Dómine.
-Per sanctam resurrectiónem tuam, líbera nos, Dómine.
-Per admirábilem ascensiónem tuam, líbera nos, Dómine.
-Per advéntum Spíritus Sancti Parácliti, líbera nos, Dómine.
-In die judícii, líbera nos, Dómine.
-_
-Peccatóres, te rogámus, audi nos.
-Ut nobis parcas, te rogámus, audi nos.
-Ut nobis indúlgeas, te rogámus, audi nos.
-Ut ad veram pœniténtiam nos perdúcere dignéris, te rogámus, audi nos.
-Ut Ecclésiam tuam sanctam régere et conserváre dignéris, te rogámus, audi nos.
-Ut domnum Apostólicum et omnes ecclesiásticos órdines in sancta religióne conserváre dignéris, te rogámus, audi nos.
-Ut inimícos sanctæ Ecclésiæ humiliáre dignéris, te rogámus, audi nos.
-Ut régibus et princípibus christiánis pacem et veram concórdiam donáre dignéris, te rogámus, audi nos.
-Ut cuncto pópulo christiáno pacem et unitátem largíri dignéris, te rogámus, audi nos.
-Ut omnes errántes ad unitátem Ecclésiæ revocáre, et infidéles univérsos ad Evangélii lumen perdúcere dignéris, te rogámus, audi nos.
-Ut nosmetípsos in tuo sancto servítio confortáre et conserváre dignéris, te rogámus, audi nos.
-Ut mentes nostras ad cæléstia desidéria érigas, te rogámus, audi nos.
-Ut ómnibus benefactóribus nostris sempitérna bona retríbuas, te rogámus, audi nos.
-Ut ánimas nostras, fratrum, propinquórum et benefactórum nostrórum ab ætérna damnatióne erípias, te rogámus, audi nos.
-Ut fructus terræ dare et conserváre dignéris, te rogámus, audi nos.
-Ut ómnibus fidélibus defúnctis réquiem ætérnam donáre dignéris, te rogámus, audi nos.
-Ut nos exaudíre dignéris, te rogámus, audi nos.
-Fili Dei, te rogámus, audi nos.
-_
-Agnus Dei, qui tollis peccáta mundi, parce nobis, Dómine.
-Agnus Dei, qui tollis peccáta mundi, exáudi nos, Dómine.
-Agnus Dei, qui tollis peccáta mundi, miserére nobis.
-_
-Christe, audi nos.
-Christe, exáudi nos.
-Kýrie, eléison.
-Christe, eléison.
-Kýrie, eléison.
-_
-&pater_noster
-_
-!Psalmus 69
-v. Deus, in adjutórium meum inténde: * Dómine, ad adjuvándum me festína.
-Confundántur et revereántur, * qui quærunt ánimam meam.
-Avertántur retrórsum, et erubéscant, * qui volunt mihi mala.
-Avertántur statim erubescéntes, * qui dicunt mihi: Euge, euge.
-Exsúltent et læténtur in te omnes qui quærunt te, * et dicant semper: Magnificétur Dóminus: qui díligunt salutáre tuum.
-Ego vero egénus, et pauper sum: * Deus, ádjuva me.
-Adjútor meus, et liberátor meus es tu: * Dómine, ne moréris.
-&Gloria
-_
-V. Salvos fac servos tuos.
-R. Deus meus, sperántes in te.
-V. Esto nobis, Dómine, turris fortitúdinis.
-R. A fácie inimíci.
-V. Nihil profíciat inimícus in nobis.
-R. Et fílius iniquitátis non appónat nocére nobis.
-V. Dómine, non secúndum peccáta nostra fácias nobis.
-R. Neque secúndum iniquitátes nostras retríbuas nobis.
-V. Orémus pro Pontífice nostro~
-r. N.
-R. Dóminus consérvet eum, et vivíficet eum, et beátum fáciat eum in terra, et non tradat eum in ánimam inimicórum ejus.
-V. Orémus pro benefactóribus nostris.
-R. Retribúere dignáre, Dómine, ómnibus, nobis bona faciéntibus propter nomen tuum, vitam ætérnam. Amen.
-V. Orémus pro fidélibus defúnctis.
-R. Réquiem ætérnam dona eis, Dómine, et lux perpétua lúceat eis.
-V. Requiéscant in pace.
-R. Amen.
-V. Pro frátribus nostris abséntibus.
-R. Salvos fac servos tuos, Deus meus, sperántes in te.
-V. Mitte eis, Dómine, auxílium de sancto.
-R. Et de Sion tuére eos.
-V. Dómine, exáudi oratiónem meam.
-R. Et clamor meus ad te véniat.
-&Dominus_vobiscum1
-_
-!Oratio
-v. Orémus
-v. Deus, cui próprium est miseréri semper et párcere: súscipe deprecatiónem nostram, ut nos, et omnes fámulos tuos, quos delictórum caténa constríngit, miserátio tuæ pietátis cleménter absólvat.
-v. Exáudi, quǽsumus, Dómine, súpplicum preces, et confiténtium tibi parce peccátis: ut páriter nobis indulgéntiam tríbuas benígnus et pacem.
-v. Ineffábilem nobis, Dómine, misericórdiam tuam cleménter osténde: ut simul nos et a peccátis ómnibus éxuas, et a pœnis, quas pro his merémur, erípias.
-v. Deus, qui culpa offénderis, pœniténtia placáris: preces pópuli tui supplicántis propítius réspice; et flagélla tuæ iracúndiæ, quæ pro peccátis nostris merémur, avérte.
-v. Omnípotens sempitérne Deus, miserére fámulo tuo Pontífici nostro~
-r. N., et dírige eum secúndum tuam cleméntiam in viam salútis ætérnæ: ut, te donánte, tibi plácita cúpiat, et tota virtúte perfíciat.
-v. Deus, a quo sancta desidéria, recta consília et justa sunt ópera: da servis tuis illam, quam mundus dare non potest, pacem; ut et corda nostra mandátis tuis dédita, et, hóstium subláta formídine, témpora sint, tua protectióne, tranquílla.
-v. Ure igne Sancti Spíritus renes nostros et cor nóstrum, Dómine: ut tibi casto córpore serviámus, et mundo corde placeámus.
-v. Fidélium, Deus, ómnium Cónditor et Redémptor, animábus famulórum famularúmque tuárum remissiónem cunctórum tríbue peccatórum: ut indulgéntiam, quam semper optavérunt, piis supplicatiónibus consequántur.
-v. Actiónes nostras, quǽsumus, Dómine, aspirándo prǽveni et adjuvándo proséquere: ut cuncta nostra orátio et operátio a te semper incípiat, et per te cœpta finiátur.
-v. Omnípotens sempitérne Deus, qui vivórum domináris simul et mortuórum, omniúmque miseréris quos tuos fide et ópere futúros esse prænóscis: te súpplices exorámus; ut, pro quibus effúndere preces decrévimus, quosque vel præsens sǽculum adhuc in carne rétinet vel futúrum jam exútos córpore suscépit, intercédentibus ómnibus Sanctis tuis, pietátis tuæ cleméntia, ómnium delictórum suórum véniam consequántur.
-$Per Dominum
-&Dominus_vobiscum
-V. Exáudiat nos omnípotens et miséricors Dóminus.
-R. Amen.
-$Fidelium animae
 
 [Day0M Laudes]
 @:Day0 Laudes
@@ -1730,21 +1449,17 @@ _
 _
 @Psalterium/Minor Special:Responsory Pasch Sexta:1-6
 
-[LitaniaM]
-@:Litania
-
-[LitaniaT]
-@:Litania
-
 [Preces feriales Laudes]
 /:non cantantur, sed dicitur recto tono:/
 $Kyrie
-$Pater secreto
-@:Preces feriales Laudes_
+$rubrica Pater secreto
+$Pater noster Et
+$Preces feriales Laudes
+$Domine exaudi
 
 [Preces feriales Vespera]
 /:non cantantur, sed dicitur recto tono:/
-$Kyrie
-$Pater secreto
-@:Preces feriales Laudes_:s/129/50/
-
+$rubrica Pater secreto
+$Pater noster Et
+$Preces feriales Vespera
+$Domine exaudi

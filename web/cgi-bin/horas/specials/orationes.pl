@@ -160,9 +160,17 @@ sub oratio {
         )
       {    # OP ferial office
         if ($horamajor && $version !~ /Ordo Praedicatorum/) {
-          push(@s, '$Kyrie', '$Pater noster_', "_");
+          if ($lang =~ /gabc/i) {
+            push(@s, '$mLitany', "_");
+          } else {
+            push(@s, '$Kyrie', '$Pater noster Et', "_");
+          }
         } else {
-          push(@s, '$Kyrie', '$pater secreto', "_");
+          if ($lang =~ /gabc/i) {
+            push(@s, '$mLitany2', "_");
+          } else {
+            push(@s, '$Kyrie', '$pater secreto', "_");
+          }
         }
       }
 
@@ -880,6 +888,17 @@ sub getrefs {
       do_inclusion_substitutions($v, $substitutions);
       do_inclusion_substitutions($o, $substitutions);
       $a =~ s/\s*\*\s*/ /;
+      
+      # GABC: Change Versicles into the simple tone for commemorations
+      if ($lang =~ /gabc/i) {
+
+        # Standard changes for common tone:
+        $v =~ s/\([a-zA-Z0-9\_\.\~\>\<\'\/\!]+?\) (R\/\.)?\(::\)/\(f\.\) $1\(::\)/g;
+
+        # More changes for solemn tone:
+        $v =~ s/\((?:hi|hr|h\_0|fe|f\_0?h|h\_\')\)/\(h\)/g;
+        $v =~ s/\(\,\)//g;
+      }
       $w = $before . "\nAnt. $a\n" . "_\n$v" . "_\n$o" . "_\n$after";
       next;
     }

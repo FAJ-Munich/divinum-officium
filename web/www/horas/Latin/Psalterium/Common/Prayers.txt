@@ -275,6 +275,12 @@ $Pater noster Et
 $Kyrie
 $Pater secreto
 
+[rLitany simplex0]
+@:mLitany2
+
+[rLitany simplex]
+@:mLitany simplex
+
 [Divinum auxilium]
 (rubrica Monastica)
 /:Si descendendum sit a choro, concluditur dicendo.:/
