@@ -5,17 +5,25 @@ $Amen
 #Lectio brevis
 
 $Adjutorium nostrum
-(rubrica 196) $examen
+(rubrica 196) $rubrica examen
+(atque dicuntur semper)
 $Pater noster
+(rubrica cisterciensis) $Ave Maria
+(deinde dicitur)
 $Confiteor
 $Misereatur
+(sed rubrica cisterciensis omittitur)
 (deinde dicitur)
 $Indulgentiam
-(sed rubrica Ordo Praedicatorum omittitur)
+(sed rubrica Ordo Praedicatorum aut rubrica cisterciensis omittitur)
 $Converte nos
+(atque rubrica altovadensis omittuntur)
 
+(rubrica cisterciensis) $rubrica Clara voce
 $Deus in adjutorium
+(deinde dicitur)
 &Alleluia
+(sed rubrica cisterciensis omittitur)
 
 #Psalmi
 
@@ -33,15 +41,18 @@ $Deus in adjutorium
 (sed rubrica Monastica omittitur)
 
 #Preces Dominicales
-(sed rubrica 196 aut rubrica 1955 omittitur)
+(sed rubrica 196 aut rubrica 1955 aut rubrica cisterciensis omittitur)
 
 #Oratio
-(rubrica ^Monastic dicitur)
-$MLitany2
-(sed rubrica 1617 aut rubrica 1930 dicitur)
-&MLitany2
+(deinde rubrica ^Monastic aut rubrica cisterciensis dicitur)
+$Kyrie
+$rubrica Pater secreto
+$Pater noster Et
+(sed rubrica 1617 aut rubrica 1930 loco hujus versus dicitur)
+&mLitany
+(deinde dicitur semper)
 &Dominus_vobiscum1
-(sed rubrica 196 aut rubrica 1955 dicitur)
+(sed rubrica 196 aut rubrica 1955 aut rubrica cisterciensis dicitur)
 &Dominus_vobiscum
 $Oremus
 $oratio_Visita
@@ -53,9 +64,19 @@ $Benedicamus Domino
 $benedictio Completorium Final
 $Amen
 
-&antiphona_finalis
-&Divinum_auxilium
-(rubrica Ordo Praedicatorum omittitur)
+#Antiphona finalis
+(rubrica Ordo Praedicatorum aut rubrica cisterciensis omittitur)
 
-$Pater Ave Credo C
-(sed rubrica 196 aut rubrica 1955 omittitur)
+$rubrica Deinde secreto
+$Pater noster
+$Ave Maria
+$Credo
+(sed rubrica 196 aut rubrica 1955 aut rubrica altovadensis omittitur)
+(deinde dicitur)
+$rubrica PAC ad Completorium
+(sed rubrica 196 aut rubrica 1955 aut rubrica cisterciensis omittitur)
+
+(rubrica cisterciensis dicuntur) 
+$rubrica CompletBMV
+#Antiphona finalis
+$Fidelium animae

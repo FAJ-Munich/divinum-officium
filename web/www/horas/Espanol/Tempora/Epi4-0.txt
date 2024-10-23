@@ -31,7 +31,7 @@ Empieza la Epístola del Apóstol San Pablo a los Filipenses
 11 llenos de frutos de justicia por Jesucristo, para gloria y alabanza de Dios. 
 12 Y quiero que sepáis, hermanos, que mi situación ha contribuido al progreso del Evangelio, 
 13 de manera que en todo el pretorio y a todos los demás se ha hecho patente cómo llevo mis cadenas por Cristo, y la mayor parte de los hermanos, 
-14 alentados en el Señor por mis cadenas, sienten más ánimos para hablar sin temor la palabra de Dios. 
+14 alentados en el Señor por mis cadenas, sienten más ánimos para hablar sin temor la palabra de Dios.
 
 [Responsory2]
 @Tempora/Epi2-0:Responsory2
@@ -41,7 +41,7 @@ Empieza la Epístola del Apóstol San Pablo a los Filipenses
 15 Verdad es que algunos predican a Cristo por espíritu de envidia y competencia; otros lo hacen con buena intención. 
 16 Estos por caridad, sabiendo que estoy puesto para la defensa del Evangelio; 
 17 aquéllos por competencia predican a Cristo, no con santa intención, pensando añadir tribulación a mis cadenas. 
-18 Pero ¿qué importa? De cualquier manera, sea hipócrita, sea sinceramente que Cristo sea anunciado, yo me alegro de ello y me alegraré. 
+18 Pero ¿qué importa? De cualquier manera, sea hipócrita, sea sinceramente que Cristo sea anunciado, yo me alegro de ello y me alegraré.
 
 [Responsory3]
 @Tempora/Epi2-0:Responsory3

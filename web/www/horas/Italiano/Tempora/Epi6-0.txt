@@ -90,8 +90,8 @@ Ma quelle, cresciute, non mostrano nulla di resistente, nulla di vigoroso, nulla
 [Ant 2]
 Il regno de' cieli * è simile ad un chicco di senapa, che è la più minuta di tutte le semenze: ma cresciuta che sia è maggiore di tutti gli erbaggi.
 
-[Ant 3]
-Il regno dei cieli * è simile al lievito, che una donna prende e rimescola con tre staia di farina, finché sia tutta fermentata.
-
 [Versum 3]
 @Tempora/Pent21-0:Versum 3
+
+[Ant 3]
+Il regno dei cieli * è simile al lievito, che una donna prende e rimescola con tre staia di farina, finché sia tutta fermentata.

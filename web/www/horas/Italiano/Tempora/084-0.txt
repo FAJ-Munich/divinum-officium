@@ -1,9 +1,9 @@
-[Ant 1]
-La sapienza * grida per le piazze: Se alcuno ama la sapienza, si diriga a me e la troverà: e, trovatala, sarà beato se a sé la stringerà.
-
 [Versum 1]
 V. La preghiera della sera salga a te, o Signore.
 R. E discenda su di noi la tua misericordia.
+
+[Ant 1]
+La sapienza * grida per le piazze: Se alcuno ama la sapienza, si diriga a me e la troverà: e, trovatala, sarà beato se a sé la stringerà.
 
 [Lectio1]
 Incomincia il libro dell'Ecclesiastico

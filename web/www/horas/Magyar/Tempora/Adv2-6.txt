@@ -20,7 +20,7 @@ Olvasmány Izaiás próféta könyvéből
 4 Menedéke lettél a szegénynek, szorongatottságában vára a szűkölködőnek; menedéke a viharban, árnyéka a forróságban.
 5 Mint a forróságot a sivatagos földön, úgy törted le a kevélyek tombolását; és mint a hőséget az árnyékos felhő, elnémítottad az elnyomók diadalénekét. 
 6 A Seregek Ura minden nemzetnek bőséges lakomát rendez e hegyen. Lakomát, ahol lesz finom bor, zsíros, legjava falat, és erős színbor. 
-7 És leveszi e hegyről a leplet, amely minden népet betakart, és a fátyolt, amely minden nemzetet elborított. 
+7 És leveszi e hegyről a leplet, amely minden népet betakart, és a fátyolt, amely minden nemzetet elborított.
 
 [Responsory2]
 @Tempora/Adv2-0:Responsory8
@@ -31,7 +31,7 @@ Olvasmány Izaiás próféta könyvéből
 9 Azon a napon majd így beszélnek: Íme, a mi Istenünk! Benne reméltünk, hogy megszabadít minket. Ő az Úr, s mi benne bíztunk. Örüljünk és ujjongjunk segítségén! 
 10 Mert az Úr keze megpihen e hegyen, Moábot meg úgy eltiporják a saját földjén, mint a szalmaszálat eltapossák a trágyalében. 
 11 És ha kiterjeszti kezét, mint az úszó úszásra, az Úr megalázza kevélységében, bármilyen ügyesen mozgatja is kezét. 
-12 Magasba nyúló, erős falaidat lerontja, porig alázza, s a földig lerombolja. 
+12 Magasba nyúló, erős falaidat lerontja, porig alázza, s a földig lerombolja.
 
 [Responsory3]
 @Tempora/Adv2-0:Responsory9

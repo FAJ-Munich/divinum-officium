@@ -29,7 +29,7 @@ De la Epístola de San Pablo a los Colosenses
 4 Cuando se manifieste Cristo, vuestra vida, entonces también os manifestaréis gloriosos con Él. 
 5 Mortificad, pues, vuestros miembros terrenos, la fornicación, la impureza, la liviandad, la concupiscencia y la avaricia, que es una especie de idolatría, 
 6 por las cuales viene la cólera de Dios, 
-7 y en las que también vosotros anduvisteis un tiempo, cuando vivíais en ellos. 
+7 y en las que también vosotros anduvisteis un tiempo, cuando vivíais en ellos.
 
 [Responsory1]
 @Tempora/Pasc0-0::s/&Gloria.*//s
@@ -54,7 +54,7 @@ R. Venid, y ved, aleluya, aleluya.
 14 Pero por encima de todo esto, vestíos de la caridad, que es vínculo de la perfección. 
 15 Y la paz de Cristo reine en vuestros corazones, pues a ella habéis sido llamados en un solo cuerpo. Sed agradecidos. 
 16 La palabra de Cristo habite en vosotros abundantemente, enseñándoos y exhortándoos unos a otros con toda sabiduría, con salmos, himnos y cánticos espirituales, cantando y dando gracias a Dios en vuestros corazones. 
-17 Y todo cuanto hacéis de palabra o de obra, hacedlo todo en el nombre del Señor Jesús, dando gracias a Dios Padre por Él. 
+17 Y todo cuanto hacéis de palabra o de obra, hacedlo todo en el nombre del Señor Jesús, dando gracias a Dios Padre por Él.
 
 [Responsory3]
 @Tempora/Pasc0-0:Responsory2
@@ -74,7 +74,7 @@ A todos mis encomendados me dirijo. Terminando hoy la solemnidad de Pascua, me d
 @Tempora/Pasc0-1:Responsory2
 
 [Lectio6]
-"Pero tenemos todavía, dice San Pedro, un testimonio firme, el de los Profetas, al cual hacéis bien en mirar atentamente, como a una antorcha que luce en un lugar oscuro, hasta tanto que amanezca el día, y la estrella de la mañana nazca en vuestros corazones”. “Ceñid, por consiguiente, vuestras cinturas y tened en vuestras manos las luces ya encendidas. Sed semejantes a los criados que aguardan a su amo cuando vuelve de las bodas”. Llegan esos días que dice el Señor: “Dentro de un poco ya no me veréis, y de ahí a otro poco me veréis”. Esta es la hora, de la que dijo: “Vosotros estaréis tristes, y los del siglo se alegrarán”. La presente vida está llena de tentaciones: “Mas de nuevo, dice, os veré, y se alegrará vuestro corazón, y nadie os quitará este gozo".
+“Pero tenemos todavía, dice San Pedro, un testimonio firme, el de los Profetas, al cual hacéis bien en mirar atentamente, como a una antorcha que luce en un lugar oscuro, hasta tanto que amanezca el día, y la estrella de la mañana nazca en vuestros corazones”. “Ceñid, por consiguiente, vuestras cinturas y tened en vuestras manos las luces ya encendidas. Sed semejantes a los criados que aguardan a su amo cuando vuelve de las bodas”. Llegan esos días que dice el Señor: “Dentro de un poco ya no me veréis, y de ahí a otro poco me veréis”. Esta es la hora, de la que dijo: “Vosotros estaréis tristes, y los del siglo se alegrarán”. La presente vida está llena de tentaciones: “Mas de nuevo, dice, os veré, y se alegrará vuestro corazón, y nadie os quitará este gozo”.
 
 [Responsory6]
 @Tempora/Pasc0-2:Responsory1
@@ -82,7 +82,7 @@ A todos mis encomendados me dirijo. Terminando hoy la solemnidad de Pascua, me d
 [Lectio7]
 Lección del Santo Evangelio según San Juan.
 !Jn 20:19-31
-En aquel tiempo: En aquel día, primero de la semana, siendo ya tarde, y estando cerradas las puertas de la casa donde se hallaban reunidos los discípulos por miedo a lo judíos, vino Jesús, y apareciéndose en medio de ellos, les dirigió estas palabras: "La paz sea con vosotros". Y lo que sigue.
+En aquel tiempo: En aquel día, primero de la semana, siendo ya tarde, y estando cerradas las puertas de la casa donde se hallaban reunidos los discípulos por miedo a lo judíos, vino Jesús, y apareciéndose en medio de ellos, les dirigió estas palabras: “La paz sea con vosotros”. Y lo que sigue.
 _
 Homilía de San Gregorio, Papa.
 !Homilía 26 sobre los Evangelios.

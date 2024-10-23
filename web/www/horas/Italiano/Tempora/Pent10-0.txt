@@ -7,12 +7,12 @@ Psalmi Dominica
 Antiphonas horas
 Symbolum Athanasium
 
-[Ant 1]
-Gioas operò * rettamente davanti al Signore per tutto il tempo che lo ammaestrò il sacerdote Joiada.
-
 [Versum 1]
 V. La preghiera della sera salga a te, o Signore.
 R. E discenda su di noi la tua misericordia.
+
+[Ant 1]
+Gioas operò * rettamente davanti al Signore per tutto il tempo che lo ammaestrò il sacerdote Joiada.
 
 [Oratio]
 O Dio, che manifesti la tua potenza massimamente nel perdonare e compatire: moltiplica su noi la tua misericordia; affinché, correndo verso le tue promesse, tu ci faccia partecipi dei beni celesti. 
@@ -95,15 +95,15 @@ Avesse almeno detto questo fariseo: Non sono come molti uomini. Che intende egli
 Poiché eccelso è il Signore, eppure riguarda le umili cose; ma «i superbi» (Ps. 137,13), come era quel fariseo, «li mira da lungi». Dio mira si da lungi i superbi, ma non li perdona. Ascolta ora ciò che si dice dell'umiltà del pubblicano. Non gli bastava di tenersi lontano: «non osava nemmeno alzare gli occhi al cielo» (Luc. 18,13): per attirarsi gli sguardi (del Signore), non osava alzare gli occhi a lui; non osava guardare in alto: la sua coscienza l'opprimeva, ma la speranza to sollevava. Ascolta ancora . «Si batteva il petto». Si castigava da se stesso; perciò il Signore perdonava a quest'uomo penitente. «Si batteva il petto dicendo: Signore, abbi pietà di me peccatore». Ecco uno che prega. Che meraviglia che Dio non riconosca più in lui un peccatore quando lui stesso si considera peccatore?
 &teDeum
 
-[Ant 2]
-Il pubblicano, * tenendosi a distanza, non ardiva neppure alzare gli occhi al cielo, ma si batteva il petto dicendo: O Dio, abbi pietà di me peccatore.
-
 [Versum 2]
 V. Il Signore regna, s'è rivestito di maestà.
 R. Il Signore s'è rivestito di forza, e s'è cinto di potenza.
 
-[Ant 3]
-Questa se ne scese * a casa sua giustificato, al contrario dell'altro; perché chi si esalta sarà umiliato, e chi si umilia sarà esaltato.
+[Ant 2]
+Il pubblicano, * tenendosi a distanza, non ardiva neppure alzare gli occhi al cielo, ma si batteva il petto dicendo: O Dio, abbi pietà di me peccatore.
 
 [Versum 3]
 @Tempora/Pent21-0:Versum 3
+
+[Ant 3]
+Questa se ne scese * a casa sua giustificato, al contrario dell'altro; perché chi si esalta sarà umiliato, e chi si umilia sarà esaltato.

@@ -15,7 +15,7 @@ Empieza la Epístola del Apóstol San Pablo a los Hebreos
 1 Muchas veces y en muchas maneras habló Dios en otro tiempo a nuestros padres por ministerio de los profetas; 
 2 últimamente, en estos días, nos habló por su Hijo, a quien constituyó heredero de todo, por quien también hizo el mundo; 
 3 el cual, siendo esplendor de su gloria e impronta de su sustancia, y sustentando todas las cosas con su poderosa palabra, después de haber realizado la purificación de los pecados, se sentó a la diestra de la Majestad en las alturas, 
-4 hecho tanto mayor que los ángeles, cuando heredó un nombre más excelente que ellos. 
+4 hecho tanto mayor que los ángeles, cuando heredó un nombre más excelente que ellos.
 
 [Responsory1]
 @Tempora/Epi2-0:Responsory1
@@ -26,7 +26,7 @@ Empieza la Epístola del Apóstol San Pablo a los Hebreos
 6 Y de nuevo cuando introduce a su Primogénito en el mundo dice: “Adórenle todos los ángeles de Dios.” 
 7 De los ángeles dice: “El que hace a sus ángeles vientos y a sus ministros llamas de fuego.” 
 8 Pero al Hijo: “Tu trono, ¡oh Dios!, subsistirá por los siglos de los siglos, cetro de equidad es el cetro de tu reino. 
-9 Amaste la justicia y aborreciste la iniquidad, por eso te ungió Dios, tu Dios, con óleo de exaltación sobre tus compañeros.” 
+9 Amaste la justicia y aborreciste la iniquidad, por eso te ungió Dios, tu Dios, con óleo de exaltación sobre tus compañeros.”
 
 [Responsory2]
 @Tempora/Epi2-0:Responsory2
@@ -37,7 +37,7 @@ Empieza la Epístola del Apóstol San Pablo a los Hebreos
 11 Ellos perecerán, pero Tú permaneces, y todos, como un vestido, envejecerán, 
 12 y como un manto los envolverás, y como un vestido se mudarán; pero Tú permaneces el mismo, y tus años no se acabarán.” 
 13 ¿Y a cuál de los ángeles dijo alguna vez: “Siéntate a mi diestra, mientras pongo a tus enemigos por escabel de tus pies?” 
-14 ¿No son todos ellos espíritus administradores, enviados para servicio, en favor de los que han de heredar la salud? 
+14 ¿No son todos ellos espíritus administradores, enviados para servicio, en favor de los que han de heredar la salud?
 
 [Responsory3]
 @Tempora/Epi2-0:Responsory3
@@ -90,8 +90,8 @@ Mas aquéllas, cuando se han desarrollado, nada muestran de resistente, vigoroso
 [Ant 2]
 El reino de los cielos * se parece a un grano de mostaza, que es la más pequeña de las semillas. Pero cuando crece es más alta que las hortalizas.
 
-[Ant 3]
-El reino de los cielos * se parece a la levadura que una mujer cogió y amasó con tres medidas de harina, hasta que todo fermentó.
-
 [Versum 3]
 @Tempora/Epi2-0:Versum 3
+
+[Ant 3]
+El reino de los cielos * se parece a la levadura que una mujer cogió y amasó con tres medidas de harina, hasta que todo fermentó.

@@ -9,6 +9,7 @@ Feria Secunda infra Hebdomadam III in Quadragesima;;Feria major;;3.9
 
 [Rule]
 
+
 [Lectio1]
 Léctio sancti Evangélii secúndum Lucam
 !Luc 4:23-30

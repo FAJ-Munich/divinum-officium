@@ -32,7 +32,7 @@ Empieza la Epístola 1ª del Apóstol San Pedro
 9 recibiendo el fruto de vuestra fe, la salud de las almas. 
 10 Acerca de la cual inquirieron e investigaron los profetas que vaticinaron la gracia a vosotros destinada, 
 11 escudriñando qué y cuál tiempo indicaba el Espíritu de Cristo, que en ellos moraba y de antemano testificaba los padecimientos de Cristo y las glorias que habían de seguirlos. 
-12 A ellos fue revelado que no a sí mismos, sino a vosotros, servían con esto, que os ha sido anunciado ahora por los que os evangelizaron, movidos del Espíritu Santo, enviado del cielo, y que los mismos ángeles desean contemplar. 
+12 A ellos fue revelado que no a sí mismos, sino a vosotros, servían con esto, que os ha sido anunciado ahora por los que os evangelizaron, movidos del Espíritu Santo, enviado del cielo, y que los mismos ángeles desean contemplar.
 
 [Responsory2]
 @Tempora/Pasc4-0:Responsory2
@@ -47,7 +47,7 @@ Empieza la Epístola 1ª del Apóstol San Pedro
 18 sabiendo que no con cosas corruptibles, con plata o con oro, fuisteis rescatados de vuestra vana manera de vivir, recibida por tradición de vuestros padres, 
 19 sino con la preciosa sangre de Cristo, como de cordero sin tacha ni mancilla, 
 20 predestinado antes de la creación del mundo y manifestado al final de los tiempos en gracia de vosotros, 
-21 los que por Él sois creyentes en Dios, que le resucitó de entre los muertos y le glorificó, de suerte que vuestra fe y vuestra esperanza se dirigiesen a Dios. 
+21 los que por Él sois creyentes en Dios, que le resucitó de entre los muertos y le glorificó, de suerte que vuestra fe y vuestra esperanza se dirigiesen a Dios.
 
 [Responsory3]
 @Tempora/Pasc4-0:Responsory3
@@ -85,13 +85,13 @@ Ahora hemos de tratar de estas palabras del Señor: En verdad en verdad os digo,
 @Tempora/Pasc4-0:Responsory7
 
 [Lectio8]
-El que piense de Cristo lo que no debe pensarse del único Hijo de Dios, no pide en su nombre, aunque pronuncie el nombre de Cristo, ya que pide en el nombre de aquel de quien piensa cuando pide. Mas aquel que siente de Cristo lo que se debe sentir, pide en su nombre, y recibe lo que pide, si no es contra su eterna salud. Pero recibe cuando debe recibir. Algunas gracias no son rehusadas, mas se difieren para ser concedidas en su tiempo oportuno. Así debe entenderse lo que dice: “Os daré"; para designar aquellos beneficios que afectan particularmente a los que los piden. Ya que todos los santos son oídos cuando piden en favor suyo, pero no lo son siempre cuando piden por los demás, tanto si son amigos como enemigos, u otros cualesquiera, ya que no se dijo de cualquier modo: “Dará"; sino: “Os dará” .
+El que piense de Cristo lo que no debe pensarse del único Hijo de Dios, no pide en su nombre, aunque pronuncie el nombre de Cristo, ya que pide en el nombre de aquel de quien piensa cuando pide. Mas aquel que siente de Cristo lo que se debe sentir, pide en su nombre, y recibe lo que pide, si no es contra su eterna salud. Pero recibe cuando debe recibir. Algunas gracias no son rehusadas, mas se difieren para ser concedidas en su tiempo oportuno. Así debe entenderse lo que dice: “Os daré”; para designar aquellos beneficios que afectan particularmente a los que los piden. Ya que todos los santos son oídos cuando piden en favor suyo, pero no lo son siempre cuando piden por los demás, tanto si son amigos como enemigos, u otros cualesquiera, ya que no se dijo de cualquier modo: “Dará”; sino: “Os dará” .
 
 [Responsory8]
 @Tempora/Pasc4-0:Responsory8
 
 [Lectio9]
-Hasta ahora, dice, nada habéis pedido en mi nombre. Pedid, y recibiréis, para que  vuestro gozo sea completo. Esto que llama "gozo completo”, a la verdad no consiste en un gozo carnal sino espiritual, y cuando sea tan grande que al mismo nada se deba añadir, entonces verdaderamente será completo. Todo cuanto se pida relacionado con la consecución de este gozo, se ha de pedir en nombre de Cristo, y esto así lo pediremos si comprendemos bien la naturaleza de la gracia, si el objeto de nuestras peticiones lo constituye la vida verdaderamente bienaventurada. Pedir cualquier otra cosa es no pedir nada. No que sea nada absolutamente, sino que en comparación de bien tan grande como es la bienaventuranza, reputa como nada.
+Hasta ahora, dice, nada habéis pedido en mi nombre. Pedid, y recibiréis, para que  vuestro gozo sea completo. Esto que llama “gozo completo”, a la verdad no consiste en un gozo carnal sino espiritual, y cuando sea tan grande que al mismo nada se deba añadir, entonces verdaderamente será completo. Todo cuanto se pida relacionado con la consecución de este gozo, se ha de pedir en nombre de Cristo, y esto así lo pediremos si comprendemos bien la naturaleza de la gracia, si el objeto de nuestras peticiones lo constituye la vida verdaderamente bienaventurada. Pedir cualquier otra cosa es no pedir nada. No que sea nada absolutamente, sino que en comparación de bien tan grande como es la bienaventuranza, reputa como nada.
 &teDeum
 
 [Capitulum Laudes]

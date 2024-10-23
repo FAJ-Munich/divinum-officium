@@ -9,6 +9,7 @@ Feria Secunda infra Hebdomadam II in Quadragesima;;Feria major;;3.9
 
 [Rule]
 
+
 [Lectio1]
 Léctio sancti Evangélii secúndum Joánnem
 !Joannes 8:21-29

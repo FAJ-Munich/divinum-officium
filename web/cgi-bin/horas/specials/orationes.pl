@@ -1,5 +1,6 @@
 # use strict;
 # use warnings;
+use utf8;
 
 # *** checkcommemoratio \%office
 # return the text of [Commemoratio] [Commemoratio n] or an empty string
@@ -159,9 +160,9 @@ sub oratio {
         )
       {    # OP ferial office
         if ($horamajor && $version !~ /Ordo Praedicatorum/) {
-          push(@s, prayer('MLitany', $lang), "_");
+          push(@s, '$Kyrie', '$Pater noster_', "_");
         } else {
-          push(@s, prayer('MLitany2', $lang), "_");
+          push(@s, '$Kyrie', '$pater secreto', "_");
         }
       }
 
@@ -211,9 +212,8 @@ sub oratio {
 
     # add commemorated from winner
     unless (
-      ($rank >= 6 && $dayname[0] !~ /Pasc[07]|Pent01/)
-
-      #				|| $rule =~ /no commemoratio/i
+      # Duplex I. classis: excludes Commemoratio reduced to Simplex
+      ($rank >= ($version !~ /cist/i ? 6 : 7) && $dayname[0] !~ /Pasc[07]|Pent01/)
       || ($version =~ /196/ && $winner{Rule} =~ /nocomm1960/i)
     ) {
 
@@ -265,10 +265,10 @@ sub oratio {
           }
           if ($ic !~ /^!/) { $ic = "!$ic"; }
           $ccind++;
-          my $key =
-              ($ic =~ /$sundaystring/i)
-            ? ($version !~ /trident/i ? 3000 : 7100)
-            : $ccind + 9900;    # Sundays are all privilegde commemorations under DA
+          my $key = ($ic =~ /$sundaystring/i)
+            ? ($version !~ /trident/i ? 3000 : 7100)    # Sundays are all privilegde commemorations under DA
+            : ($ic =~ /$octavestring/i) ? $ccind + 7900
+            : $ccind + 9900;
           $cc{$key} = $ic;
           setbuild2("Commemorated: $key");
         }
@@ -313,7 +313,7 @@ sub oratio {
         }
 
         # add commemorated from cwinner
-        unless (($rank >= 6 && $dayname[0] !~ /Pasc[07]|Nat0?6/)
+        unless (($rank >= ($version !~ /cist/i ? 6 : 7) && $dayname[0] !~ /Pasc[07]|Nat0?6/)
           || $rule =~ /no commemoratio/i
           || ($version =~ /196/ && $c{Rule} =~ /nocomm1960/i))
         {
@@ -381,10 +381,17 @@ sub oratio {
 
         my $key = 0;    # let's start with lowest rank
         if (!(-e "$datafolder/$lang/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
-        $c = getcommemoratio($commemo, $cv, $lang);
+        %c = %{officestring('Latin', $commemo, 0)};
+
+        if ($c{Rank} =~ /in.*octavam/i && $octvespera) {
+          $c = getcommemoratio($commemo, $octvespera, $lang);
+          setbuild2("Substitute Commemoratio of Octave to $octvespera");
+        } else {
+          $c = getcommemoratio($commemo, $cv, $lang);
+        }
         my $c2 = $cv == 2 ? vigilia_commemoratio($commemo, $lang) : '';
         $c ||= $c2;
-        %c = %{officestring($lang, $commemo, 0)};
+        %c = %{officestring($lang, $commemo, 0)} unless $lang eq 'Latin';
 
         if ($c) {
           my @cr = split(";;", $c{Rank});
@@ -397,14 +404,14 @@ sub oratio {
           } else {
             $key = $cr[2] * 1000;    # rank depending on the type of commemoration to be made
           }
-          $key = 10000 - $key + $cv;    # reverse order
+          $key = 10000 - $key + $ccind;    # reverse order
           $ccind++;
           $cc{$key} = $c;
           setbuild2("Commemoratio: $key");
         }
 
         # add commemorated from commemo
-        unless (($rank >= 6 && $dayname[0] !~ /Pasc[07]/)
+        unless (($rank >= ($version !~ /cist/i ? 6 : 7) && $dayname[0] !~ /Pasc[07]/)
           || $rule =~ /no commemoratio/i
           || ($version =~ /196/ && $c{Rule} =~ /nocomm1960/i))
         {
@@ -472,7 +479,7 @@ sub oratio {
 
           if ($c) {
             $ccind++;
-            $key = $ccind + 8500;    # 10000 - 1.5 * 1000
+            $key = $ccind + ($version !~ /cist/i ? 8500 : 8750);    # 10000 - 1.5 * 1000
             $cc{$key} = $c;
           }
         }
@@ -537,25 +544,21 @@ sub getcommemoratio {
   our ($rule, $hora, $vespera, $version, $rank, $winner, @dayname, $month, $day, %winner, %winner2);
 
   if ($rule =~ /no commemoratio/i && !($hora eq 'Vespera' && $vespera == 3 && $ind == 1)) { return ''; }
-
-  if ( $version =~ /1960/
-    && $hora eq 'Vespera'
-    && $ind == 3
-    && $rank >= 6
-    && $w{Rank} !~ /Adv|Quad|Passio|Epi|Corp|Nat|Cord|Asc|Dominica|;;6/i)
-  {
-    return '';
-  }
   my @rank = split(";;", $w{Rank});
-  if ($rank[1] =~ /Feria/ && $rank[2] < 2.1) { return; }    #no commemoration of no privileged feria
 
-  if ( $rank[0] =~ /Infra Octav/i
-    && $rank[2] < 2.1
-    && $rank >= 5
-    && $winner =~ /Sancti/i)
-  {
+  if (
+       $rank[2] < 2.1
+    && $rank[2] != 1.15
+    && (
+      # no commemoration of no privileged feria
+      $rank[1] =~ /Feria/
+
+      #no commemoration of octava common in 2nd class unless in concurrence => to be checked
+      || ($rank[0] =~ /Infra Octav/i && $rank >= 5 && $winner =~ /Sancti/i)
+    )
+  ) {
     return;
-  }    #no commemoration of octava common in 2nd class unless in concurrence => to be checked
+  }
 
   if ($rank[3] =~ /(ex|vide)\s+(.*)\s*$/i) {
     my $file = $2;
@@ -625,7 +628,7 @@ sub getcommemoratio {
       && ( ($hora eq 'Vespera' && $day >= 17 && $day <= 23)
         || ($hora eq 'Laudes' && ($day == 21 || $day == 23)))
     ) {
-      my %v = %{setupstring($lang, 'Psalterium/Major Special.txt')};
+      my %v = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
 
       if ($hora eq 'Vespera') {
         $a = $v{"Adv Ant $day"};
@@ -695,7 +698,7 @@ sub vigilia_commemoratio {
   if (!$w) { return ''; }
   my $c = "!" . &translate('Commemoratio', $lang) . ": " . &translate("Vigilia", $lang) . "\n";
   if ($w =~ /(\!.*?\n)(.*)/s) { $c = $1; $w = $2; }
-  my %p = %{setupstring($lang, 'Psalterium/Major Special.txt')};
+  my %p = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
   my $a = $p{"Day$dayofweek Ant 2"};
   my $v = $p{"Day$dayofweek Versum 2"};
   $a =~ s/\s*\*\s*/ /;
@@ -706,39 +709,190 @@ sub vigilia_commemoratio {
 sub getsuffragium {
   my $lang = shift;
 
-  our ($version, @dayname, $hora, $commune, $month, $day, $churchpatron);
-  my %suffr = %{setupstring($lang, 'Psalterium/Major Special.txt')};
+  our ($version, @dayname, $hora, $commune, $month, $day, $churchpatron, %cwinner);
+  $commune = "C10"
+    if $cwinner{Rank} =~ /C1[012]/ && $hora eq 'Vespera'; # if Sancta Maria in Sabbato is commemorated on Friday Vespers
+  my %suffr = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
   my ($suffr, $comment);
 
-  if ($version =~ /trident/i) {
-    if ($dayname[0] =~ /pasc/i && $dayname[1] =~ /(?:feria|vigilia)/i) {
-      $suffr = $hora eq 'Laudes' ? $suffr{"Suffragium2"} : $suffr{"Suffragium2v"};
-    } else {
-      if ($dayname[1] =~ /(?:feria|vigilia)/i && $commune !~ /C10/) {
-        $suffr = $suffr{"SuffragiumTridentinumFeriale"};
-      }
-
-      if ($commune !~ /(C1[0-9])/i) {
-        if (($month == 1 && $day > 13) || $month == 2 && $day == 1) {
-          $suffr .= "_\n" . $suffr{Suffragium3Epi};
-        } else {
-          $suffr .= "_\n" . $suffr{Suffragium3};
-        }
-      }
-      my ($v) = ($hora ne 'Vespera') + 1;
-      $suffr .= "_\n" . $suffr{"Suffragium4$v"} if ($version !~ /1570/);
-      $suffr .= "_\n" . $suffr{"Suffragium5$v"};
-      $suffr .= "_\n" . $suffr{Suffragium6};
-    }
-    $comment = 3;
-  } else {
-    $comment = ($dayname[0] =~ /pasc/i) + 1;
-    my $c = $comment;
-    if ($c == 1 && $commune =~ /(C1[0-9])/) { $c = 11; }
-    $suffr = $suffr{"Suffragium$c"};
-  }
+  $comment =
+      $version =~ /altovadensis/i ? 5
+    : $version =~ /cisterciensis/i ? 4
+    : $version =~ /trident/i ? 3
+    : $dayname[0] =~ /pasc/i ? 2
+    : 1;
+  $suffr = $comment > 2 ? $suffr{"Suffragium $hora"} : $suffr{'Suffragium'};
   if ($churchpatron) { $suffr =~ s/r\. N\./$churchpatron/; }
   ($suffr, $comment);
+}
+
+#*** getrefs($w, $lang, $ind)
+# $w may contain line starting with @ reference
+# @Feria: reference from Psalterium/Major Special: Day$dayofweek Ant|Versum 2|3
+# filename:commemoratio reference from file/Commemoratio [1|2]
+# filename:oratio proper Ant|Versum $ind from file
+# filename:item collects item from file
+# return the expanded string
+# useable for lectio, responsory, commemoratio
+sub getrefs {
+
+  my $w = shift;
+  my $lang = shift;
+  my $ind = shift;
+  my $rule = shift;
+  my $file = '';
+  my $item = '';
+  my $flag = 0;
+  my %s = {};
+  my %c = {};
+
+  while (
+    $w =~ /
+    (.*?)               # Prelude
+    \@([a-z0-9\/\-]+?)  # Filename
+    \:([a-z0-9 ]*)      # Item
+    (?::(.*))?          # Substitutions
+    (.*)                # Sequel
+    /isx
+  ) {
+    $before = $1;
+    $file = $2;
+    $item = $3;
+    $after = $5;
+    my $substitutions = $4;
+    $item =~ s/\s*$//;
+
+    if ($file =~ /^feria$/i) {
+      %s = %{setupstring($lang, 'Psalterium/Major Special.txt')};
+      my $a = chompd($s{"Day$dayofweek Ant $ind"});
+      if (!$a) { $a = "Day$dayofweek Ant $ind missing"; }
+      my $v = chompd($s{"Day$dayofweek Versum $ind"});
+      if (!$v) { $a = "Day$dayofweek Versus $ind missing"; }
+      $a =~ s/\s*\*\s*/ /;
+      $w = $before . "_\nAnt. $a" . "_\n$v" . "_\n$after";
+      do_inclusion_substitutions($a, $substitutions);
+      do_inclusion_substitutions($v, $substitutions);
+      next;
+    }
+    if ($dayname[0] =~ /Pasc/i) { $file =~ s/(C[23])/$1p/g; }
+    %s = %{setupstring($lang, "$file.txt")};
+
+    if ($item =~ /(commemoratio|Octava)/i) {
+      my $ita = $1;
+      my $a = $s{"$ita"};
+      if (!$a) { $a = $s{"$ita $ind"}; }
+      if (!$a) { my $i = ($ind == 2) ? 1 : 2; $a = $s{"$ita $i"}; }
+      if (!$a) { $a = "$file $item $ind missing\n"; }
+      $flag = 1;
+
+      if ($a =~ /\!.*?(octava|commemoratio)(.*?)\n/i) {
+        my $oct = $2;
+
+        if ($octavam =~ /$oct/) {
+          $flag = 0;
+        } else {
+          $octavam .= $oct;
+        }
+      }
+
+      if ($flag) {
+        do_inclusion_substitutions($a, $substitutions);
+        $a = "$a" . "_\n";
+      } else {
+        $a = '';
+      }
+      $w = "$before$a$after";
+      next;
+    }
+
+    if ($item =~ /oratio/i) {
+
+      if ($s{Rank} =~ /;;(ex|vide)\s+(.*)\s*$/i) {
+        my $file = $2;
+        if ($file =~ /^C[1-3]a?$/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
+        $file = "$file.txt";
+        if ($file =~ /^C/) { $file = subdirname('Commune', $version) . "$file"; }
+        %c = %{setupstring($lang, $file)};
+
+        if ($c{Rank} =~ /;;(ex|vide)\s+(.*)\s*$/i) {
+
+          # allow daisy-chained Commune references to the second-level
+          $file = $2;
+          if ($file =~ /^C[1-3]a?$/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
+          $file = "$file.txt";
+          if ($file =~ /^C/) { $file = subdirname('Commune', $version) . "$file"; }
+          my %c2 = %{setupstring($lang, $file)};
+
+          $c{Oratio} ||= $c2{Oratio};
+
+          foreach my $i (1, 2, 3) {
+            $c{"Ant $i"} ||= $c2{"Ant $i"};
+            $c{"Versum $i"} ||= $c2{"Versum $i"};
+          }
+        }
+      } else {
+        %c = {};
+      }
+
+      my $a = chompd($s{"Ant $ind"}) || chompd($c{"Ant $ind"});
+      if (!$a) { $a = "$file Ant $ind missing\n"; }
+      postprocess_ant($a, $lang);
+      my $v = chompd($s{"Versum $ind"}) || chompd($c{"Versum $ind"});
+      if (!$v) { $a = "$file Versus $ind missing\n"; }
+      postprocess_vr($v, $lang);
+      my $o = '';
+
+      if ($item !~ /proper/) {
+        my $i = $item;
+        $i =~ s/\sgregem.*//i;
+        $o = $s{$i} || $c{$i};
+
+        if (!$o) {
+          $o = "$file:$item missing\n";
+        } elsif ($o !~ /\$Oremus/i) {
+          $o = "\$Oremus\n$o";
+        }
+      }
+
+      # Special processing for Common of Supreme Pontiffs.
+      my ($plural, $class, $name) = papal_commem_rule($rule);
+
+      if ($name) {
+        if ($version !~ /Trident/i) {
+          if ($item =~ /Gregem/i) {
+            $o = papal_prayer($lang, $plural, $class, $name);
+
+            if ($after =~ /(!Commem.*)/is) {
+              $after = $1;
+            } else {
+              $after = '';
+            }
+            $o = "\$Oremus\n" . $o;
+          }
+
+          # Confessor-Popes have a common Magnificat antiphon at second Vespers.
+          if ($popeclass && $popeclass =~ /C/ && $ind == 3) { $a = papal_antiphon_dum_esset($lang); }
+        } else {
+          if ($o =~ /N\./) { $o = replaceNdot($o, $lang, $name); }
+        }
+      }
+      do_inclusion_substitutions($a, $substitutions);
+      do_inclusion_substitutions($v, $substitutions);
+      do_inclusion_substitutions($o, $substitutions);
+      $a =~ s/\s*\*\s*/ /;
+      $w = $before . "\nAnt. $a\n" . "_\n$v" . "_\n$o" . "_\n$after";
+      next;
+    }
+    my $a = $s{$item};
+    if ($after && $after !~ /^\s*$/) { $after = "_\n$after"; }
+    if ($before && $before !~ /^\s*$/) { $before .= "_\n"; }
+    if (!$a) { $a = "$file $item missing\n"; }
+    do_inclusion_substitutions($a, $substitutions);
+    $w = $before . $a . $after;
+    next;
+  }
+  $w =~ s/\_\n\_/\_/g;
+  return $w;
 }
 
 1;

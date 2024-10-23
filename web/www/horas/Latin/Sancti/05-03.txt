@@ -16,10 +16,10 @@ Nos autem gloriári * opórtet in Cruce Dómini nostri Jesu Christi.
 Per signum Crucis * de inimícis nostris líbera nos, Deus noster.
 
 [Hymnus Vespera]
-@Psalterium/Major Special:Hymnus Quad5 Vespera
+@Psalterium/Special/Major Special:Hymnus Quad5 Vespera
 
 [HymnusM Vespera]
-@Psalterium/Major Special:HymnusM Quad5 Vespera
+@Psalterium/Special/Major Special:HymnusM Quad5 Vespera
 
 [Versum 1]
 @Sancti/05-03:Ant Matutinum:4-5
@@ -35,7 +35,7 @@ $Qui vivis
 Christum Regem crucifíxum, * Veníte, adorémus. (Allelúja.)
 
 [Hymnus Matutinum]
-@Psalterium/Matutinum Special:Hymnus Quad5
+@Psalterium/Special/Matutinum Special:Hymnus Quad5
 
 [HymnusM Matutinum]
 @Psalterium/Matutinum Special:HymnusM Quad5
@@ -177,7 +177,7 @@ v. Fratres: Hoc enim sentíte in vobis, quod et in Christo Jesu: qui, cum in for
 $Deo gratias.
 
 [Hymnus Laudes]
-@Psalterium/Major Special:Hymnus Quad5 Laudes
+@Psalterium/Special/Major Special:Hymnus Quad5 Laudes
 
 [HymnusM Laudes]
 @Psalterium/Major Special:HymnusM Quad5 Laudes

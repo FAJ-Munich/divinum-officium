@@ -20,32 +20,6 @@ Ayant levé les mains, * Il les bénit et Il était emporté dans le ciel, allé
 Exaltez le Roi des rois * et chantez un hymne à Dieu, alléluia.
 Devant leurs yeux, * Il s’éleva et une nuée Le reçut dans le ciel, alléluia.
 
-[HymnusM Vespera]
-v. O Jésus, notre rédemption,
-notre amour et notre désir,
-Dieu créateur de l'univers,
-Dieu fait homme à la fin des âges.
-_
-Quelle tendresse vous a vaincu
-pour que vous portiez nos péchés,
-vous fîtes souffrir cruellement
-pour qu'à la mort vous nous ravissiez ?
-_
-Forçant le verrou des enfers,
-Vous avez racheté les captifs ;
-très noble vainqueur, triomphant,
-Vous êtes à la droite du Père.
-_
-Cédez encore à ce même amour :
-en pardonnant, détruisez le mal,
-et, pour exaucer tous nos vœux,
-rassasiez-nous de votre visage.
-_
-Puissiez-Vous être notre joie,
-Vous, la récompense à venir !
-Que notre gloire soit en Vous,
-sans cesse, à travers tous les siècles. Amen.
-
 [Hymnus Vespera]
 {:H-Salutishumanæsator:}v. Auteur du salut des hommes,
 Ô Jésus, joie des cœurs,
@@ -73,6 +47,32 @@ Soyez la joie dans les larmes ;
 Soyez la douce récompense de notre vie.
 Amen.
 
+[HymnusM Vespera]
+v. O Jésus, notre rédemption,
+notre amour et notre désir,
+Dieu créateur de l'univers,
+Dieu fait homme à la fin des âges.
+_
+Quelle tendresse vous a vaincu
+pour que vous portiez nos péchés,
+vous fîtes souffrir cruellement
+pour qu'à la mort vous nous ravissiez ?
+_
+Forçant le verrou des enfers,
+Vous avez racheté les captifs ;
+très noble vainqueur, triomphant,
+Vous êtes à la droite du Père.
+_
+Cédez encore à ce même amour :
+en pardonnant, détruisez le mal,
+et, pour exaucer tous nos vœux,
+rassasiez-nous de votre visage.
+_
+Puissiez-Vous être notre joie,
+Vous, la récompense à venir !
+Que notre gloire soit en Vous,
+sans cesse, à travers tous les siècles. Amen.
+
 [Versum 1]
 V. Dieu S’est élevé au milieu des acclamations, alléluia.
 R. Et le Seigneur au son de la trompette, alléluia.
@@ -81,9 +81,7 @@ R. Et le Seigneur au son de la trompette, alléluia.
 Père, J’ai manifesté Votre nom aux hommes que Vous M’avez donnés ; et maintenant, c’est pour eux que Je prie, non pour le monde car Je viens à Vous, alléluia.
 
 [Oratio]
-Accordez à notre prière, Dieu tout-puissant, puisque nous croyons qu’aujourd’hui Votre Fils unique, notre Rédempteur,~
-est monté aux cieux, que nous habitions aussi en esprit~
-au céleste séjour.
+Accordez à notre prière, Dieu tout-puissant, puisque nous croyons qu’aujourd’hui Votre Fils unique, notre Rédempteur, est monté aux cieux, que nous habitions aussi en esprit au céleste séjour.
 $Per eumdem
 
 [Invit]
@@ -278,9 +276,7 @@ V. Le Seigneur, dans le ciel, alléluia.
 R. A dressé son trône, alléluia.
 _
 $Oremus
-Accordez à notre prière, Dieu tout-puissant, puisque nous croyons qu’aujourd’hui Votre Fils unique, notre Rédempteur,~
-est monté aux cieux, que nous habitions aussi en esprit~
-au céleste séjour.
+Accordez à notre prière, Dieu tout-puissant, puisque nous croyons qu’aujourd’hui Votre Fils unique, notre Rédempteur, est monté aux cieux, que nous habitions aussi en esprit au céleste séjour.
 $Per eumdem
 
 [Lectio Prima]
@@ -306,7 +302,7 @@ $Deo gratias
 [Responsory Sexta]
 R.br. Le Christ montant au ciel, * Alléluia, alléluia.
 R. Le Christ montant au ciel, * Alléluia, alléluia.
-V. A emmené captive la captivité.  
+V. A emmené captive la captivité. 
 R. Alléluia, alléluia.
 &Gloria
 R. Le Christ montant au ciel, * Alléluia, alléluia.

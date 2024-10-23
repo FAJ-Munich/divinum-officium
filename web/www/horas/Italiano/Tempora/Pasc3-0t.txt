@@ -191,10 +191,6 @@ R. E fèrmati là finché ti avviserò, alleluia.
 Ma ancorché Luca dicesse che Giuseppe fu generato da Eli, non perciò questa parola dovrebbe turbarci e impedirci di credere un Evangelista aver menzionato il padre naturale e l'altro l'adottivo. Infatti si può dire senza assurdità, che chi adotta un figlio, lo genera, non secondo la carne, ma coll'affetto. Così anche noi, cui Dio ha dato di potere divenire suoi figli, non ci ha già generati dalla sua natura e sostanza, come il Figlio unigenito, ma ci ha adottati per amore.
 &teDeum
 
-[Lectio93]
-!Commemorazione della eerza Domenica dopo Pasqua
-@Tempora/Pasc3-0:Lectio7
-
 [Ant Laudes]
 Giacobbe poi * generò Giuseppe, sposo di Maria, dalla quale nacque Gesù, che si chiama Cristo, alleluia.
 Fu mandato * l'Angelo Gabriele da Dio in una città di Galilea, chiamata Nazaret, ad una Vergine sposata a un uomo nome Giuseppe, alleluia.
@@ -295,3 +291,7 @@ R. E il suo frutto fu dolce al mio palato, alleluia.
 
 [Ant 3]
 Figlio, perché * ci hai tu fatto così? Vedi, tuo padre ed io ti andavamo cercando angosciati, alleluia.
+
+[Lectio93]
+!Commemorazione della eerza Domenica dopo Pasqua
+@Tempora/Pasc3-0:Lectio7

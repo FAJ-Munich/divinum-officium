@@ -36,7 +36,7 @@ Commencment du livre des Actes des Apôtres
 [Lectio3]
 !Act. 1:15-26
 15 En ces jours-là, Pierre se leva au milieu des frères qui étaient réunis au nombre d’environ cent vingt personnes, et il déclara :
-16  « Frères, il fallait que l’Écriture s’accomplisse. En effet, par la bouche de David, l’Esprit Saint avait d’avance parlé de Judas, qui en est venu à servir de guide aux gens qui ont arrêté Jésus :
+16 « Frères, il fallait que l’Écriture s’accomplisse. En effet, par la bouche de David, l’Esprit Saint avait d’avance parlé de Judas, qui en est venu à servir de guide aux gens qui ont arrêté Jésus :
 17 ce Judas était l’un de nous et avait reçu sa part de notre ministère ;
 18 puis, avec le salaire de l’injustice, il acheta un domaine ; il tomba la tête la première, son ventre éclata, et toutes ses entrailles se répandirent.
 19 Tous les habitants de Jérusalem en furent informés, si bien que ce domaine fut appelé dans leur propre dialecte Hakeldama, c’est-à-dire Domaine-du-Sang.

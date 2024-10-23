@@ -7,6 +7,10 @@ Feria Sexta Quattuor Temporum Septembris;;Feria major;;4
 [Rule]
 Preces feriales
 
+[Oratio]
+Deh concedi, Dio onnipotente, che rinnovando ogni anno con devozione queste pratiche così sante, ti piacciamo e col corpo e coll'anima.
+$Per Dominum
+
 [Lectio1]
 Lettura del santo Vangelo secondo Luca
 !Luc 7:36-50
@@ -31,16 +35,12 @@ Asciughiamo dunque coi capelli i piedi del Signore, quando mostriamo pietà vers
 [Responsory3]
 @Tempora/093-0:Responsory6
 
-[Ant 2]
-Una donna * che in quella città era nota come peccatrice, messasi dietro ai piedi del Signore, cominciò a bagnarne i piedi di lacrime, e li asciugava coi capelli del suo capo, e li baciava e li ungeva di profumo.
-
 [Versum 2]
 V. Fin dal mattino siamo stati ripieni della tua misericordia.
 R. E ne esultammo, e ne siamo rallegrati.
 
-[Oratio]
-Deh concedi, Dio onnipotente, che rinnovando ogni anno con devozione queste pratiche così sante, ti piacciamo e col corpo e coll'anima.
-$Per Dominum
+[Ant 2]
+Una donna * che in quella città era nota come peccatrice, messasi dietro ai piedi del Signore, cominciò a bagnarne i piedi di lacrime, e li asciugava coi capelli del suo capo, e li baciava e li ungeva di profumo.
 
 [Ant 3]
 Una donna * che in quella città era nota come peccatrice, messasi dietro ai piedi del Signore, cominciò a bagnarne i piedi di lacrime, e li asciugava coi capelli del suo capo, e li baciava e li ungeva di profumo.

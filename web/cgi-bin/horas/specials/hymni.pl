@@ -1,5 +1,6 @@
 # use strict;
 # use warnings;
+use utf8;
 
 sub gethymn {
   my ($lang) = @_;
@@ -24,7 +25,7 @@ sub gethymn {
     $name =~ s/ / Pasc7 / if ($hora eq 'Tertia' && $dayname[0] =~ /Pasc7/);
 
     if ($hora eq 'Completorium' && $version =~ /^Ordo Praedicatorum/) {
-      my %ant = %{setupstring($lang, 'Psalterium/Minor Special.txt')};
+      my %ant = %{setupstring($lang, 'Psalterium/Special/Minor Special.txt')};
       $versum = $ant{'Versum 4'};
       postprocess_vr($versum, $lang);
       my $tempname = gettempora('*');
@@ -38,7 +39,7 @@ sub gethymn {
   }
 
   if ($hymnsource) {
-    my %h = %{setupstring($lang, "Psalterium/$hymnsource Special.txt")};
+    my %h = %{setupstring($lang, "Psalterium/Special/$hymnsource Special.txt")};
     $name = tryoldhymn(\%h, $name);
     $hymn = $h{$name};
   }
@@ -119,7 +120,7 @@ sub doxology {
     {
       $dname = $1;
     } elsif (($month == 8 && $day > 15 && $day < 23 && $version !~ /1955|1963/i)
-      || ($version !~ /1570|1617/ && $month == 12 && $day > 8 && $day < 16 && $dayofweek > 0))
+      || ($version !~ /1570|1617|altovadensis/ && $month == 12 && $day > 8 && $day < 16 && $dayofweek > 0))
     {
       $dname = 'Nat';
     } else {

@@ -12,17 +12,32 @@
 [Responsory3]
 @Commune/C12
 
+[Ant Laudes] (rubrica 1951 aut rubrica altovadensis)
+@Commune/C7:Ant Vespera:1 s/;;.*/;;50/;
+;;142
+;;226(1-32)
+;;226(33-65)
+;;148;149;150
+
 [Ant Prima]
 @Commune/C7:Ant Vespera:1
+(sed rubrica cisterciensis)
+@CommuneM/C6:AntMatutinumM:1 s/;;.*//
 
 [Ant Tertia]
 @Commune/C11:Ant VesperaBMV:1
+(sed rubrica cisterciensis)
+@Commune/C6:Ant Matutinum:7 s/;;.*//
 
 [Ant Sexta]
 @Commune/C6:Ant Matutinum:7
+(sed rubrica cisterciensis)
+@Commune/C11:Ant MatutinumBMV:1 s/;;.*//
 
 [Ant Nona]
 @Commune/C11:Ant VesperaBMV:2
+(sed rubrica cisterciensis)
+@CommuneM/C6:AntMatutinumM:2 s/;;.*//
 
 [Responsory Laudes]
 @:Responsory Vespera

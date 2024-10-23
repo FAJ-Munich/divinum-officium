@@ -7,12 +7,12 @@ Psalmi Dominica
 Antiphonas horas
 Symbolum Athanasium
 
-[Ant 1]
-Monti di Gelboe, * non cada più su di voi né rugiada, né pioggia: perché su di te fu abbattuto lo scudo dei forti, lo scudo di Saul, come s'egli non fosse stato unto con l'olio. Come son caduti i forti nella battaglia? Gionata fu ucciso sulle alture: Saul e Gionata, amabili e grandemente gloriosi nella loro vita, neppure in morte sono stati divisi.
-
 [Versum 1]
 V. La preghiera della sera salga a te, o Signore.
 R. E discenda su di noi la tua misericordia.
+
+[Ant 1]
+Monti di Gelboe, * non cada più su di voi né rugiada, né pioggia: perché su di te fu abbattuto lo scudo dei forti, lo scudo di Saul, come s'egli non fosse stato unto con l'olio. Come son caduti i forti nella battaglia? Gionata fu ucciso sulle alture: Saul e Gionata, amabili e grandemente gloriosi nella loro vita, neppure in morte sono stati divisi.
 
 [Oratio]
 O Dio, che tieni preparati beni invisibili per quelli che ti amano: infondi nei nostri cuori il sentimento del tuo amore; affinché amando te in tutte e sopra tutte le cose, conseguiamo le tue promesse, che superano ogni desiderio.
@@ -95,15 +95,15 @@ Pertanto in questi peccati di collera ci sono dei gradi: nel primo uno si adira,
 Osserva ora tre gradi anche (nell'istruttoria della causa): giudizio, consiglio, fuoco della geenna. In sede di giudizio si da ancora luogo alla difesa. Nel giudizio invece, sebbene ci soglia essere anche il giudizio, tuttavia perché la distinzione stessa posta obbliga di riconoscere qui qualche diversità, ci sembra che al consiglio appartenga la promulgazione della sentenza; perché allora non si tratta più d'esaminare se il reo dev'essere condannato; ma i giudici deliberano fra loro sul supplizio da infliggere a chi merita certamente la condanna. Nel fuoco della geenna poi non c'è più dubbio quanto alla condanna, come nel giudizio, né (incertezza) quanto alla pena del condannato, come nel consiglio; perché nel fuoco dell'inferno, certa è la condanna, e (fissata) la pena del colpevole. 
 &teDeum
 
-[Ant 2]
-Avete udito * che fu detto agli antichi: Non ucciderai; e chi avrà ucciso, sarà sottoposto al giudizio, alleluia.
-
 [Versum 2]
 V. Il Signore regna, s'è rivestito di maestà.
 R. Il Signore s'è rivestito di forza, e s'è cinto di potenza.
 
-[Ant 3]
-Se tu * quando presenti la tua offerta all'altare ti ricordi che il tuo fratello ha qualche cosa contro di te, lascia quivi la tua offerta davanti all'altare, e va prima a riconciliarti col tuo fratello, e poi torna a fare la tua offerta, alleluia.
+[Ant 2]
+Avete udito * che fu detto agli antichi: Non ucciderai; e chi avrà ucciso, sarà sottoposto al giudizio, alleluia.
 
 [Versum 3]
 @Tempora/Pent21-0:Versum 3
+
+[Ant 3]
+Se tu * quando presenti la tua offerta all'altare ti ricordi che il tuo fratello ha qualche cosa contro di te, lascia quivi la tua offerta davanti all'altare, e va prima a riconciliarti col tuo fratello, e poi torna a fare la tua offerta, alleluia.

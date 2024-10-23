@@ -9,6 +9,10 @@ Minores sine Antiphona;
 Capitulum Versum 2;
 Psalmi Dominica;
 
+[Oratio]
+Deus, qui nos resurrectiónis Domínicæ ánnua solemnitáte lætíficas: concéde propítius; ut per temporália festa quæ ágimus, perveníre ad gaúdia ætérna mereámur.
+$Per eumdem
+
 [Ant Matutinum]
 @Tempora/Pasc0-0::s/^V\..*//sm
 V. Gavísi sunt discípuli, allelúja.

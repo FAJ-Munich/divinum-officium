@@ -1,9 +1,9 @@
-[Ant 1]
-Osserva, figlio, * i precetti di tuo padre, e non trascurare gli ammaestramenti di tua madre, ma tienili sempre impressi nel tuo cuore.
-
 [Versum 1]
 V. La preghiera della sera salga a te, o Signore.
 R. E discenda su di noi la tua misericordia.
+
+[Ant 1]
+Osserva, figlio, * i precetti di tuo padre, e non trascurare gli ammaestramenti di tua madre, ma tienili sempre impressi nel tuo cuore.
 
 [Lectio1]
 Dal libro dell'Ecclesiastico

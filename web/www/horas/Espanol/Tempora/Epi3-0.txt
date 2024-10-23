@@ -16,7 +16,7 @@ Empieza la Epístola del Apóstol San Pablo a los Gálatas
 2 y todos los hermanos que conmigo están, a las iglesias de Galacia: 
 3 La gracia y la paz sean con vosotros de parte de Dios, nuestro Padre, y del Señor Jesucristo, 
 4 que se entregó por nuestros pecados, para librarnos del presente siglo malo, según la voluntad de nuestro Dios y Padre, 
-5 a quien sea la gloria por los siglos de los siglos. Amén. 
+5 a quien sea la gloria por los siglos de los siglos. Amén.
 
 [Responsory1]
 @Tempora/Epi2-0:Responsory1
@@ -27,7 +27,7 @@ Empieza la Epístola del Apóstol San Pablo a los Gálatas
 7 No es que haya otro; lo que hay es que algunos os turban y pretenden pervertir el Evangelio de Cristo. 
 8 Pero aunque nosotros o un ángel del cielo os anunciase otro evangelio distinto del que os hemos anunciado, sea anatema. 
 9 Os lo hemos dicho antes, y ahora de nuevo os lo digo: Si alguno os predica otro evangelio distinto del que habéis recibido, sea anatema. 
-10 ¿Busco yo ahora el favor de los hombres o el de Dios? ¿Acaso busco agradar a los hombres? Si aún buscase agradar a los hombres, no sería siervo de Cristo. 
+10 ¿Busco yo ahora el favor de los hombres o el de Dios? ¿Acaso busco agradar a los hombres? Si aún buscase agradar a los hombres, no sería siervo de Cristo.
 
 [Responsory2]
 @Tempora/Epi2-0:Responsory2
@@ -37,7 +37,7 @@ Empieza la Epístola del Apóstol San Pablo a los Gálatas
 11 Porque os hago saber, hermanos, que el Evangelio por mí predicado no es de hombre, 
 12 pues yo no lo recibí o aprendí de los hombres, sino por revelación de Jesucristo. 
 13 En efecto, habéis oído mi conducta de otro tiempo en el judaísmo, cómo con gran furia perseguía a la Iglesia de Dios y la devastaba, 
-14 aventajando en el celo por el judaísmo a muchos de los coetáneos de mi nación, y mostrándome extremadamente celador de las tradiciones paternas. 
+14 aventajando en el celo por el judaísmo a muchos de los coetáneos de mi nación, y mostrándome extremadamente celador de las tradiciones paternas.
 
 [Responsory3]
 @Tempora/Epi2-0:Responsory3

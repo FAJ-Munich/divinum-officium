@@ -217,10 +217,19 @@ sub kalendar_entry {
     $c2 .= setfont($smallfont, " *L1*");
   }
 
+  our $hora;
+  my $temphora = $hora;
+  $hora = 'Vespera';
+  precedence($date);
+  $hora = $temphora;
+  my $cv = $dayname[2];
+  $cv =~ s/.*?(Vespera|A capitulo|$)/$1/;
+
   if ($compare) {
     $c2 ||= '_';
+    $cv ||= '_';
   }
-  return ($c1, $c2);
+  return ($c1, $c2, $cv);
 }
 
 # prepare html table with entries
@@ -230,7 +239,7 @@ sub kalendar_table {
   my $output = << "PrintTag";
 <P ALIGN="CENTER">
 <TABLE BORDER="$border" WIDTH="90%" CELLPADDING="3" $background>
-<TR><TH>Dies</TH><TH>de Tempore</TH><TH>Sanctorum</TH><TH>d.h.</TH></TR>
+<TR><TH>Dies</TH><TH>de Tempore</TH><TH>Sanctorum</TH><TH>Vespera</TH><TH>d.h.</TH></TR>
 PrintTag
 
   my $to = (MONTHLENGTH)[$kmonth];
@@ -250,25 +259,28 @@ PrintTag
 
       if ($yday == 1) {    # add extra headline at the start of a new month
         $output .= << "PrintTag";
-<TR><TH COLSPAN="4" ALIGN="CENTER">
+<TR><TH COLSPAN="5" ALIGN="CENTER">
 <A HREF=# onclick=\"setkm($ymonth)\">@{[(MONTHNAMES)[$ymonth]]} $kyear</A>
 </TH></TR>
 PrintTag
       }
     }
-    my (@c1, @c2) = ((), ());
+    my (@c1, @c2, @cv) = ((), (), ());
 
     for (0 .. $compare) {
-      my ($c1, $c2) = kalendar_entry($date1, $ver[$_], $compare);
+      my ($c1, $c2, $cv) = kalendar_entry($date1, $ver[$_], $compare);
       push(@c1, $c1);
       push(@c2, $c2);
+      push(@cv, $cv);
     }
     my $c1 = join('<br/>', @c1);
     my $c2 = join('<br/>', @c2);
+    my $cv = join('<br/>', @cv);
     $output .= << "PrintTag";
-<TR><TD ALIGN="CENTER"><A HREF=# onclick="callbrevi('$date1');">$d1</A></TD>
+<TR><TD ALIGN="CENTER"><A HREF="#" onclick="callbrevi('$date1');">$d1</A></TD>
 <TD>$c1</TD>
 <TD>$c2</TD>
+<TD><FONT SIZE="-2">$cv</FONT></TD>
 <TD ALIGN="CENTER">@{[(DAYNAMES)[$dayofweek]]}</TD>
 </TR>
 PrintTag
@@ -294,15 +306,15 @@ sub html_output {
 <FONT COLOR="MAROON" SIZE="+1"><B><I>Ordo @{[(MONTHNAMES)[$kmonth]]} A. D.</I></B></FONT>&nbsp;
 <LABEL FOR="kyear" CLASS="offscreen">Year</LABEL>
 <INPUT TYPE="TEXT" ID="kyear" NAME="kyear" VALUE="$kyear" SIZE=4>
-<A HREF=# onclick="prevnext(-1)">&darr;</A>
+<A HREF="#" onclick="prevnext(-1)">&darr;</A>
 <INPUT TYPE="submit" NAME="SUBMIT" VALUE=" " onclick="document.forms[0].submit();">
-<A HREF=# onclick="prevnext(1)">&uarr;</A>
-&ensp;<A HREF=# onclick="setkm(14)">Totus</A>
+<A HREF="#" onclick="prevnext(1)">&uarr;</A>
+&ensp;<A HREF="#" onclick="setkm(14)">Totus</A>
 </P><P ALIGN="CENTER">
 PrintTag
 
     my @mmenu;
-    push(@mmenu, "<A HREF=# onclick=\"setkm(-1)\">«</A>\n") if $kmonth == 1;
+    push(@mmenu, "<A HREF='#' onclick=\"setkm(-1)\">«</A>\n") if $kmonth == 1;
 
     foreach my $i (1 .. 12) {
       my $mn = substr((MONTHNAMES)[$i], 0, 3);

@@ -1,5 +1,3 @@
-@Tempora/Epi4-0
-
 [Rank]
 Dominica IV Post Epiphaniam;;Simplex;;1
 

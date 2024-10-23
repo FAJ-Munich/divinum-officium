@@ -22,7 +22,7 @@ Olvasmány szent Pál apostol Efezusiakhoz írott leveléből
 5 Egy az Úr, egy a hit, egy a keresztség. 
 6 Egy az Isten, mindnyájunk Atyja, aki mindennek fölötte áll, mindent áthat és mindenben benne van. 
 7 Mindegyikünk Krisztus ajándékozásának mértéke szerint részesült a kegyelemben. 
-8 Ezért mondja az Írás: Fölment a magasba, magával vitte a foglyokat, s osztott az embereknek ajándékokat. 
+8 Ezért mondja az Írás: Fölment a magasba, magával vitte a foglyokat, s osztott az embereknek ajándékokat.
 
 [Responsory1]
 @Tempora/Pasc5-4:Responsory1
@@ -34,7 +34,7 @@ Olvasmány szent Pál apostol Efezusiakhoz írott leveléből
 11 Ő némelyeket apostollá, másokat prófétává, ismét másokat evangélistává, pásztorrá és tanítóvá tett, 
 12 hogy szolgálatuk betöltésére neveljék a szenteket, és fölépítsék Krisztus testét, 
 13 amíg mindnyájan el nem jutunk az Isten Fia hitének és megismerésének egységére, és meglett emberré nem leszünk, elérve Krisztus teljessége életkorának mértékére. 
-14 Akkor majd nem leszünk éretlenek, akiket a megtévesztő emberi tanítás és a tévedésbe ejtő álnokság minden szele magával sodor. 
+14 Akkor majd nem leszünk éretlenek, akiket a megtévesztő emberi tanítás és a tévedésbe ejtő álnokság minden szele magával sodor.
 
 [Responsory2]
 @Tempora/Pasc5-4:Responsory2
@@ -59,5 +59,4 @@ Azon időben Jézus a tizenegynek jelent meg, amikor egyszer asztalnál ültek. 
 _
 Homily by Pope St Gregory the Great.
 !Same as before.
-The Prophet Habakkuk also hath spoken of the glory of Christ's Ascension in the words "The sun was lifted up on high, and the moon stood still in her habitation," Who is here signified by the Sun, if not the Saviour or by the Moon, if not the Church? Until the Lord was withdrawn from her sight, (that is, by His Ascension,) His Holy Church was pale before the hostile glare of the world, but after He was ascended, she waxed stronger, and distinctly shed forth~
-the beams of that faith which had hitherto dwelt hiddenly in her. "The sun was lifted up, and the moon stood still in her habitation" when the Lord was gone away into heaven, His holy Church waxed stronger in her enlightening power.
+The Prophet Habakkuk also hath spoken of the glory of Christ's Ascension in the words „The sun was lifted up on high, and the moon stood still in her habitation,” Who is here signified by the Sun, if not the Saviour or by the Moon, if not the Church? Until the Lord was withdrawn from her sight, (that is, by His Ascension,) His Holy Church was pale before the hostile glare of the world, but after He was ascended, she waxed stronger, and distinctly shed forth the beams of that faith which had hitherto dwelt hiddenly in her. „The sun was lifted up, and the moon stood still in her habitation” when the Lord was gone away into heaven, His holy Church waxed stronger in her enlightening power.

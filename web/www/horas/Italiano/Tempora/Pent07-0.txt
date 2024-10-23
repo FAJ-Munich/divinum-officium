@@ -7,12 +7,12 @@ Psalmi Dominica
 Antiphonas horas
 Symbolum Athanasium
 
-[Ant 1]
-Unsero Salomone re in Gion, * Sadoc sacerdote e Natan profeta, e salendo gridarono giulivi: Viva il re in eterno.
-
 [Versum 1]
 V. La preghiera della sera salga a te, o Signore.
 R. E discenda su di noi la tua misericordia.
+
+[Ant 1]
+Unsero Salomone re in Gion, * Sadoc sacerdote e Natan profeta, e salendo gridarono giulivi: Viva il re in eterno.
 
 [Oratio]
 O Dio, la cui provvidenza non falla nelle sue disposizioni: ti supplichiamo umilmente, e di allontanare ogni cosa nociva, e di concederci tutto quello che possa giovarci. 
@@ -93,15 +93,15 @@ Che merito infatti c'è a dire al Signore: «Signore»? Forse egli non sarà Sig
 Da tutto questo essi si ripromettono il regno dei cieli: come se qualche cosa di quanto dicono o fanno appartenga loro in proprietà e non sia la potenza divina invocata che opera ogni cosa, essendo il suo insegnamento che procura la scienza e la dottrina, e il nome di Cristo che scaccia i demonii. Quindi bisogna metterci del nostro per meritare la beatitudine eterna, e trarre qualche cosa dal nostro proprio fondo, cioè dobbiamo volere il bene, evitare il male, obbedire con tutto il cuore ai divini precetti e così meritare la sorte d'essere ammessi nell'amicizia di Dio, e vediamo piuttosto di eseguire ciò che egli vuole, che di gloriarci di ciò ch'egli può; ripudiando egli e rigettando quelli che per l'iniquità delle loro opere sono stati allontanati dalla sua amicizia.
 &teDeum
 
-[Ant 2]
-Guardatevi * dai falsi profeti che vengono a voi vestiti da pecore, ma dentro sono lupi rapaci; li riconoscerete dai loro frutti, alleluia.
-
 [Versum 2]
 V. Il Signore regna, s'è rivestito di maestà.
 R. Il Signore s'è rivestito di forza, e s'è cinto di potenza.
 
-[Ant 3]
-Non può un albero * buono fare frutti cattivi, né un albero cattivo far frutti buoni. Ogni albero che non fa frutto buono, si taglia e si getta nel fuoco, alleluia.
+[Ant 2]
+Guardatevi * dai falsi profeti che vengono a voi vestiti da pecore, ma dentro sono lupi rapaci; li riconoscerete dai loro frutti, alleluia.
 
 [Versum 3]
 @Tempora/Pent21-0:Versum 3
+
+[Ant 3]
+Non può un albero * buono fare frutti cattivi, né un albero cattivo far frutti buoni. Ogni albero che non fa frutto buono, si taglia e si getta nel fuoco, alleluia.
