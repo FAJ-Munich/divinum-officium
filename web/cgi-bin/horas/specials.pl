@@ -134,10 +134,16 @@ sub specials {
       next;
     }
 
+    # Preces:
     if ($item =~ /preces/i) {
-      $skipflag = !preces($item);
+      $skipflag = !preces($item);    # check if Preces Feriales or Dominicales are to be said
       setcomment($label, 'Preces', $skipflag, $lang);
       setbuild1($item, $skipflag ? 'omit' : 'include');
+      
+      if ($precesferiales && $item =~ /Dominicales/i) {
+        push(@s, '$rubrica Preces flexis genibus') unless $skipflag;
+      }
+      
       push(@s, getpreces($hora, $lang, $item =~ /Dominicales/)) unless $skipflag;
       next;
     }
