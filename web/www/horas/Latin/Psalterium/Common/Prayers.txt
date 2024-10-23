@@ -273,7 +273,8 @@ $Pater noster Et
 
 [mLitany2]
 $Kyrie
-$pater secreto
+$rubrica Pater secreto
+$Pater noster Et
 
 [mLitany simplex]
 $Kyrie

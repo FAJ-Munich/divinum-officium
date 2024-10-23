@@ -43,7 +43,7 @@ $rubrica Clara voce
 (deinde dicitur)
 $Fidelium animae
 (sed rubrica cisterciensis omittitur)
-(rubrica cisterciensis aut rubrica 1963) &Divinum_auxilium
+(rubrica 1963 aut rubrica cisterciensis) &Divinum_auxilium
 (rubrica cisterciensis) $Fidelium animae
 
 (si rubrica 1951 dicuntur)
