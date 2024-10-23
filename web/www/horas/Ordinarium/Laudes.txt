@@ -46,10 +46,10 @@ $Fidelium animae
 (rubrica Monastica) &Divinum_auxilium
 (rubrica cisterciensis) $Fidelium animae
 
-(deinde rubrica 1951 dicuntur)
+(si rubrica 1951 dicuntur)
 $rubrica Conclusio cisterciensis
 $Conclusio cisterciensis
-(deinde dicuntur)
+(atque dicuntur semper)
 $Pater totum secreto
 $Dominus det
 

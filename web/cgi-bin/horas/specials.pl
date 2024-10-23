@@ -651,18 +651,39 @@ sub setbuild {
 #*** checksuffragium
 # versions 1956 and 1960 exclude from Ordinarium
 sub checksuffragium {
-  if ($rule =~ /no suffragium/i) { return 0; }
-  if (!$dayname[0] || $dayname[0] =~ /Adv|Nat|Quad5|Quad6/i) { return 0; }  #christmas, adv, passiontime omit
-  if ($dayname[0] =~ /Pasc[07]/i) { return 0; }                             # Octaves of Pascha and Pentecost
-  if ($winner =~ /sancti/i && $rank >= 3 && $seasonalflag) { return 0; }    # All Duplex Saints (except Patr. S. Joseph)
-  if ($winner{Rank} =~ /octav/i && $winner{Rank} !~ /post Octavam/i) { return 0; }
+  return 1 if $winner =~ /C12/;    # Officium Parvum B.M.V.
+
+  my $ranklimit = ($version =~ /cist/i ? 4 : 3);    # Roman: Duplex; Cist: MM. maj.
+  return 0
+    if $rule =~ /no suffragium/i
+
+    # early January
+    || !$dayname[0]
+
+    # Nativity, Hebd. maj., Octaves of Pasch and Pente, and Ascensiontide
+    || $dayname[0] =~ /Nat|Quad6|Pasc[067]/i
+
+    # Passiontide and Advent for non-Cistercian
+    || $version !~ /cist/i && $dayname[0] =~ /Adv|Quad5/i
+
+    # All Duplex (MM. maj.) Saints (except Patr. S. Joseph)
+    || ($winner =~ /sancti/i && $rank >= $ranklimit && $seasonalflag)
+    || ($winner =~ /tempora/i && $duplex > 2 && $seasonalflag)
+
+    # Octaves
+    || ($winner{Rank} =~ /octav/i && $winner{Rank} !~ /post Octavam/i)
+    || ($octavcount || $commemoratio{Rank} =~ /octav/i)
+
+    # Cistercian: minor Feasts of Apostles
+    || $version =~ /cist/i && $commune =~ /C1a?$/i;
 
   if ($commemoratio && $seasonalflag) {
     my @r = split(';;', $commemoratio{Rank});
 
-    if ($r[2] >= 3 || $commemoratio{Rank} =~ /in.*Octav/i || checkcommemoratio(\%commemoratio) =~ /octav/i) {
-      return 0;
-    }
+    return 0
+      if $r[2] >= $ranklimit
+      || $commemoratio{Rank} =~ /in.*Octav/i
+      || checkcommemoratio(\%commemoratio) =~ /octav/i;
 
     if (@commemoentries || @ccommemoentries) {
       my @cccentries = (@commemoentries, @ccommemoentries);
@@ -672,17 +693,12 @@ sub checksuffragium {
         my %c = %{officestring('Latin', $commemo, 0)};
         my @cr = split(";;", $c{Rank});
 
-        if ($cr[2] >= 3 || $c{Rank} =~ /in.*Octav/i || checkcommemoratio(\%c) =~ /octav/i) {
-          return 0;
-        }
+        return 0 if $cr[2] >= $ranklimit || $c{Rank} =~ /in.*Octav/i || checkcommemoratio(\%c) =~ /octav/i;
+
       }
     }
   }
-  if ($commemoratio{Rank} =~ /octav/i) { return 0; }
-  if ($octavcount) { return 0; }
 
-  if ($winner =~ /C12/) { return 1; }
-  if ($duplex > 2 && $seasonalflag) { return 0; }    # && $version !~ /trident/i ??? #all Duplex in the Tempora folders
   return 1;
 }
 

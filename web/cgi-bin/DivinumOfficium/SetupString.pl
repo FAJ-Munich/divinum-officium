@@ -23,6 +23,7 @@ my %subjects = (
   'die' => \&get_dayname_for_condition,
   feria => sub { our $dayofweek + 1 },
   commune => sub {$commune},
+  officio => sub { $dayname[1]; },
 );
 my %predicates = (
   tridentina => sub { shift =~ /Trident/ },
@@ -37,6 +38,7 @@ my %predicates = (
   longior => sub { shift == 1 },
   brevior => sub { shift == 2 },
   'summorum pontificum' => sub { ${shift()}{summpont} },
+  feriali => sub { shift =~ /feria|vigilia/i; },
 );
 
 # Constants specifying which @-directives to resolve when calling &setupstring.

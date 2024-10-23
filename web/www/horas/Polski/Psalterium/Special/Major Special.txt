@@ -940,7 +940,7 @@ Amen.
 V. Zostań z nami, Panie, alleluja.
 R. Boć się ma ku wieczorowi, alleluja.
 
-[Suffragium1]
+[Suffragium Divino]
 Ant. Niechaj Święta Boża Rodzicielka, Marja Panna i wszyscy Święci wstawią się za nami do Pana.
 _
 V. Uczcił Pan Świętych swoich. 
@@ -953,7 +953,7 @@ v. Broń nas, prosimy Cię, Panie, od wszelkich niebezpieczeństw duszy i ciała
 r. N. i wszystkich Świętych udziel nam łaskawie zbawienia i pokoju: aby Kościół Twój, pokonawszy przeciwności i błędy, mógł Ci służyć w bezpiecznej wolności.
 $Per eumdem
 
-[Suffragium11]
+[Suffragium Divino1]
 Ant. Niechaj wszyscy Święci wstawią się za nami do Pana.
 _
 V. Uczcił Pan Świętych swoich. 
@@ -966,91 +966,87 @@ v. Broń nas, prosimy Cię, Panie, od wszelkich niebezpieczeństw duszy i ciała
 r. N. i wszystkich Świętych udziel nam łaskawie zbawienia i pokoju: aby Kościół Twój, pokonawszy przeciwności i błędy, mógł Ci służyć w bezpiecznej wolności.
 $Per eumdem
 
-[SuffragiumTridentinumFeriale]
+[Suffragium Feriale]
 !Do Krzyża świętego
 Ant. Przez znamię Krzyża wybaw nas od nieprzyjaciół, Boże nasz.
 _
 V. Wszystka ziemia niechaj ci się kłania, i niechaj ci śpiewa.
 R. Niech Psalm śpiewa imieniowi twemu, Panie.
 _
-!Modlitwa
 $Oremus
 v. Strzeż, prosimy cię Panie, w nieustannym pokoju nas, których raczyłeś odkupić przez drzewo świętego Krzyża.
 
-[Suffragium2]
+[Suffragium Paschale]
 Ant. Ukrzyżowany powstał z martwych i odkupił nas, alleluja, alleluja.
 _
 V. Mówcie narodom, alleluja.
 R. Iż Pan królował z drzewa, alleluja.
 _
-!Modlitwa
 $Oremus
 v. Boże, któryś chciał, aby Syn Twój poniósł za nas Mękę Krzyżową i wyzwolił nas przez to od mocy nieprzyjaciół, dozwól nam, sługom Twoim, osiągnąć łaskę zmartwychwstania.
 $Per eumdem
 
-[Suffragium3]
+[Suffragium BMV]
 !Do Najświętszej Marji
 Ant. Święta Marjo, wspomóż nieszczęśliwych, wesprzyj bojaźliwych, pociesz zasmuconych, módl się za lud, wstawiaj się za klerem, przyczyń się za niewiastami Bogu poświęconemi: niechaj doznają Twego wsparcia wszyscy, którzy obchodzą święte wspomnienie Twoje.
 _
+(deinde dicuntur semper)
 V. Módl się za nami święta Boża Rodzicielko.
 R. Abyśmy się stali godnymi obietnic Chrystusowych
 _
-!Modlitwa
-v. Orémus
+$Oremus
 v. Dozwól, prosimy Cię, Panie Boże, aby słudzy Twoi cieszyli się ciągiem zdrowiem duszy i ciała, a za przyczyną chwalebnej i błogosławionej Marji, zawsze Dziewicy, uwolnieni od smutków doczesnych, doszli do radości wiekuistych.
+(sed tempore post partum loco horum versuum dicuntur)
+@Psalterium/Mariaant:Nativiti:s/.*V\./V\./s
 
-[Suffragium41]
+
+[Suffragium DeJosephV]
 !Do świętego Józefa
 Ant. Oto sługa wiemy i roztropny, którego postanowił Pan nad czeladzią swoją.
 _
 V. Chwała i bogactwa w domu jego.
 R. A sprawiedliwość jego trwa na wieki wieków.
 _
-!Modlitwa
 $Oremus
 v. Boże, któryś w niewymownej Opatrzności błogosławionego Józefa, na Oblubieńca Najświętszej Rodzicielki Twojej wybrać raczył: spraw, prosimy, abyśmy, którzy go jako Patrona na ziemi czcimy, zasłużyli na jego wstawiennictwo w niebie.
 
-[Suffragium42]
+[Suffragium DeJoseph]
 !Do świętego Józefa
 Ant. A ten Jezus poczynał być jakoby w trzydziestu latach, jako mniemano, syn Józefa.
 _
 V. Usta sprawiedliwego będą rozmyślać mądrość.
 R. A język jego będzie mówił sąd.
 _
-!Modlitwa
 $Oremus
 v. Boże, któryś w niewymownej Opatrzności błogosławionego Józefa, na Oblubieńca Najświętszej Rodzicielki Twojej wybrać raczył: spraw, prosimy, abyśmy, którzy go jako Patrona na ziemi czcimy, zasłużyli na jego wstawiennictwo w niebie.
 
-[Suffragium51]
+[Suffragium DeApostolisV]
 !Do Apostołów
 Ant. Piotr Apostoł i Paweł, doktór narodów, oto Ci, którzy nas uczyli prawa Twego, Panie.
 _
 V. Postanowisz je książęty nade wszystką ziemią.
 R. Będą wspominać Imię Twoje, Panie.
 _
-!Modlitwa
 $Oremus
 v. Boże, którego prawica unosiła błogosławionego Piotra idącego po falach, by nie zatonął, a Pawła, towarzysza jego w apostolstwie, po trzeciem rozbiciu okrętu z głębokości wybawiła, wysłuchaj nas łaskawie i dozwól, abyśmy przez ich zasługi dostąpili wiecznej chwały.
 
-[Suffragium52]
+[Suffragium DeApostolis]
 !Do Apostołów
 Ant. Chwalebni książęta ziemi, jak miłowali się w życiu swoim, tak i w śmierci nie są rozdzieleni.
 _
 V. Na wszystką ziemię wyszedł głos ich.
 R. I na kończyny okręgu ziemi słowa ich.
 _
-!Modlitwa
 $Oremus
 v. Boże, którego prawica unosiła błogosławionego Piotra idącego po falach, by nie zatonął, a Pawła, towarzysza jego w apostolstwie, po trzeciem rozbiciu okrętu z głębokości wybawiła, wysłuchaj nas łaskawie i dozwól, abyśmy przez ich zasługi dostąpili wiecznej chwały.
 
-[Suffragium6]
+[Suffragium DePace]
 !O pokój
 Ant. Daj pokój, Panie, w dniach naszych, bo nie ma innego kto by za nas walczył, jeśli nie ty, Bóg nasz.
 _
 V. Czyń pokój w murach Twoich.
 R. I dostatek w basztach Twoich.
 _
-!Modlitwa
 $Oremus
 v. Boże, od którego święte pożądania, dobre rady i sprawiedliwe pochodzą uczynki: udaruj sługi Twoje pokojem, którego świat dać nie może; ażeby serca nasze przykazaniom Twoim były posłuszne i aby dni nasze, wolne od bojaźni nieprzyjaciół, pod Twoją opieką spokojnie płynęły.
 $Per Dominum

@@ -871,7 +871,7 @@ Most és örök időkön át.
 V. Maradj velünk Uram, aleluia
 R. Mert esteledik, alleluja
 
-[Suffragium1]
+[Suffragium Divino]
 Ant. Boldogságos Szűz Mária és minden szentek, imádkozzatok érettünk Urunknál Istenünknél
 _
 V. Az Úr csodálatossá tette szentjeit
@@ -884,7 +884,7 @@ v. Szabadíts meg kérünk Urunk minden szellemi és testi bajtól és a boldogs
 r. N. és minden szentek kőzbenjárására, adj nekünk üdvösséget és békét hogy Egyházad ellenségeit és a tévedéseket legyőzve biztonságban szolgálhasson Téged
 $Per eumdem
 
-[Suffragium11]
+[Suffragium Divino1]
 Ant. Istennek minden szentjei, imádkozzatok érettünk Urunknál Istenünknél
 _
 V. Az Úr csodálatossá tette szentjeit
@@ -898,80 +898,77 @@ r. N. és minden szentek kőzbenjárására, adj nekünk üdvösséget és bék�
 $Per eumdem
 _
 
-[Suffragium2]
+[Suffragium Paschale]
 Ant. Megfeszittetett, feltámadott halottaiból, megváltott minket, alleluja, alleluja
 _
 V. Hirdessétek a nemzeteknek, alleluja
 R. Az Úr uralkodik a keresztfáról, alleluja
 _
-!Oratio
 $Oremus
 Urunk, ki úgy akartad hogy Fiad a keresztfára itéltessék hogy minket az ellen hatalmából kiszabaditson, add meg nekünk szolgáidnak, hogy a feltámadás kegyelmét elnyerhessük
 $Per eumdem
 
-[Suffragium3]
+[Suffragium BMV]
 !Szűz Máriához
 Ant. Szent Szűz Mária * győzd le nyomorúságunkat, segíts ha félünk, vígasztalj ha gyengék vagyunk; imádkozz a népért, könyörogj a papokért, légy a jámbor asszonyok kőzbenjárója, hogy mindenki aki szent ünnepedet ünnepli érezze segítségedet. 
 _
+(deinde dicuntur semper)
 V. Imádkozzál érettünk Istennek szent anyja
 R. Hogy métók lehessünk a Krisztus igéreteire
 _
-!Oratio
-$Oremus 
+$Oremus
 Kérünk Urunk Istenünk, add meg nekünk szolgaidnak a testi és lelki egészseget, és hogy a Boldogságos Szűz Mária közbenjárására a jelen nyomorúságtól megszabaduljunk és az örök élet örömeit élvezhessük
+(sed tempore post partum loco horum versuum dicuntur)
+@Psalterium/Mariaant:Nativiti:s/.*V\./V\./s
 
-[Suffragium41]
+
+[Suffragium DeJosephV]
 !Szent Józsefhez
 Ant. Ime a hű és okos szolga, akit ura háza népe fölé rendelt
 _
 V. Házát bőség és gazdagság tölti el, 
 R. Igazsága megmarad örökre. 
 _
-!Oratio
 $Oremus
 Isten ki végtelen gondoskodással Szent Józsefet Fiad anyjának jegyeséve rendelted, add meg kérünk. hogy akinek védelmét érezzük a földön, édemeljük meg közbenjárásat a mennyeiekben is.
 
-[Suffragium42]
+[Suffragium DeJoseph]
 !De sancto Joseph
 Ant. Föllépésekor Jézus mintegy harmincéves volt. Azt tartották róla, hogy Józsefnek a fia.
 _
 V. Az igaznak szája bölcsességet szól 
 R. Nyelve azt hirdeti, ami helyes`.
 _
-!Oratio
 $Oremus
 Isten ki végtelen gondoskodással Szent Józsefet Fiad anyjának jegyeséve rendelted, add meg kérünk. hogy akinek védelmét érezzük a földön, édemeljük meg közbenjárásat a mennyeiekben is.
 
-[Suffragium51]
+[Suffragium DeApostolisV]
 !De Apostolis
 Ant. Péter Apostol és Pál a népek tanitója; ők tanitanak minket törvényedre, Uram 
 _
 V. Fejedelmekké teszed őket országok felett.
 R. Megemlékeznek nevedről, Urunk
 _
-!Oratio
 $Oremus 
 Isten, kinek jobbja megragadta Pétert, hogy ne merüljön el a hullámokban; és apostoltársát Pált háromszor kimentetted a hajótörésből; hallgass meg minket kérünk hogy érdemeik az örök élet dicsőségébe vezessenek minket
 
-[Suffragium52]
+[Suffragium DeApostolis]
 !De Apostolis
 Ant. Föld dicsö fejedelmei, ahogy életükben szerették egymást, ugy a halál sem választotta el őket egymástól
 _
 V. A hírük terjed, szerte a világon,
 R. A szózatuk elhangzik a föld határáig. 
 _
-!Oratio
 $Oremus 
 Isten, kinek jobbja megragadta Pétert, hogy ne merüljön el a hullámokban; és apostoltársát Pált háromszor kimentetted a hajótörésből; hallgass meg minket kérünk hogy érdemeik az örök élet dicsőségébe vezessenek minket
 
-[Suffragium6]
+[Suffragium DePace]
 !De Pace. 
 Ant. Adj békét Uram napjainkban, mert nincs más aki harcba szálljon értünk, csak te, Istenünk. 
 _
 V. Béke lakozzék falaid között
 R. És biztonság házaidban
 _
-!Oratio
 $Oremus 
 Isten, kinek szent a kivánsága, helyes a tanácsa és igazak cselekedetei: add meg szolgáidnak amit a világ nem képes adni, a békét; hogy parancsaidat szívből megtartsuk és elleneinket félelmed töltse el, és védelmed nyugalmat adjon
 $Per Dominum

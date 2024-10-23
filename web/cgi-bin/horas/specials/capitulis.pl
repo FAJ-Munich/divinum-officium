@@ -32,6 +32,7 @@ sub capitulum_major {
     my (@capit) = split(/\n/, $capit);
     postprocess_short_resp(@capit, $lang);
     $capit = join("\n", @capit);
+    $capit =~ s/\&gloria.*//gsi if $version =~ /cist/i;
   }
 
   setcomment($label, 'Source', $c, $lang);
@@ -70,6 +71,7 @@ sub monastic_major_responsory {
     my @resp = split("\n", $resp);
     postprocess_short_resp(@resp, $lang);
     $resp = join("\n", @resp);
+    $resp =~ s/\&gloria.*//gsi if $version =~ /cist/i;
   }
 
   $resp;
