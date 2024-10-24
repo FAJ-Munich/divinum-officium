@@ -6120,8 +6120,13 @@ return /******/ (function(modules) { // webpackBootstrap
 	function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 	
 	// reusable reg exps
-	var __syllablesRegex = /(?=.)((?:[^(])*)(?:\(?([^)]*)\)?)?/g;
-	var __notationsRegex = /z0|z|Z|::|:|;|,|`|c1|c2|c3|c4|f3|f4|cb3|cb4|\/\/|\/| |\!|-?[a-mA-M][oOwWvVrRsxy#~\+><_\.'012345]*(?:\[[^\]]*\]?)*/g;
+	var __altTranslationRegex = /<alt>(.*?)<\/alt>|\[(alt:)?(.*?)\]/g;
+	var __notationsRegex_group_insideBraces = 1;
+	var __bracketedCommandRegex = /^([a-z]+):(.*)/;
+	
+	// reusable reg exps
+	var __syllablesRegex = /(?=\S)((?:<v>[\s\S]*<\/v>|[^(])*)(?:\(?([^)]*)\)?)?/g;
+	var __notationsRegex = /z0|z|Z|::|:|[,;][1-6]?|`|[cf][1-4]|cb[1-4]|\/+| |\!|-?[a-mA-M][oOwWvVrRsxy#~\+><_\.'012345]*(?:\[[^\]]*\]?)*|\{([^}]+)\}?/g;  //`
 	
 	// for the brace string inside of [ and ] in notation data
 	// the capturing groups are:
@@ -6538,6 +6543,14 @@ return /******/ (function(modules) { // webpackBootstrap
 	
 	          case "f4":
 	            addNotation(ctxt.activeClef = new _Exsurge3.FaClef(3, 2));
+	            break;
+	
+	          case "cb1":
+	            addNotation(ctxt.activeClef = new _Exsurge3.DoClef(-3, 2, new Signs.Accidental(-4, Signs.AccidentalType.Flat)));
+	            break;
+	
+	          case "cb2":
+	            addNotation(ctxt.activeClef = new _Exsurge3.DoClef(-1, 2, new Signs.Accidental(-2, Signs.AccidentalType.Flat)));
 	            break;
 	
 	          case "cb3":
