@@ -44,13 +44,13 @@ $Deus in adjutorium
 (sed rubrica 196 aut rubrica 1955 aut rubrica cisterciensis omittitur)
 
 #Oratio
-(deinde rubrica ^Monastic aut rubrica cisterciensis dicitur)
+(si rubrica ^Monastic aut rubrica cisterciensis dicuntur)
 $Kyrie
 $rubrica Pater secreto
 $Pater noster Et
 (sed rubrica 1617 aut rubrica 1930 loco hujus versus dicitur)
 &mLitany
-(deinde dicitur semper)
+(atque dicitur semper)
 &Dominus_vobiscum1
 (sed rubrica 196 aut rubrica 1955 aut rubrica cisterciensis dicitur)
 &Dominus_vobiscum
