@@ -33,13 +33,13 @@ $Deus in adjutorium
 (sed rubrica 196 aut rubrica 1955 aut rubrica ^Monastic omittuntur)
 
 #Oratio
-(deinde rubrica ^Monastic aut rubrica cisterciensis dicitur)
+(si rubrica ^Monastic aut rubrica cisterciensis dicuntur)
 $Kyrie
 $rubrica Pater secreto
 $Pater noster Et
 (sed rubrica 1617 aut rubrica 1930 loco hujus versus dicitur)
 &mLitany
-(deinde dicitur semper)
+(atque dicitur semper)
 &Dominus_vobiscum1
 (sed rubrica 196 aut rubrica 1955 aut rubrica cisterciensis dicitur)
 &Dominus_vobiscum
@@ -51,11 +51,12 @@ $Per Dominum
 (deinde rubrica cisterciensis dicuntur)
 &Divinum_auxilium
 $Fidelium animae
-(deinde rubrica 1951 dicuntur)
+(si rubrica 1951 dicuntur)
 
 $Conclusio cisterciensis
-(deinde rubrica ^Monastic dicitur)
-$rubrica Martyrologium
+(numquam omittur)
+(atque dicuntur semper)
+(rubrica ^Monastic) $rubrica Martyrologium
 
 #Martyrologium
 
@@ -69,7 +70,7 @@ $respice
 &Gloria
 $Oremus
 (sed rubrica cisterciensis)
-$sine Oremus
+$rubrica sine Oremus
 $dirigere
 $Amen
 

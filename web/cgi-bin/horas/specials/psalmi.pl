@@ -620,13 +620,12 @@ sub antetpsalm {
 
       unless ($duplexf && $version !~ /cist/i) {
         $antp =~ s/\s*\*.*//;
-
         if ($lang =~ /gabc/i && $ant =~ /\{.*\}/) {
           $antp =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/;    # proper closure of GABC antiphone
           $antp =~ s/\,\.\(/.(/;
         } else {
           $antp =~ s/\,$/./;
-          if ($version =~ /cist/i) { $antp .= ' ' . prayer("rubrica Antiphona", $lang); }
+          if ($version =~ /cist/i) { $antp .= ' ' . rubric('Antiphona', $lang); }
         }
       }
       push(@s, "Ant. $antp");
