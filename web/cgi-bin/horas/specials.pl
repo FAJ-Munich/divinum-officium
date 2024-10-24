@@ -21,6 +21,7 @@ require "$Bin/specials/specprima.pl";
 sub specials {
   my $s = shift;
   my $lang = shift;
+  my $special = shift;
   $octavam = '';    #check duplicate commemorations
   my %w = columnsel($lang) ? %winner : %winner2;
 
@@ -33,12 +34,13 @@ sub specials {
   }
 
   my $i = $hora eq 'Laudes' ? ' 2' : $hora eq 'Vespera' ? " $vespera" : '';
-  if (exists($w{"Special $hora$i"})) { return loadspecial($w{"Special $hora$i"}); }
+  if (!$special && exists($w{"Special $hora$i"})) { return loadspecial($w{"Special $hora$i"}); }
 
   our @s = ();
   my @t = @$s;
 
-  my ($skipflag, $tind);
+  our $litaniaflag;
+  my ($specialflag, $skipflag, $tind);
 
   while ($tind < @t) {
     $item = $t[$tind++];
@@ -132,10 +134,16 @@ sub specials {
       next;
     }
 
+    # Preces:
     if ($item =~ /preces/i) {
-      $skipflag = !preces($item);
+      $skipflag = !preces($item);    # check if Preces Feriales or Dominicales are to be said
       setcomment($label, 'Preces', $skipflag, $lang);
       setbuild1($item, $skipflag ? 'omit' : 'include');
+
+      if ($precesferiales && $item =~ /Dominicales/i) {
+        push(@s, '$rubrica Preces flexis genibus') unless $skipflag;
+      }
+
       push(@s, getpreces($hora, $lang, $item =~ /Dominicales/)) unless $skipflag;
       next;
     }
@@ -265,6 +273,7 @@ sub specials {
     }
 
     if ($item =~ /Antiphona finalis/) {
+      next if $litaniaflag || $specialflag;
 
       if ($version =~ /^Ordo Praedicatorum/) {
         push(@s, '#' . translate('Antiphonae finalis', $lang));
@@ -316,10 +325,13 @@ sub specials {
         || $scriptura{Rule} =~ /Laudes Litania/i
         || $flag)
     ) {
-      my %w = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
+      my %w = %{setupstring($lang, 'Psalterium/Special/Preces.txt')};
       my $lname = $version =~ /Monastic/ ? 'LitaniaM' : 'Litania';
       if ($version =~ /1570/ && exists($w{LitaniaT})) { $lname = 'LitaniaT'; }
-      push(@s, $w{$lname});
+      push(@s, '$Domine exaudi', '&Benedicamus_Domino', '');
+      my @lit = split("\n\n", $w{$lname});
+      push(@lit, '', '');
+      push(@s, @lit[0, -1, 1, -2, 2]);
       setbuild1($item, 'Litania omnium sanctorum');
       $skipflag = 1;
       $litaniaflag = 1;
@@ -330,6 +342,7 @@ sub specials {
       my %w = columnsel($lang) ? %winner : %winner2;
       push(@s, $w{Conclusio});
       $skipflag = 1;
+      $specialflag = 1;
     }
 
     # Set special conclusion when Office of the Dead follows.
@@ -342,12 +355,14 @@ sub specials {
         push(@s, prayer('DefunctV', $lang));
         setbuild1($item, 'Recite Vespera defunctorum');
         $skipflag = 1;
+        $specialflag = 1;
       } elsif (($dirge || $winner{Rule} =~ /Matutinum et Laudes Defunctorum/)
         && $hora eq 'Laudes')
       {
         push(@s, prayer('DefunctM', $lang));
         setbuild1($item, 'Recite Officium defunctorum');
         $skipflag = 1;
+        $specialflag = 1;
       }
     }
   }
@@ -642,18 +657,39 @@ sub setbuild {
 #*** checksuffragium
 # versions 1956 and 1960 exclude from Ordinarium
 sub checksuffragium {
-  if ($rule =~ /no suffragium/i) { return 0; }
-  if (!$dayname[0] || $dayname[0] =~ /Adv|Nat|Quad5|Quad6/i) { return 0; }  #christmas, adv, passiontime omit
-  if ($dayname[0] =~ /Pasc[07]/i) { return 0; }                             # Octaves of Pascha and Pentecost
-  if ($winner =~ /sancti/i && $rank >= 3 && $seasonalflag) { return 0; }    # All Duplex Saints (except Patr. S. Joseph)
-  if ($winner{Rank} =~ /octav/i && $winner{Rank} !~ /post Octavam/i) { return 0; }
+  return 1 if $winner =~ /C12/;    # Officium Parvum B.M.V.
+
+  my $ranklimit = ($version =~ /cist/i ? 4 : 3);    # Roman: Duplex; Cist: MM. maj.
+  return 0
+    if $rule =~ /no suffragium/i
+
+    # early January
+    || !$dayname[0]
+
+    # Nativity, Hebd. maj., Octaves of Pasch and Pente, and Ascensiontide
+    || $dayname[0] =~ /Nat|Quad6|Pasc[067]/i
+
+    # Passiontide and Advent for non-Cistercian
+    || $version !~ /cist/i && $dayname[0] =~ /Adv|Quad5/i
+
+    # All Duplex (MM. maj.) Saints (except Patr. S. Joseph)
+    || ($winner =~ /sancti/i && $rank >= $ranklimit && $seasonalflag)
+    || ($winner =~ /tempora/i && $duplex > 2 && $seasonalflag)
+
+    # Octaves
+    || ($winner{Rank} =~ /octav/i && $winner{Rank} !~ /post Octavam/i)
+    || ($octavcount || $commemoratio{Rank} =~ /octav/i)
+
+    # Cistercian: minor Feasts of Apostles
+    || $version =~ /cist/i && $commune =~ /C1a?$/i;
 
   if ($commemoratio && $seasonalflag) {
     my @r = split(';;', $commemoratio{Rank});
 
-    if ($r[2] >= 3 || $commemoratio{Rank} =~ /in.*Octav/i || checkcommemoratio(\%commemoratio) =~ /octav/i) {
-      return 0;
-    }
+    return 0
+      if $r[2] >= $ranklimit
+      || $commemoratio{Rank} =~ /in.*Octav/i
+      || checkcommemoratio(\%commemoratio) =~ /octav/i;
 
     if (@commemoentries || @ccommemoentries) {
       my @cccentries = (@commemoentries, @ccommemoentries);
@@ -663,17 +699,12 @@ sub checksuffragium {
         my %c = %{officestring('Latin', $commemo, 0)};
         my @cr = split(";;", $c{Rank});
 
-        if ($cr[2] >= 3 || $c{Rank} =~ /in.*Octav/i || checkcommemoratio(\%c) =~ /octav/i) {
-          return 0;
-        }
+        return 0 if $cr[2] >= $ranklimit || $c{Rank} =~ /in.*Octav/i || checkcommemoratio(\%c) =~ /octav/i;
+
       }
     }
   }
-  if ($commemoratio{Rank} =~ /octav/i) { return 0; }
-  if ($octavcount) { return 0; }
 
-  if ($winner =~ /C12/) { return 1; }
-  if ($duplex > 2 && $seasonalflag) { return 0; }    # && $version !~ /trident/i ??? #all Duplex in the Tempora folders
   return 1;
 }
 

@@ -1364,135 +1364,230 @@ Amen.
 V. Mane nobíscum, Dómine, allelúja.
 R. Quóniam advesperáscit, allelúja.
 
-[Suffragium1]
+[Suffragium Divino]
 Ant. Beáta Dei Génitrix Virgo María, Sanctíque omnes intercédant pro nobis ad Dóminum.
 _
 V. Mirificávit Dóminus Sanctos suos.
 R. Et exaudívit eos clamántes ad se.
 _
 !Oratio
-!In hac oratione, ad litteram N. exprimitur nomen Titularis propriæ ecclesiæ, dummodo Titulus non sit Persona divina vel Mysterium Domini, aut de ipso ratione Festi factum non fuerit Officium vel Commemoratio, aut illius nomen non sit in eadem Suffragii Oratione expressum; ac nomina sanctorum Angelorum et sancti Joannis Baptistæ, si Titulares fuerint, præponuntur nomini sancti Joseph. In hisce autem omnibus casibus omittuntur verba “atque beáto N.”.
-v. Orémus.
+/:In hac oratione, ad litteram N. exprimitur nomen Titularis propriæ ecclesiæ, dummodo Titulus non sit Persona divina vel Mysterium Domini, aut de ipso ratione Festi factum non fuerit Officium vel Commemoratio, aut illius nomen non sit in eadem Suffragii Oratione expressum; ac nomina sanctorum Angelorum et sancti Joannis Baptistæ, si Titulares fuerint, præponuntur nomini sancti Joseph. In hisce autem omnibus casibus omittuntur verba «atque beáto N.».:/
+$Oremus  
 v. A cunctis nos, quǽsumus, Dómine, mentis et córporis defénde perículis: et, intercedénte beáta et gloriósa semper Vírgine Dei Genitríce María, cum beáto Joseph, beátis Apóstolis tuis Petro et Paulo, atque beáto~
 r. N. et ómnibus Sanctis, salútem nobis tríbue benígnus et pacem; ut, destrúctis adversitátibus et erróribus univérsis, Ecclésia tua secúra tibi sérviat libertáte.
 $Per eumdem
 
-[Suffragium11]
+[Suffragium Divino1]
 Ant. Sancti omnes intercédant pro nobis ad Dóminum.
 _
 V. Mirificávit Dóminus Sanctos suos.
 R. Et exaudívit eos clamántes ad se.
 _
 !Oratio
-!In hac oratione, ad litteram N. exprimitur nomen Titularis propriæ ecclesiæ, dummodo Titulus non sit Persona divina vel Mysterium Domini, aut de ipso ratione Festi factum non fuerit Officium vel Commemoratio, aut illius nomen non sit in eadem Suffragii Oratione expressum; ac nomina sanctorum Angelorum et sancti Joannis Baptistæ, si Titulares fuerint, præponuntur nomini sancti Joseph. In hisce autem omnibus casibus et omittuntur verba “atque beáto N.”. Si Titularis ante omnes fuerit nominandus, particula “cum” omittitur ante nomen sanctorum Petri et Pauli ac præponitur nomini Sancti Joseph.
-v. Orémus.
+/:In hac oratione, ad litteram N. exprimitur nomen Titularis propriæ ecclesiæ, dummodo Titulus non sit Persona divina vel Mysterium Domini, aut de ipso ratione Festi factum non fuerit Officium vel Commemoratio, aut illius nomen non sit in eadem Suffragii Oratione expressum; ac nomina sanctorum Angelorum et sancti Joannis Baptistæ, si Titulares fuerint, præponuntur nomini sancti Joseph. In hisce autem omnibus casibus et omittuntur verba «atque beáto N.». Si Titularis ante omnes fuerit nominandus, particula «cum» omittitur ante nomen sanctorum Petri et Pauli ac præponitur nomini Sancti Joseph.:/
+$Oremus  
 v. A cunctis nos, quǽsumus, Dómine, mentis et córporis defénde perículis: et, intercedénte beáto Joseph, cum beátis Apóstolis tuis Petro et Paulo, atque beáto~
 r. N. et ómnibus Sanctis, salútem nobis tríbue benígnus et pacem; ut, destrúctis adversitátibus et erróribus univérsis, Ecclésia tua secúra tibi sérviat libertáte.
 $Per eumdem
 
-[SuffragiumTridentinumFeriale]
+[Suffragium Feriale]
 !De cruce
 Ant. Per signum Crucis de inimícis nostris líbera nos, Deus noster.
 _
 V. Omnis terra adóret te, et psallat tibi.
 R. Psalmum dicat nómini tuo, Dómine.
 _
-!Oratio
-v. Orémus.
+$Oremus
 v. Perpétua nos, quǽsumus, Dómine, pace custódi, quos per lignum sanctæ Crucis redímere dignátus es.
 
-[Suffragium2]
+[Suffragium Paschale]
 Ant. Crucifíxus surréxit a mórtuis, et redémit nos, allelúja, allelúja.
 _
 V. Dícite in natiónibus, allelúja.
 R. Quia Dóminus regnávit a ligno, allelúja.
 _
-!Oratio
-v. Orémus.
+$Oremus
 v. Deus qui pro nobis Fílium tuum Crucis patíbulum subíre voluísti, ut inimíci a nobis expélleres potestátem: concéde nobis fámulis tuis; ut resurrectiónis grátiam consequámur.
 $Per eumdem
 
-[Suffragium2v]
+[Suffragium PaschaleV]
 Ant. Crucem sanctam súbiit, qui inférnum confrégit; accínctus est poténtia, surréxit die tértia, allelúja.
-@:Suffragium2:2-9
+@:Suffragium Paschale:2-9
 
-[Suffragium3]
+[Suffragium BMV]
 !De Beata Maria
 Ant. Sancta María succúrre míseris, juva pusillánimes, réfove flébiles, ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu: séntiant omnes tuum juvámen, quicúmque célebrant tuam sanctam commemoratiónem.
 _
+(deinde dicuntur semper)
 V. Ora pro nobis sancta Dei Génitrix.
 R. Ut digni efficiámur promissiónibus Christi.
 _
-!Oratio
-v. Orémus.
+$Oremus
 v. Concéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére, et gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia.
+(sed tempore post partum loco horum versuum dicuntur)
+@Psalterium/Mariaant:Nativiti:s/.*V\./V\./s
 
-[Suffragium3Epi]
+[Suffragium BMV] (rubrica cisterciensis)
 !De Beata Maria
-Ant. Sancta María succúrre míseris, juva pusillánimes, réfove flébiles, ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu: séntiant omnes tuum juvámen, quicúmque célebrant tuam sanctam commemoratiónem.
+Ant. Sancta Dei Génitrix, Virgo semper María, intercéde pro nobis ad Dóminum Deum nostrum. (Allelúja, allelúja.)
 _
-V. Post partum Virgo invioláta permansísti.
-R. Dei Génitrix intercéde pro nobis.
-_
-!Oratio
-v. Orémus.
-v. Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fecúnda, humáno géneri prǽmia præstitísti: tríbue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum:
+@Psalterium/Mariaant:Postpentecost: s/.*V\./V./s s/(Per|Through).*$/\n/
+(sed tempore post Epiphaniam aut Septuagesimæ aut Quadragesimæ aut Passionis dicitur)
+@Psalterium/Mariaant:Quadragesimae: s/.*V\./V./s  s/(Per|Through).*$//
+(sed Adventus dicitur) 
+@Psalterium/Mariaant:Advent: s/.*V\./V./s s/(Per|Through).*$//
+(sed Nativitatis aut Epiphaniæ aut post partum dicitur)
+@Psalterium/Mariaant:Nativiti: s/.*V\./V./s s/Amen.*$//
+(sed Paschali dicitur)
+@Psalterium/Mariaant:Paschalis: s/.*V\./V./s s/(Per|Through).*$//
 
-[Suffragium41]
+[Suffragium DeJosephV]
 !De sancto Joseph
-Ant. Ecce fidélis servus et prudens, quem constítuit Dóminus super famíliam suam.
+Ant. Ecce fidélis servus et prudens, quem constítuit Dóminus super famíliam suam. (Allelúja.)
 _
-V. Glória et divítiæ in domo ejus.
-R. Et justítia ejus manet in sǽculum sǽculi.
+V. Glória et divítiæ in domo ejus. (Allelúja.)
+R. Et justítia ejus manet in sǽculum sǽculi. (Allelúja.)
 _
-!Oratio
-v. Orémus.
+$Oremus  
 v. Deus, qui ineffábili providéntia beátum Joseph sanctíssimæ Genitrícis tuæ sponsum elígere dignátus es: præsta quǽsumus; ut quem protectórem venerámur in terris, intercessórem habére mereámur in cælis.
 
-[Suffragium42]
+[Suffragium DeJoseph]
 !De sancto Joseph
-Ant. Ipse Jesus erat incípiens quasi annórum trigínta ut putabátur fílius Joseph.
+Ant. Ipse Jesus erat incípiens quasi annórum trigínta ut putabátur fílius Joseph. (Allelúja.)
 _
-V. Os justi meditábitur sapiéntiam.
-R. Et lingua ejus loquétur judícium.
+V. Os justi meditábitur sapiéntiam. (Allelúja.)
+R. Et lingua ejus loquétur judícium. (Allelúja.)
+(sed commune C4 aut commune C5 loco hujus versus dicitur)
+@:Suffragium DeJosephV:4-5
 _
-!Oratio
-v. Orémus
-v. Deus, qui ineffábili providéntia beátum Joseph sanctíssimæ Genitrícis tuæ sponsum elígere dignátus es: præsta quǽsumus; ut quem protectórem venerámur in terris, intercessórem habére mereámur in cælis.
+@:Suffragium DeJosephV:7-8
 
-[Suffragium51]
+[Suffragium DeApostolisV]
 !De Apostolis
 Ant. Petrus Apóstolus, et Paulus Doctor Géntium, ipsi nos docuérunt legem tuam Dómine.
 _
 V. Constítues eos príncipes super omnem terram.
 R. Mémores erunt nóminis tui Dómine.
 _
-!Oratio
-v. Orémus.
+$Oremus  
 v. Deus, cujus déxtera beátum Petrum ambulántem in flúctibus, ne mergerétur, eréxit, et coapóstolum ejus Paulum tértio naufragántem de profúndo pélagi liberávit: exáudi nos propítius, et concéde; ut ambórum méritis, æternitátis glóriam consequámur.
 
-[Suffragium52]
+[Suffragium DeApostolis]
 !De Apostolis
 Ant. Gloriósi príncipes terræ, quómodo in vita sua dilexérunt se, ita et in morte non sunt separáti.
 _
 V. In omnem terram exívit sonus eórum.
 R. Et in fines orbis terræ verba eórum.
 _
-!Oratio
-v. Orémus.
-v. Deus, cujus déxtera beátum Petrum ambulántem in flúctibus, ne mergerétur, eréxit, et coapóstolum ejus Paulum tértio naufragántem de profúndo pélagi liberávit: exáudi nos propítius, et concéde; ut ambórum méritis, æternitátis glóriam consequámur.
+@:Suffragium DeApostolisV:7-8
 
-[Suffragium6]
+[Suffragium DeSSPNV]
+!De SS. Benedicto, Bernardo et Roberto
+Ant. Sancti per fidem vicérunt regna, operáti sunt justítiam, adépti sunt, repromissiónes. (Allelúja, allelúja.)
+_
+V. Beáti quos elegísti, Dómine. (Allelúja.)
+R. Habitábunt inátriis tuis. (Allelúja.)
+_
+$Oremus  
+v. Præsta, quǽsumus, omnípotens Deus: * ut qui sanctórum tuórum Benedícti, Bernárdi et Robérti commemoratiónem cólimus, ↊ eórum étiam virtútes imitémur.
+
+[Suffragium DeSSPN]
+!De SS. Benedicto, Bernardo et Roberto
+Ant. Córpora Sanctórum in pace spúlta sunt, et vivent nómina eórum in ætérnum. (Allelúja, allelúja.)
+@:Suffragium DeSSPNV:3-8
+
+[Suffragium DePace]
 !De Pace
-Ant. Da pacem Dómine in diébus nostris, quia non est álius, qui pugnet pro nobis, nisi tu Deus noster.
+Ant. Da pacem Dómine in diébus nostris, quia non est álius, qui pugnet pro nobis, nisi tu Deus noster. (Allelúja.)
 _
-V. Fiat pax in virtúte tua.
-R. Et abundántia in túrribus tuis.
+V. Fiat pax in virtúte tua. (Allelúja.)
+R. Et abundántia in túrribus tuis. (Allelúja.)
 _
-!Oratio
-v. Orémus
+$Oremus
 v. Deus, a quo sancta desidéria, recta consília, et justa sunt ópera: da servis tuis illam, quam mundus dare non potest, pacem; ut et corda nostra mandátis tuis dédita, et hóstium subláta formídine, témpora sint tua protectióne tranquílla.
 $Per Dominum
+
+[Suffragium] (rubrica divino)
+@:Suffragium Divino
+(sed commune C1[012] dicitur)
+@:Suffragium Divino1
+(sed tempore paschali)
+@:Suffragium Paschale
+
+[Suffragium Laudes] (rubrica tridentina)
+(si officio feriali dicuntur)
+@:Suffragium Feriale
+_
+(numquam omittitur)
+(atque dicuntur semper)
+@:Suffragium BMV
+_
+(attamen commune C10 aut tempore paschali omittuntur)
+(atque dicuntur semper)
+@:Suffragium DeJoseph
+_
+(sed rubrica 1570 aut rubrica 1617 omittuntur)
+@:Suffragium DeApostolis
+_
+@:Suffragium DePatrono
+_
+@:Suffragium DePace
+(atque tempore paschali loco horum versuum dicitur)
+@:Suffragium Paschale
+
+[Suffragium Laudes] (rubrica cisterciensis)
+@:Suffragium BMV
+(deinde rubrica 1951 aut feria 4 dicuntur)
+_
+@:Suffragium DeJoseph
+(deinde rubrica 1951 aut feria 3 dicuntur)
+_
+@:Suffragium DeSSPN
+(deinde rubrica 1951 aut feria 7 dicuntur)
+_
+@:Suffragium DePace
+
+[Suffragium Vespera] (rubrica tridentina)
+(si officio feriali dicuntur)
+@:Suffragium Feriale
+_
+(numquam omittitur)
+(atque dicuntur semper)
+@:Suffragium BMV
+_
+(attamen commune C10 aut tempore paschali omittuntur)
+(atque dicuntur semper)
+@:Suffragium DeJosephV
+_
+(sed rubrica 1570 aut rubrica 1617 omittuntur)
+@:Suffragium DeApostolisV
+_
+@:Suffragium DePatrono
+_
+@:Suffragium DePace
+(atque tempore paschali loco horum versuum dicitur)
+@:Suffragium PaschaleV
+
+[Suffragium Vespera] (rubrica cisterciensis)
+!De Beata Maria
+@Psalterium/Mariaant:Postpentecost: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(Per|Through).*$/\n/s
+(sed tempore post Epiphaniam aut Septuagesimæ aut Quadragesimæ aut Passionis dicitur)
+@Psalterium/Mariaant:Quadragesimae: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(Per|Through).*$/\n/s
+(sed Adventus dicitur) 
+@Psalterium/Mariaant:Advent: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(Per|Through).*$/\n/s
+(sed Nativitatis aut Epiphaniæ aut post partum dicitur)
+@Psalterium/Mariaant:Nativiti: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/Amen.*$/\n/s
+(sed Paschali dicitur)
+@Psalterium/Mariaant:Paschalis: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(Per|Through).*$/\n/s
+(deinde rubrica 1951 aut feria 3 dicuntur)
+_
+@:Suffragium DeJoseph
+(deinde rubrica 1951 aut feria 2 dicuntur)
+_
+@:Suffragium DeSSPN
+(deinde rubrica 1951 aut feria 6 dicuntur)
+_
+@:Suffragium DePace
 
 [Day0M Laudes]
 @:Day0 Laudes
@@ -1682,3 +1777,7 @@ R. Deum meum et Deum vestrum, allelúja.
 [Pent Versum 0]
 V. Emítte Spíritum tuum, et creabúntur, allelúja.
 R. Et renovábis fáciem terræ, allelúja.
+
+[Suffragium DePatrono]
+!De Patrono vel Titulo Ecclesiæ
+/:fiat com. consueata ante vel post Commemorationes prædictas, pro dignitate illius, et ultimo loco::/

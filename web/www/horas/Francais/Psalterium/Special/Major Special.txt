@@ -907,9 +907,6 @@ Amen.
 V. O Christ, en Votre résurrection, allelúia.
 R. Que les cieux et la terre se réjouissent, allelúia.
 
-[Pasch Vespera]
-@:Pasch Laudes
-
 [Hymnus Pasch Vespera]
 {:H-Adregias:}v. Au festin royal de l'Agneau,
 Convives revêtus de robes blanches,
@@ -956,118 +953,114 @@ Amen.
 V. Demeurez avec nous, Seigneur, allelúia.
 R. Car le soir tombe, allelúia.
 
-[Suffragium1]
+[Suffragium Divino]
 Ant. Que la bienheureuse Vierge Marie, Mère de Dieu, et tous les saints intercèdent pour nous auprès de Dieu.
 _
 V. Le Seigneur comblera Ses Saints.
 R. Et Il exauce ceux qui crient vers Lui.
 _
 !Oraison
-!Dans cette oraison à la lettre N. est dit le nom du saint titulaire de l'église si la titulature n'est pas une personne divine ou un des mystères du Seigneur et quand l'Office ou la commémoraison n'était pas du saint et quand le nom ne figure pas déjà dans l'oraison. Les noms des saints anges et de St Jean-Baptiste, s'ils sont les titulaires, se disent avant le nom de St Joseph. Dans tous ces cas, les mots « bienheureux N.» sont ommis.
+/:Dans cette oraison à la lettre N. est dit le nom du saint titulaire de l'église si la titulature n'est pas une personne divine ou un des mystères du Seigneur et quand l'Office ou la commémoraison n'était pas du saint et quand le nom ne figure pas déjà dans l'oraison. Les noms des saints anges et de St Jean-Baptiste, s'ils sont les titulaires, se disent avant le nom de St Joseph. Dans tous ces cas, les mots « bienheureux N.» sont ommis.:/
 $Oremus
 v. Nous Vous en prions, Seigneur : défendez-nous contre tous les dangers de l'âme et du corps ; et par l'intercession de la bienheureuse et glorieuse Marie, toujours Vierge, Mère de Dieu, du bienheureux Joseph, des bienheureux Apôtres Pierre et Paul, du bienheureux~
 r. N. et de tous les saints, accordez-nous, dans Votre bienveillance, le salut et la paix, afin que, une fois anéanties toutes les oppositions et les erreurs, Votre Eglise vous serve avec une liberté assurée.
 $Per eumdem
 
-[Suffragium11]
+[Suffragium Divino1]
 Ant. Que tous les Saints intercèdent pour nous auprès de Dieu.
 _
 V. Le Seigneur comblera Ses Saints.
 R. Et Il exauce ceux qui crient vers Lui.
 _
 !Oraison
-!Dans cette oraison à la lettre N. est dit le nom du saint titulaire de l'église si la titulature n'est pas une personne divine ou un des mystères du Seigneur et quand l'Office ou la commémoraison n'était pas du saint et quand le nom ne figure pas déjà dans l'oraison. Les noms des saints anges et de St Jean-Baptiste, s'ils sont les titulaires, se disent avant le nom de St Joseph. Dans tous ces cas, les mots « bienheureux N.» sont ommis.
+/:Dans cette oraison à la lettre N. est dit le nom du saint titulaire de l'église si la titulature n'est pas une personne divine ou un des mystères du Seigneur et quand l'Office ou la commémoraison n'était pas du saint et quand le nom ne figure pas déjà dans l'oraison. Les noms des saints anges et de St Jean-Baptiste, s'ils sont les titulaires, se disent avant le nom de St Joseph. Dans tous ces cas, les mots « bienheureux N.» sont ommis.:/
 $Oremus
 v. Nous Vous en prions, Seigneur : défendez-nous contre tous les dangers de l'âme et du corps ; et par l'intercession de la bienheureuse et glorieuse Marie, toujours Vierge, Mère de Dieu, du bienheureux Joseph, des bienheureux Apôtres Pierre et Paul, du bienheureux~
 r. N. et de tous les saints, accordez-nous, dans Votre bienveillance, le salut et la paix, afin que, une fois anéanties toutes les oppositions et les erreurs, Votre Eglise vous serve avec une liberté assurée.
 $Per eumdem
 
-[SuffragiumTridentinumFeriale]
+[Suffragium Feriale]
 !De cruce
 Ant. Par le signe de la Croix, délivrez-nous de nos ennemis, ô notre Dieu.
 _
 V. Que toute la terre Vous adore et chante Vos louanges.
 R. Qu'elle chante un chant à Votre Nom Seigneur.
 _
-!Oraison
 $Oremus
 v. Ô Seigneur, nous Vous en supplions, gardez dans la paix ceux que Vous avez daigné sauver par le bois de la Sainte Croix.
 
-[Suffragium2]
+[Suffragium Paschale]
 Ant. Celui qui fut crucifié est ressucité et nous a sauvé, alleluia, alleluia.
 _
 V. Dites parmi les nations, alleluia.
 R. Que le Seigneur a régné par le bois, alleluia.
 _
-!Oraison
 $Oremus
 v. Ô Dieu, qui avez voulu que Votre Fils subisse, pour nous, le tourment de la Croix afin de nous soustraire au pouvoir de l'ennemi : accordez à Vos serviteurs que nous sommes, d'obtenir la grâce de la resurrection.
 $Per eumdem
 
-[Suffragium3]
+[Suffragium BMV]
 !Commémoraison de la Sainte Vierge
 Ant. Sainte Marie, secourez les malheureux, venez en aide aux faibles, consolez les affligés, priez pour tout le peuple, intervenez en faveur du clergé, intercédez pour les femmes consacrées par vœu : qu’ils éprouvent tous votre assistance, ceux qui célèbrent votre sainte fête.
 _
+(deinde dicuntur semper)
 V. Priez pour nous, sainte Mère de Dieu.
 R. Afin que nous devenions dignes des promesse de Jésus-Christ.
 _
-!Oraison
 $Oremus
 v. Nous Vous supplions, ô Seigneur Dieu, d'accorder à nous, Vos serviteurs, la grâce de jouir de la santé de l'âme et du corps ; et, par la glorieuse intercession de la Bienheureuse Marie toujours Vierge, d'être délivrés des tritesses du temps présent et de goûter les joies éternelles.
+(sed tempore post partum loco horum versuum dicuntur)
+@Psalterium/Mariaant:Nativiti:s/.*V\./V\./s
 
-[Suffragium41]
+
+[Suffragium DeJosephV]
 !Commémoraison de Saint Joseph
 Ant. Voici le serviteur fidèle et prudent, que son maître a établi sur sa famille.
 _
 V. La gloire et les richesses sont dans sa maison.
 R. Et sa justice demeure dans tous les siècles.
 _
-!Oratio
-v. Prions.
+$Oremus
 v. Dieu, qui dans votre ineffable providence avez daigné choisir le bienheureux Joseph pour être l’époux de votre très sainte Mère : faites, nous vous en prions ; que le vénérant comme protecteur sur cette terre, nous méritions de l’avoir pour intercesseur dans le ciel..
 
-[Suffragium42]
+[Suffragium DeJoseph]
 !De sancto Joseph
 Ant. Quand il commença, Jésus avait environ trente ans ; il était, à ce que l’on pensait, fils de Joseph.
 _
 V. La bouche du juste méditera la sagesse.
 R. Et sa langue proférera l'équité.
 _
-!Oratio
-v. Prions
+$Oremus
 v. Dieu, qui dans votre ineffable providence avez daigné choisir le bienheureux Joseph pour être l’époux de votre très sainte Mère : faites, nous vous en prions ; que le vénérant comme protecteur sur cette terre, nous méritions de l’avoir pour intercesseur dans le ciel.
 
-[Suffragium51]
+[Suffragium DeApostolisV]
 !De Apostolis
 Ant. L’Apôtre saint Pierre, * et saint Paul, le Docteur des Nations, nous ont instruits de votre loi, Seigneur.
 _
 V. Vous les établirez princes sur toute la terre.
 R. Ils se souviendront de votre nom, Seigneur.
 _
-!Oratio
-v. Prions.
+$Oremus
 v. Dieu, votre la droite soutint le bienheureux Pierre sur les flots, pour qu’il ne fût pas submergé, et retira du fond de la mer, Paul, son collègue dans l’apostolat, lors de son troisième naufrage : exaucez-nous dans votre miséricorde, et accordez-nous de parvenir, aidés des mérites de ces deux Saints, à la gloire de l’éternité.
 
-[Suffragium52]
+[Suffragium DeApostolis]
 !De Apostolis
 Ant. Comme ces glorieux princes de la terre * se sont aimés durant leur vie, de même dans la mort ils n’ont pas été séparés.
 _
 V. Par toute la terre s’en est allée leur voix.
 R. Et jusqu’aux confins du monde, leur parole.
 _
-!Oratio
-v. Prions.
+$Oremus
 v. Dieu, votre la droite soutint le bienheureux Pierre sur les flots, pour qu’il ne fût pas submergé, et retira du fond de la mer, Paul, son collègue dans l’apostolat, lors de son troisième naufrage : exaucez-nous dans votre miséricorde, et accordez-nous de parvenir, aidés des mérites de ces deux Saints, à la gloire de l’éternité.
 
-[Suffragium6]
+[Suffragium DePace]
 !De Pace
 Ant. Donnez la paix, Seigneur, à nos jours, car il n'y a personne d'autre que Vous, qui combattez pour nous, sinon Vous notre Dieu.
 _
 V. Que la paix soit dans tes forteresses.
 R. Et l'abondance dans tes tours.
 _
-!Oratio
-v. Prions
+$Oremus
 v. O Dieu, qui êtes la source des saints désirs, des bons desseins, et des actions justes, accordez à vos serviteurs cette paix que le monde ne peut donner, afin que nos cœurs s’attachent à vos commandements, et que, délivrés de la crainte des ennemis, nous ayons des jours tranquilles sous votre protection.
 $Per Dominum
 

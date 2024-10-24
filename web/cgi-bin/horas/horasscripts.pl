@@ -97,7 +97,7 @@ sub Dominus_vobiscum2 : ScriptFunc {    #* officium defunctorum
 sub mLitany : ScriptFunc {
   my $lang = shift;
   if (preces('Dominicales')) { return ''; }
-  return "\$Kyrie\n\$Pater secreto";
+  return "\$Kyrie\n\$pater secreto";
 }
 
 #*** versiculum_ante_laudes($lang)
@@ -274,7 +274,8 @@ sub psalm : ScriptFunc {
       $lnum =~ s/(\d)[a-z]/$1/;      # Remove sub-verse letter if inline numbers hidden
       $line =~ s/\(\d+[a-z]?\)//;    # Remove inline verse numbers
     }
-    $line =~ s/†// if ($noflexa);
+    $line =~ s/†// if ($noflexa);                   # Remove flexa if option is active
+    $line =~ s/\s\+\s/ / if $version =~ /cist/i;    # no sign-of the cross in Cistercian
     my $rest;
 
     if ($line =~ /(.*?)(\(.*?\))(.*)/) {
@@ -355,6 +356,12 @@ sub special : ScriptFunc {
 
   if (exists($w{$name})) {
     $r = "!Special $name\n_\n" . chompd($w{$name}) . "\n";
+  } elsif ($name =~ /^\#/) {
+    my @scriptum = ();
+    push(@scriptum, $name);
+
+    @scriptum = specials(\@scriptum, $lang, 1);
+    $r = join("\n", @scriptum);
   } else {
     $r = "$name is missing";
   }
