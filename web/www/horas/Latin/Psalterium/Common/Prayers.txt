@@ -344,7 +344,7 @@ R. Amen.
 (rubrica cisterciensis) $Adjutorium nostrum
 @:Jube domne
 @:benedictio Prima_
-(rubrica cisterciensis) @:rubrica Regula ante
+(rubrica cisterciensis) $rubrica Regula ante
 
 [benedictio Prima2]
 Benedictio. Dóminus nos benedícat, + et ab omni malo deféndat, et ad vitam perdúcat ætérnam. Et fidélium ánimæ per misericórdiam Dei requiéscant in pace.

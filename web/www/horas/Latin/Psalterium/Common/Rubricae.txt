@@ -101,9 +101,9 @@
 /:Postea dicitur Completorium B. Mariæ. Quo finito per totum annum, excepta Feria v. et vj. majoris hebdomadæ, cantatur solemniter:/
 
 [sine Oremus]
-/:Et sine Oremus.:/
+/:Et sine:/ Orémus /:::/
 (sed rubrica altovadensis)
-/:Et sine Oremus prosequitur Hebdomadarius.:/
+/:Et sine:/ Orémus /:prosequitur Hebdomadarius.:/
 
 [Conclusio cisterciensis]
 /:Et quandocumque terminata Hora discendum est a Choro (nisi quando immediate subsequitur Missa aut cum Officio diei Officium Defunctorum, vel Sepultura, vel Processio, aut Litaniæ, ut in Rogationibus, etc.) dicitur::/

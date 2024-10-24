@@ -530,7 +530,7 @@ sub antetpsalm {
       unless ($duplexf && $version !~ /cist/i) {
         $antp =~ s/\s*\*.*//;
         $antp =~ s/\,$/./;
-        if ($version =~ /cist/i) { $antp .= ' ' . prayer("rubrica Antiphona", $lang); }
+        if ($version =~ /cist/i) { $antp .= ' ' . rubric('Antiphona', $lang); }
       }
       push(@s, "Ant. $antp");
       $lastant = ($ant =~ s/\* //r);
