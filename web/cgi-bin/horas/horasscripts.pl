@@ -413,7 +413,8 @@ sub psalm : ScriptFunc {
     $t .= prayer('Requiem', $lang);
   } elsif ($num != 210 && !$nogloria) {
     if ($gabc && !triduum_gloria_omitted()) {
-      $fname = "$psalmfolder/gloria-$ftone.gabc";
+      my $gloria = $commune !~ /C9/ ? 'gloria' : 'requiem';
+      $fname = "$psalmfolder/$gloria-$ftone.gabc";
       $fname =~ s/,/-/g;    # file name with dash not comma
       $fname = checkfile($lang, $fname);
       my (@lines) = do_read($fname);
