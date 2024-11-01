@@ -151,9 +151,9 @@ sub oratio {
   if ($rule !~ /Limit.*?Oratio/i) {
 
     # no dominus vobiscum after Te decet
-    if ($version !~ /Monastic/ || $hora ne 'Matutinum' || $rule !~ /12 lectiones/) {
+    if ($version !~ /^Monastic/ || $hora ne 'Matutinum' || $rule !~ /12 lectiones/) {
       if (
-        $version =~ /Monastic/
+        $version =~ /^Monastic/
         || ( $version =~ /Ordo Praedicatorum/
           && ($rank < 3 || $dayname[1] =~ /Vigil/)
           && $winner !~ /12-24|Pasc|01-0[2-5]/)

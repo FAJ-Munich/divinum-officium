@@ -185,8 +185,7 @@ v. Kýrie, eléison. Christe, eléison. Kýrie, eléison.
 {name:AllelujaAnt;annotation:6.f;%%(c4) AL(f)le(g)lú(g_0h)ja,(f_') (,) * al(g)le(f)lú(fe)ja,(d') al(f)le(g')lú(g)ja.(f.) (::)}
 
 [Aportainferi]
-V. A porta ínferi.
-R. Erue, Dómine, ánimas eórum.
+{initial-style:0;%%(c3) V/. A(h) por(h)ta(h) ín(h)fe(f)ri.(f.) (::) R/. E(h)ru(h)e,(h) Dó(h)mi(h)ne,(h) á(h)ni(h)mas(h) e(h)ó(h)rum.(f.) (::)}
 
 [Amen]
 {initial-style:0;%%(c3) R/. A(g.)men.(h.) (::)}
@@ -225,8 +224,7 @@ R.br. Commemorátio ómnium fratrum, familiárum Órdinis nostri, atque benefact
 /:Deinde dicit Lector::/ Commemorátio ómnium fratrum, familiárium et benefactórum defunctórum Ordinis nostri.
 
 [Requiescant]
-V. Requiéscant in pace.
-R. Amen.
+{initial-style:0;%%(c3) V/. Re(h)qui(h)és(h)cant(h) in(h) pa(h)ce.(f.) (::) R/. A(h)men.(f.) (::)}
 
 [deus veniae_]
 v. Deus véniæ largítor et humánæ salútis amátor: quǽsumus cleméntiam tuam: ut nostræ congregatiónis fratres, propínquos et benefactóres, qui ex hoc sǽculo transiérunt, beáta María semper vírgine intercedénte cum ómnibus sanctis tuis ad perpétuæ beatitúdinis consórtium perveníre concédas.
