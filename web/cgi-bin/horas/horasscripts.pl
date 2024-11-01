@@ -325,7 +325,7 @@ sub psalm : ScriptFunc {
 
   foreach my $line (@lines) {
 
-    if ($lang =~ /gabc/i && !$gabc && $line =~ /^(name:|\([cf][1-4]\))/) {
+    if ($lang =~ /gabc/i && !$gabc && $line =~ /^(name:|\([cf]b?[1-4]\))/) {
       $gabc = 1;
       $line = "{" . $line;    # append brace, s.t. gabc is recognized by webdia.pl
     }
@@ -434,7 +434,8 @@ sub Divinum_auxilium : ScriptFunc {
   if ($lang =~ /gabc/i) { return prayer("Divinum auxilium", $lang); }
   my @text = split(/\n/, prayer("Divinum auxilium", $lang));
   $text[-2] = "V. $text[-2]";
-  $text[-1] =~ s/.*\. // unless ($version =~ /Monastic/i);    # contract resp. "Et cum fratribus… " to "Amen." for Roman
+  $text[-1] =~ s/.*\. // unless ($version =~ /Monastic/i && $version !~ /Bavariae/i);
+  # contract resp. "Et cum fratribus… " to "Amen." for Roman
   $text[-1] = "R. $text[-1]";
   join("\n", @text);
 }
