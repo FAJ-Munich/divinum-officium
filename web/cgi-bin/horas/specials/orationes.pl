@@ -197,7 +197,7 @@ sub oratio {
       $w =~ s/\$(Per|Qui) .*?\n//;
     }
   }
-  $w =~ s/^(?:v. )?/v. /;
+  $w =~ s/^(?:v. )?/v. / unless $w =~ /^[\$\&\#]/;
   push(@s, $w);
   if ($rule =~ /omit .*? commemoratio/i) { return; }
 
@@ -385,6 +385,7 @@ sub oratio {
       my @centries = $cv == 1 ? @ccommemoentries : @commemoentries;
 
       foreach my $commemo (@centries) {
+        next unless $commemo;
         setbuild2("Comm-$cv: $commemo");
 
         my $key = 0;    # let's start with lowest rank

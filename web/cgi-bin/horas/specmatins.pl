@@ -1118,8 +1118,8 @@ sub lectio : ScriptFunc {
   #handle verse numbers for passages
   my $item = translate('Lectio', $lang);
   $item .= " %s" unless ($item =~ /%s/);
-  $w = "_\n" . setfont($largefont, sprintf($item, $num)) . "\n$w";
-  my @w = split("\n", $w);
+  $w = ($rule !~ /Limit.*?Benedictio/i ? "_\n" : '') . setfont($largefont, sprintf($item, $num)) . "\n$w";
+  my @w = split("\n+", $w);
   $w = "";
 
   my $initial = $nonumbers;
@@ -1127,11 +1127,11 @@ sub lectio : ScriptFunc {
   foreach (@w) {
     if (/^([0-9]+)\s+(.*)/s) {
       my $rest = $2;
-      my $num = "\n" . setfont($smallfont, $1);
+      my $num = setfont($smallfont, $1);
       $rest =~ s/^./\u$&/ unless ($nonumbers);
 
       if ($initial) {
-        $num = "\nv. ";
+        $num = "v. ";
         $initial = 0;
       } elsif ($nonumbers) {
         $num = '';
@@ -1139,9 +1139,9 @@ sub lectio : ScriptFunc {
       $_ = "$num $rest";
     } else {
       $initial = 1 if (/^!/ && $nonumbers);
-      $_ = "\n$_";
+      $_ = "$_";
     }
-    $w .= "$_";
+    $w .= "$_\n";
   }
 
   #handle parentheses in non Latin
