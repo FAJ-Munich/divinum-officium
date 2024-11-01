@@ -15,7 +15,7 @@ Empieza la Epístola del Apóstol San Pablo a Timoteo
 1 Pablo, apóstol de Cristo Jesús por el mandato de Dios nuestro Salvador y de Cristo Jesús, nuestra esperanza, 
 2 a Timoteo, verdadero hijo en la fe: gracia, misericordia, paz de parte de Dios Padre y de Cristo Jesús, nuestro Señor. 
 3 Te rogué, al partir para Macedonia, que te quedaras en Efeso, para que requirieses a algunos que no enseñasen doctrinas extrañas, 
-4 ni se ocupasen en fábulas y genealogías inacabables, más a propósito para engendrar disputas que para el plan de salud de Dios, mediante la fe. 
+4 ni se ocupasen en fábulas y genealogías inacabables, más a propósito para engendrar disputas que para el plan de salud de Dios, mediante la fe.
 
 [Responsory1]
 @Tempora/Epi2-0:Responsory1
@@ -28,7 +28,7 @@ Empieza la Epístola del Apóstol San Pablo a Timoteo
 8 Pues sabemos que la Ley es buena para quien use de ella convenientemente, 
 9 teniendo en cuenta que la Ley no es para los justos, sino para los inicuos, para los rebeldes, para los impíos y pecadores, para los que carecen de religión y piedad, para los parricidas y matricidas, para los homicidas, 
 10 para los prostituios y sodomitas, ladrones de esclavos, embusteros, perjuros y si algún otro hay que se oponga a la sana doctrina 
-11 conforme al Evangelio glorioso del bienaventurado Dios, que me ha sido encomendado. 
+11 conforme al Evangelio glorioso del bienaventurado Dios, que me ha sido encomendado.
 
 [Responsory2]
 @Tempora/Epi2-0:Responsory2
@@ -39,7 +39,7 @@ Empieza la Epístola del Apóstol San Pablo a Timoteo
 13 a mí, que primero fui blasfemo y perseguidor violento, mas fui recibido a misericordia porque lo hacía por ignorancia en mi incredulidad; 
 14 y sobreabundó la gracia de nuestro Señor con la fe y la caridad en Cristo Jesús. 
 15 Verdadero es el dicho y digno de ser por todos recibido, que Cristo Jesús vino al mundo para salvar a los pecadores, de los cuales yo soy el primero. 
-16 Mas por esto conseguí la misericordia, para que en mí primeramente mostrase Jesucristo toda su longanimidad y sirviera de ejemplo a los que habían de creer en Él para la vida eterna. 
+16 Mas por esto conseguí la misericordia, para que en mí primeramente mostrase Jesucristo toda su longanimidad y sirviera de ejemplo a los que habían de creer en Él para la vida eterna.
 
 [Responsory3]
 @Tempora/Epi2-0:Responsory3

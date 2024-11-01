@@ -1,5 +1,3 @@
-@Commune/C1
-
 [AntMatutinumM]
 Declare his glory among the Gentiles: * his wonders among all people. ;;95
 His right hand hath wrought for him salvation, * and his arm is holy, alleluia;;97

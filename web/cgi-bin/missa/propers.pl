@@ -212,7 +212,7 @@ sub oratio {
   my $sub_unica_conc =
        $commemoratio{Rule} =~ /Sub unica conclusione in commemoratione/i
     || $winner{Rule} =~ /Sub unica concl(usione)?\s*$/mi
-    || world_mission_sunday();
+    || (world_mission_sunday() && $version !~ /1954/);
 
   if ($sub_unica_conc) {
     if ($version !~ /196/) {
@@ -246,7 +246,12 @@ sub oratio {
     $c = replaceNpb($c, $pope, $lang, 'p', 'um') if $coron =~ /Coronatio/i;
     $retvalue .= "_\n\$Papa\n$c";
   }
-  return resolve_refs($retvalue, $lang) if $rule =~ /omit .*? commemoratio/i || ($version =~ /196/ && $solemn);
+
+  if ($rule =~ /omit .*? commemoratio/i
+    || ($version =~ /196/ && $solemn && !($winner =~ /Sancti/ && $tempora{Rank} =~ /Dominica/i)))
+  {
+    return resolve_refs($retvalue, $lang);
+  }
   $w = '';
   our $oremusflag = "_\n" . prayer('Oremus', $lang);
   $oremusflag = '' if $type =~ /Secreta/i || $sub_unica_conc;
@@ -385,6 +390,7 @@ sub setcc {
     $key = 30 + (8 - $1);
   } elsif ($s{Rank} =~ /;;1/ || $code >= 10) {
     $key = 80;
+    $key = 99 if world_mission_sunday();
   }    #Simplex=80;
   if ($s{Rule} =~ /Comkey=([0-9]+)/i) { $key = $1; }    #oct day Epi Cor = 20, simpl=70
 
@@ -1148,7 +1154,9 @@ sub placeattibi {
 
 sub Communio_Populi : ScriptFunc {
   my $lang = shift;
-  return "<A HREF=\"mpopup.pl?popup=Communio&rubrics=$rubrics&lang1=$lang1&lang2=$lang2\" TARGET=_NEW>Communio</A>\n";
+  return $officium =~ /Emissa/i
+    ? ""
+    : "<A HREF=\"mpopup.pl?popup=Communio&rubrics=$rubrics&lang1=$lang1&lang2=$lang2\" TARGET=\"_NEW\">Communio</A>\n";
 }
 
 sub Ultimaev : ScriptFunc {

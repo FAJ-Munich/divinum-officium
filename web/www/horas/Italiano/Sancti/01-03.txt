@@ -1,22 +1,8 @@
 [Rank]
 In Octava S. Joannis;;Simplex;;1.1;;vide Sancti/12-27
 
-[Rank] (rubrica 1960)
+[Rank] (rubrica 196 aut rubrica 1955)
 Die Tertia Januarii;;Feria;;1.2;;vide Sancti/01-01
-
-[Rank] (rubrica tridentina)
-In Octava S. Joannis;;Duplex;;3;;ex Sancti/12-27
-
-[Rule]
-vide Sancti/12-27;
-Feria Te Deum
-Comkey=70
-9 lectiones
-
-[Capitulum Laudes] (rubrica divino aut rubrica monastica)
-!Sir 15:1-2
-v. Chi teme Dio, farà il bene: e chi osserva la giustizia con esattezza, possederà la sapienza, ed essa gli andrà incontro qual madre veneranda.
-$Deo gratias
 
 [Lectio1]
 Dalla Lettera ai Romani
@@ -46,25 +32,6 @@ Dalla Lettera ai Romani
 17 Grazie però a Dio che foste sì servi del peccato, ma avete poi obbedito di cuore a quella forma di dottrina sulla quale siete stati formati. 
 18 E, liberati dal peccato, siete divenuti servi della giustizia.
 
-[Responsory1]
-@Sancti/01-01:Responsory4
-
-[Responsory2]
-@Sancti/01-01:Responsory5
-
-[Responsory3]
-@Sancti/01-01:Responsory6
-
-[Lectio93]
-Dal Trattato di sant'Agostino Vescovo su Giovanni
-!Tratt. 36
-Dei quattro Vangeli, o piuttosto dei quattro libri dello stesso Vangelo, il più elevato e più sublime è quello di san Giovanni Apostolo, il quale, paragonato, non ingiustamente e in un senso spirituale, all'aquila, sorpassò col suo racconto gli altri tre; e nella sua elevazione, volle sollevare anche i nostri cuori. Difatti gli altri tre Evangelisti sembrano camminare sulla terra col Signore, considerandolo come uomo, e ci dicono poco della sua divinità: questo invece quasi gli rincrescesse di vivere sulla terra, elevò talmente la voce che, come appare dal principio stesso del suo scritto, si sollevò non solo al disopra della terra, dell'atmosfera, e degli astri, ma ancora al disopra di tutto l'esercito degli Angeli e di tutte le Potenze invisibili stabilite da Dio, giungendo a colui che ha fatto tutte le cose, dicendo: «Nel principio era il Verbo, e il Verbo era presso Dio, anzi il Verbo era Dio» (Joann. 1,1).
-
-[Lectio4]
-Dal Trattato di sant'Agostino Vescovo su Giovanni
-!Tratt. 36
-Dei quattro Vangeli, o piuttosto dei quattro libri dello stesso Vangelo, il più elevato e più sublime è quello di san Giovanni Apostolo, il quale, paragonato, non ingiustamente e in un senso spirituale, all'aquila, sorpassò col suo racconto gli altri tre; e nella sua elevazione, volle sollevare anche i nostri cuori. Difatti gli altri tre Evangelisti sembrano camminare sulla terra col Signore, considerandolo come uomo, e ci dicono poco della sua divinità: questo invece quasi gli rincrescesse di vivere sulla terra, elevò talmente la voce che, come appare dal principio stesso del suo scritto, si sollevò non solo al disopra della terra, dell'atmosfera, e degli astri, ma ancora al disopra di tutto l'esercito degli Angeli e di tutte le Potenze invisibili stabilite da Dio, giungendo a colui che ha fatto tutte le cose, dicendo: «Nel principio era il Verbo, e il Verbo era presso Dio, anzi il Verbo era Dio» (Joann. 1,1).
-
 [Lectio5]
 A tale sublimità di esordio adeguò tutto il Vangelo, e come nessun altro parlò della divinità del Signore. Con profusione comunicò ciò che aveva bevuto alla fonte. Non per nulla si dice di lui in questo medesimo Vangelo che nell'ultima Cena stava appoggiato sul cuore del Signore (cf. Gv 13, 23): da quel cuore segretamente attinse e, ciò che segretamente aveva attinto, pubblicamente proclamò, affinché fosse nota a tutti i popoli non solo l'incarnazione del Figlio di Dio, la sua passione e risurrezione, ma altresì ciò che era prima dell'incarnazione: Unigenito del Padre, Verbo del Padre, coeterno a colui che lo generò, uguale a colui che lo mandò, ma diventato inferiore nella medesima missione affinché il Padre risultasse maggiore di lui.
 
@@ -86,3 +53,13 @@ Poiché Pietro diceva ciò con grandissima carità, ne volendo essere diviso da 
 [Lectio9]
 Si sparse perciò questa voce tra i fratelli che quel discepolo non muore. E Gesù non disse : Egli non muore : ma : Se voglio che egli rimanga fino a tanto che io venga, che importa a te? Non pensare, disse, che io abbia disposto di voi nel medesimo modo. E ciò disse per togliere l'affetto fuori tempo e il desiderio della compagnia. Infatti visto che si sarebbero presi cura di tutta la terra, non era opportuno che fossero oltre insieme: sarebbe stato infatti grande danno per il mondo. Perciò disse: Hai preso un compito, consideralo: completa, lavora, ed esponiti alle lotte. Che ti importa, se voglio che rimanga qui? Tu pensa al tuo compito, ed eseguilo.
 &teDeum
+
+[Lectio93]
+Dal Trattato di sant'Agostino Vescovo su Giovanni
+!Tratt. 36
+Dei quattro Vangeli, o piuttosto dei quattro libri dello stesso Vangelo, il più elevato e più sublime è quello di san Giovanni Apostolo, il quale, paragonato, non ingiustamente e in un senso spirituale, all'aquila, sorpassò col suo racconto gli altri tre; e nella sua elevazione, volle sollevare anche i nostri cuori. Difatti gli altri tre Evangelisti sembrano camminare sulla terra col Signore, considerandolo come uomo, e ci dicono poco della sua divinità: questo invece quasi gli rincrescesse di vivere sulla terra, elevò talmente la voce che, come appare dal principio stesso del suo scritto, si sollevò non solo al disopra della terra, dell'atmosfera, e degli astri, ma ancora al disopra di tutto l'esercito degli Angeli e di tutte le Potenze invisibili stabilite da Dio, giungendo a colui che ha fatto tutte le cose, dicendo: «Nel principio era il Verbo, e il Verbo era presso Dio, anzi il Verbo era Dio» (Joann. 1,1).
+
+[Capitulum Laudes] (rubrica divino aut rubrica monastica)
+!Sir 15:1-2
+v. Chi teme Dio, farà il bene: e chi osserva la giustizia con esattezza, possederà la sapienza, ed essa gli andrà incontro qual madre veneranda.
+$Deo gratias

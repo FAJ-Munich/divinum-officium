@@ -1,3 +1,8 @@
+[Lectio1]
+@Tempora/105-1:Lectio1Tridentina
+(sed rubrica tridentina)
+@Tempora/105-2:Lectio1Tridentina
+
 [Lectio1Tridentina]
 Dal secondo libro dei Maccabei
 !2 Mac 7:24-27
@@ -6,13 +11,13 @@ Dal secondo libro dei Maccabei
 26 E dopo averla esortata con molte parole, ella promise di persuadere il figlio suo; 
 27 perciò chinatasi a lui, deridendo il tiranno crudele, disse nella lingua paterna: Figlio mio, abbi pietà di me che t'ho portato per nove mesi nel seno, che t'ho allattato e nutrito per tre anni e t'ho condotto a questa età.
 
-[Lectio1]
-@Tempora/105-1:Lectio1Tridentina
-(sed rubrica tridentina)
-@Tempora/105-2:Lectio1Tridentina
-
 [Responsory1]
 @Tempora/101-2:Responsory1
+
+[Lectio2]
+@Tempora/105-1:Lectio2Tridentina
+(sed rubrica tridentina)
+@Tempora/105-2:Lectio2Tridentina
 
 [Lectio2Tridentina]
 !2 Mac 7:28-33
@@ -23,13 +28,13 @@ Dal secondo libro dei Maccabei
 32 Noi certo patiamo questo per i nostri peccati; 
 33 ma sebbene il Signore Dio nostro, per castigarci e correggerci, si è adirato per breve tempo con noi, egli però si riconcilierà di nuovo co' servi suoi.
 
-[Lectio2]
-@Tempora/105-1:Lectio2Tridentina
-(sed rubrica tridentina)
-@Tempora/105-2:Lectio2Tridentina
-
 [Responsory2]
 @Tempora/101-2:Responsory2
+
+[Lectio3]
+@Tempora/105-1:Lectio3Tridentina
+(sed rubrica tridentina)
+@Tempora/105-2:Lectio3Tridentina
 
 [Lectio3Tridentina]
 !2 Mac 7:34-41
@@ -41,11 +46,6 @@ Dal secondo libro dei Maccabei
 39 Allora il re acceso d'ira infierì su questo più crudelmente che sugli altri, non potendo soffrire d'essere deriso. 
 40 Così morì anche questo senza contaminarsi, fidando in tutto nel Signore. 
 41 E alla fine, dopo i figli, fu uccisa anche la madre.
-
-[Lectio3]
-@Tempora/105-1:Lectio3Tridentina
-(sed rubrica tridentina)
-@Tempora/105-2:Lectio3Tridentina
 
 [Responsory3]
 @Tempora/101-2:Responsory3

@@ -1,31 +1,19 @@
-[LectioE]
-v. Dal vangelo secondo Giovanni
-!John 15:1-7
-15:1 Io sono la vera vite: il Padre mio è il coltivatore.
-15:2 Tutti i tralci che in me non portano frutto, li toglierà via: e tutti quelli che portano frutto, li rimonderà, perchè fruttifichino dì più.
-15:3 Voi già siete mondi in virtù della parola che vi ho annunziato.
-15:4 Tenetevi in me, e io in voi. Come il tralcio non può da se stesso dar frutto, se non si tiene nella vite: così nemmeno voi, se non vi terrete in me. 
-15:5 Io sono la vite, voi i tralci : se uno si tiene in me, e io mi tengo in lui, questi porta gran frutto, perchè senza di me non potete far nulla.
-15:6 Quelli che non sì terranno in me, gettati vìa a guisa dì tralci seccheranno, e li raccoglieranno, e li butteranno sul fuoco, e brucieranno.
-15:7 Se vi terrete in me, e rimarranno in voi le mie parole, qualunque cosa vorrete, la chiederete, e vi sarà concessa.
-$Te decet
-
-[Lectio 6 in 2 loco]
+[Lectio6 in 2 loco]
 @Commune/C2p:Lectio5 in 2 loco:s/La piaga .*//s
 
-[Lectio 7 in 2 loco]
+[Lectio7 in 2 loco]
 @Commune/C2p:Lectio5 in 2 loco:s/.* La piaga /La piaga /s s/$/~/
-@Commune/C2p:Lectio6 in 2 loco:s/"Preziosa è .*//s
+@Commune/C2p:Lectio6 in 2 loco:s/«Preziosa è .*//s
 
-[Lectio 8 in 2 loco]
-@Commune/C2p:Lectio6 in 2 loco:s/.* "Preziosa è /"Preziosa è /s
+[Lectio8 in 2 loco]
+@Commune/C2p:Lectio6 in 2 loco:s/.* «Preziosa è /«Preziosa è /s
 
-[Lectio 9 in 2 loco]
+[Lectio9 in 2 loco]
 @Commune/C2p:Lectio7 in 2 loco:s/Dunque .*//s
 
-[Lectio 10 in 2 loco]
+[Lectio10 in 2 loco]
 @Commune/C2p:Lectio7 in 2 loco:s/.* Dunque /Dunque /s s/$/~/
 @Commune/C2p:Lectio8 in 2 loco:s/I tralci .*//s
 
-[Lectio 11 in 2 loco]
+[Lectio11 in 2 loco]
 @Commune/C2p:Lectio8 in 2 loco:s/.* I tralci /I tralci /s

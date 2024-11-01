@@ -1,10 +1,10 @@
 [Rank]
 Św. Kazimierza Wyznawcy;;Semiduplex;;2.1;;vide C5
 
-[Rank] (rubrica 1960)
+[Rank] (rubrica 196)
 Św. Kazimierza Wyznawcy;;Duplex;;3;;vide C5
 
-[RankNewcal]
+[Rank] (rubrica innovata)
 Św. Kazimierza Wyznawcy;;Semiduplex;;2.1;;vide C5
 
 [Rule]
@@ -12,6 +12,9 @@ vide C5;
 9 lectiones;
 CPapaM=Lucjusza;
 Lectio1 Quad
+in 1 Nocturno Lectiones ex Commune in 2 loco
+(sed rubrica 1960)
+scriptura1960
 
 [Oratio]
 Boże, któryś wśród królewskich rozkoszy i ułud światowych umocnił świętego Kazimierza cnotą wytrwałości, spraw, prosimy Cię, aby wierni Twoi za Jego przyczyną gardząc tem, ziemskie, niebieskich rzęczy pożądali.

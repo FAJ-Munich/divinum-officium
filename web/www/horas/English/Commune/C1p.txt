@@ -1,22 +1,12 @@
 [Name]
 Commune apostolorum tempore Paschali
 
-[Rule]
-Psalmi Dominica
-Antiphonas horas
-Una Antiphona
-
 [Ant Vespera]
-Your saints, O Lord, * flourish like lilies, alleluia: and like the smell of balsam are before you, alleluia.;;109
-In the heavenly kingdom is the habitation of the saints, alleluia: and they rest in the eternity, alleluia.;;110
-Protected by a veil * your saints turn to you, O Lord, alleluia, alleluia.;;111
-Spirits and souls * of the just, sing hymns to our Lord, alleluia, alleluia.;;112
-The just shine * like the sun at the face of God, alleluia.;;116
-
-[Capitulum Laudes]
-!Wis 5:1
-v. Then shall the just stand with great constancy against those that have afflicted them, and taken away their labours.
-$Deo gratias
+Your saints, O Lord, * flourish like lilies, alleluia: and like the smell of balsam are before you, alleluia.
+In the heavenly kingdom is the habitation of the saints, alleluia: and they rest in the eternity, alleluia.
+Protected by a veil * your saints turn to you, O Lord, alleluia, alleluia.
+Spirits and souls * of the just, sing hymns to our Lord, alleluia, alleluia.
+The just shine * like the sun at the face of God, alleluia.
 
 [Hymnus Vespera]
 v. While Christ's disciples, grieving, sad,
@@ -50,6 +40,10 @@ Let equal praise be ever sung
 To God the Holy Paraclete.
 Amen. 
 
+[Versum 1]
+V. Saints and just, rejoice in the Lord, alleluia.
+R. The Lord has chosen you for his inheritance, alleluia.
+
 [Ant 1]
 Eternal light will shine * over your saints, O Lord, and the eternity of times, alleluia.
 
@@ -60,16 +54,18 @@ The Lord, the King of Apostles, * O come, let us adore, Alleluia.
 Then shall the just stand * with great constancy against those that have afflicted them, alleluia.;;18
 ;;33
 ;;44
-V. Saints and just, rejoice in the Lord, alleluia.
-R. The Lord has chosen you for his inheritance, alleluia.
 Behold * how they are numbered among the children of God, and their lot is among the Saints, alleluia.;;46
 ;;60
 ;;63
-V. Eternal light will shine over your saints, O Lord, alleluia.
-R. And the eternity of times, alleluia.
 Eternal light * will shine over your saints, O Lord, and the eternity of times, alleluia.;;74
 ;;96
 ;;98
+
+[Nocturn 2 Versum]
+V. Eternal light will shine over your saints, O Lord, alleluia.
+R. And the eternity of times, alleluia.
+
+[Nocturn 3 Versum]
 V. Everlasting joy shall be upon their heads, alleluia.
 R. They shall obtain joy and gladness, alleluia.
 
@@ -128,6 +124,11 @@ V. They are purer than snow, they are whiter than milk, they are more ruddy in b
 R. They are whiter than milk. Alleluia, Alleluia.
 &Gloria
 R. They are whiter than milk. Alleluia, Alleluia.
+
+[Capitulum Laudes]
+!Wis 5:1
+v. Then shall the just stand with great constancy against those that have afflicted them, and taken away their labours.
+$Deo gratias
 
 [Hymnus Laudes]
 v. With the fair sun of Easter morn

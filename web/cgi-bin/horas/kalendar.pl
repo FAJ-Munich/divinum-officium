@@ -54,12 +54,11 @@ our $border;
 our $smallblack;
 our $smallfont;
 
-require "$Bin/do_io.pl";
 require "$Bin/../DivinumOfficium/SetupString.pl";
 require "$Bin/horascommon.pl";
-require "$Bin/dialogcommon.pl";
+require "$Bin/../DivinumOfficium/dialogcommon.pl";
 require "$Bin/webdia.pl";
-require "$Bin/setup.pl";
+require "$Bin/../DivinumOfficium/setup.pl";
 require "$Bin/monastic.pl";
 
 binmode(STDOUT, ':encoding(utf-8)');
@@ -217,20 +216,29 @@ sub kalendar_entry {
     $c2 .= setfont($smallfont, " *L1*");
   }
 
+  our $hora;
+  my $temphora = $hora;
+  $hora = 'Vespera';
+  precedence($date);
+  $hora = $temphora;
+  my $cv = $dayname[2];
+  $cv =~ s/.*?(Vespera|A capitulo|$)/$1/;
+
   if ($compare) {
     $c2 ||= '_';
+    $cv ||= '_';
   }
-  return ($c1, $c2);
+  return ($c1, $c2, $cv);
 }
 
 # prepare html table with entries
 sub kalendar_table {
   my ($kyear, $kmonth) = @_;
-
+  my $background = ($whitebground) ? ' class="contrastbg"' : '';
   my $output = << "PrintTag";
-<P ALIGN=CENTER>
-<TABLE BORDER=$border WIDTH=90% CELLPADDING=3 STYLE="color: black">
-<TR><TH>Dies</TH><TH>de Tempore</TH><TH>Sanctorum</TH><TH>d.h.</TH></TR>
+<P ALIGN="CENTER">
+<TABLE BORDER="$border" WIDTH="90%" CELLPADDING="3" $background>
+<TR><TH>Dies</TH><TH>de Tempore</TH><TH>Sanctorum</TH><TH>Vespera</TH><TH>d.h.</TH></TR>
 PrintTag
 
   my $to = (MONTHLENGTH)[$kmonth];
@@ -250,26 +258,29 @@ PrintTag
 
       if ($yday == 1) {    # add extra headline at the start of a new month
         $output .= << "PrintTag";
-<TR><TH COLSPAN="4" ALIGN=CENTER">
+<TR><TH COLSPAN="5" ALIGN="CENTER">
 <A HREF=# onclick=\"setkm($ymonth)\">@{[(MONTHNAMES)[$ymonth]]} $kyear</A>
 </TH></TR>
 PrintTag
       }
     }
-    my (@c1, @c2) = ((), ());
+    my (@c1, @c2, @cv) = ((), (), ());
 
     for (0 .. $compare) {
-      my ($c1, $c2) = kalendar_entry($date1, $ver[$_], $compare);
+      my ($c1, $c2, $cv) = kalendar_entry($date1, $ver[$_], $compare);
       push(@c1, $c1);
       push(@c2, $c2);
+      push(@cv, $cv);
     }
-    my $c1 = join('<BR>', @c1);
-    my $c2 = join('<BR>', @c2);
+    my $c1 = join('<br/>', @c1);
+    my $c2 = join('<br/>', @c2);
+    my $cv = join('<br/>', @cv);
     $output .= << "PrintTag";
-<TR><TD ALIGN=CENTER><A HREF=# onclick="callbrevi('$date1');">$d1</A></TD>
+<TR><TD ALIGN="CENTER"><A HREF="#" onclick="callbrevi('$date1');">$d1</A></TD>
 <TD>$c1</TD>
 <TD>$c2</TD>
-<TD ALIGN=CENTER>@{[(DAYNAMES)[$dayofweek]]}</TD>
+<TD><FONT SIZE="-2">$cv</FONT></TD>
+<TD ALIGN="CENTER">@{[(DAYNAMES)[$dayofweek]]}</TD>
 </TR>
 PrintTag
   }
@@ -287,22 +298,22 @@ sub html_output {
 
     my $output = << "PrintTag";
 <H1>
-<FONT COLOR=MAROON SIZE=+1><B><I>Divinum Officium</I></B></FONT>&nbsp;
-<FONT COLOR=RED SIZE=+1>$vers</FONT>
+<FONT COLOR="MAROON" SIZE="+1"><B><I>Divinum Officium</I></B></FONT>&nbsp;
+<FONT COLOR="RED" SIZE="+1">$vers</FONT>
 </H1>
-<P ALIGN=CENTER>
-<FONT COLOR=MAROON SIZE=+1><B><I>Ordo @{[(MONTHNAMES)[$kmonth]]} A. D.</I></B></FONT>&nbsp;
-<LABEL FOR=kyear CLASS=offscreen>Year</LABEL>
-<INPUT TYPE=TEXT ID=kyear NAME=kyear VALUE="$kyear" SIZE=4>
-<A HREF=# onclick="prevnext(-1)">&darr;</A>
-<INPUT TYPE=submit NAME=SUBMIT VALUE=" " onclick="document.forms[0].submit();">
-<A HREF=# onclick="prevnext(1)">&uarr;</A>
-&nbsp;&nbsp;&nbsp;<A HREF=# onclick="setkm(14)">Totus</A>
-</P><P ALIGN=CENTER>
+<P ALIGN="CENTER">
+<FONT COLOR="MAROON" SIZE="+1"><B><I>Ordo @{[(MONTHNAMES)[$kmonth]]} A. D.</I></B></FONT>&nbsp;
+<LABEL FOR="kyear" CLASS="offscreen">Year</LABEL>
+<INPUT TYPE="TEXT" ID="kyear" NAME="kyear" VALUE="$kyear" SIZE=4>
+<A HREF="#" onclick="prevnext(-1)">&darr;</A>
+<INPUT TYPE="submit" NAME="SUBMIT" VALUE=" " onclick="document.forms[0].submit();">
+<A HREF="#" onclick="prevnext(1)">&uarr;</A>
+&ensp;<A HREF="#" onclick="setkm(14)">Totus</A>
+</P><P ALIGN="CENTER">
 PrintTag
 
     my @mmenu;
-    push(@mmenu, "<A HREF=# onclick=\"setkm(-1)\">«</A>\n") if $kmonth == 1;
+    push(@mmenu, "<A HREF='#' onclick=\"setkm(-1)\">«</A>\n") if $kmonth == 1;
 
     foreach my $i (1 .. 12) {
       my $mn = substr((MONTHNAMES)[$i], 0, 3);
@@ -316,23 +327,23 @@ PrintTag
 
   print kalendar_table($kyear, $kmonth);
 
-  print "<P ALIGN=CENTER>\n";
+  print "<P ALIGN='CENTER'>\n";
   print htmlInput('version', $ver[0], 'options', 'versions', "document.forms[0].submit()");
 
   if ($compare) {
     print htmlInput('version2', $ver[1], 'options', 'versions', "document.forms[0].submit()");
   }
-  print "</P><P ALIGN=CENTER>\n" . bottom_links_menu() . "</P>\n";
+  print "</P><P ALIGN='CENTER'>\n" . bottom_links_menu() . "</P>\n";
 
   # if ($savesetup > 1) { print "&nbsp;&nbsp;&nbsp;<A HREF=# onclick=\"readings();\">Readings</A>"; }
-  if ($error) { print "<P ALIGN=CENTER><FONT COLOR=red>$error</FONT></P>\n"; }
-  if ($debug) { print "<P ALIGN=CENTER><FONT COLOR=blue>$debug</FONT></P>\n"; }
+  if ($error) { print "<P ALIGN='CENTER'><FONT COLOR=red>$error</FONT></P>\n"; }
+  if ($debug) { print "<P ALIGN='CENTER'><FONT COLOR=blue>$debug</FONT></P>\n"; }
 
   # if ($Readings) { Readings(); } # not reachable
   if ($compare) {
-    print '<P ALIGN=CENTER><A HREF="#" onclick="callkalendar(0)">Single Calendar</A>';
+    print '<P ALIGN="CENTER"><A HREF="#" onclick="callkalendar(0)">Single Calendar</A>';
   } else {
-    print '<P ALIGN=CENTER><A HREF="#" onclick="callkalendar(1)">Compare Calendars</A>';
+    print '<P ALIGN="CENTER"><A HREF="#" onclick="callkalendar(1)">Compare Calendars</A>';
     my $tyear;
     ($tyear = gettoday()) =~ s/.*-//;
     my $iyear = $tyear != $kyear ? "&kyear=$kyear" : '';
@@ -352,15 +363,15 @@ PrintTag
 
   print << "PrintTag";
 </P>
-<INPUT TYPE=HIDDEN NAME=setup VALUE="$setupsave">
-<INPUT TYPE=HIDDEN NAME=date1 VALUE="$date1">
-<INPUT TYPE=HIDDEN NAME=kmonth VALUE=$kmonth>
-<INPUT TYPE=HIDDEN NAME=date VALUE="$date1">
-<INPUT TYPE=HIDDEN NAME=command VALUE="$command">
-<INPUT TYPE=HIDDEN NAME=officium VALUE="$officium">
-<INPUT TYPE=HIDDEN NAME=browsertime VALUE="$browsertime">
-<INPUT TYPE=HIDDEN NAME=compare VALUE="$compare">
-<INPUT TYPE=HIDDEN NAME=readings VALUE="0">
+<INPUT TYPE="HIDDEN" NAME="setup" VALUE="$setupsave">
+<INPUT TYPE="HIDDEN" NAME="date1" VALUE="$date1">
+<INPUT TYPE="HIDDEN" NAME="kmonth" VALUE=$kmonth>
+<INPUT TYPE="HIDDEN" NAME="date" VALUE="$date1">
+<INPUT TYPE="HIDDEN" NAME="command" VALUE="$command">
+<INPUT TYPE="HIDDEN" NAME="officium" VALUE="$officium">
+<INPUT TYPE="HIDDEN" NAME="browsertime" VALUE="$browsertime">
+<INPUT TYPE="HIDDEN" NAME="compare" VALUE="$compare">
+<INPUT TYPE="HIDDEN" NAME="readings" VALUE="0">
 </FORM>
 </BODY></HTML>
 PrintTag

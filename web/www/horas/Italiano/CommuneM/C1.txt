@@ -4,30 +4,6 @@ La destra del Signore * li ha salvati, ed il suo santo braccio, alleluia;;97
 Camminavano * nell'innocenza del loro cuore, dentro la tua casa.;;100
 Rallegratevi e tripudiate: perchè i vostri nomi sono scritti nel cielo, dice il Signore.;;253;254;255
 
-[Responsory4]
-R. Vidi degli uomini riuniti, che avevano splendide vesti, e un angelo del Signore si rivolse a me con queste parole: 
-* Questi uomini santi sono divenuti amici di Dio.
-V. Vidi un angelo forte, che volava in mezzo al cielo, gridando ad alta voce.
-R. Questi uomini santi sono divenuti amici di Dio.
-
-[Lectio6]
-@Commune/C1:Lectio5:s/Sappiamo .*//s
-
-[Lectio7]
-@Commune/C1:Lectio5:s/.* Sappiamo /Sappiamo /s s/$/~/
-@Commune/C1:Lectio6:s/E .*//s
-
-[Lectio8]
-@Commune/C1:Lectio6:s/.* E /E /s
-
-[Responsory8]
-R. Questi sono gli uomini santi, che il Signore ha scelto con carità sincera, e ai quali ha dato gloria eterna: 
-* per la loro dottrina la Chiesa risplende, come la luna per mezzo del sole.
-V. I santi con la fede hanno vinto i regni, hanno operato la giustizia.
-R. Per la loro dottrina la Chiesa risplende, come la luna per mezzo del sole.
-&Gloria
-R. Per la loro dottrina la Chiesa risplende, come la luna per mezzo del sole.
-
 [LectioE]
 v. Dal vangelo secondo Matteo
 !Matt 19:27-29

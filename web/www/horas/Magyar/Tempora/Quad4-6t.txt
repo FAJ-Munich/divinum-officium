@@ -1,8 +1,6 @@
 [Rank]
 Sabbato infra Hebdomadam IV in Quadragesima;;Feria major;;2
 
-[Rule]
-
 [Lectio1]
 Evangélium szent János Apostol kőnyvéből
 !John 8:12-20

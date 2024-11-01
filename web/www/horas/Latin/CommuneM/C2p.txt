@@ -1,11 +1,7 @@
 @CommuneM/C1p
 
 [Name]
-Commune unius Martyris Tempore Paschali
-
-[Rule]
-Psalmi Dominica
-Antiphonas horas
+@Commune/C2p
 
 [Hymnus Vespera]
 @Commune/C2
@@ -29,19 +25,13 @@ Antiphonas horas
 ;;5
 ;;8
 ;;10
-@Commune/C1p::4
-@Commune/C1p::5
 @Commune/C1p:Ant Vespera:5 s/\d+/74/
 ;;20
 ;;23
 ;;63
 ;;64
 ;;95
-@Commune/C1p::9
-@Commune/C1p::10
-@Commune/C1p::11 s/;;74/;;256;257;258/
-@Commune/C1p::14
-@Commune/C1p::15
+@Commune/C1p::7 s/;;74/;;256;257;258/
 
 [Lectio1]
 De libro Sapiéntiæ
@@ -117,15 +107,10 @@ R. Et sicut rosæ in Jéricho florébunt ante Dóminum, allelúja.
 @Commune/C2p:Lectio9:s/.* Numquid /Numquid /s
 
 [Responsory12]
-R. Gáudete, justi, in Dómino, allelúja:
+R. Gaudéte, justi, in Dómino, allelúja:
 * Rectos decet collaudátio, allelúja, allelúja.
 V. Cantáte ei cánticum novum: bene psállite ei in vociferatióne.
 R. Rectos decet collaudátio, allelúja, allelúja.
-
-[MM Capitulum]
-@Commune/C1p:Capitulum Sexta
-_
-@Commune/C1p:Responsory Nona:1-6
 
 [Hymnus Laudes]
 @Commune/C2
@@ -134,32 +119,35 @@ _
 @Commune/C2
 
 [Ant Vespera 3]
-@Commune/C1p::s/112/111/ s/115/112/ s/125/115/
+@Commune/C1p:Ant Vespera:1 s/$/;;109/
+@Commune/C1p:Ant Vespera:2 s/$/;;111/
+@Commune/C1p:Ant Vespera:3 s/$/;;112/
+@Commune/C1p:Ant Vespera:5 s/$/;;115/
 
-[Lectio 5 in 2 loco]
+[Lectio5 in 2 loco]
 @Commune/C2p:Lectio4 in 2 loco
 
-[Lectio 6 in 2 loco]
+[Lectio6 in 2 loco]
 @Commune/C2p:Lectio5 in 2 loco:s/Inexpugnábilem .*//s
 
-[Lectio 7 in 2 loco]
+[Lectio7 in 2 loco]
 @Commune/C2p:Lectio5 in 2 loco:s/.* Inexpugnábilem /Inexpugnábilem /s s/$/~/
 @Commune/C2p:Lectio6 in 2 loco:s/Pretiósa est .*//s
 
-[Lectio 8 in 2 loco]
+[Lectio8 in 2 loco]
 @Commune/C2p:Lectio6 in 2 loco:s/.* Pretiósa est /Pretiósa est /s
 
-[Lectio 9 in 2 loco]
+[Lectio9 in 2 loco]
 @Commune/C2p:Lectio7 in 2 loco:s/Quamvis .*//s
 
-[Lectio 10 in 2 loco]
+[Lectio10 in 2 loco]
 @Commune/C2p:Lectio7 in 2 loco:s/.* Quamvis /Quamvis /s s/$/~/
 @Commune/C2p:Lectio8 in 2 loco:s/Ligna .*//s
 
-[Lectio 11 in 2 loco]
+[Lectio11 in 2 loco]
 @Commune/C2p:Lectio8 in 2 loco:s/.* Ligna /Ligna /s
 
-[Lectio 12 in 2 loco]
+[Lectio12 in 2 loco]
 @Commune/C2p:Lectio9 in 2 loco
 
 [LectioE in 2 loco]

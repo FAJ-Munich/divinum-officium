@@ -4,6 +4,7 @@
 S. P. N. Benedicti Abbatis;;II class;;5;;vide C5
 
 [Rule]
+vide C5;
 12 lectiones
 
 [Ant Vespera]
@@ -45,6 +46,10 @@ Et tibi, compar utriusque semper
 Spiritus alme, Deus unus, omni
 Tempore sæcli.
 Amen.
+
+[Oratio]
+Deus, qui beatíssimum Confessórem tuum Benedíctum ómnium justórum spíritu replére dignátus es: † concede nobis fámulis tuis, ejus Solemnitátem celebrántibus; ut, ejusdem spíritu repléti, quod te donánte promísimus fidéliter adimpleámus.
+$Per Dominum
 
 [Invit]
 Laudémus Deum nostrum * In veneratióne beati Patris nostri Benedícti.
@@ -88,16 +93,13 @@ Tunc cellam clausit, * et oratióni instántius quam solébat, incúbuit.;;4
 Mira res! * Eádem hora puérulum incólumem atque ut príus valéntem ad labórem remísit.;;5
 Omnipoténtis * Dei fámulus, preces Jesu Christo Dómino fundens, † antíquum hostem de obsésso hómine prótinus éxpulit.;;8
 Imprévit Deus, * quod fidéli fámulo Benedícto promíserat, † ut ánimas custodíret.;;10
-@Commune/C5::4-5
 Venerábilis * Benedíctus dixit: † Signa cor tuum, frater, signa cor tuum.;;14
 Hódie quidem * minus est, sed die crástina abundánter habébitis.;;20
 Et sequénti die * ducénti farínæ módii ante fores cellæ invénti sunt.;;23
 Tanti mériti * apud Jesum Christum iste vir fuit, † ut corpus illíus terra proíceret, qui Benedícti grátiam non habéret.;;95
 Nemo * de ejus promissiónibus dubitáre potest, † qui uno eodémque moménto, pro vítreo vase pene vácuo, plenum óleo dólium réddidit.;;96
 Benedíctus * in eo specu, in quo prius inhabitávit, † nunc usque, si peténtium fides éxigat, miráculis corúscat.;;97
-@Commune/C5::9-10
 Monachórum * Patriárcham collaudémus cánticis, et Patrónum celebrémus gloriósum miráculis.;;256;257;258
-@Commune/C5::14-15
 
 [Lectio1]
 De libro Ecclesiástici
@@ -171,7 +173,7 @@ Sed quómodo tibi appóno ejus mirácula? Numquid ut mirácula fácere velis? Ne
 [Responsory6]
 R. Ecce, quanti apud Dóminum mériti rútilans monachórum gemma exístat Benedíctus:
 * Qui in uno Elisǽi actu, quem Sanctus Spíritus dúplici vestiérat dono, † quadrúplici effúlsit miráculo.
-V. In effúso scílicet venéno, in lagéna cum serpénte detécta, in obediénte corvo, in pane mortífero longíus proiécto.
+V. In effúso scílicet venéno, in lagéna cum serpénte detécta, in obediénte corvo, in pane mortífero lóngius projécto.
 R. Qui in uno Elisǽi actu, quem Sanctus Spíritus dúplici vestiérat dono, † quadrúplici effúlsit miráculo..
 
 [Lectio7]
@@ -197,7 +199,7 @@ Léctio sancti Evangélii secúndum Matthǽum
 !Matt 19:27-29
 In illo témpore: Dixit Petrus ad Jesum: Ecce nos relíquimus ómnia, et secúti sumus te: quid ergo erit nobis? Et réliqua.  
 _
-Homília sancti Bedæ Venerábilis Presbýteri
+Homilía sancti Bedæ Venerábilis Presbýteri
 !Hom. 17 in Natali S.Benedícti Bisc.
 Duo sunt órdines electórum in judício futúri : unus judicántium cum Dómino, de quibus hoc loco mémorat, qui reliquérunt ómnia, et secúti sunt illum: álius judicatórum a Dómino qui non quidem ómnia sua páriter reliquérunt, sed de his tamen quæ habébant, quotidiánas dare eleemósynas Christi paupéribus curábant; unde et auditúri sunt in judício : Veníte, benedícti Patris mei, possidéte præparátum vobis regnum a constitutióne mundi; esurívi enim, et dedístis mihi manducáre: sitívi, et dedístis mihi bíbere, et cétera, quórum et in superióribus hujus lectiónis Dóminus méminit, cum, príncipe quodam interrogánte, quid boni faciéndo vitam possidéret ætérnam: Si vis, inquit, ad vitam íngredi, serva mandáta. Ergo qui mandáta Dómini servat, ad vitam ingréditur ætérnam: qui autem etiam consílium Dómini, non tantum vitam ipse percípiet, sed etiam de vita aliórum cure Dómino judicábit.
 
@@ -233,10 +235,6 @@ R. Via, recto oriéntis trámite ab ejus cella in cælum usque tendebátur
 * Strata pálliis et innúmeris corúsca lampádibus.
 V. Hæc est via qua diléctus Dómini Benedíctus cælos ascéndit.
 R. Strata pálliis et innúmeris corúsca lampádibus.
-
-[Oratio]
-Deus, qui beatíssimum Conféssorem tuum Benedíctum ómnium justórum spíritu replére dignátus es: † concede nobis fámulis tuis, ejus Solemnitátem celebrántibus; ut, ejusdem spíritu repléti, quod te donánte promísimus fidéliter adimpleámus.
-$Per Dominum
 
 [Ant Laudes]
 Vir Dei Benedictus * signum crucis edidit, et vas pestiferi potus ita confractum est, ac si pro signo lapidem dedisset.

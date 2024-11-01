@@ -5,6 +5,6 @@ Piąty dzień stycznia;;Feria;;1.2;;vide Sancti/01-01
 vide Sancti/01-01
 CPapaM=Telesfora;
 
-[Commemoratio]
+[Commemoratio 2]
 !Wspomnienie Św. Telesfora Papieża i Męczennika
 @Commune/C2:Oratio1 Gregem

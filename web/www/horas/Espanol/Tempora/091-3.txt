@@ -16,7 +16,7 @@ Del Libro de Job.
 7 Sea noche de tristeza, no haya en ella regocijos. 
 8 Maldíganla los que saben maldecir el día, los que saben despertar al Leviatán. 
 9 Háganse tinieblas las estrellas de su alborada; que espere luz y no le venga, y no vea los parpadeos de la aurora, 
-10 por no haberme cerrado las puertas del seno materno y no haber sustraído a mis ojos tanta miseria. 
+10 por no haberme cerrado las puertas del seno materno y no haber sustraído a mis ojos tanta miseria.
 
 [Responsory2]
 @Tempora/091-1:Responsory2
@@ -28,7 +28,7 @@ Del Libro de Job.
 13 Pues ahora descansaría tranquilo y dormiría en reposo 
 14 con los reyes y los magnates de la tierra, que se construyen mausoleos, 
 15 o con príncipes ricos en oro, que llenan de plata sus moradas. 
-16 O ni hubiera existido, como aborto secreto o como los niños que no vieron la luz. 
+16 O ni hubiera existido, como aborto secreto o como los niños que no vieron la luz.
 
 [Responsory3]
 @Tempora/091-0:Responsory3

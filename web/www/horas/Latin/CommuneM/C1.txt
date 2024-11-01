@@ -1,10 +1,5 @@
 @Commune/C1
 
-[Capitulum Vespera]
-@Commune/C1
-_
-@Commune/C1:Responsory Breve6
-
 [AntMatutinumM]
 Annuntiavérunt * inter gentes glóriam Dómini, in ómnibus pópulis mirabília ejus;;95
 Déxtera Dómini * salvávit eos, et bráchium sanctum ejus, allelúja;;97
@@ -12,18 +7,14 @@ Perambulábant * in innocéntia cordis sui, in medio domus tuæ;;100
 Gaudéte * et exsultáte, quia nómina vestra scripta sunt in cælis, dicit Dóminus;;253;254;255
 
 [Ant Matutinum]
-@Commune/C1::1-3
-@Commune/C1::6-8
-@Commune/C1::4-5
-@Commune/C1::11
+@Commune/C1::1-6
+@Commune/C1::7
 @:AntMatutinumM:1
-@Commune/C1::12
+@Commune/C1::8
 @:AntMatutinumM:2
-@Commune/C1::13
+@Commune/C1::9
 @:AntMatutinumM:3
-@Commune/C1::9-10
 @:AntMatutinumM:4
-@Commune/C1::14-15
 
 [Lectio1]
 @Commune/C1:Lectio1:s/-5/-4/ :s/5 .*//s
@@ -40,7 +31,7 @@ Gaudéte * et exsultáte, quia nómina vestra scripta sunt in cælis, dicit Dóm
 @Commune/C1:Lectio3:s/10-/11-/ s/10 .*11 /11 /s
 
 [Responsory4]
-R. Fuérunt sine queréla ante Dóminum, et ab invícem non sunt separáti;
+R. Fuérunt sine queréla ante Dóminum, et ab ínvicem non sunt separáti;
 * Cálicem Dómini bibérunt et amíci Dei facti sunt.
 V. Tradidérunt córpora sua ad supplícia: † ídeo coronántur et accípiunt palmam.
 R. Cálicem Dómini bibérunt et amíci Dei facti sunt.
@@ -97,27 +88,10 @@ R. In omnem terram exívit sonus eórum, † et in fines orbis terræ verba eór
 [MM Capitulum]
 @:Capitulum Sexta
 _
-@:Responsory Sexta
-
-[Capitulum Laudes]
-@Commune/C1
-_
-@Commune/C1:Responsory Breve3
+@:Nocturn 2 Versum
 
 [Hymnus Laudes]
 @:Hymnus Vespera
-
-[Capitulum Tertia]
-@Commune/C1:Capitulum Laudes
-
-[Responsory Tertia]
-@Commune/C1:Ant Matutinum:4-5
-
-[Responsory Sexta]
-@Commune/C1:Ant Matutinum:9-10
-
-[Responsory Nona]
-@Commune/C1:Ant Matutinum:14-15
 
 [Ant Vespera 3]
 @Commune/C1::s/125/138/

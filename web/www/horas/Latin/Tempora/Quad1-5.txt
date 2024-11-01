@@ -6,6 +6,7 @@ Feria Sexta Quattuor Temporum Quadragesimæ;;Feria major;;4.9
 
 [Rule]
 
+
 [Lectio1]
 Léctio sancti Evangélii secúndum Joánnem
 !Joannes 5:1-15

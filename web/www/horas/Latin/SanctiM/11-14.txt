@@ -3,6 +3,12 @@
 [Rank]
 In Commemoratione Omnium Defunctorum Ordinis nostri;;Duplex;;5;;ex C9
 
+[Oratio mortuorum]
+@:Oratio 2
+
+[Oratio mortuorum1]
+@Sancti/11-02::s/tuárum/tuárum Ordinis nostri/
+
 [Oratio_Fid]
 @Commune/C9
 
@@ -10,19 +16,13 @@ In Commemoratione Omnium Defunctorum Ordinis nostri;;Duplex;;5;;ex C9
 @Commune/C9:Oratio_a_porta:s/&psalm.*\)//s
 @Commune/C9:Oratio_Fid:s/tuárum/tuárum Ordinis nostri/
 
-[Oratio mortuorum]
-@:Oratio 2
-
-[Oratio mortuorum1]
-@Sancti/11-02::s/tuárum/tuárum Ordinis nostri/
-
 [Special Prima]
 Psalmi feriales
 
 @Sancti/11-02:Oratio mortuorum2:s/tuárum/tuárum Ordinis nostri/
 
-&martyrologium
-
+&special('#Martyrologium', 'Latin')
+_
 V. In memória ætérna erunt justi.
 R. Ab auditióne mala non timébunt.
 _

@@ -10,7 +10,7 @@ De la Epístola a los Hebreos
 1 Vosotros, pues, hermanos santos, que participáis de la vocación celeste, considerad al Apóstol y Pontífice de nuestra confesión, Jesús, 
 2 fiel al que le hizo, como lo fue Moisés en toda su casa. 
 3 Y es tenido por digno de tanta mayor gloria que Moisés, cuanto mayor que la gloria de la casa es la del que la fabricó. 
-4 Pues toda casa es fabricada por alguno, pero el Hacedor de todas las cosas es Dios. 
+4 Pues toda casa es fabricada por alguno, pero el Hacedor de todas las cosas es Dios.
 
 [Responsory1]
 @Tempora/Epi2-1:Responsory1
@@ -31,7 +31,7 @@ De la Epístola a los Hebreos
 13 antes exhortaos mutuamente cada día, mientras perdura el “hoy,” a fin de que ninguno de vosotros se endurezca con el engaño del pecado. 
 14 Porque hemos sido hechos participantes de Cristo en el supuesto de que hasta el fin conservemos la firme confianza del principio; 
 15 mientras se dice: “Si hoy oyereis su voz, no endurezcáis vuestros corazones como en la rebelión”. 
-16 ¿Quiénes, en efecto, se rebelaron después de haber oído? ¿No fueron todos los que salieron de Egipto por obra de Moisés? 
+16 ¿Quiénes, en efecto, se rebelaron después de haber oído? ¿No fueron todos los que salieron de Egipto por obra de Moisés?
 
 [Responsory3]
 @Tempora/Epi2-1:Responsory3

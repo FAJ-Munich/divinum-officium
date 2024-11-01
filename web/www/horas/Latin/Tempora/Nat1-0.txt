@@ -1,11 +1,11 @@
 [Rank]
 Dominica Infra Octavam Nativitatis;;Semiduplex;;5;;ex Sancti/12-25
 
-[Rank] (rubrica tridentina)
-Dominica Infra Octavam Nativitatis;;Semiduplex;;2.93;;ex Sancti/12-25
-
 [Rank] (rubrica 196)
 Dominica Infra Octavam Nativitatis;;Semiduplex;;5.5;;ex Sancti/12-25
+
+[Rank] (rubrica tridentina)
+Dominica Infra Octavam Nativitatis;;Semiduplex;;2.93;;ex Sancti/12-25
 
 [Rule]
 9 lectiones
@@ -30,16 +30,7 @@ $Qui tecum
 [Commemoratio] (rubrica divino)
 @Sancti/12-25:Octava
 
-[Commemoratio 3] (rubrica divino)
-@Sancti/12-25:Octava
-
 [Commemoratio] (rubrica tridentina)
-@Sancti/12-25:Octava
-@Sancti/12-26:Octava
-@Sancti/12-27:Octava
-@Sancti/12-28:Octava
-
-[Commemoratio 3] (rubrica tridentina)
 @Sancti/12-25:Octava
 @Sancti/12-26:Octava
 @Sancti/12-27:Octava
@@ -53,7 +44,7 @@ R. Beáta Virgo, cujus víscera meruérunt portáre Dóminum Christum.
 [Lectio4]
 Sermo sancti Leónis Papæ
 !Sermo 9 de Nativ. Dom.
-Excédit quidem, dilectíssimi, multúmque superéminet humáni elóquii facultátem divini operis magnitúdo: et inde óritur difficultas fándi, unde adest rátio non tacendi. Quia in Christo Jesu Fílio Dei non solum ad divinam esséntiam, sed étiam ad humanam spectat natúram quod dictum est per prophétam: Generatiónem ejus quis enárrabit? Utrámque enim substántiam in unam convenísse persónam, nisi fides credat, sermo non explicat. Et ideo numquam materia déficit laudis, quia numquam sufficit copia laudatóris.
+Excédit quidem, dilectíssimi, multúmque superéminet humáni elóquii facultátem divini operis magnitúdo: et inde óritur difficultas fándi, unde adest rátio non tacendi. Quia in Christo Jesu Fílio Dei non solum ad divinam esséntiam, sed étiam ad humanam spectat natúram quod dictum est per prophétam: Generatiónem ejus quis enarrábit? Utrámque enim substántiam in unam convenísse persónam, nisi fides credat, sermo non explicat. Et ideo numquam materia déficit laudis, quia numquam sufficit copia laudatóris.
 
 [Responsory4]
 @Sancti/12-25:Responsory5
@@ -117,9 +108,8 @@ v. Itaque jam non est servus, sed fílius: quod si fílius, et hæres per Deum.
 v. At ubi venit plenitúdo témporis, misit Deus Fílium suum factum ex mulíere, factum sub lege, ut eos, qui sub lege erant, redímeret, ut adoptiónem filiórum reciperémus.
 $Deo gratias
 
-[Capitulum Nona]
-!Gal 4:7
-v. Itaque jam non est servus, sed fílius: quod si fílius, et hæres per Deum.
+[Capitulum Nona] (rubrica divino aut rubrica tridentina aut rubrica monastica)
+@:Lectio Prima
 $Deo gratias
 
 [Versum 3]
@@ -127,3 +117,12 @@ $Deo gratias
 
 [Ant 3]
 Puer Jesus * proficiébat ætáte et sapiéntia coram Deo et homínibus.
+
+[Commemoratio 3] (rubrica divino)
+@Sancti/12-25:Octava
+
+[Commemoratio 3] (rubrica tridentina)
+@Sancti/12-25:Octava
+@Sancti/12-26:Octava
+@Sancti/12-27:Octava
+@Sancti/12-28:Octava

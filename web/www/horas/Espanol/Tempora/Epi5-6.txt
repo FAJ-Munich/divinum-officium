@@ -12,7 +12,7 @@ Empieza la Epístola del Apóstol S. Pablo a Filemón
 3 Con vosotros sea la gracia y la paz de parte de Dios, nuestro Padre, y del Señor Jesucristo. 
 4 Haciendo sin cesar memoria de ti en mis oraciones, doy gracias a mi Dios, 
 5 al oír la caridad y la fe que tienes hacia el Señor Jesús y hacia todos los santos. 
-6 Que la comunicación de tu fe venga a ser eficaz en orden a Cristo, en el conocimiento perfecto de todo el bien que hay en vosotros. 
+6 Que la comunicación de tu fe venga a ser eficaz en orden a Cristo, en el conocimiento perfecto de todo el bien que hay en vosotros.
 
 [Responsory1]
 @Tempora/Epi2-6:Responsory1
@@ -36,7 +36,7 @@ Empieza la Epístola del Apóstol S. Pablo a Filemón
 15 Tal vez se te apartó por un momento, para que por siempre le tuvieras. 
 17 Si me tienes, pues, por compañero, acógele como a mí mismo. 
 18 Si en algo te ofendió o algo te debe, ponlo a mi cuenta. 
-19 Yo, Pablo, de mi puño lo escribo, yo te lo pagaré, por no decirte que tú mismo te me debes. 
+19 Yo, Pablo, de mi puño lo escribo, yo te lo pagaré, por no decirte que tú mismo te me debes.
 
 [Responsory3]
 @Tempora/Epi2-6:Responsory3

@@ -5,7 +5,7 @@ Del Libro del Eclesiástico.
 2 Como de la serpiente, huye del pecado, porque, si te acercas, te morderá. 
 3 Dientes de león son los suyos, que dan muerte a los hombres. 
 4 Toda iniquidad es como espada de dos filos; no hay medicina para su llaga. 
-5 La violencia y la soberbia aniquilan la hacienda, y así será asolada la casa del orgulloso. 
+5 La violencia y la soberbia aniquilan la hacienda, y así será asolada la casa del orgulloso.
 
 [Responsory1]
 @Tempora/081-0:Responsory4
@@ -28,7 +28,7 @@ Del Libro del Eclesiástico.
 13 Y el fin del temor de Dios es la sabiduría. 
 14 No es educado el que no es prudente; 
 15 pero hay una prudencia que acarrea mucha amargura. 
-16 La ciencia del sabio crece como una inundación, y su consejo es como una fuente de vida. 
+16 La ciencia del sabio crece como una inundación, y su consejo es como una fuente de vida.
 
 [Responsory3]
 @Tempora/081-0:Responsory6

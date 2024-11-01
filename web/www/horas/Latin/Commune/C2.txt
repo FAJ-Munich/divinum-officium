@@ -14,11 +14,6 @@ Qui mihi minístrat, * me sequátur: et ubi ego sum, illic sit et miníster meus
 Si quis mihi ministráverit, * honorificábit eum Pater meus, qui est in cælis, dicit Dóminus.
 Volo Pater, * ut ubi ego sum, illic sit et miníster meus.
 
-[Capitulum Vespera]
-!Jac 1:12
-v. Beátus vir, qui suffert tentatiónem: quóniam cum probátus fúerit, accípiet corónam vitæ, quam repromísit Deus diligéntibus se.
-$Deo gratias
-
 [Hymnus Vespera]
 {:H-Deustuorummilitum:}v. Deus tuórum mílitum
 Sors, et córona, prǽmium,
@@ -50,7 +45,8 @@ Amen.
 @:Hymnus Vespera:s/blanda fraudum pábula/blandiménta nóxia/ s/Imbúta felle députans/Cadúca rite députans/ s/Fundénsque pro te/Pro te effúndens/ s/Patri sit, atque/Deo Patri, et/
 
 [Versum 1]
-@:Ant Matutinum:4-5
+V. Glória et honóre coronásti eum, Dómine.
+R. Et constituísti eum super ópera mánuum tuárum.
 
 [Ant 1]
 Iste Sanctus * pro lege Dei sui certávit usque ad mortem, et a verbis impiórum non tímuit: fundátus enim erat supra firmam petram.
@@ -68,16 +64,18 @@ Regem Mártyrum Dóminum, * Veníte, adorémus.
 In lege Dómini * fuit volúntas ejus die ac nocte.;;1
 Prǽdicans * præcéptum Dómini constitútus est in monte sancto ejus.;;2
 Voce mea * ad Dóminum clamávi: et exaudívit me de monte sancto suo.;;3
-V. Glória et honóre coronásti eum, Dómine.
-R. Et constituísti eum super ópera mánuum tuárum.
 Fílii hóminum * scitóte quia Dóminus sanctum suum mirificávit.;;4
 Scuto bonæ voluntátis * tuæ coronásti eum Dómine.;;5
 In univérsa terra * glória et honóre coronásti eum.;;8
-V. Posuísti, Dómine, super caput ejus.
-R. Corónam de lápide pretióso.
 Justus Dóminus, * et justítiam diléxit: æquitátem vidit vultus ejus.;;10
 Habitábit * in tabernáculo tuo: requiéscet in monte sancto tuo.;;14
 Posuísti, Dómine, * super caput ejus corónam de lápide pretióso.;;20
+
+[Nocturn 2 Versum]
+V. Posuísti, Dómine, super caput ejus.
+R. Corónam de lápide pretióso.
+
+[Nocturn 3 Versum]
 V. Magna est glória ejus in salutári tuo.
 R. Glóriam et magnum decórem impónes super eum.
 
@@ -154,7 +152,7 @@ V. Quóniam prævenísti eum in benedictiónibus dulcédinis: posuísti in cápi
 R. Et voluntáte labiórum ejus non fraudásti eum.
 
 [Lectio6]
-Contemplabátur enim quantum in ænigmáte infírmitas humána óculum mentis in æternitáte fígere potest, quanta sint supérnæ civitátis gáudia: et ea enarráre non suffíciens admirándo clamábat Quid mihi est in cælo? Quasi díceret: Excédit vires meas, excédit facultátem eloquéntiæ meæ, transcéndit capacitátem intelligéntiæ meæ illud decus, illa glória, illa celsitúdo, qua nobis, a conturbatióne hóminum remótis, in abscóndito faciéi suæ Jesus Christus Dóminus noster reformábit corpus humilitátis nostræ, configurátum corpóri claritátis suæ. Hujus perféctæ libertátis contemplatióne nullum vitábat perículum, nullum horrébat supplícium: et si mílies posset mori, non putábat se hanc digne posse áliqua ratióne promeréri.
+Contemplabátur enim quantum in ænígmate infírmitas humána óculum mentis in æternitáte fígere potest, quanta sint supérnæ civitátis gáudia: et ea enarráre non suffíciens admirándo clamábat Quid mihi est in cælo? Quasi díceret: Excédit vires meas, excédit facultátem eloquéntiæ meæ, transcéndit capacitátem intelligéntiæ meæ illud decus, illa glória, illa celsitúdo, qua nobis, a conturbatióne hóminum remótis, in abscóndito faciéi suæ Jesus Christus Dóminus noster reformábit corpus humilitátis nostræ, configurátum córpori claritátis suæ. Hujus perféctæ libertátis contemplatióne nullum vitábat perículum, nullum horrébat supplícium: et si mílies posset mori, non putábat se hanc digne posse áliqua ratióne promeréri.
 
 [Responsory6]
 R. Stola jucunditátis índuit eum Dóminus:
@@ -210,7 +208,9 @@ R. Ut digni efficiámur promissiónibus Christi.
 @:Ant Vespera
 
 [Capitulum Laudes]
-@:Capitulum Vespera
+!Jac 1:12
+v. Beátus vir, qui suffert tentatiónem: quóniam cum probátus fúerit, accípiet corónam vitæ, quam repromísit Deus diligéntibus se.
+$Deo gratias
 
 [Hymnus Laudes]
 {:H-Invictemartyrunicum:}v. Invícte Martyr, únicum
@@ -264,10 +264,7 @@ $Per Dominum
 !Sir 39:6
 v. Justus cor suum trádidit ad vigilándum dilúculo ad Dóminum, qui fecit illum, et in conspéctu Altíssimi deprecábitur.
 
-[Capitulum Tertia]
-@:Capitulum Laudes
-
-[Responsory Breve3]
+[Responsory Breve Tertia]
 R.br. Glória et honóre * Coronásti eum, Dómine.
 R. Glória et honóre * Coronásti eum, Dómine.
 V. Et constituísti eum super ópera mánuum tuárum.
@@ -275,18 +272,12 @@ R. Coronásti eum, Dómine.
 &Gloria
 R. Glória et honóre * Coronásti eum, Dómine.
 
-[Responsory Tertia]
-@:Responsory Breve3
-_
-@:Ant Matutinum:9
-@:Ant Matutinum:10
-
 [Capitulum Sexta]
 !Sir 15:3
 v. Cibávit illum pane vitæ et intelléctus, et aqua sapiéntiæ salutáris potávit illum Dóminus Deus noster.
 $Deo gratias
 
-[Responsory Breve6]
+[Responsory Breve Sexta]
 R.br. Posuísti, Dómine, * Super caput ejus.
 R. Posuísti, Dómine, * Super caput ejus.
 V. Corónam de lápide pretióso.
@@ -294,29 +285,17 @@ R. Super caput ejus.
 &Gloria
 R. Posuísti, Dómine, * Super caput ejus.
 
-[Responsory Sexta]
-@:Responsory Breve6
-_
-@:Ant Matutinum:14
-@:Ant Matutinum:15
-
 [Capitulum Nona]
 @:Lectio Prima
 $Deo gratias
 
-[Responsory Breve9]
+[Responsory Breve Nona]
 R.br. Magna est glória ejus * In salutári tuo.
 R. Magna est glória ejus * In salutári tuo.
 V. Glóriam et magnum decórem impónes super eum.
 R. In salutári tuo.
 &Gloria
 R. Magna est glória ejus * In salutári tuo.
-
-[Responsory Nona]
-@:Responsory Breve9
-_
-@:Versum 2:1
-@:Versum 2:2
 
 [Versum 3]
 @:Versum 2

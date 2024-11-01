@@ -7,6 +7,10 @@ Sabbato Quattuor Temporum Septembris;;Feria major;;4
 [Rule]
 Preces feriales
 
+[Oratio]
+Dios todopoderoso y eterno que curas los cuerpos y las almas por medio de la saludable penitencia; te pedimos humildemente que, movido por nuestras súplicas y privaciones, nos concedas los auxilios para el presente y para el futuro.
+$Per Dominum
+
 [Lectio1]
 Lección del santo Evangelio según San Lucas. 
 !Luc 13:6-17
@@ -33,7 +37,3 @@ Vino antes de la ley, porque cada cual conoció a la luz de la razón natural c�
 
 [Ant 2]
 Ilumina, Señor, * a los que viven en tiniebla y en sombra de muerte, y guía nuestros pasos por el camino de la paz.
-
-[Oratio]
-Dios todopoderoso y eterno que curas los cuerpos y las almas por medio de la saludable penitencia; te pedimos humildemente que, movido por nuestras súplicas y privaciones, nos concedas los auxilios para el presente y para el futuro.
-$Per Dominum

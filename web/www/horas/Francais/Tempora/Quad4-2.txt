@@ -1,8 +1,6 @@
 [Rank]
 Feria Tertia infra Hebdomadam IV in Quadragesima;;Feria major;;3
 
-[Rule]
-
 [Lectio1]
 Lecture du saint Évangile selon saint Jean
 !Joannes 7:14-31

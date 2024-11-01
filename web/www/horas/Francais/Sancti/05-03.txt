@@ -1,13 +1,6 @@
 [Rank]
 Inventione Sanctæ Crucis;;Duplex II classis;;5.2;;
 
-[Rule]
-proprium
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Psalm5 Vespera=116
-
 [Ant Vespera]
 O grande œuvre de bonté ! * La mort a été détruite sur le bois lorsque la vie y est morte.
 Sauvez-nous, * ô Christ Sauveur, par la vertu de la Croix ; Vous qui avez sauvé Pierre sur la mer, ayez pitié de nous.
@@ -16,7 +9,7 @@ Il nous faut mettre notre gloire * dans la Croix de notre Seigneur Jésus-Christ
 Par le signe de la Croix, * délivrez-nous de nos ennemis, ô notre Dieu.
 
 [Hymnus Vespera]
-@Psalterium/Major Special:Hymnus Quad5 Vespera
+@Psalterium/Special/Major Special:Hymnus Quad5 Vespera
 
 [Versum 1]
 V. Ce signe de la Croix sera dans le ciel. (Alléluia.)
@@ -33,7 +26,7 @@ $Qui vivis
 Le Christ, Roi crucifié, * Venez, adorons-le. (Alléluia.)
 
 [Hymnus Matutinum]
-@Psalterium/Matutinum Special:Hymnus Quad5
+@Psalterium/Special/Matutinum Special:Hymnus Quad5
 
 [Ant Matutinum]
 De l’Invention de la Croix, * célébrons de nouveau la fête, dont la gloire brille d’un vif éclat dans le monde entier, alléluia.;;1
@@ -152,16 +145,13 @@ Alexandre, né à Rome, gouverna l’Église sous l’empereur Hadrien, et conve
 Alexandre, né à Rome, gouverna l’Église sous l’empereur Hadrien, et convertit au Christ une grande partie de la noblesse romaine. Il établit qu’au Sacrifice, on offrirait exclusivement du pain et du vin. Il ordonna de mêler de l’eau au vin, à cause du sang et de l’eau qui coulèrent du côté de Jésus-Christ. Il ajouta au canon de la Messe ces mots : qui> la veille de sa passion... C’est lui aussi qui décréta que l’on conserverait toujours, dans l’église, de l’eau bénite mêlée de sel et que l’on s’en servirait dans les habitations, pour chasser les démons. Il siégea dix ans, cinq mois et vingt jours, illustre par la sainteté de sa vie et par ses salutaires institutions. Il reçut la couronne du martyre en même temps que les prêtres Évence et Théodule et fut inhumé sur la voie Nomentane, à trois milles de Rome, au lieu même où il avait eu la tête tranchée. En plusieurs fois, au mois de Décembre, il avait ordonné six prêtres, deux diacres, et sacré cinq évêques pour divers lieux. Dans la suite, les corps de ces Saints furent transportés à Rome, en l’église Sainte-Sabine. Ce même jour fut marqué par la bienheureuse mort de saint Juvénal, évêque de Marni, qui, après avoir enfanté beaucoup de fidèles au Christ, dans cette ville, par sa sainteté et sa doctrine, s’endormit dans la paix et fut enseveli avec honneur dans sa ville épiscopale.
 &teDeum
 
-[Ant Laudes]
-@:Ant Vespera
-
 [Capitulum Laudes]
 !Phil 2:5-7
 v. Mes frères : Ayez en vous les mêmes sentiments dont était animé le Christ Jésus : bien qu’il fût Dieu par nature, il n’a pas retenu avidement son égalité avec Dieu, mais il s’est anéanti lui-même en prenant la condition d’esclave, en devenant semblable aux hommes, à l’extérieur absolument comme un homme.
 $Deo gratias.
 
 [Hymnus Laudes]
-@Psalterium/Major Special:Hymnus Quad5 Laudes
+@Psalterium/Special/Major Special:Hymnus Quad5 Laudes
 
 [Versum 2]
 V. Nous Vous adorons, ô Christ, et nous Vous bénissons. (Alléluia.)

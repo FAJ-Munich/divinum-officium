@@ -1,17 +1,8 @@
 [Rank]
 Secunda die infra Octavam Epiphaniæ;;Semiduplex;;2;;ex Sancti/01-06
 
-[Rank] (rubrica 1960)
+[Rank] (rubrica 196 aut rubrica 1955)
 Die Septima Januarii;;Feria;;1.2;;vide Sancti/01-06
-
-[Rule]
-ex Sancti/01-06
-Lectio1 tempora
-Doxology=Epi
-9 lectiones
-Feria Te Deum
-No prima Vespera
-Infra octavam Epiphaniæ Domini
 
 [Lectio1]
 De la Epístola a los Romanos
@@ -21,15 +12,6 @@ De la Epístola a los Romanos
 3 hasta desear yo mismo ser apartado de Cristo por la salud de mis hermanos, que son mis deudos según la carne. 
 4 Los cuales son los Israelitas, de quienes es la adopción de hijos de Dios y la gloria y la alianza, y la legislación, y el culto, y las promesas. 
 5 Cuyos padres son aquellos de quienes desciende Cristo según la carne, el cual es Dios bendito sobre todas las cosas por siempre jamás. Amén.
-
-[Responsory1]
-@Sancti/01-06:Responsory1InfraOctavam
-
-[Responsory2]
-@Sancti/01-06:Responsory2
-
-[Responsory3]
-@Sancti/01-06:Responsory3
 
 [Lectio2]
 !Rom 9:6-10

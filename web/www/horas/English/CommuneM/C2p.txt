@@ -1,13 +1,10 @@
-[Name]
-Commune unius Martyris Tempore Paschali
-
 [Lectio1]
 From the Book of Wisdom
 !Sap 5:1-4
 1 The just shall stand with great constancy against those that have afflicted them, and taken away their labours.
 2 These seeing it, shall be troubled with terrible fear, and shall be amazed at the suddenness of their unexpected salvation.
 3 Saying within themselves, repenting, and groaning for anguish of spirit: These are they, whom we had some time in derision, and for a parable of reproach.
-4 We fools esteemed their life madness, and their end without honour. 
+4 We fools esteemed their life madness, and their end without honour.
 
 [Lectio2]
 !Sap 5:5-7;14
@@ -34,34 +31,22 @@ R. The just shall rejoice in the Lord, and shall hope in him: and praised shall 
 V. Be glad in the Lord, and rejoice, ye just. And glory,
 R. All ye right of heart, allelúja, allelúja.
 
-[Responsory11]
-R. Fulgébunt justi sicut lílium:
-* Et sicut rosæ in Jéricho florébunt ante Dóminum, allelúja.
-V. Justi autem in perpétuum vivent, et apud Dóminum est merces eórum.
-R. Et sicut rosæ in Jéricho florébunt ante Dóminum, allelúja.
-
-[Responsory12]
-R. Gáudete, justi, in Dómino, allelúja:
-* Rectos decet collaudátio, allelúja, allelúja.
-V. Cantáte ei cánticum novum: bene psállite ei in vociferatióne.
-R. Rectos decet collaudátio, allelúja, allelúja.
-
-[Lectio 6 in 2 loco]
+[Lectio6 in 2 loco]
 @Commune/C2p:Lectio5 in 2 loco:s/The bloody .*//s
 
-[Lectio 7 in 2 loco]
+[Lectio7 in 2 loco]
 @Commune/C2p:Lectio5 in 2 loco:s/.* The bloody /The bloody /s s/$/~/
-@Commune/C2p:Lectio6 in 2 loco:s/us, "Precious .*/us./s
+@Commune/C2p:Lectio6 in 2 loco:s/us, “Precious .*/us./s
 
-[Lectio 8 in 2 loco]
-@Commune/C2p:Lectio6 in 2 loco:s/.* us, "Precious /"Precious /s
+[Lectio8 in 2 loco]
+@Commune/C2p:Lectio6 in 2 loco:s/.* us, “Precious /“Precious /s
 
-[Lectio 9 in 2 loco]
+[Lectio9 in 2 loco]
 @Commune/C2p:Lectio7 in 2 loco:s/And as .*//s
 
-[Lectio 10 in 2 loco]
+[Lectio10 in 2 loco]
 @Commune/C2p:Lectio7 in 2 loco:s/.* And as /And as /s s/$/~/
 @Commune/C2p:Lectio8 in 2 loco:s/So much .*//s
 
-[Lectio 11 in 2 loco]
+[Lectio11 in 2 loco]
 @Commune/C2p:Lectio8 in 2 loco:s/.* So much /So much /s

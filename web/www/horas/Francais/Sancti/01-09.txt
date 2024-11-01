@@ -1,16 +1,8 @@
 [Rank]
 Quarta die infra Octavam Epiphaniæ;;Semiduplex;;2;;ex Sancti/01-06
 
-[Rank] (rubrica 1960)
+[Rank] (rubrica 196 aut rubrica 1955)
 Die Nona Januarii;;Feria;;1.2;;vide Sancti/01-06
-
-[Rule]
-ex Sancti/01-06
-Lectio1 tempora
-Doxology=Epi
-9 lectiones
-Feria Te Deum
-Infra octavam Epiphaniæ Domini
 
 [Lectio1]
 De l'Épître aux Romains
@@ -19,15 +11,6 @@ De l'Épître aux Romains
 2 C'est pourquoi celui qui résiste à l'autorité, résiste à l'ordre que Dieu a établi et ceux qui résistent, attireront sur eux-mêmes une condamnation.
 3 Car les magistrats ne sont point à redouter pour les bonnes actions, mais pour les mauvaises. Veux-tu ne pas craindre l'autorité ? Fais le bien, et tu auras son approbation ;
 4 car le prince est pour toi ministre de Dieu pour le bien.
-
-[Responsory1]
-@Sancti/01-06:Responsory1InfraOctavam
-
-[Responsory2]
-@Sancti/01-06:Responsory2
-
-[Responsory3]
-@Sancti/01-06:Responsory3
 
 [Lectio2]
 !Rom 13:4-7

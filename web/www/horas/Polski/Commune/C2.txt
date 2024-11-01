@@ -1,23 +1,9 @@
-[Name]
-Commune Unius Martyris
-
-[Rule]
-Psalmi Dominica
-Antiphonas horas
-Psalm5 Vespera=116
-Psalm5 Vespera3=115
-
 [Ant Vespera]
 Wszelki, który Mię wyzna * przed ludźmi, wyznam go Ja też przed Ojcem.
 Kto za Mną idzie, * nie chodzi w ciemnościach, ale będzie miał światłość żywota, mówi Pan.
 Jeśli Mnie kto służy, * niech za Mną idzie: a gdziem Ja jest, tam i sługa Mój będzie.
 Jeśli Mi kto będzie służył, * uczci go Ojciec Mój, który jest w niebiesiech, mówi Pan.
 Chcę Ojcze, * aby, gdziem Ja jest, tam i sługa Mój był.
-
-[Capitulum Vespera]
-!Jk 1:12
-v. Błogosławiony mąż, który zdzierża pokusę; bo gdy będzie doświadczony, weźmie koronę żywota, którą obiecał Bóg tym, którzy go miłują.
-$Deo gratias
 
 [Hymnus Vespera]
 {:H-Deustuorummilitum:}v. O Boże, dziedzictwo, uwieńczenie,
@@ -46,6 +32,10 @@ Wespół ze Świętym Pocieszycielem
 Na wieki wieków. 
 Amen.
 
+[Versum 1]
+V. Chwałą i czcią ukoronowałeś go, Panie.
+R. I postanowiłeś go nad dziełami rąk Twoich.
+
 [Ant 1]
 Święty ten * o prawo Boga swojego walczył aż do śmierci: i nie bał się słowa bezbożnych, bo utwierdził się na silnej opoce.
 
@@ -56,16 +46,18 @@ Pana, Króla Męczenników, * Pójdźmy uwielbiać.
 W zakonie Pańskim * wola jego będzie, we dnie i w nocy.;;1
 Opowiadając * przykazanie Pańskie, postanowion jest nad górą świętą jego.;;2
 Głosem moim * wołałem do Pana: i wysłuchał mię z góry świętéj swojéj.;;3
-V. Chwałą i czcią ukoronowałeś go, Panie.
-R. I postanowiłeś go nad dziełami rąk Twoich.
 Synowie człowieczy, * wiedzcież, iż dziwnym uczynił Pan świętego swego.;;4
 Jako tarczą dobréj woli * twéj obtoczyłeś go Panie.;;5.
 Po wszystkiej ziemi * chwałą i czcią ukoronowałeś go.;;8
-V. Włożyłeś, Panie, na głowę jego.
-R. Koronę z kamienia drogiego.
 Sprawiedliwy Pan, * i sprawiedliwość miłuje: prawość widziało oblicze jego.;;10
 Mieszka * w przybytku twoim: odpocznie na górze twojéj świętéj.;;14
 Włożyłeś, Panie, * na głowę jego, koronę z kamienia drogiego.;;20
+
+[Nocturn 2 Versum]
+V. Włożyłeś, Panie, na głowę jego.
+R. Koronę z kamienia drogiego.
+
+[Nocturn 3 Versum]
 V. Wielka jest chwała jego w zbawieniu twojem. 
 R. Sławę i wielką ozdobę nań włożysz.
 
@@ -133,6 +125,11 @@ R. I włożył mu na głowę wspaniałą koronę.
 &Gloria
 R. I włożył mu na głowę wspaniałą koronę.
 
+[Capitulum Laudes]
+!Jk 1:12
+v. Błogosławiony mąż, który zdzierża pokusę; bo gdy będzie doświadczony, weźmie koronę żywota, którą obiecał Bóg tym, którzy go miłują.
+$Deo gratias
+
 [Hymnus Laudes]
 {:H-Invictemartyrunicum:}v. Niepokonany Męczenniku, 
 naśladujący jedynego Syna Ojca, 
@@ -182,10 +179,7 @@ $Per Dominum
 !Syr 39:6
 v. Obróci serce swe, aby wstawał rano do Pana, który go stworzył, a przed oczyma Nawyższego modlić się będzie.
 
-[Capitulum Tertia]
-@:Capitulum Vespera
-
-[Responsory Breve3]
+[Responsory Breve Tertia]
 R.br. Chwałą i czcią * Ukoronowałeś go, Panie, 
 R. Chwałą i czcią * Ukoronowałeś go, Panie, 
 V. I postanowiłeś go nad dziełami rąk Twoich.
@@ -198,7 +192,7 @@ R. Chwałą i czcią * Ukoronowałeś go, Panie,
 v. Nakarmi go chlebem żywota i rozumienia, a wodą mądrości zbawiennej napoi go Pan, Bóg nasz.
 $Deo gratias
 
-[Responsory Breve6]
+[Responsory Breve Sexta]
 R.br. Włożyłeś Panie, * Na głowę jego.
 R. Włożyłeś Panie, * Na głowę jego.
 V. Koronę z kamienia drogiego.
@@ -206,7 +200,7 @@ R. Na głowę jego.
 &Gloria
 R. Włożyłeś Panie, * Na głowę jego.
 
-[Responsory Breve9]
+[Responsory Breve Nona]
 R.br. Wielka jest chwała jego * W zbawieniu twojem.
 R. Wielka jest chwała jego * W zbawieniu twojem.
 V. Sławę i wielką ozdobę nań włożysz.

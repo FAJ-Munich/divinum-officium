@@ -1,16 +1,8 @@
 [Rank]
 Tertia die infra Octavam Epiphaniae;;Semiduplex;;2;;ex Sancti/01-06
 
-[Rank] (rubrica 1960)
+[Rank] (rubrica 196 aut rubrica 1955)
 Die Octava Januarii;;Feria;;1.2;;vide Sancti/01-06
-
-[Rule]
-ex Sancti/01-06
-Lectio1 tempora
-Doxology=Epi
-9 lectiones
-Feria Te Deum
-Infra octavam Epiphaniae Domini
 
 [Lectio1]
 Dalla Lettera ai Romani
@@ -18,15 +10,6 @@ Dalla Lettera ai Romani
 1 Io vi scongiuro adunque, o fratelli, per la misericordia di Dio, ad offrire i vostri corpi come ostia vivente, santa, gradita a Dio, (è questo) il vostro culto ragionevole. 
 2 E non vogliate conformarvi a questo secolo, ma riformatevi col rinnovamento del vostro spirito: affinché possiate conoscere quale sia la volontà di Dio, ciò ch'è bene, gradito e perfetto. 
 3 Quindi, in virtù della grazia che mi è stata data, dico a ciascuno di voi: Di non esagerare il proprio valore ma di avere un concetto modesto di sé: e ciascuno secondo la misura della fede che Dio gli ha compartita.
-
-[Responsory1]
-@Sancti/01-06:Responsory1InfraOctavam
-
-[Responsory2]
-@Sancti/01-06:Responsory2
-
-[Responsory3]
-@Sancti/01-06:Responsory3
 
 [Lectio2]
 !Rom 12:4-8

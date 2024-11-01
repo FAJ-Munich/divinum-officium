@@ -1,11 +1,22 @@
 #Incipit
-$Pater Ave L
-(sed rubrica 196 aut rubrica 1955)
- ~
-(rubrica Ordo Praedicatorum dicitur)
-&versiculum_ante_laudes 
+(atque dicuntur semper)
+(deinde dicuntur)
+$rubrica Secreto a Laudibus
+$Pater noster
+$Ave Maria
+_
+(sed rubrica ^Trident omittuntur)
+(deinde dicitur)
+$rubrica Secus absolute
+(sed rubrica cisterciensis dicitur)
+$rubrica Clara voce
+(atque rubrica 196 aut rubrica 1955 aut rubrica altovadensis omittuntur)
+(rubrica Ordo Praedicatorum) &versiculum_ante_laudes
+(rubrica altovadensis) $rubrica Incipit
 &Deus_in_adjutorium
+(deinde dicitur)
 &Alleluia
+(sed rubrica cisterciensis omittitur)
 
 (rubrica Monastica dicitur)
 &psalm(66)
@@ -13,9 +24,7 @@ $Pater Ave L
 #Psalmi
 
 #Capitulum Hymnus Versus
-(sed rubrica Monastica omittitur)
-
-(rubrica Monastica dicitur)
+(sed rubrica Monastica dicitur)
 #Capitulum Responsorium Hymnus Versus
 
 #Canticum: Benedictus
@@ -31,14 +40,18 @@ $Pater Ave L
 #Conclusio
 &Dominus_vobiscum
 &Benedicamus_Domino
+(deinde dicitur)
 $Fidelium animae
-(rubrica ^Monastic dicitur)
-&Divinum_auxilium
+(sed rubrica cisterciensis omittitur)
+(rubrica 1963 aut rubrica cisterciensis) &Divinum_auxilium
+(rubrica cisterciensis) $Fidelium animae
 
+(si rubrica 1951 dicuntur)
+$rubrica Conclusio cisterciensis
+$Conclusio cisterciensis
+(atque dicuntur semper)
 $Pater totum secreto
 $Dominus det
-(sed rubrica 196 aut rubrica 1955 omittitur)
 
-&antiphona_finalis
-&Divinum_auxilium
-(sed rubrica 196 aut rubrica 1955 omittitur)
+#Antiphona finalis
+(sed rubrica 196 aut rubrica 1955 aut rubrica cisterciensis omittuntur)

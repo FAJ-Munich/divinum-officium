@@ -4,7 +4,7 @@
 12 lectiones
 
 [Responsory Vespera]
-@Psalterium/Major Special:PaschM Vespera:3-8
+@Psalterium/Special/Major Special:PaschM Vespera:3-8
 
 [Lectio1]
 @Tempora/Pasc4-0:Lectio1:1-6 s/-6/-4/
@@ -63,7 +63,7 @@
 @Tempora/Pasc4-0:Lectio8:s/.* Sed quid /Sed quid /s
 
 [Responsory11]
-R. Allelúja, audivímus ea in Ephrata invénimus eam in campis silvæ
+R. Allelúja, audívimus ea in Ephrata invénimus eam in campis silvæ
 * Introívimus in tabernáculum ejus adorávimus in loco, ubi stetérunt pedes ejus, † allelúja, allelúja.
 V. Surge Dómine in réquiem tuam tu et arca sanctificatiónis tuæ.
 R. Introívimus in tabernáculum ejus adorávimus in loco, ubi stetérunt pedes ejus, † allelúja, allelúja.
@@ -78,4 +78,4 @@ V. Averte óculos meos ne vídeant vanitátem in via tua vivífica me.
 R. Inclina cor meum in testimónia tua, † allelúja, allelúja, allelúja.
 
 [Responsory Laudes]
-@Psalterium/Major Special:PaschM Laudes:3-8
+@Psalterium/Special/Major Special:PaschM Laudes:3-8

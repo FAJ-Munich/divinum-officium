@@ -21,14 +21,6 @@ Doxology=Asc
 [Oratio]
 @Tempora/Pasc6-0
 
-[LectioJudae1]
-Inicio de la Epístola Católica de S. Judas Tadeo, Apóstol
-!Judas 1:1-4
-1 Judas, siervo de Jesucristo y hermano de Santiago, a los amados en Dios Padre, llamados y conservados en Jesucristo; 
-2 la misericordia, la paz y la caridad abunden más y más en vosotros. 
-3 Carísimos, deseando vivamente escribiros acerca de nuestra común salud, he sentido la necesidad de hacerlo, exhortándoos a combatir por la fe, que, una vez para siempre, ha sido dada a los santos. 
-4 Porque disimuladamente se han introducido algunos impíos, ya desde antiguo señalados para esta condenación, que convierten en lascivia la gracia de nuestro Dios y niegan al único Dueño y Señor nuestro, Jesucristo. 
-
 [Lectio1]
 @:LectioJudae1
 (sed rubrica 1960)
@@ -39,13 +31,6 @@ R. Yo rogaré al Padre, y os enviará otro Consolador,
 * Para que permanezca para siempre con vosotros el Espíritu de verdad, aleluya. 
 V. Si yo no partiere, el Paráclito no vendrá a vosotros; mas si partiere, os lo enviaré. 
 R. Para que permanezca para siempre con vosotros el Espíritu de verdad, aleluya.
-
-[LectioJudae2]
-!Judas 1:5-8
-5 Quiero recordaros a vosotros que ya habéis conocido todas las cosas, cómo el Señor, después de salvar de Egipto a su pueblo, hizo luego perecer a los incrédulos; 
-6 y cómo a los ángeles que no guardaron su dignidad y abandonaron su propio domicilio, los tiene reservados en perpetua prisión, en el orco, para el juicio del gran día. 
-7 Cómo Sodoma y Gomorra y las ciudades vecinas, que, de igual modo que ellas, habían fornicado, yéndose tras los vicios contra naturaleza, fueron puestas para escarmiento, sufriendo la pena del fuego perdurable. 
-8 También éstos, dejándose llevar de sus delirios, manchan su carne, menosprecian la autoridad y blasfeman de las dignidades. 
 
 [Lectio2]
 @:LectioJudae2
@@ -59,14 +44,6 @@ V. Pues no hablará de suyo, sino que dirá todas las cosas que habrá oído, y 
 R. Y cuando Él viniere, os enseñará toda verdad, aleluya. 
 &Gloria
 R. Y cuando Él viniere, os enseñará toda verdad, aleluya. 
-
-[LectioJudae3]
-!Judas 1:9-13
-9 El arcángel Miguel, cuando altercaba con el diablo contendiendo sobre el cuerpo de Moisés, no se atrevió a proferir un juicio de blasfemia, sino que dijo: “Que el Señor te reprenda”. 
-10 Pero éstos blasfeman de cuanto ignoran; y aun en lo que naturalmente, como brutos irracionales, conocen, en eso mismo se corrompen. 
-11 ¡Ay de ellos, que han seguido la senda de Caín y se dejaron seducir del error de Balam por la recompensa y perecieron en la rebelión de Coré! 
-12 Estos son deshonra de vuestros ágapes; banquetean con vosotros sin vergüenza, apacentándose a sí mismos; son nubes sin agua, arrastradas por los vientos; árboles tardíos sin fruto, dos veces muertos, desarraigados; 
-13 olas bravas del mar, que arrojan la espuma de sus impurezas; astros errantes, a los cuales está reservado el orco tenebroso para siempre. 
 
 [Lectio3]
 @:LectioJudae3
@@ -94,7 +71,7 @@ En aquel tiempo: Dijo Jesús a sus discípulos: Si me amáis, guardad mis precep
 _
 Homilía de San Agustín, Obispo.
 !Tratado 74 acerca de San Juan, hacia el fin.
-Por medio de las palabras: “Rogaré al Padre”, y os dará otro Paráclito”, muestra que Él es también Paráclito. Paráclito en latín significa abogado. De Cristo está escrito: Tenemos por abogado delante del Padre a Jesucristo justo. Al decir que el mundo no puede recibir al Espíritu Santo, lo dijo en el mismo sentido en que está escrito: "La prudencia de la carne es enemiga de Dios", ya que no está conforme a la ley de Dios, ni puede estarlo; como si dijésemos: la injusticia no puede ser la justicia. Con la palabra “mundo” Él designa aquellos que aman el mundo, amor que no procede  del Padre. Por lo mismo, el amor de este mundo, que deseamos disminuya y desaparezca de entre nosotros, es contrario al amor de Dios, el cual ha sido comunicado a nuestros corazones por el Espíritu Santo que nos ha sido dado.
+Por medio de las palabras: “Rogaré al Padre”, y os dará otro Paráclito”, muestra que Él es también Paráclito. Paráclito en latín significa abogado. De Cristo está escrito: Tenemos por abogado delante del Padre a Jesucristo justo. Al decir que el mundo no puede recibir al Espíritu Santo, lo dijo en el mismo sentido en que está escrito: “La prudencia de la carne es enemiga de Dios”, ya que no está conforme a la ley de Dios, ni puede estarlo; como si dijésemos: la injusticia no puede ser la justicia. Con la palabra “mundo” Él designa aquellos que aman el mundo, amor que no procede  del Padre. Por lo mismo, el amor de este mundo, que deseamos disminuya y desaparezca de entre nosotros, es contrario al amor de Dios, el cual ha sido comunicado a nuestros corazones por el Espíritu Santo que nos ha sido dado.
 
 [Lectio8]
 De consiguiente, “el mundo no le puede recibir, porque no le ve ni le conoce”; ya que el mundo no tiene ojos espirituales, los únicos con que puede ser visto el Espíritu Santo. El Espíritu Santo no puede ser visto sino de un modo invisible. “Mas vosotros, dice, le conoceréis, porque permanecerá en vosotros y estará en vosotros”. Estará en ellos para morar, no morará en ellos para estar allí, supuesto que primero es estar en algún lugar que morar en él. Pero a fin de que no pensaran que las palabras: “Permanecerá en vosotros”, significan una permanencia visible, como la de un huésped entre los hombres, explicó el sentido de esta expresión “Permanecerá en vosotros” al decir: “Estará en vosotros”.
@@ -103,11 +80,33 @@ De consiguiente, “el mundo no le puede recibir, porque no le ve ni le conoce�
 @Tempora/Pasc6-0
 
 [Lectio9]
-Se ve, por lo mismo, el Espíritu Santo, de una manera invisible. Ni podemos conocerle si no está en nosotros; de un modo parecido conocemos en nosotros nuestra conciencia. Nosotros vemos el rostro de otra persona, pero el nuestro no podemos verlo. Por el contrario vemos nuestra conciencia, y no vemos la de otro. Pero la conciencia nuestra no puede existir sino en nosotros; mas el Espíritu Santo puede existir sin nosotros. Se nos da, para que esté también en nosotros. Pero si Él no está en nosotros es imposible que lo veamos y conozcamos, tal como debe ser visto y conocido.~
-(deinde dicitur)
+Se ve, por lo mismo, el Espíritu Santo, de una manera invisible. Ni podemos conocerle si no está en nosotros; de un modo parecido conocemos en nosotros nuestra conciencia. Nosotros vemos el rostro de otra persona, pero el nuestro no podemos verlo. Por el contrario vemos nuestra conciencia, y no vemos la de otro. Pero la conciencia nuestra no puede existir sino en nosotros; mas el Espíritu Santo puede existir sin nosotros. Se nos da, para que esté también en nosotros. Pero si Él no está en nosotros es imposible que lo veamos y conozcamos, tal como debe ser visto y conocido. (deinde dicitur)
 Después de haber prometido el Espíritu Santo, el Señor no queriendo que pudiésemos creer que lo enviaba para que le sustituyese, y que Él así cesaría de estar con sus discípulos, añade: No os dejaré huérfanos, volveré a vosotros. Aunque el Hijo de Dios nos hizo hijos adoptivos de su Padre, y quiso que tuviésemos como Padre por la gracia al que es su Padre por naturaleza, con todo, Él mismo nos muestra en cierto modo un afecto paternal, cuando dice: No os dejaré huérfanos.
 (sed rubrica 1570 omittitur)
 &teDeum
+
+[LectioJudae1]
+Inicio de la Epístola Católica de S. Judas Tadeo, Apóstol
+!Judas 1:1-4
+1 Judas, siervo de Jesucristo y hermano de Santiago, a los amados en Dios Padre, llamados y conservados en Jesucristo; 
+2 la misericordia, la paz y la caridad abunden más y más en vosotros. 
+3 Carísimos, deseando vivamente escribiros acerca de nuestra común salud, he sentido la necesidad de hacerlo, exhortándoos a combatir por la fe, que, una vez para siempre, ha sido dada a los santos. 
+4 Porque disimuladamente se han introducido algunos impíos, ya desde antiguo señalados para esta condenación, que convierten en lascivia la gracia de nuestro Dios y niegan al único Dueño y Señor nuestro, Jesucristo.
+
+[LectioJudae2]
+!Judas 1:5-8
+5 Quiero recordaros a vosotros que ya habéis conocido todas las cosas, cómo el Señor, después de salvar de Egipto a su pueblo, hizo luego perecer a los incrédulos; 
+6 y cómo a los ángeles que no guardaron su dignidad y abandonaron su propio domicilio, los tiene reservados en perpetua prisión, en el orco, para el juicio del gran día. 
+7 Cómo Sodoma y Gomorra y las ciudades vecinas, que, de igual modo que ellas, habían fornicado, yéndose tras los vicios contra naturaleza, fueron puestas para escarmiento, sufriendo la pena del fuego perdurable. 
+8 También éstos, dejándose llevar de sus delirios, manchan su carne, menosprecian la autoridad y blasfeman de las dignidades.
+
+[LectioJudae3]
+!Judas 1:9-13
+9 El arcángel Miguel, cuando altercaba con el diablo contendiendo sobre el cuerpo de Moisés, no se atrevió a proferir un juicio de blasfemia, sino que dijo: “Que el Señor te reprenda”. 
+10 Pero éstos blasfeman de cuanto ignoran; y aun en lo que naturalmente, como brutos irracionales, conocen, en eso mismo se corrompen. 
+11 ¡Ay de ellos, que han seguido la senda de Caín y se dejaron seducir del error de Balam por la recompensa y perecieron en la rebelión de Coré! 
+12 Estos son deshonra de vuestros ágapes; banquetean con vosotros sin vergüenza, apacentándose a sí mismos; son nubes sin agua, arrastradas por los vientos; árboles tardíos sin fruto, dos veces muertos, desarraigados; 
+13 olas bravas del mar, que arrojan la espuma de sus impurezas; astros errantes, a los cuales está reservado el orco tenebroso para siempre.
 
 [Versum 2]
 @Tempora/Pasc6-0

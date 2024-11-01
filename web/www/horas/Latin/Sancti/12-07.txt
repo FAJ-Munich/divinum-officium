@@ -1,24 +1,24 @@
 [Rank]
 S. Ambrosii Episcopi Confessoris et Ecclesiæ Doctoris;;Duplex;;3;;vide C4a
 
-[Name]
-Ambrósi
-
 [Rule]
 vide C4a;mtv
 9 lectiones;
+
+[Name]
+Ambrósi
 
 [Oratio]
 Deus, qui pópulo tuo ætérnæ salútis beátum Ambrósium minístrum tribuísti: præsta, quǽsumus; ut, quem Doctórem vitæ habúimus in terris, intercessórem habére mereámur in cælis.
 $Per Dominum
 
-[Lectio1](rubrica tridentina)
+[Lectio1] (rubrica tridentina)
 @Commune/C4:Lectio1
 
-[Lectio2](rubrica tridentina)
+[Lectio2] (rubrica tridentina)
 @Commune/C4:Lectio2
 
-[Lectio3](rubrica tridentina)
+[Lectio3] (rubrica tridentina)
 @Commune/C4:Lectio3
 
 [Lectio4]

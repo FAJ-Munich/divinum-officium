@@ -22,7 +22,7 @@ De los Hechos de los Apóstoles
 17 El Dios de este pueblo de Israel eligió a nuestros padres y acrecentó al pueblo durante su estancia en la tierra de Egipto, y con brazo fuerte los sacó de ella. 
 18 Durante unos cuarenta años los proveyó de alimento en el desierto; 
 19 y destruyendo a siete naciones de la tierra de Canaan, se la dio en heredad 
-20 al cabo de unos cuatrocientos cincuenta años. Después les dio jueces, hasta el profeta Samuel. 
+20 al cabo de unos cuatrocientos cincuenta años. Después les dio jueces, hasta el profeta Samuel.
 
 [Responsory1]
 @Tempora/Pasc0-2:Responsory1
@@ -33,7 +33,7 @@ De los Hechos de los Apóstoles
 22 Rechazado éste, alzó por rey a David, de quien dio testimonio, diciendo: He hallado a David, hijo de Jesé, varón según mi corazón que hará en todo mi voluntad. 
 23 Del linaje de éste, según su promesa, suscitó Dios para Israel un salvador, Jesús, 
 24 precedido por Juan, que predicó antes de la llegada de aquél el bautismo de penitencia a todo el pueblo de Israel. 
-25 Cuando Juan estaba para acabar su carrera, dijo: No soy yo el que vosotros pensáis: otro viene después de mí, a quien no soy digno de desatar el calzado. 
+25 Cuando Juan estaba para acabar su carrera, dijo: No soy yo el que vosotros pensáis: otro viene después de mí, a quien no soy digno de desatar el calzado.
 
 [Responsory2]
 @Tempora/Pasc0-2:Responsory2
@@ -47,7 +47,7 @@ De los Hechos de los Apóstoles
 30 pero Dios le resucitó de entre los muertos y durante muchos días se apareció 
 31 a los que con Él habían subido de Galilea a Jerusalén, que son ahora sus testigos ante el pueblo. 
 32 Nosotros os anunciamos el cumplimiento de la promesa hecha a nuestros padres, 
-33 que Dios cumplió en nosotros, sus hijos, resucitando a Jesús, según está escrito en el salmo segundo: “Tú eres mi hijo, Yo te engendré hoy”. 
+33 que Dios cumplió en nosotros, sus hijos, resucitando a Jesús, según está escrito en el salmo segundo: “Tú eres mi hijo, Yo te engendré hoy”.
 
 [Responsory3]
 @Tempora/Pasc0-3:Responsory1
@@ -67,7 +67,7 @@ En estos días el Señor se juntó como compañero a dos discípulos que iban de
 @Tempora/Pasc0-5:Responsory1
 
 [Lectio6]
-No obstante estos y otros milagros, los discípulos se muestran dominados por el temor, aunque el Señor se les haya aparecido, y les haya dicho: "la paz sea con vosotros”. Con el fin de alejar la duda que aún atormentaba su corazón, ya que creían ver un espíritu y no un cuerpo, el Salvador les muestra las señales de la crucifixión que quedaban en sus manos y en sus pies, invitándoles a examinarlas atentamente y a tocarlas. Las señales de los clavos y de la lanza habían permanecido en su cuerpo para curar las heridas de los corazones infieles, y para que se creyera con certeza firmísima, que la misma  naturaleza que estuvo en el sepulcro, había de sentarse juntamente con Dios Padre en su trono.
+No obstante estos y otros milagros, los discípulos se muestran dominados por el temor, aunque el Señor se les haya aparecido, y les haya dicho: “la paz sea con vosotros”. Con el fin de alejar la duda que aún atormentaba su corazón, ya que creían ver un espíritu y no un cuerpo, el Salvador les muestra las señales de la crucifixión que quedaban en sus manos y en sus pies, invitándoles a examinarlas atentamente y a tocarlas. Las señales de los clavos y de la lanza habían permanecido en su cuerpo para curar las heridas de los corazones infieles, y para que se creyera con certeza firmísima, que la misma  naturaleza que estuvo en el sepulcro, había de sentarse juntamente con Dios Padre en su trono.
 
 [Responsory6]
 @Tempora/Pasc0-5:Responsory2

@@ -1,5 +1,3 @@
-@Tempora/Epi6-0
-
 [Rank]
 Dominica VI Post Epiphaniam;;Simplex;;1
 

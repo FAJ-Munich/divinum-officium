@@ -1,7 +1,7 @@
 [Rank]
 Feria Secunda infra Octavam Corporis Christi;;Semiduplex II class;;5;;ex Tempora/Pent01-4
 
-[Rank] (rubrica 1960)
+[Rank] (rubrica 196 aut rubrica 1955)
 Feria II infra Hebdomadam II post Octavam Pentecostes;;Feria;;1
 
 [Rule]
@@ -25,7 +25,7 @@ De premier livre de Samuel
 !1 Sam 5:6-8
 06 La main du Seigneur pesa lourdement sur les gens d’Ashdod. Il fit chez eux des ravages, il frappa de tumeurs Ashdod et son territoire.
 07 Lorsque les gens d’Ashdod virent ce qu’il en était, ils dirent : « Que l’arche du Dieu d’Israël ne reste pas chez nous, car sa main s’est faite dure contre nous et contre Dagone notre dieu ! »
-08 Ils invitèrent donc tous les princes des Philistins à se réunir chez eux et ils dirent : « Qu’allons-nous faire de l’arche du Dieu d’Israël ? » Les princes répondirent : « C’est dans la ville de Gath que doit être transférée l’Arche ! » 
+08 Ils invitèrent donc tous les princes des Philistins à se réunir chez eux et ils dirent : « Qu’allons-nous faire de l’arche du Dieu d’Israël ? » Les princes répondirent : « C’est dans la ville de Gath que doit être transférée l’Arche ! »
 
 [Responsory2 1960]
 @Tempora/Pent03-1Feria:Responsory2

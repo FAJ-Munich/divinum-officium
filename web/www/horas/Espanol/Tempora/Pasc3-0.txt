@@ -7,7 +7,7 @@ Duplex
 Una Antiphona
 
 [Versum 1]
-@Psalterium/Major Special:Pasch Versum 3
+@Psalterium/Special/Major Special:Pasch Versum 3
 
 [Ant 1]
 Dentro de un poco, * ya no me veréis, y dentro de otro poco, me veréis, porque voy al Padre. Aleluya, aleluya.
@@ -15,6 +15,10 @@ Dentro de un poco, * ya no me veréis, y dentro de otro poco, me veréis, porque
 [Oratio]
 La luz de tu verdad, ¡oh Dios!, guíe a los que andan extraviados, para que puedan volver al camino de la santidad; concede a todos los cristianos rechazar lo que es indigno de tal nombre y cumplir todo lo que este nombre significa.
 $Per Dominum
+
+[Commemoratio]
+!Commemoratio pro Octava S. Joseph
+@Tempora/Pasc2-3:Oratio
 
 [Lectio1]
 Empieza el Libro del Apocalipsis de San Juan
@@ -24,7 +28,7 @@ Empieza el Libro del Apocalipsis de San Juan
 3 Bienaventurado el que lee, y los que escuchan las palabras de esta profecía, y los que observan las cosas en ella escritas, pues el tiempo está próximo. 
 4 Juan, a las siete Iglesias que hay en Asia: Con vosotros sean la gracia y la paz, de parte del que es, del que era y del que viene, y de los siete espíritus que están delante de su trono, 
 5 y de Jesucristo, el testigo veraz, el primogénito de los muertos, el príncipe de los reyes de la tierra. El cual nos amó y nos ha absuelto de nuestros pecados por la virtud de su sangre, 
-6 y nos ha hecho un reino y sacerdotes de Dios, su Padre, a Él la gloria y el imperio por los siglos de los siglos, amén. 
+6 y nos ha hecho un reino y sacerdotes de Dios, su Padre, a Él la gloria y el imperio por los siglos de los siglos, amén.
 
 [Responsory1]
 R. Digno eres, Señor, de recibir el libro y de abrir sus sellos, porque has sido sacrificado y nos has redimido 
@@ -35,7 +39,7 @@ R. Con tu sangre, aleluya.
 [Lectio2]
 !Ap 1:7-11
 7 Ved que viene en las nubes del cielo, y todo ojo le verá, y cuantos le traspasaron; y se lamentarán todas las tribus de la tierra. Sí, amén.
-8 "Yo soy el alfa y la omega, dice el Señor Dios; el que es, el que era, el que viene, el todopoderoso." 
+8 “Yo soy el alfa y la omega, dice el Señor Dios; el que es, el que era, el que viene, el todopoderoso.” 
 9 Yo, Juan, vuestro hermano y compañero en la tribulación, en el reino y en la paciencia en Jesús, hallándome en la isla llamada Patmos, por la palabra de Dios y por el testimonio de Jesús, 
 10 fui arrebatado en espíritu el día del Señor y oí tras de mí una voz fuerte, como de trompeta, 
 11 que decía: Lo que vieres escríbelo en un libro y envíalo a las siete iglesias, a Efeso, a Esmirna, a Pérgamo, a Tiatira, a Sardes, a Filadelfia y a Laodicea.
@@ -55,7 +59,7 @@ R. Venid a mí todos los que os halláis atraídos por mi amor, y saciaos de mis
 16 Tenía en su diestra siete estrellas, y de su boca salía una espada aguda de dos filos, y su aspecto era como el sol cuando resplandece en toda su fuerza. 
 17 Así que le vi, caí a sus pies como muerto; pero Él puso su diestra sobre mí, diciendo: No temas, Yo soy el primero y el último, 
 18 el viviente, que fui muerto y ahora vivo por los siglos de los siglos, y tengo las llaves de la muerte y del infierno. 
-19 Escribe, pues, lo que vieres, tanto lo presente como lo que ha de ser después de esto. 
+19 Escribe, pues, lo que vieres, tanto lo presente como lo que ha de ser después de esto.
 
 [Responsory3]
 R. Oí una voz del cielo como de un gran trueno, aleluya. Reinará nuestro Dios para siempre, aleluya; 
@@ -132,7 +136,7 @@ v. Queridos hermanos: Os ruego que, como forasteros en país extraño, os apart�
 $Deo gratias
 
 [Versum 2]
-@Psalterium/Major Special:Pasch Versum 2
+@Psalterium/Special/Major Special:Pasch Versum 2
 
 [Ant 2]
 @:Ant 1
@@ -148,11 +152,7 @@ v. Los criados, que acepten la autoridad de los amos con el debido respeto, no s
 $Deo gratias
 
 [Versum 3]
-@Psalterium/Major Special:Pasch Versum 3
+@Psalterium/Special/Major Special:Pasch Versum 3
 
 [Ant 3]
 Yo os aseguro: * Lloraréis y os lamentaréis vosotros, mientras el mundo está alegre. Vosotros estaréis tristes, pero vuestra tristeza se convertirá en alegría. Aleluya.
-
-[Commemoratio]
-!Commemoratio pro Octava S. Joseph
-@Tempora/Pasc2-3:Oratio

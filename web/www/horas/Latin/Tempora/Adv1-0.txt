@@ -9,10 +9,7 @@ Antiphonas horas
 @:Ant Laudes
 
 [Ant Vespera](rubrica tridentina)
-@Psalterium/Psalmi major:Daya6 Vespera
-
-[Ant Vespera 3]
-@:Ant Laudes
+@Psalterium/Psalmi/Psalmi major:Daya6 Vespera
 
 [Ant 1]
 Ecce nomen Dómini * venit de longínquo, et cláritas ejus replet orbem terrárum.
@@ -144,12 +141,15 @@ $Deo gratias.
 Spíritus Sanctus * in te descéndet, María: ne tímeas, habébis in útero Fílium Dei, allelúja.
 
 [Capitulum Sexta]
-@Psalterium/Major Special:Day1 Laudes
+@Psalterium/Special/Major Special:Day1 Laudes
 
 [Capitulum Nona]
 !Rom 13:13-14
 v. Sicut in die honéste ambulémus, non in comessatiónibus et ebrietátibus, non in cubílibus et impudicítiis, non in contentióne et æmulatióne; sed induímini Dóminum Jesum Christum.
 $Deo gratias
+
+[Ant Vespera 3]
+@:Ant Laudes
 
 [Ant 3]
 Ne tímeas, María, * invenísti enim grátiam apud Dóminum: ecce concípies, et páries fílium, allelúja.

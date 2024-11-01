@@ -1,5 +1,3 @@
 [Rule]
-OPapaC=Sylvester;
-
-[Oratio]
-@Commune/C4:Oratio Gregem
+vide C4;
+CPapaC=Sylvester;

@@ -1,19 +1,14 @@
-[Rank]
+[Rank] (rubrica divino)
 In Octavam Omnium Sanctorum;;Duplex majus;;4.1;;vide Sancti/11-01
 
 [Rank] (rubrica tridentina)
 ln Octavam Omnium Sanctorum;;Duplex majus;;4;;ex Sancti/11-01
 
-[Rule]
-vide Sancti/11-01;
-9 lectiones
-Quorum Festum 
-
 [Commemoratio]
 !Commemorazione dei Ss. Mart. Quattro Coronati.
 @Commune/C3:Oratio proper
 v. Preghiamo.
-Concedi, Dio onnipotente, che, come abbiamo conosciuto i gloriosi Martiri forti nella confessione della loro fede, cosi li sperimentiamo pietosi nell'intercedere per noi presso di te. 
+Concedi, Dio onnipotente, che, come abbiamo conosciuto i gloriosi Martiri forti nella confessione della loro fede, così li sperimentiamo pietosi nell'intercedere per noi presso di te. 
 $Per Dominum
 
 [Lectio4]

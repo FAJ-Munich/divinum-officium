@@ -22,6 +22,8 @@ omittitur
 per annum
 paschale
 Tridentinum
+cisterciense
+altovadense
 
 [Lectio]
 Commemoratio Feriae

@@ -21,7 +21,7 @@ Del Libro Tercero de los Reyes
 2 se apareció Yahvé por segunda vez a Salomón, como se le había aparecido en Gabaón, 
 3 y le dijo: “He oído tu oración, el ruego que has hecho ante mí. He santificado esa casa que has edificado, para poner en ella mi nombre para siempre, y en ella estarán siempre mis ojos y mi corazón. 
 4 Si andas en mi presencia, como anduvo David, tu padre, en integridad de corazón y en equidad, haciendo cuanto Yo te he mandado y guardando mis leyes y mandamientos, 
-5 Yo afirmaré el trono de tu reino sobre Israel para siempre, como se lo prometí a David, tu padre, diciendo: No faltará de ti varón en el trono de Israel. 
+5 Yo afirmaré el trono de tu reino sobre Israel para siempre, como se lo prometí a David, tu padre, diciendo: No faltará de ti varón en el trono de Israel.
 
 [Responsory1]
 @Tempora/Pent01-1
@@ -31,7 +31,7 @@ Del Libro Tercero de los Reyes
 6 Pero si os apartáis de mí vosotros y vuestros hijos, si no guardáis mis mandamientos, mis leyes, las que Yo os he prescrito, y os vais tras dioses ajenos para servirlos y prosternaros ante ellos, 
 7 Yo exterminaré a Israel de la tierra que le he dado y echaré lejos de delante de mí esta casa, que he consagrado a mi nombre, e Israel será el sarcasmo y la burla de todos los pueblos. 
 8 Y esta casa será una ruina, y cuantos pasen cerca de ella se quedarán pasmados y silbarán. Se dirá: ¿Por qué ha tratado así Yahvé a esta tierra y esta casa? 
-9 Y responderán: Porque abandonaron a Yahvé, su Dios, que sacó de la tierra de Egipto a sus padres, y se ligaron a otros dioses, prosternándose ante ellos y sirviéndolos. Por eso ha hecho venir Yahvé sobre ellos todo este mal.” 
+9 Y responderán: Porque abandonaron a Yahvé, su Dios, que sacó de la tierra de Egipto a sus padres, y se ligaron a otros dioses, prosternándose ante ellos y sirviéndolos. Por eso ha hecho venir Yahvé sobre ellos todo este mal.”
 
 [Responsory2]
 @Tempora/Pent01-1
@@ -42,13 +42,13 @@ Del Libro Tercero de los Reyes
 11 para las cuales Hiram, rey de Tiro, había mandado a Salomón madera de cedro y de ciprés y cuanto oro quiso, dio Salomón a Hiram veinte ciudades en tierra de Galilea. 
 12 Salió Hiram de Tiro para ver las ciudades que le daba Salomón; y, no gustándole, dijo: “¿Qué ciudades me has dado, hermano?” 
 13 Y las llamó tierras de Cabul, nombre que tienen todavía hoy. 
-14 Había mandado Hiram a Salomón ciento veinte talentos de oro. 
+14 Había mandado Hiram a Salomón ciento veinte talentos de oro.
 
 [Responsory3]
 @Tempora/Pent01-1
 
 [Lectio4]
-Del libro de San Agustín, Obispo, "La Ciudad de Dios".
+Del libro de San Agustín, Obispo, “La Ciudad de Dios”.
 !Libro 17, cap. 8, cerca de la mitad.
 Hubo en Salomón cierta imagen de las cosas futuras por haber edificado el Templo, fomentado la paz presagiada por su nombre (Salomón, en latín: pacificus), y haber sido en los comienzos de su reinado, singularmente digno de elogio. Prefiguró (aunque no se identificara con Él) al mismo Jesucristo. Muchas cosas que a él se refieren, parece que  fueron escritas para anunciar al Salvador; como vemos a veces en la Sagrada Escritura, que profetiza, aun por medio de hechos ya realizados, y traza con ellos la imagen de los venideros.
 

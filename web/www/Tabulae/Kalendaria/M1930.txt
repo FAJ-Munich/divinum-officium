@@ -3,7 +3,7 @@
 01-01=01-01=In Circumcisione Domini=5=
 01-02=01-02=In Octava Sancti Stephani=1=
 01-03=01-03=In Octavam S. Joannis=1=
-01-04=01-04=In Octava Ss. Innocentium=1=
+01-04=01-04=In Octava Ss. Innocentium=1=S. Titi Episc et Confessoris=1=
 01-05=01-05=Vigilia Epiphaniae=5=S. Telesphori Papae et Martyris=1=
 01-06=01-06=Epiphaniae Domini=6=
 01-07=01-07=Secunda die infra Octavam Epiphaniae=2=
@@ -11,7 +11,7 @@
 01-09=01-09=Quarta die infra Octavam Epiphaniae=2=
 01-10=01-10~01-10cc=Quinta die infra Octavam Epiphaniae=2=S. Pauli primi Eremitae et Confessoris=1=
 01-11=01-11=Sexta die infra Octavam Epiphaniae=2
-01-12=01-12=Septima die infra Octavam Epiphaniae=2=
+01-12=01-12t=De Dominica infra Octavam Epiphaniae=2=
 01-13=01-13=Die Octava Epiphaniae=4=
 01-14=01-14~01-14cc=S. Hilarii Episcopi Confessoris et Ecclesiae Doctoris=3=S. Felicis Presbyteri et Mart.=1=
 01-15=01-15=S. Mauri Abbatis=5=
@@ -42,12 +42,26 @@
 02-12=02-12=Ss. Septem Fundatorum Ordinis Servorum B. M. V.=3=
 02-14=02-14=S. Valentini=1=
 02-22=02-22=In Cathedra S. Petri Ap=5=
-02-23=02-23=S. Petri Damiani=3=
+02-23=02-23=S. Petri Damiani=3=Vigilia in Missa tantum
 02-24=02-24=S. Matthiae Apostoli=5=
+02-29=02-23o=Vigilia in Missa tantum
+*March*
+03-12=03-12=S. Gregorii Papae Confessoris et Eccl Doct=3=
+*May*
+05-19=05-19~05-19o=
+*June*
+06-19=06-19o=
 *July*
+07-20=07-20=S. Hieronymi Aemiliani
+07-21=07-21=S. Praxedis
 07-22=07-22=S. Mariae Magdalenae Poenitentis=3=
+07-29=07-29cc=
+08-30=08-30o=
+*November*
+10-21=10-21=
 *November*
 11-01=11-01=Omnium Sanctorum=6=
+11-22=11-22=
 11-25=11-25=S. Catharinæ Virg. et Mart.=1=
 *December*
 12-02=12-02m=S. Petri Chrysologi Episcopi Confessoris Ecclesiae Doctoris=3=

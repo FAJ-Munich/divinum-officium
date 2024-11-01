@@ -9,6 +9,10 @@ ex Tempora/Pent01-4;
 9 lectiones
 Doxology=Corp
 
+[Oratio](rubrica 1960)
+O Dio, fortezza di quelli che sperano in te, ascolta propizio le nostre preghiere: e siccome senza di te nulla può l'umana debolezza, concedici l'aiuto della tua grazia; affinché nell'eseguire i tuoi comandamenti, ti piacciamo e colla volontà e coll'opera.
+$Per Dominum
+
 [Lectio1]
 Dal primo libro dei Re
 !1 Sam 2:27-29
@@ -64,7 +68,3 @@ Ecco dunque l'insegnamento e la lezione che egli ci dà con queste misteriose pa
 [Lectio9]
 Se i discepoli trovarono duro questo linguaggio, che dire dei suoi nemici? Eppure bisognava esprimersi qui in modo da non esser compreso da tutti. Il segreto di Dio deve farci attenti, non ostili: ma la fede di quei discepoli venne subito meno al sentire tali cose dal Signore Gesù Cristo. Non credettero che annunziasse qualche cosa di grande, e che quelle parole coprissero una grazia novella: ma le intesero come vollero e affatto umanamente, (pensarono cioè) che Gesù era capace o che Gesù disegnava di distribuire, come in pezzi, a coloro che credevano in lui, la carne onde il Verbo era rivestito. «E duro, dicono, questo linguaggio: e chi lo può intendere?».
 &teDeum
-
-[Oratio](rubrica 1960)
-O Dio, fortezza di quelli che sperano in te, ascolta propizio le nostre preghiere: e siccome senza di te nulla può l'umana debolezza, concedici l'aiuto della tua grazia; affinché nell'eseguire i tuoi comandamenti, ti piacciamo e colla volontà e coll'opera.
-$Per Dominum

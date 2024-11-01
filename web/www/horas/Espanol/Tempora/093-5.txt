@@ -7,6 +7,10 @@ Feria Sexta Quattuor Temporum Septembris;;Feria major;;4
 [Rule]
 Preces feriales
 
+[Oratio]
+Dios todopoderoso, te pedimos que la celebración anual de estas témporas sirva para hacerte agradables nuestro cuerpo y nuestro espíritu.
+$Per Dominum
+
 [Lectio1]
 Lección del santo Evangelio según San Lucas. 
 !Luc 7:36-50
@@ -33,10 +37,6 @@ Enjugamos con nuestros cabellos los pies del Señor, cuando mostramos nuestra pi
 
 [Ant 2]
 Una mujer * de la ciudad, una pecadora, colocándose detrás a los pies del Señor, se puso a regárselos con lágrimas y a enjugárselos con sus cabellos; los cubría de besos y se los ungía con perfume.
-
-[Oratio]
-Dios todopoderoso, te pedimos que la celebración anual de estas témporas sirva para hacerte agradables nuestro cuerpo y nuestro espíritu.
-$Per Dominum
 
 [Ant 3]
 @:Ant 2

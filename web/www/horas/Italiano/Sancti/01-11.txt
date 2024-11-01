@@ -1,17 +1,8 @@
 [Rank]
 Sexta die infra Octavam Epiphaniae;;Semiduplex;;2.1;;ex Sancti/01-06
 
-[Rank] (rubrica 1960)
+[Rank] (rubrica 196 aut rubrica 1955)
 Die Undecima Januarii;;Feria;;1.2;;vide Sancti/01-06
-
-[Rule]
-ex Sancti/01-06
-Lectio1 tempora
-Doxology=Epi
-9 lectiones
-CPapaM=Igino;
-Feria Te Deum
-Infra octavam Epiphaniae Domini
 
 [Lectio1]
 Dalla Lettera ai Romani
@@ -20,15 +11,6 @@ Dalla Lettera ai Romani
 2 Ognuno di noi cerchi dl piacere al suo prossimo, nel bene, per edificazione. 
 3 Cristo infatti non cercò di piacere a se stesso, ma come sta scritto: «Gli insulti di coloro che ti insultavano son ricaduti su di me» (Ps. 68,10). 
 4 Poiché tutto quello che fu scritto, è stato scritto per nostro ammaestramento. affinché mediante la pazienza e la consolazione (attinta) dalle Scritture, abbiamo speranza.
-
-[Responsory1]
-@Sancti/01-06:Responsory1InfraOctavam
-
-[Responsory2]
-@Sancti/01-06:Responsory2
-
-[Responsory3]
-@Sancti/01-06:Responsory3
 
 [Lectio2]
 !Rom 15:5-11

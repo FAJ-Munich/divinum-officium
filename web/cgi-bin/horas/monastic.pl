@@ -32,7 +32,7 @@ sub psalmi_matutinum_monastic {
   our $psalmnum1 = our $psalmnum2 = -1;    # Psalm 3 as 0
 
   #** reads the set of antiphons-psalms from the psalterium
-  my %psalmi = %{setupstring($lang, 'Psalterium/Psalmi matutinum.txt')};
+  my %psalmi = %{setupstring($lang, 'Psalterium/Psalmi/Psalmi matutinum.txt')};
   my @psalmi = split("\n", $psalmi{"Daym$dayofweek"});
 
   if ($dayofweek == 5) {
@@ -46,7 +46,7 @@ sub psalmi_matutinum_monastic {
       $psalmi[12] =~ s/99!.*/99/;
     }
   }
-  setbuild("Psalterium/Psalmi matutinum monastic", "dayM$dayofweek", 'Psalmi ord');
+  setbuild("Psalterium/Psalmi/Psalmi matutinum monastic", "dayM$dayofweek", 'Psalmi ord');
   $comment = 1;
   my $prefix = translate('Antiphonae', $lang);
   my $name = gettempora('Psalmi Matutinum Monastic');
@@ -100,13 +100,11 @@ sub psalmi_matutinum_monastic {
       }
     } else {
       my %c = (columnsel($lang)) ? %commune : %commune2;
-      my @v = split("\n", $c{"Ant Matutinum"});
-      my @f = (0, 6, 14, 17);
-      ($psalmi[6], $psalmi[7]) = ($v[$f[$i]], $v[$f[$i] + 1]);
+      ($psalmi[6], $psalmi[7]) = split("\n", $c{"Nocturn $i Versum"});
 
       if ($dayofweek == 0) {
-        ($psalmi[14], $psalmi[15]) = ($v[14], $v[15]);
-        ($psalmi[17], $psalmi[18]) = ($v[17], $v[18]);
+        ($psalmi[14], $psalmi[15]) = split("\n", $c{"Nocturn 2 Versum"});
+        ($psalmi[17], $psalmi[18]) = split("\n", $c{"Nocturn 3 Versum"});
       }
     }
     setbuild2("Subst Matutinum Versus $name $dayofweek");
@@ -142,7 +140,7 @@ sub psalmi_matutinum_monastic {
     && !($dayname[1] =~ /infra.*Nativitatis/i && $dayofweek && $version !~ /196/)
   ) {
     #** get proper Ant Matutinum for II. and I. class feasts unless it's Wednesday thru Saturday of the Easter Octave
-    my ($w, $c) = getproprium('Ant Matutinum', $lang, $version !~ /196/, 1); # for Trid. und Divino also look in Commune
+    my ($w, $c) = getantmatutinum($lang);
 
     if ($w) {
       @psalmi = split("\n", $w);
@@ -170,7 +168,7 @@ sub psalmi_matutinum_monastic {
   ) {
 
     if (exists($winner{'Ant Matutinum'})) {
-      my ($w, $c) = getproprium('Ant Matutinum', $lang, 0, 0);
+      my ($w, $c) = getantmatutinum($lang);
       my @p = split("\n", $w);
 
       for (my $i = 0; $i < 14; $i++) {
@@ -293,7 +291,7 @@ sub psalmi_matutinum_monastic {
 
   if (!$w) {
     my $name = gettempora('MM Capitulum');
-    my %s = %{setupstring($lang, 'Psalterium/Matutinum Special.txt')};
+    my %s = %{setupstring($lang, 'Psalterium/Special/Matutinum Special.txt')};
     $w = $s{"MM Capitulum$name"};
   }
   postprocess_vr($w, $lang) if ($dayname[0] =~ /Pasc/);
@@ -334,7 +332,7 @@ sub absolutio_benedictio {
     $ben = $a[3 - ($i == 3)];
   }
 
-  push(@s, "\n", '&pater_noster', '_');
+  push(@s, "\n", '$Pater noster_', '_');
   push(@s, "Absolutio. $abs", '$Amen', "\n");
   push(@s, prayer('Jube domne', $lang));
   push(@s, "Benedictio. $ben", '$Amen', '_');
@@ -393,13 +391,13 @@ sub brevis_monastic {
       ensure_single_alleluia(\$resp[1], $lang);
       ensure_single_alleluia(\$resp[-1], $lang);
     }
-    $lectio = join("\n", $c{$name}, "\$Tu autem\n_", @resp);
+    $lectio = join("\n", $c{$name} =~ s/.teDeum//r, "\$Tu autem\n_", @resp);
     setbuild2("Mariae $name");
   } elsif ($commune && $commune !~ /C\d/) {
     my %c = (columnsel($lang)) ? %commune : %commune2;
     $lectio = $c{"MM LB"};
   } else {
-    my %b = %{setupstring($lang, 'Psalterium/Matutinum Special.txt')};
+    my %b = %{setupstring($lang, 'Psalterium/Special/Matutinum Special.txt')};
     $lectio = $b{"MM LB" . (($dayname[0] =~ /Pasc/) ? " Pasch" : $dayofweek)};
   }
   $lectio =~ s/&Gloria1?/&Gloria1/;
@@ -462,7 +460,7 @@ sub lectioE_required {
 
 #*** sub regula_vel_lectio_evangeli
 # for Ordo Praedicatorum
-sub regula_vel_evangelium : ScriptFunc {
+sub regula_vel_evangelium {
 
   my $lang = shift;
 
@@ -489,12 +487,12 @@ sub regula_vel_evangelium : ScriptFunc {
 
 #*** regula($lang)
 #returns the text of the Regula for the day
-sub regula : ScriptFunc {
+sub regula {
   my $lang = shift;
+  return regula_vel_evangelium($lang) if $version =~ /Ordo Praedicatorum/i;
 
   my @a;
   my $t = prayer('benedictio Prima', $lang) . "\n";
-  $t .= setfont($largefont, translate("Regula", $lang)) . "\n";
   my $d = $day;
   my $l = leapyear($year);
 
@@ -513,7 +511,7 @@ sub regula : ScriptFunc {
   @a = do_read($fname);
   my $title = shift(@a);
   for (@a) { s/^$/_/; }
-  $title =~ s/.*#//;
+  $title =~ s/.*#/v. /;
   unshift(@a, $title);
   $t .= join("\n", @a);
 
@@ -526,6 +524,6 @@ sub regula : ScriptFunc {
   }
 
   $t .= "\n\$Tu autem";
-  $t .= "\n_\n" . prayer("rubrica Regula", $lang) . "\n_";
+  $t .= "\n_\n\$rubrica Regula\n";
   return $t;
 }

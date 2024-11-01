@@ -6,7 +6,7 @@ Del libro de Job
 3 He aquí que enseñaste a muchos, confortaste muchas manos débiles. 
 4 Con tu palabra sostuviste a los vacilantes y fortaleciste a rodillas que se doblaban. 
 5 Pero ahora, que ha venido sobre ti, ¿decaes? Cuando te ha tocado, ¿te turbas? 
-6 ¿No es ya tu piedad tu confianza? ¿No es la rectitud de los caminos la esperanza tuya? 
+6 ¿No es ya tu piedad tu confianza? ¿No es la rectitud de los caminos la esperanza tuya?
 
 [Responsory1]
 @Tempora/091-0:Responsory2
@@ -17,7 +17,7 @@ Del libro de Job
 8 Por lo que siempre vi, los que aran la iniquidad y siembran la desventura, la cosechan. 
 9 Bajo el aliento de Dios perecen, desaparecen al soplo de su nariz. 
 10 Los rugidos del león, los bramidos de la fiera, los dientes de los cachorros de león son quebrantados. 
-11 Perece el león falto de presa, y se dispersan los cachorros de la leona. 
+11 Perece el león falto de presa, y se dispersan los cachorros de la leona.
 
 [Responsory2]
 @Tempora/081-0:Responsory1

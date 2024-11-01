@@ -9,9 +9,6 @@ Antiphonas horas
 Psalm5 Vespera=116
 Psalm5 Vespera3=115
 
-[Ant Vespera]
-@Commune/C1p:Ant Laudes
-
 [Hymnus Vespera]
 @Commune/C2
 
@@ -31,26 +28,20 @@ Exsúltent in Dómino sancti, * Allelúja.
 @Commune/C1p::1 s/;;18/;;1/
 ;;2
 ;;3
-@Commune/C1p::4
-@Commune/C1p::5
-@Commune/C1p::6 s/;;46/;;4/
+@Commune/C1p::4 s/;;46/;;4/
 ;;5
 ;;6
-@Commune/C1p::9
-@Commune/C1p::10
-@Commune/C1p::11 s/;;74/;;10/
+@Commune/C1p::7 s/;;74/;;10/
 ;;14
 ;;20
-@Commune/C1p::14
-@Commune/C1p::15
 
-[Lectio 1]
+[Lectio1]
 @Commune/C2
 
-[Lectio 2]
+[Lectio2]
 @Commune/C2
 
-[Lectio 3]
+[Lectio3]
 @Commune/C2
 
 [Lectio4]
@@ -103,6 +94,18 @@ Ego sum, inquit, vitis vera: et Pater meus agrícola est. Numquid unum sunt agr�
 [HymnusM Laudes]
 @Commune/C2
 
+[Oratio]
+@Commune/C2
+
+[Oratio1]
+@Commune/C2
+
+[Oratio2]
+@Commune/C2
+
+[Oratio3]
+@Commune/C2
+
 [Lectio4 in 2 loco]
 De Epístola sancti Cypriáni Epíscopi et Mártyris ad Mártyres et Confessóres.
 !Lib. 2. Epist. 6.
@@ -121,7 +124,7 @@ In illo témpore: Dixit Jesus discípulis suis: Ego sum vitis, vos pálmites: qu
 _
 Homilía sancti Augustíni Epíscopi
 !Tract. 81 in Joan., sub med.
-Ne quisquam putáret saltem parvum áliquem fructum posse a semetípso pálmitem ferre: cum dixísset, Hic fert fructum multum; non ait, Quia sine me parum potéstis fácere; sed, Nihil potéstis fácere. Sive ergo parum, sive multum, sine illo fíeri non potest, sine quo nihil fíeri potest: quia etsi parum attúlerit palmes, eum purgat agrícola, ut plus áfferat; tamen nisi in vite mánserit, et víxerit de rádice, quantúmlibet fructum a semetípso non potest ferre. Quamvis autem Christus vitis non esset, nisi homo esset: tamen istam grátiam palmítibus non præbéret, nisi étiam Deus esset.
+Ne quisquam putáret saltem parvum áliquem fructum posse a semetípso pálmitem ferre: cum dixísset, Hic fert fructum multum; non ait, Quia sine me parum potéstis fácere; sed, Nihil potéstis fácere. Sive ergo parum, sive multum, sine illo fíeri non potest, sine quo nihil fíeri potest: quia etsi parum attúlerit palmes, eum purgat agrícola, ut plus áfferat; tamen nisi in vite mánserit, et víxerit de radíce, quantúmlibet fructum a semetípso non potest ferre. Quamvis autem Christus vitis non esset, nisi homo esset: tamen istam grátiam palmítibus non præbéret, nisi étiam Deus esset.
 
 [Lectio8 in 2 loco]
 Verum quia ita sine ista grátia non potest vivi, ut et mors in potestáte sit líberi arbítrii: Si quis in me, inquit, non mánserit; mittétur foras sicut palmes, et aréscet, et cólligent eum, et in ignem mittent, et ardet. Ligna ítaque vitis tanto sunt contemptibilióra si in vite non mánserint, quanto gloriosióra si mánserint. Dénique sicut de his étiam per Ezechiélem prophétam Dóminus dicit, præcísa nullis agricolárum úsibus prosunt, nullis fabrílibus opéribus deputántur. Unum de duóbus pálmiti congruit, aut vitis, aut ignis: si in vite non est, in igne erit: ut ergo in igne non sit, in vite sit.

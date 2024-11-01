@@ -1,8 +1,6 @@
 [Rank]
 Feria Quarta infra Hebdomadam II in Quadragesima;;Feria major;;2
 
-[Rule]
-
 [Lectio1]
 Lettura del santo Vangelo secondo Matteo
 !Matt 20:17-28

@@ -11,7 +11,7 @@ Del Libro Tercero de los Reyes
 2 Así que lo oyó Jeroboam, hijo de Nabat, que estaba en Egipto, adonde había huido de Salomón, se volvió de Egipto. 
 3 Y hablaron a Roboam diciendo: 
 4 “Tu padre hizo muy pesado nuestro yugo; aligera tú, pues, ahora esta dura servidumbre, y te serviremos.” 
-5 Él les respondió: “Id y volved a mí dentro de tres días.” 
+5 Él les respondió: “Id y volved a mí dentro de tres días.”
 
 [Responsory1]
 @Tempora/Pent01-1:Responsory1
@@ -21,7 +21,7 @@ Del Libro Tercero de los Reyes
 5 Fuese el pueblo. 
 6 El rey Roboam consultó a los ancianos que habían estado cerca de Salomón, su padre, durante su vida, diciéndoles: “¿Qué me aconsejáis que responda a este pueblo?” 
 7 Y ellos le dijeron: “Si ahora te rindes a este pueblo y le complaces hablándole blandas palabras, te estará siempre sujeto.” 
-8 Pero Roboam no siguió el consejo de los ancianos, y consultó a los jóvenes que se habían criado con él y le rodeaban. 
+8 Pero Roboam no siguió el consejo de los ancianos, y consultó a los jóvenes que se habían criado con él y le rodeaban.
 
 [Responsory2]
 @Tempora/Pent01-1:Responsory2

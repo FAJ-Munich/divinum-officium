@@ -4,18 +4,15 @@ Commune Apostolorum
 [Rule]
 Psalmi Dominica
 Antiphonas horas
+Psalm5 Vespera=116
+Psalm5 Vespera3=138
 
 [Ant Vespera]
-Hoc est præcéptum meum, * ut diligátis ínvicem, sicut diléxi vos.;;109
-Majórem caritátem * nemo habet, ut ánimam suam ponat quis pro amícis suis.;;110
-Vos amíci mei estis, * si fecéritis quæ præcípio vobis, dicit Dóminus.;;111
-Beáti pacífici, * beáti mundo corde: quóniam ipsi Deum vidébunt.;;112
-In patiéntia vestra * possidébitis ánimas vestras.;;116
-
-[Capitulum Vespera]
-!Eph 2:19-20
-v. Fratres: Jam non estis hóspites et ádvenæ: sed estis cives Sanctórum et doméstici Dei: superædificáti super fundaméntum Apostolórum, et Prophetárum, ipso summo angulári lápide Christo Jesu.
-$Deo gratias
+Hoc est præcéptum meum, * ut diligátis ínvicem, sicut diléxi vos.
+Majórem caritátem * nemo habet, ut ánimam suam ponat quis pro amícis suis.
+Vos amíci mei estis, * si fecéritis quæ præcípio vobis, dicit Dóminus.
+Beáti pacífici, * beáti mundo corde: quóniam ipsi Deum vidébunt.
+In patiéntia vestra * possidébitis ánimas vestras.
 
 [Hymnus Vespera]
 {:H-Exsultetorbisgaudiis:}v. Exsúltet orbis gáudiis:
@@ -82,7 +79,8 @@ Et nunc, et in perpétuum.
 Amen.
 
 [Versum 1]
-@:Ant Matutinum:4-5
+V. In omnem terram exívit sonus eórum.
+R. Et in fines orbis terræ verba eórum.
 
 [Ant 1]
 Tradent enim vos * in concíliis, et in synagógis suis flagellábunt vos, et ante reges et prǽsides ducémini propter me in testimónium illis, et Géntibus.
@@ -132,16 +130,18 @@ Amen.
 In omnem terram * exívit sonus eórum, et in fines orbis terræ verba eórum.;;18
 Clamavérunt justi, * et Dóminus exaudívit eos.;;33
 Constítues eos * príncipes super omnem terram: mémores erunt nóminis tui, Dómine.;;44
-V. In omnem terram exívit sonus eórum.
-R. Et in fines orbis terræ verba eórum.
 Príncipes populórum * congregáti sunt cum Deo Ábraham.;;46
 Dedísti hereditátem * timéntibus nomen tuum, Dómine.;;60
 Annuntiavérunt * ópera Dei, et facta ejus intellexérunt.;;63
-V. Constítues eos príncipes super omnem terram.
-R. Mémores erunt nóminis tui, Dómine.
 Exaltabúntur * córnua justi, allelúja.;;74
 Lux orta est * justo, allelúja, rectis corde lætítia, allelúja.;;96
 Custodiébant * testimónia ejus, et præcépta ejus, allelúja.;;98
+
+[Nocturn 2 Versum]
+V. Constítues eos príncipes super omnem terram.
+R. Mémores erunt nóminis tui, Dómine.
+
+[Nocturn 3 Versum]
 V. Nimis honoráti sunt amíci tui Deus.
 R. Nimis confortátus est principátus eórum.
 
@@ -237,7 +237,7 @@ V. In omnem terram exívit sonus eórum, et in fines orbis terræ verba eórum.
 R. Cálicem Dómini bibérunt, et amíci Dei facti sunt.
 
 [Lectio8]
-In regeneratióne, cum séderit Fílius hóminis in sede majestátis suæ (quando et mórtui de corruptióne resúrgent incorrúpti) sedébitis et vos in sóliis judicántium, condemnántes duódecim tribus Ísraël: quia vobis credéntibus, illi crédere noluérunt. Et omnis qui relíquerit domum, vel fratres, aut soróres, aut patrem, aut matrem, aut uxórem, aut fílios, aut agros propter nomen meum, centúplum accípiet, et vitam ætérnam possidébit. Locus iste cum illa senténtia cóngruit, in qua Salvátor lóquitur: Non veni pacem míttere, sed gládium. Veni enim separáre hóminem a patre suo, et matrem a fília, et nurum a socru: et inimíci hóminis doméstici ejus. Qui ergo propter fidem Christi, et prædicatiónem Evangélii, omnes afféctus contémpserint, atque divítias et sǽculi voluptátes: isti centúplum recípient, et vitam ætérnam possidébunt.
+In regeneratióne, cum séderit Fílius hóminis in sede majestátis suæ (quando et mórtui de corruptióne resúrgent incorrúpti) sedébitis et vos in sóliis judicántium, condemnántes duódecim tribus Ísraël: quia vobis credéntibus, illi crédere noluérunt. Et omnis qui relíquerit domum, vel fratres, aut soróres, aut patrem, aut matrem, aut uxórem, aut fílios, aut agros propter nomen meum, céntuplum accípiet, et vitam ætérnam possidébit. Locus iste cum illa senténtia cóngruit, in qua Salvátor lóquitur: Non veni pacem míttere, sed gládium. Veni enim separáre hóminem a patre suo, et matrem a fília, et nurum a socru: et inimíci hóminis doméstici ejus. Qui ergo propter fidem Christi, et prædicatiónem Evangélii, omnes afféctus contémpserint, atque divítias et sǽculi voluptátes: isti céntuplum recípient, et vitam ætérnam possidébunt.
 
 [Responsory8]
 R. Isti sunt viri sancti, quos elégit Dóminus in caritáte non ficta, et dedit illis glóriam sempitérnam:
@@ -248,7 +248,7 @@ R. Quorum doctrína fulget Ecclésia, ut sole luna.
 R. Quorum doctrína fulget Ecclésia, ut sole luna.
 
 [Lectio9]
-Ex occasióne hujus senténtiæ quidam introdúcunt mille annos post resurrectiónem, dicéntes, tunc nobis centúplum ómnium rerum quas dimísimus, et vitam ætérnam esse reddéndam: non intelligéntes, quod, si in céteris digna sit repromíssio, in uxóribus appáreat turpitúdo: ut qui unam pro Dómino dimíserit centum recípiat in futúro. Sensus ergo iste est: Qui carnália pro Salvatóre dimíserit, spirituália recípiet: quæ comparatióne et mérito sui ita erunt, quasi si parvo número centenárius númerus comparétur.
+Ex occasióne hujus senténtiæ quidam introdúcunt mille annos post resurrectiónem, dicéntes, tunc nobis céntuplum ómnium rerum quas dimísimus, et vitam ætérnam esse reddéndam: non intelligéntes, quod, si in céteris digna sit repromíssio, in uxóribus appáreat turpitúdo: ut qui unam pro Dómino dimíserit centum recípiat in futúro. Sensus ergo iste est: Qui carnália pro Salvatóre dimíserit, spirituália recípiet: quæ comparatióne et mérito sui ita erunt, quasi si parvo número centenárius númerus comparétur.
 &teDeum
 
 [Versum 0]
@@ -256,14 +256,12 @@ V. Dedísti hereditátem.
 R. Timéntibus nomen tuum, Dómine.
 
 [Ant Laudes]
-@:Ant Vespera:1 s/;;.*//
-@:Ant Vespera:2 s/;;.*//
-@:Ant Vespera:3 s/;;.*//
-@:Ant Vespera:4 s/;;.*//
-@:Ant Vespera:5 s/;;.*//
+@:Ant Vespera
 
 [Capitulum Laudes]
-@:Capitulum Vespera
+!Eph 2:19-20
+v. Fratres: Jam non estis hóspites et ádvenæ: sed estis cives Sanctórum et doméstici Dei: superædificáti super fundaméntum Apostolórum, et Prophetárum, ipso summo angulári lápide Christo Jesu.
+$Deo gratias
 
 [Hymnus Laudes]
 @:Hymnus Vespera
@@ -286,10 +284,7 @@ $Per Dominum
 !Act 5:41
 v. Ibant Apóstoli gaudéntes a conspéctu concílii, quóniam digni hábiti sunt pro nómine Jesu contuméliam pati.
 
-[Capitulum Tertia]
-@:Capitulum Laudes
-
-[Responsory Breve3]
+[Responsory Breve Tertia]
 R.br. In omnem terram * Exívit sonus eórum.
 R. In omnem terram * Exívit sonus eórum.
 V. Et in fines orbis terræ verba eórum.
@@ -297,18 +292,12 @@ R. Exívit sonus eórum.
 &Gloria
 R. In omnem terram * Exívit sonus eórum.
 
-[Responsory Tertia]
-@:Responsory Breve3
-_
-@:Ant Matutinum:9
-@:Ant Matutinum:10
-
 [Capitulum Sexta]
 !Act 5:12
 v. Per manus autem Apostolórum fiébant signa et prodígia multa in plebe.
 $Deo gratias
 
-[Responsory Breve6]
+[Responsory Breve Sexta]
 R.br. Constítues eos príncipes * Super omnem terram.
 R. Constítues eos príncipes * Super omnem terram.
 V. Mémores erunt nóminis tui, Dómine.
@@ -316,29 +305,17 @@ R. Super omnem terram.
 &Gloria
 R. Constítues eos príncipes * Super omnem terram.
 
-[Responsory Sexta]
-@:Responsory Breve6
-_
-@:Ant Matutinum:14
-@:Ant Matutinum:15
-
 [Capitulum Nona]
 @:Lectio Prima
 $Deo gratias
 
-[Responsory Breve9]
+[Responsory Breve Nona]
 R.br. Nimis honoráti sunt * Amíci tui, Deus.
 R. Nimis honoráti sunt * Amíci tui, Deus.
 V. Nimis confortátus est principátus eórum.
 R. Amíci tui, Deus.
 &Gloria
 R. Nimis honoráti sunt * Amíci tui, Deus.
-
-[Responsory Nona]
-@:Responsory Breve9
-_
-@:Versum 2:1
-@:Versum 2:2
 
 [Ant Vespera 3]
 Jurávit Dóminus, * et non pœnitébit eum: Tu es sacérdos in ætérnum.;;109

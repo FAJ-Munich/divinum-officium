@@ -1,17 +1,8 @@
 [Rank]
 In Octava Ss. Innocentium.;;Simplex;;1.1;;vide Sancti/12-28
 
-[Rank] (rubrica 1960)
+[Rank] (rubrica 196 aut rubrica 1955)
 Die Quarta Januarii;;Feria;;1.2;;vide Sancti/01-01
-
-[Rank] (rubrica tridentina)
-In Octava Ss. Innocentium.;;Duplex;;3;;ex Sancti/12-28
-
-[Rule]
-vide Sancti/12-28;
-Feria Te Deum
-Comkey=70
-9 lectiones
 
 [Lectio1]
 De l'Epître aux Roamains
@@ -32,19 +23,6 @@ De l'Epître aux Roamains
 8	Puis le péché, saisissant l'occasion, a fait naître en moi, par le commandement, toutes sortes de convoitises; car, sans la Loi, le péché est mort.
 9	Pour moi, je vivais autrefois sans la Loi; mais le commandement étant venu, le péché a pris vie,
 
-[Responsory1]
-@Sancti/12-25:Responsory6
-
-[Responsory2]
-@Sancti/01-01:Responsory8
-
-[Responsory3]
-@Sancti/01-01:Responsory3
-
-[Lectio93]
-@:Lectio4
-&teDeum
-
 [Lectio4]
 Sermon de Saint Augustin Evêque
 !Sermon i sur les Saints Innocents
@@ -59,11 +37,11 @@ Parfois, une femme au cœur brisé criait au voyou de la tuer elle aussi ; pourq
 [Lectio7]
 Lécture du Saint Evangile selon St Mathieu
 !Matt 2:13-18
-En ce temps là : voici qu’un ange du Seigneur apparut en songe à Joseph et lui dit : "Lève toi, prends l’enfant et sa mère, fuis en Egypte et restes-y jusqu’à ce que je t’avertisse  Et le reste.
+En ce temps là : voici qu’un ange du Seigneur apparut en songe à Joseph et lui dit : « Lève toi, prends l’enfant et sa mère, fuis en Egypte et restes-y jusqu’à ce que je t’avertisse Et le reste.
 _
 Homélie de Saint Jean Chrysostome
 !de l'homélie 8 sur Matthieu., avant le milieu.
-Après avoir entendu cela, Joseph ne fut pas troublé et ne dit pas : "C'est douteux, ou du moins obscur. Il n'y a pas longtemps, tu disais qu'il sauverait son peuple, et maintenant, il semble qu'il ne puisse pas le sauver ; nous devons fuir, partir loin et habiter dans une terre étrangère. Mais Joseph ne dit rien de tout cela, car il était fidèle ; il ne demanda pas non plus curieusement à l'ange le temps de son retour, que Dieu ne voulut pas lui montrer, mais seulement lui envoyer cette parole : "Reste là jusqu'à ce que je t'apporte une nouvelle."
+Après avoir entendu cela, Joseph ne fut pas troublé et ne dit pas : « C'est douteux, ou du moins obscur. Il n'y a pas longtemps, tu disais qu'il sauverait son peuple, et maintenant, il semble qu'il ne puisse pas le sauver ; nous devons fuir, partir loin et habiter dans une terre étrangère. Mais Joseph ne dit rien de tout cela, car il était fidèle ; il ne demanda pas non plus curieusement à l'ange le temps de son retour, que Dieu ne voulut pas lui montrer, mais seulement lui envoyer cette parole : « Reste là jusqu'à ce que je t'apporte une nouvelle.»
 
 [Lectio8]
 Il n'était pas paresseux, mais il obéissait joyeusement, et par la foi il supportait avec joie toutes les tribulations. Dieu, dans sa miséricorde, a mêlé un peu de joie à sa peine, comme il le fait dans tous les saints, qu'il fera demeurer continuellement ni dans la tristesse, ni dans la joie, mais qui tissent leur vie toujours avec une étrange diversité. Et considérons comment il l'a fait ici.

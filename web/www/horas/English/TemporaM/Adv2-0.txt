@@ -1,4 +1,3 @@
-
 [Responsory4]
 R. Christ our King cometh.
 * And John hath testified of Him, that He is the Lamb that should come!
@@ -19,4 +18,3 @@ R. And the tongue of the dumb shall be free.
 
 [Lectio10]
 @Tempora/Adv2-0:Lectio7:s/.* It is /It is /s
-

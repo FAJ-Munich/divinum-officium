@@ -1,37 +1,26 @@
 [Name]
 Commune Apostolorum
 
-[Rule]
-Psalmi Dominica
-Antiphonas horas
-
-[Capitulum Vespera]
-!Eph 2:19-20
-v. Brødre: Så er I da ikke længere fremmede og udlændinge. I er de helliges medborgere og hører til Guds husstand. I er bygget på apostlenes og profeternes grundvold med Kristus Jesus selv som hovedhjørnesten.
-$Deo gratias.
-
-[Ant 1]
-For they shall deliver you * up to councils: and in the synagogues you shall be beaten: and you shall stand before governors and kings for my sake, for a testimony unto them.
+[Versum 1]
+V. Deres røst når ud over hele jorden.
+R. Deres ord til verdens ende.
 
 [Invit]
 Herren, Apostlenes Konge, * Kom, lad os tilbede.
 
-[Ant Matutinum]
-Their sound * hath gone forth into all the earth: and their words unto the ends of the world.;;18
-The just cried * and the Lord heard them.;;33
-Thou shalt make them princes * over all the earth. They shall remember thy name, O Lord.;;44
-V. Deres røst når ud over hele jorden.
-R. Deres ord til verdens ende.
-The princes of the people * are gathered together, with the God of Abraham.;;46
-Thou hast given an inheritance * to them that fear thy name, O Lord.;;60
-They declared * the works of God, and understood his doings.;;63
+[Nocturn 2 Versum]
 V. Du skal gøre dem til fyrster over hele jorden.
 R. De vil prise dit navn, Herre.
-The horns of the just * shall be exalted. Alleluia.;;74
-Light is risen * to the just, alleluia, and joy to the right of heart. Alleluia.;;96
-They kept his testimonies, * and the commandment which he gave them. Alleluia.;;98
+
+[Nocturn 3 Versum]
 V. Hvor er dine venner dyrebare for dig, Gud.
 R. Hvor stort er dog deres fyrstedømme.
+
+
+[Capitulum Laudes]
+!Eph. 2:19-20
+v. Brødre: Så er I da ikke længere fremmede og udlændinge. I er de helliges medborgere og hører til Guds husstand. I er bygget på apostlenes og profeternes grundvold med Kristus Jesus selv som hovedhjørnesten.
+$Deo gratias.
 
 [Versum 2]
 V. De forkyndte Guds gerning.
@@ -44,43 +33,34 @@ I, som har forladt * alt og fulgt mig, får hundreddobbelt igen og arver evigt l
 !ApG 5:41
 V. De forlod så rådssalen, glade, fordi de var blevet anset for værdige til at blive vanæret for Jesu navns skyld.
 
-[Responsory Tertia]
+[Responsory Breve Tertia]
 R.br. Deres røst * når ud over hele jorden.
 R. Deres røst * når ud over hele jorden.
 V. Deres ord til verdens ende.
 R. Når ud over hele jorden.
 &Gloria
 R. Deres røst * når ud over hele jorden.
-_
-@:Ant Matutinum:9
-@:Ant Matutinum:10
 
 [Capitulum Sexta]
 !ApG 5:12
 v. Ved apostlenes hænder skete der mange tegn og undere blandt folket.
 $Deo gratias
 
-[Responsory Sexta]
+[Responsory Breve Sexta]
 R.br. Du skal gøre dem til fyrster * over hele jorden.
 R. Du skal gøre dem til fyrster * over hele jorden.
 V. De vil prise dit navn, Herre.
 R. Over hele jorden.
 &Gloria
 R. Du skal gøre dem til fyrster * over hele jorden.
-_
-@:Ant Matutinum:14
-@:Ant Matutinum:15
 
-[Responsory Nona]
+[Responsory Breve Nona]
 R.br. Hvor er dine venner * dyrebare for dig, Gud.
 R. Hvor er dine venner * dyrebare for dig, Gud.
 V. Hvor stort er dog deres fyrstedømme.
 R. Dyrebare for dig, Gud.
 &Gloria
 R. Hvor er dine venner * dyrebare for dig, Gud.
-_
-@:Versum 2:1
-@:Versum 2:2
 
 [Ant 3]
 Vær tapre * i krig, kæmp imod den gamle slange; og I skal få det evige rige. Halleluja.

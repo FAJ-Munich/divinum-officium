@@ -1,9 +1,9 @@
-[Ant 1]
- La Sapienza * s'è edificata una casa, s'è lavorato sette colonne, ha sottomesso a sé genti, dei grandi e dei potenti colla propria forza ha soggiogato le teste.
-
 [Versum 1]
 V. La preghiera della sera salga a te, o Signore.
 R. E discenda su di noi la tua misericordia.
+
+[Ant 1]
+ La Sapienza * s'è edificata una casa, s'è lavorato sette colonne, ha sottomesso a sé genti, dei grandi e dei potenti colla propria forza ha soggiogato le teste.
 
 [Lectio1]
 Incominciano la Parabole di Salomone

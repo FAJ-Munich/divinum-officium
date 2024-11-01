@@ -1,25 +1,21 @@
 [Rank]
 S. Antonii de Padua Confessoris;;Duplex;;3;;vide C5a
 
-[Rank] (rubrica 1960)
+[Rank] (rubrica divino aut rubrica 196)
 S. Antonii de Padua Confessoris et Ecclesiæ Doctoris;;Duplex;;3;;vide C5a
-
-[Rule]
-vide C5a;
-9 lectiones
 
 [Name]
 Antonio
-
-[OratioText]
-Haz, oh Dios, que la solemne festividad de tu Confesor y Doctor Antonio regocije tu Iglesia, de suerte que siempre sea fortificada con espirituales auxilios y merezca disfrutar de goces eternos.
-$Per Dominum
 
 [Oratio]
 @:OratioText
 
 [Oratio] (rubrica divino aut rubrica tridentina)
 @:OratioText:s/ y Doctor//
+
+[OratioText]
+Haz, oh Dios, que la solemne festividad de tu Confesor y Doctor Antonio regocije tu Iglesia, de suerte que siempre sea fortificada con espirituales auxilios y merezca disfrutar de goces eternos.
+$Per Dominum
 
 [Lectio1] (rubrica tridentina)
 @Commune/C5:Lectio1 in 2 loco

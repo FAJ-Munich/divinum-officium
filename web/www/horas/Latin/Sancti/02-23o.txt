@@ -7,7 +7,10 @@ Responsory Feria
 Preces feriales
 Versum Feria
 no Te Deum
-Laudes 2 
+Laudes 2
+
+[Comment]
+in Monastic 1930 Vigilia in Missa tantum
 
 [Oratio]
 @Commune/C1v:Oratio1:s/N\./Matthíæ/

@@ -1,21 +1,12 @@
 [Name]
 Commune Apostolorum
 
-[Rule]
-Psalmi Dominica
-Antiphonas horas
-
 [Ant Vespera]
-To jest przykazanie moje, * abyście się społecznie miłowali, jako was umiłowałem.;;109
-Większej nad tę miłości * żaden nie ma: aby kto duszę swą położył za przyjaciół swoich.;;110
-Wy jesteście przyjaciółmi Moimi, * jeśli czynić będziecie, co Ja wam rozkazuję mówi Pan.;;111
-Błogosławieni pokój czyniący, * błogosławieni czystego serca: albowiem oni Boga oglądają.;;112
-W cierpliwości waszej * otrzymacie dusze wasze.;;116
-
-[Capitulum Vespera]
-!Ef 2:19-20
-v. Bracia: a przeto już nie jesteście gośćmi i przychodniami, aleście mieszczanie z  świętymi i domownicy Boży, wybudowani na fundamencie Apostołów i Proroków, gdzie głównym węgielnym kamieniem sam Jezus Chrystus.
-$Deo gratias.
+To jest przykazanie moje, * abyście się społecznie miłowali, jako was umiłowałem.
+Większej nad tę miłości * żaden nie ma: aby kto duszę swą położył za przyjaciół swoich.
+Wy jesteście przyjaciółmi Moimi, * jeśli czynić będziecie, co Ja wam rozkazuję mówi Pan.
+Błogosławieni pokój czyniący, * błogosławieni czystego serca: albowiem oni Boga oglądają.
+W cierpliwości waszej * otrzymacie dusze wasze.
 
 [Hymnus Vespera]
 {:H-Exsultetorbisgaudiis:}v. Niechaj się rozraduje okrąg świata,
@@ -81,6 +72,10 @@ Niechaj z Duchem Świętym ninie
 I na wiek wieków cześć słynie.
 Amen.
 
+[Versum 1]
+V. Na wszystką ziemię wyszedł głos ich.
+R. I na krańce okręgu ziemi słowa ich.
+
 [Ant 1]
 Wydawać bowiem was będą. * do rad i w bożnicach swoich was biczować będą i do starostów i do królów będziecie wodzeni dla Mnie, na świadectwo im i poganom.
 
@@ -145,16 +140,18 @@ Amen.
 Na wszystką ziemię * wyszedł głos ich, i na krańce okręgu ziemi słowa ich.;;18
 Wołali sprawiedliwi, * a Pan je wysłuchał.;;33
 Postanowisz ich książętami nad wszystką ziemią: będą wspominać Imię Twoje, Panie.;;44
-V. Na wszystką ziemię wyszedł głos ich.
-R. I na krańce okręgu ziemi słowa ich.
 Książęta narodów * zgromadziły się z Bogiem Abrahamowym.;;46
 Dałeś dziedzictwo * bojącym się imienia twego, Panie.;;60
 Opowiadali dzieła Boże, i oznajmiali sprawy jego.;;63
-V. Postanowisz ich książętami nad wszystką ziemią.
-R. Będą wspominać Imię Twoje, Panie.
 Rogi sprawiedliwego * będą wywyższone, alleluja.;;74
 Światłość weszła * sprawiedliwemu, alleluja, a wesele ludziom prawego serca, alleluja.;;96
 Strzegli * świadectw jego, i przykazań jego, alleluja.;;98
+
+[Nocturn 2 Versum]
+V. Postanowisz ich książętami nad wszystką ziemią.
+R. Będą wspominać Imię Twoje, Panie.
+
+[Nocturn 3 Versum]
 V. Bardzo zaszczyceni są przyjaciele Twoi Boże.
 R. Bardzo się zmocniło ich panowanie.
 
@@ -258,6 +255,11 @@ R. Ich nauką jaśnieje Kościół, jak księżyc od słońca.
 &Gloria
 R. Ich nauką jaśnieje Kościół, jak księżyc od słońca. 
 
+[Capitulum Laudes]
+!Ef 2:19-20
+v. Bracia: a przeto już nie jesteście gośćmi i przychodniami, aleście mieszczanie z  świętymi i domownicy Boży, wybudowani na fundamencie Apostołów i Proroków, gdzie głównym węgielnym kamieniem sam Jezus Chrystus.
+$Deo gratias.
+
 [Versum 2]
 V. Opowiadali dzieła Boże. 
 R. I oznajmiali sprawy jego.
@@ -269,7 +271,7 @@ Wy, którzyście opuścili * wszystko, poszliście za mną, stokroć weźmiecie 
 !Dz 5:41
 v. A oni szli od obliczności rady, radując się, iż się stali godnymi dla imienia Jezusowego zelżywość cierpieć.
 
-[Responsory Breve3]
+[Responsory Breve Tertia]
 R.br. Na wszystką ziemię * Wyszedł głos ich.
 R. Na wszystką ziemię * Wyszedł głos ich.
 V. I na krańce okręgu ziemi słowa ich.
@@ -282,7 +284,7 @@ R. Na wszystką ziemię * Wyszedł głos ich.
 v. A przez ręce Apostolskie działo się wiele znaków i cudów między ludem.
 $Deo gratias
 
-[Responsory Breve6]
+[Responsory Breve Sexta]
 R.br. Postanowisz ich książętami * Nad wszystką ziemią.
 R. Postanowisz ich książętami * Nad wszystką ziemią.
 V. Będą wspominać Imię Twoje, Panie.
@@ -290,7 +292,7 @@ R. Nad wszystką ziemią.
 &Gloria
 R. Postanowisz ich książętami * Nad wszystką ziemią.
 
-[Responsory Breve9]
+[Responsory Breve Nona]
 R.br. Bardzo zaszczyceni są * Przyjaciele Twoi Boże.
 R. Bardzo zaszczyceni są * Przyjaciele Twoi Boże.
 V. Bardzo się zmocniło ich panowanie.

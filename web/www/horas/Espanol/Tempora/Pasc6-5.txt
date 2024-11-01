@@ -14,10 +14,6 @@ Doxology=Asc
 Feria Te Deum
 No suffragium
 
-[Commemoratio 2]
-
-[Commemoratio 3]
-
 [Lectio1]
 @Tempora/Pasc6-4r:Lectio1
 
@@ -52,18 +48,11 @@ Si nuestro Salvador no triunfó del diablo en nuestra carne, se ejercitó en el 
 (rubrica 1570)
 @:InIllo
 
-[InIllo]
-En este cuerpo que pertenece a nuestra naturaleza, la muerte de Cristo nos dio la vida, su resurrección nos levantó, su ascensión nos consagró. En ese cuerpo, de un origen idéntico al nuestro, colocó en el reino de los cielos la prenda de nuestra condición futura.~
-
 [Lectio5]
 @:InIllo
 (la rúbrica de 1570 omite el siguiente versículo)
-Trabajemos para que así como el Señor en este día subió con nuestro cuerpo al cielo, así nosotros, según nuestra posibilidad, subamos en pos de Él con la esperanza y le sigamos con el corazón.  Subamos con Él por nuestro afecto, por nuestros progresos en la virtud, aun por medio de nuestros vicios y pasiones. Si procuramos sujetarlas y tenerlas sumisas, por medio de las mismas construimos una escalera para subir a cosas más altas. Nos elevarán si quedan por debajo de nosotros.~
-(rúbrica 1570)
+Trabajemos para que así como el Señor en este día subió con nuestro cuerpo al cielo, así nosotros, según nuestra posibilidad, subamos en pos de Él con la esperanza y le sigamos con el corazón.  Subamos con Él por nuestro afecto, por nuestros progresos en la virtud, aun por medio de nuestros vicios y pasiones. Si procuramos sujetarlas y tenerlas sumisas, por medio de las mismas construimos una escalera para subir a cosas más altas. Nos elevarán si quedan por debajo de nosotros. (rúbrica 1570)
 @:DeVitiis
-
-[DeVitiis]
-Con nuestros vicios nos construimos una escalera si los hollamos. Con el autor del bien no sube la malicia, ni con el Hijo de la Virgen la liviandad y la lujuria.~
 
 [Lectio6]
 @:DeVitiis
@@ -85,3 +74,9 @@ A la verdad, la sangre de Cristo, de tal manera fue derramada para remisión de 
 [Lectio9]
 Él, por lo tanto, dará testimonio de mí, y vosotros daréis testimonio también; ya que os comunicará valor para dar testimonio, la caridad de Dios que será difundida en vuestros corazones por el Espíritu Santo que se os dará. Y este valor faltó ciertamente a Pedro, cuando atemorizado por la pregunta de la criada, no pudo dar testimonio verdadero, y dominado por el temor, negó por tres veces a su Maestro. Ahora bien, “este temor no existe en la caridad, sino que ella, siendo perfecta, arroja lejos de sí el temor”. Y así, antes de la pasión del Señor, el temor servil de Pedro fue interrogado por una sirvienta; pero después de la resurrección del Señor, es el amor de un corazón libre el que es interrogado por el mismo autor de la libertad. Por eso en el primer caso se turbó; en el otro permaneció tranquilo. En el primer caso negó al que había amado; en el segundo, amó al que había negado. Mas el amor era aún débil, hasta que fue esforzado y dilatado por el Espíritu Santo.
 &teDeum
+
+[DeVitiis]
+Con nuestros vicios nos construimos una escalera si los hollamos. Con el autor del bien no sube la malicia, ni con el Hijo de la Virgen la liviandad y la lujuria.~
+
+[InIllo]
+En este cuerpo que pertenece a nuestra naturaleza, la muerte de Cristo nos dio la vida, su resurrección nos levantó, su ascensión nos consagró. En ese cuerpo, de un origen idéntico al nuestro, colocó en el reino de los cielos la prenda de nuestra condición futura.~

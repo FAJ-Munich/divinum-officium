@@ -20,11 +20,6 @@ He lifted up His Hands, * and blessed them, and was carried up into heaven, alle
 Extol the King of kings, * and ascribe praise to God, alleluia.
 While they beheld, * He was taken up, and a cloud received Him in heaven, alleluia.
 
-[Capitulum Laudes]
-!Act. 1:1-2
-v. The former treatise I made, O Theophilus, of all things which Jesus began to do and to teach, Until the day on which, giving commandments by the Holy Ghost to the apostles whom he had chosen, he was taken up.
-$Deo gratias
-
 [Hymnus Vespera]
 v. Hail, thou who man's Redeemer art,
 Jesu, the joy of every heart;
@@ -190,8 +185,7 @@ V. I will pray the Father, and He shall give you another Comforter.
 R. The Spirit of truth, and your heart shall rejoice. Alleluia.
 
 [Lectio6]
-Therefore, dearly beloved brethren, let us also rejoice with worthy joy, for the Ascension of Christ is exaltation for us, and whither the glory of the Head of the Church is passed in, thither is the hope of the body of the Church called on to follow. Let us rejoice with exceeding great joy, and give God glad thanks. This day is not only the possession of Paradise made sure unto us, but in the Person of our Head we are actually begun to enter into the heavenly mansions above. Through the unspeakable goodness of Christ we have gained more than ever we lost by the envy of the devil. We, whom our~
-venomous enemy thrust from our first happy home, we, being made of one body with the Son of God, have by Him been given a place at the right hand of the Father with Whom He liveth and reigneth, in the unity of the Holy Ghost, God, world without end. Amen.
+Therefore, dearly beloved brethren, let us also rejoice with worthy joy, for the Ascension of Christ is exaltation for us, and whither the glory of the Head of the Church is passed in, thither is the hope of the body of the Church called on to follow. Let us rejoice with exceeding great joy, and give God glad thanks. This day is not only the possession of Paradise made sure unto us, but in the Person of our Head we are actually begun to enter into the heavenly mansions above. Through the unspeakable goodness of Christ we have gained more than ever we lost by the envy of the devil. We, whom our venomous enemy thrust from our first happy home, we, being made of one body with the Son of God, have by Him been given a place at the right hand of the Father with Whom He liveth and reigneth, in the unity of the Holy Ghost, God, world without end. Amen.
 
 [Responsory6]
 R. When Christ ascended up on high, He led captivity captive,
@@ -217,7 +211,7 @@ V. For if I go not away, the Comforter will not come unto you; but if I depart, 
 R. That He may abide with you for ever, even the Spirit of truth. Alleluia.
 
 [Lectio8]
-Now confirm to our minds the trustworthiness of the fact that our Lord did indeed rise again from the dead, it is well for us to remark one of the statements of Luke (Acts i. 4.) "Eating together with them, He commanded them that they should not (1 John xiv. 16, 17 xvi. 7.) depart from Jerusalem and a little afterward: "While they beheld, He was taken up, and a cloud received Him out of their sight." Consider these words, note well these mysteries. After "eating together with them He was taken up." He ate and ascended: that the fact of His eating might show the reality of the Body in Which He went up. But Mark telleth us that before the Lord ascended into heaven, He upbraided His disciples; with their unbelief and hardness of heart. From this I know not why we should gather, but that the Lord then upbraided His disciples, for whom He was about to be parted in the body, to the end that the words which He spoke unto them as He left them might be the deeper imprinted on their hearts.
+Now confirm to our minds the trustworthiness of the fact that our Lord did indeed rise again from the dead, it is well for us to remark one of the statements of Luke (Acts i. 4.) “Eating together with them, He commanded them that they should not (1 John xiv. 16, 17 xvi. 7.) depart from Jerusalem and a little afterward: “While they beheld, He was taken up, and a cloud received Him out of their sight.” Consider these words, note well these mysteries. After “eating together with them He was taken up.” He ate and ascended: that the fact of His eating might show the reality of the Body in Which He went up. But Mark telleth us that before the Lord ascended into heaven, He upbraided His disciples; with their unbelief and hardness of heart. From this I know not why we should gather, but that the Lord then upbraided His disciples, for whom He was about to be parted in the body, to the end that the words which He spoke unto them as He left them might be the deeper imprinted on their hearts.
 
 [Responsory8]
 R. Thou makest the clouds the chariot, O Lord,
@@ -228,9 +222,13 @@ R. Thou walkest upon the wings of the wind. Alleluia.
 R. Thou walkest upon the wings of the wind. Alleluia.
 
 [Lectio9]
-When then, He had rebuked the hardness of their heart, what command did He give~
-them? Let us hear. "Go ye into all the world and preach the Gospel to every creature." Was the Holy Gospel, then my brethren, to be preached to thing insensate, or to brute beasts, that the Lord said to His disciples: "Preach the Gospel to every creature"? Nay, but by the words "every creature" we must understand man, in whom are combined qualities of all creatures. Being he hath in common with stones, life in common with trees, feeling in common with beasts, understanding in common with angels. If, then, man hath something in common with every creature, man is to a certain extent every creature. The Gospel, then, if it be preached to man only, is preached to every creature.
+When then, He had rebuked the hardness of their heart, what command did He give them? Let us hear. “Go ye into all the world and preach the Gospel to every creature.” Was the Holy Gospel, then my brethren, to be preached to thing insensate, or to brute beasts, that the Lord said to His disciples: “Preach the Gospel to every creature”? Nay, but by the words “every creature” we must understand man, in whom are combined qualities of all creatures. Being he hath in common with stones, life in common with trees, feeling in common with beasts, understanding in common with angels. If, then, man hath something in common with every creature, man is to a certain extent every creature. The Gospel, then, if it be preached to man only, is preached to every creature.
 &teDeum
+
+[Capitulum Laudes]
+!Act. 1:1-2
+v. The former treatise I made, O Theophilus, of all things which Jesus began to do and to teach, Until the day on which, giving commandments by the Holy Ghost to the apostles whom he had chosen, he was taken up.
+$Deo gratias
 
 [Versum 2]
 V. The Lord in heaven, alleluia.
