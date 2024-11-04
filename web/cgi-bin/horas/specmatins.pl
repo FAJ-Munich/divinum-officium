@@ -698,8 +698,11 @@ sub lectio : ScriptFunc {
   my $w = $w{"Lectio$num"};
 
   if ($nocturn == 1 && $rule =~ /Lectio1 Quad/i && $dayname[0] !~ /Quad/i) {
+    
+    # For some Saints, the assigned I nocturn readings (from Commune) are valid in Quadragesima only;
+    # in paschaltide, these get the Lessons from the occurent scripture instead (e.g., 04-13)
     $w = '';
-  }    # some saints in April when after easter
+  }
 
   if ($nocturn == 1 && $commemoratio{Rank} =~ /Quattuor/i && $month == 9) {
     $w = '';

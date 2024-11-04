@@ -20,13 +20,6 @@ scriptura1960
 Deus, qui inter regáles delícias et mundi illécebras sanctum Casimírum virtúte constántiæ roborásti: quǽsumus; ut ejus intercessióne fidéles tui terréna despíciant, et ad cæléstia semper aspírent.
 $Per Dominum
 
-[Commemoratio]
-!Commemoratio S. Lucii I, Papæ et Martyris
-@Commune/C2:Oratio proper Gregem
-$Oremus
-v. Deus qui nos beáti Lucii Martyris tui atque Pontíficis annua solemnitáte lætíficas: concede propítius; ut cujus natalícia cólimus, de ejúsdem étiam protectione gaudeámus.
-$Per Dominum.
-
 [Lectio4]
 Casimírus, patre Casimiro, matre Elisabetha Austriaca, Poloniæ regibus ortus, a  pueritia sub optimis magistris, pietate et bonis artibus instructus, juveniles artus aspero domabat cilicio, et assiduis extenuabat jejuniis. Regii spreta lecti mollitie, dura cubabat humo, et clam intempesta nocte, præ foribus templorum pronus in terra divinam exorabat clementiam. In Christi contemplanda passione assiduus, Missarum solemniis adeo erecta in Deum mente solebat adesse, ut extra se rapi videretur.
 
