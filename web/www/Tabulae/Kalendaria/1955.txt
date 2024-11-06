@@ -1,18 +1,3 @@
-*January*
-01-00=01-00=Sanctissimi Nominis Iesu=5=
-01-01=01-01=In Circumcisione Domini=5=
-01-02=01-02=In Octava Sancti Stephani=1=
-01-03=01-03=In Octavam S. Joannis=1=
-01-04=01-04=In Octava Ss. Innocentium=1=
-01-05=01-05r=Vigilia Epiphaniae=5=S. Telesphori Papae et Martyris=1=
-01-06=01-06=Epiphaniae Domini=6=
-01-07=01-07=Secunda die infra Octavam Epiphaniae=2=
-01-08=01-08=Tertia die infra Octavam Epiphaniae=2=
-01-09=01-09=Quarta die infra Octavam Epiphaniae=2=
-01-10=01-10=Quinta die infra Octavam Epiphaniae=2=
-01-11=01-11~01-11cc=Sexta die infra Octavam Epiphaniae=2=S. Hygini Papæ et Martyris=1=
-01-12=01-12=Septima die infra Octavam Epiphaniae=2=
-01-13=01-13=Die Octava Epiphaniae=4=
 01-14=01-14~01-14cc=S. Hilarii Episcopi Confessoris Ecclesiae Doctoris=3=S. Felicis Presbyteri et Mart=1=
 01-15=01-15~01-15cc=S. Pauli primi Eremitae et Confessoris=3=S. Mauri Abbatis=1=
 01-16=01-16=S. Marcelli Papae et Martyris=2=
@@ -24,6 +9,12 @@
 01-22=01-22=Ss. Vincentii et Anastasii Martyrum=2=
 01-23=01-23~01-23o=S. Raymundi de Penafort Confessoris=2=S. Emerentianae Virginis et Martyris=1=
 01-24=01-24=S. Timothei Episcopi et Martyris=3=
+#This file only notes the changes to Divino Afflatu - 1954 
+*January* 
+01-02=XXXXX
+01-03=XXXXX
+01-04=XXXXX
+01-05=01-05cc=S. Telesphori Papae et Martyris=1=
 01-25=01-25=In Conversione S. Pauli Apostoli=4=
 01-26=01-26=S. Polycarpi Episcopi et Martyris=3=
 01-27=01-27=S. Joannis Chrysostomi Episcopi Confessoris Ecclesiae Doctoris=3=
@@ -303,9 +294,3 @@
 12-16=12-16=S. S. Eusebii Episcopi et Martyris=2=
 12-21=12-21=S.Sancti Thomae Apostoli=5=
 12-24=12-24=Vigilia Nativitatis Domini=6=
-12-25=12-25=In Nativitate Domini=6=
-12-26=12-26=S. Stephani Protomartyris=5=
-12-27=12-27=S. Joanni Apostoli=5=
-12-28=12-28=Ss. Innocetium=5=
-12-29=12-29=S. Thomae Episcopi et Martyris=3=
-12-31=12-31=S. Silvestri Papae et Conf=3=

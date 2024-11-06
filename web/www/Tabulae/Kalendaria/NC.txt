@@ -1,18 +1,5 @@
+#This file only notes the changes to Rubrics 1960 - 1960
 *January*
-01-00=01-00=Sanctissimi Nominis Iesu=5=
-01-01=01-01=Die Octavae Nativitatis Domini=6=
-01-02=01-02=Die Secunda Januarii=1=
-01-03=01-03=Die Tertia Januarii=1=
-01-04=01-04=Die Quarta Januarii=1=
-01-05=01-05r=Die Quinta Januarii=1=
-01-06=01-06=Epiphaniae Domini=6=
-01-07=01-07=Die Septima Januarii=1=
-01-08=01-08=Die Octava Januarii=1=
-01-09=01-09=Die Nona Januarii=1=
-01-10=01-10=Die Decima Januarii=1=
-01-11=01-11~01-11cc=Die Undecima Januarii=1=S. Hyginus Pape Martyris=1=
-01-12=01-12=Die Duodecima Januarii=1=
-01-13=01-13=Commemoratio Baptismi Domini=5=
 01-14=01-14~01-14cc=S. Hilarii Episcopi Confessoris et Ecclesiae Doctoris=3=S. Felicis Presbyteri et Mart.=1=
 01-15=01-15~01-15cc=S. Pauli primi Eremitae et Confessoris=3=S. Mauri Abbatis=1=
 01-16=01-16=S. Marcelli Papae et Martyris=2=

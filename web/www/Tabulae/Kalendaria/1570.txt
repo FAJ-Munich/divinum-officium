@@ -1,10 +1,10 @@
 *January*
-01-01=01-01o=Circumcision of the Lord=3=
-01-02=01-02o=Octave of St. Stephen=3=
-01-03=01-03o=Octave of St. John=3=
-01-04=01-04o=Octave of the Holy Innocents=3=
+01-01=01-01=In Circumcisione Domini=3=
+01-02=01-02=In Octava Sancti Stephani=3=
+01-03=01-03=In Octavam S. Joannis=3=
+01-04=01-04=In Octava Ss. Innocentium=3=
 01-05=01-05=Vigilia Epiphaniae=2=
-01-06=01-06=Epiphany of the Lord=3=
+01-06=01-06=Epiphaniae Domini=6=
 01-07=01-07=Secunda die infra Octavam Epiphaniae=2=
 01-08=01-08=Tertia die infra Octavam Epiphaniae=2=
 01-09=01-09=Quarta die infra Octavam Epiphaniae=2=

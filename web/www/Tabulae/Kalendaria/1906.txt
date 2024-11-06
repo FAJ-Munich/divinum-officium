@@ -1,17 +1,4 @@
 *January*
-01-01=01-01o=In Circumcisione Domini=5=
-01-02=01-02o=In Octava Sancti Stephani=3=
-01-03=01-03o=In Octavam S. Joannis=3=
-01-04=01-04o=In Octava Ss. Innocentium=3=
-01-05=01-05=Vigilia Epiphaniae=2=S. Telesphori Papae et Martyris=1=
-01-06=01-06=Epiphaniae Domini=6=
-01-07=01-07=Secunda die infra Octavam Epiphaniae=2=
-01-08=01-08=Tertia die infra Octavam Epiphaniae=2=
-01-09=01-09=Quarta die infra Octavam Epiphaniae=2=
-01-10=01-10=Quinta die infra Octavam Epiphaniae=2=
-01-11=01-11~01-11cc=Sexta die infra Octavam Epiphaniae=2=S. Hygini Papæ et Martyris=1=
-01-12=01-12t=Dominica infra Octavam Epiphaniae=2=
-01-13=01-13=Die Octava Epiphaniae=4=
 01-14=01-14~01-14cc=S. Hilarii Episcopi Confessoris Ecclesiae Doctoris=3=S. Felicis Presbyteri et Mart=1=
 01-15=01-15~01-15cc=S. Pauli primi Eremitae et Confessoris=3=S. Mauri Abbatis=1=
 01-16=01-16=S. Marcelli Papae et Martyris=2=
@@ -288,9 +275,3 @@
 12-20=12-20o=Vigilia of S.Sancti Thomae Apostoli=1=
 12-21=12-21=S.Sancti Thomae Apostoli=5=
 12-24=12-24=Vigilia Nativitatis Domini=6=
-12-25=12-25=In Nativitate Domini=6=
-12-26=12-26=S. Stephani Protomartyris=5=
-12-27=12-27o=S. Joanni Apostoli=5=
-12-28=12-28o=Ss. Innocetium=5=
-12-29=12-29o=S. Thomae Episcopi et Martyris=2=
-12-31=12-31o=S. Silvestri Papae et Conf=3=

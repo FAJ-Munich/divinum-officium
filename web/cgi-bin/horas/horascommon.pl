@@ -102,19 +102,22 @@ sub occurrence {
 
     #handle Temporal
 
-    if ($weekname) {    # outside Nativity tide in January where we do not have any Temporal yet
-      $tday = subdirname('Tempora', $version) . "$weekname" . (($weekname !~ /Nat/i) ? "-$dayofweek" : "");
-      my $t = get_tempora($version, $tday)
-        ; # look for permanent Transfers assigned to the Temporal, most prominently the Ferias in the Octaves of S. Joseph, Corpus Christi, Ssmi Cordis
-      $tfile = $t || $tday;
-    }
+    $tday = subdirname('Tempora', $version) . "$weekname" . (($weekname !~ /Nat/i) ? "-$dayofweek" : "");
+
+    # look for permanent Transfers assigned to the Temporal, most prominently the Ferias in the Octaves of S. Joseph, Corpus Christi, Ssmi Cordis
+    $tfile = get_tempora($version, $tday) || $tday;
 
     if ($transfertemp && $transfertemp =~ /tempora/i && !transfered($transfertemp, $year, $version)) {
-      $tfile = $transfertemp
-        ;    # in case a Temporal office has been transfered by means of assigning it to a specific day of the year
+
+      # in case a Temporal office has been transfered by means of assigning it to a specific day of the year
+      $tfile = $transfertemp;
     } elsif ($transfer =~ /tempora/i) {
-      $tfile = $transfer;    # also if in that specific year depending on the day of Easter
+
+      # also if in that specific year depending on the day of Easter
+      $tfile = $transfer;
     } elsif (transfered($tfile, $year, $version)) {
+
+      # if the Office has been transfered away from its original
       $tfile = '';
     }
 
@@ -324,7 +327,7 @@ sub occurrence {
     # In Festo Sanctae Mariae Sabbato according to the rubrics.
     if ($testmode !~ /^season$/i && $BMVSabbato && $trank[2] < 1.4 && $srank[2] < 1.4) {
       unless ($tomorrow) {
-        $scriptura = ($month == 1 && $day < 13) ? $sname : $tname;
+        $scriptura = $tname;
       }
       $tempora{Rank} = $trank = "Sanctæ Mariæ Sabbato;;Simplex;;1.3;;vide $C10";
       $tname = subdirname('Commune', $version) . "$C10.txt";
@@ -348,8 +351,10 @@ sub occurrence {
   }
 
   if ($tname =~ /Epi1\-0/i && $srank[2] == 5.6) {
+
+    # Ensure that the dies infra Octavam Epiphaniæ does not outrank the Sunday infra Octavam or the Feast of the Holy Family
     $srank[2] = 2.9;
-  }    # Ensure that the infra Octavam Epi does not outrank the Sunday infra Octavam or the Feast of the Holy Family
+  }
   if ($testmode =~ /seasonal/i && $version =~ /196/ && $srank[2] < 5 && $dayname[0] =~ /Adv/i) { $srank[2] = 1; }
 
   # Sort out occurrence between the sanctoral and temporal cycles.
@@ -481,12 +486,15 @@ sub occurrence {
     if (($hora =~ /matutinum/i || (!$officename[2] && $hora !~ /Vespera|Completorium/i)) && $rank < 7 && $trank[0]) {
       my %scrip = %{officestring('Latin', $tname)};
 
-      if (!exists($saint{"Lectio1"})
+      if (
+          !exists($saint{"Lectio1"})
         && exists($scrip{Lectio1})
         && $scrip{Lectio1} !~ /evangelii/i
-        && ($saint{Rank} !~ /\;\;ex / || ($version =~ /trident/i && $saint{Rank} !~ /\;\;(vide|ex) /i))
-        && ($version !~ /monastic/i || $tname !~ /(?:Pasc|Pent)/ || $month > 10))
-      {
+        && ( $saint{Rank} !~ /\;\;ex /
+          || ($version =~ /trident/i && $saint{Rank} !~ /\;\;(vide|ex) /i)
+          || $saint{Rule} =~ /Lectio1 temp/i)
+        && ($version !~ /monastic/i || $tname !~ /(?:Pasc|Pent)/ || $month > 10)
+      ) {
         $officename[2] = "Scriptura: $trank[0]";
       } else {
         $officename[2] = "Tempora: $trank[0]";
@@ -1432,10 +1440,9 @@ sub precedence {
   if ($scriptura) {
     %scriptura = %{officestring($lang1, $scriptura)};
 
-    if (!$dayname[2]) {
+    if (!$dayname[2] && $scriptura !~ /Nat0[12345]/) {
       $dayname[2] = "Scriptura: $scriptura{Rank}  $scriptura";
       $dayname[2] =~ s/;;.*//s;
-
     }
   }
 

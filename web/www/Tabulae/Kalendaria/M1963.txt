@@ -1,9 +1,9 @@
 *January*
 01-01=01-01=Die Octavae Nativitatis Domini=6=
-01-02=01-02=Die Secunda Januarii=1=
-01-03=01-03=Die Tertia Januarii=1=
-01-04=01-04=Die Quarta Januarii=1=S. Titi Episc et Confessoris=1=
-01-05=01-05r=Die Quinta Januarii=1=
+01-02=xxxxx
+01-03=xxxxx
+01-04=01-04cc=Die Quarta Januarii=1=S. Titi Episc et Confessoris=1=
+01-05=xxxxx
 01-06=01-06=Epiphaniae Domini=6=
 01-07=01-07=Die Septima Januarii=1=
 01-08=01-08=Die Octava Januarii=1=
