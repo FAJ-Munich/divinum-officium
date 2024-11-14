@@ -146,9 +146,9 @@ sub handleverses {
     s{(\(.*?\))}{/:$&:/};       # text in () as rubrics
 
     s/†\s*//g if $noflexa;
-    
+
     s/\s\+\s/ / if $version =~ /cist/i;    # no sign-of the cross in Cistercian
-    
+
     $_
   } @{$_[0]};
 }
@@ -189,7 +189,7 @@ sub psalm : ScriptFunc {
       || ($psnum == 62 && $version !~ /Monastic/)
       || ($psnum == 115 && $version =~ /Monastic/);
   }
-  
+
   my $bea = $lang eq 'Latin' && $psalmvar || $lang eq 'Latin-Bea';
 
   my @lines = do_read(checkfile($bea ? 'Latin-Bea' : $lang, "Psalterium/Psalmorum/Psalm$psnum.txt"));
@@ -204,7 +204,7 @@ sub psalm : ScriptFunc {
     shift(@lines) =~ /\(?(?<title>.*?) \* (?<source>.*?)\)?\s*$/;
     ($title, $source) = ($+{title}, $+{source});
     if ($v1) { $source =~ s/:\K.*/"$v1-$v2"/e; }
-  } elsif ($bea) {  # special handling for Bea's psalter
+  } elsif ($bea) {    # special handling for Bea's psalter
 
     # remove Title if Psalm section does not start in the beginning
     shift(@lines) if $lines[0] =~ /^\(.*\)\s*$/ && $lines[1] =~ /^\d+\:(\d+)[a-z]?\s/ && $v1 > $1;
