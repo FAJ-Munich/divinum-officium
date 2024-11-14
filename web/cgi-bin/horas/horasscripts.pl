@@ -146,7 +146,9 @@ sub handleverses {
     s{(\(.*?\))}{/:$&:/};       # text in () as rubrics
 
     s/†\s*//g if $noflexa;
-
+    
+    s/\s\+\s/ / if $version =~ /cist/i;    # no sign-of the cross in Cistercian
+    
     $_
   } @{$_[0]};
 }

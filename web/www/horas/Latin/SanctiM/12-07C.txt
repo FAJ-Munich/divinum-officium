@@ -1,0 +1,25 @@
+[Rank]
+In Vigilia Immaculatæ Conceptionis Beatæ Mariæ Virginis;;Vigilia;;1.5;;
+
+[Rule]
+Responsory Feria
+Preces feriales
+Versum Feria
+Oratio Dominica
+no Te Deum
+Laudes 2 
+
+[Lectio1] (feria 7)
+@Tempora/Adv2-0
+(sed die Nicolai)
+@Tempora/Adv1-5
+
+[Lectio2] (feria 7)
+@Tempora/Adv2-0
+(sed die Nicolai)
+@Tempora/Adv1-5
+
+[Lectio3] (feria 7)
+@Tempora/Adv2-0
+(sed die Nicolai)
+@Tempora/Adv1-5
