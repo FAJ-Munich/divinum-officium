@@ -112,7 +112,8 @@ $commemoratio omnium
 (rubrica cisterciensis) $rubrica Superior
 $Requiescant
 _
-&psalm(129)
+&psalm(129,1)
+$Requiem
 _
 $Aportainferi  
 (deinde dicuntur)

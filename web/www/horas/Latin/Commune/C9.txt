@@ -27,12 +27,10 @@ R. Beáti mórtui qui in Dómino moriúntur.
 Omne * quod dat mihi Pater, ad me véniet; et eum qui venit ad me, non eíciam foras.
 
 [Oratio_a_porta]
-_
 $Pater noster Et
 _
 &psalm(145)
 (sed rubrica 1955 aut rubrica 1960 aut rubrica monastica aut die Omnium Defunctorum omittitur)
-_
 $A porta inferi
 
 [Oratio_Fid]
