@@ -189,7 +189,7 @@ sub oratio {
       $w =~ s/\$(Per|Qui) .*?\n//;
     }
   }
-  $w =~ s/^(?:v. )?/v. /;
+  $w =~ s/^(?:v. )?/v. / unless $w =~ /^[\$\&\#]/;
   push(@s, $w);
   if ($rule =~ /omit .*? commemoratio/i) { return; }
 
@@ -224,7 +224,7 @@ sub oratio {
       {
         $c = getrefs($w{Commemoratio}, $lang, $vespera, $w{Rule});
       } else {
-        $c = undef;
+        $c = '';
       }
 
       if ($c && $octvespera && $c =~ /$octavestring/i) {
@@ -324,7 +324,7 @@ sub oratio {
           {
             $c = getrefs($c{Commemoratio}, $lang, $cvespera, $c{Rule});
           } else {
-            $c = undef;
+            $c = '';
           }
 
           if ($c && $octvespera && $c =~ /$octavestring/i) {
@@ -422,7 +422,7 @@ sub oratio {
           {
             $c = getrefs($c{Commemoratio}, $lang, $cv, $c{Rule});
           } else {
-            $c = undef;
+            $c = '';
           }
 
           if ($c && $octvespera && $c =~ /$octavestring/) {
@@ -543,7 +543,12 @@ sub getcommemoratio {
 
   our ($rule, $hora, $vespera, $version, $rank, $winner, @dayname, $month, $day, %winner, %winner2);
 
-  if ($rule =~ /no commemoratio/i && !($hora eq 'Vespera' && $vespera == 3 && $ind == 1)) { return ''; }
+  if ( $rule =~ /no\s+(\w+)?\s*commemoratio/i
+    && (!$1 || $wday =~ /$1/i)
+    && !($hora eq 'Vespera' && $vespera == 3 && $ind == 1))
+  {
+    return '';
+  }
   my @rank = split(";;", $w{Rank});
 
   if (

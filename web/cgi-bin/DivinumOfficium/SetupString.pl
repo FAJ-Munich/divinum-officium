@@ -163,8 +163,9 @@ sub get_tempus_id {
       : 'Nativitatis'
     : /^Epi/ ? ($month == 1 && $day <= 13)
       ? 'Epiphaniæ'
-      : ($month == 1 || $day == 1 || ($day == 2 && !$vesp_or_comp)) ? 'post Epiphaniam post partum'
-      : 'post Epiphaniam'
+      : ($month == 1 || ($month == 2 && ($day == 1 || $day == 2 && !$vesp_or_comp))) ? 'post Epiphaniam post partum'
+      : ($month == 2) ? 'post Epiphaniam'
+      : 'post Pentecosten'
     : /^Quadp(\d)/ && ($1 < 3 || $dayofweek < 3) ? ($month == 1 || $day == 1 || ($day == 2 && !$vesp_or_comp))
       ? 'Septuagesimæ post partum'
       : 'Septuagesimæ'
@@ -204,6 +205,7 @@ sub get_dayname_for_condition {
       $month == 11
       && ($day == 2 || ($day == 3 && $dayofweek == 1) || ($day == 1 && day_of_week(11, 1, $year) != 6 && $vesp_or_comp))
     );
+  return 'Nicolai' if $month == 12 && $day == 6;
   return '';
 }
 

@@ -1,5 +1,5 @@
 [Rank]
-In Nativitate Domini;;Duplex I Classis;;6.9
+Nativity of Our Lord Jesus Christ;;Duplex I Classis;;6.9
 
 [Ant Vespera]
 The King of Peace * is magnified, whose face the whole earth desireth.;;109
@@ -79,6 +79,7 @@ Truth is sprung out of the earth, * and righteousness hath looked down from heav
 V. Thou art fairer than the children of men.
 R. Grace is poured into thy lips.
 He shall cry unto Me, alleluia, * Thou art My Father, alleluia.;;88
+(sed rubrica 1960) He shall cry unto Me, alleluia, * Thou art My Father, alleluia.;;88(2-37)
 Let the heavens rejoice, * and let the earth be glad before the Lord, for He cometh.;;95
 The Lord hath made known, alleluia, * His salvation, alleluia.;;97
 V. He shall cry unto Me, alleluia.

@@ -68,10 +68,8 @@ sub invitatorium {
   postprocess_ant($ant, $lang);
   my @ant = split('\*', $ant);
   my $ant2 = "Ant. $ant[1]";
-
-  my $invitpath = "Psalterium/Invitatorium.txt";
-  $invitpath =~ s/Psalterium/PiusXII/ if ($lang eq 'Latin' && $psalmvar);
-  $fname = checkfile($lang, $invitpath);
+  $lang = 'Latin-Bea' if $lang eq 'Latin' && $psalmvar;
+  my $fname = checkfile($lang, 'Psalterium/Invitatorium.txt');
 
   if (my @a = do_read($fname)) {
     $_ = join("\n", @a);
@@ -593,7 +591,7 @@ sub lectio : ScriptFunc {
     )
   { # sanctoral simplex feast (unless monastic in Nativitytide and Epiphany => prevent the former Octave days of Stephanus, Joannes, Innocents)
     $num = 4;    # diverge to legend
-    setbuild("L3: Diverged to Legend");
+    setbuild2("L3: Diverged to Legend");
   }
   my %w = (columnsel($lang)) ? %winner : %winner2;
 
@@ -797,7 +795,7 @@ sub lectio : ScriptFunc {
     if ($version =~ /Trident/ && $winner =~ /Sancti/ && $rank < 2) {
 
       # dirty hack to fix 3932
-      $w{Responsory1} = $w{Responsory2} = undef;
+      $w{Responsory1} = $w{Responsory2} = '';
     }
     if ($w && $num == 1) { setbuild2("Lectio1 ex scriptura"); }
   } elsif (!$w && $num == 4 && exists($commemoratio{"Lectio$num"}) && ($version =~ /1960/i))
@@ -864,7 +862,7 @@ sub lectio : ScriptFunc {
         && $num == 12
         && !(($rank > 5.5 && $dayofweek && !homilyflag) || ($winner{Rank} =~ /Dominica/i && $rank > 3)))
     )
-    || ($rank < 2 && $winner =~ /Sancti/i && $num == 4)
+    || (($ltype1960 == LT1960_SANCTORAL || $rank < 2) && $winner =~ /Sancti/i && $num == 4)
     )
   {    # 9th lesson diverged to Legend of Commemorated Saint
     %w = (columnsel($lang)) ? %winner : %winner2;
@@ -985,8 +983,10 @@ sub lectio : ScriptFunc {
   }
 
   if ($ltype1960 == LT1960_SANCTORAL && $num == 4) {
-    if (exists($w{'Lectio94'})) {
+    if (exists($winner{'Lectio94'})) {
+      %w = (columnsel($lang)) ? %winner : %winner2;
       $w = $w{'Lectio94'};
+      setbuild2('Last lectio Commemoratio ex Legenda historica (#94/1960)');
     }    #contracted legend for commemoratio
     else {
       my $w1 = %w;
@@ -1092,8 +1092,8 @@ sub lectio : ScriptFunc {
   #handle verse numbers for passages
   my $item = translate('Lectio', $lang);
   $item .= " %s" unless ($item =~ /%s/);
-  $w = "_\n" . setfont($largefont, sprintf($item, $num)) . "\n$w";
-  my @w = split("\n", $w);
+  $w = ($rule !~ /Limit.*?Benedictio/i ? "_\n" : '') . setfont($largefont, sprintf($item, $num)) . "\n$w";
+  my @w = split("\n+", $w);
   $w = "";
 
   my $initial = $nonumbers;
@@ -1101,11 +1101,11 @@ sub lectio : ScriptFunc {
   foreach (@w) {
     if (/^([0-9]+)\s+(.*)/s) {
       my $rest = $2;
-      my $num = "\n" . setfont($smallfont, $1);
+      my $num = setfont($smallfont, $1);
       $rest =~ s/^./\u$&/ unless ($nonumbers);
 
       if ($initial) {
-        $num = "\nv. ";
+        $num = "v. ";
         $initial = 0;
       } elsif ($nonumbers) {
         $num = '';
@@ -1113,9 +1113,9 @@ sub lectio : ScriptFunc {
       $_ = "$num $rest";
     } else {
       $initial = 1 if (/^!/ && $nonumbers);
-      $_ = "\n$_";
+      $_ = "$_";
     }
-    $w .= "$_";
+    $w .= "$_\n";
   }
 
   #handle parentheses in non Latin
@@ -1438,7 +1438,7 @@ sub StJamesRule {
   my $num = shift;
   my $s = shift;
   my %w = %$w;
-  my %w1 = undef;
+  my %w1 = {};
   my $key;
 
   if ($w{Rank} =~ /Dominica/i && prevdayl1($s)) {

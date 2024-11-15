@@ -7,12 +7,8 @@ Commemoratio Omnium Fidelium Defunctorum;;Duplex I. classis;;6;;ex C9
 [Rank] (rubrica innovata)
 Commemoratio Omnium Fidelium Defunctorum;;Duplex solemnity;;6;;ex C9
 
-[Initial]
-$Pater noster
-$Ave Maria
-(sed rubrica 1960 aut rubrica innovata omittuntur)
-
 [Oratio mortuorum]
+#Oratio
 $Pater noster Et
 _
 V. A pokol kapujátol
@@ -22,12 +18,12 @@ R.Ámen
 V. Uram, hallgasd meg könyörgésünket.
 R. És kiáltásunk jusson elődbe
 &Dominus_vobiscum2
-_
 $oremus 
 v. Isten ki a mindenség teremtőle és megvátója vagy bocsasd meg szolgaid és szolgálóid vétkeit, és könyörgéseink által add meg nekik a megbocsájtást amire mindig vágyakoztak
 $Qui vivis
 
 [Oratio mortuorum1]
+#Oratio
 $Pater noster Et
 _
 V. From the gates of the grave.
@@ -37,7 +33,6 @@ R. Amen.
 V. Uram, hallgasd meg könyörgésünket.
 R. És kiáltásunk jusson elődbe
 &Dominus_vobiscum2
-_
 v. Könyörögjunk
 v. Propitiare, quesumus Domine, animabus omnium famulorum famularumque tuarum, pro quibus majestatem tuam suppliciter exoramus, ut per haec piae deprecationis officia, pervenire mereantur ad requiem sempiternam.
 $Per Dominum
@@ -116,11 +111,13 @@ Szent Pál Apostolnak a Korintusiakhoz írott első leveléből
 58 Legyetek tehát állhatatosak és kitartók, szeretett testvéreim! Tegyetek mindig minél többet az Úr ügyéért, hiszen tudjátok, hogy az Úr ügyében való fáradozástok nem hiábavaló.
 
 [Conclusio]
+!Conclusio specialis
 &Gloria
 V. Nyugodjanak békességben
 R. Ámen
 
 [Oratio mortuorum2]
+#Oratio
 $Pater noster Et
 _
 V. From the gates of the grave.
@@ -138,7 +135,7 @@ $Dominum
 [Special Prima]
 &special('Initial', 'Magyar')
 $Credo
-(sed rubrica 1960 aut rubrica innovata omittitur)
+(sed rubrica 1955 aut rubrica 1960 aut rubrica innovata omittitur)
 
 &psalm(87)
 
@@ -161,6 +158,7 @@ $Amen
 
 [Special Tertia]
 &special('Initial', 'Magyar')
+(sed rubrica 1955 aut rubrica 1960 aut rubrica innovata omittitur)
 
 &psalm(37,1,11)
 
@@ -174,6 +172,7 @@ $Amen
 
 [Special Sexta]
 &special('Initial', 'Magyar')
+(sed rubrica 1955 aut rubrica 1960 aut rubrica innovata omittitur)
 
 &psalm(69)
 
@@ -187,6 +186,7 @@ $Amen
 
 [Special Nona]
 &special('Initial', 'Magyar')
+(sed rubrica 1955 aut rubrica 1960 aut rubrica innovata omittitur)
 
 &psalm(101,1,13)
 
