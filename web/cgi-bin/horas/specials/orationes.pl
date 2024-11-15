@@ -543,7 +543,12 @@ sub getcommemoratio {
 
   our ($rule, $hora, $vespera, $version, $rank, $winner, @dayname, $month, $day, %winner, %winner2);
 
-  if ($rule =~ /no commemoratio/i && !($hora eq 'Vespera' && $vespera == 3 && $ind == 1)) { return ''; }
+  if ( $rule =~ /no\s+(\w+)?\s*commemoratio/i
+    && (!$1 || $wday =~ /$1/i)
+    && !($hora eq 'Vespera' && $vespera == 3 && $ind == 1))
+  {
+    return '';
+  }
   my @rank = split(";;", $w{Rank});
 
   if (

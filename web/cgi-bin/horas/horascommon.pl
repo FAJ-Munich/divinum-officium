@@ -1738,7 +1738,7 @@ sub setheadline {
           : $version =~ /trident/i ? 'Semiduplex'
           : 'Semiduplex Vigilia II. classis';
       } elsif ($latname =~ /^In Vigilia/i && $rank <= 2.5) {
-        $rankname = $version =~ /cist/i ? 'iij. Lect. et M.' : 'Simplex';
+        $rankname = $version =~ /cist/i ? 'Vigilia' : 'Simplex';
       }
 
       if ($latname =~ /Sanctæ Fami/i && $version !~ /196/) {
