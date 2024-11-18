@@ -888,7 +888,7 @@ sub concurrence {
     #  before DA, more Semiduplex and Duplex where treated as "A capitulo"
     # In Cisterciense, even MM. maj is A capitulo in concurrence with Dom. I. classis
     my $flrank =
-        ($version =~ /cist/i && $cwinner{Rank} =~ /Dominica/i && $dayname[0] =~ /Adv1|Quad[156]/)
+        ($version =~ /cist/i && $cwinner{Rank} =~ /Dominica/i && $tomorrowname[0] =~ /Adv1|Quad[156]/)
       ? ($rank < 4.9 ? 2 : $rank)
       : $version =~ /trident/i ? (
           ($rank < 2.9 && !($rank == 2.1 && $winner{Rank} !~ /infra Octavam/i)) ? 2
