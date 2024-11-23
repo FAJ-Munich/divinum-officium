@@ -1,12 +1,6 @@
 [Rank]
 Feria IV Quattuor Temporum in Adventu;;Feria major;;2.1
 
-[Rank] (rubrica 196)
-Feria IV Quattuor Temporum Adventus;;Feria major;;4.9
-
-[RankNewcal]
-Feria IV infra Hebdomadam III Adventus;;Feria major;;2.1
-
 [Rule]
 Oratio Dominica
 no Gloria
@@ -26,23 +20,18 @@ v. Dauwt, hemelen, van boven en gij, wolken, regent de Gerechte: dat de aarde zi
 Wij vragen U, almachtige God, dat de aanstaande plechtige viering van onze verlossing ons steun geve in dit leven en de beloning van de eeuwige zaligheid schenke.
 $Per Dominum
 
-[LectioL1]
-Lezing uit de Profeet Isaias
-!Is 2:2-5
-In die tijd sprak Isaias, de profeet: Op het einde der tijden zal de berg van het huis des Heren aan de spits der bergen staan en uitsteken boven de heuvelen. En alle naties zullen er heenstromen, en vele volken zich opmaken en zeggen: Komt, laat ons opgaan naar de berg des Heren en naar het huis van de God van Jacob; dan zal Hij ons zijn wegen leren en wij zullen wandelen op zijn paden. Want van Sion zal de Wet uitgaan en vanuit Jeruzalem het woord des Heren. En Hij zal rechtspreken over de naties en gericht houden over de volkeren. En zij zullen hun zwaarden omsmeden tot ploegscharen en hun lansen tot sikkels. Geen volk zal het zwaard meer heffen tegen een ander en men zal zich niet meer oefenen ten strijd. Komt, huis van Jacob, laat ons wandelen in het licht van de Heer, onze God.
-$Deo gratias
-
-[GradualeL1]
-!Ps 23:7; 23:3; 23:4
-O vorsten, heft uw poorten op en verheft U, gij eeuwige poorten, en de Koning van Glorie zal intrede doen.
-V. Wie mag de berg des Heren bestijgen of wie mag verwijlen in zijn heiligdom? Die rein is van handen en zuiver van hart.
-
 [OratioL1]
 Haast U, Heer, zo vragen wij U, draal niet langer en stuur ons hulp van uw hemelse kracht, opdat zij, die op uw liefde vertrouwen, door de troost van uw komst opgebeurd worden.
 $Qui vivis
 
 [Lectio]
 @Commune/C10a
+
+[LectioL1]
+Lezing uit de Profeet Isaias
+!Is 2:2-5
+In die tijd sprak Isaias, de profeet: Op het einde der tijden zal de berg van het huis des Heren aan de spits der bergen staan en uitsteken boven de heuvelen. En alle naties zullen er heenstromen, en vele volken zich opmaken en zeggen: Komt, laat ons opgaan naar de berg des Heren en naar het huis van de God van Jacob; dan zal Hij ons zijn wegen leren en wij zullen wandelen op zijn paden. Want van Sion zal de Wet uitgaan en vanuit Jeruzalem het woord des Heren. En Hij zal rechtspreken over de naties en gericht houden over de volkeren. En zij zullen hun zwaarden omsmeden tot ploegscharen en hun lansen tot sikkels. Geen volk zal het zwaard meer heffen tegen een ander en men zal zich niet meer oefenen ten strijd. Komt, huis van Jacob, laat ons wandelen in het licht van de Heer, onze God.
+$Deo gratias
 
 [Graduale]
 !Ps 144:18; 144:21
@@ -66,3 +55,8 @@ $Per Dominum
 [Postcommunio]
 Gevoed met uw heilsgave, bidden wij U, Heer, deemoedig, dat wij vernieuwd mogen worden door de uitwerking van datgene, wat wij nu in vreugde smaken.
 $Per Dominum
+
+[GradualeL1]
+!Ps 23:7; 23:3; 23:4
+O vorsten, heft uw poorten op en verheft U, gij eeuwige poorten, en de Koning van Glorie zal intrede doen.
+V. Wie mag de berg des Heren bestijgen of wie mag verwijlen in zijn heiligdom? Die rein is van handen en zuiver van hart.

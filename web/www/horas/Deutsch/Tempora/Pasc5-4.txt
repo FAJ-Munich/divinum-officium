@@ -55,7 +55,7 @@ R. Der Herr beim feierlichen Schalle der Trompeten, alleluja.
 Vater, * ich habe deinen Namen kundgetan den Menschen, die du mir gegeben: nun aber bitten ich für sie, nicht für die Welt, denn ich komme zu dir, alleluja.
 
 [Oratio]
-Verleihe uns, wir bitten dich, o allmächtiger Gott, die Gnade, dass wir, die wir an die heute erfolgte Himmelfahrt deines Eingeborenen, unseres Erlösers glauben, auch selbst mit unseren Herzen in Himmelshöhen weilen.
+Verleihe uns, wir bitten dich, o allmächtiger Gott, die Gnade, daß wir, die wir an die heute erfolgte Himmelfahrt deines Eingeborenen, unseres Erlösers glauben, auch selbst mit unseren Herzen in Himmelshöhen weilen.
 $Per eumdem
 
 [Invit]
@@ -115,7 +115,6 @@ Gefangenschaft, alleluja.
 Gar sehr erhaben ist er, * alleluja: über alle Götter, alleluja.;;96
 Der Herr ist in Sion, * alleluja: groß und erhaben, alleluja.;;98
 Der Herr im Himmel, * alleluja: hat seinen Sitz bereitet, alleluja.;;102
-
 
 [Nocturn 2 Versum]
 V. Als Christus aufstieg zur Höhe, alleluja.
@@ -229,16 +228,10 @@ R. Der du dahinfährst auf den Fittichen der Winde, alleluja.
 [Lectio9]
 Wir wollen nun hören, was er, nachdem er ihre Unzulänglichkeit getadelt hatte, als Mahnung sagte: „Geht in die ganze Welt und verkündet das Evangelium allen Geschöpfen.“ Sollte denn, meine Brüder, das heilige Evangelium etwa den sinnenlosen Dingen oder vernunftlosen Tieren gepredigt werden, so dass davon den Jüngern gesagt werden kann: „Predigt allen Geschöpfen“? Doch wird mit dem Ausdruck „alle Geschöpfe“ der Mensch bezeichnet. Von jedem Geschöpf hat doch der Mensch etwas. Er hat nämlich mit den Steinen gemeinsam das Sein, mit den Bäumen das Leben, mit den Tieren das Fühlen, mit den Engeln das Denken. Wenn also der Mensch etwas gemeinsam hat mit allen Geschöpfen, ist im gewissen Sinn alles Geschöpf der Mensch. Allen Geschöpfen wird also das Evangelium verkündet, wenn es dem Menschen allein verkündet &teDeum
 
-[Ant Laudes]
-@:Ant Vespera
-
 [Capitulum Laudes]
 !Apg 1,1-2
 v. Im ersten Bericht habe ich von dem allen erzählt, o Theophilus, was Jesus zuerst getan und gelehrt hat, bis zu dem Tage, da er, nachdem er den von ihm erwählten Aposteln seinen Auftrag kraft des Heiligen Geistes mitgeteilt, von der Erde schied.
 $Deo gratias
-
-[Hymnus Laudes]
-@:Hymnus Vespera
 
 [Versum 2]
 V. Der Herr im Himmel, alleluja.
@@ -264,10 +257,6 @@ v. Ihr Männer von Galiläa, was steht ihr da und schaut zum Himmel hinauf? Dies
 [Capitulum Sexta]
 !Apg 1,4-5
 v. Und bei einem Mahle gab er ihnen den Auftrag: Geht von Jerusalem nicht weg, sondern wartet auf das, was ihr vom Vater auf Grund der Verheißung bekommen sollt, die ihr - so sagte er - durch mich erfahren habt. Denn Johannes hat die Taufe mit Wasser vorgenommen, ihr aber sollt getauft werden mit dem Heiligen Geiste, und bis dahin sind nur noch wenige Tage.
-$Deo gratias
-
-[Capitulum Nona]
-@:Lectio Prima
 $Deo gratias
 
 [Versum 3]

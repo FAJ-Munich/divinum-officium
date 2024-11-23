@@ -1,5 +1,5 @@
 [Rank]
-Cathedræ S. Petri;;Duplex majus;;4;;ex C4
+Cathedræ S. Petri Romæ;;Duplex majus;;4;;ex C4
 
 [Rule]
 ex C4;

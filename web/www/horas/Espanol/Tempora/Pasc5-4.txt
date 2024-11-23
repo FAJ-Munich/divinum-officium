@@ -114,7 +114,6 @@ Has sido elevado, aleluya, * sobre todos los dioses, aleluya.;;96
 El Señor está en Sion, * aleluya; es grande y excelso, aleluya.;;98
 El Señor en el cielo, * aleluya, ha establecido su trono, aleluya.;;102
 
-
 [Nocturn 2 Versum]
 V. Al subir Cristo a lo alto, aleluya.
 R. Llevó consigo una multitud de cautivos, aleluya.
@@ -229,16 +228,10 @@ R. Avanzas sobre las alas de los vientos, aleluya.
 Después de reprenderlos por su dureza, oigamos la orden que les dio: “Id por todo el mundo, y predicad el Evangelio a toda criatura”. ¿Acaso, hermanos míos, el santo Evangelio debía predicarse a los seres irracionales o a los brutos, ya que dijo a sus discípulos: Predicad a toda criatura? Pero debemos considerar que con el nombre de toda criatura designa al hombre, ya que el hombre participa algún tanto de todas las criaturas; existe como existen las piedras, vive como también viven los árboles, siente a semejanza de los animales y tiene inteligencia como los Ángeles. Así, si el hombre tiene algo que le es común con toda criatura, en algún sentido el hombre es toda criatura. Cuando el Evangelio se predica al hombre, se predica a toda criatura.
 &teDeum
 
-[Ant Laudes]
-@:Ant Vespera
-
 [Capitulum Laudes]
 !Act 1:1-2
 v. En mi primer libro, querido Teófilo, escribí todo lo que Jesús hizo y enseñó desde el comienzo hasta el día en que, dando instrucciones por medio del Espíritu Santo a los Apóstoles que había escogido, ascendió a los cielos.
 $Deo gratias
-
-[Hymnus Laudes]
-@:Hymnus Vespera
 
 [Versum 2]
 V. El Señor en el cielo. Aleluya.
@@ -281,10 +274,6 @@ V. Llevó consigo a los cautivos liberados.
 R. Aleluya, aleluya. 
 &Gloria
 R. Jesucristo, al subir al cielo, * Aleluya, aleluya. 
-
-[Capitulum Nona]
-@:Lectio Prima
-$Deo gratias
 
 [Responsory Breve Nona]
 R. breve. Subo a mi Padre y vuestro Padre. * Aleluya, aleluya. 

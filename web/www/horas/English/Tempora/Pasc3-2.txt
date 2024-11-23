@@ -1,12 +1,8 @@
 [Rank]
 Die VII Infra Octavam S. Joseph;;Semiduplex;;2;;vide Tempora/Pasc2-3
 
-[Rule]
-vide Tempora/Pasc2-3
-9 lectiones
-
 [Lectio1]
-@Sancti/01-03o:Lectio1:s/-4/-5/
+@Tempora/Nat03:Lectio1:s/-4/-5/
 5 And from the throne proceeded lightnings, and voices, and thunders; and there were seven lamps burning before the throne, which are the seven spirits of God.
 
 [Responsory1]

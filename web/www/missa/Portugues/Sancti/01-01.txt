@@ -1,9 +1,6 @@
 [Rank]
 In Circumcisione Domini;;Duplex II classis;;5.1;;ex Sancti/12-25m3
 
-[Rank] (rubrica 196)
-Die Octavae Nativitatis Domini;;Duplex I classis;;6;;ex Sancti/12-25m3
-
 [Comment]
 # 01 I – Circuncisão do Senhor e Oitava do Natal
 ! Estação em Santa Maria Maior além Tibre

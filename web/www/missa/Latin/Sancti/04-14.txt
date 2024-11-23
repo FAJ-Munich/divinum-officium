@@ -1,9 +1,6 @@
 [Rank]
 S. Justini Martyris;;Duplex;;3;;vide C2
 
-[Rank] (rubrica innovata)
-S. Justini Martyris;;Duplex;;3.91;;vide C2
-
 [Rule]
 Evangelium non appropriatum
 vide C2;
@@ -64,4 +61,3 @@ Repósita est mihi coróna justítiæ, quam reddet mihi Dóminus in illa die jus
 [Postcommunio]
 Cœlésti alimónia refécti, súpplices te, Dómine, deprecámur: ut, beáti Justíni Mártyris tui mónitis, de accéptis donis semper in gratiárum actióne maneámus.
 $Per Dominum.
-

@@ -1,7 +1,4 @@
 [Rank]
-Dominica III Adventus;;Semiduplex;;5.6
-
-[Rank]
 Dominica III Adventus;;Semiduplex;;6
 
 [Rule]
@@ -32,11 +29,6 @@ Tú, Señor, que estás sentado sobre los Querubines, excita tu poder, y ven.
 V. Tú, que gobiernas a Israel, atiende; tú, que guías a José como a una ovejuela. Aleluya, aleluya.
 V. Despierta, Señor, tu poder, y ven para que nos salves. Aleluya.
 
-[GradualeF]
-!Ps 79:2-3, 2
-Tú, Señor, que estás sentado sobre los Querubines, excita tu poder, y ven.
-V. Tú, que gobiernas a Israel, atiende; tú, que guías a José como a una ovejuela.
-
 [Evangelium]
 Continuación + del Santo Evangelio según San Juan 
 !Jn 1:19-28
@@ -57,3 +49,8 @@ Decid a los pusilánimes: Animaos, y no temáis; mirad que viene nuestro Dios, y
 [Postcommunio]
 Imploramos, Señor, tu clemencia para que estos divinos auxilios, al purificarnos de los pecados nos dispongan para las fiestas venideras.
 $Per Dominum
+
+[GradualeF]
+!Ps 79:2-3, 2
+Tú, Señor, que estás sentado sobre los Querubines, excita tu poder, y ven.
+V. Tú, que gobiernas a Israel, atiende; tú, que guías a José como a una ovejuela.

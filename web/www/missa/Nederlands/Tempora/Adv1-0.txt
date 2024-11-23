@@ -31,11 +31,6 @@ Alleluia, alleluia.
 !Ps 84:8
 Toon ons, Heer, uw barmhartigheid en schenk ons uw heil. Alleluia.
 
-[GradualeF]
-!Ps 24:3; 24:4
-Niemand die op U vertrouwt, Heer, zal beschaamd worden. 
-V. Toon mij, Heer, uw wegen en leer mij uw paden kennen.
-
 [Evangelium]
 Vervolg ++ van het heilig Evangelie volgens Lucas
 !Luc 21:25-33
@@ -56,3 +51,8 @@ De Heer zal zegen schenken en ons land zal zijn vruchten geven.
 [Postcommunio]
 Mogen wij, Heer, uw goedertierenheid ondervinden midden in uw tempel, opdat wij het komend feest van onze verlossing met passend eerbetoon voorbereiden.
 $Per Dominum
+
+[GradualeF]
+!Ps 24:3; 24:4
+Niemand die op U vertrouwt, Heer, zal beschaamd worden. 
+V. Toon mij, Heer, uw wegen en leer mij uw paden kennen.

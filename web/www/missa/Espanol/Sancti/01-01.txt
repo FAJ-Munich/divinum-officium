@@ -1,9 +1,6 @@
 [Rank]
 In Circumcisione Domini;;Duplex II classis;;5.1;;ex Sancti/12-25m3
 
-[Rank] (rubrica 196)
-Die Octavae Nativitatis Domini;;Duplex I classis;;6;;ex Sancti/12-25m3
-
 [Introitus]
 !Isa 9:6
 v. Un Niño nos ha nacido, y se nos ha dado un Hijo, que tiene sobre su hombro la soberanía: y que se llamará el Ángel del gran Consejo.

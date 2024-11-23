@@ -4,9 +4,6 @@ Notre-Dame du Mont-Carmel;;Duplex majus;;4;;ex C11
 [Rank] (rubrica 196)
 Notre-Dame du Mont-Carmel;;Simplex;;1.1;;vide C11
 
-[Rank] (rubrica innovata)
-Notre-Dame du Mont-Carmel;;Duplex optional;;2;;ex C11
-
 [Oratio]
 Dieu, Vous avez orné l’Ordre du Carmel du titre particulier de la bienheureuse Marie toujours Vierge et Votre Mère : accordez-nous, dans Votre bonté, que, soutenus de la protection de celle dont nous honorons aujourd’hui solennellement la mémoire, nous méritions de parvenir aux joies éternelles.
 $Qui vivis

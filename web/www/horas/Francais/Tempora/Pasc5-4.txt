@@ -140,7 +140,6 @@ Il a été infiniment élevé, alléluia : au-dessus de tous les dieux, allélui
 Le Seigneur est dans Sion, alléluia : grand et élevé, alléluia.;;98
 Le Seigneur, dans le ciel, * alléluia, a dressé son trône, alléluia.;;102
 
-
 [Nocturn 2 Versum]
 V. Le Christ montant au ciel, alléluia.
 R. A emmené captive la captivité, alléluia.
@@ -255,16 +254,10 @@ R. Vous marchez sur les ailes des vents, alléluia.
 Écoutons ce que le Sauveur commande à ses disciples, après leur avoir reproché leur endurcissement : « Allez dans tout l’univers, et prêchez l’Évangile à toute créature. » Est-ce à dire, mes frères, que le saint Évangile dût être annoncé aux choses inanimées, ou aux animaux dépourvus de raison, et que ce soit à leur sujet que cette parole ait été dite aux disciples : « Prêchez à toute créature ? » Mais c’est l’homme qui est désigné ici par ces mots : toute créature. L’homme a, en effet, quelque chose de toute créature. L’être lui est commun avec les pierres, la vie avec les arbres, la sensibilité avec les animaux, et l’intelligence avec les Anges. Si donc l’homme a quelque chose de commun avec toute créature, on peut dire, en quelque sorte, que l’homme est toute créature, et par conséquent l’Évangile est prêché à toute créature, lorsqu’il est prêché à l’homme seul.
 &teDeum
 
-[Ant Laudes]
-@:Ant Vespera
-
 [Capitulum Laudes]
 !Act. 1:1-2
 v. J’ai fait un premier récit, ô Théophile, de tout ce que Jésus a fait et enseigné depuis le commencement jusqu’au jour où, après avoir donné Ses ordres par le Saint-Esprit, aux apôtres qu’Il avait choisis, Il fut enlevé au ciel.
 $Deo gratias
-
-[Hymnus Laudes]
-@:Hymnus Vespera
 
 [Versum 2]
 V. Le Seigneur, dans le ciel, alléluia.
@@ -307,10 +300,6 @@ V. A emmené captive la captivité.
 R. Alléluia, alléluia.
 &Gloria
 R. Le Christ montant au ciel, * Alléluia, alléluia.
-
-[Capitulum Nona]
-@:Lectio Prima
-$Deo gratias
 
 [Responsory Breve Nona]
 R.br. Je monte vers mon Père et votre Père, * Alléluia, alléluia.

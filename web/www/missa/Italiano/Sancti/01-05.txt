@@ -1,9 +1,6 @@
 [Rank]
 In Vigilia Epiphaniae;;Semiduplex;;5;;ex Sancti/01-01
 
-[Rank1570]
-In Vigilia Epiphaniae;;Semiduplex;;2;;ex Sancti/01-01
-
 [Introitus]
 !Sap 18:14-15.
 v. Mentre tutto era immerso in profondo silenzio, e la notte era a metà del suo corso, l’onnipotente tuo Verbo, o Signore, discese dal celeste trono regale.

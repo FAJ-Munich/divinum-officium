@@ -1,8 +1,9 @@
 [Rank]
-In Vigilia Assumptionis B.M.V.;;Simplex;;1.5;;
+Vigilia dell'Assunzione della Beata Maria Vergine
 
-[Rank] (rubrica 196)
-In Vigilia Assumptionis B.M.V.;;Duplex II classis;;5;;
+[Oratio]
+v. O Dio, che ti sei degnato di scegliere per dimora il seno verginale della beata Maria; concedi che, muniti della sua difesa, possiamo partecipare giulivi alla sua festa:
+$Per Dominum
 
 [Lectio1]
 Lettura del santo Vangelo secondo 
@@ -18,3 +19,14 @@ In nessun’altra cosa infatti, dopo la grazia di Dio si deve riporre la speranz
 
 [Lectio3]
 Allora solo cominciarono ad essere ammirati, quando divennero illustri colla propria virtù. La patria poi non ne ebbe alcun vantaggio, ma fu presa e incendiata; i concittadini perirono miseramente trucidati; i congiunti per sangue non ne ritrassero vantaggio alcuno per la salvezza, perché non erano sotto il patrocinio della virtù. Quelli che divennero più gloriosi di tutti furono gli Apostoli, perché cercarono i legami più propri a unirli strettamente a lui: i legami dell'ubbidienza. Da ciò si comprende la fede e una vita molto virtuosa esserci indispensabili: questa via è la sola che possa condurci alla salvezza.
+
+[Lectio1] (rubrica tridentina)
+!Commemorazione della Vigilia
+Lettura del santo Vangelo secondo Luca.
+!Luc 11:27-28
+In quell'occasione: Mentre Gesù parlava alle turbe, una donna, dalla folla levò la voce e gli disse: Beato il seno che t'ha portato. Eccetera.
+_
+Omelia di sant'Agostino Vescovo.
+!Trattato 10. su Giovanni, dopo l'inizio.
+Beata Vergine Maria, poiché facesti la volontà del Padre. Il Signore esaltò ciò in essa, che fece la la volontà del Padre, non che la carne generò la carne. La vostra carità intenda. Perciò quando il Signore appariva ammirabile nella folla, facendo segni e prodigi, e mostrando quel che si nascondeva nella carne, alcune anime ammirate dissero: Beato il ventre che ti ha portato. Ed egli: Beati anzi quelli che odono la parola di Dio e la custodiscono (Luc. 11, 27-28). Ciò vuol dire: Anche mia madre, che voi chiamate beata, è perciò beata perché custodisce la parola di Dio: non perché in lei il Verbo si fece carne ed abitò tra di noi (Joannes 1, 14) : ma perché custodisce quello stesso Verbo di Dio, per mezzo del quale ella è stata fatta, e che in essa si fece carne.
+&teDeum

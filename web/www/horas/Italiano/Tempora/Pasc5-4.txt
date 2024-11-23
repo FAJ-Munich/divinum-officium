@@ -115,7 +115,6 @@ Ti esalterò, o Signore, * perché m'hai protetto, alleluia.;;29
 Signore è in Sion, * alleluia: egli è grande ed eccelso, alleluia.;;98
 Il Signore del cielo, * alleluia: ha stabilito il suo trono, alleluia.;;102
 
-
 [Nocturn 2 Versum]
 V. Ascendendo Cristo in alto, alleluia.
 R. Menò con sé una turba di prigionieri, alleluia.
@@ -229,16 +228,10 @@ R. Tu cammini sulle ali dei venti, alleluia.
 Dopo aver ripresa la loro durezza, sentiamo ciò ch'egli comanda: «Andate per tutto il mondo, predicate il Vangelo ad ogni creatura» (Marc. 16,15). Forse che, fratelli miei, il santo Vangelo doveva predicarsi alle cose insensate, o agli animali privi di ragione, e perciò si dice ai discepoli: «Predicate ad ogni creatura»? Ma col nome di «ogni creatura» qui si indica l'uomo. L'uomo infatti ha qualche cosa di ogni creatura. Perché l'essere gli è comune colle pietre, la vita cogli alberi, la sensibilità cogli animali, l'intelligenza cogli Angeli. Se dunque l'uomo ha qualche cosa di comune con ogni creatura, si può dire, in qualche modo, che l'uomo è ogni creatura. Perciò il Vangelo è predicato ad ogni creatura, quando si predica all'uomo solo.
 &teDeum
 
-[Ant Laudes]
-@:Ant Vespera
-
 [Capitulum Laudes]
 Atti 1:1-2
 v. Prima, o Teofilo, io ho fatto menzione di tutto quello che Gesù incominciò a fare e ad insegnare, fino al giorno che, dopo aver dato per mezzo dello Spirito Santo i suoi ordini agli Apostoli, che aveva eletti, fu assunto.
 $Deo gratias
-
-[Hymnus Laudes]
-@:Hymnus Vespera
 
 [Versum 2]
 V. Il Signore nel cielo, alleluia.
@@ -281,10 +274,6 @@ V. Menò con sé una turba di prigionieri.
 R. Alleluia, alleluia.
 &Gloria
 R. Ascendendo Cristo in alto, * Alleluia, alleluia.
-
-[Capitulum Nona]
-@:Lectio Prima
-$Deo gratias
 
 [Responsory Breve Nona]
 R.br. Ascendo al Padre mio e Padre vostro, * Alleluia, alleluia. 

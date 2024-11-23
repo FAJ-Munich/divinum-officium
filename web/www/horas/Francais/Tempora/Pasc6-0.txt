@@ -10,15 +10,16 @@ ex Tempora/Pasc5-4;
 Doxology=Asc
 StJamesRule=John,Rev
 
-[Versum 1]
-@Tempora/Pasc5-4:Versum 2
-
 [Ant 1]
 Quand sera venu le Paraclet * que Je vous enverrai, l'Esprit de vérité qui procède du Père, Il rendra témoignage de Moi, alléluia.
 
 [Oratio]
 Dieu tout-puissant et éternel, faites que, toujours, nous Vous apportions une volonté dévouée et que nous servions Votre majesté avec un cœur sincère.
 $Per Dominum
+
+[Commemoratio]
+!Commemoration de l'octave de l'Ascension
+@Tempora/Pasc5-4:Oratio
 
 [Ant Matutinum]
 @Tempora/Pasc5-4:Ant Matutinum
@@ -99,20 +100,5 @@ $Deo gratias
 v. Ci quelqu’un parle, que ce soit comme des paroles de Dieu ; si quelqu’un exerce un ministère, qu’il le fasse comme par la vertu que Dieu donne ; afin qu’en toutes choses Dieu soit glorifié par Jésus-Christ notre Seigneur.
 $Deo gratias
 
-[Ant 2]
-@:Ant 1
-
-[Versum 2]
-@Tempora/Pasc5-4:Versum 1
-(sed rubrica tridentina)
-@:Versum 1
-
-[Versum 3]
-@:Versum 1
-
 [Ant 3]
 Je vous ai dit ces choses * pour que, leur heure étant venue, vous vous souveniez que Je vous les ai annoncées, alléluia.
-
-[Commemoratio]
-!Commemoration de l'octave de l'Ascension
-@Tempora/Pasc5-4:Oratio

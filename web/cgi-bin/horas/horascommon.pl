@@ -40,6 +40,7 @@ sub occurrence {
   my $trank = '';
   my $srank = '';
   my $transfer;
+  my $transfered;
 
   # Get the respective strings for Sanctoral office and Transfers
   my $sday = '';
@@ -61,8 +62,8 @@ sub occurrence {
 
   my @officename = ($weekname, '', '');
 
-  my $transfertemp = get_tempora($version, $sday)
-    ;    # look for permanent Transfers assigned to the day of the year (as of 2023-5-22 only 12-12n in Newcal version)
+  # look for permanent Transfers assigned to the day of the year (as of 2023-5-22 only 12-12n in Newcal version)
+  my $transfertemp = get_tempora($version, $sday);
 
   if ($transfertemp && $transfertemp !~ /tempora/i) {
     $transfertemp = subdirname('Sancti', $version) . "$transfertemp";    # add path to Sancti folder if necessary
@@ -70,8 +71,8 @@ sub occurrence {
     $transfertemp =~ s/TemporaM?/TemporaM/;    # modify path to Monastic Tempora folder if necessary
   }
 
-  my $transfers =
-    get_transfer($year, $version, $sday);      # get annual transfers if applicable depending on the day of Easter
+  # get annual transfers if applicable depending on the day of Easter
+  my $transfers = get_transfer($year, $version, $sday);
   my @transfers = split("~", $transfers);
 
   foreach $transfer (@transfers) {
@@ -118,6 +119,7 @@ sub occurrence {
     } elsif (transfered($tfile, $year, $version)) {
 
       # if the Office has been transfered away from its original
+      $transfered = $tfile;
       $tfile = '';
     }
 
@@ -171,6 +173,7 @@ sub occurrence {
       $sfile = $transfer;
       @commemoentries = @transfers;
     } elsif ($sfile && transfered($sfile, $year, $version)) {
+      $transfered = $sfile;
       $sfile = '';
     } elsif ($transfer =~ /tempora/i && @transfers) {
       foreach my $tr (@transfers) {
@@ -446,9 +449,9 @@ sub occurrence {
         $officename[2] =~ s/:/ ad Laudes \& Matutinum:/
           if $srank[2] >= 5 && $cr[2] < 2 && $srank[0] !~ /infra octavam/i;
       }
-    } elsif (transfered($tday, $year, $version)) {    #&& !$vflag)
+    } elsif ($transfered) {    #&& !$vflag)
       if ($hora !~ /Vespera|Completorium/i) {
-        my %t = %{officestring('Latin', "$tday.txt")};
+        my %t = %{officestring('Latin', "$transfered.txt")};
 
         if (%t) {
           my @tr = split(";;", $t{Rank});
@@ -568,10 +571,10 @@ sub occurrence {
       }
 
       # Don't say "Commemoratio in Commemoratione"
-      my $comm = $srank[0] =~ /^In Commemoratione/ ? '' : 'Commemoratio';
+      my $comm = $srank[0] =~ /^In Commemoratione/ ? '' : 'Commemoratio:';
 
       #$officename[2] = "$comm$laudesonly: $srank[0]";
-      $officename[2] = "$comm: $srank[0]";
+      $officename[2] = "$comm $srank[0]";
 
       if ($version =~ /196/i) {
         $officename[2] =~ s/:/ $laudesonly:/ if ($trank[2] >= 5 && $srank[2] < 2) || ($climit1960 == 2);
@@ -622,16 +625,16 @@ sub occurrence {
         $commemoratio = '';
         @commemoentries = ();
       }
-    } elsif (transfered($sday, $year, $version)) {
+    } elsif ($transfered) {
       if ($hora !~ /Vespera|Completorium/i) {
-        my %t = %{officestring('Latin', subdirname('Sancti', $version) . "$sday.txt")};
+        my %t = %{officestring('Latin', "$transfered.txt")};
 
         if (%t) {
           my @tr = split(";;", $t{Rank});
           my $tr = shift @tr;
           $officename[2] = "Transfer: $tr";
         } else {
-          $officename[2] = "Transfer: $sday file not found";
+          $officename[2] = "Transfer: $transfered file not found";
         }
       }
       $commemoratio = '';
@@ -739,7 +742,9 @@ sub concurrence {
     && $version =~ /divino/i)
   {
     $octvespera = 1;    # Commemoration of resumed Octave on Sunday from 1st Vespers (Divino only)
-  } elsif ($cwrank[0] =~ /Dominica/i && $trank[0] =~ /in.*octava/i) {
+  } elsif ($cwrank[0] =~ /Dominica/i && $trank[0] =~ /in.*octava/i
+    || ($cwrank[0] =~ /infra.*octav/i && $version =~ /Trident/))
+  {
     $octvespera = 3;    # Commemoration of Octave on Saturday from 2nd Vespers
   }
 
@@ -773,6 +778,7 @@ sub concurrence {
     || ( $cwinner{Rank} =~ /infra octavam/i
       && $cwinner{Rank} !~ /Dominica/i
       && ($version =~ /trident/i || $sanctoraloffice == $csanctoraloffice)
+      && $winner{Rank} =~ /infra octavam/i
     ) # before DA infra octavam always gets commemorated as at 2nd Vespers; after DA also when the office is of the octave
     || ($weekname =~ /Pasc[07]/i && $cwinner{Rank} !~ /Dominica/i)    # infra 8vam Pasch & Pent
     || ($winner =~ /01-01/ && $version !~ /trident/i)            # no commemoration of the Octave of S. Stephen after DA
@@ -1663,7 +1669,7 @@ sub setheadline {
 
       if ($version =~ /19(?:55|60)/ && $winner !~ /Pasc5-3/i && $dayname[1] =~ /feria/i) { $rankname = 'Feria'; }
 
-      if ($version =~ /1570|1617/i) { $rankname =~ s/ majus//; }    # no Duplex majus yet in 1570/1617
+      if ($version =~ /1570/i) { $rankname =~ s/ majus//; }    # no Duplex majus yet in 1570
 
       if ($latname =~ /Vigilia Epi/i) {
         $rankname = ($version =~ /trident/i) ? 'Semiduplex' : 'Semiduplex Vigilia II. classis';

@@ -184,6 +184,7 @@ sub kalendar_entry {
   $c2 = $dayname[2];
 
   ($h1, $h2) = split(/: /, $c2, 2);
+  ($c2, $h1, $h2) = ('', '', $h1) unless $h2;
   $c2 = setfont($smallblack, "$h1:") if $h1;
   $c2 .= "<I>" . setfont(liturgical_color($h2), " $h2") . "</I>" if $h2;
 

@@ -61,7 +61,7 @@ R. Und König wird über uns sein der Heiland der Welt.
 Wenn am Himmel * die Sonne aufgegangen ist, werdet ihr sehen den König der Könige vom Vater ausgehend, nach Art eines Bräutigams, der aus seinem Brautgemach hervorkommt.
 
 [Oratio]
-Verleihe uns, wir bitten dich, o allmächtiger Gott, die Gnade, dass uns deines Eingeborenen neuartige leibliche Geburt Freiheit bringe von der seit altersher drückenden Knechtschaft, in der wir unter dem Joch der Sünde festgehalten werden.
+Verleihe uns, wir bitten dich, o allmächtiger Gott, die Gnade, daß uns deines Eingeborenen neuartige leibliche Geburt Freiheit bringe von der seit altersher drückenden Knechtschaft, in der wir unter dem Joch der Sünde festgehalten werden.
 $Per eumdem
 
 [Invit]
@@ -315,10 +315,6 @@ R. Bekundet hat deutlich der Herr, * Alleluja, alleluja.
 [Versum Sexta]
 V. Nun sieht alles bis zu den Grenzen der Erde, alleluja.
 R. Das Heil unseres Gottes, alleluja.
-
-[Capitulum Nona]
-@:Lectio Prima
-$Deo gratias
 
 [Responsory Breve Nona]
 R.br. Nun sieht alles bis zu den Grenzen der Erde, * Alleluja, alleluja.

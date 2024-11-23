@@ -1,9 +1,6 @@
 [Rank]
 In Vigilia Epiphaniae;;Semiduplex;;5;;ex Sancti/01-01
 
-[Rank1570]
-In Vigilia Epiphaniae;;Semiduplex;;2;;ex Sancti/01-01
-
 [Lectio]
 Olvasmány szent Pál apostol Galatákhoz irott leveléből
 !Gal 4:1-7

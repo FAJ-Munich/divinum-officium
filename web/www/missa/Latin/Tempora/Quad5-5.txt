@@ -1,14 +1,10 @@
 [Rank]
 Septem Dolorum Beatæ Mariæ Virgine;;Duplex majus;;4.1
 
-[Rank] (rubrica 196)
-Septem Dolorum Beatæ Mariæ Virgine;;Commemoratio;;1
-
 [Rule]
 no Gloria
 Credo
 Prefatio=Quad5
-
 
 [Introitus]
 !Joann 19:25
@@ -40,11 +36,6 @@ _
 Stabat sancta María, cœli Regína et mundi Dómina, juxta Crucem Dómini nostri Jesu Christi dolorósa.
 !Thren 1:12
 O vos omnes, qui tránsitis per viam, atténdite et vidéte, si est dolor sicut dolor meus.
-
-[GradualeA]
-Dolorósa et lacrimábilis es, Virgo María, stans juxta Crucem Dómini Jesu, Fílii tui, Redemptóris.
-V. Virgo Dei Génetrix, quem totus non capit orbis, hoc crucis fert supplícium, auctor vitæ factus homo. Allelúja, allelúja.
-V. Stabat sancta María, cœli Regína et mundi Dómina, juxta Crucem Dómini nostri Jesu Christi dolorósa. Allelúja.
 
 [GradualeP]
 Allelúja, allelúja.
@@ -163,3 +154,8 @@ $Qui vivis
 !Pro Feria
 Sumpti sacrifícii, Dómine, perpetua nos tuítio non derelínquat: et nóxia semper a nobis cuncta depéllat.
 $Per Dominum
+
+[GradualeA]
+Dolorósa et lacrimábilis es, Virgo María, stans juxta Crucem Dómini Jesu, Fílii tui, Redemptóris.
+V. Virgo Dei Génetrix, quem totus non capit orbis, hoc crucis fert supplícium, auctor vitæ factus homo. Allelúja, allelúja.
+V. Stabat sancta María, cœli Regína et mundi Dómina, juxta Crucem Dómini nostri Jesu Christi dolorósa. Allelúja.

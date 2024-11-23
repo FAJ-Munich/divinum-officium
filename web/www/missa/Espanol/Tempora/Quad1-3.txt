@@ -1,12 +1,6 @@
 [Rank]
 Feria Quarta Quatuor Temporum Quadrigeismæ;;Feria major;;2
 
-[Rank1960]
-Feria Quarta Quatuor Temporum Quadrigesimæ;;Feria major;;3
-
-[RankNewcal]
-Feria IV. infra Hebdomadam I in Quadragesima;;Feria major;;2
-
 [Rule]
 no Gloria
 Suffragium=Sanctorum;Vivis;;
@@ -25,17 +19,6 @@ v. Acuérdate, Señor, de tus piedades y de tus misericordias usadas en los sigl
 Te suplicamos, Señor, que oigas benignamente nuestras oraciones y que extiendas la diestra de tu majestad para protegernos contra toda adversidad.
 $Per Dominum
 
-[LectioL1]
-Lección del libro del Éxodo
-!Ex 24:12-18
-Dios dijo a Moisés: «Sube hacia mí, al monte; quédate allí y te daré las tablas de piedra, con la ley y los mandamientos que he escrito para que los enseñes.» Se levantó Moisés, con Josué, su ayudante; y subieron al monte de Dios. Dijo a los ancianos: «Esperadnos aquí hasta que volvamos. Aarón y Jur quedan con vosotros; el que tenga algún problema que recurra a ellos». Después Moisés subió al monte. La nube cubría el monte. La gloria del Señor descansaba sobre el monte Sinaí y la nube lo cubrió durante seis días. Al séptimo día, Dios llamó a Moisés de en medio de la nube. La gloria del Señor aparecía a los israelitas como fuego devorador sobre la cumbre del monte. Moisés penetró en la nube y subió al monte. Moisés permaneció en el monte cuarenta días y cuarenta noches.
-$Deo gratias
-
-[GradualeL1]
-!Ps 24:17-18
-Las tribulaciones de mi corazón se han multiplicado; líbrame de mis congojas.
-V. Mira mi humillación y mi trabajo, y perdona todos mis pecados.
-
 [OratioL1]
 Te suplicamos, oh Señor, que mires benigno la devoción de tu pueblo; a fin de que, los que e mortifican en su cuerpo por medio de la abstinencia. Se fortifiquen en el espíritu con el fruto de las buenas acciones.
 $Per Dominum
@@ -44,6 +27,12 @@ $Per Dominum
 Lección del libro de los Reyes
 !3 Re 19:3-8
 Oído esto, se atemorizó Elías, y se fue huyendo por donde le llevaba su imaginación. Al llegar a Bersabee de Judá, dejó allí su criado. Y prosiguió su camino una jornada por el desierto; y habiendo llegado allá y sentándose debajo de un enebro pidió para su alma la separación del cuerpo, diciendo: Bástame ya, Señor, de vivir; llévate mi alma; pues no soy yo de mejor condición que mis padres. Y tendiéndose en el suelo, se quedó dormido a la sombra del enebro, cuando he aquí que el ángel del Señor le tocó y dijo: Levántate, y come. Miró atrás, y vio a su cabecera un pan cocido al rescoldo y un vaso de agua; comió, pues, y bebió, y se volvió a dormir.  Mas el ángel del Señor volvió segunda vez a tocarle, y le dijo: Levántate, y come; porque te queda por andar un largo camino. Levantándose Elías, comió y bebió: y confortado con aquella comida, caminó cuarenta días y cuarenta noches hasta llegar a Horeb, monte de Dios.
+
+[LectioL1]
+Lección del libro del Éxodo
+!Ex 24:12-18
+Dios dijo a Moisés: «Sube hacia mí, al monte; quédate allí y te daré las tablas de piedra, con la ley y los mandamientos que he escrito para que los enseñes.» Se levantó Moisés, con Josué, su ayudante; y subieron al monte de Dios. Dijo a los ancianos: «Esperadnos aquí hasta que volvamos. Aarón y Jur quedan con vosotros; el que tenga algún problema que recurra a ellos». Después Moisés subió al monte. La nube cubría el monte. La gloria del Señor descansaba sobre el monte Sinaí y la nube lo cubrió durante seis días. Al séptimo día, Dios llamó a Moisés de en medio de la nube. La gloria del Señor aparecía a los israelitas como fuego devorador sobre la cumbre del monte. Moisés penetró en la nube y subió al monte. Moisés permaneció en el monte cuarenta días y cuarenta noches.
+$Deo gratias
 
 [Graduale]
 !Ps 24:17-18, 1-4.
@@ -71,6 +60,11 @@ Escucha mis clamores, atiende a la voz de mi suplica, oh mi Rey y Dios mío; por
 [Postcommunio]
 Con la percepción de tu sacramento, haz Señor, que seamos purificados de nuestros pecados ocultos y libres de las asechanzas de los enemigos.
 $Per Dominum
+
+[GradualeL1]
+!Ps 24:17-18
+Las tribulaciones de mi corazón se han multiplicado; líbrame de mis congojas.
+V. Mira mi humillación y mi trabajo, y perdona todos mis pecados.
 
 [Super populum]
 !Oración sobre el pueblo

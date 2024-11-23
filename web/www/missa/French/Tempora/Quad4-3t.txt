@@ -19,17 +19,6 @@ v. Lorsque j’aurai été sanctifié en vous, je vous rassemblerai de tous les 
 Ô Dieu, qui, par le moyen du jeûne, accordez aux justes la récompense de leurs mérites et aux pécheurs le pardon de leurs fautes, ayez pitié de ceux qui vous supplient, afin que l’aveu de notre culpabilité nous obtienne de recevoir la rémission de nos offenses.
 $Per Dominum
 
-[LectioL1]
-Léctio Ezechiélis Prophétæ.
-!Ezech 36:23-28
-Ainsi parle le Seigneur Dieu : Je sanctifierai mon grand nom, qui a été profané parmi les nations, que vous avez profané au milieu d’elles, afin que les nations sachent que je suis le Seigneur, lorsque j’aurai été sanctifié en vous devant elles. Car je vous retirerai d’entre les nations, et je vous rassemblerai de tous les pays, et je vous amènerai dans votre pays. Je répandrai sur vous une eau pure, et vous serez purifiés de toutes vos souillures, et je vous purifierai de toutes vos idoles. Je vous donnerai un cœur nouveau et je mettrai un esprit nouveau au milieu de vous ; j’ôterai de votre chair le cœur de pierre, je vous donnerai un cœur de chair. Je mettrai mon esprit au milieu de vous, et je ferai que, vous marchiez dans mes préceptes, que vous gardiez et que vous pratiquiez mes ordonnances. Vous habiterez dans le pays que j’ai donné à vos pères, et vous serez mon peuple, et je serai votre Dieu, dit le Seigneur tout-puissant.
-$Deo Gratias
-
-[GradualeL1]
-!Ps 38:12, 6
-Venez, mes fils, écoutez-moi ; je vous enseignerai la crainte du Seigneur.
-V. Approchez-vous de lui, et vous serez éclairés ; et vos visages ne seront pas couverts de confusion.
-
 [OratioL1]
 Faites, nous vous en supplions, ô Dieu tout-puissant, que nous mortifiant par ces jeûnes solennels, nous ressentions la joie d’une dévotion sainte, en sorte que l’ardeur de nos affections terrestres étant diminuée, nous goûtions plus aisément les choses du ciel.
 $Per Dominum
@@ -38,6 +27,12 @@ $Per Dominum
 Léctio Isaíæ Prophétæ.
 !Is 1:16-19
 Voici ce que dit le Seigneur Dieu : Lavez-vous, purifiez-vous, ôtez de devant mes yeux ta malice de vos pensées, cessez de faire le mal, apprenez à faire le bien, recherchez la justice, assistez l’opprimé, faites droit à l’orphelin, défendez la veuve. Et venez et attaquez-moi, dit le Seigneur ; et si vos péchés sont comme l’écarlate, Ils deviendront blancs comme la neige et s’ils sont rouges comme le vermillon, ils seront blancs comme la laine. Si vous voulez et si vous m’écoutez, vous mangerez les biens de la terre, dit le Seigneur tout-puissant.
+
+[LectioL1]
+Léctio Ezechiélis Prophétæ.
+!Ezech 36:23-28
+Ainsi parle le Seigneur Dieu : Je sanctifierai mon grand nom, qui a été profané parmi les nations, que vous avez profané au milieu d’elles, afin que les nations sachent que je suis le Seigneur, lorsque j’aurai été sanctifié en vous devant elles. Car je vous retirerai d’entre les nations, et je vous rassemblerai de tous les pays, et je vous amènerai dans votre pays. Je répandrai sur vous une eau pure, et vous serez purifiés de toutes vos souillures, et je vous purifierai de toutes vos idoles. Je vous donnerai un cœur nouveau et je mettrai un esprit nouveau au milieu de vous ; j’ôterai de votre chair le cœur de pierre, je vous donnerai un cœur de chair. Je mettrai mon esprit au milieu de vous, et je ferai que, vous marchiez dans mes préceptes, que vous gardiez et que vous pratiquiez mes ordonnances. Vous habiterez dans le pays que j’ai donné à vos pères, et vous serez mon peuple, et je serai votre Dieu, dit le Seigneur tout-puissant.
+$Deo Gratias
 
 [Graduale]
 !Ps 32:12, 6
@@ -71,6 +66,11 @@ Le Seigneur a fait de la boue avec sa salive et en a oint mes yeux. Je m’en su
 [Postcommunio]
 Ô Seigneur, notre Dieu, que ce sacrement, reçu par nous, restaure nos âmes dont il est l’aliment et nous garde en soutenant nos corps.
 $Per Dominum
+
+[GradualeL1]
+!Ps 38:12, 6
+Venez, mes fils, écoutez-moi ; je vous enseignerai la crainte du Seigneur.
+V. Approchez-vous de lui, et vous serez éclairés ; et vos visages ne seront pas couverts de confusion.
 
 [Super populum]
 !Oratio super populum

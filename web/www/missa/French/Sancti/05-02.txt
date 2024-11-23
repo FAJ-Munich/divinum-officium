@@ -15,7 +15,6 @@ v. Au milieu de l’Église, il a ouvert la bouche, et le Seigneur l’a rempli 
 &Gloria
 v. Au milieu de l’Église, il a ouvert la bouche, et le Seigneur l’a rempli de l’esprit de sagesse et d’intelligence, et il l’a revêtu de la robe de gloire, alléluia, alléluia.
 
-
 [Oratio]
 Nous vous supplions, Seigneur, d’exaucer les prières que nous vous adressons en la solennité du bienheureux Athanase, votre Confesseur et Pontife, et de nous accorder, grâce aux mérites et à l’intercession de celui qui vous a si dignement servi, le pardon de tous nos péchés.
 $Per Dominum.
@@ -29,14 +28,6 @@ Mes Frères : Nous ne nous prêchons pas nous-mêmes, mais Jésus-Christ notre S
 Alléluia, alléluia.
 !Ps 109:4
 Vous êtes prêtre à jamais selon l’ordre de Melchisédech. Alléluia
-!Jas 1:12
-Heureux l’homme qui souffre patiemment l’épreuve, car lorsqu’il aura été éprouvé, il recevra la couronne de vie. Alléluia.
-
-[Graduale1]
-!Eccli 44:16
-Voici le grand Pontife qui dans les jours de sa vie a plu à Dieu.
-!Eccli 44:20
-Nul ne lui a été trouvé semblable, lui qui a conservé la loi du Très-Haut. Alléluia, alléluia
 !Jas 1:12
 Heureux l’homme qui souffre patiemment l’épreuve, car lorsqu’il aura été éprouvé, il recevra la couronne de vie. Alléluia.
 
@@ -60,3 +51,11 @@ Ce que je vous dis dans l’obscurité, dites-le dans la lumière, dit le Seigne
 [Postcommunio]
 Ô Dieu, qui récompensez les âmes fidèles, accordez-nous de recevoir notre pardon, grâce aux prières du bienheureux Athanase, votre Confesseur et Pontife, dont nous célébrons la fête vénérable.
 $Per Dominum
+
+[Graduale1]
+!Eccli 44:16
+Voici le grand Pontife qui dans les jours de sa vie a plu à Dieu.
+!Eccli 44:20
+Nul ne lui a été trouvé semblable, lui qui a conservé la loi du Très-Haut. Alléluia, alléluia
+!Jas 1:12
+Heureux l’homme qui souffre patiemment l’épreuve, car lorsqu’il aura été éprouvé, il recevra la couronne de vie. Alléluia.

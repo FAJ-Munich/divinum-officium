@@ -1,0 +1,60 @@
+[Rank]
+Secunda die infra Octavam Assumptionis Beatæ Mariæ Virginis;;Semiduplex;;2;;ex Sancti/08-15
+
+[Rule]
+ex Sancti/08-15;
+9 lectiones
+No prima Vespera
+
+[Lectio1]
+De Canticis Canticorum
+!Song 2:1-7
+1 Ego flos campi, et lilium convallium.
+2 Sicut lilium inter spinas, sic amica mea inter filias.
+3 Sicut malus inter ligna silvarum, sic dilectus meus inter filios. Sub umbra illius quem desideraveram sedi, et fructus ejus dulcis gutturi meo.
+4 Introduxit me in cellam vinariam; ordinavit in me caritatem.
+5 Fulcite me floribus, stipate me malis, quia amóre langueo.
+6 Læva ejus sub capite meo, et dextera illius amplexabitur me.
+7 Adjuro vos, filiæ Jerúsalem, per capreas cervosque camporum, ne suscitetis, neque evigilare faciatis dilectam, quoadusque ipsa velit.
+
+[Lectio2]
+!Cant 2:8-13
+8 Vox dilecti mei; ecce iste venit, saliens in montibus, transiliens colles.
+9 Similis est dilectus meus capreæ, hinnuloque cervorum. En ipse stat post parietem nostrum, respiciens per fenestras, prospiciens per cancellos.
+10 En dilectus meus loquitur mihi. Sponsus. Surge, propera, amica mea, columba mea, formosa mea, et veni:
+11 jam enim hiems transiit; imber abiit, et recessit.
+12 Flores apparuerunt in terra nostra; tempus putationis advenit: vox turturis audita est in terra nostra;
+13 ficus protulit grossos suos; vineæ florentes dederunt odorem suum.
+
+[Lectio3]
+!Cant 2:13-17
+13 Surge, amica mea, speciosa mea, et veni:
+14 columba mea, in foraminibus petræ, in caverna maceriæ, ostende mihi faciem tuam, sonet vox tua in auribus meis: vox enim tua dulcis, et facies tua decora.
+15 Capite nobis vulpes parvulas quæ demoliuntur vineas: nam vinea nostra floruit.
+16 Dilectus meus mihi, et ego illi, qui pascitur inter lilia,
+17 donec aspiret dies, et inclinentur umbræ. Revertere; similis esto, dilecte mi, capreæ, hinnuloque cervorum super montes Bether.
+
+[Lectio4]
+Sermo sancti Joannis Damasceni
+Hodie sacra et animata arca Dei viventis, quæ suum in utero concepit creatorem, requiescit in templo Domini, quod nullis est extructum manibus: et David exultat eius parens, et cum eo choros ducunt angeli, celebrant Arcangeli, Virtutes glorificant, Principatus exultant, Potestates callætantur, gaudent Dominationes, Throni festum diem agunt, laudant Cherubim, gloriam eius prædicant Seraphim. Hodie Eden novi Adam paradisum suscipit animatum, in quo soluta est condemnatio, in quo plantatum est lignum vitæ, in quo operta fuit nostra nuditas.
+
+[Lectio5]
+Hodie Virgo Immaculata, quæ nullis terrenis inquinata est affectibus, sed cælestibus educata cogitationibus, non in terram reversa est; sed, cum esset animatum cælum, in cælestibus tabernaculis collocatur. Ex qua enim omnibus vera vita manavit, quomodo illa mortem gustaret? Sed cedit legi latæ ab eo quem genuit; et, ut filia veteris Adam, veterem sententiam subiit (nam et eius filius, qui est vita ipsa, eam non recusavit); tu autem Dei viventis Mater, ad illum ipsum digne assumitur.
+
+[Lectio6]
+Heva, quæ serpentis suggestioni assensum præbuit, partus dolore, et mortis sententia damnatur, et inferorum collocatur penetralibus. Hanc autem vere beatam, quæ Dei verbo aures præstitit, et Spiritus Sancti operatione repleta est, atqui ad Archangeli spiritalem salutationem, sine voluptate et virile consortio, Dei Filium concepit et sine dolore aliquo peperit, ac totam se Dea consacravit, quonam modo mors devoraret? Quomodo inferi susciperent? Quomodo corruptio invaderet corpus illud, in quo vita suscepta est? Huic recta plana et facilis ad cælum parata est via. Si enim, ubi ego sum illic et minister meus erit, inquit vita et veritas Christus; quomodo non potius Mater cum ipso erit?
+
+[Lectio7]
+Léctio sancti Evangélii secúndum Lucam
+!Luc 10:38-42
+In illo témpore: Intravit Jesus in quoddam castellum: et mulier quædam, Martha nomine, excepit illum in domum suam. Et réliqua.
+_
+De Homilia sancti Augustíni Epíscopi
+!...
+Quid autem putamus nos reprebensum esse ministerium Marthæ ... uni instet scientiæ.
+
+[Lectio8]
+Si melior pars est, cur non omnes … sed multa ab uno.
+
+[Lectio9]
+Multa sunt quæ factu sunt: … ergo nec ista ministeria.

@@ -1,7 +1,4 @@
 [Rank]
-Dominica III Adventus;;Semiduplex;;5.6
-
-[Rank]
 Dominica III Adventus;;Semiduplex;;6
 
 [Rule]
@@ -32,11 +29,6 @@ Seigneur, vous qui trônez sur les Chérubins, réveillez votre puissance et ven
 V. Vous qui guidez Israël, prêtez attention ; vous qui conduisez Joseph comme une brebis. Alléluia, alléluia.
 V. Réveillez, Seigneur, votre puissance, et venez, afin de nous sauver. Alléluia.
 
-[GradualeF]
-!Ps 79:2; 79:3; 79:2
-Seigneur, vous qui trônez sur les Chérubins, réveillez votre puissance et venez.
-V. Vous qui guidez Israël, prêtez attention ; vous qui conduisez Joseph comme une brebis.
-
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Joánnem
 !Joann 1:19-28
@@ -57,3 +49,8 @@ Dites : Faibles, soyez forts, et ne craignez point ; voici que notre Dieu va ven
 [Postcommunio]
 Nous implorons, Seigneur, votre bonté, pour que ces secours divins nous arrachent à nos désordres et nous préparent aux fêtes qui viennent.
 $Per Dominum
+
+[GradualeF]
+!Ps 79:2; 79:3; 79:2
+Seigneur, vous qui trônez sur les Chérubins, réveillez votre puissance et venez.
+V. Vous qui guidez Israël, prêtez attention ; vous qui conduisez Joseph comme une brebis.

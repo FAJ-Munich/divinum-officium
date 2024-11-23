@@ -1,9 +1,6 @@
 [Rank]
 In Circumcisione Domini;;Duplex II classis;;5.1;;ex Sancti/12-25m3
 
-[Rank] (rubrica 196)
-Die Octavae Nativitatis Domini;;Duplex I classis;;6;;ex Sancti/12-25m3
-
 [Introitus]
 !Isa 9:6
 v. Ci è nato un bambino, ci è stato dato un figlio, il cui impero poggia sugli ómeri suoi: e il suo nome sarà: Angelo del buon consiglio.

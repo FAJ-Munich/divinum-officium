@@ -700,11 +700,12 @@ sub lectio : ScriptFunc {
   }
   my $w = $w{"Lectio$num"};
 
-  if ($nocturn == 1 && $rule =~ /Lectio1 Quad/i && $dayname[0] !~ /Quad/i) {
-    
+  if ($nocturn == 1 && $rule =~ /Lectio1 Quad/i && $dayname[0] !~ /Quad\d/i) {
+
     # For some Saints, the assigned I nocturn readings (from Commune) are valid in Quadragesima only;
-    # in paschaltide, these get the Lessons from the occurent scripture instead (e.g., 04-13)
+    # in Septuag/Paschaltide, these get the Lessons from the occurent scripture instead (e.g., 04-13)
     $w = '';
+    $rule =~ s/in 1 Nocturno L.*loco//;
   }
 
   if ($nocturn == 1 && $commemoratio{Rank} =~ /Quattuor/i && $month == 9) {
@@ -742,22 +743,24 @@ sub lectio : ScriptFunc {
           $nocturn == 1                        # or we are in the first nocturn
           && $homilyflag == 1                  # and there is a homily to be commemorated
           && exists($commune{"Lectio$num"})    # which has not been superseded by the sanctoral
+          && !($rule =~ /in 1 Nocturno/i)
         )
       )
     )
   ) {
     %w = (columnsel($lang)) ? %commune : %commune2;
     $w = $w{"Lectio$num"};
-    if ($w && $num == 1) { setbuild2("Lectio1-3 from Tempora/$file replacing homily"); }
+    if ($w && $num == 1) { setbuild2("Lectio1-3 from $commune replacing homily"); }
   }
 
   #look for commune if sancti and 'ex commune' (for Trident also "vide")
-  if (!$w
+  if (
+      !$w
     && $winner =~ /sancti/i
     && $commune =~ /^C/
-    && $communetype =~ /^ex/i
-    && ($rank > 3 || ($rule =~ /in (\d) Nocturno/i && $1 eq $nocturn)))
-  {
+    && ( ($communetype =~ /^ex/i && $rank > 3)
+      || ($rule =~ /in (\d) Nocturno Lectiones ex/i && $1 eq $nocturn))
+  ) {
     my %com = (columnsel($lang)) ? %commune : %commune2;
     my $lecnum = "Lectio$num";
 
@@ -962,7 +965,7 @@ sub lectio : ScriptFunc {
           if ($wc =~ /(.*?)\_/s) { $wc = $1; }
           $wc .= $w1;
         }
-        $ji = '4-6'
+        $ji = '4-6';
       }
       $wc ||= $w{"Lectio93"};
 

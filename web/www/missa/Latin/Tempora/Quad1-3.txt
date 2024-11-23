@@ -1,9 +1,6 @@
 [Rank]
 Feria Quarta Quatuor Temporum Quadragesimæ;;Feria major;;2.1
 
-[Rank] (rubrica 196)
-Feria Quarta Quatuor Temporum Quadragesimæ;;Feria major;;4.9
-
 [Rule]
 no Gloria
 Suffragium=Sanctorum;Vivis;;
@@ -22,17 +19,6 @@ v. Reminíscere miseratiónum tuárum, Dómine, et misericórdiæ tuæ, quæ a s
 Preces nostras, quǽsumus, Dómine, cleménter exáudi: et contra cuncta nobis adversántia, déxteram tuæ majestátis exténde.
 $Per Dominum
 
-[LectioL1]
-Léctio libri Exodi
-!Exod 24:12-18
-In diébus illis: Dixit Dóminus ad Móysen: Ascénde ad me in montem, et esto ibi: dabóque tibi tábulas lapídeas, et legem ac mandáta quæ scripsi: ut dóceas fílios Israël. Surrexérunt Moyses et Josue miníster ejus: ascendénsque Moyses in montem Dei, senióribus ait: Exspectáte hic, donec revertámur ad vos. Habétis Aaron et Hur vobíscum: si quid natum fúerit quæstiónis, referétis ad eos. Cumque ascendísset Moyses, opéruit nubes montem, et habitávit glória Dómini super Sínai, tegens illum nube sex diébus: séptimo autem die vocávit eum de médio calíginis. Erat autem spécies glóriæ Dómini, quasi ignis ardens super vérticem montis; in conspéctu filiórum Israël. Ingressúsque Móyses médium nébulæ, ascéndit in montem: et fuit ibi quadragínta diébus et quadragínta nóctibus.
-$Deo gratias
-
-[GradualeL1]
-!Ps 24:17-18
-Tribulatiónes cordis mei dilatátæ sunt: de necessitátibus meis éripe me, Dómine.
-V. Vide humilitátem meam, et labórem meum: et dimítte ómnia peccáta mea.
-
 [OratioL1]
 Devotiónem pópuli tui, quǽsumus, Dómine, benígnus inténde: ut, qui per abstinéntiam macerántur in córpore, per fructum boni óperis reficiántur in mente.
 $Per Dominum
@@ -41,6 +27,12 @@ $Per Dominum
 Léctio libri Regum
 !3 Reg 19:3-8
 In diébus illis: Venit Elías in Bersabée Juda, et dimísit ibi púerum suum, et perréxit in desértum, viam uníus diéi. Cumque venísset, et sedéret subter unam juníperum, petívit ánimæ suæ, ut morerétur, et ait: Súfficit mihi, Dómine, tolle ánimam meam: neque enim mélior sum quam patres mei. Projecítque se, et obdormívit in umbra juníperi: et ecce, Angelus Dómini tétigit eum, et dixit illi: Surge et cómede. Respéxit, et ecce ad caput suum subcinerícius panis, et vas aquæ: comédit ergo et bibit, et rursum obdormívit. Reversúsque est Angelus Dómini secundo, et tétigit eum, dixítque illi: Surge, cómede: grandis enim tibi restat via. Qui cum surrexísset, comédit et bibit, et ambulávit in fortitúdine cibi illíus quadragínta diébus et quadragínta nóctibus, usque ad montem Dei Horeb.
+
+[LectioL1]
+Léctio libri Exodi
+!Exod 24:12-18
+In diébus illis: Dixit Dóminus ad Móysen: Ascénde ad me in montem, et esto ibi: dabóque tibi tábulas lapídeas, et legem ac mandáta quæ scripsi: ut dóceas fílios Israël. Surrexérunt Moyses et Josue miníster ejus: ascendénsque Moyses in montem Dei, senióribus ait: Exspectáte hic, donec revertámur ad vos. Habétis Aaron et Hur vobíscum: si quid natum fúerit quæstiónis, referétis ad eos. Cumque ascendísset Moyses, opéruit nubes montem, et habitávit glória Dómini super Sínai, tegens illum nube sex diébus: séptimo autem die vocávit eum de médio calíginis. Erat autem spécies glóriæ Dómini, quasi ignis ardens super vérticem montis; in conspéctu filiórum Israël. Ingressúsque Móyses médium nébulæ, ascéndit in montem: et fuit ibi quadragínta diébus et quadragínta nóctibus.
+$Deo gratias
 
 [Graduale]
 !Ps 24:17; 24:18; 24:1-4
@@ -68,6 +60,11 @@ Intéllege clamórem meum: inténde voci oratiónis meæ, Rex meus et Deus meus:
 [Postcommunio]
 Tui, Dómine, perceptióne sacraménti, et a nostris mundémur occúltis, et ab hóstium liberémur insídiis.
 $Per Dominum
+
+[GradualeL1]
+!Ps 24:17-18
+Tribulatiónes cordis mei dilatátæ sunt: de necessitátibus meis éripe me, Dómine.
+V. Vide humilitátem meam, et labórem meum: et dimítte ómnia peccáta mea.
 
 [Super populum]
 !Oratio super populum

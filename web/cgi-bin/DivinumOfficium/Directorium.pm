@@ -219,7 +219,7 @@ sub transfered {
   my $year = shift;
   my $version = shift;
 
-  $str =~ s+Sancti/++;
+  $str =~ s+SanctiM?/++;
   return '' unless $str;
 
   my %transfer = %{$_dCACHE{"Transfer:$version:$year"}};
