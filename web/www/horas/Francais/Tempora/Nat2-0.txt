@@ -95,10 +95,6 @@ R. Car ils sont nombreux.
 V. Pour la gloire de votre nom, Seigneur, délivrez- nous.
 R. Et pardonnez-nous nos péchés, à cause de votre nom.
 
-[Nocturn 3 Versum]
-V. Rendez au Seigneur gloire et honneur.
-R. Rendez au Seigneur gloire pour son nom.
-
 [Lectio1]
 Des Actes des Apôtres
 !Act 3:1-8
@@ -254,10 +250,6 @@ A vous la louange, l'honneur d'un glorieux Nom,
 Le royaume de la béatitude.
 Ainsi soit-il.
 
-[Versum 2]
-V. Notre secours est dans le nom du Seigneur.
-R. Qui a fait le ciel et la terre.
-
 [Ant 2]
 Il s’est donné, * pour délivrer le peuple et s’acquérir un nom éternel, alléluia.
 
@@ -265,13 +257,17 @@ Il s’est donné, * pour délivrer le peuple et s’acquérir un nom éternel, 
 !Col 3:17
 v. Tout ce que vous faites en parole ou en action, faites-le au nom du Seigneur Jésus-Christ, rendant par lui grâces à Dieu et au Père.
 
-[Responsory Tertia]
+[Responsory Breve Tertia]
 R.br. Que le nom du Seigneur soit béni, * Alléluia, alléluia.
 R. Que le nom du Seigneur soit béni, * Alléluia, alléluia.
 V. Dès maintenant et à jamais.
 R. Alléluia, alléluia.
 &Gloria
 R. Que le nom du Seigneur soit béni, * Alléluia, alléluia.
+
+[Versum Tertia]
+V. Rendez au Seigneur gloire et honneur, alléluia.
+R. Rendez au Seigneur gloire pour son nom, alléluia.
 
 [Capitulum Sexta]
 !Phil 2:10-11
@@ -287,7 +283,7 @@ R. Alléluia, alléluia.
 R. Rendez au Seigneur gloire et honneur * Alléluia, alléluia.
 
 [Versum Sexta]
-V. Magnifiez le Seigneur avec moi alléluia.
+V. Magnifiez le Seigneur avec moi, alléluia.
 R. Et exaltons ensemble son nom, alléluia.
 
 [Responsory Breve Nona]
@@ -297,6 +293,10 @@ V. Et exaltons ensemble son nom.
 R. Alléluia, alléluia.
 &Gloria
 R. Magnifiez le Seigneur avec moi, * Alléluia, alléluia.
+
+[Versum Nona]
+V. Notre secours est dans le nom du Seigneur, alléluia.
+R. Qui a fait le ciel et la terre, alléluia.
 
 [Ant 3]
 Vous l'appellerez * du nom de Jésus ; car c’est lui qui sauvera son peuple de leurs péchés, alléluia.

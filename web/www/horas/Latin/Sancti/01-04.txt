@@ -58,3 +58,6 @@ Vidéndo quippe sanctus Joseph grávidam Vírginem, in conturbatiónem íncidit 
 [Lectio93] (rubrica divino)
 @:Lectio4
 &teDeum
+
+[Ant Vespera 3] (rubrica tridentina)
+@Sancti/12-28:Ant Laudes

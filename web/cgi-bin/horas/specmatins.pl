@@ -407,11 +407,11 @@ sub cujus_q {
   local ($_) = shift;
 
   return -2 if /basilic/i;                                # no change for 11-09 11-18r
-  return 5 if /S. P. N. Benedicti/;
+  return 5 if /S. P. N. Benedicti Abbatis/;               # Don't catch Scholastica
 
-  my $j = 0;                                                          # "Cujus …, ipse"
-  if (/(virgin|vidua|poenitentis|pœnitentis|C6|C7)/i) { $j += 2; }    # "Cujus …, ipsa"
-  if (/(?:ss\.|sanctorum|sociorum)/i) { $j++; }                       # "Quorum / Quarum"
+  my $j = 0;                                                                             # "Cujus …, ipse"
+  if (/(virgin|vidu[aæ]|poenitentis|pœnitentis|C6|C7)/i) { $j += 2 unless /C[2-5]/; }    # "Cujus …, ipsa"
+  if (/(?:ss\.|sanctorum|sociorum)/i) { $j++; }                                          # "Quorum / Quarum"
 
   $j;
 }
@@ -657,12 +657,6 @@ sub lectio : ScriptFunc {
     setbuild2("subst: Lectio$num tempora");
   }
 
-  # TODO: There seems to be a mismatch between taking care of a conflict of Die VII infra 8vam Immaculata Conceptio. and Q.T. in Adventum
-  # The lessons are repeated from the feast day 12-08 unless it is Feria IV Q.T.?
-  if ($version =~ /(?:1888|1906|Divino)/i && $month == 12 && $day == 14 && $dayofweek !~ 3 && $dayofweek) {
-    $w{"Lectio$num"} = $c{"Lectio$num"};
-  }
-
   #scriptura1960
   if ( $num < 3
     && $version =~ /196/
@@ -821,6 +815,7 @@ sub lectio : ScriptFunc {
 
     #$w1 =~ s/^\!.*?\n//;
     $w .= $w1;
+    setbuild2("ex Lectiones 2 et 3 fit una");
   }
   if ($version =~ /monastic/i && $num == 3) { $w = monastic_lectio3($w, $lang); }
 
@@ -831,6 +826,7 @@ sub lectio : ScriptFunc {
     if (contract_scripture($num)) {
       my $w1 = $c{'Lectio3'};
       $w .= $w1;
+      setbuild2("ex Lectiones 2 et 3 fit una");
     }
   }
 
@@ -851,6 +847,7 @@ sub lectio : ScriptFunc {
   {
     %w = (columnsel($lang)) ? %winner : %winner2;
     $w = $w{Lectio8} . $w{Lectio9};
+    setbuild2("ex Lectiones 8 et 9 fit una");
   }
   my $wo = $w;
 
@@ -885,21 +882,26 @@ sub lectio : ScriptFunc {
     )
   {    # 9th lesson diverged to Legend of Commemorated Saint
     %w = (columnsel($lang)) ? %winner : %winner2;
+    my $L9winnerflag = 0;
 
     if (($w{Rank} =~ /Simplex/i || ($version =~ /1955/ && $rank == 1.5)) && exists($w{'Lectio94'})) {
       setbuild2("Last lectio Commemoratio ex Legenda historica (#94)");
       $w = $w{'Lectio94'};
+      $L9winnerflag = 1;
     } elsif (exists($w{'Lectio93'})) {
       setbuild2("Last lectio Commemoratio ex Sanctorum (#93)");
       $w = $w{'Lectio93'};
+      $L9winnerflag = 1;
     }
 
     $j0 = ($num == 12) ? 9 : 7;    # where to look for Homily
 
-    if ( ($commemoratio =~ /tempora/i && $commemoratio !~ /Nat(29|30|31)/i || $commemoratio =~ /01\-05/)
+    if ( ($commemoratio =~ /tempora/i && $commemoratio !~ /Nat(29|30|31)/i || $commemoratio =~ /01\-05\./)
       && ($homilyflag == 1 || exists($commemoratio{"Lectio$j0"}))
       && $comrank > 1
-      && ($rank > 4 || ($rank >= 3 && $version =~ /Trident/i) || $homilyflag == 1 || exists($commemoratio{Lectio1})))
+      && ($rank > 4 || ($rank >= 3 && $version =~ /Trident/i) || $homilyflag == 1))
+
+      #  || exists($commemoratio{Lectio1}) removed as it results in a wrong commemoration of Die infra 8vam (e.g., 2024-04-23)
     {
       %w = (columnsel($lang)) ? %commemoratio : %commemoratio2;
       $wc = $w{"Lectio$j0"};
@@ -910,6 +912,7 @@ sub lectio : ScriptFunc {
         $winner{"Responsory$num"} = $w{"Responsory12C"} || $w{"Responsory$j0"};
         $winner2{"Responsory$num"} = $w{"Responsory12C"} || $w{"Responsory$j0"};
       } elsif (!$wc) {
+        $j0 = 1;
         $wc = $w{"Lectio1"};
 
         if ($wc && $version =~ /monastic/i && exists($w{"Responsory1"}) || exists($w{"Responsory12C"})) {
@@ -921,10 +924,10 @@ sub lectio : ScriptFunc {
       }
 
       if ($wc) {
-        setbuild2("Last lectio Commemoratio ex Tempora #1");
+        setbuild2("Last lectio Commemoratio ex Tempora (#$j0)");
         my %comm = %{setupstring($lang, 'Psalterium/Comment.txt')};
         my @comm = split("\n", $comm{'Lectio'});
-        $comment = ($commemoratio{Rank} =~ /Feria/) ? $comm[0] : ($commemoratio =~ /01\-05/) ? $comm[3] : $comm[1];
+        $comment = ($commemoratio{Rank} =~ /Feria/) ? $comm[0] : ($commemoratio =~ /01\-05\./) ? $comm[3] : $comm[1];
         $w = setfont($redfont, $comment) . "\n$wc";
       }
     }
@@ -933,20 +936,23 @@ sub lectio : ScriptFunc {
       if (!(-e "$datafolder/$lang/$transfervigil")) { $transfervigil =~ s/v\.txt/\.txt/; }
       my %tro = %{setupstring($lang, $transfervigil)};
       if (exists($tro{'Lectio Vigilia'})) { $w = $tro{'Lectio Vigilia'}; }
+      setbuild2("Lectio ultimo: Commemoratio pro Vigilia transferenda");
     } elsif ($homilyflag == 9) {
       my %tro = (columnsel($lang)) ? %commemoratio : %commemoratio2;
 
-      if (exists($tro{'Lectio1'})) {
+      if (exists($tro{'Lectio1'})) {    # should be always true if $homilyflag
         my $trorank = $tro{Rank};
         $trorank =~ s/;;.*//;
         $w = '!' . translate('Commemoratio', $lang) . ": $trorank\n" . $tro{'Lectio1'};
+        setbuild2("Lectio ultimo: Commemoratio pro Vigilia (#1)");
       }
     }
     my $cflag = 1;    #*************  03-30-10
                       #if ($winner{Rule} =~ /9 lectiones/i && exists($winner{Responsory9})) { $cflag = 0; }
                       #if ($winner{Rule} !~ /9 lectiones/i && exists($winner{Responsory3})) { $cflag = 0; }
 
-    if ( $commemoratio =~ /sancti/i
+    if (!$L9winnerflag
+      && $commemoratio =~ /sancti/i
       && $commemoratio{Rank} =~ /S\. /i
       && ($winner !~ /tempora/i || $winner{Rank} < 5)
       && ($version !~ /1955/ || $comrank > 4)
@@ -967,7 +973,11 @@ sub lectio : ScriptFunc {
         }
         $ji = '4-6';
       }
-      $wc ||= $w{"Lectio93"};
+
+      if (!$wc) {
+        $wc = $w{"Lectio93"};
+        $jc = 93;
+      }
 
       if (!$wc && $w{Rank} =~ /infra octav/i && $version !~ /Monastic/) {
         if (my $commemo1 = $commemoentries[1]) {
@@ -980,7 +990,7 @@ sub lectio : ScriptFunc {
       if ($wc) {
         setbuild2("Last lectio: Commemoratio from Sancti #$ji");
 
-        if ($wc !~ /\!/) {    # add Commemoratio comment if not there already
+        if ($wc !~ /^\!/) {    # add Commemoratio comment if not there already
           if (exists($w{Rank})) {
             my @wcr = split(';;', $w{Rank});
             $w = '!' . translate('Commemoratio', $lang) . ": $wcr[0]\n" . $wc;
@@ -1043,11 +1053,16 @@ sub lectio : ScriptFunc {
     if ($version =~ /1960/ && $winner =~ /tempora/i && $dayofweek == 0 && $dayname[0] =~ /(Adv|Quad)/i && $na == 3) {
       $na = 9;
     }
-    if (contract_scripture($num) && $version !~ /Monastic/i) { $na = 3; }
+
+    if (contract_scripture($num, 1) && $version !~ /Monastic/i) {
+      $na = 3;
+    }
 
     if ($version =~ /1955|1960/ && exists($w{"Responsory$na 1960"})) {
       $s = $w{"Responsory$na 1960"};
-    } elsif ($rule =~ /Responsory Feria/i) {
+    } elsif ($rule =~ /Responsory Feria/i
+      || ($version =~ /1960/ && $rule =~ /scriptura1960/i && !exists($winner{"Responsory$na"})))
+    {
       if (exists($scriptura{"Responsory$na"})) {
         $s = (columnsel($lang)) ? $scriptura{"Responsory$na"} : $scriptura2{"Responsory$na"};
       } else {
@@ -1064,14 +1079,16 @@ sub lectio : ScriptFunc {
         $s = (columnsel($lang)) ? $scriptura{"Responsory$na 1960"} : $scriptura2{"Responsory$na 1960"};
       }
     } else {
-      if ($version =~ /monastic/i && $dayofweek != 0 && $month == 1 && $day > 6 && $day < 13) {
-        $na += 4 if ($dayofweek == 2 || $dayofweek == 5);
 
-        if ($dayofweek == 3) {    # Saturday dont work due C10 || $dayofweek == 6 ) {
-          $na += 1 if ($na > 1);
-          $na += 8;
-        }
-      }
+      #      if ($version =~ /monastic/i && $dayofweek != 0 && $month == 1 && $day > 6 && $day < 13) {
+##        die $w{"Rank"};
+      #        $na += 4 if ($dayofweek == 2 || $dayofweek == 5);
+      #
+      #        if ($dayofweek == 3) {    # Saturday dont work due C10 || $dayofweek == 6 ) {
+      #          $na += 1 if ($na > 1);
+      #          $na += 8;
+      #        }
+      #      }
 
       if (exists($w{"Responsory$na"})) {
         $s = $w{"Responsory$na"};
@@ -1495,12 +1512,13 @@ sub prevdayl1 {
 # returns 1 if lesson 2 and 3 is to be contracted
 sub contract_scripture {
   my $num = shift;
+  my $respFlag = shift or 0;
   if ($num != 2 || $votive =~ /(C9|Defunctorum)/i) { return 0; }
   if ($version !~ /196/) { return 0; }
   if ($commune =~ /C10/i) { return 1; }
 
   if ( ($ltype1960 == LT1960_SANCTORAL || $ltype1960 == LT1960_SUNDAY)
-    && $rule !~ /scriptura1960/i
+    && ($rule !~ /scriptura1960/i || $respFlag)
     && ($dayname[1] !~ /feria/i || $commemoratio))
   {
     return 1;

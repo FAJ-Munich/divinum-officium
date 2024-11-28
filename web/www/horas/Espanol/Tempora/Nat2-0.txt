@@ -92,10 +92,6 @@ R. Puesto que es muy grave.
 V. Líbranos, Señor, por el honor de tu nombre. 
 R. Y por amor a tu nombre perdona nuestros pecados.
 
-[Nocturn 3 Versum]
-V. Tributad al Señor gloria y honor. 
-R. Tributad al Señor la gloria debida a su nombre.
-
 [Lectio1]
 De los Hechos de los Apóstoles
 !Act 3:1-8
@@ -251,10 +247,6 @@ honor y gloria a tu Nombre
 demos por dichosos siglos.
 Amén.
 
-[Versum 2]
-V. Nuestro auxilio es el nombre del Señor.
-R. Que hizo el cielo y la tierra.
-
 [Ant 2]
 Se entregó * para librar a su pueblo y adquirir para sí un nombre eterno. Aleluya.  
 
@@ -262,13 +254,17 @@ Se entregó * para librar a su pueblo y adquirir para sí un nombre eterno. Alel
 !Col 3:17
 v. Todo lo que de palabra o de obra realicéis sea todo en nombre de Jesús, ofreciendo la acción de gracias a Dios Padre por medio de Él.
 
-[Responsory Tertia]
+[Responsory Breve Tertia]
 R.br. Bendito sea el nombre del Señor * Aleluya, aleluya. 
 R. Bendito sea el nombre del Señor * Aleluya, aleluya. 
 V. Ahora y por todos los siglos. 
 R. Aleluya, aleluya. 
 &Gloria
 R. Bendito sea el nombre del Señor * Aleluya, aleluya.
+
+[Versum Tertia]
+V. Tributad al Señor gloria y honor. Aleluya.
+R. Tributad al Señor la gloria debida a su nombre. Aleluya.
 
 [Capitulum Sexta]
 !Flp 2:10-11
@@ -294,6 +290,10 @@ V. Y ensalcemos juntos su nombre.
 R. Aleluya, aleluya. 
 &Gloria
 R. Proclamad conmigo la grandeza del Señor * Aleluya, aleluya.
+
+[Versum Nona]
+V. Nuestro auxilio es el nombre del Señor. Aleluya.
+R. Que hizo el cielo y la tierra. Aleluya.
 
 [Ant 3]
 Le pondrás * por nombre Jesús. Salvará a su pueblo de sus pecados. Aleluya.

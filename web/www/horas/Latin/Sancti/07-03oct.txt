@@ -1,13 +1,12 @@
 [Rank]
-Quinta die infra Octavam Ss. Apostolorum Petri et Pauli;;Semiduplex;;2;;ex Sancti/06-29
+Quinta die infra Octavam Ss. Apostolorum Petri et Pauli;;Semiduplex;;2;;ex C1
 
 [Rule]
-ex Sancti/06-29;
+ex C1;
 9 lectiones
 
 [Versum 1]
-V. Constitues eos principes super omnem terram.
-R. Memores erunt nominis tui Domine.
+@Commune/C1:Nocturn 2 Versum
 
 [Ant 1]
 Petrus Apostolus, * et Paulus Doctor Gentium, ipsi nos docuerunt legem tuam Domine.
@@ -25,6 +24,17 @@ De quorum præsidio, dilectissimi, divinitus nobis ad exemplum patientiæ, et co
 
 [Lectio6]
 Sicut autem et nos experti sumus, et nostri probavere majores, credimus atque confidimus, inter omnes labores istius vitæ ad obtinendam misericordiam Dei semper nos specialium patronorum orationibus adjuvandos: ut quantum propriis peccatis deprimimur, tantum apostolicis meritis erigamur: Per Dominum nostrum Jesum Christum, cui est cum Patre et sancto Spiritu eadem potestas, una divinitas, in sæcula sæculorum. Amen.
+
+
+[Lectio7]
+@Commune/C1:Lectio7 in 2 loco
+
+[Lectio8]
+@Commune/C1:Lectio8 in 2 loco
+
+[Lectio9]
+@Commune/C1:Lectio9 in 2 loco
+
 
 [Versum 2]
 @Commune/C1:Versum 1

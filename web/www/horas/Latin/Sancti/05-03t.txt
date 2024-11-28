@@ -2,6 +2,8 @@
 
 [Rank]
 Inventione Sanctæ Crucis;;Duplex II classis;;5.1;;
+(sed rubrica 1570)
+Inventione Sanctæ Crucis;;Duplex;;4;;
 
 [Ant Vespera]
 @:Ant Laudes

@@ -6,7 +6,7 @@ Dominica I Passionis;;I classis Semiduplex;;6
 
 [Rule]
 9 lectiones
-Symbolum Athanasium(rubrica tridentina)
+(rubrica tridentina) Symbolum Athanasium
 
 [Ant 1]
 @Tempora/Quad4-6:Ant 3

@@ -200,12 +200,19 @@ sub occurrence {
         $svesp = 1;
         $BMVSabbato = ($srank[2] < 1.4 && $version !~ /196/ && $dayofweek == 6 && !$transfervigil);
 
-        if ($version !~ /196|Trident/ && $hora =~ /Completorium/i && $month == 11 && $day == 1 && $dayofweek != 6) {
-          $srank[2] = 7;    # Office of All Souls supersedes All Saints at Completorium from 1911 to 1959
+        if ( $version !~ /196|Trident/
+          && $hora =~ /Completorium/i
+          && $month == 11
+          && (($day == 1 && $dayofweek != 0) || ($day == 2 && $dayofweek == 1)))
+        {
+
+          # Office of All Souls supersedes All Saints/Dominica at Completorium from 1911 to 1959
+          $srank[2] = 7;
           $srank =~ s/;;[0-9]/;;7/;
+          $error .= $hora;
         } elsif ($version =~ /196/ && $month == 11 && $day == 1) {
 
-          # Office of All Souls' day begins at Matins???
+          # 1960: Office of All Souls' day begins at Matins???
           $srank[2] = 1;
           $srank = '';
         } elsif ($version !~ /196/ && $srank && ($tname =~ /Quadp3\-3/i || $tname =~ /Quad6\-[1-3]/i)) {
@@ -223,14 +230,17 @@ sub occurrence {
         # restrict II. Vespers
         if (
           ($saint{Rule} =~ /No secunda Vespera/i && $version !~ /196/)
+
+          # Vigils with the ackward exception of S. Lawrence in 1960 rules
           || ($srank =~ /vigilia/i
-            && ($version !~ /196/ || $sname !~ /08\-09/)
-          )    # Vigils with the ackward exception of S. Lawrence in 1960 rules
+            && ($version !~ /196/ || $sname !~ /08\-09/))
+
+          # Office of All Souls supersedes All Saints at Completorium from 1911 to 1959
           || ( $version !~ /1960|Trident/
             && $hora =~ /Completorium/i
             && $month == 11
             && $day == 1
-            && $dayofweek != 6)    # Office of All Souls supersedes All Saints at Completorium from 1911 to 1959
+            && $dayofweek != 6)
           || ($srank[2] < 2 && $trank && !($month == 1 && $day > 6 && $day < 13))    # Simplex end after None.
           || ( $version =~ /1955|Monastic.*Divino|1963/
             && $srank[2] >= 2.2
@@ -1222,7 +1232,7 @@ sub concurrence {
              $cr[2] < $ranklimit
           || $cstr{Rule} =~ /No prima vespera/i
           || ($version =~ /1955|196/ && $cstr{Rank} !~ /Dominica/i)
-          || ( $cstr{Rank} =~ /Feria|Sabbato|Vigilia|Quat[t]*uor/i
+          || ( $cstr{Rank} =~ /Feria|Sabbato|Vigilia|Quat[t]*uor Temp/i
             && $cstr{Rank} !~ /in Vigilia Epi|in octava|Dominica/i)
         ) {
           push(@comentries, $commemo);
@@ -1703,7 +1713,7 @@ sub rankname {
 
     if ($version =~ /19(?:55|6)/ && $winner !~ /Pasc5-3/ && $latname =~ /feria/i) { $i = 0 }    # 'Feria';
     if ($latname =~ /Sanctæ Fami/i && $version !~ /196/) { $i = 4; }                            # Duplex majus
-        #if ($version =~ /1570/ && $rank =~ /^4/) { $i = 3; }    # Duplex as no Duplex majus yet in 1570
+    if ($latname =~ /Defunctorum/i && $version !~ /196/) { $i = 3; }                            # Duplex
 
     $rankname = $ranktable[$i];
 

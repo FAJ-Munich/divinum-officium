@@ -664,7 +664,7 @@ sub getcommemoratio {
 
   if ($winner =~ /Epi1\-0a|01\-12t/) {
     my %w = columnsel($lang) ? %winner : %winner2;
-    $v = $vespera == 1 && $day == 10 ? $c{'Versum 2'} : $w{'Versum Commemoratio'};
+    $v = $vespera == 1 && $day == 10 ? $c{'Versum 2'} : $c{'Versum Tertia'};
   }
   $v ||=
        $w{'Versum ' . (4 - $ind)}

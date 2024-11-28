@@ -56,7 +56,15 @@ Infirmitátem nostram réspice, omnípotens Deus: et quia pondus própriæ acti�
 $Per Dominum
 
 [Oratio1]
-Deus, qui nos beáti N. Mártyris tui atque Pontíficis ánnua solemnitáte lætíficas: concéde propítius; ut, cujus natalícia cólimus, de ejúsdem étiam protectióne gaudeámus.
+Deus, qui nos beáti N. Mártyris tui atque Pontíficis ánnua solemnitáte lætíficas: concéde propítius; ut, cujus natalítia cólimus, de ejúsdem étiam protectióne gaudeámus.
+$Per Dominum
+
+[Oratio2]
+Præsta, quǽsumus, omnípotens Deus: ut, qui beáti N. Mártyris tui natalítia cólimus, intercessióne ejus in tui nóminis amóre roborémur.
+$Per Dominum
+
+[Oratio3]
+Præsta, quǽsumus, omnípotens Deus: ut, intercedénte beáto N. Mártyre tuo, et a cunctis adversitátibus liberémur in córpore, et a pravis cogitatiónibus mundémur in mente.
 $Per Dominum
 
 [Oratio2]

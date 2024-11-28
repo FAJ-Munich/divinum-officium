@@ -291,7 +291,15 @@ sub psalmi_matutinum_monastic {
 sub monastic_lectio3 {
   my $w = shift;
   my $lang = shift;
-  if ($winner !~ /Sancti/i || exists($winner{Lectio3}) || $rank >= 4 || $rule =~ /(9|12) lectio/i) { return $w; }
+
+  if ( $winner !~ /Sancti/i
+    || exists($winner{Lectio3})
+    || $rank >= 4
+    || $rule =~ /(9|12) lectio/i
+    || $rule =~ /Lectio1 tempora/)
+  {
+    return $w;
+  }
   my %w = (columnsel($lang)) ? %winner : %winner2;
   if (exists($w{Lectio94})) { return $w{Lectio94}; }
   if (exists($w{Lectio4})) { return $w{Lectio4}; }
