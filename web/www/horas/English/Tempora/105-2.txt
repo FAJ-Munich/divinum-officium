@@ -1,8 +1,3 @@
-[Lectio1]
-@Tempora/105-1:Lectio1Tridentina
-(sed rubrica tridentina)
-@Tempora/105-2:Lectio1Tridentina
-
 [Lectio1Tridentina]
 Lesson from the second book of Machabees
 !2 Mac 7:24-27
@@ -10,11 +5,6 @@ Lesson from the second book of Machabees
 25 But when the young man was not moved with these things, the king called the mother, and counselled her to deal with the young man to save his life.
 26 And when he had exhorted her with many words, she promised that she would counsel her son.
 27 So bending herself towards him, mocking the cruel tyrant, she said her own language: My son, have pity upon me, that bore thee nine months my womb, and gave thee suck three years, and nourished thee, and brought thee up unto this age.
-
-[Lectio2]
-@Tempora/105-1:Lectio2Tridentina
-(sed rubrica tridentina)
-@Tempora/105-2:Lectio2Tridentina
 
 [Lectio2Tridentina]
 !2 Mac 7:28-33
@@ -24,11 +14,6 @@ Lesson from the second book of Machabees
 31 But thou that hast been the author of all mischief against the Hebrews, shalt not escape the hand of God.
 32 For we suffer thus for our sins.
 33 And though the Lord our God is angry with us a little while for our chastisement and correction: yet he will be reconciled again to his servants.
-
-[Lectio3]
-@Tempora/105-1:Lectio3Tridentina
-(sed rubrica tridentina)
-@Tempora/105-2:Lectio3Tridentina
 
 [Lectio3Tridentina]
 !2 Mac 7:34-41

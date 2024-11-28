@@ -1,9 +1,6 @@
 [Rank]
 Feria II infra Hebdomadam Quinquagesimae;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Olvasmány Mózes első könyvéből
 !Gen 13:1-6
@@ -30,6 +27,3 @@ Olvasmány Mózes első könyvéből
 14 Az Úr így szólt Ábrámhoz, miután Lót elvált tőle: „Emeld föl szemedet és tekints a helyről, ahol állsz, északra és délre, keletre és nyugatra. 
 15 Az egész földet, amelyet látsz, neked és utódaidnak adom minden időkre. 
 16 Olyanná teszem utódaidat, mint a föld homokját.
-
-[Responsory3]
-@Tempora/Quadp3-0:Responsory3

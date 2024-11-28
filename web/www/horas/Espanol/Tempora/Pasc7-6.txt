@@ -1,17 +1,8 @@
 [Rank]
 Sabbato Quattuor Temporum Pentecostes;;Semiduplex I classis;;6;;ex Pasc7-0
 
-[RankNewcal]
+[Rank] (rubrica innovata)
 Sabbato post Pentecostes;;Feria;;1;;
-
-[Rule]
-ex Pasc7-0;
-1 nocturn;
-Antiphonas horas
-Psalmi Dominica;
-Hymnus Tertia
-Feria Te Deum
-no93
 
 [Oratio]
 Dios de bondad, infunde en nuestras almas el Espíritu Santo que nos creó con su sabiduría y nos gobierna con su providencia.
@@ -45,10 +36,6 @@ V. Vosotros sois mis amigos, si hiciereis lo que os mando.
 R. Recibid el Espíritu Santo que es vuestro Consolador; Él es el que enviará a vosotros el Padre, aleluya.
 &Gloria
 R. Recibid el Espíritu Santo que es vuestro Consolador; Él es el que enviará a vosotros el Padre, aleluya.
-
-[Lectio3]
-@Tempora/Quad3-4:Lectio3
-&teDeum
 
 [Ant 2]
 El amor de Dios * ha sido derramado en nuestros corazones con el Espíritu Santo que se nos ha dado. Aleluya.

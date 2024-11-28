@@ -1,7 +1,4 @@
-[Rank]
-Feria Secunda in Rogationibus;;Feria;;1
-
-[RankNewcal]
+[Rank] (rubrica innovata)
 Feria Secunda infra Hebdomadam V post Octavam Paschæ;;Feria;;1
 
 [Rule]
@@ -18,9 +15,6 @@ De la Epístola 1ª del Apóstol San Pedro
 3 si es que «gustáis lo suave que es el Señor». 
 4 Y vosotros, llegándoos a Él, piedra viviente desechada por los hombres, mas a los ojos de Dios escogida, preciosa, 
 5 ofreceos de vuestra parte como piedras vivientes con que se edifique una casa espiritual para un sacerdocio santo, para ofrecer víctimas espirituales aceptas a Dios por mediación de Jesucristo.
-
-[Responsory1]
-@Tempora/Pasc4-1:Responsory1
 
 [Lectio2]
 !1 Pe 2:6-10
@@ -45,12 +39,6 @@ R. Cantadle salmos, aleluya.
 15 Tal es la voluntad de Dios, que, obrando el bien, amordacemos la ignorancia de los hombres insensatos; 
 16 como libres y no como quien tiene la libertad cual cobertura de la maldad, sino como siervos de Dios. 
 17 Honrad a todos, amad la fraternidad, temed a Dios y honrad al emperador.
-
-[Responsory3]
-@Tempora/Pasc4-0:Responsory3
-
-[Ant 2]
-@Tempora/Pasc5-1:Ant 2
 
 [Oratio 2]
 @Tempora/Pasc5-1:Oratio 2

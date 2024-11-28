@@ -17,7 +17,7 @@ Feria Te Deum
 No suffragium
 No93
 
-[Rule] (rubrica 1960 aut rubrica innovata)
+[Rule] (rubrica 196)
 Feria Te Deum
 Doxology=Asc
 

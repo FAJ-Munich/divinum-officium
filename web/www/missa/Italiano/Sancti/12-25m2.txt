@@ -19,21 +19,20 @@ v. La luce splenderà oggi su di noi: poiché ci è nato il Signore: e si chiame
 Concedici, Te ne preghiamo, o Dio onnipotente: che, essendo inondati dalla nuova luce del Tuo Verbo incarnato, risplenda nelle nostre opere ciò che per virtù della fede brilla nella nostra mente.
 $Per eundem
 
-[Commemoratio Oratio]
-!Pro S. Anastasiæ Mart:
-Concedici, Te ne preghiamo, o Dio onnipotente: che, celebrando la solennità della Tua Martire Anastasia, possiamo godere presso di Te il beneficio del suo patrocinio.
-$Per Dominum
-
 [Lectio]
 Lettura della Lettera del B. Paolo Ap. a Tito.
 !Tit 3:4-7
 Carissimo: Apparsa la bontà e l’umanità del Salvatore, nostro Dio: Egli ci salvò non già in ragione delle opere di giustizia fatte da noi, ma per la Sua misericordia: col lavacro di rigenerazione e il rinnovamento dello Spirito Santo, diffuso largamente su di noi per i meriti di Gesù Cristo, nostro Salvatore: affinché, giustificati per la Sua grazia, divenissimo eredi, in speranza, della vita eterna: in Cristo Gesù, Signore nostro.
 
+[Commemoratio Oratio]
+!Pro S. Anastasiæ Mart:
+Concedici, Te ne preghiamo, o Dio onnipotente: che, celebrando la solennità della Tua Martire Anastasia, possiamo godere presso di Te il beneficio del suo patrocinio.
+$Per Dominum
+
 [Graduale]
 !Ps 117:26; 117:27; 117:23
 Benedetto Colui che viene nel nome del Signore: Il Signore è Dio e ci ha illuminati.
-V. Questa è opera del signore: ed è mirabile ai nostri occhi. Allelúia,~
-allelúia
+V. Questa è opera del signore: ed è mirabile ai nostri occhi. Allelúia, allelúia
 !Ps 92:1
 V. Il Signore regna, si ammanta di maestà: Il Signore si ammanta di fortezza, e si cinge di potenza. Allelúia.
 
@@ -67,4 +66,3 @@ $Per eundem
 !Pro S. Anastasia.
 Hai saziato, o Signore, la tua famiglia con i sacri doni: confortaci sempre, Te ne preghiamo, mediante l’intercessione della Santa di cui celebriamo la festa. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con Te nell’unità dello Spirito Santo, per tutti i sécoli dei sécoli.
 $Per Dominum
-

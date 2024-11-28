@@ -8,9 +8,6 @@ A Makkabeusok első könyvéből
 5 Így távol legyen tőlem, hogy a szükség idején kíméljem életemet. Én sem vagyok jobb testvéreimnél. 
 6 Ellenkezőleg, bosszút állok népemért, a szentélyért, asszonyainkért és gyermekeinkért. Mert a pogány népek mind összefogtak, hogy gyűlöletükben kiirtsanak bennünket.”
 
-[Responsory1]
-@Tempora/101-0:Responsory1
-
 [Lectio2]
 !1 Mac 13:7-13
 7 E szavak hallatára újra fölébredt a nép bátorsága. 
@@ -21,9 +18,6 @@ A Makkabeusok első könyvéből
 12 Trifon elindult egy nagy sereggel Ptolemaiszból, hogy betörjön Júda földjére. Jonatán is vele volt, fogolyként. 
 13 Simon a síkság szélén, Adidánál ütötte fel táborát.
 
-[Responsory2]
-@Tempora/101-0:Responsory2
-
 [Lectio3]
 !1 Mac 13:14-19
 14 Amikor Trifon meghallotta, hogy Simon testvére, Jonatán helyére lépett, és készen áll, hogy harcba szálljon vele, követet küldött hozzá ezzel az üzenettel: 
@@ -32,6 +26,3 @@ A Makkabeusok első könyvéből
 17 Simon észrevette ugyan, hogy csel lappang szavai mögött, mégis elküldött a pénzért és a fiúkért, nehogy magára vonja a nép gyűlöletét. 
 18 Akkor azt mondanák: „Nem küldtem el neki a pénzt és a fiúkat, azért pusztult el.” Tehát elküldte a fiúkat és a 100 talentumot. 
 19 De (Trifon) megszegte szavát és Jonatánt nem engedte szabadon.
-
-[Responsory3]
-@Tempora/101-0:Responsory3

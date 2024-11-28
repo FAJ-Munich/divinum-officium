@@ -14,28 +14,11 @@ Feria Te Deum
 No suffragium
 No93
 
-[Rule] (rubrica 1960)
-Feria Te Deum
-Doxology=Asc
-
-[Oratio]
-@Tempora/Pasc6-0
-
-[Lectio1]
-@:LectioJudae1
-(sed rubrica 1960)
-@:Lectio7
-
 [Responsory1] (rubrica 1960)
 R. Yo rogaré al Padre, y os enviará otro Consolador, 
 * Para que permanezca para siempre con vosotros el Espíritu de verdad, aleluya. 
 V. Si yo no partiere, el Paráclito no vendrá a vosotros; mas si partiere, os lo enviaré. 
 R. Para que permanezca para siempre con vosotros el Espíritu de verdad, aleluya.
-
-[Lectio2]
-@:LectioJudae2
-(sed rubrica 1960)
-@:Lectio8
 
 [Responsory2] (rubrica 1960)
 R. Si Yo no me fuere, el Consolador no vendrá a vosotros; mas si me fuere, os le enviaré. 
@@ -44,14 +27,6 @@ V. Pues no hablará de suyo, sino que dirá todas las cosas que habrá oído, y 
 R. Y cuando Él viniere, os enseñará toda verdad, aleluya. 
 &Gloria
 R. Y cuando Él viniere, os enseñará toda verdad, aleluya. 
-
-[Lectio3]
-@:LectioJudae3
-(sed rubrica 1960)
-@:Lectio9
-
-[Responsory3]
-@Tempora/Pasc5-4:Responsory3
 
 [Lectio4]
 Del Tratado de San Agustín, Obispo, sobre el Símbolo, dirigido a los catecúmenos. 
@@ -75,9 +50,6 @@ Por medio de las palabras: “Rogaré al Padre”, y os dará otro Paráclito”
 
 [Lectio8]
 De consiguiente, “el mundo no le puede recibir, porque no le ve ni le conoce”; ya que el mundo no tiene ojos espirituales, los únicos con que puede ser visto el Espíritu Santo. El Espíritu Santo no puede ser visto sino de un modo invisible. “Mas vosotros, dice, le conoceréis, porque permanecerá en vosotros y estará en vosotros”. Estará en ellos para morar, no morará en ellos para estar allí, supuesto que primero es estar en algún lugar que morar en él. Pero a fin de que no pensaran que las palabras: “Permanecerá en vosotros”, significan una permanencia visible, como la de un huésped entre los hombres, explicó el sentido de esta expresión “Permanecerá en vosotros” al decir: “Estará en vosotros”.
-
-[Responsory8]
-@Tempora/Pasc6-0
 
 [Lectio9]
 Se ve, por lo mismo, el Espíritu Santo, de una manera invisible. Ni podemos conocerle si no está en nosotros; de un modo parecido conocemos en nosotros nuestra conciencia. Nosotros vemos el rostro de otra persona, pero el nuestro no podemos verlo. Por el contrario vemos nuestra conciencia, y no vemos la de otro. Pero la conciencia nuestra no puede existir sino en nosotros; mas el Espíritu Santo puede existir sin nosotros. Se nos da, para que esté también en nosotros. Pero si Él no está en nosotros es imposible que lo veamos y conozcamos, tal como debe ser visto y conocido. (deinde dicitur)
@@ -108,14 +80,8 @@ Inicio de la Epístola Católica de S. Judas Tadeo, Apóstol
 12 Estos son deshonra de vuestros ágapes; banquetean con vosotros sin vergüenza, apacentándose a sí mismos; son nubes sin agua, arrastradas por los vientos; árboles tardíos sin fruto, dos veces muertos, desarraigados; 
 13 olas bravas del mar, que arrojan la espuma de sus impurezas; astros errantes, a los cuales está reservado el orco tenebroso para siempre.
 
-[Versum 2]
-@Tempora/Pasc6-0
-
 [Versum 2](rubrica 1960)
 @Tempora/Pasc5-4:Versum 2
-
-[Ant 2]
-@Tempora/Pasc6-0
 
 [Ant 2](rubrica 1960)
 @Tempora/Pasc5-4:Ant 2

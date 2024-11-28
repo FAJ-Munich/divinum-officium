@@ -1,14 +1,6 @@
 [Rank]
 Die IV infra octavam Paschæ;;Semiduplex I classis;;6;;ex Pasc0-0
 
-[Rule]
-ex Pasc0-0;
-1 nocturn;
-Omit Hymnus Preces Suffragium;
-Minores sine Antiphona;
-Capitulum Versum 2;
-Psalmi Dominica;
-
 [Oratio]
 O Dieu, qui nous réjouissez par la solennité annuelle de la résurrection du Seigneur, accordez-nous cette faveur que, par la célébration de ces fêtes temporelles, nous méritions d’arriver aux joies éternelles.
 $Per eumdem

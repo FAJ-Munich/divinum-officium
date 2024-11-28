@@ -1,20 +1,9 @@
 [Rank]
 Die VI infra octavam Paschæ;;Semiduplex I class;;6;;ex Pasc0-0
 
-[Rule]
-ex Pasc0-0;
-1 nocturn;
-Omit Hymnus Preces Suffragium;
-Minores sine Antiphona;
-Capitulum Versum 2;
-Psalmi Dominica;
-
 [Oratio]
 Dio onnipotente ed eterno, che col mistero pasquale hai suggellato il patto di riconciliazione coll'umanità; dà alle anime nostre, che quanto celebriamo colla festa presente, l'imitiamo di fatto. 
 $Per Dominum
-
-[Ant Matutinum]
-@Tempora/Pasc0-2
 
 [Lectio1]
 Lettura del santo Vangelo secondo Matteo

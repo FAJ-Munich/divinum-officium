@@ -1,9 +1,6 @@
 [Rank]
 Dominica infra Octavam Ascensionis;;Semiduplex;;5;;ex Tempora/Pasc5-4
 
-[Rank1960]
-Dominica post Ascensionem;;Semiduplex;;5
-
 [Rule]
 ex Tempora/Pasc5-4;
 Gloria
@@ -13,7 +10,7 @@ Credo
 # Niedziela po Wniebowstąpieniu
 ! 2 klasy
 ! Szaty białe
-Od chwili Wniebowstąpienia Chrystusa cechą charakterystyczną życia Kościoła jest tęsknota za Jego powrotem. Nie jest to jednak bierne oczekiwanie. Kościół, prowadzony przez Ducha Świętego, składa świadectwo o swoim Założycielu, zwłaszcza przez praktykę miłości. Modlimy się dzisiaj o wierność w służbie Bożej (kolekta) i wzmocnienie naszych dusz łaską niebieską (sekreta). 
+Od chwili Wniebowstąpienia Chrystusa cechą charakterystyczną życia Kościoła jest tęsknota za Jego powrotem. Nie jest to jednak bierne oczekiwanie. Kościół, prowadzony przez Ducha Świętego, składa świadectwo o swoim Założycielu, zwłaszcza przez praktykę miłości. Modlimy się dzisiaj o wierność w służbie Bożej (kolekta) i wzmocnienie naszych dusz łaską niebieską (sekreta).
 
 [Introitus]
 !Ps 26:7; 26:8; 26:9
@@ -27,14 +24,14 @@ v. Usłysz, Panie, głos mój, którym wołam, alleluja, do Ciebie mówi serce m
 Wszechmogący, wieczny Boże, spraw, aby nasza wola zawsze była Ci oddana i abyśmy szczerym sercem służyli Twojemu majestatowi.
 $Per Dominum
 
-[Commemoratio Oratio]
-!Przez Oktawę Wniebowstąpienia Pańskiego.
-@Tempora/Pasc5-3:Oratio
-
 [Lectio]
 Czytanie z Listu świętego Piotra Apostoła.
 !1 P 4:7-11
 Najmilsi: Bądźcie roztropni i czuwajcie w modlitwach. A nade wszystko miejcie trwałą miłość jedni ku drugim, bo miłość osłania mnóstwo grzechów. Bądźcie gościnni jedni dla drugich bez szemrania, jako każdy z was otrzymał łaskę, tak niech usługuje jeden drugiemu, na wzór dobrych szafarzy rozlicznej łaski Bożej. Kto przemawia, niech wygłasza słowa Boże; kto posługuje, niech czyni to z przekonania, którego udziela Bóg, aby we wszystkim Bóg był uwielbiony przez Jezusa Chrystusa Pana naszego.
+
+[Commemoratio Oratio]
+!Przez Oktawę Wniebowstąpienia Pańskiego.
+@Tempora/Pasc5-3:Oratio
 
 [Graduale]
 Alleluja, alleluja

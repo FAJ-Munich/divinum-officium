@@ -1,10 +1,6 @@
 [Rank]
 Dominica I Adventus;;Semiduplex;;6
 
-[Rule]
-9 lectiones
-Antiphonas horas
-
 [Ant Vespera]
 És leszen az napon, * hogy édességet csöpögnek a hegyek, a halmok tejjel és mézzel folynak, alleluja.
 Ujjongj, * Sion leánya, zengj éneket, Jeruzsálem leánya, alleluja.

@@ -1,12 +1,6 @@
 [Rank]
 Dominica XXIV et ultima Post Pentecosten;;Semiduplex;;5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-
 [Oratio]
 Stir up, we beseech thee, Lord, the wills of thy faithful people, that they, plenteously bringing forth the fruit of good works, may of thee be plenteously rewarded.
 $Per Dominum

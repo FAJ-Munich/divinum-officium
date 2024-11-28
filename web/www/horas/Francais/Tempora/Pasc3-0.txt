@@ -1,14 +1,6 @@
 [Rank]
 Dominica III Post Pascha;;Semiduplex;;5;;
 
-[Rule]
-9 Lectiones
-Duplex
-Una Antiphona
-
-[Versum 1]
-@Psalterium/Special/Major Special:Pasch Versum 3
-
 [Ant 1]
 Un peu de temps * et vous ne Me verrez plus, dit le Seigneur : encore un peu de temps et vous Me reverrez, parce que Je vais au Père, alléluia, alléluia.
 
@@ -82,7 +74,7 @@ V. Et il me ravit en esprit sur une montagne grande et élevée.
 R. Et je vis Jérusalem descendant du ciel, ornée de ses bijoux, alléluia, alléluia, alléluia,
 
 [Lectio5]
-Il leur dit : Pourquoi êtesvous troublés, et pourquoi cette agitation de pensées s’ élève-t-elle en votre coeur ? Ils croyaient voir un esprit. Pourquoi êtes-vous troublés, dit-il, et pourquoi cette agitation de pensées s’élève-t-elle en votre coeur? Voyez mes mains et mes pieds y touchez et voyez. Un esprit n'a pas d'os et de chair, comme vous voyez que j'en a il. Contra cette évidence, ces hommes discutaient. Que peuvent faire des hommes, ayant le goût des choses humaines, si ce n'est discuter ainsi de Dieu contre Dieu? Celui-ci est Dieu, ceux-là sont hommes. Mais Dieu connaît les pensées des hommes et qu'elles sont vaincs.
+Il leur dit : Pourquoi êtesvous troublés, et pourquoi cette agitation de pensées s’ élève-t-elle en votre coeur ? Ils croyaient voir un esprit. Pourquoi êtes-vous troublés, dit-il, et pourquoi cette agitation de pensées s’élève-t-elle en votre coeur ? Voyez mes mains et mes pieds y touchez et voyez. Un esprit n'a pas d'os et de chair, comme vous voyez que j'en a il. Contra cette évidence, ces hommes discutaient. Que peuvent faire des hommes, ayant le goût des choses humaines, si ce n'est discuter ainsi de Dieu contre Dieu ? Celui-ci est Dieu, ceux-là sont hommes. Mais Dieu connaît les pensées des hommes et qu'elles sont vaincs.
 
 [Responsory5]
 R. J’entendis dans le ciel la voix d’anges nombreux qui disaient : 
@@ -91,7 +83,7 @@ V. Je vis un Ange de Dieu, puissant, qui volait par le milieu du ciel, criant d�
 R. Craignez le Seigneur et donnez-lui gloire et adorez-le, lui qui a fait le ciel et la terre, la mer et les sources des eaux, alléluia, alléluia,
 
 [Lectio6]
-Chez l'homme charnel, tout ce qui règle l’intelligence, c’est ce qu’il a coutume de voir. Ce qu’ils ont coutume de voir, ils le croient ; ce qui est inaccoutumé, ils ne le croient pas. Dieu fait des miracles contraires à ce qu’on voit d’habitude, car il est Dieu. En vérité, la naissance, chaque jour, de tant d’hommes qui n’existaient pas, est une plus grande merveille que la résurrection de quelques hommes qui existaient; et pourtant ces merveilles de la naissance ne sont pas prises en considération. Leur fréquence en a fait une banalité. Le Christ est ressuscité ; la chose est certaine. Il était corps, il était chair, il a été pendu à la croix, il a rendu son âme, sa chair a été déposée dans le sépulcre. Or il a montré cette chair vivante, lui qui vivait en elle. Pourquoi s’étonner? Pourquoi ne pas croire? Il est Dieu, celui qui a fait cela.
+Chez l'homme charnel, tout ce qui règle l’intelligence, c’est ce qu’il a coutume de voir. Ce qu’ils ont coutume de voir, ils le croient ; ce qui est inaccoutumé, ils ne le croient pas. Dieu fait des miracles contraires à ce qu’on voit d’habitude, car il est Dieu. En vérité, la naissance, chaque jour, de tant d’hommes qui n’existaient pas, est une plus grande merveille que la résurrection de quelques hommes qui existaient ; et pourtant ces merveilles de la naissance ne sont pas prises en considération. Leur fréquence en a fait une banalité. Le Christ est ressuscité ; la chose est certaine. Il était corps, il était chair, il a été pendu à la croix, il a rendu son âme, sa chair a été déposée dans le sépulcre. Or il a montré cette chair vivante, lui qui vivait en elle. Pourquoi s’étonner ? Pourquoi ne pas croire ? Il est Dieu, celui qui a fait cela.
 
 [Responsory6]
 R.Venant du Liban, qu’elle est devenue belle, (l’Épouse), alléluia.
@@ -128,16 +120,13 @@ R. Se changera en joie, alléluia, alléluia,
 R. Se changera en joie, alléluia, alléluia,
 
 [Lectio9]
-Ce peu de emps paraît long, parce qu’il dure encore ; quand il sera fini, alors nous comprendrons combien il fut court. Que notre joie ne soit donc pas comme celle du monde dont il est dit : Le monde se réjouira. Et pourtant, dans l’enfantement de ce désir, ne soyons pas tristes sans joie; mais, comme dit l’Apôtre, soyons joyeux par l'espérance, patients dans la tribulation1, car celle-là même qui enfante, et à qui nous sommes comparés, se réjouit plus de l’enfant qui va bientôt naître, qu’elle n’est triste de la souffrance présente. Mais finissons ici ce discours ; les paroles qui suivent soulèvent une question très difficile. On ne doit pas les résumer brièvement, mais se réserver la possibilité de les expliquer plus commodément, si Dieu le veut.
+Ce peu de emps paraît long, parce qu’il dure encore ; quand il sera fini, alors nous comprendrons combien il fut court. Que notre joie ne soit donc pas comme celle du monde dont il est dit : Le monde se réjouira. Et pourtant, dans l’enfantement de ce désir, ne soyons pas tristes sans joie ; mais, comme dit l’Apôtre, soyons joyeux par l'espérance, patients dans la tribulation1, car celle-là même qui enfante, et à qui nous sommes comparés, se réjouit plus de l’enfant qui va bientôt naître, qu’elle n’est triste de la souffrance présente. Mais finissons ici ce discours ; les paroles qui suivent soulèvent une question très difficile. On ne doit pas les résumer brièvement, mais se réserver la possibilité de les expliquer plus commodément, si Dieu le veut.
 &teDeum
 
 [Capitulum Laudes]
 !1 Pet 2:11
 v. Mes bien-aimés, je vous exhorte, comme des étrangers et des voyageurs, à vous abstenir des convoitises de la chair, qui font la guerre à l'âme.
 $Nous rendons grâce à Dieu
-
-[Versum 2]
-@Psalterium/Special/Major Special:Pasch Versum 2
 
 [Ant 2]
 @:Ant 1
@@ -151,9 +140,6 @@ $Deo gratias
 !1 Pet 2:18-19
 v. Serviteurs, soyez soumis en toute révérence à vos maîtres, non seulement à ceux qui sont bons et faciles, mais même à ceux qui sont difficiles. Car cette obéissance est une grâce, en Jésus-Christ notre Seigneur.
 $Deo gratias
-
-[Versum 3]
-@Psalterium/Special/Major Special:Pasch Versum 3
 
 [Ant 3]
 En vérité, Je vous le dis, * vous gémirez et vous pleurerez ; le monde, lui, se réjouira et vous, vous serez attristés mais votre tristesse se changera en joie, alléluia.

@@ -5,17 +5,11 @@ Del Libro del Eclesiástico.
 2 Ten recto corazón y soporta con paciencia y no te impacientes al tiempo del infortunio. 
 3 Adhiérete a Él y no te separes, para que tengas buen éxito al fin.
 
-[Responsory1]
-@Tempora/081-2:Responsory1
-
 [Lectio2]
 !Sir 2:4-6
 4 Recibe todo cuanto Él mande sobre ti, y ten buen ánimo en las vicisitudes de la prueba. 
 5 Pues el oro se prueba en el fuego, y los hombres gratos a Dios, en el crisol de la tribulación. 
 6 Confíate a Él y te acogerá, endereza tus caminos y espera en Él.
-
-[Responsory2]
-@Tempora/081-0:Responsory5
 
 [Lectio3]
 !Sir 2:7-12
@@ -25,6 +19,3 @@ Del Libro del Eclesiástico.
 10 Los que teméis al Señor, amadlo; y serán iluminados vuestros corazones.  
 11 Considerad las generaciones antiguas y ved: ¿Quién confió en el Señor que fuese confundido, 
 12 o quién perseveró en su temor y fue abandonado, o quién le invocó y se sintió defraudado?
-
-[Responsory3]
-@Tempora/081-0:Responsory6

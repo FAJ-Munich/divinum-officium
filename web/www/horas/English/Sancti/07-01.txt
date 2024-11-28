@@ -1,5 +1,5 @@
 [Rank]
-Pretiosissimi Sanguinis Domini Nostri Jesu Christi;;Duplex I classis;;6;;
+Most Precious Blood of Our Lord Jesus Christ;;Duplex I classis;;6;;
 
 [Ant Vespera]
 Who is this that * cometh from Edom, with dyed garments from Bozrah? this, that is glorious in His apparel?
@@ -44,10 +44,6 @@ For whom thy own dear Son, his saving blood did spill;
 O Holy Spirit, grant the souls by thee refreshed
 Eternal bliss may ever fill.
 Amen.
-
-[Versum 1]
-V. Being justified by the Blood of Christ.
-R. We shall be saved from wrath through Him.
 
 [Ant 1]
 Ye are come * unto Mount Sion and unto the city of the living God, the heavenly Jerusalem, and to Jesus the Mediator of the New Covenant, and to the Blood of sprinkling That speaketh better things than that of Abel.

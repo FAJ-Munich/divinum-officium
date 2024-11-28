@@ -7,7 +7,7 @@ Doxology=Corp
 Feria Te Deum
 
 [Rule] (rubrica 196)
-
+ 
 
 [Ant Matutinum]
 @Tempora/Pent01-4::3 s/;;.*//

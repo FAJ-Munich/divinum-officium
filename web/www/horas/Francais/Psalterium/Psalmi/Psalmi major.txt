@@ -22,7 +22,7 @@ Notre Dieu est * dans le Ciel : tout ce qu'Il a voulu, Il l'a fait.;;113
 [Day1 Laudes1]
 Célébrez * Dieu par des cris d'allégresse.;;46
 Soyez attentif à la voix de ma prière, * mon Roi et mon Dieu.;;5
-Le Dieu de gloire * a tonné: offrez au Seigneur la gloire due à Son Nom.;;28
+Le Dieu de gloire * a tonné : offrez au Seigneur la gloire due à Son Nom.;;28
 Nous louons * Votre illustre Nom, notre Dieu.;;211
 Nations * louez toutes le Seigneur.;;116
 
@@ -136,6 +136,7 @@ Seigneur, traitez favorablement * Sion dans Votre bonté.;;50
 Le Seigneur notre Dieu * est juste, et il n'y a point d'iniquité en Lui.;;91
 De la crainte de l'ennemi * délivrez Seigneur mon âme.;;63
 De Ses serviteurs * le Seigneur aura pitié et Il sera propice à la terre de Son peuple.;;226
+(sed rubrica 1960) De Ses serviteurs * le Seigneur aura pitié et Il sera propice à la terre de Son peuple.;;226(1-27)
 Louez * le Seigneur selon l'immensité de Sa grandeur.;;150
 
 [Day6 Vespera]

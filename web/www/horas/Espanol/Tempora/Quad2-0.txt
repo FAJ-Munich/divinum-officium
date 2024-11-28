@@ -1,9 +1,6 @@
 [Rank]
 Dominica II in Quadragesima;;I classis Semiduplex;;6
 
-[Rule]
-9 lectiones
-
 [Ant 1]
 No contéis a nadie * la visión, hasta que el Hijo del hombre resucite de entre los muertos.
 
@@ -163,13 +160,7 @@ Hagamos aquí * tres chozas: una para ti, otra para Moisés y otra para Elías.
 v. Esto quiere Dios de vosotros: una vida sagrada; apartaos del desenfreno; que cada cual se una a su mujer con un sentido sagrado y respetuoso.
 $Deo gratias
 
-[Ant Nona]
-@:Ant 1
-
 [Capitulum Nona]
 !1 Tes 4:7
 v. Dios no nos ha llamado a una vida impura, sino sagrada, en Cristo Jesús, Señor nuestro.
 $Deo gratias
-
-[Ant 3]
-@:Ant 1

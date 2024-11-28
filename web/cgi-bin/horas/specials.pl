@@ -435,7 +435,7 @@ sub getproprium {
   }
 
   if ($w) {
-    if ($buildflag) { setbuild($winner, $name, 'subst'); }
+    if ($buildflag) { setbuild($winner, $name, 'proprium'); }
     return ($w, $c);
   }
 
@@ -487,7 +487,7 @@ sub getproprium {
 
     if ($w) {
       $w = replaceNdot($w, $lang);
-      my $n = $com{Name};
+      my $n = $com{Name} || $cn;
       $n =~ s/\n//g;
       if ($buildflag) { setbuild($n, $name, 'subst'); }
     }
@@ -662,7 +662,7 @@ sub setbuild2 {
   $buildscript .= ",,,$comment\n";
 }
 
-#*** setbuild($line, $name, $vomment)
+#*** setbuild($line, $name, $comment)
 # set a headline into building script
 sub setbuild {
   if ($column != 1) { return; }
@@ -670,13 +670,18 @@ sub setbuild {
   my $name = shift;
   my $comment = shift;
   $source = $file;
-  if ($source =~ /(.*?)\//s) { $source = $1; }
+
+  if ($source =~ /(.*?)\//s) {
+    $source = $1 unless $1 =~ /Sancti/;
+    $source =~ s/\.txt$//;
+  }
 
   if ($comment =~ /ord/i) {
     $comment = setfont($redfont, $comment);
   } else {
     $comment = ",,,$comment";
   }
+  $name = setfont('italic', $name);
   $buildscript .= "$comment: $source $name\n";
 }
 

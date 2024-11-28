@@ -1,9 +1,6 @@
 [Rank]
 Sabbato infra Hebdomadam II post Epiphaniam;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Olvasmány szent Pál apostol Korintusiakhoz írott második leveléből
 !2 Cor 13:1-4
@@ -26,12 +23,3 @@ Olvasmány szent Pál apostol Korintusiakhoz írott második leveléből
 11 Különben, testvérek, örüljetek, tökéletesedjetek, buzdítsátok egymást, éljetek egyetértésben és békében! Akkor veletek lesz a szeretet és a béke Istene. 
 12 Köszöntsétek egymást szent csókkal! A szentek mind köszöntenek titeket. 
 13 Urunk, Jézus Krisztus kegyelme, Isten szeretete és a Szentlélek közössége legyen mindnyájatokkal!
-
-[ResponsoryT1]
-@Tempora/Epi2-3:Responsory1
-
-[ResponsoryT2]
-@Tempora/Epi2-3:Responsory2
-
-[ResponsoryT3]
-@Tempora/Epi2-3:Responsory3

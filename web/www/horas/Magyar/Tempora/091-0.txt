@@ -18,6 +18,3 @@ Olvasmány Jób könyvéből
 9 A sátán azt válaszolta az Úrnak: „Talán bizony ingyen olyan istenfélő az a Jób?
 10 Nem magad emeltél-e sövényt köré, háza és minden vagyona köré? Megáldottad keze munkáját, úgyhogy birtoka egyre gyarapszik a földön.
 11 Csak nyújtsd ki egyszer a kezedet és nyúlj hozzá egész vagyonához! Szavamra, szemtől szemben fog majd káromolni!”
-
-[Responsory8]
-@Tempora/Pent01-0:Responsory8

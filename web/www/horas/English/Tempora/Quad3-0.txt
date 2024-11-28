@@ -1,9 +1,6 @@
 [Rank]
 Dominica III in Quadragesima;;I classis Semiduplex;;6
 
-[Rule]
-9 lectiones
-
 [Ant 1]
 But the father said to his servants: * Bring forth the best robe, and put it on him, and put a ring on his hand, and shoes on his feet.
 

@@ -1,5 +1,0 @@
-[Rank]
-S. Gregorii Nazianzeni Episcopi Confessoris Ecclesiae Doctoris;;Duplex;;3;;vide C4a
-
-[Rank] (rubrica tridentina)
-S. Gregorii Nazianzeni Episcopi Confessoris;;Duplex;;3;;vide C4a

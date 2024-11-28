@@ -35,11 +35,6 @@ Jubiláte Deo, omnis terra: servíte Dómino in lætítia,
 V. Intráte in conspéctu ejus in exsultatióne: scitóte, quod Dóminus ipse est Deus.
 V. Ipse fecit nos, et non ipsi nos: nos autem pópulus ejus, et oves páscuæ ejus.
 
-[GradualeF]
-!Ps 76:15; 76:16
-Tu es Deus qui facis mirabília solus: notam fecísti in géntibus virtútem tuam.
-V. Liberásti in bráchio tuo pópulum tuum, fílios Israël et Joseph.
-
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Lucam
 !Luc 18:31-43
@@ -60,3 +55,8 @@ Manducavérunt, et saturári sunt nimis, et desidérium eórum áttulit eis Dóm
 [Postcommunio]
 Quǽsumus, omnípotens Deus: ut, qui coeléstia aliménta percépimus, per hæc contra ómnia adversa muniámur.
 $Per Dominum
+
+[GradualeF]
+!Ps 76:15; 76:16
+Tu es Deus qui facis mirabília solus: notam fecísti in géntibus virtútem tuam.
+V. Liberásti in bráchio tuo pópulum tuum, fílios Israël et Joseph.

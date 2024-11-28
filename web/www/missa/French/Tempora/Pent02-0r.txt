@@ -1,9 +1,6 @@
 [Rank]
 Dominica II. Post Pentecosten;;Semiduplex I classis;;5.9;;ex Tempora/Pent01-4
 
-[Rank1960]
-Dominica II post Octavam Pentecostes;;Duplex II classis;;5
-
 [Rule]
 ex Tempora/Pent01-4
 Gloria
@@ -23,15 +20,15 @@ v. Le Seigneur s'est fait mon protecteur, et il m'a mis au large ; il m'a sauvé
 De votre saint Nom, Seigneur, faites-nous éprouver sans cesse la crainte et l'amour, car vous ne privez jamais de votre assistance ceux que vous établissez dans la solidité de votre amour.
 $Per Dominum
 
-[Commemoratio Oratio]
-!Pro Octava SSmi. Corporis Christi
-Ô Dieu, qui, sous un sacrement admirable, nous avez laissé le mémorial de votre passion, accordez-nous une telle vénération pour les mystères sacrés de votre Corps et de votre Sang que nous ressentions sans cesse en nous les effets de votre rédemption.
-$Qui vivis
-
 [Lectio]
 Léctio Epístolæ beáti Joánnis Apóstoli
 !1 John 3:13-18
 Bien-aimés, ne vous étonnez pas si le monde vous hait. Nous, nous savons que nous sommes passés de la mort à la vie, parce que nous aimons nos frères. Celui. qui n'aime pas demeure dans la mort. Quiconque hait son frère est un meurtrier, et vous savez qu'aucun meurtrier n'a la vie éternelle demeurant en lui. À ceci nous avons connu l'amour de Dieu, c'est que Lui a donné sa vie pour nous. Nous aussi, nous devons donner notre vie pour nos frères. Si quelqu'un possède les biens de ce monde et que, voyant son frère dans la nécessité, il lui ferme ses entrailles, comment l'amour de Dieu demeure-t-il en lui ? Mes petits enfants, n'aimons pas avec de parole et de langue, mais par des œuvres et en vérité.
+
+[Commemoratio Oratio]
+!Pro Octava SSmi. Corporis Christi
+Ô Dieu, qui, sous un sacrement admirable, nous avez laissé le mémorial de votre passion, accordez-nous une telle vénération pour les mystères sacrés de votre Corps et de votre Sang que nous ressentions sans cesse en nous les effets de votre rédemption.
+$Qui vivis
 
 [Graduale]
 !Ps 119:1-2
@@ -43,7 +40,7 @@ Seigneur mon Dieu, en vous j'espère ; sauvez-moi de tous ceux qui me persécute
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Lucam.
 !Luc 14:16-24
-En ce temps-là, Jésus dit aux Pharisiens cette parabole : « Un homme faisait un grand dîner, auquel il avait invité beaucoup de gens. Et à l'heure du dîner, il envoya son serviteur dire aux invités : "Venez, car tout est déjà prêt." Et tous, unanimement, se mirent à s'excuser. Le premier lui dit : "J'ai acheté un champ, et il faut nécessairement que j'aille le voir; je te prie, tiens-moi pour excusé." Et un autre dit : "J'ai acheté cinq paires de bœufs, et je vais les essayer ; je te prie, tiens-moi pour excusé." Et un autre dit : "J'ai pris femme, et c'est pourquoi je ne puis venir." Le serviteur s'en revint et rapporta cela à son maître. Alors le maître de maison, irrité, dit à son serviteur : "Va-t'en vite sur les places et par les rues de la ville, et amène ici les pauvres, les estropiés, les aveugles et les boiteux." Et le serviteur dit : "Maître, ce que vous avez commandé a été fait, et il y a encore de la place." Et le maître dit au serviteur : "Va-t'en par les chemins et aux clôtures, et contrains les gens à entrer, afin que ma maison soit remplie. Car, je vous le dis, aucun de ces hommes qui avaient été invités ne goûtera à mon dîner." »
+En ce temps-là, Jésus dit aux Pharisiens cette parabole : « Un homme faisait un grand dîner, auquel il avait invité beaucoup de gens. Et à l'heure du dîner, il envoya son serviteur dire aux invités : « Venez, car tout est déjà prêt.» Et tous, unanimement, se mirent à s'excuser. Le premier lui dit : « J'ai acheté un champ, et il faut nécessairement que j'aille le voir; je te prie, tiens-moi pour excusé.» Et un autre dit : « J'ai acheté cinq paires de bœufs, et je vais les essayer ; je te prie, tiens-moi pour excusé.» Et un autre dit : « J'ai pris femme, et c'est pourquoi je ne puis venir.» Le serviteur s'en revint et rapporta cela à son maître. Alors le maître de maison, irrité, dit à son serviteur : « Va-t'en vite sur les places et par les rues de la ville, et amène ici les pauvres, les estropiés, les aveugles et les boiteux.» Et le serviteur dit : « Maître, ce que vous avez commandé a été fait, et il y a encore de la place.» Et le maître dit au serviteur : « Va-t'en par les chemins et aux clôtures, et contrains les gens à entrer, afin que ma maison soit remplie. Car, je vous le dis, aucun de ces hommes qui avaient été invités ne goûtera à mon dîner.» »
 
 [Offertorium]
 !Ps 6:5

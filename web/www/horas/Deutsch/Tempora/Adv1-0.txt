@@ -1,10 +1,6 @@
 [Rank]
 Erster Adventssonntag;;Semiduplex;;6
 
-[Rule]
-9 lectiones
-Antiphonas horas
-
 [Ant Vespera]
 An jenem Tage * werden die Anhöhen Süßigkeit tropfen lassen, und die Fluren werden überfließen von Milch und Honig, alleluja.
 Juble auf, * Tochter Sion, und hüpfe nach Kräften, Tochter Jerusalem, alleluja.
@@ -16,7 +12,7 @@ Seht, es wird kommen * ein großer Gottesmann, und er wird ein neues Jerusalem s
 Seht, die Majestät des Herrn * kommt aus der Ferne, und seine Herrlichkeit erfüllt den Erdkreis.
 
 [Oratio]
-Lass,  o Herr, wir bitten dich, wirksam werden deine Macht und komm, damit wir würdig werden, von den Gefahren, die uns auf Grund unserer Sünden drohen, herausgehoben und durch die von dir gebotene Befreiung beseligt zu werden.
+Laß,  o Herr, wir bitten dich, wirksam werden deine Macht und komm, damit wir würdig werden, von den Gefahren, die uns auf Grund unserer Sünden drohen, herausgehoben und durch die von dir gebotene Befreiung beseligt zu werden.
 $Qui vivis
 
 [Lectio1]

@@ -1,10 +1,6 @@
 [Rank]
 Octavæ S. Joseph;;Duplex majus;;4;;vide Tempora/Pasc2-3
 
-[Rule]
-vide Tempora/Pasc2-3
-9 lectiones
-
 [Lectio1]
 De livre de l'Apocalypse de Saint Jean Apôtre
 !Apo 5:1-7

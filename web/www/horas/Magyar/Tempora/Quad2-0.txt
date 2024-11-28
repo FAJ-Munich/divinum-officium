@@ -1,9 +1,6 @@
 [Rank]
 Dominica II in Quadragesima;;I classis Semiduplex;;6
 
-[Rule]
-9 lectiones
-
 [Lectio1]
 Olvasmány Mózes első könyvéből
 !Gen 27:1-10

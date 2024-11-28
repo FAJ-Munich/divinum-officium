@@ -1,9 +1,6 @@
 [Rank]
 Feria Quarta Majoris Hebdomadæ;;Feria privilegiata;;6.9
 
-[Rank] (rubrica 1955 aut rubrica 1960)
-Feria Quarta Hebdomadæ Sanctæ;;Feria privilegiata;;6
-
 [Rule]
 no Gloria
 Suffragium=Ecclesiæ,Papa;;
@@ -23,17 +20,6 @@ v. Que ao ser pronunciado o nome de Jesus se dobrem todos os joelhos dos que est
 Concedei-nos, ó Deus omnipotente, Vos suplicamos, que, estando nós incessantemente aflitos por causa dos males que produzem os nossos pecados, deles sejamos livres pela paixão do vosso Filho Unigénito.
 $Qui tecum
 
-[LectioL1]
-Lição Lição do Profeta Isaías.
-!Is 63:1-7
-Eis o que diz o Senhor e Deus: «Dizei à filha de Sião: eis que chega o vosso Salvador, que traz consigo a recompensa. Quem é este que vem de Edon e de Bosra com seus vestidos imponentes? Ele é formoso no modo de vestir e majestoso no modo de caminhar! «Sou eu, cujas palavras são justas e que combato pela salvação». Porque estão tintos de vermelho os vossos vestidos, como os daqueles que esmagam as uvas do lagar? «Fui eu que estive só a pisar as uvas; ninguém esteve comigo; calquei-as aos pés no meu furor; esmaguei-as na minha ira; e o seu sangue aspergiu os meus vestidos, ficando manchado tudo quanto eu envergava! Pois o dia da vingança estava no meu coração e o tempo de resgatar os meus havia chegado. Olhei em volta de mim e não vi ninguém para me auxiliar; procurei esse auxílio e não foi possível encontrá-lo. Salvou-me, então, o meu braço; veio em meu auxílio a minha indignação. Calquei, pois, no meu furor os povos, sob os meus pés; afoguei-os no meio da minha ira e destruí todo seu poder!». Recordar-me-ei das misericórdias do Senhor. Louvá-l’O-ei pelos benefícios que nos concedeu, pois Ele é o Senhor, nosso Deus».
-$Deo gratias
-
-[GradualeL1]
-!Sl 68:18; 68:2-3
-v. Não volteis a vossa face ao vosso servo, mas apressai-Vos em socorrer-me, pois estou atribulado.
-V. Salvai-me, Senhor, porquanto as águas da desgraça inundaram a minha alma. Caí num profundo abysmo de lodo, onde não encontro apoio.
-
 [OratioL1]
 Ó Deus, que quisestes que o vosso Filho sofresse o suplício da Cruz por nós, a fim de nos livrar do jugo inimigo, dignai-Vos conceder-nos a nós, que vossos servos, a graça de tomarmos parte na ressurreição.
 $Per eundem
@@ -42,6 +28,12 @@ $Per eundem
 Lição do Profeta Isaías.
 !Is 53:1-12
 v. Naquele dias, disse Isaías: «Quem acreditou, Senhor, naquilo que ouviu de nós? A quem se revelou o braço do Senhor? Crescerá diante do Senhor, como um arbusto, como um rebento na terra seca, sem beleza nem brilho. Vimo-lo: e nada possuía que atraísse nossos olhares, nem que excitasse o nosso amor; por isso o não conhecemos. Pareceu-nos desprezível e o último dos homens: um homem roído de dores e devotado ao sofrimento! Seu rosto estava como que velado, com ar desprezível; por isso lhe não ligámos atenção alguma. Verdadeiramente, eram as nossas fraquezas que Ele tomara sobre si; eram as nossas dores com que se sobrecarrega; por isso olhámo-lo como se fora um leproso, como se fora um homem ferido por Deus e esmagado. Foi, porém, por causa das nossas iniquidades que foi ferido; por causa dos nossos crimes que foi despedaçado. O castigo, que devíamos sofrer, caiu sobre Ele para gozarmos a paz; de modo que ficámos curados com suas feridas. Andávamos todos errantes, como ovelhas perdidas; cada um de nós seguia o caminho da sua própria vontade; e, então, o Senhor impôs-Lhe o peso das nossas iniquidades. Ofereceu-se Ele mesmo, espontaneamente, para estes sofrimentos, e nem sequer abriu a boca para se queixar. Foi conduzido à morte, como uma ovelha, permanecendo silencioso, como um cordeiro quando o tosquiam. Foi levado pela opressão, depois de ter sido julgado! Foi arrancado da terra dos vivos; foi ferido por causa dos crimes do seu povo! Os ímpios hão-de guardar o seu sepulcro; mas um homem rico o sepultará após a morte, pois não praticou mal algum, nem na sua boca apareceu qualquer mentira. Aprouve ao Senhor esmagá-l’O com sofrimentos; mas, porque ofereceu a vida em expiação, verá a sua descendência prolongar-se durante muito tempo e o seu braço cumprir a vontade de Deus. Ele verá o futuro dos sofrimentos da sua alma, ficando consolado. Este meu servo é justo e com sua doutrina justificará muitos homens, sobrecarregando-se com suas iniquidades. Eis porque Lhe darei como herança muitos homens; e dividirá os despojos com os fortes, pois entregou-se voluntariamente; foi julgado criminoso; tomou sobre si os pecados de muitos e suplicou pelos transgressores da Lei».
+
+[LectioL1]
+Lição Lição do Profeta Isaías.
+!Is 63:1-7
+Eis o que diz o Senhor e Deus: «Dizei à filha de Sião: eis que chega o vosso Salvador, que traz consigo a recompensa. Quem é este que vem de Edon e de Bosra com seus vestidos imponentes? Ele é formoso no modo de vestir e majestoso no modo de caminhar! «Sou eu, cujas palavras são justas e que combato pela salvação». Porque estão tintos de vermelho os vossos vestidos, como os daqueles que esmagam as uvas do lagar? «Fui eu que estive só a pisar as uvas; ninguém esteve comigo; calquei-as aos pés no meu furor; esmaguei-as na minha ira; e o seu sangue aspergiu os meus vestidos, ficando manchado tudo quanto eu envergava! Pois o dia da vingança estava no meu coração e o tempo de resgatar os meus havia chegado. Olhei em volta de mim e não vi ninguém para me auxiliar; procurei esse auxílio e não foi possível encontrá-lo. Salvou-me, então, o meu braço; veio em meu auxílio a minha indignação. Calquei, pois, no meu furor os povos, sob os meus pés; afoguei-os no meio da minha ira e destruí todo seu poder!». Recordar-me-ei das misericórdias do Senhor. Louvá-l’O-ei pelos benefícios que nos concedeu, pois Ele é o Senhor, nosso Deus».
+$Deo gratias
 
 [Graduale]
 !Sl. 101:2-5,14
@@ -56,8 +48,7 @@ V. Erguei-Vos, Senhor, e compadecei-Vos de Sião, pois é chegado o tempo de ter
 (rubrica 1955 aut rubrica 1960 dicitur)
 @Tempora/Quad6-0r:Munda Cor Passionis
 _
-v.~
-(deinde dicuntur semper)
+v. (deinde dicuntur semper)
 Paixão de N. S. Jesus Cristo, segundo S. Lucas.
 (rubrica 1955 aut rubrica 1960 dicitur)
 !Luc 22:39-71; 23:1-53
@@ -76,8 +67,7 @@ v. Ó omnipotente Deus, assim como purificastes os lábios do Profeta Isaías co
 D. Dignai-Vos, Senhor, abençoar-me.
 S. Que o Senhor esteja no vosso coração e nos vossos lábios, para que possa digna e devidamente anunciar seu Evangelho. Amen. Em nome do Pai, e do Filho e do ++ Espírito Santo. Amen.
 _
-v. ~
-(sed rubrica 1955 aut rubrica 1960 haec versus omittuntur)
+v.  (sed rubrica 1955 aut rubrica 1960 haec versus omittuntur)
 Havia um homem chamado José, membro do conselho, homem bom e justo, que não concordara nem com o conselho dos outros, nem com suas obras. Era de Arimateia, cidade da Judeia, e esperava o reino de Deus. Então, foi encontrar Pilatos, pediu-lhe o corpo de Jesus, desceu-O da cruz, amortalhou-O em um lençol e depositou-O em um sepulcro aberto na rocha, que ainda não servira para ninguém.
 
 [Offertorium]
@@ -95,6 +85,11 @@ v. Misturei as minhas lágrimas com a minha bebida; porque, depois de haver sido
 [Postcommunio]
 Ó Deus omnipotente, concedei aos nossos sentidos a graça de acreditarmos confiadamente que foi pela morte temporal de vosso Filho (que estes venerandos mystérios comemoram) que nos alcançastes o dom da vida eterna.
 $Per eundem
+
+[GradualeL1]
+!Sl 68:18; 68:2-3
+v. Não volteis a vossa face ao vosso servo, mas apressai-Vos em socorrer-me, pois estou atribulado.
+V. Salvai-me, Senhor, porquanto as águas da desgraça inundaram a minha alma. Caí num profundo abysmo de lodo, onde não encontro apoio.
 
 [Super populum]
 !Oração sobre o povo

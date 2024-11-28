@@ -1,12 +1,9 @@
 [Rank]
 Dominica in Palmis;;I classis Semiduplex;;6
 
-[Rule]
-9 lectiones
-
 [Lectio1]
 Olvasmány Jeremiás próféta könyvéből
-!Jer 2:12-18
+!Jer 2:12-17
 12 Ámuljatok el rajta, ti egek, borzadjatok meg és rémüljetek el! - mondja az Úr.
 13 Mert kétszeres gonoszságot követett el népem: elhagytak, engem, az élő vizek forrását, azért, hogy ciszternákat ássanak maguknak, ciszternákat, amelyek megrepedeznek, így nem tarthatják meg a vizet.
 14 Vajon rabszolga-e Izrael, tán szolgaságra született? Miért lett hát prédává?
@@ -23,13 +20,7 @@ Olvasmány Jeremiás próféta könyvéből
 22 Még ha nátronnal mosod is magadat, és jó sok lúgot használsz is hozzá: gonoszságod akkor is megmarad színem előtt, bélyegül - mondja az Úr, a Seregek Istene.
 
 [Lectio3]
-!Jer 2:23-32
-23 Hogy is mondhatnád: „Nem vagyok tisztátalan, nem szegődtem a Baalok nyomába”? Nézd csak meg lábad nyomát a völgyben, és ismerd el, mit tettél! Olyan vagy, mint a gyors lábú tevekanca, amely szertekalandozik útjain,
-24 majd kitör a pusztába, s vágytól lihegve levegő után kapkod. Ki csillapíthatná le gerjedelmét? Bárki keresi, nem fárad hiába, megtalálhatja, együtt a párjával.
-25 Vigyázz a lábadra, nehogy lejárd még a sarudat is; és a torkodra, nehogy egészen kiszáradjon! Ám te így beszélsz: „Mit törődöm vele! Akkor is az idegeneket szeretem, mégis a nyomukba szegődöm.”
-26 Ahogy megszégyenül a tolvaj, ha rajtakapják, úgy szégyenül meg Izrael háza is. Ők maguk, királyaik és fejedelmeik, papjaik és prófétáik,
-27 mind, akik így szólnak egy fadarabhoz: „Atyám vagy”. és egy kőhöz: „Te szültél”. Hátukat fordítják felém s nem arcukat, de ha nyomorúság tör rájuk, könyörögnek: „Kelj fel! Ments meg minket!”
-28 Hol vannak hát isteneid, amelyeket csináltál magadnak? Keljenek fel, s mentsenek meg a nyomorúság idején! Mert annyi istened van, Júda, ahány városod; és annyi oltára van nálad Baalnak, ahány utcája Jeruzsálemnek.
+!Jer 2:29-32
 29 Miféle panaszt emelhettek ellenem, ti, akik hűtlenül elhagytatok? - mondja az Úr.
 30 Hiába ostoroztam fiaitokat, a fenyítés nem fogott rajtuk. Kardotok megemésztette prófétáitokat, mint a pusztító oroszlán.
 31 Micsoda nemzetség vagytok! Figyeljetek csak az Úr szavára: hát olyan voltam én Izraelnek, mint a puszta, vagy mint a sötétség földje? Miért mondja hát népem: „A magunk útján járunk, nem térünk többé hozzád vissza”.

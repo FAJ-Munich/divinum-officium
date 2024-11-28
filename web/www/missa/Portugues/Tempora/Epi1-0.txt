@@ -21,10 +21,20 @@ v. Que o pai do Justo exulte de alegria, que o vosso Pai e a vossa Mãe se alegr
 Senhor Jesus Cristo, que, sendo submisso a Maria e a José, consagrastes a vida doméstica com a prática de inefáveis virtudes, dignai-Vos conceder-nos que com o auxílio de um e outro imitemos os exemplos da vossa Sagrada Família e alcancemos a sua eterna companhia:
 $Qui vivis
 
+[Commemoratio Oratio]
+!Pro Dominica infra Octavam Epiphaniae
+Aceitai, Senhor, com vossa celestial bondade os votos do vosso povo suplicante; e, Vos imploramos, permiti que os vossos servos conheçam o que devem cumprir e tenham coragem de cumprir o que conhecem.
+$Per Dominum
+
 [Lectio]
 Lição da Ep.ª do B. Ap.º Paulo aos Colossenses
 !Col 3:12-17
 Meus irmãos: Como escolhidos de Deus, que sois, santos e amados, revesti-vos de sentimentos íntimos de misericórdia, de bondade, de humildade, de modéstia e de paciência, suportando-vos uns aos outros e perdoando-vos reciprocamente, se porventura algum tem motivos de queixa contra o outro. Assim como o Senhor nos perdoou, assim também devemos perdoar uns aos outros. Acima de tudo, tende caridade; pois esta é o vínculo da perfeição. Que a paz de Cristo, à qual também fostes chamados para formar um só corpo, reine nos vossos corações. Sede reconhecidos! Que a palavra de Cristo permaneça profundamente em vós, ensinando-vos e admoestando-vos com toda sua sabedoria por meio dos Salmos, Hinos e Cânticos espirituais, louvando a Deus nos vossos corações com cânticos. Tudo o que fizerdes, seja em palavras, seja em obras, fazei-o em nome de nosso Senhor Jesus Cristo, dando graças por Ele a Deus Pai.
+
+[Commemoratio Oratio]
+!Pro Dominica infra Octavam Epiphaniae
+Aceitai, Senhor, com vossa celestial bondade os votos do vosso povo suplicante; e, Vos imploramos, permiti que os vossos servos conheçam o que devem cumprir e tenham coragem de cumprir o que conhecem.
+$Per Dominum
 
 [Graduale]
 !Sl 26:4
@@ -46,6 +56,11 @@ Os pais de Jesus levaram-n’O a Jerusalém para O oferecerem ao Senhor.
 Vos oferecemos, Senhor, esta hóstia de propiciação, suplicando-Vos humildemente que, pela intercessão da Virgem, Mãe de Deus, e do B. José, estabeleçais solidamente as nossas famílias na vossa paz e na vossa graça.
 $Per eumdem
 
+[Commemoratio Secreta]
+!Pro Dominica infra Octavam Epiphaniæ.
+Fazei, Senhor, que este sacrifício, que Vos é oferecido, sempre nos vivifique e conforte.
+$Per Dominum
+
 [Communio]
 !Lc 2:51
 Jesus desceu com eles, veio para Nazaré e era-lhes obediente.
@@ -53,16 +68,6 @@ Jesus desceu com eles, veio para Nazaré e era-lhes obediente.
 [Postcommunio]
 Senhor Jesus, concedei àqueles que se saciam com vossos celestiais sacramentos a graça de imitarem continuamente os exemplos da vossa Sagrada Família, a fim de que na hora da nossa morte a gloriosa Virgem, vossa Mãe, e o B. José venham ao nosso encontro, merecendo sermos recebidos por Vós nos tabernáculos eternos:
 $Qui vivis
-
-[Commemoratio Oratio]
-!Pro Dominica infra Octavam Epiphaniae
-Aceitai, Senhor, com vossa celestial bondade os votos do vosso povo suplicante; e, Vos imploramos, permiti que os vossos servos conheçam o que devem cumprir e tenham coragem de cumprir o que conhecem.
-$Per Dominum
-
-[Commemoratio Secreta]
-!Pro Dominica infra Octavam Epiphaniæ.
-Fazei, Senhor, que este sacrifício, que Vos é oferecido, sempre nos vivifique e conforte.
-$Per Dominum
 
 [Commemoratio Postcommunio]
 !Pro Dominica infra Octavam Epiphaniæ.

@@ -1,9 +1,6 @@
 [Rank]
 Sabbato infra Hebdomadam I post Epiphaniam;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 De la I Epístola a los Corintios
 !1 Cor 16:1-4
@@ -11,12 +8,6 @@ De la I Epístola a los Corintios
 2 El día primero de la semana, cada uno ponga aparte en su casa lo que bien le pareciere, de modo que no se hagan las colectas cuando yo vaya. 
 3 Y cuando llegue yo, aquellos que tengáis a bien, los enviaré yo con cartas, para llevar vuestro obsequio a Jerusalén. 
 4 Y si pareciese bien que también vaya yo, irán conmigo.
-
-[Responsory1]
-@Tempora/Epi2-3:Responsory1
-
-[Responsory1](rubrica 1960)
-@Tempora/Epi2-6:Responsory1
 
 [Lectio2]
 !1 Cor 16:5-9
@@ -26,12 +17,6 @@ De la I Epístola a los Corintios
 8 Me quedaré en Efeso hasta Pentecostés, 
 9 porque se me ha abierto una puerta grande y prometedora, aunque hay muchos adversarios.
 
-[Responsory2]
-@Tempora/Epi2-3:Responsory2
-
-[Responsory2](rubrica 1960)
-@Tempora/Epi2-6:Responsory2
-
 [Lectio3]
 !1 Cor 16:10-14
 10 Si llega Timoteo ahí, mirad que no se sienta acobardado entre vosotros, porque trabaja en la obra del Señor, igual que yo. 
@@ -39,9 +24,3 @@ De la I Epístola a los Corintios
 12 Cuanto al hermano Apolo, mucho le encarecí que se llegara a vosotros con los hermanos; pero no quiso en modo alguno ir ahora; irá cuando tenga oportunidad. 
 13 Velad y estad firmes en la fe, obrando varonilmente y mostrándoos fuertes. 
 14 Que todas vuestras obras sean hechas en caridad.
-
-[Responsory3]
-@Tempora/Epi2-3:Responsory3
-
-[Responsory3](rubrica 1960)
-@Tempora/Epi2-6:Responsory3

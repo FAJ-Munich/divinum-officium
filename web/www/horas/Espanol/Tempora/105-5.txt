@@ -7,18 +7,12 @@ Del Libro segundo de los Macabeos
 4 Hecho esto, rogaban al Señor, postrados en tierra, que no volvieran a caer en semejantes males, sino que, si volvían a pecar alguna vez, Él mismo los corrigiese con blandura y no los entregase a los blasfemos y bárbaros gentiles. 
 5 El mismo día en que el templo había sido por los extranjeros profanado, ese mismo fue purificado, el día veinticinco del mes de Casleu.
 
-[Responsory1]
-@Tempora/101-0:Responsory4
-
 [Lectio2]
 !2 Mac 10:24-27
 24 Timoteo, el que antes había sido vencido por los judíos, juntó numerosa fuerza mercenaria, y, reunida la caballería de Asia en buen número, vino con el propósito de hacer la Judea presa de guerra. 
 25 Al acercarse, las tropas del Macabeo se volvieron a Dios en oración, y, cubierta de polvo la cabeza y ceñidos de saco los lomos, 
 26 se postraron al pie del altar, rogando a Dios que se les mostrase propicio a ellos y hostil a sus enemigos, oponiéndose a los adversarios según las promesas de la Ley. 
 27 Terminada la oración, empuñaron las armas, salieron de la ciudad e hicieron alto cuando estuvieron cerca del enemigo.
-
-[Responsory2]
-@Tempora/101-0:Responsory5
 
 [Lectio3]
 !2 Mac 10:28-32
@@ -27,6 +21,3 @@ Del Libro segundo de los Macabeos
 30 y tomando en medio de ellos al Macabeo, le protegían con sus armas, le guardaban incólume y lanzaban flechas y rayos contra el enemigo, que, herido de ceguera y espanto, caía. 
 31 Mataron veinte mil quinientos, y de los jinetes, seiscientos. 
 32 El mismo Timoteo huyó a la fortaleza llamada Gazer, plaza muy guarnecida, donde mandaba Quereas.
-
-[Responsory3]
-@Tempora/101-0:Responsory6

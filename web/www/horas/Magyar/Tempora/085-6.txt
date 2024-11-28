@@ -7,9 +7,6 @@ Jézus Sírák fia könyvéből
 4 Szólj te, idösb, mert téged illet 
 5 az elsö szó gondos tudománynyal; de ne akadályozd a zenét.
 
-[Responsory1]
-@Tempora/081-0:Responsory7
-
 [Lectio2]
 !Sir 32:6-11
 6 A hol hallomás nincs, ne öntsd ott a beszédet, és alkalmatlanúl ne mutogasd bölcseségedet. 
@@ -19,9 +16,6 @@ Jézus Sírák fia könyvéből
 10 Ifjú! tenügyedben is alig szólj. 
 11 Ha kétszer kérdetel, feje legyen feleletednek.
 
-[Responsory2]
-@Tempora/081-1:Responsory2
-
 [Lectio3]
 !Sir 32:12-17
 12 Sokban olyan légy, mint a tudatlan, és hallj hallgatva s egyszersmind kérdezgetve. 
@@ -30,6 +24,3 @@ Jézus Sírák fia könyvéből
 15 És a fölkelés idején ne késlekedjél; elöször pedig házadhoz siess, és ott légy magadé, és ott mulass. 
 16 És tégy gondolataid szerint, de ne járj vétkekben, és kevély igékben. 
 17 És mindenekért áldjad az Urat, ki téged teremtett és elárasztott minden javával.
-
-[Responsory3]
-@Tempora/081-1:Responsory3

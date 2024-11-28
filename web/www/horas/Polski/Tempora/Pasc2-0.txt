@@ -1,10 +1,6 @@
 [Rank]
 II Niedziela po Wielkiejnocy;;Semiduplex;;5;;
 
-[Rule]
-9 Lectiones
-Una Antiphona
-
 [Ant 1]
 Jam jest pasterz owiec: * jam jest droga i prawda i żywot: jam jest pasterz dobry i znam owce moje, i znają mię moje, alleluja, alleluja.
 
@@ -73,9 +69,6 @@ $Deo gratias
 !1 P 2:25
 v. Boście byli jako owce błądzące; ale teraz jesteście nawróceni do pasterza i biskupa dusz waszych.
 $Deo gratias
-
-[Versum 3]
-@Tempora/Pasc1-0:Versum 1
 
 [Ant 3]
 Jam jest pastetrz dobry, * który strzegę owiec moich, i duszę mą kładę za owce moje, alleluja.

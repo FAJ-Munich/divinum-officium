@@ -4,12 +4,8 @@ Vierter Sonntag im Advent;;Semiduplex;;5.6
 [Rank] (rubrica 196)
 Vierter Sonntag im Advent;;Semiduplex;;6
 
-[Rule]
-9 lectiones
-Antiphonas horas
-
 [Oratio]
-Lass, wir bitten dich, o Herr, wirksam werden deine Macht und komm; und werde uns mit deiner großen Kraft ein Helfer, auf dass unter dem Beistand deiner Huld das, was unsere Sünden aufhalten, die in deiner Milde erwiesene Nachsicht schneller gewähre.
+Laß, wir bitten dich, o Herr, wirksam werden deine Macht und komm; und werde uns mit deiner großen Kraft ein Helfer, auf daß unter dem Beistand deiner Huld das, was unsere Sünden aufhalten, die in deiner Milde erwiesene Nachsicht schneller gewähre.
 $Qui vivis
 
 [Lectio1]

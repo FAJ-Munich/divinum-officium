@@ -19,15 +19,15 @@ v. Hoy resplandecerá la luz sobre nosotros; porque ha nacido para nosotros el S
 Concédenos, oh Dios omnipotente, que, al penetrarnos la nueva luz de tu Verbo encarnado, resplandezca en nuestras obras del mismo modo que por la fe brilla en nuestra mente;
 $Per eumdem
 
-[Commemoratio Oratio]
-!De Sta. Anastasia
-Te rogamos, oh Dios omnipotente, que los que celebramos la solemnidad de tu mártir Santa Anastasia, sintamos ante Ti los efectos de su patrocinio.
-$Per Dominum
-
 [Lectio]
 Lección de la carta del Apóstol san Pablo a Tito
 !Tito 3:4-7
 Hermano: Se manifestó la bondad de Dios nuestro Salvador y su amor al hombre, no por las obras de justicia que hubiéramos hecho nosotros, sino, según su propia misericordia, nos salvó por el baño del nuevo nacimiento y de la renovación del Espíritu Santo, que derramó copiosamente sobre nosotros por medio de Jesucristo nuestro Salvador, para que, justificados por su gracia, seamos, en esperanza, herederos de la vida eterna: en Cristo Jesús, Señor nuestro.
+
+[Commemoratio Oratio]
+!De Sta. Anastasia
+Te rogamos, oh Dios omnipotente, que los que celebramos la solemnidad de tu mártir Santa Anastasia, sintamos ante Ti los efectos de su patrocinio.
+$Per Dominum
 
 [Graduale]
 !Ps 117:26-27, 23

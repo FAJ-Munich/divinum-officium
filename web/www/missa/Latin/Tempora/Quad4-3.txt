@@ -1,9 +1,6 @@
 [Rank]
 Feria Quarta infra Hebdomadam IV in Quadragesima;;Feria major;;2.1
 
-[Rank](rubrica 1960)
-Feria Quarta infra Hebdomadam IV in Quadragesima;;Feria major;;3.9
-
 [Rule]
 no Gloria
 Suffragium=Sanctorum;Vivis;;
@@ -22,17 +19,6 @@ v. Cum sanctificátus fúero in vobis, congregábo vos de univérsis terris: et 
 Deus, qui et justis prǽmia meritórum et peccatóribus per jejúnium véniam præbes: miserére supplícibus tuis; ut reátus nostri conféssio indulgéntiam valeat percípere delictórum.
 $Per Dominum
 
-[LectioL1]
-Léctio Ezechiélis Prophétæ.
-!Ezech 36:23-28
-Hæc dicit Dóminus Deus: Sanctificábo nomen meum magnum, quod pollútum est inter gentes, quod polluístis in médio eárum: ut sciant gentes, quia ego Dóminus, cum sanctificátus fúero in vobis coram eis. Tollam quippe vos de géntibus, et congregábo vos de univérsis terris, et addúcam vos in terram vestram. Et effúndam super vos aquam mundam, et mundabímini ab ómnibus inquinaméntis vestris, et ab univérsis idólis vestris mundábo vos. Et dabo vobis cor novum, et spíritum novum ponam in médio vestri: et áuferam cor lapídeum de carne vestra, et dabo vobis cor cárneum. Et spíritum meum ponam in médio vestri: et fáciam, ut in præcéptis meis ambulétis, et judícia mea custodiátis et operémini. Et habitábitis in terra, quam dedi pátribus vestris: et éritis mihi in pópulum, et ego ero vobis in Deum: dicit Dóminus omnípotens.
-$Deo gratias
-
-[GradualeL1]
-!Ps 38:12, 6
-Veníte, fílii, audíte me: timórem Dómini docébo vos.
-V. Accédite ad eum, et illuminámini: et fácies vestræ non confundéntur.
-
 [OratioL1]
 Præsta, quǽsumus, omnípotens Deus: ut, quos jejúnia votíva castígant, ipsa quoque devótio sancta lætíficet; ut, terrénis afféctibus mitigátis, facílius cœléstia capiámus.
 $Per Dominum
@@ -41,6 +27,12 @@ $Per Dominum
 Léctio Isaíæ Prophétæ.
 !Is 1:16-19
 Hæc dicit Dóminus Deus: Lavámini, mundi estóte, auférte malum cogitatiónum vestrárum ab óculis meis: quiéscite ágere pervérse, díscite benefácere: quærite judícium, subveníte opprésso, judicáte pupíllo, deféndite víduam. Et veníte et argúite me, dicit Dóminus: si fúerint peccáta vestra ut cóccinum, quasi nix dealbabúntur: et si fúerint rubra quasi vermículus, velut lana alba erunt. Si voluéritis et audiéritis me, bona terræ comedétis: dicit Dóminus omnípotens.
+
+[LectioL1]
+Léctio Ezechiélis Prophétæ.
+!Ezech 36:23-28
+Hæc dicit Dóminus Deus: Sanctificábo nomen meum magnum, quod pollútum est inter gentes, quod polluístis in médio eárum: ut sciant gentes, quia ego Dóminus, cum sanctificátus fúero in vobis coram eis. Tollam quippe vos de géntibus, et congregábo vos de univérsis terris, et addúcam vos in terram vestram. Et effúndam super vos aquam mundam, et mundabímini ab ómnibus inquinaméntis vestris, et ab univérsis idólis vestris mundábo vos. Et dabo vobis cor novum, et spíritum novum ponam in médio vestri: et áuferam cor lapídeum de carne vestra, et dabo vobis cor cárneum. Et spíritum meum ponam in médio vestri: et fáciam, ut in præcéptis meis ambulétis, et judícia mea custodiátis et operémini. Et habitábitis in terra, quam dedi pátribus vestris: et éritis mihi in pópulum, et ego ero vobis in Deum: dicit Dóminus omnípotens.
+$Deo gratias
 
 [Graduale]
 !Ps 32:12, 6
@@ -75,6 +67,11 @@ Lutum fecit ex sputo Dóminus, et linívit óculos meos: et ábii, et lavi, et v
 [Postcommunio]
 Sacraménta, quæ súmpsimus, Dómine, Deus noster: et spirituálibus nos répleant aliméntis, et corporálibus tueántur auxíliis.
 $Per Dominum
+
+[GradualeL1]
+!Ps 38:12, 6
+Veníte, fílii, audíte me: timórem Dómini docébo vos.
+V. Accédite ad eum, et illuminámini: et fácies vestræ non confundéntur.
 
 [Super populum]
 !Oratio super populum

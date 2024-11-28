@@ -38,11 +38,6 @@ V. Seznam mne, Pane, s cestami svými a po stezkách svých nauč mne choditi. A
 !Ž 84,8
 V. Ukaž nám, Pane, milosrdenství své a spasení své nám daruj. Aleluja.
 
-[GradualeF]
-!Ž 24,3-4
-Žádný, kdo v tebe doufá, zahanbení nepozná, Pane.
-V. Seznam mne, Pane, s cestami svými a po stezkách svých nauč mne choditi.
-
 [Evangelium]
 † Pokračování sv. Evangelia podle Lukáše
 !Lk 21:25-33
@@ -64,3 +59,8 @@ Hospodin dá požehnání, a země naše vydá plod svůj.
 [Postcommunio]
 Kéž se nám dostane, Pane, milosrdenství tvého uprostřed chrámu tvého, abychom se na příští slavnost svého vykoupení s náležitou připravovali úctou.
 $Per Dominum
+
+[GradualeF]
+!Ž 24,3-4
+Žádný, kdo v tebe doufá, zahanbení nepozná, Pane.
+V. Seznam mne, Pane, s cestami svými a po stezkách svých nauč mne choditi.

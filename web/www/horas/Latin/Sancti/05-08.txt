@@ -6,6 +6,7 @@ proprium
 9 lectiones
 Psalmi Dominica
 Antiphonas horas
+(rubrica 1570) Una Antiphona
 Psalm5 Vespera=116
 Psalm5 Vespera3=137
 Contract8
@@ -87,13 +88,13 @@ Deus, qui, miro órdine, Angelórum ministéria hominúmque dispénsas: concéde
 $Per Dominum
 
 [Invit]
-Regem Archangelórum Dóminum, * Veníte, adorémus.
+Regem Archangelórum Dóminum, * Veníte, adorémus. (Allelúja.)
 
 [Hymnus Matutinum]
-@Sancti/05-08:Hymnus Vespera
+@:Hymnus Vespera
 
 [HymnusM Matutinum]
-@Sancti/05-08:HymnusM Vespera
+@:HymnusM Vespera
 
 [Ant Matutinum]
 Concússum est mare, * et contrémuit terra, ubi Archángelus Míchaël descendébat de cælo, allelúja.;;8
@@ -215,10 +216,6 @@ V. Stetit Angelus juxta aram templi, habens thuríbulum áureum in manu sua.
 R. Stetit in auxílium pro animábus justis. (Allelúja.)
 &Gloria
 R. Stetit in auxílium pro animábus justis. (Allelúja.)
-
-[Lectio9]
-Vidéte ne contemnátis unum de pusíllis istis, qui credunt in me. Aptíssimum vínculum mútui amóris impósuit, ad eos præcípue qui vere in Dómino credidíssent. Pusillórum enim Angeli quotídie Deum vident: quia Fílius hóminis venit salváre quæ pérdita sunt. Ergo et Fílius hóminis salvat, et Deum Angeli vident, et Angeli pusillórum præsunt fidélium oratiónibus. Præésse Angelos absolúta auctóritas est. Salvatórum ígitur per Christum oratiónes Angeli quotídie Deo ófferunt. Ergo periculóse ille contémnitur, cujus desidéria ac postulatiónes ad ætérnum et invisíbilem Deum, ambitióso Angelórum famulátu ac ministério, pervehúntur.
-&teDeum
 
 [Versum 0]
 V. Gloriósus apparuísti in conspéctu Dómini.

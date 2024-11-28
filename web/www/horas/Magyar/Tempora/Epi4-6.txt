@@ -1,9 +1,6 @@
 [Rank]
 Sabbato infra Hebdomadam IV post Epiphaniam;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Szent Pál Apostolol Tessalonikaiakhoz írt masodik levelének kezdete
 !2 Thess 1:1-5
@@ -12,9 +9,6 @@ Szent Pál Apostolol Tessalonikaiakhoz írt masodik levelének kezdete
 3 Folytonos hálával tartozunk értetek az Istennek, testvérek, mégpedig méltán, mert hitetek nőttön-nő, és a kölcsönös szeretet mindnyájatokban gyarapszik.
 4 Dicsekszünk is veletek Isten egyházaiban: állhatatosságotokkal és hitetekkel, amelyet tanúsíttok a sok üldözés és zaklatás közepette.
 5 Ezeket elviselitek az Isten igazságos ítéletének előjeleként, hogy majd méltók legyetek az Isten országára, hiszen szenvedtek érte.
-
-[Responsory1]
-@Tempora/Epi2-6:Responsory1
 
 [Lectio2]
 !2 Thess 1:6-12
@@ -26,15 +20,9 @@ Szent Pál Apostolol Tessalonikaiakhoz írt masodik levelének kezdete
 11 Ezért állandóan imádkozom értetek, hogy Istenünk méltóvá tegyen benneteket a meghívásra és tökéletessé a jóra való törekvésben s a hitből fakadó tettekben.
 12 Így dicsőül meg Urunk Jézus neve bennetek, és ti is őbenne, Istenünknek és Urunknak, Jézus Krisztusnak kegyelméből.
 
-[Responsory2]
-@Tempora/Epi2-6:Responsory2
-
 [Lectio3]
 !2 Thess 2:1-4
 1 Van még egy kérésünk: Urunk, Jézus Krisztus eljövetelét és vele való egyesülésünket illetően ne veszítsétek el rögtön józanságotokat,
 2 és sem lelki kinyilatkoztatás, sem állítólag tőlünk eredő mondás vagy levél ne ijesszen meg benneteket, mintha az Úr napja már küszöbön állna.
 3 Semmiképpen meg ne tévesszen valaki titeket, hiszen előbb be kell következnie az elpártolásnak, és meg kell mutatkoznia a bűn emberének, a kárhozat fiának, az ellenségnek,
 4 aki mindenek fölé emelkedik, amit Istennek és szentnek neveznek. Sőt, Isten templomában foglal majd helyet, és istennek akar látszani.
-
-[Responsory3]
-@Tempora/Epi2-6:Responsory3

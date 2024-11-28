@@ -6,9 +6,6 @@ Tóbias könyvéből
 3 Tóbiás el is ment, hogy testvéreink közt egy szegényt keressen, de visszajött, s így szólt: „Apám!” „Na mi van, fiam?” - feleltem neki. „Apám - folytatta -, valakit megöltek a mieink közül, megfojtották, aztán odadobták a piactérre, még most is ott fekszik.”
 4 Nem kellett az étel, fölkeltem, elhoztam az embert a térről és bevittem egy házba, hogy ha majd lenyugszik a nap, eltemessem.
 
-[Responsory1]
-@Tempora/093-0:Responsory1
-
 [Lectio2]
 !Tob 2:8-12
 8 A szomszédok kicsúfoltak és azt mondták: „Na, ez már megint nem fél? [Nem szabad elfelejteni, hogy ilyenek miatt díjat tűztek ki a fejemre.] A múltkor el kellett menekülnie, és lám, most már megint temeti a halottakat!”
@@ -17,13 +14,7 @@ Tóbias könyvéből
 11 Akkor a feleségem kétkezi munkába fogott: gyapjút font, vásznat szőtt,
 12 megrendelésre dolgozott és pénzt kapott érte. Egyszer március hetedikén elkészült az egyik darabbal és átadta a megrendelőknek. Ezek mind kifizették, amivel tartoztak, aztán ráadásul még egy kecskegidával is megajándékozták.
 
-[Responsory2]
-@Tempora/093-0:Responsory2
-
 [Lectio3]
 !Tob 2:13-18
 13 Amikor a közelembe ért, elkezdett mekegni. Szóltam a feleségemnek, és megkérdeztem tőle: „Honnan van a gida? Talán csak nem lopott jószág? Add vissza a gazdájának! Lopott jószágot nem szabad megenni.”
 14 Azt felelte: „Ráadásul kaptam, a munkámért járó pénzen kívül.” De nem hittem el neki, és ráparancsoltam, hogy vigye vissza a gazdájának. [Egészen kipirultam a méregtől.] De ő sem maradt adós a felelettel: „Mire mentél az alamizsnáddal és a jótéteményeddel? Csak rád kell nézni és meglátszik, mennyit értek!”
-
-[Responsory3]
-@Tempora/093-0:Responsory6

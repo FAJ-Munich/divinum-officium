@@ -1,12 +1,6 @@
 [Rank]
 Dominica XVII Post Pentecosten;;Semiduplex;;5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-
 [Oratio]
 O Lord, we beseech thee, grant thy people grace to withstand the temptations of the devil, and with pure hearts to follow thee the only God.
 $Per Dominum

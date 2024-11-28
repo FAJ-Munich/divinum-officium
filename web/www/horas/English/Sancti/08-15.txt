@@ -1,5 +1,5 @@
 [Rank]
-In Assumptione Beatae Mariae Virginis;;Duplex I classis cum Octava Communi;;7;;ex C11
+Assumption of the Blessed Virgin Mary;;Duplex I classis cum Octava Communi;;7;;ex C11
 
 [Hymnus Vespera]
 v. O Virgin thou, the spirit's fair'st,
@@ -211,8 +211,4 @@ v. Thou art the glory of Jerusalem, thou art the joy of Israel, thou art the hon
 [Capitulum Sexta]
 !Jdt 13:24-25
 v. Blessed be the Lord, because he hath so magnified thy name this day, that thy praise shall not depart out of the mouth of men.
-$Deo gratias
-
-[Capitulum Nona]
-@:Lectio Prima
 $Deo gratias

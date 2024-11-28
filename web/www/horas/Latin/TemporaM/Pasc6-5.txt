@@ -16,8 +16,8 @@ Doxology=Asc
 Feria Te Deum
 No suffragium
 
-[Rule] (rubrica 1963)
-
+[Rule] (rubrica 196)
+ 
 
 [Oratio]
 @Tempora/Pasc6-0

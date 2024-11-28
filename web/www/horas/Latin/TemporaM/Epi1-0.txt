@@ -1,6 +1,6 @@
 @Tempora/Epi1-0a
 
-[Rank]
+[Rank] (rubrica 1963)
 Dominica I post Epiphaniam;;Semiduplex;;5;;vide SanctiM/01-06
 
 [Rule]

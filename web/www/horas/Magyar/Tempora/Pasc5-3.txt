@@ -1,15 +1,6 @@
 [Rank]
 Feria Quarta in Rogationibus in Vigilia ascensionis;;Feria;;2
 
-[Rank] (rubrica 1960)
-In Vigilia ascensionis;;Feria;;5
-
-[Rule]
-Oratio Dominica
-Una Antiphona
-Feria Te Deum
-Laudes Litania
-
 [Lectio1]
 Evangélium szent János Apostol kőnyvéből
 !John 17:1-11

@@ -1,11 +1,6 @@
 [Rank]
 Wtorek I tygodnia po Oktawie Wielkanocy;;Feria;;1
 
-[Rule]
-Oratio Dominica
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 Z Dziejów Apostolskich
 !Dz 2:1-8

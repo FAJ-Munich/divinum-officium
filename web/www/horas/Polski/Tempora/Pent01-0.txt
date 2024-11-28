@@ -1,16 +1,6 @@
 [Rank]
 Niedziela Trójcy Przenajświętszej;;Duplex I classis;;6.5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-No Commemoration
-Psalm5 Vespera=116
-Psalm5 Vespera3=113
-Prima=53
-
 [Ant Vespera]
 Chwała Ci, o Trójco * jedyna i równa sobie w Bóstwie, przed wiekami, teraz i na zawsze.
 Cześć i wieczna chwała * Bogu Ojcu i Synowi, jako też Duchowi Świętemu na wieki wieków.

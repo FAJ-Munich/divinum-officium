@@ -4,11 +4,6 @@ Feria Secunda infra Octavam Corporis Christi;;Semiduplex II class;;5;;ex Tempora
 [Rank] (rubrica 196 aut rubrica 1955)
 Feria II infra Hebdomadam II post Octavam Pentecostes;;Feria;;1
 
-[Rule]
-ex Tempora/Pent01-4;
-9 lectiones
-Doxology=Corp
-
 [Lectio1]
 Lesson from the first book of Samuel
 !1 Sam 5:1-5

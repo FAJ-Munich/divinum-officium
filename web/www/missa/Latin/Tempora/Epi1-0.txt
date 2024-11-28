@@ -21,15 +21,15 @@ v. Exsúltat gáudio pater Justi, gáudeat Pater tuus et Mater tua, et exsúltet
 Dómine Jesu Christe, qui, Maríæ et Joseph súbditus, domésticam vitam ineffabílibus virtútibus consecrásti: fac nos, utriúsque auxílio, Famíliæ sanctæ tuæ exémplis ínstrui; et consórtium cónsequi sempitérnum:
 $Qui vivis
 
-[Commemoratio Oratio]
-!Pro Dominica infra Octavam Epiphaniæ
-Vota, quǽsumus, Dómine, supplicántis pópuli cœlésti pietáte proséquere: ut et, quæ agénda sunt, vídeant, et ad implénda, quæ víderint, convaléscant.
-$Per Dominum
-
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Colossénses
 !Col 3:12-17
 Fratres: Indúite vos sicut elécti Dei, sancti et dilécti, víscera misericórdiæ, benignitátem, humilitátem, modéstiam, patiéntiam: supportántes ínvicem, et donántes vobismetípsis, si quis advérsus áliquem habet querélam: sicut et Dóminus donávit vobis, ita et vos. Super ómnia autem hæc caritátem habéte, quod est vínculum perfectiónis: et pax Christi exsúltet in córdibus vestris, in qua et vocáti estis in uno córpore: et grati estóte. Verbum Christi hábitet in vobis abundánter, in omni sapiéntia, docéntes et commonéntes vosmetípsos psalmis, hymnis et cánticis spirituálibus, in grátia cantántes in córdibus vestris Deo. Omne, quodcúmque fácitis in verbo aut in ópere, ómnia in nómine Dómini Jesu Christi, grátias agéntes Deo et Patri per ipsum.
+
+[Commemoratio Oratio]
+!Pro Dominica infra Octavam Epiphaniæ
+Vota, quǽsumus, Dómine, supplicántis pópuli cœlésti pietáte proséquere: ut et, quæ agénda sunt, vídeant, et ad implénda, quæ víderint, convaléscant.
+$Per Dominum
 
 [Graduale]
 !Ps 26:4
@@ -39,6 +39,13 @@ Beáti, qui hábitant in domo tua, Dómine: in sǽcula sæculórum laudábunt te
 !Isa 45:15
 Vere tu es Rex abscónditus, Deus Israël Salvátor. Allelúja.
 
+[GradualeP]
+Allelúja, allelúja,
+!Prov 8:34
+Beátus homo qui audit me, et qui vígilat ad fores meas cotídie, et obsérvat ad postes óstii mei. Allelúja, allelúja,
+!Col 3:3
+Vita nostra est abscóndita cum Christo in Deo. Allelúja.
+
 [Tractus]
 !Heb 10:5
 Hóstiam et oblatiónem noluísti, corpus autem aptásti mihi.
@@ -46,13 +53,6 @@ Hóstiam et oblatiónem noluísti, corpus autem aptásti mihi.
 Holocáustum et pro peccáto non postulásti: tunc dixi: Ecce, vénio.
 !Heb 10:7
 V. In cápite libri scriptum est de me: Ut fáciam, Deus, voluntátem tuam.
-
-[GradualeP]
-Allelúja, allelúja,
-!Prov 8:34
-Beátus homo qui audit me, et qui vígilat ad fores meas cotídie, et obsérvat ad postes óstii mei. Allelúja, allelúja,
-!Col 3:3
-Vita nostra est abscóndita cum Christo in Deo. Allelúja.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Lucam.

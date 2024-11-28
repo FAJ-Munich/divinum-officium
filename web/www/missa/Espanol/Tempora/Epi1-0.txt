@@ -21,10 +21,20 @@ v. Salte de júbilo el padre del justo, alégrense tu padre y tu madre, y regoc�
 Señor nuestro Jesucristo, que sujeto a María y a José, consagraste la vida de familia con inefables virtudes; haz que, con el auxilio de ambos, nos instruyamos con los ejemplos de tu Sagrada Familia, y alcancemos su eterna compañía.
 $Qui vivis
 
+[Commemoratio Oratio]
+!Por el Domingo infra octava de la Epifanía
+Oh Señor, te rogamos, en tu bondad divina, que escuches a Tu pueblo que ante ti ora, que les des a ver qué debe hacer y tenga la fortaleza de cumplir lo que hayan visto.
+$Per Dominum
+
 [Lectio]
 Lección de la carta del Apóstol San Pablo a los Colosenses
 !Col 3:12-17
 Hermanos: Como elegidos de Dios, santos y amados, revestíos de compasión entrañable, bondad, humildad, mansedumbre, paciencia. Sobrellevaos mutuamente y perdonaos cuando alguno tenga quejas contra otro. El Señor os ha perdonado: haced vosotros lo mismo. Y por encima de todo esto, el amor, que es el vínculo de la unidad perfecta. Que la paz de Cristo reine en vuestro corazón: a ella habéis sido convocados en un solo cuerpo. Sed también agradecidos. La Palabra de Cristo habite entre vosotros en toda su riqueza; enseñaos unos a otros con toda sabiduría; exhortaos mutuamente. Cantad a Dios, dando gracias de corazón, con salmos, himnos y cánticos inspirados. Y todo lo que de palabra o de obra realicéis, sea todo en nombre de Jesús, dando gracias a Dios Padre por medio de él.
+
+[Commemoratio Oratio]
+!Por el Domingo infra octava de la Epifanía
+Oh Señor, te rogamos, en tu bondad divina, que escuches a Tu pueblo que ante ti ora, que les des a ver qué debe hacer y tenga la fortaleza de cumplir lo que hayan visto.
+$Per Dominum
 
 [Graduale]
 !Ps 26:4
@@ -47,6 +57,11 @@ Sus padres llevaron a Jesús a Jerusalén, para presentarle al Señor.
 Te ofrecemos, Señor, la hostia de reconciliación, suplicándote humildemente que, por intercesión de la Virgen, Madre de Dios, y de san José, establezcas sólidamente nuestras familias en tu paz y gracia.
 $Per eumdem
 
+[Commemoratio Secreta]
+!Por el Domingo infra octava de la Epifanía
+Haz, Señor, que este Sacrificio, a ti ofrecido, nos vivifique siempre, y nos defienda.
+$Per Dominum
+
 [Communio]
 !Lc 2:51
 Bajó Jesús con ellos, y vino a Nazaret, y les estaba sujeto.
@@ -54,16 +69,6 @@ Bajó Jesús con ellos, y vino a Nazaret, y les estaba sujeto.
 [Postcommunio]
 Haz Señor Jesús, que aquellos a quienes has confortado con celestiales sacramentos, imiten continuamente los ejemplos de su santa Familia, para que en la hora de nuestra muerte, saliéndonos al encuentro la gloriosa Virgen, tu Madre, y san José, merezcamos ser recibidos en los eternos tabernáculos.
 $Qui vivis
-
-[Commemoratio Oratio]
-!Por el Domingo infra octava de la Epifanía
-Oh Señor, te rogamos, en tu bondad divina, que escuches a Tu pueblo que ante ti ora, que les des a ver qué debe hacer y tenga la fortaleza de cumplir lo que hayan visto.
-$Per Dominum
-
-[Commemoratio Secreta]
-!Por el Domingo infra octava de la Epifanía
-Haz, Señor, que este Sacrificio, a ti ofrecido, nos vivifique siempre, y nos defienda.
-$Per Dominum
 
 [Commemoratio Postcommunio]
 !Por el Domingo infra octava de la Epifanía

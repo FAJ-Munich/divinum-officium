@@ -14,10 +14,10 @@ Sub unica conclusione
 [Oratio]
 @Sancti/01-25
 
-[Commemoratio Oratio]
+[Lectio]
 @Sancti/01-25
 
-[Lectio]
+[Commemoratio Oratio]
 @Sancti/01-25
 
 [Graduale]

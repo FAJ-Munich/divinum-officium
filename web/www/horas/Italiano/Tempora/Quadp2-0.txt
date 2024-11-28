@@ -1,12 +1,8 @@
 [Rank]
 Dominica in Sexagesima;;Semiduplex;;5.6
 
-[Rank] (rubrica 1960)
+[Rank] (rubrica 196)
 Dominica in Sexagesima;;Semiduplex;;5
-
-[Rule]
-9 lectiones
-Invit2
 
 [Versum 1]
 V. La preghiera della sera salga a te, o Signore.

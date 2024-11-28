@@ -5,17 +5,11 @@ Jézus Sírák fia könyvéből
 2 Alázd meg szivedet, és törj; hajtsd meg füleidet, és fogadd be az értelmesség igéit, és ne hirtelenkedjél a háborúság idején. 
 3 Törd el az Isten látogatásait; ragaszkodjál Istenhez, és törj, hogy utóljára növekedjék a te életed.
 
-[Responsory1]
-@Tempora/081-2:Responsory1
-
 [Lectio2]
 !Sir 2:4-6
 4 Mindent, a mi rádbocsáttatik, fogadj el; és a fájdalomban törj, és megaláztatásodban békével szenvedj; 
 5 mert tűzben próbáltatik meg az arany és ezüst, a kedves emberek pedig a megaláztatás kemenczéjében. 
 6 Higy az Istennek, és fölemel téged; járj igaz útadon, és bízzál öbenne. Tartsd meg az ö félelmét, és öregedjél meg benne.
-
-[Responsory2]
-@Tempora/081-0:Responsory5
 
 [Lectio3]
 !Sir 2:7-12
@@ -25,6 +19,3 @@ Jézus Sírák fia könyvéből
 10 Kik az Urat félitek, szeressétek öt, és megvilágosíttatnak sziveitek. 
 11 Fiaim! nézzétek az emberi nemet, és tudjátok meg, hogy senki sem szégyenölt meg, a ki az Úrban bízott. 
 12 Ugyanis a ki megmaradt az ö parancsaiban, elhagyatott-eö vagy a ki öt segítségöl hítta, megvettetett-eö
-
-[Responsory3]
-@Tempora/081-0:Responsory6

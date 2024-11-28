@@ -1,9 +1,6 @@
 [Rank]
 Dominica Infra Octavam Nativitatis;;Semiduplex;;5;;ex Sancti/12-25
 
-[Rank1960]
-Dominica Infra Octavam Nativitatis;;Semiduplex;;5.5;;ex Sancti/12-25
-
 [Rule]
 Gloria
 Credo
@@ -26,15 +23,15 @@ v. Zatím, co všechno v hlubokém mlčení trvalo a noc ve svém běhu k polovi
 Všemohoucí, věčný Bože, řiď činy naše podle zalíbení svého, abychom si zasloužili ve jménu milovaného Syna tvého dobrými oplývati skutky.
 $Qui tecum
 
-[Commemoratio Oratio]
-!Připomínka Narození Páně
-@Sancti/12-25m3:Oratio
-
 [Lectio]
 Čtení z listu sv. Pavla Apoštola ke Galaťanům
 !Ga 4,1-7
 !Starý zákon byl dědicem zaslíbení, ale až do příchodu Kristova byl jako nedospělý a podrobený; teprve v Kristu jsme se stali svobodnými dítkami Božími.
 Bratři! Pokud dědic jest nedospělý, nic se neliší od služebníka, ač jest pánem všeho, nýbrž jest pod poručníky a správci až do času ustanoveného napřed od otce. Tak i my, když jsme byli nedospěli, byli jsme podrobeni pod živly světa. Když však přišla plnost času, ge vyslal Bůh Syna svého, učiněného z ženy, podřízeného zákonu, aby vykoupil ty, kteří byli pod zákonem, abychom obdrželi přijetí za syny. A poněvadž jste syny, Bůh poslal Ducha Syna svého v srdce vaše, který volá: Abba, Otče! Proto není již služebník, nýbrž syn, tedy i dědic skrze Boha.
+
+[Commemoratio Oratio]
+!Připomínka Narození Páně
+@Sancti/12-25m3:Oratio
 
 [Graduale]
 !Ž 44,3; 44,2

@@ -1,9 +1,6 @@
 [Rank]
 Feria V infra Hebdomadam VI post Epiphaniam;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Szent Pál Apostol zsidókhoz írt leveléből
 !Heb 7:1-3
@@ -11,17 +8,11 @@ Szent Pál Apostol zsidókhoz írt leveléből
 2 Ábrahám tizedet adott neki mindenből. A neve azt jelenti, hogy az igazságosság királya. Azonkívül Sálem királya volt, vagyis a békesség királya. 
 3 Nem ismerjük apját, anyját, családfáját, sem napjainak kezdetét vagy életének végét. Így az Isten Fiához hasonlítva marad pap mindörökké.
 
-[Responsory1]
-@Tempora/Epi2-4:Responsory1
-
 [Lectio2]
 !Heb 7:4-6
 4 Gondoljátok meg, milyen nagy ember az, akinek ősatyánk, Ábrahám tizedet adott a zsákmány javából. 
 5 Lévi fiainak, mivel papi tisztet viselnek, szintén megvan a törvényes joguk rá, hogy a néptől, vagyis testvéreiktől, akik Ábrahám leszármazottai, tizedet szedjenek. 
 6 Ő viszont, aki nem az ő nemzetségükből származott, Ábrahámtól kapta a tizedet, és megáldotta azt, akinek az ígéret szólt.
-
-[Responsory2]
-@Tempora/Epi2-4:Responsory2
 
 [Lectio3]
 !Heb 7:7-12
@@ -31,6 +22,3 @@ Szent Pál Apostol zsidókhoz írt leveléből
 10 hiszen jelen volt őse ágyékában, amikor Melkizedek találkozott vele. 
 11 Ha a levita papság, amelynek szolgálata idején a nép a törvényt kapta, elvezetett volna a tökéletességre, mi szükség lett volna még rá, hogy más főpap jöjjön, Melkizedek rendje szerint, nem pedig Áron nemzetségéből? 
 12 A papság megváltozásával azonban szükségképpen megváltozott a törvény is.
-
-[Responsory3]
-@Tempora/Epi2-4:Responsory3

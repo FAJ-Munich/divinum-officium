@@ -3,7 +3,7 @@ The earth trembled and was still, when God arose to judgment, alleluia.;;29
 Be not affrighted; * you seek Jesus of Nazareth, who was crucified: he is risen, he is not here, alleluia.;;243;244;245
 
 [Lectio1]
-@Sancti/01-03::1-6 s/1-5/2-4/ s/1.*God forbid. /2 /s
+@Tempora/Nat03::1-6 s/1-5/2-4/ s/1.*God forbid. /2 /s
 
 [Lectio5]
 Homily of St Gregory Nazianzus

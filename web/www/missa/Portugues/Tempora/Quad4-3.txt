@@ -13,21 +13,11 @@ v. Quando eu for santificado no meio de vós, reunir-vos-ei de todos os países.
 !Sl 33:2
 Bendirei o Senhor continuamente; sempre a minha boca o louvará.
 &Gloria
-v. Quando eu for santificado no meio de vós, reunir-vos-ei de todos os países. Então vos aspergirei com água pura, ficareis limpos de todas as iniquidades e vos darei um espírito novo. 
+v. Quando eu for santificado no meio de vós, reunir-vos-ei de todos os países. Então vos aspergirei com água pura, ficareis limpos de todas as iniquidades e vos darei um espírito novo.
 
 [Oratio]
 Ó Deus, que por meio do jejum concedeis aos justos a recompensa de seus méritos e aos pecadores o perdão de seus pecados, tende misericórdia dos vossos fiéis suplicantes, para que, por meio da confissão das nossas culpas, possamos alcançar o perdão das mesmas.
 $Per Dominum
-
-[LectioL1]
-Lição do Profeta Ezequiel.
-!Ez 36:23-28
-Assim fala o Senhor Deus: «Santificarei o meu admirável nome, que foi profanado pelos povos (entre os quais vós também o desonrastes), para que as nações conheçam que sou o Senhor. Quando Eu for santificado no meio de vós, diante dos meus olhos, vos tirarei do meio dos povos, vos reunirei de todos os países e vos conduzirei à vossa terra. Então vos aspergirei Com água pura; vos limparei de todas as nódoas; e vos purificarei dos vossos ídolos. E dar-vos-ei um coração novo; insuflarei no vosso íntimo um espírito novo; tirarei da vossa carne o coração de pedra que tendes, dando-vos um coração de carne; o meu espírito ficará dentro de vós; e farei que caminheis orientados pelos meus preceitos e que guardeis e pratiqueis os meus mandamentos. Então habitareis na terra que dei a vossos pais; sereis para mim o meu povo; e serei para vós o vosso Deus»: diz o Senhor omnipotente.
-
-[GradualeL1]
-!Sl 33:12, 6.
-Vinde, filhos, escutai-me: Eu vos ensinarei a temer o Senhor.
-V. Aproximai-vos d’Ele e ficareis cheios de luz; a confusão não mais cobrirá o vosso rosto.
 
 [OratioL1]
 Ó Deus omnipotente, castigando nós voluntariamente os nossos corpos com estes solenes jejuns, concedei-nos, Vos suplicamos, que sejamos consolados com a alegria de uma piedade santa, a fim de que, sendo mitigado o ardor dos nossos afectos terrenos, alcancemos mais facilmente os bens celestiais.
@@ -37,6 +27,11 @@ $Per Dominum
 Lição do Profeta Isaías.
 !Is 1:16-19
 Isto diz o Senhor Deus: «Levantai-vos, purificai-vos, afastai diante dos meus olhos a malícia dos vossos pensamentos, deixai de praticar o mal, aprendei a praticar o bem, procurai a justiça, amparai o oprimido, respeitai os direitos do órfão e defendei a viúva. E, depois de assim procederdes, se for Eu não misericordioso, vinde e acusai-me»: diz o Senhor. «Ainda que os vossos pecados fossem como o escarlate, tornar-se-iam brancos como a neve; e, quando fossem encarnados como o carmesim, tornar-se-iam brancos como a lã. Se quiserdes ouvir a minha voz, comereis as coisas boas desta terra»: diz o Senhor omnipotente.
+
+[LectioL1]
+Lição do Profeta Ezequiel.
+!Ez 36:23-28
+Assim fala o Senhor Deus: «Santificarei o meu admirável nome, que foi profanado pelos povos (entre os quais vós também o desonrastes), para que as nações conheçam que sou o Senhor. Quando Eu for santificado no meio de vós, diante dos meus olhos, vos tirarei do meio dos povos, vos reunirei de todos os países e vos conduzirei à vossa terra. Então vos aspergirei Com água pura; vos limparei de todas as nódoas; e vos purificarei dos vossos ídolos. E dar-vos-ei um coração novo; insuflarei no vosso íntimo um espírito novo; tirarei da vossa carne o coração de pedra que tendes, dando-vos um coração de carne; o meu espírito ficará dentro de vós; e farei que caminheis orientados pelos meus preceitos e que guardeis e pratiqueis os meus mandamentos. Então habitareis na terra que dei a vossos pais; sereis para mim o meu povo; e serei para vós o vosso Deus»: diz o Senhor omnipotente.
 
 [Graduale]
 !Sl 32:12, 6.
@@ -70,6 +65,11 @@ O Senhor fez lodo com sua saliva e untou os meus olhos. Então, lavei-me, vi e a
 [Postcommunio]
 Que estes sacramentos, que recebemos, Senhor, nosso Deus, saciem nossas almas com o alimento espiritual e protejam nossos corpos com os auxílios temporais.
 $Per Dominum
+
+[GradualeL1]
+!Sl 33:12, 6.
+Vinde, filhos, escutai-me: Eu vos ensinarei a temer o Senhor.
+V. Aproximai-vos d’Ele e ficareis cheios de luz; a confusão não mais cobrirá o vosso rosto.
 
 [Super populum]
 !Oração sobre o povo

@@ -6,17 +6,11 @@ Jób könyvéből
 3 tenger homokjánál nehezebbet nyomna. Azért vétettem el szavaimat. 
 4 Belém fúródtak a Mindenható nyilai, lázt hozó mérgüket felitta a lelkem. Rémségei ellenem csatasorba álltak.
 
-[Responsory1]
-@Tempora/091-0:Responsory4
-
 [Lectio2]
 !Job 6:5-7
 5 Ordít a vadszamár a kövér mezőben, takarmánya előtt bőg talán a bika? 
 6 Lehet-e só nélkül enni, mi ízetlen, tojásfehérjének jó talán az íze? 
 7 Irtózom még hozzányúlni is, betegségemben mégis ez az eledelem.
-
-[Responsory2]
-@Tempora/091-0:Responsory5
 
 [Lectio3]
 !Job 6:8-13
@@ -26,6 +20,3 @@ Jób könyvéből
 11 De hol vegyek erőt végső kitartáshoz? Mikor jön a vég, hogy türelmesen várjam? 
 12 Erős vagyok tán, olyan mint a szikla, talán kemény ércből jött létre a testem? 
 13 Számomra nincs többé semmi segítség, menekülésemnek minden útja zárva?
-
-[Responsory3]
-@Tempora/091-0:Responsory6

@@ -1,10 +1,6 @@
 [Rank]
 Feria Quinta infra Hebdomadam III post Octavam Paschæ;;Feria;;1
 
-[Rule]
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 Del libro del Apocalipsis del Apóstol San Juan
 !Ap 15:1-4
@@ -36,9 +32,6 @@ R. Venid a mí todos los que os halláis atraídos por mi amor, y saciaos de mis
 4 El tercero derramó su copa sobre los ríos y sobre las fuentes de las aguas, y se convirtieron en sangre. 
 5 Y oí al ángel de las aguas que decía: Justo eres Tú, el que es, el que era, el Santo, porque así has juzgado. 
 6 Pues que derramaban la sangre de los santos y de los profetas, Tú les has dado a beber sangre; bien se lo merecen.
-
-[Responsory3]
-@Tempora/Pasc3-0:Responsory3
 
 [Ant 2]
 Y entró * para quedarse con ellos. Sentado a la mesa con ellos, tomó el pan, pronunció la bendición, lo partió y se lo dio. Aleluya, aleluya.

@@ -1,11 +1,8 @@
 [Rank]
-Septem Dolorum Beatae Mariae Virginis;;Duplex 2nd class;;5.1;;ex C11
+Seven Sorrows of the Blessed Virgin Mary;;Duplex 2nd class;;5.1;;ex C11
 
 [Rank] (rubrica 196)
-Septem Dolorum Beatae Mariae Virginis;;Duplex 2nd class;;5;;ex C11
-
-[Rank] (rubrica innovata)
-Septem Dolorum Beatae Mariae Virginis;;Duplex;;3;;ex C11
+Seven Sorrows of the Blessed Virgin Mary;;Duplex 2nd class;;5;;ex C11
 
 [Ant Vespera]
 Whither is thy beloved gone, * O thou fairest among women? Whither is thy beloved turned aside? that we may seek him with thee.;;109
@@ -202,13 +199,6 @@ R. That thine offering and thy blessing may be perfected.
 [Lectio9]
 Behold, saith the Lord, thy son: Behold thy Mother! Christ bore witness from the Cross, and divided the offices of his tender love between his Mother and his disciple. Thus doth the Lord give us a testament, not only of his love for souls, but also of his natural affection. Moreover, the testimony which John doth give us concerning this same testament, is a worthy testimony to the original Testator himself. It is a good testament, not of earthly riches, but of eternal life, written not in ink, but in the Spirit of the living God, who speaketh of such testimony in the Psalms, saying: My tongue is the pen of a ready writer.
 &teDeum
-
-[Ant Laudes]
-Whither is thy beloved gone, * O thou fairest among women? Whither is thy beloved turned aside? that we may seek him with thee.
-Look away from me. * I will weep bitterly. Labour not to comfort me.
-He hath no form nor comeliness, * and when we shall see him, there is no beauty that we should desire him.
-From the sole of the foot * even unto the head, there is no soundness in it.
-Revive me with flowers, * stay me up with apples, for I am swooning with love.
 
 [Capitulum Laudes]
 !Lam 2:13

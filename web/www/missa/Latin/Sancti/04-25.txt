@@ -1,9 +1,6 @@
 [Rank]
 S. Marci Evangelistæ;;Duplex II classis;;5.1
 
-[Rank] (rubrica 196)
-S. Marci Evangelistæ;;Duplex II classis;;5
-
 [Rule]
 Gloria
 Credo
@@ -22,15 +19,15 @@ v. Protexísti me, Deus, a convéntu malignántium, allelúja: a multitúdine op
 Deus, qui beátum Marcum Evangelístam tuum evangélicæ prædicatiónis grátia sublimásti: tríbue, quǽsumus; ejus nos semper et eruditióne profícere et oratióne deféndi.
 $Per Dominum
 
-[Commemoratio Oratio]
-!Pro rogationibus
-Præsta, quǽsumus, omnípotens Deus: ut, qui in afflictióne nostra de tua pietáte confídimus; contra advérsa ómnia, tua semper protectióne muniámur.
-$Per Dominum
-
 [Lectio]
 Léctio Ezechiélis Prophétæ
 !Ezech 1:10-14
 Similitúdo vultus quátuor animálium: fácies hóminis, et fácies leónis a dextris ipsórum quatuor: fácies autem bovis a sinístris ipsórum quátuor, et fácies áquilæ désuper ipsórum quátuor. Fácies eórum et pennæ eórum exténtæ désuper: duæ pennæ singulórum jungebántur et duæ tegébant córpora eórum: et unumquódque eórum coram fácie sua ambulábat: ubi erat ímpetus spíritus, illuc gradiebántur, nec revertebántur cum ambulárent. Et similitúdo animálium, aspéctus eórum quasi carbónum ignis ardéntium et quasi aspéctus lampadárum. Hæc erat visio discúrrens in médio animálium, splendor ignis, et de igne fulgur egrédiens. Et animália ibant et revertebántur in similitúdinem fúlguris coruscántis.
+
+[Commemoratio Oratio]
+!Pro rogationibus
+Præsta, quǽsumus, omnípotens Deus: ut, qui in afflictióne nostra de tua pietáte confídimus; contra advérsa ómnia, tua semper protectióne muniámur.
+$Per Dominum
 
 [Graduale]
 Allelúja, allelúja.

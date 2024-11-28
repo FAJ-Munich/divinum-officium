@@ -1,12 +1,6 @@
 [Rank]
 Dominica XII Post Pentecosten;;Semiduplex;;5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-
 [Oratio]
 Dieu tout-puissant et miséricordieux, de la grâce de qui vient que Vos fidèles Vous servent comme il convient et d’une façon digne de louange ; accordez-nous, selon notre prière, de courir sans faux-pas dans la voie qui conduit aux biens que Vous avez promis.
 $Per Dominum
@@ -22,9 +16,6 @@ Heureux les yeux, non des scribes et des pharisiens qui peuvent voir seulement l
 
 [Lectio8]
 Mais les Apôtres qui avaient le Seigneur parmi eux, qui ont pris leur repas avec lui, et qui n’avaient qu’à demander pour apprendre de lui tout ce qu’ils voulaient savoir, n’avaient pas besoin de l’enseignement des anges ou de divers genres de visions. Ceux que Luc désigne lorsqu’il parle de « beaucoup de prophètes et de rois» , Matthieu les appelle plus clairement « prophètes et justes» . Car, en effet, ils sont de grands rois, eux qui ne consentent pas à succomber aux mouvements de leurs tentations, mais savent royalement les maîtriser.
-
-[Responsory8]
-@Tempora/Pent01-0:Responsory8
 
 [Lectio9]
 « Mais voici qu’un docteur de la loi se leva pour le mettre à l’épreuve, en disant : ‘Maître, que dois-je faire pour posséder la vie éternelle ?’ » Il me semble que ce docteur de la loi qui voulait mettre le Seigneur à l’épreuve en le questionnant au sujet de la vie éternelle, a pris occasion pour ce faire des paroles mêmes du Seigneur : « Réjouissez-vous de ce que vos noms sont inscrits dans les cieux. » Mais par sa question même il proclama combien est vraie cette parole du Seigneur louant son Père « d’avoir caché cela aux sages et aux savants et de l’avoir révélé aux tout petits. »

@@ -1,9 +1,6 @@
 [Rank]
 Feria II infra Hebdomadam Septuagesimae;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Olvasmány Mózes első könyvéből
 !Gen 1:27-31
@@ -29,6 +26,3 @@ Olvasmány Mózes első könyvéből
 8 Az Úristen kertet telepített Édenben, keleten, és oda helyezte az embert, akit teremtett. 
 9 És az Úristen a földből mindenféle fát sarjasztott, ami tekintetre szép és táplálkozásra alkalmas; azután kisarjasztotta az élet fáját a kert közepén, meg a jó és a rossz tudásának a fáját. 
 10 Egy Édenben eredő folyó öntözte a kertet, s ott négy ágra szakadt.
-
-[Responsory3]
-@Tempora/Quadp1-0:Responsory3

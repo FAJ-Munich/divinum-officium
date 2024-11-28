@@ -18,15 +18,15 @@ v. Bénie soit la Sainte Trinité, l'indivisible Unité ; louons-la, parce qu'el
 Dieu éternel et tout-puissant, qui, dans la profession de la vraie foi, nous faites proclamer la gloire de l'éternelle Trinité et adorer sa triomphante et souveraine Unité, accordez-nous de trouver dans la fermeté de cette foi une constante protection contre toutes les forces adverses.
 $Per Dominum
 
-[Commemoratio Oratio]
-!Pro Dominicam I post Pentecostem
-Ô Dieu, force de ceux qui espèrent en vous, prêtez une oreille bienveillante à notre appel, et puisque, sans vous, la faiblesse de notre nature vouée à la mort ne peut rien, accordez-nous le secours de votre grâce ; afin que, dociles à accomplir vos commandements, nous puissions vous plaire par le vouloir et par le faire.
-$Per Dominum.
-
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Romános.
 !Rom 11:33-36.
 Ô profondeur inépuisable de la sagesse et de la science de Dieu ! Que ses jugements sont insondables et ses voies incompréhensibles ! Car qui a connu la pensée du Seigneur ou qui a été son conseiller ? Ou bien qui lui a donné le premier, pour qu'il ait à recevoir en retour ? De Lui, par Lui et pour Lui sont toutes choses. À lui la gloire dans tous les siècles ! Amen !
+
+[Commemoratio Oratio]
+!Pro Dominicam I post Pentecostem
+Ô Dieu, force de ceux qui espèrent en vous, prêtez une oreille bienveillante à notre appel, et puisque, sans vous, la faiblesse de notre nature vouée à la mort ne peut rien, accordez-nous le secours de votre grâce ; afin que, dociles à accomplir vos commandements, nous puissions vous plaire par le vouloir et par le faire.
+$Per Dominum.
 
 [Graduale]
 !Dan 3:55-56.
@@ -65,4 +65,3 @@ $Per Dominum
 !Pro Dominica.
 Comblés de tels dons, Seigneur, puissions-nous y puiser des grâces de salut, et ne jamais cesser de chanter vos louanges.
 $Per Dominum
-

@@ -35,11 +35,6 @@ Juich God toe, heel de aarde, dien de Heer met vreugde!
 V. Treedt voor zijn aanschijn met gejubel. Erkent, dat de Heer God is.
 V. Hij heeft ons gemaakt; niet wij ons zelf. Wij zijn zijn volk en de schapen van zijn weide.
 
-[GradualeF]
-!Ps 76:15; 76:16
-Gij zijt de God, die wonderen doet, Gij alleen. Gij hebt uw macht aan de volkeren doen kennen. 
-V. Door uw arm hebt Gij uw volk verlost, de zonen van Israël en Jozef.
-
 [Evangelium]
 Vervolg ++ van het heilig Evangelie volgens Lucas
 !Luc 18:31-43
@@ -60,3 +55,8 @@ Zij aten en werden ten volle verzadigd, en de Heer had aan hun begeerte voldaan,
 [Postcommunio]
 Wij vragen U, almachtige God, dat wij, die het hemelse voedsel genuttigd hebben, daardoor voor alle tegenslag bespaard mogen blijven.
 $Per Dominum
+
+[GradualeF]
+!Ps 76:15; 76:16
+Gij zijt de God, die wonderen doet, Gij alleen. Gij hebt uw macht aan de volkeren doen kennen. 
+V. Door uw arm hebt Gij uw volk verlost, de zonen van Israël en Jozef.

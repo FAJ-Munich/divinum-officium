@@ -1,9 +1,6 @@
 [Rank]
 Feria V in Octava Ascensionis;;Duplex majus;;4;;ex Tempora/Pasc5-4
 
-[Rank] (rubrica 1960)
-Feria V in hebdomadam post Ascensionem;;Feria;;1;;vide Tempora/Pasc5-4
-
 [Rule]
 ex Tempora/Pasc5-4;
 Feria Te Deum
@@ -24,9 +21,6 @@ Olvasmány szent Pál apostol Efezusiakhoz írott leveléből
 7 Mindegyikünk Krisztus ajándékozásának mértéke szerint részesült a kegyelemben. 
 8 Ezért mondja az Írás: Fölment a magasba, magával vitte a foglyokat, s osztott az embereknek ajándékokat.
 
-[Responsory1]
-@Tempora/Pasc5-4:Responsory1
-
 [Lectio2]
 !Eph 4:9-14
 9 Az pedig, hogy fölment, mi mást jelent, mint hogy előbb le is szállt a lenti földi tájakra? 
@@ -35,9 +29,6 @@ Olvasmány szent Pál apostol Efezusiakhoz írott leveléből
 12 hogy szolgálatuk betöltésére neveljék a szenteket, és fölépítsék Krisztus testét, 
 13 amíg mindnyájan el nem jutunk az Isten Fia hitének és megismerésének egységére, és meglett emberré nem leszünk, elérve Krisztus teljessége életkorának mértékére. 
 14 Akkor majd nem leszünk éretlenek, akiket a megtévesztő emberi tanítás és a tévedésbe ejtő álnokság minden szele magával sodor.
-
-[Responsory2]
-@Tempora/Pasc5-4:Responsory2
 
 [Lectio3]
 !Eph 4:15-21
@@ -48,9 +39,6 @@ Olvasmány szent Pál apostol Efezusiakhoz írott leveléből
 19 Lelkileg eltompulva kicsapongásokra adták magukat, és kapzsiságból mindenféle ocsmányságot űznek. 
 20 Ti azonban nem ezt tanultátok Krisztustól, 
 21 ha valóban őrá hallgattatok és megtanultátok.
-
-[Responsory3]
-@Tempora/Pasc5-4:Responsory3
 
 [Lectio7]
 Evangélium szent Márk Evangélista kőnyvéből

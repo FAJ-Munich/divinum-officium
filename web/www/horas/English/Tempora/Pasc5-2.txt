@@ -1,15 +1,6 @@
 [Rank]
 Feria Tertia in Rogationibus;;Feria;;1.6
 
-[Rank] (rubrica 1960)
-Feria Tertia in Rogationibus;;Feria;;1
-
-[Rule]
-Oratio Dominica
-Una Antiphona
-Feria Te Deum
-Laudes Litania
-
 [Lectio1]
 Lesson from the first letter of St. Peter the Apostle
 !1 Pet 4:1-7

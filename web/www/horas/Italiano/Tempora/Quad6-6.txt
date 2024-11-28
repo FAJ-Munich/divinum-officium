@@ -11,9 +11,6 @@ Capitulum Versum 2 ad Laudes tantum
 Minores sine Antiphona
 Feria
 
-[Oratio Matutinum]
-@Tempora/Quad6-4
-
 [Ant Matutinum]
 In pace * insieme io dormirò e riposerò.;;4
 Egli abiterà * nella tua dimora, riposerà sul tuo santo monte.;;14

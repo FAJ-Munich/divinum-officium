@@ -1,9 +1,6 @@
 [Rank]
 Czwartek V tygodnia po Oktawie Pięćdziesiątnicy;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Z Drugiej Księgi Królewskiej
 !2 Sm 6:1-3

@@ -4,12 +4,6 @@ Feria VI infra Octavam Ascensionis;;Semiduplex;;2;;ex Tempora/Pasc5-4
 [Rank] (rubrica 1960)
 Feria VI post Ascensionem;;Feria;;1;;vide Tempora/Pasc5-4
 
-[Rule]
-ex Tempora/Pasc5-4;
-9 Lectiones
-Doxology=Asc
-Feria Te Deum
-
 [Lectio1]
 Comienza la 2ª Epístola de San Pedro, Apóstol.
 !2 Pe 1:1-4
@@ -17,9 +11,6 @@ Comienza la 2ª Epístola de San Pedro, Apóstol.
 2 Que la gracia y la paz se os multipliquen mediante el conocimiento de Dios y de nuestro Señor Jesús. 
 3 Pues por el divino poder nos han sido otorgadas todas las cosas que tocan a la vida y a la piedad, mediante el conocimiento del que nos llamó por su propia gloria y virtud, 
 4 y nos hizo merced de preciosas y ricas promesas para hacernos así partícipes de la divina naturaleza, huyendo de la corrupción que por la concupiscencia existe en el mundo.
-
-[Responsory1]
-@Tempora/Pasc5-4:Responsory1
 
 [Lectio2]
 !2 Pe 1:5-9
@@ -29,9 +20,6 @@ Comienza la 2ª Epístola de San Pedro, Apóstol.
 8 Si éstas tenéis y en ellas abundáis, no os dejarán ellas ociosos ni estériles en el conocimiento de nuestro Señor Jesucristo. 
 9 Mas el que de ellas carece es de muy corta vista, es un ciego que ha dado al olvido la purificación de sus antiguos pecados.
 
-[Responsory2]
-@Tempora/Pasc5-4:Responsory2
-
 [Lectio3]
 !2 Pe 1:10-15
 10 Por lo cual, hermanos, tanto más procurad asegurar vuestra vocación y elección cuanto que, haciendo así, jamás tropezaréis, 
@@ -40,9 +28,6 @@ Comienza la 2ª Epístola de San Pedro, Apóstol.
 13 pues tengo por deber, mientras habito en esta tienda, estimularos con mis amonestaciones, 
 14 considerando que pronto veré abatida mi tienda, según nos lo ha manifestado nuestro Señor Jesucristo. 
 15 Quiero, pues, que, después de mi partida, en todo tiempo recordéis esto.
-
-[Responsory3]
-@Tempora/Pasc5-4:Responsory3
 
 [Lectio4]
 Sermón de San León, Papa.

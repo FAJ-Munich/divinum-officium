@@ -1,9 +1,6 @@
 [Rank]
 Ss. Innocentium;;Duplex II class cum octava simplici;;5.2;;ex C3
 
-[Rank1960]
-Ss. Innocentium;;Duplex II class;;5;;ex C2
-
 [Rule]
 no Gloria
 Credo
@@ -28,16 +25,16 @@ v. Z ust dzieci i niemowląt zgotowałeś sobie chwałę, Boże, wbrew przeciwni
 Boże, święci Młodziankowie obwieścili Twą chwałę nie słowami, lecz śmiercią; racz wyniszczyć w nas wszystkie źródła grzechów, abyśmy całym życiem wyznawali wiarę w Ciebie, którą głosimy słowami.
 $Per Dominum
 
-[Commemoratio Oratio]
-!W Oktawie Narodzenia
-Dozwól, prosimy Cię, wszechmogący Boże, aby nowe narodzenie się w ciele Jednorodzonego Syna Twego wyzwoliło nas z jarzma grzechu, w którym nas trzyma dawna niewola.
-$Per eundem
-
 [Lectio]
 Czytanie z Księgi Apokalipsy świętego Jana Apostoła.
 !Ap 14:1-5
 !x! Przytaczając piękną wizję św. Jana, Kościół wskazuje na chwałę zgotowaną w niebie tym, którzy urzeczywistniają ideał dziewictwa i męczeństwa.
 W one dni widziałem Baranka stojącego na górze Syjon, a wraz z Nim sto czterdzieści cztery tysiące tych, którzy mają imię Jego i imię Ojca Jego napisane na czołach. I usłyszałem głos z nieba, niby głos wielu wód i niby huk wielkiego gromu, a ton, który dał się słyszeć, podobny był do tonu cytrzystów grających na cytrach. A śpiewali jakby nową pieśń przed tronem i przed czterema zwierzętami, i starszymi. A nikt nie mógł śpiewać onej pieśni, jeno one sto czterdzieści i cztery tysiące, którzy byli wykupieni z ziemi. To są ci, którzy nie pokalali się z niewiastami, bo dziewicami są. Podążają oni za Barankiem, dokądkolwiek idzie. Są oni wykupionymi z ludzi pierwocinami Bogu i Barankowi. W ustach ich nie postało kłamstwo, albowiem są nienaganni przed tronem Bożym.
+
+[Commemoratio Oratio]
+!W Oktawie Narodzenia
+Dozwól, prosimy Cię, wszechmogący Boże, aby nowe narodzenie się w ciele Jednorodzonego Syna Twego wyzwoliło nas z jarzma grzechu, w którym nas trzyma dawna niewola.
+$Per eundem
 
 [Graduale]
 !Ps 123:7-8
@@ -46,18 +43,18 @@ V. Sidło się podarło, a my zostaliśmy uwolnieni. Wspomożenie nasze w imieni
 !Ps 112:1
 Chwalcie, o dziatki, Pana, chwalcie imię Pańskie. Alleluja.
 
-[Tractus]
-!Ps 78:3; 78:10
-Krew Świętych rozlali jak wodę wokół Jeruzalem.
-V. I nie było komu pogrzebać.
-V. Pomścij, o Panie, krew Świętych Twoich, którą wylano na ziemi.
-
 [GradualeP]
 Alleluja, alleluja
 !Ps 112:1
 Chwalcie, o dziatki, Pana, chwalcie imię Pańskie. Alleluja, alleluja.
 !Syr 39:19
 V. Panie, Święci Twoi zakwitną jak lilia i jak woń olejku przed Tobą. Alleluja.
+
+[Tractus]
+!Ps 78:3; 78:10
+Krew Świętych rozlali jak wodę wokół Jeruzalem.
+V. I nie było komu pogrzebać.
+V. Pomścij, o Panie, krew Świętych Twoich, którą wylano na ziemi.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Mateusza.

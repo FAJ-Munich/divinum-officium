@@ -7,9 +7,6 @@ Jób könyvéből
 4 Nézd, parányi vagyok. Mit feleljek neked? A számra teszem a kezem. 
 5 Egyszer beszéltem, de többé nem teszem, vagy másodszor is, de folytatása nem lesz.
 
-[Responsory1]
-@Tempora/091-0:Responsory4
-
 [Lectio2]
 !Job 40:6-11
 6 A viharból szólt az Úr Jóbhoz és azt mondta: 
@@ -19,9 +16,6 @@ Jób könyvéből
 10 Ékesítsd fel magad fönséggel s nagysággal, öltözködj csak fel fénybe, méltóságba! 
 11 Engedd szabadjára haragod árját, nézd meg, ami csak büszke és hajlítsd meg!
 
-[Responsory2]
-@Tempora/091-0:Responsory5
-
 [Lectio3]
 !Job 42:1-6
 1 Jób válaszolt az Úrnak, s így szólt: 
@@ -30,6 +24,3 @@ Jób könyvéből
 4 [Hallgass meg hát, kérlek! Beszélni szeretnék! Kérdezni akarlak, világosíts fel!] 
 5 Azelőtt csak hírből hallottam felőled, most azonban saját szememmel láttalak. 
 6 Ezért visszavonok mindent és megbánok, porban és hamuban!
-
-[Responsory3]
-@Tempora/091-0:Responsory6

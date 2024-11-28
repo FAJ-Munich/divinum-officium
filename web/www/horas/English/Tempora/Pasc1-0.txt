@@ -1,12 +1,6 @@
 [Rank]
 Dominica in Albis in Octava Paschæ;;Duplex majus I. classis;;7;;
 
-[Rule]
-9 Lectiones
-Duplex
-Una Antiphona
-Omit Commemoratio
-
 [Ant 1]
 Now when it was late * the same day, the first of the week, and the doors were shut, where the disciples were gathered together, for fear of the Jews, Jesus came and stood in the midst and said to them: Peace be to you, alleluia.
 
@@ -24,9 +18,6 @@ Lesson from the letter of St. Paul the Apostle to the Colossians
 5 Mortify therefore your members which are upon the earth; fornication, uncleanness, lust, evil concupiscence, and covetousness, which is the service of idols.
 6 For which things the wrath of God cometh upon the children of unbelief,
 7 In which you also walked some time, when you lived in them.
-
-[Responsory1]
-@Tempora/Pasc0-0::s/&Gloria.*//s
 
 [Lectio2]
 !Col 3:8-13

@@ -1,14 +1,8 @@
 [Rank]
 S. Thomae Episcopi et Martyris;;Duplex;;3;;vide C2
 
-[Rank1570]
+[Rank] (rubrica 1570 aut 1888)
 S. Thomae Episcopi et Martyris;;Semiduplex;;2;;vide C2
-
-[Rank1960]
-Die quinta post Nativitatem;;Duplex II class;;5;;ex Sancti/12-25m3
-
-[RankNewcal]
-S. Thomae Episcopi et Martyris;;Duplex optional;;2;;vide C2
 
 [Rule]
 vide C2;
@@ -33,14 +27,14 @@ v. Radujme se všichni v Pánu, oslavujíce svátek na počest svatého Tomáše
 Bože, pro jehož Církev slavný biskup Tomáš padl pod meči bezbožných, uděl, prosime, aby všichni, kteří vzývaji jeho pomoc, dosáhli spasného vyslyšení své prosby.
 $Per Dominum
 
-[Commemoratio Oratio]
-!Připomínka Narození Páně
-@Sancti/12-25m3:Oratio
-
 [Lectio]
 Čtení z listu sv. Pavla Apoštola k Židům
 !Žd 5,1-6
 Bratři, každý velekněz, jsa brán z lidí, ustanovuje se pro lidí ve věcech, které se vztahují k Bohu, aby přinášel dary a oběti za hříchy (a to takový), který by mohl lítost míti nad nevědomými a bloudícími, jsa též sám obklíčen slabostí; a proto má za hříchy obětovati jak za lid, tak za sebe. A nikdo nebere té důstojnosti sobě sám, nýbrž jsa povolán od Boha, jakož i Aron. Tak ani Kristus neosobil si sám důstojnosti velekněze, nýbrž dal mu ji ten, jenž k němu pravil: „Syn můj jsi ty; já dnes zplodil jsem tebe“, jakož i na jiném místě dí: „Ty jsi kněz na věky podle řádu Melchisedechova.“
+
+[Commemoratio Oratio]
+!Připomínka Narození Páně
+@Sancti/12-25m3:Oratio
 
 [Graduale]
 !Sir 44,16

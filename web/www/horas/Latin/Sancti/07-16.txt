@@ -4,9 +4,6 @@ Beatæ Mariæ Virginis de Monte Carmelo;;Duplex majus;;4;;ex C11
 [Rank] (rubrica 196)
 Beatæ Mariæ Virginis de Monte Carmelo;;Simplex;;1.1;;vide C11
 
-[Rank] (rubrica innovata)
-Beatæ Mariæ Virginis de Monte Carmelo;;Duplex optional;;2;;ex C11
-
 [Rule]
 ex C11;
 9 lectiones;

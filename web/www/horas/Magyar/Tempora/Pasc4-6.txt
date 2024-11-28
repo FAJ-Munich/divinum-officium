@@ -1,11 +1,6 @@
 [Rank]
 Sabbato infra Hebdomadam IV post Octavam Paschae;;Feria;;1
 
-[Rule]
-Oratio Dominica
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 Szent Jakab Apostol levelebol
 !Jas 5:1-6

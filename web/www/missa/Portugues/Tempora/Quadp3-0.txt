@@ -35,11 +35,6 @@ _
 V. Vinde à sua presença com transportes de alegria; pois sabeis que o Senhor é verdadeiro Deus.
 V. Foi Ele quem nos criou, e não nós a nós mesmos. Somos, pois, o seu povo, e as ovelhas de que Ele é o pastor.
 
-[GradualeF]
-!Sl 76:15-16
-Ó Deus, só Vós praticais maravilhas! Fizestes conhecer aos povos o vosso poder.
-V. Com o vosso braço forte livrastes o vosso povo os filhos de Israel e de José.
-
 [Evangelium]
 Continuação ++ do santo Evangelho segundo S. Lucas
 !Lc 18:31-43
@@ -60,3 +55,8 @@ Comeram e saciaram-se abundantemente. O Senhor deu-lhes segundo os seus desejos:
 [Postcommunio]
 Vos pedimos, ó Deus, que este alimento celestial que recebemos nos fortifique contra todas as adversidades.
 $Per Dominum
+
+[GradualeF]
+!Sl 76:15-16
+Ó Deus, só Vós praticais maravilhas! Fizestes conhecer aos povos o vosso poder.
+V. Com o vosso braço forte livrastes o vosso povo os filhos de Israel e de José.

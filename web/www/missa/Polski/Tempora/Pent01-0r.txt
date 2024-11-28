@@ -24,16 +24,16 @@ v. Błogosławiona Niech będzie Święta Trójca i nierozdzielna Jedność. Uwi
 Wszechmogący, wieczny Boże, który przez wyznawanie prawdziwej wiary dałeś poznać sługom Twoim chwałę przedwiecznej Trójcy i uwielbiać Jedność w potędze majestatu: spraw, prosimy, by moc tej wiary broniła nas od wszelkich przeciwności.
 $Per Dominum
 
-[Commemoratio Oratio]
-! Wspomnienie 1 Niedzieli po Zesłaniu Ducha Świętego
-Boże, mocy ufających Tobie, wysłuchaj łaskawie błagania nasze, a że ludzka ułomność bez Ciebie uczynić nic nie może, wspomóż nas łaską Swoją, abyśmy pełniąc Twoje przykazania podobali się Tobie wolą i uczynkami.
-$Per Dominum.
-
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Rzymian.
 !Rz 11:33-36
 !x! Tajemnica Trójcy Przenajświętszej, podobnie jak wszystkie tajemnice wiary, nie jest sprzeczna z naszym rozumem, lecz przewyższa nasze zdolności poznawcze.
 O, głębokości bogactw, mądrości i umiejętności Boga! Jakże niepojęte są sądy Jego i niedościgłe drogi Jego. Któż bowiem poznał myśl Pana, albo kto był doradcą Jego? Albo kto dał Mu pierwszy, aby Mu oddać miał. Albowiem z Niego, przez Niego i z Nim jest wszystko: Jemu chwała na wieki. Amen.
+
+[Commemoratio Oratio]
+! Wspomnienie 1 Niedzieli po Zesłaniu Ducha Świętego
+Boże, mocy ufających Tobie, wysłuchaj łaskawie błagania nasze, a że ludzka ułomność bez Ciebie uczynić nic nie może, wspomóż nas łaską Swoją, abyśmy pełniąc Twoje przykazania podobali się Tobie wolą i uczynkami.
+$Per Dominum.
 
 [Graduale]
 !Dn 3:55-56

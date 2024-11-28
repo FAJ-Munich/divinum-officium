@@ -1,12 +1,6 @@
 [Rank]
 Feria Quarta Quatuor Temporum Quadrigeism�;;Feria major;;2
 
-[Rank1960]
-Feria Quarta Quatuor Temporum Quadrigesim�;;Feria major;;3
-
-[RankNewcal]
-Feria IV. infra Hebdomadam I in Quadragesima;;Feria major;;2
-
 [Rule]
 no Gloria
 Suffragium=Sanctorum;Vivis;;
@@ -25,17 +19,6 @@ v. Lembrai-Vos, Senhor, de que a vossa bondade e misericórdia são eternas! Nã
 Senhor, Vos rogamos, ouvi clemente nossas preces e imponde o poder da dextra da vossa majestade contra os nossos inimigos.
 $Per Dominum
 
-[LectioL1]
-Lição do Livro do Êxodo.
-!Ex. 24:12-18
-Naqueles dias, disse o Senhor a Moisés: «Sobe comigo ao monte e permanece lá: dar-te-ei as tábuas de pedra, a Lei e os Mandamentos, que escrevi para que os ensines aos filhos de Israel». Ergueu-se, então, Moisés, acompanhado por seu ministro Josué, e caminhou para o monte de Deus, dizendo antes aos anciãos: «Ficai aqui até que voltemos. Ficam convosco Aarão e Hur. Se, pois, alguma querela houver entre vós, apresentar-lha-eis, para que a resolvam». E Moisés começou a subir o monte. Logo que lá chegou, desceu do céu uma nuvem, cobrindo o monte; e a glória do Senhor permaneceu no Sinai durante seis dias, envolvendo-o sempre a nuvem. No sétimo dia o Senhor no meio da nuvem chamou Moisés. Esta manifestação da glória do Senhor aparecia aos filhos de Israel sob a forma de fogo ardente, no pico do monte. Então Moisés entrou na nuvem, subiu para o monte e aí permaneceu durante quarenta dias e quarenta noites.
-$Deo gratias
-
-[GradualeL1]
-!Sl 24:17-18
-Multiplicaram-se as angústias do meu coração. Senhor, livrai-me das minhas angústias.
-V. Vede a minha humilhação e as minhas fadigas: e perdoai-me todos os pecados.
-
 [OratioL1]
 Olhai benigno, Senhor, Vos pedimos, para a piedade do vosso povo, a fim de que aqueles que mortificam o corpo com a abstinência sejam enriquecidos na alma com o fruto das boas obras.
 $Per Dominum
@@ -44,6 +27,12 @@ $Per Dominum
 Lição do Livro dos Reis.
 !3 Rs. 19:3-8
 Naqueles dias, havendo Elias chegado a Bersabeia, de Judá, deixou aí o seu servo e caminhou no deserto um dia. Então, sentou-se sob um junípero e pediu ao Senhor a morte, dizendo: «Já me basta, Senhor; tirai-me a vida, pois não sou melhor do que meus pais». E deitou-se no chão, adormecendo à sombra do junípero. Eis que um Anjo do Senhor lhe tocou e disse: «Levanta-te e come». Ele olhou e viu à sua cabeceira um pão cozido na cinza e um vaso de água. Comeu, bebeu e depois adormeceu. Voltou segunda vez o Anjo do Senhor, acordou-o e disse-lhe: «Levanta-te e come; pois um longo caminho te espera ainda». Levantou-se, comeu, bebeu e caminhou com o vigor daquele pão durante quarenta dias e quarenta noites até ao Horeb, a montanha do Senhor.
+
+[LectioL1]
+Lição do Livro do Êxodo.
+!Ex. 24:12-18
+Naqueles dias, disse o Senhor a Moisés: «Sobe comigo ao monte e permanece lá: dar-te-ei as tábuas de pedra, a Lei e os Mandamentos, que escrevi para que os ensines aos filhos de Israel». Ergueu-se, então, Moisés, acompanhado por seu ministro Josué, e caminhou para o monte de Deus, dizendo antes aos anciãos: «Ficai aqui até que voltemos. Ficam convosco Aarão e Hur. Se, pois, alguma querela houver entre vós, apresentar-lha-eis, para que a resolvam». E Moisés começou a subir o monte. Logo que lá chegou, desceu do céu uma nuvem, cobrindo o monte; e a glória do Senhor permaneceu no Sinai durante seis dias, envolvendo-o sempre a nuvem. No sétimo dia o Senhor no meio da nuvem chamou Moisés. Esta manifestação da glória do Senhor aparecia aos filhos de Israel sob a forma de fogo ardente, no pico do monte. Então Moisés entrou na nuvem, subiu para o monte e aí permaneceu durante quarenta dias e quarenta noites.
+$Deo gratias
 
 [Graduale]
 !Sl 24:17-18, 1-4.
@@ -71,6 +60,11 @@ Ouvi a minha súplica: atendei ao clamor da minha prece, ó meu Rei e meu Deus; 
 [Postcommunio]
 Permiti, Senhor, que pela recepção do vosso Sacramento sejamos lavados das nossas faltas ocultas e livres das ciladas dos nossos inimigos.
 $Per Dominum
+
+[GradualeL1]
+!Sl 24:17-18
+Multiplicaram-se as angústias do meu coração. Senhor, livrai-me das minhas angústias.
+V. Vede a minha humilhação e as minhas fadigas: e perdoai-me todos os pecados.
 
 [Super populum]
 !Oração sobre o povo

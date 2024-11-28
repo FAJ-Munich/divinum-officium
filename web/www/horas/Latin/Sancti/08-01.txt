@@ -53,13 +53,6 @@ $Per Dominum
 _
 @Sancti/02-22:Commemoratio4:s/\$Per Dominum//
 
-[Commemoratio]
-!Commemoratio Ss. Mártyrum Machabæorum
-@Commune/C3:Oratio proper
-$Oremus
-Fratérna nos, Dómine, Mártyrum tuórum coróna lætíficet: quæ et fídei nostræ prǽbeat increménta virtútum; et multíplici nos suffrágio consolétur.
-$Per Dominum
-
 [Hymnus Matutinum]
 @Sancti/02-22:Hymnus Vespera
 
@@ -137,13 +130,6 @@ Si tam medicábilis fuit obumbrátio visitántis, quanto magis caténa vinciént
 &Gloria
 R. Et ego dico tibi, quia tu es Petrus, et super hanc petram ædificábo Ecclésiam meam.
 
-[Lectio93]
-!Commemoratio pro sanctis Machabeis
-Sermo sancti Gregório Nazianzéni
-!Orátio 20 in Machabæos
-Quidnam Machabǽi? Horum enim nómine dies festus præsénti frequéntia celebrátur. Qui, etsi apud multos non sunt in honóre, quod illud certámen post Christum non suscepérunt; tamen digni sunt qui ab ómnibus honoréntur, quia pro pátriis légibus et institútis fortes constantésque se præbuérunt. Nam qui martýrium subiére ante Christi passiónem, quid factúri erant, si post Christum persecutiónem passi fuíssent, ejúsque mortem, nostræ salútis causa suscéptam, ad imitándum propósitam habuíssent? Quorum enim, nullo propósito exémplo, talis tántaque virtus fuit; an non ii, exémplum illud intuéntes, fórtius in certámen descendíssent? Quin étiam mýstica quædam et occúlta rátio, mihi quidem atque ómnibus Dei amatóribus valde probábilis est, néminem eórum qui ante Christi advéntum martýrio consummáti sunt, id sine fide in Christum cónsequi potuísse.
-&teDeum
-
 [Ant Laudes]
 @:Ant Vespera:s/;;116//
 
@@ -170,7 +156,7 @@ Quidnam Machabǽi? Horum enim nómine dies festus præsénti frequéntia celebr�
 $Deo gratias
 
 [Ant Vespera 3]
-@:Ant Vespera:s/\./_;;109/s s/\./_;;112/ s/\./_;;115/ s/\./_;;125/ s/116/138/ s/_/./g
+@:Ant Vespera:s/$/_/gm s/_/;;109/s s/_/;;112/ s/_/;;115/ s/_/;;125/ s/116/138/
 
 [Ant 3]
 Solve, * jubénte Deo, terrárum, Petre, caténas, qui facis ut páteant cæléstia regna beátis.

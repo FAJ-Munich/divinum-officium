@@ -18,13 +18,6 @@ La bienaventurada Virgen María nos bendiga en unión de su divino Hijo.
 La Virgen de las vírgenes interceda por nosotros delante del Señor.
 Por la Virgen Madre nos conceda el Señor la salud y la paz.
 
-[Versum 2]
-V. Bendita Tú eres entre las mujeres. 
-R. Y bendito el fruto de tu vientre.
-
-[Ant 2]
-Bienaventurada Madre de Dios, María, * Virgen perpetua, templo del Señor, sagrario del Espíritu Santo; Tú sola fuiste acepta al Señor por especial manera. Ruega por el pueblo, interviene en favor del clero, intercede por el devoto sexo femenino.
-
 [Lectio M01]
 De la carta de S. Ambrosio, Obispo, al Papa Siricio. 
 !Epístola 81.
@@ -102,3 +95,10 @@ Del Libro de los Deberes de S. Ambrosio, Obispo.
 !Lib. 1, cap. 18.
 Buen compañero y protector de la castidad es el recato. Es el primero en glorificar ante los lectores del Evangelio a la Madre del Señor ya en el comienzo mismo del pasaje que la da a conocer; como testigo fidedigno, la declara merecedora de semejante distinción por el mero hecho de presentarla sola en su celda, permaneciendo callada al dirigirle el Ángel la palabra, turbándose al verle entrar y cubriéndose de rubor su rostro virginal ante el aspecto varonil de aquel forastero. Esto explica que ella, a pesar de su humildad, se abstuviera, por rubor, de corresponder a su saludo y no le respondiera cosa alguna hasta saber que se trataba de lograr su consentimiento para ser Madre de Dios; si entonces habló, lo hizo para enterarse de cómo se realizaría este misterio, no para replicar al Ángel.
 &teDeum
+
+[Versum 2]
+V. Bendita Tú eres entre las mujeres. 
+R. Y bendito el fruto de tu vientre.
+
+[Ant 2]
+Bienaventurada Madre de Dios, María, * Virgen perpetua, templo del Señor, sagrario del Espíritu Santo; Tú sola fuiste acepta al Señor por especial manera. Ruega por el pueblo, interviene en favor del clero, intercede por el devoto sexo femenino.

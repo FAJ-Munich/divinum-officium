@@ -8,6 +8,7 @@ Omit Hymnus Preces Suffragium;
 Minores sine Antiphona;
 Capitulum Versum 2;
 Psalmi Dominica;
+No secunda Vespera
 
 [Oratio]
 Concéde, quǽsumus, omnípotens Deus: ut, qui festa paschália venerándo égimus, per hæc contíngere ad gáudia ætérna mereámur.

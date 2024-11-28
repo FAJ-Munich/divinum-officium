@@ -1,10 +1,6 @@
 [Rank]
 Sabbato infra Hebdomadam III post Octavam Paschæ;;Feria;;1
 
-[Rule]
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 Del libro del Apocalipsis del Apóstol San Juan
 !Ap 22:1-7
@@ -16,9 +12,6 @@ Del libro del Apocalipsis del Apóstol San Juan
 6 Y me dijo: Estas son las palabras fieles y verdaderas, y el Señor, Dios de los espíritus de los profetas, envió su ángel para mostrar a sus siervos las cosas que están para suceder pronto. 
 7 He aquí que vengo presto. Bienaventurado el que guarda las palabras de la profecía de este libro.
 
-[Responsory1]
-@Tempora/Pasc3-0:Responsory7
-
 [Lectio2]
 !Ap 22:8-12
 8 Y yo, Juan, oí y vi estas cosas. Cuando las oí y vi, caí de hinojos para postrarme a los pies del ángel que me las mostraba. 
@@ -26,9 +19,6 @@ Del libro del Apocalipsis del Apóstol San Juan
 10 Y me dijo: No selles los discursos de la profecía de este libro, porque el tiempo está cercano. 
 11 El que es injusto continúe aún en sus injusticias, el torpe prosiga en sus torpezas, el justo practique aún la justicia y el santo santifíquese más. 
 12 He aquí que vengo presto, y conmigo mi recompensa, para dar a cada uno según sus obras.
-
-[Responsory2]
-@Tempora/Pasc3-1:Responsory2
 
 [Lectio3]
 !Ap 22:13-21

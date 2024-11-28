@@ -1,9 +1,6 @@
 [Rank]
 Septem Dolorum Beatæ Mariæ Virgine;;Duplex majus;;4.1
 
-[Rank] (rubrica 196)
-Septem Dolorum Beatæ Mariæ Virgine;;Commemoratio;;1
-
 [Rule]
 no Gloria
 Credo
@@ -38,11 +35,6 @@ _
 De heilige Maria, Koningin van de hemel, stond vol smarten naast het Kruis van onze Heer Jezus Christus.
 !Thren 1:12
 O vos omnes, qui tránsitis per viam, atténdite et vidéte, si est dolor sicut dolor meus.
-
-[GradualeA]
-Een beeld van droefheid zijt Gij in uw tranen, Maagd Maria, zoals Gij naast het Kruis staat van onze Heer Jezus Christus, uw Zoon, onze Verlosser.
-V. Maagd, Moeder van God, Hij, die de gehele wereld niet kan omvatten, verduurt deze straf aan het Kruis. Hij, de Gever van het leven, die mens is geworden. Alleluia, alleluia.
-V. De heilige Maria, Koningin van de hemel, stond vol smarten naast het Kruis van onze Heer Jezus Christus. Alleluia.
 
 [GradualeP]
 Alleluia, alleluia.
@@ -147,7 +139,7 @@ $Qui vivis
 !Pro Feria
 @Tempora/Quad5-5Feria:Secreta
 
-[Communio] 
+[Communio]
 Gelukkige zintuigen van de heilige Maagd Maria, die zonder te sterven, de palm van het martelaarschap verdienden onder het Kruis van onze Heer.
 
 [Postcommunio]
@@ -157,3 +149,8 @@ $Qui vivis
 [Commemoratio Postcommunio]
 !Pro Feria
 @Tempora/Quad5-5Feria:Postcommunio
+
+[GradualeA]
+Een beeld van droefheid zijt Gij in uw tranen, Maagd Maria, zoals Gij naast het Kruis staat van onze Heer Jezus Christus, uw Zoon, onze Verlosser.
+V. Maagd, Moeder van God, Hij, die de gehele wereld niet kan omvatten, verduurt deze straf aan het Kruis. Hij, de Gever van het leven, die mens is geworden. Alleluia, alleluia.
+V. De heilige Maria, Koningin van de hemel, stond vol smarten naast het Kruis van onze Heer Jezus Christus. Alleluia.

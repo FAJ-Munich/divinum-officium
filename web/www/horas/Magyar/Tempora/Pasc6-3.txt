@@ -4,12 +4,6 @@ Feria IV infra Octavam Ascensionis;;Semiduplex;;2;;ex Tempora/Pasc5-4
 [Rank] (rubrica 1960)
 Feria IV post Ascension;;Feria;;1;;vide Tempora/Pasc5-4
 
-[Rule]
-ex Tempora/Pasc5-4;
-9 Lectiones
-Doxology=Asc
-Feria Te Deum
-
 [Lectio1]
 Olvasmány szent János apostol második leveléből
 !2 John 1:1-5
@@ -19,9 +13,6 @@ Olvasmány szent János apostol második leveléből
 4 Igen örültem, hogy gyermekeid közt olyanokat találtam, akik az Igazságban élnek az Atyától kapott parancs szerint. 
 5 És most kérlek, Úrnő, nem mintha új parancsról írnék neked, hisz ez kezdet óta parancsunk: Szeressük egymást!
 
-[Responsory1]
-@Tempora/Pasc5-4:Responsory1
-
 [Lectio2]
 !2 John 1:6-9
 6 Ez a szeretet azt jelenti, hogy parancsai szerint éljünk. Ez hát a parancs, mint ahogy kezdettől fogva hallottátok, hogy éljetek szeretetben. 
@@ -29,18 +20,12 @@ Olvasmány szent János apostol második leveléből
 8 Vigyázzatok magatokra, nehogy elveszítsétek, amit már megszereztetek, hanem teljes bért kapjatok. 
 9 Aki ezen túlmegy, és nem marad meg Krisztus tanításában, nem mondhatja magáénak az Istent. De aki kitart a tanításban, az Atyát is, a Fiút is magáénak mondhatja.
 
-[Responsory2]
-@Tempora/Pasc5-4:Responsory2
-
 [Lectio3]
 !2 John 1:10-13
 10 Ha valaki nem ezzel a tanítással megy hozzátok, még csak ne is köszönjetek neki. 
 11 Mert aki köszön neki, részes gonosz tetteiben. 
 12 Még sok mindenről tudnék írni, de nem akarom papírra és tintára bízni. Remélem, hogy egyszer eljutok hozzátok, és élőszóval mondom el, hogy örömünk teljes legyen. 
 13 Üdvözölnek kiválasztott nővéred gyermekei.
-
-[Responsory3]
-@Tempora/Pasc5-4:Responsory3
 
 [Lectio7]
 Evangélium szent Márk Evangélista kőnyvéből

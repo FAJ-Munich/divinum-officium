@@ -1,12 +1,6 @@
 [Rank]
 Dominica XXII Post Pentecosten;;Semiduplex;;5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-
 [Oratio]
 Isten, oltalmunk és erősségünk, figyelj Egyházad buzgó könyörgésére, és te, a buzgóságnak szerzője, add, hogy amit hittel kérünk, azt valóban el is nyerjük.
 $Per Dominum

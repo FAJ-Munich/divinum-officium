@@ -32,11 +32,6 @@ Senhor, abalastes e arruinastes a terra.
 V. Reparai as suas ruínas, porque ela está abalada.
 V. Que os vossos escolhidos possam fugir diante do arco armado contra eles, e que sejam livres.
 
-[GradualeF]
-!Sl 82:19; 82:14
-Saibam as nações que o vosso nome é Deus; que só Vós sois o Altíssimo em todo o mundo.
-V. Ó meu Deus, tornai os meus inimigos semelhantes à roda, que gira sem cessar, ou à palha, que o vento agita e arrebata.
-
 [Evangelium]
 Continuação ++ do santo Evangelho segundo S. Lucas
 !Lc 8:4-15
@@ -57,3 +52,8 @@ Subirei ao altar de Deus: de Deus, que é a alegria da minha juventude.
 [Postcommunio]
 Deus omnipotente, humildemente Vos rogamos, concedei àqueles que alimentais com vossos sacramentos a graça de Vos servirem com uma conduta que Vos seja agradável.
 $Per Dominum
+
+[GradualeF]
+!Sl 82:19; 82:14
+Saibam as nações que o vosso nome é Deus; que só Vós sois o Altíssimo em todo o mundo.
+V. Ó meu Deus, tornai os meus inimigos semelhantes à roda, que gira sem cessar, ou à palha, que o vento agita e arrebata.

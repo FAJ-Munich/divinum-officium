@@ -1,9 +1,6 @@
 [Rank]
 Feria Quarta Quattuor Temporum Septembris;;Feria major;;2
 
-[Rank1960]
-Feria Quarta Quattuor Temporum Septembris;;Feria major;;4
-
 [Rule]
 LectioL1
 
@@ -19,16 +16,6 @@ v. Sing joyfully to God our strength; acclaim the God of Jacob. Take up a pleasa
 May our frailty, we beseech You, O Lord, find support in the help of Your mercy; so that what is marred by its own nature may be restored by Your grace.
 $Per Dominum
 
-[LectioL1]
-!Amos 9:13-15
-Thus says the Lord God: Yes, days are coming, when the plowman shall overtake the reaper, and the vintager, him who sows the seed; the juice of grapes shall drip down the mountains, and all the hills shall run with it. I will bring about the restoration of My people Israel; they shall rebuild and inhabit their ruined cities, plant vineyards and drink the wine, set out gardens and eat the fruits. I will plant them upon their own ground; never again shall they be plucked from the land I have given them, say I, the Lord, your God.
-$Deo gratias
-
-[GradualeL1]
-!Ps 112:5-7
-Who is like the Lord, our God, Who is enthroned on high and looks upon the heavens and the earth below?
-V. He raises up the lowly from the dust; from the dunghill He lifts up the poor.
-
 [OratioL1]
 O Lord, we beseech You, grant to Your praying household that, as they fast from bodily food, they may also abstain mentally from sin.
 $Per Dominum
@@ -37,6 +24,11 @@ $Per Dominum
 Lesson from the book of Esdra
 !2 Esd. 8:1-10
 In those days, all the people were gathered together as one man, to the street which is before the water-gate, and they spoke to Esdras the scribe, to bring the book of the law of Moses, which the Lord had commanded to Israel. Then Esdras the priest brought the law before the multitude of men and women, and all those that could understand, on the first day of the seventh month. And he read it plainly in the street that was before the water-gate, from the morning until midday, before the men and the women and all those that could understand; and the ears of all the people were attentive to the book. And Esdras the scribe stood upon a step of wood, which he made to speak upon. And he opened the book before all the people, for he was above all the people; and when he had opened it, all the people stood. And Esdras blessed the Lord the great God, and all the people answered, Amen, Amen, lifting up their hands: and they bowed down, and adored God, with their faces to the ground. Now the Levites made silence among the people to hear the law; and the people stood in their place: and they read in the book of the law of God distinctly and plainly to be understood; and they understood when it was read. And Nehemias, and Esdras the priest and scribe, and the Levites who interpreted to all the people, said, This is a holy day to the Lord our God; do not mourn nor weep. And he said to them, Go, eat fat meats and drink sweet wine, and send portions to them that have not prepared for themselves; because it is the holy day of the Lord, and be not sad, for the joy of the Lord is our strength.
+
+[LectioL1]
+!Amos 9:13-15
+Thus says the Lord God: Yes, days are coming, when the plowman shall overtake the reaper, and the vintager, him who sows the seed; the juice of grapes shall drip down the mountains, and all the hills shall run with it. I will bring about the restoration of My people Israel; they shall rebuild and inhabit their ruined cities, plant vineyards and drink the wine, set out gardens and eat the fruits. I will plant them upon their own ground; never again shall they be plucked from the land I have given them, say I, the Lord, your God.
+$Deo gratias
 
 [Graduale]
 !Ps 32:12, 6
@@ -63,3 +55,8 @@ Eat fat meats, and drink sweet wine, and send portions to those who have not pre
 [Postcommunio]
 In partaking of Your heavenly gifts, we humbly entreat You, O Lord, that by Your grace we may receive what, through Your bounty, we perform in diligent service.
 $Per Dominum
+
+[GradualeL1]
+!Ps 112:5-7
+Who is like the Lord, our God, Who is enthroned on high and looks upon the heavens and the earth below?
+V. He raises up the lowly from the dust; from the dunghill He lifts up the poor.

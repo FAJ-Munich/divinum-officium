@@ -1,10 +1,6 @@
 [Rank]
 Dominica II Post Pascha;;Semiduplex;;5;;
 
-[Rule]
-9 Lectiones
-Una Antiphona
-
 [Lectio1]
 Olvasmány az Apostolok Cselekedeiből
 !Acts 13:13-20
@@ -17,9 +13,6 @@ Olvasmány az Apostolok Cselekedeiből
 19 Hét népet kiirtott Kánaán földjén, és földjüket nekik adta birtokul.
 20 Közben körülbelül négyszázötven év telt el. Aztán bírákat adott egészen Sámuel prófétáig.
 
-[Responsory1]
-@Tempora/Pasc0-2:Responsory1
-
 [Lectio2]
 !Acts 13:21-25
 21 Ekkor királyt kívántak, és az Isten negyven esztendőre Sault adta nekik, Kis fiát, ezt a Benjamin törzséből származó férfiút.
@@ -27,9 +20,6 @@ Olvasmány az Apostolok Cselekedeiből
 23 Ígéretéhez híven az ő utódai közül támasztotta Isten Izraelnek megváltóul Jézust.
 24 Föllépése előtt János a bűnbánat keresztségét hirdette Izrael egész népének.
 25 Amikor János teljesítette küldetését, kijelentette: Nem az vagyok, akinek véltek, de már a nyomomban van, akinek arra sem vagyok méltó, hogy lábán a saruját megoldjam.
-
-[Responsory2]
-@Tempora/Pasc0-2:Responsory2
 
 [Lectio3]
 !Acts 13:26-33
@@ -42,18 +32,6 @@ Olvasmány az Apostolok Cselekedeiből
 32 Így mi azt az ígéretet hirdetjük nektek, melyet az Isten az atyáknak tett,
 33 amint azt ő utódaiknak teljesítette, amikor feltámasztotta Jézust. Ez van a második zsoltárban megírva: Fiam vagy, ma nemzettelek.
 
-[Responsory3]
-@Tempora/Pasc0-3:Responsory1
-
-[Responsory4]
-@Tempora/Pasc0-3:Responsory2
-
-[Responsory5]
-@Tempora/Pasc0-5:Responsory1
-
-[Responsory6]
-@Tempora/Pasc0-5:Responsory2
-
 [Lectio7]
 Evangélium szent János Apostol kőnyvéből
 !John 10:11-16
@@ -62,12 +40,6 @@ _
 Homily by Pope St Gregory (the Great.)
 !14th on the Gospels.
 Dearly beloved brethren, ye have heard from the Holy Gospel what is at once your instruction, and our danger. Behold, how He Who, not by the varying gifts of nature, but of the very essence of His being, is Good, behold how He saith : I am the Good Shepherd. And then He saith what is the character of His goodness, even of that goodness of His which we must strive to copy : The Good Shepherd giveth His life for the Sheep. As He had foretold, even so did He; as He had commanded, so gave He ensample. The Good Shepherd gave His life for the sheep, and made His Own Body and His Own Blood to be our Sacramental Food, pasturing upon His Own Flesh the sheep whom He had bought.
-
-[Responsory7]
-@Tempora/Pasc0-6:Responsory1
-
-[Responsory8]
-@Tempora/Pasc0-1:Responsory2
 
 [Capitulum Laudes]
 !1 Pet 2:21-22

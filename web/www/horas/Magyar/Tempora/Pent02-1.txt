@@ -4,11 +4,6 @@ Feria Secunda infra Octavam Corporis Christi;;Semiduplex II class;;5;;ex Tempora
 [Rank] (rubrica 196 aut rubrica 1955)
 Feria II infra Hebdomadam II post Octavam Pentecostes;;Feria;;1
 
-[Rule]
-ex Tempora/Pent01-4;
-9 lectiones
-Doxology=Corp
-
 [Lectio1]
 Olvasmány Sámuel első könyvéből
 !1 Sam 5:1-5
@@ -18,17 +13,11 @@ Olvasmány Sámuel első könyvéből
 4 Ám amikor a következő nap korán fölkeltek, lám, Dágon újra ott feküdt arccal a föld felé fordulva az Úr ládája előtt. Dágon feje és két keze ott volt levágva a küszöbön,
 5 csak a törzse maradt meg Dágonnak.
 
-[Responsory1 1960]
-@Tempora/Pent03-1Feria:Responsory1
-
 [Lectio2]
 !1 Sam 5:6-8
 6 Az Úr keze súlyosan ránehezedett Asdód lakóira. Rémületbe estek, mert daganattal sújtotta őket, Asdódot és környékét. 
 7 Amikor Asdód lakói látták, mi történt, kijelentették: „Izrael Istenének ládája nem maradhat tovább körünkben, mert keze súlyosan ránk és istenünkre, Dágonra nehezedett.” 
 8 Ezért mind összehívták a filiszteusok vezéreit, és megkérdezték tőlük: „Mit csináljunk Izrael Istenének ládájával?” Így határoztak: „Gátba kell vinni Izrael Istenének ládáját.”
-
-[Responsory2 1960]
-@Tempora/Pent03-1Feria:Responsory2
 
 [Lectio3]
 !1 Sam 5:8-12
@@ -37,9 +26,6 @@ Olvasmány Sámuel első könyvéből
 10 Ekkor Ekronba küldték a ládát. Amikor Isten ládája Ekronba ért, Ekron lakói felkiáltottak: „Azért hozták ide Izrael Istenének ládáját, hogy egész népemmel együtt elpusztítsanak!” 
 11 Aztán mind összehívták a filiszteusok vezéreit és így szóltak hozzájuk: „Vigyétek vissza Izrael Istenének ládáját a helyére, és ne pusztítsatok el engem s népemet.” Mert nagy halálfélelem uralkodott az egész városban, annyira rájuk nehezedett az Úr keze. 
 12 Azokon az embereken ugyanis, akik nem haltak meg, daganatok keletkeztek, és a város jajkiáltása az égig hatolt.
-
-[Responsory3 1960]
-@Tempora/Pent03-1Feria:Responsory3
 
 [Lectio7]
 Evangélium szent János Apostol kőnyvéből

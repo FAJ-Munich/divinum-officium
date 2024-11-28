@@ -1,12 +1,6 @@
 [Rank]
 Dominica VI Post Pentecosten;;Semiduplex;;5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-
 [Oratio]
 Hatalmas Isten, kié minden jó, ültesd szívünkbe a neved iránt való szereteted és növeld bennünk a vallásosságot, hogy így, ami bennünk jó, azt tápláld, és amit tápláltál, azt atyai jóságod buzgóságával őrizd meg.
 $Per Dominum
@@ -45,9 +39,3 @@ _
 Homily by St Ambrose, Bishop of Milan.
 !Bk. vi. on Luke ix.
 After that that woman, who is a type of the Church, was healed of the issue of blood (Luke viii. 43-48) after that the Lord had sent His disciples to preach the kingdom of God (ix. 2), His heavenly tenderness gave food. But consider who they were unto whom He gave it. He gave it not to such as dwell at ease, not to men in cities, not to such as sit in places of worldly splendour, but to men seeking Christ in a desert place. Such as are not given to niceness are they whom Christ receiveth, and unto whom the Word of God speaketh, not of earthly things, but of the kingdom of God (11.) And if any bear in them the running sores of fleshly passion, He healeth them.
-
-[Responsory7]
-@Tempora/Pent01-3:Responsory1
-
-[Responsory8]
-@Tempora/Pent01-0:Responsory8

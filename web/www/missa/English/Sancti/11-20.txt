@@ -1,13 +1,10 @@
 [Rank]
-S. Felicis de Valois Confessoris;;Duplex;;3;;vide C5b
+St. Felix de Valois, Confessor;;Duplex;;3;;vide C5b
 
 [Rule]
 vide C5b;
 Gloria
 
 [Oratio]
-O God, Who by heavenly inspiration graciously called forth blessed Felix, Your~
-Confessor, from the desert to the work of ransoming captives; grant, we beseech~
-You, that by his intercession, and liberated by Your grace from the captivity of~
-our sins, we may be led into our heavenly fatherland.
+O God, Who by heavenly inspiration graciously called forth blessed Felix, Your Confessor, from the desert to the work of ransoming captives; grant, we beseech You, that by his intercession, and liberated by Your grace from the captivity of our sins, we may be led into our heavenly fatherland.
 $Per Dominum
