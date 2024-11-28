@@ -65,6 +65,16 @@ II. classis
 I. classis
 I. classis
 
+[Festa] (rubrica cisterciense)
+none
+iij. Lect. et M.
+xij. Lect. et M.
+MM. min.
+MM. maj.
+Serm. min.
+Serm. maj.
+Serm. maj.
+
 [Dominicae]
 Duplex I. classis
 Semiduplex Dominica I. classis
@@ -101,3 +111,6 @@ ordinis
 
 [classis]
 classis
+
+[privilegiata]
+privilegiata
