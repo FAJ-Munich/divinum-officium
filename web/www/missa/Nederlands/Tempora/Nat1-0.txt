@@ -19,14 +19,14 @@ v. Terwijl alles in diepe stilte gehuld was en de nacht was gekomen tot de helft
 Almachtige, eeuwige God, richt onze daden naar uw welbehagen, opdat wij in de naam van uw welbeminde Zoon meer goede daden mogen stellen.
 $Qui tecum
 
+[Commemoratio Oratio]
+!Pro Octava Nativitatis:
+@Sancti/12-25m3:Oratio
+
 [Lectio]
 Lezing uit de Brief van de heilige Apostel Paulus aan de Galaten
 !Gal 4:1-7
 Broeders, al de tijd, dat een erfgenaam onmondig is, verschilt hij niets van een slaaf, al is hij ook de heer van alles. Maar hij staat onder voogden en beheerders tot aan de tijd, die zijn vader heeft vastgesteld. Zo stonden ook wij - toen wij nog onmondig waren - als slaven onder de beginselen der wereld. Maar toen de volheid der tijden kwam, zond God zijn Zoon, geboren uit een vrouw, geboren onder de Wet, om hen, die stonden onder de Wet, vrij te kopen, opdat wij zouden worden aangenomen tot zonen. Welnu, omdat gij zonen zijt, heeft God de Geest van zijn Zoon neergezonden in uw harten, en Hij roept: Abba - Vader. Zodoende is men geen slaaf meer, maar zoon; doch wie zoon is, is ook erfgenaam - door God.
-
-[Commemoratio Oratio]
-!Pro Octava Nativitatis:
-@Sancti/12-25m3:Oratio
 
 [Graduale]
 !Ps 44:3; 44:2

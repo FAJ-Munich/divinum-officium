@@ -17,29 +17,24 @@ Sorge Dio, i suoi nemici si disperdono; e quelli che lo odiano, fuggono dal suo 
 &Gloria
 v. O Dio, quando andavi alla testa del tuo popolo, aprendogli la strada e dimorando con esso, alleluia; la terra tremò ed i cieli stessi si sciolsero, alleluia, alleluia.
 
-[LectioL1]
-Dagli Atti degli Apostoli.
-!Act 2:14-21.
-In quei giorni, Pietro, levatosi su con gli altri undici, alzò la voce e disse loro: «Uomini di Giudea, e voi tutti abitanti di Gerusalemme, questo vi sia chiaro, e date ascolto alle mie parole. Costoro certo non sono ubriachi, come voi pensate, non essendo che la terza ora del giorno. Si avvera invece quanto disse il profeta Gioele: «E avverrà negli ultimi giorni (dice il Signore) che io diffonderò il mio Spirito sopra tutti gli uomini, e i vostri figli e le vostre figlie profeteranno, i vostri giovani avranno delle visioni ed i vostri vecchi dei sogni. Sopra i miei servi e sopra le mie serve diffonderò il mio Spirito, in quei giorni e profeteranno. E farò prodigi su in cielo e segni in terra, sangue e fuoco e vortici di fumo. Il sole sarà mutato in tenebre e la luna in sangue, prima che venga il giorno grande e glorioso del Signore. Allora chiunque avrà invocato il nome del Signore sarà salvo»». Alleluia.
-$Deo gratias
-
-[GradualeL1]
-Alleluia.
-!Ps 32:6
-Una parola del Signore creò i cieli, e un soffio della sua bocca li ornò tutti.
+[Oratio]
+O Signore, te ne preghiamo: illumini le menti nostre il Paràclito, che da te procede; e le addentri in ogni verità,
+$Qui tecum eiusdem
 
 [OratioL1]
 O Onnipotente e misericordioso Iddio, concedi, te ne preghiamo, che, venendo lo Spirito Santo a dimorare in noi, ci renda tempio della sua gloria.
 $Per Dominum eiusdem
 
-[Oratio]
-O Signore, te ne preghiamo: illumini le menti nostre il Paràclito, che da te procede; e le addentri in ogni verità,
-$Qui tecum eiusdem
-
 [Lectio]
 Dagli Atti degli Apostoli.
 !Acts 5:12-16
 In quei giorni: Avvenivano per mezzo degli Apostoli molti segni e prodigi nel popolo. E tutti se ne stavano riuniti nel portico di Salomone. Degli altri poi nessuno ardiva unirsi con essi; ma il popolo li elogiava. E sempre più cresceva la moltitudine di quelli, uomini e donne, che credevano nel Signore: tanto che portavan fuori nelle piazze gli infermi e li mettevan su barelle e strapunti, affinché quando Pietro passava, almeno l'ombra sua ne coprisse qualcuno, e fossero liberati dalle loro infermità. Accorreva pure a Gerusalemme molta gente dalle città vicine, portando malati e tormentati da spiriti immondi, e tutti eran guariti.
+
+[LectioL1]
+Dagli Atti degli Apostoli.
+!Act 2:14-21.
+In quei giorni, Pietro, levatosi su con gli altri undici, alzò la voce e disse loro: «Uomini di Giudea, e voi tutti abitanti di Gerusalemme, questo vi sia chiaro, e date ascolto alle mie parole. Costoro certo non sono ubriachi, come voi pensate, non essendo che la terza ora del giorno. Si avvera invece quanto disse il profeta Gioele: «E avverrà negli ultimi giorni (dice il Signore) che io diffonderò il mio Spirito sopra tutti gli uomini, e i vostri figli e le vostre figlie profeteranno, i vostri giovani avranno delle visioni ed i vostri vecchi dei sogni. Sopra i miei servi e sopra le mie serve diffonderò il mio Spirito, in quei giorni e profeteranno. E farò prodigi su in cielo e segni in terra, sangue e fuoco e vortici di fumo. Il sole sarà mutato in tenebre e la luna in sangue, prima che venga il giorno grande e glorioso del Signore. Allora chiunque avrà invocato il nome del Signore sarà salvo»». Alleluia.
+$Deo gratias
 
 [Graduale]
 Allelúia, allelúia. 
@@ -68,3 +63,8 @@ Vi lascio la pace, alleluia; vi dò la mia pace, alleluia, alleluia.
 [Postcommunio]
 Dopo aver ricevuti questi celesti sacramenti, supplichiamo, o Signore, la tua misericordia, affinché raggiungiamo nei gaudi eterni ciò che abbiamo celebrato nel tempo.
 $Per Dominum.
+
+[GradualeL1]
+Alleluia.
+!Ps 32:6
+Una parola del Signore creò i cieli, e un soffio della sua bocca li ornò tutti.

@@ -1,3 +1,6 @@
+[Rank]
+0
+
 [Rule]
 Gloria
 Credo

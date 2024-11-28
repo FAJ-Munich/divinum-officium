@@ -10,6 +10,11 @@ no Credo
 LectioL5
 Suffr=Maria1;Ecclesiae,Papa;;
 
+[Lectio]
+Olvasmány szent Pál apostol Tesszalonikaiakhoz irott második leveléből
+!2 Thess. 2:1-8
+v. Van még egy kérésünk: Urunk, Jézus Krisztus eljövetelét és vele való egyesülésünket illetően ne veszítsétek el rögtön józanságotokat,  és sem lelki kinyilatkoztatás, sem állítólag tőlünk eredő mondás vagy levél ne ijesszen meg benneteket, mintha az Úr napja már küszöbön állna.  Semmiképpen meg ne tévesszen valaki titeket, hiszen előbb be kell következnie az elpártolásnak, és meg kell mutatkoznia a bűn emberének, a kárhozat fiának, az ellenségnek,  aki mindenek fölé emelkedik, amit Istennek és szentnek neveznek. Sőt, Isten templomában foglal majd helyet, és istennek akar látszani.  Nem emlékeztek, hogy minderről beszéltem nektek, még amikor nálatok voltam?  Tudjátok azt is, mi késlelteti föllépésének idejét. A gonoszság titka már munkálkodik,  csak annak kell még az útból eltűnnie, ami még késlelteti.  Akkor majd megjelenik a gonosz, de Urunk Jézus elsöpri szája leheletével, és megsemmisíti jövetelének tündöklésével.
+
 [LectioL1]
 Olvasmány Iziás próféta könyvéből
 !Isa 19:20-22
@@ -35,11 +40,6 @@ Az Úr angyala pedig leszálla Azariással és társaival a kemenczébe, és a t
 !HYMN
 !Dan. 3:52-56
 Áldott vagy, Uram, Atyáink Istene! dicséretes, dicsőséges és magasztos mindörökké; és áldott a te dicsőséged szent neve, dicséretes és magasztos mindörökké. Áldott vagy te dicsőséged szent templomában, fölötte dicséretes és fölötte dicsőséges mindörökké. Áldott vagy te országod királyi székében, fölötte dicséretes és fölötte magasztos mindörökké. Áldott vagy te, ki átlátod a mélységeket, és a kerubokon ülsz, dicséretes és magasztos mindörökké. Áldott vagy az ég erősségében, dicséretes és dicsőséges mindörökké.
-
-[Lectio]
-Olvasmány szent Pál apostol Tesszalonikaiakhoz irott második leveléből
-!2 Thess. 2:1-8
-v. Van még egy kérésünk: Urunk, Jézus Krisztus eljövetelét és vele való egyesülésünket illetően ne veszítsétek el rögtön józanságotokat,  és sem lelki kinyilatkoztatás, sem állítólag tőlünk eredő mondás vagy levél ne ijesszen meg benneteket, mintha az Úr napja már küszöbön állna.  Semmiképpen meg ne tévesszen valaki titeket, hiszen előbb be kell következnie az elpártolásnak, és meg kell mutatkoznia a bűn emberének, a kárhozat fiának, az ellenségnek,  aki mindenek fölé emelkedik, amit Istennek és szentnek neveznek. Sőt, Isten templomában foglal majd helyet, és istennek akar látszani.  Nem emlékeztek, hogy minderről beszéltem nektek, még amikor nálatok voltam?  Tudjátok azt is, mi késlelteti föllépésének idejét. A gonoszság titka már munkálkodik,  csak annak kell még az útból eltűnnie, ami még késlelteti.  Akkor majd megjelenik a gonosz, de Urunk Jézus elsöpri szája leheletével, és megsemmisíti jövetelének tündöklésével.
 
 [Evangelium]
 Evangélium + szent Lukács Evangélista kőnyvéből

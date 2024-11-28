@@ -19,14 +19,14 @@ v. Op een verheven troon zag ik een man zitten, die de engelenschaar aanbidt in 
 Wij vragen U, Heer, behandel met hemelse goedheid de wensen van het volk, dat tot U smeekt, opdat het zijn plichten mogen kennen en, na die te hebben ingezien, ze ook met kracht volbrengen.
 $Per Dominum
 
+[Commemoratio Oratio]
+!Pro Octavam Epiphaniæ
+@Sancti/01-06:Oratio
+
 [Lectio]
 Lezing uit de Brief van de heilige Apostel Paulus aan de Romeinen
 !Rom 12:1-5
 Broeders, ik bezweer u bij de barmhartigheid van God, dat gij uw lichaam aanbiedt als een levende offerande, heilig en God welgevallig, zodat uw godsverering redelijk is. Wilt daarom niet gelijkvormig worden aan deze wereld; maar hervormt u zelf door innerlijke vernieuwing, en leert begrijpen, dat de wil van God is het goede, prijzenswaardige en volmaakte. Want krachtens de genade, die mij geschonken is, zeg ik tot ieder van u, toch geen hogere dunk te hebben van zich zelf, dan behoorlijk is; maar bescheiden van zich zelf te denken, een ieder naarmate God hem in het geloof gaven heeft geschonken. Zoals wij immers in één lichaam vele ledematen hebben, en toch al die ledematen niet hetzelfde werk verrichten, zo vormen wij ook in Christus met velen één lichaam; maar ieder afzonderlijk zijn wij ledematen ten opzichte van elkander, in Christus Jezus, onze Heer.
-
-[Commemoratio Oratio]
-!Pro Octavam Epiphaniæ
-@Sancti/01-06:Oratio
 
 [Graduale]
 !Ps 71:18 ; 71:3

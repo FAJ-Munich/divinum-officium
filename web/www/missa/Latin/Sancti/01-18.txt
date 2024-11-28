@@ -14,6 +14,11 @@ Credo
 Deus, qui beáto Petro Apóstolo tuo, collátis clávibus regni cœléstis, ligándi atque solvéndi pontifícium tradidísti: concéde; ut, intercessiónis ejus auxílio, a peccatórum nostrórum néxibus liberémur:
 $Qui vivis
 
+[Commemoratio Oratio]
+!Commemoratio S. Pauli
+Deus, qui multitúdinem géntium beáti Pauli Apóstoli prædicatióne docuísti: da nobis, quǽsumus; ut, cujus commemoratiónem cólimus, ejus apud te patrocínia sentiámus.
+$Per Dominum
+
 [Lectio]
 @Commune/Coronatio
 

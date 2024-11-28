@@ -22,6 +22,11 @@ v. Au milieu de l’Église, il a ouvert la bouche, et le Seigneur l’a rempli 
 Dieu, vous avez accordé à votre peuple le bienheureux Ambroise pour ministre du salut éternel : faites, nous vous en prions, que nous méritions d’avoir pour intercesseur dans les cieux, celui qui fut sur cette terre Docteur de la vie.
 $Per Dominum
 
+[Commemoratio Oratio]
+!Commemoratio Vigiliæ Immaculatæ Conceptionis
+Dieu, d’une manière admirable, en la Conception de la Mère de votre Fils unique, vous l’avez préservée de la faute originelle, faites que, protégés par son intercession, nous puissions arriver à célébrer sa fête avec un cœur pur.
+$Per eundem
+
 [Lectio]
 @Commune/C4a:Lectio
 

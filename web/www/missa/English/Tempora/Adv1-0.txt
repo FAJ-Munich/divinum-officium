@@ -30,11 +30,6 @@ V. Your ways, O Lord, make known to me; teach me Your paths. Alleluia, alleluia.
 !Ps 84:8
 V. Show us, O Lord, Your kindness, and grant us Your salvation. Alleluia.
 
-[GradualeF]
-!Ps 24:3-4
-No one who waits for You shall be put to shame.
-V. Your ways, O Lord, make known to me; teach me Your paths.
-
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
 !Luke 21:25-33
@@ -55,3 +50,8 @@ The Lord will give His benefits: and our land shall yield its increase.
 [Postcommunio]
 May we receive Your mercy, O Lord, in the midst of Your temple, and thus prepare with due observance for the coming festal season of our redemption.
 $Per Dominum
+
+[GradualeF]
+!Ps 24:3-4
+No one who waits for You shall be put to shame.
+V. Your ways, O Lord, make known to me; teach me Your paths.

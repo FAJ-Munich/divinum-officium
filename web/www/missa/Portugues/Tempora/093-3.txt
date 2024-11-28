@@ -18,28 +18,23 @@ O Senhor impôs este preceito a José, quando saía do Egipto, onde ouvia uma l�
 &Gloria
 v. Exultai de alegria em Deus, que é o nosso protector: cantai hinos de júblio em honra de Deus de Jacob: tocai o saltério e a cítara em tom harmonioso: fazei soar a trombeta no princípio do mês, pois é este o mandamento dado a Israel; é o preceito imposto por Deus de Jabob.
 
-[LectioL1]
-!Amós 9:13-15
-Eis o que diz o Senhor Deus: «Vêm já os dias em que o agricultor se unirá ao ceifeiro; e aquele que esmaga as uvas ao semeador. Então os montes gotejarão doçura e as colinas serão cultivadas. Chamarei do cativeiro o meu povo de Israel. Eles reedificarão as cidades devastadas e habitarão nelas; plantarão vinhas e beberão o seu vinho; cultivarão hortas e comerão os seus frutos. Estabelecê-los-ei no seu país e os não tirarei mais dessa terra, que lhes dei:» diz o Senhor, vosso Deus.
-$Deo gratias
-
-[GradualeL1]
-!Sl 112:5-7
-Quem há que seja como o Senhor, nosso Deus, que habita nos altos dos céus: e olha para os humildes no céus e na terra?
-V. Ele livra o indigente da lama e o pobre da montureira!
+[Oratio]
+Socorrei, Senhor, Vos imploramos, a nossa fraqueza com os remédios da vossa misericórdia, a fim de que, assim como caímos por efeito da nossa fragilidade, assim nos elevemos por efeito da vossa clemência.
+$Per Dominum
 
 [OratioL1]
 Senhor, Vos rogamos, concedei à vossa família suplicante que, abstendo-se das comidas corporais, jejue, também, espiritualmente dos vícios.
-$Per Dominum
-
-[Oratio]
-Socorrei, Senhor, Vos imploramos, a nossa fraqueza com os remédios da vossa misericórdia, a fim de que, assim como caímos por efeito da nossa fragilidade, assim nos elevemos por efeito da vossa clemência.
 $Per Dominum
 
 [Lectio]
 Lição do Livro de Esdras
 !2 Esd. 8:1-10
 Naqueles dias, reuniu-se o povo, como um só homem, em assembleia comum, na praça, diante da porta das águas. Disseram ao escriba Esdras que trouxesse o livro da lei de Moisés, que o Senhor impusera a Israel. O sacerdote Esdras trouxe, então, a Lei perante a multidão dos homens, mulheres e todos os que eram capazes de entender. Isto aconteceu no primeiro dia do sétimo mês. E leu este livro, desde manhão até ao meio dia, na praça que está diante da porta das Águas, na presença dos homens, mulheres, sábios e todo o povo, estando todos atentos à leitura. O escriba Esdras estava de pé, sobre um estrado de madeira, que prepara, para dali falar. Abriu o livro à vista de todo o povo, pois estava colocado mais alto. Logo que abriu o livro, todo o povo se pôs de pé. E Esdras louvou o Senhor, o grande Deus, ao que todo o povo, levantando as mãos, respondeu: Amen, Amen! E, prostrando-se todos, com o rosto em terra adoraram a Deus. Os Levitas mantinham silêncio entre o povo, para que se ouvisse a Lei, e cada um ficasse no seu lugar. E leram no livro da Lei de Deus, declarando e explicando o sentido, de mode que compreendessem o que se lia. Neemias e Esdras, sacerdote e escriba, e os Levitas interpretavam a Lei a todo o povo, dizendo: «Este dia é consagrado ao Senhor, nosso Deus: não estejais de luto, nem choreis». E continuaram «Ide, comei gorduras, bebei licores e reparti com aqueles que nada tiveram preparado para si; pois este dia é consagrado ao Senhor. Não vos contristeis, porque a alegria  do Senhor é a nossa fortaleza».
+
+[LectioL1]
+!Amós 9:13-15
+Eis o que diz o Senhor Deus: «Vêm já os dias em que o agricultor se unirá ao ceifeiro; e aquele que esmaga as uvas ao semeador. Então os montes gotejarão doçura e as colinas serão cultivadas. Chamarei do cativeiro o meu povo de Israel. Eles reedificarão as cidades devastadas e habitarão nelas; plantarão vinhas e beberão o seu vinho; cultivarão hortas e comerão os seus frutos. Estabelecê-los-ei no seu país e os não tirarei mais dessa terra, que lhes dei:» diz o Senhor, vosso Deus.
+$Deo gratias
 
 [Graduale]
 !Sl 32:12, 6.
@@ -66,3 +61,8 @@ Comei gorduras, bebei licores e reparti com aqueles que nada tiveram preparado p
 [Postcommunio]
 Havendo recebido os vossos dons celestiais, humildemente Vos rogamos, Senhor, que com o auxílio da vossa graça recebamos com as devidas disposições os mystérios que celebrámos com fiel obediência.
 $Per Dominum
+
+[GradualeL1]
+!Sl 112:5-7
+Quem há que seja como o Senhor, nosso Deus, que habita nos altos dos céus: e olha para os humildes no céus e na terra?
+V. Ele livra o indigente da lama e o pobre da montureira!

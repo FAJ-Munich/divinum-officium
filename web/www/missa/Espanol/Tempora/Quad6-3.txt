@@ -16,28 +16,23 @@ v. Al nombre de Jesús se doble toda rodilla en el cielo, en la tierra y en el i
 v. Oye, Señor, mi oración y llague mi clamor hasta ti.
 v. Al nombre de Jesús se doble toda rodilla en el cielo, en la tierra y en el infierno; porque el Señor se hizo obediente hasta la muerte, y muerte de cruz; por esto el Señor Jesucristo está en la gloria de Dios Padre.
 
-[LectioL1]
-Lectura del Profeta Isaías
-!Isa 63:1-7
-El Señor hace oír esto hasta el confín de la tierra: Decid a la hija de Sión: Mira a tu salvador que llega, el premio de su victoria lo acompaña, la recompensa lo precede. ¿Quién es ése que viene de Edom, de Bosrá, con ropaje teñido de rojo? ¿Ése del vestido esplendoroso, y de andar tan esforzado? Soy yo que hablo con justicia, un gran libertador. Y ¿por qué está de rojo tu vestido, y tu ropaje como el de un lagarero? El lagar he pisado yo solo; de mi pueblo no hubo nadie conmigo. Los pisé con ira, los pateé con furia, y salpicó su sangre mis vestidos, y toda mi vestimenta he manchado. ¡Era el día de la venganza que tenía pensada, el año de mi desquite era llegado! Miré bien y no había auxiliador; me asombré de que no hubiera quien apoyase. Así que me salvó mi propio brazo, y fue mi furia la que me sostuvo. Pisoteé a pueblos en mi ira, los pisé con furia e hice correr por tierra su sangre. Las misericordias del Señor quiero recordar, las alabanzas del Señor, por todo, lo que nos ha premiado el Señor Dios nuestro.
-
-[GradualeL1]
-!Ps 68:18; 68:2-3
-v. No pierdas de vista a tu siervo: oye presto mis súplicas, por que me veo atribulado. 
-V. Sálvame, oh Dios, porque las aguas han penetrado hasta mi alma. Atollado estoy en un profundísimo cieno, sin hallar donde afirmar el pie.
+[Oratio]
+Te rogamos, Dios todopoderoso, que pues nos vemos, incesantemente afligidos por nuestros desórdenes, nos veamos libres por la pasión de tu Unigénito Hijo.
+$Qui tecum
 
 [OratioL1]
 Oh Dios, que quisiste que tu Hijo sufriese por nosotros muerte de cruz, para librarnos del poder del enemigo; concede a tus siervos la gracia de tener parte en su resurrección.
 $Per eundem
 
-[Oratio]
-Te rogamos, Dios todopoderoso, que pues nos vemos, incesantemente afligidos por nuestros desórdenes, nos veamos libres por la pasión de tu Unigénito Hijo.
-$Qui tecum
-
 [Lectio]
 Lectura del Profeta Isaías
 !Isa 53:1-12
 v. En aquellos días, dijo Isaías: ¿Quién habrá de creer lo que hemos anunciado? ¿A quién se le revelará el poder del Señor? Creció en su presencia como planta débil, como una raíz en el desierto. No tenía gracia ni belleza. No vimos en él ningún aspecto atrayente; despreciado y rechazado por los hombres, varón de dolores, habituado al sufrimiento; como uno del cual se aparta la mirada, despreciado y desestimado. Él soportó nuestros sufrimientos y aguantó nuestros dolores; nosotros lo tuvimos por leproso, herido por Dios y humillado, traspasado por nuestras rebeliones, triturado por nuestros crímenes. El soportó el castigo que nos trae la paz. Por sus llagas hemos sido curados. Todos andábamos errantes como ovejas, cada uno siguiendo su camino, y el Señor cargó sobre él todos nuestros crímenes. Cuando lo maltrataban, se humillaba y no abría la boca, como un cordero llevado a degollar; como oveja ante el esquilador, enmudecía y no abría la boca. Inicuamente y contra toda justicia se lo llevaron. ¿Quién se preocupó de su suerte? Lo arrancaron de la tierra de los vivos, lo hirieron de muerte por los pecados de mi pueblo, le dieron sepultura con los malhechores a la hora de su muerte, aunque no había cometido crímenes, ni hubo engaño en su boca. El Señor quiso triturarlo con el sufrimiento. Cuando entregue su vida como expiación, verá a sus descendientes, prolongará sus años y por medio de él prosperarán los designios del Señor. Por las fatigas de su alma, verá la luz y se saciará; con sus sufrimientos justificará mi siervo a muchos, cargando con los crímenes de ellos. Por eso le daré una parte entre los grandes, y con los fuertes repartirá despojos, ya que indefenso se entregó a la muerte y fue contado entre los malhechores, cuando tomó sobre sí las culpas de todos e intercedió por los pecadores.
+
+[LectioL1]
+Lectura del Profeta Isaías
+!Isa 63:1-7
+El Señor hace oír esto hasta el confín de la tierra: Decid a la hija de Sión: Mira a tu salvador que llega, el premio de su victoria lo acompaña, la recompensa lo precede. ¿Quién es ése que viene de Edom, de Bosrá, con ropaje teñido de rojo? ¿Ése del vestido esplendoroso, y de andar tan esforzado? Soy yo que hablo con justicia, un gran libertador. Y ¿por qué está de rojo tu vestido, y tu ropaje como el de un lagarero? El lagar he pisado yo solo; de mi pueblo no hubo nadie conmigo. Los pisé con ira, los pateé con furia, y salpicó su sangre mis vestidos, y toda mi vestimenta he manchado. ¡Era el día de la venganza que tenía pensada, el año de mi desquite era llegado! Miré bien y no había auxiliador; me asombré de que no hubiera quien apoyase. Así que me salvó mi propio brazo, y fue mi furia la que me sostuvo. Pisoteé a pueblos en mi ira, los pisé con furia e hice correr por tierra su sangre. Las misericordias del Señor quiero recordar, las alabanzas del Señor, por todo, lo que nos ha premiado el Señor Dios nuestro.
 
 [Graduale]
 !Ps. 101:2-5,14
@@ -88,6 +83,11 @@ v. Mis lagrimas se mezclan con mi bebida, pues me levantaste en alto para estrel
 [Postcommunio]
 Concede a nuestros sentidos, omnipotente Dios, que por la muerte temporal de tu Hijo, representada en estos venerables misterios, confiemos que nos has concedido la vida perdurable.
 $Per eundem
+
+[GradualeL1]
+!Ps 68:18; 68:2-3
+v. No pierdas de vista a tu siervo: oye presto mis súplicas, por que me veo atribulado. 
+V. Sálvame, oh Dios, porque las aguas han penetrado hasta mi alma. Atollado estoy en un profundísimo cieno, sin hallar donde afirmar el pie.
 
 [Super populum]
 !Oración sobre el pueblo

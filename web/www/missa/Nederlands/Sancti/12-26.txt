@@ -18,13 +18,13 @@ $Qui tecum
 Almachtige, eeuwige God, Gij hebt U in het bloed van de heilige leviet Stefanus een eerstelingenoffer onder de martelaren gewijd. Wij vragen U, doe hem voor ons een voorspreker zijn, die zelfs voor zijn vervolgers bad tot onze Heer Jezus Christus, uw Zoon.
 $Qui tecum
 
-[Lectio]
-@Sancti/08-03
-
 [Commemoratio Oratio]
 !Pro Octava Nativitatis
 Wij vragen U, almachtige God, laat de nieuwe geboorte naar het vlees van uw enige Zoon de bevrijding inluiden voor ons, die in de oude slavernij nog onder het juk van de zonde gevangen zijn.
 $Per eundem
+
+[Lectio]
+@Sancti/08-03
 
 [Graduale]
 !Ps 118:23; 118:86

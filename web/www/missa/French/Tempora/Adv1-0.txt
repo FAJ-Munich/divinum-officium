@@ -30,11 +30,6 @@ V. Seigneur, enseignez-moi vos voies, apprenez-moi vos chemins. Alléluia, allé
 !Ps 84:8.
 V. Montrez-nous, Seigneur, votre miséricorde, donnez-nous votre salut. Alléluia.
 
-[GradualeF]
-!Ps 24:3; 24:4
-Aucun de ceux qui vous attendent ne sera confondu, Seigneur.
-V. Seigneur, enseignez-moi vos voies, apprenez-moi vos chemins.
-
 [Evangelium]
 Sequéntia ++ sancti Evangélii secundum Lucam.
 !Luc 21:25-33.
@@ -55,3 +50,8 @@ Le Seigneur donnera la bonté, et notre terre donnera son fruit.
 [Postcommunio]
 Puissions-nous, Seigneur, recevoir votre miséricorde au mileu de votre temple, afin de devancer par de plus dignes hommages les solennités prochaines de notre rédemption.
 $Per Dominum
+
+[GradualeF]
+!Ps 24:3; 24:4
+Aucun de ceux qui vous attendent ne sera confondu, Seigneur.
+V. Seigneur, enseignez-moi vos voies, apprenez-moi vos chemins.

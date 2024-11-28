@@ -1,6 +1,6 @@
 @Sancti/11-16
 
-[Rank]
+[Rank] 
 S. Gertrudis Virginis O. N.;;Duplex;;3;;vide C6
 (sed rubrica divino)
 S. Gertrudis Virginis O. N.;;Duplex II Classis;;5;;ex C6

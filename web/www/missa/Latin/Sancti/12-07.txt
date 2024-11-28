@@ -16,6 +16,11 @@ Ambrose
 [Oratio]
 @Commune/C4a:Oratio:s/N\./Ambrósii/
 
+[Commemoratio Oratio]
+!Commemoratio Vigiliæ Immaculatæ Conceptionis
+Deus, qui Unigéniti tui Matrem ab origináli culpa in sua Conceptióne mirabíliter præservásti: da, quǽsumus; ut sua nos intercessióne munítos, corde mundos fácias suæ interésse festivitáti:
+$Per eundem
+
 [Lectio]
 @Commune/C4a:Lectio
 

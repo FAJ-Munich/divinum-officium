@@ -24,6 +24,10 @@ v. Volvei propício vossos olhos para mim e tende compaixão de mim, pois estou 
 Ó Deus, protector daqueles que esperam em Vós, e sem o qual nada existe, nem sólido nem santo, multiplicai a vossa misericórdia sobre nós, de maneira que, sendo sempre governados e guiados por Vós, transitemos de tal modo pelos bens terrenos que não deixemos de gozar os eternos.
 $Per Dominum
 
+[Commemoratio Oratio]
+! Sagrado Coração de Jesus
+@Tempora/Pent02-5:Oratio
+
 [Lectio]
 Lição da Ep.ª do B. Ap.º Pedro.
 !1 Pe 5:6-11.

@@ -22,6 +22,11 @@ v. Que todos os povos da terra entoem cânticos de alegria em honra de Deus, ale
 Ó Deus, que com a luz da verdade esclareceis aqueles que estão no caminho do erro para que possam voltar ao caminho da justiça, concedei aos que professam a fé cristã, que rejeitem tudo quanto é contrário ao nome cristão e sigam o que lhe é conforme.
 $Per Dominum
 
+[Commemoratio Oratio]
+! Oitavária de S. José
+Ó Deus, que com inefável providência Vos dignas-tes eleger o bem-aventurado José para esposo de vossa Mãe Santíssima; concedei-nos, como Vos suplicamos, que o venerando como nosso protector na terra, o mereçamos ter como intercessor no céu.
+$Qui vivis
+
 [Lectio]
 Lição da Ep.ª do B. Ap.º Pedro.
 !1 Pe 2:11-19

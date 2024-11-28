@@ -29,11 +29,6 @@ The Lord is near to all who call upon Him, to all who call upon Him in truth.
 V. May my mouth speak the praise of the Lord, and may all flesh bless His holy name. Alleluia, alleluia.
 V. Come, O Lord, and delay not; forgive the sins of Your people Israel. Alleluia.
 
-[GradualeF]
-!Ps 144:18, 20
-The Lord is near to all who call upon Him, to all who call upon Him in truth.
-V. May my mouth speak the praise of the Lord, and may all flesh bless His holy name.
-
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
 !Luke 3:1-6
@@ -54,3 +49,8 @@ Behold, a virgin shall be with child and bear a son, and shall name Him Emmanuel
 [Postcommunio]
 Having received Your gifts, we beseech You, O Lord, that each partaking of this sacrament may increase within us its saving effect.
 $Per Dominum
+
+[GradualeF]
+!Ps 144:18, 20
+The Lord is near to all who call upon Him, to all who call upon Him in truth.
+V. May my mouth speak the praise of the Lord, and may all flesh bless His holy name.

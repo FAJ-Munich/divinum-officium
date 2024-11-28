@@ -25,14 +25,6 @@ v.  And Christ died for all; that they also who live, may not now live to themse
 !Rom 8:17
 v.  And if sons, heirs also; heirs indeed of God, and joint heirs with Christ: yet so, if we suffer with him, that we may be also glorified with him. Alleluja.
 
-[Graduale1]
-!Gal 6:14
-v.  But God forbid that I should glory, save in the cross of our Lord Jesus Christ; by whom the world is crucified to me, and I to the world.
-!1 Cor 2:2
-v.  For I judged not myself to know anything among you, but Jesus Christ, and him crucified. Alleluja, alleluja.
-!1 Pet 2:21.
-v. For unto this are you called: because Christ also suffered for us, leaving you an example that you should follow his steps. Alleluja.
-
 [Tractus]
 !1 Pet 4:1
 v.  Christ therefore having suffered in the flesh, be you also armed with the same thought: for he that hath suffered in the flesh, hath ceased from sins:
@@ -57,3 +49,11 @@ v.  But if you partake of the sufferings of Christ, rejoice that when his glory 
 We have received, O Lord, the divine sacrament, which is a perpetual memorial, of thy boundless love; grant we pray, that through the merits and example of St. Paul, we may draw from thy fountains water springing up to life eternal, and in our life and conduct, we may keep thy most holy Passion ever impressed upon our hearts.
 $Qui vivis
 
+
+[Graduale1]
+!Gal 6:14
+v.  But God forbid that I should glory, save in the cross of our Lord Jesus Christ; by whom the world is crucified to me, and I to the world.
+!1 Cor 2:2
+v.  For I judged not myself to know anything among you, but Jesus Christ, and him crucified. Alleluja, alleluja.
+!1 Pet 2:21.
+v. For unto this are you called: because Christ also suffered for us, leaving you an example that you should follow his steps. Alleluja.

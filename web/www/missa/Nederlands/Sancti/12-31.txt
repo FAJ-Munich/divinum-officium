@@ -11,12 +11,12 @@ Prefatio=Nat
 [Oratio]
 @Commune/C4:Oratio:s/N\./Silvester/
 
-[Lectio]
-@Commune/C4a
-
 [Commemoratio Oratio]
 !Pro Octava Nativitatis.
 @Sancti/12-25m3:Oratio
+
+[Lectio]
+@Commune/C4a
 
 [Graduale]
 !Eccli 44:16

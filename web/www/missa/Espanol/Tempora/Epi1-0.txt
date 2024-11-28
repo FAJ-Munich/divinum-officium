@@ -21,6 +21,11 @@ v. Salte de júbilo el padre del justo, alégrense tu padre y tu madre, y regoc�
 Señor nuestro Jesucristo, que sujeto a María y a José, consagraste la vida de familia con inefables virtudes; haz que, con el auxilio de ambos, nos instruyamos con los ejemplos de tu Sagrada Familia, y alcancemos su eterna compañía.
 $Qui vivis
 
+[Commemoratio Oratio]
+!Por el Domingo infra octava de la Epifanía
+Oh Señor, te rogamos, en tu bondad divina, que escuches a Tu pueblo que ante ti ora, que les des a ver qué debe hacer y tenga la fortaleza de cumplir lo que hayan visto.
+$Per Dominum
+
 [Lectio]
 Lección de la carta del Apóstol San Pablo a los Colosenses
 !Col 3:12-17

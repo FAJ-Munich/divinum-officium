@@ -12,11 +12,11 @@ Prefatio=Nat
 [Oratio]
 @Sancti/12-28
 
-[Lectio]
-@Sancti/12-28
-
 [Commemoratio Oratio]
 @Sancti/12-26
+
+[Lectio]
+@Sancti/12-28
 
 [Graduale]
 @Sancti/12-28

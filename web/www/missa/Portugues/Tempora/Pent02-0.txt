@@ -25,6 +25,10 @@ v. O Senhor fez-se o meu protector e conduziu-me para o largo: E, porque me amav
 Fazei, Senhor, que possuamos perpetuamente o temor e o amor do vosso santo nome, porquanto nunca cessais de inspirar e dirigir aqueles em quem infundistes solidamente o vosso amor.
 $Per Dominum
 
+[Commemoratio Oratio]
+! Oitava do Corpo de Cristo
+@Tempora/Pent01-4:Oratio
+
 [Lectio]
 Lição da Ep.ª do B. Ap.º João.
 !1 Jo 3:13-18.

@@ -30,11 +30,6 @@ V.Radunategli i suoi santi, che sanciscono il suo patto col sacrificio. Alleluia
 !Ps 121:1
 V. Mi sono rallegrato in ciò che mi è stato detto: andremo nella casa del Signore. Allelúia.
 
-[GradualeF]
-!Ps 49:2-3; 49:5
-Da Sion, ideale bellezza: appare Iddio raggiante.
-V. Radunategli i suoi santi, che sanciscono il suo patto col sacrificio.
-
 [Evangelium]
 Séguito ++ del S. Vangelo secondo Matteo
 !Matt 11:2-10
@@ -56,3 +51,8 @@ Sorgi, o Gerusalemme, e sta in alto: osserva la felicità che ti viene dal tuo D
 [Postcommunio]
 Saziàti dal cibo che ci nutre spiritualmente, súpplici Ti preghiamo, o Signore, affinché, mediante la partecipazione a questo mistero, ci insegni a disprezzare le cose terrene e ad amare le cose celesti.
 $Per Dominum
+
+[GradualeF]
+!Ps 49:2-3; 49:5
+Da Sion, ideale bellezza: appare Iddio raggiante.
+V. Radunategli i suoi santi, che sanciscono il suo patto col sacrificio.

@@ -30,11 +30,6 @@ V. Congregáte illi sanctos ejus, qui ordinavérunt testaméntum ejus super sacr
 !Ps 121:1
 V. Lætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus. Allelúja.
 
-[GradualeF]
-!Ps 49:2-3; 49:5
-Ex Sion species decóris ejus: Deus maniféste véniet,
-V. Congregáte illi sanctos ejus, qui ordinavérunt testaméntum ejus super sacrifícia.
-
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthǽum
 !Matt 11:2-10
@@ -55,3 +50,8 @@ Jerúsalem, surge et sta in excélso, et vide jucunditátem, quæ véniet tibi a
 [Postcommunio]
 Repléti cibo spirituális alimóniæ, súpplices te, Dómine, deprecámur: ut, hujus participatióne mystérii, dóceas nos terréna despícere et amáre cœléstia.
 $Per Dominum
+
+[GradualeF]
+!Ps 49:2-3; 49:5
+Ex Sion species decóris ejus: Deus maniféste véniet,
+V. Congregáte illi sanctos ejus, qui ordinavérunt testaméntum ejus super sacrifícia.

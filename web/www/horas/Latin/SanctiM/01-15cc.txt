@@ -1,6 +1,6 @@
 @Sancti/01-15cc
 
-[Rank] (rubrica 1617)
+[Rank] (rubrica 1617) 
 S. Mauri Abbatis;;Duplex II. classis;;5;;ex C4
 
 [Rank] (rubrica 1930)

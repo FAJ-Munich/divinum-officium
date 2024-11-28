@@ -30,11 +30,6 @@ V. Mostrai-me, Senhor, os vossos caminhos: e ensinai-me a conhecer as vossas ver
 !Sl 84:8
 V. Mostrai-nos, Senhor, a vossa misericórdia: e dai-nos a salvação. Aleluia.
 
-[GradualeF]
-!Sl 24:3-4
-Senhor, aqueles que em Vós não esperam serão confundidos.
-V. Mostrai-me, Senhor, os vossos caminhos: e ensinai-me a conhecer as vossas veredas.
-
 [Evangelium]
 Continuação ++ do santo Evangelho segundo S. Lucas.
 !Lc 21:25-33
@@ -55,3 +50,8 @@ O Senhor mostrará a sua bondade: e a nossa terra dará «o seu fruto».
 [Postcommunio]
 Senhor, permiti que alcancemos a vossa misericórdia no meio do vosso templo, para que celebremos com a conveniente preparação a próxima solenidade da nossa reparação.
 $Per Dominum
+
+[GradualeF]
+!Sl 24:3-4
+Senhor, aqueles que em Vós não esperam serão confundidos.
+V. Mostrai-me, Senhor, os vossos caminhos: e ensinai-me a conhecer as vossas veredas.

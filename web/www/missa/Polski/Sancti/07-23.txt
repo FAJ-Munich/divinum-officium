@@ -30,6 +30,11 @@ v. Kapłani Boży, błogosławcie Panu, święci i pokornego serca chwalcie Boga
 Boże, który nagradzasz dusze wierne, a dzień dzisiejszy uświęciłeś męczeństwem świętego Kapłana Twego Apolinarego; spraw, abyśmy dostąpili przebaczenia przez prośby tego, którego chwalebną uroczystość obchodzimy.
 $Per Dominum
 
+[Commemoratio Oratio]
+! Wspomnienie św. Liboriusza
+Spraw, prosimy Cię, wszechmogący Boże, aby chwalebna uroczystość świętego Liboriusza, Twego Wyznawcy i Biskupa, przysporzyła nam gorliwości i łaski do zbawienia.
+$Per Dominum
+
 [Lectio]
 Czytanie z Listu świętego Piotra Apostoła.
 !1 P 5:1-11

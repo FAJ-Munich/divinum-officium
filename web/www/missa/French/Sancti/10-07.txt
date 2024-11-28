@@ -5,7 +5,7 @@ Sanctissimi Rosarii Beatæ Mariæ Virginis;;Duplex 2 classis;;5.1;;ex C11
 Sanctissimi Rosarii Beatæ Mariæ Virginis;;Duplex 2 classis;;5;;ex C11
 
 [Introitus]
-! 
+!  
 v. Réjouissons-nous ensemble dans le Seigneur, car la fête que nous célébrons aujourd’hui est celle de la bienheureuse Vierge Marie. Cette solennité réjouit les Anges et tous en chœur louent le Fils de Dieu.
 !Ps 44:2
 De mon cœur a jailli une parole excellente, c’est que je consacre mes œuvres à mon Roi.

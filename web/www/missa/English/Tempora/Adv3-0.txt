@@ -29,11 +29,6 @@ From Your throne, O Lord, upon the Cherubim, rouse Your power, and come.
 V. O Shepherd of Israel, hearken, O Guide of the flock of Joseph! Alleluia, alleluia.
 V. Rouse, O Lord, Your power, and come to save us. Alleluia.
 
-[GradualeF]
-!Ps 79:2-3, 2
-From Your throne, O Lord, upon the Cherubim, rouse Your power, and come.
-V. O Shepherd of Israel, hearken, O Guide of the flock of Joseph!
-
 [Evangelium]
 Continuation + of the Holy Gospel according to John
 !John 1:19-28
@@ -54,3 +49,8 @@ Say to those who are frightened: Be strong, fear not! Here is our God, He comes 
 [Postcommunio]
 We entreat You, merciful Lord, that these divine helps may cleanse us from our sins and prepare us for the coming festal season.
 $Per Dominum
+
+[GradualeF]
+!Ps 79:2-3, 2
+From Your throne, O Lord, upon the Cherubim, rouse Your power, and come.
+V. O Shepherd of Israel, hearken, O Guide of the flock of Joseph!

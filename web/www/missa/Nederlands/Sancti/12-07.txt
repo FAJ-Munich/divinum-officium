@@ -16,13 +16,13 @@ Ambrose
 [Oratio]
 @Commune/C4a:Oratio:s/N\./Ambrosius/
 
-[Lectio]
-@Commune/C4a
-
 [Commemoratio Oratio]
 !Commemoratio Vigiliæ Immaculatæ Conceptionis
 God, Gij hebt de Moeder van uw enige Zoon bij haar Ontvangenis wondervol voor de erfschuld behoed. Wij vragen U, laat ons, beschermd door haar voorspraak, rein van hart haar feest meevieren.
 $Per eundem
+
+[Lectio]
+@Commune/C4a
 
 [Graduale]
 !Eccli 44:16

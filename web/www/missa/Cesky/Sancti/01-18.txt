@@ -16,6 +16,12 @@ v. Uzavřel s ním Pán smlouvu pokoje a knížetem jej učinil, aby mu zůstala
 Bože, jenž jsi svatému Petru, Apoštolu svému, se svěřenými klíči království nebeského velekněžskou moc svazování a rozvazování předal, uděl, abychom mocí jeho přímluvy vysvobozeni byli z pout našich hříchů.
 $Qui vivis
 
+[Commemoratio Oratio]
+!Připomínka sv. apoštola Pavla
+Bože, jenž jsi množství pohanů kázáním svatého Apoštola Pavla poučil, dej nám, prosíme, abychom, jehož.památku slavíme, toho přímluvu u tebe
+pocítili.
+$Per Dominum
+
 [Lectio]
 Čtení z prvního listu sv. Petra Apoštola
 !1 Pt 1,1-7

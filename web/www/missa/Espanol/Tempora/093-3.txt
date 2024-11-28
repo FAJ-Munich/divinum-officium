@@ -12,28 +12,23 @@ Le impuso esta ley a José, cuando salía de la tierra de Egipto: oyó entonces 
 &Gloria
 v. Regocijaos, alabando a dios nuestro Protector: celebrad con júbilo al dios de Jacob: entonad salmos junto con la citara: tocad la trompeta en el principio de la estación, porque esto es la ley en Israel, y mandado del Dios de Jacob.
 
-[LectioL1]
-!Amos 9:13-15
-Esto dice el Señor Dios: Vienen días cuando se encontrarán el que ara con el que siega, y el que pisa la uva con quien esparce la semilla; las montañas destilarán mosto y las colinas se derretirán. Repatriaré a los desterrados de mi pueblo Israel; ellos reconstruirán ciudades derruidas y las habitarán, plantarán viñas y beberán su vino, cultivaran huertos y comerán sus frutos. Yo los plantaré en su tierra, que yo les había dado, y ya no serán arrancados de ella —dice el Señor, tu Dios—.
-$Deo gratias
-
-[GradualeL1]
-!Ps 112:5-7
-¿Quién como el Señor nuestro Dios? Él mora en las alturas y cuida de las criaturas humildes en el cielo y en la tierra.
-V. Levanta del polvo al desvalido y alza del estiércol a pobre.
+[Oratio]
+Te suplicamos, Señor, que con los auxilios de tu misericordia sostengas nuestra fragilidad; para que, pues por su propia condición desfallece, sea con tu clemencia reparada.
+$Per Dominum
 
 [OratioL1]
 Te suplicamos, Señor, concedas a tu pueblo suplicante; que, mientras se abstiene de los alimentos corporales, se abstenga también en espíritu de todo vicio.
-$Per Dominum
-
-[Oratio]
-Te suplicamos, Señor, que con los auxilios de tu misericordia sostengas nuestra fragilidad; para que, pues por su propia condición desfallece, sea con tu clemencia reparada.
 $Per Dominum
 
 [Lectio]
 Lectura del libro de Esdras
 !2 Esd 8:1-10
 En aquellos días, el pueblo entero se reunió como un solo hombre en la plaza que está delante de la Puerta del Agua y dijeron a Esdras, el escriba, que trajese el libro de la ley de Moisés que el Señor había dado a Israel. El día primero del mes séptimo, el sacerdote Esdras trajo el libro de la ley ante la comunidad: hombres, mujeres y cuantos tenían uso de razón. Leyó el libro en la plaza que está delante de la Puerta del Agua, desde la mañana hasta el mediodía, ante los hombres, las mujeres y los que tenían uso de razón. Todo el pueblo escuchaba con atención la lectura del libro de la ley. El escriba Esdras se puso en pie sobre una tribuna de madera levantada para la ocasión. Esdras abrió el libro en presencia de todo el pueblo, de modo que toda la multitud podía verlo; al abrirlo, el pueblo entero se puso de pie. Esdras bendijo al Señor, el Dios grande, y todo el pueblo respondió con las manos levantadas: «Amén, amén». Luego se inclinaron y adoraron al Señor, rostro en tierra. Los levitas explicaron la ley al pueblo, que permanecía en pie. Leyeron el libro de la ley de Dios con claridad y explicando su sentido, de modo que entendieran la lectura. Entonces el gobernador Nehemías, el sacerdote y escriba Esdras, y los levitas que instruían al pueblo dijeron a toda la asamblea: «Este día está consagrado al Señor, vuestro Dios. No estéis tristes ni lloréis» (y es que todo el pueblo lloraba al escuchar las palabras de la ley). Nehemías les dijo: «Id, comed buenos manjares y bebed buen vino, e invitad a los que no tienen nada preparado, pues este día está consagrado al Señor. ¡No os pongáis tristes; el gozo del Señor es vuestra fuerza!».
+
+[LectioL1]
+!Amos 9:13-15
+Esto dice el Señor Dios: Vienen días cuando se encontrarán el que ara con el que siega, y el que pisa la uva con quien esparce la semilla; las montañas destilarán mosto y las colinas se derretirán. Repatriaré a los desterrados de mi pueblo Israel; ellos reconstruirán ciudades derruidas y las habitarán, plantarán viñas y beberán su vino, cultivaran huertos y comerán sus frutos. Yo los plantaré en su tierra, que yo les había dado, y ya no serán arrancados de ella —dice el Señor, tu Dios—.
+$Deo gratias
 
 [Graduale]
 !Ps 32:12, 6
@@ -60,3 +55,8 @@ Comed manjares suculentos y bebed del vino dulce, y enviad porciones a aquellos 
 [Postcommunio]
 Al recibir, Señor, estos dones celestiales, suplicamos humildemente que lo que nos permites dedicarte con debida sumisión, lo aprovechemos por tu favor con dignos sentimientos.
 $Per Dominum
+
+[GradualeL1]
+!Ps 112:5-7
+¿Quién como el Señor nuestro Dios? Él mora en las alturas y cuida de las criaturas humildes en el cielo y en la tierra.
+V. Levanta del polvo al desvalido y alza del estiércol a pobre.

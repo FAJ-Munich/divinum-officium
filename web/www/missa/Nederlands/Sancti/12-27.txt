@@ -13,13 +13,13 @@ Prefatio=Nat
 Heer, verlicht mild uw Kerk, opdat zij, verlicht door de leer van uw heilige apostel en evangelist Johannes, de eeuwige beloning moge verwerven.
 $Per Dominum
 
+[Commemoratio Oratio]
+@Sancti/12-26
+
 [Lectio]
 Lezing uit het Boek der Wijsheid
 !Eccli 15:1-6
 Wie God vreest, zal het goede doen, en wie zich houdt aan de gerechtigheid, zal haar verwerven, en zij zal hem tegemoet treden als een hooggeëerde moeder. Zij zal hem voeden met het brood van leven en kennis, en met water van heilzame wijsheid hem laven. En zij zal bij hem blijven zodat hij niet wankelt, en hem vasthouden, zodat hij niet te schande zal worden. Zij zal hem in aanzien doen staan bij zijn naasten en te midden der bijeenkomst hem de mond openen, en hem vervullen met de geest van wijsheid en inzicht. Met een heerlijk gewaad zal zij hem bekleden, en een schat van vreugde en blijdschap hem geven, en een eeuwige naam zal hem verlenen de Heer, onze God.
-
-[Commemoratio Oratio]
-@Sancti/12-26
 
 [Graduale]
 !Joann 21:23; 21:19

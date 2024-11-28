@@ -10,29 +10,24 @@ LectioL1
 [Introitus]
 @Tempora/Pasc6-6
 
-[LectioL1]
-Lezing uit de Profeet Ezechiël
-!Ezech 36:23-28
-Dit zegt God, de Heer: Ik zal mijn grote Naam verheerlijken, die ontwijd werd onder de volken, die gij in uw midden hebt onteerd; opdat de volken mogen inzien, dat Ik de Heer ben, doordat Ik voor hun ogen verheerlijkt word aan u. Want Ik zal u nemen uit het midden der volken, en Ik zal u verzamelen uit alle landstreken, en u terugbrengen naar uw eigen land. En rein water zal Ik over u uitstorten, zodat gij gezuiverd wordt van al uw smetten; en Ik zal u reinigen van al uw afgoden. Ik zal u een nieuw hart geven, en een nieuwe geest brengen in uw binnenste; want het stenen hart zal Ik wegnemen uit uw lichaam, en u een hart geven van vlees. Mijn geest zal Ik brengen in uw binnenste; want ik zal maken, dat gij wandelt volgens mijn geboden, en dat gij mijn wetten onderhoudt en ten uitvoer brengt. Dan zult gij weer wonen in het land, dat Ik gegeven heb aan uw vaderen; en gij zult weer mijn volk zijn, en Ik zal zijn uw God. Zo spreekt de almachtige Heer.
-$Deo gratias
-
-[GradualeL1]
-!Ps 38:12, 6
-Komt, kinderen, luistert naar mij. Ik zal u leren de vreze des Heren.
-V. Nadert tot Hem en ge zult stralen van vreugde en geen schaamrood zal uw aanschijn bedekken.
+[Oratio]
+God, Gij schenkt door het vasten de rechtvaardigen loon naar verdiensten en de zondaars vergeving. Ontferm U over ons die tot U smeken, opdat wij door onze schuld te bekennen vergiffenis van zonden mogen verwerven.
+$Per Dominum
 
 [OratioL1]
 Wij vragen U, almachtige God, bewerk dat wij, die ons in plechtig vasten kastijden, juist in deze heilige godsvrucht onze vreugde mogen vinden, opdat wij, door onze aardse verlangens te matigen, gemakkelijker tot het hemelse opstijgen. 
-$Per Dominum
-
-[Oratio]
-God, Gij schenkt door het vasten de rechtvaardigen loon naar verdiensten en de zondaars vergeving. Ontferm U over ons die tot U smeken, opdat wij door onze schuld te bekennen vergiffenis van zonden mogen verwerven.
 $Per Dominum
 
 [Lectio]
 Lezing uit de Profeet Isaias
 !Is 1:16-19
 Dit zegt God, de Heer: Wast u, reinigt u; doet uw boze plannen weg voor mijn ogen. Houdt op met kwaad doen; leert het goede doen; streeft naar gerechtigheid; helpt de verdrukte; schaft recht aan de wees; verdedigt de weduwe. Komt nu en treedt met Mij in geding, zegt de Heer; al zijn uw zonden als scharlaken, zij zullen wit worden als sneeuw; al zijn zij rood als purper, wit zullen zij worden als wol. Als gij maar wilt en luistert naar Mij, zult gij eten van het goede der aarde. Zo spreekt de almachtige Heer.
+
+[LectioL1]
+Lezing uit de Profeet Ezechiël
+!Ezech 36:23-28
+Dit zegt God, de Heer: Ik zal mijn grote Naam verheerlijken, die ontwijd werd onder de volken, die gij in uw midden hebt onteerd; opdat de volken mogen inzien, dat Ik de Heer ben, doordat Ik voor hun ogen verheerlijkt word aan u. Want Ik zal u nemen uit het midden der volken, en Ik zal u verzamelen uit alle landstreken, en u terugbrengen naar uw eigen land. En rein water zal Ik over u uitstorten, zodat gij gezuiverd wordt van al uw smetten; en Ik zal u reinigen van al uw afgoden. Ik zal u een nieuw hart geven, en een nieuwe geest brengen in uw binnenste; want het stenen hart zal Ik wegnemen uit uw lichaam, en u een hart geven van vlees. Mijn geest zal Ik brengen in uw binnenste; want ik zal maken, dat gij wandelt volgens mijn geboden, en dat gij mijn wetten onderhoudt en ten uitvoer brengt. Dan zult gij weer wonen in het land, dat Ik gegeven heb aan uw vaderen; en gij zult weer mijn volk zijn, en Ik zal zijn uw God. Zo spreekt de almachtige Heer.
+$Deo gratias
 
 [Graduale]
 !Ps 32:12, 6
@@ -65,6 +60,11 @@ De Heer maakte slijk uit speeksel en Hij bestreek daarmee mijn ogen. Ik ging hee
 [Postcommunio]
 Mogen de Sacramenten, die wij genuttigd hebben, Heer, onze God, ons met hemels voedsel verzadigen en ons met tijdelijke hulp beschermen. 
 $Per Dominum
+
+[GradualeL1]
+!Ps 38:12, 6
+Komt, kinderen, luistert naar mij. Ik zal u leren de vreze des Heren.
+V. Nadert tot Hem en ge zult stralen van vreugde en geen schaamrood zal uw aanschijn bedekken.
 
 [Super populum]
 !Oratio super populum

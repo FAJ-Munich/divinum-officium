@@ -23,27 +23,22 @@ Nebesa vypravují slávu Boží a obloha zvěstuje díla rukou jeho.
 &Gloria
 v. Rosu dejte nebesa shůry a oblakové dštěte Spravedlivého. Otevři se země a vypuč Spasitele.
 
-[LectioL1]
-Čtení z proroka Isaiáše
-!Iz 2,2-5
-V těch dnech řekl prorok Isaiáš: „V posledních dnech zpevněna bude hora domu Hospodinova; bude nejvyšším vrcholem horstev, vyvýšená nad pahorky. Proudit bude k ní každý národ, hrnout se mnoho kmenů a řeknou: „Pojdte a vystupte na horu Páně, do domu boha Jakobova! Ať nás naučí svým cestám, a chodit budeme po jeho stezkách!“ Vyjdeť ze Siona nauka, a slovo Páně z Jesusalema. Porovnávat bude národy, rozsuzovat četné kmeny, že zkují v radlice své meče, a svá kopí v srpy ženců. Nezdvihne meče kmen proti kmeni, aniž cvičit se budou k boji. Nuže, dome Jakubův, pojďte, a choďme ve světle Hospodinově.
-$Deo Gratias
-
-[GradualeL1]
-!Ž 23,7; 23,3; 23,4
-v. Zvyšte, knížata, brány svoje. Zvedněte se věkovité brány, aby mohl vejíti král vítězoslavný.
-V.  Kdo smí vstoupiti na horu Páně a kdo postaviti se na místě jemu svatém? Ten, jehož ruce jsou nevinné a jehož srdce jest čisté.
+[Oratio]
+Uděl, prosíme, všemohoucí Bože, aby nastávající slavnost spásy naší přinesla nám pomoc pro nynější život a uštědřila dary blaženosti věčné.
+$Per Dominum
 
 [OratioL1]
 Pospěš, prosíme, Pane, neotálej, a uděl nám pomoc nebeské síly, aby pookřáli útěchou tvého příchodu, kteří doufají v dobrotivost tvoji.
 $Qui vivis
 
-[Oratio]
-Uděl, prosíme, všemohoucí Bože, aby nastávající slavnost spásy naší přinesla nám pomoc pro nynější život a uštědřila dary blaženosti věčné.
-$Per Dominum
-
 [Lectio]
 @Tempora/C10a:Lectio
+
+[LectioL1]
+Čtení z proroka Isaiáše
+!Iz 2,2-5
+V těch dnech řekl prorok Isaiáš: „V posledních dnech zpevněna bude hora domu Hospodinova; bude nejvyšším vrcholem horstev, vyvýšená nad pahorky. Proudit bude k ní každý národ, hrnout se mnoho kmenů a řeknou: „Pojdte a vystupte na horu Páně, do domu boha Jakobova! Ať nás naučí svým cestám, a chodit budeme po jeho stezkách!“ Vyjdeť ze Siona nauka, a slovo Páně z Jesusalema. Porovnávat bude národy, rozsuzovat četné kmeny, že zkují v radlice své meče, a svá kopí v srpy ženců. Nezdvihne meče kmen proti kmeni, aniž cvičit se budou k boji. Nuže, dome Jakubův, pojďte, a choďme ve světle Hospodinově.
+$Deo Gratias
 
 [Graduale]
 !Ž 144,18; 144,21
@@ -68,3 +63,8 @@ Hle, Panna počne a porodí syna a jméno jeho bude slouti Emanuel.
 [Postcommunio]
 Nasycení jsouce, Pane, tvým spasným darem, prosíme snažně, abychom, radujíce se jeho chutnáním, jeho účinkem obnovení byli.
 $Per Dominum
+
+[GradualeL1]
+!Ž 23,7; 23,3; 23,4
+v. Zvyšte, knížata, brány svoje. Zvedněte se věkovité brány, aby mohl vejíti král vítězoslavný.
+V.  Kdo smí vstoupiti na horu Páně a kdo postaviti se na místě jemu svatém? Ten, jehož ruce jsou nevinné a jehož srdce jest čisté.

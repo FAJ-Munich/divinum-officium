@@ -19,13 +19,13 @@ v. Licht zal er heden over ons schijnen, omdat de Heer ons is geboren; en Hij za
 Wij vragen U, almachtige God, doe bij ons, die baden in het nieuwe licht van uw vleesgeworden Woord, in daden naar buiten stralen wat door het geloof in onze geest brandt.
 $Per eundem
 
-[Lectio]
-@Commune/C10b
-
 [Commemoratio Oratio]
 !Pro S. Anastasiæ
 Wij vragen U, almachtige God, doe ons, die het feest vieren van uw heilige martelares Anastasia, haar bescherming bij U ondervinden.
 $Per Dominum
+
+[Lectio]
+@Commune/C10b
 
 [Graduale]
 !Ps 117:26; 117:27; 117:23

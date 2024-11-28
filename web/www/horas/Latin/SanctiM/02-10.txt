@@ -3,6 +3,7 @@
 [Rank] (rubrica 1617)
 S. Scholasticæ Virginis;;Duplex majus;;4;;vide C6b
 
+
 [Rank] (rubrica 1930 aut rubrica 1963)
 S. Scholasticæ Virginis, Sororis S. P. N. Benedicti;;Duplex II Class;;5;;vide C6b
 

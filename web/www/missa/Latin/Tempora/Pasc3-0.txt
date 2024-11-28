@@ -17,6 +17,11 @@ v. Jubiláte Deo, omnis terra, allelúja: psalmum dícite nómini ejus, allelúj
 Deus, qui errántibus, ut in viam possint redíre justítiæ, veritátis tuæ lumen osténdis: da cunctis, qui christiána professióne censéntur, et illa respúere, quæ huic inimíca sunt nómini; et ea, quæ sunt apta, sectári.
 $Per Dominum
 
+[Commemoratio Oratio]
+!Pro Octavæ Patrocinii S. Joseph
+Deus, qui ineffabili providéntia beátum Joseph sanctíssimæ Genetrícis tuæ sponsum elígere dignátus es: præsta, quǽsumus; ut, quem protectórem venerámur in terris, intercessórem habére mereámur in cœlis:
+$Qui vivis
+
 [Lectio]
 Léctio Epístolæ beáti Petri Apóstoli
 !1 Pet 2:11-19

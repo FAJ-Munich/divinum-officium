@@ -14,3 +14,4 @@ $Per Dominum
 @:Oratio_
 (sed rubrica tridentina)
 @:Oratio_:s/ i Doktora//
+

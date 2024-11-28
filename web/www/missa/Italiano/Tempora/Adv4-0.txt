@@ -29,11 +29,6 @@ Il Signore è vicino a quanti lo invocano: a quanti lo invocano sinceramente.
 V. Signore: e ogni mortale benedica il suo santo nome. Allelúia, allelúia,
 V. Vieni, o Signore, non tardare: perdona le colpe di Israele tuo popolo. Allelúia.
 
-[GradualeF]
-!Ps 144:18; 144:21
-Il Signore è vicino a quanti lo invocano: a quanti lo invocano sinceramente.
-V. La mia bocca proclami la lode del Signore: e ogni mortale benedica il suo santo nome.
-
 [Evangelium]
 Séguito ++ del S. Vangelo secondo Luca.
 !Luc 3:1-6
@@ -54,3 +49,8 @@ Ecco la Vergine concepirà e partorirà un figlio: e si chiamerà Emanuele.
 [Postcommunio]
 Assunti i tuoi doni, o Signore, Ti preghiamo, affinché frequentando questi misteri cresca l’effetto della nostra salvezza.
 $Per Dominum
+
+[GradualeF]
+!Ps 144:18; 144:21
+Il Signore è vicino a quanti lo invocano: a quanti lo invocano sinceramente.
+V. La mia bocca proclami la lode del Signore: e ogni mortale benedica il suo santo nome.

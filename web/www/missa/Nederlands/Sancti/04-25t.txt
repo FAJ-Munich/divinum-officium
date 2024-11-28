@@ -13,12 +13,12 @@ Litania
 [Oratio]
 @Sancti/04-25
 
-[Lectio]
-@Sancti/04-25
-
 [Commemoratio Oratio]
 !Pro rogationibus
 @Tempora/Pasc5-1t:Oratio
+
+[Lectio]
+@Sancti/04-25
 
 [Graduale]
 @Commune/C2:GradualeP

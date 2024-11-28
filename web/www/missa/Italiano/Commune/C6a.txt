@@ -82,3 +82,4 @@ $Per Dominum
 [Postcommunio1]
 Nutriti dall'abbondanza del dono divino, ti preghiamo, o Signore nostro Dio, per l'intercessione della tua santa vergine e martire N. di farci vivere sempre in questa comunione.
 $Per Dominum
+

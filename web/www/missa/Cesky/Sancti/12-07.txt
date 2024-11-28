@@ -22,6 +22,11 @@ Ambrose
 [Oratio]
 @Commune/C4a:Oratio:s/N\./Ambrože/
 
+[Commemoratio Oratio]
+!Svatvečer Neposkvrněného Početí Panny Marie
+Bože, jenž jsi Matku jednorozeného svého v jejím Početí zázračně uchoval dědičné viny, dej, prosíme, abychom, chráněni jsouce její přímluvou, s čistým srdcem na její slavnosti mohli bráti účast.
+$Per eundem
+
 [Lectio]
 @Commune/C4a:Lectio
 

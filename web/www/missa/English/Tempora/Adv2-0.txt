@@ -30,11 +30,6 @@ V. Gather His faithful ones before Him, those who have made a covenant with Him 
 !Ps 121:1
 I rejoiced because they said to me: We will go up to the house of the Lord. Alleluia.
 
-[GradualeF]
-!Ps 49:2-3, 5
-From Sion, perfect in beauty, God shines forth.
-V. Gather His faithful ones before Him, those who have made a covenant with Him by sacrifice.
-
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
 !Matt 11:2-10
@@ -55,3 +50,8 @@ Up, Jerusalem! stand upon the heights; and behold the joy that comes to you from
 [Postcommunio]
 We who have been refreshed by the food of spiritual nourishment, humbly beseech You, O Lord, that through partaking of this sacrament You will teach us to disdain the things of earth and love those of heaven.
 $Per Dominum
+
+[GradualeF]
+!Ps 49:2-3, 5
+From Sion, perfect in beauty, God shines forth.
+V. Gather His faithful ones before Him, those who have made a covenant with Him by sacrifice.

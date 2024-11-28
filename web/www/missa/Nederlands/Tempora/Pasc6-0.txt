@@ -18,14 +18,14 @@ v. Ik roep tot U, o Heer, luister naar mijn smeken, alleluia. Voor U stort mijn 
 Almachtige, eeuwige God, laat ons altijd vol toewijding onze wil naar U richten en uw Majesteit oprecht dienen.
 $Per Dominum
 
+[Commemoratio Oratio]
+!Pro Octava Ascensionis
+@Tempora/Pasc5-4:Oratio
+
 [Lectio]
 Lezing uit de eerste Brief van de heilige Apostel Petrus
 !1 Pet 4:7-11
 Veelgeliefden, weest verstandig, en blijft waakzaam in het bidden. Maar vóór alles moet gij elkaar wederkerig een duurzame liefde toedragen; want de liefde bedekt een menigte van zonden. Weest gastvrij jegens elkander, zonder te klagen. Laat iedereen de genadegaven, zoals hij die heeft ontvangen, ook gebruiken tot elkanders nut, als goede beheerders van de veelsoortige genade van God. Als iemand spreekt, laat het dan zijn als het woord van God; als iemand een ambt uitoefent, laat hij dat doen als uit de kracht, die God verleent; opdat in alles eer gegeven worde aan God door Jezus Christus, onze Heer.
-
-[Commemoratio Oratio]
-!Pro Octava Ascensionis
-@Tempora/Pasc5-4:Oratio
 
 [Graduale]
 Alleluia, alleluia.

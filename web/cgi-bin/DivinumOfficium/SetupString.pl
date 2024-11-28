@@ -14,12 +14,13 @@ our $version, $datafolder;
 our %setupstring_caches_by_version;
 
 # Pseudo constants to be used in vero() sub
+# Commone Summorum Pont. introduced in 1942 only (=> not for Monastic 1930)
 my %subjects = (
   rubricis => sub {$version},
   rubrica => sub {$version},
   tempore => \&get_tempus_id,
   missa => sub { our $missanumber },
-  communi => sub { {summpont => ($version =~ /1960/ || $version =~ /1955/ || $version =~ /Divino/)} },
+  communi => sub { {summpont => ($version =~ /1960/ || $version =~ /1955/ || $version =~ /^Divino/)} },
   'die' => \&get_dayname_for_condition,
   feria => sub { our $dayofweek + 1 },
   commune => sub {$commune},
@@ -259,6 +260,7 @@ AUTEM: for (split /\baut\b/, $condition) {
 # their contents. $basedir and $lang are used for inclusions only.
 sub setupstring_parse_file($$$) {
   my ($fullpath, $basedir, $lang) = @_;
+
   my @filelines = do_read($fullpath) or return '';
 
   # Regex for matching section headers.
@@ -493,6 +495,10 @@ sub setupstring($$%) {
     $basedir =~ s/horas/missa/g;         # to infinite cycles github #525
   }
 
+  if ($fname =~ /Comment.txt$/) {
+    $basedir =~ s/missa/horas/g;         # missa uses comments from horas dir
+  }
+
   checklatinfile(\$fname);    # modifies $fname if fallback to Roman folder from Monastic or OP is used in Latin
 
   my $fullpath = "$basedir/$lang/$fname";
@@ -681,9 +687,13 @@ sub officestring($$;$) {
   my $m = 0;
   my $w = 0;
   if ($monthday =~ /([0-9][0-9])([0-9])\-[0-9]/) { $m = $1; $w = $2; }
-  my @months = ('Augusti', 'Septembris', 'Octobris', 'Novembris', 'Decembris');
   my @weeks = ('I.', 'II.', 'III.', 'IV.', 'V.');
-  if ($m) { $m = $months[$m - 8]; }
+
+  if ($m) {
+    my %m = %{setupstring($lang, 'Psalterium/Comment.txt')};
+    my @months = split("\n", $m{Menses});
+    $m = $months[$m - 8];
+  }
   if ($w) { $w = $weeks[$w - 1]; }
   $rank[0] .= " $w $m";
   $s{Rank} = join(';;', @rank);

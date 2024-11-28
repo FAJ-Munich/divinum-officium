@@ -35,11 +35,6 @@ Gij hebt het land doen sidderen, Heer, en met ontzetting geslagen.
 V. Herstel zijn kloven, want het wankelt.
 V. Dat zij vluchten voor de boog, opdat uw geliefden worden bevrijd.
 
-[GradualeF]
-!Ps 82:19; 82:14
-Laten de volkeren erkennen, dat uw Naam is: “God”; dat Gij de Allerhoogste zijt over heel de aarde, Gij alleen! 
-V. Mijn God, maak hen gelijk aan een wentelrad, aan een strohalm in de wind.
-
 [Evangelium]
 Vervolg ++ van het heilig Evangelie volgens Lucas
 !Luc 8:4-15
@@ -59,3 +54,8 @@ Ik zal opgaan naar het altaar van God, naar God, die de blijdschap is van mijn j
 [Postcommunio]
 Wij vragen U ootmoedig, almachtige God, laat hen, die Gij door uw Sacramenten verkwikt, U ook naar behoren en waardig dienen.
 $Per Dominum
+
+[GradualeF]
+!Ps 82:19; 82:14
+Laten de volkeren erkennen, dat uw Naam is: “God”; dat Gij de Allerhoogste zijt over heel de aarde, Gij alleen! 
+V. Mijn God, maak hen gelijk aan een wentelrad, aan een strohalm in de wind.

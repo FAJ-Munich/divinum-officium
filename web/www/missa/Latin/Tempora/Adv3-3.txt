@@ -16,29 +16,24 @@ Cœli enárrant glóriam Dei: et ópera mánuum ejus annúntiat firmaméntum.
 &Gloria
 v. Roráte, cœli, désuper, et nubes pluant justum: aperiátur terra, et gérminet Salvatórem
 
-[LectioL1]
-Léctio Isaíæ Prophétæ
-!Is 2:2-5.
-In diébus illis: Dixit Isaias Prophéta: Erit in novíssimis diébus præparátus mons domus Dómini in vértice móntium, et elevábitur super colles, et fluent ad eum omnes gentes. Et ibunt pópuli multi, et dicent: Veníte et ascendámus ad montem Dómini, et ad domum Dei Jacob, et docébit nos vias suas, et ambulábimus in sémitis ejus: quia de Sion exíbit lex, et verbum Dómini de Jerúsalem. Et judicábit gentes, et árguet pópulos multos: et conflábunt gládios suos in vómeres, et lánceas suas in falces. Non levábit gens contra gentem gládium: nec exercebúntur ultra ad prǽlium. Domus Jacob, veníte, et ambulémus in lúmine Dómini, Dei nostri.
-$Deo gratias
-
-[GradualeL1]
-!Ps 23:7; 23:3; 23:4
-v. Tóllite portas, principes, vestras: et elevámini, portæ æternáles: et introíbit Rex glóriæ.
-V. Quis ascéndet in montem Dómini? aut quis stabit in loco sancto ejus ? Innocens mánibus et mundo corde.
+[Oratio]
+Præsta, quǽsumus, omnípotens Deus: ut redemptiónis nostræ ventúra sollémnitas et præséntis nobis vitæ subsídia cónferat, et ætérnæ beatitúdinis prǽmia largiátur.
+$Per Dominum
 
 [OratioL1]
 Festína, quǽsumus, Dómine, ne tardáveris, et auxílium nobis supérnæ virtútis impénde: ut advéntus tui consolatiónibus sublevéntur, qui in tua pietáte confídunt:
 $Qui vivis
 
-[Oratio]
-Præsta, quǽsumus, omnípotens Deus: ut redemptiónis nostræ ventúra sollémnitas et præséntis nobis vitæ subsídia cónferat, et ætérnæ beatitúdinis prǽmia largiátur.
-$Per Dominum
-
 [Lectio]
 Lectio Isaíæ Prophétæ
 !Is 7:10-15
 In diébus illis: Locútus est Dóminus ad Achaz, dicens: Pete tibi signum a Dómino, Deo tuo, in profúndum inférni, sive in excélsum supra. Et dixit Achaz: Non petam et non tentábo Dóminum. Et dixit: Audíte ergo, domus David: Numquid parum vobis est, moléstos esse homínibus, quia molesti estis et Deo meo? Propter hoc dabit Dóminus ipse vobis signum. Ecce, Virgo concípiet et páriet fílium, et vocábitur nomen ejus Emmánuel. Butýrum et mel cómedet, ut sciat reprobare malum et elígere bonum.
+
+[LectioL1]
+Léctio Isaíæ Prophétæ
+!Is 2:2-5.
+In diébus illis: Dixit Isaias Prophéta: Erit in novíssimis diébus præparátus mons domus Dómini in vértice móntium, et elevábitur super colles, et fluent ad eum omnes gentes. Et ibunt pópuli multi, et dicent: Veníte et ascendámus ad montem Dómini, et ad domum Dei Jacob, et docébit nos vias suas, et ambulábimus in sémitis ejus: quia de Sion exíbit lex, et verbum Dómini de Jerúsalem. Et judicábit gentes, et árguet pópulos multos: et conflábunt gládios suos in vómeres, et lánceas suas in falces. Non levábit gens contra gentem gládium: nec exercebúntur ultra ad prǽlium. Domus Jacob, veníte, et ambulémus in lúmine Dómini, Dei nostri.
+$Deo gratias
 
 [Graduale]
 !Ps 144:18; 144:21
@@ -65,3 +60,8 @@ Ecce, Virgo concípiet et páriet fílium: et vocábitur nomen ejus Emmánuel.
 [Postcommunio]
 Salutáris tui, Dómine, munere satiáti, súpplices deprecámur: ut, cujus lætámur gustu, renovémur efféctu.
 $Per Dominum
+
+[GradualeL1]
+!Ps 23:7; 23:3; 23:4
+v. Tóllite portas, principes, vestras: et elevámini, portæ æternáles: et introíbit Rex glóriæ.
+V. Quis ascéndet in montem Dómini? aut quis stabit in loco sancto ejus ? Innocens mánibus et mundo corde.

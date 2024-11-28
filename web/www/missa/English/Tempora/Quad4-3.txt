@@ -15,28 +15,23 @@ I will bless the Lord at all times; His praise shall be ever in my mouth.
 &Gloria
 v. When I shall be sanctified in you, I will gather you from every land: and I will pour upon you clean water, and you shall be cleansed from all your filthiness: and I will give you a new spirit.
 
-[LectioL1]
-Lesson from the Prophecy of Ezechiel
-!Ezech 36:23-28
-Thus says the Lord God: I will prove the holiness of My great Name, profaned among the nations, in whose midst you have profaned it. Thus the nations shall know that I am the Lord, when in their sight I prove My holiness through you. For I will take you away from among the nations, gather you from all the foreign lands, and bring you back to your own land. I will sprinkle clean water upon you to cleanse you from all your impurities, and from all your idols I will cleanse you. I will give you a new heart and place a new spirit within you, taking from your bodies your stony hearts and giving you natural hearts. I will put My spirit within you and make you live by My statutes, careful to observe My decrees. You shall live in the land I gave your fathers; you shall be My people, and I will be your God, says the Lord almighty.
-
-[GradualeL1]
-!Ps 33:12, 6
-Come, children, hear Me, I will teach you the fear of the Lord.
-V. Look to Him that you may be radiant with joy, and your faces may not blush with shame.
+[Oratio]
+O God, Who graciously grant to the righteous the rewards of their merits, and to sinners forgiveness through fasting, have mercy upon Your humble servants, so that, confessing our guilt, we may obtain pardon for our transgressions.
+$Per Dominum
 
 [OratioL1]
 Grant, we beseech You, almighty God, that we who are chastising the flesh by fasting, may rejoice in this holy practice, and thus, with earthly passions subdued, we may the more readily direct our thoughts to heavenly things.
-$Per Dominum
-
-[Oratio]
-O God, Who graciously grant to the righteous the rewards of their merits, and to sinners forgiveness through fasting, have mercy upon Your humble servants, so that, confessing our guilt, we may obtain pardon for our transgressions.
 $Per Dominum
 
 [Lectio]
 Lesson from the Prophecy of Isaias
 !Isa. 1:16-19
 Thus says the Lord God: Wash yourselves clean! Put away your misdeeds from before My eyes; cease doing evil; learn to do good. Make justice your aim: redress the wronged, hear the orphan’s plea, defend the widow. Come now, let us set things right, says the Lord: though your sins be like scarlet, they may become white as snow; though they be crimson red, they may become white as wool. If you are willing, and obey, you shall eat the good things of the land, says the Lord almighty.
+
+[LectioL1]
+Lesson from the Prophecy of Ezechiel
+!Ezech 36:23-28
+Thus says the Lord God: I will prove the holiness of My great Name, profaned among the nations, in whose midst you have profaned it. Thus the nations shall know that I am the Lord, when in their sight I prove My holiness through you. For I will take you away from among the nations, gather you from all the foreign lands, and bring you back to your own land. I will sprinkle clean water upon you to cleanse you from all your impurities, and from all your idols I will cleanse you. I will give you a new heart and place a new spirit within you, taking from your bodies your stony hearts and giving you natural hearts. I will put My spirit within you and make you live by My statutes, careful to observe My decrees. You shall live in the land I gave your fathers; you shall be My people, and I will be your God, says the Lord almighty.
 
 [Graduale]
 !Ps 32:12, 6
@@ -70,6 +65,11 @@ The Lord made clay of spittle, and anointed my eyes: and I went, and I washed, a
 [Postcommunio]
 May the sacrament we have received, O Lord, both fill us with spiritual nourishment and sustain us with bodily aid.
 $Per Dominum
+
+[GradualeL1]
+!Ps 33:12, 6
+Come, children, hear Me, I will teach you the fear of the Lord.
+V. Look to Him that you may be radiant with joy, and your faces may not blush with shame.
 
 [Super populum]
 !Prayer over the people

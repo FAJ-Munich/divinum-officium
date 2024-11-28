@@ -18,6 +18,10 @@ v. In excélso throno vidi sedére virum, quem adórat multitúdo Angelórum, ps
 Vota, quǽsumus, Dómine, supplicántis pópuli cœlésti pietáte proséquere: ut et, quæ agénda sunt, vídeant, et ad implénda, quæ víderint, convaléscant.
 $Per Dominum
 
+[Commemoratio Oratio]
+!Pro Octavam Epiphaniæ
+@Sancti/01-06:Oratio
+
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Romános.
 !Rom 12:1-5

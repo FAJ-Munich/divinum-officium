@@ -22,30 +22,25 @@ Ku Tobie wznoszę duszę moją, Panie, Boże mój, Tobie ufam: niech nie doznam 
 &Gloria
 v. Wspomnij na zmiłowania Twe, Panie, na miłosierdzie, które trwa od wieków, niech nie panują nad nami nasi wrogowie. Wybaw nas, Boże Izraela, ze wszystkich ucisków naszych.
 
-[LectioL1]
-Czytanie z Księgi Wyjścia.
-!Wj 24:12-18
-W one dni rzekł Pan do Mojżesza: «Wstąp do mnie na górę i bądź tam: dam ci tablice kamienne i zakon, i przykazania, którem napisał, abyś ich nauczył». Wstali Mojżesz i Jozue, sługa jego; a Mojżesz wstępując na górę Bożą rzekł do starszych: «Poczekajcie tu, aż się wrócimy do was. Macie Aarona i Hura z sobą; jeśli się jaka sprawa wyłoni, odniesiecie się do nich».
-A gdy Mojżesz wstąpił, obłok okrył górę. I mieszkała chwała Pańska na Synaju okrywając go obłokiem przez sześć dni. A siódmego dnia zawołał go z pośrodka mgły. A wygląd chwały Pańskiej był jakby ognia pałającego na wierzchu góry przed oczyma synów Izraelowych. I wszedłszy Mojżesz w pośrodek mgły, wstąpił na górę i był tam czterdzieści dni i czterdzieści nocy.
-$Deo Gratias
-
-[GradualeL1]
-!Ps 24:17-18
-Ulżyj uciskom serca mojego, wyrwij mnie z moich udręczeń, Panie.
-V. Wejrzyj na nędzę moją i na mój trud i odpuść wszystkie me występki.
+[Oratio]
+Wysłuchaj łaskawie, prosimy Cię, Panie, nasze modlitwy i przeciw wszystkiemu, co jest nam wrogie, wyciągnij prawicę Twego majestatu.
+$Per Dominum
 
 [OratioL1]
 Wejrzyj łaskawie, prosimy, Panie, na oddanie Twojego ludu, aby umartwiając ciało postem, wzmocnił ducha owocem dobrych uczynków.
-$Per Dominum
-
-[Oratio]
-Wysłuchaj łaskawie, prosimy Cię, Panie, nasze modlitwy i przeciw wszystkiemu, co jest nam wrogie, wyciągnij prawicę Twego majestatu.
 $Per Dominum
 
 [Lectio]
 Czytanie z Księgi Królewskiej.
 !3 Krl 19:3-8
 W one dni: Przybył Eliasz do judzkiego Bersabee i zostawił tam sługę swego, a sam podążył w stronę pustyni jeden dzień drogi. Gdy przyszedłszy siedział pod jednym jałowcem, zapragnął dla siebie śmierci i rzekł: «Dosyć mi, Panie, weź życie moje: bom ja nie lepszy od ojców moich». I rzucił się ((na ziemię)), i zasnął w cieniu jałowca. A oto Anioł Pański dotknął go i rzekł mu: «Wstań, a pożywaj». Spojrzał, a oto u głowy jego chleb podpłomny i naczynie z wodą. Pożywał więc i pił i zasnął znowu. A wrócił Anioł Pański po raz wtóry i dotknął go, i rzekł mu: «Wstań, pożywaj, bo wielka jeszcze droga przed tobą». A on powstawszy pożywał i pił, i szedł o sile tego pokarmu czterdzieści dni i czterdzieści nocy aż do Bożej góry Horeb.
+
+[LectioL1]
+Czytanie z Księgi Wyjścia.
+!Wj 24:12-18
+W one dni rzekł Pan do Mojżesza: «Wstąp do mnie na górę i bądź tam: dam ci tablice kamienne i zakon, i przykazania, którem napisał, abyś ich nauczył». Wstali Mojżesz i Jozue, sługa jego; a Mojżesz wstępując na górę Bożą rzekł do starszych: «Poczekajcie tu, aż się wrócimy do was. Macie Aarona i Hura z sobą; jeśli się jaka sprawa wyłoni, odniesiecie się do nich».
+A gdy Mojżesz wstąpił, obłok okrył górę. I mieszkała chwała Pańska na Synaju okrywając go obłokiem przez sześć dni. A siódmego dnia zawołał go z pośrodka mgły. A wygląd chwały Pańskiej był jakby ognia pałającego na wierzchu góry przed oczyma synów Izraelowych. I wszedłszy Mojżesz w pośrodek mgły, wstąpił na górę i był tam czterdzieści dni i czterdzieści nocy.
+$Deo Gratias
 
 [Graduale]
 !Ps 24:17; 24:18; 24:1-4
@@ -75,6 +70,11 @@ Zważ na moje wołanie, zwróć się na głos modlitwy mojej, mój Królu i Boż
 [Postcommunio]
 Panie, niech przyjęcie Twego Sakramentu oczyści nas z ukrytych grzechów i wybawi od zasadzek nieprzyjacielskich.
 $Per Dominum
+
+[GradualeL1]
+!Ps 24:17-18
+Ulżyj uciskom serca mojego, wyrwij mnie z moich udręczeń, Panie.
+V. Wejrzyj na nędzę moją i na mój trud i odpuść wszystkie me występki.
 
 [Super populum]
 !Modlitwa nad ludem

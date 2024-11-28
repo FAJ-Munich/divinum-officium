@@ -4,6 +4,9 @@ St. Damasus, Pope and Confessor;;Semiduplex;;2.9;;vide C4
 [Rank] (rubrica 196)
 St. Damasus, Pope and Confessor;;Duplex;;3;;vide C4
 
+[Rank] (rubrica innovata)
+0
+
 [Rule]
 vide C4;
 9 lectiones;

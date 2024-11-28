@@ -8,3 +8,4 @@ vide C5;
 [Oratio]
 Deus, qui sanctum Joánnem Baptístam Confessórem tuum in evangelizándis paupéribus caritáte et patiéntia decorásti: concéde quǽsumus; ut cujus pia mérita venerámur, virtútum quoque imitémur exémpla.
 $Per Dominum
+

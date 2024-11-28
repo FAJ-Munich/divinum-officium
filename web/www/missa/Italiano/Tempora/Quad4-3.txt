@@ -15,29 +15,24 @@ Benedirò il Signore in ogni tempo e la sua lode sarà sempre sulla mia bocca.
 &Gloria
 v. Quando avrò fatto conoscere tra di voi la mia santità, vi radunerò da tutte le terre, e infonderò su di voi un'acqua monda, e sarete purificati da tutte le vostre macchie; vi darò uno spirito nuovo.
 
-[LectioL1]
-Dal libro del profeta Ezechiele.
-!Ezech 36:23-28
-Queste cose dice il Signore Dio: «Io darò gloria al mio nome grande, che è disonorato tra le nazioni in mezzo alle quali voi l'avete profanato, e le nazioni sapranno che io sono il Signore, perché avranno allora la prova della mia santità da quanto opererò in vostro favore. Io vi toglierò di mezzo alle genti, vi radunerò da tutte le regioni, vi condurrò alla vostra terra. Io verserò sopra di voi acqua pura, e voi sarete purificati da tutte le vostre immondezze, da tutti i vostri idoli. Io vi purificherò; e io vi darò un nuovo cuore, io porrò dentro di voi uno spirito nuovo, e toglierò dal vostro corpo il cuore di pietra, e vi darò un cuore di carne. Io metterò dentro di voi il mio spirito, vi farò seguire i miei precetti, osservare e praticare le mie leggi. Voi abiterete nella terra che io diedi ai padri vostri, voi sarete il mio popolo, ed io sarò il vostro Dio», dice il Signore onnipotente.
-$Deo Gratias
-
-[GradualeL1]
-!Ps 38:12, 6
-Venite, figli, ascoltatemi: vi insegnerò il timore del Signore.
-V. Guardate a lui, sarete luminosi, il vostro volto non arrossirà.
+[Oratio]
+O Dio, che, per mezzo del digiuno, ai giusti concedi il premio dei meriti ed ai peccatori il perdono: abbi pietà di noi supplici; e fa' che l'umile riconoscimento dei nostri peccati ci valga la remissione delle colpe.
+$Per Dominum
 
 [OratioL1]
 Ti preghiamo, o Signore Dio onnipotente: da' a quanti espiano con questi sacri digiuni, di essere pure rallegrati da santa devozione; affinché, mitigati gli affetti terreni, più agevolmente raggiungiamo i doni celesti.
-$Per Dominum
-
-[Oratio]
-O Dio, che, per mezzo del digiuno, ai giusti concedi il premio dei meriti ed ai peccatori il perdono: abbi pietà di noi supplici; e fa' che l'umile riconoscimento dei nostri peccati ci valga la remissione delle colpe.
 $Per Dominum
 
 [Lectio]
 Dal libro del profeta Isaia.
 !Is 1:16-19
 Così parla il Signore Iddio: «Lavatevi, purificatevi, togliete dai miei occhi la cattiveria dei vostri pensieri; cessate di fare il male, imparate a fare il bene, cercate la giustizia, soccorrete l’oppresso, proteggete l'orfano, difendete la vedova. E poi, doletevi di Me, se potrete. Se i vostri peccati fossero come scarlatto, diventeranno bianchi come la neve; e se fossero vermigli come la cocciniglia, diverranno bianchi come la lana. Se di buona volontà mi ascolterete, avrete i beni della terra», dice il Signore onnipotente.
+
+[LectioL1]
+Dal libro del profeta Ezechiele.
+!Ezech 36:23-28
+Queste cose dice il Signore Dio: «Io darò gloria al mio nome grande, che è disonorato tra le nazioni in mezzo alle quali voi l'avete profanato, e le nazioni sapranno che io sono il Signore, perché avranno allora la prova della mia santità da quanto opererò in vostro favore. Io vi toglierò di mezzo alle genti, vi radunerò da tutte le regioni, vi condurrò alla vostra terra. Io verserò sopra di voi acqua pura, e voi sarete purificati da tutte le vostre immondezze, da tutti i vostri idoli. Io vi purificherò; e io vi darò un nuovo cuore, io porrò dentro di voi uno spirito nuovo, e toglierò dal vostro corpo il cuore di pietra, e vi darò un cuore di carne. Io metterò dentro di voi il mio spirito, vi farò seguire i miei precetti, osservare e praticare le mie leggi. Voi abiterete nella terra che io diedi ai padri vostri, voi sarete il mio popolo, ed io sarò il vostro Dio», dice il Signore onnipotente.
+$Deo Gratias
 
 [Graduale]
 !Ps 32:12, 6
@@ -71,6 +66,11 @@ Gesù fece del fango con della saliva, me ne spalmò gli occhi; io andai, li lav
 [Postcommunio]
 I sacramenti ricevuti, o Signore Dio nostro, ci sazino di cibi spirituali e ci difendano con aiuti corporali.
 $Per Dominum
+
+[GradualeL1]
+!Ps 38:12, 6
+Venite, figli, ascoltatemi: vi insegnerò il timore del Signore.
+V. Guardate a lui, sarete luminosi, il vostro volto non arrossirà.
 
 [Super populum]
 !Orazione sul popolo.

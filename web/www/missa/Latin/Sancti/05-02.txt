@@ -32,14 +32,6 @@ Tu es sacérdos in ætérnum, secúndum órdinem Melchísedech. Allelúja
 !Jas 1:12
 Beátus vir, qui suffert tentatiónem: quóniam, cum probátus fúerit, accípiet corónam vitæ. Allelúja.
 
-[Graduale1]
-!Eccli 44:16
-Ecce sacérdos magnus, qui in diébus suis plácuit Deo.
-!Eccli 44:20
-Non est invéntus símilis illi, qui conserváret legem Excélsi. Allelúja, allelúja
-!Jas 1:12
-Beátus vir, qui suffert tentatiónem: quóniam cum probátus fúerit, accípiet corónam vitæ. Allelúja.
-
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthǽum.
 !Matt 10:23-28
@@ -58,3 +50,11 @@ Quod dico vobis in ténebris, dícite in lúmine, dicit Dóminus: et quod in aur
 
 [Postcommunio]
 @Commune/C4d:Postcommunio:s/N\./Athanásii/
+
+[Graduale1]
+!Eccli 44:16
+Ecce sacérdos magnus, qui in diébus suis plácuit Deo.
+!Eccli 44:20
+Non est invéntus símilis illi, qui conserváret legem Excélsi. Allelúja, allelúja
+!Jas 1:12
+Beátus vir, qui suffert tentatiónem: quóniam cum probátus fúerit, accípiet corónam vitæ. Allelúja.

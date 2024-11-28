@@ -22,11 +22,11 @@ v. Laten wij ons allen in de Heer verheugen, nu wij de feestdag vieren ter ere v
 God, voor uw Kerk is de roemrijke bisschop Thomas door het zwaard der bozen gestorven; wij vragen U, schenk allen, die zijn hulp inroepen, de heilzame vervulling van hun wens.
 $Per Dominum
 
-[Lectio]
-@Sancti/11-14
-
 [Commemoratio Oratio]
 @Sancti/12-26
+
+[Lectio]
+@Sancti/11-14
 
 [Graduale]
 !Eccli 44:16

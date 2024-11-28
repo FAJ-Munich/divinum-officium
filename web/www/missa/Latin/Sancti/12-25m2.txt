@@ -19,13 +19,13 @@ v. Lux fulgébit hódie super nos: quia natus est nobis Dóminus: et vocábitur 
 Da nobis, quǽsumus, omnípotens Deus: ut, qui nova incarnáti Verbi tui luce perfúndimur; hoc in nostro respléndeat ópere, quod per fidem fulget in mente.
 $Per eundem
 
-[Lectio]
-@Commune/C10b
-
 [Commemoratio Oratio]
 !Pro S. Anastasiæ
 Da, quǽsumus, omnípotens Deus: ut, qui beátæ Anastásiæ Mártyris tuæ sollémnia cólimus; ejus apud te patrocínia sentiámus.
 $Per Dominum
+
+[Lectio]
+@Commune/C10b
 
 [Graduale]
 !Ps 117:26; 117:27; 117:23
