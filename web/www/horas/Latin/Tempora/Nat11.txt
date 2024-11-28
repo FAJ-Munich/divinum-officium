@@ -31,3 +31,20 @@ De Epístola ad Romános
 14 Certus sum autem, fratres mei, et ego ipse de vobis, quóniam et ipsi pleni estis dilectióne, repléti omni sciéntia, ita ut possítis altérutrum monére. 
 15 Audácius autem scripsi vobis, fratres, ex parte, tamquam in memóriam vos redúcens: propter grátiam, quæ data est mihi a Deo,
 16 ut sim miníster Christi Jesu in géntibus: sanctíficans Evangélium Dei, ut fiat oblátio géntium accépta, et sanctificáta in Spíritu Sancto.
+
+[Responsory1] (rubrica 196)
+@SanctiM/01-07
+(sed rubrica 1960)
+@Sancti/01-06:Responsory1InfraOctavam
+
+[Responsory2] (rubrica 196)
+@SanctiM/01-07
+(sed feria 7)
+@SanctiM/01-07:Responsory3
+(sed rubrica 1960)
+@Sancti/01-06
+
+[Responsory3] (rubrica 196)
+@SanctiM/01-07
+(sed rubrica 1960)
+@Sancti/01-06

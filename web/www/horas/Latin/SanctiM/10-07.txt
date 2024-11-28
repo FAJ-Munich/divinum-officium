@@ -6,11 +6,6 @@ Beatæ Mariæ Virginis a Rosario;;Duplex;;3;;ex C11
 [Responsory Vespera]
 @Sancti/10-07:Responsory Sexta:s/._.*//s
 
-[Hymnus Matutinum]
-@Sancti/10-07:Hymnus Vespera:s/.@.*//s
-_
-@Sancti/10-07:Hymnus Matutinum:s/v. // s/Nat/NatT/
-
 [Lectio94]
 @Sancti/10-07:Lectio7:s/.*_//s s/!.*//s
 @Sancti/10-07:Lectio8
@@ -25,9 +20,6 @@ _
 
 [Hymnus Laudes]
 @Sancti/10-07::s/Nat/NatT/
-
-[Commemoratio 2]
- 
 
 [Responsory TertiaM]
 V. Sancta Dei Génetrix, semper Virgo Maria.

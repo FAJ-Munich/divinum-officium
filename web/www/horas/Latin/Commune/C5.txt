@@ -26,6 +26,10 @@ $Per Dominum.
 Intercéssio nos, quǽsumus, Dómine, beáti N. Abbátis comméndet: ut, quod nostris méritis non valémus, ejus patrocínio assequámur.
 $Per Dominum.
 
+[Oratio2]
+Adésto, Dómine, supplicatiónibus nostris, quas in beáti N. Confessóris tui solemnitáte deférimus: ut, qui nostræ justítiæ fidúciam non habémus, ejus, qui tibi plácuit, précibus adjuvémur.
+$Per Dominum.
+
 [Nocturn 2 Versum]
 V. Os justi meditábitur sapiéntiam.
 R. Et lingua ejus loquétur judícium.
@@ -223,10 +227,6 @@ Amen.
 
 [Ant 2]
 Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, intra in gáudium Dómini tui.
-
-[Oratio2]
-Adésto, Dómine, supplicatiónibus nostris, quas in beáti N. Confessóris tui solemnitáte deférimus: ut, qui nostræ justítiæ fidúciam non habémus, ejus, qui tibi plácuit, précibus adjuvémur.
-$Per Dominum.
 
 [Lectio Prima]
 !Sap 10:10

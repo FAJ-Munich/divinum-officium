@@ -36,6 +36,7 @@ De Canticis Canticorum
 
 [Lectio4]
 Sermo sancti Joannis Damasceni
+!Orat. 2 de dorm. Deiparæ
 Hodie sacra et animata arca Dei viventis, quæ suum in utero concepit creatorem, requiescit in templo Domini, quod nullis est extructum manibus: et David exultat eius parens, et cum eo choros ducunt angeli, celebrant Arcangeli, Virtutes glorificant, Principatus exultant, Potestates callætantur, gaudent Dominationes, Throni festum diem agunt, laudant Cherubim, gloriam eius prædicant Seraphim. Hodie Eden novi Adam paradisum suscipit animatum, in quo soluta est condemnatio, in quo plantatum est lignum vitæ, in quo operta fuit nostra nuditas.
 
 [Lectio5]

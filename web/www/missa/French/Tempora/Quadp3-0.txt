@@ -32,6 +32,11 @@ Acclamez Dieu, toute la terre : servez le Seigneur avec joie.
 V. Entrez en sa présence avec allégresse ; sachez que c’est le Seigneur qui est Dieu.
 V. C’est lui qui nous a faits et nous pas nous-mêmes ; mais nous sommes son peuple et les brebis de son pâturage.
 
+[GradualeF]
+!Ps 76:15; 76:16
+Vous êtes le Dieu qui seul opérez des merveilles. Vous avez fait connaître parmi les peuples votre puissance.
+V. Vous avez racheté par votre bras votre peuple, les fils d’Israël et de Joseph.
+
 [Evangelium]
 Lecture du Saint Évangile selon saint Luc.
 !Luc 18:31-43
@@ -52,8 +57,3 @@ Ils mangèrent et furent rassasiés à l’excès, et le Seigneur leur accorda c
 [Postcommunio]
 Nous vous en supplions, Dieu tout puissant, faites que nous soyons munis contre toute adversité grâce aux célestes aliments que nous avons reçus.
 $Per Dominum
-
-[GradualeF]
-!Ps 76:15; 76:16
-Vous êtes le Dieu qui seul opérez des merveilles. Vous avez fait connaître parmi les peuples votre puissance.
-V. Vous avez racheté par votre bras votre peuple, les fils d’Israël et de Joseph.

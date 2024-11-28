@@ -10,11 +10,6 @@ Sequentia
 Credo
 Prefatio=Spiritu
 
-[Lectio]
-Olvasmány szent Pál apostol Rómaiakhoz irott leveléből
-!Rom 5:1-5
-v. Mivel tehát a hit révén megigazultunk, békében élünk az Istennel, Urunk, Jézus Krisztus által. Általa jutottunk hozzá a hitben a kegyelemhez, amelyben élünk, és dicsekszünk a reménységgel, hogy az isteni dicsőség részesei lehetünk. De nemcsak ezzel, hanem még szenvedéseinkkel is dicsekszünk, mert tudjuk, hogy a szenvedésből türelem fakad, a türelemből kipróbált erény, a kipróbált erényből reménység. A remény pedig nem csal meg, mert a nekünk ajándékozott Szentlélekkel kiáradt szívünkbe az Isten szeretete.
-
 [LectioL1]
 Olvasmány Joel próféta könyvéből
 !Joel 2:28-32
@@ -44,6 +39,11 @@ Olvasmány Dániel próféta könyvéből
 !Dan 3:49-51
 Az Úr angyala pedig leszálla Azariással és társaival a kemenczébe, és a t&#369;z lángját kétfelé üté a kemenczében, és olyanná tevé a kemencze közepét, mint harmaton a szell&#337; lengedezését; és a t&#369;z teljességgel nem illeté &#337;ket, semmi fájdalmokra és semmi bántásokra sem l&#337;n. Ekkor azok hárman mind egy szájjal * dicsérék, dics&#337;iték és áldák Istent a kemenczében, mondván:
 $Deo Gratias
+
+[Lectio]
+Olvasmány szent Pál apostol Rómaiakhoz irott leveléből
+!Rom 5:1-5
+v. Mivel tehát a hit révén megigazultunk, békében élünk az Istennel, Urunk, Jézus Krisztus által. Általa jutottunk hozzá a hitben a kegyelemhez, amelyben élünk, és dicsekszünk a reménységgel, hogy az isteni dicsőség részesei lehetünk. De nemcsak ezzel, hanem még szenvedéseinkkel is dicsekszünk, mert tudjuk, hogy a szenvedésből türelem fakad, a türelemből kipróbált erény, a kipróbált erényből reménység. A remény pedig nem csal meg, mert a nekünk ajándékozott Szentlélekkel kiáradt szívünkbe az Isten szeretete.
 
 [Sequentia]
 @Tempora/Pasc7-0:Sequentia

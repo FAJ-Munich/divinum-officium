@@ -9,6 +9,9 @@ Commune Doctore non Pontificis
 [Oratio]
 @Commune/C4:Oratio2
 
+[Oratio3]
+@Commune/C5:Oratio
+
 [Lectio1]
 @Commune/C4a
 
@@ -41,9 +44,6 @@ Commune Doctore non Pontificis
 
 [Ant 3]
 @:Ant 1
-
-[Oratio3]
-@Commune/C5:Oratio
 
 [Lectio7 in 4 loco]
 @Commune/C2

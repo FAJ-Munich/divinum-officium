@@ -50,6 +50,14 @@ $Per Dominum
 O Gott, der du uns durch deines heiligen Martyrers und Bischofs N. jährliche Festlichkeit Freude bereitest, gewähre uns huldvollst die Gnade, da wir seinen Eintritt zum Leben begehen, uns auch über den uns von ihm gewährten Schutz freuen zu können.
 $Per Dominum
 
+[Oratio2]
+Verleihe uns, wir bitten dich, o allmächtiger Gott, die Gnade, daß wir, die wir deines heiligen Martyrers N. Eingang zum Leben feiern, auf seine Fürsprache hin in der Liebe zu deiner Majestät gefestigt werden.
+$Per Dominum
+
+[Oratio3]
+Verleihe uns, wir bitten dich, o allmächtiger Gott, die Gnade, daß wir auf die Fürsprache deines heiligen Martyrers N. von allen Störungen nach außen befreit bleiben und auch im Innern von verkehrten Gedanken verschont werden.
+$Per Dominum
+
 [Invit]
 Den Herrn, den König der Martyrer, * Kommt, ihn wollen wir anbeten.
 
@@ -227,10 +235,6 @@ R. Entwickelt sich wie auf dem Libanon die Zeder.
 [Ant 2]
 Wer sich selbst die Liebe versagt * in diesem Leben, sichert sich für das ewige Leben.
 
-[Oratio2]
-Verleihe uns, wir bitten dich, o allmächtiger Gott, die Gnade, daß wir, die wir deines heiligen Martyrers N. Eingang zum Leben feiern, auf seine Fürsprache hin in der Liebe zu deiner Majestät gefestigt werden.
-$Per Dominum
-
 [Lectio Prima]
 !Sir 39,6
 v. Der Gottesdiener hat seinen Sinn in aller Frühe wachgehalten und zum Herrn, seinem Schöpfer, gelenkt und Gebete vor dem Allerhöchsten verrichtet.
@@ -266,10 +270,6 @@ R. Groß ist sein Ruhm * ob des Sieges, den du ihm gewährt hast.
 
 [Ant 3]
 Wer mein Jünger sein will, * muss sich selbst verleugnen und sein Kreuz auf sich nehmen, und dann mag er mir folgen.
-
-[Oratio3]
-Verleihe uns, wir bitten dich, o allmächtiger Gott, die Gnade, daß wir auf die Fürsprache deines heiligen Martyrers N. von allen Störungen nach außen befreit bleiben und auch im Innern von verkehrten Gedanken verschont werden.
-$Per Dominum
 
 [Lectio7 in 3 loco]
 Léctio sancti Evangélii secúndum Matthǽum

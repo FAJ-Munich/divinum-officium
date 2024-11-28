@@ -74,6 +74,10 @@ $Per Dominum.
 Esaudisci, o Signore, le preghiere che ti innalziamo nella solennità di San N., tuo Confessore e Pontefice, che meritò di servirti degnamente e, per sua intercessione, perdona tutti i nostri peccati. 
 $Per Dominum.
 
+[Oratio2]
+O Signore, che desti al tuo popolo come ministro di eterna salvezza San N., fa' che meritiamo di averlo intercessore nel cielo, come lo abbiamo avuto Dottore qui sulla terra. 
+$Per Dominum.
+
 [Invit]
 Il Signore, re dei confessori, * venite, adoriamo. 
 
@@ -246,10 +250,6 @@ R. E gli mostrò il regno di Dio.
 
 [Ant 2]
 Bene, servo buono * e fedele, poiché sei stato fedele nel poco, ti darò autorità su molto, dice il Signore.
-
-[Oratio2]
-O Signore, che desti al tuo popolo come ministro di eterna salvezza San N., fa' che meritiamo di averlo intercessore nel cielo, come lo abbiamo avuto Dottore qui sulla terra. 
-$Per Dominum.
 
 [Lectio Prima]
 !Sir 45:19-20

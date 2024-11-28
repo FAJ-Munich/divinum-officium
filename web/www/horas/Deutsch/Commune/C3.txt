@@ -55,6 +55,10 @@ $Per Dominum
 Laß, wir bitten dich, o Herr, deiner heiligen Martyrer und zugleich Bischöfe N. und N. Festlichkeit uns Schutz gewähren, und möge ihr ehrwürdiges Gebet uns ständig dir empfehlen.
 $Per Dominum
 
+[Oratio2]
+O Gott, der du uns durch das jährlich wiederkehrende Fest deiner heiligen Martyrer N. und N. Freude bereitest, gewähre uns die Gnade, daß wir, da wir uns an deren Verdiensten erfreuen, auch durch ihr Beispiel angefeuert werden.
+$Per Dominum
+
 [Hymnus Matutinum]
 {:H-Christoprofusum:}v. Das für den Herrn vergoss'ne Blut,
 Der Gottesstreiter Sieg im Streit,
@@ -245,10 +249,6 @@ R. Es jauchzet laut in seinen Zelten.
 
 [Ant 2]
 Die Haare eures Hauptes * sind alle gezählt; habt keine Angst, ihr seid viel mehr wert als alle Vögel.
-
-[Oratio2]
-O Gott, der du uns durch das jährlich wiederkehrende Fest deiner heiligen Martyrer N. und N. Freude bereitest, gewähre uns die Gnade, daß wir, da wir uns an deren Verdiensten erfreuen, auch durch ihr Beispiel angefeuert werden.
-$Per Dominum
 
 [Lectio Prima]
 !Weish 3,7-8

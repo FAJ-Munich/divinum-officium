@@ -18,14 +18,13 @@ No suffragium
 Sermón de San Agustín, Obispo. 
 !El mismo Sermón 176, en el fin.
 Si nuestro Salvador no triunfó del diablo en nuestra carne, se ejercitó en el combate, pero no venció en nuestro favor. Si no resucitó en nuestro cuerpo, nada cambió en nuestra condición al resucitar. Quien esto afirme no comprende la razón de haberse encarnado el Hijo de Dios, confunde el orden de la Redención y destruye su utilidad. Si no llevó a cabo la obra de nuestra curación en nuestra  carne, nada asumió de la naturaleza humana más que la humillación del nacimiento. Lejos de nosotros tan peligrosa creencia. Nuestro era lo que tomó; suyo era lo que nos dio. Confieso que era mío lo que cayó, a fin de que sea también mío lo que resucitó. Reconozco que era mío lo que estuvo en el sepulcro, a fin de que sea mío lo que subió al cielo.
-(rubrica 1570)
-@:InIllo
+(rubrica 1570) @:InIllo
 
 [Lectio5]
 @:InIllo
 (la rúbrica de 1570 omite el siguiente versículo)
-Trabajemos para que así como el Señor en este día subió con nuestro cuerpo al cielo, así nosotros, según nuestra posibilidad, subamos en pos de Él con la esperanza y le sigamos con el corazón.  Subamos con Él por nuestro afecto, por nuestros progresos en la virtud, aun por medio de nuestros vicios y pasiones. Si procuramos sujetarlas y tenerlas sumisas, por medio de las mismas construimos una escalera para subir a cosas más altas. Nos elevarán si quedan por debajo de nosotros. (rúbrica 1570)
-@:DeVitiis
+Trabajemos para que así como el Señor en este día subió con nuestro cuerpo al cielo, así nosotros, según nuestra posibilidad, subamos en pos de Él con la esperanza y le sigamos con el corazón.  Subamos con Él por nuestro afecto, por nuestros progresos en la virtud, aun por medio de nuestros vicios y pasiones. Si procuramos sujetarlas y tenerlas sumisas, por medio de las mismas construimos una escalera para subir a cosas más altas. Nos elevarán si quedan por debajo de nosotros. 
+(rúbrica 1570) @:DeVitiis
 
 [Lectio6]
 @:DeVitiis

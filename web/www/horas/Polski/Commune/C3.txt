@@ -55,6 +55,10 @@ $Per Dominum
 Prosimy Cię, Panie, niechaj obchód świętych błogosławionych Męczenników i Biskupów N. i N. będzie nam obroną, a chwalebna ich modlitwa Tobie nas poleca.
 $Per Dominum
 
+[Oratio2]
+Boże, który uroczystością świętych Męczenników Twoich N. i N. corocznie nas uweselasz, dozwól łaskawie, aby przykłady tych, których zasługami się radujemy, pobudziły nas do dobrego.
+$Per Dominum
+
 [Hymnus Matutinum]
 v. Dla Chrystusa przelaną krew
 I zwycięstwa Męczenników
@@ -168,10 +172,6 @@ R. Rozradują się w łożnicach swoich.
 
 [Ant 2]
 Włosy głowy waszéj * wszystkie są zliczone: a przeto się nie bójcie: drożsiście wy niżli wiele wróblów.
-
-[Oratio2]
-Boże, który uroczystością świętych Męczenników Twoich N. i N. corocznie nas uweselasz, dozwól łaskawie, aby przykłady tych, których zasługami się radujemy, pobudziły nas do dobrego.
-$Per Dominum
 
 [Lectio Prima]
 !Mdr 3:7-8

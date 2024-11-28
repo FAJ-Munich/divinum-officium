@@ -78,3 +78,6 @@ Christus caput Mártyrum prior passus est pro nobis, relínquens vobis exémplum
 [Commemoratio 2] (rubrica tridentina)
 @Sancti/12-27:Octava
 @Sancti/12-28:Octava
+
+[Ant Vespera 3] (rubrica tridentina)
+@Sancti/12-26:Ant Laudes

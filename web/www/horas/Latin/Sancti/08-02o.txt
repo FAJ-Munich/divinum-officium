@@ -3,7 +3,7 @@ S. Stephani Papæ Martyris;;Simplex;;1.1;;vide C2
 
 [Rule]
 vide C2;
-OPapaM=Stéphanum
+OPapaM=Stéphanum;
 
 [Name]
 Stéphani

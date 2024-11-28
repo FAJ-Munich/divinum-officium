@@ -77,6 +77,10 @@ $Per Dominum.
 Erhöre, wir bitten dich, o Herr, unsere Bitten, die wir am Festtag deines heiligen Bekenners und Bischofs N. vortragen; und weil er verdient hat, dir in würdiger Weise Dienste zu leisten, mache uns auf die Fürsprache seiner Verdienste frei von allen Sünden.
 $Per Dominum.
 
+[Oratio2]
+O Gott, der du deinem Volke als Vermittler des ewigen Heiles den heiligen N. gegeben hast, verleihe uns, wir bitten dich, die Gnade, daß wir verdienen, denjenigen, an dem wir auf Erden einen Lehrer dafür gehabt haben, wie wir leben sollen, nun auch als Fürsprecher im Himmel haben.
+$Per Dominum
+
 [Invit]
 Den Herrn, den König der Bekenner, * Kommt, ihn wollen wir anbeten.
 
@@ -243,10 +247,6 @@ R. Und ließ das Gottesreich ihn sehen.
 
 [Ant 2]
 Recht so, du guter Diener, und so getreu, * weil du bei Wenigem zuverlässig warst, will ich dir Großes anvertrauen, so spricht der Herr.
-
-[Oratio2]
-O Gott, der du deinem Volke als Vermittler des ewigen Heiles den heiligen N. gegeben hast, verleihe uns, wir bitten dich, die Gnade, daß wir verdienen, denjenigen, an dem wir auf Erden einen Lehrer dafür gehabt haben, wie wir leben sollen, nun auch als Fürsprecher im Himmel haben.
-$Per Dominum
 
 [Lectio Prima]
 !Sir 45,19-20

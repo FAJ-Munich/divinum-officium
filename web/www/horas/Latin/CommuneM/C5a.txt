@@ -9,6 +9,9 @@
 [Oratio]
 @Commune/C4:Oratio2
 
+[Oratio3]
+@Commune/C5:Oratio
+
 [Lectio1]
 @CommuneM/C4a
 
@@ -50,9 +53,6 @@
 
 [Ant 3]
 @Commune/C4a
-
-[Oratio3]
-@Commune/C5:Oratio
 
 [Lectio9 in 2 loco]
 @CommuneM/C4a

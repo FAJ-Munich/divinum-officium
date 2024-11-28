@@ -23,20 +23,6 @@ v. Na imię Jezusa niech zgina się wszelkie kolano mieszkańców niebios, ziemi
 Panie, wysłuchaj modlitwę moją, a wołanie moje niech do Ciebie przyjdzie.
 v. Na imię Jezusa niech zgina się wszelkie kolano mieszkańców niebios, ziemi i podziemia, gdyż Pan stał się posłuszny aż do śmierci, a była to śmierć krzyżowa. Dlatego Jezus Chrystus jest Panem w chwale Boga Ojca.
 
-[Oratio]
-Dręczeni nieusatnnie naszymi występkami prosimy Cię, wszechmogący Boże, aby nas wyzwoliła męka Jednorodzonego Syna Twego:
-$Qui tecum
-
-[OratioL1]
-Boże, z Twojej woli Twój Syn poniósł za nas śmierć na drzewie Krzyża, aby uwolnić nas spod władzy szatana; dozwól nam, sługom Twoim dostąpić łaski zmartwychwstania.
-$Per eundem
-
-[Lectio]
-Czytanie z Księgi Proroka Izajasza.
-!Iz 53:1-12
-!x! Izajasz tak dokładnie przepowiedział szczegóły Męki Pańskiej, że nazwano go «piątym ewangelistą».
-W one dni: Rzekł Izajasz: Panie, któż uwierzył temu, cośmy słyszeli? I komu ramie Pańskie zostało objawione? W wzejdzie w obliczu Jego niby latorośl, i jako korzeń z wyschniętej ziemi: nie ma On piękna ni krasy. I widzieliśmy Go, a nie było w Nim okazałości. I pragnęliśmy Go: wzgardzonego i ostatniego wśród ludzi, męża boleści i znającego niemoc. A twarz Jego jakoby zasłoniona i wzgardzona, tak iż nawet Go nie uznaliśmy. Prawdziwie słabości nasze On sam nosił i cierpienia nasze On sam dźwigał. A myśmy Go uważali jakby za trędowatego i rażonego przez Boga, i poniżonego. On zaś zraniony jest dla nieprawości naszych, starty jest dla naszych zbrodni; na Nim karanie, dające nam pokój, a sinością Jego zostaliśmy uleczeni. Wszyscyśmy jako owce pobłądzili, każdy zboczył na swoją drogę: a Pan położył nań nieprawości nas wszystkich. Ofiarowany został, bo sam chciał, a nie otworzył ust swoich. Jako owcę na rzeź Go powiodą i zamilknie jako baranek przed strzygącymi Go, a ust swych nie otworzy. Z ucisku i z sądu jest wzięty: pochodzenie Jego któż wypowie? Ponieważ odcięty został z ziemi żyjących, dla zbrodni ludu mego zadałem Mu cios. I za pogrzeb dla bezbożnych, a bogatych za śmierć swoją: ponieważ nie uczynił nieprawości ani znaleziony jest podstęp w ustach Jego. A pan chciał Go zetrzeć w niemocy: jeśli położy duszę swoją za grzech, długowieczne ujrzy potomstwo, a wola Pańska Jego ręką będzie kierowana. Przez wiedzę swą sługa mój sprawiedliwy sam usprawiedliwi wielu, a nieprawości ich sam poniesie. Przeto wielu Jemu przydzielę i rozdzielać będzie łupy mocarzy: za to, że na śmierć wydał duszę swą i ze zbrodniarzami jest policzony. On sam nosił grzechy wielu i modlił się za przestępców.
-
 [LectioL1]
 Czytanie z Księgi Proroka Izajasza.
 !Iz 63:1-7
@@ -47,6 +33,25 @@ Lecz czemuż czerwone jest odzienie Twoje, a szaty Twoje opryskane jak u tych, k
 Sam jeden w prasie wino tłoczyłem, a spośród narodów nikt nie był przy mnie. Tłoczyłem przeto jak grona w zapalczywości swojej narody i rozdeptałem je w swym gniewie, aż krew ich tryskała na szaty moje i zbroczyłem całe odzienie swoje. Bo był to dzień pomsty po myśli mojej, bo rok odkupienia już nadszedł. Spojrzałem wokoło, a nie było nikogo, kto by mi pomagał, szukałem, a nikt mnie nie poparł. Wtedy ramię własne mi zwycięstwo dało, a zapalczywość moja podpierała mnie. I zdeptałem narody w swoim gniewie, skruszyłem ich całkiem w swej złości i na ziemię powaliłem ich potęgę.
 Miłosierdzie Pańskie opiewać będę i chwałę Pańską z wdzięczności za wszystko, co nam uczynił Pan, Bóg nasz.
 $Deo Gratias
+
+[GradualeL1]
+!Ps 68:18; 68:2-3
+Nie kryj oblicza Twego przed Swym sługą, rychło mnie wysłuchaj, bo jestem w ucisku.
+V. Wybaw mnie, Boże, bo wody doszły mi po szyję, ugrzązłem w bagnie bezdennym i nie mam gdzie postawić nogi.
+
+[OratioL1]
+Boże, z Twojej woli Twój Syn poniósł za nas śmierć na drzewie Krzyża, aby uwolnić nas spod władzy szatana; dozwól nam, sługom Twoim dostąpić łaski zmartwychwstania.
+$Per eundem
+
+[Oratio]
+Dręczeni nieusatnnie naszymi występkami prosimy Cię, wszechmogący Boże, aby nas wyzwoliła męka Jednorodzonego Syna Twego:
+$Qui tecum
+
+[Lectio]
+Czytanie z Księgi Proroka Izajasza.
+!Iz 53:1-12
+!x! Izajasz tak dokładnie przepowiedział szczegóły Męki Pańskiej, że nazwano go «piątym ewangelistą».
+W one dni: Rzekł Izajasz: Panie, któż uwierzył temu, cośmy słyszeli? I komu ramie Pańskie zostało objawione? W wzejdzie w obliczu Jego niby latorośl, i jako korzeń z wyschniętej ziemi: nie ma On piękna ni krasy. I widzieliśmy Go, a nie było w Nim okazałości. I pragnęliśmy Go: wzgardzonego i ostatniego wśród ludzi, męża boleści i znającego niemoc. A twarz Jego jakoby zasłoniona i wzgardzona, tak iż nawet Go nie uznaliśmy. Prawdziwie słabości nasze On sam nosił i cierpienia nasze On sam dźwigał. A myśmy Go uważali jakby za trędowatego i rażonego przez Boga, i poniżonego. On zaś zraniony jest dla nieprawości naszych, starty jest dla naszych zbrodni; na Nim karanie, dające nam pokój, a sinością Jego zostaliśmy uleczeni. Wszyscyśmy jako owce pobłądzili, każdy zboczył na swoją drogę: a Pan położył nań nieprawości nas wszystkich. Ofiarowany został, bo sam chciał, a nie otworzył ust swoich. Jako owcę na rzeź Go powiodą i zamilknie jako baranek przed strzygącymi Go, a ust swych nie otworzy. Z ucisku i z sądu jest wzięty: pochodzenie Jego któż wypowie? Ponieważ odcięty został z ziemi żyjących, dla zbrodni ludu mego zadałem Mu cios. I za pogrzeb dla bezbożnych, a bogatych za śmierć swoją: ponieważ nie uczynił nieprawości ani znaleziony jest podstęp w ustach Jego. A pan chciał Go zetrzeć w niemocy: jeśli położy duszę swoją za grzech, długowieczne ujrzy potomstwo, a wola Pańska Jego ręką będzie kierowana. Przez wiedzę swą sługa mój sprawiedliwy sam usprawiedliwi wielu, a nieprawości ich sam poniesie. Przeto wielu Jemu przydzielę i rozdzielać będzie łupy mocarzy: za to, że na śmierć wydał duszę swą i ze zbrodniarzami jest policzony. On sam nosił grzechy wielu i modlił się za przestępców.
 
 [Graduale]
 !Ps 101:2-5,14
@@ -117,11 +122,6 @@ Napój mój mieszam ze łzami, boś mnie podniósł i strącił, a ja usycham ja
 [Postcommunio]
 Wszechmogący Boże, wlej w serca nasze niezłomną wiarę, że przez doczesną śmierć Twojego Syna, której znakiem są czcigodne tajemnice, udzieliłeś nam życia wiecznego.
 $Per eundem
-
-[GradualeL1]
-!Ps 68:18; 68:2-3
-Nie kryj oblicza Twego przed Swym sługą, rychło mnie wysłuchaj, bo jestem w ucisku.
-V. Wybaw mnie, Boże, bo wody doszły mi po szyję, ugrzązłem w bagnie bezdennym i nie mam gdzie postawić nogi.
 
 [Super populum]
 !Modlitwa nad ludem

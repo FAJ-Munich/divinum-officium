@@ -9,7 +9,7 @@ De Actibus Apostolórum
 25 nec mánibus humánis cólitur índigens áliquo, cum ipse det ómnibus vitam, et inspiratiónem, et ómnia:
 26 fecítque ex uno omne genus hóminum inhabitáre super univérsam fáciem terræ, defíniens statúta témpora, et términos habitatiónis eórum,
 27 quǽrere Deum si forte attréctent eum, aut invéniant, quamvis non longe sit ab unoquóque nostrum.
-28 
+28
 
 [Lectio2]
 @Tempora/Pasc2-2::1 s/28/29/ s/33/34/

@@ -70,6 +70,10 @@ Qui culpas et supplicia
 Remittit et dat præmia.
 Amen.
 
+[HymnusM Vespera] (rubrica monastica)
+@:Hymnus Vespera:s/\*.*//s
+@:Hymnus Matutinum:s/.*\*/*/s
+
 [Versum 1]
 @Commune/C6:Versum 2
 
