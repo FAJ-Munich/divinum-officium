@@ -1,9 +1,6 @@
 [Rank]
 Dominica II post Epiphaniam;;Semiduplex;;5
 
-[Rule]
-9 lectiones
-
 [Ant 1]
 Auxilia a Israel, * su siervo, como lo había prometido a nuestros padres, * en favor de Abrahán y su descendencia por siempre.
 
@@ -100,9 +97,6 @@ R. Dios mío, en ti confío, no quede por ello avergonzado.
 
 [Lectio8]
 Los bien instruidos en la fe católica, saben que Dios instituyó las bodas.  La unión es obra de Dios, y el divorcio, del diablo. Pero, en caso de fornicación, es lícito despedir a la consorte, por ser la primera en no querer ser esposa, no guardando la fidelidad conyugal al marido. Las mismas que consagran su virginidad a Dios, aunque tengan un grado mayor de honor y de santidad en la Iglesia, no carecen de bodas, ya que tienen participación con toda la Iglesia, en aquellas bodas en que Cristo es el Esposo.
-
-[Responsory8]
-@Tempora/Pent01-0:Responsory8
 
 [Lectio9]
 El Señor asistió a las bodas para confirmar la castidad conyugal, y para revelarnos la significación misteriosa de aquellas bodas; en ellas Jesucristo figuraba al esposo, a quien se dijo: “Has reservado el buen vino para lo último”.  En efecto, Jesucristo ha reservado para estos últimos tiempos el buen vino, es decir, su Evangelio.

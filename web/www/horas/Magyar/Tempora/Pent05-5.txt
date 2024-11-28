@@ -1,18 +1,12 @@
 [Rank]
 Feria sexta infra Hebdomadam V post Octavam Pentecostes;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Olvasmány Sámuel második könyvéből
 !2 Sam 7:4-6
 4 Még akkor éjszaka történt, hogy az Úr szózatot intézett Nátánhoz:
 5 „Menj, és mondd meg szolgámnak, Dávidnak: Ezt mondja az Úr: Te akarsz nekem házat építeni lakóhelyemül?
 6 Azóta, hogy kivezettem Izrael fiait Egyiptomból, sose laktam házban mind a mai napig, hanem ide-oda vándoroltam egy sátorban - az volt a hajlékom.
-
-[Responsory1]
-@Tempora/Pent01-2:Responsory1
 
 [Lectio2]
 !2 Sam 7:7-11
@@ -22,9 +16,6 @@ Olvasmány Sámuel második könyvéből
 10 S meghatározok népemnek, Izraelnek egy helyet, és oda telepítem. Ezen a helyen fog majd lakni, és nem hányódik többé ide-oda. A gonoszok nem szorongatják, mint eddig,
 11 attól az időtől kezdve, hogy bírákat rendeltem népem, Izrael fölé. Megszabadítom minden ellenségétől. Az Úr naggyá tesz, s házat épít neked az Úr.
 
-[Responsory2]
-@Tempora/Pent01-2:Responsory2
-
 [Lectio3]
 !2 Sam 7:12-17
 12 Ha aztán napjaid betelnek és megtérsz atyáidhoz, megtartom utánad magvadból származó utódodat és megszilárdítom királyságát.
@@ -33,6 +24,3 @@ Olvasmány Sámuel második könyvéből
 15 De irgalmamat nem vonom meg tőle, amint elődödtől megvontam.
 16 Nem, házad és királyságod örökre fennmarad színem előtt, trónod örökre szilárd marad.”
 17 Nátán ezeket a szavakat és ezt az egész kinyilatkoztatást mind elmondta Dávidnak.
-
-[Responsory3]
-@Tempora/Pent01-2:Responsory3

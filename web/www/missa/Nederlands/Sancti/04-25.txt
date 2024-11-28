@@ -1,9 +1,6 @@
 [Rank]
 S. Marci Evangelistæ;;Duplex II classis;;5.1
 
-[Rank] (rubrica 196)
-S. Marci Evangelistæ;;Duplex II classis;;5
-
 [Rule]
 Gloria
 Credo
@@ -17,14 +14,14 @@ Litania
 God, Gij hebt uw heilige evangelist Marcus verheven door hem de genade te verlenen het Evangelie te verkondigen. Wij vragen U, doe ons altijd uit zijn lering voordeel trekken en in zijn gebed verdediging vinden.
 $Per Dominum
 
-[Commemoratio Oratio]
-!Pro rogationibus
-@Tempora/Pasc5-1t:Oratio
-
 [Lectio]
 Lezing uit de Profeet Ezechiël
 !Ezech 1:10-14
 Het gezicht van de vier levende wezens zag er uit als volgt: een mensengezicht, en aan de rechterzijde hadden alle vier het gezicht van een leeuw, en aan de linkerzijde alle vier het gezicht van een rund, en aan de overzijde alle vier het gezicht van een adelaar. Dat waren hun gezichten; en hun vleugelen waren uitgestrekt naar boven; telkens twee van hun vleugelen raakten elkander; en twee bedekten er hun lichaam. En ieder van hen ging recht voor zich uit; waar de geest naar toe wilde, daar gingen zij heen; en zij keerden zich niet om, als zij ergens heengingen. En de levende wezens zagen er uit als volgt: hun uiterlijk geleek op gloeiende kolen vuur, en was alsof men fakkels zag. Midden tussen de levende wezens zag men het volgende heen en weer bewegen: de gloed van vuur en bliksemschichten, die uit het vuur schoten. En de levende wezens gingen heen en weer, zodat het geleek op het flikkeren van de bliksem.
+
+[Commemoratio Oratio]
+!Pro rogationibus
+@Tempora/Pasc5-1t:Oratio
 
 [Graduale]
 @Commune/C2:GradualeP

@@ -4,10 +4,6 @@ Dominica II Adventus;;Semiduplex;;5.6
 [Rank] (rubrica 196)
 Dominica II Adventus;;Semiduplex;;6
 
-[Rule]
-9 lectiones
-Antiphonas horas
-
 [Ant Vespera]
 Ecco che sulle nubi del cielo verrà il Signore con potestà grande, alleluia.
 Nostra città forte * è Sion, il Salvatore si porrà in essa per muro e parapetto: aprite le porte perché con noi è Dio, alleluia.

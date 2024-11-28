@@ -1,9 +1,6 @@
 [Rank]
 Sobota XI tygodnia po Oktawie Pięćdziesiątnicy;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Z Czwartej Księgi Królewskiej
 !4 Krl 24:18-20; 25:1-3

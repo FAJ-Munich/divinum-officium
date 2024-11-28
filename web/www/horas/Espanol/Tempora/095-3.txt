@@ -7,9 +7,6 @@ De libro Esther
 5 Las doncellas de Ester y sus eunucos vinieron a decírselo. La reina se quedó muy atemorizada y mandó vestidos a Mardoqueo para que se los pusiese, quitándose el saco; pero él se negó a aceptarlos. 
 5 Entonces llamó Ester a Hatac, uno de los eunucos que había puesto cerca de ella el rey, y le mandó que fuera a preguntar a Mardoqueo qué era aquello y de dónde venía.
 
-[Responsory1]
-@Tempora/094-0:Responsory4
-
 [Lectio2]
 !Est 4:6-11
 6 Fue Hatac a Mardoqueo, a la plaza de la ciudad, delante de la puerta del rey; 
@@ -19,9 +16,6 @@ De libro Esther
 10 Ester encargó a Hatac que fuera a decir a Mardoqueo: 
 11 “Todos los servidores del rey y todo el pueblo de las provincias del rey saben que hay una ley que castiga con pena de muerte a cualquiera, hombre o mujer, que entre al rey, al atrio interior, sin haber sido llamado; sólo se libra de la muerte aquel a quien el rey tiende su cetro de oro, y yo no he sido llamada por el rey desde hace treinta días.
 
-[Responsory2]
-@Tempora/094-0:Responsory7
-
 [Lectio3]
 !Est 4:12-17
 12 Cuando recibió Mardoqueo la contestación de Ester, 
@@ -30,6 +24,3 @@ De libro Esther
 15 Ester mandó decir a Mardoqueo: 
 16 “Ve y reúne a los judíos todos de Susa y ayunad por mí, sin comer ni beber por tres días, ni de noche ni de día. Yo también ayunaré igualmente con mis doncellas, y después iré al rey, a pesar de la ley, y si he de morir, moriré.” 
 17 Mardoqueo se fue e hizo lo que Ester le había mandado.
-
-[Responsory3]
-@Tempora/095-0:Responsory3

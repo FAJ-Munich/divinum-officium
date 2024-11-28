@@ -1,7 +1,7 @@
 [Rank]
 Dzień II w oktawie Pięćdziesiątnicy;;Duplex I classis;;6;;ex Pasc7-0
 
-[RankNewcal]
+[Rank] (rubrica innovata)
 Poniedziałek po Pięćdziesiątnicy;;Feria;;1;;
 
 [Rule]

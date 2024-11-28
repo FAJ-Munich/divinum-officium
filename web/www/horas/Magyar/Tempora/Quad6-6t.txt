@@ -1,5 +1,3 @@
-@Tempora/Quad6-6
-
 [Lectio1]
 Olvasmány Jeremiás próféta siralmainak könyvéből
 !Lam 3:22-33

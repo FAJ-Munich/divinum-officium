@@ -1,12 +1,6 @@
 [Rank]
 Dominica XVII Post Pentecosten;;Semiduplex;;5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-
 [Oratio]
 Add meg, kérünk, Urunk népednek, hogy a gonosz lélek fertőzését elkerülje, és tiszta lélekkel csak téged, Istenét kövesse.
 $Per Dominum

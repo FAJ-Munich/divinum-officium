@@ -1,10 +1,6 @@
 [Rank]
 Die Octavæ S. Joseph;;Duplex majus;;4;;vide Tempora/Pasc2-3
 
-[Rule]
-vide Tempora/Pasc2-3
-9 lectiones
-
 [Lectio1]
 Del libro del Apocalipsis del apóstol San Juan
 !Ap 5:1-7

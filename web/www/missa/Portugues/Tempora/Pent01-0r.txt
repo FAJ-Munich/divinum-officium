@@ -23,15 +23,15 @@ v. Bendita seja a Santíssima Trindade e a indivisível Unidade! Nós A louvamos
 Ó omnipotente e eterno Deus, que quisestes que os vossos fiéis, acreditando e confessando a verdadeira fé, conhecessem a glória da sempiterna Trindade e adorassem a Unidade no poder da sua majestade, permiti, Vos imploramos, que, guardando nós firmemente a mesma fé, vençamos sempre todas as adversidades.
 $Per Dominum
 
-[Commemoratio Oratio]
-! para Domingo
-Ó Deus, força dos que em Vós esperam, ouvi, Vos rogamos, as nossas orações, e, como a fraqueza mortal nada pode sem Vós, concedei auxílio de vossa graça, para ao executar os vossos mandamentos, podermos agradar-Vos pela nossa vontade e acção.
-$Per Dominum
-
 [Lectio]
 Lição da Ep.ª do B. Ap.º Paulo aos Romanos.
 !Rm. 11:33-36.
 Ó abysmo das riquezas, da sabedoria e da ciência de Deus! Como são incompreensíveis os seus juízos e impenetráveis os seus caminhos! Pois quem, porventura, conheceu já os desígnios do Senhor? Quem foi seu conselheiro? Quem foi o primeiro a dar-Lhe alguma coisa, para depois receber recompensa? Pois tudo quanto existe é d’Ele, para Ele e n’Ele. A Ele, pois, seja dada glória em todos os séculos. Amen.
+
+[Commemoratio Oratio]
+! para Domingo
+Ó Deus, força dos que em Vós esperam, ouvi, Vos rogamos, as nossas orações, e, como a fraqueza mortal nada pode sem Vós, concedei auxílio de vossa graça, para ao executar os vossos mandamentos, podermos agradar-Vos pela nossa vontade e acção.
+$Per Dominum
 
 [Graduale]
 !Dn 3:55-56

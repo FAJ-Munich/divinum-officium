@@ -1,9 +1,6 @@
 [Rank]
 Dominica I in Quadragesima;;I classis Semiduplex;;6
 
-[Rule]
-9 lectiones
-
 [Versum 1]
 V. Dios ha dado orden a sus ángeles.
 R. Para que te guarden en tus caminos.

@@ -6,6 +6,9 @@ Commune Doctorum Pontificis
 [Ant 1]
 @Commune/C4a
 
+[Oratio]
+@Commune/C4a
+
 [Lectio1]
 @Commune/C4a:Lectio1:s/-5/-4/ s/5 .*//s
 
@@ -46,14 +49,11 @@ Commune Doctorum Pontificis
 [Lectio12]
 @Commune/C4a:Lectio9:s/.* Et hic mundum /Et hic mundum /s
 
-[Oratio]
+[Ant 3]
 @Commune/C4a
 
 [Oratio3]
 @Commune/C4:Oratio
-
-[Ant 3]
-@Commune/C4a
 
 [Lectio9 in 2 loco]
 @Commune/C4a:Lectio7 in 2 loco:s/ Sal est .*//s

@@ -1,9 +1,6 @@
 [Rank]
 Feria VI post Cineres;;Feria major;;2
 
-[Rule]
-Preces Feriales
-
 [Lectio1]
 Continuation of the Holy Gospel according to Matthew
 !Matt 5:43-48; 6:1-4

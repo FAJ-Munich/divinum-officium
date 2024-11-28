@@ -1,9 +1,6 @@
 [Rank]
 S. Apollinaris Episcopi et Mart;;Duplex;;3;;vide C2
 
-[RankNewcal]
-S. Apollinaris Episcopi et Mart;;Duplex optional;;2;;vide C2
-
 [Rule]
 vide C2;
 Gloria
@@ -39,13 +36,17 @@ Czytanie z Listu świętego Piotra Apostoła.
 Najmilsi! Starszych, którzy są wśród was, proszę, jako równie starszy i świadek męki Chrystusowej oraz uczestnik tej chwały, która ma się objawić. Paście trzodę Bożą, która jest przy was, czuwając nad nią nie z musu, ale chętnie dla Boga, a nic dla szkaradnego zysku. Ani też jako panujący nad duchowieństwem, ale będąc świadomym wzorem dla owczarni. A gdy się zjawi książę pasterzy, otrzymacie niewiędnący wieniec chwały. Podobnie i młodzi, bądźcie poddani starszym. A wszyscy okazujcie pokorę jedni drugim, bo Bóg pysznym się sprzeciwia, a pokornym łaskę daje.
 Uniżajcie się tedy pod możną ręką Bożą, aby Was wywyższył w czasie nawiedzenia, składając nań wszelką troskę waszą, bo On ma pieczę o was. Bądźcie wstrzemięźliwi i czuwajcie, bo wróg wasz, szatan, krąży jako lew ryczący, szukając, kogo by pożarł. Opierajcie mu się umocnieni w wierze, wiedząc, że to samo utrapienie spotyka braci waszych na świecie. A Bóg wszelkiej łaski, który wezwał nas do wiecznej chwały swojej w Chrystusie Jezusie, po niewielkim utrapieniu udoskonali, utwierdzi i ugruntuje nas. Jemu chwała i panowanie na wieki wieków. Amen.
 
+[Commemoratio Oratio]
+! Wspomnienie św. Liboriusza
+Spraw, prosimy Cię, wszechmogący Boże, aby chwalebna uroczystość świętego Liboriusza, Twego Wyznawcy i Biskupa, przysporzyła nam gorliwości i łaski do zbawienia.
+$Per Dominum
+
 [Graduale]
 !Ps 88:21-23
 Znalazłem Dawida, mojego sługę, namaściłem go świętym olejem moim, by ręka moja zawsze z nim była i ramię moje go umacniało.
 V. Nic nie zyska w nim nieprzyjaciel, duch nieprawości mu nie zaszkodzi. Alleluja, alleluja.
 !Ps 109:4
 V. Pan przysiągł i nie pożałuje: Tyś kapłanem na wieki na wzór Melchizedeka. Alleluja.
-
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Łukasza.
@@ -60,6 +61,11 @@ Z nim moja wierność i moja łaska; w moim imieniu moc jego wzrośnie.
 Panie, wejrzyj łaskawie na te dary, które składamy dla uczczenia pamięci świętego Kapłana i Męczennika Twego Apolinarego i ofiarujemy Ci za nasze uchybienia.
 $Per Dominum
 
+[Commemoratio Secreta]
+! Wspomnienie św. Liboriusza
+Panie, niech nam wszędzie sprawiają radość Twoi Święci, abyśmy wspominając ich zasługi doznali również ich opieki.
+$Per Dominum
+
 [Communio]
 !Mt 25:20-21
 Panie, dałeś mi pięć talentów, otom drugie pięć zyskał. Dobrze, sługo prawy i wierny, żeś w małym był wierny, dam ci władzę nad wieloma: wnijdź do wesela Pana twego.
@@ -68,18 +74,7 @@ Panie, dałeś mi pięć talentów, otom drugie pięć zyskał. Dobrze, sługo p
 Przyjmując Najświętszy Sakrament, prosimy Cię, Panie, by nas otaczała ciągła opieka św. Apolinarego, bo nie przestajesz łaskawie spoglądać na tych, których raczysz wspierać taką pomocą.
 $Per Dominum
 
-[Commemoratio Oratio]
-! Wspomnienie św. Liboriusza
-Spraw, prosimy Cię, wszechmogący Boże, aby chwalebna uroczystość świętego Liboriusza, Twego Wyznawcy i Biskupa, przysporzyła nam gorliwości i łaski do zbawienia.
-$Per Dominum
-
-[Commemoratio Secreta]
-! Wspomnienie św. Liboriusza
-Panie, niech nam wszędzie sprawiają radość Twoi Święci, abyśmy wspominając ich zasługi doznali również ich opieki.
-$Per Dominum
-
 [Commemoratio Postcommunio]
 ! Wspomnienie św. Liboriusza
 Wszechmogący Boże, spraw, prosimy, abyśmy składając dzięki za przyjęte dary, za przyczyną świętego Liboriusza, Wyznawcy Twego i Biskupa, otrzymywali coraz większe dobrodziejstwa.
 $Per Dominum
-

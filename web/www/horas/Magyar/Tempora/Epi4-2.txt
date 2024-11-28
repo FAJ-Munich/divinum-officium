@@ -1,9 +1,6 @@
 [Rank]
 Feria Tertia infra Hebdomadam IV post Epiphaniam;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Szent Pál Apostolol Kolosszabeliekhez írt levelének kezdete
 !Col 1:1-8
@@ -16,18 +13,12 @@ Szent Pál Apostolol Kolosszabeliekhez írt levelének kezdete
 7 Így tanultátok ezt kedves szolgatársunktól, Epafrásztól. Ő hűséges szolgája köztetek Krisztusnak, 
 8 ő beszélt nekünk lélekből fakadó szeretetetekről is.
 
-[Responsory1]
-@Tempora/Epi2-2:Responsory1
-
 [Lectio2]
 !Col 1:9-12
 9 Amióta erről hallottunk, mi is szüntelenül imádkozunk értetek, és könyörgünk, hogy akaratát teljesen ismerjétek, nagy bölcsességgel és lelki megértéssel. 
 10 Így majd az Úrhoz méltón éltek, egészen az ő tetszése szerint, minden jótettben gyümölcsöt hoztok, és az Isten ismeretében gyarapodtok. 
 11 Dicsőséges hatalmában szilárdítson meg titeket nagy erővel, hogy mindvégig kitartsatok és állhatatosak legyetek. Örömmel 
 12 adjatok hálát az Atyának, aki arra méltatott benneteket, hogy részetek legyen a szentek örökségében, a világosságban;
-
-[Responsory2]
-@Tempora/Epi2-2:Responsory2
 
 [Lectio3]
 !Col 1:13-18
@@ -37,6 +28,3 @@ Szent Pál Apostolol Kolosszabeliekhez írt levelének kezdete
 16 Mert benne teremtett mindent a mennyben és a földön: a láthatókat és a láthatatlanokat, a trónusokat, uralmakat, fejedelemségeket és hatalmasságokat. Mindent általa és érte teremtetett. 
 17 Ő előbb van mindennél, és minden benne áll fenn. 
 18 Ő a testnek, az Egyháznak a feje. Ő a kezdet, az elsőszülött a halottak közül.
-
-[Responsory3]
-@Tempora/Epi2-2:Responsory3

@@ -8,9 +8,6 @@ Del Libro primero de los Macabeos.
 53 En el tiempo de la tribulación, José guardó la Ley, y vino a ser señor de Egipto. 
 54 Finés, nuestro padre, por su gran celo recibió la promesa del sacerdocio eterno.
 
-[Responsory1]
-@Tempora/101-0:Responsory1
-
 [Lectio2]
 !1 Mac 2:55-63
 55 Josué, por la observancia de la Ley, llegó a ser juez de Israel. 
@@ -23,9 +20,6 @@ Del Libro primero de los Macabeos.
 62 No temáis las amenazas de este malvado, porque su gloria se volverá en estiércol y en gusanos. 
 63 Hoy se engríe, pero mañana no será hallado, porque se habrá vuelto al polvo y se habrán disipado sus planes.
 
-[Responsory2]
-@Tempora/101-0:Responsory2
-
 [Lectio3]
 !1 Mac 2:64-69
 64 Vosotros, hijos míos, cobrad ánimo, combatid varonilmente por la Ley, que con esto vendréis a ser gloriosos. 
@@ -34,6 +28,3 @@ Del Libro primero de los Macabeos.
 67 Atraed a vosotros a todos los cumplidores de la Ley y tomad severa venganza de los ultrajes a vuestro pueblo. 
 68 Dad a los gentiles su merecido y atended a la observancia de los preceptos de la Ley. 
 69 Y, bendiciéndoles, fue a reunirse con sus padres.
-
-[Responsory3]
-@Tempora/101-0:Responsory3

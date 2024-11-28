@@ -6,9 +6,6 @@ Del Libro primero de los Macabeos.
 21 Líbrenos Dios de abandonar la Ley y sus preceptos. 
 22 No escucharemos las órdenes del rey para salirnos de nuestro culto, ni a la derecha ni a la izquierda.”
 
-[Responsory1]
-@Tempora/101-0:Responsory7
-
 [Lectio2]
 !1 Mac 2:23-26
 23 Apenas había terminado de hablar, cuando en presencia de todos se acercó un judío para quemar incienso en el altar que había en Modín, según el decreto del rey. 
@@ -16,15 +13,9 @@ Del Libro primero de los Macabeos.
 25 Al mismo tiempo mató al enviado del rey, que obligaba a sacrificar, y destruyó el altar. 
 26 Así mostró su celo por la Ley, como había hecho Finés con Zambri, hijo de Salom.
 
-[Responsory2]
-@Tempora/101-1:Responsory2
-
 [Lectio3]
 !1 Mac 2:27-30
 27 Alzó luego Matatías el grito en la ciudad, y dijo: “¡Todo el que sienta celo por la Ley y sostenga la alianza, sígame!” 
 28 Y huyeron él y sus hijos a los montes, abandonando cuanto tenían en la ciudad. 
 29 Entonces muchos que suspiraban por la justicia y la equidad bajaron al desierto para habitar allí, 
 30 así ellos como sus hijos y sus mujeres y sus ganados, pues los males pesaban sobre ellos.
-
-[Responsory3]
-@Tempora/101-1:Responsory3

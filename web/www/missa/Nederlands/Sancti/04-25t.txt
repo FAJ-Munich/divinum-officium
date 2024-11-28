@@ -1,9 +1,6 @@
 [Rank]
 S. Marci Evangelistæ;;Duplex II classis;;5.1
 
-[Rank] (rubrica 196)
-S. Marci Evangelistæ;;Duplex II classis;;5
-
 [Rule]
 Gloria
 Credo
@@ -16,12 +13,12 @@ Litania
 [Oratio]
 @Sancti/04-25
 
+[Lectio]
+@Sancti/04-25
+
 [Commemoratio Oratio]
 !Pro rogationibus
 @Tempora/Pasc5-1t:Oratio
-
-[Lectio]
-@Sancti/04-25
 
 [Graduale]
 @Commune/C2:GradualeP

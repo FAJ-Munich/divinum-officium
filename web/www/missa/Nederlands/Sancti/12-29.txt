@@ -4,9 +4,6 @@ S. Thomæ Episcopi et Martyris;;Duplex;;3;;vide C2
 [Rank] (rubrica 1570 aut 1888)
 S. Thomæ Episcopi et Martyris;;Semiduplex;;2.2;;vide C2
 
-[Rank] (rubrica 196)
-Die quinta post Nativitatem;;Duplex II class;;5;;ex Sancti/12-25m3
-
 [Rule]
 vide C2;
 Gloria
@@ -25,11 +22,11 @@ v. Laten wij ons allen in de Heer verheugen, nu wij de feestdag vieren ter ere v
 God, voor uw Kerk is de roemrijke bisschop Thomas door het zwaard der bozen gestorven; wij vragen U, schenk allen, die zijn hulp inroepen, de heilzame vervulling van hun wens.
 $Per Dominum
 
-[Commemoratio Oratio]
-@Sancti/12-26
-
 [Lectio]
 @Sancti/11-14
+
+[Commemoratio Oratio]
+@Sancti/12-26
 
 [Graduale]
 !Eccli 44:16
@@ -60,4 +57,3 @@ Ik ben de goede Herder. Ik ken mijn schapen en de mijnen kennen Mij. Alleluia.
 
 [Commemoratio Postcommunio]
 @Sancti/12-26
-

@@ -77,17 +77,23 @@ Le Christ nous est né, * Venez, adorons-le.
 Le Seigneur m’a dit : * Vous êtes mon Fils, c’est moi qui aujourd’hui vous ai engendré.;;2
 Comme un époux * qui sort de son lit nuptial, ainsi vient le Seigneur.;;18
 Répandue * sur vos lèvres, est la grâce ; c’est pourquoi le Seigneur vous a béni pour l’éternité.;;44
-V. Le Seigneur vient comme un époux.
-R. Qui sort de son lit nuptial.
 Nous avons reçu, * ô Dieu, votre miséricorde, au milieu de votre temple.;;47
 Il s’élèvera * dans les jours du Seigneur, une abondance de paix, et il dominera.;;71
 La vérité est sortie de la terre, * et la justice a regardé du haut du Ciel.;;84
-V. Vous êtes plus brillant de beauté que les enfants des hommes.
-R. La grâce est répandue sur vos lèvres.
 Lui-même m’invoquera, * alléluia ! C’est vous qui êtes mon Père, alléluia.;;88
 (sed rubrica 1960) Lui-même m’invoquera, * alléluia ! C’est vous qui êtes mon Père, alléluia.;;88(2-37)
 Que les Cieux se livrent à la joie, * que la terre exulte devant la face du Seigneur, parce qu’il vient.;;95
 Le Seigneur a fait connaître, * alléluia ! Son salut, alléluia.;;97
+
+[Nocturn 1 Versum]
+V. Le Seigneur vient comme un époux.
+R. Qui sort de son lit nuptial.
+
+[Nocturn 2 Versum]
+V. Vous êtes plus brillant de beauté que les enfants des hommes.
+R. La grâce est répandue sur vos lèvres.
+
+[Nocturn 3 Versum]
 V. Lui-même m’invoquera, alléluia.
 R. C’est vous êtes mon père, alléluia.
 
@@ -98,7 +104,7 @@ R. C’est vous êtes mon père, alléluia.
 3 Vous avez multiplié le peuple dont Vous n'aviez point augmenté la joie. Ils se réjouiront devant Vous, comme on se réjouit à la moisson, et comme les vainqueurs tressaillent d'allégresse lorsqu'ils ont pillé l'ennemi, et qu'ils partagent le butin.
 4 Car le joug qui pesait sur lui, la verge qui déchirait son dos, et le sceptre de celui qui l'opprimait, Vous les avez brisés, comme à la journée de Madian.
 5 Car toutes les dépouilles remportées avec violence et dans le tumulte, et les vêtements souillés de sang seront mis au feu, et deviendront la pâture de la flamme.
-6 Car un petit enfant nous est né, et un fils nous a été donné ; Il portera sur Son épaule la marque de Sa principauté; et Il sera appelé Admirable, Conseiller, Dieu, Fort, Père du siècle futur, Prince de la paix.
+6 Car un petit enfant nous est né, et un fils nous a été donné ; Il portera sur Son épaule la marque de Sa principauté ; et Il sera appelé Admirable, Conseiller, Dieu, Fort, Père du siècle futur, Prince de la paix.
 
 [Responsory1]
 R. Aujourd’hui le Roi des cieux a daigné naître pour nous d’une Vierge, afin de rappeler au royaume céleste, l’homme qui en était déchu.
@@ -291,45 +297,40 @@ $Per eumdem
 !Heb 1:11-12
 v. Eux périront (les cieux et la terre), mais vous, vous resterez ; tous vieilliront comme un vêtement, et comme un manteau vous les changerez et ils seront changés, mais vous, vous êtes toujours le même, et vos années ne finiront pas.
 
-[Responsory Tertia]
+[Responsory Breve Tertia]
 R.br. Le Verbe s’est fait chair, * Alléluia, alléluia.
 R. Le Verbe s’est fait chair, * Alléluia, alléluia.
 V. Et il a habité parmi nous.
 R. Alléluia, alléluia.
 &Gloria
 R. Le Verbe s’est fait chair, * Alléluia, alléluia.
-_
-V. Lui-même m’invoquera, alléluia.
-R. Vous êtes mon Père, alléluia.
 
 [Capitulum Sexta]
 !Heb 1:10
 v. Et il lui est encore dit : C’est vous, Seigneur, qui au commencement avez établi la terre, et les cieux sont l’œuvre de vos mains.
 $Deo gratias
 
-[Responsory Sexta]
+[Responsory Breve Sexta]
 R.br. Le Seigneur a fait connaître. * Alléluia, alléluia.
 R. Le Seigneur a fait connaître. * Alléluia, alléluia.
 V. Son salut.
 R. Alléluia, alléluia.
 &Gloria
 R. Le Seigneur a fait connaître. * Alléluia, alléluia.
-_
+
+[Versum Sexta]
 V. Ils ont vu, tous les confins de la terre, alléluia.
 R. Le salut de notre Dieu, alléluia.
 
-[Capitulum Nona]
-@:Lectio Prima
-$Deo gratias
-
-[Responsory Nona]
+[Responsory Breve Nona]
 R.br. Ils ont vu, tous les confins de la terre. * Alléluia, alléluia.
 R. Ils ont vu, tous les confins de la terre. * Alléluia, alléluia.
 V. Le salut de notre Dieu.
 R. Alléluia, alléluia.
 &Gloria
 R. Ils ont vu, tous les confins de la terre. * Alléluia, alléluia.
-_
+
+[Versum Nona]
 V. Le Verbe s’est fait chair, alléluia.
 R. Et il a habité parmi nous, alléluia.
 

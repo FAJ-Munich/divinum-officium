@@ -1,9 +1,6 @@
 [Rank]
 Dominica infra Octavam Ascensionis;;Semiduplex;;5;;ex Tempora/Pasc5-4
 
-[Rank1960]
-Dominica post Ascensionem;;Semiduplex;;5
-
 [Rule]
 ex Tempora/Pasc5-4;
 Gloria
@@ -21,15 +18,15 @@ v. Écoutez, Seigneur, ma voix quand je crie vers vous, alléluia. Mon cœur vou
 Dieu éternel et tout-puissant, faites que nous apportions toujours à vous suivre une volonté fidèle, et que nous nous attachions à votre service avec un cœur sincère.
 $Per Dominum
 
-[Commemoratio Oratio]
-!Pro Octava Ascensionis
-Accordez-nous, Dieu tout-puissant, à nous qui croyons qu'en ce jour votre Fils unique, notre Rédempteur, est monté aux cieux, de vivre, nous aussi, en esprit, dans les réalités célestes.
-$Per eundem
-
 [Lectio]
 Léctio Epístolæ beáti Petri Apóstoli.
 !1 Pet 4:7-11
 Bien-aimés, soyez prudents et veillez dans la prière. Mais surtout ayez un ardent amour les uns pour les autres ; car l'amour couvre une multitude de péchés. Exercez entre vous l'hospitalité sans murmurer. Que chacun mette au service des autres le don qu'il a reçu comme de bons dispensateurs de la grâce de Dieu, laquelle est variée. Si quelqu'un parle, que ce soit selon les paroles de Dieu ; si quelqu'un exerce un ministère, qu'il le fasse comme par la vertu que Dieu donne, afin qu'en toutes choses Dieu soit glorifié par Jésus-Christ, notre Seigneur.
+
+[Commemoratio Oratio]
+!Pro Octava Ascensionis
+Accordez-nous, Dieu tout-puissant, à nous qui croyons qu'en ce jour votre Fils unique, notre Rédempteur, est monté aux cieux, de vivre, nous aussi, en esprit, dans les réalités célestes.
+$Per eundem
 
 [Graduale]
 Allelúja, allelúja
@@ -48,7 +45,7 @@ En ce temps-là, Jésus dit à ses disciples : « Lorsque le Consolateur que je 
 Dieu est monté dans la jubilation ; le Seigneur au son de la trompette, alléluia.
 
 [Secreta]
-Que ce sacrifice sans tache nous purifie, Seigneur, et donne à  nos âmes la vigueur de la grâce d'en haut.
+Que ce sacrifice sans tache nous purifie, Seigneur, et donne à nos âmes la vigueur de la grâce d'en haut.
 $Per Dominum
 
 [Commemoratio Secreta]
@@ -67,4 +64,3 @@ $Per Dominum
 !Pro Octava Ascensionis.
 Accordez-nous, Dieu tout-puissant et bon, de recueillir le fruit invisible des sacrements que nous recevons sous une forme visible.
 $Per Dominum
-

@@ -1,7 +1,4 @@
-[Rank]
-Poniedziałek Dni Krzyżowych;;Feria;;1.6
-
-[RankNewcal]
+[Rank] (rubrica innovata)
 Poniedziałek V tygodnia po Oktawie Wielkanocy;;Feria;;1
 
 [Rule]

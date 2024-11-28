@@ -1,9 +1,6 @@
 [Rank]
 S. Marci Evangelistae;;Duplex II classis;;5.1
 
-[Rank1960]
-S. Marci Evangelistae;;Duplex II classis;;5
-
 [Rule]
 Gloria
 Credo
@@ -27,15 +24,15 @@ v. Protegestes-me, ó Deus, contra os conluios dos maus e contra a multidão daq
 Ó Deus, que glorificastes o Beato Marcos, vosso Evangelista, elevando-o à dignidade de pregador do vosso Evangelho, concedei-nos a graça, Vos suplicamos, de aproveitarmos sempre os seus ensinos e de sermos defendidos pela sua oração.
 $Per Dominum
 
-[Commemoratio Oratio]
-! das Rogações
-Deus omnipotente, Vos suplicamos, concedei-nos a graça de confiarmos sempre na vossa bondade no meio das nossas tribulações e de estarmos sempre munidos com vosso socorro no meio das adversidades.
-$Per Dominum
-
 [Lectio]
 Lição do Profeta Ezequiel.
 !Ez 1:10-14
 Eis a semelhança do rosto dos quatro seres animados: Tinham todos os quatro uma face de homem; todos os quatro à direita uma face de leão; todos os quatro à esquerda uma face de touro; e todos os quatro por cima uma face de águia! As faces e as asas mostravam-se estendidas por cima; e estavam unidos uns aos outros por duas asas, cobrindo os corpos com as outras duas. Cada um deles caminhava para a frente do seu rosto, e iam até onde os impelia o espírito, não se voltando enquanto andavam. Estes seres tinham o aspecto de carvões de fogo a arder e de lâmpadas acesas. Viam-se crepitar no meio deles chamas de fogo, saindo do fogo relâmpagos. E eles iam e vinham, semelhante ao fuzilar dos relâmpagos.
+
+[Commemoratio Oratio]
+! das Rogações
+Deus omnipotente, Vos suplicamos, concedei-nos a graça de confiarmos sempre na vossa bondade no meio das nossas tribulações e de estarmos sempre munidos com vosso socorro no meio das adversidades.
+$Per Dominum
 
 [Graduale]
 Aleluia, aleluia

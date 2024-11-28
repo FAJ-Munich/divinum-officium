@@ -1,9 +1,6 @@
 [Rank]
 Dominica I in Quadragesima;;I classis Semiduplex;;6
 
-[Rule]
-9 lectiones
-
 [Lectio1]
 Olvasmány szent Pál apostol Korintusiakhoz írott második leveléből
 !2 Cor 6:1-10

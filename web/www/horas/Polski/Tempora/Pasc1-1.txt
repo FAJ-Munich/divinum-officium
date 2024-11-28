@@ -1,11 +1,6 @@
 [Rank]
 Poniedziałek I tygodnia po Oktawie Wielkiejnocy;;Feria;;1
 
-[Rule]
-Oratio Dominica
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 Początek Księgi Dziejów Apostolskich
 !Dz 1:1-8

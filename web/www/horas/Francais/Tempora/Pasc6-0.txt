@@ -10,9 +10,6 @@ ex Tempora/Pasc5-4;
 Doxology=Asc
 StJamesRule=John,Rev
 
-[Versum 1]
-@Tempora/Pasc5-4:Versum 2
-
 [Ant 1]
 Quand sera venu le Paraclet * que Je vous enverrai, l'Esprit de vérité qui procède du Père, Il rendra témoignage de Moi, alléluia.
 
@@ -93,14 +90,6 @@ Ensuite il ajouta, comme conséquemment, ces paroles que nous avons entrepris d�
 v. Mes bien-aîmés, soyez prudents et veillez dans la prière. Mais, avant tout, ayez les uns pour les autres, une charité constante ; car la charité couvre la multitude des péchés.
 $Deo gratias
 
-[Versum 2]
-@Tempora/Pasc5-4:Versum 1
-(sed rubrica tridentina)
-@:Versum 1
-
-[Ant 2]
-@:Ant 1
-
 [Capitulum Sexta]
 !1 Petri 4:7-8
 v. Exercez l’hospitalité entre vous sans murmure ; chacun de vous mettant au service des autres la grâce qu’il a reçue, comme de bons dispensateurs de la grâce multiforme de Dieu.
@@ -110,9 +99,6 @@ $Deo gratias
 !1 Petri 4:11
 v. Ci quelqu’un parle, que ce soit comme des paroles de Dieu ; si quelqu’un exerce un ministère, qu’il le fasse comme par la vertu que Dieu donne ; afin qu’en toutes choses Dieu soit glorifié par Jésus-Christ notre Seigneur.
 $Deo gratias
-
-[Versum 3]
-@:Versum 1
 
 [Ant 3]
 Je vous ai dit ces choses * pour que, leur heure étant venue, vous vous souveniez que Je vous les ai annoncées, alléluia.

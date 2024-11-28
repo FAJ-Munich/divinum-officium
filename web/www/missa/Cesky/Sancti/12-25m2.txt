@@ -27,16 +27,16 @@ v. Světlo zazáří dnes nad námi, neboť se nám narodil Pán; a slouti bude 
 Dej nám, prosíme, všemohoucí Bože, kteří jsme novým světlem vtěleného Slova tvého prozářeni, aby to se obráželo v našem díle, co věrou plane v mysli. Skrze téhož Pána.
 $Per eundem
 
-[Commemoratio Oratio]
-!Ke cti sv. Anastasie
-Dej, prosíme, všemohoucí Bože, abychom, kteří svátek svaté Anastasie, Mučednice tvé, slavíme, její ochrany u tebe zakoušeli.
-$Per Dominum
-
 [Lectio]
 Čtení z listu svatého Pavla Apoštola k Titovi
 !Tt 3,4-7
 !Spása, která se nám objevila, není podmíněna lidskými zásluhami, ale Božím milosrdenstvím; jest to dílo Lásky, které nám jest ve křtu sv. přivlastněno.
 Nejmilejší! Ukázala se dobrota a lidumilnost Boha, Spasitele našeho; nikoli pro skutky spravedlivé, které bychom byli vykonali my, nýbrž podle svého milosrdenství spasil nás skrze koupel znovuzrození a obnovy Ducha Svatého, jehož vylil na nás hojně skrze Ježíše Krista, Spasitele našeho, abychom ospravedlněni feff byvše milostí jeho, stali se podle naděje dědici života věčného, v Kristu Ježíši, Pánu našem.
+
+[Commemoratio Oratio]
+!Ke cti sv. Anastasie
+Dej, prosíme, všemohoucí Bože, abychom, kteří svátek svaté Anastasie, Mučednice tvé, slavíme, její ochrany u tebe zakoušeli.
+$Per Dominum
 
 [Graduale]
 !Ž 117,26; 117,27; 117,23

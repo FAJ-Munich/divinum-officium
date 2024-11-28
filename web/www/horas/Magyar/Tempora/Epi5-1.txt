@@ -1,9 +1,6 @@
 [Rank]
 Feria II infra Hebdomadam V post Epiphaniam;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Szent Pál Apostol Timoteushoz írt első leveléből
 !1 Tim 3:1-7
@@ -15,9 +12,6 @@ Szent Pál Apostol Timoteushoz írt első leveléből
 6 Újonnan megtért se legyen, nehogy felfuvalkodjék, és a sátán sorsára jusson.
 7 Legyen jó híre a kívülállók körében is, nehogy megszólják, és a sátán csapdájába essék.
 
-[Responsory1]
-@Tempora/Epi2-1:Responsory1
-
 [Lectio2]
 !1 Tim 3:8-13
 8 A diakónusok hasonlóképpen legyenek tisztességesek, ne kétszínűek, borisszák vagy piszkos haszonra lesők.
@@ -27,15 +21,9 @@ Szent Pál Apostol Timoteushoz írt első leveléből
 12 A diakónus legyen egyszer nősült, s gyermekeinek és otthonának jó gondviselője.
 13 Aki ugyanis jól végzi szolgálatát, nagy megbecsülésre tesz szert, és bizalmat szerez magának a Krisztus Jézusra alapozott hitben.
 
-[Responsory2]
-@Tempora/Epi2-1:Responsory2
-
 [Lectio3]
 !1 Tim 3:14-16;4:1
 14 Mindezt azért írom neked, jóllehet remélem, hogy hamarosan eljutok hozzád,
 15 hogy ha késném is; tudd, hogyan kell viselkedned Isten házában, amely az élő Isten egyháza, az igazság oszlopa és biztos alapja.
 16 Megvallottan nagy dolog az istenfélő élet titka: Aki megjelent testben, igazolást nyert lélekben. Az angyaloknak megjelent, a pogányoknak hirdették. Világszerte hittek benne, s felvétetett a dicsőségbe.
 1 A Lélek világosan állítja, hogy a végső időkben némelyek elpártolnak a hittől, megtévesztő szellemekre és sátáni tanításra hallgatnak.
-
-[Responsory3]
-@Tempora/Epi2-1:Responsory3

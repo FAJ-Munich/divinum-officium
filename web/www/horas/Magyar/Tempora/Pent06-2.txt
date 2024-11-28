@@ -1,9 +1,6 @@
 [Rank]
 Feria tertia infra Hebdomadam VI post Octavam Pentecostes;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Olvasmány Sámuel második könyvéből
 !2 Sam 14:4-7
@@ -11,9 +8,6 @@ Olvasmány Sámuel második könyvéből
 5 A király megkérdezte: „Mi bajod van?” „Nagy gyászban vagyok - felelte. - Meghalt az uram. 
 6 S volt szolgálódnak két fia. Egymásnak estek, s mivel nem volt ott senki, aki szétválasztotta volna őket, az egyikük akkorát ütött testvérére, hogy megölte. 
 7 Erre az egész nemzetség rátámadt szolgálódra és azt mondta: Add ki, aki agyonütötte testvérét, hadd vegyük el az életét testvére életéért, akit megölt, s hadd irtsuk ki még az örököst is. Így ki akarták oltani azt a parazsat is, ami még megmaradt nekem, hogy férjemnek se neve, se utódai ne maradjanak a földön.”
-
-[Responsory1]
-@Tempora/Pent03-2Feria:Responsory1
 
 [Lectio2]
 !2 Sam 14:10-14
@@ -23,14 +17,8 @@ Olvasmány Sámuel második könyvéből
 13 Erre az asszony azt mondta: „Hát akkor miért forgatott olyan gondolatokat magában a király az Isten népe ellen, hogy nem engedi hazatérni azt, akit száműzött mert hisz azzal, hogy ilyen ítéletet hozott, saját magát bűnösnek mondta ki. 
 14 Halandók vagyunk, olyanok, mint a víz, amelyet kiloccsantanak a földre, és nem tudnak többé összegyűjteni. Isten nem kelti életre a halottat. Így hát a királynak legyen gondja rá, hogy ne maradjon tőle száműzve, akit száműzött.
 
-[Responsory2]
-@Tempora/Pent03-2Feria:Responsory2
-
 [Lectio3]
 !2 Sam 14:19-21
 19 Erre a király megkérdezte: „Nem Joáb keze van benne ebben a dologban?” Az asszony azt mondta rá: „Amint igaz, uram, királyom, hogy élsz; lehetetlen attól akár jobbra, akár balra eltérni, amit uram s királyom mond! Igen, szolgád, Joáb adta nekem ezt a megbízatást, ő adta ezeket a szavakat szolgálód szájába. 
 20 Azért tett így szolgád, Joáb, hogy más színt adjon a dolognak. De hát uram bölcs, akár az Isten angyala, úgyhogy mindent tud, ami csak történik a födön.” 
 21 A király így szólt Joábhoz: „Jól van, megteszem. Menj és hozd vissza a fiatalembert, Absalomot.”
-
-[Responsory3]
-@Tempora/Pent01-2:Responsory3

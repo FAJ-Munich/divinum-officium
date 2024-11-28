@@ -7,9 +7,6 @@ Del libro de Job
 4 ¿Tienes tú brazos como los de Dios y puedes tronar con voz semejante a la suya? 
 5 Adórnate, pues, de gloria y majestad, revístete de magnificencia y esplendor.
 
-[Responsory1]
-@Tempora/091-0:Responsory4
-
 [Lectio2]
 !Job 40:6-11
 6 Distribuye a torrentes tu ira y humilla al soberbio sólo con mirarle. 
@@ -19,9 +16,6 @@ Del libro de Job
 10 He ahí al hipopótamo, creado por mí, como lo fuiste tú, que se apacienta de hierba como el buey. 
 11 Mírale: su fuerza está en sus lomos, y su vigor en los músculos de su vientre.
 
-[Responsory2]
-@Tempora/091-0:Responsory5
-
 [Lectio3]
 !Job 42:1-6
 1 Respondió Job diciendo: 
@@ -30,6 +24,3 @@ Del libro de Job
 4 (Escucha, pues, y yo hablaré, yo te preguntaré y me adoctrinarás.) 
 5 Sólo de oídas te conocía; mas ahora te han visto mis ojos. 
 6 ¡Por eso me retracto y hago penitencia sobre polvo y ceniza!
-
-[Responsory3]
-@Tempora/091-0:Responsory6

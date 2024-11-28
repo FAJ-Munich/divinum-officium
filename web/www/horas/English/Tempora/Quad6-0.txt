@@ -1,9 +1,6 @@
 [Rank]
 Dominica in Palmis;;I classis Semiduplex;;6
 
-[Rule]
-9 lectiones
-
 [Ant 1]
 O just Father, * the world has not known thee: I however have known thee, for thou hast sent me. 
 

@@ -1,6 +1,3 @@
-[HymnusM Vespera]
-@:Hymnus Vespera
-
 [AntMatutinumM]
 Be lifted up, O eternal gates: and the King of Glory shall enter in, alleluia.;;23
 I will be exalted among the nations, and I will be exalted in the earth.;;45
@@ -68,6 +65,3 @@ R. Hath prepared his throne,
 V. Alleluia, alleluia.
 &Gloria
 V. The Lord in heaven, * alleluia, alleluia.
-
-[HymnusM Laudes]
-@:Hymnus Vespera

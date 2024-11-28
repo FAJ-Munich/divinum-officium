@@ -1,9 +1,6 @@
 [Rank]
 Dominica infra Octavam Ascensionis;;Semiduplex;;5;;ex Tempora/Pasc5-4
 
-[Rank1960]
-Dominica post Ascensionem;;Semiduplex;;5
-
 [Rule]
 ex Tempora/Pasc5-4;
 Gloria
@@ -21,15 +18,15 @@ v. Ascolta, o Signore, la mia voce, con la quale Ti invoco, allelúia: a te parl
 Dio onnipotente ed eterno: fa che la nostra volontà sia sempre devota: e che serviamo la tua Maestà con cuore sincero..
 $Per Dominum
 
-[Commemoratio Oratio]
-!Per l'Ottava dell'Ascensione 
-Concedici, Te ne preghiamo, o Dio onnipotente, che noi, che crediamo che oggi è salito al cielo il tuo Unigénito, nostro Redentore, abitiamo anche noi col nostro spirito in cielo.
-$Per eundem
-
 [Lectio]
 Lettura della Lettera del Beato Pietro Apostolo.
 !1 Pet 4:7-11
 Carissimi: Siate prudenti e perseverate nelle preghiere. Innanzi tutto, poi, abbiate fra di voi una mutua e continua carità: poiché la carità copre una moltitudine di peccati. Praticate l’ospitalità gli uni verso gli altri senza mormorare: ognuno metta a servizio altrui il dono che ha ricevuto, come si conviene a buoni dispensatori della multiforme grazia di Dio. Chi parla, lo faccia come fossero parole di Dio: chi esercita un ministero, lo faccia come per virtù comunicata da Dio: affinché in tutto sia onorato Dio per Gesù Cristo nostro Signore.
+
+[Commemoratio Oratio]
+!Per l'Ottava dell'Ascensione 
+Concedici, Te ne preghiamo, o Dio onnipotente, che noi, che crediamo che oggi è salito al cielo il tuo Unigénito, nostro Redentore, abitiamo anche noi col nostro spirito in cielo.
+$Per eundem
 
 [Graduale]
 Allelúia, allelúia
@@ -68,5 +65,3 @@ $Per Dominum
 !Per l'Ottava dell'Ascensione 
 Concedici, Te ne preghiamo, o Dio onnipotente e misericordioso, che di quanto abbiamo ricevuto mediante i visibili misteri, ne conseguiamo l’invisibile effetto.
 $Per Dominum
-
-

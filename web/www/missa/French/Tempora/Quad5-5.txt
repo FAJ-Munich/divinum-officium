@@ -1,14 +1,10 @@
 [Rank]
 Septem Dolorum Beatae Mariae Virgine;;Duplex majus;;4
 
-[Rank1960]
-Septem Dolorum Beatae Mariae Virgine;;Commemoratio;;1
-
 [Rule]
 no Gloria
 Credo
 Prefatio=Quad5
-
 
 [Introitus]
 !Joann 19:25
@@ -22,15 +18,15 @@ v. Debout près de la croix de Jésus se tenaient sa mère, et la sœur de sa m�
 Ô Dieu, dans la passion duquel, suivant la prophétie de Siméon, un glaive de douleur a percé le cœur très doux de la glorieuse Vierge Marie, votre Mère, faites, dans votre miséricorde, que célébrant avec respect le souvenir de ses douleurs, nous recueillions les heureux fruits de votre passion.
 $Qui vivis
 
-[Commemoratio Oratio]
-!Pro Feria
-Que la Bienheureuse Vierge Marie, votre Mère, Seigneur Jésus-Christ, intervienne en notre faveur auprès de vous, maintenant et à l'heure de notre mort, elle dont l'âme toute sainte fut transpercée du glaive de la douleur au jour de votre passion.
-$Qui vivis
-
 [Lectio]
 Léctio libri Judith.
 !Judith 13:22, 23-25
 Le Seigneur vous a bénie de sa force, et il a anéanti par vous nos ennemis. Vous êtes bénie, ma fille, par le Seigneur, le Très Haut, plus que toutes les femmes qui sont sur la terre. Béni soit le Seigneur qui a créé le ciel et la terre, car il a rendu aujourd’hui votre nom si célèbre, que les hommes, se souvenant à jamais de la puissance du Seigneur, ne cesseront jamais de vous louer, parce que vous n’avez pas épargné votre vie pour eux, en voyant les angoisses et les tribulations de votre peuple ; mais vous avez empêché sa ruine en présence de notre Dieu.
+
+[Commemoratio Oratio]
+!Pro Feria
+Que la Bienheureuse Vierge Marie, votre Mère, Seigneur Jésus-Christ, intervienne en notre faveur auprès de vous, maintenant et à l'heure de notre mort, elle dont l'âme toute sainte fut transpercée du glaive de la douleur au jour de votre passion.
+$Qui vivis
 
 [Graduale]
 Douloureuse et en larmes, Vierge Marie, vous vous tenez au pied de la Croix du Seigneur Jésus, votre Fils, le Rédempteur.
@@ -152,7 +148,7 @@ Accordez-nous, ô Dieu de miséricorde, que nous méritions de servir toujours d
 $Per Dominum
 
 [Communio]
-!  
+! 
 Heureux le cœur de la bienheureuse Vierge Marie, qui sans mourir obtint la palme du martyre au pied de la Croix du Seigneur.
 
 [Postcommunio]

@@ -1,10 +1,6 @@
 [Rank]
 Die II Infra Octavam S. Joseph;;Semiduplex;;2;;vide Tempora/Pasc2-3
 
-[Rule]
-vide Tempora/Pasc2-3;
-9 lectiones
-
 [Lectio1]
 De Actibus ApostoIorum.
 !Acts 24:10-16
@@ -15,9 +11,6 @@ De Actibus ApostoIorum.
 14 Azt azonban megvallom neked, hogy atyáim Istenének aszerint a tanítás szerint szolgálok, amelyet ők eretnekségnek mondanak, de hiszek mindabban, ami a törvényben és a próféták könyvében meg van írva.
 15 Istenbe vetett bizalommal remélem, hogy az igazak és a gonoszok feltámadnak, s ebben ők is osztoznak velem.
 16 Magam is arra törekszem, hogy lelkiismeretem mindig tiszta legyen Isten és az emberek előtt.
-
-[Responsory1]
-@Tempora/Pasc0-2:Responsory1
 
 [Lectio2]
 !Acts 24:17-21
@@ -35,6 +28,3 @@ De Actibus ApostoIorum.
 25 Amikor azonban az igazságosságról, az önmegtartóztatásról és az eljövendő ítéletről beszélt, Félix megrettenve félbeszakította: „Most elég, mehetsz. Majd alkalomadtán hívatlak.”
 26 De közben azt is remélte, hogy pénzt tud majd Páltól kizsarolni. Ezért gyakrabban hívatta, hogy elbeszélgessen vele.
 27 Két év múlva Félixnek Porciusz Fesztusz lett az utódja. De mert kedvükben akart járni a zsidóknak, Félix Pált fogságban tartotta.
-
-[Responsory3]
-@Tempora/Pasc0-3:Responsory1

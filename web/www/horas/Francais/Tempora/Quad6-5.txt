@@ -16,12 +16,6 @@ Capitulum Versum 2 ad Laudes tantum
 Minores sine Antiphona
 Feria
 
-[Ant Vespera]
-@Tempora/Quad6-4
-
-[Oratio Matutinum]
-@Tempora/Quad6-4
-
 [Oratio]
 @Tempora/Quad6-4::s/usque ad mortem/usque ad mortem, mortem autem crucis/
 
@@ -185,9 +179,6 @@ R. Comme les morts de ce monde.
 
 [Ant 2]
 Ils placèrent au-dessus de Sa tête la cause de Son supplice ainsi écrite : Jésus de Nazareth, Roi des Juifs.
-
-[Versum 3]
-@:Versum 2
 
 [Ant 3]
 Quand il eut pris le vinaigre, * Il dit : Tout est consommé ; et, ayant incliné la tête, il rendit l'esprit.

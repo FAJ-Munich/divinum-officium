@@ -1,9 +1,6 @@
 [Rank]
 Karsamstag;;Feria privilegiata Duplex I classis;;7
 
-[Oratio Matutinum]
-@Tempora/Quad6-4
-
 [Ant Matutinum]
 Nun kann ich endlich ungestört * hinlegen mich und schlummern.;;4
 Er darf in deiner Behausung erscheinen, * ihm ist es gestattet, auf deinem heiligen Berge zu weilen.;;14

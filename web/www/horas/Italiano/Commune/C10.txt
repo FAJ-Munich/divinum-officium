@@ -18,13 +18,6 @@ Noi, con tutti i figli devoti, ci benedica la Vergine Maria.
 La stessa Vergine delle vergini interceda per noi presso il Signore.
 Tramite la Vergine Madre, ci conceda il Signore salute e pace.
 
-[Versum 2]
-V. Tu sei benedetta fra le donne. 
-R. E benedetto è il frutto del seno tuo.
-
-[Ant 2]
-Beata Madre di Dio Maria, * sempre vergine, tempio del Signore, santuario dello Spirito Santo, sola senza esempio sei piaciuta al Signore nostro Gesù Cristo: prega per il popolo, intervieni per il clero, intercedi per il ceto femminile religioso.
-
 [Lectio M01]
 Dalla lettera di sant'Ambrogio vescovo a papa Siricio
 !Epist 81, al.7
@@ -97,3 +90,10 @@ Dal libro degli Uffici di s. Ambrogio vescovo
 !Libro I cap. 18 
 Il pudore è un buon compagno per la difesa della castità, ed esso più evidentemente, fin dal momento dell'entrata e del saluto dell'angelo, fa apprezzare la Madre del Signore ai lettori, e, come un testimone autorevole, la dichiara degna di essere prescelta per tale compito: perché se ne sta, sola, nella stanza; perché, al saluto dell'angelo, tace ed è confusa al suo ingresso; perché il suo aspetto è turbato alla vista di un uomo estraneo. Pertanto, nonostante la sua umiltà, tuttavia per pudore non rispose al saluto e non diede nessuna risposta, se non quando capì che si trattava dì accettare di divenire la madre del Signore; ma sempre per apprendere come ciò sarebbe accaduto e non per opporre qualcosa alle sue parole.
 &teDeum
+
+[Versum 2]
+V. Tu sei benedetta fra le donne. 
+R. E benedetto è il frutto del seno tuo.
+
+[Ant 2]
+Beata Madre di Dio Maria, * sempre vergine, tempio del Signore, santuario dello Spirito Santo, sola senza esempio sei piaciuta al Signore nostro Gesù Cristo: prega per il popolo, intervieni per il clero, intercedi per il ceto femminile religioso.

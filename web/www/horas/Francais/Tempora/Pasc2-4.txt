@@ -1,10 +1,6 @@
 [Rank]
 Die II Infra Octavam S. Joseph;;Semiduplex;;2;;vide Tempora/Pasc2-3
 
-[Rule]
-vide Tempora/Pasc2-3;
-9 lectiones
-
 [Lectio1]
 Des Actes des Apôtres
 !Act. 24:10-16
@@ -16,9 +12,6 @@ Des Actes des Apôtres
 15 mon espérance en Dieu, et ce qu’ils attendent eux-mêmes, c’est qu’il va y avoir une résurrection des justes et des injustes.
 16 C’est pourquoi, moi aussi, je m’efforce de garder une conscience irréprochable en toute chose devant Dieu et devant les hommes.
 
-[Responsory1]
-@Tempora/Pasc0-2:Responsory1
-
 [Lectio2]
 !Act. 24:17-21
 17 Au bout de plusieurs années, je suis venu apporter le produit des aumônes destinées à ma nation, et présenter des offrandes rituelles.
@@ -26,9 +19,6 @@ Des Actes des Apôtres
 19 Il y avait, ce jour-là, des Juifs venus de la province d’Asie ; ils devraient se présenter devant toi et m’accuser s’ils avaient quelque chose contre moi.
 20 Ou bien alors, que ceux qui sont là disent quel délit ils ont constaté quand j’ai comparu devant le Conseil suprême.
 21 À moins qu’il ne s’agisse de cette seule parole que j’ai criée, debout au milieu d’eux : “C’est à cause de la résurrection des morts que je passe aujourd’hui en jugement devant vous.” »
-
-[Responsory2]
-@Tempora/Pasc0-2:Responsory2
 
 [Lectio3]
 !Act. 24:22-27
@@ -38,9 +28,6 @@ Des Actes des Apôtres
 25 Mais quand l’entretien porta sur la justice, la maîtrise de soi et le jugement à venir, Félix fut pris de peur et déclara : « Pour le moment, retire-toi ; je te rappellerai à une prochaine occasion. »
 26 Il n’en espérait pas moins que Paul lui donnerait de l’argent ; c’est pourquoi il l’envoyait souvent chercher pour parler avec lui.
 27 Deux années s’écoulèrent ; Félix reçut comme successeur Porcius Festus. Voulant accorder une faveur aux Juifs, Félix avait laissé Paul en prison.
-
-[Responsory3]
-@Tempora/Pasc0-3:Responsory1
 
 [Lectio4]
 Sermon de Sait Berardin de Sienne

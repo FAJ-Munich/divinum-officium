@@ -1,7 +1,7 @@
 [Rank]
 Die II infra octavam Pentecostes;;Duplex I classis;;6;;ex Pasc7-0
 
-[RankNewcal]
+[Rank] (rubrica innovata)
 Feria II post Pentecostes;;Feria;;1;;
 
 [Rule]

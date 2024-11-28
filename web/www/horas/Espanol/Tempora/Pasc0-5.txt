@@ -1,20 +1,9 @@
 [Rank]
 Die VI infra octavam Paschæ;;Semiduplex I class;;6;;ex Pasc0-0
 
-[Rule]
-ex Pasc0-0;
-1 nocturn;
-Omit Hymnus Preces Suffragium;
-Minores sine Antiphona;
-Capitulum Versum 2;
-Psalmi Dominica;
-
 [Oratio]
 Dios todopoderoso y eterno, por el sacramento de la Pascua restableciste a los hombres en tu alianza; concédenos realizar en la vida cuanto celebramos en la fe.
 $Per Dominum
-
-[Ant Matutinum]
-@Tempora/Pasc0-2
 
 [Lectio1]
 Lección del Santo Evangelio según San Mateo.

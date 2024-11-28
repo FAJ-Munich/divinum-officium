@@ -1,9 +1,6 @@
 [Rank]
 Dominica infra Octavam Ascensionis;;Semiduplex;;5;;ex Tempora/Pasc5-4
 
-[Rank] (rubrica 196)
-Dominica post Ascensionem;;Semiduplex;;5
-
 [Rule]
 Evangelium non appropriatum
 ex Tempora/Pasc5-4;
@@ -22,15 +19,15 @@ v. Exáudi, Dómine, vocem meam, qua clamávi ad te, allelúja: tibi dixit cor m
 Omnípotens sempitérne Deus: fac nos tibi semper et devótam gérere voluntátem; et majestáti tuæ sincéro corde servíre.
 $Per Dominum
 
-[Commemoratio Oratio]
-!Pro Octava Ascensionis
-Concéde, quǽsumus, oninípotens Deus: ut, qui hodiérna die Unigénitum tuum, Redemptórem nostrum, ad cœlos ascendísse crédimus; ipsi quoque mente in cœléstibus habitémus. 
-$Per eumdem
-
 [Lectio]
 Léctio Epístolæ beáti Petri Apóstoli
 !1 Pet 4:7-11
 Caríssimi: Estóte prudéntes et vigiláte in oratiónibus. Ante ómnia autem mútuam in vobismetípsis caritátem contínuam habéntes: quia cáritas óperit multitúdinem peccatórum. Hospitáles ínvicem sine murmuratióne: unusquísque, sicut accépit grátiam, in altérutrum illam administrántes, sicut boni dispensatóres multifórmis grátiæ Dei. Si quis lóquitur, quasi sermónes Dei: si quis minístrat, tamquam ex virtúte, quam adminístrat Deus: ut in ómnibus honorificétur Deus per Jesum Christum, Dóminum nostrum.
+
+[Commemoratio Oratio]
+!Pro Octava Ascensionis
+Concéde, quǽsumus, oninípotens Deus: ut, qui hodiérna die Unigénitum tuum, Redemptórem nostrum, ad cœlos ascendísse crédimus; ipsi quoque mente in cœléstibus habitémus. 
+$Per eumdem
 
 [Graduale]
 Allelúja, allelúja.
@@ -69,4 +66,3 @@ $Per Dominum
 !Pro Octava Ascensionis.
 Præsta nobis, quǽsumus, omnípotens et miséricors Deus: ut, quæ visibílibus mystériis suménda percépimus, invisíbili consequámur efféctu.
 $Per Dominum
-

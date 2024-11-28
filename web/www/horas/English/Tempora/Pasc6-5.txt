@@ -1,6 +1,3 @@
-@Tempora/Pasc6-0
-(sed rubrica 1960 omittitur)
-
 [Rank]
 Feria VI Post Octavam Ascensionis;;Semiduplex;;2;;ex Tempora/Pasc5-4
 

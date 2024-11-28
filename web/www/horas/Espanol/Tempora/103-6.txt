@@ -6,9 +6,6 @@ Del Libro primero de los Macabeos.
 16 que, cuando Simón y sus hijos estaban ebrios, a una señal de Tolomeo se levantaron y, tomando las armas, dieron sobre Simón, matándole a él, a sus hijos y a algunos de su séquito, 
 17 cometiendo una gran traición y devolviendo mal por bien.
 
-[Responsory1]
-@Tempora/101-0:Responsory7
-
 [Lectio2]
 !1 Mac 16:18-21
 18 Luego escribió Tolomeo al rey para que enviase tropas en su auxilio a fin de poner en su mano la tierra y las ciudades. 
@@ -16,14 +13,8 @@ Del Libro primero de los Macabeos.
 20 Mandó otros para que se apoderasen de Jerusalén y del monte del templo. 
 21 Pero alguno se adelantó a comunicar a Juan, en Gazer, cómo habían sido muertos su padre y sus hermanos, y que habían mandado quien le matase a él.
 
-[Responsory2]
-@Tempora/101-1:Responsory2
-
 [Lectio3]
 !1 Mac 16:22-24
 22 Quedó fuera de sí al oír tales noticias, y, prendiendo a los que venían a él para darle muerte, los mató, pues sabía lo que intentaban. 
 23 Los demás sucesos de Juan, sus guerras y las hazañas que realizó, los muros que levantó y sus obras todas, 
 24 escritas están en los anales de su pontificado, desde el día en que fue hecho sumo sacerdote después de su padre.
-
-[Responsory3]
-@Tempora/101-1:Responsory3

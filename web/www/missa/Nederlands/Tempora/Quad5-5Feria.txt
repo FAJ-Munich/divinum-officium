@@ -1,9 +1,6 @@
 [Rank]
 Feria Sexta infra Hebdomadam Passionis;;Feria major;;2.1
 
-[Rank](rubrica 1960)
-Feria Sexta infra Hebdomadam Passionis;;Feria major;;3.9
-
 [Rule]
 no Gloria
 Suffragium=Ecclesiæ,Papa;;
@@ -21,14 +18,14 @@ v. Ontferm U over mij, o Heer, want ik word gekweld. Bevrijd en ontruk mij aan d
 Wij vragen U, Heer, stort welwillend uw genade uit in onze harten, opdat wij in de beteugeling van onze zondige neigingen door vrijwillige tuchtiging, liever nu ons lichaam afmatten, dan tot de eeuwige straffen gedoemd te worden.
 $Per Dominum
 
-[Commemoratio Oratio](rubrica 1955 aut rubrica 1960 aut rubrica innovata)
-!Commemoratio Septem Dolorum B. M. V.
-@Tempora/Quad5-5:Oratio
-
 [Lectio]
 Lezing uit de Profeet Jeremias
 !Jer 17:13-18
 In die dagen sprak Jeremias: Heer, allen, die U verlaten, zullen te schande worden; die van U afwijken, worden in het zand geschreven; omdat zij de bron van levend water, de Heer, hebben verlaten. Genees mij, Heer, en genezen zal ik worden; red mij, Heer, en gered zal ik worden; want Gij zijt mijn glorie. Zie, zij zeggen tot mij: waar blijft nu het woord des Heren? laat het komen. Maar ik werd niet ontsteld, daar ik U volgde als mijn herder; en van niemand heb ik de onheilsdag verlangd; Gij weet het; wat mij over de lippen kwam, was gerecht in uw ogen. Wees toch voor mij geen verschrikking, Gij, die mijn hoop zijt op de dag van ellende. Laat mijn vervolgers beschaamd worden, en mij niet; laat hen sidderen en niet mij. Breng over hen de dag van ellende, en verpletter hen met algehele ondergang, Gij, Heer, onze God.
+
+[Commemoratio Oratio] (rubrica 1955 aut rubrica 1960 aut rubrica innovata)
+!Commemoratio Septem Dolorum B. M. V.
+@Tempora/Quad5-5:Oratio
 
 [Graduale]
 !Ps 34:20, 22
@@ -55,7 +52,7 @@ Gezegend zijt Gij, Heer, leer mij uw verordeningen kennen, en lever mij niet ove
 Verleen ons, goedertieren God, de genade altijd waardig de dienst van uw altaren te mogen waarnemen en door de herhaalde deelname er aan zalig te worden.
 $Per Dominum
 
-[Commemoratio Secreta](rubrica 1955 aut rubrica 1960 aut rubrica innovata)
+[Commemoratio Secreta] (rubrica 1955 aut rubrica 1960 aut rubrica innovata)
 !Commemoratio Septem Dolorum B. M. V.
 @Tempora/Quad5-5:Secreta
 
@@ -67,7 +64,7 @@ Geef mij niet prijs, o Heer, aan de willekeur van mijn vervolgers, want valse ge
 Heer, laat de blijvende bescherming van het offer, dat wij genuttigd hebben, ons niet ontbreken en altijd al, wat ons schaden kan, van ons afweren.
 $Per Dominum
 
-[Commemoratio Postcommunio](rubrica 1955 aut rubrica 1960 aut rubrica innovata)
+[Commemoratio Postcommunio] (rubrica 1955 aut rubrica 1960 aut rubrica innovata)
 !Commemoratio Septem Dolorum B. M. V.
 @Tempora/Quad5-5:Postcommunio
 

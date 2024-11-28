@@ -1,11 +1,6 @@
 [Rank]
 Feria Sexta infra Hebdomadam IV post Octavam Paschæ;;Feria;;1
 
-[Rule]
-Oratio Dominica
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 De la Epístola del Apóstol Santiago
 !Sant 4:1-4
@@ -13,9 +8,6 @@ De la Epístola del Apóstol Santiago
 2 Codiciáis, y no tenéis; matáis, ardéis en envidia, y no alcanzáis nada; os combatís y os hacéis la guerra, y no tenéis porque no pedís; 
 3 pedís y no recibís, porque pedís mal, para dar satisfacción a vuestras pasiones. 
 4 Adúlteros, ¿no sabéis que la amistad del mundo es enemiga de Dios? Quien pretende ser amigo del mundo se hace enemigo de Dios.
-
-[Responsory1]
-@Tempora/Pasc4-0:Responsory4
 
 [Lectio2]
 !Sant 4:5-10
@@ -38,9 +30,6 @@ R. No permitas que me desvíe de tus preceptos, aleluya, aleluya.
 13 Pero tú, ¿quién eres para juzgar a tu prójimo? Y vosotros los que decís: Hoy o mañana iremos a tal ciudad, y pasaremos allí el año, y negociaremos, lograremos buenas ganancias, 
 14 no sabéis cuál será vuestra vida de mañana, 
 15 pues sois humo, que aparece un momento y al punto se disipa. En vez de esto debíais decir: Si el Señor quiere y vivimos, haremos esto o aquello.
-
-[Responsory3]
-@Tempora/Pasc4-0:Responsory6
 
 [Ant 2]
 Esto es lo que os decía * mientras estaba con vosotros. Aleluya, aleluya.

@@ -18,13 +18,6 @@ Mag mit ihrem lieben Kinde uns die Jungfrau Maria den Segen geben.
 Die Jungfrau der Jungfrauen selbst möge bittend für uns eintreten beim Herrn.
 Durch die jungfräuliche Mutter gewähre uns der Herr Heil und Frieden.
 
-[Versum 2]
-V. Du bist gebenedeit unter den Frauen.
-R. Und gebenedeit ist die Frucht deines Leibes.
-
-[Ant 2]
-O heiliges Gottesmutter Maria, * du stets unversehrte Jungfrau, du Tempel des Herrn, du Heiligtum des Heiligen Geistes, du hast allein ohnegleichen unserem Herrn Jesus Christus gefallen; bitte für das Volk, tritt ein für die Geistlichkeit, lege Fürsprache ein für das Gott geweihte weibliche Geschlecht.
-
 [Lectio M01]
 Ex Epístola sancti Ambrósii Epíscopi ad Sirícium Papam.
 !Epist. 81, al. 7, post initium.
@@ -102,3 +95,10 @@ Ex libro Officiorum S. Ambrósii Epíscopi.
 !Lib. 1. cap. 18.
 Bonus regendæ castitátis pudor est comes, qui primus, in ipso cognitiónis ingressu, Dómini Matrem commendat legéntibus, et tamquam testis lócuples dignam quæ ad tale munus eligerétur ástruit: quod in cubículo, quod sola, quod salutáta ab Angelo tacet et mota est in intróitu ejus, quod ad virílis sexus spéciem peregrinam turbátur aspectus Vírginis. Itaque, quamvis esset húmilis præ verecúndia tamen non resalutávit, nec ullum responsum rétulit, nisi ubi de suscipienda Dómini generatióne cognóvit; ut qualitátem effectus dísceret, non ut sermónem refélleret.
 &teDeum
+
+[Versum 2]
+V. Du bist gebenedeit unter den Frauen.
+R. Und gebenedeit ist die Frucht deines Leibes.
+
+[Ant 2]
+O heiliges Gottesmutter Maria, * du stets unversehrte Jungfrau, du Tempel des Herrn, du Heiligtum des Heiligen Geistes, du hast allein ohnegleichen unserem Herrn Jesus Christus gefallen; bitte für das Volk, tritt ein für die Geistlichkeit, lege Fürsprache ein für das Gott geweihte weibliche Geschlecht.

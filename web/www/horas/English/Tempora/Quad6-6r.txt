@@ -1,5 +1,3 @@
-@Tempora/Quad6-6
-
 [Ant Vespera]
 Today I am greatly afflicted, * but tomorrow I will break my bonds.;;115
 With them * that hated peace I was peaceable: when I spoke to them they fought against me without cause.;;119

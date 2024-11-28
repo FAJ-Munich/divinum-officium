@@ -4,10 +4,6 @@ II Niedziela Adwentu;;Semiduplex;;5.6
 [Rank] (rubrica 196)
 II Niedziela Adwentu;;Semiduplex;;6
 
-[Rule]
-9 lectiones
-Antiphonas horas
-
 [Ant 1]
 Przyjdż, Panie, * nawiedzić nas w pokoju, byśmy rozradowali się przed Tobą całem sercem.
 

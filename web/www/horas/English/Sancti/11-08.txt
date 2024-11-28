@@ -1,9 +1,6 @@
 [Rank]
 Octave of All Saints;;Duplex majus;;4;;vide Sancti/11-01
 
-[Rank] (rubrica tridentina)
-Octave of All Saints;;Duplex majus;;4.1;;ex Sancti/11-01
-
 [Commemoratio]
 !Commemoration of the Four Crowned Martyrs
 @Commune/C3:Oratio proper

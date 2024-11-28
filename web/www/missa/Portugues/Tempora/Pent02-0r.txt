@@ -1,9 +1,6 @@
 [Rank]
 Dominica II. Post Pentecosten;;Semiduplex I classis;;5.9;;ex Tempora/Pent01-4
 
-[Rank1960]
-Dominica II post Octavam Pentecostes;;Duplex II classis;;5
-
 [Rule]
 ex Tempora/Pent01-4
 Gloria
@@ -33,6 +30,10 @@ Lição da Ep.ª do B. Ap.º João.
 !1 Jo 3:13-18.
 Caríssimos: Não vos admireis se porventura o mundo vos odeia. Sabemos que passámos da morte à vida, porque amamos os nossos irmãos. Aquele que não ama, permanece na morte. Aquele que odiar o seu irmão, é homicida; e bem sabeis que em nenhum homicida permanece a vida eterna. Por este sinal conhecemos o amor de Deus: É que, assim como Ele deu a vida por nós, assim também devemos dar a vida pelos nossos irmãos. Se alguém, tendo bens neste mundo e vendo seu irmão com necessidade, lhe fecha o coração, porventura permanece nele o amor de Deus? Meus filhinhos: Não amemos somente com palavras e com desejos, mas com obras e verdade.
 
+[Commemoratio Oratio]
+! Corpo de Cristo
+@Tempora/Pent01-4:Oratio
+
 [Graduale]
 !Sl. 119:1-2.
 Quando estava na tribulação, clamei pelo Senhor, que me ouviu.
@@ -53,6 +54,10 @@ Senhor, volvei para mim a vossa face: e livrai a minha alma: salvai-me pela voss
 Senhor, que a oblação que vai ser consagrada ao vosso nome nos purifique; e que dia a dia nos aperfeiçoe na prática de uma vida toda celestial.
 $Per Dominum
 
+[Commemoratio Secreta]
+! Corpo de Cristo
+@Tempora/Pent01-4:Secreta
+
 [Communio]
 !Sl. 12:6.
 Cantarei hinos ao Senhor, porque me cumulou de benefícios. Cantarei salmos ao nome do altíssimo Senhor.
@@ -60,14 +65,6 @@ Cantarei hinos ao Senhor, porque me cumulou de benefícios. Cantarei salmos ao n
 [Postcommunio]
 Havendo recebido estes dons sacratíssimos. Vos imploramos, Senhor, fazei que pela recepção frequente deste mystério nos sejam aumentados os frutos da salvação.
 $Per Dominum
-
-[Commemoratio Oratio]
-! Corpo de Cristo
-@Tempora/Pent01-4:Oratio
-
-[Commemoratio Secreta]
-! Corpo de Cristo
-@Tempora/Pent01-4:Secreta
 
 [Commemoratio Postcommunio]
 ! Corpo de Cristo

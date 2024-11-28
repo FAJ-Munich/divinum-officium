@@ -1,9 +1,6 @@
 [Rank]
 Dominica II. Post Pentecosten;;Semiduplex I classis;;5.9;;ex Tempora/Pent01-4
 
-[Rank1960]
-Dominica II post Octavam Pentecostes;;Duplex II classis;;5
-
 [Rule]
 ex Tempora/Pent01-4
 Gloria
@@ -23,21 +20,20 @@ v. Il Signore si è fatto mio protettore e mi ha tratto fuori, al largo: mi ha l
 Del tuo santo Nome, o Signore, fa che nutriamo un perpetuo timore e un pari amore: poiché non privi giammai del tuo aiuto quelli che stabilisci nella saldezza della tua dilezione.
 $Per Dominum
 
-[Commemoratio Oratio]
-!Pro Octava SSmi. Corporis Christi
-O Dio, che nell’ammirabile Sacramento ci lasciasti la memoria della tua Passione: concedici, Te ne preghiamo, di venerare i sacri misteri del tuo Corpo e del tuo Sangue cosí da sperimentare sempre in noi il frutto della tua redenzione:
-$Qui vivis
-
 [Lectio]
 Lettura della Lettera del B. Giovanni Ap.
 !1 John 3:13-18
 Carissimi: Non meravigliatevi se il mondo vi odia. Noi sappiamo che siamo passati dalla morte alla vita, perché amiamo i fratelli. Poiché chi non ama dimora nella morte: e chi odia il fratello suo è omicida. E voi sapete che chiunque è omicida non ha in sé la vita eterna. Da questo conosciamo l’amore di Dio verso di noi: dall’aver Egli dato per noi la vita: e noi dobbiamo darla per i nostri fratelli. Ma se alcuno avrà tenute per sé le ricchezze di questo mondo e, vedendo il proprio fratello nel bisogno avrà chiuso il suo cuore: come può vivere in lui l’amore di Dio? Figliuoli miei, non amiamo a parole, né a chiacchere, ma in opere e verità.
 
+[Commemoratio Oratio]
+!Pro Octava SSmi. Corporis Christi
+O Dio, che nell’ammirabile Sacramento ci lasciasti la memoria della tua Passione: concedici, Te ne preghiamo, di venerare i sacri misteri del tuo Corpo e del tuo Sangue cosí da sperimentare sempre in noi il frutto della tua redenzione:
+$Qui vivis
+
 [Graduale]
 !Ps 119:1-2
 Al Signore mi rivolsi: poiché ero in tribolazione, ed Egli mi ha esaudito.
-V. O Signore, libera l’ànima mia dalle labbra dell’iniquo, e dalla lingua menzognera. Allelúia,~
-allelúia
+V. O Signore, libera l’ànima mia dalle labbra dell’iniquo, e dalla lingua menzognera. Allelúia, allelúia
 !Ps 7:2
 Signore, Dio mio, in Te ho sperato: salvami da tutti quelli che mi perseguitano, e liberami. Allelúia.
 
@@ -71,4 +67,3 @@ $Per Dominum
 !Pro Octava Ssmi Corporis Christi.
 O Signore, Te ne preghiamo, fa che possiamo godere del possesso eterno della tua divinità: prefigurato dal tuo prezioso Corpo e Sangue che ora riceviamo:
 $Qui vivis
-

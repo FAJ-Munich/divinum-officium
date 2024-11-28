@@ -1,11 +1,6 @@
 [Rank]
 Feria Secunda infra Hebdomadam I post Octavam Paschae;;Feria;;1
 
-[Rule]
-Oratio Dominica
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 Incipit liber Actuum Apostolorum.
 !Acts 1:1-8
@@ -18,9 +13,6 @@ Incipit liber Actuum Apostolorum.
 7 „Nem tartozik rátok - felelte -, hogy ismerjétek az időpontokat és a körülményeket. Ezeket az Atya szabta meg saját hatalmában.
 8 De megkapjátok a Szentlélek rátok leszálló erejét, és tanúim lesztek Jeruzsálemben, s egész Júdeában és Szamariában, sőt egészen a föld végső határáig.”
 
-[Responsory1]
-@Tempora/Pasc0-2:Responsory1
-
 [Lectio2]
 !Acts 1:9-14
 9 Azután, hogy ezeket mondta, a szemük láttára fölemelkedett, és felhő takarta el szemük elől.
@@ -29,9 +21,6 @@ Incipit liber Actuum Apostolorum.
 12 Erre az Olajfákról elnevezett hegyről, amely Jeruzsálemtől egy szombatnapi járásra van, visszatértek Jeruzsálembe.
 13 Amint megérkeztek, fölmentek az emeleti terembe, ahol együtt szoktak lenni: Péter és János, Jakab és András, Fülöp és Tamás, Bertalan és Máté, Alfeus fia, Jakab, a buzgó Simon és Jakab testvére, Júdás.
 14 Mindannyian egy szívvel, egy lélekkel állhatatosan imádkoztak az asszonyokkal, Máriával, Jézus anyjával és testvéreivel együtt.
-
-[Responsory2]
-@Tempora/Pasc0-2:Responsory2
 
 [Lectio3]
 !Acts 1:15-26
@@ -47,6 +36,3 @@ Incipit liber Actuum Apostolorum.
 24 Majd imádkoztak: „Uram, ki belelátsz mindenkinek a szívébe, mutasd meg, e kettő közül kire esik választásod,
 25 hogy átvegye az apostoli szolgálatban azt a helyet, amelyet Júdás hűtlenül elhagyott, hogy az őt megillető helyre jusson.”
 26 Ezután sorsot vetettek. A sors Mátyásra esett, így a tizenegy apostolhoz sorolták.
-
-[Responsory3]
-@Tempora/Pasc0-3:Responsory1

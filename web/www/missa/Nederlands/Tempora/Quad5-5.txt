@@ -1,9 +1,6 @@
 [Rank]
 Septem Dolorum Beatæ Mariæ Virgine;;Duplex majus;;4.1
 
-[Rank] (rubrica 196)
-Septem Dolorum Beatæ Mariæ Virgine;;Commemoratio;;1
-
 [Rule]
 no Gloria
 Credo
@@ -21,14 +18,14 @@ v. Naast het Kruis van Jezus stond zijn Moeder, en de zuster van zijn Moeder, Ma
 God, volgens de voorspelling van Simeon heeft in uw lijden een zwaard van smarten het goede hart van de roemrijke Moedermaagd Maria doorboord. Laat in uw goedheid ons, die haar smarten met eerbied gedenken, de gelukkige uitwerking van uw lijden mogen verwerven.
 $Qui vivis
 
-[Commemoratio Oratio]
-!Pro Feria
-@Tempora/Quad5-5Feria:Oratio
-
 [Lectio]
 Lezing uit het Boek Judith
 !Judith 13:22; 13:23-25
 De Heer heeft u gezegend met zijn kracht; want door u heeft Hij onze vijanden vernietigd. Gezegend zijt gij, dochter, door de Heer, de allerhoogste God, meer dan de andere vrouwen op aarde. Gezegend zij de Heer, de Schepper van hemel en aarde; want heden heeft Hij uw naam zo hoog  verheven, dat uw lof nooit zal wijken van de mond van de mensen, die de macht van de Heer voor immer blijven gedenken. Om hunnentwil hebt gij uw leven niet gespaard, vanwege de nood en de ellende van uw volk. Maar gij hebt redding gebracht in hun ongeluk voor het aangezicht van onze God.
+
+[Commemoratio Oratio]
+!Pro Feria
+@Tempora/Quad5-5Feria:Oratio
 
 [Graduale]
 Een beeld van droefheid zijt Gij in uw tranen, Maagd Maria, zoals Gij naast het Kruis staat van onze Heer Jezus Christus, uw Zoon, onze Verlosser.
@@ -147,7 +144,7 @@ $Qui vivis
 !Pro Feria
 @Tempora/Quad5-5Feria:Secreta
 
-[Communio] 
+[Communio]
 Gelukkige zintuigen van de heilige Maagd Maria, die zonder te sterven, de palm van het martelaarschap verdienden onder het Kruis van onze Heer.
 
 [Postcommunio]

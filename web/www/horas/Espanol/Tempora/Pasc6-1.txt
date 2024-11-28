@@ -4,12 +4,6 @@ Feria II infra Octavam Ascensionis;;Semiduplex;;2;;ex Tempora/Pasc5-4
 [Rank] (rubrica 1960)
 Feria II post Ascensionem;;Feria;;1;;vide Tempora/Pasc5-4
 
-[Rule]
-ex Tempora/Pasc5-4;
-9 Lectiones
-Doxology=Asc
-Feria Te Deum
-
 [Lectio1]
 De la Epístola 1ª de San Juan, Apóstol
 !1 Jn 3:1-6
@@ -20,9 +14,6 @@ De la Epístola 1ª de San Juan, Apóstol
 5 Y sabéis que Él se manifestó para quitar de en medio nuestros pecados, y en Él no existe pecado. 
 6 Todo el que permanece en Él, no peca; todo el que peca, no le ha visto ni le ha conocido.
 
-[Responsory1]
-@Tempora/Pasc5-4:Responsory1
-
 [Lectio2]
 !1 Jn 3, 7-12.
 7 Hijitos, que nadie os extravíe: el que practica la justicia es justo, según que Él es justo; 
@@ -32,9 +23,6 @@ De la Epístola 1ª de San Juan, Apóstol
 11 Porque éste es el mensaje que desde el principio habéis oído, que nos amemos los unos a los otros. 
 12 No como Caín, que, inspirado del maligno, mató a su hermano. ¿Y por qué lo mató? Porque sus obras eran malas, y las de su hermano, justas.
 
-[Responsory2]
-@Tempora/Pasc5-4:Responsory2
-
 [Lectio3]
 !1 Jn 3:13-18
 13 No os maravilléis, hermanos, si el mundo os aborrece. 
@@ -43,9 +31,6 @@ De la Epístola 1ª de San Juan, Apóstol
 16 En esto hemos conocido la caridad, en que Él dio su vida por nosotros; y nosotros debemos dar nuestra vida por nuestros hermanos. 
 17 El que tuviere bienes de este mundo y, viendo a su hermano pasar necesidad, le cierra sus entrañas, ¿cómo mora en él la caridad de Dios? 
 18 Hijitos, no amemos de palabra ni de lengua, sino de obra y de verdad.
-
-[Responsory3]
-@Tempora/Pasc5-4:Responsory3
 
 [Lectio4]
 Sermón de San Juan Crisóstomo.

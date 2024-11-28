@@ -1,14 +1,11 @@
 [Rank]
 Piątek Suchych Dni Adwentu;;Feria major;;2
 
-[Rank] (rubrica 1960)
+[Rank] (rubrica 196 aut rubrica 1930)
 Piątek Suchych Dni Adwentu;;Feria major;;3
 
-[RankNewcal]
+[Rank] (rubrica innovata)
 Piątek III tygodnia Adwentu;;Feria major;;2
-
-[Rule]
-Preces Feriales
 
 [Oratio]
 Wzbudź, prosimy Cię, Panie, moc Twoją, i przyjdź, aby ci, którzy zawierzyli dobroci Twojej, w krótkim czasie od wszystkich przeciwności wybawieni zostali.

@@ -1,9 +1,6 @@
 [Rank]
 Sabbato infra Hebdomadam III post Octavam Pentecostes;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Lesson from the first book of Samuel
 !1 Sam 16:1-3

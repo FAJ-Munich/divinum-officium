@@ -1,10 +1,6 @@
 [Rank]
 Die III Infra Octavam S. Joseph;;Semiduplex;;2;;vide Tempora/Pasc2-3
 
-[Rule]
-vide Tempora/Pasc2-3;
-9 lectiones
-
 [Lectio1]
 From the Acts of Apostles.
 !Acts 25:1-5
@@ -14,17 +10,11 @@ From the Acts of Apostles.
 4 Fesztusz azt válaszolta, hogy Pált Cezáreában őrzik, s maga is hamarosan visszatér oda.
 5 „Hanem meghatalmazottaitok jöjjenek vele - mondta -, és ha van valami bűne ennek az embernek, emeljetek ellene vádat.”
 
-[Responsory1]
-@Tempora/Pasc0-3:Responsory2
-
 [Lectio2]
 !Acts 25:6-8
 6 Alig töltött köztük nyolc-tíz napot, lement Cezáreába. Másnap bírói székébe ült, és elővezettette Pált.
 7 Amikor megjelent, a Jeruzsálemből jött zsidók körülállták, és súlyos vádat hoztak fel ellene. De bizonyítani nem tudták őket.
 8 Pál így védekezett: „Sem a zsidók törvénye ellen, sem a templom ellen, sem a császár ellen nem vétettem.”
-
-[Responsory2]
-@Tempora/Pasc0-5:Responsory1
 
 [Lectio3]
 !Acts 25:9-12
@@ -32,6 +22,3 @@ From the Acts of Apostles.
 10 Pál tiltakozott: „A császár bírói széke előtt állok, itt kell fölöttem ítélkezni. A zsidók ellen semmit sem vétettem, ezt magad is jól tudod.
 11 Ha tehát vétkes vagyok, és valami olyat tettem, amiért halált érdemlek, készen állok a halálra. De ha semmi alapjuk nincs vádjaiknak, senki sem szolgáltathat ki nekik. A császárhoz föllebbezek!”
 12 Fesztusz megbeszélte a dolgot a tanáccsal, és így határozott: „A császárhoz föllebbeztél, a császár elé mész.”
-
-[Responsory3]
-@Tempora/Pasc0-5:Responsory2

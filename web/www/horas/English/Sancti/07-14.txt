@@ -2,7 +2,7 @@
 St. Bonaventure, Bishop, Confessor and Doctor of the Church;;Duplex;;3;;vide C4a
 
 [Rank] (rubrica 1570)
-St. Bonaventure, Bishop, Confessor and Doctor of the Church;;Semiduplex;;2;;vide C4a
+St. Bonaventure, Bishop and Confessor;;Duplex;;3;;vide C4
 
 [Name]
 Bonaventure

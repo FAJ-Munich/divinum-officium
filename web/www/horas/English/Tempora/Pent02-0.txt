@@ -1,15 +1,6 @@
 [Rank]
 Dominica II. Post Pentecosten infra Octavam Corporis Christi;;Semiduplex I classis;;5.9;;ex Tempora/Pent01-4
 
-[Rank] (rubrica 196)
-Dominica II. Post Pentecosten;;Semiduplex I classis;;5.9
-
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Doxology=Corp
-
 [Versum 1]
 V. He fed them with the finest of the wheat. Alleluia.
 R. And with honey out of the rock did He satisfy them. Alleluia.

@@ -37,12 +37,6 @@ Ave María, grátia plena, * Dóminus tecum.
 [HymnusM Matutinum]
 @Commune/C11
 
-[Benedictio]
-Précibus et méritis beátæ Maríæ semper Vírginis et ómnium Sanctórum, perdúcat nos Dóminus ad regna cælórum.
-Nos cum prole pia benedícat Virgo María.
-Ipsa Virgo Vírginum intercédat pro nobis ad Dóminum.
-Per Vírginem matrem concédat nobis Dóminus salútem et pacem.
-
 [Responsory1] (rubrica tridentina)
 @Commune/C11
 
@@ -52,57 +46,11 @@ R. Quia ex te ortus est sol justítiæ
 &Gloria
 R. Christus, Deus noster.
 
-[Versum 0]
-@Commune/C11
-
-[Ant Laudes] (rubrica tridentina)
-@Commune/C11
-
-[Capitulum Laudes]
-@Commune/C11
-
-[HymnusM Laudes]
-@Commune/C11
-
-[Hymnus Laudes]
-@Commune/C11
-
-[Versum 2]
-V. Benedícta tu in muliéribus.
-R. Et benedíctus fructus ventris tui.
-
-[Ant 2]
-Beáta Dei Génetrix, María, * Virgo perpétua, templum Dómini, sacrárium Spíritus Sancti, sola sine exémplo placuísti Dómino nostro Jesu Christo: ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu.
-(sed tempore paschali)
-@:Ant 1
-
-[Lectio Prima]
-@Commune/C11
-
-[Responsory Breve Tertia]
-@Commune/C6
-
-[Versum Tertia]
-@Commune/C6:Nocturn 2 Versum
-
-[Capitulum Sexta]
-@Commune/C11
-
-[Responsory Breve Sexta]
-@Commune/C6
-
-[Versum Sexta]
-@Commune/C6:Nocturn 3 Versum
-
-[Capitulum Nona]
-@Commune/C11:Lectio Prima
-$Deo gratias
-
-[Responsory Breve Nona]
-@Commune/C6
-
-[Versum Nona]
-@Commune/C6:Versum 2
+[Benedictio]
+Précibus et méritis beátæ Maríæ semper Vírginis et ómnium Sanctórum, perdúcat nos Dóminus ad regna cælórum.
+Nos cum prole pia benedícat Virgo María.
+Ipsa Virgo Vírginum intercédat pro nobis ad Dóminum.
+Per Vírginem matrem concédat nobis Dóminus salútem et pacem.
 
 [Lectio M01]
 Ex Epístola sancti Ambrósii Epíscopi ad Sirícium Papam
@@ -181,3 +129,55 @@ Ex libro Officiórum S. Ambrósii Epíscopi
 !Lib. 1, cap. 18
 Bonus regéndæ castitátis pudor est comes, qui primus, in ipso cognitiónis ingréssu, Dómini Matrem comméndat legéntibus, et tamquam testis lócuples dignam quæ ad tale munus eligerétur ástruit: quod in cubículo, quod sola, quod salutáta ab Angelo tacet et mota est in intróitu ejus, quod ad virílis sexus spéciem peregrínam turbátur aspéctus Vírginis. Itaque, quamvis esset húmilis præ verecúndia tamen non resalutávit, nec ullum respónsum rétulit, nisi ubi de suscipiénda Dómini generatióne cognóvit; ut qualitátem efféctus dísceret, non ut sermónem refélleret.
 &teDeum
+
+[Versum 0]
+@Commune/C11
+
+[Ant Laudes] (rubrica tridentina aut rubrica monastica)
+@Commune/C11
+
+[Capitulum Laudes]
+@Commune/C11
+
+[Hymnus Laudes]
+@Commune/C11
+
+[HymnusM Laudes]
+@Commune/C11
+
+[Versum 2]
+V. Benedícta tu in muliéribus.
+R. Et benedíctus fructus ventris tui.
+
+[Ant 2]
+Beáta Dei Génetrix, María, * Virgo perpétua, templum Dómini, sacrárium Spíritus Sancti, sola sine exémplo placuísti Dómino nostro Jesu Christo: ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu.
+(sed tempore paschali)
+@:Ant 1
+
+[Lectio Prima]
+@Commune/C11
+
+[Responsory Breve Tertia]
+@Commune/C6
+
+[Versum Tertia]
+@Commune/C6:Nocturn 2 Versum
+
+[Capitulum Sexta]
+@Commune/C11
+
+[Responsory Breve Sexta]
+@Commune/C6
+
+[Versum Sexta]
+@Commune/C6:Nocturn 3 Versum
+
+[Capitulum Nona]
+@Commune/C11:Lectio Prima
+$Deo gratias
+
+[Responsory Breve Nona]
+@Commune/C6
+
+[Versum Nona]
+@Commune/C6:Versum 2

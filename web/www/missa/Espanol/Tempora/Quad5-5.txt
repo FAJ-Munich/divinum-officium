@@ -1,9 +1,6 @@
 [Rank]
 Septem Dolorum Beatae Mariae Virgine;;Duplex majus;;4
 
-[Rank1960]
-Septem Dolorum Beatae Mariae Virgine;;Commemoratio;;1
-
 [Rule]
 no Gloria
 Credo
@@ -21,15 +18,15 @@ v. Estaban junto a la cruz de Jesús, su Madre, y la hermana de su Madre María 
 Oh Dios, en cuya pasión fue traspasada de dolor el alma dulcísima de la gloriosa Virgen y Madre María, según se lo había profetizado ya Simeón; concédenos propicio, que cuantos venerando sus Dolores, hacemos memoria de ellos, consigamos el feliz efecto de tu sagrada pasión.
 $Qui vivis
 
-[Commemoratio Oratio]
-!Del día
-Te suplicamos, Señor, que infundas benignamente tu gracia en nuestros corazones; a fin de que, refrenando nuestros pecados con asperezas voluntarias, prefiramos mortificarnos en esta vida para librarnos de los eternos castigos.
-$Per Dominum
-
 [Lectio]
 Lectura del libro de Judit
 !Judith 13:22, 25
 ¡Bendito seas, Dios nuestro, que has aniquilado el día de hoy a los enemigos de tu pueblo! ¡Bendita seas, hija del Dios Altísimo más que todas las mujeres de la tierra! Y bendito sea Dios, el Señor, Creador del cielo y de la tierra, que ha engrandecido tu nombre, y tu alabanza no faltará en la boca de los hombres, que recordarán la fuerza de Dios eternamente, porque no vacilaste en exponer tu vida a causa de la humillación de nuestra raza, al hacer cesar nuestra ruina ante nuestro Dios.
+
+[Commemoratio Oratio]
+!Del día
+Te suplicamos, Señor, que infundas benignamente tu gracia en nuestros corazones; a fin de que, refrenando nuestros pecados con asperezas voluntarias, prefiramos mortificarnos en esta vida para librarnos de los eternos castigos.
+$Per Dominum
 
 [Graduale]
 Dolorosa y llorosa, oh Virgen María, estás al pie de la cruz del Señor Jesús tu Hijo, el Redentor.

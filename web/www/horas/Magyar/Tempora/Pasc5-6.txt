@@ -1,15 +1,6 @@
 [Rank]
 Sabbato infra Octavam Ascensionis;;Semiduplex;;2;;ex Tempora/Pasc5-4
 
-[Rank] (rubrica 1960)
-Sabbato post Ascension;;Feria;;1;;vide Tempora/Pasc5-4
-
-[Rule]
-ex Tempora/Pasc5-4;
-9 Lectiones
-Doxology=Asc
-Feria Te Deum
-
 [Lectio1]
 Olvasmány szent Péter apostol második leveléből
 !2 Pet 3:1-7
@@ -21,9 +12,6 @@ Olvasmány szent Péter apostol második leveléből
 6 Így pusztult el vízözönnel az akkori világ is. 
 7 De a mostani eget és földet ez a szó megmentette, hogy az ítéletnek és az istentelen emberek pusztulásának napjára megmaradjon a tűznek.
 
-[Responsory1]
-@Tempora/Pasc5-4:Responsory1
-
 [Lectio2]
 !2 Pet 3:8-13
 8 Szeretteim, főképp egy dolog ne kerülje el figyelmeteket, az, hogy egy nap az Úr előtt annyi, mint ezer év, ezer év pedig annyi, mint egy nap. 
@@ -33,9 +21,6 @@ Olvasmány szent Péter apostol második leveléből
 12 hiszen várjátok és siettetitek az Isten napjának eljövetelét, amikor is az egek lángba borulnak és felbomlanak, az elemek a tűz hevétől megolvadnak. 
 13 Mi ígérete alapján új eget és új földet várunk, az igazságosság hazáját.
 
-[Responsory2]
-@Tempora/Pasc5-4:Responsory2
-
 [Lectio3]
 !2Pet 3:14-18
 14 Szeretteim, minthogy ezt várjuk, legyetek rajta, hogy békességben, tisztán és feddhetetlenül találjon benneteket. 
@@ -43,9 +28,6 @@ Olvasmány szent Péter apostol második leveléből
 16 minden olyan levélben, amelyben ezekről a dolgokról beszél. Vannak bennük nehezen érthető dolgok, ezeket a tanulatlan és állhatatlan emberek kicsavarják a saját vesztükre, akárcsak a többi Írást is. 
 17 Szeretteim, mivel már eleve tudtok erről, vigyázzatok, nehogy a gonoszok tévedése elsodorjon benneteket, és elveszítsétek biztonságotokat. 
 18 Gyarapodjatok Urunk és Megváltónk, Jézus Krisztus kegyelmében és ismeretében. Neki legyen dicsőség most és az örökkévalóság napján! Ámen.
-
-[Responsory3]
-@Tempora/Pasc5-4:Responsory3
 
 [Lectio7]
 Evangélium szent Márk Evangélista kőnyvéből

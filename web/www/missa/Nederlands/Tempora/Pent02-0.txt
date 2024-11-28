@@ -1,9 +1,6 @@
 [Rank]
 Dominica II. Post Pentecosten;;Semiduplex I classis;;5.9;;ex Tempora/Pent01-4
 
-[Rank] (rubrica 196)
-Dominica II Post Pentecosten;;Duplex II classis;;5
-
 [Rule]
 ex Tempora/Pent01-4
 Gloria
@@ -23,14 +20,14 @@ v. De Heer was mijn Beschermer en voerde mij uit op de brede weg. Hij heeft mij 
 Doe ons, Heer, een eeuwige vrees en liefde koesteren voor uw heilige Naam, want Gij onttrekt nooit uw leiding aan hen, die Gij laat wortelen in uw liefde.
 $Per Dominum
 
-[Commemoratio Oratio]
-!Pro Octava SSmi. Corporis Christi
-@Tempora/Pent01-4:Oratio
-
 [Lectio]
 Lezing uit de eerste Brief van de heilige Apostel Johannes
 !1 Joannes 3:13-18
 Veelgeliefden, wilt u niet verwonderen, als de wereld u haat. Wij weten, dat wij zijn overgebracht van de dood naar het leven, daar wij immers onze broeders beminnen. Wie geen liefde heeft, blijft nog in de dood. Ieder, die zijn broeder haat, is een moordenaar. En gij weet, dat geen moordenaar eeuwig leven in zich draagt. Hieraan hebben wij de liefde van God leren kennen, dat Hij zijn leven voor ons gegeven heeft; ook wij moeten ons leven geven voor onze broeders. Wie de goederen dezer wereld bezit, en zijn broeder gebrek ziet lijden en niettemin zijn hart voor hem sluit, hoe zou in hem de liefde Gods aanwezig zijn? Mijn kinderkens, laat ons niet beminnen met woorden of met de tong, maar metterdaad en in waarheid.
+
+[Commemoratio Oratio]
+!Pro Octava SSmi. Corporis Christi
+@Tempora/Pent01-4:Oratio
 
 [Graduale]
 !Ps 119:1-2

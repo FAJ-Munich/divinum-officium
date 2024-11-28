@@ -1,9 +1,6 @@
 [Rank]
 Feria IV infra Hebdomadam Septuagesimae;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Olvasmány Mózes első könyvéből
 !Gen 3:1-7
@@ -15,9 +12,6 @@ Olvasmány Mózes első könyvéből
 6 Az asszony látta, hogy a fa élvezhető, tekintetre szép, és csábít a tudás megszerzésére. Vett tehát gyümölcséből, megette, adott férjének, aki vele volt, és az is evett belőle. 
 7 Erre felnyílt a szemük, észrevették, hogy meztelenek.
 
-[Responsory1]
-@Tempora/Quadp1-0:Responsory7
-
 [Lectio2]
 !Gen 3:7-13
 7 Fügefa leveleket fűztek össze, és kötényt csináltak maguknak. 
@@ -28,9 +22,6 @@ Olvasmány Mózes első könyvéből
 12 Az ember így válaszolt: „Az asszony adott a fáról, akit mellém rendeltél, azért ettem.” 
 13 Az Úristen megkérdezte az asszonyt: „Mit tettél?” Az asszony így felelt: „A kígyó vezetett félre, azért ettem.”
 
-[Responsory2]
-@Tempora/Quadp1-0:Responsory8
-
 [Lectio3]
 !Gen 3:14-20
 14 Az Úristen így szólt a kígyóhoz: „Mivel ezt tetted, átkozott leszel minden állat és a mező minden vadja között. Hasadon csúszol, és a föld porát eszed életed minden napján. 
@@ -40,6 +31,3 @@ Olvasmány Mózes első könyvéből
 18 Tövist és bojtorjánt terem számodra. A mező füvét kell enned. 
 19 Arcod verítékével eszed kenyeredet, amíg vissza nem térsz a földbe, amiből lettél. Mert por vagy és a porba térsz vissza.” 
 20 Az ember Évának nevezte feleségét, mert ő lett minden élő anyja.
-
-[Responsory3]
-@Tempora/Quadp1-0:Responsory9

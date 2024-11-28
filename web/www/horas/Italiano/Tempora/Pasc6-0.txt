@@ -10,9 +10,6 @@ ex Tempora/Pasc5-4;
 Doxology=Asc
 StJamesRule=John,Rev
 
-[Versum 1]
-@Tempora/Pasc5-4:Versum 2
-
 [Ant 1]
 Quando verrà il Consolatore, * che io vi manderò, lo Spirito di verità, che procede dal Padre, egli renderà testimonianza di me, alleluia.
 
@@ -89,17 +86,6 @@ Quindi aggiunse, come conseguenza, queste parole che abbiamo cominciato a spiega
 !1. Pietro 4:7-8
 v. Carissimi: Siate prudenti, e vegliate nella preghiera. Ma sopra tutto abbiate l'un per l'altro una carità perseverante: perché la carità copre una moltitudine di peccati.
 $Deo gratias
-
-[Versum 2]
-@Tempora/Pasc5-4:Versum 1
-(sed rubrica tridentina)
-@:Versum 1
-
-[Ant 2]
-@:Ant 1
-
-[Versum 3]
-@:Versum 1
 
 [Ant 3]
 Vi ho detto questo, * affinché, giunta quell'ora, vi ricordiate ch'io ve l'ho detto, alleluia.

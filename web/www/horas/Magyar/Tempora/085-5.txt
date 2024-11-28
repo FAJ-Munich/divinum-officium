@@ -7,9 +7,6 @@ Jézus Sírák fia könyvéből
 4 Mint a kétélö pallos, minden gonoszság, csapásának nincs gyógyúlása. 
 5 Az eröszak és igaztalanság semmivé teszik a gazdagságot, és az igen gazdag ház is semmivé lesz a kevélység által; így pusztúl el a kevély gazdagsága.
 
-[Responsory1]
-@Tempora/081-0:Responsory4
-
 [Lectio2]
 !Sir 21:6-10
 6 A szegény könyörgése szájából az ö füleihez érkezik, és az itélet sietve jö meg neki. 
@@ -17,9 +14,6 @@ Jézus Sírák fia könyvéből
 8 Távol megismertetik merész nyelvéröl a hatalmas, de az értelmes tudja, hogy amaz önmagát ejti meg. 
 9 A ki más költségével építi házát, olyan, mint a ki köveit télben szedi. 
 10 Csöpöhalmaz a bűnösök gyülekezete, és tűz lángja az ö végök.
-
-[Responsory2]
-@Tempora/081-0:Responsory5
 
 [Lectio3]
 !Sir 21:11-16
@@ -29,6 +23,3 @@ Jézus Sírák fia könyvéből
 14 Nem tanítható az, ki nem bölcs a jóban; 
 15 de van bölcseség, mely gonoszban bövelkedik, habár nincs (valódi) értelem ott, hol keseröség vagyon. 
 16 A bölcs tudománya, mint az áradás növekedik, és az ö tanácsa, mint az élö kútfö kiapadhatlan.
-
-[Responsory3]
-@Tempora/081-0:Responsory6

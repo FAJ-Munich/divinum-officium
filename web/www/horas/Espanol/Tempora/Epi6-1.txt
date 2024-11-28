@@ -1,9 +1,6 @@
 [Rank]
 Feria II infra Hebdomadam VI post Epiphaniam;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 De la Epístola a los Hebreos
 !Heb 3:1-4
@@ -12,18 +9,12 @@ De la Epístola a los Hebreos
 3 Y es tenido por digno de tanta mayor gloria que Moisés, cuanto mayor que la gloria de la casa es la del que la fabricó. 
 4 Pues toda casa es fabricada por alguno, pero el Hacedor de todas las cosas es Dios.
 
-[Responsory1]
-@Tempora/Epi2-1:Responsory1
-
 [Lectio2]
 !Heb 3:5-8
 5 Y Moisés fue fiel en toda su casa, como ministro que había de dar testimonio de las cosas que se habían de decir; 
 6 pero Cristo está como Hijo sobre su casa, que somos nosotros, si retenemos firmemente hasta el fin la confianza y la gloria de la esperanza. 
 7 Por lo cual, según dice el Espíritu Santo: “Si oyereis su voz hoy, 
 8 no endurezcáis vuestros corazones como en la rebelión, como el día de la tentación en el desierto.
-
-[Responsory2]
-@Tempora/Epi2-1:Responsory2
 
 [Lectio3]
 !Heb 3:12-16
@@ -32,6 +23,3 @@ De la Epístola a los Hebreos
 14 Porque hemos sido hechos participantes de Cristo en el supuesto de que hasta el fin conservemos la firme confianza del principio; 
 15 mientras se dice: “Si hoy oyereis su voz, no endurezcáis vuestros corazones como en la rebelión”. 
 16 ¿Quiénes, en efecto, se rebelaron después de haber oído? ¿No fueron todos los que salieron de Egipto por obra de Moisés?
-
-[Responsory3]
-@Tempora/Epi2-1:Responsory3

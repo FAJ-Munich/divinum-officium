@@ -1,16 +1,6 @@
 [Rank]
 Dominica Sanctissimae Trinitatis;;Duplex I classis;;6.5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-No Commemoration
-Psalm5 Vespera=116
-Psalm5 Vespera3=113
-Prima=53
-
 [Ant Vespera]
 Glory be to thee, O equal Trinity * one Deity, from before all ages, so now and for evermore.
 Praise and endless glory be * to God the Father, the Son, and the Holy Paraclete, for ever and ever.
@@ -63,9 +53,6 @@ Eternal praise thy works reveal,
 And sing with the celestial host
 The Father, Son, and Holy Ghost.
 Amen.
-
-[HymnusM Matutinum]
-@:Hymnus Matutinum
 
 [Ant Matutinum]
 Be present, O One Almighty God, * Father, Son, and Holy Ghost.;;8
@@ -200,9 +187,6 @@ There are two works of mercy which free us, and which the Lord Himself hath brie
 [Lectio9](rubrica 1960)
 @:Lectio8a:s/.*(It is)/$1/
 &teDeum
-
-[Ant Laudes]
-@:Ant Vespera
 
 [Hymnus Laudes]
 v. O thou, who dost all nature sway,

@@ -1,9 +1,6 @@
 [Rank]
 S. Apollinaris Episcopi et Mart;;Duplex;;3;;vide C2
 
-[RankNewcal]
-S. Apollinaris Episcopi et Mart;;Duplex optional;;2;;vide C2
-
 [Rule]
 vide C2;
 Gloria
@@ -20,15 +17,15 @@ v. Sacerdoti di Dio, benedite il Signore; lodatelo, o santi ed umili di cuore.
 O Signore, remuneratore delle anime fedeli, hai consacrato questo giorno col martirio del beato sacerdote Apollinare; concedi a noi, tuoi servi, il perdono in grazia delle preghiere di colui di cui celebriamo la gloriosa festa.
 $Per Dominum
 
-[Commemoratio Oratio]
-!S. Liborii Ep. et Conf.
-Signore Dio onnipotente, concedici che la solennità del beato Liborio, confessore tuo e vescovo, aumenti in noi la devozione e la salvezza.
-$Per Dominum
-
 [Lectio]
 Dalla prima lettera di san Pietro apostolo.
 !1 Petri 5:1-11
 Carissimi: Sacerdote anch'io e teste della Passione di Cristo e chiamato ad aver parte alla futura gloria, io scongiuro i sacerdoti che sono tra voi: Pascete il gregge di Dio, che vi è affidato, governandolo non per forza, ma volentieri per amor di Dio; non per il vil guadagno, ma con animo generoso; non come dominatori delle Chiese, ma come sinceri modelli del gregge; e così, quando apparirà il principe dei pastori, riceverete l'incorruttibile corona della gloria. Così pure voi, o giovani, siate soggetti agli anziani, e tutti incoraggiatevi l'un l'altro all'umiltà, poiché Dio resiste ai superbi e dà la sua grazia agli umili. Umiliatevi dunque sotto la potente mano di Dio, perché vi innalzi al tempo della sua venuta, affidando a lui tutte le vostre sollecitudini, perché egli stesso ha cura di voi. Siate sobri, vegliate; poiché il vostro avversario, il diavolo, come un leone ruggente, si aggira, cercando chi divorare; a lui resistete, forti nella fede, sapendo che i vostri fratelli, dispersi pel mondo, sopportano la vostra stessa sofferenza. Il Dio di ogni grazia, il quale ci ha chiamati in Gesù Cristo all'eterna sua gloria, con un po' di patire vi perfezionerà, vi conforterà, vi confermerà. A Lui impero e gloria in eterno. Amen.
+
+[Commemoratio Oratio]
+!S. Liborii Ep. et Conf.
+Signore Dio onnipotente, concedici che la solennità del beato Liborio, confessore tuo e vescovo, aumenti in noi la devozione e la salvezza.
+$Per Dominum
 
 [Graduale]
 !Ps 88:21-23
@@ -67,4 +64,3 @@ $Per Dominum
 !Pro S. Liborio
 O Dio onnipotente, concedici, te ne preghiamo, che, mentre ti ringraziamo dei doni ricevuti, per intercessione del beato Liborio, confessore tuo e vescovo, ne riceviamo dei maggiori.
 $Per Dominum
-

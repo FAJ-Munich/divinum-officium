@@ -1,14 +1,14 @@
 [Rank]
 S. Ambrosii Episcopi Confessoris et Ecclesiae Doctoris;;Duplex;;3;;vide C4a
 
-[Name]
-Ambrogio
-
 [Rule]
 vide C4a;
 Gloria
 CredoDa
 no Vigil1960
+
+[Name]
+Ambrogio
 
 [Introitus]
 !Eccli 15:5.
@@ -26,6 +26,11 @@ $Per Dominum
 Dalla seconda lettera di san Paolo apostolo a Timoteo.
 !2. Tim 4:1-8.
 Carissimo: Ti scongiuro davanti a Dio e a Gesù Cristo, che ha da venire a giudicare i vivi ed i morti, per la sua venuta e per il suo regno: predica la Parola, insisti a tempo opportuno e fuori tempo. Riprendi, esorta, sgrida con paziente insegnamento; perché verrà tempo in cui la gente non potrà sopportare la sana dottrina, ma per assecondare la propria passione e per prurito di novità, si creerà una folla di maestri, e per non ascoltare la verità andrà dietro a favole. Ma tu veglia sopra tutte le cose, sopporta le afflizioni, compi l'ufficio di predicare il Vangelo, adempi il tuo ministero e sii temperante. In quanto a me il mio sangue sta per essere versato come una libazione e il tempo del mio scioglimento dal corpo è vicino. Ho combattuto la buona battaglia, ho conservato la fede. Non mi resta che ricevere la corona di giustizia, che mi darà in quel giorno il Signore, giusto giudice; e non solo a me, ma anche a quelli che desiderano la sua venuta.
+
+[Commemoratio Oratio]
+!Per la Vigilia dell'Immacolata Concezione
+Dio, che hai preservato in modo mirabile dalla colpa originale la Madre del tuo Unigenito: concedici, ti preghiamo, di far noi, difesi dalla sua intercessione, partecipare puri di cuore alla sua festività. 
+$Per eundem
 
 [Graduale]
 !Eccli 44:16
@@ -49,6 +54,11 @@ Con lui staranno la mia fedeltà e il mio amore, e s'innalzerà nel mio Nome la 
 O Dio onnipotente ed eterno, per l'intercessione del beato Ambrogio confessore tuo e vescovo, fa' che i doni offerti alla maestà tua giovino alla nostra eterna salvezza.
 $Per Dominum
 
+[Commemoratio Secreta]
+!Per la Vigilia dell'Immacolata Concezione
+Signore, la preghiera dell'Immacolata Madre di Dio raccomandi i nostri doni presso di Te che sei clemente: ella che preservasti da ogni macchia originale, affinché meritasse di diventare degna abitazione del tuo Figlio:
+$Qui tecum
+
 [Communio]
 !Ps 88:36-38
 Questo giuro sulla mia santità: la stirpe di lui durerà in eterno e il suo trono quanto il sole dinanzi a me; perdurerà come la luna e come i cieli sarà stabile in perpetuo.
@@ -57,19 +67,7 @@ Questo giuro sulla mia santità: la stirpe di lui durerà in eterno e il suo tro
 Nel ricevere i sacramenti della nostra salvezza concedici, Dio onnipotente, che ci assista sempre l'orazione del tuo beato Ambrogio vescovo e confessore, in cui onore abbiamo offerto questo sacrificio alla tua maestà.
 $Per Dominum
 
-[Commemoratio Oratio]
-!Per la Vigilia dell'Immacolata Concezione
-Dio, che hai preservato in modo mirabile dalla colpa originale la Madre del tuo Unigenito: concedici, ti preghiamo, di far noi, difesi dalla sua intercessione, partecipare puri di cuore alla sua festività. 
-$Per eundem
-
-[Commemoratio Secreta]
-!Per la Vigilia dell'Immacolata Concezione
-Signore, la preghiera dell'Immacolata Madre di Dio raccomandi i nostri doni presso di Te che sei clemente: ella che preservasti da ogni macchia originale, affinché meritasse di diventare degna abitazione del tuo Figlio:
-$Qui tecum
-
 [Commemoratio Postcommunio]
 !Per la Vigilia dell'Immacolata Concezione
 Concedi, Dio misericordioso, aiuto alla nostra fragilità: affinché, noi che anticipiamo la festività dell'immacolata Concezione della Madre del Figlio tuo unigenito; con l'aiuto della di lei intercessione ci rialziamo dalle nostre iniquità.
 $Per eúndem
-
-

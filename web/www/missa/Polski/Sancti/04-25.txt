@@ -1,9 +1,6 @@
 [Rank]
 S. Marci Evangelistae;;Duplex II classis;;5.1
 
-[Rank1960]
-S. Marci Evangelistae;;Duplex II classis;;5
-
 [Rule]
 Gloria
 Credo
@@ -28,20 +25,20 @@ v. Ocaliłeś mię, Boże, od zgrai złoczyńców, alleluja, i od gromady czyni�
 Boże, który zaszczyciłeś św. Marka, Twego Ewangelistę, łaską przepowiadania Ewangelii; daj, prosimy, abyśmy zawsze odnosili pożytek z jego nauki i znajdowali obronę w jego modlitwie.
 $Per Dominum
 
-[Commemoratio Oratio]
-!Wspomnienie Dni Krzyżowych
-Wszechmogący Boże, w naszym utrapieniu ufamy Twojej dobroci; spraw, prosimy, aby Twoja opieka broniła nas od wszelkich przeciwności.
-$Per Dominum
-
-[Lectio1]
-Podobieństwo wyglądu czterech zwierząt: po prawej ich stronie cztery ludzkie oblicza i lwie; cztery zaś oblicza wołu po lewej ich stronie, ponad nimi cztery oblicza orła. Oblicza ich i skrzydła ku górze wyciągnięte: dwa skrzydła każdego łączyły się ze sobą, a dwa okrywały ich ciała. A każde z nich poruszało się na wprost swego oblicza; gdzie był gwałtowny poryw wichru, tamtędy kroczyły, a idąc nie obracały się.
-A podobieństwo zwierząt: wygląd ich niby węgli ogniem rozżarzonych i jakby wygląd pochodni. To było widzenie przebiegające wśród zwierząt: blask ognia, a z ognia wychodząca błyskawica. A zwierzęta szły i wracały na podobieństwo połyskującego ognia.
-
 [Lectio]
 Czytanie z Księgi Proroka Ezechiela.
 !Ez 1:10-14
 !x! Proroctwo Ezechiela rozpoczyna się wizją tronu Bożego, unoszonego przez cztery symboliczne zwierzęta. Każde z nich ma cztery oblicza. Tradycja chrześcijańska upatruje w nich symbole Ewangelistów. Ponieważ św. Marek rozpoczyna swoją Ewangelię opisem działalności św. Jana na puszczy, symbolem jego jest lew.
 @:Lectio1
+
+[Lectio1]
+Podobieństwo wyglądu czterech zwierząt: po prawej ich stronie cztery ludzkie oblicza i lwie; cztery zaś oblicza wołu po lewej ich stronie, ponad nimi cztery oblicza orła. Oblicza ich i skrzydła ku górze wyciągnięte: dwa skrzydła każdego łączyły się ze sobą, a dwa okrywały ich ciała. A każde z nich poruszało się na wprost swego oblicza; gdzie był gwałtowny poryw wichru, tamtędy kroczyły, a idąc nie obracały się.
+A podobieństwo zwierząt: wygląd ich niby węgli ogniem rozżarzonych i jakby wygląd pochodni. To było widzenie przebiegające wśród zwierząt: blask ognia, a z ognia wychodząca błyskawica. A zwierzęta szły i wracały na podobieństwo połyskującego ognia.
+
+[Commemoratio Oratio]
+!Wspomnienie Dni Krzyżowych
+Wszechmogący Boże, w naszym utrapieniu ufamy Twojej dobroci; spraw, prosimy, aby Twoja opieka broniła nas od wszelkich przeciwności.
+$Per Dominum
 
 [Graduale]
 Alleluja, alleluja

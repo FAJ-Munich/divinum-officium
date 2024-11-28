@@ -4,12 +4,6 @@ Feria VI infra Octavam Ascensionis;;Semiduplex;;2;;ex Tempora/Pasc5-4
 [Rank] (rubrica 1960)
 Feria VI post Ascension;;Feria;;1;;vide Tempora/Pasc5-4
 
-[Rule]
-ex Tempora/Pasc5-4;
-9 Lectiones
-Doxology=Asc
-Feria Te Deum
-
 [Lectio1]
 Olvasmány szent Péter apostol második leveléből
 !2 Pet 1:1-4
@@ -17,9 +11,6 @@ Olvasmány szent Péter apostol második leveléből
 2 Gyarapodjon bennetek a kegyelem és béke Isten és Urunk, Jézus Krisztus ismeretében. 
 3 Isteni ereje az Isten szerinti jámbor élethez mindent megadott nekünk: megismertük azt, aki saját dicsőségével és erejével meghívott minket. 
 4 Értékes és nagy ígéreteket kaptunk, hogy általuk részeseivé legyetek az isteni természetnek, és megmeneküljetek a romlottságtól, amely a világban uralkodik a bűnös kívánság következtében.
-
-[Responsory1]
-@Tempora/Pasc5-4:Responsory1
 
 [Lectio2]
 !2 Pet 1:5-9
@@ -29,9 +20,6 @@ Olvasmány szent Péter apostol második leveléből
 8 Mert ha ezek megvannak és gyarapodnak bennetek, nem marad Urunkra, Jézus Krisztusra vonatkozó ismeretetek hatástalan és meddő. 
 9 Az, akiben ezek nincsenek meg, vak és rövidlátó, mert megfeledkezett róla, hogy régi bűneitől megtisztuljon.
 
-[Responsory2]
-@Tempora/Pasc5-4:Responsory2
-
 [Lectio3]
 !2 Pet 1:10-15
 10 Testvérek, ezért még inkább törekedjetek rá, hogy hivatásotokat és kiválasztottságotokat tetteitekkel megpecsételjétek, mert ha ezt megteszitek, nem botoltok el soha. 
@@ -40,9 +28,6 @@ Olvasmány szent Péter apostol második leveléből
 13 Kötelességemnek tartom ugyanis, hogy amíg e sátorban élek, buzdítsalak és ösztönözzelek benneteket, 
 14 mert tudom, hogy közel van sátram levetése, mint azt Urunk, Jézus Krisztus is tudtomra adta. 
 15 De igyekszem, hogy ezekre halálom után is mindig emlékezzetek.
-
-[Responsory3]
-@Tempora/Pasc5-4:Responsory3
 
 [Lectio7]
 Evangélium szent Márk Evangélista kőnyvéből

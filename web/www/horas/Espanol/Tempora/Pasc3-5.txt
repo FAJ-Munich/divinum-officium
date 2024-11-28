@@ -1,10 +1,6 @@
 [Rank]
 Feria Sexta infra Hebdomadam III post Octavam Paschæ;;Feria;;1
 
-[Rule]
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 Del libro del Apocalipsis del Apóstol San Juan
 !Ap 19:1-5
@@ -45,9 +41,6 @@ R. Temed al Señor, y dadle la gloria, y adorad a aquél que hizo el cielo y la 
 15 De su boca sale una espada aguda para herir con ella a las naciones y Él las regirá con vara de hierro, y Él pisa el lagar del vino del furor de la cólera de Dios todopoderoso. 
 16 Tiene sobre su manto y sobre su muslo escrito su nombre: Rey de reyes, Señor de señores.
 
-[Responsory3]
-@Tempora/Pasc3-2:Responsory3
-
 [Ant 2]
 Reconocieron * a Jesús, aleluya, al partir el pan. Aleluya.
 
@@ -56,6 +49,3 @@ Reconocieron * a Jesús, aleluya, al partir el pan. Aleluya.
 
 [Ant 3]
 @Tempora/Pasc3-0:Ant 1
-
-[Ant 3] (rubrica 1960)
-Yo os aseguro: * Lloraréis y os lamentaréis vosotros, mientras el mundo está alegre. Vosotros estaréis tristes, pero vuestra tristeza se convertirá en alegría. Aleluya.

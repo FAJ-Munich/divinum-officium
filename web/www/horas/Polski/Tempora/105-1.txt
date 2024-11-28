@@ -1,8 +1,3 @@
-[Lectio1]
-@Tempora/105-0
-(sed rubrica tridentina)
-@Tempora/105-1:Lectio1Tridentina
-
 [Lectio1Tridentina]
 Z Drugiej Księgi Machabejskiej
 !2 Mch 7:7-12
@@ -13,11 +8,6 @@ Z Drugiej Księgi Machabejskiej
 11 z ufnością mówił: Z nieba to mam, ale dla Zakonu Bożego teraz i to wzgardzam: bo się od niego zasię to wziąć spodziewam.
 12 Tak iż król i którzy z nim byli, dziwowali się sercu młodzieńca, że jako na nic na męki nie dbał.
 
-[Lectio2]
-@Tempora/105-0
-(sed rubrica tridentina)
-@Tempora/105-1:Lectio2Tridentina
-
 [Lectio2Tridentina]
 !2 Mch 7:13-19
 13 A gdy ten tak umarł, czwartego także męcząc trapili.
@@ -27,11 +17,6 @@ Z Drugiej Księgi Machabejskiej
 17 A ty cierpliwie czekaj a ujźrzysz wielką moc jego, jako ciebie i nasienie twe męczyć będzie.
 18 Potym wiedziono szóstego, i ten, poczynając umierać, tak mówił: Nie myl się darmo, bo my to sami dla siebie cierpimy, żeśmy przeciw Bogu naszemu zgrzeszyli i zstały się nam rzeczy podziwienia godne.
 19 Wszakże ty nie mnimaj, żebyś miał uść karania, żeś się ważył przeciw Bogu walczyć.
-
-[Lectio3]
-@Tempora/105-0
-(sed rubrica tridentina)
-@Tempora/105-1:Lectio3Tridentina
 
 [Lectio3Tridentina]
 !2 Mch 7:20-23

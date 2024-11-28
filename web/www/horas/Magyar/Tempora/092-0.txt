@@ -7,9 +7,6 @@ Jób könyvéből
 4 Bölcsessége nagy és ereje hatalmas. Ki marad büntetlen, ha vele szembeszáll? 
 5 Hegyeket mozdít el és észre sem venni, hogy mivel haragszik, felforgatja őket.
 
-[Responsory1]
-@Tempora/091-0:Responsory1
-
 [Lectio2]
 !Job 9:6-10
 6 A földet is kimozdítja helyéről, az oszlopai csakúgy inognak. 
@@ -17,9 +14,6 @@ Jób könyvéből
 8 Maga feszítette ki az ég sátorát, tenger magas árját lába alá gyűrte. 
 9 Ő alkotta a Göncölszekeret, a Kaszást meg a Fiastyúkot is, s Délnek Kamaráit. 
 10 Kifürkészhetetlen s nagy, amit teremtett, csodálatra méltó és tömérdek.
-
-[Responsory2]
-@Tempora/091-0:Responsory2
 
 [Lectio3]
 !Job 9:11-17
@@ -30,21 +24,3 @@ Jób könyvéből
 15 Ha igazam volna, sem tudnék mit felelni, bírám előtt inkább kegyelmet kell kérnem. 
 16 S ha kiáltásomra feleletet adna, akkor sem hihetném, hogy hallgat szavamra. 
 17 Egyetlen hajszálért a földbe tapos, sebeimet ok nélkül szaporítja.
-
-[Responsory3]
-@Tempora/091-0:Responsory3
-
-[Responsory4]
-@Tempora/091-0:Responsory4
-
-[Responsory5]
-@Tempora/091-0:Responsory5
-
-[Responsory6]
-@Tempora/091-0:Responsory6
-
-[Responsory7]
-@Tempora/091-0:Responsory7
-
-[Responsory8]
-@Tempora/Pent01-0:Responsory8

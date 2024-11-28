@@ -28,15 +28,15 @@ v. Światłość zabłyśnie dzisiaj nad nami, albowiem narodził się nam Pan! 
 Przeniknięci nowym światłem Wcielonego Słowa prosimy Cię, wszechmogący Boże, spraw, niech w naszych czynach odbija się to, co przez wiarę jaśnieje w duszach.
 $Per eundem
 
-[Commemoratio Oratio]
-!Wspomnienie św. Anastazji
-Wszechmogący Boże, obchodząc uroczystość Twojej Męczennicy św. Anastazji, prosimy Cię, abyśmy doznali skutków jej wstawiennictwa.
-$Per Dominum
-
 [Lectio]
 Czytanie z Listu świętego Pawła Apostoła do Tytusa.
 !Tt 3:4-7
 Najmilszy: Okazała się dobroć i łaskawość Boga, Zbawiciela naszego: zbawił On nas nie dla uczynków sprawiedliwych, których dokonaliśmy, ale z miłosierdzia Swego przez obmycie odrodzenia i odnowienia w Duchu Świętym. Zesłał Go nam obficie przez Jezusa Chrystusa, Zbawiciela naszego, abyśmy łaską Jego usprawiedliwieni, stali się według nadziei dziedzicami żywota wiecznego: w Chrystusie Jezusie, Panu naszym.
+
+[Commemoratio Oratio]
+!Wspomnienie św. Anastazji
+Wszechmogący Boże, obchodząc uroczystość Twojej Męczennicy św. Anastazji, prosimy Cię, abyśmy doznali skutków jej wstawiennictwa.
+$Per Dominum
 
 [Graduale]
 !Ps 117:26; 117:27; 117:23

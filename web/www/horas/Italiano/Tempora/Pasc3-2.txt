@@ -1,10 +1,6 @@
 [Rank]
 Die VII Infra Octavam S. Joseph;;Semiduplex;;2;;vide Tempora/Pasc2-3
 
-[Rule]
-vide Tempora/Pasc2-3
-9 lectiones
-
 [Lectio1]
 Dal libro dell'Apocalisse dell'Apostolo san Giovanni.
 !Apo 4:1-5
@@ -39,9 +35,6 @@ R. Mentre esercitava il ministero di Dio, alleluia, alleluia, alleluia.
 9 E mentre quegli animali rendevano gloria, onore e grazie a colui che sedeva sul trono e che vive per i secoli dei secoli, 
 10 i ventiquattro seniori, si prostravano davanti a colui che sedeva sul trono, e adoravano colui che vive per i secoli dei secoli, e gettavano le loro corone davanti al trono, dicendo: 
 11 Tu sei degno, o Signore Dio nostro, di ricevere la gloria, l'onore e la potenza: perché tu hai creato il tutto, e per tuo volere esso sussiste ed è stato creato.
-
-[Responsory3]
-@Tempora/Pasc3-0:Responsory6
 
 [Lectio4]
 Dal Sermone di san Bernardo Abate

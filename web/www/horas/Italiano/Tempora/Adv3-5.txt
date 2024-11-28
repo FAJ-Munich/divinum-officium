@@ -1,14 +1,11 @@
 [Rank]
 Feria VI Quattuor Temporum in Adventu;;Feria major;;2
 
-[Rank] (rubrica 1960)
+[Rank] (rubrica 196 aut rubrica 1930)
 Feria VI Quattuor Temporum Adventus;;Feria major;;3
 
-[RankNewcal]
+[Rank] (rubrica innovata)
 Feria VI infra Hebdomadam III Adventus;;Feria major;;2
-
-[Rule]
-Preces Feriales
 
 [Oratio]
 Signore, risveglia la tua potenza e vieni: affinché quelli che confidano nella tua bontà, siano presto liberati da ogni avversità: 
