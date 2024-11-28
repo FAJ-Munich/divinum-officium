@@ -2,7 +2,6 @@
 S. Elisabeth Viduæ;;Duplex;;3;;vide C7a
 
 [Rule]
-CPapaM=Pontianus;
 vide C7a;
 Gloria
 

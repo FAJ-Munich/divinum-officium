@@ -1,6 +1,9 @@
 [Rank]
 S. Canuti Regis et Martyrum;;Semiduplex;;2;;vide C2
 
+[Comment]
+Św. Kanut, król Danii, gorliwie starał się o utwierdzenie i rozszerzenie chrześcijaństwa w swoim kraju. Jego przeciwnicy zamordowali go w kościele św. Albana w Odense 10 lipca 1086 roku.
+
 [Oratio]
 !Wspomnienie św. Kanuta
 Boże, który dla chwały Twojego Kościoła raczyłeś ozdobić św. Kanuta króla palmą męczeństwa i głośnymi cudami: spraw, prosimy, abyśmy idąc za nim jako naśladowcą Męki Pańskiej, zasłużyli na wejście do wiekuistych radości.
