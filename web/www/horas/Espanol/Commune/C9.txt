@@ -24,6 +24,10 @@ $Qui vivis
 v. Te rogamos, Señor, perdones el alma de tu siervo N. (tu sierva N.), a fin de que viva para ti, habiendo muerto para el siglo; y, por la indulgencia de tu piedad misericordiosísima, límpiala de los pecados que cometió por fragilidad de la carne mientras vivió entre los hombres.
 $Per Dominum
 
+[Oratio2]
+v. ¡Oh Dios, lleno de misericordia!; te pedimos que las almas de tus siervos y siervas, cuyo aniversario conmemoramos hoy, encuentren la claridad de tu luz, el lugar de la paz y la felicidad de tu descanso.
+$Per Dominum
+
 [Invit]
 Al Rey, por quien viven todos los seres, * Venid adorémosle.
 
@@ -210,10 +214,6 @@ Todo ser que alienta * alabe al Señor.;;150
 
 [Ant 2]
 Yo soy * la resurrección y la vida; quien cree en mí, aunque haya muerto, vivirá, y todo el que vive y cree en mí no morirá eternamente.
-
-[Oratio2]
-v. ¡Oh Dios, lleno de misericordia!; te pedimos que las almas de tus siervos y siervas, cuyo aniversario conmemoramos hoy, encuentren la claridad de tu luz, el lugar de la paz y la felicidad de tu descanso.
-$Per Dominum
 
 [Responsory91]
 R. Líbrame, Señor, de los caminos del infierno, Tú que rompiste las puertas de acero, y visitaste el infierno, y diste tu luz, para que te vieran, 

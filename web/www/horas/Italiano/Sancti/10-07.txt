@@ -40,11 +40,7 @@ la Madre lieta ritrova d'un tratto,
 mentre spiega ai dottori 
 cose loro ignote.
 _
-O Gesù, sia gloria a te, 
-che sei nato dalla Vergine, 
-insieme col Padre e collo Spirito Santo, 
-per i secoli eterni. 
-Amen.
+@Psalterium/Doxologies:Nat
 
 [Versum 1]
 V. Regina del sacratissimo Rosario, prega per noi.
@@ -86,68 +82,7 @@ innocente, fra due scellerati,
 pregando pei suoi carnefici, 
 spira dopo versata l'ultima goccia di sangue.
 _
-O Gesù, sia gloria a te, 
-che sei nato dalla Vergine, 
-insieme col Padre, e collo Spirito Santo, 
-per i secoli eterni. 
-Amen.
-
-[Hymnus Matutinum] (rubrica 196)
-v. Un Messaggero della corte celeste, 
-svelando i Divini secreti, 
-saluta piena di grazia 
-la Vergine Madre di Dio.
-_
-La Vergine visita sua cugina, 
-la madre di Giovanni, 
-il quale, balzando ancor chiuso nel seno, 
-annunzia la presenza di Cristo.
-_
-Il Verbo, che avanti ai secoli 
-fu generato dalla mente del Padre, 
-dal seno d'una Vergine Madre, 
-nasce normale Bambino.
-_
-Fanciullo è presentato al tempio, 
-e, Legislatore, s'assoggetta alla legge,
-e là, il Redentore, s'offre in sacrificio, 
-riscattato col prezzo dei poveri.
-_
-Il Figlio. che già piangea perduto, 
-la Madre lieta ritrova d'un tratto, 
-mentre spiega ai dottori 
-cose loro ignote.
-_
-Sul monte degli olivi 
-il Redentore prega prosteso, 
-è triste, trema, vien meno, 
-stillando sudore di sangue.
-_
-Consegnato da un traditore, 
-Dio è trascinato come un malfattore alla pena, 
-e, legato con dure ritorte, 
-è flagellato a sangue.
-_
-Intrecciata d'acute spine, 
-una corona d'ignominia 
-incorona il Re della gloria, 
-ricoperto d'un cencio di porpora.
-_
-La mole di pesantissima croce, 
-sudando, ansante, cadendo, 
-fin sulla vetta del monte 
-egli colla forza è costretto a portare.
-_
-Confitto al crudo legno, 
-innocente, fra due scellerati, 
-pregando pei suoi carnefici, 
-spira dopo versata l'ultima goccia di sangue.
-_
-O Gesù, sia gloria a te, 
-che sei nato dalla Vergine, 
-insieme col Padre, e collo Spirito Santo, 
-per i secoli eterni. 
-Amen.
+@Psalterium/Doxologies:Nat
 
 [Ant Matutinum]
 L'Angelo Gabriele * recò l'annunzio a Maria: ed ella divenne madre per opera dello Spirito Santo.;;8

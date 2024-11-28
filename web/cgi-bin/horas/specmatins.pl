@@ -407,7 +407,7 @@ sub cujus_q {
   local ($_) = shift;
 
   return -2 if /basilic/i;                                # no change for 11-09 11-18r
-  return 5 if /S. P. N. Benedicti/;
+  return 5 if /S. P. N. Benedicti Abbatis/;               # Don't catch Scholastica
 
   my $j = 0;                                                          # "Cujus …, ipse"
   if (/(virgin|vidua|poenitentis|pœnitentis|C6|C7)/i) { $j += 2; }    # "Cujus …, ipsa"
@@ -821,6 +821,7 @@ sub lectio : ScriptFunc {
 
     #$w1 =~ s/^\!.*?\n//;
     $w .= $w1;
+    setbuild2("ex Lectiones 2 et 3 fit una");
   }
   if ($version =~ /monastic/i && $num == 3) { $w = monastic_lectio3($w, $lang); }
 
@@ -831,6 +832,7 @@ sub lectio : ScriptFunc {
     if (contract_scripture($num)) {
       my $w1 = $c{'Lectio3'};
       $w .= $w1;
+      setbuild2("ex Lectiones 2 et 3 fit una");
     }
   }
 
@@ -1064,14 +1066,16 @@ sub lectio : ScriptFunc {
         $s = (columnsel($lang)) ? $scriptura{"Responsory$na 1960"} : $scriptura2{"Responsory$na 1960"};
       }
     } else {
-      if ($version =~ /monastic/i && $dayofweek != 0 && $month == 1 && $day > 6 && $day < 13) {
-        $na += 4 if ($dayofweek == 2 || $dayofweek == 5);
 
-        if ($dayofweek == 3) {    # Saturday dont work due C10 || $dayofweek == 6 ) {
-          $na += 1 if ($na > 1);
-          $na += 8;
-        }
-      }
+      #      if ($version =~ /monastic/i && $dayofweek != 0 && $month == 1 && $day > 6 && $day < 13) {
+##        die $w{"Rank"};
+      #        $na += 4 if ($dayofweek == 2 || $dayofweek == 5);
+      #
+      #        if ($dayofweek == 3) {    # Saturday dont work due C10 || $dayofweek == 6 ) {
+      #          $na += 1 if ($na > 1);
+      #          $na += 8;
+      #        }
+      #      }
 
       if (exists($w{"Responsory$na"})) {
         $s = $w{"Responsory$na"};

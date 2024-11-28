@@ -2,4 +2,3 @@
 S. Roberti Abbatis;;Duplex;;3;;vide C5c
 (sed rubrica 1930)
 S. Roberti Abbatis;;Simplex;;1.1;;vide C5c
-

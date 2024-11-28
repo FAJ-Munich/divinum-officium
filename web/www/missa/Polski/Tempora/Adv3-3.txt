@@ -24,22 +24,27 @@ Niebiosa głoszą chwałę Boga, dzieło rąk Jego obwieszcza nieboskłon.
 &Gloria
 v. Niebiosa, spuśćcie rosę z góry, a obłoki niech zleją z deszczem Sprawiedliwego. Niech się otworzy ziemia i zrodzi Zbawiciela.
 
-[Oratio]
-Spraw, prosimy Cię, wszechmogący Boże, aby nadchodząca uroczystość naszego odkupienia przyniosła nam pomoc w życiu doczesnym i obdarzyła nas nagrodą życia wiecznego.
-$Per Dominum
-
-[OratioL1]
-Pośpiesz, prosimy Cie, Panie, i nie zwlekaj, lecz ześlij nam potężną pomoc z nieba, aby radość z Twego przyjścia podniosła tych, co ufają Twej dobroci:
-$Qui vivis
-
-[Lectio]
-@Commune/C10a:Lectio
-
 [LectioL1]
 Czytanie z Księgi Proroka Izajasza.
 !Iz 2:2-5
 W one dni rzekł Izajasz prorok: I będzie w ostateczne dni przygotowana góra domu Pańskiego na wierzchu gór, i wywyższy się nad pagórki, a popłyną do niej wszystkie narody. Pójdą też liczne ludy i rzekną: Chodźcie, a wstąpimy na górę Pańską i do domu Boga Jakubowego, a nauczy nas dróg swoich i będziemy chodzić ścieżkami Jego. Bo z Syjonu wyjdzie zakon, a słowo Pańskie z Jeruzalem. I będzie sądził narody i wielu ludom będzie wymierzał sprawiedliwość. I przekują miecze swe na lemiesze, a włócznie swe na sierpy; nie podniesie miecza naród przeciw narodowi ani nie będą więcej ćwiczyć się do boju. Domu Jakuba, pójdźcie, a chodźmy w światłości Pana Boga naszego.
 $Deo Gratias
+
+[GradualeL1]
+!Ps 23:7; 23:3; 23:4
+v. Bramy, podnieście swe szczyty i rozstąpcie się, prastare podwoje, aby mógł wkroczyć Król chwały.
+V. Kto wstąpi na górę Pana lub stanie na świętym Jego miejscu? Człowiek rąk nieskalanych i czystego serca.
+
+[OratioL1]
+Pośpiesz, prosimy Cie, Panie, i nie zwlekaj, lecz ześlij nam potężną pomoc z nieba, aby radość z Twego przyjścia podniosła tych, co ufają Twej dobroci:
+$Qui vivis
+
+[Oratio]
+Spraw, prosimy Cię, wszechmogący Boże, aby nadchodząca uroczystość naszego odkupienia przyniosła nam pomoc w życiu doczesnym i obdarzyła nas nagrodą życia wiecznego.
+$Per Dominum
+
+[Lectio]
+@Commune/C10a:Lectio
 
 [Graduale]
 !Ps 144:18; 144:21
@@ -68,8 +73,3 @@ Oto Panna pocznie i porodzi Syna i nazwą imię Jego Emmanuel.
 [Postcommunio]
 Posileni zbawiennym Darem, pokornie błagamy Cię, Panie, aby to, co z radością przyjmujemy, przyniosło nam odnowienie.
 $Per Dominum
-
-[GradualeL1]
-!Ps 23:7; 23:3; 23:4
-v. Bramy, podnieście swe szczyty i rozstąpcie się, prastare podwoje, aby mógł wkroczyć Król chwały.
-V. Kto wstąpi na górę Pana lub stanie na świętym Jego miejscu? Człowiek rąk nieskalanych i czystego serca.

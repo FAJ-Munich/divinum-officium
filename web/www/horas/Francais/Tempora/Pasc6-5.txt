@@ -18,14 +18,13 @@ No suffragium
 Du sermon de saint Augustin, Évêque
 !Même Sermon 176, vers la fin
 Mes bien chers frères, si ce n’est pas dans notre chair que le Sauveur a triomphé du démon, il a combattu, en manière d’exercice, mais il n’a pas vaincu pour nous. Si ce n’est pas dans notre corps qu’il est ressuscité, il n’a rien changé à notre condition en ressuscitant. Celui qui parle ainsi ne comprend pas la raison pour laquelle le Sauveur s’est revêtu de notre chair et l’a élevée au ciel, il confond l’ordre de la rédemption, et en détruit l’utilité. Si ce n’est pas dans notre chair que le Christ a poursuivi l’œuvre de notre guérison, il n’a donc rien pris de la nature humaine que la bassesse de la naissance. Chassons loin de notre esprit une croyance aussi dangereuse, ce qu’il a pris est du nôtre, ce qu’il a donné est du sien. J’atteste que ce qui a succombé est mien, afin que ce qui est ressuscité m’appartienne. Je confesse que ce qui a été enseveli dans le tombeau est à moi, afin que ce qui est monté au ciel soit à moi.
-(rubrica 1570)
-@:InIllo
+(rubrica 1570) @:InIllo
 
 [Lectio5]
 @:InIllo
 (rubrica 1570 hæc versus omittitur)
-Travaillons donc, très chers frères, afin que, de même que le Seigneur est en ce jour monté au ciel avec notre chair, ainsi, autant que nous le pouvons, nous montions par notre espérance après lui et que nous le suivions de cœur. Montons après lui par notre affection, par notre avancement dans la vertu, et même au moyen de nos vices et de nos passions. Certes, si chacun de nous s’efforce de les soumettre à sa volonté, s’accoutume à se tenir debout au-dessus d’eux, il s’en fera comme un degré pour monter plus haut. Ils nous élèveront, s’ils restent au-dessous de nous. (rubrica 1570)
-@:DeVitiis
+Travaillons donc, très chers frères, afin que, de même que le Seigneur est en ce jour monté au ciel avec notre chair, ainsi, autant que nous le pouvons, nous montions par notre espérance après lui et que nous le suivions de cœur. Montons après lui par notre affection, par notre avancement dans la vertu, et même au moyen de nos vices et de nos passions. Certes, si chacun de nous s’efforce de les soumettre à sa volonté, s’accoutume à se tenir debout au-dessus d’eux, il s’en fera comme un degré pour monter plus haut. Ils nous élèveront, s’ils restent au-dessous de nous. 
+(rubrica 1570) @:DeVitiis
 
 [Lectio6]
 @:DeVitiis

@@ -15,24 +15,29 @@ Vers vous, Seigneur, j’ai élevé mon âme ; mon Dieu, je mets ma confiance en
 &Gloria
 v. Souvenez-vous de vos bontés, Seigneur, et de votre miséricorde qui datent des siècles passés. Que nos ennemis ne triomphent jamais de nous. Dieu d’Israël, délivrez-nous de toutes nos tribulations.
 
-[Oratio]
-Nous vous en supplions, Seigneur, daignez, dans votre clémence, exaucer nos prières, et étendre la droite de votre majesté pour nous préserver de tout ce qui nous est contraire.
-$Per Dominum
+[LectioL1]
+Léctio libri Exodi.
+!Exod 24:12-18
+En ces jours-là, le Seigneur dit à Moïse : « Monte vers moi sur la montagne, et restes-y ; je te donnerai les tables de pierre, la loi et les préceptes que j’ai écrits pour leur instruction. » Moïse se leva, avec Josué, son serviteur, et Moïse monta vers la montagne de Dieu. Il dit aux anciens : « Attendez-nous ici, jusqu’à ce que nous revenions auprès de vous. Voici Aaron et Hur seront avec vous ; si quelqu’un a un différend, qu’il s’adresse à eux. » Moïse monta vers la montagne, et la nuée couvrit la montagne ; la gloire du Seigneur reposa sur la montagne de Sinaï, et la nuée la couvrit pendant six jours. Le septième jour, le Seigneur appela Moïse du milieu de la nuée. L’aspect de la gloire du Seigneur était, aux yeux des enfants d’Israël, comme un feu dévorant sur le sommet de la montagne. Moïse entra au milieu de la nuée, et monta à la montagne ; et Moïse demeura sur la montagne quarante jours et quarante nuits.
+$Deo Gratias
+
+[GradualeL1]
+!Ps 24:17-18
+Les tribulations de mon cœur se sont multipliées : tirez-moi de mes angoisses.
+V. Voyez mon humiliation et ma peine et remettez-moi tous mes péchés.
 
 [OratioL1]
 Regardez, dans votre bienveillance, nous vous en supplions, Seigneur, la dévotion de votre peuple afin que le fruit des bonnes œuvres fortifie et renouvelle selon l’esprit ceux qui mortifient leur corps au moyen de l’abstinence.
+$Per Dominum
+
+[Oratio]
+Nous vous en supplions, Seigneur, daignez, dans votre clémence, exaucer nos prières, et étendre la droite de votre majesté pour nous préserver de tout ce qui nous est contraire.
 $Per Dominum
 
 [Lectio]
 Léctio libri Regum
 !3 Reg 19:3-8
 En ces jours-là, Élie, étant arrivé à Bersabée, qui appartient à Juda, y laissa son serviteur. Pour lui, il alla dans le désert l’espace d’une journée de marche ; arrivé là, il s’assit sous un genêt et demanda pour lui la mort, en disant : « C’est assez ! Maintenant, Seigneur, prends ma vie, car je ne suis pas meilleur que mes pères ! » Il se coucha et s’endormit sous le genêt. Et voici qu’un ange le toucha et lui dit : « Lève-toi, mange. » Il regarda, et voici qu’il y avait à son chevet un gâteau cuit sur des pierres chauffées et une cruche d’eau. Après avoir mangé et bu, il se recoucha. L’ange du Seigneur vint une seconde fois, le toucha et dit : « Lève-toi, mange, car le chemin est trop long pour toi. » Il se leva, mangea et but, et, avec la force que lui donna cette nourriture, il marcha quarante jours et quarante nuits jusqu’à la montagne de Dieu, à Horeb.
-
-[LectioL1]
-Léctio libri Exodi.
-!Exod 24:12-18
-En ces jours-là, le Seigneur dit à Moïse : « Monte vers moi sur la montagne, et restes-y ; je te donnerai les tables de pierre, la loi et les préceptes que j’ai écrits pour leur instruction. » Moïse se leva, avec Josué, son serviteur, et Moïse monta vers la montagne de Dieu. Il dit aux anciens : « Attendez-nous ici, jusqu’à ce que nous revenions auprès de vous. Voici Aaron et Hur seront avec vous ; si quelqu’un a un différend, qu’il s’adresse à eux. » Moïse monta vers la montagne, et la nuée couvrit la montagne ; la gloire du Seigneur reposa sur la montagne de Sinaï, et la nuée la couvrit pendant six jours. Le septième jour, le Seigneur appela Moïse du milieu de la nuée. L’aspect de la gloire du Seigneur était, aux yeux des enfants d’Israël, comme un feu dévorant sur le sommet de la montagne. Moïse entra au milieu de la nuée, et monta à la montagne ; et Moïse demeura sur la montagne quarante jours et quarante nuits.
-$Deo Gratias
 
 [Graduale]
 !Ps 24:17; 24:18; 24:1-4
@@ -60,11 +65,6 @@ Comprenez mon cri. Soyez attentifs à la voix de ma prière, mon roi et mon Dieu
 [Postcommunio]
 Seigneur, que par la réception de votre sacrement, nous soyons purifiés de nos péchés cachés et délivrés des embûches que nous tendent nos ennemis.
 $Per Dominum
-
-[GradualeL1]
-!Ps 24:17-18
-Les tribulations de mon cœur se sont multipliées : tirez-moi de mes angoisses.
-V. Voyez mon humiliation et ma peine et remettez-moi tous mes péchés.
 
 [Super populum]
 !Oratio super populum

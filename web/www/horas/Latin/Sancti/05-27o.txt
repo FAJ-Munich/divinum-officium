@@ -19,6 +19,6 @@ Joannes Etruscus, Justino seniore imperatore, rexit Ecclesiam: ad quem profectus
 Rebus cum imperatore compositis, in Italiam rediit, statimque epistolam scripsit ad omnes Italiæ episcopos, jubens eos Arianorum ecclesias ad catholicum ritum consecrare, illud subjungens: Quia et nos, quando fuimus Constantinopoli tam pro religione catholica quam pro regis Theodorici causa, quascumque illis in partibus eorum ecclesias reperire potuimus, catholicas eas consecravimus.  Quod iniquissimo animo ferens Theodoricus, dolo accersitum Pontificem Ravennam in carcerem conjecit; ubi, squalore inediaque afflictus, paucis diebus cessit e vita, cum sedisset annos duos, menses novem, dies quatuordecim, ordinatis eo tempore episcopis quindecim. Paulo post moritur Theodoricus: quem quidam eremita, ut scribit sanctus Gregorius, vidit inter Joánnem Pontificem et Symmachum patricium, quem idem occiderat, demergi in ignem Liparitanum; ut videlicet illi, quibus mortem attulerat, tamquam judices essent ejus interitus. Joannis corpus Ravenna Romam portatum est, et in basilica sancti Petri sepultum.
 &teDeum
 
-[Lectio93]
+[Lectio93] (communi Summorum Pontificum)
 @:Lectio2: s/$/~/
 @:Lectio3

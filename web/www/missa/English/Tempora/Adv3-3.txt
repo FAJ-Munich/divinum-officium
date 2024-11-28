@@ -16,24 +16,29 @@ The heavens declare the glory of God, and the firmament proclaims His handiwork.
 &Gloria
 v. Drop down dew, you heavens, from above, and let the clouds rain the just: let the earth be opened and bud forth a Saviour.
 
-[Oratio]
-Grant us, we beseech You, almighty God, that the coming feast of our redemption may bring us both help for our present life, and the reward of everlasting happiness.
-$Per Dominum
-
-[OratioL1]
-Hasten, we beseech You, O Lord, and delay not; bestow upon us the help of power from on high, that they who trust in Your goodness may be supported by the encouragement of Your coming.
-$Qui vivis
-
-[Lectio]
-Lesson from the book of Isaias
-!Isa 7:10-15
-In those days, the Lord spoke to Achaz: Ask for a sign from the Lord, your God; let it be deep as the nether world, or high as the sky! But Achaz answered, I will not ask! I will not tempt the Lord! Then he said, Listen, O house of David! Is it not enough for you to weary men, must you also weary my God? Therefore the Lord Himself will give you this sign: the virgin shall be with child, and bear a Son, and shall name Him Emmanuel. He shall be living on curds and honey by the time He learns to reject the bad and choose the good.
-
 [LectioL1]
 Lesson from the book of Isaias
 !Isa. 2:2-5
 In those days the prophet Isaiah said: In days to come, the mountain of the Lord’s house shall be established as the highest mountain and raised above the hills. All nations shall stream toward it; many peoples shall come and say: ‘Come, let us climb the Lord’s mountain, to the house of the God of Jacob, that He may instruct us in His ways, and we may walk in His paths.’ For from Sion shall go forth instruction, and the word of the Lord from Jerusalem. He shall judge between the nations, and impose terms on many peoples. They shall beat their swords into plowshares and their spears into pruning hooks; one nation shall not raise the sword against another, nor shall they train for war again. O house of Jacob, come, let us walk in the light of the Lord, our God.
 $Deo Gratias
+
+[GradualeL1]
+!Ps 23:7; 23:3-4
+Lift up, O gates, your lintels; reach up, you ancient portals, that the King of glory may come in!
+V. Who can ascend the mountain of the Lord? or who may stand in His holy place? He whose hands are sinless, whose heart is clean.
+
+[OratioL1]
+Hasten, we beseech You, O Lord, and delay not; bestow upon us the help of power from on high, that they who trust in Your goodness may be supported by the encouragement of Your coming.
+$Qui vivis
+
+[Oratio]
+Grant us, we beseech You, almighty God, that the coming feast of our redemption may bring us both help for our present life, and the reward of everlasting happiness.
+$Per Dominum
+
+[Lectio]
+Lesson from the book of Isaias
+!Isa 7:10-15
+In those days, the Lord spoke to Achaz: Ask for a sign from the Lord, your God; let it be deep as the nether world, or high as the sky! But Achaz answered, I will not ask! I will not tempt the Lord! Then he said, Listen, O house of David! Is it not enough for you to weary men, must you also weary my God? Therefore the Lord Himself will give you this sign: the virgin shall be with child, and bear a Son, and shall name Him Emmanuel. He shall be living on curds and honey by the time He learns to reject the bad and choose the good.
 
 [Graduale]
 !Ps 144:18, 21
@@ -60,8 +65,3 @@ Behold, the virgin shall be with child and bear a Son, and shall name Him Emmanu
 [Postcommunio]
 Refreshed by the sacramental gift of Your salvation, we humbly beseech You, O Lord, that enjoying its savor we may be made new by its action.
 $Per Dominum
-
-[GradualeL1]
-!Ps 23:7; 23:3-4
-Lift up, O gates, your lintels; reach up, you ancient portals, that the King of glory may come in!
-V. Who can ascend the mountain of the Lord? or who may stand in His holy place? He whose hands are sinless, whose heart is clean.

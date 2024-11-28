@@ -29,6 +29,11 @@ Qui sedes, Dómine, super Chérubim, éxcita poténtiam tuam, et veni.
 V. Qui regis Israël, inténde: qui dedúcis, velut ovem, Joseph. Allelúja, allelúja,
 V. Excita, Dómine, potentiam tuam, et veni, ut salvos fácias nos. Allelúja.
 
+[GradualeF]
+!Ps 79:2; 79:3; 79:2
+Qui sedes, Dómine, super Chérubim, éxcita poténtiam tuam, et veni.
+V. Qui regis Israël, inténde: qui dedúcis, velut ovem, Joseph.
+
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Joánnem
 !Joann 1:19-28
@@ -49,8 +54,3 @@ Dícite: pusillánimes, confortámini et nolíte timére: ecce, Deus noster vén
 [Postcommunio]
 Implorámus, Dómine, cleméntiam tuam: ut hæc divína subsídia, a vítiis expiátos, ad festa ventúra nos prǽparent.
 $Per Dominum
-
-[GradualeF]
-!Ps 79:2; 79:3; 79:2
-Qui sedes, Dómine, super Chérubim, éxcita poténtiam tuam, et veni.
-V. Qui regis Israël, inténde: qui dedúcis, velut ovem, Joseph.

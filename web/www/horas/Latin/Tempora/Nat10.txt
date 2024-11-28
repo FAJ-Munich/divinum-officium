@@ -28,3 +28,20 @@ De Epístola ad Romános
 11 Scriptum est enim: Vivo ego, dicit Dóminus, quóniam mihi flectétur omne genu: et omnis lingua confitébitur Deo. 
 12 Itaque unusquísque nostrum pro se ratiónem reddet Deo. 
 13 Non ergo ámplius ínvicem judicémus.
+
+[Responsory1] (rubrica 196)
+@SanctiM/01-07
+(sed rubrica 1960)
+@Sancti/01-06:Responsory1InfraOctavam
+
+[Responsory2] (rubrica 196)
+@SanctiM/01-07
+(sed feria 7)
+@SanctiM/01-07:Responsory3
+(sed rubrica 1960)
+@Sancti/01-06
+
+[Responsory3] (rubrica 196)
+@SanctiM/01-07
+(sed rubrica 1960)
+@Sancti/01-06

@@ -24,6 +24,10 @@ $Qui vivis
 v. Lord, we pray thee to absolve the soul of thy servant or, thine handmaid N. (here express the name) who hath died unto the world, that he (or, she) may live unto thee. And whereinsoever while he (or, she) walked among men he (or, she) hath transgressed through the weakness of the flesh, do Thou in the exceeding tenderness of thy mercy forgive and put away.
 $Per Dominum
 
+[Oratio2]
+v. O Lord God, who art the great pardoner, grant rest and refreshment, peace and blessing, light and glory, unto the souls of thy men-servants and thy maid-servants, (or, the soul of thy servant, or, of thine handmaid,) whose year's-mind we are keeping.
+$Per Dominum
+
 [Invit]
 Unto the Eternal King all live. * O come, let us worship Him.
 
@@ -210,10 +214,6 @@ Let everything that hath breath * praise the Lord.;;150
 
 [Ant 2]
 I am the resurrection and the life: * he that believeth in me, though he were dead, yet shall he live; and whosoever liveth and believeth in me shall never die.
-
-[Oratio2]
-v. O Lord God, who art the great pardoner, grant rest and refreshment, peace and blessing, light and glory, unto the souls of thy men-servants and thy maid-servants, (or, the soul of thy servant, or, of thine handmaid,) whose year's-mind we are keeping.
-$Per Dominum
 
 [Responsory91]
 R. Deliver me from the ways of hell, O Lord, Who didst break the gates of brass in sunder, and didst descend into hell, and give them light,

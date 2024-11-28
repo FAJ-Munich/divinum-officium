@@ -36,6 +36,11 @@ De heilige Maria, Koningin van de hemel, stond vol smarten naast het Kruis van o
 !Thren 1:12
 O vos omnes, qui tránsitis per viam, atténdite et vidéte, si est dolor sicut dolor meus.
 
+[GradualeA]
+Een beeld van droefheid zijt Gij in uw tranen, Maagd Maria, zoals Gij naast het Kruis staat van onze Heer Jezus Christus, uw Zoon, onze Verlosser.
+V. Maagd, Moeder van God, Hij, die de gehele wereld niet kan omvatten, verduurt deze straf aan het Kruis. Hij, de Gever van het leven, die mens is geworden. Alleluia, alleluia.
+V. De heilige Maria, Koningin van de hemel, stond vol smarten naast het Kruis van onze Heer Jezus Christus. Alleluia.
+
 [GradualeP]
 Alleluia, alleluia.
 V. De heilige Maria, Koningin van de hemel, stond vol smarten naast het Kruis van onze Heer Jezus Christus. Alleluia.
@@ -149,8 +154,3 @@ $Qui vivis
 [Commemoratio Postcommunio]
 !Pro Feria
 @Tempora/Quad5-5Feria:Postcommunio
-
-[GradualeA]
-Een beeld van droefheid zijt Gij in uw tranen, Maagd Maria, zoals Gij naast het Kruis staat van onze Heer Jezus Christus, uw Zoon, onze Verlosser.
-V. Maagd, Moeder van God, Hij, die de gehele wereld niet kan omvatten, verduurt deze straf aan het Kruis. Hij, de Gever van het leven, die mens is geworden. Alleluia, alleluia.
-V. De heilige Maria, Koningin van de hemel, stond vol smarten naast het Kruis van onze Heer Jezus Christus. Alleluia.

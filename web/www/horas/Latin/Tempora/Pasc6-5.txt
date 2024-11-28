@@ -47,15 +47,14 @@ No suffragium
 [Lectio4]
 De sermóne sancti Augustíni Epíscopi
 !Idem Sermone 176 in fine
-Salvátor noster, caríssimi, si non in nostra carne diábolum triumphávit, se exércuit, non nobis vicit. Si non in nostro córpore resurréxit, conditióni nostræ resurgéndo nihil cóntulit. Hæc qui dicit, suscéptæ et assúmptæ carnis non intélligit ratiónem, confúndit órdinem, evácuat utilitátem. Si non in nostra carne perégit medicínam, solam ergo ex hómine nascéndi elégit injúriam. Recédat a sénsibus nostris tam periculósa persuásio. De nostro est quod appéndit, de suo est quod donávit. Meum testor esse quod cécidit, ut meum sit quod resurréxit. Meum testor esse quod jácuit intra túmulum, ut meum sit quod ascéndit in cælum.
-(rubrica 1570)
-@:InIllo
+Salvátor noster, caríssimi, si non in nostra carne diábolum triumphávit, se exércuit, non nobis vicit. Si non in nostro córpore resurréxit, conditióni nostræ resurgéndo nihil cóntulit. Hæc qui dicit, suscéptæ et assúmptæ carnis non intélligit ratiónem, confúndit órdinem, evácuat utilitátem. Si non in nostra carne perégit medicínam, solam ergo ex hómine nascéndi elégit injúriam. Recédat a sénsibus nostris tam periculósa persuásio. De nostro est quod appéndit, de suo est quod donávit. Meum testor esse quod cécidit, ut meum sit quod resurréxit. Meum testor esse quod jácuit intra túmulum, ut meum sit quod ascéndit in cælum. ~
+(rubrica 1570) @:InIllo
 
 [Lectio5]
 @:InIllo
 (rubrica 1570 hæc versus omittitur)
-Elaborémus ergo, caríssimi, ut quemádmodum Dóminus in hac die nostro cum córpore ad supérna conscéndit, ita nos post illum quómodo póssumus, spe ascendámus, et corde sequámur. Ipso afféctu páriter et proféctu ascendámus post illum: étiam per vítia ac passiónes nostras. Si útique unusquísque nostrum súbdere eas sibi stúdeat, ac super eas stare consuéscat, ex ipsis sibi gradum cónstruit, quo possit ad superióra conscéndere. Elevábunt nos, si fúerint infra nos. (rubrica 1570)
-@:DeVitiis
+Elaborémus ergo, caríssimi, ut quemádmodum Dóminus in hac die nostro cum córpore ad supérna conscéndit, ita nos post illum quómodo póssumus, spe ascendámus, et corde sequámur. Ipso afféctu páriter et proféctu ascendámus post illum: étiam per vítia ac passiónes nostras. Si útique unusquísque nostrum súbdere eas sibi stúdeat, ac super eas stare consuéscat, ex ipsis sibi gradum cónstruit, quo possit ad superióra conscéndere. Elevábunt nos, si fúerint infra nos.
+(rubrica 1570) @:DeVitiis
 
 [Lectio6]
 @:DeVitiis

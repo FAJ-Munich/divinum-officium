@@ -7,8 +7,8 @@ Full text
 [Prelude]
 !Solemnis Actio liturgica celebranda est horis postmeridianis, et quidem circa horam tertiam; si vero ratio pastoralis id suadeat, inchoari potest inde a meridie, vel tardiori hora, non autem ultra horam nonam serotinam. Privata Actionis liturgicae celebratio interdicitur. Hoc die sacra Communio fidelibus distribui potest unice inter solemnem Actionem liturgicam postmeridianam, exceptis iis, qui in periculo mortis sunt constituti. 
 !1. Altare omnino nudum sit: sine cruce, sine candelabris, sine tobaleis. 
-!2. Solemnis Actio liturgica postmeridiana huius feriae, ubi deest copia clericorum et sacerdotum, peragitur a celebrante cum assistentia ministrantium, ut suis locis notabitur; ubi vero clerici adsint, maxime convenit, ut in choro Actioni liturgicas assistant.  
-!3. Itaque, unusquisque suis choralibus vestimentis induitur; celebrans et diaconus, amictu, alba et cingulo induti, sumunt stolam nigram; subdiaconus accipit amictum, albam et cingulum.  
+!2. Solemnis Actio liturgica postmeridiana huius feriae, ubi deest copia clericorum et sacerdotum, peragitur a celebrante cum assistentia ministrantium, ut suis locis notabitur; ubi vero clerici adsint, maxime convenit, ut in choro Actioni liturgicas assistant. 
+!3. Itaque, unusquisque suis choralibus vestimentis induitur; celebrans et diaconus, amictu, alba et cingulo induti, sumunt stolam nigram; subdiaconus accipit amictum, albam et cingulum. 
 !4. Omnibus sic paratis, incipit processio per ecclesiam ad altare, sub silentio. 
 !5. Clerici, ministri, seu ministrantes, et celebrans, cum ad altare pervenerint, eidem altari reverentiam faciunt; deinde, celebrans et ministri sacri, non vero ministrantes, in faciem procumbunt, reliqui vero adeunt scamna in choro, ibique manent, genibus flexis et profunde inclinati: omnesque in silentio aliquamdiu orant. 
 !6. Signo dato, omnes se erigunt, sed genuflexi manent; solus celebrans, stans ante gradus altaris, dicit, manibus iunctis et in tono feriali, sequentem orationem:
@@ -246,7 +246,7 @@ R. Ô mon peuple, que t’ai-je fait et en quoi t’ai-je contristé ? Réponds-
 !1
 V. Je t’ai élevé en déployant une grande force, et toi tu m’as attaché au gibet de la Croix.
 !2
-!1 et 2 Antiphona           
+!1 et 2 Antiphona      
 Ant. Nous adorons votre Croix, Seigneur ; nous célébrons et glorifions votre sainte résurrection, car c’est par la croix que la joie a reparu dans le monde entier.
 !1
 Que Dieu ait pitié de nous et nous bénisse.

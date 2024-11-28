@@ -10,6 +10,9 @@ O Doctor óptime, * Ecclésiæ sanctæ lumen, beáte N., divínæ legis amátor,
 Concéde nos, quǽsumus, omnípotens Deus, beáti N. confessóris tui atque Pontíficis mónita et exémpla sectári: ut per terréstrium rerum contémptum ætérna gáudia consequámur.
 $Per Dominum
 
+[Oratio3]
+@Commune/C4:Oratio
+
 [Lectio1]
 De libro Ecclesiástici
 !Sir 39:1-5
@@ -72,9 +75,6 @@ Vos estis lumen mundi. Quómodo dixit supérius sal terræ, sic nunc dicit lumen
 
 [Ant 3]
 @:Ant 1
-
-[Oratio3]
-@Commune/C4:Oratio
 
 [Lectio7 in 2 loco]
 Léctio sancti Evangélii secúndum Matthǽum

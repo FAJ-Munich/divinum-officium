@@ -74,6 +74,10 @@ $Per Dominum.
 v. Escucha, Señor, nuestras súplicas en la solemnidad de San N., obispo; y, por los méritos de este servidor fiel, concédenos el perdón de todos nuestros pecados. 
 $Per Dominum.
 
+[Oratio2]
+v. ¡Oh Dios, que pusiste a San N. al servicio de tu pueblo, para que lo guiase a la salvación eterna!; concédenos que este maestro de vida en la tierra sea nuestro intercesor en el cielo. 
+$Per Dominum
+
 [Invit]
 Al Señor, Rey de los confesores, * Venid, adorémosle.
 
@@ -246,10 +250,6 @@ R. Y le mostró el reino de Dios.
 
 [Ant 2]
 Bien, siervo bueno * fiel: en lo poco has sido fiel, te daré un cargo importante, dice el Señor.
-
-[Oratio2]
-v. ¡Oh Dios, que pusiste a San N. al servicio de tu pueblo, para que lo guiase a la salvación eterna!; concédenos que este maestro de vida en la tierra sea nuestro intercesor en el cielo. 
-$Per Dominum
 
 [Lectio Prima]
 !Sir 45:19-20

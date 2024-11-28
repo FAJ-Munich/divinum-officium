@@ -1,7 +1,16 @@
 @Tempora/Quad4-0
 
 [Lectio2]
-!Exod 3:7-12
+@Tempora/Quad4-0::s/-10/-12/
+@Tempora/Quad4-0:Lectio3:2-3
+
+[Lectio3_]
+16 Vade, et cóngrega senióres Israël, et dices ad eos: Dóminus Deus patrum vestrórum appáruit mihi, Deus Abraham, Deus Isaac et Deus Iacob, dicens: Vísitans visitávi vos: et vidi ómnia quæ accidérunt vobis in Ægýpto.
+17 Et dixi ut edúcam vos de afflictióne Ægýpti in terram Chananǽi, et Hethǽi, et Amorrhǽi, et Pherezǽi, et Hevǽi, et Iebusǽi, ad terram fluéntem lacte et melle.
+18 Et áudient vocem tuam: ingredierísque tu, et senióres Israël, ad regem Ægýpti, et dices ad eum: Dóminus Deus Hebræórum vocávit nos: íbimus viam trium diérum in solitúdinem, ut immolémus Dómino Deo nostro.
+19 Sed ego scio quod non dimíttet vos rex Ægýpti ut eátis nisi per manum válidam.
 
 [Lectio3]
-!Exod 3:13-19
+@Tempora/Quad4-0::1 s/11-15/13-19/
+@Tempora/Quad4-0::4-5
+@:Lectio3_

@@ -12,6 +12,9 @@
 [Oratio1]
 @Commune/C3
 
+[Oratio2]
+@Commune/C3
+
 [HymnusM Matutinum]
 @Commune/C3
 
@@ -46,7 +49,4 @@
 @Commune/C3pp
 
 [HymnusM Laudes]
-@Commune/C3
-
-[Oratio2]
 @Commune/C3

@@ -74,6 +74,10 @@ $Per Dominum.
 Wysłuchaj, prosimy Cię, Panie, modłów naszych, które w uroczystość błogosławionego N., Wyznawcy Twego i Biskupa, zanosimy i za pośrednictwem zasług tego, który Ci tak godnie służył, od wszelkich grzechów nas wybaw.
 $Per Dominum.
 
+[Oratio2]
+Boże, któryś ludowi swemu na drodze do zbawienia błogosławionego N., dał za pomocnika, spraw, prosimy, abyśmy tego, który nam był mistrzem na ziemi, pośrednikiem w Niebie mieć zasłużyli.
+$Per Dominum
+
 [Invit]
 Pana, Króla Wyznawców, * Pójdźmy uwielbiać.
 
@@ -211,10 +215,6 @@ R. I okazał mu królestwo Boże.
 
 [Ant 2]
 Dobrzeć, * sługo dobry i wierny, gdyżeś nad małem był wiernym, nad wielem cię postanowię, mówi Pan.
-
-[Oratio2]
-Boże, któryś ludowi swemu na drodze do zbawienia błogosławionego N., dał za pomocnika, spraw, prosimy, abyśmy tego, który nam był mistrzem na ziemi, pośrednikiem w Niebie mieć zasłużyli.
-$Per Dominum
 
 [Lectio Prima]
 !Syr 45:19-20

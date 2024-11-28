@@ -55,6 +55,10 @@ $Per Dominum
 O Lord, we beseech thee, that the feast of thy blessed Martyrs and Bishops N. and N. may keep us, and their worshipful prayers commend us. 
 $Per Dominum
 
+[Oratio2]
+O God, Who dost gladden us by the yearly Feast-day of thine holy Martyrs, mercifully grant unto us who keep their birth-day, the strength to imitate their patience under suffering.
+$Per Dominum
+
 [Hymnus Matutinum]
 v. The martyrs' triumphs let us sing,
 Their blood poured forth for Christ the King,
@@ -245,10 +249,6 @@ R. They shall be joyful in their beds.
 
 [Ant 2]
 Even the very hairs of your head are all numbered: * fear not therefore; ye are of more value than many sparrows.
-
-[Oratio2]
-O God, Who dost gladden us by the yearly Feast-day of thine holy Martyrs, mercifully grant unto us who keep their birth-day, the strength to imitate their patience under suffering.
-$Per Dominum
 
 [Lectio Prima]
 !Wis 3:7-8

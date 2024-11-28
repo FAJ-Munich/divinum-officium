@@ -21,6 +21,9 @@ Psalm5 Vespera3=115
 [Oratio1]
 @Commune/C3
 
+[Oratio2]
+@Commune/C3
+
 [Hymnus Matutinum]
 @Commune/C3
 
@@ -42,7 +45,4 @@ Psalm5 Vespera3=115
 @Commune/C3
 
 [HymnusM Laudes]
-@Commune/C3
-
-[Oratio2]
 @Commune/C3

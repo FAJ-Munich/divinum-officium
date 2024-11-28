@@ -29,6 +29,14 @@ Pro ómnibus mórtuus est Christus: ut, et qui vivunt, jam non sibi vivant, sed 
 !Rom 8:17
 Si fílii, et herédes: herédes quidem Dei, coherédes autem Christi: si tamen compátimur, ut et conglorificémur. Allelúja.
 
+[Graduale1]
+!Gal 6:14
+v. Mihi autem absit gloriári, nisi in Cruce Dómini nostri Jesu Christi: per quem mihi mundus crucifíxus est, et ego mundo.
+!1 Cor 2:2
+Non judicávi me scire áliquid inter vos, nisi Jesum Christum, et hunc crucifíxum. Allelúja, allelúja.
+!1 Pet 2:21.
+Christus passus est pro nobis, vobis relínquens exémplum, ut sequámini vestígia ejus. Allelúja.
+
 [Tractus]
 !1 Pet 4:1
 Christo ígitur passo in carne, et vos eádem cogitatióne armámini: quia, qui passus est in carne, désiit a peccátis.
@@ -55,11 +63,3 @@ Communicántes Christi passiónibus gaudéte, ut in revelatióne glóriæ ejus g
 [Postcommunio]
 Súmpsimus, Dómine, divínum sacraméntum, imménsæ caritátis tuæ memoriále perpétuum: tríbue, quǽsumus; ut, sancti Pauli méritis et imitatióne, aquam de fóntibus tuis hauriámus in vitam ætérnam saliéntem, et tuam sacratíssimam passiónem córdibus nostris impréssam móribus et vita teneámus:
 $Qui vivis
-
-[Graduale1]
-!Gal 6:14
-v. Mihi autem absit gloriári, nisi in Cruce Dómini nostri Jesu Christi: per quem mihi mundus crucifíxus est, et ego mundo.
-!1 Cor 2:2
-Non judicávi me scire áliquid inter vos, nisi Jesum Christum, et hunc crucifíxum. Allelúja, allelúja.
-!1 Pet 2:21.
-Christus passus est pro nobis, vobis relínquens exémplum, ut sequámini vestígia ejus. Allelúja.

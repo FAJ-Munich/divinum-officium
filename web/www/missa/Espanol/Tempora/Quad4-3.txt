@@ -15,23 +15,28 @@ Bendeciré al Señor en todo tiempo; su alabanza estará siempre en mi boca.
 &Gloria
 v. Después de hacer patente en vosotros la santidad mía, os reuniré de todas las naciones; y derramare sobre vosotros agua pura, y quedareis purificados de todas las inmundicias; y pondré en medio de vosotros un nuevo espíritu.
 
-[Oratio]
-Oh Dios, que concedes a los justos el premio de los méritos, y a los pecadores el perdón por medio del ayuno, apiádate de los que suplicamos, a fin de que la confesión de nuestras culpas nos haga merecer el perdón.
-$Per Dominum
+[LectioL1]
+Lectura de la profecía de Ezequiel
+!Ezeq 36:23-28
+Mostraré la santidad de mi nombre grande, profanado entre los gentiles, que vosotros habéis profanado en medio de ellos; y conocerán los gentiles que yo soy el Señor -oráculo del Señor-, cuando les haga ver mi santidad al castigaros. Os recogeré de entre las naciones, os reuniré de todos los países, y os llevaré a vuestra tierra. Derramaré sobre vosotros un agua pura que os purificará: de todas vuestras inmundicias e idolatrías os he de purificar. Y os daré un corazón nuevo, y os infundiré un espíritu nuevo; arrancaré de vuestra carne el corazón de piedra, y os daré un corazón de carne. Os infundiré mi espíritu, y haré que caminéis según mis preceptos, y que guardéis y cumpláis mis mandatos. Y habitaréis en la tierra que di a vuestros padres. Vosotros seréis mi pueblo, y yo seré vuestro Dios.
+
+[GradualeL1]
+!Ps 33:12, 6
+Venid, hijos, escuchadme, que yo os enseñare el temor del Señor.
+V. Acercaos vosotros a él y os iluminara, y no quedareis sonrojados.
 
 [OratioL1]
 Te suplicamos, Dios todopoderoso, nos concedas que alcancemos el santo gozo de la devoción, los que castigamos nuestra carne con los ayunos; para que refrenando los afectos terrenales, estemos más dispuestos a recibir los bienes celestiales.
+$Per Dominum
+
+[Oratio]
+Oh Dios, que concedes a los justos el premio de los méritos, y a los pecadores el perdón por medio del ayuno, apiádate de los que suplicamos, a fin de que la confesión de nuestras culpas nos haga merecer el perdón.
 $Per Dominum
 
 [Lectio]
 Lectura de la profecía de Isaías
 !Isa 1:16-19
 Lavaos, pues, purificaos, apartad de mis ojos la malignidad de vuestros pensamientos, cesad de obrar mal, aprended a hacer bien, buscad lo que es justo, socorred al oprimido, haced justicia al huérfano, amparad a la viuda. Y entonces venid y argüidme, dice el Señor: Aunque vuestros pecados os hayan teñido como la grana, quedarán vuestras almas blancas como la nieve; y aunque fuesen teñidas de encarnado como el rojo, se volverán del color de la lana más blanca. Como queráis, y me escuchéis, seréis alimentados de los frutos de vuestra tierra.
-
-[LectioL1]
-Lectura de la profecía de Ezequiel
-!Ezeq 36:23-28
-Mostraré la santidad de mi nombre grande, profanado entre los gentiles, que vosotros habéis profanado en medio de ellos; y conocerán los gentiles que yo soy el Señor -oráculo del Señor-, cuando les haga ver mi santidad al castigaros. Os recogeré de entre las naciones, os reuniré de todos los países, y os llevaré a vuestra tierra. Derramaré sobre vosotros un agua pura que os purificará: de todas vuestras inmundicias e idolatrías os he de purificar. Y os daré un corazón nuevo, y os infundiré un espíritu nuevo; arrancaré de vuestra carne el corazón de piedra, y os daré un corazón de carne. Os infundiré mi espíritu, y haré que caminéis según mis preceptos, y que guardéis y cumpláis mis mandatos. Y habitaréis en la tierra que di a vuestros padres. Vosotros seréis mi pueblo, y yo seré vuestro Dios.
 
 [Graduale]
 !Ps 32:12, 6
@@ -64,11 +69,6 @@ El Señor formó lodo con la saliva y lo aplicó sobre mis ojos, y fui, me lavé
 [Postcommunio]
 Haz, oh Señor nuestro, que estos sacramentos que acabamos de recibir nos sacien de alimento espiritual y nos defiendan con auxilios corporales.
 $Per Dominum
-
-[GradualeL1]
-!Ps 33:12, 6
-Venid, hijos, escuchadme, que yo os enseñare el temor del Señor.
-V. Acercaos vosotros a él y os iluminara, y no quedareis sonrojados.
 
 [Super populum]
 !Oración sobre el pueblo

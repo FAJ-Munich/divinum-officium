@@ -29,6 +29,11 @@ Cerca está el Señor de todos los que le invocan, de verdad.
 V. Mi boca hablará la alabanza del Señor, y bendecirá toda criatura su santo nombre. Aleluya, aleluya.
 V. Ven, Señor, y no tardes; perdona los pecados de tu pueblo Israel. Aleluya.
 
+[GradualeF]
+!Ps 144:18, 20
+Cerca está el Señor de todos los que le invocan, de verdad.
+V. Mi boca hablará la alabanza del Señor, y bendecirá toda criatura su santo nombre.
+
 [Evangelium]
 Continuación + del Santo Evangelio según San Lucas 
 !Lc 3:1-6
@@ -49,8 +54,3 @@ He aquí que una Virgen concebirá y dará a luz un hijo que se llamará Emmanue
 [Postcommunio]
 Te rogamos, Señor, recibidos estos dones, que la frecuencia del misterio, acreciente el efecto de nuestra salvación.
 $Per Dominum
-
-[GradualeF]
-!Ps 144:18, 20
-Cerca está el Señor de todos los que le invocan, de verdad.
-V. Mi boca hablará la alabanza del Señor, y bendecirá toda criatura su santo nombre.

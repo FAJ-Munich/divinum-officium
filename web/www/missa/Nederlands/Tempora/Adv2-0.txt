@@ -31,6 +31,11 @@ Alleluia, alleluia.
 !Ps 121:1
 V. Ik was verheugd toen men mij zeide: wij trekken op naar 's Heren huis. Alleluia.
 
+[GradualeF]
+!Ps 49:2-3; 49:5
+Uit Sion straalt de luister van zijn heerlijkheid. Met praal treedt God te voorschijn. 
+V. Brengt zijn getrouwen bijeen, die door offers zijn verbond hebben bezegeld.
+
 [Evangelium]
 Vervolg ++ van het heilig Evangelie volgens Mattheüs
 !Matt 11:2-10
@@ -51,8 +56,3 @@ Op, Jeruzalem, bestijg de hoogte en aanschouw het heil, dat u gewordt van uw God
 [Postcommunio]
 Verzadigd door het voedsel van de geestelijke spijs, smeken wij U, Heer, deemoedig, dat Gij door de deelname aan dit mysterie ons het aardse leert geringschatten en het hemelse beminnen.
 $Per Dominum
-
-[GradualeF]
-!Ps 49:2-3; 49:5
-Uit Sion straalt de luister van zijn heerlijkheid. Met praal treedt God te voorschijn. 
-V. Brengt zijn getrouwen bijeen, die door offers zijn verbond hebben bezegeld.

@@ -93,6 +93,10 @@ $Per Dominum
 Beatórum Mártyrum paritérque Pontíficum N. et N. nos, quǽsumus, Dómine, festa tueántur: et eórum comméndet orátio veneránda.
 $Per Dominum
 
+[Oratio2]
+Deus, qui nos ánnua sanctórum Mártyrum tuórum N. et N. solemnitáte lætíficas: concéde propítius; ut quorum gaudémus méritis, accendámur exémplis.
+$Per Dominum
+
 [Invit]
 @Commune/C2
 
@@ -298,10 +302,6 @@ R. Lætabúntur in cubílibus suis.
 
 [Ant 2]
 Vestri capílli cápitis * omnes numeráti sunt: nolíte timére: multis passéribus melióres estis vos.
-
-[Oratio2]
-Deus, qui nos ánnua sanctórum Mártyrum tuórum N. et N. solemnitáte lætíficas: concéde propítius; ut quorum gaudémus méritis, accendámur exémplis.
-$Per Dominum
 
 [Lectio Prima]
 !Sap 3:7-8

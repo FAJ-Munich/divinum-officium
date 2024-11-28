@@ -21,6 +21,9 @@ Né in questo mondo soltanto, la beatissima Vergine ha voluto colmare di preroga
 Il santo giorno di Pentecoste  numerosi uomini (a quanto si racconta), che si erano messi a seguire le orme dei santi profeti Elia ed Eliseo, avendo abbracciata la fede del Vangelo, costruirono un santuario alla stessa purissima Vergine su quel medesimo punto del monte Carmelo, dove Elia aveva già visto innalzarsi una nuvoletta, espressiva figura della Beata Maria Vergine; e la medesima, come singolare protettrice del loro ordine, veneravano, ricevenuto da quel momento il nome di frati della beata Maria del Monte Carmelo. Ad essi giammai mancò la speciale protezione della beatissima Vergine, che distolse Onorio III dall'ordine di soppressione attraverso un sogno, e attribuì l'insegna del sacro scapolare all'ordine, che chi avesse partato e praticato modica astinenza e poche preghiere, quando trattenuti nel fuoco del Purgatorio per averlo indossato sono creduti quanto prima essere trasferiti alla patria celeste.  Così arricchito di tanti e sì grandi favori, istituì una solenne Commemorazione della beatissima Vergine da celebrarsi ogni anno.
 &teDeum
 
+[Responsory7]
+@Commune/C11::s/festa/commemorazione/
+
 [Ant 2]
 Il tuo capo * è come il Carmelo, e le chiome del tuo capo come la porpora di Re legata in trecce, alleluia.
 

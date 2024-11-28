@@ -31,6 +31,14 @@ Vous êtes prêtre à jamais selon l’ordre de Melchisédech. Alléluia
 !Jas 1:12
 Heureux l’homme qui souffre patiemment l’épreuve, car lorsqu’il aura été éprouvé, il recevra la couronne de vie. Alléluia.
 
+[Graduale1]
+!Eccli 44:16
+Voici le grand Pontife qui dans les jours de sa vie a plu à Dieu.
+!Eccli 44:20
+Nul ne lui a été trouvé semblable, lui qui a conservé la loi du Très-Haut. Alléluia, alléluia
+!Jas 1:12
+Heureux l’homme qui souffre patiemment l’épreuve, car lorsqu’il aura été éprouvé, il recevra la couronne de vie. Alléluia.
+
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthǽum.
 !Matt 10:23-28
@@ -51,11 +59,3 @@ Ce que je vous dis dans l’obscurité, dites-le dans la lumière, dit le Seigne
 [Postcommunio]
 Ô Dieu, qui récompensez les âmes fidèles, accordez-nous de recevoir notre pardon, grâce aux prières du bienheureux Athanase, votre Confesseur et Pontife, dont nous célébrons la fête vénérable.
 $Per Dominum
-
-[Graduale1]
-!Eccli 44:16
-Voici le grand Pontife qui dans les jours de sa vie a plu à Dieu.
-!Eccli 44:20
-Nul ne lui a été trouvé semblable, lui qui a conservé la loi du Très-Haut. Alléluia, alléluia
-!Jas 1:12
-Heureux l’homme qui souffre patiemment l’épreuve, car lorsqu’il aura été éprouvé, il recevra la couronne de vie. Alléluia.

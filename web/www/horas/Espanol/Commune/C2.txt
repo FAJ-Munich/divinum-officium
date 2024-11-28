@@ -47,6 +47,14 @@ $Per Dominum
 ¡Oh Dios, que todos los años nos alegras con la fiesta de San N., mártir y obispo!: al celebrar su entrada en la gloria, danos el gozo de hallar en él un protector.
 $Per Dominum
 
+[Oratio2]
+Dios todopoderoso, al celebrar la entrada en la gloria de tu mártir San N., por su intercesión, fortalécenos en el amor de tu nombre. 
+$Per Dominum
+
+[Oratio3]
+Dios todopoderoso, por la intercesión de tu mártir San N., protege nuestro cuerpo de todo peligro, y libra nuestro corazón de toda malicia.
+$Per Dominum
+
 [Invit]
 Al Señor, Rey de los mártires, * Venid, adorémosle.
 
@@ -224,10 +232,6 @@ R. Y se alzará como un cedro del Líbano.
 [Ant 2]
 Quien ama su vida, * la pierde; y quien la odia en este mundo, la conservará para la vida eterna.
 
-[Oratio2]
-Dios todopoderoso, al celebrar la entrada en la gloria de tu mártir San N., por su intercesión, fortalécenos en el amor de tu nombre. 
-$Per Dominum
-
 [Lectio Prima]
 !Sir 39:6
 v. El justo hace propósito de madrugar, para buscar al Señor que lo creó, y reza en presencia del Altísimo.
@@ -263,10 +267,6 @@ R. Ha engrandecido su fama * Tu victoria.
 
 [Ant 3]
 El que quiera seguirme, * que se niegue a sí mismo, cargue con su cruz y se venga conmigo.
-
-[Oratio3]
-Dios todopoderoso, por la intercesión de tu mártir San N., protege nuestro cuerpo de todo peligro, y libra nuestro corazón de toda malicia.
-$Per Dominum
 
 [Lectio7 in 3 loco]
 Lectura del santo Evangelio según San Mateo
