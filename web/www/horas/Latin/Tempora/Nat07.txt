@@ -31,3 +31,20 @@ De Epístola ad Romános
 14 Quid ergo dicémus? numquid iníquitas apud Deum? Absit. 
 15 Móysi enim dicit: Miserébor cujus miséreor: et misericórdiam præstábo cujus miserébor. 
 16 Igitur non voléntis, neque curréntis, sed miseréntis est Dei.
+
+[Responsory1] (rubrica 196)
+@SanctiM/01-07
+(sed rubrica 1960)
+@Sancti/01-06:Responsory1InfraOctavam
+
+[Responsory2] (rubrica 196)
+@SanctiM/01-07
+(sed feria 7)
+@SanctiM/01-07:Responsory3
+(sed rubrica 1960)
+@Sancti/01-06
+
+[Responsory3] (rubrica 196)
+@SanctiM/01-07
+(sed rubrica 1960)
+@Sancti/01-06

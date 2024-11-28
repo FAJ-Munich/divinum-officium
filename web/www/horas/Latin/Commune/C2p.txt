@@ -21,6 +21,12 @@ Psalm5 Vespera3=115
 [Oratio1]
 @Commune/C2
 
+[Oratio2]
+@Commune/C2
+
+[Oratio3]
+@Commune/C2
+
 [Invit]
 Exsúltent in Dómino sancti, * Allelúja.
 
@@ -100,11 +106,8 @@ Ego sum, inquit, vitis vera: et Pater meus agrícola est. Numquid unum sunt agr�
 [HymnusM Laudes]
 @Commune/C2
 
-[Oratio2]
-@Commune/C2
-
-[Oratio3]
-@Commune/C2
+[Ant Vespera 3]
+@:Ant Vespera
 
 [Lectio4 in 2 loco]
 De Epístola sancti Cypriáni Epíscopi et Mártyris ad Mártyres et Confessóres.

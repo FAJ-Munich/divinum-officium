@@ -3,12 +3,6 @@
 [Name]
 Commune Plurimorum Martyrum Tempore Paschali
 
-[Rule]
-Psalmi Dominica
-Antiphonas horas
-Psalm5 Vespera=116
-Psalm5 Vespera3=115
-
 [Hymnus Vespera]
 @Commune/C3:Hymnus Laudes
 
@@ -19,6 +13,9 @@ Psalm5 Vespera3=115
 @Commune/C3
 
 [Oratio1]
+@Commune/C3
+
+[Oratio2]
 @Commune/C3
 
 [Hymnus Matutinum]
@@ -42,7 +39,4 @@ Psalm5 Vespera3=115
 @Commune/C3
 
 [HymnusM Laudes]
-@Commune/C3
-
-[Oratio2]
 @Commune/C3

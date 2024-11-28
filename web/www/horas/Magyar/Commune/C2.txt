@@ -47,6 +47,14 @@ $Per Dominum
 Urunk, aki szent vértanúd és főpapod ünneplésével megörvendeztetsz minket, add hogy akinek születését ünnepeljük, annak közbenjárását is elnyerjük.
 $Per Dominum
 
+[Oratio2]
+Add meg nekünk Mindenható Isten, hogy akik szent vértanúd születését ünnepeljük, közbenjárása által a te neved szeretetében erősödjünk.
+$Per Dominum
+
+[Oratio3]
+Add meg kérünk Mindenható Isten, hogy szent vértanúd N. közbenjárására megszabaduljunk testi bajainktól és megtisztuljunk tisztátalan gondolatainktól.
+$Per Dominum
+
 [Invit]
 Az Úr a vértanúk királya, * jöjjetek imádjuk.
 
@@ -141,10 +149,6 @@ R. Fölfelé nő, mint a Libanon cédrusa.
 [Ant 2]
 Aki gyűlöli életét * ebben a világban, az megmenti az örök életre.
 
-[Oratio2]
-Add meg nekünk Mindenható Isten, hogy akik szent vértanúd születését ünnepeljük, közbenjárása által a te neved szeretetében erősödjünk.
-$Per Dominum
-
 [Lectio Prima]
 !Sir 39:6
 v. Szivét arra adja, hogy korán ébredjen az Úrhoz, ki őt teremtette, és a Fölségesnek színe előtt könyörög.
@@ -172,10 +176,6 @@ R. Uram, * fejére tetted.
 
 [Ant 3]
 Aki követni akar, * tagadja meg magát, vegye fel keresztjét minden nap és úgy kövessen.
-
-[Oratio3]
-Add meg kérünk Mindenható Isten, hogy szent vértanúd N. közbenjárására megszabaduljunk testi bajainktól és megtisztuljunk tisztátalan gondolatainktól.
-$Per Dominum
 
 [Lectio7 in 4 loco]
 Evangélium szent Máté Apostol kőnyvéből

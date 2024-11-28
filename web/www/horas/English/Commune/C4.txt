@@ -77,6 +77,10 @@ $Per Dominum.
 v. Hear, O Lord, we beseech thee, the prayers which we offer thee on this the solemn feast-day of thy blessed Confessor and bishop N., and, for the sake of him who so nobly served thee, forgive us our trespasses.
 $Per Dominum.
 
+[Oratio2]
+v. O God, who didst give blessed N. to be thy people’s minister in eternal salvation; grant, we pray, that we who have him for teacher of life here on earth, may also deserve now that he is in heaven, to have him for an advocate.
+$Per Dominum.
+
 [Invit]
 The Lord, the King of Confessors, * O come, let us worship.
 
@@ -249,10 +253,6 @@ R. And showed him the kingdom of God.
 
 [Ant 2]
 Well done, thou good and faithful servant * thou hast been faithful over a few things, I will make thee ruler over many things, saith the Lord.
-
-[Oratio2]
-v. O God, who didst give blessed N. to be thy people’s minister in eternal salvation; grant, we pray, that we who have him for teacher of life here on earth, may also deserve now that he is in heaven, to have him for an advocate.
-$Per Dominum.
 
 [Lectio Prima]
 !Sir 45:19-20

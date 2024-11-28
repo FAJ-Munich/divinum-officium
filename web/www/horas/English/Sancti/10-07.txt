@@ -37,11 +37,7 @@ The Son she mourned as lost before;
 While doctors by his speech were shown
 The mysteries they had never known.
 _
-To God the Three in One be praise,
-Who through these holy mysteries
-Grants grace to those who seek in prayer
-The glory of his bliss to share.
-Amen.
+@Psalterium/Doxologies:Nat
 
 [Versum 1]
 V. Queen of the most holy Rosary, pray for us.
@@ -83,15 +79,7 @@ Between two thieves the sinless one
 Still praying for his murderers,
 Breathes forth his soul, and all is done!
 _
-Glory to thee, and honour meet,
-Jesu, of Maiden-Mother born,
-And Father and the Paraclete,
-Through endless ages of the morn!
-Amen.
-
-[Hymnus Matutinum] (rubrica 196)
-@Sancti/10-07:Hymnus Vespera:s/To God the Three in.*//s
-@Sancti/10-07::s/^v. //
+@Psalterium/Doxologies:Nat
 
 [Ant Matutinum]
 The Angel Gabriel * announced unto Mary, and she conceived by the Holy Ghost.;;8

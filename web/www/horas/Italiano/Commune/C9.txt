@@ -24,6 +24,10 @@ $Qui vivis
 Assolvi, ti preghiamo o Signore, l'anima del tuo servo (della tua serva) N., perché morto (morta) al mondo viva per te: e ciò che commise per fragilità della carne nella frequentazione degli uomini, Tu detergi con il perdono della tua misericordiosissima pietà.
 $Per Dominum
 
+[Oratio2]
+O Dio, Signore di misericordia, concedi alle anime di tutti i fedeli defunti, di cui ricorre l'anniversario di sepoltura, il luogo del riposo, una beata pace e lo splendore della luce eterna.
+$Per Dominum
+
 [Invit]
 Il Re, per il quale vivono tutte le cose, * venite adoriamo.
 
@@ -210,10 +214,6 @@ Ogni spirito * lodi il Signore.;;150
 
 [Ant 2]
 Io sono la resurrezione e la vita: * chi crede in me, benché morto, vivrà, e chi vive e crede in me, non morrà in eterno.
-
-[Oratio2]
-O Dio, Signore di misericordia, concedi alle anime di tutti i fedeli defunti, di cui ricorre l'anniversario di sepoltura, il luogo del riposo, una beata pace e lo splendore della luce eterna.
-$Per Dominum
 
 [Responsory91]
 R. Liberami, o Signore, dalle vie di perdizione, tu che apristi con la potenza le porte di bronzo e visitasti l'inferno, e concedesti la luce divina, perché ti vedessero, 

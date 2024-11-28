@@ -15,24 +15,29 @@ Tot U, Heer, verhef ik mijn ziel. Mijn God, op U vertrouw ik.
 &Gloria
 v. Gedenk uw goedertierenheid, o Heer, en uw barmhartigheid, die van eeuwigheid zijn. Laat onze vijanden ons nooit overheersen. God van Israël, verlos ons uit al onze kwellingen.
 
-[Oratio]
-Wij vragen U, Heer, verhoor goedgunstig onze gebeden en strek uw hand vol majesteit uit tegen alles, wat ons tegenstreeft.
-$Per Dominum
+[LectioL1]
+Lezing uit het Boek van de Uittocht
+!Exod 24:12-18
+In die dagen sprak de Heer tot Mozes: Kom bij Mij boven op de berg en blijf daar; dan zal Ik u de stenen tafelen geven en de Wet en de geboden, die Ik er op geschreven heb, opdat gij de kinderen van Israël onderricht. Mozes en Josuë, zijn dienaar, maakten zich op, en toen Mozes de berg Gods ging bestijgen, sprak hij tot de ouderlingen: Wacht hier op ons, totdat wij bij u terugkeren. Gij hebt Aäron en Hur bij u: als er zich soms een geschil voordoet, moet gij het hun voorleggen. En toen Mozes was opgeklommen, overdekte de wolk de berg; want de heerlijkheid Gods rustte op de Sinaï en hulde hem in de wolk zes dagen lang; en de zevende dag riep Hij hem vanuit de donkere wolk. En Gods majesteit vertoonde zich voor de ogen van de Israëlieten als een brandend vuur op de top van de berg. En Mozes ging in de wolk binnen en klom verder de berg op; en hij bleef daar veertig dagen en veertig nachten.
+$Deo gratias
+
+[GradualeL1]
+!Ps 24:17-18
+Menigvuldig zijn de kwellingen mijns harten. Bevrijd mij, Heer, van mijn angsten.
+V. Zie mijn ellende en mijn kwelling en vergeef al mijn zonden.
 
 [OratioL1]
 Wij vragen U, Heer, sla genadig acht op de godsvrucht van uw volk, opdat zij, die hun lichaam door onthouding kastijden, door de vrucht der goede werken naar de geest verkwikt mogen worden.
+$Per Dominum
+
+[Oratio]
+Wij vragen U, Heer, verhoor goedgunstig onze gebeden en strek uw hand vol majesteit uit tegen alles, wat ons tegenstreeft.
 $Per Dominum
 
 [Lectio]
 Lezing uit het derde Boek der Koningen
 !3 Reg 19:3-8
 In die dagen kwam Elias te Bersabee in Juda, liet daar zijn knecht achter en ging de woestijn in, een dagreis ver. Daar aangekomen zette hij zich neer onder een braamstruik en vroeg, dat hij zou mogen sterven; en hij zeide: Het is mij nu genoeg, Heer; neem mijn ziel weg; want ik ben niet beter dan mijn vaderen. En hij legde zich neer, en in de schaduw van de braamstruik viel hij in slaap. Maar plotseling stootte een engel des Heren hem aan en zeide tot hem: Sta op en eet. Hij keek op, en daar zag hij bij zijn hoofd een onder de as gebakken brood en een kruik water. Hij at en dronk toen en sliep weer in. Maar de engel des Heren kwam voor een tweede keer terug en stootte hem weer aan met de woorden: Sta op en eet; want een lange reis staat u nog te wachten. En hij stond op, en at en dronk, en door de kracht van die spijze liep hij veertig dagen en veertig nachten, tot aan de berg Gods, de Horeb.
-
-[LectioL1]
-Lezing uit het Boek van de Uittocht
-!Exod 24:12-18
-In die dagen sprak de Heer tot Mozes: Kom bij Mij boven op de berg en blijf daar; dan zal Ik u de stenen tafelen geven en de Wet en de geboden, die Ik er op geschreven heb, opdat gij de kinderen van Israël onderricht. Mozes en Josuë, zijn dienaar, maakten zich op, en toen Mozes de berg Gods ging bestijgen, sprak hij tot de ouderlingen: Wacht hier op ons, totdat wij bij u terugkeren. Gij hebt Aäron en Hur bij u: als er zich soms een geschil voordoet, moet gij het hun voorleggen. En toen Mozes was opgeklommen, overdekte de wolk de berg; want de heerlijkheid Gods rustte op de Sinaï en hulde hem in de wolk zes dagen lang; en de zevende dag riep Hij hem vanuit de donkere wolk. En Gods majesteit vertoonde zich voor de ogen van de Israëlieten als een brandend vuur op de top van de berg. En Mozes ging in de wolk binnen en klom verder de berg op; en hij bleef daar veertig dagen en veertig nachten.
-$Deo gratias
 
 [Graduale]
 !Ps 24:17; 24:18; 24:1-4
@@ -59,11 +64,6 @@ Geef acht op mijn geroep, let op mijn smeekbede, mijn koning en mijn God, want t
 [Postcommunio]
 Heer, moge het ontvangen van uw sacrament ons van onze meest verborgen zonden reinigen en uit de hinderlagen van de vijanden bevrijden.
 $Per Dominum
-
-[GradualeL1]
-!Ps 24:17-18
-Menigvuldig zijn de kwellingen mijns harten. Bevrijd mij, Heer, van mijn angsten.
-V. Zie mijn ellende en mijn kwelling en vergeef al mijn zonden.
 
 [Super populum]
 !Oratio super populum

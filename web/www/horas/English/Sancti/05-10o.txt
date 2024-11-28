@@ -2,7 +2,7 @@
 Sts. Gordian and Epimachus, Martyrs;;Simplex;;1.1;;vide C3
 
 [Oratio]
-Grant we beseach thee that we who celebrate the feast of Gordian and Epimachus martyrs also enjoy their intercession
+Grant, we beseech thee, that we, who celebrate the feast of Gordian and Epimachus martyrs, also enjoy their intercession.
 $Per Dominum
 
 [Lectio93]

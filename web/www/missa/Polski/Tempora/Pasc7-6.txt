@@ -26,42 +26,29 @@ Błogosław, duszo moja, Pana, a wszystko, co jest we mnie, święte imię Jego.
 &Gloria
 v. Miłość Boża rozlana jest w sercach naszych, alleluja, przez Ducha Świętego, mieszkającego w nas, alleluja, alleluja.
 
-[Oratio]
-Prosimy Cię, Panie, wlej łaskawie Ducha Świętego w dusze nasze; Jego bowiem mądrość nas stworzyła, a Opatrzność nami rządzi.
-$Per Dominum eiusdem
-
-[OratioL1]
-Prosimy Cię, Panie, niech Duch Święty zapali nas tym ogniem, który Pan nasz Jezus Chrystus zesłał na ziemię, pragnąc, by mocno rozgorzał:
-$Qui tecum eiusdem
-
-[OratioL2]
-Boże, który nakazałeś dla zdrowia dusz umartwiać ciało nasze postem, spraw łaskawie, abyśmy zawsze duszą i ciałem byli Tobie oddani.
-$Per Dominum
-
-[OratioL3]
-Spraw, prosimy Cię, wszechmogący Boże, abyśmy wyćwiczeni przez zbawienne posty powstrzymywali się od wszelkich występków i tym łatwiej uzyskali Twoje przebaczenie.
-$Per Dominum
-
-[OratioL4]
-Wszechmogący Boże, prosimy Cię, daj nam tak wstrzymywać się od pokarmów mięsnych, abyśmy również powstrzymywali się od namiętności, które nas kuszą.
-$Per Dominum.
-
-[OratioL5]
-Boże, któryś złagodził płomienie ognia dla trzech młodzieńców, spraw łaskawie, aby nas, sług Twoich, nie strawił płomień namiętności.
-$Per Dominum.
-
-[Lectio]
-Czytanie z Listu świętego Pawła Apostoła do Rzymian.
-!Rz 5:1-5
-!x! Wiara w Chrystusa i obecność Ducha Świętego zamieniają nasze doświadczenia w źródło chwały.
-Bracia: Usprawiedliwieni z wiary, pokój wobec Boga zachowajmy przez Pana naszego Jezusa Chrystusa, dzięki któremu mamy również przystęp przez wiarę do tej łaski, w której stoimy i chlubimy się nadzieją chwały synów Bożych. Ale nie tylko, bo chlubimy się i z ucisków, wiedząc, że ucisk sprawuje cierpliwość, a cierpliwość doświadczenie, doświadczenie zaś nadzieje. A nadzieja nie zawodzi, gdyż miłość Boża rozlana jest w sercach naszych przez Ducha Świętego, który nam jest dany.
-
 [LectioL1]
 Czytanie z Księgi Proroka Joela.
 !Jl 2:28-32
 !x! Na proroctwo Joela powołał się św. Piotr w dniu Zesłania Ducha Świętego.
 To mówi Pan Bóg; Wyleję Ducha mego na wszelkie ciało i prorokować będą synowie wasi i córki wasze; starcom waszym sny się śnić będą, a młodzieńcy wasi widzenia oglądać będą. Lecz i na sługi moje, i na służebnice w owe dni wyleję Ducha mego. I dam cuda na niebie i na ziemi, krew i ogień, i kłęby dymu. Słońce obróci się w ciemność, a księżyc w krew, zanim przyjdzie dzień Pański wielki i straszny. I będzie: Każdy, kto będzie wzywał imienia Pańskiego, zbawiony będzie; bo na górze Syjon i w Jeruzalem będzie wybawienie, jak rzekł Pan, i w pozostałych, których Pan wezwie.
 $Deo gratias
+
+[GradualeL1]
+Alleluja.
+!J 6:64
+Duch jest tym, który ożywia, ciało nic nie pomoże.
+
+[GradualeL1](missa brevior)
+Alleluja.
+!J 6:64
+Duch jest tym, który ożywia, ciało nic nie pomoże.
+_
+#Gloria
+v. Chwała na wysokości Bogu, a na ziemi pokój ludziom dobrej woli. Chwalimy Cię. Błogosławimy Cię. Wielbimy Cię.Wysławiamy Cię. Dzięki Ci składamy, bo wielka jest chwała Twoja. Panie Boże, Królu nieba, Boże Ojcze wszechmogący. Panie, Synu Jednorodzony, Jezu Chryste. Panie Boże, Baranku Boży, Synu Ojca. Który gładzisz grzechy świata, zmiłuj się nad nami. Który gładzisz grzechy świata, przyjm błaganie nasze. Który siedzisz po prawicy Ojca, zmiłuj się nad nami. Albowiem tylko Tyś jest święty. Tylko Tyś jest Panem. Tylko Tyś Najwyższy, Jezu Chryste. Z Duchem Świętym + w chwale Boga Ojca. Amen.
+
+[OratioL1]
+Prosimy Cię, Panie, niech Duch Święty zapali nas tym ogniem, który Pan nasz Jezus Chrystus zesłał na ziemię, pragnąc, by mocno rozgorzał:
+$Qui tecum eiusdem
 
 [LectioL2]
 Czytanie z Księgi Kapłańskiej.
@@ -70,6 +57,15 @@ Czytanie z Księgi Kapłańskiej.
 W one dni: Przemówił Pan do Mojżesza, głosząc: «Przemów do synów Izraelowych i powiedz im: Gdy wejdziecie do ziemi, którą ja daję wam, i będziecie odbywali żniwo wasze, przyniesiecie do kapłana snop – pierwociny żniwa waszego. On podniesie snop przed Panem dla waszej pomyślności, nazajutrz po szabacie, i poświęci go. Poczynając od dnia następnego po szabacie, którego przyniesiecie snop do podnoszenia, będziecie liczyć siedem pełnych tygodni. Będziecie liczyć pięćdziesiąt dni aż do następnego dnia po siódmym szabacie i złożycie nową ofiarę niekrwawą Panu. Przyniesiecie ze swoich mieszkań dwa chleby do podnoszenia z dwóch dziesiątych efy mąki wyborowej, wypieczone z kwasem: są to pierwociny dla Pana. Tego dnia ogłosicie święto, będzie to dla was zwołanie święte: nie będziecie wykonywali żadnej pracy służebnej. Jest to prawo wieczne dla potomnych waszych we wszystkich miejscach zamieszkania waszego, mówi Pan wszechmogący».
 $Deo gratias
 
+[GradualeL2]
+Alleluja
+!Job 26:13
+Duch Jego ozdobił niebiosa.
+
+[OratioL2]
+Boże, który nakazałeś dla zdrowia dusz umartwiać ciało nasze postem, spraw łaskawie, abyśmy zawsze duszą i ciałem byli Tobie oddani.
+$Per Dominum
+
 [LectioL3]
 Czytanie z Księgi Powtórzonego Prawa.
 !Pp 26:1-11
@@ -77,6 +73,15 @@ Czytanie z Księgi Powtórzonego Prawa.
 W one dni: Mówił Mojżesz do synów Izraelowych: «Słuchaj Izraelu, co ja przykazuję tobie dzisiaj: gdy wejdziesz do ziemi, którą ci Pan, Bóg twój, da w posiadanie, i posiądziesz ją, i mieszkać w niej będziesz, weźmiesz ze wszystkich plonów twoich pierwociny i włożysz je do kosza, i pójdziesz do miejsca, które Pan, Bóg twój, obierze, aby tam wzywano imienia Jego. I przystąpiwszy do kapłana, który natenczas będzie, rzeczesz do niego: Wyznaję dziś przed Panem, Bogiem twoim, że to On nas wysłuchał i wejrzał na poniżenie nasze i na trud, i na ucisk. I wywiódł nas z Egiptu ręką mocną i ramieniem wyciągniętym, wśród postrachu wielkiego, wśród znaków i cudów, i wprowadził na to miejsce, i dał nam ziemię mlekiem i miodem płynącą. A przeto teraz ofiaruję pierwsze urodzaje zboża ziemi, którą mi dał Pan.
 I zostawisz je przed oczyma Pana, Boga twego, pokłoniwszy się Panu, Bogu twemu. I będziesz ucztował ze wszystkich dóbr, które Pan, Bóg twój, da tobie».
 $Deo gratias
+
+[GradualeL3]
+Alleluja
+!Dz 2:1
+Gdy nadeszły dni Pięćdziesiątnicy, siedzieli wszyscy razem.
+
+[OratioL3]
+Spraw, prosimy Cię, wszechmogący Boże, abyśmy wyćwiczeni przez zbawienne posty powstrzymywali się od wszelkich występków i tym łatwiej uzyskali Twoje przebaczenie.
+$Per Dominum
 
 [LectioL4]
 Czytanie z Księgi Kapłańskiej.
@@ -87,11 +92,41 @@ Zaprowadzę Pokój w kraju; będziecie spali i nikt nie będzie niepokoił. Usun
 Zwrócę się ku wam i rozszerzę was, i rozmnożę was, i utrzymam z wami przymierze. Będziecie spożywali [zbiory] stare, bardzo stare, i odrzucicie stare dla nowych. Założę mieszkanie moje pośród was, a dusza moja nie odrzuci was. Będę chodził między wami i będę Bogiem waszym, a wy będziecie ludem moim, mówi Pan wszechmogący».
 $Deo gratias
 
+[GradualeL4]
+Alleluja
+V. (Tu się przyklęka) Przyjdź, Duchu Święty, napełnij serca Twych wiernych i zapal w nich ogień Twojej miłości.
+
+[OratioL4]
+Wszechmogący Boże, prosimy Cię, daj nam tak wstrzymywać się od pokarmów mięsnych, abyśmy również powstrzymywali się od namiętności, które nas kuszą.
+$Per Dominum.
+
 [LectioL5]
 Czytanie z Księgi Proroka Daniela.
 !Dn 3:47-51
 W one dni: Anioł Pański zstąpił z Azariaszem i towarzyszami jego w piec i wyrzucił płomień ognia z pieca, uczynił wśród pieca jakby wiatr rosisty, przewiewający. Płomień zaś rozchodził się nad piecem na czterdzieści dziewięć łokci, i wypadł, i popalił tych Chaldejczyków, których znalazł koło pieca – sługi króla, którzy piec rozpalali. A ich zgoła nie dotknął się ogień, ani nie zasmucił, ani żadnej przykrości nie uczynił. Wtedy ci trzej jakby jednymi usty chwalili i wysławiali, i błogosławili Boga w piecu mówiąc:
 $Deo Gratias
+
+[GradualeL5]
+Alleluja.
+!Dn 3:52
+Błogosławiony jesteś Panie, Boże ojców naszych, i chwalebny na wieki.
+_
+#Gloria
+v. Chwała na wysokości Bogu, a na ziemi pokój ludziom dobrej woli. Chwalimy Cię. Błogosławimy Cię. Wielbimy Cię.Wysławiamy Cię. Dzięki Ci składamy, bo wielka jest chwała Twoja. Panie Boże, Królu nieba, Boże Ojcze wszechmogący. Panie, Synu Jednorodzony, Jezu Chryste. Panie Boże, Baranku Boży, Synu Ojca. Który gładzisz grzechy świata, zmiłuj się nad nami. Który gładzisz grzechy świata, przyjm błaganie nasze. Który siedzisz po prawicy Ojca, zmiłuj się nad nami. Albowiem tylko Tyś jest święty. Tylko Tyś jest Panem. Tylko Tyś Najwyższy, Jezu Chryste. Z Duchem Świętym + w chwale Boga Ojca. Amen.
+
+[OratioL5]
+Boże, któryś złagodził płomienie ognia dla trzech młodzieńców, spraw łaskawie, aby nas, sług Twoich, nie strawił płomień namiętności.
+$Per Dominum.
+
+[Oratio]
+Prosimy Cię, Panie, wlej łaskawie Ducha Świętego w dusze nasze; Jego bowiem mądrość nas stworzyła, a Opatrzność nami rządzi.
+$Per Dominum eiusdem
+
+[Lectio]
+Czytanie z Listu świętego Pawła Apostoła do Rzymian.
+!Rz 5:1-5
+!x! Wiara w Chrystusa i obecność Ducha Świętego zamieniają nasze doświadczenia w źródło chwały.
+Bracia: Usprawiedliwieni z wiary, pokój wobec Boga zachowajmy przez Pana naszego Jezusa Chrystusa, dzięki któremu mamy również przystęp przez wiarę do tej łaski, w której stoimy i chlubimy się nadzieją chwały synów Bożych. Ale nie tylko, bo chlubimy się i z ucisków, wiedząc, że ucisk sprawuje cierpliwość, a cierpliwość doświadczenie, doświadczenie zaś nadzieje. A nadzieja nie zawodzi, gdyż miłość Boża rozlana jest w sercach naszych przez Ducha Świętego, który nam jest dany.
 
 [Graduale]
 !Ps 116:1-2
@@ -128,38 +163,3 @@ Duch tchnie, kędy chce: i głos Jego słyszysz, alleluja, alleluja, ale nie wie
 [Postcommunio]
 Panie, niech Twoje święte tajemnice obudzą w nas Boży zapał, abyśmy czerpali radość zarówno z ich sprawowania, jak z owoców.
 $Per Dominum.
-
-[GradualeL1]
-Alleluja.
-!J 6:64
-Duch jest tym, który ożywia, ciało nic nie pomoże.
-
-[GradualeL1](missa brevior)
-Alleluja.
-!J 6:64
-Duch jest tym, który ożywia, ciało nic nie pomoże.
-_
-#Gloria
-v. Chwała na wysokości Bogu, a na ziemi pokój ludziom dobrej woli. Chwalimy Cię. Błogosławimy Cię. Wielbimy Cię.Wysławiamy Cię. Dzięki Ci składamy, bo wielka jest chwała Twoja. Panie Boże, Królu nieba, Boże Ojcze wszechmogący. Panie, Synu Jednorodzony, Jezu Chryste. Panie Boże, Baranku Boży, Synu Ojca. Który gładzisz grzechy świata, zmiłuj się nad nami. Który gładzisz grzechy świata, przyjm błaganie nasze. Który siedzisz po prawicy Ojca, zmiłuj się nad nami. Albowiem tylko Tyś jest święty. Tylko Tyś jest Panem. Tylko Tyś Najwyższy, Jezu Chryste. Z Duchem Świętym + w chwale Boga Ojca. Amen.
-
-[GradualeL2]
-Alleluja
-!Job 26:13
-Duch Jego ozdobił niebiosa.
-
-[GradualeL3]
-Alleluja
-!Dz 2:1
-Gdy nadeszły dni Pięćdziesiątnicy, siedzieli wszyscy razem.
-
-[GradualeL4]
-Alleluja
-V. (Tu się przyklęka) Przyjdź, Duchu Święty, napełnij serca Twych wiernych i zapal w nich ogień Twojej miłości.
-
-[GradualeL5]
-Alleluja.
-!Dn 3:52
-Błogosławiony jesteś Panie, Boże ojców naszych, i chwalebny na wieki.
-_
-#Gloria
-v. Chwała na wysokości Bogu, a na ziemi pokój ludziom dobrej woli. Chwalimy Cię. Błogosławimy Cię. Wielbimy Cię.Wysławiamy Cię. Dzięki Ci składamy, bo wielka jest chwała Twoja. Panie Boże, Królu nieba, Boże Ojcze wszechmogący. Panie, Synu Jednorodzony, Jezu Chryste. Panie Boże, Baranku Boży, Synu Ojca. Który gładzisz grzechy świata, zmiłuj się nad nami. Który gładzisz grzechy świata, przyjm błaganie nasze. Który siedzisz po prawicy Ojca, zmiłuj się nad nami. Albowiem tylko Tyś jest święty. Tylko Tyś jest Panem. Tylko Tyś Najwyższy, Jezu Chryste. Z Duchem Świętym + w chwale Boga Ojca. Amen.

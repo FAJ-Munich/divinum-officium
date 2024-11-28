@@ -89,6 +89,10 @@ $Per Dominum.
 v. Exáudi, quǽsumus, Dómine, preces nostras, quas in beáti N. Confessóris tui atque Pontíficis solemnitáte deférimus: et, qui tibi digne méruit famulári, ejus intercedéntibus méritis, ab ómnibus nos absólve peccátis.
 $Per Dominum.
 
+[Oratio2]
+v. Deus, qui pópulo tuo ætérnæ salútis beátum N. minístrum tribuísti: præsta, quǽsumus; ut quem Doctórem vitæ habúimus in terris, intercessórem habére mereámur in cælis.
+$Per Dominum
+
 [Invit]
 Regem Confessórum Dóminum, * Veníte, adorémus.
 
@@ -279,10 +283,6 @@ R. Et osténdit illi regnum Dei.
 
 [Ant 2]
 Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, dicit Dóminus.
-
-[Oratio2]
-v. Deus, qui pópulo tuo ætérnæ salútis beátum N. minístrum tribuísti: præsta, quǽsumus; ut quem Doctórem vitæ habúimus in terris, intercessórem habére mereámur in cælis.
-$Per Dominum
 
 [Lectio Prima]
 !Sir 45:19-20

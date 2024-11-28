@@ -84,10 +84,6 @@ wyczerpany oddaje ducha.
 _
 @Psalterium/Doxologies:Nat
 
-[Hymnus Matutinum] (rubrica 196)
-@Sancti/10-07:Hymnus Vespera:s/@Psalterium.*//s
-@Sancti/10-07::s/^v. //
-
 [Ant Matutinum]
 Anioł Gabrjel * zwiastował Pannie Maryji, i poczęła z Ducha Świętego.;;8
 Weszła Marja * w dom Zacharyaszów i pozdrowiła Elżbietę.;;18

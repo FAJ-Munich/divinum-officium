@@ -48,6 +48,10 @@ $Per Dominum
 Kerünk Uram, hogy szent vértanúid és főpapjaid, N. és N.  ünneplése javunkra váljon, és tiszteletük imáikba ajánljon minket.
 $Per Dominum
 
+[Oratio2]
+Isten, aki megőrvendeztetsz mindket szent vértanúid mennyei születésnapjának évenkint megismétlődő ünneplésével, add meg nekünk hogy akik érdemeit unnepeljük, azok példáját követhessük
+$Per Dominum
+
 [Hymnus Matutinum]
 {:H-Christoprofusum:}v. Krisztus kiontott vére
 A mártirok győzedelme
@@ -152,10 +156,6 @@ R. Ujjongjanak nyugvóhelyükön!
 
 [Ant 2]
 A fejeteken a hajszálakat * is mind számon tartja. Ne féljetek hát! Sokkal többet értek ti, mint a verebek.
-
-[Oratio2]
-Isten, aki megőrvendeztetsz mindket szent vértanúid mennyei születésnapjának évenkint megismétlődő ünneplésével, add meg nekünk hogy akik érdemeit unnepeljük, azok példáját követhessük
-$Per Dominum
 
 [Lectio Prima]
 !Wis 3:7-8

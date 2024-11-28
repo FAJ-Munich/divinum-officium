@@ -25,6 +25,11 @@ V. Mijn mond zal de lof des Heren verkondigen, laat alle vlees zijn heilige Naam
 Alleluia, alleluia.
 V. Kom, Heer, en draal niet; neem weg de zonden van uw volk Israël. Alleluia.
 
+[GradualeF]
+!Ps 144:18; 144:21
+De Heer is allen, die Hem aanroepen, nabij; allen, die Hem aanroepen in oprechtheid. 
+V. Mijn mond zal de lof des Heren verkondigen, laat alle vlees zijn heilige Naam prijzen.
+
 [Evangelium]
 @Tempora/Adv3-6
 
@@ -41,8 +46,3 @@ $Per Dominum
 [Postcommunio]
 Na de nuttiging van uw gaven vragen wij U, Heer, dat door de veelvuldige deelname aan uw geheimen de invloed ervan op ons heil moge toenemen.
 $Per Dominum
-
-[GradualeF]
-!Ps 144:18; 144:21
-De Heer is allen, die Hem aanroepen, nabij; allen, die Hem aanroepen in oprechtheid. 
-V. Mijn mond zal de lof des Heren verkondigen, laat alle vlees zijn heilige Naam prijzen.

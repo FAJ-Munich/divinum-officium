@@ -50,6 +50,14 @@ $Per Dominum
 O God, who year by year dost gladden us by the solemn feast day of thy Blessed Martyr and Bishop N., mercifully grant that we who keep his birthday, may ever feel the joyful effects of his protection.
 $Per Dominum
 
+[Oratio2]
+Grant, we beseech thee, almighty God, that we who celebrate the martyrdom of blessed N., through his intercession be strengtened in your love.
+$Per Dominum
+
+[Oratio3]
+Graciously hear us, we beseech thee, O Almighty God, and, at the petition of thy blessed Martyr, N. be mercifully pleased to deliver us from all things which may hurt our bodies, and from all evil thoughts which may defile our souls.
+$Per Dominum
+
 [Invit]
 The Lord, the King of Martyrs, * O come, let us worship.
 
@@ -227,10 +235,6 @@ R. He shall grow like a cedar in Lebanon.
 [Ant 2]
 He that hateth his life * in this world, shall keep it unto life eternal.
 
-[Oratio2]
-Grant, we beseech thee, almighty God, that we who celebrate the martyrdom of blessed N., through his intercession be strengtened in your love.
-$Per Dominum
-
 [Lectio Prima]
 !Sir 39:6
 v. He will give his heart to resort early to the Lord that made him, and he will pray in the sight of the most High.
@@ -266,10 +270,6 @@ R. His glory is great * in thy salvation.
 
 [Ant 3]
 If any man will come after me, * let him deny himself and take up his cross daily and follow me.
-
-[Oratio3]
-Graciously hear us, we beseech thee, O Almighty God, and, at the petition of thy blessed Martyr, N. be mercifully pleased to deliver us from all things which may hurt our bodies, and from all evil thoughts which may defile our souls.
-$Per Dominum
 
 [Lectio7 in 3 loco]
 The Lesson is taken from the Holy Gospel according to Matthew

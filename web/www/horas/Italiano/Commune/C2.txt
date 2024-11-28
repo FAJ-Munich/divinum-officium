@@ -47,6 +47,14 @@ $Per Dominum
 O Dio, che ci allieti coll'annuale solennità del Beato N., tuo martire e vescovo, concedi benigno che, come ne celebriamo la nascita, godiamo pure della sua protezione.
 $Per Dominum
 
+[Oratio2]
+Concedi, o Dio onnipotente, che, come celebriamo il natale del tuo santo martire N., così, per sua intercessione, siamo corroborati nell'amore per il tuo nome. 
+$Per Dominum
+
+[Oratio3]
+Concedi, o Dio onnipotente, che, per intercessione del tuo santo martire N., siamo liberati da tutte le avversità nel corpo e purificati dai cattivi pensieri nella mente. 
+$Per Dominum
+
 [Invit]
 Il Signore, re dei martiri, * venite, adoriamo.
 
@@ -224,10 +232,6 @@ R. Crescerà come il cedro del Libano.
 [Ant 2]
 Chi disprezza * la propria vita in questo mondo, la conserva per la vita eterna.
 
-[Oratio2]
-Concedi, o Dio onnipotente, che, come celebriamo il natale del tuo santo martire N., così, per sua intercessione, siamo corroborati nell'amore per il tuo nome. 
-$Per Dominum
-
 [Lectio Prima]
 !Sir 39:6
 v. Il giusto appena svegliato, fin dal mattino rivolge il suo cuore al Signore, che lo ha creato, e prega alla presenza dell'Altissimo.
@@ -262,10 +266,6 @@ R. Grande è la sua gloria, * per la tua salvezza.
 
 [Ant 3]
 Chi vuol venire dietro a me, * rinneghi se stesso, prenda la sua croce e mi segua.  
-
-[Oratio3]
-Concedi, o Dio onnipotente, che, per intercessione del tuo santo martire N., siamo liberati da tutte le avversità nel corpo e purificati dai cattivi pensieri nella mente. 
-$Per Dominum
 
 [Lectio7 in 3 loco]
 Dal Vangelo secondo Matteo

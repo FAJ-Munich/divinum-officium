@@ -56,7 +56,8 @@ Ex antiqua accepimus traditione, quod tempore gloriosæ dormitionis beatæ Virgi
 
 [Lectio4] (rubrica 1570)
 Sermo sancti Joannis Damasceni
-Jubilemus in arca Domini Dei toto animo, et muri cadent Hiericuntini, contrariarum, inquam potestatum infestæ munitiones. Cum David exsultemus spiritu. Arca enim Dñi hodie requievit. Clamemus cum Gabriele, qui primum locum obtinet inter angelos: Aue gratia plena: dñs tecum. Aue gaudij pelagus inexhaustum. Aue unicum molestiarum levamen. Aue omnium cordis dolorum medicamentum. Aue sancta virgo per quam mors quidem fuit expulsa, uita autem introducta.
+!Orat. 2 de drom. Deiparæ
+Jubilemus in arca Domini Dei toto animo, et muri cadent Hiericontini, contrariarum, inquam potestatum infestæ munitiones. Cum David exsultemus spiritu. Arca enim Domini hodie requievit. Clamemus cum Gabriele, qui primum locum obtinet inter angelos: Ave gratia plena: dominus tecum. Ave gaudii pelagus inexhaustum. Ave unicum molestiarum levamen. Aue omnium cordis dolorum medicamentum. Ave sancta virgo per quam mors quidem fuit expulsa, vita autem introducta.
 
 [Responsory4]
 @Sancti/08-15:Responsory4
@@ -68,7 +69,7 @@ Maxime autem illud memorandum est, inde a sæculo secundo, Mariam Virginem a san
 Post tres autem dies angelico cantu cessante, qui aderant Apostoli cum unus Thomas, qui abfuerat, post tertiura diera venisset, et quod Deum susceperat, corpus adorare voluisset, tumulum aperuerunt; sed orani ex parte sacrum ejus corpus nequaquam invenire potuerunt. Cum ea autem tantum invenissent, in quibus fuerat compositura, et ineffabili, qui ex iis proficiscebatur, essent odore repleti, loculum clauserunt. Ejus mysterii obstupefacti miraculo hoc solum cogitare potuerunt, quod cui placuit ex Maria Virgine carnem suniere, et hominera fieri et nasci, cura esset Deus Verbum, et Dominus gloriæ: quique post partura incoruptam servavit ejus virginitatem, eidem étiam placuit et ipsius, postquara migravit, iramaculatum corpus, incorruptum servatum, translatione honorare ante communem et universalem resurrectionem.
 
 [Lectio5] (rubrica 1570)
-Tu uero o sacrorum sepulcrorum sacratissimum, post domini quidem sepulcrum, quod uitæ dedit principium, quod fuit fons resurrectionis, (tecum enim loquar tamquam cum animato) ubinam est aurum illud purum, quod manus apostolorum in te condiderunt! Ubi divitiæ, quæ consumi nequeunt! Ubi novum uolumen, in quo ineffabiliter deus uerbum sine manu inscriptum fuit! Ubi abyssus gratiæ? Ubi pelagus curationum? Ubi est desiderabile illud deiparæ uirginis corpus?
+Tu vero o sacrorum sepulcrorum sacratissimum, post domini quidem sepulcrum, quod uitæ dedit principium, quod fuit fons resurrectionis, (tecum enim loquar tamquam cum animato) ubinam est aurum illud purum, quod manus apostolorum in te condiderunt! Ubi divitiæ, quæ consumi nequeunt! Ubi novum uolumen, in quo ineffabiliter deus uerbum sine manu inscriptum fuit! Ubi abyssus gratiæ? Ubi pelagus curationum? Ubi est desiderabile illud deiparæ uirginis corpus?
 
 [Responsory5]
 @Sancti/08-15:Responsory5

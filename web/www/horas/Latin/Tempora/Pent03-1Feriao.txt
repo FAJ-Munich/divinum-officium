@@ -1,11 +1,2 @@
 @Tempora/Pent03-1Feria
 
-[Lectio1]
-!1Sam 10:17-21
-
-[Lectio2]
-!1 Reg 10:21-24
-21 Quæsiérunt ergo eum, et non est invéntus.
-22 Et consuluérunt post hæc Dóminum utrúmnam ventúrus esset illuc. Respondítque Dóminus: Ecce abscónditus est domi.
-23 Cucurrérunt ítaque et tulérunt eum inde; stetítque in médio pópuli, et áltior fuit univérso pópulo ab húmero et sursum.
-24 Et ait Sámuel ad omnem pópulum: Certe vidétis quem elégit Dóminus, quóniam non sit símilis illi in omni pópulo. Et clamávit omnis pópulus et ait: Vivat rex.

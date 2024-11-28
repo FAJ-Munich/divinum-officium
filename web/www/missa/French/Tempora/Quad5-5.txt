@@ -36,6 +36,11 @@ Tractus. Sainte Marie, la Reine du ciel et Maîtresse du Monde, se tenait pleine
 !Thren 1:12
 Ô vous tous qui passez par le chemin, regardez et voyez s’il est une douleur comme ma douleur.
 
+[GradualeA]
+Douloureuse et en larmes, Vierge Marie, vous vous tenez au pied de la Croix du Seigneur Jésus, votre Fils, le Rédempteur.
+V. Vierge Mère de Dieu, celui que le monde ne peut contenir, l’auteur de la vie fait homme, subit ce supplice de la Croix. Alléluia, alléluia.
+V. Sainte Marie, la Reine du ciel et Maîtresse du Monde, se tenait pleine de douleurs au pied de la Croix de Notre-Seigneur Jésus-Crist. Alléluia.
+
 [GradualeP]
 Alléluia, alléluia.
 V. Sainte Marie, la Reine du ciel et Maîtresse du Monde, se tenait pleine de douleurs au pied de la Croix de Notre-Seigneur Jésus-Crist. Alléluia.
@@ -154,8 +159,3 @@ $Qui vivis
 !Pro Feria
 Que la constante protection de ce sacrifice dont nous avons reçu la victime, ne nous fasse point défaut, ô Seigneur, et qu’elle écarte sans cesse de nous tout ce qui pourrait nous nuire.
 $Per Dominum
-
-[GradualeA]
-Douloureuse et en larmes, Vierge Marie, vous vous tenez au pied de la Croix du Seigneur Jésus, votre Fils, le Rédempteur.
-V. Vierge Mère de Dieu, celui que le monde ne peut contenir, l’auteur de la vie fait homme, subit ce supplice de la Croix. Alléluia, alléluia.
-V. Sainte Marie, la Reine du ciel et Maîtresse du Monde, se tenait pleine de douleurs au pied de la Croix de Notre-Seigneur Jésus-Crist. Alléluia.

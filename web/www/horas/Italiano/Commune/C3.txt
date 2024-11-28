@@ -55,6 +55,10 @@ $Per Dominum
 Fa', o Signore, che i santi N. e N. martiri e pontefici, dei quali celebriamo la festa, ci proteggano e con la loro valida preghiera ci raccomandino a Te.
 $Per Dominum
 
+[Oratio2]
+O Signore che ci allieti con l'annuale solennità dei tuo santi martiri N. e N., concedi benignamente a noi, che godiamo dei loro meriti, d'essere infervorati dai loro esempi. 
+$Per Dominum
+
 [Hymnus Matutinum]
 v. Cantiamo con liete voci
 il sangue sparso per Cristo,
@@ -247,10 +251,6 @@ R. Gioiranno nel loro riposo.
 
 [Ant 2]
 I capelli del vostro capo * sono tutti contati: non temete: voi valete più di molti passeri.  
-
-[Oratio2]
-O Signore che ci allieti con l'annuale solennità dei tuo santi martiri N. e N., concedi benignamente a noi, che godiamo dei loro meriti, d'essere infervorati dai loro esempi. 
-$Per Dominum
 
 [Lectio Prima]
 !Sap 3:7-8
