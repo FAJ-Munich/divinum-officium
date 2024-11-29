@@ -492,7 +492,7 @@ sub oratio {
     # calculating precedence.
     my @rank = split(';;', $winner{Rank});
 
-    if ($version =~ /1960/ && ($rank[2] >= 5 || ($dayname[1] =~ /Feria/i && $rank[2] >= 3)) && $ccind > 1) {
+    if ($version =~ /1960/ && ($rank[2] >= 5 || ($dayname[1] =~ /Feria/i && $rank[2] >= 4)) && $ccind > 1) {
       my @keys = sort(keys(%cc));
       %cc = ($keys[0] => $cc{$keys[0]});
       $ccind = 1;

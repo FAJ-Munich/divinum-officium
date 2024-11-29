@@ -697,9 +697,13 @@ sub lectio : ScriptFunc {
   }
   my $w = $w{"Lectio$num"};
 
-  if ($nocturn == 1 && $rule =~ /Lectio1 Quad/i && $dayname[0] !~ /Quad/i) {
+  if ($nocturn == 1 && $rule =~ /Lectio1 Quad/i && $dayname[0] !~ /Quad\d/i) {
+
+    # For some Saints, the assigned I nocturn readings (from Commune) are valid in Quadragesima only;
+    # in Septuag/Paschaltide, these get the Lessons from the occurent scripture instead (e.g., 04-13)
     $w = '';
-  }    # some saints in April when after easter
+    $rule =~ s/in 1 Nocturno L.*loco//;
+  }
 
   if ($nocturn == 1 && $commemoratio{Rank} =~ /Quattuor/i && $month == 9) {
     $w = '';
@@ -736,22 +740,24 @@ sub lectio : ScriptFunc {
           $nocturn == 1                        # or we are in the first nocturn
           && $homilyflag == 1                  # and there is a homily to be commemorated
           && exists($commune{"Lectio$num"})    # which has not been superseded by the sanctoral
+          && !($rule =~ /in 1 Nocturno/i)
         )
       )
     )
   ) {
     %w = (columnsel($lang)) ? %commune : %commune2;
     $w = $w{"Lectio$num"};
-    if ($w && $num == 1) { setbuild2("Lectio1-3 from Tempora/$file replacing homily"); }
+    if ($w && $num == 1) { setbuild2("Lectio1-3 from $commune replacing homily"); }
   }
 
   #look for commune if sancti and 'ex commune' (for Trident also "vide")
-  if (!$w
+  if (
+      !$w
     && $winner =~ /sancti/i
     && $commune =~ /^C/
-    && $communetype =~ /^ex/i
-    && ($rank > 3 || ($rule =~ /in (\d) Nocturno/i && $1 eq $nocturn)))
-  {
+    && ( ($communetype =~ /^ex/i && $rank > 3)
+      || ($rule =~ /in (\d) Nocturno Lectiones ex/i && $1 eq $nocturn))
+  ) {
     my %com = (columnsel($lang)) ? %commune : %commune2;
     my $lecnum = "Lectio$num";
 
@@ -790,6 +796,7 @@ sub lectio : ScriptFunc {
 
     if ($version =~ /monastic/i && $rule =~ /12 lectiones/i && ($version !~ /1963/ || $rule =~ /Lectio1 tempora/i)) {
       $w = lectiones_ex3_fiunt4(\%w, $num);
+      setbuild2("Lectiones ex 3 fiunt 4") if $num == 1;
     }
 
     if ($version =~ /Trident/ && $winner =~ /Sancti/ && $rank < 2) {
@@ -1147,7 +1154,6 @@ sub lectiones_ex3_fiunt4 {
       push(@scrips, @splits);
     }
   }
-  setbuild2("Lectiones ex 3 fiunt 4") if $num == 1;
   return $scrips[$num - 1];
 }
 
