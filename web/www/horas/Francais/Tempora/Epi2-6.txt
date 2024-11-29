@@ -1,9 +1,6 @@
 [Rank]
 Sabbato infra Hebdomadam II post Epiphaniam;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 De la seconde Epître aux Corinthiens
 !2 Cor 13:1-4
@@ -47,12 +44,3 @@ V. Mes jours ont décliné comme l’ombre, et moi j’ai séché comme le foin.
 R. Car mes jours se sont évanouis comme la fumée :
 &Gloria
 R. Mais vous, vous êtes toujours le même.
-
-[ResponsoryT1]
-@Tempora/Epi2-3:Responsory1
-
-[ResponsoryT2]
-@Tempora/Epi2-3:Responsory2
-
-[ResponsoryT3]
-@Tempora/Epi2-3:Responsory3

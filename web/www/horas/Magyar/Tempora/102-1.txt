@@ -6,9 +6,6 @@ A Makkabeusok első könyvéből
 54 Ugyanabban az időben és ugyanazon a napon szentelték fel, amelyen a pogányok megszentségtelenítették, dicsőítő énekekkel, citera, hárfa és cintányér kíséretében. 
 55 Az egész nép leborult. Magasztaló és dicsőítő énekeket zengtek az égnek, amely sikerre vitte ügyüket.
 
-[Responsory1]
-@Tempora/101-1:Responsory1
-
 [Lectio2]
 !1 Mac 4:56-59
 56 Az oltár fölszentelését nyolc napig ünnepelték. Örömükben égőáldozatot és hálaáldozatot mutattak be a szabadulásért, aztán dicsőítő áldozatot. 
@@ -16,13 +13,7 @@ A Makkabeusok első könyvéből
 58 Túláradó öröm kerítette hatalmába a népet, hogy lemosták a pogányok okozta szégyenfoltot. 
 59 Júdás, testvérei és Izrael egész közössége elhatározta, hogy az oltár fölszentelésének napjait minden esztendőben megünneplik öröm és ujjongás közepette ugyanabban az időben, Kiszleu hónap huszonötödik napjától kezdve nyolc napon át.
 
-[Responsory2]
-@Tempora/101-1:Responsory2
-
 [Lectio3]
 !1 Mac 4:60-61
 60 Abban az időben Sion hegyét magas fallal és erős bástyákkal vették körül, nehogy visszatérjenek a pogányok és lerombolják, mint korábban tették. 
 61 Aztán Júdás őrséget helyezett oda, hogy védelmezze Sion hegyét. Bet-Curt is megerősítette, mint valami várat, hogy a népnek Idumeával szemközt legyen egy erődje.
-
-[Responsory3]
-@Tempora/101-1:Responsory3

@@ -328,11 +328,6 @@ _
 V. Dóminus vias suas docébit nos.
 R. Et ambulábimus in sémitis ejus.
 
-[Capitulum Sexta]
-!Rom 5:19
-v. Sicut per inobediéntiam uníus hóminis peccatóres constitui sunt multi, ita et per uníus obeditiónem justi constituéntur multi.
-$Deo gratias
-
 [Responsory Sexta]
 R.br. Dóminus vias suas * Docébit nos.
 R. Dóminus vias suas * Docébit nos.
@@ -343,10 +338,6 @@ R. Dóminus vias suas * Docébit nos.
 _
 V. Pauper sum ego, et in labóribus a juventúte mea.
 R. Exaltátus autem humiliátus sum, et conturbátus.
-
-[Capitulum Nona]
-@:Lectio Prima
-$Deo gratias
 
 [Responsory Nona]
 R.br. Pauper sum ego, * Et in labóribus a juventúte mea.

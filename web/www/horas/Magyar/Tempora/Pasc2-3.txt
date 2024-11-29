@@ -8,9 +8,6 @@ Antiphonas horas
 9 lectiones;
 Psalm5 Vespera=116
 
-[Hymnus Matutinum]
-@Tempora/Pasc2-3:Hymnus Vespera
-
 [Lectio1]
 Olvasmány Mózes első könyvéből
 !Gen 39:1-6
@@ -61,9 +58,4 @@ v. József fiatal gyümölcsfa a forrás mellett, ágai felnyúlnak a falak föl
 [Capitulum Sexta]
 !Gen 49:25
 v. atyáid Istene, aki segítséget küld neked, a mindenható Isten, aki megáld téged felülről, az ég áldásának bőségével
-$Deo gratias
-
-[Capitulum Nona]
-!Gen 49:22
-v. József fiatal gyümölcsfa a forrás mellett, ágai felnyúlnak a falak fölé.
 $Deo gratias

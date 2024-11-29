@@ -10,9 +10,6 @@ ex Tempora/Pasc5-4;
 Doxology=Asc
 StJamesRule=John,Rev
 
-[Versum 1]
-@Tempora/Pasc5-4:Versum 2
-
 [Ant 1]
 Cuando venga el Paráclito, * que os enviaré desde el Padre, el Espíritu de Verdad que procede del Padre, Él dará testimonio de mí. Aleluya.
 
@@ -90,17 +87,6 @@ Después, como consecuencia, añadió aquello que hace poco empezamos a tratar: 
 !1 Pe 4:7-8
 v. Queridos hermanos: Sed moderados y sobrios, para poder orar. Ante todo, mantened en tensión el amor mutuo, porque el amor cubre la multitud de los pecados.
 $Deo gratias
-
-[Versum 2]
-@Tempora/Pasc5-4:Versum 1
-(pero la rúbrica Tridentina)
-@:Versum 1
-
-[Ant 2]
-@:Ant 1
-
-[Versum 3]
-@:Versum 1
 
 [Ant 3]
 Os he hablado de esto * para que, cuando llegue la hora, os acordéis de que Yo os lo había dicho. Aleluya.

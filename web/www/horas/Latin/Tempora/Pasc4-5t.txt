@@ -1,1 +1,10 @@
 @Tempora/Pasc4-5
+
+[Lectio1]
+!Jas 4:1-6
+
+[Lectio2]
+!Jas 4:7-12
+
+[Lectio3]
+!Jas 4:13-17

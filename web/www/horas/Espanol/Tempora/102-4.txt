@@ -8,9 +8,6 @@ Del Libro primero de los Macabeos.
 5 En Persia le alcanzó un correo, que le dio a saber cómo los ejércitos enviados a tierra de Judea habían sido derrotados; 
 6 que Lisias había ido contra ella con un ejército fuerte si los hay y había huido ante los judíos.
 
-[Responsory1]
-@Tempora/101-0:Responsory1
-
 [Lectio2]
 !1 Mac 6:6-9
 6 Los judíos se habían hecho muy fuertes en armas y soldados con el botín grande que habían cogido a los ejércitos por ellos vencidos; 
@@ -18,15 +15,9 @@ Del Libro primero de los Macabeos.
 8 Cuando recibió estas noticias quedó aterrado e intensamente conmovido; tanto, que cayó en el lecho enfermo de tristeza al ver que los sucesos no habían correspondido a sus deseos.  
 9 Pasó allí muchos días, porque la tristeza se renovaba sin cesar, y hasta creyó morir.
 
-[Responsory2]
-@Tempora/101-0:Responsory2
-
 [Lectio3]
 !1 Mac 6:10-13
 10 Haciendo llamar a sus amigos, les dijo: “Huye de mis ojos el sueño y mi corazón desfallece por la preocupación, 
 11 pensando en qué tribulación y tempestad me hallo yo, tan bueno, tan amado por mi suave gobierno. 
 12 Pero ahora me acuerdo de los males que hice en Jerusalén, de los utensilios de oro y plata que de allí tomé, de los habitantes de Judea que sin causa exterminé. 
 13 Ahora reconozco que por esto me han sobrevenido tantas calamidades y que de mi gran tristeza moriré en tierra extraña.
-
-[Responsory3]
-@Tempora/101-0:Responsory3

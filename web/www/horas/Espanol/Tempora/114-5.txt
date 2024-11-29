@@ -6,17 +6,11 @@ Empieza el Profeta Abdías.
 3 El orgullo de tu corazón te ha engañado. Quien habita en las cavernas de las rocas y cuya morada son las alturas, se dice a sí mismo: ¿Quién me hará bajar a tierra? 
 4 Pues aunque te subas tanto como el águila y pongas en las estrellas tu nido, Yo te derribaré -oráculo de Yahvé-.
 
-[Responsory1]
-@Tempora/111-0:Responsory4
-
 [Lectio2]
 !Abd 1:5-7
 5 Si vinieran a ti de noche ladrones, ¿no se llevarían lo que necesitaran? Si vinieran vendimiadores a vendimiarte, ¿no dejarían rebusco?  
 6 ¡Cómo has sido saqueado! ¡Cómo está Esaú de hollado y de rebuscados sus escondrijos! 
 7 Hasta la frontera todos tus aliados te arrojaron. Te cercaron, te derrotaron tus amigos. Tus asociados pusieron trampas debajo de ti. No hay en él cordura.
-
-[Responsory2]
-@Tempora/111-0:Responsory5
 
 [Lectio3]
 !Abd 1:8-11
@@ -24,6 +18,3 @@ Empieza el Profeta Abdías.
 9 Tus guerreros, ¡oh Teman!  se sobrecogerán de terror para que todo varón sea exterminado de las montañas de Esaú. 
 10 Por la mortandad, por la violencia infligida contra tu hermano Jacob, te cubrirá la vergüenza y serás extirpado para siempre. 
 11 El día en que, estando tú presente, el día en que los extranjeros saqueaban sus riquezas y los extraños penetraban por sus puertas y echaban suertes sobre Jerusalén, fuiste también tú uno de tantos.
-
-[Responsory3]
-@Tempora/111-0:Responsory6

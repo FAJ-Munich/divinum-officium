@@ -1,12 +1,6 @@
 [Rank]
 Dominica XX Post Pentecosten;;Semiduplex;;5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-
 [Oratio]
 Grant, we beseech thee, O Lord, to thy faithful people pardon and peace, that they may be cleansed from all their sins, and serve thee with a quiet mind.
 $Per Dominum

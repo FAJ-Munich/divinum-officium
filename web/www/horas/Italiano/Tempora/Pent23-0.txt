@@ -1,12 +1,6 @@
 [Rank]
 Dominica XXIII Post Pentecosten;;Semiduplex;;5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-
 [Oratio]
 Signore, perdona i delitti dei tuoi popoli: affinché per la tua benignità siamo liberati dai lacci dei peccati, che per la nostra fragilità abbiamo stretti. 
 $Per Dominum
@@ -27,15 +21,8 @@ L'ottavo miracolo è quello d'uno dei maggiorenti, che non volendo essere esclus
 Ora questa donna che soffriva perdita di sangue, si accosta al Signore non nell'interno d'una casa, neppure nella città, perché la legge le interdiceva il soggiorno nelle città; ma mentre il Signore era in via per andarvi; così che andando egli da una persona, ne guarisce un'altra. Lo stesso fecero gli Apostoli, come lo dichiarano essi medesimi: «Era necessario annunziare prima a voi la parola di Dio: ma giacché vi giudicate da voi stessi indegni della salvezza, noi ci rivolgiamo ai Gentili» (Act. 13,46).
 &teDeum
 
-[Versum 2]
-V. Il Signore regna, s'è rivestito di maestà.
-R. Il Signore s'è rivestito di forza, e s'è cinto di potenza.
-
 [Ant 2]
 Poiché diceva * fra se: Se riuscirò a toccare anche soltanto il suo mantello, sarò guarita.
-
-[Versum 3]
-@Tempora/Pent21-0:Versum 3
 
 [Ant 3]
 Or Gesù si volto, * e vedendola, le disse: Fatti animo, figlia, la tua fede ti ha guarita, alleluia.

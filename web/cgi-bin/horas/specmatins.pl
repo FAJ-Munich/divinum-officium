@@ -239,11 +239,11 @@ sub psalmi_matutinum {
   }
   setcomment($label, 'Source', $comment, $lang, $prefix);
 
-  # Trident rubrics: Anticipated Sundays are "Simplex", i.e., 1 nocturn with 3 lessions (of the Gospel Homily!)
+  # Trident rubrics: Anticipated Sundays (except infra Oct. Epi on Jan 12) are "Simplex", i.e., 1 nocturn with 3 lessions (of the Gospel Homily!)
   if ( $rule =~ /9 lectio/i
     && !gettype1960()
     && $rank >= 2
-    && !($version =~ /trident/i && $winner{Rank} =~ /Dominica/i && $dayofweek > 0))
+    && !($dayofweek > 0 && $version =~ /trident/i && $winner{Rank} =~ /Dominica (?!infra.*Epi)/i))
   {
     setbuild2("9 lectiones");
 
@@ -574,66 +574,68 @@ sub lectio : ScriptFunc {
   $ltype1960 = gettype1960();
   if ($winner =~ /C12/i) { $ltype1960 = LT1960_DEFAULT; }    # Officium parvum B.M.V.
 
-  if ($ltype1960 == LT1960_SUNDAY && $num == 3) {            # 3rd reading in a Sunday office
+  if ($ltype1960 == LT1960_SUNDAY && $num == 3) {            # 1960: 3rd reading in a Sunday office
     $num = 7;                                                # diverge to Gospel / Homily
-    setbuild("L3: Diverged to Homily");
+    setbuild("Lectio3: Diverged to Homily");
   } elsif (
-    (    $ltype1960 == LT1960_SANCTORAL
-      && $num == 3
-      && $votive !~ /(C9|Defunctorum)/i)                     # 3rd reading in sanctoral office of 3 readings
-    || ( $version !~ /196/
-      && $rule !~ /1 et 2 lectiones/i
-      && $num == 3
-      && $winner =~ /Sancti/i
-      && $rank < 2
-      && $winner{Rank} !~ /vigil/i
-      && !($version =~ /1963/i && $dayname[0] != /Nat|Epi1/i))
+    $num == 3
+    && (
+      # 1960: 3rd reading in sanctoral office of 3 readings
+      ($ltype1960 == LT1960_SANCTORAL && $votive !~ /(C9|Defunctorum)/i)
+
+      # Pre-1960: Sanctoral simplex feast
+      # (unless monastic in Nativitytide and Epiphany => prevent the former Octave days of Stephanus, Joannes, Innocents)
+      || ( $version !~ /196/
+        && $rule !~ /1 et 2 lectiones/i
+        && $winner =~ /Sancti/i
+        && $rank < 2
+        && $winner{Rank} !~ /vigil/i
+        && !($version =~ /1963/i && $dayname[0] != /Nat|Epi1/i))
     )
-  { # sanctoral simplex feast (unless monastic in Nativitytide and Epiphany => prevent the former Octave days of Stephanus, Joannes, Innocents)
+  ) {
     $num = 4;    # diverge to legend
-    setbuild2("L3: Diverged to Legend");
+    setbuild2("Lectio3: Diverged to Legend");
   }
   my %w = (columnsel($lang)) ? %winner : %winner2;
 
   if ($num < 4 && $version =~ /trident/i && $winner{Rank} =~ /Dominica/i && $month != 12 && $dayofweek > 0) {
     my $inum = $num + 6;
     $w{"Lectio$num"} = $w{"Lectio$inum"};
-
-    if ($num == 1) {
-      setbuild2("Lectio de Homilia Dominicæ anticipiata");
-    }
+    setbuild2("Lectiones I Nocturno de Homilia Dominicæ anticipiata") if $num == 1;
   }
 
   # Save the Nocturn of the Lectio requested:
   my $nocturn = int(($num - 1) / ($rule =~ /12 lectiones/i ? 4 : 3)) + 1;
 
-  #Nat1-0 special rule
-  # TODO: Get rid of this special case by separating the temporal and sanctoral parts of Christmas, thus allowing occurring Scripture to be defined.
+  #Lectio1 OctNat/TempNat: special rule for Dec 29 through Jan 05
   if ($nocturn == 1 && $rule =~ /Lectio1 (Oct|Temp)Nat/i) {
-    my %c;
+    my %temp;
+    setbuild1("Lectiones I Nocturno ex Tempora Nativitatis") if $num == 1;
 
-    if ($1 =~ /Temp/i) {
-
-      # Monastic: Dominica Secunda Nativitatis
-      my %scrip = %{setupstring($lang, subdirname('Sancti', $version) . "$month-$day.txt")};
-
-      $c{"Lectio$_"} = lectiones_ex3_fiunt4(\%scrip, $_) foreach (1 .. 4);
-      $c{"Responsory$num"} = $w{"Responsory$num"};
-    } elsif ($day < 29) {
+    if ($month == 12 && $day < 29) {
 
       # GitHub3539: in 1960 rubrics, Scripture on Sunday (26-28) comes from Nativity
-      %c = %{officestring($lang, subdirname('Sancti', $version) . "12-25.txt")};
+      %temp = %{officestring($lang, subdirname('Sancti', $version) . "12-25.txt")};
     } else {
 
-      # the Nat..o.txt files do not exist for Monastic
-      my $tfile = subdirname('Tempora', $version) . "Nat$day" . ($version =~ /^Trident/i ? "o.txt" : ".txt");
-      %c = %{officestring($lang, $tfile)};
-    }
-    $c{'Lectio2'} .= $c{'Lectio3'} if (contract_scripture(2));
+      my $tfile =
+        subdirname('Tempora', $version) . sprintf("Nat%02i", $day) . ($version =~ /Trident/i ? "o.txt" : ".txt");
+      my $t = get_tempora($version, $tfile);
+      $tfile = $t || $tfile;
 
-    $w{"Lectio$num"} = $c{"Lectio$num"};
-    $w{"Responsory$num"} = $c{"Responsory$num"};
-    setbuild2("Lectiones I Nocturno ex Tempora Nativitatis") if $num == 1;
+      %temp = %{officestring($lang, $tfile)};
+
+      if ($rule =~ /12 lectiones/) {
+        my %scrip = %temp;
+        $temp{"Lectio$_"} = lectiones_ex3_fiunt4(\%scrip, $_) foreach (1 .. 4);
+        $temp{"Responsory$num"} = $w{"Responsory$num"};
+        setbuild2("Lectiones ex 3 fiunt 4") if $num == 1;
+      }
+    }
+    $temp{'Lectio2'} .= $temp{'Lectio3'} if (contract_scripture(2));
+
+    $w{"Lectio$num"} = $temp{"Lectio$num"};
+    $w{"Responsory$num"} = $temp{"Responsory$num"};
   }
 
   #Lectio1 tempora: special rule for Octave of Epiphany
@@ -642,6 +644,7 @@ sub lectio : ScriptFunc {
 
     if ($version =~ /monastic/i && $rule =~ /12 lectiones/i) {
       $w{"Lectio$num"} = lectiones_ex3_fiunt4(\%scrip, $num);
+      setbuild2("Lectiones ex 3 fiunt 4") if $num == 1;
     } else {
       $w{"Lectio$num"} = $scrip{"Lectio$num"};
 
@@ -859,16 +862,25 @@ sub lectio : ScriptFunc {
     && $rule !~ /no93/i
     && $winner{Rank} !~ /Octav.*(Epi|Corp)/i
     && (
+
+      # Tridentine: Commemoratio Sancti unless there is a 9th Responsory
+      # Divino: All Sundays prohibit Commemoratio Sancti
       (
            $rule =~ /9 lectio/i
         && $num == 9
         && !(exists($winner{Responsory9}) || ($winner{Rank} =~ /Dominica/i && $version !~ /Trid/i))
       )
+
+      # Single / Double nocturn: Last lectio
       || ($rule !~ /(9|12) lectio/i && $num == 3 && $winner !~ /Tempora/i && !exists($winner{Responsory3}))
+
+      # Monastic: Commemoratio Sancti unless Sunday outranking duplex or Feast of 1st class (or octave) on a Feria
       || ( $rule =~ /12 lectio/i
         && $num == 12
         && !(($rank > 5.5 && $dayofweek && !homilyflag) || ($winner{Rank} =~ /Dominica/i && $rank > 3)))
     )
+
+    # Simplex: also look when last lectio has been diverged to Lectio 4
     || (($ltype1960 == LT1960_SANCTORAL || $rank < 2) && $winner =~ /Sancti/i && $num == 4)
     )
   {    # 9th lesson diverged to Legend of Commemorated Saint
@@ -909,7 +921,7 @@ sub lectio : ScriptFunc {
       }
 
       if ($wc) {
-        setbuild2("Last lectio Commemoratio ex Tempore #1");
+        setbuild2("Last lectio Commemoratio ex Tempora #1");
         my %comm = %{setupstring($lang, 'Psalterium/Comment.txt')};
         my @comm = split("\n", $comm{'Lectio'});
         $comment = ($commemoratio{Rank} =~ /Feria/) ? $comm[0] : ($commemoratio =~ /01\-05/) ? $comm[3] : $comm[1];
@@ -941,10 +953,10 @@ sub lectio : ScriptFunc {
       && $cflag)
     {
       %w = (columnsel($lang)) ? %commemoratio : %commemoratio2;
-      my $ji = 94;
-      $wc = $w{"Lectio$ji"};
+      my $ji = exists($w{"Lectio94"}) ? 94 : 93;
+      $wc = $w{"Lectio94"};
 
-      if (!$wc && $w{Rank} !~ /infra octav/i) {
+      if (!$wc && $w{Rank} !~ /infra octav/i && $version !~ /Monastic/) {
         $wc = '';
 
         for ($ji = 4; $ji < 7; $ji++) {
@@ -953,10 +965,11 @@ sub lectio : ScriptFunc {
           if ($wc =~ /(.*?)\_/s) { $wc = $1; }
           $wc .= $w1;
         }
+        $ji = '4-6';
       }
       $wc ||= $w{"Lectio93"};
 
-      if (!$wc && $w{Rank} =~ /infra octav/i) {
+      if (!$wc && $w{Rank} =~ /infra octav/i && $version !~ /Monastic/) {
         if (my $commemo1 = $commemoentries[1]) {
           %w = %{setupstring($lang, $commemo1 . ".txt")};
           $wc = $w{Lectio94} || ($w{Lectio4} . $w{Lectio5} . $w{Lectio6}) || $w{Lectio93};

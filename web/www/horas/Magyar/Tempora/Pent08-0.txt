@@ -1,12 +1,6 @@
 [Rank]
 Dominica VIII Post Pentecosten;;Semiduplex;;5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-
 [Oratio]
 Adj nekünk, kérünk, Urunk olyan szellemet, hogy mindig helyesen gondolkodjunk és cselekedjünk, hogy így, akik nélküled nem létezhetünk, általad élhessünk.
 $Per Dominum
@@ -43,9 +37,3 @@ _
 Homily by St Jerome, Priest at Bethlehem.
 !Letter 151. To Algasia.
 The lord commended the unjust steward, because he had done wisely though wickedly. The lord, although himself defrauded by it, could not but praise the shrewdness of his dishonest servant, because he had cheated him with profit to himself. How much more will our Master Christ, Who is above any defrauding by us, and is Himself the Great Forgiver, praise us if we win a blessing from Him by dealing indulgently with those who are to believe in Him?
-
-[Responsory7]
-@Tempora/Pent01-3:Responsory1
-
-[Responsory8]
-@Tempora/Pent01-0:Responsory8

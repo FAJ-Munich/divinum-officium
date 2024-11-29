@@ -1,7 +1,7 @@
 @Sancti/10-07
 
-[Rank]
-Sanctissimi Rosarii Beatæ Mariæ Virginis;;Duplex;;3;;ex C11
+[Rank] (rubrica 1963)
+Beatæ Mariæ Virginis a Rosario;;Duplex;;3;;ex C11
 
 [Responsory Vespera]
 @Sancti/10-07:Responsory Sexta:s/._.*//s

@@ -8,9 +8,6 @@ Jézus Sírák fia könyvéből
 5 Ha adománynyal mész hozzája, elfogad, s ha ez nincs, elhagy téged. 
 6 Mig valamid vagyon, együtt él veled, és kiüresít téged, és nem fog bánkódni rajtad.
 
-[Responsory1]
-@Tempora/081-0:Responsory7
-
 [Lectio2]
 !Sir 13:9-15
 9 Alázd meg magadat Isten elött, és az ö kezétöl várj. 
@@ -21,9 +18,6 @@ Jézus Sírák fia könyvéből
 14 Ne szólj vele, mint társaddal, és ne higyj sok szavának; mert a sok beszéddel kisért téged, és mosolyogva kicsalja titkaidat. 
 15 Az ö kemény szive megtartja beszédeidet, és nem kimél egész nyomoruságig és fogságig.
 
-[Responsory2]
-@Tempora/081-1:Responsory2
-
 [Lectio3]
 !Sir 13:16-22
 16 Óvatos légy, és gondosan figyelj hallomásodra, mert közel jársz romlásodhoz. 
@@ -33,6 +27,3 @@ Jézus Sírák fia könyvéből
 20 Minden test hozzája hasonlóhoz ragaszkodik, és minden ember hozzája hasonlóval társalkodik. 
 21 Ha farkas valaha társalkodik báránynyal, akkor a bűnös is az igazzal. 
 22 Mi köze szent embernek az ebbelö Vagy mi része gazdagnak a szegénynyelö
-
-[Responsory3]
-@Tempora/081-1:Responsory3

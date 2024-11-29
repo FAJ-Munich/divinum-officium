@@ -270,7 +270,7 @@ sub oratio {
             : ($ic =~ /$octavestring/i) ? $ccind + 7900
             : $ccind + 9900;
           $cc{$key} = $ic;
-          setbuild2("Commemorated: $key");
+          setbuild2("Commemorated from winner: $key");
         }
       }
 
@@ -291,12 +291,18 @@ sub oratio {
 
       # add Concurrent Office
       if ($cwinner) {
-        setbuild2("Concurrent office $cvespera: $cwinner");
+        setbuild1("Concurrent office Vesp-$cvespera:", "$cwinner");
 
         my $key = 0;    # let's start with lowest rank
         if (!(-e "$datafolder/$lang/$cwinner") && $cwinner !~ /txt$/i) { $cwinner =~ s/$/\.txt/; }
         $c = getcommemoratio($cwinner, $cvespera, $lang);
         %c = %{officestring($lang, $cwinner, $cvespera == 1 && $cwinner =~ /tempora/i)};
+
+        if ($c && $octvespera && $octvespera != $cvespera && $c =~ /$octavestring/i) {
+          setbuild2("Substitute Commemoratio of Octave to Vesp-$octvespera");
+          $c = getcommemoratio($cwinner, $octvespera, $lang);
+          %c = %{officestring($lang, $cwinner, $octvespera == 1 && $cwinner =~ /tempora/i)};
+        }
 
         if ($c) {
           my @cr = split(";;", $c{Rank});
@@ -310,6 +316,8 @@ sub oratio {
           $ccind++;
           $cc{$key} = $c;
           setbuild2("Commemoratio: $key");
+        } else {
+          setbuild2("nihil");
         }
 
         # add commemorated from cwinner
@@ -365,7 +373,7 @@ sub oratio {
               ? ($version !~ /trident/i ? 3000 : 7100)
               : $ccind + 9900;    # Sundays are all privilegde commemorations under DA
             $cc{$key} = $ic;
-            setbuild2("Commemorated: $key");
+            setbuild2("Commemorated from Concurrent: $key");
           }
         }
       }
@@ -374,10 +382,12 @@ sub oratio {
 
     # Add commemorated Offices of (tomorrow and) today
     foreach my $cv (@cvesp) {
+      setbuild1("Commemorations", "Vesp-$cv");
       my @centries = $cv == 1 ? @ccommemoentries : @commemoentries;
 
       foreach my $commemo (@centries) {
-        setbuild2("Comm-$cv: $commemo");
+
+        #setbuild2("Comm-$cv: $commemo");
 
         my $key = 0;    # let's start with lowest rank
         if (!(-e "$datafolder/$lang/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
@@ -404,10 +414,13 @@ sub oratio {
           } else {
             $key = $cr[2] * 1000;    # rank depending on the type of commemoration to be made
           }
-          $key = 10000 - $key + $ccind;    # reverse order
           $ccind++;
+          $key = 10000 - $key + $ccind;    # reverse order
           $cc{$key} = $c;
-          setbuild2("Commemoratio: $key");
+          setbuild2("$commemo: $key");
+        } else {
+          setbuild2("$commemo: nihil");
+          next;
         }
 
         # add commemorated from commemo
@@ -559,7 +572,10 @@ sub getcommemoratio {
       $rank[1] =~ /Feria/
 
       #no commemoration of octava common in 2nd class unless in concurrence => to be checked
-      || ($rank[0] =~ /Infra Octav/i && $rank >= 5 && $winner =~ /Sancti/i)
+      || ( $rank[0] =~ /Infra Octav/i
+        && $rank >= 5
+        && $winner =~ /Sancti/i
+        && ($wday ne $cwinner || $version !~ /Trident/))
     )
   ) {
     return;
@@ -613,7 +629,7 @@ sub getcommemoratio {
 
   if ($version !~ /Trident/i && ((my $plural, $popeclass, my $name) = papal_rule($w{Rule}))) {
     $o = papal_prayer($lang, $plural, $popeclass, $name);
-  } elsif ($o =~ /N\./ && (($plural, $popeclass, $name) = papal_rule($w{Rule}))) {
+  } elsif ($o =~ /N\./ && (my $name = $w{Name} || papal_rule($w{Rule}))) {
     $o = replaceNdot($o, $lang, $name);
   }
   if (!$o) { return ''; }
@@ -688,6 +704,7 @@ sub vigilia_commemoratio {
   if ($fname !~ /\.txt$/) { $fname .= '.txt'; }
   if ($fname !~ /(Tempora|Sancti)/i) { $fname = "Sancti/$fname"; }
   my %w = %{setupstring($lang, $fname)};
+  my @wrank = split(';;', $w{Rank});
 
   if ($w{Rank} =~ /Vigilia/i) {
     $w = $w{Oratio};
@@ -696,6 +713,7 @@ sub vigilia_commemoratio {
   }
   if (!$w) { return ''; }
   my $c = "!" . &translate('Commemoratio', $lang) . ": " . &translate("Vigilia", $lang) . "\n";
+  if ($w{Rank} =~ /Vigilia/i) { $c =~ s/\:.*/: $wrank[0]/; }
   if ($w =~ /(\!.*?\n)(.*)/s) { $c = $1; $w = $2; }
   my %p = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
   my $a = $p{"Day$dayofweek Ant 2"};

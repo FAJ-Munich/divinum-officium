@@ -1,11 +1,6 @@
 [Rank]
 Feria Secunda infra Hebdomadam II post Octavam Paschae;;Feria;;1
 
-[Rule]
-Oratio Dominica
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 From the Acts of Apostles.
 !Acts 15:5-12
@@ -17,9 +12,6 @@ From the Acts of Apostles.
 10 Mit teszitek hát próbára az Istent, miért akarjátok a tanítványok nyakára rakni az igát, amelyet sem atyáink, sem mi nem bírtunk elviselni? 
 11 Az a hitünk, hogy Urunk Jézus kegyelméből üdvözülünk mi is, s ugyanígy ők is.” 
 12 Erre az egész gyülekezet elhallgatott, és meghallgatták Pált meg Barnabást, hogy milyen csodákat tett általuk az Isten a pogányok között.
-
-[Responsory1]
-@Tempora/Pasc0-2:Responsory1
 
 [Lectio2]
 !Acts 15:13-21
@@ -33,9 +25,6 @@ From the Acts of Apostles.
 20 hanem csak azt írjuk elő nekik, hogy tartózkodjanak a bálványoktól, nehogy tisztátalanná váljanak miattuk, továbbá a paráznaságtól, a fojtott állattól és a vértől. 
 21 Mert Mózesnek ősi nemzedékek óta hirdetői vannak a városokban, akik minden szombaton felolvassák a zsinagógákban.”
 
-[Responsory2]
-@Tempora/Pasc0-2:Responsory2
-
 [Lectio3]
 !Acts 15:22-29
 22 Erre az apostolok, a presbiterek és az egész egyház jónak látták, hogy kiválasszanak maguk közül néhány férfit, és Pállal és Barnabással elküldjék őket Antióchiába, mégpedig Júdást, másik nevén Barszabbászt, meg Szilást, akik a testvérek között vezető szerepet vittek. 
@@ -46,6 +35,3 @@ From the Acts of Apostles.
 27 Elküldtük hát Júdást és Szilást, ők majd élőszóval is elmondják nektek ezeket. 
 28 Úgy tetszett a Szentléleknek és nekünk, hogy ne rakjunk rátok több terhet a szükségesnél, annál, 
 29 hogy tartózkodnotok kell a bálványoknak áldozott eledeltől, a vértől, a fojtott állattól és a paráznaságtól. Ha ezektől tartózkodtok, helyesen jártok el. Jó egészséget!”
-
-[Responsory3]
-@Tempora/Pasc0-3:Responsory1

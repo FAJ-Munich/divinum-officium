@@ -1,9 +1,6 @@
 [Rank]
 Feria V infra Hebdomadam Septuagesimae;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Olvasmány Mózes első könyvéből
 !Gen 4:1-7
@@ -15,9 +12,6 @@ Olvasmány Mózes első könyvéből
 6 Az Úr szólt Kainhoz: „Miért vagy haragos és miért horgasztod le a fejed? Ha helyesen teszel, miért nem emeled fel a fejed? 
 7 De ha nem cselekszel helyesen, nem bűn van-e az ajtó előtt, mint leselkedő állat, amely hatalmába akar keríteni, s amelyen uralkodnod kell?
 
-[Responsory1]
-@Tempora/Quadp1-0:Responsory1
-
 [Lectio2]
 !Gen 4:8-12
 8 Kain közben így szólt testvéréhez, Ábelhez: „Menjünk a mezőre!” Amikor pedig a mezőn voltak, Kain rátámadt testvérére, Ábelre, és agyonütötte. 
@@ -26,15 +20,9 @@ Olvasmány Mózes első könyvéből
 11 Ezért átkozott leszel, bujdosni fogsz a földön, amely megnyitotta száját, hogy beigya kezedből testvéred vérét. 
 12 Ha műveled a földet, nem ad neked termést. Hontalan és bujdosó leszel a földön.”
 
-[Responsory2]
-@Tempora/Quadp1-0:Responsory2
-
 [Lectio3]
 !Gen 4:13-16
 13 Kain így szólt az Úrhoz: „Túl nagy a büntetésem ahhoz, hogy el tudjam viselni. 
 14 Lám, ma elűztél a föld színéről és el kell rejtőznöm előled, hontalan és bujdosó leszek a földön, s bárki, aki rámtalál, megölhet.” 
 15 Az Úr azt válaszolta: Semmi esetre. Aki Kaint megöli, annak hétszeresen kell lakolnia. Az Úr jelet tett Kainra, hogy senki, aki találkozik vele, meg ne ölje. 
 16 Kain azonban elbujdosott az Úr színe elől, és Nod földjén, Édentől keletre telepedett le.
-
-[Responsory3]
-@Tempora/Quadp1-0:Responsory3

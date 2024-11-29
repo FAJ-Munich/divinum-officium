@@ -1,6 +1,14 @@
 [Rank]
 Dominica Resurrectionis;;Duplex I classis cum Octava Privilegiata I;;7
 
+[Rule]
+1 nocturn;
+Omit Hymnus Preces Suffragium Commemoratio;
+Minores sine Antiphona;
+Capitulum Versum 2;
+Psalmi Dominica;
+Prima=53
+
 [Ant 1]
 And in the end of the sabbath * when it began to dawn towards the first day of the week, came Mary Magdalen and the other Mary, to see the sepulchre, alleluia.
 

@@ -4,9 +4,6 @@ Beatæ Mariæ Virginis de Monte Carmelo;;Duplex majus;;4;;ex C11
 [Rank] (rubrica 196)
 Beatæ Mariæ Virginis de Monte Carmelo;;Simplex;;1.1;;vide C11
 
-[Rank] (rubrica innovata)
-Beatæ Mariæ Virginis de Monte Carmelo;;Duplex optional;;2;;ex C11
-
 [Oratio]
 Oh Dios que honraste la Orden del Carmen con el singular título de la bienaventurada siempre Virgen María vuestra Madre: concédenos propicio, a los que celebramos con solemnidad su Conmemoración en este día, que ayudados por su poderosa intercesión, merezcamos llegar a los goces sempiternos.
 $Qui vivis

@@ -1,15 +1,6 @@
 [Rank]
 Sabbato Quattuor Temporum Pentecostes;;Semiduplex I classis;;6;;ex Pasc7-0
 
-[Rule]
-ex Pasc7-0;
-1 nocturn;
-Antiphonas horas
-Psalmi Dominica;
-Hymnus Tertia
-Feria Te Deum
-no93
-
 [Oratio]
 En nos âmes, Seigneur, répandez avec bienveillance l’Esprit-Saint. C’est par Sa sagesse que nous avons été créés et par Sa providence que nous sommes gouvernés.
 $Per Dominum eiusdem
@@ -42,10 +33,6 @@ V. Vous êtes mes amis, si vous faites ce que je vous commande.
 R. Recevez en vous l’Esprit-Saint le Paraclet : c’est lui que mon Père vous enverra, alléluia.
 &Gloria
 R. Recevez en vous l’Esprit-Saint le Paraclet : c’est lui que mon Père vous enverra, alléluia.
-
-[Lectio3]
-@Tempora/Quad3-4:Lectio3
-&teDeum
 
 [Ant 2]
 La charité de Dieu * a été répandue dans nos cœurs par Son Esprit qui habite en nous, alléluia.

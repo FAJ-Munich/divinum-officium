@@ -1,12 +1,6 @@
 [Rank]
 Dominica XXIII Post Pentecosten;;Semiduplex;;5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-
 [Oratio]
 O Lord, we beseech thee, absolve thy people from their offences, that through thy bountiful goodness we may all be delivered from the bands of those sins, which by our frailty we have committed.
 $Per Dominum

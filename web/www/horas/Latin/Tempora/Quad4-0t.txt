@@ -1,1 +1,7 @@
 @Tempora/Quad4-0
+
+[Lectio2]
+!Exod 3:7-12
+
+[Lectio3]
+!Exod 3:13-19

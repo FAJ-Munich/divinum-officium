@@ -1,14 +1,6 @@
 [Rank]
 Sabbato infra octavam Corporis Christi;;Semiduplex II class;;5;;ex Tempora/Pent01-4
 
-[Rank] (rubrica 1960)
-Sabbato infra Hebdomadam I post Octavam Pentecostes;;Feria;;1
-
-[Rule]
-ex Tempora/Pent01-4;
-9 lectiones
-Doxology Corp
-
 [Lectio1]
 Lesson from the first book of Samuel
 !1 Sam 3:1-7

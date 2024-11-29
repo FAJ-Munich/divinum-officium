@@ -1,8 +1,3 @@
-[Lectio1]
-@Tempora/105-0
-(sed rubrica tridentina)
-@Tempora/105-1:Lectio1Tridentina
-
 [Lectio1Tridentina]
 Lesson from the second book of Machabees
 !2 Mac 7:7-12
@@ -13,11 +8,6 @@ Lesson from the second book of Machabees
 11 And said with confidence: These I have from heaven, but for the laws of God I now despise them, because I hope to receive them again from him.
 12 So that the king, and they that were with him, wondered at the young man's courage, because he esteemed the torments as nothing.
 
-[Lectio2]
-@Tempora/105-0
-(sed rubrica tridentina)
-@Tempora/105-1:Lectio2Tridentina
-
 [Lectio2Tridentina]
 !2 Mac 7:13-19
 13 And after he was thus dead, they tormented the fourth in the like manner
@@ -27,11 +17,6 @@ Lesson from the second book of Machabees
 17 But stay patiently a while, and thou shalt see his great power, in what manner he will torment thee and thy seed.
 18 After him they brought the sixth, and he being ready to die, spoke thus: Be not deceived without cause: for we suffer these things for ourselves, having sinned against our God, and things worthy of admiration are done to us:
 19 But do not think that thou shalt escape unpunished, for that thou attempted to fight against God.
-
-[Lectio3]
-@Tempora/105-0
-(sed rubrica tridentina)
-@Tempora/105-1:Lectio3Tridentina
 
 [Lectio3Tridentina]
 !2 Mac 7:20-23
