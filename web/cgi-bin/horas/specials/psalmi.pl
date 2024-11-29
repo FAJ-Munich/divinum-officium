@@ -413,6 +413,7 @@ sub psalmi_major {
     }
   }
   $error .= $w;
+
   if (!$w && exists($w{"Ant $hora"})) {
     $w = $w{"Ant $hora"};
     $c = $winner =~ /Tempora/ ? 2 : 3;
@@ -623,6 +624,7 @@ sub antetpsalm {
 
       unless ($duplexf && $version !~ /cist/i) {
         $antp =~ s/\s*\*.*//;
+
         if ($lang =~ /gabc/i && $ant =~ /\{.*\}/) {
           $antp =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/;    # proper closure of GABC antiphone
           $antp =~ s/\,\.\(/.(/;

@@ -182,65 +182,38 @@ sub Benedicamus_Domino : ScriptFunc {
 # parentheses text as rubrics
 sub handleverses {
   my $gabc = 0;
-  
+
   map {
     if ($_[1] && !$gabc && /^(name:|\([cf][1-4]\))/) {
       $gabc = 1;
-      s/^/{/; # append brace, s.t. gabc is recognized by webdia.pl
+      s/^/{/;    # append brace, s.t. gabc is recognized by webdia.pl
     }
 
     if ($_[1]) {
+
       #if ($line !~ /\S/) { last; }
       s/(\s)_([\^\s*]+)_(\(\))?(\s)/$1\^_$2_\^$3$4/g;    # ensure red digits for chant
       s/(\([cf][1-4]\)|\s?)(\d+\.)(\s\S)/$1\^$2\^$3/g;
     }
-      
-    if ($nonumbers) {    # remove numbering
+
+    if ($nonumbers) {                                    # remove numbering
       s/^(?:\d+:)?\d+[a-z]?\s*//;
       s/\s*\(\d+[a-z]?\)//;
-    } elsif ($noinnumbers) {    # remove subverse letter & inline numbering
+    } elsif ($noinnumbers) {                             # remove subverse letter & inline numbering
       s/\d\K[a-z]//;
       s/\(\d+[a-z]?\)//;
     }
 
-    unless ($nonumbers || $gabc) {       # put numbers as rubrics
+    unless ($nonumbers || $gabc) {                       # put numbers as rubrics
       s{^(?:\d+:)?\d+[a-z]?}{/:$&:/};
       s{\(\d+[a-z]?\)}{/:$&:/};
     }
 
-    s{(\(.*?\))}{/:$&:/} unless $gabc;       # text in () as rubrics
+    s{(\(.*?\))}{/:$&:/} unless $gabc;                   # text in () as rubrics
 
     s/†\s*//g if $noflexa;
 
-    s/\s(\+|\^✠\^\(\))\s/ / if $version =~ /cist/i;    # no sign-of the cross in Cistercian
-
-    $_
-  } @{$_[0]};
-}
-
-#*** handleverses($ref)
-# remove or colorize verse numbers
-# parentheses text as rubrics
-sub handleverses {
-  map {
-    if ($nonumbers) {    # remove numbering
-      s/^(?:\d+:)?\d+[a-z]?\s*//;
-      s/\s*\(\d+[a-z]?\)//;
-    } elsif ($noinnumbers) {    # remove subverse letter & inline numbering
-      s/\d\K[a-z]//;
-      s/\(\d+[a-z]?\)//;
-    }
-
-    unless ($nonumbers) {       # put numbers as rubrics
-      s{^(?:\d+:)?\d+[a-z]?}{/:$&:/};
-      s{\(\d+[a-z]?\)}{/:$&:/};
-    }
-
-    s{(\(.*?\))}{/:$&:/};       # text in () as rubrics
-
-    s/†\s*//g if $noflexa;
-
-    s/\s\+\s/ / if $version =~ /cist/i;    # no sign-of the cross in Cistercian
+    s/\s(\+|\^✠\^\(\))\s/ / if $version =~ /cist/i;      # no sign-of the cross in Cistercian
 
     $_
   } @{$_[0]};
@@ -287,16 +260,16 @@ sub psalm : ScriptFunc {
 
   # select right Psalm file
   my $fname = "Psalm$psnum.txt";
+
   if ($lang =~ /gabc/i) {
     if ($canticaTone && $psnum > 230 && $psnum < 233) { $psnum .= ",$canticaTone"; }
-    $fname =
-      ($psnum =~ /,/) ? "$psnum.gabc" : "Psalm$psnum.txt";    # distingiush between chant and text
+    $fname = ($psnum =~ /,/) ? "$psnum.gabc" : "Psalm$psnum.txt";    # distingiush between chant and text
     $fname =~ s/\:/\./g;
-    $fname =~ s/,/-/g;                                                            # file name with dash not comma
-    $psnum =~ s/\:\:/ \& /g;                                                        # Multiple Psalms joined together
-    $psnum =~ s/\:/; Part: /;                                                       # n-th Part of Psalm
+    $fname =~ s/,/-/g;                                               # file name with dash not comma
+    $psnum =~ s/\:\:/ \& /g;                                         # Multiple Psalms joined together
+    $psnum =~ s/\:/; Part: /;                                        # n-th Part of Psalm
     $psnum =~ s/,,.*?,,//;
-    $psnum =~ s/,/; Tone: /;                                                        # name Tone in Psalm headline
+    $psnum =~ s/,/; Tone: /;                                         # name Tone in Psalm headline
     $ftone = ($psnum =~ /Tone: (.*)/) ? $1 : '';
 
     if (!(-e "$datafolder/$lang/Psalterium/Psalmorum/$fname")) {
@@ -308,7 +281,6 @@ sub psalm : ScriptFunc {
   my @lines = do_read(checkfile($bea ? 'Latin-Bea' : $lang, "Psalterium/Psalmorum/$fname"));
   return "Psalm$psnum not found" unless @lines;
 
-  
   # Prepare title and source if canticle
   my $title = translate('Psalmus', $lang) . " $psnum";
   $title .= "($v1$c1-$v2$c2)" if $v1;
@@ -365,7 +337,7 @@ sub psalm : ScriptFunc {
   my $output = "!$title";
   $output .= " [" . ($column == 1 ? ++$psalmnum1 : ++$psalmnum2) . "]"
     unless 230 < $psnum && $psnum < 234;                                   # add psalm counter
-  $output .= "\n!$source" if $source;                                      # add source
+  $output .= "\n!$source" if $source;                                            # add source
   $output .= "\n" . join("\n", @lines) . ($lines[0] =~ /^\{/ ? "}\n" : "\n");    # end chant with brace for recognition
 
   if ($version =~ /Monastic/ && $psnum == 129 && $hora eq 'Prima') {
@@ -377,7 +349,7 @@ sub psalm : ScriptFunc {
       $fname =~ s/,/-/g;    # file name with dash not comma
       $fname = checkfile($lang, $fname);
       my (@lines) = do_read($fname);
-      
+
       foreach my $line (@lines) {
         $output =~ s/\}\n$/ \n$line\}\n/;
       }

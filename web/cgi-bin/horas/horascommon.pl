@@ -1684,10 +1684,13 @@ sub climit1960 {
 # returns the winner name and rank, in $lang1
 sub setheadline {
   our (%winner, $lang1);
-  
+
   if ($lang1 =~ /gabc/i) {
     our $chantTone;
-    return substr($winner{Rank}, 0, index($winner{Rank}, ';')) . " ~ " . rankname($lang1) . " : Tonus $chantTone";    # Display Chant Tone in Headline
+    return
+        substr($winner{Rank}, 0, index($winner{Rank}, ';')) . " ~ "
+      . rankname($lang1)
+      . " : Tonus $chantTone";    # Display Chant Tone in Headline
   }
 
   substr($winner{Rank}, 0, index($winner{Rank}, ';')) . " ~ " . rankname($lang1);    # $rank[0] ~ $rankname
@@ -1711,6 +1714,7 @@ sub rankname {
     && ($winner !~ /Pasc[07]/ || $dayofweek == 0 || $latname !~ /Pasc|Pent/))
   {
     my $i = $rank;
+
     if ($version =~ /19(?:55|6)/ && $winner !~ /Pasc5-3/ && $latname =~ /feria/i) { $i = 0 }    # 'Feria';
     if ($latname =~ /Sanctæ Fami/i && $version !~ /196/) { $i = 4; }                            # Duplex majus
         #if ($version =~ /1570/ && $rank =~ /^4/) { $i = 3; }    # Duplex as no Duplex majus yet in 1570
