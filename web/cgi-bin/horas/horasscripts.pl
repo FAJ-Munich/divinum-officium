@@ -218,6 +218,34 @@ sub handleverses {
   } @{$_[0]};
 }
 
+#*** handleverses($ref)
+# remove or colorize verse numbers
+# parentheses text as rubrics
+sub handleverses {
+  map {
+    if ($nonumbers) {    # remove numbering
+      s/^(?:\d+:)?\d+[a-z]?\s*//;
+      s/\s*\(\d+[a-z]?\)//;
+    } elsif ($noinnumbers) {    # remove subverse letter & inline numbering
+      s/\d\K[a-z]//;
+      s/\(\d+[a-z]?\)//;
+    }
+
+    unless ($nonumbers) {       # put numbers as rubrics
+      s{^(?:\d+:)?\d+[a-z]?}{/:$&:/};
+      s{\(\d+[a-z]?\)}{/:$&:/};
+    }
+
+    s{(\(.*?\))}{/:$&:/};       # text in () as rubrics
+
+    s/†\s*//g if $noflexa;
+
+    s/\s\+\s/ / if $version =~ /cist/i;    # no sign-of the cross in Cistercian
+
+    $_
+  } @{$_[0]};
+}
+
 #*** psalm($chapter, $lang, $antline)  or
 # psalm($chapter, $fromverse, $toverse, $lang, $antline)
 # if second arg is 1 omit gloria

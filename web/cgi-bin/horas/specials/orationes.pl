@@ -580,7 +580,10 @@ sub getcommemoratio {
       $rank[1] =~ /Feria/
 
       #no commemoration of octava common in 2nd class unless in concurrence => to be checked
-      || ($rank[0] =~ /Infra Octav/i && $rank >= 5 && $winner =~ /Sancti/i && ($wday ne $cwinner || $version !~ /Trident/))
+      || ( $rank[0] =~ /Infra Octav/i
+        && $rank >= 5
+        && $winner =~ /Sancti/i
+        && ($wday ne $cwinner || $version !~ /Trident/))
     )
   ) {
     return;

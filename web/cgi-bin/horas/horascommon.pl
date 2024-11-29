@@ -1711,13 +1711,10 @@ sub rankname {
     && ($winner !~ /Pasc[07]/ || $dayofweek == 0 || $latname !~ /Pasc|Pent/))
   {
     my $i = $rank;
-    
     if ($version =~ /19(?:55|6)/ && $winner !~ /Pasc5-3/ && $latname =~ /feria/i) { $i = 0 }    # 'Feria';
     if ($latname =~ /Sanctæ Fami/i && $version !~ /196/) { $i = 4; }                            # Duplex majus
-    #if ($version =~ /1570/ && $rank =~ /^4/) { $i = 3; }    # Duplex as no Duplex majus yet in 1570
-    
+        #if ($version =~ /1570/ && $rank =~ /^4/) { $i = 3; }    # Duplex as no Duplex majus yet in 1570
 
-      
     $rankname = $ranktable[$i];
 
     if ($latname =~ /Vigilia Epi/i) {
@@ -1736,15 +1733,15 @@ sub rankname {
       my @sundaytable = split("\n", $t{Dominicae});
       local $_ = getweek($day, $month, $year, $dayofweek == 6 && $hora =~ /(?:Vespera|Completorium)/);
       my $i = (/Pasc[017]/ || /Pent01/)
-        ? 0                         # 'Duplex I. classis'
-        : (/Adv1|Quad[1-6]/) ? 1    # 'Semiduplex Dominica I. classis'
-        : (/Adv[2-4]|Quadp/) ? 2    # 'Semiduplex Dominica II. classis'
+        ? 0                                                             # 'Duplex I. classis'
+        : (/Adv1|Quad[1-6]/) ? 1                                        # 'Semiduplex Dominica I. classis'
+        : (/Adv[2-4]|Quadp/) ? 2                                        # 'Semiduplex Dominica II. classis'
         : (/Epi[1-6]|Pent[22-23]/ && $dayofweek && !($dayofweek == 6 && $hora =~ /(?:Vespera|Completorium)/))
-        ? 3                         # 'Semiduplex Dominica anticipata'
-        : 4;                        # 'Semiduplex Dominica minor';
+        ? 3                                                             # 'Semiduplex Dominica anticipata'
+        : 4;                                                            # 'Semiduplex Dominica minor';
       $i = 2 if $version =~ /Trident/ && $version !~ /altovado/i && /Quad[2-4]/;
       $rankname = $sundaytable[$i];
-      
+
       if ($version =~ /cist/i) {
         $rankname = $ranktable[6] if $version =~ /cist/i && /Pasc[07]i/;
         $rankname = $ranktable[5] if $version =~ /cist/i && /Pent01/;
@@ -1763,7 +1760,7 @@ sub rankname {
   } elsif ($version =~ /196/ && $month == 12 && $day > 16 && $day < 25 && $dayofweek) {
     $rankname = $ranktable[5];                         # II. classis - Week before Christmas
   } elsif ($version =~ /cist/i && $winner =~ /Pasc[07]-[1-6]/) {
-    $rankname = ($rank =~ 7) ? $ranktable[4] : $ranktable[1];          # Paschal & pentecost Octave pre 1960
+    $rankname = ($rank =~ 7) ? $ranktable[4] : $ranktable[1];    # Paschal & pentecost Octave pre 1960
   } elsif ($version !~ /196/ && $winner =~ /Pasc[07]-[1-6]/) {    # Paschal & pentecost Octave pre 1960
     $rankname = ($rank =~ 7)
       ? $ranktable[7]                                             # 'Duplex I. classis'
@@ -1773,10 +1770,10 @@ sub rankname {
     $rankname = $ranktable[3];                              # 'Duplex'
   } elsif ($version =~ /Trident/ && $latname =~ /^In Octava/i) {
     my $i = $version =~ /cist/i ? 2 : 3;
-    $rankname = $ranktable[$i];                              # 'Duplex/xij.L.' - all other Octaves pre Divino
+    $rankname = $ranktable[$i];                             # 'Duplex/xij.L.' - all other Octaves pre Divino
   } elsif ($version =~ /Trident/ && $latname =~ /infra Octavam|post Octavam Asc|Vigilia Pent/i) {
     my $i = $version =~ /cist/i ? 1 : 2;
-    $rankname = $ranktable[$i];                              # 'Semiduplex/iij.L.' - all other Octaves pre Divino
+    $rankname = $ranktable[$i];                             # 'Semiduplex/iij.L.' - all other Octaves pre Divino
   } elsif ($version =~ /Divino/ && $latname =~ /^In Octava|infra Octavam|post Octavam Asc|Vigilia Pent/i) {
     $rankname = ($rank < 2)
       ? $ranktable[1]                                                                            # 'Simplex'
