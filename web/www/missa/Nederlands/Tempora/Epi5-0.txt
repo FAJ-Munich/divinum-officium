@@ -14,8 +14,6 @@ Wij vragen U, Heer, bescherm uw gezin met een standvastige vaderliefde, opdat he
 $Per Dominum
 
 [Lectio]
-Lezing uit de Brief van de heilige Apostel Paulus aan de Colossenzen
-!Col 3:12-17
 @Tempora/Epi1-0
 
 [Graduale]
@@ -39,4 +37,3 @@ $Per Dominum
 [Postcommunio]
 Wij vragen U, almachtige God, dat wij eens het heil mogen deelachtig worden, waarvan wij in deze geheimen een onderpand ontvingen.
 $Per Dominum
-

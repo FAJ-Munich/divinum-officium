@@ -1,10 +1,10 @@
 [Rank]
 Sabbato in Vigilia Pentecostes;;I classis Semiduplex;;5;;ex Tempora/Pasc5-4
 
-[Rank](rubrica 1955)
+[Rank] (rubrica 1955)
 In Vigilia Pentecostes;;Duplex;;3;;vide Tempora/Pasc5-4
 
-[Rank](rubrica 1960)
+[Rank] (rubrica 1960)
 Sabbato in Vigilia Pentecostes;;I classis Semiduplex;;6;;vide Tempora/Pasc5-4
 
 [Rule]
@@ -17,28 +17,11 @@ Feria Te Deum
 No suffragium
 No93
 
-[Rule] (rubrica 1960)
-Feria Te Deum
-Doxology=Asc
-
-[Oratio]
-@Tempora/Pasc6-0
-
-[Lectio1]
-@:LectioJudae1
-(sed rubrica 1960)
-@:Lectio7
-
 [Responsory1] (rubrica 1960)
 R. Je prierai mon Père, et il vous donnera un autre Paraclet,
 * L’Esprit de vérité, pour qu’il demeure éternellement avec vous, alléluia.
 V. Car, si je ne m’en vais point, le Paraclet ne viendra pas à vous ; mais si je m’en vais, je vous l’enverrai.
 R. L’Esprit de vérité, pour qu’il demeure éternellement avec vous, alléluia.
-
-[Lectio2]
-@:LectioJudae2
-(sed rubrica 1960)
-@:Lectio8
 
 [Responsory2] (rubrica 1960)
 R. Si je ne m’en vais point, le Paraclet ne viendra pas à vous : mais si je m’en vais, je vous l’enverrai.
@@ -47,14 +30,6 @@ V. Car il ne parlera point de lui-même : mais tout ce qu’il aura entendu, il 
 R. Quand il sera venu, il vous enseignera toute vérité, alléluia.
 &Gloria
 R. Quand il sera venu, il vous enseignera toute vérité, alléluia.
-
-[Lectio3]
-@:LectioJudae3
-(sed rubrica 1960)
-@:Lectio9
-
-[Responsory3]
-@Tempora/Pasc5-4:Responsory3
 
 [Lectio4]
 Du Traité de saint Augustin, Évêque, du symbole aux Catéchumènes.
@@ -81,9 +56,6 @@ Notre Seigneur, en disant : « Je prierai mon Père et il vous donnera un autre 
 
 [Lectio8]
 « Le monde ne peut donc recevoir cet Esprit, parce qu’il ne le voit pas et ne le connaît point ». L’amour mondain est dépourvu de ces yeux invisibles au moyen desquels on peut voir l’Esprit-Saint, qui ne peut être vu que d’une manière invisible. « Mais vous, dit notre Seigneur, vous le connaîtrez, parce qu’il demeurera au milieu de vous et qu’il sera en vous ». Il sera en eux pour y demeurer ; il ne demeurera pas au milieu d’eux pour y être ; car le fait d’être en un lieu est antérieur à celui d’y demeurer. Mais afin que les disciples n’entendissent pas ces paroles : « Il demeurera au milieu de vous », d’un séjour visible, comme celui que fait d’ordinaire un hôte chez celui qui lui donne l’hospitalité, il a expliqué ces paroles : « Il demeurera au milieu de vous », en ajoutant : « Il sera en vous ».
-
-[Responsory8]
-@Tempora/Pasc6-0
 
 [Lectio9]
 L’Esprit-Saint se voit donc d’une manière invisible ; et s’il n’est pas en nous, nous ne pouvons en avoir la connaissance. C’est ainsi que nous voyons aussi en nous-mêmes notre propre conscience. Nous voyons bien le visage d’un autre, et nous ne pouvons voir le nôtre ; au contraire, nous voyons notre propre conscience, et nous ne voyons pas celle d’autrui. Mais notre conscience ne peut jamais exister qu’en nous-mêmes, (deinde dicitur)
@@ -114,14 +86,8 @@ Commencement de l'Epître du Bienheureux Jude Apôtre
 12 Ces individus sont une souillure pour vos repas fraternels, ils font bombance sans pudeur, ils ne se préoccupent que d’eux-mêmes : nuages sans eau emportés par le vent ; arbres de fin d’automne sans fruits, deux fois morts, déracinés ;
 13 flots sauvages de la mer, crachant l’écume de leur propre honte ; astres errants, pour lesquels est réservée à jamais l’obscurité des ténèbres.
 
-[Versum 2]
-@Tempora/Pasc6-0
-
 [Versum 2](rubrica 1960)
 @Tempora/Pasc5-4:Versum 2
-
-[Ant 2]
-@Tempora/Pasc6-0
 
 [Ant 2](rubrica 1960)
 @Tempora/Pasc5-4:Ant 2

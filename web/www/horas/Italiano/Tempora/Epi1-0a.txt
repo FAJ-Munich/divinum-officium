@@ -6,10 +6,6 @@ ex Sancti/01-06
 9 lectiones
 Initia cum responsory
 
-[Versum Commemoratio]
-V. Verranno tutti quelli di Saba, alleluia.
-R. Portando oro ed incenso, alleluia.
-
 [Ant 1]
 Il fanciullo Gesù * rimase in Gerusalemme, né i suoi genitori se n'avvidero, supponendo che egli fosse colla comitiva; e lo ricercarono tra i parenti e i conoscenti.
 

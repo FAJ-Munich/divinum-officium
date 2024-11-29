@@ -1,7 +1,7 @@
 @Sancti/10-02
 
-[Rank]
-Ss. Angelorum Custodum;;Duplex;;3
+[Rank] (rubrica 1963)
+Ss. Angelorum Custodum;;Duplex;;3;;
 
 [MM Capitulum]
 @Sancti/10-02:Capitulum Sexta
@@ -18,4 +18,4 @@ _
 @:Versum 3
 
 [Ant Vespera 3]
-@Sancti/05-08:Ant Vespera:s/\./;;109/ s/\./;;110/ s/\./;;111/ s/\./;;137/
+@Sancti/05-08:Ant Vespera:s/$/_/gm s/_/;;109/ s/_/;;110/ s/_/;;111/ s/_/;;137/ s/_//

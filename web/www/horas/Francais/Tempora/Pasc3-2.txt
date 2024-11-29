@@ -1,10 +1,6 @@
 [Rank]
 Die VII Infra Octavam S. Joseph;;Semiduplex;;2;;vide Tempora/Pasc2-3
 
-[Rule]
-vide Tempora/Pasc2-3
-9 lectiones
-
 [Lectio1]
 Apo 4:1-5
 01 Après cela, j’ai vu : et voici qu’il y avait une porte ouverte dans le ciel. Et la voix que j’avais entendue, pareille au son d’une trompette, me parlait en disant : « Monte jusqu’ici, et je te ferai voir ce qui doit ensuite advenir. »

@@ -1,15 +1,6 @@
 [Rank]
 Feria III infra Octavam Ascensionis;;Semiduplex;;2;;ex Tempora/Pasc5-4
 
-[Rank] (rubrica 1960)
-Feria III post Ascensionem;;Feria;;1;;vide Tempora/Pasc5-4
-
-[Rule]
-ex Tempora/Pasc5-4;
-9 Lectiones
-Doxology=Asc
-Feria Te Deum
-
 [Lectio1]
 Lesson from the first letter of St. John the Apostle
 !1 John 4:1-6

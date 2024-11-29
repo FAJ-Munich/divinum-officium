@@ -1,0 +1,19 @@
+[Rank] (rubrica tridentina aut rubrica divino)
+Tertia die infra Octavam Ss. Apostolorum Petri et Pauli;;Semiduplex;;2;;ex Sancti/06-29
+
+[Rule]
+ex Sancti/06-29;
+9 lectiones
+no prima vespera
+
+[Versum 1]
+@Sancti/07-03oct
+
+[Ant 1]
+@Sancti/07-03oct
+
+[Versum 2]
+@Commune/C1:Versum 1
+
+[Ant 2]
+@Sancti/07-03oct

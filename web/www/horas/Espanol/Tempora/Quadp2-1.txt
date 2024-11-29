@@ -1,9 +1,6 @@
 [Rank]
 Feria II infra Hebdomadam Sexagesimæ;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Del libro del Génesis
 !Gen 7:1-4
@@ -36,9 +33,6 @@ R. Y se atajaron las lluvias del cielo.
 13 En el plazo señalado del día dicho entró Noé, con Sem, Cam y Jafet, sus hijos, su mujer, y las tres mujeres de sus hijos con ellos, en el Arca. 
 14 Ellos y todo animal silvestre según su género, y todos los jumentos según su especie, y todo cuanto se mueve sobre la tierra según su género, y toda especie de volátil, toda casta de aves, y de todo cuanto tiene alas. 
 17 Entonces vino el diluvio por espacio de cuarenta días sobre la tierra: y crecieron las aguas, e hicieron subir el arca muy en alto sobre la tierra.
-
-[Responsory3]
-@Tempora/Quadp2-0:Responsory3
 
 [Ant 3]
 Si buscáis * el verdadero honor, corred presurosos a la patria celeste.

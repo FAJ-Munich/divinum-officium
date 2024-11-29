@@ -1,8 +1,13 @@
 [Rank]
 Dominica Resurrectionis;;Duplex I classis cum Octava Privilegiata I;;7
 
-[Ant Vespera]
-@:Ant Laudes
+[Rule]
+1 nocturn;
+Omit Hymnus Preces Suffragium Commemoratio;
+Minores sine Antiphona;
+Capitulum Versum 2;
+Psalmi Dominica
+Prima=53
 
 [Ant 1]
 Pasado el sábado, * al alborear el primer día de la semana, fueron María la Magdalena y la otra María a ver el sepulcro, aleluya.
@@ -95,9 +100,6 @@ Ant. Este es el día * en que actuó el Señor, sea nuestra alegría y nuestro g
 
 [Ant 2]
 El primer día * de la semana, al salir el sol, iban al sepulcro. Aleluya.
-
-[Prelude Laudes] (rubrica 1955 aut rubrica 1960)
-@:Prelude Matutinum
 
 [Ant 3]
 Miraron * y vieron que la piedra estaba corrida, y esto que era muy grande. Aleluya.

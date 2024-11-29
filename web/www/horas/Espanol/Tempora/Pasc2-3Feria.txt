@@ -1,11 +1,6 @@
 [Rank]
 Feria Quarta infra Hebdomadam II post Octavam Paschæ;;Feria;;1
 
-[Rule]
-Oratio Dominica
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 Del libro de los Hechos de los Apóstoles
 !Hch 20:17-24
@@ -18,9 +13,6 @@ Del libro de los Hechos de los Apóstoles
 23 sino que en todas las ciudades el Espíritu Santo me advierte, diciendo que me esperan cadenas y tribulaciones. 
 24 Pero yo no hago ninguna estima de mi vida, con tal de acabar mi carrera y el ministerio que recibí del Señor Jesús, de anunciar el evangelio de la gracia de Dios.
 
-[Responsory1]
-@Tempora/Pasc0-6:Responsory1
-
 [Lectio2]
 !Hch 20:25-31
 25 Sé que no veréis más mi rostro, vosotros todos por quienes he pasado predicando el reino de Dios; 
@@ -31,9 +23,6 @@ Del libro de los Hechos de los Apóstoles
 30 y que de entre vosotros mismos se levantarán hombres que enseñen doctrinas perversas para arrastrar a los discípulos en su seguimiento. 
 31 Velad, pues, acordándoos de que por tres años, noche y día, no cesé de exhortaros a cada uno con lágrimas.
 
-[Responsory2]
-@Tempora/Pasc0-1:Responsory2
-
 [Lectio3]
 !Hch 20:32-38
 32 Yo os encomiendo al Señor y a la palabra de su gracia; al que puede edificar y dar la herencia a todos los que han sido santificados. 
@@ -43,9 +32,6 @@ Del libro de los Hechos de los Apóstoles
 36 En diciendo esto, se puso de rodillas con todos y oró; 
 37 y se levantó un gran llanto de todos, que, echándose al cuello de Pablo, le besaban, 
 38 afligidos sobre todo por lo que les había dicho de que no volverían a ver su rostro. Y le acompañaron hasta la nave.
-
-[Responsory3]
-@Tempora/Pasc0-3:Responsory1
 
 [Ant 2]
 Id, decid * a mis hermanos, aleluya, que vayan a Galilea. Aleluya. Allí me verán. Aleluya, aleluya, aleluya.

@@ -6,9 +6,6 @@ A Makkabeusok első könyvéből
 3 Hírül vitték, mit vittek véghez Hispániában, mint tulajdonították ott el az ezüst- és aranybányákat; 
 4 hogyan vetették hatalmuk alá - okosságukkal és kitartásukkal - az egész országot [noha nagyon messzire esett tőlük]; hogy győzték le a föld határairól ellenük felvonult királyokat, mint okoztak nekik óriási vereséget, ugyanakkor a többiek mind adóztak nekik évről évre;
 
-[Responsory1]
-@Tempora/101-0:Responsory7
-
 [Lectio2]
 !1 Mac 8:17-22
 17 Júdás tehát kiválasztotta János fiát és Akkosz unokáját, Eupolemoszt, valamint Eleazár fiát, Jázont, és elküldte őket Rómába, hogy kössenek velük barátságot és szövetséget, hadd szerezzenek róla tudomást: 
@@ -18,9 +15,6 @@ A Makkabeusok első könyvéből
 21 A beszédük tetszésre talált. 
 22 A levél másolata, amelyet bronztáblára írtak és a békeszövetség és fegyverbarátság bizonyságául Jeruzsálembe küldtek, így hangzik:
 
-[Responsory2]
-@Tempora/101-1:Responsory2
-
 [Lectio3]
 !1 Mac 8:23-27
 23 „Üdv a rómaiaknak és a zsidók népének szárazon és vízen, örökké! Kard és ellenség maradjon távol tőlünk! 
@@ -28,6 +22,3 @@ A Makkabeusok első könyvéből
 25 a zsidók népe szívvel-lélekkel együtt harcol vele, amennyire a körülmények kívánják. 
 26 Az ellenségnek gabonát, fegyvert, pénzt, hajót sem nem ad, sem nem szállít. Így tartotta jónak Róma, s ők ezeket a föltételeket ellenszolgáltatás nélkül megtartják. 
 27 Ugyanakkor a rómaiak készek együttharcolni - amennyire a körülmények kívánják -, ha háború fenyegeti a zsidók népét.
-
-[Responsory3]
-@Tempora/101-1:Responsory3

@@ -1,11 +1,3 @@
-[Rank]
-Feria Sexta infra Hebdomadam IV post Octavam Paschae;;Feria;;1
-
-[Rule]
-Oratio Dominica
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 Olvasmány szent Jakab apostol leveléből
 !Jas 4:1-6

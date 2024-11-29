@@ -14,25 +14,11 @@ Feria Te Deum
 No suffragium
 No93
 
-[Rule] (rubrica 1960)
-Feria Te Deum
-Doxology=Asc
-
-[Lectio1]
-@:LectioJudae1
-(sed rubrica 1960)
-@:Lectio7
-
 [Responsory1] (rubrica 1960)
 R. Ja prosić będę Ojca i innego Pocieszyciela da wam,
 * Aby pozostał z wami na zawsze, Ducha prawdy, alleluja.
 V. Bo jeżeli nie odejdę, Pocieszyciel nie przyjdzie do was, a jeśli odejdę, poślę Go do was.
 R. Aby pozostał z wami na zawsze, Ducha prawdy, alleluja.
-
-[Lectio2]
-@:LectioJudae2
-(sed rubrica 1960)
-@:Lectio8
 
 [Responsory2] (rubrica 1960)
 R. Bo jeżeli nie odejdę, Pocieszyciel nie przyjdzie do was, a jeśli odejdę, poślę Go do was.
@@ -41,11 +27,6 @@ V. Bo nie od siebie mówić będzie, ale cokolwiek usłyszy, powie, i co ma nade
 R. Lecz gdy On przyjdzie, nauczy was wszelkiej prawdy, alleluja.
 &Gloria
 R. Lecz gdy On przyjdzie, nauczy was wszelkiej prawdy, alleluja.
-
-[Lectio3]
-@:LectioJudae3
-(sed rubrica 1960)
-@:Lectio9
 
 [Lectio7]
 Czytanie Ewangelii świętej według Jana

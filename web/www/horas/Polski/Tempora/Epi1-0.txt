@@ -3,12 +3,6 @@
 (sed rubrica 1960)
 Świętej Rodziny, Jezusa, Marji, Józefa;;Duplex II classis;;5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-No Sunday Commemoratio
-
 [Ant Vespera]
 A Jakób * zrodził Józepha, męża Maryi, z któréj się narodził Jezus, którego zowią Chrystusem.;;109
 Aniół Pański * ukazał mu się we śnie, mówiąc: Józephie, synu Dawidów, nie bój się przyjąć Maryi, małżonki twéj; albowiem co się w niéj urodziło, jest z Ducha Świętego.;;112

@@ -1,9 +1,6 @@
 [Rank]
 Feria IV infra Hebdomadam I post Epiphaniam;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 De la Epístola I a los Corintios
 !1 Cor 6:1-6
@@ -14,9 +11,6 @@ De la Epístola I a los Corintios
 5 Para vuestra confusión os hablo de este modo. ¿No hay entre vosotros ningún prudente, capaz de ser juez entre hermanos? 
 6 En vez de esto, ¿pleitea el hermano con el hermano, y esto ante los infieles?
 
-[Responsory1]
-@Tempora/Epi2-3:Responsory1
-
 [Lectio2]
 !1 Cor 6:7-11
 7 Ya es una mengua que tengáis pleitos unos con otros. ¿Por qué no preferís sufrir la injusticia?  ¿Por qué no el ser despojados? 
@@ -24,9 +18,6 @@ De la Epístola I a los Corintios
 9 ¿No sabéis que los injustos no poseerán el reino de Dios? No os engañéis: ni los fornicarios, ni los idólatras, ni los adúlteros, 
 10 ni los afeminados, ni los sodomitas, ni los ladrones, ni los avaros, ni los ebrios, ni los maldicientes, ni los rapaces poseerán el reino de Dios. 
 11 Y algunos esto erais, pero habéis sido lavados; habéis sido santificados; habéis sido justificados en el nombre del Señor Jesucristo y por el Espíritu de nuestro Dios.
-
-[Responsory2]
-@Tempora/Epi2-3:Responsory2
 
 [Lectio3]
 !1 Cor 6:12-18
@@ -37,6 +28,3 @@ De la Epístola I a los Corintios
 16 ¿No sabéis que quién se allega a una meretriz se hace un cuerpo con ella? Porque “serán dos, dice, en una carne.” 
 17 Pero el que se allega al Señor se hace un espíritu con Él. 
 18 Huid de la fornicación.
-
-[Responsory3]
-@Tempora/Epi2-3:Responsory3

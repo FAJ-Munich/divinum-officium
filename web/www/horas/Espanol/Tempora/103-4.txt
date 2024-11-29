@@ -8,9 +8,6 @@ Del Libro primero de los Macabeos.
 5 No quiera el cielo que en esta hora de tribulación rehuya el peligro por amor de la vida, que no valgo yo más que mis hermanos, 
 6 antes tomaré la defensa de la nación y del santuario, de nuestras mujeres e hijos, ahora que, llevadas del odio, se han juntado todas las naciones para aplastarnos.”
 
-[Responsory1]
-@Tempora/101-0:Responsory1
-
 [Lectio2]
 !1 Mac 13:7-13
 7 Se enardeció el pueblo al oír estas palabras, 
@@ -21,9 +18,6 @@ Del Libro primero de los Macabeos.
 12 Trifón salió de Tolemaida con un poderoso ejército para invadir la Judea, llevando consigo a Jonatán preso. 
 13 Simón acampó en Adida, frente a la llanura.
 
-[Responsory2]
-@Tempora/101-0:Responsory2
-
 [Lectio3]
 !1 Mac 13:14-19
 14 Al conocer Trifón que habían nombrado a Simón caudillo en lugar de su hermano Jonatán y que estaba pronto a trabar batalla, le envió mensajeros, 
@@ -32,6 +26,3 @@ Del Libro primero de los Macabeos.
 17 Aunque entendía Simón que hablaban con engaño, envió el dinero y los dos niños, por no concitar contra sí la enemistad del pueblo, que podría decir: 
 18 “No ha enviado el dinero y los niños, y por eso pereció Jonatán.” 
 19 Así, pues, envió los niños y los cien talentos; pero Trifón, faltando a su palabra, no puso en libertad a Jonatán.
-
-[Responsory3]
-@Tempora/101-0:Responsory3

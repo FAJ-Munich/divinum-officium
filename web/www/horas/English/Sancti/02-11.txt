@@ -1,8 +1,8 @@
 [Rank]
-In apparitione Beatae Mariae Virginis;;Duplex majus;;4;;ex C11
+The Apparition of the Blessed Virgin Mary at Lourdes;;Duplex majus;;4;;ex C11
 
 [Rank] (rubrica innovata)
-In apparitione Beatae Mariae Virginis;;Duplex optional;;2;;ex C11
+The Apparition of the Blessed Virgin Mary at Lourdes;;Duplex optional;;2;;ex C11
 
 [Ant Vespera]
 She is the brightness * of eternal light, and the unspotted mirror.;;109
@@ -66,16 +66,6 @@ Fear not, * for this law is not made for thee, but for all others.;;96
 The Lord hath blessed thee * by his power, because by thee he hath brought our enemies to nought.;;97
 V. Grace is poured abroad in thy lips. 
 R. Therefore hath God blessed thee for ever.
-
-[Lectio1]
-Lesson from the book of Proverbs
-!Prov 8:12-17
-12 I wisdom dwell in counsel, and am present in learned thoughts.
-13 The fear of the Lord hateth evil: I hate arrogance, and pride, and every wicked way, and a mouth with a double tongue.
-14 Counsel and equity is mine, prudence is mine, strength is mine.
-15 By me kings reign, and lawgivers decree just things,
-16 By me princes rule, and the mighty decree justice.
-17 I love them that love me: and they that in the morning early watch for me, shall find me.
 
 [Responsory1]
 R. Wisdom which reacheth from end to end mightily, and ordereth all things sweetly, hath built herself a house: 

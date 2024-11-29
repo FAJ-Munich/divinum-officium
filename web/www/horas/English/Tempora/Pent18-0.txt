@@ -1,12 +1,6 @@
 [Rank]
 Dominica XVIII Post Pentecosten;;Semiduplex;;5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-
 [Oratio]
 Mercifully grant, O Lord, that thine effectual goodness may in all things direct our hearts, forasmuch as without thee we are not able to please thee.
 $Per Dominum

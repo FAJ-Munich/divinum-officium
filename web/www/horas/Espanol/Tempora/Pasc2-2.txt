@@ -1,11 +1,6 @@
 [Rank]
 Feria Tertia infra Hebdomadam II post Octavam Paschæ;;Feria;;1
 
-[Rule]
-Oratio Dominica
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 Del libro de los Hechos de los Apóstoles
 !Hch 17:22-27
@@ -16,9 +11,6 @@ Del libro de los Hechos de los Apóstoles
 26 Él hizo de uno todo el linaje humano, para poblar toda la haz de la tierra; El fijó a los pueblos los tiempos establecidos y los límites de su habitación, 
 27 para que busquen a Dios y siquiera a tientas le hallen, que no está lejos de nosotros.
 
-[Responsory1]
-@Tempora/Pasc0-3:Responsory2
-
 [Lectio2]
 !Hch 17:28-33
 28 Porque en Él vivimos y nos movemos y existimos, como algunos de vuestros poetas han dicho: “porque somos linaje suyo.” 
@@ -28,9 +20,6 @@ Del libro de los Hechos de los Apóstoles
 32 Cuando oyeron lo de la resurrección de los muertos, unos se echaron a reír, otros dijeron: Te oiremos sobre esto otra vez. 
 33 Así salió Pablo de en medio de ellos.
 
-[Responsory2]
-@Tempora/Pasc0-5:Responsory1
-
 [Lectio3]
 !Hch 17, 34; 18, 1-4
 34 Algunos se adhirieron a él y creyeron, entre los cuales estaban Dionisio Areopagita y una mujer de nombre Damaris y otros más. 
@@ -38,9 +27,6 @@ Del libro de los Hechos de los Apóstoles
 2 Allí encontró a un judío llamado Aquila, originario del Ponto, recientemente llegado de Italia con Priscila, su mujer, a causa del decreto de Claudio que ordenaba salir de Roma a todos los judíos. Pablo se unió a ellos; 
 3 y como era del mismo oficio que ellos, se quedó en su casa y trabajaban juntos, pues eran ambos fabricantes de tiendas. 
 4 Los sábados disputaba en la sinagoga, persuadiendo a los judíos y a los griegos.
-
-[Responsory3]
-@Tempora/Pasc0-5:Responsory2
 
 [Ant 2]
 Id y haced discípulos * de todos los pueblos, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo.  Aleluya.  

@@ -1,11 +1,6 @@
 [Rank]
 Feria Secunda infra Hebdomadam IV post Octavam Paschae;;Feria;;1
 
-[Rule]
-Oratio Dominica
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 Szent Jakab Apostol leveléböl
 !Jas 1:17-20

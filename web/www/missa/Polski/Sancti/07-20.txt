@@ -1,20 +1,9 @@
 [Rank]
 S. Hieronymi Emiliani Conf;;Duplex;;3;;vide C5
 
-[Rank] (rubrica innovata)
-S. Hieronymi Emiliani Conf;;Duplex optional;;2;;vide C5
-
 [Rule]
 vide C5
 Gloria
-
-[Introitus]
-!Lam 2:11
-v. Wypłynęła na ziemię wątroba moja z powodu zagłady córki ludu mego, gdy ustawało dziecię i niemowlę na ulicach miasta.
-!Ps 112:1
-Chwalcie, o dzieci, Pana, chwalcie imię Pańskie.
-&Gloria
-v. Wypłynęła na ziemię wątroba moja z powodu zagłady córki ludu mego, gdy ustawało dziecię i niemowlę na ulicach miasta.
 
 [Comment]
 # 20 VII – Św. Hieronima Emiliani, Wyznawcy
@@ -28,6 +17,14 @@ v. Wypłynęła na ziemię wątroba moja z powodu zagłady córki ludu mego, gdy
 Św. Małgorzata poniosła męczeństwo w Antiochii Pizydyjskiej z końcem III wieku. Jej kult przeszczepili na Zachód krzyżowcy.
 
 Msza wspólna nr 25 Me exspectaverunt
+
+[Introitus]
+!Lam 2:11
+v. Wypłynęła na ziemię wątroba moja z powodu zagłady córki ludu mego, gdy ustawało dziecię i niemowlę na ulicach miasta.
+!Ps 112:1
+Chwalcie, o dzieci, Pana, chwalcie imię Pańskie.
+&Gloria
+v. Wypłynęła na ziemię wątroba moja z powodu zagłady córki ludu mego, gdy ustawało dziecię i niemowlę na ulicach miasta.
 
 [Oratio]
 Boże, Ojcze miłosierdzia, przez zasługi i przyczynę św. Hieronima, któregoś raczył dać sierotom za opiekuna i ojca, dozwól nam wiernie strzec ducha synostwa, mocą którego nazywamy się i jesteśmy Twoimi dziećmi.

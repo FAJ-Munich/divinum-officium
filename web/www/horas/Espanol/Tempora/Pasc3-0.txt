@@ -1,14 +1,6 @@
 [Rank]
 Dominica III Post Pascha;;Semiduplex;;5;;
 
-[Rule]
-9 Lectiones
-Duplex
-Una Antiphona
-
-[Versum 1]
-@Psalterium/Special/Major Special:Pasch Versum 3
-
 [Ant 1]
 Dentro de un poco, * ya no me veréis, y dentro de otro poco, me veréis, porque voy al Padre. Aleluya, aleluya.
 
@@ -135,9 +127,6 @@ Este poco nos parece largo, por lo mismo que aún se está realizando. Cuando es
 v. Queridos hermanos: Os ruego que, como forasteros en país extraño, os apartéis de los deseos carnales, que están en guerra con el alma.
 $Deo gratias
 
-[Versum 2]
-@Psalterium/Special/Major Special:Pasch Versum 2
-
 [Ant 2]
 @:Ant 1
 
@@ -150,9 +139,6 @@ $Deo gratias
 !1 Pe 2:18-19
 v. Los criados, que acepten la autoridad de los amos con el debido respeto, no sólo cuando son buenos y razonables, si no también cuando son difíciles. Pues esto es gracia: en Cristo Jesús, Señor nuestro.
 $Deo gratias
-
-[Versum 3]
-@Psalterium/Special/Major Special:Pasch Versum 3
 
 [Ant 3]
 Yo os aseguro: * Lloraréis y os lamentaréis vosotros, mientras el mundo está alegre. Vosotros estaréis tristes, pero vuestra tristeza se convertirá en alegría. Aleluya.

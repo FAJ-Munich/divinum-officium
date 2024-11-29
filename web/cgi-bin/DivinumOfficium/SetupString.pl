@@ -14,12 +14,13 @@ our $version, $datafolder;
 our %setupstring_caches_by_version;
 
 # Pseudo constants to be used in vero() sub
+# Commone Summorum Pont. introduced in 1942 only (=> not for Monastic 1930)
 my %subjects = (
   rubricis => sub {$version},
   rubrica => sub {$version},
   tempore => \&get_tempus_id,
   missa => sub { our $missanumber },
-  communi => sub { {summpont => ($version =~ /1960/ || $version =~ /1955/ || $version =~ /Divino/)} },
+  communi => sub { {summpont => ($version =~ /1960/ || $version =~ /1955/ || $version =~ /^Divino/)} },
   'die' => \&get_dayname_for_condition,
   feria => sub { our $dayofweek + 1 },
   tonus => sub {$chantTone},
@@ -166,8 +167,9 @@ sub get_tempus_id {
       : 'Nativitatis'
     : /^Epi/ ? ($month == 1 && $day <= 13)
       ? 'Epiphaniæ'
-      : ($month == 1 || $day == 1 || ($day == 2 && !$vesp_or_comp)) ? 'post Epiphaniam post partum'
-      : 'post Epiphaniam'
+      : ($month == 1 || ($month == 2 && ($day == 1 || $day == 2 && !$vesp_or_comp))) ? 'post Epiphaniam post partum'
+      : ($month == 2) ? 'post Epiphaniam'
+      : 'post Pentecosten'
     : /^Quadp(\d)/ && ($1 < 3 || $dayofweek < 3) ? ($month == 1 || $day == 1 || ($day == 2 && !$vesp_or_comp))
       ? 'Septuagesimæ post partum'
       : 'Septuagesimæ'
@@ -207,6 +209,7 @@ sub get_dayname_for_condition {
       $month == 11
       && ($day == 2 || ($day == 3 && $dayofweek == 1) || ($day == 1 && day_of_week(11, 1, $year) != 6 && $vesp_or_comp))
     );
+  return 'Nicolai' if $month == 12 && $day == 6;
   return '';
 }
 
@@ -260,6 +263,7 @@ AUTEM: for (split /\baut\b/, $condition) {
 # their contents. $basedir and $lang are used for inclusions only.
 sub setupstring_parse_file($$$) {
   my ($fullpath, $basedir, $lang) = @_;
+
   my @filelines = do_read($fullpath) or return '';
 
   # Regex for matching section headers.
@@ -494,6 +498,10 @@ sub setupstring($$%) {
     $basedir =~ s/horas/missa/g;         # to infinite cycles github #525
   }
 
+  if ($fname =~ /Comment.txt$/) {
+    $basedir =~ s/missa/horas/g;         # missa uses comments from horas dir
+  }
+
   checklatinfile(\$fname);    # modifies $fname if fallback to Roman folder from Monastic or OP is used in Latin
 
   my $fullpath = "$basedir/$lang/$fname";
@@ -682,9 +690,13 @@ sub officestring($$;$) {
   my $m = 0;
   my $w = 0;
   if ($monthday =~ /([0-9][0-9])([0-9])\-[0-9]/) { $m = $1; $w = $2; }
-  my @months = ('Augusti', 'Septembris', 'Octobris', 'Novembris', 'Decembris');
   my @weeks = ('I.', 'II.', 'III.', 'IV.', 'V.');
-  if ($m) { $m = $months[$m - 8]; }
+
+  if ($m) {
+    my %m = %{setupstring($lang, 'Psalterium/Comment.txt')};
+    my @months = split("\n", $m{Menses});
+    $m = $months[$m - 8];
+  }
   if ($w) { $w = $weeks[$w - 1]; }
   $rank[0] .= " $w $m";
   $s{Rank} = join(';;', @rank);

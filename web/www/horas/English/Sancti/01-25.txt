@@ -1,8 +1,8 @@
 [Rank]
-In Conversione S. Pauli Apostoli;;Duplex majus;;4;;ex Sancti/06-30
+Conversion of St. Paul the Apostle;;Duplex majus;;4;;ex Sancti/06-30
 
 [Rank] (rubrica innovata)
-In Conversione S. Pauli Apostoli;;Duplex Fest;;5;;ex Sancti/06-30
+Conversion of St. Paul the Apostle;;Duplex Fest;;5;;ex Sancti/06-30
 
 [Ant 1]
 Ananias, go thy way * and seek Saul for, behold, he prayeth for he is a chosen vessel unto Me, to bear My name before the Gentiles, and kings, and the children of Israel.
@@ -52,9 +52,6 @@ What then? Is Benjamin a wolf that shall ravin for ever? God forbid. In the morn
 
 [Lectio6]
 He went breathing out threatenings and slaughter, yea, truly, devouring the prey. When also they stoned Stephen, the first Martyr that laid down his life for Christ's name's sake, Saul was consenting unto his death, and, as though it contented him not to stone him, he kept the clothes of all them that did it, urging them on more than if he had joined them. So in the morning he devoured the prey. How in the evening did he divide the spoil? Struck down by the voice of Christ from heaven, ravining no more, he falleth upon his face, cast down to be raised up, smitten to be healed.
-
-[Ant Laudes]
-@:Ant Vespera 3:s/;;.*//g
 
 [Capitulum Laudes]
 !Acts 9:1-2

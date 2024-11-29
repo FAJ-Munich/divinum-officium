@@ -1,12 +1,6 @@
 [Rank]
 Dominica XXII Post Pentecosten;;Semiduplex;;5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-
 [Oratio]
 O Dio, nostro rifugio e fortezza: tu che sei l'autore stesso della pietà, ascolta le pie preghiere della tua Chiesa; e concedi, che quanto domandiamo con fede, l'otteniamo efficacemente. 
 $Per Dominum
@@ -27,15 +21,8 @@ Egli conoscendo i più segreti pensieri del cuore (poiché non c'è niente di na
 Poiché se non ci rimane nulla che sia di Cesare, noi non siamo più tenuti a questo dovere di rendergli il suo. Ma se siamo attaccati ai beni che dipendono da Cesare, se noi ricorriamo al suo potere e ci sottomettiamo a lui come dei mercenari che amministrano il patrimonio altrui; noi non possiamo lagnarci come di un'ingiustizia dell'obbligo di rendere a Cesare ciò che è di Cesare, ma si deve anche rendere a Dio ciò che gli è proprio, consacrandogli il nostro corpo, la nostra anima e volontà. Poiché da lui abbiamo queste cose, da lui provengono e lui le conserva : è giusto dunque, che noi le facciamo servire interamente al servizio di colui, da cui riconosciamo ch'esse devono la loro origine e il loro progresso.
 &teDeum
 
-[Versum 2]
-V. Il Signore regna, s'è rivestito di maestà.
-R. Il Signore s'è rivestito di forza, e s'è cinto di potenza.
-
 [Ant 2]
 Maestro, * noi sappiamo che sei sincero e che insegni la via di Dio con franchezza, alleluia.
-
-[Versum 3]
-@Tempora/Pent21-0:Versum 3
 
 [Ant 3]
 Rendete dunque * a Cesare quel ch'è di Cesare, e a Dio quel che è di Dio, alleluia.

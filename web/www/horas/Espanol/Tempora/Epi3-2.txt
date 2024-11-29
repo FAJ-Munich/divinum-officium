@@ -1,9 +1,6 @@
 [Rank]
 Feria III infra Hebdomadam III post Epiphaniam;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 De la Epístola a los Gálatas
 !Gal 5:1-5
@@ -13,9 +10,6 @@ De la Epístola a los Gálatas
 4 Os desligáis de Cristo los que buscáis la justicia en la Ley; os separáis de la gracia. 
 5 Mientras que nosotros con seguridad esperamos de la fe, por el Espíritu, los bienes de la justicia.
 
-[Responsory1]
-@Tempora/Epi2-2:Responsory1
-
 [Lectio2]
 !Gal 5:6-10
 6 Pues en Cristo Jesús ni vale la circuncisión ni vale el prepucio, sino la fe que actúa por la caridad. 
@@ -23,9 +17,6 @@ De la Epístola a los Gálatas
 8 Esa sugestión no procede de quien os llamó. 
 9 Un poco de levadura hace fermentar toda la masa. 
 10 Yo confío de vosotros en el Señor que no sentiréis de otro modo. El que os perturba llevará su castigo, quienquiera que sea.
-
-[Responsory2]
-@Tempora/Epi2-2:Responsory2
 
 [Lectio3]
 !Gal 5:11-17
@@ -36,6 +27,3 @@ De la Epístola a los Gálatas
 15 Pero si mutuamente os mordéis y os devoráis, mirad que acabaréis por consumiros unos a otros. 
 16 Os digo, pues: Andad en espíritu y no deis satisfacción a la concupiscencia de la carne. 
 17 Porque la carne tiene tendencias contrarias a las del espíritu, y el espíritu tendencias contrarias a las de la carne, pues uno y otro se oponen de manera que no hagáis lo que queréis.
-
-[Responsory3]
-@Tempora/Epi2-2:Responsory3

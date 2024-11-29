@@ -1,9 +1,6 @@
 [Rank]
 Feria V infra Hebdomadam I post Epiphaniam;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 De la Epístola I a los Corintios
 !1 Cor 7:1-4
@@ -11,9 +8,6 @@ De la Epístola I a los Corintios
 2 mas por evitar la fornicación, tenga cada uno su mujer, y cada una tenga su marido. 
 3 El marido pague a la mujer, e igualmente la mujer al marido. 
 4 La mujer no es dueña de su propio cuerpo, es el marido; e igualmente el marido no es dueño de su propio cuerpo, es la mujer.
-
-[Responsory1]
-@Tempora/Epi2-4:Responsory1
 
 [Lectio2]
 !1 Cor 7:5-9
@@ -23,9 +17,6 @@ De la Epístola I a los Corintios
 8 Sin embargo, a los no casados y a las viudas les digo que les es mejor permanecer como yo. 
 9 Pero si no pueden guardar continencia, cásense, que mejor es casarse que abrasarse.
 
-[Responsory2]
-@Tempora/Epi2-4:Responsory2
-
 [Lectio3]
 !1 Cor 7:10-14
 10 Cuanto a los casados, precepto es, no mío, sino del Señor, que la mujer no se separe del marido, 
@@ -33,6 +24,3 @@ De la Epístola I a los Corintios
 12 A los demás les digo yo, no el Señor, que si algún hermano tiene mujer infiel y ésta consiente en cohabitar con él, no la despida. 
 13 Y si una mujer tiene marido infiel y éste consiente en cohabitar con ella, no lo abandone. 
 14 Pues se santifica el marido infiel por la mujer, y se santifica la mujer infiel por el hermano. De otro modo vuestros hijos serían impuros, y ahora son santos.
-
-[Responsory3]
-@Tempora/Epi2-4:Responsory3

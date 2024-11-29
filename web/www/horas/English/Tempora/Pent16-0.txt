@@ -1,12 +1,6 @@
 [Rank]
 Dominica XVI Post Pentecosten;;Semiduplex;;5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-
 [Oratio]
 Lord, we pray thee, that thy grace may always prevent and follow us, and make us continually to be given to all good works.
 $Per Dominum

@@ -1,8 +1,3 @@
-[Lectio1]
-@Tempora/105-0
-(sed rubrica tridentina)
-@Tempora/105-1:Lectio1Tridentina
-
 [Lectio1Tridentina]
 A Makkabeusok második könyvéből
 !2 Mac  7:7-12
@@ -12,14 +7,6 @@ A Makkabeusok második könyvéből
 10 Utána a harmadikat kínozták meg. Amikor a nyelvét követelték, készségesen kinyújtotta, és a kezét is bátran odatartotta. 
 11 Hősiesen mondta: „Az ég adta, de törvényeiért kevésbe veszem. Remélem, újra visszakapom tőle.” 
 12 Még a király környezete is elámult az ifjú bátorságán, aki a kínokat ennyire semmibe vette.
-
-[Responsory1]
-@Tempora/101-1:Responsory1
-
-[Lectio2]
-@Tempora/105-0
-(sed rubrica tridentina)
-@Tempora/105-1:Lectio2Tridentina
 
 [Lectio2Tridentina]
 !2 Mac 7:13-19
@@ -31,20 +18,9 @@ A Makkabeusok második könyvéből
 18 Utána a hatodikat vezették elő. Amikor közeledett a halála, azt mondta: „Ne ámítsd magad hiú módon! Mert magunk miatt szenvedtünk, hisz vétkeztünk a mi Istenünk ellen. Amiatt ér minket ennyi szörnyűség. 
 19 De ne hidd, hogy büntetlen maradsz, hisz arra vetemedtél, hogy az Isten ellen tusakodj.”
 
-[Responsory2]
-@Tempora/101-1:Responsory2
-
-[Lectio3]
-@Tempora/105-0
-(sed rubrica tridentina)
-@Tempora/105-1:Lectio3Tridentina
-
 [Lectio3Tridentina]
 !2 Mac 7:20-23
 20 Csodálnivaló, és örök emlékezetre méltó az anya, aki végignézte, mint halt meg mind a hét fia egyetlen napon. Erős lélekkel viselte, bízva az Úrban. 
 21 Mindegyiküket buzdította, atyáik nyelvén, nemes érzelmekkel eltelve. Asszonyi érveit férfiúi bátorsággal toldotta meg. Ezt mondta nekik: 
 22 „Nem tudom, hogyan öltöttetek testet méhemben. Nem én ajándékoztam nektek a lelket és az életet, nem én fűztem össze elemeiteket csodálatos módon, 
 23 hanem a mindenség Teremtője, aki az emberiséget alkotta és létet adott mindennek. Ha most törvényeiért semmibe veszitek, irgalmában visszaadja nektek a lelket és az életet.”
-
-[Responsory3]
-@Tempora/101-1:Responsory3

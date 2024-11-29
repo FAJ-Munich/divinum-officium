@@ -9,7 +9,7 @@ vide C4a;
 @Commune/C2c
 
 [Oratio]
-God, Gij ziet, dat wij uit eigen kracht geen stand kunnen houden; geef genadig, dat de bescherming van uw heilige bischop en belijder Martinus ons tegen alle onheil beschermt.
+God, Gij ziet, dat wij uit eigen kracht geen stand kunnen houden; geef genadig, dat de bescherming van uw heilige bisschop en belijder Martinus ons tegen alle onheil beschermt.
 $Per Dominum
 
 [Lectio]
@@ -46,16 +46,3 @@ $Per Dominum
 [Postcommunio]
 Wij vragen U, Heer, onze God, doe de Sacramenten ons tot heil strekken door de voorspraak van hen, op wier feest wij ze U wijden.
 $Per Dominum
-
-[Commemoratio Oratio]
-!Pro S. Menna Martyre
-@Commune/C2:Oratio:s/N\./Menna/
-
-[Commemoratio Secreta]
-!Pro S. Menna Martyre
-@Commune/C2:Secreta
-
-[Commemoratio Postcommunio]
-!Pro S. Menna Martyre
-@Commune/C2:Postcommunio
-

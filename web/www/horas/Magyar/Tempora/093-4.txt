@@ -6,9 +6,6 @@ Tóbias könyvéből
 3 Magam nem sajnálnám neki adni annak a felét, amit hoztam. Jó egészségben és baj nélkül visszahozott, meggyógyította feleségemet, elhozta nekem a pénzt, és téged is meggyógyított. Mivel hálálhatjuk ezt meg neki?” 
 4 Tobit így szólt: „Valóban őt illeti a fele annak, amit hoztál.”
 
-[Responsory1]
-@Tempora/093-0:Responsory1
-
 [Lectio2]
 !Tob 12:5-10
 5 Akkor Tóbiás hívatta útitársát, és így szólt hozzá: „Fogadd el a felét annak, amit hoztál, azért, amit tettél, aztán menj békével!” 
@@ -17,9 +14,6 @@ Tóbias könyvéből
 8 Többet ér a böjt imádsággal meg az alamizsna igazságossággal párosulva, mint a nagy vagyon, ha jogtalansággal jár együtt. Jobb alamizsnát adni, mint aranyat gyűjteni. 
 9 Mert az alamizsna megment a haláltól, és megtisztít minden bűntől. Akik jótékonykodnak, azok sokáig élnek. 
 10 De akik vétkeznek és rosszat tesznek, azok ellenségei saját életüknek.
-
-[Responsory2]
-@Tempora/093-0:Responsory2
 
 [Lectio3]
 !Tob 12:11-17
@@ -30,6 +24,3 @@ Tóbias könyvéből
 15 Ráfael vagyok, egy a hét angyal közül, aki mindig készen áll arra, hogy az Úr fölséges színe elé lépjen.” 
 16 Erre mindkettőjüket félelem fogta el, és arcra borultak, mert nagyon féltek. 
 17 (Az angyal) azonban így szólt hozzájuk: „Ne féljetek! Békesség nektek! Magasztaljátok Istent, örökké.
-
-[Responsory3]
-@Tempora/093-0:Responsory3

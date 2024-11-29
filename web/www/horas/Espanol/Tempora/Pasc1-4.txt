@@ -1,11 +1,6 @@
 [Rank]
 Feria Quinta infra Hebdomadam I post Octavam Paschæ;;Feria;;1
 
-[Rule]
-Oratio Dominica
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 De los Hechos de los Apóstoles
 !Hch 5:1-6
@@ -16,9 +11,6 @@ De los Hechos de los Apóstoles
 5 Al oír Ananías estas palabras, cayó y expiró. Se apoderó de cuantos lo supieron un temor grande. 
 6 Luego se levantaron los jóvenes y envolviéndole le llevaron y le dieron sepultura.
 
-[Responsory1]
-@Tempora/Pasc0-2:Responsory1
-
 [Lectio2]
 !Hch 5:7-11
 7 Pasadas como tres horas entró la mujer, ignorante de lo sucedido, 
@@ -27,9 +19,6 @@ De los Hechos de los Apóstoles
 10 Cayó al instante a sus pies y expiró. Entrando los jóvenes, la hallaron muerta y la sacaron, dándole sepultura con su marido. 
 11 Gran temor se apoderó de toda la iglesia y de cuantos oían tales cosas.
 
-[Responsory2]
-@Tempora/Pasc0-2:Responsory2
-
 [Lectio3]
 !Hch 5:12-16
 12 Eran muchos los milagros y prodigios que se realizaban en el pueblo por mano de los apóstoles. Estando todos reunidos en el pórtico de Salomón, 
@@ -37,9 +26,6 @@ De los Hechos de los Apóstoles
 14 Crecían más y más los creyentes, en gran muchedumbre de hombres y mujeres, 
 15 hasta el punto de sacar a las calles los enfermos y ponerlos en los lechos y camillas, para que, llegando Pedro, siquiera su sombra los cubriese; 
 16 y la muchedumbre concurría de las ciudades vecinas a Jerusalén, trayendo enfermos y atormentados por los espíritus impuros, y todos eran curados.
-
-[Responsory3]
-@Tempora/Pasc0-3:Responsory1
 
 [Ant 2]
 Mi corazón arde * en deseos de ver a mi Señor. Busco y no encuentro dónde lo pusieron. Aleluya, aleluya.
