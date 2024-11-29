@@ -9,9 +9,6 @@ Jób könyvéből
 6 Mibe eresztették sarokpilléreit, és a szegletkövét ki illesztette be, 
 7 amikor ujjongtak a hajnalcsillagok, s amikor lelkendeztek az Isten fiai?
 
-[Responsory1]
-@Tempora/091-0:Responsory1
-
 [Lectio2]
 !Job 38:8-13
 8 Ki zárta el kettős kapuval a tengert, amikor felszökellt az anyaölből, 
@@ -20,9 +17,6 @@ Jób könyvéből
 11 Mondtam neki: „Eddig jöhetsz, de tovább nem! Ezen a helyen törjön meg hullámaid gőgje!” 
 12 Adtál életedben parancsot reggelnek? Jelölted már ki hajnalpírnak helyét, 
 13 hogy zárja le szegélyként a földnek szélét, s a gonosztevőket kergesse el róla?
-
-[Responsory2]
-@Tempora/091-0:Responsory2
 
 [Lectio3]
 !Job 38:14-20
@@ -33,6 +27,3 @@ Jób könyvéből
 18 Fel tudod fogni a föld egész terjedelmét, valld csak meg őszintén, érted-e teljesen? 
 19 Melyik út visz oda, ahol a fény lakik, és a sötétségnek hol a lakóhelye, 
 20 hogy elkísérhetnéd őket otthonukba, s hazavezethetnéd őket a házukba?
-
-[Responsory3]
-@Tempora/091-0:Responsory3

@@ -7,9 +7,6 @@ Jób könyvéből
 4 ajkam álnokságot addig biztos nem szól, sem a nyelvem nem mond hazugságot. 
 5 Távol legyen tőlem, hogy nektek helyeseljek, ártatlanságomat nem adom fel holtig.
 
-[Responsory1]
-@Tempora/091-1:Responsory1
-
 [Lectio2]
 !Job 27:6-10
 6 Igazamhoz ragaszkodom, nem mondok le róla. Egyetlen napomért sem szégyenkezik szívem. 
@@ -18,9 +15,6 @@ Jób könyvéből
 9 Talán meghallgatja kiáltását Isten, amikor majd balsors szakad a nyakába? 
 10 Örömét leli-e a Mindenhatóban, és mindig segítségül hívhatja az Istent?
 
-[Responsory2]
-@Tempora/091-1:Responsory2
-
 [Lectio3]
 !Job 27:11-15
 11 Elétek tárom az Isten tetteit, a Mindenható terveit nem tartom titokban, 
@@ -28,6 +22,3 @@ Jób könyvéből
 13 Ezt a sorsot szánta Isten a gonosznak, ezt adta örökségül a Mindenható a zsarnoknak. 
 14 Ha sok is a fia, kard várja őket, és nem lakhatik jól kenyérrel a sarjuk. 
 15 Maradékaikat pestis viszi sírba, és az özvegyeik nem tartanak gyászt.
-
-[Responsory3]
-@Tempora/091-0:Responsory3

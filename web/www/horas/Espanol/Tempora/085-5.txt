@@ -7,9 +7,6 @@ Del Libro del Eclesiástico.
 4 Toda iniquidad es como espada de dos filos; no hay medicina para su llaga. 
 5 La violencia y la soberbia aniquilan la hacienda, y así será asolada la casa del orgulloso.
 
-[Responsory1]
-@Tempora/081-0:Responsory4
-
 [Lectio2]
 !Sir 21:6-10
 6 La queja del pobre va de su boca al oído de Dios, y el juicio viene prestamente contra el opresor. 
@@ -17,9 +14,6 @@ Del Libro del Eclesiástico.
 8 Desde lejos se conoce al lenguaraz en el hablar; el discreto encubre las faltas. 
 9 El que levanta su casa con los bienes ajenos, es como el que amontona piedras para su sepultura. 
 10 Montón de estopa es banda de impíos; la llama del fuego será su fin.
-
-[Responsory2]
-@Tempora/081-0:Responsory5
 
 [Lectio3]
 !Sir 21:11-16
@@ -29,6 +23,3 @@ Del Libro del Eclesiástico.
 14 No es educado el que no es prudente; 
 15 pero hay una prudencia que acarrea mucha amargura. 
 16 La ciencia del sabio crece como una inundación, y su consejo es como una fuente de vida.
-
-[Responsory3]
-@Tempora/081-0:Responsory6

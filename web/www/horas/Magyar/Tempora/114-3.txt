@@ -5,18 +5,12 @@ Joel Próféta könyvéből
 2 összegyűjtöm majd a népeket, leviszem őket a Jozafát völgyébe, és ítéletet tartok ott fölöttük népem és örökségem, Izrael miatt; amiért szétszórták a népek közé, s megosztották országomat. 
 3 Sorsot vetettek népem fölött; céda nőért gyermeket adnak cserébe, lányt adnak borért, hogy ihassanak.”
 
-[Responsory1]
-@Tempora/111-3:Responsory1
-
 [Lectio2]
 !Joel 4:4-7
 4 „Mit akartok tőlem, Tirusz és Szidon? És ti, filiszteusok tartományai? Ti akartok talán bosszút állni rajtam? Ha bosszút álltok rajtam, bosszútokat csakhamar visszafordítom fejetekre. 
 5 Ti, akik elvettétek ezüstömet, aranyomat, s drága kincseimet templomaitokba vittétek! 
 6 Ti, akik Júda fiait és Jeruzsálem fiait eladtátok Jáván fiainak, hogy távol kerüljenek hazájuktól! 
 7 Lám, visszahívom őket arról a helyről, ahová eladtátok őket, és gonoszságotokat visszafordítom fejetekre.
-
-[Responsory2]
-@Tempora/111-1:Responsory2
 
 [Lectio3]
 !Joel 4:8-12
@@ -25,6 +19,3 @@ Joel Próféta könyvéből
 10 Öntsetek kardot az ekevasból, lándzsát a sarlóból! Mondja az erőtlen is: „Hős vagyok!” 
 11 Siessetek, gyertek, minden népek körös-körül, és gyűljetek ott egybe! [Vezesd elő, Uram, a hőseidet!] 
 12 „Keljenek fel, vonuljanak fel a népek Jozafát völgyébe, mert ott ülök ítéletet körös-körül minden nép felett.
-
-[Responsory3]
-@Tempora/111-1:Responsory3

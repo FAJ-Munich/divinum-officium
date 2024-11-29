@@ -1,11 +1,6 @@
 [Rank]
 Feria Quarta infra Hebdomadam I post Octavam Paschae;;Feria;;1
 
-[Rule]
-Oratio Dominica
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 From the Acts of Apostles.
 !Acts 3:1-6
@@ -16,9 +11,6 @@ From the Acts of Apostles.
 5 Erre rájuk emelte tekintetét, abban a reményben, hogy kap tőlük valamit.
 6 Péter azonban ezt mondta neki: „Aranyom, ezüstöm nincs, de amim van, neked adom: A názáreti Jézus Krisztus nevében (állj fel és) járj!”
 
-[Responsory1]
-@Tempora/Pasc0-6:Responsory1
-
 [Lectio2]
 !Acts 3:7-11
 7 Jobb kezénél fogva fölsegítette, mire annak nyomban erő szállt a lábába és a bokájába.
@@ -27,9 +19,6 @@ From the Acts of Apostles.
 10 Amikor ráismertek, hogy ő szokott ott ülni a templom Ékes-kapujánál alamizsnát koldulva, nem tudták, hová legyenek azon való csodálkozásukban, ami vele történt.
 11 Mivel nem tágított Péter és János mellől, odagyűlt köréjük csodálkozva az egész nép az úgynevezett Salamon-csarnokba.
 
-[Responsory2]
-@Tempora/Pasc0-1:Responsory2
-
 [Lectio3]
 !Acts 3:12-16
 12 Amikor Péter ezt látta, beszédet intézett a néphez: „Izraelita férfiak! Miért csodálkoztok ezen, miért bámultok úgy ránk, mintha a saját erőnkből vagy jámborságunk folytán értük volna el, hogy ez járni tudjon?
@@ -37,6 +26,3 @@ From the Acts of Apostles.
 14 Megtagadtátok a szentet és igazat; arra kértétek, hogy a gyilkosnak kegyelmezzen,
 15 az élet szerzőjét pedig megöltétek. Isten azonban feltámasztotta a halálból, ennek mi tanúi vagyunk.
 16 Mert hittel segítségül hívtuk a nevét, erőt öntött ebbe az emberbe, akit itt láttok és akit ismertek. A tőle való hit visszaadta neki épségét mindannyiótok szeme láttára.
-
-[Responsory3]
-@Tempora/Pasc0-3:Responsory1

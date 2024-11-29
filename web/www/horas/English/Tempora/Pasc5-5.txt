@@ -4,12 +4,6 @@ Feria VI infra Octavam Ascensionis;;Semiduplex;;2;;ex Tempora/Pasc5-4
 [Rank] (rubrica 1960)
 Feria VI post Ascension;;Feria;;1;;vide Tempora/Pasc5-4
 
-[Rule]
-ex Tempora/Pasc5-4;
-9 Lectiones
-Doxology=Asc
-Feria Te Deum
-
 [Lectio1]
 Lesson from the second letter of St. Peter the Apostle
 !2 Pet 1:1-4

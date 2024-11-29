@@ -1,9 +1,6 @@
 [Rank]
 Dominica II post Epiphaniam;;Semiduplex;;5
 
-[Rule]
-9 lectiones
-
 [Ant 1]
 God hath received * Israel his servant, as he spoke to our fathers, to Abraham and to his seed for ever.
 

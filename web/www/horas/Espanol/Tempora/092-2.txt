@@ -7,9 +7,6 @@ Del libro de Job
 15 No se cambia por oro macizo, ni se pesa plata para comprarla. 
 16 No se pone en balanza con el oro de Ofir, ni con la cornalina preciosa o el zafiro.
 
-[Responsory1]
-@Tempora/091-0:Responsory4
-
 [Lectio2]
 !Job 28:17-22
 17 No se compara al oro ni al cristal, ni se cambia por vasos de oro fino. 
@@ -19,9 +16,6 @@ Del libro de Job
 21 Se oculta a los ojos de todos los vivientes, y aun a las aves del cielo está vedada. 
 22 El “abaddón” y la muerte dicen: Sólo de oídas nos ha llegado su fama.
 
-[Responsory2]
-@Tempora/091-0:Responsory5
-
 [Lectio3]
 !Job 28:23-28
 23 Dios es el que conoce sus caminos, Él sabe su morada. 
@@ -30,6 +24,3 @@ Del libro de Job
 26 cuando dio la ley a la lluvia y camino al fragor del trueno, 
 27 entonces la vio y la evaluó, la fundó y la conoció a fondo; 
 28 y dijo al hombre: “El temor de Dios, ésa es la sabiduría; apartarse del mal, ésa es la inteligencia.”
-
-[Responsory3]
-@Tempora/091-0:Responsory6

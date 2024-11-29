@@ -7,9 +7,6 @@ A Makkabeusok első könyvéből
 4 Baján fiainak gonoszságára is visszaemlékezett, akik tőr és csapda voltak a népnek, mert leselkedtek rá az utakon. 
 5 Bástyáikba zárkóztak előle. Ám ő ostrom alá fogta őket, betöltötte rajtuk az átkot, fölégette bástyáikat az őrséggel együtt.
 
-[Responsory1]
-@Tempora/101-2:Responsory1
-
 [Lectio2]
 !1 Mac 5:6-9
 6 Aztán Ammon fiai ellen fordult. Erős hadsereggel és nagy sokasággal találta magát szemközt, Timóteus volt a vezér. 
@@ -17,15 +14,9 @@ A Makkabeusok első könyvéből
 8 Jázert és leányvárosait is térdre kényszerítette, aztán visszatért Júdeába. 
 9 A gileádi pogányok is fölkeltek Izrael fiai ellen, noha az ő területükön éltek, hogy kiirtsák őket. Datema erődjébe menekültek előlük,
 
-[Responsory2]
-@Tempora/101-2:Responsory2
-
 [Lectio3]
 !1 Mac 5:10-13
 10 s levelet küldtek Júdásnak és testvéreinek, ezzel a hírrel: „Környékünkön a pogányok szövetkeztek, hogy megsemmisítsenek bennünket. 
 11 Készen állnak az erőd megtámadására, ahova menekültünk; Timóteus a seregük parancsnoka. 
 12 Ezért gyere, és szabadíts ki bennünket a hatalmából! Mert a mieink közül már sokan elestek. 
 13 Azokat a testvéreinket, akik a tubiaiak közt éltek, már mind megölték. Asszonyaikat, gyermekeiket és vagyonukat elhurcolták. Mintegy ezer embert lemészároltak.”
-
-[Responsory3]
-@Tempora/101-2:Responsory3

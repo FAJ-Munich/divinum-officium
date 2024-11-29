@@ -16,12 +16,6 @@ Capitulum Versum 2 ad Laudes tantum
 Minores sine Antiphona
 Feria
 
-[Ant Vespera]
-@Tempora/Quad6-4
-
-[Oratio Matutinum]
-@Tempora/Quad6-4
-
 [Oratio]
 @Tempora/Quad6-4::s/incluso a la muerte/incluso a la muerte, y una muerte de cruz/
 
@@ -185,9 +179,6 @@ R. Como a los muertos ya olvidados.
 
 [Ant 2]
 Pusieron escrito * sobre su cabeza el motivo de su condenación: Jesús Nazareno, Rey de los Judíos.
-
-[Versum 3]
-@:Versum 2
 
 [Ant 3]
 Cuando tomó el vinagre, * dijo: Está cumplido. E inclinando la cabeza, entregó el espíritu. 

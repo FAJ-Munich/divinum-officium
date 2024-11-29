@@ -10,9 +10,7 @@ Special Benedictio
 Special Lectio 3
 Doxology=Nat
 Antiphonas horas
-(deinde rubrica tridentina dicitur) 
-Psalmi Dominica
-(sed rubrica cisterciensis omittitur)
+(rubrica tridentina) Psalmi Dominica
 
 [Hymnus Vespera]
 @Commune/C11
@@ -37,12 +35,6 @@ Ave María, grátia plena, * Dóminus tecum.
 [HymnusM Matutinum]
 @Commune/C11
 
-[Benedictio]
-Précibus et méritis beátæ Maríæ semper Vírginis et ómnium Sanctórum, perdúcat nos Dóminus ad regna cælórum.
-Nos cum prole pia benedícat Virgo María.
-Ipsa Virgo Vírginum intercédat pro nobis ad Dóminum.
-Per Vírginem matrem concédat nobis Dóminus salútem et pacem.
-
 [Responsory1] (rubrica tridentina)
 @Commune/C11
 
@@ -52,19 +44,25 @@ R. Quia ex te ortus est sol justítiæ
 &Gloria
 R. Christus, Deus noster.
 
+[Benedictio]
+Précibus et méritis beátæ Maríæ semper Vírginis et ómnium Sanctórum, perdúcat nos Dóminus ad regna cælórum.
+Nos cum prole pia benedícat Virgo María.
+Ipsa Virgo Vírginum intercédat pro nobis ad Dóminum.
+Per Vírginem matrem concédat nobis Dóminus salútem et pacem.
+
 [Versum 0]
 @Commune/C11
 
-[Ant Laudes] (rubrica tridentina)
+[Ant Laudes] (rubrica tridentina aut rubrica monastica)
 @Commune/C11
 
 [Capitulum Laudes]
 @Commune/C11
 
-[HymnusM Laudes]
+[Hymnus Laudes]
 @Commune/C11
 
-[Hymnus Laudes]
+[HymnusM Laudes]
 @Commune/C11
 
 [Versum 2]

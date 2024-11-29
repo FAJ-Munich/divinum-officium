@@ -1,11 +1,6 @@
 [Rank]
 Feria Quarta infra Hebdomadam IV post Octavam Paschæ;;Feria;;1
 
-[Rule]
-Oratio Dominica
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 De la Epístola del Apóstol Santiago
 !Sant 2:14-17
@@ -13,9 +8,6 @@ De la Epístola del Apóstol Santiago
 15 Si el hermano o la hermana están desnudos y carecen de alimento cotidiano, 
 16 y alguno de vosotros les dijere: Id en paz, que podáis calentaros y hartaros, pero no les diereis con qué satisfacer la necesidad de su cuerpo, ¿qué provecho les vendría? 
 17 Así también la fe, si no tiene obras, es de suyo muerta.
-
-[Responsory1]
-@Tempora/Pasc4-0:Responsory7
 
 [Lectio2]
 !Sant 2:18-22

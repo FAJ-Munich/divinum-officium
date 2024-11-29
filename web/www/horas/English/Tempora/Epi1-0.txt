@@ -3,12 +3,6 @@ Sanctae Familiae Jesu Mariae Joseph;;Duplex majus;;3.9
 (sed rubrica 1960)
 Sanctae Familiae Jesu Mariae Joseph;;Duplex II classis;;5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-No Sunday Commemoratio
-
 [Ant Vespera]
 And Jacob * begot Joseph the husband of Mary, of whom was born Jesus, who is called Christ.;;109
 The angel of the Lord * appeared to Joseph in his sleep, saying: Joseph, son of David, fear not to take unto thee Mary thy wife, for that which is conceived in her, is of the Holy Ghost.;;112

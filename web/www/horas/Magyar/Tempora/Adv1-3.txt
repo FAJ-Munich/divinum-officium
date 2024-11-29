@@ -1,9 +1,6 @@
 [Rank]
 Feria IV infra Hebdomadam I Adventus;;Feria major;;2
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Olvasmány Iziás próféta könyvéből
 !Isa 3:1-4
@@ -36,6 +33,3 @@ R. And it was shut again, for it is a figure of the Virgin, in that after child-
 9 Arcuk kevélysége ellenük vádaskodik, úgy dicsekszenek vétkeikkel, mint Szodoma népe. Jaj nekik, mert nem is rejtegetik gonoszságukat, maguk idézik elő romlásukat. 
 10 Mondjátok nekik: „Boldog az igaz ember, mert élvezi majd tettei gyümölcsét. 
 11 De jaj a gonosznak! Rosszul fog járni, mert tettei szerint fizetnek meg neki.”
-
-[Responsory3]
-@Tempora/Adv1-0:Responsory9

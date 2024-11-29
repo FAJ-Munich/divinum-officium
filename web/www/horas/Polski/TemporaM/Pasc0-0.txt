@@ -3,7 +3,7 @@ Ziemia * zadrżała i zamilkła, gdy powstawał Bóg na sąd, alleluja.;;29
 Nie lękajcie się: * Jezusa szukacie Nazareńskiego, ukrzyżowanego? Wstał, niemasz go tu, alleluja;;243;244;245
 
 [Lectio1]
-@Sancti/01-03::1-6 s/1-/2-/ s/1.*Nie daj tego, Boże! /2 /s
+@Tempora/Nat03::1-6 s/1-/2-/ s/1.*Nie daj tego, Boże! /2 /s
 
 [Lectio9]
 @Tempora/Pasc0-0:Lectio1:s/ Niewiasty.*//s

@@ -1,15 +1,6 @@
 [Rank]
 Sabbato infra Octavam Ascensionis;;Semiduplex;;2;;ex Tempora/Pasc5-4
 
-[Rank] (rubrica 1960)
-Sabbato post Ascensionem;;Feria;;1;;vide Tempora/Pasc5-4
-
-[Rule]
-ex Tempora/Pasc5-4;
-9 Lectiones
-Doxology=Asc
-Feria Te Deum
-
 [Lectio1]
 De la 2ª Epístola de S. Pedro, Apóstol.
 !2 Pe 3:1-7
@@ -21,9 +12,6 @@ De la 2ª Epístola de S. Pedro, Apóstol.
 6 por lo cual el mundo de entonces pereció anegado en el agua; 
 7 mas los cielos y la tierra actuales están reservados por la misma palabra para el fuego en el día del juicio y de la perdición de los impíos.
 
-[Responsory1]
-@Tempora/Pasc5-4:Responsory1
-
 [Lectio2]
 !2 Pe 3:8-13
 8 Carísimos, no se os caiga de la memoria que delante de Dios un solo día es como mil años, y mil años como un solo día. 
@@ -33,9 +21,6 @@ De la 2ª Epístola de S. Pedro, Apóstol.
 12 en la expectación de la llegada del día de Dios, cuando los cielos, abrasados, se disolverán, y los elementos, abrasados, se derretirán? 
 13 Pero nosotros esperamos otros cielos nuevos y otra tierra nueva, en que tiene su morada la justicia, según la promesa del Señor.
 
-[Responsory2]
-@Tempora/Pasc5-4:Responsory2
-
 [Lectio3]
 !2 Pe 3:14-18
 14 Por esto, carísimos, viviendo en esta esperanza, procurad con diligencia ser hallados en paz, 
@@ -43,9 +28,6 @@ De la 2ª Epístola de S. Pedro, Apóstol.
 16 Es lo mismo que hablando de esto enseña en todas sus epístolas, en las cuales hay algunos puntos de difícil inteligencia, que hombres indoctos e inconstantes pervierten, no menos que las demás Escrituras, para su propia perdición. 
 17 Vosotros, pues, amados, que de antemano sois avisados, estad alerta, no sea que, dejándoos llevar del error de los libertinos, vengáis a decaer en vuestra firmeza. 
 18 Creced más bien en la gracia y en el conocimiento de nuestro Señor y salvador Jesucristo. A Él la gloria así ahora como en el día de la eternidad. Amén.
-
-[Responsory3]
-@Tempora/Pasc5-4:Responsory3
 
 [Lectio4]
 Sermón de San León, Papa.

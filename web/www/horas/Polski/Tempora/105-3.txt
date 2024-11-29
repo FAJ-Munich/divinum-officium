@@ -1,8 +1,3 @@
-[Lectio1]
-@Tempora/105-2:Lectio1Tridentina
-(sed rubrica tridentina)
-@Tempora/105-3:Lectio1Tridentina
-
 [Lectio1Tridentina]
 Z Drugiej Księgi Machabejskiej
 !2 Mch 8:10-14
@@ -12,22 +7,12 @@ Z Drugiej Księgi Machabejskiej
 13 Z których niektórzy zlęknąwszy się i nie wierząc sprawiedliwości Bożej, uciekali,
 14 a drudzy, jeśli co jeszcze mieli, przedawali, a społu Pana prosili, aby ich zachował od niezbożnego Nikanora.
 
-[Lectio2]
-@Tempora/105-2:Lectio2Tridentina
-(sed rubrica tridentina)
-@Tempora/105-3:Lectio2Tridentina
-
 [Lectio2Tridentina]
 !2 Mch 8:16
 16 Machabeusz tedy zwoławszy siedm tysięcy, którzy z nim byli, prosił, aby się z nieprzyjacioły nie jednali ani się bali mnóstwa nieprzyjaciół przeciwko im niesprawiedliwie ciągnących, ale aby
 17 się mężnie potykali, mając przed oczyma zelżywość, którą oni miejscu świętemu niesłusznie uczynili, nadto i na krzywdę miasta wydanego na pośmiewisko, jeszcze też na ustawy przodków pogwałcone.
 18 Bo oni, prawi, we zbrojach swych wespół i w śmiałości ufają; ale my ufamy w Panie wszechmogącym, który może i te, którzy przeciw nam ciągną, i wszytek świat jednym skinieniem zgładzić.
 19 Przypominał Im też i boskie pomocy, które się przodkom ich działy, i że pod Sennacherybem sto ośmdziesiąt i pięć tysięcy zginęło,
-
-[Lectio3]
-@Tempora/105-2:Lectio3Tridentina
-(sed rubrica tridentina)
-@Tempora/105-3:Lectio3Tridentina
 
 [Lectio3Tridentina]
 !2 Mch 8:21-28

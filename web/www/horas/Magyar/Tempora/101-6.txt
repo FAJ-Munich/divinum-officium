@@ -6,9 +6,6 @@ A Makkabeusok első könyvéből
 44 Egybegyűltek, hogy előkészüljenek a harcra, imádkozzanak és kiesdekeljék az irgalmat és a könyörületet. 
 45 Jeruzsálem lakatlan volt, mint a puszta. Fiai közül nem járt senki se ki, se be. Szentélyét eltiporták. A várat idegenek lakták, pogányoknak szolgált lakóhelyül. Jákobból eltűnt az öröm, nem hallatszott furulya és hárfa.
 
-[Responsory1]
-@Tempora/101-0:Responsory7
-
 [Lectio2]
 !1 Mac 3:46-53
 46 Összegyűltek hát, és a Jeruzsálemmel szemközti Micpába mentek. Mert Micpa valamikor imádkozóhelye volt Izraelnek. 
@@ -20,9 +17,6 @@ A Makkabeusok első könyvéből
 52 Lám a pogányok újra gyülekeznek ellenünk, hogy kiirtsanak bennünket. Te tudod, mit forralnak ellenünk. 
 53 Hogy volnánk képesek szembeszállni velük, ha te nem segítesz?!”
 
-[Responsory2]
-@Tempora/101-1:Responsory2
-
 [Lectio3]
 !1 Mac 3:54-60
 54 Aztán megfújták a trombitákat és hangosan felkiáltottak. 
@@ -32,6 +26,3 @@ A Makkabeusok első könyvéből
 58 Júdás így szólt: „Övezzétek fel derekatokat és legyetek bátor férfiak! Holnap korán legyetek készen rá, hogy harcba szálljatok ezekkel a pogány népekkel, akik szövetkeztek ellenünk, hogy megsemmisítsenek bennünket szentélyünkkel együtt. 
 59 De inkább elesünk a harcban, semmint tétlenül nézzük népünk és szentélyünk vesztét. 
 60 De legyen úgy, ahogy az ég akarja!”
-
-[Responsory3]
-@Tempora/101-1:Responsory3

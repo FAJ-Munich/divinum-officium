@@ -1,18 +1,6 @@
 [Rank]
 Dominica II Post Pentecosten infra Octavam Corporis Christi;;Semiduplex I classis;;5.9;;ex Tempora/Pent01-4
 
-[Rank] (rubrica 196)
-Dominica II Post Pentecosten;;Semiduplex I classis;;5.9
-
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Doxology=Corp
-
-[Hymnus Vespera]
-@Tempora/Pent01-4:Hymnus Vespera
-
 [Versum 1]
 V. Con flor de harina los alimentó. Aleluya.
 R. Y con miel silvestre los sació. Aleluya.
@@ -89,9 +77,6 @@ De aquí proviene que, habiendo nacido en las penas de este destierro, lleguemos
 v. No os sorprenda, hermanos, que el mundo os odie; nosotros sabemos que hemos pasado de la muerte a la vida porque amamos a los hermanos.
 $Deo gratias
 
-[Hymnus Laudes]
-@Tempora/Pent01-4:Hymnus Laudes
-
 [Versum 2]
 V. Les dio el pan del cielo, aleluya.
 R. El hombre ha comido el pan de los Ángeles, aleluya.
@@ -103,23 +88,14 @@ Un hombre * dispuso una gran cena, y a la hora de cenar envió un criado a decir
 !1 Jn 3:18
 v. Hijos míos, no amemos de palabra y de boca, sino de verdad y con obras.
 
-[Responsory Tertia]
-@Tempora/Pent01-4
-
 [Capitulum Sexta]
 !1 Jn 3:16
 v. En esto hemos conocido el amor: en que él dio su vida por nosotros. También nosotros debemos dar nuestra vida por los hermanos. 
 $Deo gratias
 
-[Responsory Sexta]
-@Tempora/Pent01-4
-
 [Capitulum Nona]
 @:Lectio Prima
 $Deo gratias
-
-[Responsory Nona]
-@Tempora/Pent01-4
 
 [Versum 3]
 @:Versum 1

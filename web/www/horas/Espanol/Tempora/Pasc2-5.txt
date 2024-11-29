@@ -1,10 +1,6 @@
 [Rank]
 Die III Infra Octavam S. Joseph;;Semiduplex;;2;;vide Tempora/Pasc2-3
 
-[Rule]
-vide Tempora/Pasc2-3;
-9 lectiones
-
 [Lectio1]
 Del libro de los Hechos de los Apóstoles
 !Hch 25:1-5
@@ -14,17 +10,11 @@ Del libro de los Hechos de los Apóstoles
 4 Festo les respondió que Pablo estaba preso en Cesárea y que él mismo había de partir en breve para allá: 
 5 Así, pues, que los principales de vosotros bajen conmigo para acusar allí a ese hombre, si tienen de qué.
 
-[Responsory1]
-@Tempora/Pasc0-3:Responsory2
-
 [Lectio2]
 !Hch 25:6-8
 6 Habiendo pasado entre ellos sólo unos ocho o diez días, bajó a Cesárea, y al día siguiente se sentó en su tribunal, ordenando presentar a Pablo. 
 7 Presentado éste, los judíos que habían bajado de Jerusalén le rodearon, haciéndole muchos y graves cargos, que no podían probar, 
 8 replicando Pablo que ni contra la Ley de los judíos, ni contra el templo, ni contra el Cesar había cometido delito alguno.
-
-[Responsory2]
-@Tempora/Pasc0-5:Responsory1
 
 [Lectio3]
 !Hch 25:9-12
@@ -32,9 +22,6 @@ Del libro de los Hechos de los Apóstoles
 10 Pablo contestó: Estoy ante el tribunal del César; en él debo ser juzgado. Ninguna injuria he hecho a los judíos, como tú bien sabes. 
 11 Si he cometido alguna injusticia o crimen digno de muerte, no rehuso morir. Pero si no hay nada de todo eso de que me acusan, nadie puede entregarme a ellos: Apelo al César. 
 12 Festo entonces, después de hablar con los de su consejo, respondió: Has apelado al César, al César irás.
-
-[Responsory3]
-@Tempora/Pasc0-5:Responsory2
 
 [Lectio4]
 Sermón de San Juan Crisóstomo.

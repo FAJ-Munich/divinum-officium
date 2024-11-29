@@ -1,10 +1,6 @@
 [Rank]
 Dominica V Post Pascha;;Semiduplex;;5;;
 
-[Rule]
-9 Lectiones
-Una Antiphona
-
 [Lectio1]
 Olvasmány szent Péter apostol első leveléből
 !1 Pet 1:1-5

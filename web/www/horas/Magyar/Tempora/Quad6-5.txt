@@ -16,12 +16,6 @@ Capitulum Versum 2 ad Laudes tantum
 Minores sine Antiphona
 Feria
 
-[Ant Vespera]
-@Tempora/Quad6-4
-
-[Oratio Matutinum]
-@Tempora/Quad6-4
-
 [Oratio]
 @Tempora/Quad6-4::s/unto death/unto death, even to the death of the cross/
 
@@ -79,9 +73,6 @@ Szent Pál Apostol zsidókhoz írott leveléből
 8 Annak ellenére, hogy ő volt a Fiú, a szenvedésből engedelmességet tanult.
 9 Műve befejeztével pedig örök üdvösséget szerzett azoknak, akik engedelmeskednek neki,
 10 mert az Isten őt hirdette ki főpapnak, Melkizedek rendje szerint.
-
-[Versum 3]
-@:Versum 2
 
 [Special Completorium]
 @Tempora/Quad6-4::s/unto death/unto death, even to the death of the cross/

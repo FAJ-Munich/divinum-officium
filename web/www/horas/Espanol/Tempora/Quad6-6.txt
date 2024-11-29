@@ -11,9 +11,6 @@ Capitulum Versum 2 ad Laudes tantum
 Minores sine Antiphona
 Feria
 
-[Oratio Matutinum]
-@Tempora/Quad6-4
-
 [Ant Matutinum]
 En él dormiré * sosegadamente, y descansaré.;;4
 Morará en tu tabernáculo; * descansará en tu santo monte.;;14

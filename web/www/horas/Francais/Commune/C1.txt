@@ -47,6 +47,10 @@ R. Et leurs paroles jusqu’aux confins du globe de la terre.
 [Ant 1]
 Ils vous feront comparaître * dans leurs assemblées et vous flagelleront dans leurs synagogues et vous serez conduits à cause de moi devant les gouverneurs et les rois, en témoignage pour eux et pour les nations.
 
+[Oratio]
+Nous vous en prions, Dieu tout-puissant : que le bienheureux N. Apôtre, dont nous anticipons la fête, implore pour nous votre secours, afin qu’absous de nos fautes, nous soyons arrachés aussi à tous les autres dangers.
+$Per Dominum
+
 [Invit]
 Le Seigneur, Roi des Apôtres, * Venez, adorons.
 
@@ -119,7 +123,7 @@ R. Car mon joug est doux, et mon fardeau léger.
 
 [Lectio3]
 !1 Cor 4:10-15
-Nous sommes, nous, insensés à cause du Christ ; mais vous, vous êtes sages dans le Christ; nous sommes faibles et vous forts, vous êtes honorés, mais nous méprisés. Jusqu’à cette heure nous souffrons et la faim et la soif, nous sommes nus, déchirés à coups de poing, et nous n’avons pas de demeure stable. Nous nous fatiguons, travaillant de nos mains; on nous maudit, et nous bénissons ; on nous persécute, et nous le supportons ; on nous blasphème, et nous prions ; nous sommes devenus jusqu’à présent comme les ordures du monde, et les balayures rejetées de tous. Ce n’est point pour vous donner de la confusion que j’écris ceci, mais je vous avertis comme mes fils très chers. Car, eussiez-vous dix mille maîtres dans le Christ, vous n’avez cependant pas plusieurs pères ; puisque c’est moi qui, par l’Évangile, vous ai engendrés en Jésus-Christ.
+Nous sommes, nous, insensés à cause du Christ ; mais vous, vous êtes sages dans le Christ ; nous sommes faibles et vous forts, vous êtes honorés, mais nous méprisés. Jusqu’à cette heure nous souffrons et la faim et la soif, nous sommes nus, déchirés à coups de poing, et nous n’avons pas de demeure stable. Nous nous fatiguons, travaillant de nos mains ; on nous maudit, et nous bénissons ; on nous persécute, et nous le supportons ; on nous blasphème, et nous prions ; nous sommes devenus jusqu’à présent comme les ordures du monde, et les balayures rejetées de tous. Ce n’est point pour vous donner de la confusion que j’écris ceci, mais je vous avertis comme mes fils très chers. Car, eussiez-vous dix mille maîtres dans le Christ, vous n’avez cependant pas plusieurs pères ; puisque c’est moi qui, par l’Évangile, vous ai engendrés en Jésus-Christ.
 
 [Responsory3]
 R. Lorsque vous serez conduits devant les rois et les gouverneurs, ne pensez ni comment, ni ce que vous devrez dire :
@@ -202,10 +206,6 @@ R. Et ils ont compris les choses qu’il a faites.
 [Ant 2]
 Vous qui avez quitté * tout et qui m’avez suivi, vous recevrez le centuple et vous posséderez la vie éternelle.
 
-[Oratio]
-Nous vous en prions, Dieu tout-puissant : que le bienheureux N. Apôtre, dont nous anticipons la fête, implore pour nous votre secours, afin qu’absous de nos fautes, nous soyons arrachés aussi à tous les autres dangers.
-$Per Dominum
-
 [Lectio Prima]
 !Act 5:41
 v. Les Apôtres sortirent du sanhédrin, joyeux d'avoir été jugés dignes de souffrir des opprobres pour le nom de Jésus.
@@ -252,7 +252,7 @@ Soyez courageux * dans la guerre ; combattez contre l’ancien serpent, et vous 
 [Lectio4 in 2 loco]
 De l'Exposition du quatre-vingt-sixième psaume par saint Augustin, évêque d'Hippone.
 !Avant le milieu :
-Sa fondation est sur les montagnes saintes; le Seigneur aime les portes de Sion.» Pourquoi la ville a-t-elle douze fondations, et en elles les noms des Prophètes et des Apôtres de l'Agneau ? Parce que leur autorité est la fondation sur laquelle notre faiblesse repose. Pourquoi sont-elles les portes ? Parce que par elles nous entrons dans le royaume de Dieu, puisqu'ils nous l'ont prêché, et quand nous entrons par leur prédication, nous entrons par Christ, qui est Lui-même la Porte. (Jean 10:7) Et, alors qu'il est écrit que la ville a douze portes, et, de nouveau, que Christ est la seule Porte, Christ est les douze, car Il est en tous les douze et donc douze Apôtres furent choisis. Il y a un grand mystère dans la signification de ce nombre douze : « Vous, dit le Seigneur, vous siégerez sur douze trônes, jugeant les douze tribus d'Israël.
+Sa fondation est sur les montagnes saintes ; le Seigneur aime les portes de Sion.» Pourquoi la ville a-t-elle douze fondations, et en elles les noms des Prophètes et des Apôtres de l'Agneau ? Parce que leur autorité est la fondation sur laquelle notre faiblesse repose. Pourquoi sont-elles les portes ? Parce que par elles nous entrons dans le royaume de Dieu, puisqu'ils nous l'ont prêché, et quand nous entrons par leur prédication, nous entrons par Christ, qui est Lui-même la Porte. (Jean 10:7) Et, alors qu'il est écrit que la ville a douze portes, et, de nouveau, que Christ est la seule Porte, Christ est les douze, car Il est en tous les douze et donc douze Apôtres furent choisis. Il y a un grand mystère dans la signification de ce nombre douze : « Vous, dit le Seigneur, vous siégerez sur douze trônes, jugeant les douze tribus d'Israël.
 
 [Lectio5 in 2 loco]
 Si donc il y a là douze trônes de jugement (Ps. 121:5), Paul, en tant qu'il est le treizième Apôtre, n'a pas où s'asseoir, ni quoi juger. Néanmoins, il a dit de lui-même qu'il jugera non seulement les hommes, mais aussi les anges. Ne savez-vous pas, dit-il, que nous jugerons les anges ? (1 Cor. 6:3), c'est-à-dire les anges déchus. Alors ils auraient pu lui répondre : Pourquoi te vantes-tu d'être un juge ? Car où est ton siège ? Le Seigneur a dit qu'il y aura douze trônes pour les douze Apôtres ; l'un des douze, même Judas, est effectivement tombé, mais le saint Matthias est choisi pour prendre sa place ; car pour les douze trônes, il y en a encore douze pour y siéger. D'abord, trouve où tu t'assoiras, et ensuite prétends être un juge. Voyons donc ce que signifient ces douze trônes. Par eux est signifié en mystère le monde entier, puisque l'Église sera à travers toute la terre, d'où ce bâtiment est appelé à être construit ensemble en Christ.

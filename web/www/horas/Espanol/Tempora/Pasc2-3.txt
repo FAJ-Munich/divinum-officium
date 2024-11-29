@@ -32,9 +32,6 @@ $Qui vivis
 [Invit]
 Alabemos a nuestro Dios, * Venerando al bienaventurado José, nuestro protector, aleluya.
 
-[Hymnus Matutinum]
-@Tempora/Pasc2-3:Hymnus Vespera
-
 [Ant Matutinum]
 El Ángel del Señor * se apareció en sueños a José, diciéndole: Levántate, y toma al Niño y a su Madre, y huye a Egipto, y permanece allí hasta que te lo diga, aleluya.;;1
 ;;2
@@ -210,11 +207,6 @@ R. Daré gracias a tu nombre, * Aleluya, aleluya.
 _
 V. El justo crecerá como el lirio. Aleluya.
 R. Y florecerá eternamente ante el Señor. Aleluya. 
-
-[Capitulum Nona]
-!Gen 49:22
-v. Filius accrescens Joseph, filius accrescens, et decorus aspectu: filiæ discurrerunt super murum.
-$Deo gratias
 
 [Responsory Nona]
 R.br. El justo crecerá como el lirio * Aleluya, aleluya. 

@@ -1,5 +1,3 @@
-@Tempora/Quad6-6
-
 [Ant Vespera]
 Oggi sono assai afflitto, * ma domani mi libererò dalle mie catene.;;115
 Con coloro che odiano la pace * io fui pacifico; quando parlavo loro, mi combattevano senza ragione.;;119
@@ -21,9 +19,6 @@ $Pater noster
 
 [Ant 3]
 I principi dei sacerdoti * e i farisei munirono il sepolcro, sigillandone la pietra e ponendovi le guardie.
-
-[Oratio 3]
-@:Oratio Matutinum
 
 [Special Completorium]
 !Special Completorium

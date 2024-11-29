@@ -1,19 +1,6 @@
 [Rank]
 Dominica II. Post Pentecosten infra Octavam Corporis Christi;;Semiduplex I classis;;5.9;;ex Tempora/Pent01-4
 
-[Rank] (rubrica 196)
-Dominica II. Post Pentecosten;;Semiduplex I classis;;5.9
-
-[Rule]
-ex Tempora/Pent01-4
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Doxology=Corp
-
-[Hymnus Vespera]
-@Tempora/Pent01-4:Hymnus Vespera
-
 [Oratio]
 Add meg, Urunk, hogy szent nevedet éppúgy féljük, mint örökké szeressük, mert soha gondviselésedből ki nem zárod azokat, kiket szeretetedben rendületlenül megerősítesz.
 $Per Dominum
@@ -52,9 +39,6 @@ Dearly beloved brethren, between the dainties of the body and the dainties of th
 !1 John 3:13-14
 v. Ne csodálkozzatok azon, testvérek, hogy a világ gyűlöl benneteket. Mi tudjuk, hogy a halálból átmentünk az életbe, mert szeretjük testvéreinket. Aki nem szeret, a halálban marad.
 $Deo gratias
-
-[Hymnus Laudes]
-@Tempora/Pent01-4:Hymnus Laudes
 
 [Lectio Prima]
 !1 John 3:18
