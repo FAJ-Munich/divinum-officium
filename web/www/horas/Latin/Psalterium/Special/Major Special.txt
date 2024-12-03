@@ -800,9 +800,16 @@ Sancto simul Paráclito,
 In sæculórum sǽcula.
 Amen.
 
+[Hymnus Adv Laudes] (rubrica cisterciensis)
+@:HymnusM Adv Laudes:s/Pellántur éminus/Procul fugéntur/ s/Secúndo ut cum/Ut cum secúndo/
+
 [Adv Versum 2]
 V. Vox clamántis in desérto: Paráte viam Dómini.
 R. Rectas fácite sémitas ejus.
+
+[Adv Versum 2] (rubrica cisterciensis)
+V. Emítte Agnum, Dómine, dominatórem terræ.
+R. De Petra desérti ad montem fíliæ Sion.
 
 [Adv Vespera]
 !Gen 49:10

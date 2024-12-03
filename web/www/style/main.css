@@ -2,15 +2,37 @@ html {
   background-color: white;
 }
 
+@font-face{font-family: "Libertine"; 
+    src: url("/www/style/LinLibertineCist.otf");
+    font-weight: normal;}
+  @font-face{font-family: "Libertine"; 
+    src: url("/www/style/LinLibertineCistB.otf");
+    font-weight: bold;}
+  @font-face{font-family: "Libertine"; 
+    src: url("/www/style/LinLibertineCistI.ttf");
+    font-style: italic;}
+  @font-face{font-family: "Libertine"; 
+    src: url("/www/style/LinLibertineCistBI.otf");
+    font-style: italic; font-weight: bold;}
+  @font-face{font-family: "BookmanCist"; 
+    src: url("/www/style/BookmanBT-Cist-Roman.otf");
+    font-weight: normal;}
+  @font-face{font-family: "BookmanCist"; 
+    src: url("/www/style/BookmanBT-Cist-Italic.otf");
+    font-style: italic;}
+  @font-face{font-family: "Cloister"; 
+    src: url("/www/style/CloisterBoldCE.ttf");
+    font-weight: bold;}
+
 body {
-  margin: 0;
-  background-color: white;
+  margin: 8px;
+  font-family: "Libertine";
   color: black;
   text-align: justify;
   padding-top: 25px;
   padding-right: 100px;
   padding-left: 100px;
-  padding-top: 0px;
+  padding-top: 10px;
   font-size: 1.2em;
   text-justify: auto;
 }
@@ -26,8 +48,9 @@ div.horizontal_rule {
 
 a {
   text-decoration: none;
-  color: black;
+  color: blue;
   font-weight: 600;
+  font-family: "Libertine";
 }
 
 a:hover {
@@ -36,9 +59,44 @@ a:hover {
   transition-duration: 250ms;
 }
 
+H1, H2 {
+  text-align: center;
+  font-weight: normal;
+  font-family: BookmanCist;
+  font-variant-numeric: oldstyle-nums;
+}
+
+H2 {
+  color: black;
+  font-size: 200%;
+  font-weight: bold;
+  font-family: Cloister;
+}
+
+H2::first-letter {
+  color: red;
+}
+
+p {
+  color: black;
+  font-family: Libertine;
+}
+
+/* This makes the black line between the text halves */
+table td + td { 
+  border-left:2px 
+  solid black; 
+}
+
+table { 
+  font-family: Libertine;
+  font-size: 100%;
+}
+
 footer {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
   padding: 10px;
 }
+

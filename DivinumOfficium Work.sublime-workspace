@@ -1,0 +1,1891 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ref",
+				"ref_sancto"
+			],
+			[
+				"win",
+				"winter_hymns"
+			],
+			[
+				"af",
+				"after_ChR"
+			],
+			[
+				"aft",
+				"after_ChR"
+			],
+			[
+				"commemoratio_",
+				"commemoratio_next"
+			],
+			[
+				"com",
+				"commemoratio_next"
+			],
+			[
+				"off",
+				"off_feriale"
+			],
+			[
+				"no_",
+				"no_off_mensis"
+			],
+			[
+				"d",
+				"days_sancto"
+			],
+			[
+				"lau",
+				"laudes_post"
+			],
+			[
+				"ma",
+				"martyrologium"
+			],
+			[
+				"tri",
+				"tricenarium_requiem"
+			],
+			[
+				"ce",
+				"centered"
+			],
+			[
+				"com_",
+				"comm_vesperae_j"
+			],
+			[
+				"ver",
+				"vesperae"
+			],
+			[
+				"f",
+				"force"
+			],
+			[
+				"Silve",
+				"Silvestris"
+			],
+			[
+				"O",
+				"O_ant"
+			],
+			[
+				"day",
+				"days_tempo"
+			],
+			[
+				"fis",
+				"first_day"
+			],
+			[
+				"domi",
+				"dominica_prima"
+			],
+			[
+				"lec",
+				"lectio_ref"
+			],
+			[
+				"comme",
+				"commemoratio_add"
+			],
+			[
+				"co",
+				"commemoratio_add"
+			],
+			[
+				"comm_hea",
+				"comm_header_temp"
+			],
+			[
+				"votiva_b",
+				"votiva_bmv"
+			],
+			[
+				"p",
+				"præc"
+			],
+			[
+				"pa_24",
+				"pa_24_6"
+			],
+			[
+				"re",
+				"ref_tempo"
+			],
+			[
+				"wi",
+				"winner"
+			],
+			[
+				"da",
+				"days_tempo"
+			],
+			[
+				"offi",
+				"off_mensis"
+			],
+			[
+				"blo",
+				"block_jejunium"
+			],
+			[
+				"b",
+				"block_jejunium"
+			],
+			[
+				"block_lau",
+				"block_laudes_post"
+			],
+			[
+				"se",
+				"select_display_format"
+			],
+			[
+				"displ",
+				"display_form"
+			],
+			[
+				"P",
+				"Póntifex"
+			],
+			[
+				"mon",
+				"month_usual_number"
+			],
+			[
+				"s",
+				"small"
+			],
+			[
+				"week",
+				"weekday_end"
+			],
+			[
+				"temp_",
+				"temp_bernardi"
+			],
+			[
+				"get",
+				"get_ref_sancto"
+			],
+			[
+				"OM_",
+				"OM_dates_search"
+			],
+			[
+				"vo",
+				"votiva_bernardi"
+			],
+			[
+				"mo",
+				"month_usual_number"
+			],
+			[
+				"OM",
+				"OM_dates_all"
+			],
+			[
+				"no",
+				"noct_defunct_counter"
+			],
+			[
+				"vesp",
+				"vesperae_j"
+			],
+			[
+				"dom",
+				"dom_post_Ep"
+			],
+			[
+				"ves",
+				"vesperae"
+			],
+			[
+				"ne",
+				"next_com_title"
+			],
+			[
+				"next",
+				"next_com_title"
+			],
+			[
+				"next_",
+				"next_com_title"
+			],
+			[
+				"vep",
+				"vesperae"
+			],
+			[
+				"tit",
+				"titulum_next"
+			],
+			[
+				"Feri",
+				"Feriæ"
+			],
+			[
+				"Simi",
+				"Similábo"
+			],
+			[
+				"tem",
+				"temp_comm"
+			],
+			[
+				"for",
+				"force"
+			],
+			[
+				"month",
+				"month_sabb"
+			],
+			[
+				"Mart",
+				"Marthæ"
+			],
+			[
+				"e",
+				"eum"
+			],
+			[
+				"comm",
+				"comm_missa"
+			],
+			[
+				"Com",
+				"Commemoratio"
+			],
+			[
+				"A",
+				"Aña"
+			],
+			[
+				"S",
+				"Sanctus"
+			],
+			[
+				"vigilia",
+				"vigilia_sabb"
+			],
+			[
+				"vigi",
+				"vigilia_sabb"
+			],
+			[
+				"get_sa",
+				"get_ref_sancto"
+			],
+			[
+				"C",
+				"Conf"
+			],
+			[
+				"Sac",
+				"Sacérdos"
+			],
+			[
+				"mat",
+				"matchCount"
+			],
+			[
+				"Ro",
+				"Roberti"
+			],
+			[
+				"mot",
+				"month_sabb"
+			],
+			[
+				"titul",
+				"titulus_dom"
+			],
+			[
+				"titu",
+				"titulus_dom"
+			],
+			[
+				"roma",
+				"roman_lc"
+			],
+			[
+				"we",
+				"weekday"
+			],
+			[
+				"pa",
+				"pa_1_3"
+			],
+			[
+				"Pe",
+				"Petronillæ"
+			],
+			[
+				"Sa",
+				"Sancti"
+			],
+			[
+				"tp",
+				"tp_7_6"
+			],
+			[
+				"comm_m",
+				"comm_martyrologium"
+			],
+			[
+				"Co",
+				"Commemoratio"
+			],
+			[
+				"Oc",
+				"Octava"
+			],
+			[
+				"sm",
+				"small_pg"
+			],
+			[
+				"seq",
+				"sequenti"
+			],
+			[
+				"trans",
+				"trans_vesperae"
+			],
+			[
+				"Virg",
+				"Virgo"
+			],
+			[
+				"comm_",
+				"comm_missa"
+			],
+			[
+				"mi",
+				"missa"
+			],
+			[
+				"fer",
+				"feria_short"
+			],
+			[
+				"feri",
+				"feria_short"
+			],
+			[
+				"ti",
+				"titulum_missa"
+			],
+			[
+				"wit",
+				"width"
+			],
+			[
+				"Pasch",
+				"Paschæ"
+			],
+			[
+				"lectio",
+				"lectio_ref"
+			],
+			[
+				"miss",
+				"missa_post"
+			],
+			[
+				"adv",
+				"adv_1_0"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "web/cgi-bin/horas/altovadum.pl",
+			"settings":
+			{
+				"buffer_size": 44079,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/cgi-bin/horas/appendix.pl",
+			"settings":
+			{
+				"buffer_size": 646,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/cgi-bin/horas/horas.pl",
+			"settings":
+			{
+				"buffer_size": 20832,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/cgi-bin/horas/horasjs.pl",
+			"settings":
+			{
+				"buffer_size": 4655,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/cgi-bin/horas/horascommon.pl",
+			"settings":
+			{
+				"buffer_size": 71637,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/cgi-bin/horas/horasscripts.pl",
+			"settings":
+			{
+				"buffer_size": 8606,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/cgi-bin/horas/kalendar.pl",
+			"settings":
+			{
+				"buffer_size": 14991,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/cgi-bin/horas/monastic.pl",
+			"settings":
+			{
+				"buffer_size": 14991,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/cgi-bin/horas/officium.pl",
+			"settings":
+			{
+				"buffer_size": 8712,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/cgi-bin/horas/officium_html.pl",
+			"settings":
+			{
+				"buffer_size": 5659,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/cgi-bin/horas/specials.pl",
+			"settings":
+			{
+				"buffer_size": 22449,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/cgi-bin/horas/specials/capitulis.pl",
+			"settings":
+			{
+				"buffer_size": 4950,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/cgi-bin/horas/specials/hymni.pl",
+			"settings":
+			{
+				"buffer_size": 4233,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/cgi-bin/horas/specials/orationes.pl",
+			"settings":
+			{
+				"buffer_size": 30351,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/cgi-bin/horas/specials/preces.pl",
+			"settings":
+			{
+				"buffer_size": 2795,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/cgi-bin/horas/specials/specprima.pl",
+			"settings":
+			{
+				"buffer_size": 10547,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/cgi-bin/horas/specials/psalmi.pl",
+			"settings":
+			{
+				"buffer_size": 18117,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/cgi-bin/horas/webdia.pl",
+			"settings":
+			{
+				"buffer_size": 27583,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/www/horas/Latin/Psalterium/Common/Prayers.txt",
+			"settings":
+			{
+				"buffer_size": 15354,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/www/horas/Latin/Psalterium/Common/Rubricae.txt",
+			"settings":
+			{
+				"buffer_size": 4420,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/www/horas/Latin/Psalterium/Common/Translate.txt",
+			"settings":
+			{
+				"buffer_size": 4938,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/www/horas/Latin/Psalterium/Psalmi/Psalmi major.txt",
+			"settings":
+			{
+				"buffer_size": 15701,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/www/horas/Latin/Psalterium/Psalmi/Psalmi minor.txt",
+			"settings":
+			{
+				"buffer_size": 11385,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/www/horas/Latin/Psalterium/Special/Major Special.txt",
+			"settings":
+			{
+				"buffer_size": 44641,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/www/horas/Latin/Psalterium/Special/Minor Special.txt",
+			"settings":
+			{
+				"buffer_size": 17123,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/www/horas/Latin/Psalterium/Special/Preces.txt",
+			"settings":
+			{
+				"buffer_size": 13260,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/www/horas/Latin/Psalterium/Special/Prima Special.txt",
+			"settings":
+			{
+				"buffer_size": 3179,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/www/horas/Latin/Psalterium/Mariaant.txt",
+			"settings":
+			{
+				"buffer_size": 4100,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/emj2bj/Documents/GitHub/ordomatic/static/js/replace.js",
+		"/C/Users/emj2bj/Documents/GitHub/ordomatic/static/js/documentation.txt",
+		"/C/Users/emj2bj/Documents/GitHub/ordomatic/static/js/data_sancto.js",
+		"/C/Users/emj2bj/Documents/GitHub/ordomatic/static/js/data_tempo.js",
+		"/C/Users/emj2bj/Documents/GitHub/ordomatic/static/css/ordomatic.css",
+		"/C/Users/emj2bj/Documents/GitHub/ordomatic/static/css/colors.css",
+		"/C/Users/emj2bj/Documents/GitHub/ordomatic/static/js/backup.js",
+		"/C/Users/emj2bj/Documents/GitHub/ordomatic/static/js/ordomatic.js",
+		"/C/Users/emj2bj/Documents/GitHub/ordomatic/static/js/refresh.js",
+		"/C/Users/emj2bj/Documents/GitHub/ordomatic/static/js/functions.js",
+		"/C/Users/emj2bj/Documents/GitHub/ordomatic/index.html",
+		"/C/Users/emj2bj/Documents/GitHub/ordomatic/static/js/data_tempo.js.bak",
+		"/C/Users/emj2bj/Documents/GitHub/ordomatic/static/js/data_sancto.js.bak",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Bohemice/CommuneCist/C4.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Bohemice/Commune/C4p.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Bohemice/Commune/C4.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Latin/Commune/C4p.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Latin/Commune/C4.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Latin/CommuneCist/C4.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Latin/Commune/C2.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Latin/CommuneCist/C2.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Latin/Tabulae/KCist.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Bohemice/Psalterium/Major Special.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Latin/Psalterium/Major Special.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Latin/CommuneCist/C3.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Latin/Commune/C3.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Bohemice/CommuneM/C12.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/cgi-bin/horas/webdia.pl",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/cgi-bin/horas/officium.pl",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/cgi-bin/horas/specials.pl",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/cgi-bin/horas/kalendar.pl",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/cgi-bin/horas/horascommon.pl",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/cgi-bin/horas/horas.pl",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/cgi-bin/horas/altovadum.pl",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Latin/Commune/C4a.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Bohemice/Commune/C4a.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Latin/Commune/C8.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Latin/CommuneCist/C8.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Latin/Commune/C5.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Latin/CommuneCist/C5.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Bohemice/CommuneCist/C5.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Bohemice/Commune/C11.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Bohemice/Commune/C10.txt",
+		"/C/Users/emj2bj/Documents/Programs/Apache24/logs/error.log",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Latin/Psalterium/Psalmi major.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Bohemice/Psalterium/Psalmi major.txt",
+		"/C/Users/emj2bj/Documents/Programs/xampp/apache/conf/httpd.conf",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Latin/Commune/C12.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Latin/CommuneM/C12.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Bohemice/Ordinarium/CompletoriumCist.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Bohemice/Ordinarium/MatutinumCistParvum.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Latin/Ordinarium/MatutinumCistParvum.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Bohemice/Psalterium/Mariaant.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Latin/Psalterium/Mariaant.txt",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/cgi-bin/horas/dialogcommon.pl",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/cgi-bin/horas/setup.pl",
+		"/C/Users/emj2bj/Documents/GitHub/divinum-officium/web/www/horas/Bohemice/Commune/C12.txt"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Serm.",
+			"nnus",
+			"votiva_bernardi",
+			"sine",
+			"winter_hymns",
+			"laudes def",
+			"laudes def .* sol",
+			"laudes def .*sol",
+			"laudes def.*sol",
+			"votiva_bernar",
+			"Ad Completorium et per",
+			"Ad Completorium",
+			"In Complet",
+			"evangelium ",
+			"officium_mensis",
+			"Nihil fit",
+			"Christus_Rex",
+			"christus_rex",
+			"tricenarium",
+			"Christus_Rex_v",
+			"Christus_Rex_V",
+			"after = ",
+			"after",
+			"Christus_Rex",
+			"fest",
+			"festum ",
+			"nihil",
+			"nihil fit",
+			"Christus_Rex_vespera",
+			"Christus_Rex",
+			"A cunctis",
+			"commemoratio_add",
+			"bernardi",
+			"off_feriale",
+			"09_18",
+			"tricenarium",
+			"['tricenarium']",
+			"days_sancto['tricenarium']['missa']",
+			"In Anni",
+			"3 Orationes",
+			"tricenarium = true",
+			"tricenarium_vesperae = true",
+			"tricenarium_vesperae - true",
+			"tricenarium_vesperae",
+			"days_sancto['tricenarium']['vesperae_j']",
+			"09_18",
+			"tricenarium",
+			"pro defunctis",
+			"Quatuor",
+			"officium mensis",
+			"off_feriale",
+			"ind ",
+			"for ",
+			"ind ",
+			"Requi",
+			"tricenarium",
+			"adv_",
+			"2a Dominica",
+			"Dominica",
+			"2a De S",
+			"Evang. Dominicae",
+			"Evangelium Dominicae",
+			"Dominica",
+			"votiva",
+			"- -",
+			"Cordis",
+			"?",
+			"tricenarium",
+			"<uu>",
+			"</uu>",
+			"</u>",
+			"<u>",
+			"O_ant",
+			"de beata",
+			"votiva_sacra",
+			"commemoratio_add",
+			"bernardi",
+			"year",
+			"commemoratio_add\\['header'\\]\\.replace\\(/\\,\\.\\*/\\,\"\"\\)",
+			"commemoratio_add\\['header'\\]",
+			"ref_tempo .* adv",
+			"days_tempo .* adv",
+			"de Sp. Sa",
+			"commemoratio_add",
+			"votiva_bmv",
+			"Dominica",
+			"Papæ et Con",
+			"Papæ et ",
+			"votiva_bmv",
+			"'vigiliae'\\: ''\\,",
+			"Dominica",
+			"de Dominica",
+			"vigilia",
+			"priv.",
+			"cuncti",
+			"Fidelium",
+			"regis",
+			"tricenarium_vesperae",
+			"incens",
+			"Evang",
+			"custo",
+			"pars",
+			"titulum_missa",
+			"bernardi",
+			"Bernardi",
+			"Sími",
+			"Commemoratio et m.",
+			"sabb_mensis",
+			"et aud",
+			"Splen",
+			"Feria",
+			"check_",
+			"check",
+			"de seq",
+			"nomen_",
+			"nominis",
+			"Fami",
+			"pe_1_0",
+			"Vig[ií]",
+			"23",
+			"check_next_new",
+			"quatember_septembris",
+			"tricenarium",
+			"<b>℟.",
+			"color",
+			"Septembris",
+			"<u>in Capit.:</u>",
+			"in Capit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"In Complet. et",
+			"2a de S",
+			"-",
+			"<u>",
+			"</u>",
+			"</uu>",
+			"<uu>",
+			"'vigiliae': 'iij. Lect <i></i>',",
+			"– <u>in Capit.:</u>",
+			"Oratio.",
+			"",
+			"<i>",
+			"</i>",
+			"<i>",
+			"</i>",
+			"<i>",
+			"</i>",
+			"<i>",
+			"</i>",
+			"<i>",
+			"</i>",
+			"<i>",
+			"n",
+			"post Pent\\. <ib>",
+			"post Pent\\. - ",
+			"Dom\\.",
+			"A cunctis. ",
+			"Cre. ",
+			"Glo. ",
+			"'force': 60,",
+			"a B.M.V. Concéde nos",
+			"transfertur",
+			"pe_",
+			"sept"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "web/cgi-bin/horas/altovadum.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44079,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "web/cgi-bin/horas/appendix.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "web/cgi-bin/horas/horas.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "web/cgi-bin/horas/horasjs.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "web/cgi-bin/horas/horascommon.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 71637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "web/cgi-bin/horas/horasscripts.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8606,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "web/cgi-bin/horas/kalendar.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14991,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "web/cgi-bin/horas/monastic.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14991,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "web/cgi-bin/horas/officium.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "web/cgi-bin/horas/officium_html.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "web/cgi-bin/horas/specials.pl",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "web/cgi-bin/horas/specials/capitulis.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4950,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "web/cgi-bin/horas/specials/hymni.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "web/cgi-bin/horas/specials/orationes.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "web/cgi-bin/horas/specials/preces.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "web/cgi-bin/horas/specials/specprima.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "web/cgi-bin/horas/specials/psalmi.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "web/cgi-bin/horas/webdia.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 18,
+					"file": "web/www/horas/Latin/Psalterium/Common/Prayers.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "web/www/horas/Latin/Psalterium/Common/Rubricae.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "web/www/horas/Latin/Psalterium/Common/Translate.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4938,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "web/www/horas/Latin/Psalterium/Psalmi/Psalmi major.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "web/www/horas/Latin/Psalterium/Psalmi/Psalmi minor.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "web/www/horas/Latin/Psalterium/Special/Major Special.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "web/www/horas/Latin/Psalterium/Special/Minor Special.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "web/www/horas/Latin/Psalterium/Special/Preces.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "web/www/horas/Latin/Psalterium/Special/Prima Special.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "web/www/horas/Latin/Psalterium/Mariaant.txt",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "DivinumOfficium Work.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

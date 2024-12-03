@@ -9,6 +9,18 @@ use utf8;
 #use strict "subs";
 my $a = 4;
 
+
+#*** lang_to_html()
+# returns the HTML tag of current language
+sub lang_to_html($) {
+  my $lang = shift;
+  if ( $lang =~ /Latin/i) {return "la";}
+  elsif ( $lang =~ /Bohemice/i) {return "cs";}
+  elsif ( $lang =~ /English/i) {return "en";}
+  else {return "en";}
+}
+
+
 #*** htmlHead($title, $onload)
 # generate html head
 sub htmlHead {
@@ -21,12 +33,15 @@ sub htmlHead {
 Content-type: text/html; charset=utf-8
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<HTML><HEAD>
+<HTML lang="la"><HEAD>
   <META NAME="Resource-type" CONTENT="Document">
   <META NAME="description" CONTENT="Divine Office">
   <META NAME="keywords" CONTENT="Divine Office, Breviarium, Liturgy, Traditional, Zsolozsma">
   <META NAME="Copyright" CONTENT="Like GNU">
   <meta name="color-scheme" content="dark light">
+  <link rel="stylesheet" href="/www/style/main.css">
+  <link rel="stylesheet" href="/www/style/normalize.css">
+  <link rel="stylesheet" href="/www/style/landing.css">
   <STYLE>
     /* https://www.30secondsofcode.org/css/s/offscreen/ */
     .offscreen {
@@ -42,13 +57,17 @@ Content-type: text/html; charset=utf-8
     h1, h2 {
       text-align: center;
       font-weight: normal;
+      font-family: BookmanCist;
+      font-variant-numeric: oldstyle-nums;
     }
     h2 {
-      margin-top: 4ex;
-      color: maroon;
-      font-size: 112%;
+      color: black;
+      font-size: 200%;
       font-weight: bold;
-      font-style: italic;
+      font-family: Cloister;
+    }
+    h2::first-letter {
+      color: red;
     }
     p {
       color: black;
@@ -510,7 +529,7 @@ sub setcell {
           . "<IMG SRC=\"$imgurl/$notefile.gif\" WIDTH='80%'></TD></TR>\n";
       }
     }
-    print "<TD VALIGN='TOP' WIDTH='$width%'"
+    print "<TD lang=" . lang_to_html($lang) . " VALIGN='TOP' WIDTH='$width%'"
       . ($lang1 ne $lang || $text =~ /{omittitur}/ ? "" : " ID='$hora$searchind'") . ">";
     print "<p>" if $officium =~ /Eofficium|Emissa/;
     topnext_cell(\$text, $lang) unless $popup || $officium =~ /Eofficium|Emissa/;
@@ -587,7 +606,8 @@ sub table_start {
     ($textwidth && $textwidth =~ /^[0-9]+$/ && 0 < $textwidth && $textwidth <= 100)
     ? "$textwidth\%"
     : '80%';
-  print "<TABLE BORDER='$border' ALIGN='CENTER' CELLPADDING='8' WIDTH='$width' $background>";
+  #print "<TABLE BORDER='$border' ALIGN='CENTER' CELLPADDING='8' WIDTH='$width' $background>";
+  print "<TABLE BORDER=0 ALIGN='CENTER' CELLPADDING='16' WIDTH='$width' $background>";
 }
 
 #antepost('$title')
@@ -750,6 +770,12 @@ sub horas_menu {
       $output .= '&nbsp;&nbsp;';
     }
   }
+
+    # For Cistercian version (not to complicate other versions) added the option to click on next day's Lauds
+  if ( $version =~ /Cist/i ) {
+    $output .= qq(\n<A HREF=# onclick="prevnext(1);hset('Laudes')"><FONT COLOR=$colour>Laudes crastinæ</FONT></A>\n) if ($0 !~ /Cofficium/); 
+      $output .= '&nbsp;&nbsp;'; }
+
   my $a =
     ($0 =~ /Pofficium/)
     ? qq(HREF="Pofficium.pl?date1=$date1&command=Appendix Index)
