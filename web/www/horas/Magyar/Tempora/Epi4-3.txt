@@ -1,9 +1,6 @@
 [Rank]
 Feria IV infra Hebdomadam IV post Epiphaniam;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Szent Pál Apostolnak a Kolosszabliekhez írt leveléből
 !Col 3:12-15
@@ -11,9 +8,6 @@ Szent Pál Apostolnak a Kolosszabliekhez írt leveléből
 13 Viseljétek el egymást, és bocsássatok meg egymásnak, ha valakinek panasza van a másik ellen. Ahogy az Úr megbocsátott nektek, ti is bocsássatok meg egymásnak. 
 14 Legfőként pedig szeressétek egymást, mert ez a tökéletesség köteléke. 
 15 S Krisztus békéje töltse be szíveteket, hiszen erre vagytok hivatva, egy testben.
-
-[Responsory1]
-@Tempora/Epi2-3:Responsory1
 
 [Lectio2]
 !Col 3:16-21
@@ -24,9 +18,6 @@ Szent Pál Apostolnak a Kolosszabliekhez írt leveléből
 20 Gyermekek, fogadjatok szót szüleiteknek mindenben, mert ez kedves az Úr szemében. 
 21 Apák, ne keserítsétek gyermekeiteket, nehogy kedvüket veszítsék.
 
-[Responsory2]
-@Tempora/Epi2-3:Responsory2
-
 [Lectio3]
 !Col 3:22-25; 4:1-2
 22 Szolgák, engedelmeskedjetek mindenben testi uraitoknak, ne látszatra szolgáljátok őket, mint akik emberek tetszését keresik, hanem egyenes lélekkel, az Úr félelmében. 
@@ -35,6 +26,3 @@ Szent Pál Apostolnak a Kolosszabliekhez írt leveléből
 25 hiszen a gonosz meglakol igazságtalanságáért; ő nem ismer személyválogatást. 
 1 Gazdák, adjátok meg szolgáitoknak, ami jogos és méltányos. Gondoljátok meg, nektek is van Uratok a mennyben. 
 2 Legyetek kitartók és éberek az imában meg a hálaadásban.
-
-[Responsory3]
-@Tempora/Epi2-3:Responsory3

@@ -1,9 +1,6 @@
 [Rank]
 I Niedziela Wielkiego Postu;;I classis Semiduplex;;6
 
-[Rule]
-9 lectiones
-
 [Versum 1]
 V. Aniołom swoim Bóg rozkazał o tobie.
 R. Aby cię strzegli na wszystkich drogach twoich.

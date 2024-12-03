@@ -1,11 +1,6 @@
 [Rank]
 Feria Tertia infra Hebdomadam II post Octavam Paschae;;Feria;;1
 
-[Rule]
-Oratio Dominica
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 Az Apostolok cselekedeteinek könyvéből
 !Acts 17:22-27
@@ -16,9 +11,6 @@ Az Apostolok cselekedeteinek könyvéből
 26 Ő telepítette be az egy őstől származó emberiséggel az egész földet. Ő határozta meg ittlakásuk idejét és határát. 
 27 S mindezt azért, hogy keressék az Istent, hogy szinte kitapogassák és megtalálják, hiszen nincs messze egyikünktől sem.
 
-[Responsory1]
-@Tempora/Pasc0-3:Responsory2
-
 [Lectio2]
 !Acts 17:28-33
 28 Mert benne élünk, mozgunk és vagyunk, ahogy költőitek is mondják: „Mi is az ő nemzetségéből valók vagyunk.” 
@@ -28,9 +20,6 @@ Az Apostolok cselekedeteinek könyvéből
 32 A halottak feltámadásának hallatára néhányan kigúnyolták, mások meg azt mondták: „Majd még meghallgatunk máskor is erről.” 
 33 Pál erre eltávozott körükből.
 
-[Responsory2]
-@Tempora/Pasc0-5:Responsory1
-
 [Lectio3]
 !Acts 17:34; 18:1-4
 34 Néhányan azért csatlakoztak hozzá, köztük Areopagita Dénes és egy Damarisz nevű asszony, és még mások is. 
@@ -38,6 +27,3 @@ Az Apostolok cselekedeteinek könyvéből
 2 Itt találkozott egy Aquila nevű, pontuszi származású zsidóval, aki nemrég érkezett Itáliából feleségével, Priszcillával, mert Klaudiusz elrendelte, hogy az összes zsidó hagyja el Rómát. 
 3 Hozzájuk költözött, s mivel ugyanazt a mesterséget űzte, náluk maradt, és velük dolgozott, sátorkészítés volt a mesterségük. 
 4 Szombatonként felszólalt a zsinagógában, meggyőzte a zsidókat és a görögöket.
-
-[Responsory3]
-@Tempora/Pasc0-5:Responsory2

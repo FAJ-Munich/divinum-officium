@@ -1,9 +1,6 @@
 [Rank]
 Sabbato infra Hebdomadam Septuagesimæ;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Del libro del Génesis
 !Gen 5:15-21
@@ -15,9 +12,6 @@ Del libro del Génesis
 20 Y así toda la vida de Jared fue de novecientos sesenta y dos años, y murió. 
 21 Y vivió Henoc sesenta y cinco años y engendró a Matusalén.
 
-[Responsory1]
-@Tempora/Quadp1-0:Responsory7
-
 [Lectio2]
 !Gen 5:22-27
 22 Anduvo Henoc en la presencia de Dios, después de engendrar a Matusalén, trescientos años, y engendró hijos e hijas. 
@@ -27,15 +21,9 @@ Del libro del Génesis
 26 vivió, después de engendrar a Lamec, setecientos ochenta y dos años, y engendró hijos e hijas. 
 27 Fueron todos los días de Matusalén novecientos sesenta y nueve años, y murió.
 
-[Responsory2]
-@Tempora/Quadp1-0:Responsory8
-
 [Lectio3]
 !Gen 5:28-31
 28 Lamec a los ciento ochenta y dos años de su vida engendró un hijo, 
 29 al cual llamó Noé, diciendo: Este ha de ser nuestro consuelo en medio de los trabajos y fatigas de nuestras manos, en esta tierra que maldijo el Señor. 
 30 Y vivió Lamec después del nacimiento de Noé quinientos noventa y cinco años, y engendró hijos e hijas. 
 31 Y toda la vida de Lamec fue de setecientos setenta y siete años y murió.
-
-[Responsory3]
-@Tempora/Quadp1-0:Responsory9

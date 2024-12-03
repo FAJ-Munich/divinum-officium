@@ -1,6 +1,3 @@
-@Tempora/Pasc6-0
-(sed rubrica 1960 omittitur)
-
 [Rank]
 Feria VI Post Octavam Ascensionis;;Semiduplex;;2;;ex Tempora/Pasc5-4
 
@@ -21,31 +18,6 @@ Olvasmány szent János apostol harmadik leveléből
 2 Kedvesem, kívánom, hogy minden sikerüljön neked és egészséges légy testben is, lélekben is.
 3 Nagyon örültem, amikor testvérek érkeztek, és tanúsították, hogy igaz vagy, s az igazság útján jársz.
 4 Nincs nagyobb örömöm, mint amikor hallom, hogy gyermekeim az igazság útján járnak.
-
-[Lectio1] (rubrica 1960)
-@Tempora/Pasc6-6:LectioJudae1
-
-[Lectio2]
-!3 John 1:5-10
-5 Kedvesem, te helyes magatartást tanúsítasz a testvérek iránt, kivált az idegenek iránt.
-6 Ez bizonyítja szeretetedet az egyház színe előtt; jól teszed, ha ezentúl is Istenhez méltó útravalóval bocsátod őket útnak.
-7 Mert az ő nevéért keltek útra, s a pogányoktól nem fogadtak el semmit.
-8 Ezért ezeket az embereket nekünk kell befogadnunk, hogy munkatársaik legyünk az Igazság szolgálatában.
-9 Írtam valamit az egyháznak, de Diotrefesz vezetésre törekszik, nem fogad el minket.
-10 Ezért ha majd megérkezem, szóba hozom viselt dolgait, hogy mindent összefecseg rólunk. Sőt még ezzel sem elégszik meg, hanem egyfelől nem fogadja be a testvéreket, másfelől azokat, akik erre hajlandók volnának, megakadályozza benne, és kitiltja az egyházból.
-
-[Lectio2] (rubrica 1960)
-@Tempora/Pasc6-6:LectioJudae2
-
-[Lectio3]
-!3 John 1:11-14
-11 Kedvesem, ne a rosszat utánozd, hanem a jót. Aki a jót teszi, az Istentől van, aki a rosszat teszi, az nem látta az Istent.
-12 Demetriusz mellett mindenki, még maga az Igazság is bizonyságot tesz; mi is tanúskodunk, és te tudod, hogy igaz a tanúságunk.
-13 Még sok mindent tudnék neked írni, de nem akarom neked tintával és nádtollal írni.
-14 Remélem, hogy rövidesen látlak, és akkor élőszóval beszélgetünk.
-
-[Lectio3] (rubrica 1960)
-@Tempora/Pasc6-6:LectioJudae3
 
 [Lectio7]
 Evangélium szent János Apostol kőnyvéből

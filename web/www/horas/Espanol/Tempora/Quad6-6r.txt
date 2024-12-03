@@ -1,5 +1,3 @@
-@Tempora/Quad6-6
-
 [Ant Vespera]
 Hódie afflíctus sum valde, * sed cras solvam víncula mea.;;115
 Cum his, * qui odérunt pacem, eram pacíficus: dum loquébar illis, impugnábant me gratis.;;119
@@ -21,9 +19,6 @@ $Pater noster
 
 [Ant 3]
 Príncipes sacerdótum * et pharisǽi muniérunt sepúlcrum, signántes lápidem, cum custódibus.
-
-[Oratio 3]
-@:Oratio Matutinum
 
 [Special Completorium]
 !Special Completorium

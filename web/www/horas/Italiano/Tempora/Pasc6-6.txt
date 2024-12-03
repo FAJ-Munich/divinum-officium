@@ -14,28 +14,11 @@ Feria Te Deum
 No suffragium
 No93
 
-[Rule] (rubrica 1960)
-Feria Te Deum
-Doxology=Asc
-
-[Oratio]
-@Tempora/Pasc6-0
-
-[Lectio1]
-@:LectioJudae1
-(sed rubrica 1960)
-@:Lectio7
-
 [Responsory1] (rubrica 1960)
 R. Io pregherò il Padre ed egli vi darà un altro Paraclito, 
 * Affinché rimanga con voi in eterno lo Spirito di verità, alleluia.
 V. Se io non andrò, il Paraclito non verrà a voi; se invece andrò, ve lo manderò.
 R. Affinché rimanga con voi in eterno lo Spirito di verità, alleluia.
-
-[Lectio2]
-@:LectioJudae2
-(sed rubrica 1960)
-@:Lectio8
 
 [Responsory2] (rubrica 1960)
 R. Se io non andrò, il Paraclito non verrà a voi: se io invece andrò, ve lo manderò.
@@ -44,14 +27,6 @@ V. Non parlerà da sé, ma dirà tutto ciò che avrà udito e vi annunzierà le 
 R. Quando egli verrà, vi insegnerà ogni verità, alleluia.
 &Gloria
 R. Quando egli verrà, vi insegnerà ogni verità, alleluia.
-
-[Lectio3]
-@:LectioJudae3
-(sed rubrica 1960)
-@:Lectio9
-
-[Responsory3]
-@Tempora/Pasc5-4:Responsory3
 
 [Lectio4]
 Dal Trattato di sant'Agostino Vescovo sul Simbolo ai Catecumeni
@@ -75,9 +50,6 @@ Dicendo: «Io pregherò il Padre, ed egli vi darà un altro Paraclito» (Joann. 
 
 [Lectio8]
 Il mondo quindi non può ricevere questo spirito, perché non lo vede, né lo conosce» (Joann. 14, 17). L'amore mondano infatti non ha questi occhi invisibili onde si può vedere lo Spirito Santo, il quale non può esser visto che in modo invisibile. «Ma voi, disse, lo conoscerete: perché dimorerà con voi e sarà in voi» (Ibi). Sarà in essi per dimorarvi, non dimorerà per esservi: giacché prima è essere in un luogo che dimorarvi. Ma affinché i discepoli non intendessero queste parole: «Dimorerà in voi» di un soggiorno visibile, come ordinariamente fa un ospite presso colui che gli dà ospitalità, egli spiegò queste parole: «Dimorerà con voi» aggiungendo: «E sarà in voi».
-
-[Responsory8]
-@Tempora/Pasc6-0
 
 [Lectio9]
 Si vede dunque (lo Spirito S.) in maniera invisibile. E s'egli non è in noi, non possiamo averne conoscenza: è così che noi vediamo in noi stessi la nostra coscienza. Noi vediamo bene la faccia d'un altro, e non possiamo vedere la nostra: vediamo invece la nostra coscienza, e non vediamo l'altrui. Ma la coscienza non può mai esistere che in noi: mentre lo Spirito Santo può essere anche senza di noi. Esso ci viene dato perché sia pure in noi: ma, s'egli non è in noi, ci è impossibile di vederlo e conoscerlo, come dev'essere veduto e conosciuto. Dopo aver promesso lo Spirito Santo, il Signore non volendo che si potesse credere ch'egli lo dava per sostituire se stesso, e che egli cesserebbe così d'essere co' suoi discepoli, aggiunse: «Non vi lascerò orfani, tornerò a voi» (Joann. 14, 18). Non contento dunque il Figlio di Dio di averci fatti figli adottivi di suo Padre e d'aver voluto che noi abbiamo per Padre, per un effetto della grazia, quello ch'è suo Padre per natura, mostra ancora egli stesso verso di noi una tenerezza in certo modo paterna quando dice: «Non vi lascerò orfani» (Ibi).
@@ -105,9 +77,3 @@ Incomincia la Lettera cattolica dell'Apostolo san Giuda
 11 Guai a loro, perché battono la strada di Caino, e per sete di guadagno si sono precipitati nell'errore di Balaam, e sono periti nella ribellione di Core!
 12 Costoro sono tante macchie nelle loro agapi, stando insieme a mensa senza rispetto, pascendo se stessi, nuvole senz'acqua, trasportate qua e là dai venti, alberi d'autunno, infruttiferi, due volte morti, sradicati, 
 13 onde furiose del mare, che spumano le proprie turpitudini, stelle erranti: cui è riserbata una tenebrosa caligine in eterno.
-
-[Versum 2]
-@Tempora/Pasc6-0
-
-[Ant 2]
-@Tempora/Pasc6-0

@@ -23,6 +23,3 @@ A Makkabeusok első könyvének kezdete
 14 Pogány szokás szerint testgyakorló iskolát létesítettek Jeruzsálemben, újranövesztették előbőrüket,
 15 és elpártoltak a szent szövetségtől. Szövetségre léptek a pogányokkal, s arra adták magukat, hogy vétkezzenek.
 16 Amikor Antiochusz megszilárdította a birodalmat, arra gondolt, hogy Egyiptomra is kiterjeszti hatalmát, hogy így mindkét országon uralkodjék.
-
-[Responsory8]
-@Tempora/Pent01-0:Responsory8

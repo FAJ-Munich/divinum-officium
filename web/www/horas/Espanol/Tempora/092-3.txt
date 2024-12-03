@@ -8,9 +8,6 @@ Del libro de Job
 5 ¿He caminado fraudulentamente o corrieron mis pies tras el engaño? 
 6 ¡Péseme Dios en balanza justa, y Dios reconocerá mi integridad!
 
-[Responsory1]
-@Tempora/091-0:Responsory7
-
 [Lectio2]
 !Job 31:7-12
 7 Si se apartaban mis pasos de tus sendas y tras mis ojos se fue mi corazón, o si se pegó algo a mis manos, 
@@ -20,9 +17,6 @@ Del libro de Job
 11 pues maldad grande es ésta, 
 12 es un gran crimen, fuego que devora hasta el “abaddón” y consumiría toda mi hacienda.
 
-[Responsory2]
-@Tempora/091-1:Responsory2
-
 [Lectio3]
 !Job 31:13-18
 13 Si desdeñé el derecho de mi siervo y el de mi sierva cuando se querellaron contra mí, 
@@ -31,6 +25,3 @@ Del libro de Job
 16 Si negué a los pobres lo que deseaban y dejé desfallecer los ojos de la viuda, 
 17 si comí solo mi bocado, sin dar de comer de él al huérfano, 
 18 antes bien, desde mi infancia le criaba como un padre y desde el seno materno le guiaba.
-
-[Responsory3]
-@Tempora/091-0:Responsory3

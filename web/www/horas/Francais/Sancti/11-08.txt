@@ -1,7 +1,4 @@
-[Rank] (rubrica divino)
-Dans l'octave de la Toussaint;;Duplex majus;;4.1;;vide Sancti/11-01
-
-[Rank] (rubrica tridentina)
+[Rank]
 Dans l'octave de la Toussaint;;Duplex majus;;4.1;;vide Sancti/11-01
 
 [Commemoratio]

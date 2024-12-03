@@ -1,0 +1,17 @@
+[Lectio1]
+!Lam 2:8-12
+
+[Lectio2]
+!Lam 2:13-17 ???
+
+[Lectio3]
+!Lam 3:1-12 ???
+
+[Lectio7]
+!Heb 4:11-16
+
+[Lectio8]
+!Heb 5:1-7
+
+[Lectio9]
+!Heb 5:8-14

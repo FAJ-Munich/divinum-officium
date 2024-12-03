@@ -1,9 +1,6 @@
 [Rank]
 Feria IV infra Hebdomadam I Adventus;;Feria major;;2
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Læsning fra Esaja's bog
 !Es 3:1-4

@@ -1,12 +1,6 @@
 [Rank]
 Dominica IV Post Pentecosten;;Semiduplex;;5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-
 [Oratio]
 Add meg nekünk, kérünk, Urunk, hogy mind a világ folyása a te gondviselésed alatt békés legyen, mind Egyházad tiszteleted zavartalan gyakorlatának örvendjen.
 $Per Dominum.
@@ -45,9 +39,3 @@ _
 Homily by St Ambrose, Bishop of Milan.
 !Bk. iv. on Luke v.
 When the Lord wrought so many works of healing, neither time nor place could restrain the people from seeking health. Evening came, and they still followed Him He went down to the lake, and they still pressed upon Him and therefore He entered into Peter's ship. This is that ship, which spiritually up to this very hour, according to the expression of Matthew, is buffeted by tempests, but still, according to Luke, is filled with fishes, this signifying, that, for a while, to labour is present to the Church, but, hereafter, it shall be to rejoice. The fishes are they which swim in the troublous waters of human life. In this ship also spiritually doth Christ, for His disciples, still sleep, and still command for He sleepeth for the lukewarm, and watcheth for the perfect.
-
-[Responsory7]
-@Tempora/Pent01-3:Responsory1
-
-[Responsory8]
-@Tempora/Pent01-0:Responsory8

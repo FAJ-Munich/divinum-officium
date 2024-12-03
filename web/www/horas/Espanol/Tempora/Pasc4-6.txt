@@ -1,11 +1,6 @@
 [Rank]
 Sabbato infra Hebdomadam IV post Octavam Paschæ;;Feria;;1
 
-[Rule]
-Oratio Dominica
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 De la Epístola del Apóstol Santiago
 !Sant 5:1-6
@@ -15,9 +10,6 @@ De la Epístola del Apóstol Santiago
 4 El jornal de los obreros que han segado vuestros campos, defraudado por vosotros, clama, y los gritos de los segadores han llegado a los oídos del Señor de los ejércitos. 
 5 Habéis vivido en delicias sobre la tierra, entregados a los placeres, y habéis engordado para el día de la matanza. 
 6 Habéis condenado al justo, le habéis dado muerte sin que él os resistiera.
-
-[Responsory1]
-@Tempora/Pasc4-0:Responsory7
 
 [Lectio2]
 !Sant 5:7-11
@@ -39,6 +31,3 @@ R. Y cantar salmos, aleluya.
 14 ¿Alguno entre vosotros enferma? Haga llamar a los presbíteros de la Iglesia y oren sobre él, ungiéndole con óleo en el nombre del Señor, 
 15 y la oración de la fe salvará al enfermo, y el Señor le aliviará, y los pecados que hubiere cometido le serán perdonados. 
 16 Confesaos, pues, mutuamente vuestras faltas y orad unos por otros para que os salvéis. Mucho puede la oración fervorosa del justo.
-
-[Responsory3]
-@Tempora/Pasc4-1:Responsory2

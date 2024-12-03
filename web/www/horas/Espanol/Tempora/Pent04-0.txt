@@ -1,12 +1,6 @@
 [Rank]
 Dominica IV Post Pentecosten;;Semiduplex;;5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-
 [Ant 1]
 David venció * al filisteo con una honda y una piedra, en el nombre del Señor.
 

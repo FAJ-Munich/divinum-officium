@@ -4,17 +4,8 @@ Feria Quinta infra octavam Pentecostes;;Semiduplex I classis;;6;;ex Pasc7-0
 [Rank] (rubrica 1960)
 Die Quinta infra octavam Pentecostes;;Semiduplex I classis;;6;;ex Pasc7-0
 
-[RankNewcal]
+[Rank] (rubrica innovata)
 Feria V post Pentecostes;;Feria;;1;;
-
-[Rule]
-ex Pasc7-0;
-1 nocturn;
-Psalmi Dominica;
-Antiphonas horas 
-Hymnus Tertia
-Feria Te Deum 
-no93
 
 [Lectio1]
 Continuation of the Holy Gospel according to Luke

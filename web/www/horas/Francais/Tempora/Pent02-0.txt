@@ -1,18 +1,6 @@
 [Rank]
 Dominica II Post Pentecosten infra Octavam Corporis Christi;;Semiduplex I classis;;5.9;;ex Tempora/Pent01-4
 
-[Rank] (rubrica 196)
-Dominica II Post Pentecosten;;Semiduplex I classis;;5.9
-
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Doxology=Corp
-
-[Hymnus Vespera]
-@Tempora/Pent01-4:Hymnus Vespera
-
 [Versum 1]
 V. Il les a nourris de la fleur du froment, alléluia.
 R. Et les a rassasiés de miel pris au rocher, alléluia.

@@ -1,8 +1,13 @@
 [Rank]
 Dominica Resurrectionis;;Duplex I classis cum Octava Privilegiata I;;7
 
-[Ant Vespera]
-@:Ant Laudes
+[Rule]
+1 nocturn;
+Omit Hymnus Preces Suffragium Commemoratio;
+Minores sine Antiphona;
+Capitulum Versum 2;
+Psalmi Dominica
+Prima=53
 
 [Ant 1]
 La notte del sabato, * all'alba del primo giorno della settimana, andò Maria Maddalena e l'altra Maria a visitare il sepolcro, alleluia.
@@ -96,9 +101,6 @@ Ant. Questo è il giorno * che ha fatto il Signore : esultiamo e rallegriamoci i
 
 [Ant 2]
 E di buon mattino * il primo giorno della settimana arrivano al sepolcro sul levar del sole, alleluia.
-
-[Prelude Laudes] (rubrica 1955 aut rubrica 1960)
-@:Prelude Matutinum
 
 [Ant 3]
 Ma osservando * videro rivoltata la pietra : la quale era molto grande, alleluia.
