@@ -853,6 +853,7 @@ sub lectio : ScriptFunc {
   {
     %w = (columnsel($lang)) ? %winner : %winner2;
     $w = $w{Lectio8} . $w{Lectio9};
+    setbuild2("ex Lectiones 8 et 9 fit una");
   }
   my $wo = $w;
 
@@ -887,13 +888,16 @@ sub lectio : ScriptFunc {
     )
   {    # 9th lesson diverged to Legend of Commemorated Saint
     %w = (columnsel($lang)) ? %winner : %winner2;
+    my $L9winnerflag = 0;
 
     if (($w{Rank} =~ /Simplex/i || ($version =~ /1955/ && $rank == 1.5)) && exists($w{'Lectio94'})) {
       setbuild2("Last lectio Commemoratio ex Legenda historica (#94)");
       $w = $w{'Lectio94'};
+      $L9winnerflag = 1;
     } elsif (exists($w{'Lectio93'})) {
       setbuild2("Last lectio Commemoratio ex Sanctorum (#93)");
       $w = $w{'Lectio93'};
+      $L9winnerflag = 1;
     }
 
     $j0 = ($num == 12) ? 9 : 7;    # where to look for Homily
@@ -948,7 +952,8 @@ sub lectio : ScriptFunc {
                       #if ($winner{Rule} =~ /9 lectiones/i && exists($winner{Responsory9})) { $cflag = 0; }
                       #if ($winner{Rule} !~ /9 lectiones/i && exists($winner{Responsory3})) { $cflag = 0; }
 
-    if ( $commemoratio =~ /sancti/i
+    if (!$L9winnerflag
+      && $commemoratio =~ /sancti/i
       && $commemoratio{Rank} =~ /S\. /i
       && ($winner !~ /tempora/i || $winner{Rank} < 5)
       && ($version !~ /1955/ || $comrank > 4)
@@ -969,7 +974,11 @@ sub lectio : ScriptFunc {
         }
         $ji = '4-6';
       }
-      $wc ||= $w{"Lectio93"};
+
+      if (!$wc) {
+        $wc = $w{"Lectio93"};
+        $jc = 93;
+      }
 
       if (!$wc && $w{Rank} =~ /infra octav/i && $version !~ /Monastic/) {
         if (my $commemo1 = $commemoentries[1]) {
@@ -982,7 +991,7 @@ sub lectio : ScriptFunc {
       if ($wc) {
         setbuild2("Last lectio: Commemoratio from Sancti #$ji");
 
-        if ($wc !~ /\!/) {    # add Commemoratio comment if not there already
+        if ($wc !~ /^\!/) {    # add Commemoratio comment if not there already
           if (exists($w{Rank})) {
             my @wcr = split(';;', $w{Rank});
             $w = '!' . translate('Commemoratio', $lang) . ": $wcr[0]\n" . $wc;
