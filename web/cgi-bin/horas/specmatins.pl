@@ -410,7 +410,7 @@ sub cujus_q {
   return 5 if /S. P. N. Benedicti Abbatis/;               # Don't catch Scholastica
 
   my $j = 0;                                                          # "Cujus …, ipse"
-  if (/(virgin|vidua|poenitentis|pœnitentis|C6|C7)/i) { $j += 2; }    # "Cujus …, ipsa"
+  if (/(virgin|vidu[aæ]|poenitentis|pœnitentis|C6|C7)/i) { $j += 2 unless /C[2-5]/; } # "Cujus …, ipsa"
   if (/(?:ss\.|sanctorum|sociorum)/i) { $j++; }                       # "Quorum / Quarum"
 
   $j;
@@ -902,10 +902,11 @@ sub lectio : ScriptFunc {
 
     $j0 = ($num == 12) ? 9 : 7;    # where to look for Homily
 
-    if ( ($commemoratio =~ /tempora/i && $commemoratio !~ /Nat(29|30|31)/i || $commemoratio =~ /01\-05/)
+    if ( ($commemoratio =~ /tempora/i && $commemoratio !~ /Nat(29|30|31)/i || $commemoratio =~ /01\-05\./)
       && ($homilyflag == 1 || exists($commemoratio{"Lectio$j0"}))
       && $comrank > 1
-      && ($rank > 4 || ($rank >= 3 && $version =~ /Trident/i) || $homilyflag == 1 || exists($commemoratio{Lectio1})))
+      && ($rank > 4 || ($rank >= 3 && $version =~ /Trident/i) || $homilyflag == 1))
+      #  || exists($commemoratio{Lectio1}) removed as it results in a wrong commemoration of Die infra 8vam (e.g., 2024-04-23)
     {
       %w = (columnsel($lang)) ? %commemoratio : %commemoratio2;
       $wc = $w{"Lectio$j0"};
@@ -916,6 +917,7 @@ sub lectio : ScriptFunc {
         $winner{"Responsory$num"} = $w{"Responsory12C"} || $w{"Responsory$j0"};
         $winner2{"Responsory$num"} = $w{"Responsory12C"} || $w{"Responsory$j0"};
       } elsif (!$wc) {
+        $j0 = 1;
         $wc = $w{"Lectio1"};
 
         if ($wc && $version =~ /monastic/i && exists($w{"Responsory1"}) || exists($w{"Responsory12C"})) {
@@ -927,10 +929,10 @@ sub lectio : ScriptFunc {
       }
 
       if ($wc) {
-        setbuild2("Last lectio Commemoratio ex Tempora #1");
+        setbuild2("Last lectio Commemoratio ex Tempora (#$j0)");
         my %comm = %{setupstring($lang, 'Psalterium/Comment.txt')};
         my @comm = split("\n", $comm{'Lectio'});
-        $comment = ($commemoratio{Rank} =~ /Feria/) ? $comm[0] : ($commemoratio =~ /01\-05/) ? $comm[3] : $comm[1];
+        $comment = ($commemoratio{Rank} =~ /Feria/) ? $comm[0] : ($commemoratio =~ /01\-05\./) ? $comm[3] : $comm[1];
         $w = setfont($redfont, $comment) . "\n$wc";
       }
     }
@@ -939,13 +941,15 @@ sub lectio : ScriptFunc {
       if (!(-e "$datafolder/$lang/$transfervigil")) { $transfervigil =~ s/v\.txt/\.txt/; }
       my %tro = %{setupstring($lang, $transfervigil)};
       if (exists($tro{'Lectio Vigilia'})) { $w = $tro{'Lectio Vigilia'}; }
+      setbuild2("Lectio ultimo: Commemoratio pro Vigilia transferenda");
     } elsif ($homilyflag == 9) {
       my %tro = (columnsel($lang)) ? %commemoratio : %commemoratio2;
 
-      if (exists($tro{'Lectio1'})) {
+      if (exists($tro{'Lectio1'})) {  # should be always true if $homilyflag
         my $trorank = $tro{Rank};
         $trorank =~ s/;;.*//;
         $w = '!' . translate('Commemoratio', $lang) . ": $trorank\n" . $tro{'Lectio1'};
+        setbuild2("Lectio ultimo: Commemoratio pro Vigilia (#1)");
       }
     }
     my $cflag = 1;    #*************  03-30-10
