@@ -1184,7 +1184,7 @@ sub concurrence {
              $cr[2] < $ranklimit
           || $cstr{Rule} =~ /No prima vespera/i
           || ($version =~ /1955|196/ && $cstr{Rank} !~ /Dominica/i)
-          || ( $cstr{Rank} =~ /Feria|Sabbato|Vigilia|Quat[t]*uor/i
+          || ( $cstr{Rank} =~ /Feria|Sabbato|Vigilia|Quat[t]*uor Temp/i
             && $cstr{Rank} !~ /in Vigilia Epi|in octava|Dominica/i)
         ) {
           push(@comentries, $commemo);

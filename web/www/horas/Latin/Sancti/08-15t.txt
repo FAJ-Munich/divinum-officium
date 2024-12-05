@@ -95,22 +95,39 @@ R. Et sicut dies verni circúmdabant eam flores rosárum et lília convállium.
 [Responsory3]
 @Commune/C11:Responsory5
 
-[Lectio4]
+[Lectio4_]
 Sermo sancti Joánnis Damascéni
 !Oratio 2 de Dormit. B. M. V., post init.
 Hódie sacra et animáta arca Dei vivéntis, quæ suum in útero concépit Creatórem, requiéscit in templo Dómini, quod nullis est exstrúctum mánibus.  Et David exsúltat ejus parens, et cum eo choros ducunt Angeli, célebrant Archángeli, Virtútes gloríficant, Principátus exsúltant, Potestátes collætántur, gaudent Dominatiónes, Throni festum diem agunt, laudant Chérubim, glóriam ejus prǽdicant Séraphim. Hódie Eden novi Adam paradísum súscipit animátum, in quo solúta est condemnátio, in quo plantátum est lignum vitæ, in quo opérta fuit nostra núditas.
 
+[Lectio4]
+@:Lectio4_
+(sed rubrica 1570 dicuntur)
+Sermo S. Athanasii Episcopi
+!De Assumptione?
+Hodie regina assistens a dextris filii ubique regnantis, quasi in vestitu deaurato, incorruptionis, et immortalitatis circumamitcta varietate, scris et solemnibus verbis celebratur, non quod secundum spiritum tantum, quasi sine corpore et carne assistat: sed quod indotta sit quantum spetta ad santissima jus carne incorruptibilitate, et immortaliate. Circumamicta varietate rursus est, quantum attinet ad ossa sanctissima, qua jus carne suffulciunt. Nam ex carne ejus, et ex osseous jus, veluti ex vetoer Adamo novus iste Adam, ut vicem ejus expleret, costam sibi finit, nimirum istam inkarnationen, eaquam semel indutam perpetuo gestat. Ac proinde nova ista Eva mater vitæ appelant, circumamictam varietate permanet ad primitias vite immortalis omnium viventium.
+
 [Responsory4]
 @Commune/C11:Responsory6:s/.\&.*/ Unguéntum effúsum nomen tuum./s s/: \*/:/s
 
-[Lectio5]
+[Lectio5_]
 Hódie Virgo immaculáta, quæ nullis terrénis inquináta est afféctibus, sed cæléstibus educáta cogitatiónibus, non in terram revérsa est; sed, cum esset animátum cælum, in cæléstibus tabernáculis collocátur. Ex qua enim ómnibus vera vita manávit, quómodo illa mortem gustáret?  Sed cedit legi látæ ab eo quem génuit; et, ut fília véteris Adam, véterem senténtiam súbiit (nam et ejus Fílius, qui est vita ipsa, eam non recusávit); ut autem Dei vivéntis Mater, ad illum ipsum digne assúmitur.
+
+[Lectio5]
+@:Lectio5_
+(sed rubrica 1570 dicuntur)
+Beatam te prædicant omnes angelrum, et terrestrium hierarchiæ: quæ et in cœlis benediceris, et in terris beata prædicaris: Benedicta tu in mulieribus, et benedictus frutos ventres tui, Hujusmodi enim benedictionibus celebratie prima acies quæ ex Thronis, Cherubinis, et Seraphinuis constat: Beata tu in mulieribus, et beatus eters tuur, qui portavit Deum: et ubera, quæ ille adhuc infantulus suxit. Secunda vero hierarchia, quæ in se Dominationes, Virtutes, Potestatesque complectitur, a sublimiori hierarchia ediscens, ad te respiciens clamat, Benedicta tu in mulieribus, et benedictus venter tuus, qui Deum concepit: et mamitullæ, quæ Deum educaverunt puerum factum.   
 
 [Responsory5]
 @Commune/C11:Responsory8
 
-[Lectio6]
+[Lectio6_]
 Heva, quæ serpentis suggestioni assensum præbuit, partus dolore, et mortis sententia damnatur, et in inferorum collocatur penetralibus. Hanc autem vere beatam, quæ Dei verbo aures præstitit, et Spiritus sancti operatione repleta est, atque ad Archangeli spiritalem salutationem, sine voluptate et virili consortio, Dei Filium concepit, et sine dolore aliquo peperit, ac totam se Deo consecravit, quonam modo mors devoraret? quomodo inferi susciperent? quomodo corruptio invaderet corpus illud, in quo vita suscepta est? Huic recta, plana, et facilis ad cælum parata est via. Si enim, Ubi ego sum, illic et minister meus erit, inquit vita et veritas Christus; quomodo non potius mater cum ipso erit?
+
+[Lectio6]
+@:Lectio6_
+(sed rubrica 1570 dicuntur)
+Jam tertia ex principebus, angels, et archangelis acties, quibus mandatum fuit a Deo mittente, ut per unum Gabrielem archangecum ederet splendidissinum, et capavissimum hymnum in hæc verba: Ave gratia plena, dominus tecum: Ab istis deinde nos hierarchiæ terrestres, exaltations Dei in future ferventes, sive quod didicimus, sive quod mutuo hæc verba sumpserimus, exaltamos te magna et canora voce dicentes: Ave gratia plena: dominus tecum: intercede beata, et Domina, et regina, et mater dei pro nobis et qui edirus est ex te, incarnatus Deus poster est, quem decote gloria, et magnificência: omnisque honor, et adorativo, et gratiatum actio: cum patre initii experte, et cum Santo, bono, vivifico spiritu, et nunc et semper, et in sæcula sæculorum. Amen. 
 
 [Responsory6]
 @Commune/C11:Responsory3

@@ -20,6 +20,13 @@ R. Vidi Gerusalemme discendere dal cielo ornata di oro puro, inghirlandata di pi
 V. E il suo muro era costrutto di pietra di diaspro; la città stessa poi era di oro puro simile al vetro puro. 
 R. Alleluia, alleluia.
 
+[Lectio2]
+!Apo 4:5-8
+5 E dal trono partivano lampi e voci e tuoni: e dinanzi al trono erano sette lampade accese, che sono i sette spiriti di Dio.
+6 E in faccia al trono come un mare di vetro simile al cristallo: e in mezzo al trono ed intorno al trono quattro animali pieni di occhi davanti e di dietro. 
+7 E il primo animale era simile al leone, e il secondo animale simile al vitello, e il terzo animale aveva la faccia come di uomo, e il quarto animale simile ad aquila volante. 
+8 Questi quattro animali avevano ciascuno sei ali: e all'intorno e di dentro sono pieni d'occhi. E non si davano posa giorno e notte, dicendo: Santo, santo, santo il Signore Dio onnipotente, che era, che è e che verrà.
+
 [Responsory2]
 R. La magnificenza del Signore era scolpita sul diadema che Aronne portava in testa : 
 * Mentre esercitava il ministero di Dio, alleluia, alleluia, alleluia.
@@ -27,3 +34,9 @@ V. Infatti sulla veste talare che portava, era rappresentato tutto il globo terr
 R. Mentre esercitava il ministero di Dio, alleluia, alleluia, alleluia.
 &Gloria
 R. Mentre esercitava il ministero di Dio, alleluia, alleluia, alleluia.
+
+[Lectio3]
+!Apo 4:9-11
+9 E mentre quegli animali rendevano gloria, onore e grazie a colui che sedeva sul trono e che vive per i secoli dei secoli, 
+10 i ventiquattro seniori, si prostravano davanti a colui che sedeva sul trono, e adoravano colui che vive per i secoli dei secoli, e gettavano le loro corone davanti al trono, dicendo: 
+11 Tu sei degno, o Signore Dio nostro, di ricevere la gloria, l'onore e la potenza: perché tu hai creato il tutto, e per tuo volere esso sussiste ed è stato creato.

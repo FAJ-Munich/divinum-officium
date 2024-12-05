@@ -29,6 +29,7 @@
 07-06=XXXXX
 07-24=07-24r=S. Christinae Virginis Martyris=1=
 *Augustus* 
+08-16=08-16=S. Joachim Confessoris=5=
 08-17=08-17=S. Hyacinthi Confessoris=3=
 08-18=08-18r=S. Agapiti Martyris=1=
 08-19=08-19=S. Joannis Eudes Confessoris=3=
