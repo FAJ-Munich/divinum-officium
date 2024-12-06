@@ -977,6 +977,14 @@ Amen.
 V. Ángelis suis Deus mandávit de te.
 R. Ut custódiant te in ómnibus viis tuis.
 
+[Quad Versum 2] (rubrica cisterciensis)
+V. Scuto circúmdabit te véritas ejus.
+R. Non timébis a timóre noctúrno.
+
+[Quad Versum 3] (rubrica cisterciensis)
+V. Ángelis suis Deus mandávit de te.
+R. Ut custódiant te in ómnibus viis tuis.
+
 [Quad Vespera]
 !Joël 2:17
 v. Inter vestíbulum et altáre plorábunt sacerdótes, minístri Dómini, et dicent: Parce, Dómine, parce pópulo tuo: et ne des hereditátem tuam in oppróbrium, ut dominéntur eis natiónes.
@@ -1493,7 +1501,7 @@ _
 Ant. Sancti per fidem vicérunt regna, operáti sunt justítiam, adépti sunt, repromissiónes. (Allelúja, allelúja.)
 _
 V. Beáti quos elegísti, Dómine. (Allelúja.)
-R. Habitábunt inátriis tuis. (Allelúja.)
+R. Habitábunt in átriis tuis. (Allelúja.)
 _
 $Oremus  
 v. Præsta, quǽsumus, omnípotens Deus: * ut qui sanctórum tuórum Benedícti, Bernárdi et Robérti commemoratiónem cólimus, ↊ eórum étiam virtútes imitémur.

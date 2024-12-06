@@ -1,0 +1,1016 @@
+[Day0 Laudes]
+!Zjevení 7:12
+v. Chvála, sláva, moudrost, díky, čest, moc a síla <i>přísluší</i> našemu Bohu na věčné věky! Amen.
+$Deo gratias
+
+[HymnusM Day0 Laudes]
+@:Hymnus Day0 Laudes
+
+[Hymnus Day0 Laudes]
+{:H-Ecceiamnoctis:}v. Stín noci hasne, již se rozednívá,
+jitřenky jasné třpyt na slunce kývá,
+nuž, prosme, všichni, co nám síly zbývá
+Všemohoucího.
+_
+Bůh aby všecku malátnost rozehnal,
+nám aby spásu milostivě všem dal,
+též by nám dopřál z dobroty otcovské
+říše nebeské.
+_
+Dej nám to všecko, přeblažené božství
+Otce i Syna i Ducha svatého,
+jemuž vždy třímá sláva světů množství
+z vesmíru všeho. 
+Amen.
+
+[Day0 Versum 2]
+V. Hospodin kraluje, oděl se velebností.
+R. Oděl se Hospodin silou a opásal se mocí.
+
+[Day0 Laudes2]
+!1 Cor 9:24
+v. Bratři, Nevíte, že ti, kteří běží na stadionu, sice běží všichni, ale pouze jeden přijme věnec? Běžte tak, abyste pochopili.
+$Deo gratias
+
+[Day0 Vespera]
+!2 Kor 1:3-4
+v. Buď veleben Bůh, Otec našeho Pána Ježíše Krista, Otec milosrdenství a Bůh veškeré útěchy. On nás těší ve všech našich souženích.
+$Deo gratias
+
+[Hymnus Day0 Vespera]
+{:H-Luciscreator:}v. Ó světla Tvůrce nejlepší, 
+jenž bělostný jas dáváš dnům, 
+jenž v záři panenského dne 
+připravils světa počátek,
+_
+A ráno spjato s večerem 
+Kážeš nám nazývati dnem: 
+Již černý chaos valí se
+modlitby, Bože, slyš a pláč:
+_
+By duch náš, ztěžklý zločinem
+připraven nebyl o podíl 
+Života, na nějž nemyslí, 
+a do vin jen se zaplétá.
+_
+Však do bran tvých ať zabuší 
+v modř, vezme cenu Života. 
+Již zanechme, co škodí nám 
+a smyjme každou ohavnost!
+_
+To dejž nám, Otče laskavý, 
+i Ty, jenž Otci roven jsi, 
+jenž s Duchem Utěšitelem 
+vládneš od věků na věky.
+Amen.
+
+[HymnusM Day0 Vespera]
+@:Hymnus Day0 Vespera
+
+[Day0 Versum 3]
+V. Směřuj, Pane, modlitbu mou.
+R. Jako dým kadidla až před tvář svou.
+
+[Day1 Laudes]
+!Řím 13:12-13
+v. Noc pokročila, den se přiblížil. Odložme tedy skutky temnoty a oblečme se do výzbroje světla. Veďme počestný život jako ve dne.
+$Deo gratias
+
+[HymnusM Day1 Laudes]
+@:Hymnus Day1 Laudes
+
+[Hymnus Day1 Laudes]
+{:H-LaudsFeria:}v. Ó blesku slávy Otcovy, 
+jenž ve dne sluncem zazáříš,
+Tys světla svit, zdroj záření, 
+sám Den, jenž dni osvětluje: 
+_
+A pravé slunce, vyjdi již
+ó věčný jase v blýskání 
+paprsky Ducha svatého 
+již nalej v proudy našich žil.
+_
+Teď Otce prosme oběťmi, 
+Otce i mocné milosti,
+Otce i věčné oslavy, 
+ať kluzkou vinu vyhostí.
+_
+Ať v pracích řádných řídí nás,
+a zuby ďáblu vyláme; 
+a trudy v dobro obrátí, 
+našemu dílu požehná.
+_
+Ať mysl řídí, vládne jí 
+a tělo nadá čistotou, 
+víra ať teplem mocně plá, 
+jed bludný lži ji nezdeptá.
+_
+A Kristus nám bud pokrmem 
+a víra buď nám nápojem. 
+Radostně pijme střízlivou 
+záplavu Ducha svatého.
+_
+Tak v radosti ať projde den: 
+stud čistý bud jak svítání, 
+a víra jako poledne, 
+však soumrak ducha nezachmuř.
+_
+Hle, jitřenka už vychází, 
+s níž přijdiž k nám již světel Pán,
+Syn celý v lůně Otcově 
+a celý v Slově Otec sám.
+_
+Buď Bohu Otci sláva, čest, 
+i Synu, jemu rovnému, 
+i Duchu Utěšiteli 
+buď sláva všechen věků věk. 
+Amen.
+
+[Day1 Versum 2]
+V. Ráno jsme naplněni tvým milosrdenstvím.
+R. Zajásali jsme a jsme potěšeni.
+
+[HymnusM Day3 Vespera]
+@:Hymnus Day3 Vespera:s/mundi plagas/centrum poli/ s/Dum solis accéndis rotam/Solis rotam constítuens/ s/Expélle noctem córdium:/Illúmina cor hóminum,/
+
+[Day6 Vespera]
+!Řím. 11:33
+v. Ó, jak bezedná je Boží štědrost, moudrost i poznání! Jak neproniknutelná jsou jeho rozhodnutí a neprobádatelné způsoby jeho jednání! 
+$Deo gratias
+
+[HymnusM Day6 Vespera]
+{:H-VespFeria:}v. Ó světlo Trojice nejsvětější, 
+ty jednotou jsi nejprvnější. 
+I slunce ohnivé ustoupí, 
+když světlo tvé nám do srdcí vstoupí.
+_
+Tě ráno písní slavných chval,
+tě večer snažně prosíme,
+Tě náš pokorný chvalozpěv
+po všechny věky chválit chce.
+_
+Bud Bohu Otci sláva, čest
+i Synu, který z mrtvých vstal, 
+i Duchu Utěšiteli
+bud chvála všechen věků věk.
+Amen.
+
+[Day6 Versum 3]
+V. Večerní modlitba vystoupiž k tobě, Pane.
+R. A k nám ať sestoupí tvé milosrdenství. 
+
+[Day1 Ant 2] (rubrica cisterciensis)
+Pozdvihl nám Hospodin * roh spásy v rodu Davida, svého syna.
+
+[Day2 Ant 2] (rubrica Cisterciensis)
+Záchranu * od našich nepřátel, a z ruky všech, kdo nás nenávidí, vysvoboď nás, Pane.
+
+[Day3 Ant 2] (rubrica Cisterciensis)
+Ve svatosti * služme Pánu, a on nás vysvobodí od našich nepřátel.
+
+[Day4 Ant 2] (rubrica Cisterciensis)
+Abys nám dal poznat * svůj lid, Pane, k odpuštění našich hříchů.
+
+[Day5 Ant 2]
+Pro slitování a milosrdenství * našeho Boha nás navštívil Vycházející z výsosti.
+
+[Day6 Ant 2] (rubrica Cisterciensis)
+Na cestu pokoje * naveď nás, Pane.
+
+[Day1 Ant 3] (rubrica cisterciensis)
+Zajásal * můj duch v Bohu mém Spasiteli.
+
+[Day2 Ant 3] (rubrica Cisterciensis)
+Shlédli jsi * na mou poníženost, Pane můj Bože.
+
+[Day3 Ant 3] (rubrica Cisterciensis)
+Neboť mi učinil * veliké věci Pán, který je mocný, a svaté je jeho jméno.
+
+[Day4 Ant 3] (rubrica Cisterciensis)
+Srazil mocné, * Svaté pronásledující; a povýšil pokorné, Krista vyznávající.
+
+[Day5 Ant 3] (rubrica Cisterciensis)
+Přijal Bůh * Israele, svého služebníka: jak pravil Abrahámovi, a jeho potomstvu navěky.
+
+[Adv Laudes] (rubrica cisterciensis)
+!Phil 3, 20-21.
+v. Očekáváme Spasitele našeho Pána Ježíše Krista, který přemění naše ubohé tělo, aby nabylo stejné podoby jako jeho tělo oslavené.
+$Deo gratias.
+
+[Hymnus Adv Laudes]
+{:H-LaudsAdv:}v. Hle, z pouště zní hlas jasný dost,
+jenž deptá každou nepravost,
+vyhosťme z nitra plané sny,
+už svítá Ježíš z výšiny.
+_
+Prober se duše z mrákoty,
+než tě kal hříchů zatopí.
+Už nová hvězda vysvitla,
+jež vyvede svět z moci zla.
+_
+Beránek je k nám posílán
+za naše hříchy splatit daň.
+Úpěnlivými prosbami
+jej prosme o slitování.
+_
+Až jako blesk se vrátí zpět
+a v pouta hrůzy sevře svět,
+ať netrestá nás podle vin,
+je však nám Otcem laskavým.
+_
+Ať slávou se Bůh Otec skví,
+buď jeho Synu vítězství.
+Nechť chvála Duchu, Plameni,
+po všechny věky všude zní.
+Amen.
+
+[HymnusM Adv Laudes]
+@:Hymnus Adv Laudes
+
+[Adv Versum 2]
+V. Hlas volajícího na poušti: připravte cesty Pánu.
+R. Narovnejte jeho stezky.
+
+[Adv Versum 2] (rubrica cisterciensis)
+V. Sešli nám Beránka, Hospodine, vládce země.
+R. Z pouště Petry až k hoře Sionské dcery.
+
+[Adv Vespera]
+!Gen 49:10
+v. Nebude odňato žezlo od Judy, vladařská hůl od jeho kolen, dokud nepřijde ten, který má být poslán; on bude nadějí pohanských Národů.
+$Deo gratias
+
+[Hymnus Adv Vespera]
+{:H-VespAdv:}v. Blahý Tvůrce hvězd zářivých,
+ty věčné světlo věrných svých,
+Ježíši, Spasiteli všech,
+slyš tento prosebný náš zpěv.
+_
+Když viděls pln soucitu svět
+do neodvratné zkázy spět,
+ty jsi mu, když už umdléval,
+sám sebe z lásky za lék dal.
+_
+K večeru se svět skláněl již,
+když jako ženich vycházíš
+z komnaty stále zamčené
+své Matky, Panny vznešené.
+_
+Před mocným majestátem tvým
+pokleká každý s třesením,
+jak pozemšťan, tak nebešťan
+a vyznává, žes jeho Pán.
+_
+Prosíme tebe pokorně,
+náš soudce posledního dne:
+už nyní chraň nás štítem svým
+před zrádným šípem ďáblovým.
+_
+Laskavý Vládce, Ježíši,
+buď s Otcem ti čest nejvyšší,
+i s Duchem, který těší nás,
+po všechny věky v každý čas. 
+Amen.
+
+[HymnusM Adv Vespera]
+@:Hymnus Adv Vespera
+
+[Adv Versum 1]
+V. Rosu dejte, nebesa, shůry, a oblakové dštěte Spravedlivého.
+R. Otevři se země a vydej Spasitele.
+
+[Adv Ant 17]
+Ó moudrosti, * tys vyšla z úst Nejvyššího a od počátku do konce pronikáš všechno, celý svět mocně a líbezně řídíš: přijď a nauč  nás cestě moudrosti! 
+
+[Adv Ant 18]
+Ó Adonai, * Vladaři Israelova domu, ty ses ukázal Mojžíšovi v plameni hořícího keře a dals mu na Sinaji zákon: přijď a zachraň nás svou mocnou pravicí! 
+
+[Adv Ant 19]
+Ó kořeni Jesse, * ty jsi byl dán na znamení národům, před tebou králové v úžasu zmlknou, tebe budou Národy vzývat; přijď a vysvoboď nás a už neprodlévej! 
+
+[Adv Ant 20]
+Ó klíči Davidův * a žezlo Israelova domu, ty otvíráš a nikdo nezavře, ty zavíráš a nikdo neotevře: přijď a vyveď z vězení ty, kdo jsou spoutáni v temnotách a stínu smrti! 
+
+[Adv Ant 21]
+Ó Vycházející * z výsosti, jase věčného světla a slunce spravedlnosti: přijď a osvěť ty, kdo jsou v temnotách a stínu smrti! 
+
+[Adv Ant 22]
+Ó Králi * a touho Národů, úhelný kameni, který rozdělené spojuješ vjedno: přijď a spas člověka, kterého jsi utvořil z prachu země! 
+
+[Adv Ant 23]
+Ó Emanueli, * náš Králi a Zákonodárce, očekávání a spáso Národů: přijď a zachraň nás, Pane, náš Bože! 
+
+[Adv Ant 21L]
+Nebojte se: * ještě pět dnů a Pán přijde k vám.
+
+[Adv Ant 23L]
+Hle, naplnilo se vše * co řekl Anděl k Panně Marii.
+
+[Quad Laudes]
+!Isa 58:1
+v. Clama, ne cesses, quasi tuba exálta vocem tuam, et annúntia pópulo meo scélera eórum, et dómui Jacob peccáta eórum.
+$Deo gratias
+
+[HymnusM Quad Laudes]
+@:Hymnus Quad Laudes
+
+[Hymnus Quad Laudes]
+{:H-Osolsalutis:}v. Již Slunce práva, Ježíši, 
+Temnoty mysli rozjasni,
+Ať ctností jas se navrátí,
+Až zemi vrátíš den nový.
+_
+Čas dáváš plný milosti,
+Uděl i srdce kající,
+A obrať k nám svou dobrotu,
+Jenž dlouho‘s snášel s milostí.
+_
+Jakkoliv těžké pokání
+Dej statečně nám unésti,
+Ve velikém tom daru svém,
+Kterým‘s nás z hříchů vykoupil.
+_
+Den nový, den tvůj, vchází svět,
+Zas všecko bude jeden květ;
+Radujme se v něm, vždyť on nás
+K milosti tvé navrátí zas.
+_
+Laskavý Bože na nebi,
+Tě v pokoře svět velebí;
+My milostí tvou vzkříšení
+Ti pějem v novém nadšení.
+Amen.
+
+[Quad Versum 2]
+V. Svým Andělům dal Bůh o tobě příkaz.
+R. Aby tě střežili na všech tvých cestách.
+
+[Quad Versum 2] (rubrica cisterciensis)
+V. Jako štít tě obklopí jeho pravda.
+R. Nebudeš se bát zlých snů.
+
+[Quad Versum 3] (rubrica cisterciensis)
+V. Svým Andělům dal Bůh o tobě příkaz.
+R. Aby tě střežili na všech tvých cestách.
+
+[Quad Vespera]
+!Joel 2:17
+v. Kněží, Hospodinovi služebníci, ať pláčou mezi předsíní a oltářem a říkají: „Ušetř, Hospodine, svůj lid, nevydávej své dědictví v potupu, aby nad ním nevládli pohané!“ 
+$Deo gratias
+
+[HymnusM Quad Vespera]
+@:Hymnus Quad Vespera
+
+[Hymnus Quad Vespera]
+{:H-Audibenigne:}v. Slyš, Tvůrce plný milosti,
+jak lkáme k tobě v lítosti,
+jak vylévá svou bolest ret
+v čas postní po dní čtyřicet.
+_
+Tys milostivý Soudce náš,
+neb naši křehkost dobře znáš:
+hle, my se k tobě vrátili,
+nuž odpusť, čím jsme zhřešili.
+_
+A třebas mnohý je náš hřích,
+rač ušetřit nás kajících,
+a svého jména k oslavě
+lék skytni naší únavě.
+_
+Kéž milost tvá nás posílí,
+vzdor těla bychom zkrotili,
+by srdce v hrůze před hříchem:
+se vyhýbalo svodům všem.
+_
+To jediný, dej, Bože náš,
+jenž v osobách třech přebýváš,
+by sklízel každý v hojnosti
+pak ovoce své střídmosti.
+Amen.
+
+[Quad Versum 3]
+@:Quad Versum 2
+
+[Quad5 Laudes]
+!Jer 11:19
+v. Pojďte, nasypme dřevo do jeho chleba, a vykořeňme jej ze země živých, aby se na jeho jméno nikdy více nevzpomínalo.
+$Deo gratias
+
+[HymnusM Quad5 Laudes]
+@:Hymnus Quad5 Laudes
+
+[Hymnus Quad5 Laudes]
+{:H-Lustrasex:}v. Třicet let zde strávil s námi, 
+Čas svůj v těle naplnil, 
+Proto on se rád narodil,
+By se vydal trápení:
+Beránek na Kříže zdvižen, 
+K oběti na nástroji.
+_
+Zde ocet, žluč, bití třtinou,
+Plivance, hřeby, kopí;
+Mírně tělo pronikají,
+Krev i voda vyplují:
+Země, nebe, hvězdy i svět,
+Jsou tou vlnou obmyty.
+_
+Věřný Kříži, mezi všemi
+Strom jediný vznešený!
+Žádný les nemůž' jej zrodit,
+dle větví, květů, plodů;
+Sladké dřevo, sladké hřeby
+Sladkou tíži ponesou.
+_
+Skloň své větve, velký strome!
+Uvolni tvrdé nitro;
+A změkčí se ona drsnost,
+již jsi dostal do vínku;
+Abys údům svého Krále
+měkký nástroj připravil!
+_
+Ty jediný byl jsi hoden
+Nésti světa odplatu;
+Také přístav připraviti
+Světu ztroskotalému;
+Jejž přesvatá krev obmyla
+Kterou prolil Beránek.
+_
+Sláva a sláva Bohu
+Odvěků nejvyššího;
+Spolu Otci, též i Synu,
+A slavnému Těšiteli:
+Jemu chvála buď i síla
+Na nekonečné věky.
+Amen.
+
+[Quad5 Versum 2]
+V. Vytrhni mne od mých nepřátel, můj Bože.
+R. A od těch, kdo proti mně povstávají, mě osvoboď.
+
+[Quad5 Versum 2] (rubrica cisterciensis)
+V. Člověk mého pokoje, v nějž jsem doufal.
+R. Rozšířil proti mě zradu.
+
+[Quad5 Vespera]
+!Jer 11:20
+v. Hospodine zástupů, spravedlivý soudce, který zkoumáš srdce i ledví, kéž vidím tvoji pomstu nad nimi, neboť tobě svěřuji svou při.
+$Deo gratias
+
+[HymnusM Quad5 Vespera]
+@:Hymnus Quad5 Vespera
+
+[Hymnus Quad5 Vespera]
+{:H-Vexillaregis:}v. Hle, s králem průvod korouhví, 
+kříž vpředu tajemně se skví, 
+vždyť na něm v mukách s tělem pněl, 
+našeho těla Stvořitel.
+_
+Kaleným kopím hluboce 
+zasažen ranou do srdce, 
+svou krev i s vodou vycedil, 
+aby z nás všechny viny smyl.
+_
+Zářivý strome vznešený, 
+purpurem krále oděný, 
+jen tvůj kmen směl se hodným stát 
+svatých se údů dotýkat.
+_
+Hle, cena světa výkupná 
+tíží ti sladce ramena. 
+Když svaté tělo zvážil jsi, 
+zbavuješ peklo kořisti.
+_
+Čest Oltáři ti, Oběti, 
+jsou kruté muky k slávě ti, 
+když smrtí skosen život byl, 
+nám smrtí život vydobyl. 
+_
+!Následující sloka se říká na kolenou.
+_
+Buď, kříži, zdráv, všech naděje! 
+Když triumfální čas teď je, 
+(sed tempore Passionis)
+Když pašijový čas teď je,
+(sed tempore Paschali)
+Když Velkonoční čas teď je
+rozhojni milost věřících 
+a hříšným odpusť každý hřích.
+_
+Trojice, zdroji milosti, 
+ať každý tvor tě s chválou ctí. 
+Spasené křížem tajemným 
+oblažuj věčně světlem svým. 
+Amen.
+
+[Quad5 Versum 3]
+V. Vytrhni mě, Hospodine, od zlého člověka.
+R. Od muže nepravosti vytrhni mě.
+
+[Quad5 Versum 3] (rubrica cisterciensis)
+V. Dali v můj pokrm žluč.
+R. A v mé žízni napájeli mě octem.
+
+[Pasch Laudes]
+!Řím 6:9-10
+v. Víme totiž, že Kristus vzkříšený z mrtvých už neumírá, smrt nad ním už nemá vládu. Kdo umřel, umřel hříchu jednou provždy, a když žije, žije pro Boha.
+$Deo gratias
+
+[HymnusM Pasch Laudes]
+@:Hymnus Pasch Laudes.
+
+[Hymnus Pasch Laudes]
+{:H-Auroracoelum:}v. Jitřenka rdí se růžemi, 
+nebesa zvučí písněmi, 
+zní světem jásot vítězný, 
+úpí jen žalář pekelný.
+_
+Vždyť statečný a mocný Král, 
+jenž síly smrti pošlapal 
+a brány pekel vyvrátil, 
+nám hříšným viny odpustil.
+_
+Ač zavalen byl balvanem 
+a silnou stráží obklopen, 
+hle, Vítěz vyšlý ze hrobu 
+jde v triumfálním průvodu.
+_
+Je konec všemu úpění, 
+bezmocný nářek peklem zní: 
+Náš Pán už z mrtvých slavně vstal, 
+jak zářný Anděl zvěstoval.
+_
+Buď věčně, Kriste, věrným svým 
+plesáním Velikonočním. 
+Nás, milostí tvou vzkříšené, 
+vem k oslavě své vítězné.
+_
+* Ježíši, každý tvor tě chval, 
+neboť jsi slavně z mrtvých vstal, 
+i Otce, Ducha milosti 
+ať věčně všechno tvorstvo ctí. 
+Amen.  
+
+[Pasch Versum 2]
+V. Kriste, ve tvém zmrtvýchvstání, alleluia.
+R. Ať zajásá nebe i země, alleluia.
+
+[Pasch Versum 2] (rubrica cisterciensis)
+V. Rozhlašujte mezi národy, alleluja.
+R. Že Pán vládnul z dřeva kříže, alleluja.
+
+[Pasch Vespera]
+@:Pasch Laudes
+
+[HymnusM Pasch Vespera]
+@:Hymnus Pasch Vespera
+
+[Hymnus Pasch Vespera]
+{:H-Adregias:}v. U Beránkovy hostiny 
+oděni rouchy bílými, 
+když Rudým mořem prošli jsme, 
+Vladaři Kristu zpívejme.
+_
+Když jeho tělem posvátným, 
+na kříži obětovaným, 
+se sytíme a pijeme 
+jeho krev, v Bohu žijeme.
+_
+Chráněni tímto pokrmem 
+před smrtonosným andělem, 
+svrhli jsme z beder kruté jho 
+tyrana bezohledného.
+_
+Kristus je naší Paschou teď, 
+on sám se vydal za oběť 
+a místo přesnic našim rtům 
+své Tělo dává za pokrm.
+_
+Tys, nejčistější Oběti, 
+zlomila vládu podsvětí. 
+Z otroctví lid je vykoupen, 
+odměna žití kyne všem.
+_
+Hle, Kristus, když vstal ze hrobu, 
+jde z pekel v slavném průvodu 
+a brány nebes otevřev, 
+vládce tmy vleče v okovech.
+_
+Buď věčně, Kriste, věrným svým 
+plesáním velikonočním. 
+Nás, milostí tvou vzkříšené, 
+vem k oslavě své vítězné.
+_
+* Ježíši, každý tvor tě chval, 
+neboť jsi slavně z mrtvých vstal, 
+i Otce, Ducha milostí 
+ať věčně všechno tvorstvo ctí. 
+Amen.
+
+[Pasch Versum 3]
+V. Zůstaň s námi, Pane, alleluja.
+R. Neboť se připozdívá, alleluja.
+
+
+[Suffragium Feriale]
+!De cruce
+Ant. Znamením Kříže nás vysvoboď od našich nepřátel, náš Bože.
+_
+V. Celá země ať se ti klaní a pěje tobě chválu.
+R. Chválu pěje tvému jménu.
+_
+$Oremus
+v. Prosíme, Pane, neutuchajícím mírem nás provázej, neboť jsi nás ráčil na dřevě svatého Kříže vykoupit.
+
+[Suffragium Paschale]
+Ant. Crucifíxus surréxit a mórtuis, et redémit nos, allelúja, allelúja.
+_
+V. Dícite in natiónibus, allelúja.
+R. Quia Dóminus regnávit a ligno, allelúja.
+_
+$Oremus
+v. Deus qui pro nobis Fílium tuum Crucis patíbulum subíre voluísti, ut inimíci a nobis expélleres potestátem: concéde nobis fámulis tuis; ut resurrectiónis grátiam consequámur.
+$Per eumdem
+
+[Suffragium PaschaleV]
+Ant. Crucem sanctam súbiit, qui inférnum confrégit; accínctus est poténtia, surréxit die tértia, allelúja.
+@:Suffragium Paschale:2-9
+
+[Suffragium BMV]
+!De Beata Maria
+Ant. Sancta María succúrre míseris, juva pusillánimes, réfove flébiles, ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu: séntiant omnes tuum juvámen, quicúmque célebrant tuam sanctam commemoratiónem.
+_
+(deinde dicuntur semper)
+V. Ora pro nobis sancta Dei Génitrix.
+R. Ut digni efficiámur promissiónibus Christi.
+_
+$Oremus
+v. Concéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére, et gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia.
+(sed tempore post partum loco horum versuum dicuntur)
+@Psalterium/Mariaant:Nativiti:s/.*V\./V\./s
+
+[Suffragium BMV] (rubrica cisterciensis)
+!O Panně Marii
+Ant. Svatá Boží Rodičko, vždy Panno Maria, přimlouvej se za nás u Pána našeho Boha. (Allelúja, allelúja.)
+_
+@Psalterium/Mariaant:Postpentecost: s/.*V\./V./s s/(Per|Through|Skrz).*$/\n/
+(sed tempore post Epiphaniam aut Septuagesimæ aut Quadragesimæ aut Passionis dicitur)
+@Psalterium/Mariaant:Quadragesimae: s/.*V\./V./s  s/(Per|Through|Skrz).*$//
+(sed Adventus dicitur) 
+@Psalterium/Mariaant:Advent: s/.*V\./V./s s/(Per|Through|Skrz).*$//
+(sed Nativitatis aut Epiphaniæ aut post partum dicitur)
+@Psalterium/Mariaant:Nativiti: s/.*V\./V./s s/Amen.*$//
+(sed Paschali dicitur)
+@Psalterium/Mariaant:Paschalis: s/.*V\./V./s s/(Per|Through|Skrz).*$//
+
+[Suffragium DeJosephV]
+!O Svatém Josefovi
+Ant. Hle, služebník věrný a moudrý, jejž ustanovil Pán na svou rodinou. (Alleluja.)
+_
+V. Sláva a bohatství v jeho domě. (Alleluja.)
+R. A jeho spravedlnost zůstává navěky. (Alleluja.)
+_
+$Oremus  
+v. Bože, jenž sis v nevýslovné prozíravosti ráčil vyvolit svatého Josefa za manžela tvé přesvaté Rodičky; uděl, prosíme, aby když jej ctíme jako ochránce na zemi, zasloužili si míti jej jako přímluvce v nebi.
+
+[Suffragium DeJoseph]
+!O Svatém Josefovi
+Ant. Samotnému Ježíšovi již bylo třicet let a byl považován za syna Josefova. (Alleluja.)
+_
+V. Ústa spravedlivého rozvažují moudré věci. (Alleluja.)
+R. A jeho jazyk mluví věci správné. (Alleluja.)
+(sed commune C4 aut commune C5 loco hujus versus dicitur)
+@:Suffragium DeJosephV:4-5
+_
+@:Suffragium DeJosephV:7-8
+
+[Suffragium DeApostolisV]
+!De Apostolis
+Ant. Petrus Apóstolus, et Paulus Doctor Géntium, ipsi nos docuérunt legem tuam Dómine.
+_
+V. Constítues eos príncipes super omnem terram.
+R. Mémores erunt nóminis tui Dómine.
+_
+$Oremus  
+v. Deus, cujus déxtera beátum Petrum ambulántem in flúctibus, ne mergerétur, eréxit, et coapóstolum ejus Paulum tértio naufragántem de profúndo pélagi liberávit: exáudi nos propítius, et concéde; ut ambórum méritis, æternitátis glóriam consequámur.
+
+[Suffragium DeApostolis]
+!De Apostolis
+Ant. Gloriósi príncipes terræ, quómodo in vita sua dilexérunt se, ita et in morte non sunt separáti.
+_
+V. In omnem terram exívit sonus eórum.
+R. Et in fines orbis terræ verba eórum.
+_
+@:Suffragium DeApostolisV:7-8
+
+[Suffragium DeSSPNV]
+!O svatých Benediktovi, Bernardovi a Robertovi
+Ant. Svatí svou vírou přemohli říše <i>pekelné</i>, jednali spravedlivě a dosáhli zaslíbení <i>Božích</i>. (Alleluja, alleluja.)
+_
+V. Blažení ti, které jsi vyvolil, Hospodine. (Alleluja.)
+R. Přebývati budou ve tvých síních. (Alleluja.)
+_
+$Oremus  
+v. Uděl, prosíme, všemohoucí Bože; abychom, když ctíme památku tvých svatých Benedikta, Bernarda a Roberta, také jejich ctnosti napodobovali.
+
+[Suffragium DeSSPN]
+!De SS. Benedicto, Bernardo et Roberto
+Ant. Těla Svatých jsou pohřbena v pokoji, a jejich jména budou žít navěky. (Alleluja, alleluja.)
+@:Suffragium DeSSPNV:3-8
+
+[Suffragium DePace]
+!Za mír
+Ant. Dej mír, Hospodine, za našich dnů, neboť není druhého, kdo by za nás bojoval, než ty, Bože náš. (Alleluja.)
+_
+V. Budiž mír ve tvé moci. (Alleluja.)
+R. A hojnost uvnitř našich hradeb. (Alleluja.)
+_
+$Oremus
+v. Bože, od nějž pochází svaté touhy, správná rozhodnutí a dobré skutky; dej svým služebníkům onen pokoj, jejž svět nedokáže dát; aby i naše srdce, tvým přikázáním oddaná, a zbavená strachu z nepřátel, i časy byly pod tvou ochranou pokojné.
+$Per Dominum
+
+[Suffragium] (rubrica divino)
+@:Suffragium Divino
+(sed commune C1[012] dicitur)
+@:Suffragium Divino1
+(sed tempore paschali)
+@:Suffragium Paschale
+
+[Suffragium Laudes] (rubrica tridentina)
+(si officio feriali dicuntur)
+@:Suffragium Feriale
+_
+(numquam omittitur)
+(atque dicuntur semper)
+@:Suffragium BMV
+_
+(attamen commune C10 aut tempore paschali omittuntur)
+(atque dicuntur semper)
+@:Suffragium DeJoseph
+_
+(sed rubrica 1570 aut rubrica 1617 omittuntur)
+@:Suffragium DeApostolis
+_
+@:Suffragium DePatrono
+_
+@:Suffragium DePace
+(atque tempore paschali loco horum versuum dicitur)
+@:Suffragium Paschale
+
+[Suffragium Laudes] (rubrica cisterciensis)
+@:Suffragium BMV
+(sed commune C1[01] omittitur)
+(deinde rubrica 1951 aut feria 4 dicuntur)
+_
+(sed commune C1[01] omittitur)
+@:Suffragium DeJoseph
+(deinde rubrica 1951 aut feria 3 dicuntur)
+_
+@:Suffragium DeSSPN
+(deinde rubrica 1951 aut feria 7 dicuntur)
+_
+@:Suffragium DePace
+
+[Suffragium Vespera] (rubrica tridentina)
+(si officio feriali dicuntur)
+@:Suffragium Feriale
+_
+(numquam omittitur)
+(atque dicuntur semper)
+@:Suffragium BMV
+_
+(attamen commune C10 aut tempore paschali omittuntur)
+(atque dicuntur semper)
+@:Suffragium DeJosephV
+_
+(sed rubrica 1570 aut rubrica 1617 omittuntur)
+@:Suffragium DeApostolisV
+_
+@:Suffragium DePatrono
+_
+@:Suffragium DePace
+(atque tempore paschali loco horum versuum dicitur)
+@:Suffragium PaschaleV
+
+[Suffragium Vespera] (rubrica cisterciensis)
+!O Panně Marii
+@Psalterium/Mariaant:Postpentecost: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(Per|Through|Skrz).*$/\n/s
+(sed tempore post Epiphaniam aut Septuagesimæ aut Quadragesimæ aut Passionis dicitur)
+@Psalterium/Mariaant:Quadragesimae: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(Per|Through|Skrz).*$/\n/s
+(sed Adventus dicitur) 
+@Psalterium/Mariaant:Advent: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(Per|Through|Skrz).*$/\n/s
+(sed Nativitatis aut Epiphaniæ aut post partum dicitur)
+@Psalterium/Mariaant:Nativiti: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/Amen.*$/\n/s
+(sed Paschali dicitur)
+@Psalterium/Mariaant:Paschalis: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(Per|Through|Skrz).*$/\n/s
+(sed commune C1[01] omittitur)
+(deinde rubrica 1951 aut feria 3 dicuntur)
+_
+(sed commune C1[01] omittitur)
+@:Suffragium DeJoseph
+(deinde rubrica 1951 aut feria 2 dicuntur)
+_
+@:Suffragium DeSSPN
+(deinde rubrica 1951 aut feria 6 dicuntur)
+_
+@:Suffragium DePace
+
+[Day0M Laudes]
+@:Day0 Laudes
+_
+R.br. Inclína cor meum, Deus, * In testimónia tua.
+R. Inclína cor meum, Deus, * In testimónia tua.
+V. Avérte óculos meos, ne vídeant vanitátem: in via tua vivífica me.
+R. In testimónia tua.
+&Gloria
+R. Inclína cor meum, Deus, * in testimónia tua.
+
+[DayFM Laudes]
+@:Day1 Laudes
+_
+R.br. Uzdrav mou duši, * neboť jsem zhřešil proti tobě.
+R. Uzdrav mou duši, * neboť jsem zhřešil proti tobě.
+V. Řekl jsem: Pane, smiluj se nade mnou.
+R. Neboť jsem zhřešil proti tobě.
+&Gloria
+R. Uzdrav mou duši, * neboť jsem zhřešil proti tobě.
+
+[Day6M Laudes]
+@:DayFM Laudes
+
+[Day0M Vespera]
+@:Day0 Vespera
+_
+R.br. Jak vznešená jsou tvá díla, Hospodine.  
+R. Jak vznešená jsou tvá díla, Hospodine.   
+V. Všechno jsi moudře učinil.
+R. Tvá díla, Hospodine.
+&Gloria
+R. Jak vznešená jsou tvá díla, Hospodine. 
+
+[DayFM Vespera]
+@:Day0 Vespera
+_
+R.br. Benedícam Dóminum * In omni témpore.
+R. Benedícam Dóminum * In omni témpore.
+V. Semper laus ejus in ore meo.
+R. In omni témpore.
+&Gloria
+R. Benedícam Dóminum * In omni témpore.
+
+[Day6M Vespera]
+@:Day6 Vespera
+_
+R.br. Veliký je náš Pán, a veliká je jeho moc.
+R. Veliký je náš Pán, a veliká je jeho moc.
+V. a jeho moudrost nelze vyčíslit. 
+R. A veliká je jeho moc.
+&Gloria
+R. Veliký je náš Pán, a veliká je jeho moc.
+
+[AdvM Laudes]
+@:Adv Laudes
+_
+R.br. Přijď a vysvoboď nás * silný Pane Bože.
+R. Přijď a vysvoboď nás * silný Pane Bože.
+V. Ukaž nám svou tvář a budeme spaseni.
+R. Silný Pane Bože.
+&Gloria
+R. Přijď a vysvoboď nás * silný Pane Bože.
+
+[AdvM Vespera]
+@:Adv Vespera
+_
+R.br. Osténde nobis Dómine * Misericórdiam tuam.
+R. Osténde nobis Dómine * Misericórdiam tuam.
+V. Et salutáre tuum da nobis.
+R. Misericórdiam tuam.
+&Gloria
+R. Osténde nobis Dómine * Misericórdiam tuam.
+
+[AdvM Vespera] (rubrica cisterciensis)
+@:Adv Vespera
+_
+R.br. Ty povstaň, Pane, * A smiluj se nad Sionem.
+R. Ty povstaň, Pane, * A smiluj se nad Sionem.
+V. Neboť čas jeho slitování, nastal jeho čas.
+R. A smiluj se nad Sionem
+
+[QuadM Laudes]
+@:Quad Laudes
+_
+R.br. On sám mě vysvobodil * z léčky lovců.
+R. On sám mě vysvobodil * z léčky lovců.
+V. I od tvrdého slova.
+R. Z léčky lovců.
+&Gloria
+R. On sám mě vysvobodil * z léčky lovců.
+
+[QuadM Vespera]
+@:Quad Vespera
+_
+R.br. Svými rameny * tě zastíní. 
+R. Svými rameny * tě zastíní.
+V. A pod jeho perutěmi nalezneš naději.
+R. Tě zastíní.
+&Gloria
+R. Svými rameny * tě zastíní.
+
+[Quad5M Laudes]
+@:Quad5 Laudes
+_
+R.br. Vysvoboď od meče, * Bože, mou duši.
+R. Vysvoboď od meče, * Bože, mou duši.
+V. A z moci psů můj život.
+R. Bože, mou duši.
+R. Vysvoboď od meče, * Bože, mou duši.
+
+[Quad5M Vespera]
+@:Quad5 Vespera
+_
+R.br. Ze lví tlamy * vysvoboď mě, Pane.
+R. Ze lví tlamy * vysvoboď mě, Pane.
+V. A z rohů jednorožců mou pokoru.
+R. Vysvoboď mě, Pane.
+R. Ze lví tlamy * vysvoboď mě, Pane.
+
+[PaschM Laudes]
+@:Pasch Laudes
+_
+@Psalterium/Special/Minor Special:Responsory Pasch Tertia:s/._.*//s
+
+[PaschM Vespera]
+@:Pasch Laudes
+_
+@Psalterium/Special/Minor Special:Responsory Pasch Sexta:s/._.*//s
+
+[Preces feriales Laudes]
+$Kyrie
+$rubrica Pater secreto
+$Pater noster Et
+$Preces feriales Laudes
+$Domine exaudi
+
+[Preces feriales Vespera]
+$Kyrie
+$rubrica Pater secreto
+$Pater noster Et
+$Preces feriales Vespera
+$Domine exaudi
+
+[Day0 Versum 0]
+V. Excélsus super omnes gentes Dóminus.
+R. Et super calos glória ejus.
+
+[Day1 Versum 0]
+V. Fiat misericórdia tua, Dómine, super nos.
+R. Quemádmodum sperávimus in te.
+
+[Day2 Versum 0]
+@:Day1 Versum 0
+
+[Day3 Versum 0]
+@:Day1 Versum 0
+
+[Day4 Versum 0]
+@:Day1 Versum 0
+
+[Day5 Versum 0]
+@:Day1 Versum 0
+
+[Day6 Versum 0]
+@:Day1 Versum 0
+
+[Adv Versum 0]
+V. Vydej Beránka, Hospodine, panovníka země.
+R. Z Petry na poušti na horu, dcero siónská.
+
+[Nat Versum 0]
+V. Chlapec se narodil.
+R. A Syn nám byl dán.
+
+[Quadp Versum 0]
+V. Vznešený nade všechny národy je Hospodin.
+R. A nad nebesa sahá jeho sláva.
+
+[Quad Versum 0]
+V. Na rukou tě ponesou.
+R. Aby sis snad o kamen nezranil svou nohu.
+
+[Quad5 Versum 0]
+V. Pohleď na mou duši, a vysvoboď ji.
+R. Pro mé nepřátele mě vytrhni.
+
+[Pasch Versum 0]
+@:Pasch Versum 2
+
+[Asc Versum 0]
+V. Ascéndo ad Patrem meum et Patrem vestrum, allelúja.
+R. Deum meum et Deum vestrum, allelúja.
+
+[Pent Versum 0]
+V. Emítte Spíritum tuum, et creabúntur, allelúja.
+R. Et renovábis fáciem terræ, allelúja.
+
+[Suffragium DePatrono]
+!De Patrono vel Titulo Ecclesiæ
+/:fiat com. consueata ante vel post Commemorationes prædictas, pro dignitate illius, et ultimo loco::/

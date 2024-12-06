@@ -1,0 +1,116 @@
+[Source]
+ex Psalterio secundum diem
+ex Psalterio secundum tempora
+ex Proprio de Tempore
+ex Proprio Sanctorum
+ex Commune aut Festo
+Per Annum
+Psalmi et Antiphona de Dominica
+Votiva
+
+[Preces]
+habentur
+omittitur
+specialis
+
+[Prima_Special]
+festiva
+feriale
+
+[Suffragium]
+omittitur
+per annum
+paschale
+Tridentinum
+cisterciense
+altovadense
+
+[Lectio]
+Commemoratio Feriae
+Commemoratio Dominica
+Commemoratio Sancti
+Commemoratio Vigilia Epiphaniae
+
+[Martyrologium]
+anticip.
+
+[Menses]
+Augusti
+Septembris
+Octobris
+Novembris
+Decembris
+
+[Festa]
+none
+Simplex
+Semiduplex
+(sed rubrica 1955)
+Simplex
+Duplex
+Duplex majus
+(sed rubrica 1570)
+Duplex
+Duplex II. classis
+Duplex I. classis
+Duplex I. classis
+
+[Festa] (rubrica 196)
+Feria
+IV. classis
+III. classis
+III. classis
+III. classis
+II. classis
+I. classis
+I. classis
+
+[Festa] (rubrica cisterciensis)
+none
+iij. Lect. et M.
+xij. Lect. et M.
+MM. min.
+MM. maj.
+Serm. min.
+Serm. maj.
+Serm. maj.
+
+[Dominicae]
+Duplex I. classis
+Semiduplex Dominica I. classis
+Semiduplex Dominica II. classis
+Semiduplex Dominica anticipata
+(sed rubrica Tridentina)
+Simplex Dominica anticipata
+Semiduplex Dominica minor
+
+[Feriae]
+Feria
+Feria
+Feria major
+(sed rubrica Monastic.*Divino)
+Feria privilegiata III. ordinis
+Feria major
+(sed rubrica Monastic.*Divino)
+Feria privilegiata II. ordinis
+Feria major
+(sed rubrica Monastic.*Divino)
+Feria privilegiata II. ordinis
+Feria privilegiata
+Feria privilegiata
+Feria privilegiata
+
+[Vigilia]
+Vigilia
+
+[Dies Octavæ]
+Dies Octavæ
+
+[ordinis]
+ordinis
+
+[classis]
+classis
+
+[privilegiata]
+privilegiata
