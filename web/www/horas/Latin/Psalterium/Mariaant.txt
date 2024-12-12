@@ -101,4 +101,7 @@ _
 @Commune/C10:Invit:s/(.*)\, \*.*/V. $1. (Allelúja.)/
 @Commune/C10:Invit:s/.*\* (.*)\./R. $1. (Allelúja.)/
 _
-@:Postpentecost::s/.*V\. //s 3-4
+$Oremus
+v. Omnípotens sempitérne Deus, qui gloriósæ Vírginis Matris Maríæ corpus et ánimam, ut dignum Fílii tui habitáculum éffici mererétur, Spíritu Sancto cooperánte, præparásti: da, ut, cujus commemoratióne lætámur, ejus pia intercessióne, ab instántibus malis et a morte perpétua liberémur. Per eúndem Christum Dóminum nóstrum.
+R. Amen.
+&Dominus_vobiscum

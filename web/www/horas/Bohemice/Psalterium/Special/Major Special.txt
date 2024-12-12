@@ -612,7 +612,7 @@ R. Neboť se připozdívá, alleluja.
 
 
 [Suffragium Feriale]
-!De cruce
+!O Kříži
 Ant. Znamením Kříže nás vysvoboď od našich nepřátel, náš Bože.
 _
 V. Celá země ať se ti klaní a pěje tobě chválu.
@@ -622,34 +622,34 @@ $Oremus
 v. Prosíme, Pane, neutuchajícím mírem nás provázej, neboť jsi nás ráčil na dřevě svatého Kříže vykoupit.
 
 [Suffragium Paschale]
-Ant. Crucifíxus surréxit a mórtuis, et redémit nos, allelúja, allelúja.
+Ant. Ukřižovaný vstal z mrtvých, a vykoupil nás, alleluja, alleluja.
 _
-V. Dícite in natiónibus, allelúja.
-R. Quia Dóminus regnávit a ligno, allelúja.
+V. Rozhlašujte mezi národy, alleluja.
+R. Že Pán vládl ze dřeva <i>kříže</i>, alleluja.
 _
 $Oremus
-v. Deus qui pro nobis Fílium tuum Crucis patíbulum subíre voluísti, ut inimíci a nobis expélleres potestátem: concéde nobis fámulis tuis; ut resurrectiónis grátiam consequámur.
+v. Bože, jenž jsi chtěl, aby tvůj Syn pro nás podstoupil utrpení Kříže, abys z nás vyhnal moc nepřítele; uděl nám, svým služebníkům, abychom obdrželi milost vzkříšení.
 $Per eumdem
 
 [Suffragium PaschaleV]
-Ant. Crucem sanctam súbiit, qui inférnum confrégit; accínctus est poténtia, surréxit die tértia, allelúja.
+Ant. Kříž svatý podstoupil ten, který zničil podsvětí; mocí se opásal, jenž třetí den z mrtvých vstal, alleluja.
 @:Suffragium Paschale:2-9
 
 [Suffragium BMV]
-!De Beata Maria
-Ant. Sancta María succúrre míseris, juva pusillánimes, réfove flébiles, ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu: séntiant omnes tuum juvámen, quicúmque célebrant tuam sanctam commemoratiónem.
+!K Panně Marii
+Ant. Panno Maria, přispěj na pomoc ubohým, pomoz malodušným, utěš plačící, oroduj za lid, přimlouvej se za kněžstvo, pomáhej oddanému ženskému pokolení; aby všichni pociťovali tvou pomoc, kdož oslavují tvou svatou připomínku.
 _
 (deinde dicuntur semper)
-V. Ora pro nobis sancta Dei Génitrix.
-R. Ut digni efficiámur promissiónibus Christi.
+V. Oroduj za nás, svatá Boží Rodičko.
+R. Abychom hodni učiněni byli zaslíbení Kristových.
 _
 $Oremus
-v. Concéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére, et gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia.
+v. Uděl nám, svým služebníkům, prosíme, Pane Bože, stálé zdraví duše i těla, a na slavnou přímluvu blahoslavené a neporušené Panny Marie vysvoboď nás z nynější strasti a dej nám dojíti věčně blaženosti. 
 (sed tempore post partum loco horum versuum dicuntur)
 @Psalterium/Mariaant:Nativiti:s/.*V\./V\./s
 
 [Suffragium BMV] (rubrica cisterciensis)
-!O Panně Marii
+!K Panně Marii
 Ant. Svatá Boží Rodičko, vždy Panno Maria, přimlouvej se za nás u Pána našeho Boha. (Allelúja, allelúja.)
 _
 @Psalterium/Mariaant:Postpentecost: s/.*V\./V./s s/(Per|Through|Skrz).*$/\n/
@@ -663,7 +663,7 @@ _
 @Psalterium/Mariaant:Paschalis: s/.*V\./V./s s/(Per|Through|Skrz).*$//
 
 [Suffragium DeJosephV]
-!O Svatém Josefovi
+!Ke Svatému Josefovi
 Ant. Hle, služebník věrný a moudrý, jejž ustanovil Pán na svou rodinou. (Alleluja.)
 _
 V. Sláva a bohatství v jeho domě. (Alleluja.)
@@ -673,7 +673,7 @@ $Oremus
 v. Bože, jenž sis v nevýslovné prozíravosti ráčil vyvolit svatého Josefa za manžela tvé přesvaté Rodičky; uděl, prosíme, aby když jej ctíme jako ochránce na zemi, zasloužili si míti jej jako přímluvce v nebi.
 
 [Suffragium DeJoseph]
-!O Svatém Josefovi
+!Ke Svatému Josefovi
 Ant. Samotnému Ježíšovi již bylo třicet let a byl považován za syna Josefova. (Alleluja.)
 _
 V. Ústa spravedlivého rozvažují moudré věci. (Alleluja.)
@@ -684,21 +684,21 @@ _
 @:Suffragium DeJosephV:7-8
 
 [Suffragium DeApostolisV]
-!De Apostolis
-Ant. Petrus Apóstolus, et Paulus Doctor Géntium, ipsi nos docuérunt legem tuam Dómine.
+!K Apoštolům
+Ant. Petr Apoštol, a Pavel, Učitel Národů, ti nás vyučili tvůj zákon, Pane.
 _
-V. Constítues eos príncipes super omnem terram.
-R. Mémores erunt nóminis tui Dómine.
+V. Ustanovuješ je knížaty nad celou zemí.
+R. Pamětlivi budou tvého jména, Pane.
 _
 $Oremus  
-v. Deus, cujus déxtera beátum Petrum ambulántem in flúctibus, ne mergerétur, eréxit, et coapóstolum ejus Paulum tértio naufragántem de profúndo pélagi liberávit: exáudi nos propítius, et concéde; ut ambórum méritis, æternitátis glóriam consequámur.
+v. Bože, jehož pravice pozvedla Petra kráčejícího po vlnách, aby neutonul, a jeho spolu-apoštola Pavla třikrát ztroskotaného vysvobodila z hlubin moře; vyslyš nás laskavě a uděl, aby pro zásluhy obou jsme obdrželi slávu věčnosti.
 
 [Suffragium DeApostolis]
-!De Apostolis
-Ant. Gloriósi príncipes terræ, quómodo in vita sua dilexérunt se, ita et in morte non sunt separáti.
+!K Apoštolům
+Ant. Slavná knížata země, jak moc se v životě měli rádi, že ani ve smrti nebyli rozděleni.
 _
-V. In omnem terram exívit sonus eórum.
-R. Et in fines orbis terræ verba eórum.
+V. Do každé země vyšel jejich hlas.
+R. A do všech končin země jejich slova.
 _
 @:Suffragium DeApostolisV:7-8
 
@@ -728,101 +728,15 @@ $Oremus
 v. Bože, od nějž pochází svaté touhy, správná rozhodnutí a dobré skutky; dej svým služebníkům onen pokoj, jejž svět nedokáže dát; aby i naše srdce, tvým přikázáním oddaná, a zbavená strachu z nepřátel, i časy byly pod tvou ochranou pokojné.
 $Per Dominum
 
-[Suffragium] (rubrica divino)
-@:Suffragium Divino
-(sed commune C1[012] dicitur)
-@:Suffragium Divino1
-(sed tempore paschali)
-@:Suffragium Paschale
-
-[Suffragium Laudes] (rubrica tridentina)
-(si officio feriali dicuntur)
-@:Suffragium Feriale
-_
-(numquam omittitur)
-(atque dicuntur semper)
-@:Suffragium BMV
-_
-(attamen commune C10 aut tempore paschali omittuntur)
-(atque dicuntur semper)
-@:Suffragium DeJoseph
-_
-(sed rubrica 1570 aut rubrica 1617 omittuntur)
-@:Suffragium DeApostolis
-_
-@:Suffragium DePatrono
-_
-@:Suffragium DePace
-(atque tempore paschali loco horum versuum dicitur)
-@:Suffragium Paschale
-
-[Suffragium Laudes] (rubrica cisterciensis)
-@:Suffragium BMV
-(sed commune C1[01] omittitur)
-(deinde rubrica 1951 aut feria 4 dicuntur)
-_
-(sed commune C1[01] omittitur)
-@:Suffragium DeJoseph
-(deinde rubrica 1951 aut feria 3 dicuntur)
-_
-@:Suffragium DeSSPN
-(deinde rubrica 1951 aut feria 7 dicuntur)
-_
-@:Suffragium DePace
-
-[Suffragium Vespera] (rubrica tridentina)
-(si officio feriali dicuntur)
-@:Suffragium Feriale
-_
-(numquam omittitur)
-(atque dicuntur semper)
-@:Suffragium BMV
-_
-(attamen commune C10 aut tempore paschali omittuntur)
-(atque dicuntur semper)
-@:Suffragium DeJosephV
-_
-(sed rubrica 1570 aut rubrica 1617 omittuntur)
-@:Suffragium DeApostolisV
-_
-@:Suffragium DePatrono
-_
-@:Suffragium DePace
-(atque tempore paschali loco horum versuum dicitur)
-@:Suffragium PaschaleV
-
-[Suffragium Vespera] (rubrica cisterciensis)
-!O Panně Marii
-@Psalterium/Mariaant:Postpentecost: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(Per|Through|Skrz).*$/\n/s
-(sed tempore post Epiphaniam aut Septuagesimæ aut Quadragesimæ aut Passionis dicitur)
-@Psalterium/Mariaant:Quadragesimae: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(Per|Through|Skrz).*$/\n/s
-(sed Adventus dicitur) 
-@Psalterium/Mariaant:Advent: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(Per|Through|Skrz).*$/\n/s
-(sed Nativitatis aut Epiphaniæ aut post partum dicitur)
-@Psalterium/Mariaant:Nativiti: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/Amen.*$/\n/s
-(sed Paschali dicitur)
-@Psalterium/Mariaant:Paschalis: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(Per|Through|Skrz).*$/\n/s
-(sed commune C1[01] omittitur)
-(deinde rubrica 1951 aut feria 3 dicuntur)
-_
-(sed commune C1[01] omittitur)
-@:Suffragium DeJoseph
-(deinde rubrica 1951 aut feria 2 dicuntur)
-_
-@:Suffragium DeSSPN
-(deinde rubrica 1951 aut feria 6 dicuntur)
-_
-@:Suffragium DePace
-
 [Day0M Laudes]
 @:Day0 Laudes
 _
-R.br. Inclína cor meum, Deus, * In testimónia tua.
-R. Inclína cor meum, Deus, * In testimónia tua.
-V. Avérte óculos meos, ne vídeant vanitátem: in via tua vivífica me.
-R. In testimónia tua.
+R.br. Nakloň mé srdce, Bože, * K tvým svědectvím.
+R. Nakloň mé srdce, Bože, * K tvým svědectvím.
+V. Odvrať mé oči, aby nepatřily na marnosti; na své cestě mě oživ.
+R. K tvým svědectvím.
 &Gloria
-R. Inclína cor meum, Deus, * in testimónia tua.
+R. Nakloň mé srdce, Bože, * K tvým svědectvím.
 
 [DayFM Laudes]
 @:Day1 Laudes
@@ -850,12 +764,12 @@ R. Jak vznešená jsou tvá díla, Hospodine.
 [DayFM Vespera]
 @:Day0 Vespera
 _
-R.br. Benedícam Dóminum * In omni témpore.
-R. Benedícam Dóminum * In omni témpore.
-V. Semper laus ejus in ore meo.
-R. In omni témpore.
+R.br. Dobrořečit budu Hospodinu * V každý čas.
+R. Dobrořečit budu Hospodinu * V každý čas.
+V. Jeho chvála bude vždy v mých ústech.
+R. V každý čas.
 &Gloria
-R. Benedícam Dóminum * In omni témpore.
+R. Dobrořečit budu Hospodinu * V každý čas.
 
 [Day6M Vespera]
 @:Day6 Vespera
@@ -880,12 +794,12 @@ R. Přijď a vysvoboď nás * silný Pane Bože.
 [AdvM Vespera]
 @:Adv Vespera
 _
-R.br. Osténde nobis Dómine * Misericórdiam tuam.
-R. Osténde nobis Dómine * Misericórdiam tuam.
-V. Et salutáre tuum da nobis.
-R. Misericórdiam tuam.
+R.br. Ukaž nám, Pane, * Své milosrdenství.
+R. Ukaž nám, Pane, * Své milosrdenství.
+V. A svou spásu nám dej.
+R. Své milosrdenství.
 &Gloria
-R. Osténde nobis Dómine * Misericórdiam tuam.
+R. Ukaž nám, Pane, * Své milosrdenství.
 
 [AdvM Vespera] (rubrica cisterciensis)
 @:Adv Vespera
@@ -943,42 +857,13 @@ _
 _
 @Psalterium/Special/Minor Special:Responsory Pasch Sexta:s/._.*//s
 
-[Preces feriales Laudes]
-$Kyrie
-$rubrica Pater secreto
-$Pater noster Et
-$Preces feriales Laudes
-$Domine exaudi
-
-[Preces feriales Vespera]
-$Kyrie
-$rubrica Pater secreto
-$Pater noster Et
-$Preces feriales Vespera
-$Domine exaudi
-
 [Day0 Versum 0]
-V. Excélsus super omnes gentes Dóminus.
-R. Et super calos glória ejus.
+V. Vznešený nade všechny národy je Hospodin.
+R. A nad nebesa jeho sláva.
 
 [Day1 Versum 0]
-V. Fiat misericórdia tua, Dómine, super nos.
-R. Quemádmodum sperávimus in te.
-
-[Day2 Versum 0]
-@:Day1 Versum 0
-
-[Day3 Versum 0]
-@:Day1 Versum 0
-
-[Day4 Versum 0]
-@:Day1 Versum 0
-
-[Day5 Versum 0]
-@:Day1 Versum 0
-
-[Day6 Versum 0]
-@:Day1 Versum 0
+V. Dej nám, Pane, své milosrdenství.
+R. Jak doufáme v tebe.
 
 [Adv Versum 0]
 V. Vydej Beránka, Hospodine, panovníka země.
@@ -1004,13 +889,13 @@ R. Pro mé nepřátele mě vytrhni.
 @:Pasch Versum 2
 
 [Asc Versum 0]
-V. Ascéndo ad Patrem meum et Patrem vestrum, allelúja.
-R. Deum meum et Deum vestrum, allelúja.
+V. Vystupuji k Otci svému i Otci vašemu, alleluja.
+R. Bohu svému i Bohu vašemu, alleluja.
 
 [Pent Versum 0]
-V. Emítte Spíritum tuum, et creabúntur, allelúja.
-R. Et renovábis fáciem terræ, allelúja.
+V. Vydej svého Ducha a budou stvořeni, alleluja.
+R. A obnovíš tvář země, alleluja.
 
 [Suffragium DePatrono]
-!De Patrono vel Titulo Ecclesiæ
-/:fiat com. consueata ante vel post Commemorationes prædictas, pro dignitate illius, et ultimo loco::/
+!K Patronovi či Zasvěcení Kostela
+/:Učiní se obvyklá Připomínka před či po uvedených Připomínkách, k jeho cti, a na posledním místě::/

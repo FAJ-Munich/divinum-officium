@@ -102,4 +102,7 @@ _
 @Commune/C10:Invit:s/(.*)\, \*.*/V. $1. (Allelúja.)/
 @Commune/C10:Invit:s/.*\* (.*)\./R. $1. (Allelúja.)/
 _
-@:Postpentecost::s/.*V\. //s 3-4
+$Oremus
+v. Všemohoucí, věčný Bože, jenž jsi působením Svatého Ducha připravil tělo i duši slavné Marie Panny za důstojný příbytek svého Syna, § dej nám, kdo se těšíme vzpomínkou na ni * abychom její přímluvou unikli neustálým zlým událostem i věčné smrti. Skrze téhož Krista, našeho Pána.
+R. Amen.
+&Dominus_vobiscum

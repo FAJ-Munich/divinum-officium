@@ -1,37 +1,37 @@
 [Pater secreto]
-/:« Pater Noster » dicitur secreto usque ad « Et ne nos indúcas in tentatiónem: »:/
+/:«Pater Noster» se říká potichu až do «Et ne nos indúcas in tentatiónem:»:/
 
 
 [Pater totum secreto]
-/:« Pater Noster » dicitur totum secreto.:/
+/:«Pater Noster» se říká celé potichu.:/
 
 [Credo secreto]
-/:« Credo » dicitur secreto usque ad « Carnis resurrectiónem. »:/
+/:«Credo» se říká potichu až do «Carnis resurrectiónem.»:/
 
 [Pater post]
-/:Deinde dicitur tantum « Pater Noster » secreto, nisi sequatur alia Hora.:/
+/:Poté se říká pouze «Pater Noster» potichu, nenásleduje-li jiná Hodinka.:/
 
 [Pater post V]
-/:Et si tunc terminetur Officium, dicitur tantum « Pater Noster » secreto.:/
+/:A pokud se takto zakončí Officium, řekne se pouze «Pater Noster» potichu.:/
 
 [Secreto]
-/:secreto:/
+/:potichu:/
 (sed rubrica cisterciensis)
-/:In Choro, finita Officio parvo B.M.V., dicitur secreto::/
+/:Ve Chóru, když se zakončí Malé Mariánské Hodinky, řekne se potichu::/
 (sed die in Cœna Domini aut die in Parasceve aut die Sabbato Sancto)
-/:secreto:/
+/:potichu:/
 
 [Secreto a Laudibus]
-/:Si Matutinum a Laudibus separatur, tunc dicitur secreto::/
+/:Pokud se Matutinum a Laudy říkají odděleně, tehdy se řekne potichu::/
 (sed rubrica monastica)
 /:In Festi Simplicis, et in Officio Ferialis, et si Matutinum a Laudibus separatur, tunc dicitur secreto::/
 (sed rubrica cisterciensis)
-/:Præterquam Officio duodecim Lectionum dicitur secreto::/
+/:Mimo Officium dvanáctilekcového svátku se říká potichu::/
 
 [Clara voce]
-/:Deinde, clara voce, dicitur Versus::/
+/:Poté se nahlas řekne Verš::/
 (sed rubrica cisterciensis)
-/:In Choro, facimus signum Crucis + atque ad signum Superioris inclinamus Altari. Deinde alta voce et graviter dicitur Versus::/
+/:V Chóru se udělá velký Kříž + a na pokyn představeného se ukloníme Oltáři. Poté se nahlas a důstojně řekne Verš::/
 
 [Secus absolute]
 /:Secus absolute incipiuntur, ut sequitur::/
@@ -39,7 +39,7 @@
 /:Dicto Hymno:/ Te Deum laudamus /:vel ultimo Responsorio, absolute dicitur Versus::/
 
 [Matutinum]
-!Reliqua omittuntur, nisi %Laudes% separandæ sint.
+!Zbytek se vynechává, pokud se %Laudy% neříkají oddělení.
 (sed rubrica tridentina)
 !Dicto Hymno « Te Deum » aut nono vel tertio Responsorio ejus loco ponitur, statim inchoantur %Laudes%, præterquam in Nocte Nativitatis Domini; quia tunc dicitur Oratio, postea celebratur Missa, ut suo loco notatur.
 
@@ -48,62 +48,62 @@
 (sed rubrica tridentina aut rubrica divino)
 !Reliqua omittuntur in Officium duodecim Lectionum, quando immediatæ subsequuntur %Laudes%. Sed in Festi Simplicis, et in Officio Ferialis tam trium, quam unius Lectionis semper dicuntur ut sequitur.
 (sed rubrica cisterciensis)
-!Reliqua omittuntur in Officium xij. Lectionum, quas immediatæ subsequuntur %Laudes%. Sed tam in Feriis, quam in Festis iij. Lectionum, in Hieme et in Æstate semper dicuntur ut sequitur.
+!Zbytek se ve dvanáctilekcovém Officiu vynechává, a hned navazují %Laudy%. Avšak jak ve Fériích, tak ve třílekcových Svátcích, v zimě i na jaře se vždy říká následující.
 
 [Deinde secreto]
-/:Deinde dicitur secreto:/
+/:Pak se říká potichu:/
 
 [PAC ad Completorium]
-/:Si post Completorium immediate sequatur Matutinum, tunc bis dicitur:/ Pater noster, Ave Maria /:et:/ Credo, /:pro fine videlicet Officii diei præcedentis, et pro initio Officii diei sequentis.:/
+/:Pokud po Kompletáři navazuje Matutinum, tehdy se dvakrát řekne:/ Pater noster, Ave Maria /:a:/ Credo, /:a sice jako konec předchozího Officia, a jako začátek Officia následujícího dne.:/
 
 [DefunctV]
 &Dominus_vobiscum
 &Benedicamus_Domino
-! Post Vesperas diei dicuntur %Vesperae Defunctorum%.
+! Po Nešporách ze dne se říkají %Nešpory za zemřelé%.
 
 [DefunctM]
 &Dominus_vobiscum
 &Benedicamus_Domino
-! Post Laudes diei dicuntur %Matutinum et Laudes Defunctorum%.
+! Po Laudách ze dne se říkají %Matutinum a Laudy za zemřelé%.
 
 [Martyrologium] (rubrica monastica)
-/:Deinde in Choro legitur Martyrologium, quod laudabiliter fit etiam extra Chorum.:/
+/:Poté se v Chóru čte Martyrologium, což je chvályhodné činit i mimo Chór.:/
 (sed rubrica cisterciensis)
-/:Hic expletur Prima. Deinde legitur Martyrologium in Capitulo sine benedictione. Extra Conventum non legitur Martyrologium, sed immediate incipitur « Pretiósa. » ut infra.:/
+/:Takto končí Prima. Poté se v Kapitulní síni čte Martyrologium rovnou, bez požehnání. Mimo Klášter se Martyrologium nečte, ale rovnou se začne «Pretiósa.» o něco níže.:/
 
 [Regula] (rubrica monastica)
-/:Extra Chorum etiam laudabiliter dicitur lectio ex S. Regulæ; secus dicitur Lectio brevis.:/
+/:Mimo Chór je též chvályhodné čísti ze Svaté Řehole; a spolu s ním se říká Krátké čtení.:/
 (sed rubrica cisterciensis)
-/:Cum vero recitatur privatim, hæc erit brevis Lectio per totum annum.:/
+/:Když se však recituje soukromě, toto Krátké čtení se používá po celý rok.:/
 
 [Regula ante] (rubrica cisterciensis)
 /:In Capitulo legitur unum caput, vel pars capitis ex Regula S. Benedicti.:/
 
 [examen]
-/:Examen conscientiæ vel Pater Noster totum secreto.:/
+/:Zpytování svědomí nebo Pater Noster celé potichu.:/
 
 [Preces flexis genibus]
-/:flexis genibus:/
+/:vkleče:/
 
 [Superior] (rubrica cisterciensis)
-/:Superior::/
+/:Představený::/
 
 [Incipit] (rubrica altovadensis)
-/:Finita Commemoratione officii parvi B.M.V., facimus signum Crucis + atque ad signum Superioris inclinamus Altari.:/
+/:Po skončení připomínky malých Hodinek Panny Marie se udělá velký Kříž + a na pokyn představeného se ukloníme Oltáři.:/
 
 [IncipitL] (rubrica altovadensis)
-/:Dicta Oratione Matutina aut finita Commemoratione officii parvi B.M.V. in Officio feriali vel  iij. Lectionum, facimus signum Crucis + atque ad signum Superioris inclinamus Altari.:/
+/:Po skončení Matutina či po Připomínce Malého Mariánského Officia před Officiem feriálním či třílekcovým, uděláme velký Kříž + a na pokyn představeného se ukloníme Oltáři.:/
 
 [Antiphona]
-/:inchoatur in officio quod cum cantu celebratur tantum:/
+/:začíná se pouze pokud se Officium slaví zpěvem:/
 
 [CompletBMV]
-/:Postea dicitur Completorium B. Mariæ. Quo finito per totum annum, excepta Feria v. et vj. majoris hebdomadæ, cantatur solemniter:/
+/:Poté se říká mariánský Kompletář. Po jeho skončení se po celý rok, s výjimkou Čtvrtku a Pátku Svatého týdne, slavně zazpívá:/
 
 [sine Oremus]
-/:Et sine:/ Orémus /:::/
+/:a bez:/ Orémus /:::/
 (sed rubrica altovadensis)
-/:Et sine:/ Orémus /:prosequitur Hebdomadarius.:/
+/:a bez:/ Orémus /:pokračuje Hebdomadář.:/
 
 [Conclusio cisterciensis]
-/:Et quandocumque terminata Hora discendum est a Choro (nisi quando immediate subsequitur Missa aut cum Officio diei Officium Defunctorum, vel Sepultura, vel Processio, aut Litaniæ, ut in Rogationibus, etc.) dicitur::/
+/:A kdykoliv se po skončení Hodinky odchází z Chóru (pokud tedy nenavazuje Mše svatá, nebo po denním Officiu pak Officium Defunctorum, nebo Pohřební obřady, nebo Procesí, nebo Litaniæ, nebo Prosebné dny, atd.) říká se::/

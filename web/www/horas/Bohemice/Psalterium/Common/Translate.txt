@@ -1,83 +1,83 @@
 [#Regula vel Lectio brevis]
-#Regula (vel Lectio brevis)
+#Řehole (nebo Krátké čtení)
 
 [Pater noster]
-Pater noster
+Otče náš
 
 [Pater noster Et]
 @:Pater noster
 
 [Ave Maria]
-Ave María
+Zdrávas Maria
 
 [Credo]
-Credo
+Věřím
 
 [Credo Carnis]
 @:Credo
 
 [Gloria]
-Glória
+Sláva Otci
 
 [Gloria omittitur]
-Gloria omittitur
+Sláva Otci se vynechává
 
 [gloria]
-Glória
+Sláva Otci
 
 [Requiem]
-Réquiem ætérnam
+Odpočinutí věčné
 
 [Requiem2]
 @:Requiem
 
 [Alleluia]
-Allelúja.
+Alleluja.
 
 [Laus tibi]
-Laus tibi, Dómine, Rex ætérnæ glóriæ.
+Chvála tobě, Pane, Králi věčné slávy.
 
 [Dominus vobiscum]
-Dóminus vobíscum
+Pán s vámi.
 
 [Domine exaudi]
-Dómine, exáudi
+Pane, slyš modlitbu mou 
 
 [secunda Domine exaudi omittitur]
-secunda Dómine exáudi omittitur
+druhé <i>Dómine exáudi.</i> se vynechává
 
 [Confiteor]
-Confíteor
+Vyznávám se
 
 [Misereatur]
-Misereátur
+Smiluj se nad námi, všemohoucí Bože 
 
 [Indulgentiam]
-Indulgéntiam
+Uděl nám odpuštění
 
 [Domine labia]
-Dómine, lábia
+Pane, otevři mé rty
 
 [Deus in adjutorium]
-Deus in adjutórium
+Bože, k pomocí mé pospěš
 
 [Deusinadjutorium]
-@:Deus in adjutorium
+Bože, k pomocí mé pospěš
 
 [Tu autem]
-Tu autem
+Ty však, Pane.
 
 [Aperi]
-Áperi
+Otevři má ústa
 
-[Benedicamus_Domino]
-Benedicámus Dómino
+[Benedicamus Domino]
+Dobrořečme Pánu
 
 [Benedicamus Domino]
 @:Benedicamus_Domino
 
 [Benedicamus Domino1]
-Benedicámus Dómino, allelúja, allelúja
+Dobrořečme Pánu, alleluja, alleluja
 
 [Benedicamus Domino alleluia]
 @:Benedicamus Domino1
@@ -86,46 +86,46 @@ Benedicámus Dómino, allelúja, allelúja
 @:Benedicamus Domino1
 
 [Fidelium animae]
-Fidélium ánimæ
+Duše všech zemřelých
 
 [Oremus]
-Orémus.
+Modleme se.
 
 [Hymnus]
 Hymnus
 
 [Psalmus]
-Psalmus
+Žalm
 
 [Per Dominum]
-Per Dóminum
+Skrze Pána našeho
 
 [Per Dominum eiusdem]
-Per Dóminum ejúsdem
+Skrze téhož Pána našeho
 
 [Qui cum Patre]
-Qui cum Patre
+Jenž s Otcem
 
 [Per eumdem]
-Per eúmdem
+Skrze téhož
 
 [Qui vivis]
-Qui vivis
+Jenž žiješ
 
 [Qui tecum]
-Qui tecum
-
-[Sacrosanctaea]
-Sacrosanctæa
+Který s tebou
 
 [Sacrosancta]
-Sacrosancta
+Přesvatá
+
+[Sacrosanctaea]
+Přesvatá
 
 [Benedictio]
-Benedictio
+Požehnání
 
 [Absolutio]
-Absolutio
+Rozhřešení
 
 [Te Deum]
 Te Deum
@@ -134,49 +134,49 @@ Te Deum
 Te decet
 
 [Deo gratias]
-R. Deo grátias.
+R. Bohu díky.
 
 [Lectio]
-Lectio
+Čtení
 
 [Ante]
-Ante
+Před
 
 [Divinum Officium]
-Divinum Officium
+Božské Officium
 
 [Post]
-Post
+Po
 
 [Commemoratio]
-Commemoratio
+Připomínka
 
 [Antiphonae]
-Antiphonæ
+Antifony
 
 [Antiphona]
-Antiphona
+Antifona
 
 [et Psalmi]
-et Psalmi
+a Žalmy
 
 [Psalmi, antiphonae]
-Psalmi & antiphonæ
+Žalmy a antifony
 
 [Psalmi et antiphonae]
-Psalmi & antiphonæ
+Žalmy a antifony
 
 [Psalmi Dominica, antiphonae]
-Psalmi Dominica & antiphonæ
+Nedělní Žalmy a antifony
 
 [Antiphona finalis BMV]
-Antiphona finalis B.M.V.
+Závěrečná mariánská antifona
 
 [Divinum_auxilium]
-Divínum auxílium
+Božská pomoc
 
 [Gloria tibi Domine]
-Glória tibi, Dómine.
+Sláva tobě, Pane.
 
 [Kyrie]
 Kýrie
@@ -187,31 +187,31 @@ Kýrie
 @:Pater noster
 
 [Dominica]
-Dominic[aæ]
+Neděle
 
 [Octava]
-Octav[aæ]
+Oktáv[y]
 
 [Psalmi graduales]
-Psalmi graduales
+Stupňové Žalmy
 
 [Septem psalmi paenitentiales]
-Septem psalmi pænitentiales
+Sedm kajících žalmů
 
 [Litaniae]
-Litaniæ
+Litanie
 
 [Ordo Commendationis Animae]
-Ordo Commendationis Animæ
+Řád odevzdání Duše Bohu
 
 [Benedictio mensae]
-Benedictio mensæ
+Požehnání jídla
 
 [Itinerarium]
-Itinerarium
+Modlitba před cestou
 
 [Nocturn]
-Nocturn
+Nocturnus
 
 [Adjutorium nostrum]
 Adjutorium nostrum
@@ -223,13 +223,13 @@ Dómine Deus
 Réspice
 
 [Pater totum secreto_]
-/:totum secreto:/
+/:celé potichu:/
 
 [Pater Ave L_]
-/:rubrica a Laudibus:/
+/:rubrika z Laud:/
 
 [Deus in adjutorium iij_]
-/:ter:/
+/:třikrát:/
 
 [Benedictio Prima]
 Jube, … Dies et actus
@@ -241,7 +241,7 @@ Dóminus nos benedícat
 Benedícite
 
 [Defunctorum]
-@:#Commemoratio defunctorum: s/#//
+@:#Připomínka zemřelých: s/#//
 
 [Pater totum secreto]
 @:Pater noster
@@ -316,103 +316,100 @@ Benedictus es …
 Dómine, Deus …
 
 [ant Alma Redemptoris Mater]
-Alma Redemptoris Mater
+Vznešená Matko Spasitele
 
 [ant Ave Regina caelorum]
-Ave Regina caelorum
+Buď zdráva, Královno nebe
 
 [ant Regina caeli]
-Regina caeli
+Vesel se nebes Královno
 
 [ant Salve Regina]
-Salve Regina
+Zdrávas Královno
 
 [#ANTE PRANDIUM]
-[#ANTE PRANDIUM]
-
-[#IN FINE COENE]
-[#IN FINE COENE]
+#Před obědem.
 
 [#POST PRANDIUM]
-[#POST PRANDIUM]
+#Po obědě.
 
 [#ANTE COENAM]
-[#ANTE COENAM]
+#Před večeří.
 
 [#IN FINE COENAE]
-[#IN FINE COENAE]
+#Po večeři.
 
 [#Incipit]
-[#Incipit]
+#Začátek
 
 [#Invitatorium]
-[#Invitatorium]
+#Invitatorium
 
 [#Hymnus]
-[#Hymnus]
+#Hymnus
 
 [#Psalmi]
-[#Psalmi]
+#Žalmy
 
 [#Psalmi cum lectionibus]
-[#Psalmi cum lectionibus]
+#Žalmy se čteními
 
 [#Capitulum Responsorium Versus]
-[#Capitulum Responsorium Versus]
+#Krátké čtení, Responsorium a Verš
 
 [#De Officio Capituli]
-[#De Officio Capituli]
+#Officium v Kapitulní síni
 
 [#Capitulum Responsory Versus]
-[#Capitulum Responsory Versus]
+#Krátké čtení, Responsorium a Verš
 
 [#Martyrologium]
-[#Martyrologium]
+#Martyrologium
 
 [#Capitulum Hymnus Versus]
-[#Capitulum Hymnus Versus]
+#Krátké čtením Hymnus a Verš
 
 [#Capitulum Versus]
-[#Capitulum Versus]
+#Krátké čtení a Verš
 
 [#Capitulum Responsorium Hymnus Versus]
-[#Capitulum Responsorium Hymnus Versus]
+#Krátké čtení, Responsorium, Hymnus a Verš
 
 [#Canticum]
-[#Canticum]
+#Kantikum
 
 [#Canticum: Nunc dimittis]
-[#Canticum: Nunc dimittis]
+#Kantikum: Nyní propouštíš
 
 [#Canticum: Benedictus]
-[#Canticum: Benedictus]
+#Kantikum: Benedictus
 
 [#Canticum: Magnificat]
-[#Canticum: Magnificat]
+#Kantikum: Magnificat
 
 [#Preces Dominicales]
-[#Preces Dominicales]
+#Nedělní přímluvy
 
 [#Preces Dominicales et Feriales]
-[#Preces Dominicales et Feriales]
+#Nedělní i feriální přímluvy
 
 [#Preces Feriales]
-[#Preces Feriales]
+#Feriální přímluvy
 
 [#Suffragium]
-[#Suffragium]
+#Suffragium
 
 [#Oratio]
-[#Oratio]
+#Modlitba
 
 [#Orationes]
-[#Orationes]
+#Modlitby
 
 [#Lectio brevis]
-[#Lectio brevis]
+#Krátké čtení
 
 [#Conclusio]
-[#Conclusio]
+#Závěr
 
 [#Commemoratio defunctorum]
-[#Commemoratio defunctorum]
+#Připomínka za zemřelé

@@ -90,7 +90,7 @@ v. Confíteor Deo omnipoténti, beátæ Maríæ semper Vírgini, beáto Michaél
 @:Confiteor_:s/Paulo/Paulo, beáto Patri nostro Benedícto/ s/Paulum/Paulum, beátum Patrem nostrum Benedíctum/
 
 [Confiteor] (rubrica Ordo Praedicatorum)
-v. Confiteor Deo omnipotenti, et beáte Maríae semper Vírgini, et beáto Domínico Patri nostro, et omnibus Sanctis: quia peccavi nimis cogitatione, locutione, opere et omissione, me cupla: precor beátam Maríam semper Vírginem, et beátum Domínicum Patrem nostrum, et omnes Sanctos oráre pro me.
+v. Confiteor Deo omnipotenti, et beáte Maríae semper Vírgini, et beáto Domínico Patri nostro, et omnibus Sanctis: quia peccavi nimis cogitatione, locutione, opere et omissione, me culpa: precor beátam Maríam semper Vírginem, et beátum Domínicum Patrem nostrum, et omnes Sanctos oráre pro me.
 
 [Misereatur]
 v. Misereátur nostri omnípotens Deus, et dimíssis peccátis nostris, perdúcat nos ad vitam ætérnam. Amen.
@@ -107,7 +107,7 @@ R. Et os meum annuntiábit laudem tuam.
 
 [Domine labia iij] (rubrica cisterciensis)
 /:Deinde ter dicitur:/
-@:Domine labia: s/\+\+ //
+V. Dómine, lábia mea apéries. * Et os meum annuntiábit laudem tuam.
 /:Mox sequitur:/
 
 [Deus in adjutorium]
@@ -219,6 +219,46 @@ Miserére nostri, Dómine, * miserére nostri.
 Fiat misericórdia tua, Dómine, super nos, * quemádmodum sperávimus in te.
 In te, Dómine, sperávi: * non confúndar in ætérnum.
 
+[Te Deum] (rubrica cisterciensis)
+v. Te Deum laudámus: * te Dóminum confitémur.
+Te ætérnum Patrem * omnis terra venerátur.
+Tibi omnes Ángeli, * tibi Cæli, et univérsæ Potestátes:
+Tibi Chérubim et Séraphim * incessábili voce proclámant:
+_
+/:(Fit reverentia):/ Sanctus, Sanctus, Sanctus * Dóminus Deus Sábaoth.
+_
+Pleni sunt cæli et terra * majestátis glóriæ tuæ.
+Te gloriósus * Apostolórum chorus,
+Te Prophetárum * laudábilis númerus,
+Te Mártyrum candidátus * laudat exércitus.
+Te per orbem terrárum * sancta confitétur Ecclésia,
+Patrem * imménsæ majestátis;
+Venerándum tuum verum * et únicum Fílium;
+Sanctum quoque * Paráclitum Spíritum.
+Tu Rex glóriæ, * Christe.
+Tu Patris * sempitérnus es Fílius.
+_
+Tu, ad liberándum susceptúrus hóminem: * non horruísti Vírginis úterum.
+_
+Tu, devícto mortis acúleo, * aperuísti credéntibus regna cælórum.
+Tu ad déxteram Dei sedes, * in glória Patris.
+Judex créderis * esse ventúrus.
+_
+!Fratres, quando incipiunt <i>Te ergo quæsumus</i>, exeuntes e Stallis, 
+!reverenter inclinent ad verba <i>Quos pretioso</i> etc.
+Te ergo quǽsumus, tuis fámulis súbveni, * <b>quos pretióso sánguine redemísti</b>.
+_
+Ætérna fac cum Sanctis tuis * in glória numerári.
+Salvum fac pópulum tuum, Dómine, * et bénedic hereditáti tuæ.
+Et rege eos, * et extólle illos usque in ætérnum.
+Per síngulos dies * benedícimus te.
+Et laudámus nomen tuum in sǽculum, * et in sǽculum sǽculi.
+_
+Dignáre, Dómine, die isto * sine peccáto nos custodíre.
+Miserére nostri, Dómine, * miserére nostri.
+Fiat misericórdia tua, Dómine, super nos, * quemádmodum sperávimus in te.
+In te, Dómine, sperávi: * non confúndar in ætérnum.
+
 [Ante]
 /:flexis genibus:/
 v. Aperi Dómine, os meum ad benedicéndum nomen sanctum tuum: munda quoque cor meum ab ómnibus vanis, pervérsis et aliénis cogitatiónibus; intelléctum illúmina, afféctum inflámma, ut digne, atténte ac devóte hoc Offícium recitáre váleam, et exaudíri mérear ante conspéctum divínæ Majestátis túæ. Per Christum Dóminum nostrum.
@@ -260,6 +300,9 @@ $Amen
 
 [Oremus]
 v. Orémus.
+
+[Oremus] (rubrica cisterciensis)
+<center><font color="red">O</font>rémus.</center>
 
 [Te decet]
 v. Te decet laus, + te decet hymnus: tibi glória Deo Patri, et Fílio, cum Spíritu Sancto in sǽcula sæculórum. Amen.
@@ -404,7 +447,7 @@ V. Jube, Dómine, benedícere.
 Ant. Spíritus sanctus in te descéndet, María, ne tímeas, habébis in útero Fílium Dei.
 _
 V. Ecce ancílla Dómini.
-R. fiat mihi secúndum verbum tuum.
+R. Fiat mihi secúndum verbum tuum.
 _
 $Oremus
 v. Lætífica, et ádjuva nos, omnípotens et miséricors Deus, Domínicæ Conceptiónis gáudia recoléntes, et pia Dei Génitrix Virgo semper María (in cujus veneratióne hæc commemorámus) in cunctis necessitátibus nostris grátiam sancti Spíritus nobis ímpetret, et levámen. Per eúmdem Christum Dóminum nostrum.

@@ -1,120 +1,101 @@
 [Pater noster]
-v. Pater noster, qui es in cælis, sanctificétur nomen tuum: advéniat regnum tuum: fiat volúntas tua, sicut in cælo et in terra. Panem nostrum cotidiánum da nobis hódie: et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris: et ne nos indúcas in tentatiónem: sed líbera nos a malo. Amen.
+v. Otče náš, jenž jsi na nebesích, posvěť se jméno tvé. Přijď království tvé. Buď vůle tvá jako v nebi, tak i na zemi. Chléb náš vezdejší dej nám dnes. A odpusť nám naše viny, jako i my odpouštíme našim viníkům. A neuveď nás v pokušení, ale zbav nás od zlého. Amen.
 
 [Pater noster Et]
-v. Pater noster, qui es in cælis, sanctificétur nomen tuum: advéniat regnum tuum: fiat volúntas tua, sicut in cælo et in terra. Panem nostrum cotidiánum da nobis hódie: et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris:
-V. Et ne nos indúcas in tentatiónem:
-R. Sed líbera nos a malo.
+v. Otče náš, jenž jsi na nebesích, posvěť se jméno tvé. Přijď království tvé. Buď vůle tvá jako v nebi, tak i na zemi. Chléb náš vezdejší dej nám dnes. A odpusť nám naše viny, jako i my odpouštíme našim viníkům. 
+V. A neuveď nás v pokušení: 
+R. ale zbav nás od zlého.
 
 [Ave Maria]
-v. Ave María, grátia plena; Dóminus tecum: benedícta tu in muliéribus, et benedíctus fructus ventris tui Jesus. Sancta María, Mater Dei, ora pro nobis peccatóribus, nunc et in hora mortis nostræ. Amen.
+v. Zdrávas, Maria, milosti plná, Pán s tebou; požehnaná ty mezi ženami a požehnaný plod života tvého, Ježíš.
+Svatá Maria, Matko Boží, pros za nás hříšné nyní i v hodinu smrti naší. Amen.
 
 [Credo]
-v. Credo in Deum, Patrem omnipoténtem, Creatórem cæli et terræ. Et in Jesum Christum, Fílium ejus únicum, Dóminum nostrum: qui concéptus est de Spíritu Sancto, natus ex María Vírgine, passus sub Póntio Piláto, crucifíxus, mórtuus, et sepúltus: descéndit ad ínferos; tértia die resurréxit a mórtuis; ascéndit ad cælos; sedet ad déxteram Dei Patris omnipoténtis: inde ventúrus est judicáre vivos et mórtuos. Credo in Spíritum Sanctum, sanctam Ecclésiam cathólicam, Sanctórum communiónem, remissiónem peccatórum, carnis resurrectiónem, vitam ætérnam. Amen.
+v. Věřím v Boha, Otce všemohoucího, Stvořitele nebe i země. I v Ježíše Krista, Syna jeho jediného, Pána našeho; jenž se počal z Ducha svatého, narodil se z Marie Panny, trpěl pod Ponciem Pilátem, ukřižován umřel i pohřben jest; sestoupil do pekel, třetího dne vstal z mrtvých; vstoupil na nebesa; sedí po pravici Boha, Otce všemohoucího; odtud přijde soudit živé i mrtvé. Věřím v Ducha svatého, svatou Církev obecnou, Svatých obcování, hříchů odpuštění, těla vzkříšení a život věčný. Amen.
 
 [Credo Carnis]
-v. Credo in Deum, Patrem omnipoténtem, Creatórem cæli et terræ. Et in Jesum Christum, Fílium ejus únicum, Dóminum nostrum: qui concéptus est de Spíritu Sancto, natus ex María Vírgine, passus sub Póntio Piláto, crucifíxus, mórtuus, et sepúltus: descéndit ad ínferos; tértia die resurréxit a mórtuis; ascéndit ad cælos; sedet ad déxteram Dei Patris omnipoténtis: inde ventúrus est judicáre vivos et mórtuos. Credo in Spíritum Sanctum, sanctam Ecclésiam cathólicam, Sanctórum communiónem, remissiónem peccatórum.
-V. Carnis resurrectiónem.
-R. Vitam ætérnam. Amen.
-
-[pater secreto]
-$rubrica Pater secreto
-$Pater noster Et
-
-[Pater totum secreto]
-$rubrica Pater totum secreto
-$Pater noster
-
-[credo secreto]
-$rubrica Credo secreto
-$Credo Carnis
-
-[Pater post V]
-$rubrica Pater post V
-$Pater noster
-
-[Pater Ave]
-$rubrica Secreto
-$Pater noster
-$Ave Maria
-_
-$rubrica Clara voce
+v. Věřím v Boha, Otce všemohoucího, Stvořitele nebe i země. I v Ježíše Krista, Syna jeho jediného, Pána našeho; jenž se počal z Ducha svatého, narodil se z Marie Panny, trpěl pod Ponciem Pilátem, ukřižován umřel i pohřben jest; sestoupil do pekel, třetího dne vstal z mrtvých; vstoupil na nebesa; sedí po pravici Boha, Otce všemohoucího; odtud přijde soudit živé i mrtvé. Věřím v Ducha svatého, svatou Církev obecnou, Svatých obcování, hříchů odpuštění.
+V. Těla vzkříšení.
+R. Život věčný. Amen.
 
 [Adjutorium nostrum]
-V. Adjutórium nóstrum + in nómine Dómini. 
-R. Qui fecit cælum et terram.
+V. Naše pomoc + ve jménu Pána. 
+R. Který stvořil nebe i zemi.
 
 [Converte nos]
-V. Convérte nos +++ Deus, salutáris noster.
-R. Et avérte iram tuam a nobis.
+V. Obrať nás, +++ Bože, náš spasiteli.
+R. A odvrať od nás svůj hněv.
 
 [Dominus det]
-V. Dóminus det nobis suam pacem.
-R. Et vitam ætérnam. Amen.
+V. Pán nechť nám dá svůj mír.
+R. A život věčný. Amen.
 
 [Gloria]
-V. Glória Patri, et Fílio, * et Spirítui Sancto.
-R. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.
+V. Sláva Otci, i Synu, * i Duchu svatému.
+R. Jako byla na počátku, i nyní, i vždycky a na věky věků. Amen.
 
 [Gloria1]
-V. Glória Patri, et Fílio, * et Spirítui Sancto.
+V. Sláva Otci, i Synu, * i Duchu svatému.
 
 [Requiem]
-V. Réquiem ætérnam * dona eis, Dómine.
-R. Et lux perpétua * lúceat eis.
+V. Odpočinutí věčné * dej jim, ó Pane. 
+R. A světlo věčné * ať jim svítí.
 
 [Requiem2]
 @:Requiem:s/\ \*//g
 
 [Alleluia]
-v. Allelúja.
-v. Laus tibi, Dómine, Rex ætérnæ glóriæ.
+v. Alleluja.
+v. Chvála tobě, Pane, králi věčné slávy.
 
 [Dominus]
-V. Dóminus vobíscum.
-R. Et cum spíritu tuo.
-V. Dómine, exáudi oratiónem meam.
-R. Et clamor meus ad te véniat.
-/:secunda 'Domine, exaudi' omittitur:/
+V. Pán s vámi.
+R. I s duchem tvým.
+V. Pane, slyš modlitbu mou.
+R. A volání mé k tobě přijď.
+/:druhé 'Pane, slyš modlitbu mou' se vynechává:/
 
 [Domine exaudi]
 @:Dominus:3-4
 
 [Confiteor_]
-v. Confíteor Deo omnipoténti, beátæ Maríæ semper Vírgini, beáto Michaéli Archángelo, beáto Joánni Baptístæ, sanctis Apóstolis Petro et Paulo, et ómnibus Sanctis, quia peccávi nimis, cogitatióne, verbo et ópere: /:percutit sibi pectus:/ mea culpa, mea culpa, mea máxima culpa. Ídeo precor beátam Maríam semper Vírginem, beátum Michaélem Archángelum, beátum Joánnem Baptístam, sanctos Apóstolos Petrum et Paulum, et omnes Sanctos, oráre pro me ad Dóminum Deum nostrum.
+v. Vyznávám se všemohoucímu Bohu, blahoslavené vždy Panně Marii, svatému Michaelu Archandělovi, svatému Janu Křtiteli, svatým Apoštolům Petrovi a Pavlovi, a všem svatým, že často hřeším myšlením, slovy a skutky: /:bije se v prsa:/ je to má vina, má vina, má veliká vina. Proto prosím blahoslavenou Marii vždy Pannu, svatého Michaela Archanděla, svatého Jana Křtitele, svaté Apoštoly Petra a Pavla, a všechny Svaté, abyste se za mě u Boha přimlouvali. 
 
 [Confiteor]
 @:Confiteor_
 
 [Confiteor] (rubrica Monastica)
-@:Confiteor_:s/Paulo/Paulo, beáto Patri nostro Benedícto/ s/Paulum/Paulum, beátum Patrem nostrum Benedíctum/
+@:Confiteor:s/Pavlovi/Pavlovi, našemu svatému Otci Benediktovi/g s/Pavla/Pavla, našeho svatého Otce Benedikta/g
+
+[Confiteor] (rubrica cisterciensis)
+@:Confiteor:s/Pavlovi/Pavlovi, našemu svatému Otci Bernardovi/g s/Pavla/Pavla, našeho svatého Otce Bernarda/g
 
 [Confiteor] (rubrica Ordo Praedicatorum)
-v. Confiteor Deo omnipotenti, et beáte Maríae semper Vírgini, et beáto Domínico Patri nostro, et omnibus Sanctis: quia peccavi nimis cogitatione, locutione, opere et omissione, me cupla: precor beátam Maríam semper Vírginem, et beátum Domínicum Patrem nostrum, et omnes Sanctos oráre pro me.
+v. Vyznávám se všemohoucímu Bohu, a blahoslavené Marii, vždy Panně, a svatému Dominiku, našemu Otci, i všem Svatým, že jsem velmi zhřešil myšlením, slovy i skutky a opomenutím dobrého, je to má vina: prosím blahoslavenou Marii, vždy Pannu, a svatého Dominika, našeho Otce, i všechny Svaté, přimlouvejte se ze mě.
 
 [Misereatur]
-v. Misereátur nostri omnípotens Deus, et dimíssis peccátis nostris, perdúcat nos ad vitam ætérnam. Amen.
+v. Smiluj se nad námi, všemohoucí Bože, odpusť nám naše hříchy, a doveď nás do života věčného. Amen.
 
 [Misereatur] (rubrica Ordo Praedicatorum)
-v. Misereatur mei omnipotens Deus, et dimittat mihi omnia peccata mea, liberet me ab omni malo, salvet, et confirmet in omni opere bono, et perducat me ad vitam aeternam. Amen.
+v. Kéž se nade mnou smiluje všemohoucí Bůh, odpustí mi všechny mé hříchy, vysvobodí mne ode všeho zlého, zachová a upevní mnes ve všem dobrém, a uvede do života věčného.  Amen.
 
 [Indulgentiam]
-v. Indulgéntiam, + absolutiónem et remissiónem peccatórum nostrórum tríbuat nobis omnípotens et miséricors Dóminus. Amen.
+v. Prominutí + rozhřešení a odpuštění našich hříchů nechť udělí nám všemohoucí a milosrdný Hospodin.
 
 [Domine labia]
-V. Dómine, lábia ++ mea apéries.
-R. Et os meum annuntiábit laudem tuam.
+V. Pane, ++ rty mé otevři.
+R. Aby má ústa zvěstovala tvou chválu.
 
 [Domine labia iij] (rubrica cisterciensis)
-/:Deinde ter dicitur:/
-@:Domine labia: s/\+\+ //
-/:Mox sequitur:/
+/:Pak se třikrát řekne:/
+V. Pane, rty mé otevři: * aby má ústa zvěstovala tvou chválu.
+/:Pak následuje:/
 
 [Deus in adjutorium]
-V. Deus + in adjutórium meum inténde.
-R. Dómine, ad adjuvándum me festína.
-v. Glória Patri, et Fílio, * et Spirítui Sancto.
-Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.
+V. Bože, + k pomoci mé shlédni;
+R. Pane, přispěš k mé pomoci.
+v. Sláva Otci, i Synu, * i Duchu svatému.
+Jako byla na počátku, i nyní, i vždycky a na věky věků. Amen.
 
 [Deus in adjutorium tantum]
 @:Deus in adjutorium:1-2 s/\+ //
@@ -125,124 +106,160 @@ Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.
 @:Deus in adjutorium tantum
 
 [Deus in adjutorium iij] (rubrica cisterciensis)
-/:Deinde ter dicitur:/
+/:Pak se třikrát řekne:/
 @:Deus in adjutorium tantum
-/:Ultimo additur::/
+/:Nakonec se dodá::/
 
 [Tu autem_]
-V. Tu autem, Dómine, miserére nobis.
-R. Deo grátias.
+V. Ty však, Pane, smiluj se nad námi.
+R. Bohu díky.
 
 [Tu autem]
 @:Tu autem_
 
-[Tu autem] (rubrica Ordo Praedicatorum)
-@:Tu autem_:s/nobis/nostri/
-
 [Benedicamus Domino]
-V. Benedicámus Dómino.
-R. Deo grátias.
+V. Dobrořečme Pánu.
+R. Bohu díky.
 
 [Benedicamus Domino1]
-V. Benedicámus Dómino, allelúja, allelúja.
-R. Deo grátias, allelúja, allelúja.
+V. Dobrořečme Pánu, alleluja, alleluja.
+R. Bohu díky, alleluja, alleluja.
 
 [Deo gratias]
-R. Deo grátias.
+R. Bohu díky.
 
 [Fidelium animae]
-V. Fidélium ánimæ per misericórdiam Dei requiéscant in pace.
+V. Duše věrných zemřelých pro milosrdenství Boží ať odpočívají v pokoji.
 R. Amen.
 
-[Per eundem]
-@:Per eumdem:s/eúmdem/eúndem/
-
 [Per Dominum]
-r. Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
+r. Skrze našeho Pána Ježíše Krista, tvého Syna, jenž s tebou žije a kraluje v jednotě Ducha Svatého Bůh, po všecky věky věkův.
 R. Amen.
 
 [Per Dominum eiusdem]
-r. Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
+r. Skrze našeho Pána Ježíše Krista, tvého Syna, jenž s tebou žije a kraluje v jednotě téhož Ducha Svatého Bůh, po všecky věky věkův.
 R. Amen.
 
 [Qui cum Patre]
-r. Qui cum Pátre et Spíritu Sancto vivis et regnas, Deus, per ómnia sǽcula sæculórum.
+r. Jenž s Otcem a Duchem Svatým žiješ a kraluješ Bůh, po všecky věky věkův. 
 R. Amen.
 
 [Per eumdem]
-r. Per eúmdem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
+r. Skrze téhož Pána našeho Ježíše Krista, tvého Syna, jenž s tebou žije a kraluje v jednotě Ducha Svatého Bůh, po všecky věky věkův.
 R. Amen.
 
 [Qui vivis]
-r. Qui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
+r. Jenž žiješ a kraluješ s Bohem Otcem v jednotě Ducha Svatého jeden Bůh, svět navěky.
 R. Amen.
 
 [Qui tecum]
-r. Qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
+r. Který s tebou žije a kraluje, v jednotě s Duchem svatým, jeden Bůh, po všechny věky věkův.
 R. Amen.
 
 [Qui tecum eiusdem]
-r. Qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
+r. Který s tebou žije a kraluje, v jednotě s týmž Duchem svatým, jeden Bůh, po všechny věky věkův.
 R. Amen.
 
 [Te Deum]
-v. Te Deum laudámus: * te Dóminum confitémur.
-Te ætérnum Patrem * omnis terra venerátur.
-Tibi omnes Ángeli, * tibi Cæli, et univérsæ Potestátes:
-Tibi Chérubim et Séraphim * incessábili voce proclámant:
-/:Fit reverentia:/ Sanctus, Sanctus, Sanctus * Dóminus Deus Sábaoth.
-Pleni sunt cæli et terra * majestátis glóriæ tuæ.
-Te gloriósus * Apostolórum chorus,
-Te Prophetárum * laudábilis númerus,
-Te Mártyrum candidátus * laudat exércitus.
-Te per orbem terrárum * sancta confitétur Ecclésia,
-Patrem * imménsæ majestátis;
-Venerándum tuum verum * et únicum Fílium;
-Sanctum quoque * Paráclitum Spíritum.
-Tu Rex glóriæ, * Christe.
-Tu Patris * sempitérnus es Fílius.
-/:Fit reverentia:/ Tu, ad liberándum susceptúrus hóminem: * non horruísti Vírginis úterum.
-Tu, devícto mortis acúleo, * aperuísti credéntibus regna cælórum.
-Tu ad déxteram Dei sedes, * in glória Patris.
-Judex créderis * esse ventúrus.
-/:Sequens versus dicitur flexis genibus:/
-Te ergo quǽsumus, tuis fámulis súbveni, * quos pretióso sánguine redemísti.
-Ætérna fac cum Sanctis tuis * in glória numerári.
-(sed rubrica 1570 dicitur)
-Ætérna fac cum Sanctis tuis * in glória munerári.
-Salvum fac pópulum tuum, Dómine, * et bénedic hereditáti tuæ.
-Et rege eos, * et extólle illos usque in ætérnum.
-Per síngulos dies * benedícimus te.
-/:Fit reverentia, secundum consuetudinem:/ Et laudámus nomen tuum in sǽculum, * et in sǽculum sǽculi.
-Dignáre, Dómine, die isto * sine peccáto nos custodíre.
-Miserére nostri, Dómine, * miserére nostri.
-Fiat misericórdia tua, Dómine, super nos, * quemádmodum sperávimus in te.
-In te, Dómine, sperávi: * non confúndar in ætérnum.
+v. Bože, tebe chválíme, tebe, Pane, velebíme.
+Tebe, věčný Otče, oslavuje celá země. 
+Všichni andělé, cherubové i serafové, 
+všechny mocné nebeské zástupy bez ustání volají:
+/:(ukloníme se):/ Svatý, Svatý, Svatý, Pán, Bůh zástupů.;
+Plná jsou nebesa i země tvé vznešené slávy.
+Oslavuje tě sbor tvých Apoštolů,
+chválí tě velký počet Proroků,
+vydává o tobě svědectví zástup Mučedníků
+a po celém světě vyznává tě tvá Církev:
+neskonale velebný, všemohoucí Otče,
+úctyhodný Synu Boží, pravý a jediný,
+božský Utěšiteli, Duchu svatý.
+Kriste, Králi slávy, 
+tys od věků Syn Boha Otce;
+/:Ukloníme se:/ abys člověka vykoupil, stal ses člověkem a nepohrdl jsi panenským lůnem;
+zlomil jsi osten smrti a otevřel věřícím nebe;
+sedíš po Otcově pravici a máš účast na jeho slávě.
+Věříme, že přijdeš soudit, a proto tě prosíme:
+/:Při následujícím verši klečíme:/ přispěj na pomoc svým služebníkům, vždyť jsi je vykoupil svou předrahou krví;
+dej, ať se radují s tvými Svatými ve věčné slávě.
+Zachraň, Pane, svůj lid, žehnej svému dědictví, 
+veď ho a stále pozvedej.
+Každý den tě budeme velebit 
+/:Během následujícího verše se hluboce ukloníme, pokud je to místní zvyk.:/ a chválit tvé jméno po všechny věky.
+Pomáhej nám i dnes, ať se nedostaneme do područí hříchu.
+Smiluj se nad námi, Pane, smiluj se nad námi.
+Ať spočine na nás tvé milosrdenství, jak doufáme v tebe.
+Pane, k tobě se utíkáme, ať nejsme zahanbeni navěky.
+
+[Te Deum] (rubrica cisterciensis)
+v. Bože, tebe chválíme, tebe, Pane, velebíme.
+Tebe, věčný Otče, oslavuje celá země. 
+Všichni Andělé, Nebesa a všechny mocné nebeské Zástupy, 
+Cherubové i Serafové bez ustání volají:
+_
+/:(ukloníme se):/ Svatý, Svatý, Svatý, Pán, Bůh zástupů.;
+_
+Plná jsou nebesa i země tvé vznešené slávy.
+Oslavuje tě sbor tvých Apoštolů,
+chválí tě velký počet Proroků,
+vydává o tobě svědectví zástup Mučedníků
+a po celém světě vyznává tě tvá Církev:
+neskonale velebný, všemohoucí Otče,
+úctyhodný Synu Boží, pravý a jediný,
+božský Utěšiteli, Duchu svatý.
+Ty jsi Král slávy, Kriste
+tys od věků Syn Boha Otce;
+_
+Ty, abys člověka k vykoupení přijal člověka, nepohrdl jsi panenským lůnem;
+_
+zlomil jsi osten smrti a otevřel věřícím nebeské říše;
+sedíš po Otcově pravici a máš účast na jeho slávě.
+Věříme, že přijdeš soudit, a proto tě prosíme:
+_
+!Když bratři začínají <i>Te ergo quæsumus</i>, vystoupí ze Štal 
+!a uctivě se ukloní na slova <i>Quos pretioso</i> atd.
+přispěj na pomoc svým služebníkům, <b>vždyť jsi je vykoupil svou předrahou krví</b>;
+_
+dej, ať se radují s tvými Svatými ve věčné slávě.
+Zachraň, Pane, svůj lid, žehnej svému dědictví, 
+veď ho a až navěky ho pozvedej.
+Každý den tě budeme velebit 
+a chválit tvé jméno po všechny věky.
+_
+Rač nás, Pane, tento den chránit od hříchu.
+Smiluj se nad námi, Pane, smiluj se nad námi.
+Ať spočine na nás tvé milosrdenství, jak doufáme v tebe.
+V tebe, Pane, doufám, ať nejsem zahanben navěky.
 
 [Ante]
 /:flexis genibus:/
-v. Aperi Dómine, os meum ad benedicéndum nomen sanctum tuum: munda quoque cor meum ab ómnibus vanis, pervérsis et aliénis cogitatiónibus; intelléctum illúmina, afféctum inflámma, ut digne, atténte ac devóte hoc Offícium recitáre váleam, et exaudíri mérear ante conspéctum divínæ Majestátis túæ. Per Christum Dóminum nostrum.
+/:vkleče:/
+v. Otevři, Pane, má ústa, abych chválil tvé svaté jméno. Očisti mé srdce od všech marnivých, zvrácených a jiných myšlenek, osvěť rozum, rozněť cit, abych mohl důstojně, soustředěně a zbožně recitovat toto posvátné Officium, a vysloužil si být vyslyšen před tváří tvé velebnosti. Skrze Krista našeho Pána.
 R. Amen.
-v. Dómine, in unióne illíus divínæ intentiónis, qua ipse in terris laudes Deo persolvísti, has tibi Horas (vel hanc tibi Horam) persólvo.
+v. Pane, v jednotě s Jeho božským úmyslem, s nímž On sám zde na zemi přinášel chvály Bohu, tuto Hodinku (tyto Hodinky) ti i já přináším. 
 
 [Post]
-v. Sacrosánctæ et indivíduæ Trinitáti, crucifíxi Dómini nostri Jesu Christi humanitáti, beatíssimæ et gloriosíssimæ sempérque Vírginis Maríæ fœcúndæ integritáti, et ómnium Sanctórum universitáti sit sempitérna laus, honor, virtus et glória ab omni creatúra, nobísque remíssio ómnium peccatórum, per infiníta sǽcula sæculórum.
+v. Svatosvaté a nerozdílné Trojici, ukřižovanému lidství našeho Pána Ježíše Krista, přeblažené a přeslavné plodné neporušenosti vždy Panny Marie i souhrnu všech Svatých buď ode všeho stvoření věčná chvála, čest a sláva, nám pak buď dáno odpuštění všech hříchů, po nekonečné věky věků.
 R. Amen.
 _
-V. Beáta víscera Maríæ Vírginis, quæ portavérunt ætérni Pátris Fílium.
-R. Et beáta úbera, quæ lactavérunt Christum Dóminum.
+V. Blažené lůno Panny Marie, jež nosilo Syna věčného Otce. 
+R. A blažené prsy, které kojily Krista Pána. 
 _
 r. Pater noster.
 r. Ave Maria.
 
 [Conclmart]
-V. Et álibi aliórum plurimórum sanctórum Mártyrum et Confessórum, atque sanctárum Vírginum.
+V. A jinde mnoho svatých mučedníků, vyznavačů a svatých panen.
 $Deo gratias
 
+[Conclmart] (rubrica cisterciensis)
+V. A jinde mnoho svatých mučedníků, vyznavačů a svatých panen, jejichž přímluvu si v modlitbách vyprošujeme.
+$Deo gratias.
+
 [Pretiosa]
-V. Pretiósa in conspéctu Dómini.
-R. Mors Sanctórum ejus.
-v. Sancta María et omnes Sancti intercédant pro nobis ad Dóminum, ut nos mereámur ab eo adjuvári et salvári, qui vivit et regnat in sǽcula sæculórum.
+V. Předrahá je v Hospodinových očích.
+R. Smrt jeho Svatých.
+v. Panna Maria a všichni Svatí ať se za nás přimlouvají u Pána, abychom si zasloužili pomoci i spásy od toho, jenž žije a kraluje na věky věkův.
 $Amen
 
 [pretiosa]
@@ -251,93 +268,68 @@ $Amen
 [DefunctV]
 &Dominus_vobiscum
 &Benedicamus_Domino
-! Post Vesperas diei dicuntur %Vesperae Defunctorum%.
+! Po Nešporách ze dne následují %Nešpory za zesnulé%.
 
 [DefunctM]
 &Dominus_vobiscum
 &Benedicamus_Domino
-! Post Laudes diei dicuntur %Matutinum et Laudes Defunctorum%.
+! Po Laudách ze dne se říkají %Matutinum a Laudy za zesnulé%.
 
 [Oremus]
-v. Orémus.
+v. Modleme se.
+
+[Oremus] (rubrica cisterciensis)
+<center><font color="red">M</font>odleme se.</center>
 
 [Te decet]
-v. Te decet laus, + te decet hymnus: tibi glória Deo Patri, et Fílio, cum Spíritu Sancto in sǽcula sæculórum. Amen.
+v. Tobě patří chvála, tobě patří chvalozpěv, tobě patří sláva Boha Otce, a Syna, s Duchem Svatým na věky věkův. Amen.
 
 [Kyrie]
-v. Kýrie, eléison. Christe, eléison. Kýrie, eléison.
-
-[mLitany]
-$Kyrie
-$Pater noster Et
-
-[mLitany2]
-$Kyrie
-$rubrica Pater secreto
-$Pater noster Et
-
-[mLitany simplex]
-$Kyrie
-$rubrica Pater secreto
-$Pater noster Et
-$rubrica Credo secreto
-$Credo Carnis
-
-[rLitany simplex0]
-@:mLitany2
-
-[rLitany simplex]
-@:mLitany simplex
+v. Pane, smiluj se. Kriste, smiluj se. Pane, smiluj se.
 
 [Divinum auxilium]
 (rubrica Monastica)
-/:Si descendendum sit a choro, concluditur dicendo.:/
+/:Pokud se odchází z Chóru, zakončí se takto.:/
 (sed rubrica cisterciensis omittitur)
-Divínum auxílium + máneat semper nobíscum.
-Et cum frátribus nostris abséntibus. Amen.
+Božská pomoc + ať s námi zůstává navždy.
+I s našimi bratry, kteří zde nejsou. Amen.
 (sed rubrica cisterciensis)
-Et cum frátribus nostris abséntibus. 
+I s našimi bratry, kteří zde nejsou.
 
 [Alleluia Simplex]
-, allelúja.
+, alleluja.
 
 [Alleluia Duplex]
-Allelúja, allelúja.
+Alleluja, alleluja.
 
 [Aportainferi]
-V. A porta ínferi.
-R. Erue, Dómine, ánimas eórum.
-
-[A porta inferi]
-@:Aportainferi
-@:Requiescant
-@:Dominus:3-4
-&Dominus_vobiscum2
+V. Od brány pekelné.
+R. Vysvoboď Pane jejich duše.
 
 [Amen]
 R. Amen.
 
 [Per Christum]
-Per Christum Dominum nostrum.
+Skrze Krista, našeho Pána.
 
 [Oratio Visita_]
-v. Vísita, quǽsumus, Dómine, habitatiónem istam, et omnes insídias inimíci ab ea lónge repélle: Ángeli tui sancti hábitent in ea, qui nos in pace custódiant; et benedíctio tua sit super nos semper.
+v. Navštiv, Pane, prosíme tě, tento příbytek, a veškeré úklady nepřítele od něj daleko odežeň; Tvoji svatí Andělé nechť se v něm zabydlí, aby nás v míru zachovali; a tvé požehnání ať s nám zůstává navždy.
 
 [oratio_Visita]
 @:Oratio Visita_
 
 [oratio_Visita] (rubrica Ordo Praedicatorum)
-@:Oratio Visita_:s/Ángeli tui sancti hábitent/et Ángeli tui sancti habitántes/ s/qui //
+@:Oratio Visita_:s/Tvoji svatí Andělé nechť se v něm zabydlí/Tvoji svatí Andělé, kteří v něm bydlí/ s/qui //
 
 [respice]
-V. Réspice in servos tuos, Dómine, et in ópera tua, et dírige fílios eórum.
-R. Et sit splendor Dómini Dei nostri super nos, et ópera mánuum nostrárum dírige super nos, et opus mánuum nostrárum dírige.
+V. Pohlédni na své služebníky, Pane‚ a na své dílo, a veď jejich syny.
+R. A budiž jas Pána našeho Boha nad námi, a skutky našich rukou řiď nad námi: a dílo našich rukou řiď.
 
 [dirigere]
-v. Dirígere et sanctificáre, régere et gubernáre dignáre, Dómine Deus, Rex cæli et terræ, hódie corda et córpora nostra, sensus, sermónes et actus nostros in lege tua, et in opéribus mandatórum tuórum: ut hic et in ætérnum, te auxiliánte, salvi et líberi esse mereámur, Salvátor mundi: Qui vivis et regnas in sǽcula sæculórum.
+v. Říditi a posvěcovati‚ ovládati a vésti rač, Pane Bože, Králi nebe a země, dnes srdce i těla naše, smysly, slova i skutky naše ve svém zákoně, a ve vykonávání tvých přikázání: abychom nyní i navěky, s tvou pomocí zdrávi a svobodni býti si zasloužili, Spasiteli světa; Jenž žiješ a kraluješ na věky věkův.
 
 [benedictio Prima_]
-Benedictio. Dies et actus nostros in sua pace dispónat Dóminus omnípotens.
+Požehnání. Dny a skutky naše ať zřídí ve svém pokoji všemohoucí Hospodin.
 R. Amen.
 
 [benedictio Prima]
@@ -347,89 +339,54 @@ R. Amen.
 (rubrica cisterciensis) $rubrica Regula ante
 
 [benedictio Prima2]
-Benedictio. Dóminus nos benedícat, + et ab omni malo deféndat, et ad vitam perdúcat ætérnam. Et fidélium ánimæ per misericórdiam Dei requiéscant in pace.
+Benedictio. Hospodin nám požehnej, + a ode všeho zlého ochraňuj, a do věčného života nás doveď. A duše věrných zemřelých pro slitování Boží ať odpočívají v pokoji.
 
 [Benedicite]
-V. Benedícite.
-R. Deus.
+V. Požehnejte <i>mi</i>.
+R. Bůh <i>ti požehnej</i>.
 
 [commemoratio omnium]
-R.br. Commemorátio ómnium fratrum, familiárum Órdinis nostri, atque benefactórum nostrórum.
+R.br. Vzpomínka na všechny zemřelé bratry, familiáře našeho Řádu i dobrodince.
 (sed rubrica cisterciensis)
-/:Deinde dicit Lector::/ Commemorátio ómnium fratrum, familiárium et benefactórum defunctórum Ordinis nostri.
+/:Poté řekne Lektor::/ Vzpomínka na všechny zemřelé bratry, familiáře a dobrodince našeho Řádu.
 
 [Requiescant]
-V. Requiéscant in pace.
+V. Ať odpočívají v pokoji.
 R. Amen.
 
 [deus veniae_]
-v. Deus véniæ largítor et humánæ salútis amátor: quǽsumus cleméntiam tuam: ut nostræ congregatiónis fratres, propínquos et benefactóres, qui ex hoc sǽculo transiérunt, beáta María semper vírgine intercedénte cum ómnibus sanctis tuis ad perpétuæ beatitúdinis consórtium perveníre concédas. 
-
-[deus veniae]
-@:deus veniae_
-
-[deus veniae] (rubrica cisterciensis)
-@:deus veniae_: s/$/~/
-$Per Christum
+v. Bože, jenž udílíš odpuštění, a miluješ lidskou spásu, žádáme tvou slitovnost, abys udělil bratrům naší kongregace, našim blízkým a dobrodincům, kteří z tohoto světa odešli, na přímluvu blahoslavené Marie vždy Panny se všemi tvými Svatými, aby k přebývání ve věčné blaženosti došli.
 
 [oratio_Domine]
-v. Dómine Deus omnípotens, qui ad princípium hujus diéi nos perveníre fecísti: tua nos hódie salva virtúte; ut in hac die ad nullum declinémus peccátum, sed semper ad tuam justítiam faciéndam nostra procédant elóquia, dirigántur cogitatiónes et ópera.
+v. Pane, všemohoucí Bože, jenž jsi nás přivedl na začátek tohoto dne: zachraňuj nás dnes svou mocí, abychom se dnešního dne nesnížili k žádnému hříchu, avšak ke konání tvé spravedlnosti vždy směřovaly naše slova, myšlenky i skutky.
 
 [Benedictio Completorium_]
-Benedictio. Noctem quiétam et finem perféctum concédat nobis Dóminus omnípotens.
-
-[benedictio Completorium]
-@:Jube domne
-@:Benedictio Completorium_
-
-[benedictio Completorium] (rubrica Ordo Praedicatorum)
-@:Jube domne
-@:Benedictio Completorium_:s/concédat/tríbuat/
-
-[benedictio Completorium Final]
-@:Benedictio Completorium2
+Požehnání. Klidnou noc a dobrý konec ať nám udělí všemohoucí Hospodin. Amen.
 
 [Benedictio Completorium2]
-Benedictio. Benedícat et custódiat nos omnípotens et miséricors Dóminus, + Pater, et Fílius, et Spíritus Sanctus.
+Požehnání. Ať nám žehná a chrání nás všemohoucí a milosrdný Pán, + Otec, i Syn, i Duch Svatý.
 
 [Benedictio Completorium2] (rubrica Ordo Praedicatorum)
-Benedictio. Benedíctio Dei omnipoténtis + Patris, et Fílii, et Spíritus Sancti descéndat super nos et máneat semper.
+Požehnání. Požehnání Boha všemohoucího + Otce, i Syna, i Ducha Svatého, nechť na vás sestoupí a zůstane navždy.
 
 [Jube domne]
-V. Jube, domne, benedícere.
+V. Přikaž, pane, a požehnej.
 (sed rubrica 1960 dicitur)
-V. Jube, Dómine, benedícere.
+V. Přikaž, Pane, a požehnej.
 
 [Conclusio cisterciensis]
-Ant. Spíritus sanctus in te descéndet, María, ne tímeas, habébis in útero Fílium Dei.
+Ant. Duch Svatý na tebe sestoupí, Maria, neboj se, budeš mít v lůně Syna Božího.
 _
-V. Ecce ancílla Dómini.
-R. fiat mihi secúndum verbum tuum.
+V. Aj, já dívka páně.
+R. Staniž se mi podle tvého slova.
 _
 $Oremus
-v. Lætífica, et ádjuva nos, omnípotens et miséricors Deus, Domínicæ Conceptiónis gáudia recoléntes, et pia Dei Génitrix Virgo semper María (in cujus veneratióne hæc commemorámus) in cunctis necessitátibus nostris grátiam sancti Spíritus nobis ímpetret, et levámen. Per eúmdem Christum Dóminum nostrum.
+v. Rozradostni nás i pomoz nám, všemohoucí a milosrdný Bože, když rozjímáme nad radostí Početí našeho Pána, a laskavá Boží Rodička a vždy Panna Maria (k jejíž poctě si toto připomínáme) nechť nám ve všech našich potřebách vyprosí milost Ducha svatého i úlevu. Skrze téhož Krista, našeho Pána.
 $Amen
 
 [Quorum animae]
-V. Quorum ánimæ piis ádmodum reverendórum patrum ac religiosórum fratrum suffrágiis commendántur!
+V. Jejichž duše - těchto zbožných, velectěných otců, a řeholních bratrů - jsou svěřeny našim modlitbám!
 
 [Lectio regulae]
-Lectio ex Regula S.P.N.Benedicti, Caput № 
+Čtení z Řehole našeho Svatého Otce Benedikta, Kapitola 
 
-[ant Alma Redemptoris Mater]
-@Psalterium/Mariaant:Advent
-(sed tempore Nativitatis aut tempore Epiphaniæ aut tempore post Epiphaniam aut tempore Septuagesimæ dicitur)
-@Psalterium/Mariaant:Nativiti
-
-[ant Ave Regina caelorum]
-@Psalterium/Mariaant:Quadragesimae
-
-[ant Regina caeli]
-@Psalterium/Mariaant:Paschalis
-
-[ant Salve Regina]
-@Psalterium/Mariaant:Postpentecost
-(sed rubrica Ordo Praedicatorum)
-@Psalterium/Mariaant:Ant Finalis OP
-(sed rubrica cisterciensis)
-@Psalterium/Mariaant:Ant Finalis Cist
