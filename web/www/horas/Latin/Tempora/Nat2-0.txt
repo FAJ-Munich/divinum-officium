@@ -104,7 +104,7 @@ V. Propter glóriam nóminis tui, Dómine, líbera nos.
 R. Et propítius esto peccátis nostris propter nomen tuum.
 
 [Nocturn 3 Versum]
-@:Versum Tertia: s/[\,\.] al.*/./isg
+@:Versum Tertia: s/[\,\.] al.*/./ig
 
 [Lectio1]
 De Actibus Apostolórum
@@ -266,7 +266,7 @@ Regnum beatitúdinis.
 Amen.
 
 [Versum 2]
-@:Versum Nona: s/[\,\.] al.*/./isg
+@:Versum Nona: s/[\,\.] al.*/./ig
 
 [Ant 2]
 Dedit se, * ut liberáret pópulum, et acquíreret sibi nomen ætérnum, allelúja.

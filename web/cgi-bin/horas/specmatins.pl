@@ -585,12 +585,14 @@ sub lectio : ScriptFunc {
 
       # Pre-1960: Sanctoral simplex feast
       # (unless monastic in Nativitytide and Epiphany => prevent the former Octave days of Stephanus, Joannes, Innocents)
-      || ( $version !~ /196/
+      || (
+           $version !~ /196/
         && $rule !~ /1 et 2 lectiones/i
         && $winner =~ /Sancti/i
         && $rank < 2
-        && $winner{Rank} !~ /vigil/i
-        && !($version =~ /1963/i && $dayname[0] != /Nat|Epi1/i))
+        && $winner{Rank} !~ /vigil|(vide|ex) C10/i    #&& $winner  !~ /09-sab-oct/
+        && !($version =~ /1963/i && $dayname[0] != /Nat|Epi1/i)
+      )
     )
   ) {
     $num = 4;    # diverge to legend
@@ -670,6 +672,7 @@ sub lectio : ScriptFunc {
       if ($w{Lectio2} =~ /(.*?)\_/s) { $w{Lectio2} = $1; }
       my $w1 = $c{"Lectio3"};
       $w{Lectio2} .= $w1;
+      setbuild2("ex Lectiones 2 et 3 fit una (rubrics 1960)");
     }
     setbuild2("subst: Lectio$num de scriptura (rubrics 1960)");
   }
