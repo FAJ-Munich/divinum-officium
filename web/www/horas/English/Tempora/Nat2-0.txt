@@ -92,10 +92,6 @@ R. For it is great.
 V. For the glory of thy Name, deliver us, O Lord.
 R. And forgive our sins, for thy Name's sake.
 
-[Nocturn 3 Versum]
-V. Give unto the Lord glory and honour.
-R. Give unto the Lord the glory due unto His Name.
-
 [Lectio1]
 Lesson from the Acts of the Apostles
 !Acts 3:1-8
@@ -251,10 +247,6 @@ Be praise, beatitude, and power,
 Through all eternity.
 Amen.
 
-[Versum 2]
-V. Our help is in the Name of the Lord.
-R. Who made heaven and earth.
-
 [Ant 2]
 He gave Himself * to deliver His people, and to get Himself an everlasting Name. Alleluia.
 
@@ -262,13 +254,17 @@ He gave Himself * to deliver His people, and to get Himself an everlasting Name.
 !Col 3:17
 v. All whatsoever you do in word or in work, do all in the name of the Lord Jesus Christ, giving thanks to God and the Father by him.
 
-[Responsory Tertia]
+[Responsory Breve Tertia]
 R.br. Blessed be the Name of the Lord, * Alleluia, alleluia.
 R. Blessed be the Name of the Lord, * Alleluia, alleluia.
 V. From this time forth, and for evermore.
 R. Alleluia, alleluia.
 &Gloria
 R. Blessed be the Name of the Lord, * Alleluia, alleluia.
+
+[Versum Tertia]
+V. Give unto the Lord glory and honour, alleluia.
+R. Give unto the Lord the glory due unto His Name, alleluia.
 
 [Capitulum Sexta]
 !Phil 2:10-11
@@ -294,6 +290,10 @@ V. And let us exalt His Name together.
 R. Alleluia, alleluia.
 &Gloria
 R. O magnify the Lord with me, * Alleluia, alleluia.
+
+[Versum Nona]
+V. Our help is in the Name of the Lord, alleluia.
+R. Who made heaven and earth, alleluia.
 
 [Ant 3]
 Thou shalt call His Name Jesus, * for He shall save His people from their sins, alleluia.

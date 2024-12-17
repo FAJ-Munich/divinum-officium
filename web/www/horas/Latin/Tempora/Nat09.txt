@@ -26,3 +26,20 @@ De Epístola ad Romános
 8 Némini quidquam debeátis, nisi ut ínvicem diligátis: qui enim díligit próximum, legem implévit. 
 9 Nam, Non adulterábis, Non occídes, Non furáberis, Non falsum testimónium dices, Non concupísces: et si quod est áliud mandátum, in hoc verbo instaurátur: Díliges próximum tuum sicut teípsum. 
 10 Diléctio próximi malum non operátur. Plenitúdo ergo legis est diléctio.
+
+[Responsory1] (rubrica 196)
+@SanctiM/01-07
+(sed rubrica 1960)
+@Sancti/01-06:Responsory1InfraOctavam
+
+[Responsory2] (rubrica 196)
+@SanctiM/01-07
+(sed feria 7)
+@SanctiM/01-07:Responsory3
+(sed rubrica 1960)
+@Sancti/01-06
+
+[Responsory3] (rubrica 196)
+@SanctiM/01-07
+(sed rubrica 1960)
+@Sancti/01-06

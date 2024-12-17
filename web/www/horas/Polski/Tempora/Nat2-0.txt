@@ -95,10 +95,6 @@ R. Bo go siła.
 V. Dla sławy imienia twego, Panie, wybaw nas.
 R. A bądź miłościw grzechom naszym dla imienia twego.
 
-[Nocturn 3 Versum]
-V. Przynoście Panu cześć i chwałę.
-R. Przynoście Panu chwałę imieniowi jego.
-
 [Lectio1]
 Z Dziejów Apostolskich
 !Dz 3:1-8
@@ -253,10 +249,6 @@ Tobie chwała, cześć imieniu,
 królestwo szczęśliwości.
 Amen.
 
-[Versum 2]
-V. Wspomożenie nasze w imieniu Pańskiem.
-R. Który stworzył niebo i ziemię.
-
 [Ant 2]
 Ważył się, * aby lud swój wyswobodził, i sobie wieczną sławę zjednał, alleluja.
 
@@ -264,13 +256,17 @@ Ważył się, * aby lud swój wyswobodził, i sobie wieczną sławę zjednał, a
 !Kol 3:17
 v. Wszystko, cokolwiek czynicie w słowie albo w uczynku, wszystko w imię Pana Jezusa Chrystusa, dziękując Bogu i Ojcu przezeń.
 
-[Responsory Tertia]
+[Responsory Breve Tertia]
 R.br. Niech będzie Imię Pańskie błogosławione, * Alleluja, alleluja,
 R. Niech będzie Imię Pańskie błogosławione, * Alleluja, alleluja,
 V. Odtąd i aż na wieki, alleluja.
 R. Alleluja, alleluja.
 &Gloria
 R. Niech będzie Imię Pańskie błogosławione, * Alleluja, alleluja,
+
+[Versum Tertia]
+V. Przynoście Panu cześć i chwałę, alleluia.
+R. Przynoście Panu chwałę imieniowi jego, alleluia.
 
 [Capitulum Sexta]
 !Flp 2:10-11
@@ -296,6 +292,10 @@ V. A wywyższajmy imię jego społecznie.
 R. Alleluja, alleluja.
 &Gloria
 R. Wielbcie Pana zemną, * Alleluja, alleluja.
+
+[Versum Nona]
+V. Wspomożenie nasze w imieniu Pańskiem, alleluia.
+R. Który stworzył niebo i ziemię, alleluia.
 
 [Ant 3]
 Nazwiesz * Imię Jego Jezus, albowiem on zbawi lud swój od grzechów ich, alleluja.

@@ -8,7 +8,7 @@ No prima Vespera
 
 [Lectio1]
 De Canticis Canticorum
-!Song 2:1-7
+!Cant 2:1-7
 1 Ego flos campi, et lilium convallium.
 2 Sicut lilium inter spinas, sic amica mea inter filias.
 3 Sicut malus inter ligna silvarum, sic dilectus meus inter filios. Sub umbra illius quem desideraveram sedi, et fructus ejus dulcis gutturi meo.
@@ -35,14 +35,13 @@ De Canticis Canticorum
 17 donec aspiret dies, et inclinentur umbræ. Revertere; similis esto, dilecte mi, capreæ, hinnuloque cervorum super montes Bether.
 
 [Lectio4]
-Sermo sancti Joannis Damasceni
-Hodie sacra et animata arca Dei viventis, quæ suum in utero concepit creatorem, requiescit in templo Domini, quod nullis est extructum manibus: et David exultat eius parens, et cum eo choros ducunt angeli, celebrant Arcangeli, Virtutes glorificant, Principatus exultant, Potestates callætantur, gaudent Dominationes, Throni festum diem agunt, laudant Cherubim, gloriam eius prædicant Seraphim. Hodie Eden novi Adam paradisum suscipit animatum, in quo soluta est condemnatio, in quo plantatum est lignum vitæ, in quo operta fuit nostra nuditas.
+@Sancti/08-15t:Lectio4_
 
 [Lectio5]
-Hodie Virgo Immaculata, quæ nullis terrenis inquinata est affectibus, sed cælestibus educata cogitationibus, non in terram reversa est; sed, cum esset animatum cælum, in cælestibus tabernaculis collocatur. Ex qua enim omnibus vera vita manavit, quomodo illa mortem gustaret? Sed cedit legi latæ ab eo quem genuit; et, ut filia veteris Adam, veterem sententiam subiit (nam et eius filius, qui est vita ipsa, eam non recusavit); tu autem Dei viventis Mater, ad illum ipsum digne assumitur.
+@Sancti/08-15t:Lectio5_
 
 [Lectio6]
-Heva, quæ serpentis suggestioni assensum præbuit, partus dolore, et mortis sententia damnatur, et inferorum collocatur penetralibus. Hanc autem vere beatam, quæ Dei verbo aures præstitit, et Spiritus Sancti operatione repleta est, atqui ad Archangeli spiritalem salutationem, sine voluptate et virile consortio, Dei Filium concepit et sine dolore aliquo peperit, ac totam se Dea consacravit, quonam modo mors devoraret? Quomodo inferi susciperent? Quomodo corruptio invaderet corpus illud, in quo vita suscepta est? Huic recta plana et facilis ad cælum parata est via. Si enim, ubi ego sum illic et minister meus erit, inquit vita et veritas Christus; quomodo non potius Mater cum ipso erit?
+@Sancti/08-15t:Lectio6_
 
 [Lectio7]
 Léctio sancti Evangélii secúndum Lucam

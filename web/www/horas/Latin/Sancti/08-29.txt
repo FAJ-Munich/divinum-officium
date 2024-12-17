@@ -48,13 +48,18 @@ R. Propter Herodíadem, quam tulerat fratri suo vivénti uxórem.
 [Lectio3]
 @Sancti/06-24
 
-[Responsory3]
+[Responsory3_]
 R. Puéllæ saltánti imperávit mater: 
 * Nihil áliud petas, nisi caput Joánnis. * Et contristátus est rex propter jusjurándum et propter simul discumbéntes.
 V. Ait puélla matri suæ: Quid petam? At illa ait.
 R. Nihil áliud petas, nisi caput Joánnis.
 &Gloria
 R. Et contristátus est rex propter jusjurándum et propter simul discumbéntes.
+
+[Responsory3]
+@:Responsory3_
+(sed rubrica 1960)
+@:Responsory2
 
 [Lectio4]
 Ex libro sancti Ambrósii Epíscopi de Virgínibus

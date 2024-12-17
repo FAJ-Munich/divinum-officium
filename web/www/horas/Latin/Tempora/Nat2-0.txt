@@ -104,8 +104,7 @@ V. Propter glóriam nóminis tui, Dómine, líbera nos.
 R. Et propítius esto peccátis nostris propter nomen tuum.
 
 [Nocturn 3 Versum]
-V. Afférte Dómino glóriam et honórem.
-R. Afférte Dómino glóriam nómini ejus.
+@:Versum Tertia: s/[\,\.] al.*/./ig
 
 [Lectio1]
 De Actibus Apostolórum
@@ -267,8 +266,7 @@ Regnum beatitúdinis.
 Amen.
 
 [Versum 2]
-V. Adjutórium nostrum in nomine Dómini.
-R. Qui fecit cælum et terram.
+@:Versum Nona: s/[\,\.] al.*/./ig
 
 [Ant 2]
 Dedit se, * ut liberáret pópulum, et acquíreret sibi nomen ætérnum, allelúja.
@@ -286,7 +284,8 @@ R. Allelúja, allelúja.
 R. Sit nomen Dómini benedíctum, * Allelúja, allelúja.
 
 [Versum Tertia]
-@:Nocturn 3 Versum
+V. Afférte Dómino glóriam et honórem, allelúja.
+R. Afférte Dómino glóriam nómini ejus, allelúja.
 
 [Capitulum Sexta]
 !Phil 2:10-11
@@ -318,7 +317,8 @@ R. Allelúja, allelúja.
 R. Magnificáte Dóminum mecum, * Allelúja, allelúja.
 
 [Versum Nona]
-@:Versum 2
+V. Adjutórium nostrum in nomine Dómini, allelúja.
+R. Qui fecit cælum et terram, allelúja.
 
 [Versum 3]
 @:Versum 1

@@ -22,12 +22,7 @@ Feria Te Deum
 @Sancti/12-28:Octava
 
 [Lectio1] (rubrica tridentina)
-De libro Apocalýpsis beáti Joánnis Apóstoli
-!Apo 4:1-4
-1 Post hæc vidi: et ecce óstium apértum in cælo, et vox prima, quam audívi tamquam tubæ loquéntis mecum, dicens: Ascénde huc, et osténdam tibi quæ opórtet fíeri post hæc.
-2 Et statim fui in spíritu: et ecce sedes pósita erat in cælo, et supra sedem sedens.
-3 Et qui sedébat símilis erat aspéctui lápidis iáspidis, et sárdinis: et iris erat in circúitu sedis símilis visióni smarágdinæ.
-4 Et in circúitu sedis sedília vigínti quátuor: et super thronos vigínti quátuor senióres sedéntes, circumamícti vestiméntis albis, et in capítibus eórum corónæ áureæ.
+@Tempora/Pasc3-2::1-6 s/5/4/
 
 [Lectio2] (rubrica tridentina)
 !Apo 4:5-8

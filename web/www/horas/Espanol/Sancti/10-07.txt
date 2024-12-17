@@ -84,12 +84,6 @@ y entrega su espíritu.
 _
 @Psalterium/Doxologies:Nat
 
-[Hymnus Matutinum] (rubrica 196)
-@Sancti/10-07:Hymnus Vespera:s/misterios.*//s
-misterios que ignoraban.
-_
-@Sancti/10-07::s/^v. //
-
 [Ant Matutinum]
 El Ángel Gabriel * anunció a María, y concibió por obra del Espíritu Santo.;;8
 Entró María * en la morada de Zacarías, y saludó a Isabel.;;18

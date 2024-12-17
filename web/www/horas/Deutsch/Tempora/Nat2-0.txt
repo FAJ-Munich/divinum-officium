@@ -95,10 +95,6 @@ R. Denn sie sind sehr zahlreich.
 V. Um der Herrlichkeit deines Namens willen, o Herr, befreie uns.
 R. Und sei gnädig gegenüber unseren Sünden wegen deines Namens.
 
-[Nocturn 3 Versum]
-V. Bringt dem Herrn dar Ruhm und Ehre.
-R. Bringt dem Herrn den Ruhm seines Namens.
-
 [Lectio1]
 De Actibus Apostolórum
 !Act 3:1-8
@@ -254,10 +250,6 @@ Tibi laus, honor nóminis,
 Regnum beatitúdinis.
 Amen.
 
-[Versum 2]
-V. Unsere Hilfe ist im Namen des Herrn.
-R. Der Himmel und Erde erschaffen hat.
-
 [Ant 2]
 Er hat sich hingegeben, * um das Volk frei zu machen und sich einen ewigen Namen zu verdienen, alleluja.
 
@@ -265,13 +257,17 @@ Er hat sich hingegeben, * um das Volk frei zu machen und sich einen ewigen Namen
 !Kol 3,17
 v. Alles, was ihr unternehmt in Worten oder in Werken, alles das tut im Namen des Herrn Jesus Christus, um Gott dem Vater durch ihn zu danken.
 
-[Responsory Tertia]
+[Responsory Breve Tertia]
 R.br. Der Name des Herrn sei gepriesen, * Alleluja, alleluja.
 R. Der Name des Herrn sei gepriesen, * Alleluja, alleluja.
 V. Von nun an bis in Ewigkeit.
 R. Alleluja, alleluja.
 &Gloria
 R. Der Name des Herrn sei gepriesen, * Allelúja, allelúja.
+
+[Versum Tertia]
+V. Bringt dem Herrn dar Ruhm und Ehre, alleluia.
+R. Bringt dem Herrn den Ruhm seines Namens, alleluia.
 
 [Capitulum Sexta]
 !Phil 2,10-11
@@ -297,6 +293,10 @@ V. Und wir wollen seinen Namen all zusammen preisen.
 R. Alleluja, alleluja.
 &Gloria
 R. Verherrlicht den Herrn mit mir, * Alleluja, alleluja.
+
+[Versum Nona]
+V. Unsere Hilfe ist im Namen des Herrn, alleluia.
+R. Der Himmel und Erde erschaffen hat, alleluia.
 
 [Ant 3]
 Du wirst ihm * den Namen Jesus geben; denn er wird sein Volk retten von seinem Sündenelend, alleluja.

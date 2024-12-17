@@ -49,6 +49,9 @@ Edisseréntem Fílium.
 _
 @Psalterium/Doxologies:Nat
 
+[HymnusM Vespera]
+@Sancti/10-07:Hymnus Vespera:s/Nat/NatT/s
+
 [Versum 1]
 V. Regína sacratíssimi Rosárii, ora pro nobis.
 R. Ut digni efficiámur promissiónibus Christi.
@@ -95,10 +98,15 @@ _
 @:Hymnus Matutinum_
 
 [Hymnus Matutinum] (rubrica 196)
-@:Hymnus Vespera:s/Edisseréntem.*//s
-Edisseréntem Fílium.
-_
-@:Hymnus Matutinum_:s/^v. //
+@Sancti/10-07:Hymnus Vespera:s/\@Psalterium.*//s
+@Sancti/10-07:Hymnus Matutinum_:s/^v. //
+
+[HymnusM Matutinum]
+@Sancti/10-07:Hymnus Matutinum_:s/v. // s/Nat/NatT/
+
+[HymnusM Matutinum] (rubrica 196)
+@Sancti/10-07:Hymnus Vespera: s/\@Psalterium.*//s
+@Sancti/10-07:Hymnus Matutinum_:s/v. // s/Nat/NatT/
 
 [Ant Matutinum]
 Angelus Gábriel * nuntiávit Maríæ: et concépit de Spíritu Sancto.;;8
@@ -359,6 +367,9 @@ Et pulchri amóris ínclitæ
 Matri corónas néctite.
 _
 @Psalterium/Doxologies:Nat
+
+[HymnusM Vespera 3]
+@Sancti/10-07:Hymnus Vespera 3:s/Nat/NatT/s
 
 [Versum 3]
 @:Versum 1

@@ -92,12 +92,6 @@ Gloire au Père et à l’Esprit-Saint,
 Dans les siècles éternels.
 Ainsi soit-il.
 
-[Hymnus Matutinum] (rubrica 196)
-@Sancti/10-07:Hymnus Vespera :s/Edisseréntem.*//s
-Edisseréntem Fílium.
-_
-@Sancti/10-07::s/^v. //
-
 [Ant Matutinum]
 L’Ange Gabriel porta son message à Marie * et elle conçut du Saint-Esprit.;;8
 Marie entra * dans la maison de Zacharie et salua Élisabeth.;;18

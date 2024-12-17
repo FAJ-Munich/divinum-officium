@@ -1,4 +1,1 @@
 @Tempora/Quad5-0
-
-[Lectio1]
-!Jer 1:1-10
