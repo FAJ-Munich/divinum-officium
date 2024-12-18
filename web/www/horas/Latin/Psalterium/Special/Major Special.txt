@@ -1437,7 +1437,7 @@ _
 (sed Adventus dicitur) 
 @Psalterium/Mariaant:Advent: s/.*V\./V./s s/(Per|Through).*$//
 (sed Nativitatis aut Epiphaniæ aut post partum dicitur)
-@Psalterium/Mariaant:Nativiti: s/.*V\./V./s s/Amen.*$//
+@Psalterium/Mariaant:Nativiti: s/.*V\./V./s s/Amen.*$//si
 (sed Paschali dicitur)
 @Psalterium/Mariaant:Paschalis: s/.*V\./V./s s/(Per|Through).*$//
 
@@ -1537,16 +1537,23 @@ _
 
 [Suffragium Laudes] (rubrica cisterciensis)
 @:Suffragium BMV
-(sed commune C1[01] omittitur)
+$Per eundem
+(sed post partum)
+$Amen
+(sed rubrica 1951 aut feria 4 aut feria 3 aut feria 7)
+_
+(sed commune C1[01] omittuntur)
 (deinde rubrica 1951 aut feria 4 dicuntur)
-_
-(sed commune C1[01] omittitur)
 @:Suffragium DeJoseph
+$Per Dominum
+(sed rubrica 1951)
+_
 (deinde rubrica 1951 aut feria 3 dicuntur)
-_
 @:Suffragium DeSSPN
-(deinde rubrica 1951 aut feria 7 dicuntur)
+$Per Dominum
+(sed rubrica 1951)
 _
+(deinde rubrica 1951 aut feria 7 dicuntur)
 @:Suffragium DePace
 
 [Suffragium Vespera] (rubrica tridentina)
@@ -1581,16 +1588,23 @@ _
 @Psalterium/Mariaant:Nativiti: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/Amen.*$/\n/s
 (sed Paschali dicitur)
 @Psalterium/Mariaant:Paschalis: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(Per|Through).*$/\n/s
-(sed commune C1[01] omittitur)
+$Per eundem
+(sed post partum)
+$Amen
+(sed rubrica 1951 aut feria 3 aut feria 2 aut feria 6)
+_
+(sed commune C1[01] omittuntur)
 (deinde rubrica 1951 aut feria 3 dicuntur)
-_
-(sed commune C1[01] omittitur)
 @:Suffragium DeJoseph
+$Per Dominum
+(sed rubrica 1951)
+_
 (deinde rubrica 1951 aut feria 2 dicuntur)
-_
 @:Suffragium DeSSPN
-(deinde rubrica 1951 aut feria 6 dicuntur)
+$Per Dominum
+(sed rubrica 1951)
 _
+(deinde rubrica 1951 aut feria 6 dicuntur)
 @:Suffragium DePace
 
 [Day0M Laudes]
