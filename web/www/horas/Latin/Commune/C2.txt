@@ -67,14 +67,6 @@ $Per Dominum
 Præsta, quǽsumus, omnípotens Deus: ut, intercedénte beáto N. Mártyre tuo, et a cunctis adversitátibus liberémur in córpore, et a pravis cogitatiónibus mundémur in mente.
 $Per Dominum
 
-[Oratio2]
-Præsta, quǽsumus, omnípotens Deus: ut qui beáti N. Mártyris tui natalícia cólimus, intercessióne ejus in tui nóminis amóre roborémur.
-$Per Dominum
-
-[Oratio3]
-Præsta, quǽsumus, omnípotens Deus: ut, intercedénte beáto N. Mártyre tuo, et a cunctis adversitátibus liberémur in córpore, et a pravis cogitatiónibus mundémur in mente.
-$Per Dominum
-
 [Invit]
 Regem Mártyrum Dóminum, * Veníte, adorémus.
 

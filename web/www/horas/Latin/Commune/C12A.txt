@@ -38,7 +38,16 @@ $Qui tecum
 @Commune/C12
 
 [Ant Matutinum]
-@Commune/C11::s/V\. .*/V. Diffúsa est grátia in lábiis tuis./g s/R\. .*/R. Proptérea benedíxit te Deus in ætérnum./g s/Post partum.*\./Ángelus Dómini \* nuntiávit Maríæ, et concépit de Spíritu Sancto./
+@Commune/C11::s/Post partum.*\./Ángelus Dómini \* nuntiávit Maríæ, et concépit de Spíritu Sancto./
+
+[Nocturn 1 Versum]
+@Commune/C6:Versum 2
+
+[Nocturn 2 Versum]
+@Commune/C6:Versum 2
+
+[Nocturn 3 Versum]
+@Commune/C6:Versum 2
 
 [Lectio1]
 !Luc 1:26-28
@@ -91,6 +100,9 @@ $Deo gratias
 
 [Special Prima]
 @Commune/C12:Minor intro
+@Commune/C12:Hymnus minor
+
+#Psalmi
 @Sancti/03-25:Ant Vespera:1 s/^/Ant. / s/;;.*//
 &psalm(53)
 
@@ -108,6 +120,9 @@ _
 
 [Special Tertia]
 @Commune/C12:Minor intro
+@Commune/C12:Hymnus minor
+
+#Psalmi
 @Sancti/03-25:Ant Vespera:2 s/^/Ant. / s/;;.*//
 &psalm(119)
 
@@ -126,6 +141,9 @@ _
 
 [Special Sexta]
 @Commune/C12:Minor intro
+@Commune/C12:Hymnus minor
+
+#Psalmi
 @Sancti/03-25:Ant Vespera:3 s/^/Ant. / s/;;.*//
 &psalm(122)
 
@@ -143,6 +161,9 @@ _
 
 [Special Nona]
 @Commune/C12:Minor intro
+@Commune/C12:Hymnus minor
+
+#Psalmi
 @Sancti/03-25:Ant Vespera:5 s/^/Ant. / s/;;.*//
 &psalm(125)
 
@@ -155,7 +176,7 @@ _
 #Capitulum
 @Sancti/03-25:Capitulum Laudes
 _
-@Psalterium/Mariaant:Advent:s/.*V./V./s s/v. .*//s
+@Psalterium/Mariaant:Advent:8-9
 @:Minor final
 
 [Versum 3]
@@ -168,7 +189,7 @@ _
 @Commune/C12::s/(#Capitulum.).*/$1/s
 @Sancti/03-25:Capitulum Laudes
 _
-@Psalterium/Mariaant:Advent:s/.*V./V./s s/v. .*//s
+@Psalterium/Mariaant:Advent:8-9
 
 #Canticum: Nunc dimittis
 @Tempora/Adv1-0:Ant 2:s/^/Ant. /

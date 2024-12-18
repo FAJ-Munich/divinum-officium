@@ -64,7 +64,7 @@ Et mortis hora súscipe.
 _
 @Psalterium/Doxologies:Nat
 
-[Hymnus minor] (rubrica 1570 aut rubrica monastica dicitur)
+[HymnusM minor]
 
 #Hymnus
 v. Meménto salútis auctor,
@@ -79,9 +79,8 @@ Et hora mortis súscipe.
 _
 @Psalterium/Doxologies:NatT
 
-[HymnusM minor]
-@:Hymnus minor:1-12
-@Psalterium/Doxologies:NatT
+[Hymnus minor] (rubrica 1570 aut rubrica monastica)
+@:HymnusM minor
 
 [Nocturn 1 Versum]
 @Commune/C6:Versum 2
@@ -121,6 +120,7 @@ R. Genuisti qui te fecit, et in æternum permanes Virgo.
 @Commune/C11:Responsory7:s/festivitátem/commemoratiónem/ s/(R. Quia ex te ortus est sol justítiæ), (Christus, Deus noster.)/$1.\n&Gloria\nR. $2/
 
 [Minor final]
+
 #Conclusio
 &Dominus_vobiscum
 &Benedicamus_Domino

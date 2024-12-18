@@ -32,6 +32,9 @@ Officium parvum Beatae Mariae Virginis Tempora Nativitatis;;Simplex;;1
 
 [Special Prima]
 @:Minor intro
+@:Hymnus minor
+
+#Psalmi
 @Sancti/01-01:Ant Vespera:1 s/^/Ant. / s/;;.*//
 &psalm(53)
 
@@ -49,6 +52,9 @@ _
 
 [Special Tertia]
 @:Minor intro
+@:Hymnus minor
+
+#Psalmi
 @Sancti/01-01:Ant Vespera:2 s/^/Ant. / s/;;.*//
 &psalm(119)
 
@@ -66,6 +72,9 @@ _
 
 [Special Sexta]
 @:Minor intro
+@:Hymnus minor
+
+#Psalmi
 @Sancti/01-01:Ant Vespera:3 s/^/Ant. / s/;;.*//
 &psalm(122)
 
@@ -83,6 +92,9 @@ _
 
 [Special Nona]
 @:Minor intro
+@:Hymnus minor
+
+#Psalmi
 @Sancti/01-01:Ant Vespera:5 s/^/Ant. / s/;;.*//
 &psalm(125)
 
