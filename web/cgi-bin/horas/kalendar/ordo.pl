@@ -63,8 +63,19 @@ sub ordo_entry {
     $c2 .= setfont($smallfont, " *L1*");
   }
 
-  $c2 ||= '_' if $compare;
-  ($c1, $c2);
+  our $hora;
+  my $temphora = $hora;
+  $hora = 'Vespera';
+  precedence($date);
+  $hora = $temphora;
+  my $cv = $dayname[2];
+  $cv =~ s/.*?(Vespera|A capitulo|$)/$1/;
+  
+  if ($compare) {
+    $c2 ||= '_';
+    $cv ||= '_';
+  }
+  return ($c1, $c2, $cv);
 }
 
 # html_header_ordo

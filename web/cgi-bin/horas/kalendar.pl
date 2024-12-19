@@ -193,7 +193,7 @@ PrintTag
         $c2 .= "<br/>$c22";
         $cv .= "<br/>$cv2";
       }
-      push @output, qq(<A HREF=# onclick="callbrevi('$date1');">$d1</A>), $c1, $c2, $cv, @{[(DAYNAMES)[$dayofweek]]};
+      push @output, qq(<A HREF=# onclick="callbrevi('$date1');">$d1</A>), $c1, $c2, qq(<FONT SIZE="-2">$cv</FONT>), @{[(DAYNAMES)[$dayofweek]]};
     }
 
     $output .=
