@@ -70,7 +70,7 @@ sub ordo_entry {
   $hora = $temphora;
   my $cv = $dayname[2];
   $cv =~ s/.*?(Vespera|A capitulo|$)/$1/;
-  
+
   if ($compare) {
     $c2 ||= '_';
     $cv ||= '_';
@@ -84,14 +84,20 @@ sub table_row {
   our ($version1, $compare, $version2, $dayofweek);
 
   my $d = substr($date, 3, 2) + 0;
-  my ($c1, $c2) = ordo_entry($date, $version1, $compare);
+  my ($c1, $c2, $cv) = ordo_entry($date, $version1, $compare);
 
   if ($compare) {
-    my ($c21, $c22) = ordo_entry($date, $version2, $compare);
+    my ($c21, $c22, $cv2) = ordo_entry($date, $version2, $compare);
     $c1 .= "<br/>$c21";
     $c2 .= "<br/>$c22";
+    $cv .= "<br/>$cv2";
   }
-  (qq(<A HREF=# onclick="callbrevi('$date');">$d</A>), $c1, $c2, @{[(DAYNAMES)[$dayofweek]]});
+  (
+    qq(<A HREF=# onclick="callbrevi('$date');">$d</A>),
+    $c1, $c2,
+    qq(<FONT SIZE="-2">$cv</FONT>),
+    @{[(DAYNAMES)[$dayofweek]]}
+  );
 }
 
 # html_header_ordo
