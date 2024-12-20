@@ -61,7 +61,6 @@ sub preces {
       && ($winner{Rank} !~ /octav/i || $winner{Rank} =~ /post octav/i)
       && checkcommemoratio(\%winner) !~ /Octav/i)
     {
-      # $precesferiales = $hora eq 'Prima';
       return 1;
     }
   }

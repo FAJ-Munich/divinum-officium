@@ -825,6 +825,7 @@ sub concurrence {
              $rank >= ($version =~ /trident/i ? 6 : 5)
           && $wrank[0] !~ /feria|octava/i ? 2.1 : $version !~ /cist/i ? 1.1 : 1
       )
+      && $ccomrank !~ 1.5
       && $version !~ /1955|196/
     ) {
       $vespera = 3;

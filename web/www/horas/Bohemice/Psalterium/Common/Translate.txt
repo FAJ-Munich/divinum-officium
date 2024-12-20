@@ -1,0 +1,397 @@
+[Pater noster]
+Otče náš
+
+[Ave Maria]
+Zdrávas Maria
+
+[Credo]
+Věřím
+
+[Gloria]
+Sláva Otci
+
+[Gloria omittitur]
+Sláva Otci se vynechává
+
+[gloria]
+Sláva Otci
+
+[Requiem]
+Odpočinutí věčné
+
+[Alleluia]
+Alleluja.
+
+[Laus tibi]
+Chvála tobě, Pane, Králi věčné slávy.
+
+[Dominus vobiscum]
+Pán s vámi.
+
+[Domine exaudi]
+Pane, slyš modlitbu mou 
+
+[secunda Domine exaudi omittitur]
+druhé <i>Dómine exáudi.</i> se vynechává
+
+[Confiteor]
+Vyznávám se
+
+[Misereatur]
+Smiluj se nad námi, všemohoucí Bože 
+
+[Indulgentiam]
+Uděl nám odpuštění
+
+[Domine labia]
+Pane, otevři mé rty
+
+[pater noster]
+Otče náš
+
+[Deus in adjutorium]
+Bože, k pomocí mé pospěš
+
+[Deusinadjutorium]
+Bože, k pomocí mé pospěš
+
+[Tu autem]
+Ty však, Pane.
+
+[Aperi]
+Otevři má ústa
+
+[Benedicamus Domino]
+Dobrořečme Pánu
+
+[Benedicamus Domino alleluja]
+Dobrořečme Pánu, alleluia, alleluia
+
+[Fidelium animae]
+Duše všech zemřelých
+
+[Oremus]
+Modleme se.
+
+[Hymnus]
+Hymnus
+
+[Psalmus]
+Žalm
+
+[Per Dominum]
+Skrze Pána našeho
+
+[Per Dominum eiusdem]
+Skrze téhož Pána našeho
+
+[Qui cum Patre]
+Jenž s Otcem
+
+[Per eumdem]
+Skrze téhož
+
+[Qui vivis]
+Jenž žiješ
+
+[Qui tecum]
+Který s tebou
+
+[Sacrosancta]
+Přesvatá
+
+[Sacrosanctaea]
+Přesvatá
+
+[Benedictio]
+Požehnání
+
+[Absolutio]
+Rozhřešení
+
+[Te Deum]
+Bože, chválíme Tebe
+
+[Deo gratias]
+Bohu Díky.
+
+[Lectio]
+Čtení
+
+[Ante]
+Před
+
+[Divinum Officium]
+Božské Officium
+
+[Post]
+Po
+
+[Commemoratio]
+Připomínka
+
+[Antiphonae]
+Antifony
+
+[Antiphona]
+Antifona
+
+[Evangelist]
+Mat|Mar|Luk|Jan
+
+[et Psalmi]
+a Žalmy
+
+[Psalmi, antiphonae]
+Žalmy a antifony
+
+[Psalmi et antiphonae]
+Žalmy a antifony
+
+[Psalmi Dominica, antiphonae]
+Nedělní Žalmy a antifony
+
+[Antiphona finalis BMV]
+Závěrečná mariánská antifona
+
+[Divinum_auxilium]
+Božská pomoc
+
+[Gloria tibi Domine]
+Sláva tobě, Pane.
+
+[Kyrie]
+Kýrie
+
+[MLitany]
+@:Kyrie
+…
+@:Pater noster
+
+[Dominica]
+Neděle
+
+[Octava]
+Oktáv[y]
+
+[Psalmi graduales]
+Stupňové Žalmy
+
+[Septem psalmi paenitentiales]
+Sedm kajících žalmů
+
+[Litaniae]
+Litanie
+
+[Ordo Commendationis Animae]
+Řád odevzdání Duše Bohu
+
+[Benedictio mensae]
+Požehnání jídla
+
+[Itinerarium]
+Modlitba před cestou
+
+[Nocturn]
+Nocturnus
+
+[Adjutorium nostrum]
+Adjutorium nostrum
+
+[Oratio Domine_]
+Dómine Deus
+
+[Respice]
+Réspice
+
+[Pater totum secreto_]
+/:celé potichu:/
+
+[Pater Ave L_]
+/:rubrika z Laud:/
+
+[Deus in adjutorium iij_]
+/:třikrát:/
+
+[Benedictio Prima]
+Jube, … Dies et actus
+
+[benedictio Prima2]
+Dóminus nos benedícat
+
+[Benedicite]
+Benedícite
+
+[Defunctorum]
+@:#Připomínka zemřelých: s/#//
+
+[Pater totum secreto]
+@:Pater noster
+@:Pater totum secreto_
+
+[Pater post]
+@:Pater totum secreto
+
+[Pater post V]
+@:Pater totum secreto
+
+[Deus in adjutorium iij]
+@:Deus in adjutorium
+@:Deus in adjutorium iij_
+
+[Oratio Domine]
+@:Domine exaudi
+…
+@:Oremus
+…
+@:Oratio Domine_
+
+[Oratio Domine] (rubrica ^Monastic)
+@:MLitany
+…
+@:Domine exaudi
+…
+@:Oremus
+…
+@:Oratio Domine_
+
+[Requiescant]
+Requiéscant
+
+[A_porta_inferi]
+A porta ínferi
+
+[Aportainferi]
+@:A_porta_inferi
+
+[Versus in loco]
+Versus (In loco Capituli)
+
+[secreto]
+secreto
+
+[Pretiosa]
+Pretiosa
+
+[Preces feriales Laudes]
+Ego dixi …
+
+[Preces feriales Vespera]
+@:Preces feriales Laudes
+
+[Preces dominicales primae]
+Et ego ad te …
+
+[Preces dominicales secundae]
+Dignáre, Dómine …
+
+[Preces dominicales Completorium]
+Benedictus es …
+
+[Preces dominicales Completorium] (rubrica ^Monastic)
+@:Preces dominicales secundae
+
+[Preces feriales Prima]
+Éripe me, …
+
+[Preces feriales minora]
+Dómine, Deus …
+
+[ant Alma Redemptoris Mater]
+Vznešená Matko Spasitele
+
+[ant Ave Regina caelorum]
+Buď zdráva, Královno nebe
+
+[ant Regina caeli]
+Vesel se nebes Královno
+
+[ant Salve Regina]
+Zdrávas Královno
+
+[#ANTE PRANDIUM]
+#Před obědem.
+
+[#POST PRANDIUM]
+#Po obědě.
+
+[#ANTE COENAM]
+#Před večeří.
+
+[#IN FINE COENAE]
+#Po večeři.
+
+[#Incipit]
+#Začátek
+
+[#Invitatorium]
+#Invitatorium
+
+[#Hymnus]
+#Hymnus
+
+[#Psalmi]
+#Žalmy
+
+[#Psalmi cum lectionibus]
+#Žalmy se čteními
+
+[#Capitulum Responsorium Versus]
+#Krátké čtení, Responsorium a Verš
+
+[#De Officio Capituli]
+#Officium v Kapitulní síni
+
+[#Capitulum Responsory Versus]
+#Krátké čtení, Responsorium a Verš
+
+[#Martyrologium]
+#Martyrologium
+
+[#Capitulum Hymnus Versus]
+#Krátké čtením Hymnus a Verš
+
+[#Capitulum Versus]
+#Krátké čtení a Verš
+
+[#Capitulum Responsorium Hymnus Versus]
+#Krátké čtení, Responsorium, Hymnus a Verš
+
+[#Canticum]
+#Kantikum
+
+[#Canticum: Nunc dimittis]
+#Kantikum: Nyní propouštíš
+
+[#Canticum: Benedictus]
+#Kantikum: Benedictus
+
+[#Canticum: Magnificat]
+#Kantikum: Magnificat
+
+[#Preces Dominicales]
+#Nedělní přímluvy
+
+[#Preces Dominicales et Feriales]
+#Nedělní i feriální přímluvy
+
+[#Preces Feriales]
+#Feriální přímluvy
+
+[#Suffragium]
+#Suffragium
+
+[#Oratio]
+#Modlitba
+
+[#Orationes]
+#Modlitby
+
+[#Lectio brevis]
+#Krátké čtení
+
+[#Conclusio]
+#Závěr
+
+[#Commemoratio defunctorum]
+#Připomínka za zemřelé

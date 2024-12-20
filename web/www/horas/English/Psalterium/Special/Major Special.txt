@@ -983,6 +983,19 @@ Grant, we beseech thee, O  Lord God, unto all thy servants, that they may contin
 (sed tempore post partum loco horum versuum dicuntur)
 @Psalterium/Mariaant:Nativiti:s/.*V\./V\./s
 
+[Suffragium BMV] (rubrica cisterciensis)
+!De Beata Maria
+Ant. Sancta Dei Génitrix, Virgo semper María, intercéde pro nobis ad Dóminum Deum nostrum. (Alleluia, alleluja.)
+_
+@Psalterium/Mariaant:Postpentecost: s/.*V\./V./s s/(Per|Through).*$/\n/
+(sed tempore post Epiphaniam aut Septuagesimæ aut Quadragesimæ aut Passionis dicitur)
+@Psalterium/Mariaant:Quadragesimae: s/.*V\./V./s  s/(Per|Through).*$//
+(sed Adventus dicitur) 
+@Psalterium/Mariaant:Advent: s/.*V\./V./s s/(Per|Through).*$//
+(sed Nativitatis aut Epiphaniæ aut post partum dicitur)
+@Psalterium/Mariaant:Nativiti: s/.*V\./V./s s/Amen.*$//
+(sed Paschali dicitur)
+@Psalterium/Mariaant:Paschalis: s/.*V\./V./s s/(Per|Through).*$//
 
 [Suffragium DeJosephV]
 !Commemoration of St. Joseph 

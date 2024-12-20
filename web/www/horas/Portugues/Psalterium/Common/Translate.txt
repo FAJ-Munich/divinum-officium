@@ -130,6 +130,9 @@ Antífonas
 [Antiphona]
 Antífona
 
+[Evangelist]
+Mt|Mc|Lc|Jo
+
 [et Psalmi]
 e Salmos
 
@@ -156,9 +159,6 @@ Senhor tende piedade
 
 [Adjutorium nostrum]
 O nosso auxílio está
-
-[Evangelist]
-Mt|Mc|Lc|Jo
 
 [secreto]
 silenciosamente
