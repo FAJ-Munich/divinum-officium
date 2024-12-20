@@ -341,12 +341,12 @@ sub psalm : ScriptFunc {
   $output .= "\n" . join("\n", @lines) . ($lines[0] =~ /^\{/ ? "}\n" : "\n");    # end chant with brace for recognition
 
   if ($version =~ /Monastic/ && $psnum == 129 && $hora eq 'Prima') {
-    
+
     # Commemoratio Defunctorum ad Primam
     $output .= prayer('Requiem', $lang);
   } elsif ($psnum != 210 && !$nogloria) {
     if ($lines[0] =~ /^\{/ && !triduum_gloria_omitted()) {
-      
+
       # Add Gloria/Requiem Chant
       my $gloria = $commune !~ /C9/ ? 'gloria' : 'requiem';
       $fname = "Psalterium/Psalmorum/$gloria-$ftone.gabc";

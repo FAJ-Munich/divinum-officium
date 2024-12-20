@@ -96,7 +96,7 @@ sub table_row {
     qq(<A HREF=# onclick="callbrevi('$date');">$d</A>),
     $c1, $c2,
     qq(<FONT SIZE="-2">$cv</FONT>),
-    @{[(DAYNAMES)[$dayofweek]]}
+    @{[(DAYNAMES)[$dayofweek]]},
   );
 }
 
