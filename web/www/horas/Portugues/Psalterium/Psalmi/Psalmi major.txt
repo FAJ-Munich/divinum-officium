@@ -387,6 +387,12 @@ Porque * seu amor é eterno.;;135
 Cantai-nos * dos cantares de Sião.;;136
 Na presença * dos anjos eu Te quero cantar, Deus meu.;;137
 
+[DaymP Vespera]
+Alleluia, alleluia, alleluia;;109
+;;110
+;;111
+;;112
+
 [Daym4 Vespera]
 Senhor, * perscrutas-me e me conheces.;;138(1-10)
 ;;138(11-24)
@@ -404,12 +410,6 @@ Teu reino, * Senhor, é um reino eterno.;;144(10-21)
 Louvarei * ao meu Deus por tôda a vida.;;145
 Ao nosso Deus * seja dado alegre louvor.;;146
 Louva, * Jerusalém, ao Senhor.;;147
-
-[DaymP Vespera]
-Alleluia, alleluia, alleluia;;109
-;;110
-;;111
-;;112
 
 [DaymP Laudes]
 Alleluia, * alleluia, alleluia, alleluia, alleluia, alleluia, alleluia, alleluia, alleluia.;;92;99;62

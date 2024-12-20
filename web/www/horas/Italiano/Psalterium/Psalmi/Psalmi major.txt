@@ -388,6 +388,12 @@ Perché la sua misericordia * dura in eterno.;;135
 Cantateci * qualcuno dei canti di Sion.;;136
 Inneggerò a te * nel cospetto, degli Angeli, mio Dio.;;137
 
+[DaymP Vespera]
+Alleluia, alleluia, alleluia;;109
+;;110
+;;111
+;;112
+
 [Daym4 Vespera]
 Signore, * tu mi hai scrutato, e mi hai conosciuto.;;138(1-10)
 ;;138(11-24)
@@ -405,12 +411,6 @@ Il tuo regno, * o Signore, è un regno di tutti i secoli.;;144(10-21)
 Loderò Dio * tutta la vita.;;145
 Al nostro Dio * si dia lode gioconda.;;146
 Loda, o Gerusalemme, * il Signore.;;147
-
-[DaymP Vespera]
-Alleluia, alleluia, alleluia;;109
-;;110
-;;111
-;;112
 
 [DaymP Laudes]
 Alleluia, * alleluia, alleluia, alleluia, alleluia, alleluia, alleluia, alleluia, alleluia.;;92;99;62

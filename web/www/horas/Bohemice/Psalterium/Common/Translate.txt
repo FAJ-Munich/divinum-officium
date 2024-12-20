@@ -34,6 +34,9 @@ Pane, slyš modlitbu mou
 [secunda Domine exaudi omittitur]
 druhé <i>Dómine exáudi.</i> se vynechává
 
+[pater noster]
+Otče náš
+
 [Confiteor]
 Vyznávám se
 
@@ -45,9 +48,6 @@ Uděl nám odpuštění
 
 [Domine labia]
 Pane, otevři mé rty
-
-[pater noster]
-Otče náš
 
 [Deus in adjutorium]
 Bože, k pomocí mé pospěš
@@ -97,10 +97,10 @@ Jenž žiješ
 [Qui tecum]
 Který s tebou
 
-[Sacrosancta]
+[Sacrosanctaea]
 Přesvatá
 
-[Sacrosanctaea]
+[Sacrosancta]
 Přesvatá
 
 [Benedictio]
@@ -114,6 +114,9 @@ Bože, chválíme Tebe
 
 [Deo gratias]
 Bohu Díky.
+
+[Evangelist]
+Mat|Mar|Luk|Jan
 
 [Lectio]
 Čtení
@@ -135,9 +138,6 @@ Antifony
 
 [Antiphona]
 Antifona
-
-[Evangelist]
-Mat|Mar|Luk|Jan
 
 [et Psalmi]
 a Žalmy

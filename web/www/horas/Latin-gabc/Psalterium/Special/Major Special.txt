@@ -808,6 +808,10 @@ Amen.
 V. Roráte, cæli, désuper, et nubes pluant justum.
 R. Aperiátur terra, et gérminet Salvatórem.
 
+[Quad5 Versum 3] (tonus simplex)
+V. Éripe me, Dómine, ab hómine malo.
+R. A viro iníquo éripe me.
+
 [Adv Ant 17]
 O Sapiéntia, * quæ ex ore Altíssimi prodiísti, attíngens a fine usque ad finem, fórtiter suavitérque dispónens ómnia: veni ad docéndum nos viam prudéntiæ.
 
@@ -1047,10 +1051,6 @@ Amen.
 [Quad5 Versum 3]
 {initial-style:0;%%(c3) V/. É(h)ri(h)pe(h) me,(h) Dó(h)mi(h)ne,(h) ab(h) hó(h)mi(h)ne(h) ma(h)lo.(g_0hGF'Efgf.) (::)}
 {initial-style:0;%%(c3) R/. A(h) vi(h)ro(h) in(h)í(h)quo(h) é(h)ri(h)pe(h) me.(g_0hGF'Efgf.) (::)}
-
-[Quad5 Versum 3] (tonus simplex)
-V. Éripe me, Dómine, ab hómine malo.
-R. A viro iníquo éripe me.
 
 [Pasch Laudes]
 !Rom 6:9-10

@@ -43,11 +43,18 @@ R. Et lux perpétua * lúceat eis.
 {(c4) Laus(h) ti(h)bi(h) Dó(h)mi(h)ne(h'_) (,) Rex(h) æ(h)tér(ixhi)næ(h) gló(h)ri(hg)æ.(g.) (::)}
 
 [Dominus]
-V. Dóminus vobíscum.
-R. Et cum spíritu tuo.
+{initial-style:0;%%(c3) V/. Dó(h)mi(h)nus(h) vo(h)bís(h)cum.(f.) (::)
+R/. Et(h) cum(h) spí(h)ri(h)tu(h) tu(h)o.(f.) (::)}
 {initial-style:0;%%(c3) V/. Dó(h)mi(h)ne,(h) ex(h)áu(h)di(h) o(h)ra(h)ti(h)ó(h)nem(h) me(h)am.(f.) (::)
 R/. Et(h) cla(h)mor(h) me(h)us(h) ad(h) te(h) vé(h)ni(h)at.(f.) (::)}
 /:secunda 'Domine, exaudi' omittitur:/
+
+[Dominus solemnis]
+{initial-style:0;%%(c3) V/. Dó(h)mi(i)nus(i) vo(hi)bís(ih)cum.(h.) (::)
+R/. Et(h) cum(i) spí(i)ri(h)tu(h) tu(i)o.(i.) (::)}
+{initial-style:0;%%(c3) V/. Dó(h)mi(i)ne,(i) ex(i)áu(i)di(h) o(h)ra(h)ti(h)ó(h)nem(i) me(ih)am.(i.) (::)
+R/. Et(h) cla(i)mor(i) me(i)us(h) ad(h) te(h) vé(i)ni(i)at.(i.) (::)}
+@:Dominus:5
 
 [Domine labia]
 {(c3) DO(h)mi(h)ne,(h'_) lá(h)bi(h)a(h) ^+︎^ me(h)a(h) a(h)pé(g)ri(h)es.(h.) (::) <sp>R/</sp>. Et(h) os(h) me(h)um(h) an(h)nun(h)ti(h)á(h)bit(h) lau(h)dem(h) tu(g)am.(h.) (::)}
@@ -85,13 +92,13 @@ R/. De(h)o(h) grá(h)ti(d)as.(d.) (::)}
 {initial-style:0;%%(c3) V/. Be(h)ne(h)di(h)cá(hi)mus(i') Dó(i)mi(i)no(iHG.) (::)
 R/. De(i)o(i') grá(i)ti(i)as(iHG.) (::)}
 
-[Benedicamus Domino1]
-{initial-style:0;%%(c4) V/. Be(g)ne(g)di(g)cá(g)mus(g) Dó(g')mi(g)no,(h.) (,) al(g)le(f)lú(gh~)ia,(h_') (,) al(h)le(gjIH'G)lú(fgh)ia.(h.g.) (::)
-R/. De(g)o(g) grá(g')ti(g)as,(h.) (,) al(g)le(f)lú(gh~)ia,(h_') (,) al(h)le(gjIH'G)lú(fgh)ia.(h.g.) (::)}
-
 [Benedicamus Domino] (rubrica monastica)
 {initial-style:0;%%(c3) V/. Be(h)ne(h)di(h)cá(h)mus(h') Dó(f)mi(ef)no(f.) (::)
 R/. De(h)o(h') grá(f)ti(ef)as(f.) (::)}
+
+[Benedicamus Domino1]
+{initial-style:0;%%(c4) V/. Be(g)ne(g)di(g)cá(g)mus(g) Dó(g')mi(g)no,(h.) (,) al(g)le(f)lú(gh~)ia,(h_') (,) al(h)le(gjIH'G)lú(fgh)ia.(h.g.) (::)
+R/. De(g)o(g) grá(g')ti(g)as,(h.) (,) al(g)le(f)lú(gh~)ia,(h_') (,) al(h)le(gjIH'G)lú(fgh)ia.(h.g.) (::)}
 
 [Deo gratias]
 {initial-style:0;%%(c3) R/. De(h)o(h) grá(f)ti(e)as.(ef..) (::)}
@@ -102,8 +109,8 @@ R/. De(h)o(h') grá(f)ti(ef)as(f.) (::)}
 {initial-style: 0;%%(c3) V/. Fi(d)dé(d)li(d)um(d) á(d)ni(d)mæ(d) per(d) mi(d)se(d)ri(d)cór(d)di(d)am(d) De(d)i(d) re(d)qui(d)é(d)scant(d) in(d) pa(d)ce.(d) (::) R/.() A(d)men.(d) (::)}
 
 [Per Dominum]
-r. Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
-R. Amen.
+{initial-style:0;%%(c3) Per(h) Dó(h)mi(h)num(h) nos(h)trum(h) Je(h)sum(h) Chris(h)tum,(h) Fí(h)li(h)um(h) tu(h)um:(f.) †(,) qui(h) te(h)cum(h) vi(h)vit(h) et(h) reg(h)nat(h) in(h) u(h)ni(h)tá(h)te(h) Spí(h)ri(h)tus(h) San(f)cti,(g) De(h)us,(h.) *(;) per(h) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f) (::)
+R/. A(h)men.(h.) (::)}
 
 [Per Dominum eiusdem]
 r. Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
@@ -139,11 +146,14 @@ R/. De(h)o(h) grá(h)ti(d)as.(d.) (::)}
 [Pretiosa]
 {initial-style:0;%%(c3) V/. Pre(h)ti(h)ó(h)sa(h) in(h) con(h)spéc(h)tu(h) Dó(h)mi(f)ni.(f.) (::)
 R/. Mors(h) San(h)ctó(h)rum(h) e(h)jus.(f.) (::)}
-v. Sancta María et omnes Sancti intercédant pro nobis ad Dóminum, † ut nos mereámur ab eo adjuvári et salvári, * qui vivit et regnat in sǽcula sæculórum.
+{(c3) San(h)cta(h) Ma(h)rí(h)a(h) et(h) om(h)nes(h) San(h)cti(h_’) (,) in(h)ter(h)cé(h)dant(h) pro(h) no(h)bis(h) ad(h) Dó(h)mi(fr)num,(f.) †(,) ut(h) nos(h) me(h)re(h)á(h)mur(h) ab(h) e(h)o(h) ad(h)ju(h)vá(h)ri(h) et(g) sal(f)vá(h)ri,(h.) *(;) qui(h) vi(h)vit(h) et(h) reg(h)nat(h) in(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f.) (::)}
 $Amen
 
 [Oremus]
-v. Orémus.
+{(c3) O(h)ré(h)mus.(f.) (::)}
+
+[Oremus solemnis]
+{(c3) O(i)ré(hi)mus.(i.) (::)}
 
 [Te decet]
 v. Te decet laus, + te decet hymnus: tibi glória Deo Patri, et Fílio, cum Spíritu Sancto in sǽcula sæculórum. Amen.
@@ -175,8 +185,11 @@ v. Kýrie, eléison. Christe, eléison. Kýrie, eléison.
 
 [Divinum auxilium] (rubrica monastica)
 /:Si descendendum sit a choro, concluditur dicendo.:/
+(sed rubrica cisterciensis omittitur)
 {initial-style:0;%%(c3)V/. Di(d)ví(d)num(d) au(d)xí(d)li(d)um(d) ^✠^ má(d)ne(d)at(d) sem(d)per(d) no(d)bís(d)cum.(d.) (::)} 
 {initial-style:0;%%(c3)R/. Et(d) cum(d) frá(d)tri(d)bus(d) nos(d)tris(d) ab(d)sén(d)ti(d)bus.(d) A(d)men.(d.) (::)}
+(sed rubrica cisterciensis)
+{initial-style:0;%%(c3)R/. Et(d) cum(d) frá(d)tri(d)bus(d) nos(d)tris(d) ab(d)sén(d)ti(d)bus.(d) (::)}
 
 [Divinum auxilium] (rubrica bavariae)
 {initial-style:0;%%(c3)V/. Di(d)ví(d)num(d) au(d)xí(d)li(d)um(d) ^✠^ má(d)ne(d)at(d) sem(d)per(d) no(d)bís(d)cum.(d.) (::) R/. A(d)men.(d.) (::)}
@@ -194,10 +207,10 @@ v. Kýrie, eléison. Christe, eléison. Kýrie, eléison.
 Per Christum Dominum nostrum.
 
 [Oratio Visita_]
-v. Vísita, quǽsumus, Dómine, habitatiónem istam, et omnes insídias inimíci ab ea lónge repélle: Ángeli tui sancti hábitent in ea, qui nos in pace custódiant; et benedíctio tua sit super nos semper.
+{(c3) Ví(h)si(h)ta,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) ha(h)bi(h)ta(h)ti(h)ó(h)nem(h) is(h)tam,(h_’) (,) et(h) om(h)nes(h) in(h)sí(h)di(h)as(h) in(h)i(h)mí(h)ci(h) ab(h) ea(h) lón(h)ge(h) re(h)pél(h)le:(f.) †(,) Án(h)ge(h)li(h) tu(h)i(h) san(h)cti(h) há(h)bi(h)tent(h) in(h) e(h)a,(h) qui(h) nos(h) in(h) pa(h)ce(g) cus(f)tó(h)di(hr)ant;(h) *(;) et(h) be(h)ne(h)díc(h)ti(h)o(h) tu(h)a(h) sit(h) su(h)per(h) nos(h) sem(h)per.(f.) (::)}
 
-[Oratio_Visita] (rubrica Ordo Praedicatorum)
-@:Oratio Visita_:s/Ángeli tui sancti hábitent/et Ángeli tui sancti habitántes/ s/qui //
+[oratio_Visita] (rubrica Ordo Praedicatorum)
+@:Oratio Visita_:s/Án.*tent/et(h) Án(h)ge(h)li(h) tu(h)i(h) san(h)cti(h) ha(h)bi(h)tán(h)tes/ s/qui\(h\) //
 
 [respice]
 {initial-style:0;%%(c3) V/. Rés(h)pi(h)ce(h) in(h) ser(h)vos(h) tu(h)os,(h) Dó(h)mi(h)ne,(h) (,) et(h) in(h) ó(h)pe(g)ra(f) tu(h)a,(h) * et(h) dí(h)ri(h)ge(h) fí(h)li(h)os(h) e(h)ó(h)rum.(f.) (::)

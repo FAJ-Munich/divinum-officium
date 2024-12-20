@@ -95,7 +95,6 @@ $Preces dominicales primae
 (sed rubrica ^Monastic dicitur)
 @:Preces Dominicales Prima 2
 
-
 [Preces Dominicales Prima 2]
 $Adjutorium nostrum
 $Confiteor

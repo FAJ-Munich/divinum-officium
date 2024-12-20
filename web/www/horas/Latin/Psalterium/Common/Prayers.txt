@@ -93,6 +93,9 @@ v. Confíteor Deo omnipoténti, beátæ Maríæ semper Vírgini, beáto Michaél
 [Confiteor] (rubrica Monastica)
 @:Confiteor_:s/Paulo/Paulo, beáto Patri nostro Benedícto/ s/Paulum/Paulum, beátum Patrem nostrum Benedíctum/
 
+[Confiteor] (rubrica cisterciensis)
+@:Confiteor_:s/Paulo/Paulo, beáto Patri nostro Bernárdo/ s/Paulum/Paulum, beátum Patrem nostrum Bernárdum/
+
 [Confiteor] (rubrica Ordo Praedicatorum)
 v. Confiteor Deo omnipotenti, et beáte Maríae semper Vírgini, et beáto Domínico Patri nostro, et omnibus Sanctis: quia peccavi nimis cogitatione, locutione, opere et omissione, me cupla: precor beátam Maríam semper Vírginem, et beátum Domínicum Patrem nostrum, et omnes Sanctos oráre pro me.
 
@@ -281,6 +284,9 @@ $Amen
 [Oremus]
 v. Orémus.
 
+[Oremus solemnis]
+@:Oremus
+
 [Te decet]
 v. Te decet laus, + te decet hymnus: tibi glória Deo Patri, et Fílio, cum Spíritu Sancto in sǽcula sæculórum. Amen.
 
@@ -453,6 +459,3 @@ Lectio ex Regula S.P.N.Benedicti, Caput №
 @Psalterium/Mariaant:Ant Finalis OP
 (sed rubrica cisterciensis)
 @Psalterium/Mariaant:Ant Finalis Cist
-
-[Confiteor] (rubrica cisterciensis)
-@:Confiteor_:s/Paulo/Paulo, beáto Patri nostro Bernárdo/ s/Paulum/Paulum, beátum Patrem nostrum Bernárdum/

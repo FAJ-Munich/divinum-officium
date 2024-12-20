@@ -524,6 +524,9 @@ Cum Spíritu Paráclito
 Regnans per omne sǽculum.
 Amen.
 
+[HymnusM Tertia]
+@:Hymnus Tertia
+
 [Hymnus Sexta]
 v. Rector potens, verax Deus,
 Qui témperas rerum vices,

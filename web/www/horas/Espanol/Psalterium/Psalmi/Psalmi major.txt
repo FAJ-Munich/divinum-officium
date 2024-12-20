@@ -387,6 +387,12 @@ Porque es eterna * su misericordia.;;135
 Cantadnos * un himno de los cantares de Sión.;;136
 Delante * de los ángeles tañeré para ti, Dios mío.;;137
 
+[DaymP Vespera]
+Aleluya, aleluya, aleluya;;109
+;;110
+;;111
+;;112
+
 [Daym4 Vespera]
 Señor, * Tú me sondeas y me conoces.;;138(1-10)
 ;;138(11-24)
@@ -404,12 +410,6 @@ Tu reinado, * Señor, es un reinado perpetuo.;;144(10-21)
 Alabaré * al Señor mientras viva.;;145
 Nuestro Dios * merece una alabanza armoniosa.;;146
 Glorifica * al Señor, Jerusalén.;;147
-
-[DaymP Vespera]
-Aleluya, aleluya, aleluya;;109
-;;110
-;;111
-;;112
 
 [DaymP Laudes]
 Aleluya, * aleluya, aleluya, aleluya, aleluya, aleluya, aleluya, aleluya, aleluya.;;92;99;62

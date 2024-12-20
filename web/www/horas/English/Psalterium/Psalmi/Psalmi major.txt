@@ -387,6 +387,12 @@ For his mercy * endureth for ever.;;135
 Sing ye to us * a hymn of the songs of Sion.;;136
 Before the Angels will * I sing praise unto thee, O my God.;;137
 
+[DaymP Vespera]
+Alleluia, alleluia, alleluia;;109
+;;110
+;;111
+;;112
+
 [Daym4 Vespera]
 O Lord * thou hast proved me, and known me.;;138(1-10)
 ;;138(11-24)
@@ -404,12 +410,6 @@ Thy kingdom, * O Lord, is a kingdom for all ages.;;144(10-21)
 I shall praise the Lord * in my life.;;145
 To our God * be joyful and fitting praise.;;146
 Praise the Lord, * O Jerusalem.;;147
-
-[DaymP Vespera]
-Alleluia, alleluia, alleluia;;109
-;;110
-;;111
-;;112
 
 [DaymP Laudes]
 Alleluia, * alleluia, alleluia, alleluia, alleluia, alleluia, alleluia, alleluia, alleluia.;;92;99;62
