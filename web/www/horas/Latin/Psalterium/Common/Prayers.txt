@@ -81,6 +81,9 @@ V. Dómine, exáudi oratiónem meam.
 R. Et clamor meus ad te véniat.
 /:secunda 'Domine, exaudi' omittitur:/
 
+[Dominus vobiscum]
+@:Dominus:1-2
+
 [Domine exaudi]
 @:Dominus:3-4
 
@@ -283,9 +286,6 @@ $Amen
 
 [Oremus]
 v. Orémus.
-
-[Oremus solemnis]
-@:Oremus
 
 [Te decet]
 v. Te decet laus, + te decet hymnus: tibi glória Deo Patri, et Fílio, cum Spíritu Sancto in sǽcula sæculórum. Amen.

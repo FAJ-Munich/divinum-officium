@@ -154,11 +154,13 @@ sub oratio {
     if ($version !~ /^Monastic/ || $hora ne 'Matutinum' || $rule !~ /12 lectiones/) {
       if (
         $version =~ /^Monastic/
+
+        # OP ferial office
         || ( $version =~ /Ordo Praedicatorum/
           && ($rank < 3 || $dayname[1] =~ /Vigil/)
           && $winner !~ /12-24|Pasc|01-0[2-5]/)
-        )
-      {    # OP ferial office
+      ) {
+
         if ($horamajor && $version !~ /Ordo Praedicatorum/) {
           if ($lang =~ /gabc/i) {
             push(@s, '$mLitany', "_");
@@ -175,9 +177,17 @@ sub oratio {
       }
 
       if ($priest) {
-        push(@s, "&Dominus_vobiscum");
+        if ($lang =~ /gabc/i && ($horamajor || $hora eq 'Matutinum')) {
+          push(@s, '$dominus vobiscum solemnis');
+        } else {
+          push(@s, "&Dominus_vobiscum");
+        }
       } elsif (!$precesferiales) {
-        push(@s, "&Dominus_vobiscum");
+        if ($lang =~ /gabc/i && ($horamajor || $hora eq 'Matutinum')) {
+          push(@s, '$domine exaudi solemnis');
+        } else {
+          push(@s, "&Dominus_vobiscum");
+        }
       } else {
         my $text = prayer('Dominus', $lang);
         my @text = split("\n", $text);
@@ -185,8 +195,17 @@ sub oratio {
         $precesferiales = 0;
       }
     }
-    my $oremus = translate('Oremus', $lang);
-    push(@s, "v. $oremus");
+
+    if ($lang =~ /gabc/i) {
+      if ($horamajor || $hora eq 'Matutinum') {
+        push(@s, '$Oremus solemnis');
+      } else {
+        push(@s, '$Oremus');
+      }
+    } else {
+      my $oremus = translate('Oremus', $lang);
+      push(@s, "v. $oremus");
+    }
   }
 
   if ($horamajor && $winner{Rule} =~ /Sub unica conc/i) {
@@ -197,7 +216,66 @@ sub oratio {
       $w =~ s/\$(Per|Qui) .*?\n//;
     }
   }
-  $w =~ s/^(?:v. )?/v. / unless $w =~ /^[\$\&\#]/;
+
+  if ($lang eq 'Latin-gabc') {
+
+    # Convert Tonus simplex into solemnis
+    if ($horamajor || $hora eq 'Matutinum') {
+
+      my ($flexa, $metrum, $prePunctum, $punctum, $concl);
+
+      if ($w =~ /†/) {
+        $w =~ /(.*) †\([\,\;]\) (.*) \*\(\;\) (.*)\(h\)(.*)(\$.*)/s;
+        ($flexa, $metrum, $prePunctum, $punctum, $concl) = ($1, $2, $3, $4, $5);
+      } else {
+        $w =~ /(.*) \*\(\;\) (.*)\(h\)(.*)(\$.*)/s;
+        ($metrum, $prePunctum, $punctum, $concl) = ($1, $2, $3, $4);
+      }
+
+      $concl =~ s/\s*$/ solemnis/s;
+
+      if ($version =~ /monastic/i) {
+        $flexa =~ s/\(h/(i/g;                  # raise pitch in general
+        $flexa =~ s/(c3.*?)\(i\)/$1(h)/;       # add initia
+        $flexa =~ s/\(f(\.?)\)/(h$1)/;         # raise pitch at flexa
+        $metrum =~ s/\([gf]\)/(i)/g;           # remove metrum
+        $metrum =~ s/\(h\.\)/(i_')/g;          # incisi majoris momenti => minoris '
+        $metrum =~ s/\(h/(i/g;                 # raise pitch in general
+        $metrum =~ s/\(i\)/(h)/;               # add initia
+        $prePunctum =~ s/\(h/(i/g;             # raise pitch in general
+        $prePunctum =~ s/^(.*)\(i\)/$1(h)/;    # lower ultimate pitch
+        $prePunctum =~ s/^(.*)\(i\)/$1(h)/;    # lower penultimate pitch
+        $punctum =~ s/\(d/(i/g;                # raise final pitches
+
+        $w =
+          $flexa
+          ? "$flexa †(,) $metrum (,) $prePunctum(i)$punctum$concl"
+          : "$metrum (,) $prePunctum(i)$punctum$concl";
+      } else {
+        $flexa =~ s/c3(.*?)\(h\)/c4$1(g)/;     # lower pitch and add initia
+        $flexa =~ s/\(f(\.?)\)/(g$1)/;         # raise pitch at flexa
+        $flexa =~ s/\(h[\_\']+\)/(h.)/;        # incisi minoris momenti => majoris
+        $metrum =~ s/\([gf]\)/(h)/g;           # remove metrum
+        $metrum =~ s/\(h\)/(g)/;               # add initia
+        $metrum =~ s/c3/c4/ unless $flexa;     # lower pitch if necessary
+        $prePunctum =~ s/^(.*)\(h\)/$1(g)/;    # lower ultimate pitch
+        $prePunctum =~ s/^(.*)\(h\)/$1(g)/;    # lower penultimate pitch
+        $punctum =~ s/\(d/(h/g;                # raise final pitches
+
+        $w =
+          $flexa
+          ? "$flexa †(;) $metrum (;) $prePunctum(h)$punctum$concl"
+          : "$metrum (;) $prePunctum(h)$punctum$concl";
+      }
+    } elsif ($version !~ /monastic/i) {
+      $w =~ s/†\(\,\)/†(;)/;
+    }
+  } else {
+
+    # Ensure large red Initial
+    $w =~ s/^(?:v. )?/v. / unless $w =~ /^[\$\&\#]/;
+  }
+
   push(@s, $w);
   if ($rule =~ /omit .*? commemoratio/i) { return; }
 
@@ -688,7 +766,8 @@ sub getcommemoratio {
   my $w = "!" . &translate('Commemoratio', $lang);
   $a =~ s/\s*\*\s*/ / unless ($version =~ /Monastic/i);
   $o =~ s/^(?:v. )?/v. /;
-  $w .= " $rank[0]\nAnt. $a\n_\n$v\n_\n\$Oremus\n$o\n";
+  my $solemnflag = $lang eq 'Latin-gabc' ? ' solemnis' : '';
+  $w .= " $rank[0]\nAnt. $a\n_\n$v\n_\n\$Oremus$solemnflag\n$o\n";
   return $w;
 }
 

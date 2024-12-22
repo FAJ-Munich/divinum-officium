@@ -522,6 +522,13 @@ sub setcell {
     if ($lang =~ /gabc/i) {    # post process GABC chants
       my $dId = 0;
 
+      # Merge Oratio
+      $text =~
+        s/(o|at)\.\(([fhi])\.\) \(\:\:\)\}\s*(?:\<br\/\>)*\s*\{\(c[34]\) (O\([hi]\)ré\([ghi]{1,2}\)mus\.\([fhi]\.\) \(\:\:\)\})/$1.($2.) (::) $3/s;
+      $text =~ s/(O\([hi]\)ré\([ghi]{1,2}\)mus\.\([fhi]\.\)) \(\:\:\)\}\s*(?:\<br\/\>)*\s*\{\(c[34]\)/$1 (:)/gs;
+      $text =~
+        s/\(([dhi])\.\) \(\:\:\)\}\s*(?:\<br\/\>)*\s*\{(?:initial\-style\:0\;\%\%)\(c[34]\) (Per|Qui)/($1.) (:) $2/gs;
+
       # retrieve all GABC scores from files
       while ($text =~ /\{gabc:(.+?)\}/is) {
         my $temp = $1;
@@ -564,8 +571,9 @@ sub setcell {
         $text =~ s/(\(\:\:\)\}?) <br\/?>\n/$1 \n/gi;      # remove wrong HTML linebreaks
         $text =~ s/\) \* /\) \*() /g;                     # star to be followed by ()
         $text =~ s/(\([\,\;\:]+\))\s*?(\^?\d+\.\^?|(<sp>)?[VR]\/(<\/sp>)?\.)\s/ $2$1 /gs;
-        $text =~ s/†\((.*?)\)/($1) † /g;
-        $text =~ s/\) \^?†\^?\(?\)?/\) ^†^() /g;
+        $text =~ s/†\(([a-z0-9\_\'\.]+?)\)/($1) ^†^(,) /g;
+
+        #        $text =~ s/\) \^?†\^?\(?\)?/\) ^†^() /g;
         $text =~ s/(<sp>)?V\/(<\/sp>)?\.?(\(\))?/V\/\.() /g;
         $text =~ s/(<sp>)?R\/(<\/sp>)?\.?(\(\))?/R\/\.() /g;
         $text =~ s/\.\(\) \(\:\:\)/.(::)/g;               # contract () (::)
@@ -924,8 +932,9 @@ sub expand {
   if (
     $sigil ne '$rubrica '
     && ($expand eq 'propria'
-      || ($expand eq 'psalteria' && ($line =~ /^(?:[A-Z](?!men)|pater_noster)/)))
+      || ($expand eq 'psalteria' && ($line =~ /^(?:[A-Z](?!men|remus)|pater_noster)/)))
   ) {
+    $line =~ s/ solemnis// if $lang eq 'Latin-gabc';
     setlink($sigil . $line, 0, $lang);
   } elsif ($sigil eq '&') {
 

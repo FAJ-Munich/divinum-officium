@@ -50,10 +50,10 @@ sub Deus_in_adjutorium : ScriptFunc {
 
   if ($hora !~ /vespera/i || $chantTone !~ /solemnis|resurrectionis/i) {
     our $incipitTone = 'festal';
-    return prayer('Deus in adjutorium1', $lang);    # Festal tone
+    return prayer('Deus in adjutorium festivus', $lang);    # Festal tone
   } else {    # Solemn Vespers only
     our $incipitTone = 'solemn';
-    return prayer('Deus in adjutorium2', $lang);    # Solemn tone
+    return prayer('Deus in adjutorium solemnis', $lang);    # Solemn tone
   }
 }
 
@@ -66,8 +66,8 @@ sub Alleluia : ScriptFunc {
 
   if ($lang =~ /gabc/i && $incipitTone) {
     $text =
-        ($incipitTone =~ /festal/i) ? prayer('Alleluia1', $lang)
-      : ($incipitTone =~ /solemn/i) ? prayer('Alleluia2', $lang)
+        ($incipitTone =~ /festal/i) ? prayer('Alleluia festivus', $lang)
+      : ($incipitTone =~ /solemn/i) ? prayer('Alleluia solemnis', $lang)
       : $text;
   }
   my @text = split("\n", $text);
