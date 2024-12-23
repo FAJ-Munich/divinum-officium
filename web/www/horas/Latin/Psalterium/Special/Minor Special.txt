@@ -527,7 +527,7 @@ Amen.
 [Hymnus Sexta]
 v. Rector potens, verax Deus,
 Qui témperas rerum vices,
-Splendóre mane illúminas,
+Splendóre man[e] illúminas,
 Et ígnibus merídiem:
 _
 Exstíngue flammas lítium,
@@ -543,6 +543,8 @@ Amen.
 
 [HymnusM Sexta]
 @:Hymnus Sexta:s/illúminas/ínstruis/
+(sed rubrica cisterciensis)
+@:Hymnus Sexta
 
 [Hymnus Nona]
 v. Rerum, Deus, tenax vigor,
