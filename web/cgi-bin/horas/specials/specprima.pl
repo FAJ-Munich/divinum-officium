@@ -187,7 +187,7 @@ sub martyrologium {
     my $prefix = "v. ";
 
     foreach my $line (@a) {
-      if (length($line) > 3 && $line !~ /^\/\:/) {    # allowing /:rubrics:/ in Martyrology
+      if (length($line) > 3 && $line !~ /^\/\:/ && $line !~ /\([\,\;\:]+[zZ]?\)/) {    # allowing /:rubrics:/ in Martyrology
         $t .= "$prefix$line\n";
       } else {
         $t .= "$line\n";

@@ -217,10 +217,10 @@ sub oratio {
     }
   }
 
-  if ($lang eq 'Latin-gabc') {
+  if ($lang eq 'Latin-gabc' && $w =~ /\(\:\:\)/) {
 
     # Convert Tonus simplex into solemnis
-    if ($horamajor || $hora eq 'Matutinum') {
+    if (($horamajor || $hora eq 'Matutinum')) {
 
       my ($flexa, $metrum, $prePunctum, $punctum, $concl);
 
