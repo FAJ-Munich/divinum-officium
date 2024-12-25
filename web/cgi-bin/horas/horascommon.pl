@@ -964,8 +964,8 @@ sub concurrence {
       # on any Sunday or 1st Vespers of a Feast of the Lord: nothing of a preceding III. cl feast
       # on I. cl Sundays also nothing of a preceding II. cl feast
       || ( $version =~ /196/
-        && ($cwrank[0] =~ /Dominica/i || ($cwinner{Rule} =~ /Festum Domini/i && $dayofweek == 6))
-        && $rank < ($crank >= 6 ? 6 : 5))
+        && ($cwrank[0] =~ /Dominica/i || $cwinner{Rule} =~ /Festum Domini/i)
+        && ($rank < ($crank >= 6 ? 6 : 5) || $wrank[0] =~ /Dominica/i || $winner{Rule} =~ /Festum Domini/i))
 
       # in 1st Vespers of Duplex I. cl. only commemoration of Feria major, Dominica (major), 8va privilegiata and Duplex II./I. cl
       || ( $crank >= 6
@@ -1942,13 +1942,16 @@ sub gettempora {
       unless $tname && $version !~ /cist/i;
   }
 
-  if ($caller eq 'Capitulum minor' && !$tname) {
-    $tname =
-      $dayofweek == 0 || ($dayname[1] =~ /Duplex/i && $dayname[1] !~ /(Dominica|Vigilia)/i) ? 'Dominica' : 'Feria';
+  if ($caller eq 'Hymnus major' && !$tname) {
+    $tname = ($version !~ /cist/i || ($hora eq 'Vespera' && $dayofweek == 6)) ? "Day$dayofweek" : 'Day0';
   }
 
-  if ($caller =~ /major$/ && !$tname) {    # caller is Capitulum or Hymnus major or getfrompsalterium
-    $tname = "Day$dayofweek";
+  if ($caller =~ /^Capitulum|major$/ && !$tname) {    # caller is Capitulum major/minor or getfrompsalterium
+    $tname =
+      $dayofweek == 0
+      || ($caller eq 'Capitulum minor' && $dayname[1] =~ /Duplex/i && $dayname[1] !~ /(Dominica|Vigilia)/i)
+      ? 'Dominica'
+      : 'Feria';
   }
 
   if ( $caller eq 'Doxology'

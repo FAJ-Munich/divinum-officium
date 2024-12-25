@@ -66,7 +66,7 @@ R. Uzdrów duszę moję, * Bom grzeszył tobie.
 V. Bądź pomocnikiem moim, nie opuszczaj mię.
 R. Ani mię wzgardzaj, Boże, zbawicielu mój.
 
-[Feria Sexta]
+[Feria Sexta_]
 !Rz 13:8
 v. Nie bądźcie nikomu nic winni, jedno abyście się społecznie miłowali; bo kto miłuje bliźniego, zakon wypełnił.
 $Deo gratias
@@ -79,7 +79,7 @@ R. Na każdy czas.
 &Gloria
 R. Będę błogosławił Pana * Na każdy czas.
 
-[Feria Nona]
+[Feria Nona_]
 !1 P 1:17-19
 v. W bojaźni obcujcie czasu przemieszkiwania waszego, wiedząc, iż nie skazitelnemi złotem albo śrebrem jesteście wykupieni od próżnego obcowania waszego ojcowskiego podania; ale drogą krwią, jako baranka niezmazanego i niepokalanego, Chrystusa.
 $Deo gratias

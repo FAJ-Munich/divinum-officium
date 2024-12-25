@@ -66,7 +66,7 @@ R. Gyógyítsd meg lelkemet * mivel ellened vétkeztem
 V. Jöjj segítségemre, ne hagy el
 R. Ne vess meg engem Istenem, üdvösségem
 
-[Feria Sexta]
+[Feria Sexta_]
 !Rom 13:8
 v. Ne tartozzatok senkinek semmivel, csak kölcsönös szeretettel, mert aki embertársát szereti, a többi törvényt is megtartja.
 $Deo gratias
@@ -79,7 +79,7 @@ R. Minden időben
 &Gloria
 R. Áldjuk az Urat * minden időben
 
-[Feria Nona]
+[Feria Nona_]
 !1 Pet 1:17-19
 v. Éljetek istenfélelemben zarándoklástok idején. Hisz tudjátok, hogy nem veszendő ezüstön vagy aranyon szabadultatok ki, hanem Krisztusnak, a hibátlan és egészen tiszta báránynak a drága vére árán.
 $Deo gratias

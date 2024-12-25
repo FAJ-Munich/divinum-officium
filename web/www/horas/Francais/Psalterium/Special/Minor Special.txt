@@ -66,7 +66,7 @@ R. Guérissez mon âme, * car j’ai péché contre Vous.
 V. Soyez mon aide, ne m'abandonnez pas.
 R. Ne me méprisez pas, ô Dieu mon Sauveurs.
 
-[Feria Sexta]
+[Feria Sexta_]
 !Rom 13:8
 v. Vous ne devez rien à personne, si ce n’est de vous aimer les uns les autres ; car celui qui aime autrui a accompli la loi.
 $Deo gratias
@@ -79,7 +79,7 @@ R. En tout temps.
 &Gloria
 R. Je bénirai le Seigneur * En tout temps.
 
-[Feria Nona]
+[Feria Nona_]
 !1 Pierre 1:17-19
 v. Dans la crainte entretenez-vous au temps de votre exil, sachant que ce n’est pas avec de l’or ou de l’argent corruptibles, que vous a- vez été rachetés, mais avec le sang précieux du Christ, Agneau immolé.
 $Deo gratias

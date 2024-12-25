@@ -66,7 +66,7 @@ R. Heal my soul, * for I have sinned against thee.
 V. Be thou my helper, forsake me not.
 R. Do not thou despise me, O God my Saviour.
 
-[Feria Sexta]
+[Feria Sexta_]
 !Rom 13:8
 v. Owe no man any thing, but to love one another. For he that loveth his neighbour, hath fulfilled the law. 
 $Deo gratias
@@ -79,7 +79,7 @@ R. At all times.
 &Gloria
 R. I will bless the Lord * at all times.
 
-[Feria Nona]
+[Feria Nona_]
 !1 Pet 1:17-19
 v. Converse in fear during the time of your sojourning here. Knowing that you were not redeemed with corruptible things as gold or silver, but with the precious blood of Christ.
 $Deo gratias

@@ -85,8 +85,8 @@ sub latin_uppercase {
 # findkalentry - read rank from sancti file
 sub findkalentry {
   my ($entry, $ver) = @_;
-  our $winner = subdirname('Sancti', $ver) . $entry;
-  my %saint = %{setupstring('Latin', "$winner.txt")};
+  our $winner = subdirname('Sancti', $ver) . "$entry.txt";
+  my %saint = %{setupstring('Latin', $winner)};
 
   my @srank = split(";;", $saint{Rank});
 
@@ -99,7 +99,10 @@ sub findkalentry {
   $rankname =~ s/IV. classis/Memoria/ if $ver =~ /Monastic|Ordo Praedicatorum/;
 
   (
-    setfont(liturgical_color($srank[0]), $rank > 4 ? latin_uppercase($srank[0]) : $srank[0]),
+    setfont(
+      liturgical_color($srank[0]),
+      $rank > 4 && $srank[0] !~ /octava|vigilia/i ? latin_uppercase($srank[0]) : $srank[0],
+    ),
     setfont('1 maroon', ' ' . $rankname),
   );
 }

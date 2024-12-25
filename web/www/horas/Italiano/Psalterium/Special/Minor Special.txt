@@ -66,7 +66,7 @@ R. Salva l'anima mia,  * perché ho peccato contro di te.
 V. Sii tu il mio aiuto, non mi abbandonare.
 R. E non rigettarmi, o Dio, mia salvezza.
 
-[Feria Sexta]
+[Feria Sexta_]
 !Rom 13:8
 v. Non siate debitori ad alcuno, se non che per amarvi l'un l'altro: perché chi ama il prossimo, ha adempiuto la legge.
 $Deo gratias
@@ -79,7 +79,7 @@ R. In ogni tempo.
 &Gloria
 R. Benedirò il Signore, * in ogni tempo.
 
-[Feria Nona]
+[Feria Nona_]
 !1 Pet 1:17-19
 v. Vivete nel timore durante il vostro pellegrinaggio: consapevoli che non a prezzo di cose corruttibili, come l'oro e l'argento, siete stati riscattati, ma col sangue prezioso di Cristo, Agnello immacolato.
 $Deo gratias

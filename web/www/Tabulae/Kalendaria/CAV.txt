@@ -23,20 +23,17 @@
 *January*
 01-00=01-00=Sanctissimi Nominis Iesu=5=
 01-01=01-01=In Circumcisione et Octava Nativitatis Domini=6=
-01-02=01-02=Die Secunda Januarii=1=
-01-03=01-03=Die Tertia Januarii=1=
-01-04=01-04=Die Quarta Januarii=1=
-01-05=01-05=Vigilia Epiphaniae=2=S. Telesphori Papae et Martyris=1=
+01-05=01-05~01-05cc=Vigilia Epiphaniae=2=S. Telesphori Papae et Martyris=1=
 01-06=01-06=Epiphaniae Domini=6=
 01-07=01-07=Secunda die infra Octavam Epiphaniae=2=
 01-08=01-08=Tertia die infra Octavam Epiphaniae=2=
 01-09=01-09=Quarta die infra Octavam Epiphaniae=2=
-01-10=01-10~01-10cc=Quinta die infra Octavam Epiphaniae=2=S. Pauli primi Eremitae et Confessoris=1=
+01-10=01-10~01-15=Quinta die infra Octavam Epiphaniae=2=S. Pauli primi Eremitae et Confessoris=1=
 01-11=01-11~01-11cc=Sexta die infra Octavam Epiphaniae=2=S. Hygini Papæ et Martyris=1=
 01-12=01-12t=De Dominica infra Octavam Epiphaniae=2=
 01-13=01-13=Commemoratio Baptismatis DNJC=5=
 01-14=01-14~01-14cc=S. Hilarii Episcopi Confessoris et Ecclesiae Doctoris=2=S. Felicis Presbyteri et Mart.=1=
-01-15=01-15=S. Mauri Abbatis=3=
+01-15=01-15cc=S. Mauri Abbatis=3=
 01-16=01-16=S. Marcelli Papae et Martyris=2=
 01-17=01-17=S. S. Antonii Abbatis=3=
 01-18=01-18~01-18r=Cathedra S. Petri=4=S. Priscæ Virginis=1=

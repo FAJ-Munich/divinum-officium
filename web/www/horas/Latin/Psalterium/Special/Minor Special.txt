@@ -78,10 +78,15 @@ R. Neque despícias me, Deus, salutáris meus.
 [Responsory Feria TertiaM]
 @:Versum Feria Tertia
 
-[Feria Sexta]
+[Feria Sexta_]
 !Rom 13:8
 v. Némini quidquam debeátis, nisi ut ínvicem diligátis: qui enim díligit próximum, legem implévit.
 $Deo gratias
+
+[Feria Sexta] 
+@:Feria Sexta_
+(sed rubrica monastica)
+@:Dominica Sexta
 
 [Responsory breve Feria Sexta]
 R.br. Benedícam Dóminum * In omni témpore.
@@ -97,10 +102,15 @@ R. Benedícam Dóminum * In omni témpore.
 [Responsory Feria SextaM]
 @:Versum Dominica Sexta
 
-[Feria Nona]
+[Feria Nona_]
 !1 Pet 1:17-19
 v. In timóre incolátus vestri témpore conversámini: sciéntes quod non corruptibílibus auro vel argénto redémpti estis, sed pretióso sánguine quasi Agni immaculáti Christi.
 $Deo gratias
+
+[Feria Nona] 
+@:Feria Nona_
+(sed rubrica monastica)
+@:Dominica Nona
 
 [Responsory breve Feria Nona]
 R.br. Rédime me, Dómine, * Et miserére mei.

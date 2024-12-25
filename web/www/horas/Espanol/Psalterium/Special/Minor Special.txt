@@ -66,7 +66,7 @@ R. Sáname. * Porque he pecado contra ti.
 V. Tú eres mi auxilio, no me deseches.
 R. No me abandones, Dios de mi salvación.
 
-[Feria Sexta]
+[Feria Sexta_]
 !Rom 13:8
 v. Con nadie tengáis deudas, más que la del amor mutuo; porque el que ama al otro, ha cumplido la ley.
 $Deo gratias
@@ -79,7 +79,7 @@ R. En todo momento.
 &Gloria
 R. Bendigo al Señor. * En todo momento. 
 
-[Feria Nona]
+[Feria Nona_]
 !1 Pe 1:17-19
 v. Con santo temor pasad el tiempo de vuestra peregrinación: porque habéis sido rescatados no con oro o plata, perecederos, sino con la sangre preciosa del Cordero sin mancha, Cristo.
 $Deo gratias
