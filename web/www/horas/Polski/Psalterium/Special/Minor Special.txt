@@ -109,7 +109,7 @@ R. Przybądź ku wybawieniu nas, * Panie, Boże zastępów.
 V. Będą się narody bały imienia twego, Panie.
 R. I wszyscy królowie ziemscy chwały twojéj.
 
-[Responsory Adv TertiaM]
+[Responsory Adv TertiaM_]
 V. Przybądź ku wybawieniu nas, Panie, Boże zastępów.
 R. Okaż oblicze twoje, a będziem zbawieni.
 
@@ -130,7 +130,7 @@ R. Okaż nam, Panie, * Miłosierdzie twoje
 V. Wspomnij na nas, Panie, w upodobaniu ludu twego.
 R. Nawiedź nas przez zbawienie twoje.
 
-[Responsory Adv SextaM]
+[Responsory Adv SextaM_]
 V. Okaż nam, Panie, miłosierdzie twoje
 R. A daj nam zbawienie twoje
 
@@ -151,7 +151,7 @@ R. Nad tobą Jeruzalem, * Wnidzie Pan.
 V. Przyjdź, Panie, a nie zwlekaj.
 R. Odpuść występki ludu twego.
 
-[Responsory Adv NonaM]
+[Responsory Adv NonaM_]
 V. Nad tobą Jeruzalem, wnidzie Pan.
 R. A sława jego nad tobą, widziana będzie.
 
@@ -227,7 +227,7 @@ R. Wyrwij od miecza, * Boże, duszę moję.
 V. Z paszczęki lwiéj wyzwól mię Panie.
 R. A od rogów jednorożcowych uniżenie moje.
 
-[Responsory Quad5 TertiaM]
+[Responsory Quad5 TertiaM_]
 V. Wyrwij od miecza, Boże, duszę moję.
 R. A z ręki psiéj jedynaczkę moję.
 
@@ -320,6 +320,36 @@ R. Uradowali się tedy uczniowie, * Alleluja, alleluja.
 V. Zostań z nami, Panie, Alleluja.
 R. Boć się ma ku wieczoru, Alleluja.
 
+[Hymnus Prima]
+v. Gdy już wzeszła gwiazda światła,
+Kornie prośmy Boga,
+By w czynnościach dziennych
+Zachował nas od szkody.
+_
+Niech powściągając miarkuje język,
+By nie rozbrzmiewała groza waśni:
+Niechaj życzliwie chroni wzrok nasz,
+By się nie poił próżnością.
+_
+Niech czyste będzie wnętrze serca,
+I niech odstąpi nierozum;
+Niechaj hardość ciała skruszy
+Skąpość napoju i pokarmu.
+_
+Abyśmy, gdy dzień przejdzie,
+A kolejność znów sprowadzi noc,
+Czyści przez wstrzemięźliwość
+Śpiewali mu chwałę.
+_
+* Bogu Ojcu niechaj będzie chwała,
+I jedynemu jego Synowi,
+Wraz z Duchem Pocieszycielem,
+Teraz i po wszystek wiek.
+Amen.
+
+[HymnusM Prima]
+@:Hymnus Prima:s/Teraz i po wszystek wiek/I teraz i na zawsze/
+
 [Hymnus Pasc7 Tertia]
 !Pierwszą strofę poniższego hymnu odmawia się klęcząc.
 v. O Stworzycielu Duchu, przyjdź,
@@ -357,26 +387,6 @@ I z Synem, który umarły
 Powstał, i z Pocieszycielem,
 Wiek wiekuistym weselem.
 Amen.
-
-[Hymnus Completorium]
-v. Ciebie przed zanikiem światła,
-Stwórco wszechrzeczy, prosimy,
-Abyś według twej miłościwości
-Był nam obrońcą i strażą.
-_
-Niechaj daleko od nas odstąpią,
-Widziadła senne i zjawy nocne;
-Powstrzymaj nieprzyjaciela naszego,
-By ciała nie uległy zmazaniu.
-_
-* Udziel nam tego, Ojcze najmiłościwszy,
-I Ty Jedyny, równy Ojcu,
-Z Duchem Pocieszycielem
-Królujący po wszystek wiek.
-Amen.
-
-[HymnusM Completorium]
-@:Hymnus Completorium:s/najmiłościwszy.*/wszechmogący,\nPrzez Jezusa Chrystusa, Pana naszego,\nKtóry z Tobą w wieczności,\nKróluje z Świętym Duchem.\nAmen./s
 
 [Hymnus Tertia]
 v. Teraz, Duchu Święty,
@@ -429,35 +439,25 @@ Z Duchem Pocieszycielem
 Królujący po wszystek wiek.
 Amen.
 
-[Hymnus Prima]
-v. Gdy już wzeszła gwiazda światła,
-Kornie prośmy Boga,
-By w czynnościach dziennych
-Zachował nas od szkody.
+[Hymnus Completorium]
+v. Ciebie przed zanikiem światła,
+Stwórco wszechrzeczy, prosimy,
+Abyś według twej miłościwości
+Był nam obrońcą i strażą.
 _
-Niech powściągając miarkuje język,
-By nie rozbrzmiewała groza waśni:
-Niechaj życzliwie chroni wzrok nasz,
-By się nie poił próżnością.
+Niechaj daleko od nas odstąpią,
+Widziadła senne i zjawy nocne;
+Powstrzymaj nieprzyjaciela naszego,
+By ciała nie uległy zmazaniu.
 _
-Niech czyste będzie wnętrze serca,
-I niech odstąpi nierozum;
-Niechaj hardość ciała skruszy
-Skąpość napoju i pokarmu.
-_
-Abyśmy, gdy dzień przejdzie,
-A kolejność znów sprowadzi noc,
-Czyści przez wstrzemięźliwość
-Śpiewali mu chwałę.
-_
-* Bogu Ojcu niechaj będzie chwała,
-I jedynemu jego Synowi,
-Wraz z Duchem Pocieszycielem,
-Teraz i po wszystek wiek.
+* Udziel nam tego, Ojcze najmiłościwszy,
+I Ty Jedyny, równy Ojcu,
+Z Duchem Pocieszycielem
+Królujący po wszystek wiek.
 Amen.
 
-[HymnusM Prima]
-@:Hymnus Prima:s/Teraz i po wszystek wiek/I teraz i na zawsze/
+[HymnusM Completorium]
+@:Hymnus Completorium:s/najmiłościwszy.*/wszechmogący,\nPrzez Jezusa Chrystusa, Pana naszego,\nKtóry z Tobą w wieczności,\nKróluje z Świętym Duchem.\nAmen./s
 
 [Lectio Completorium]
 !1 P 5:8-9

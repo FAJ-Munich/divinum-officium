@@ -109,7 +109,7 @@ R. Ven a librarnos. * Señor, Dios de los ejércitos.
 V. Las naciones, Señor, reverenciarán tu nombre.
 R. Y todos los reyes de la tierra tu majestad.
 
-[Responsory Adv TertiaM]
+[Responsory Adv TertiaM_]
 V. Ven a liberarnos, Señor, Dios de los ejércitos.
 R. Que brille tu rostro y nos salve.
 
@@ -130,7 +130,7 @@ R. Muéstranos, Señor, * tu misericordia.
 V. Acuérdate de nosotros, Señor, en favor de tu pueblo.
 R. Visítanos para salvarnos.
 
-[Responsory Adv SextaM]
+[Responsory Adv SextaM_]
 V. Muéstranos, Señor, tu misericordia 
 R. Y danos tu salvación.
 
@@ -151,7 +151,7 @@ R. Sobre ti, Jerusalén. * Se levantará el Señor.
 V. Ven, Señor, y no tardes.
 R. Perdona los pecados de tu pueblo.
 
-[Responsory Adv NonaM]
+[Responsory Adv NonaM_]
 V. Sobre ti, Jerusalén, amanecerá el Señor.
 R. Y su gloria se verá sobre ti.
 
@@ -227,7 +227,7 @@ R. Libra de la espada. * ¡Oh Dios!, a mi alma.
 V. Sálvame de las fauces del león.
 R. A este pobre, de los cuernos del búfalo.
 
-[Responsory Quad5 TertiaM]
+[Responsory Quad5 TertiaM_]
 R. Libra de la espada, ¡oh Dios!, a mi alma.
 V. Y a mi única vida de la garra del mastín. 
 
@@ -320,6 +320,33 @@ R. Los discípulos se alegraron. * Aleluya, aleluya.
 V. Quédate con nosotros, Señor. Aleluya.
 R. Porque atardece. Aleluya. 
 
+[Hymnus Prima]
+v. Ya resplandece el lucero;
+a Dios pidamos rendidos
+que en el discurso del día
+nos guarde de los malignos.
+_
+Refrene y temple la lengua,
+no se oiga voz de litigios;
+ponga guarda en nuestros ojos,
+no entre por ellos el vicio.
+_
+El corazón, sin rencilla,
+sea puro en lo más íntimo:
+bebida y comida parcas
+bajen a la carne el brio.
+_
+Para que, acabado el día,
+turnando la noche en giro,
+por la abstinencia del mundo
+cantemos la gloria a Él mismo.
+_
+* Sea a Dios Padre la gloria,
+y a su Unigénito Hijo,
+con el Espíritu Santo,
+ahora y por todos los siglos.
+Amen.
+
 [Hymnus Pasc7 Tertia]
 !La primera estrofa del himno se dice de rodillas.
 v. Ven, ¡oh Espíritu Creador!, 
@@ -357,23 +384,6 @@ y al Hijo, que resucitó
 de entre los muertos, y al Paráclito, 
 por los siglos de los siglos.
 Amén.
-
-[Hymnus Completorium]
-v. A Ti, Creador, pedimos,
-antes que la luz acabe,
-seas por tu gran clemencia
-centinela que nos guarde.
-_
-Aleja los malos sueños,
-y las nocturnas imágenes;
-reprime a nuestro adversario,
-que nuestros cuerpos no manche.
-_
-* Hazlo así, Padre piísimo,
-Hijo al Padre semejante,
-que reinas con el Espíritu,
-por siglos interminables.
-Amén
 
 [Hymnus Tertia]
 v. Divino Espíritu Santo,
@@ -426,32 +436,22 @@ con el Espíritu Santo,
 que reinas siglos sin límites.
 Amén.
 
-[Hymnus Prima]
-v. Ya resplandece el lucero;
-a Dios pidamos rendidos
-que en el discurso del día
-nos guarde de los malignos.
+[Hymnus Completorium]
+v. A Ti, Creador, pedimos,
+antes que la luz acabe,
+seas por tu gran clemencia
+centinela que nos guarde.
 _
-Refrene y temple la lengua,
-no se oiga voz de litigios;
-ponga guarda en nuestros ojos,
-no entre por ellos el vicio.
+Aleja los malos sueños,
+y las nocturnas imágenes;
+reprime a nuestro adversario,
+que nuestros cuerpos no manche.
 _
-El corazón, sin rencilla,
-sea puro en lo más íntimo:
-bebida y comida parcas
-bajen a la carne el brio.
-_
-Para que, acabado el día,
-turnando la noche en giro,
-por la abstinencia del mundo
-cantemos la gloria a Él mismo.
-_
-* Sea a Dios Padre la gloria,
-y a su Unigénito Hijo,
-con el Espíritu Santo,
-ahora y por todos los siglos.
-Amen.
+* Hazlo así, Padre piísimo,
+Hijo al Padre semejante,
+que reinas con el Espíritu,
+por siglos interminables.
+Amén
 
 [Lectio Completorium]
 !1 Pe 5:8-9

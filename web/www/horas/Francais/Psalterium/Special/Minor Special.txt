@@ -109,7 +109,7 @@ R. Venez nous délivrer, * Seigneur, Dieu des vertus.
 V. Les nations révéreront votre nom, Seigneur.
 R. Et tous les rois de la terre, votre gloire.
 
-[Responsory Adv TertiaM]
+[Responsory Adv TertiaM_]
 V. Venez pour nous délivrer, Seigneur, Dieu des puissances.
 R. Montrez votre face, et nous serons sauvés.
 
@@ -130,7 +130,7 @@ R. Montrez-nous, Seigneur, * Votre miséricorde.
 V. Souvenez-vous de nous, Seigneur, dans votre bienveillance pour votre peuple.
 R. Visitez-nous avec votre salut.
 
-[Responsory Adv SextaM]
+[Responsory Adv SextaM_]
 V. Montrez-nous, Seigneur, votre miséricorde.
 R. Et donnez-nous votre salut.
 
@@ -151,7 +151,7 @@ R. Sur toi, Jérusalem, * Se lèvera le Seigneur.
 V. Venez, Seigneur, ne tardez pas.
 R. Remettez les crimes à votre peuple.
 
-[Responsory Adv NonaM]
+[Responsory Adv NonaM_]
 V. Sur toi, Jérusalem, se lèvera le Seigneur.
 R. Et sa gloire paraîtra en toi.
 
@@ -227,7 +227,7 @@ R. Du glaive, délivrez, * ô Dieu, mon âme..
 V. Sauvez-moi * de la gueule du lion, Seigneur.
 R. Et des cornes du buffle, délivrez ma faiblesse.
 
-[Responsory Quad5 TertiaM]
+[Responsory Quad5 TertiaM_]
 V. Du glaive, délivrez, ô Dieu, mon âme.
 R. Et mon unique de la main du chien.
 
@@ -320,6 +320,33 @@ R. Les disciples se sont réjouis, * Alleluia, alleluia.
 V. Restez avec nous, Seigneur, alléluia.
 R. Car le soir tombe, alléluia.
 
+[Hymnus Prima]
+v. Déjà l'astre du jour est levé,
+Humblement, prions notre Dieu,
+Pour qu'en nos œuvres de ce jour
+Il nous préserve de tout mal.
+_
+Qu'Il daigne tempérer nos langues
+Contre les discordes bruyantes,
+Que par sa main préventante
+Il garde nos yeux des choses vaines.
+_
+Que le fond de nos cœurs soit pur,
+Que cesse tout dérèglement,
+Que meure l'orgueil de la chair
+Par la sobriété de la table.
+_
+Afin qu'à la tombée de ce jour,
+Quand la nuit reprendra son tour,
+Gardés purs par notre réserve,
+Nous Lui chantions un hymne de gloire.
+_
+* A Dieu le Père soit la gloire
+Et à Son Fils unique,
+Avec l'Esprit Consolateur,
+Maintenant et dans tous les siècles.
+Ainsi soit-il.
+
 [Hymnus Pasc7 Tertia]
 !Prima stropha hymni sequentis dicitur flexibus genibus.
 v. Venez Esprit Créateur,
@@ -357,23 +384,6 @@ Et au Fils qui ressuscita des morts
 Et au Paraclet,
 Dans les siècles des siècles.
 Ainsi-soit-il.
-
-[Hymnus Completorium]
-v. Avant que la lumière disparaisse,
-nous vous supplions, ô Créateur de toutes choses,
-d’être, dans votre clémence,
-notre protecteur et notre gardien.
-_
-Que les songes s’enfuient loin de nous
-et les fantômes de la nuit.
-Comprimez notre ennemi ;
-que nos corps restent purs !
-_
-* Faites-nous cette grâce, ô Père très miséricordieux,
-et vous, ô Fils unique, égal au Père ;
-vous qui, avec l’Esprit Consolateur,
-régnez dans tous les siècles.
-Ainsi soit-il.
 
 [Hymnus Tertia]
 v. Esprit-Saint, substance unique
@@ -426,31 +436,21 @@ Et vous Esprit consolateur,
 Qui régnez dans tous les siècles.
 Ainsi soit-il.
 
-[Hymnus Prima]
-v. Déjà l'astre du jour est levé,
-Humblement, prions notre Dieu,
-Pour qu'en nos œuvres de ce jour
-Il nous préserve de tout mal.
+[Hymnus Completorium]
+v. Avant que la lumière disparaisse,
+nous vous supplions, ô Créateur de toutes choses,
+d’être, dans votre clémence,
+notre protecteur et notre gardien.
 _
-Qu'Il daigne tempérer nos langues
-Contre les discordes bruyantes,
-Que par sa main préventante
-Il garde nos yeux des choses vaines.
+Que les songes s’enfuient loin de nous
+et les fantômes de la nuit.
+Comprimez notre ennemi ;
+que nos corps restent purs !
 _
-Que le fond de nos cœurs soit pur,
-Que cesse tout dérèglement,
-Que meure l'orgueil de la chair
-Par la sobriété de la table.
-_
-Afin qu'à la tombée de ce jour,
-Quand la nuit reprendra son tour,
-Gardés purs par notre réserve,
-Nous Lui chantions un hymne de gloire.
-_
-* A Dieu le Père soit la gloire
-Et à Son Fils unique,
-Avec l'Esprit Consolateur,
-Maintenant et dans tous les siècles.
+* Faites-nous cette grâce, ô Père très miséricordieux,
+et vous, ô Fils unique, égal au Père ;
+vous qui, avec l’Esprit Consolateur,
+régnez dans tous les siècles.
 Ainsi soit-il.
 
 [Lectio Completorium]

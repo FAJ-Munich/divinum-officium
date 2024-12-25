@@ -133,11 +133,13 @@ R. Veni ad liberándum nos, * Dómine, Deus virtútum.
 V. Timébunt gentes nomen tuum, Dómine.
 R. Et omnes reges terræ glóriam tuam.
 
-[Responsory Adv TertiaM]
+[Responsory Adv TertiaM_]
 V. Veni ad liberándum nos, Dómine, Deus virtútum.
 R. Osténde fáciem tuam, et salvi érimus.
 
-[Responsory Adv TertiaM] (rubrica cisterciensis)
+[Responsory Adv TertiaM]
+@:Responsory Adv TertiaM_
+(sed rubrica cisterciensis)
 @:Versum Adv Tertia
 
 [Adv Sexta]
@@ -157,11 +159,13 @@ R. Osténde nobis, Dómine, * Misericórdiam tuam.
 V. Meménto nostri, Dómine, in beneplácito pópuli tui.
 R. Vísita nos in salutári tuo.
 
-[Responsory Adv SextaM]
+[Responsory Adv SextaM_]
 V. Osténde nobis, Dómine, misericórdiam tuam.
 R. Et salutáre tuum da nobis.
 
-[Responsory Adv SextaM] (rubrica cisterciensis)
+[Responsory Adv SextaM]
+@:Responsory Adv SextaM_
+(sed rubrica cisterciensis)
 @:Versum Adv Sexta
 
 [Adv Nona]
@@ -181,11 +185,13 @@ R. Super te, Jerúsalem, * Oriétur Dóminus.
 V. Veni, Dómine, et noli tardáre.
 R. Reláxa facínora plebi tuæ.
 
-[Responsory Adv NonaM]
+[Responsory Adv NonaM_]
 V. Super te, Jerúsalem, oriétur Dóminus.
 R. Et glória ejus in te vidébitur.
 
-[Responsory Adv NonaM] (rubrica cisterciensis)
+[Responsory Adv NonaM]
+@:Responsory Adv NonaM_
+(sed rubrica cisterciensis)
 @Psalterium/Special/Preces:Preces feriales Laudes: s/.*(V\..*?).V\..*$/$1/s
 
 [Quad Tertia]
@@ -205,16 +211,18 @@ R. Ipse liberávit me * De láqueo venántium.
 V. Scápulis suis obumbrábit tibi.
 R. Et sub pennis ejus sperábis.
 
+[Responsory Quad TertiaC_]
+V. Dicet Dómino: Suscéptor meus es tu, et refúgium meum.
+R. Deus meus, sperábo in eum.
+
 [Responsory Quad TertiaM_]
 V. Ipse liberávit me de láqueo venántium.
 R. Et a verbo áspero.
 
 [Responsory Quad TertiaM]
 @:Responsory Quad TertiaM_
-
-[Responsory Quad TertiaM] (rubrica cisterciensis)
-V. Dicet Dómino: Suscéptor meus es tu, et refúgium meum.
-R. Deus meus, sperábo in eum.
+(sed rubrica cisterciensis)
+@:Responsory Quad TertiaC_
 
 [Quad Sexta]
 !Isa 55:7
@@ -235,8 +243,7 @@ R. Non timébis a timóre noctúrno.
 
 [Responsory Quad SextaM]
 @:Versum Quad Tertia
-
-[Responsory Quad SextaM] (rubrica cisterciensis)
+(sed rubrica cisterciensis)
 @:Responsory Quad TertiaM_
 
 [Quad Nona]
@@ -258,8 +265,7 @@ R. Ut custódiant te in ómnibus viis tuis.
 
 [Responsory Quad NonaM]
 @:Versum Quad Sexta
-
-[Responsory Quad NonaM] (rubrica cisterciensis)
+(sed rubrica cisterciensis)
 @:Versum Quad Tertia
 
 [Quad5 Tertia]
@@ -279,13 +285,18 @@ R. Érue a frámea, * Deus, ánimam meam.
 V. De ore leónis líbera me, Dómine.
 R. Et a córnibus unicórnium humilitátem meam.
 
-[Responsory Quad5 TertiaM]
+[Responsory Quad5 TertiaC_]
+V. Divisérunt sibi vestiménta mea.
+R. Et super vestem meam misérunt sortem.
+
+[Responsory Quad5 TertiaM_]
 V. Érue a frámea, Deus, ánimam meam.
 R. Et de manu canis únicam meam.
 
-[Responsory Quad5 TertiaM] (rubrica cisterciensis)
-V. Divisérunt sibi vestiménta mea.
-R. Et super vestem meam misérunt sortem.
+[Responsory Quad5 TertiaM]
+@:Responsory Quad5 TertiaM_
+(sed rubrica cisterciensis)
+@:Responsory Quad5 TertiaC_
 
 [Quad5 Sexta]
 !Jer 17:18
@@ -304,12 +315,14 @@ R. De ore leónis * Líbera me, Dómine.
 V. Ne perdas cum ímpiis, Deus, ánimam meam.
 R. Et cum viris sánguinum vitam meam.
 
-[Responsory Quad5 SextaM]
-@:Versum Quad5 Tertia
-
-[Responsory Quad5 SextaM] (rubrica cisterciensis)
+[Responsory Quad5 SextaC_]
 V. Insurrexérunt in me testes iníqui.
 R. Et mentíta est iníquitas sibi.
+
+[Responsory Quad5 SextaM]
+@:Versum Quad5 Tertia
+(sed rubrica cisterciensis)
+@:Responsory Quad5 SextaC_
 
 [Quad5 Nona]
 !Jer 18:20
@@ -389,12 +402,44 @@ R. Gavísi sunt discípuli, * Allelúja, allelúja.
 V. Mane nobíscum, Dómine, allelúja.
 R. Quóniam advesperáscit, allelúja.
 
-[Responsory Pasch NonaM]
-@:Versum Pasch Sexta
-
-[Responsory Pasch NonaM] (rubrica cisterciensis)
+[Responsory Pasch NonaC_]
 V. Cognovérunt Dóminum, allelúia.
 R. In fractióne panis, allelúia.
+
+[Responsory Pasch NonaM]
+@:Versum Pasch Sexta
+(sed rubrica cisterciensis)
+@:Responsory Pasch NonaC_
+
+[Hymnus Prima]
+v. Jam lucis orto sídere,
+Deum precémur súpplices,
+Ut in diúrnis áctibus
+Nos servet a nocéntibus.
+_
+Linguam refrénans témperet,
+Ne litis horror ínsonet:
+Visum fovéndo cóntegat,
+Ne vanitátes háuriat.
+_
+Sint pura cordis íntima,
+Absístat et vecórdia;
+Carnis terat supérbiam
+Potus cibíque párcitas.
+_
+Ut, cum dies abscésserit,
+Noctémque sors redúxerit,
+Mundi per abstinéntiam
+Ipsi canámus glóriam.
+_
+* Deo Patri sit glória,
+Ejúsque soli Fílio,
+Cum Spíritu Paráclito,
+Nunc et per omne sǽculum.
+Amen.
+
+[HymnusM Prima]
+@:Hymnus Prima:s/Nunc et per omne sǽculum/Et nunc et in perpétuum/
 
 [Hymnus Pasc7 Tertia]
 !Prima stropha hymni sequentis dicitur flexibus genibus.
@@ -436,6 +481,65 @@ Amen.
 
 [HymnusM Pasc7 Tertia]
 @:Hymnus Pasc7 Tertia:s/díceris Paráclitus/Paráclitus díceris/ s/Altíssimi donum Dei/Donum Dei altíssimi/ s/Dígitus patérnæ déxteræ/Dextræ Dei tu dígitus/ s/Teque/Te/ s/Deo Patri sit glória/Glória Patri Domino/ s/Et Fílio/Natóque/
+
+[Hymnus Tertia]
+v. Nunc, Sancte, nobis, Spíritus,
+Unum Patri cum Fílio,
+Dignáre promptus íngeri
+Nostro refúsus péctori.
+_
+Os, lingua, mens, sensus, vigor
+Confessiónem pérsonent.
+Flamméscat igne cáritas,
+Accéndat ardor próximos.
+_
+* Præsta, Pater piíssime,
+Patríque compar Únice,
+Cum Spíritu Paráclito
+Regnans per omne sǽculum.
+Amen.
+
+[Hymnus Sexta]
+v. Rector potens, verax Deus,
+Qui témperas rerum vices,
+Splendóre man[e] illúminas,
+Et ígnibus merídiem:
+_
+Exstíngue flammas lítium,
+Aufer calórem nóxium,
+Confer salútem córporum,
+Verámque pacem córdium.
+_
+* Præsta, Pater piíssime,
+Patríque compar Únice,
+Cum Spíritu Paráclito
+Regnans per omne sǽculum.
+Amen.
+
+[HymnusM Sexta]
+@:Hymnus Sexta:s/illúminas/ínstruis/
+(sed rubrica cisterciensis)
+@:Hymnus Sexta
+
+[Hymnus Nona]
+v. Rerum, Deus, tenax vigor,
+Immótus in te pérmanens,
+Lucis diúrnæ témpora
+Succéssibus detérminans:
+_
+Largíre lumen véspere,
+Quo vita nusquam décidat,
+Sed prǽmium mortis sacræ
+Perénnis instet glória.
+_
+* Præsta, Pater piíssime,
+Patríque compar Únice,
+Cum Spíritu Paráclito
+Regnans per omne sǽculum.
+Amen.
+
+[HymnusM Nona]
+@:Hymnus Nona:s/lumen/clarum/
 
 [Hymnus Completorium]
 v. Te lucis ante términum, 
@@ -518,95 +622,6 @@ Amen.
 @Tempora/Pasc5-4:HymnusM Vespera:1-20
 @Tempora/Pasc7-0:Hymnus Laudes:26-30
 @:Hymnus Completorium Pent Dox
-
-[Hymnus Tertia]
-v. Nunc, Sancte, nobis, Spíritus,
-Unum Patri cum Fílio,
-Dignáre promptus íngeri
-Nostro refúsus péctori.
-_
-Os, lingua, mens, sensus, vigor
-Confessiónem pérsonent.
-Flamméscat igne cáritas,
-Accéndat ardor próximos.
-_
-* Præsta, Pater piíssime,
-Patríque compar Únice,
-Cum Spíritu Paráclito
-Regnans per omne sǽculum.
-Amen.
-
-[Hymnus Sexta]
-v. Rector potens, verax Deus,
-Qui témperas rerum vices,
-Splendóre man[e] illúminas,
-Et ígnibus merídiem:
-_
-Exstíngue flammas lítium,
-Aufer calórem nóxium,
-Confer salútem córporum,
-Verámque pacem córdium.
-_
-* Præsta, Pater piíssime,
-Patríque compar Únice,
-Cum Spíritu Paráclito
-Regnans per omne sǽculum.
-Amen.
-
-[HymnusM Sexta]
-@:Hymnus Sexta:s/illúminas/ínstruis/
-(sed rubrica cisterciensis)
-@:Hymnus Sexta
-
-[Hymnus Nona]
-v. Rerum, Deus, tenax vigor,
-Immótus in te pérmanens,
-Lucis diúrnæ témpora
-Succéssibus detérminans:
-_
-Largíre lumen véspere,
-Quo vita nusquam décidat,
-Sed prǽmium mortis sacræ
-Perénnis instet glória.
-_
-* Præsta, Pater piíssime,
-Patríque compar Únice,
-Cum Spíritu Paráclito
-Regnans per omne sǽculum.
-Amen.
-
-[HymnusM Nona]
-@:Hymnus Nona:s/lumen/clarum/
-
-[Hymnus Prima]
-v. Jam lucis orto sídere,
-Deum precémur súpplices,
-Ut in diúrnis áctibus
-Nos servet a nocéntibus.
-_
-Linguam refrénans témperet,
-Ne litis horror ínsonet:
-Visum fovéndo cóntegat,
-Ne vanitátes háuriat.
-_
-Sint pura cordis íntima,
-Absístat et vecórdia;
-Carnis terat supérbiam
-Potus cibíque párcitas.
-_
-Ut, cum dies abscésserit,
-Noctémque sors redúxerit,
-Mundi per abstinéntiam
-Ipsi canámus glóriam.
-_
-* Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sǽculum.
-Amen.
-
-[HymnusM Prima]
-@:Hymnus Prima:s/Nunc et per omne sǽculum/Et nunc et in perpétuum/
 
 [Lectio Completorium]
 !1 Pet 5:8-9
