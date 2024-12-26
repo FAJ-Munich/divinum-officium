@@ -34,7 +34,7 @@ sub gethymn {
         $name .= " $tempname";
       }
     }
-    $hymnsource = 'Minor';
+    $hymnsource = $hora eq 'Prima' ? 'Prima' : 'Minor';
     $section = '#' . $section;
   }
 

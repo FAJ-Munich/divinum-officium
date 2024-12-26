@@ -411,36 +411,6 @@ R. In fractióne panis, allelúia.
 (sed rubrica cisterciensis)
 @:Responsory Pasch NonaC_
 
-[Hymnus Prima]
-v. Jam lucis orto sídere,
-Deum precémur súpplices,
-Ut in diúrnis áctibus
-Nos servet a nocéntibus.
-_
-Linguam refrénans témperet,
-Ne litis horror ínsonet:
-Visum fovéndo cóntegat,
-Ne vanitátes háuriat.
-_
-Sint pura cordis íntima,
-Absístat et vecórdia;
-Carnis terat supérbiam
-Potus cibíque párcitas.
-_
-Ut, cum dies abscésserit,
-Noctémque sors redúxerit,
-Mundi per abstinéntiam
-Ipsi canámus glóriam.
-_
-* Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sǽculum.
-Amen.
-
-[HymnusM Prima]
-@:Hymnus Prima:s/Nunc et per omne sǽculum/Et nunc et in perpétuum/
-
 [Hymnus Pasc7 Tertia]
 !Prima stropha hymni sequentis dicitur flexibus genibus.
 v. Veni Creátor Spíritus,
