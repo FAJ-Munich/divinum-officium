@@ -893,118 +893,115 @@ Amen.
 V. Resta con noi, o Signore, alleluia.
 R. Perché si fa sera, alleluia.
 
-[Suffragium1]
+[Suffragium Divino]
 Ant. La beata Vergine Maria Madre di Dio, e tutti i Santi intercedano per noi presso il Signore.
 _
 V. Signore ha reso mirabili i suoi Santi.
 R. E li ha esauditi, quando lo invocavano.
 _
 !Preghiera
-!N. esprime il nome del Titolare della propria Chiesa.
-$Oremus.
+/:N. esprime il nome del Titolare della propria Chiesa.:/
+$Oremus
 v. O Signore, difendici da tutti i pericoli dell'anima e del corpo: e, ad intercessione della beata e gloriosa sempre Vergine Maria Madre di Dio, del beato Giuseppe, dei beati tuoi Apostoli Pietro e Paolo, del beato~
 r. N. e di tutti i Santi, concedici benigno la salute e la pace; affinché, tolte tutte le contrarietà e tutti gli errori, la tua Chiesa ti serva con sicura libertà.
 $Per eumdem 
 
-[Suffragium11]
+[Suffragium Divino1]
 Ant. I Santi tutti intercedano per noi presso il Signore.
 _
 V. Signore ha reso mirabili i suoi Santi.
 R. E li ha esauditi, quando lo invocavano.
 _
 !Preghiera
-!N. esprime il nome del Titolare della propria Chiesa.
-$Oremus.
+/:N. esprime il nome del Titolare della propria Chiesa.:/
+$Oremus
 v. O Signore, difendici da tutti i pericoli dell'anima e del corpo: e, ad intercessione del beato Giuseppe, dei beati tuoi Apostoli Pietro e Paolo e del beato~
 r. N., e di tutti i Santi, concedici benigno la salute e la pace, affinché, tolte tutte le contrarietà e tutti gli errori, la tua Chiesa ti serva con sicura libertà.
 $Per eumdem
 
-[SuffragiumTridentinumFeriale]
-Per il segno della Croce liberaci dai nostri nemici, o Dio nostro.
+[Suffragium Feriale]
+!De cruce
+Ant. Per il segno della Croce liberaci dai nostri nemici, o Dio nostro.
 _
 V. Tutta la terra ti adori e inneggi a te.          
 R. Sciolga un inno al tuo nome, o Signore.
 _
-!Preghiera
 $Oremus
 v. Ti preghiamo, o Signore, conserva nella pace perpetua noi, che ti sei degnato di redimere tramite il legno della santa Croce.
 
-[Suffragium2]
+[Suffragium Paschale]
 Ant. Il Crocifisso è risuscitato da morte e ci ha redenti, Alleluia, Alleluia
 _
 V. Dite fra i popoli, alleluia.
 R. Che il Signore regna dal legno, alleluia.
 _
-!Preghiera
-$Oremus 
+$Oremus
 O Dio, che hai voluto che il tuo Figlio subisse per noi il patibolo della Croce per liberarci dalla schiavitù del nemico; concedi a noi, tuoi servi, di conseguire la grazia della risurrezione. 
 $Per eumdem
 
-[Suffragium3]
+[Suffragium BMV]
 !Commemorazione della beata Vergine Maria. 
 Ant. Santa Maria, soccorri i miseri, aiuta i pusillanimi, consola gli afflitti, prega per il popolo, intervieni per il clero, intercedi per il ceto femminile religioso: sentano il tuo aiuto tutti coloro che celebrano la tua santa festa.
 _
+(deinde dicuntur semper)
 V. Prega per noi, santa Madre di Dio.
 R. Affinché diventiamo degni delle promesse di Cristo.
 _
-!Preghiera
-$Oremus. 
+$Oremus
 Signore Iddio, concedi a noi tuoi servi, di godere della perpetua salute dell'anima e del corpo: e, per intercessione della beata sempre Vergine Maria, liberaci dalla presente tristezza e donaci l'eterna letizia. 
+(sed tempore post partum loco horum versuum dicuntur)
+@Psalterium/Mariaant:Nativiti:s/.*V\./V\./s
 
-[Suffragium41]
+
+[Suffragium DeJosephV]
 !Commemorazione di S. Giuseppe 
 Ant. Ecco il servo fedele e prudente che il Signore ha preposto alla sua famiglia.
 _
 V. La gloria e la ricchezza abiteranno nella sua dimora. 
 R. E la sua giustizia durerà sempre.
 _
-!Preghiera
-$Oremus. 
+$Oremus 
 Dio, che con ineffabile provvidenza ti degnasti scegliere il Beato Giuseppe a Sposo della tua Madre SS., fa che mentre lo veneriamo protettore in terra, meritiamo d'averlo Intercessore in Cielo. 
 
-[Suffragium42]
+[Suffragium DeJoseph]
 !Commemorazione di S. Giuseppe
 Ant. Quando Gesù cominciò il suo ministero, aveva circa trent'anni, e lo si credeva figlio di Giuseppe.
 _
 V. La bocca del giusto parla con sapienza.
 R. E la sua lingua dice cose giuste.
 _
-!Preghiera
-$Oremus. 
+$Oremus 
 Dio, che con ineffabile provvidenza ti degnasti scegliere il Beato Giuseppe a Sposo della tua Madre SS., fa che mentre lo veneriamo protettore in terra, meritiamo d'averlo Intercessore in Cielo. 
 
-[Suffragium51]
+[Suffragium DeApostolisV]
 !Commemorazione dei Ss. Pietro e Paolo Apostoli
 Ant. Pietro l'Apostolo e Paolo, il Dottore delle Genti, ci hanno insegnato la tua legge, o Signore.
 _
 V. Li costituirai principi su tutta la terra.
 R. Essi si ricorderanno del tuo nome, o Signore.
 _
-!Preghiera
-$Oremus. 
+$Oremus 
 Dio, che con la tua mano destra erigesti il beato Pietro camminante tra i flutti perché non affondasse, e liberasti dal profondo del mare il suo coapostolo Paolo, naufragante per la terza volta: esaudiscici propizio e concedici che per i meriti di entrambi raggiungiamo la gloria dell'eternità.
 
-[Suffragium52]
+[Suffragium DeApostolis]
 !Commemorazione dei Ss. Pietro e Paolo Apostoli
 Ant. I gloriosi principi della terra, nel modo in cui si amarono nella loro vita, così anche nella morte non sono separati.
 _
 V. In tutta la terra si sparse la loro voce. 
 A. E fino ai confini della terra la loro parola.
 _
-!Preghiera
-$Oremus. 
+$Oremus 
 Dio, che con la tua mano destra erigesti il beato Pietro camminante tra i flutti perché non affondasse, e liberasti dal profondo del mare il suo coapostolo Paolo, naufragante per la terza volta: esaudiscici propizio e concedici che per i meriti di entrambi raggiungiamo la gloria dell'eternità.
 
-[Suffragium6]
+[Suffragium DePace]
 !Per la pace.
 Ant. Concedi la pace ai nostri giorni, Signore, perché non abbiamo altri che ci difenda all'infuori di Te, nostro Dio.
 _
 V. La pace regni entro i tuoi bastioni.
 R. E l'abbondanza nelle tue torri.
 _
-!Preghiera
-v. Preghiamo   
-Dio, da cui procedono i santi desideri, i retti consigli, le giuste azioni, da' ai tuoi servi quella pace che il mondo non può dare, affinché, uniti i nostri cuori ai tuoi comandamenti, senza timore dei nemici, i giorni siano tranquilli mediante la tua protezione.
+$Oremus
+v. Dio, da cui procedono i santi desideri, i retti consigli, le giuste azioni, da' ai tuoi servi quella pace che il mondo non può dare, affinché, uniti i nostri cuori ai tuoi comandamenti, senza timore dei nemici, i giorni siano tranquilli mediante la tua protezione.
 $Per Dominum
 
 [Day0M Laudes]

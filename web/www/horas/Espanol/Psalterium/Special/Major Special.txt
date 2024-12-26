@@ -892,117 +892,114 @@ Amen.
 V. Quédate con nosotros, Señor, aleluya. 
 R. Porque se hace de noche, aleluya.
 
-[Suffragium1]
+[Suffragium Divino]
 Ant. Intercedan por nosotros la Bienaventurada Virgen María, Madre de Dios, y todos los Santos ante el Señor.
 _
 V. El Señor ha hecho admirable a su santo.
 R. El Señor me oirá siempre que a El clame.
 _
 !Oración
-!En la letra N. se dice el nombre del Titular de la iglesia, salvo si éste es una persona divina, un misterio del Señor, o si se ha dicho ya el Oficio o Conmemoración a nombre del Santo, o si el nombre estuviera ya en la oración. Si el titular fuera uno de los Santos Ángeles o S. Juan Bautista, su nombre se dice tras el de S. José. En cualquiera de estos casos, se omiten las palabras “San N.”
-$Oremus.
+/:En la letra N. se dice el nombre del Titular de la iglesia, salvo si éste es una persona divina, un misterio del Señor, o si se ha dicho ya el Oficio o Conmemoración a nombre del Santo, o si el nombre estuviera ya en la oración. Si el titular fuera uno de los Santos Ángeles o S. Juan Bautista, su nombre se dice tras el de S. José. En cualquiera de estos casos, se omiten las palabras “San N.”:/
+$Oremus
 v. Oh Señor, te rogamos que guardes de peligro nuestros cuerpos y nuestras almas, y que por la intercesión de la bienaventurada y gloriosa Virgen Madre de Dios, San José, los Apóstoles San Pedro y San Pablo, San~
 r. N. y todos los Santos, destruido todo error y enemigo, te sirva tu Iglesia en seguridad y libertad.
 $Per eumdem 
 
-[Suffragium11]
+[Suffragium Divino1]
 Ant. Intercedan todos los Santos por nosotros ante el Señor.
 _
 V. El Señor ha hecho admirable a su santo.
 R. El Señor me oirá siempre que a El clame. 
 _
 !Oración
-!En la letra N. se dice el nombre del Titular de la iglesia, salvo si éste es una persona divina, un misterio del Señor, o si se ha dicho ya el Oficio o Conmemoración a nombre del Santo, o si el nombre estuviera ya en la oración. Si el titular fuera uno de los Santos Ángeles o S. Juan Bautista, su nombre se dice tras el de S. José. En cualquiera de estos casos, se omiten las palabras “San N.”
-$Oremus.
+/:En la letra N. se dice el nombre del Titular de la iglesia, salvo si éste es una persona divina, un misterio del Señor, o si se ha dicho ya el Oficio o Conmemoración a nombre del Santo, o si el nombre estuviera ya en la oración. Si el titular fuera uno de los Santos Ángeles o S. Juan Bautista, su nombre se dice tras el de S. José. En cualquiera de estos casos, se omiten las palabras “San N.”:/
+$Oremus
 v. Oh Señor, te rogamos que guardes de peligro nuestros cuerpos y nuestras almas, y que por la intercesión de la bienaventurada y gloriosa Virgen Madre de Dios, San José, los Apóstoles San Pedro y San Pablo, San~
 r. N. y todos los Santos, destruido todo error y enemigo, te sirva tu Iglesia en seguridad y libertad.
 $Per eumdem
 
-[SuffragiumTridentinumFeriale]
-Líbranos de nuestros enemigos, oh Dios nuestro, por el signo de la Cruz.
+[Suffragium Feriale]
+!De cruce
+Ant. Líbranos de nuestros enemigos, oh Dios nuestro, por el signo de la Cruz.
 _
 V. Adórete toda la tierra, y te celebre.
 R. Cante salmos a tu nombre, oh Señor.
 _
-!Oración
 $Oremus
 v. Te pedimos nos guardes, Señor, en paz perpetua, a quienes te dignaste redimir por el madero de la Santa Cruz.
 
-[Suffragium2]
+[Suffragium Paschale]
 Ant. El que fue crucificado ha resucitado de entre los muertos, y nos ha redimido. Aleluya, aleluya. 
 _
 V. Anunciad a las naciones, aleluya.
 R. Que el Señor reinó desde el madero, aleluya.
 _
-!Oración
-$Oremus 
+$Oremus
 !Oh Dios, que enviaste a tu Hijo para sufrir por nosotros la muerte en la Cruz, líbranos del poder del enemigo, y concédenos el ser partícipes de su Resurrección.
 $Per eumdem
 
-[Suffragium3]
+[Suffragium BMV]
 !Conmemoración de la Bienaventurada Virgen María.
 Ant. Santa María, fortalece a los débiles, consuela a los afligidos; ruega por el pueblo, interésate por el clero, intercede por el devoto sexo femenino; experimenten tu auxilio todos cuantos celebran tu santa festividad. 
 _
+(deinde dicuntur semper)
 V. Ruega por nosotros, Santa Madre de Dios.
 R. Para que seamos dignos de las promesas de Cristo.
 _
-!Oración
-$Oremus. 
+$Oremus
 Te pedimos, Señor, que nosotros, tus siervos, gocemos siempre de salud de alma y cuerpo; y, por la intercesión gloriosa de Santa María, la Virgen, líbranos de las tristezas de este mundo, y concédenos las alegrías del cielo.
+(sed tempore post partum loco horum versuum dicuntur)
+@Psalterium/Mariaant:Nativiti:s/.*V\./V\./s
 
-[Suffragium41]
+
+[Suffragium DeJosephV]
 !Conmemoración de S. José
 Ant. Éste es el siervo fiel y prudente, constituido por su Señor sobre su familia. 
 _
 V. En su casa habrá riquezas y abundancia.
 R. Su justicia dura por los siglos de los siglos.
 _
-!Oración
-$Oremus. 
+$Oremus 
 Concédenos, Señor, que en tu inefable providencia escogiste a tu bienaventurado siervo José como esposo de tu santísima Madre, que de aquel a quien veneramos en la tierra, merezcamos su intercesión en el cielo.
 
-[Suffragium42]
+[Suffragium DeJoseph]
 !Conmemoración de S. José
 Ant. Jesús, al empezar, tenía unos treinta años, y se pensaba que era hijo de José. 
 _
 V. La boca del justo expone la sabiduría.
 R. Y su lengua explica la justicia.
 _
-!Oración
-$Oremus. 
+$Oremus 
 Concédenos, Señor, que en tu inefable providencia escogiste a tu bienaventurado siervo José como esposo de tu santísima Madre, que de aquel a quien veneramos en la tierra, merezcamos su intercesión en el cielo.
 
-[Suffragium51]
+[Suffragium DeApostolisV]
 !Conmemoración de los Apóstoles S. Pedro y S. Pablo
 Ant. Pedro Apóstol, y Pablo el doctor de los pueblos, nos enseñan tu ley, Señor.
 _
 V. Les constituirás príncipes sobre toda la tierra.
 R. Se acordarán, Señor, de tu nombre.
 _
-!Oración
-$Oremus. 
+$Oremus 
 Oh Dios, cuya diestra sostuvo a San Pedro, para que no se sumergiera al andar sobre las olas, y libró a San Pablo, su compañero de apostolado, de caer en el profundo abismo al naufragar por tercera vez; óyenos propicio, y concédenos por los méritos de ambos que consigamos la gloria de la eternidad. 
 
-[Suffragium52]
+[Suffragium DeApostolis]
 !Conmemoración de los Apóstoles S. Pedro y S. Pablo
 Ant. Éstos son los gloriosos príncipes de la tierra, se amaron el uno al otro durante su vida, y en su muerte no serán separados.
 _
 V. Corre su voz por toda la tierra.
 R. Sus palabras llegan hasta los límites del orbe.
 _
-!Oración
-$Oremus. 
+$Oremus 
 Oh Dios, cuya diestra sostuvo a San Pedro, para que no se sumergiera al andar sobre las olas, y libró a San Pablo, su compañero de apostolado, de caer en el profundo abismo al naufragar por tercera vez; óyenos propicio, y concédenos por los méritos de ambos que consigamos la gloria de la eternidad. 
 
-[Suffragium6]
+[Suffragium DePace]
 !Por la paz
 Ant. Danos la paz en nuestros días, Señor, pues no hay quien combata por nosotros, sino Tú, Dios nuestro.
 _
 V. Haya paz dentro de tus muros.
 R. Y prosperidad en tus palacios.
 _
-!Oración
-v. Oremos.
+$Oremus
 v. ¡Oh Dios, de quien proceden los santos deseos, los consejos rectos y las obras buenas!; concede a tus siervos aquella paz que el mundo no les puede dar, para que nuestros corazones cumplan tus mandamientos y nuestro tiempo, alejado todo temor de guerra, discurra bajo tu protección, en la tranquilidad.
 $Per Dominum
 

@@ -955,119 +955,51 @@ Amen.
 V. O bleib doch bei uns, o Herr, alleluja.
 R. Denn es wird Abend, alleluja.
 
-[Suffragium1]
+[Suffragium Divino]
 Ant. Die heilige Gottesmutter Maria und alle Heiligen mögen für uns Fürsprache einlegen bei dem Herrn.
 _
 V. Wunderbar hat Gott ausgestattet seine Heiligen.
 R. Und erhört sie, wenn sie zu ihm rufen.
 _
 !Oratio
-!Bei N. wird der Patron der eigenen Kirche genannt, wenn er noch nicht in der Oration vorkommt, außer wenn die Kirche einer göttlicher Person oder einem Mysterium des Herrn geweiht ist, oder wenn das Offizium oder auch nur eine Kommemoration bereits vom Patron war. Die Namen der hl. Engel und des hl. Johannes des Täufers werden, wenn sie Patrone sind, vor dem hl. Joseph genannt. In all diesen Fällen fallen die Worte „und auch mit dem heiligen N.“ aus.
-v. Lasset uns beten. 
+/:Bei N. wird der Patron der eigenen Kirche genannt, wenn er noch nicht in der Oration vorkommt, außer wenn die Kirche einer göttlicher Person oder einem Mysterium des Herrn geweiht ist, oder wenn das Offizium oder auch nur eine Kommemoration bereits vom Patron war. Die Namen der hl. Engel und des hl. Johannes des Täufers werden, wenn sie Patrone sind, vor dem hl. Joseph genannt. In all diesen Fällen fallen die Worte „und auch mit dem heiligen N.“ aus.:/
+$Oremus   
 v. Schirme uns, wir bitten dich, o Herr, gegen alle Gefahren von innen und von außen, und auf die Fürsprache der heiligen, glorreichen, stets unversehrten Jungfrau und Mutter Gottes Maria mit dem heiligen Joseph, mit deinen heiligen Aposteln Petrus und Paulus und auch mit dem heiligen ~
 r. N. und mit allen Heiligen, gewähre uns in deiner Güte Heil und Frieden, damit nach Überwindung aller Widerstände und Irrtümer deine Kirche dir in gesicherter Freiheit diene.
 $Per eumdem
 
-[Suffragium11]
+[Suffragium Divino1]
 Alle Heiligen mögen für uns Fürsprache einlegen bei dem Herrn.
 _
 V. Wunderbar hat Gott ausgestattet seine Heiligen.
 R. Und erhört sie, wenn sie zu ihm rufen.
 _
 !Oratio
-!Bei N. wird der Patron der eigenen Kirche genannt, wenn er noch nicht in der Oration vorkommt, außer wenn die Kirche einer göttlicher Person oder einem Mysterium des Herrn geweiht ist, oder wenn das Offizium oder auch nur eine Kommemoration bereits vom Patron war. Die Namen der hl. Engel und des hl. Johannes des Täufers werden, wenn sie Patrone sind, vor dem hl. Joseph genannt. In all diesen Fällen fallen die Worte „und auch mit dem heiligen N.“ aus. Wenn der Patron vor den anderen zu nennen ist, heißt es „des heiligen N., mit dem heiligen Joseph“ usw.
-v. Lasset uns beten. 
+/:Bei N. wird der Patron der eigenen Kirche genannt, wenn er noch nicht in der Oration vorkommt, außer wenn die Kirche einer göttlicher Person oder einem Mysterium des Herrn geweiht ist, oder wenn das Offizium oder auch nur eine Kommemoration bereits vom Patron war. Die Namen der hl. Engel und des hl. Johannes des Täufers werden, wenn sie Patrone sind, vor dem hl. Joseph genannt. In all diesen Fällen fallen die Worte „und auch mit dem heiligen N.“ aus. Wenn der Patron vor den anderen zu nennen ist, heißt es „des heiligen N., mit dem heiligen Joseph“ usw.:/
+$Oremus   
 v. Schirme uns, wir bitten dich, o Herr, gegen alle Gefahren von innen und von außen, und auf die Fürsprache des heiligen Joseph, mit deinen heiligen Aposteln Petrus und Paulus und auch mit dem heiligen ~
 r. N. und mit allen Heiligen, gewähre uns in deiner Güte Heil und Frieden, damit nach Überwindung aller Widerstände und Irrtümer deine Kirche dir in gesicherter Freiheit diene.
 $Per eumdem
 
-[SuffragiumTridentinumFeriale]
-Per signum Crucis de inimícis nostris líbera nos, Deus noster.
+[Suffragium Feriale]
+!De cruce
+Ant. Per signum Crucis de inimícis nostris líbera nos, Deus noster.
 _
 V. Omnis terra adóret te, et psallat tibi.
 R. Psalmum dicat nómini tuo, Dómine.
 _
-!Oratio
-v. Orémus
+$Oremus
 v. Perpétua nos, quæsumus, Dómine, pace custódi, quos per lignum sanctæ Crucis redímere dignátus es.
 
-[Suffragium2]
+[Suffragium Paschale]
 Ant. Der Gekreuzigte ist auferstanden von den Toten und hat uns Erlösung gebracht, alleluja, alleluja.
 _
 V. Verkündet es unter den Völkern, alleluja.
 R. Dass der Herr seine Herrschaft vom Holzpfahl aus angetreten hat, alleluja.
 _
-!Oration
-v. Lasset uns beten.
+$Oremus
 v. O Gott, der du gewollt hast, dass für uns dein Sohn den Tod am Kreuzpfahl erleide, um die Gewalt des bösen Feindes von uns zu entfernen, verleihe uns, deinen Dienern, die Gnade, dass wir die huldvolle Wirkung seiner Auferstehung erfahren.
 $Per eumdem
-
-[Suffragium3]
-!De Beata Maria
-Ant. Sancta María * succurre miseris, juva pusillanimes, refove flebiles, ora pro pópulo, interveni pro clero, intercede pro devoto femineo sexu: séntiant omnes tuum juvamen, quicúmque celebrant tuam sanctam commemoratiónem.
-_
-V. Ora pro nobis sancta Dei Génitrix.
-R. Ut digni efficiamur promissionibus Christi.
-_
-!Oratio
-v. Orémus 
-v. Concéde nos fámulos tuos, quæsumus Dómine Deus, perpétua mentis et córporis sanitate gaudére, et gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberari tristítia, et ætérna pérfrui lætítia.
-
-[Suffragium41]
-!De sancto Joseph
-Ant. Ecce fidélis servus et prudens, quem constítuit Dóminus super famíliam suam.
-_
-V. Glória et divítiæ in domo ejus.
-R. Et justítia ejus manet in sæculum sæculi.
-_
-!Oratio
-v. Orémus 
-v. Deus, qui ineffábili providentia beátum Joseph sanctíssimæ Genitrícis tuæ sponsum elígere dignátus es: præsta quæsumus; ut quem protectórem veneramur in terris, intercessórem habére mereámur in cælis.
-
-[Suffragium42]
-!De sancto Joseph
-Ant. Ipse Jesus erat incípiens quasi annórum trigínta ut putabátur fílius Joseph.
-_
-V. Os justi meditábitur sapiéntiam.
-R. Et lingua ejus loquétur judícium.
-_
-!Oratio
-v. Orémus 
-v. Deus, qui ineffábili providentia beátum Joseph sanctíssimæ Genitrícis tuæ sponsum elígere dignátus es: præsta quæsumus; ut quem protectórem veneramur in terris, intercessórem habére mereámur in cælis.
-
-[Suffragium51]
-!De Apostolis
-Ant. Petrus Apóstolus, et Paulus Doctor Géntium, ipsi nos docuerunt legem tuam Dómine.
-_
-V. Constítues eos príncipes super omnem terram.
-R. Mémores erunt nóminis tui Dómine.
-_
-!Oratio
-v. Orémus 
-v. Deus, cujus déxtera beátum Petrum ambulantem in flúctibus, ne mergeretur, eréxit, et coapostolum ejus Paulum tértio naufragantem de profúndo pelagi liberávit: exáudi nos propítius, et concéde; ut amborum méritis, æternitátis glóriam consequámur.
-
-[Suffragium52]
-!De Apostolis
-Ant. Gloriósi príncipes terræ, quómodo in vita sua dilexérunt se, ita et in morte non sunt separati.
-_
-V. In omnem terram exívit sonus eórum.
-R. Et in fines orbis terræ verba eórum.
-_
-!Oratio
-v. Orémus 
-v. Deus, cujus déxtera beátum Petrum ambulantem in flúctibus, ne mergeretur, eréxit, et coapostolum ejus Paulum tértio naufragantem de profúndo pelagi liberávit: exáudi nos propítius, et concéde; ut amborum méritis, æternitátis glóriam consequámur.
-
-[Suffragium6]
-!De Pace.
-Ant. Da pacem Dómine in diébus nostris, quia non est álius, qui pugnet pro nobis, nisi tu Deus noster.
-_
-V. Fiat pax in virtúte tua.
-R. Et abundántia in túrribus tuis.
-_
-!Oratio
-v. Orémus 
-v. Deus, a quo sancta desidéria, recta consília, et justa sunt ópera: da servis tuis illam, quam mundus dare non potest, pacem; ut et corda nostra mandátis tuis dédita, et hóstium sublata formidine, témpora sint tua protectióne tranquilla.
-$Per Dominum
 
 [Day0M Laudes]
 !Apo 7:12

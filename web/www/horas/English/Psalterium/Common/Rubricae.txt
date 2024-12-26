@@ -67,3 +67,6 @@
 
 [Preces flexis genibus]
 /:kneel:/
+
+[Antiphona]
+/:intoned solely when the office is chanted:/

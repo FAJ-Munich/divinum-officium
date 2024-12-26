@@ -33,6 +33,7 @@ sub capitulum_major {
     my (@capit) = split(/\n/, $capit);
     postprocess_short_resp(@capit, $lang);
     $capit = join("\n", @capit);
+    $capit =~ s/\&gloria.*//gsi if $version =~ /cist/i;
   }
 
   setcomment($label, 'Source', $c, $lang);
@@ -71,6 +72,7 @@ sub monastic_major_responsory {
     my @resp = split("\n", $resp);
     postprocess_short_resp(@resp, $lang);
     $resp = join("\n", @resp);
+    $resp =~ s/\&gloria.*//gsi if $version =~ /cist/i;
   }
 
   $resp;
@@ -84,12 +86,16 @@ sub capitulum_minor {
   my %capit = %{setupstring($lang, 'Psalterium/Special/Minor Special.txt')};
   my $name = gettempora('Capitulum minor') . " $hora";
   $name = 'Completorium' if $hora eq 'Completorium';
-  $name .= 'M' if ($version =~ /Monastic/);
   my $capit = $capit{$name} =~ s/\s*$//r;
-  my ($resp, $comment);
+  my ($resp, $vers, $comment);
 
+  $name .= 'M' if ($version =~ /Monastic/);
   if ($resp = $capit{"Responsory $name"}) {
     $resp =~ s/\s*$//;
+    $capit =~ s/\s*$/\n_\n$resp/;
+  } elsif (($resp = $capit{"Responsory breve $name"}) && ($vers = $capit{"Versum $name"})) {
+    $vers =~ s/\s*$//;
+    $resp =~ s/\s*$/\n_\n$vers/;
     $capit =~ s/\s*$/\n_\n$resp/;
   }
 
