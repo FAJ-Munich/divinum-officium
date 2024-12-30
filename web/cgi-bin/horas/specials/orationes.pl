@@ -228,7 +228,8 @@ sub oratio {
       }
 
       if ($c && $octvespera && $c =~ /$octavestring/i) {
-        setbuild2("Substitute Commemoratio of Octave to $octvespera");
+        setbuild2("Substitute Commemorated Octave to Vesp-$octvespera");
+        our $octavam = '';
 
         if (exists($w{"Commemoratio $octvespera"})) {
           $c = getrefs($w{"Commemoratio $octvespera"}, $lang, $octvespera, $w{Rule});
@@ -237,10 +238,6 @@ sub oratio {
         } elsif (exists($w{Commemoratio})) {
           $c = getrefs($w{Commemoratio}, $lang, $octvespera, $w{Rule});
         }
-      }
-
-      if ($dayofweek == 6 && $hora eq 'Laudes' && exists($w{'Commemoratio Sabbat'}) && $version !~ /1960/) {
-        $c = getrefs($w{'Commemoratio Sabbat'}, $lang, 2, $w{Rule});
       }
 
       if ($c) {
@@ -336,7 +333,8 @@ sub oratio {
           }
 
           if ($c && $octvespera && $c =~ /$octavestring/i) {
-            setbuild2("Substitute Commemoratio of Octave to $octvespera");
+            setbuild2("Substitute Commemorated Octave to Vesp-$octvespera");
+            our $octavam = '';
 
             if (exists($c{"Commemoratio $octvespera"})) {
               $c = getrefs($c{"Commemoratio $octvespera"}, $lang, $octvespera, $c{Rule});
@@ -823,6 +821,7 @@ sub getrefs {
       } else {
         $a = '';
       }
+
       $w = "$before$a$after";
       next;
     }

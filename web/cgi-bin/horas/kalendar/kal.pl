@@ -86,7 +86,7 @@ sub latin_uppercase {
 sub findkalentry {
   my ($entry, $ver) = @_;
   our $winner = subdirname('Sancti', $ver) . "$entry.txt";
-  my %saint = %{setupstring('Latin', $winner)};
+  my %saint = %{setupstring('Latin', "$winner")};
 
   my @srank = split(";;", $saint{Rank});
 
@@ -95,7 +95,7 @@ sub findkalentry {
   our $rank = @srank[2];
   my $rankname = rankname('Latin');
 
-  # TODO: get rid of below line when setupstrin respects version conditionals
+  # TODO: get rid of below line when setupstring respects version conditionals
   $rankname =~ s/IV. classis/Memoria/ if $ver =~ /Monastic|Ordo Praedicatorum/;
 
   (
@@ -119,7 +119,7 @@ sub kalendar_entry {
 
   my $output = join(' ', findkalentry($s, $ver));
 
-  $output = '' if $ver =~ /196/ && $date =~ /01-(?:0[7-9]|1[012])/;
+  $output = '' if $ver =~ /1955|196/ && $date =~ /01-(?:0[7-9]|1[012])/;
 
   while (my $ke = shift @kalentries) {
     my ($d1, $d2) = findkalentry($ke, $ver);
