@@ -66,7 +66,7 @@ R. Guérissez mon âme, * car j’ai péché contre Vous.
 V. Soyez mon aide, ne m'abandonnez pas.
 R. Ne me méprisez pas, ô Dieu mon Sauveurs.
 
-[Feria Sexta]
+[Feria Sexta_]
 !Rom 13:8
 v. Vous ne devez rien à personne, si ce n’est de vous aimer les uns les autres ; car celui qui aime autrui a accompli la loi.
 $Deo gratias
@@ -79,7 +79,7 @@ R. En tout temps.
 &Gloria
 R. Je bénirai le Seigneur * En tout temps.
 
-[Feria Nona]
+[Feria Nona_]
 !1 Pierre 1:17-19
 v. Dans la crainte entretenez-vous au temps de votre exil, sachant que ce n’est pas avec de l’or ou de l’argent corruptibles, que vous a- vez été rachetés, mais avec le sang précieux du Christ, Agneau immolé.
 $Deo gratias
@@ -319,33 +319,6 @@ R. Les disciples se sont réjouis, * Alleluia, alleluia.
 [Versum Pasch Nona]
 V. Restez avec nous, Seigneur, alléluia.
 R. Car le soir tombe, alléluia.
-
-[Hymnus Prima]
-v. Déjà l'astre du jour est levé,
-Humblement, prions notre Dieu,
-Pour qu'en nos œuvres de ce jour
-Il nous préserve de tout mal.
-_
-Qu'Il daigne tempérer nos langues
-Contre les discordes bruyantes,
-Que par sa main préventante
-Il garde nos yeux des choses vaines.
-_
-Que le fond de nos cœurs soit pur,
-Que cesse tout dérèglement,
-Que meure l'orgueil de la chair
-Par la sobriété de la table.
-_
-Afin qu'à la tombée de ce jour,
-Quand la nuit reprendra son tour,
-Gardés purs par notre réserve,
-Nous Lui chantions un hymne de gloire.
-_
-* A Dieu le Père soit la gloire
-Et à Son Fils unique,
-Avec l'Esprit Consolateur,
-Maintenant et dans tous les siècles.
-Ainsi soit-il.
 
 [Hymnus Pasc7 Tertia]
 !Prima stropha hymni sequentis dicitur flexibus genibus.

@@ -66,7 +66,7 @@ R. Heal my soul, * for I have sinned against thee.
 V. Be thou my helper, forsake me not.
 R. Do not thou despise me, O God my Saviour.
 
-[Feria Sexta]
+[Feria Sexta_]
 !Rom 13:8
 v. Owe no man any thing, but to love one another. For he that loveth his neighbour, hath fulfilled the law. 
 $Deo gratias
@@ -79,7 +79,7 @@ R. At all times.
 &Gloria
 R. I will bless the Lord * at all times.
 
-[Feria Nona]
+[Feria Nona_]
 !1 Pet 1:17-19
 v. Converse in fear during the time of your sojourning here. Knowing that you were not redeemed with corruptible things as gold or silver, but with the precious blood of Christ.
 $Deo gratias
@@ -319,33 +319,6 @@ R. The disciples therefore were glad, * alleluia, alleluia.
 [Versum Pasch Nona]
 V. Stay with us, O Lord, alleluia.
 R. Because it is towards evening, alleluia.
-
-[Hymnus Prima]
-v. Now in the sun's new dawning ray,
-Lowly of heart, our God we pray
-That he from harm may keep us free
-In all the deeds this day shall see.
-_
-May fear of him our tongues restrain,
-Lest strife unguarded speech should stain:
-His favouring care our guardian be,
-Lest our eyes feed on vanity.
-_
-May every heart be pure from sin
-And folly find no place therein:
-Scant need of food, excess denied,
-Wear down in us the body's pride.
-_
-That when the light of day is gone,
-And night in course shall follow on.
-We, free from cares the world affords,
-May chant the praise that is our Lord's.
-_
-* All laud to God the Father be,
-All praise, Eternal Son, to thee:
-All glory, as is ever meet,
-To God the holy Paraclete.
-Amen.
 
 [Hymnus Pasc7 Tertia]
 !The first verse of the following hymn is said genuflecting.

@@ -66,7 +66,7 @@ R. Uzdrów duszę moję, * Bom grzeszył tobie.
 V. Bądź pomocnikiem moim, nie opuszczaj mię.
 R. Ani mię wzgardzaj, Boże, zbawicielu mój.
 
-[Feria Sexta]
+[Feria Sexta_]
 !Rz 13:8
 v. Nie bądźcie nikomu nic winni, jedno abyście się społecznie miłowali; bo kto miłuje bliźniego, zakon wypełnił.
 $Deo gratias
@@ -79,7 +79,7 @@ R. Na każdy czas.
 &Gloria
 R. Będę błogosławił Pana * Na każdy czas.
 
-[Feria Nona]
+[Feria Nona_]
 !1 P 1:17-19
 v. W bojaźni obcujcie czasu przemieszkiwania waszego, wiedząc, iż nie skazitelnemi złotem albo śrebrem jesteście wykupieni od próżnego obcowania waszego ojcowskiego podania; ale drogą krwią, jako baranka niezmazanego i niepokalanego, Chrystusa.
 $Deo gratias
@@ -319,36 +319,6 @@ R. Uradowali się tedy uczniowie, * Alleluja, alleluja.
 [Versum Pasch Nona]
 V. Zostań z nami, Panie, Alleluja.
 R. Boć się ma ku wieczoru, Alleluja.
-
-[Hymnus Prima]
-v. Gdy już wzeszła gwiazda światła,
-Kornie prośmy Boga,
-By w czynnościach dziennych
-Zachował nas od szkody.
-_
-Niech powściągając miarkuje język,
-By nie rozbrzmiewała groza waśni:
-Niechaj życzliwie chroni wzrok nasz,
-By się nie poił próżnością.
-_
-Niech czyste będzie wnętrze serca,
-I niech odstąpi nierozum;
-Niechaj hardość ciała skruszy
-Skąpość napoju i pokarmu.
-_
-Abyśmy, gdy dzień przejdzie,
-A kolejność znów sprowadzi noc,
-Czyści przez wstrzemięźliwość
-Śpiewali mu chwałę.
-_
-* Bogu Ojcu niechaj będzie chwała,
-I jedynemu jego Synowi,
-Wraz z Duchem Pocieszycielem,
-Teraz i po wszystek wiek.
-Amen.
-
-[HymnusM Prima]
-@:Hymnus Prima:s/Teraz i po wszystek wiek/I teraz i na zawsze/
 
 [Hymnus Pasc7 Tertia]
 !Pierwszą strofę poniższego hymnu odmawia się klęcząc.

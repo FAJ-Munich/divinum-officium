@@ -273,19 +273,25 @@ sub psalmi_major {
   my (@psalmi, $prefix, $comment);
 
   if ($version =~ /Monastic/ && !($hora eq 'Laudes' && $rule =~ /Matutinum romanum/i)) {    # Triduum like Roman
-    my $head = "Daym$dayofweek";
+    my $head = $version =~ /cist/i ? 'Cistercian' : 'Monastic';
 
     if ($hora eq 'Laudes') {
-      if ($rule =~ /Psalmi Dominica/ || ($winner =~ /Sancti/i && $rank >= 4 && $dayname[1] !~ /vigil/i)) {
-        $head = 'DaymF';
+      if (
+        $rule =~ /Psalmi Dominica/
+        || ($rule !~ /Psalmi Feria/i
+          && ($winner =~ /Sancti/i && $rank >= ($version =~ /cist/i ? 3 : 4) && $dayname[1] !~ /vigil/i))
+      ) {
+        $head = $version =~ /cist/i ? 'DaycF' : 'DaymF';
+      } elsif ($dayofweek == 0 && $dayname[0] =~ /Pasc/i && $version !~ /cisterciensis/i) {
+        $head = 'DaymP';
       }
-      if ($dayname[0] =~ /Pasc/i && $head =~ /Daym0/i) { $head = 'DaymP'; }
     }
     @psalmi = split("\n", $psalmi{"$head $hora"});
     setbuild("Psalterium/Psalmi/Psalmi major", "$head $hora", 'Psalmi ord');
 
-    if ($hora eq 'Laudes' && $head =~ /Daym[1-6]/) {
-      unless ($version =~ /Trident/
+    if ($hora eq 'Laudes' && $head =~ /Monastic/) {
+      unless ($dayofweek == 0
+        || $version =~ /Trident/
         || (($dayname[0] =~ /Adv|Quadp/) && ($duplex < 3) && ($commune !~ /C10/))
         || (($dayname[0] =~ /Quad\d/) && ($dayname[1] =~ /Feria/))
         || ($dayname[1] =~ /Quattuor Temporum Septembris/)

@@ -21,10 +21,11 @@ $Deus in adjutorium tantum
 (deinde dicitur)
 &Alleluia
 (sed rubrica 1963 aut rubrica cisterciensis omittitur)
-(rubrica monastica dicuntur)
+(deinde rubrica monastica dicitur)
 &Domine_labia
 (sed rubrica cisterciensis dicitur)
 $Domine labia iij
+(deinde rubrica monastica dicuntur)
 _
 &psalm(3)
 (deinde dicitur)

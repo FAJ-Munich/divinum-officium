@@ -66,7 +66,7 @@ R. Salva l'anima mia,  * perché ho peccato contro di te.
 V. Sii tu il mio aiuto, non mi abbandonare.
 R. E non rigettarmi, o Dio, mia salvezza.
 
-[Feria Sexta]
+[Feria Sexta_]
 !Rom 13:8
 v. Non siate debitori ad alcuno, se non che per amarvi l'un l'altro: perché chi ama il prossimo, ha adempiuto la legge.
 $Deo gratias
@@ -79,7 +79,7 @@ R. In ogni tempo.
 &Gloria
 R. Benedirò il Signore, * in ogni tempo.
 
-[Feria Nona]
+[Feria Nona_]
 !1 Pet 1:17-19
 v. Vivete nel timore durante il vostro pellegrinaggio: consapevoli che non a prezzo di cose corruttibili, come l'oro e l'argento, siete stati riscattati, ma col sangue prezioso di Cristo, Agnello immacolato.
 $Deo gratias
@@ -319,33 +319,6 @@ R. Si rallegrarono i discepoli, * alleluia, alleluia.
 [Versum Pasch Nona]
 V. Resta con noi. Signore, alleluia.
 R. Perché si fa sera, alleluia.
-
-[Hymnus Prima]
-v. Sorto è già il sole, supplice
-Leviamo a Dio la voce,
-Che noi, del dì nell'opere,
-Guardi da quanto nuoce.
-_
-La lingua freni e temperi,
-Ond'aspre liti schivi;
-Provvido gli occhi moderi
-A vanità corrivi.
-_
-Del cuor sia puro l'intimo,
-Sia lungi ogni demenza:
-Temprino i cibi sobrii
-Dei sensi l'insolenza.
-_
-E allor che il giorno spengasi
-E l'aere si oscuri,
-A Dio cantiamo gloria,
-Per l'astinenza puri.
-_
-* Al Padre Dio sia gloria,
-Ed al suo Figlio eterno,
-Con il divin Paraclito
-Adesso e in sempiterno.
-Amen.
 
 [Hymnus Pasc7 Tertia]
 v. Vieni, o Spirito Creatore,

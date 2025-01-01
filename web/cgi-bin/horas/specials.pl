@@ -170,9 +170,7 @@ sub specials {
     }
 
     if ($item =~ /Capitulum/i && $hora =~ /^(?:Tertia|Sexta|Nona|Completorium)$/i) {
-      if ($hora eq 'Completorium') {
-        push(@s, translate($item, $lang));
-      }
+      push(@s, translate($item, $lang)) if ($hora eq 'Completorium');
       push(@s, capitulum_minor($lang));
       next;
     }
@@ -212,6 +210,8 @@ sub specials {
     }
 
     if ($item =~ /Hymnus/) {
+
+      # Fills in Hymnus (and Versus if necessary)
       push(@s, gethymn($lang));
       next;
     }
@@ -600,7 +600,7 @@ sub getseant {
 }
 
 #*** geffrompsalterium($item, $ind, $lang)
-# returns $item (antiphona/versum) $ind(1-3) from $lang/Psalterium/Major Special.txt
+# returns $item (antiphona/versum) $ind(1-3/0) from $lang/Psalterium/Major Special.txt
 sub getfrompsalterium {
   my $item = shift;
   my $ind = shift;

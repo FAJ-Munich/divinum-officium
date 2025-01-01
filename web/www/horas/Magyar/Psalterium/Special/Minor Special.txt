@@ -66,7 +66,7 @@ R. Gyógyítsd meg lelkemet * mivel ellened vétkeztem
 V. Jöjj segítségemre, ne hagy el
 R. Ne vess meg engem Istenem, üdvösségem
 
-[Feria Sexta]
+[Feria Sexta_]
 !Rom 13:8
 v. Ne tartozzatok senkinek semmivel, csak kölcsönös szeretettel, mert aki embertársát szereti, a többi törvényt is megtartja.
 $Deo gratias
@@ -79,7 +79,7 @@ R. Minden időben
 &Gloria
 R. Áldjuk az Urat * minden időben
 
-[Feria Nona]
+[Feria Nona_]
 !1 Pet 1:17-19
 v. Éljetek istenfélelemben zarándoklástok idején. Hisz tudjátok, hogy nem veszendő ezüstön vagy aranyon szabadultatok ki, hanem Krisztusnak, a hibátlan és egészen tiszta báránynak a drága vére árán.
 $Deo gratias
@@ -319,33 +319,6 @@ R. Öröm töltötte el a tanítványokat, Alleluja, alleluja
 [Versum Pasch Nona]
 V. Maradj velünk, Uram, Alleluja
 R. mert esteledik. Alleluja
-
-[Hymnus Prima]
-v. Már kél a fénynek csillaga:
-Esengve kérjük az Urat,
-Járjon ma mindenütt velünk,
-Ne rontsa ártás életünk.
-_
-Nyelvünket fogja fékre ma:
-Ne szóljon rút perek szava.
-Szemünket védőn óvja meg:
-A hívságot ne lássa meg.
-_
-Lakjék szívünkben tisztaság,
-Távozzék minden dőreség.
-A testnek dölyfét törje meg
-Étel- s italban hősi fék.
-_
-Hogy majd a nap ha távozott,
-S az óra újra éjt hozott,
-Lemondásunk szent éneke
-Legyen az Úr dicsérete.
-_
-* Dicsérjük az örök Atyát,
-Dicsérjük egyszülött Fiát
-S a Lelket, a Vigasztalót,
-Most és örök időkön át.
-Ámen.
 
 [Hymnus Pasc7 Tertia]
 v. Ó Alkotó Lélek, jövel

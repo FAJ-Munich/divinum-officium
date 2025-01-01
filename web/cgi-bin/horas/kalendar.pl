@@ -176,10 +176,10 @@ sub kalendar_table {
       }
     }
 
-    $output .=
-        '<TR>'
-      . join('', map { '<TD' . (length($_) < 52 ? ' ALIGN="CENTER"' : '') . ">$_</TD>" } table_row($date1, $cday))
-      . "</TR>\n";
+    $output .= '<TR>'
+      . join('',
+      map { '<TD' . (length($_) < 20 || $_ =~ /\<A/ ? ' ALIGN="CENTER"' : '') . ">$_</TD>" } table_row($date1, $cday),
+      ) . "</TR>\n";
   }
   $output .= note('nigra19') if $mode eq 'kal';
   $output =~ s/{(.+?)}/ setfont('maroon', $1) /ge;

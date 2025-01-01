@@ -556,6 +556,15 @@ sub getcommemoratio {
   {
     return '';
   }
+
+  if ( $version =~ /1960/
+    && $hora eq 'Vespera'
+    && $ind == 3
+    && $rank >= 6
+    && $w{Rank} !~ /Adv|Quad|Passio|Epi|Corp|Nat|Cord|Asc|Dominica|;;6/i)
+  {
+    return '';
+  }
   my @rank = split(";;", $w{Rank});
 
   if (
@@ -710,8 +719,8 @@ sub vigilia_commemoratio {
   if ($w{Rank} =~ /Vigilia/i) { $c =~ s/\:.*/: $wrank[0]/; }
   if ($w =~ /(\!.*?\n)(.*)/s) { $c = $1; $w = $2; }
   my %p = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
-  my $a = $p{"Day$dayofweek Ant 2"};
-  my $v = $p{"Day$dayofweek Versum 2"};
+  my $a = $p{"Feria Ant 2"};       #$p{"Day$dayofweek Ant 2"};
+  my $v = $p{"Feria Versum 2"};    #$p{"Day$dayofweek Versum 2"};
   $a =~ s/\s*\*\s*/ /;
   $w = $c . "Ant. $a" . "_\n$v" . "_\n\$Oremus\n$w";
   return $w;

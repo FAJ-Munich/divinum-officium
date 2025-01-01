@@ -66,7 +66,7 @@ R. Sáname. * Porque he pecado contra ti.
 V. Tú eres mi auxilio, no me deseches.
 R. No me abandones, Dios de mi salvación.
 
-[Feria Sexta]
+[Feria Sexta_]
 !Rom 13:8
 v. Con nadie tengáis deudas, más que la del amor mutuo; porque el que ama al otro, ha cumplido la ley.
 $Deo gratias
@@ -79,7 +79,7 @@ R. En todo momento.
 &Gloria
 R. Bendigo al Señor. * En todo momento. 
 
-[Feria Nona]
+[Feria Nona_]
 !1 Pe 1:17-19
 v. Con santo temor pasad el tiempo de vuestra peregrinación: porque habéis sido rescatados no con oro o plata, perecederos, sino con la sangre preciosa del Cordero sin mancha, Cristo.
 $Deo gratias
@@ -319,33 +319,6 @@ R. Los discípulos se alegraron. * Aleluya, aleluya.
 [Versum Pasch Nona]
 V. Quédate con nosotros, Señor. Aleluya.
 R. Porque atardece. Aleluya. 
-
-[Hymnus Prima]
-v. Ya resplandece el lucero;
-a Dios pidamos rendidos
-que en el discurso del día
-nos guarde de los malignos.
-_
-Refrene y temple la lengua,
-no se oiga voz de litigios;
-ponga guarda en nuestros ojos,
-no entre por ellos el vicio.
-_
-El corazón, sin rencilla,
-sea puro en lo más íntimo:
-bebida y comida parcas
-bajen a la carne el brio.
-_
-Para que, acabado el día,
-turnando la noche en giro,
-por la abstinencia del mundo
-cantemos la gloria a Él mismo.
-_
-* Sea a Dios Padre la gloria,
-y a su Unigénito Hijo,
-con el Espíritu Santo,
-ahora y por todos los siglos.
-Amen.
 
 [Hymnus Pasc7 Tertia]
 !La primera estrofa del himno se dice de rodillas.
