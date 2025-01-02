@@ -343,7 +343,7 @@ Salve Regina
 #IN FINE COENAE
 
 [#Incipit]
-v
+#Incipit
 
 [#Invitatorium]
 #Invitatorium
