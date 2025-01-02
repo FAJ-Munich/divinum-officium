@@ -62,6 +62,9 @@ v. Vyznávám se všemohoucímu Bohu, blahoslavené vždy Panně Marii, svatému
 [Confiteor] (rubrica Monastica)
 @:Confiteor_:s/Pavlovi/Pavlovi, našemu svatému Otci Benediktovi/g s/Pavla/Pavla, našeho svatého Otce Benedikta/g
 
+[Confiteor] (rubrica cisterciensis)
+@:Confiteor_:s/Pavlovi/Pavlovi, našemu svatému Otci Bernardovi/g s/Pavla/Pavla, našeho svatého Otce Bernarda/g
+
 [Confiteor] (rubrica Ordo Praedicatorum)
 v. Vyznávám se všemohoucímu Bohu, a blahoslavené Marii, vždy Panně, a svatému Dominiku, našemu Otci, i všem Svatým, že jsem velmi zhřešil myšlením, slovy i skutky a opomenutím dobrého, je to má vina: prosím blahoslavenou Marii, vždy Pannu, a svatého Dominika, našeho Otce, i všechny Svaté, přimlouvejte se ze mě.
 
