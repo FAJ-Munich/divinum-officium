@@ -1022,9 +1022,10 @@ Ant. Jesus himself began to be about thirty years of age, being (as was supposed
 _
 V. The mouth of the righteous speaketh wisdom. 
 R. And his tongue talketh judgment. 
+(sed commune C4 aut commune C5 loco hujus versus dicitur)
+@:Suffragium DeJosephV:4-5
 _
-$Oremus 
-v. O God, who, in thine unspeakable foreknowledge, didst choose thy blessed servant Joseph to be the husband of thine own most holy Mother; mercifully grant that now that he is in heaven with thee, we who on earth do reverence him for our defender, may worthily be holpen by the succour of his prayers to thee on our behalf. 
+@:Suffragium DeJosephV:7-8
 
 [Suffragium DeApostolisV]
 !Commemoration of the Holy Apostles Peter and Paul

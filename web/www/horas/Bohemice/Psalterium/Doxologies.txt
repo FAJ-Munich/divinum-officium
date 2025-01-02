@@ -12,7 +12,7 @@ S Otcem i svatým Duchem,
 vládneš věčným věkům všem.
 Amen
 
-[PascT]
+[PaschT]
 Bohu Otci nechť sláva zní,
 Též Synu jeho, jenž z mrtvých
 dnes vstal, i Duchu svatému,
@@ -31,13 +31,6 @@ Bohu Otci nechť sláva zní,
 Též Synu jeho, jenž z mrtvých
 dnes vstal, i Duchu svatému,
 s nímž vládneš vždy věku všemu.
-Amen.
-
-[CorpT]
-Sláva buď tobě, Pane náš,
-jenž čistou Pannu matku máš;
-S Otcem i svatým Duchem,
-vládneš věčným věkům všem.
 Amen.
 
 [HeartT]

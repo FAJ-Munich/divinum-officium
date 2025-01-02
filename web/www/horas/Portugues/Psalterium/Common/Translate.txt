@@ -109,6 +109,9 @@ Vos louvamos
 [Deo gratias]
 R. Graças a Deus
 
+[Evangelist]
+Mt|Mc|Lc|Jo
+
 [Lectio]
 Leitura
 
@@ -129,9 +132,6 @@ Antífonas
 
 [Antiphona]
 Antífona
-
-[Evangelist]
-Mt|Mc|Lc|Jo
 
 [et Psalmi]
 e Salmos

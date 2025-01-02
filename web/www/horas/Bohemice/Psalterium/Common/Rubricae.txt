@@ -14,12 +14,11 @@
 [Pater post V]
 /:A pokud se takto zakončí Officium, řekne se pouze «Pater Noster» potichu.:/
 
-[Secreto]
+[Secreto_]
 /:potichu:/
-(sed rubrica cisterciensis)
+
+[Secreto_C]
 /:Ve Chóru, když se zakončí Malé Mariánské Hodinky, řekne se potichu::/
-(sed die in Cœna Domini aut die in Parasceve aut die Sabbato Sancto)
-/:potichu:/
 
 [Secreto a Laudibus]
 /:Pokud se Matutinum a Laudy říkají odděleně, tehdy se řekne potichu::/
@@ -28,9 +27,10 @@
 (sed rubrica cisterciensis)
 /:Mimo Officium dvanáctilekcového svátku se říká potichu::/
 
-[Clara voce]
+[Clara voce_]
 /:Poté se nahlas řekne Verš::/
-(sed rubrica cisterciensis)
+
+[Clara voce_C]
 /:V Chóru se udělá velký Kříž + a na pokyn představeného se ukloníme Oltáři. Poté se nahlas a důstojně řekne Verš::/
 
 [Secus absolute]

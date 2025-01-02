@@ -436,6 +436,9 @@ $Tu autem
 v. Mais vous, vous êtes au milieu de nous, Seigneur, et votre saint nom est invoqué sur nous ; ne nous abandonnez pas, ô Seigneur notre Dieu.
 $Deo gratias
 
+[Completorium] (rubrica Ordo Praedicatorum)
+@:Completorium_:s/Mais v/V/
+
 [Responsory Completorium]
 R.br. En vos mains, Seigneur : * Je remets mon esprit.
 R. En vos mains, Seigneur : * Je remets mon esprit.

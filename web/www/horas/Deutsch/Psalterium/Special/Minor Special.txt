@@ -288,6 +288,9 @@ $Tu autem
 v. Du aber bist unter uns, o Herr, und deine heilige Majestät ist angerufen zum Schutze über uns; verlaß uns nicht, Herr, unser Gott. 
 $Deo gratias
 
+[Completorium] (rubrica Ordo Praedicatorum)
+@:Completorium_:s/aber //
+
 [Responsory Completorium]
 R.br. In deine Hände, o Herr, * empfehle ich mein Leben.
 R. In deine Hände, o Herr, * empfehle ich mein Leben.

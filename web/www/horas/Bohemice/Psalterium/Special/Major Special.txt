@@ -3,6 +3,14 @@
 v. Chvála, sláva, moudrost, díky, čest, moc a síla <i>přísluší</i> našemu Bohu na věčné věky! Amen.
 $Deo gratias
 
+[Responsory Dominica Laudes_]
+R.br. Nakloň mé srdce, Bože, * K tvým svědectvím.
+R. Nakloň mé srdce, Bože, * K tvým svědectvím.
+V. Odvrať mé oči, aby nepatřily na marnosti; na své cestě mě oživ.
+R. K tvým svědectvím.
+&Gloria
+R. Nakloň mé srdce, Bože, * K tvým svědectvím.
+
 [Responsory Dominica Laudes_C]
 R.br. Toto je den, * který stvořil Pán. 
 R. Toto je den, * který stvořil Pán. 
@@ -197,6 +205,14 @@ Abys nám dal poznat * svůj lid, Pane, k odpuštění našich hříchů.
 [Feria7C Ant 2]
 Na cestu pokoje * naveď nás, Pane.
 
+[Responsory Feria Vespera_]
+R.br. Dobrořečit budu Hospodinu * V každý čas.
+R. Dobrořečit budu Hospodinu * V každý čas.
+V. Jeho chvála bude vždy v mých ústech.
+R. V každý čas.
+&Gloria
+R. Dobrořečit budu Hospodinu * V každý čas.
+
 [Responsory Feria Vespera_C]
 R.br. Pomoc naše * ve jménu Páně.
 R. Pomoc naše * ve jménu Páně.
@@ -279,6 +295,14 @@ R. Z pouště Petry až k hoře dcery Sionské.
 !Gen 49, 10.
 v.  Nebude odňato žezlo od Judy, vladařská hůl od jeho kolen, dokud nepřijde ten, který má být poslán; on bude nadějí pohanských Národů.
 $Deo gratias.
+
+[Responsory Adv Vespera_]
+R.br. Ukaž nám, Pane, * Své milosrdenství.
+R. Ukaž nám, Pane, * Své milosrdenství.
+V. A svou spásu nám dej.
+R. Své milosrdenství.
+&Gloria
+R. Ukaž nám, Pane, * Své milosrdenství.
 
 [Responsory Adv Vespera_C]
 R.br. Ty povstaň, Pane, * A smiluj se nad Sionem.
@@ -394,7 +418,6 @@ Amen.
 !Joel 2:17
 v. Kněží, Hospodinovi služebníci, ať pláčou mezi předsíní a oltářem a říkají: „Ušetř, Hospodine, svůj lid, nevydávej své dědictví v potupu, aby nad ním nevládli pohané!“ 
 $Deo gratias
-
 
 [Responsory Quad Vespera]
 R.br. Svými rameny * tě zastíní. 
@@ -644,6 +667,175 @@ Amen.
 [Pasch Versum 3]
 V. Zůstaň s námi, Pane, alleluia.
 R. Neboť se připozdívá, alleluia.
+
+[Suffragium Feriale]
+!O Kříži
+Ant. Znamením Kříže nás vysvoboď od našich nepřátel, náš Bože.
+_
+V. Celá země ať se ti klaní a pěje tobě chválu.
+R. Chválu pěje tvému jménu.
+_
+$Oremus
+v. Prosíme, Pane, neutuchajícím mírem nás provázej, neboť jsi nás ráčil na dřevě svatého Kříže vykoupit.
+
+[Suffragium Paschale]
+Ant. Ukřižovaný vstal z mrtvých, a vykoupil nás, alleluja, alleluja.
+_
+V. Rozhlašujte mezi národy, alleluja.
+R. Že Pán vládl ze dřeva <i>kříže</i>, alleluja.
+_
+$Oremus
+v. Bože, jenž jsi chtěl, aby tvůj Syn pro nás podstoupil utrpení Kříže, abys z nás vyhnal moc nepřítele; uděl nám, svým služebníkům, abychom obdrželi milost vzkříšení.
+$Per eumdem
+
+[Suffragium PaschaleV]
+Ant. Kříž svatý podstoupil ten, který zničil podsvětí; mocí se opásal, jenž třetí den z mrtvých vstal, alleluja.
+@:Suffragium Paschale:2-9
+
+[Suffragium BMV]
+!K Panně Marii
+Ant. Panno Maria, přispěj na pomoc ubohým, pomoz malodušným, utěš plačící, oroduj za lid, přimlouvej se za kněžstvo, pomáhej oddanému ženskému pokolení; aby všichni pociťovali tvou pomoc, kdož oslavují tvou svatou připomínku.
+_
+(deinde dicuntur semper)
+V. Oroduj za nás, svatá Boží Rodičko.
+R. Abychom hodni učiněni byli zaslíbení Kristových.
+_
+$Oremus
+v. Uděl nám, svým služebníkům, prosíme, Pane Bože, stálé zdraví duše i těla, a na slavnou přímluvu blahoslavené a neporušené Panny Marie vysvoboď nás z nynější strasti a dej nám dojíti věčně blaženosti. 
+(sed tempore post partum loco horum versuum dicuntur)
+@Psalterium/Mariaant:Nativiti:s/.*V\./V\./s
+
+
+[Suffragium BMV] (rubrica cisterciensis)
+!K Panně Marii
+Ant. Svatá Boží Rodičko, vždy Panno Maria, přimlouvej se za nás u Pána našeho Boha. (Allelúja, allelúja.)
+_
+@Psalterium/Mariaant:Postpentecost: s/.*V\./V./s s/(Per|Through|Skrz).*$/\n/
+(sed tempore post Epiphaniam aut Septuagesimæ aut Quadragesimæ aut Passionis dicitur)
+@Psalterium/Mariaant:Quadragesimae: s/.*V\./V./s  s/(Per|Through|Skrz).*$//
+(sed Adventus dicitur) 
+@Psalterium/Mariaant:Advent: s/.*V\./V./s s/(Per|Through|Skrz).*$//
+(sed Nativitatis aut Epiphaniæ aut post partum dicitur)
+@Psalterium/Mariaant:Nativiti: s/.*V\./V./s s/Amen.*$//
+(sed Paschali dicitur)
+@Psalterium/Mariaant:Paschalis: s/.*V\./V./s s/(Per|Through|Skrz).*$//
+
+
+[Suffragium DeJosephV]
+!Ke Svatému Josefovi
+Ant. Hle, služebník věrný a moudrý, jejž ustanovil Pán na svou rodinou. (Alleluja.)
+_
+V. Sláva a bohatství v jeho domě. (Alleluja.)
+R. A jeho spravedlnost zůstává navěky. (Alleluja.)
+_
+$Oremus  
+v. Bože, jenž sis v nevýslovné prozíravosti ráčil vyvolit svatého Josefa za manžela tvé přesvaté Rodičky; uděl, prosíme, aby když jej ctíme jako ochránce na zemi, zasloužili si míti jej jako přímluvce v nebi.
+
+[Suffragium DeJoseph]
+!Ke Svatému Josefovi
+Ant. Samotnému Ježíšovi již bylo třicet let a byl považován za syna Josefova. (Alleluja.)
+_
+V. Ústa spravedlivého rozvažují moudré věci. (Alleluja.)
+R. A jeho jazyk mluví věci správné. (Alleluja.)
+(sed commune C4 aut commune C5 loco hujus versus dicitur)
+@:Suffragium DeJosephV:4-5
+_
+@:Suffragium DeJosephV:7-8
+
+[Suffragium DeApostolisV]
+!K Apoštolům
+Ant. Petr Apoštol, a Pavel, Učitel Národů, ti nás vyučili tvůj zákon, Pane.
+_
+V. Ustanovuješ je knížaty nad celou zemí.
+R. Pamětlivi budou tvého jména, Pane.
+_
+$Oremus  
+v. Bože, jehož pravice pozvedla Petra kráčejícího po vlnách, aby neutonul, a jeho spolu-apoštola Pavla třikrát ztroskotaného vysvobodila z hlubin moře; vyslyš nás laskavě a uděl, aby pro zásluhy obou jsme obdrželi slávu věčnosti.
+
+[Suffragium DeApostolis]
+!K Apoštolům
+Ant. Slavná knížata země, jak moc se v životě měli rádi, že ani ve smrti nebyli rozděleni.
+_
+V. Do každé země vyšel jejich hlas.
+R. A do všech končin země jejich slova.
+_
+@:Suffragium DeApostolisV:7-8
+
+
+[Suffragium DeSSPNV]
+!O svatých Benediktovi, Bernardovi a Robertovi
+Ant. Svatí svou vírou přemohli říše <i>pekelné</i>, jednali spravedlivě a dosáhli zaslíbení <i>Božích</i>. (Alleluja, alleluja.)
+_
+V. Blažení ti, které jsi vyvolil, Hospodine. (Alleluja.)
+R. Přebývati budou ve tvých síních. (Alleluja.)
+_
+$Oremus  
+v. Uděl, prosíme, všemohoucí Bože; abychom, když ctíme památku tvých svatých Benedikta, Bernarda a Roberta, také jejich ctnosti napodobovali.
+
+[Suffragium DeSSPN]
+!De SS. Benedicto, Bernardo et Roberto
+Ant. Těla Svatých jsou pohřbena v pokoji, a jejich jména budou žít navěky. (Alleluja, alleluja.)
+@:Suffragium DeSSPNV:3-8
+
+
+[Suffragium DePace]
+!Za mír
+Ant. Dej mír, Hospodine, za našich dnů, neboť není druhého, kdo by za nás bojoval, než ty, Bože náš. (Alleluja.)
+_
+V. Budiž mír ve tvé moci. (Alleluja.)
+R. A hojnost uvnitř našich hradeb. (Alleluja.)
+_
+$Oremus
+v. Bože, od nějž pochází svaté touhy, správná rozhodnutí a dobré skutky; dej svým služebníkům onen pokoj, jejž svět nedokáže dát; aby i naše srdce, tvým přikázáním oddaná, a zbavená strachu z nepřátel, i časy byly pod tvou ochranou pokojné.
+$Per Dominum
+
+
+[Dominica Versum 0]
+V. Vznešený nade všechny národy je Hospodin.
+R. A nad nebesa jeho sláva.
+
+[Feria Versum 0]
+V. Dej nám, Pane, své milosrdenství.
+R. Jak doufáme v tebe.
+
+
+[Adv Versum 0]
+V. Vydej Beránka, Hospodine, panovníka země.
+R. Z Petry na poušti na horu, dcero siónská.
+
+
+[Nat Versum 0]
+V. Chlapec se narodil.
+R. A Syn nám byl dán.
+
+[Quadp Versum 0]
+V. Vznešený nade všechny národy je Hospodin.
+R. A nad nebesa sahá jeho sláva.
+
+
+[Quad Versum 0]
+V. Na rukou tě ponesou.
+R. Aby sis snad o kamen nezranil svou nohu.
+
+
+[Quad5 Versum 0]
+V. Pohleď na mou duši, a vysvoboď ji.
+R. Pro mé nepřátele mě vytrhni.
+
+
+[Asc Versum 0]
+V. Vystupuji k Otci svému i Otci vašemu, alleluja.
+R. Bohu svému i Bohu vašemu, alleluja.
+
+
+[Pent Versum 0]
+V. Vydej svého Ducha a budou stvořeni, alleluja.
+R. A obnovíš tvář země, alleluja.
+
+
+[Suffragium DePatrono]
+!K Patronovi či Zasvěcení Kostela
+/:Učiní se obvyklá Připomínka před či po uvedených Připomínkách, k jeho cti, a na posledním místě::/
 
 [Feria4C Ant 3]
 Neboť mi učinil * veliké věci Pán, který je mocný, a svaté je jeho jméno.

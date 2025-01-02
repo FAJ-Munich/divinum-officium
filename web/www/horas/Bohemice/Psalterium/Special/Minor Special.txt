@@ -262,9 +262,7 @@ Amen.
 
 [Lectio Completorium]
 !1 Pet 5:8-9
-v. Bratři, buďte střízliví a bděte, neboť váš protivník, ďábel,~ 
-obchází jako lev řvoucí a hledá, koho by pohltil.~
-Jemu se braňte, jsouce silní ve víře!
+v. Bratři, buďte střízliví a bděte, neboť váš protivník, ďábel, obchází jako lev řvoucí a hledá, koho by pohltil. Jemu se braňte, jsouce silní ve víře!
 $Tu autem
 
 [Completorium_]

@@ -322,6 +322,11 @@ Il mio popolo, * dice il Signore, sarà colmato dei miei beni.;;214
 Nel Signore sarà giustificata * e glorificata tutta la nazione d'Israele.;;215
 Manifestaci, o Signore, * la luce delle tue misericordie.;;216(1-13)
 
+[DaymP Laudes]
+Alleluia, * alleluia, alleluia, alleluia, alleluia, alleluia, alleluia, alleluia, alleluia.;;92;99;62
+Cristo è risorto * dal sepolcro, egli che liberò i tre giovanetti dalla fornace di fuoco ardente, alleluia.;;210
+Alleluia, * alleluia, alleluia.;;148;149;150
+
 [Monastic Laudes] (feria 2)
 Abbi pietà * di me, o Dio.;;50
 Intendi le mie grida, o Signore.;;5
@@ -405,14 +410,3 @@ Il tuo regno, * o Signore, è un regno di tutti i secoli.;;144(10-21)
 Loderò Dio * tutta la vita.;;145
 Al nostro Dio * si dia lode gioconda.;;146
 Loda, o Gerusalemme, * il Signore.;;147
-
-[DaymP Vespera]
-Alleluia, alleluia, alleluia;;109
-;;110
-;;111
-;;112
-
-[DaymP Laudes]
-Alleluia, * alleluia, alleluia, alleluia, alleluia, alleluia, alleluia, alleluia, alleluia.;;92;99;62
-Cristo è risorto * dal sepolcro, egli che liberò i tre giovanetti dalla fornace di fuoco ardente, alleluia.;;210
-Alleluia, * alleluia, alleluia.;;148;149;150

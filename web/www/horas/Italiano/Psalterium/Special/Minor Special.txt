@@ -435,6 +435,9 @@ $Tu autem
 v. Ma tu, o Signore, sei in noi e il tuo santo nome è stato invocato sopra di noi: non ci abbandonare, Signore, Dio nostro.
 $Deo gratias
 
+[Completorium] (rubrica Ordo Praedicatorum)
+@:Completorium_:s/Ma t/T/
+
 [Responsory Completorium]
 R.br. Nelle tue mani, Signore, * affido il mio spirito.
 R. Nelle tue mani, Signore, * affido il mio spirito.

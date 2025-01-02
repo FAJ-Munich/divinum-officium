@@ -321,6 +321,11 @@ Lud mój, * będzie nasycon dobrami memi, mówi Pan.;;214
 W Panu będzie usprawiedliwione, * i przechwalać się będzie wszystko nasienie Izraelowe.;;215
 Ukaż nam, Panie * światłość smiłowania twego.;;216(1-13)
 
+[DaymP Laudes]
+Alleluja, * alleluja, alleluja, alleluja, alleluja, alleluja, alleluja, alleluja, alleluja.;;92;99;62
+Powstał z grobu * Chrystus, który wybawił trzech młodzieńców z komina ogniem płonącego, alleluja.;;210
+Alleluja, * alleluja, alleluja.;;148;149;150
+
 [Monastic Laudes] (feria 2)
 Zmiłuj się * nademną, Boże;;50
 Wyrozumiéj * wołanie moje, Panie;;5
@@ -404,8 +409,3 @@ Królestwo twe * królestwo wszystkich wieków;;144(10-21)
 Będę chwalił * Pana za żywota mego;;145
 Bogu naszemu * niech będzie wdzięczna chwała;;146
 Chwal, * Jeruzalem, Pana;;147
-
-[DaymP Laudes]
-Alleluja, * alleluja, alleluja, alleluja, alleluja, alleluja, alleluja, alleluja, alleluja.;;92;99;62
-Powstał z grobu * Chrystus, który wybawił trzech młodzieńców z komina ogniem płonącego, alleluja.;;210
-Alleluja, * alleluja, alleluja.;;148;149;150
