@@ -662,7 +662,6 @@ sub setbuild {
 #*** checksuffragium
 # versions 1956 and 1960 exclude from Ordinarium
 sub checksuffragium {
-  return 1 if $winner =~ /C12/;    # Officium Parvum B.M.V.
 
   my $ranklimit = ($version =~ /cist/i ? 4 : 3);    # Roman: Duplex; Cist: MM. maj.
   return 0

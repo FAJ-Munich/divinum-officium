@@ -261,7 +261,7 @@ sub occurrence {
           $srank = '';
         } elsif ($version !~ /196/ && $srank && ($tname =~ /Quadp3\-3/i || $tname =~ /Quad6\-[1-3]/i)) {
 
-          #$srank[2] = 1.1;    # Feria privilegiata: only comm.
+          #$srank[2] = 1.1;    # Feria privilegiata: only comm. (not in Second Vespers)
         }
       } else {
         $svesp = 2;    # keine Vesper
