@@ -237,7 +237,7 @@ Benedictio. Áldjon meg minket az Úr, + szabadítson meg minden gonosztól és 
 V. Mondjatok áldást.
 R. Istenünk.
 
-[commemoratio omnium]
+[commemoratio omnium_]
 R.br. Megemlékezés testvéreinkről, rendünk barátairól es jótevőinkről.
 
 [Requiescant]

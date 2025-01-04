@@ -243,7 +243,7 @@ Benedictio. May the Lord bless us, + protect us from all evil and bring us to ev
 V. Let us bless.
 R. God.
 
-[commemoratio omnium]
+[commemoratio omnium_]
 R.br. Commemoration of all brothers, friends of our Order, and our benefactors.
 
 [Requiescant]

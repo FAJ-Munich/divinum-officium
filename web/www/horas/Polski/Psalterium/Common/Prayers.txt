@@ -241,7 +241,7 @@ Benedictio. Niech Pan nas błogosławi, + i broni od wszelkiego zła, i doprowad
 V. Błogosław nam.
 R. Boże.
 
-[commemoratio omnium]
+[commemoratio omnium_]
 R.br. Wspomnienie wszystkich braci, przyjaciół Zakonu naszego, a także dobroczyńców naszych.
 
 [Requiescant]

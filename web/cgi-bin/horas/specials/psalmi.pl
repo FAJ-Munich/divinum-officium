@@ -434,7 +434,8 @@ sub psalmi_major {
 
   if ( $version =~ /Monastic/
     && $hora eq 'Vespera'
-    && ($winner !~ /C(?:9|12)/)
+    && ($winner !~ /C9/)
+    && ($winner !~ /C12/ || $version =~ /cist/i)
     && ($commune !~ /C9/)
     && ($dayname[0] !~ /Quad6/ || $dayofweek < 4))
   {

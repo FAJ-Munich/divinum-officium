@@ -35,7 +35,7 @@ sub headline {
     "<H2><FONT COLOR='RED' SIZE='+1'>Please note that the database for this version ($vers) is still incomplete and under construction.</FONT></H2>\n"
     if $vers =~ /1962|Cist/;
   $output .=
-  "<H2><FONT COLOR='RED'>Please note that 'Ad Matutinum' for this version ($vers) is still incomplete and under construction.</FONT></H2>\n"
+    "<H2><FONT COLOR='RED'>Please note that 'Ad Matutinum' for this version ($vers) is still incomplete and under construction.</FONT></H2>\n"
     if $vers =~ /1617|1930/ && $hora =~ /Matutinum/;
 
   if ($variant eq 'P') {

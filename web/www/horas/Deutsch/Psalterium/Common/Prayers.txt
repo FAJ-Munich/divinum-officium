@@ -238,7 +238,7 @@ Benedictio. Der Herr möge uns segnen + und uns vor allem Schaden bewahren und u
 V. Gebt den Segen.
 R. Gott [möge ihn geben].
 
-[commemoratio omnium]
+[commemoratio omnium_]
 R.br. Gedenken an alle Brüder, Familien unseres Ordens und unsere Wohltäter.
 
 [Requiescant]

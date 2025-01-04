@@ -23,7 +23,7 @@ my %subjects = (
   communi => sub { our $version },
   'die' => \&get_dayname_for_condition,
   feria => sub { our $dayofweek + 1 },
-  commune => sub {$commune},
+  commune => sub { our $commune },
   officio => sub { $dayname[1]; },
 );
 my %predicates = (
