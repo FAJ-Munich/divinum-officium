@@ -1008,7 +1008,7 @@ $Deo gratias
 [Quad Laudes_C]
 !2. Cor. 6 
 v. Ecce nunc tempus acceptábile, ecce nunc dies salútis. Némini dantes ullam offensiónem, ut non vituperétur ministérium nostrum.  
-$Deo gratias 
+$Deo gratias
 
 [Quad Laudes]
 @:Quad Laudes_
@@ -1137,7 +1137,7 @@ $Deo gratias
 [Quad5 Laudes_C]
 !Heb 9:28 
 v. Christus semel oblátus est ad multórum exhauriénda peccáta: * secúndo sine peccáto apparébit expectántibus se, in salútem. 
-$Deo gratias 
+$Deo gratias
 
 [Quad5 Laudes]
 @:Quad5 Laudes_

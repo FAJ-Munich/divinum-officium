@@ -46,13 +46,7 @@ Uděl nám odpuštění
 [Domine labia]
 Pane, otevři mé rty
 
-[pater noster]
-Otče náš
-
 [Deus in adjutorium]
-Bože, k pomocí mé pospěš
-
-[Deusinadjutorium]
 Bože, k pomocí mé pospěš
 
 [Tu autem]
@@ -61,10 +55,10 @@ Ty však, Pane.
 [Aperi]
 Otevři má ústa
 
-[Benedicamus Domino]
+[Benedicamus_Domino]
 Dobrořečme Pánu
 
-[Benedicamus Domino alleluja]
+[Benedicamus Domino1]
 Dobrořečme Pánu, alleluia, alleluia
 
 [Fidelium animae]
@@ -97,10 +91,10 @@ Jenž žiješ
 [Qui tecum]
 Který s tebou
 
-[Sacrosancta]
+[Sacrosanctaea]
 Přesvatá
 
-[Sacrosanctaea]
+[Sacrosancta]
 Přesvatá
 
 [Benedictio]
@@ -114,6 +108,9 @@ Bože, chválíme Tebe
 
 [Deo gratias]
 Bohu Díky.
+
+[Evangelist]
+Mat|Mar|Luk|Jan
 
 [Lectio]
 Čtení
@@ -136,9 +133,6 @@ Antifony
 [Antiphona]
 Antifona
 
-[Evangelist]
-Mat|Mar|Luk|Jan
-
 [et Psalmi]
 a Žalmy
 
@@ -159,14 +153,6 @@ Božská pomoc
 
 [Gloria tibi Domine]
 Sláva tobě, Pane.
-
-[Kyrie]
-Kýrie
-
-[MLitany]
-@:Kyrie
-…
-@:Pater noster
 
 [Dominica]
 Neděle
@@ -192,18 +178,6 @@ Požehnání jídla
 [Itinerarium]
 Modlitba před cestou
 
-[Nocturn]
-Nocturnus
-
-[Adjutorium nostrum]
-Adjutorium nostrum
-
-[Oratio Domine_]
-Dómine Deus
-
-[Respice]
-Réspice
-
 [Pater totum secreto_]
 /:celé potichu:/
 
@@ -212,90 +186,6 @@ Réspice
 
 [Deus in adjutorium iij_]
 /:třikrát:/
-
-[Benedictio Prima]
-Jube, … Dies et actus
-
-[benedictio Prima2]
-Dóminus nos benedícat
-
-[Benedicite]
-Benedícite
-
-[Defunctorum]
-@:#Připomínka zemřelých: s/#//
-
-[Pater totum secreto]
-@:Pater noster
-@:Pater totum secreto_
-
-[Pater post]
-@:Pater totum secreto
-
-[Pater post V]
-@:Pater totum secreto
-
-[Deus in adjutorium iij]
-@:Deus in adjutorium
-@:Deus in adjutorium iij_
-
-[Oratio Domine]
-@:Domine exaudi
-…
-@:Oremus
-…
-@:Oratio Domine_
-
-[Oratio Domine] (rubrica ^Monastic)
-@:MLitany
-…
-@:Domine exaudi
-…
-@:Oremus
-…
-@:Oratio Domine_
-
-[Requiescant]
-Requiéscant
-
-[A_porta_inferi]
-A porta ínferi
-
-[Aportainferi]
-@:A_porta_inferi
-
-[Versus in loco]
-Versus (In loco Capituli)
-
-[secreto]
-secreto
-
-[Pretiosa]
-Pretiosa
-
-[Preces feriales Laudes]
-Ego dixi …
-
-[Preces feriales Vespera]
-@:Preces feriales Laudes
-
-[Preces dominicales primae]
-Et ego ad te …
-
-[Preces dominicales secundae]
-Dignáre, Dómine …
-
-[Preces dominicales Completorium]
-Benedictus es …
-
-[Preces dominicales Completorium] (rubrica ^Monastic)
-@:Preces dominicales secundae
-
-[Preces feriales Prima]
-Éripe me, …
-
-[Preces feriales minora]
-Dómine, Deus …
 
 [ant Alma Redemptoris Mater]
 Vznešená Matko Spasitele

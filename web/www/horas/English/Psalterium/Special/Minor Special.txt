@@ -436,6 +436,9 @@ $Tu autem
 v. But thou, O Lord, art among us, and thy name is called upon by us: forsake us not, O Lord our God.
 $Deo gratias
 
+[Completorium] (rubrica Ordo Praedicatorum)
+@:Completorium_:s/But t/T/
+
 [Responsory Completorium]
 R.br. Into thy hands, O Lord, * do I commend my spirit.
 R. Into thy hands, O Lord, * do I commend my spirit.

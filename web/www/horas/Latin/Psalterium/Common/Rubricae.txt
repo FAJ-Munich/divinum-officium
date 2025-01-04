@@ -13,12 +13,18 @@
 [Pater post V]
 /:Et si tunc terminetur Officium, dicitur tantum « Pater Noster » secreto.:/
 
-[Secreto]
+[Secreto_]
 /:secreto:/
-(sed rubrica cisterciensis)
+
+[Secreto_C]
 /:In Choro, finita Officio parvo B.M.V., dicitur secreto::/
+
+[Secreto]
+@:Secreto_
+(sed rubrica cisterciensis)
+@:Secreto_C
 (sed die in Cœna Domini aut die in Parasceve aut die Sabbato Sancto)
-/:secreto:/
+@:Secreto_
 
 [Secreto a Laudibus]
 /:Si Matutinum a Laudibus separatur, tunc dicitur secreto::/
@@ -27,10 +33,16 @@
 (sed rubrica cisterciensis)
 /:Præterquam Officio duodecim Lectionum dicitur secreto::/
 
-[Clara voce]
+[Clara voce_]
 /:Deinde, clara voce, dicitur Versus::/
-(sed rubrica cisterciensis)
+
+[Clara voce_C]
 /:In Choro, facimus signum Crucis + atque ad signum Superioris inclinamus Altari. Deinde alta voce et graviter dicitur Versus::/
+
+[Clara voce]
+@:Clara voce_
+(sed rubrica cisterciensis)
+@:Clara voce_C
 
 [Secus absolute]
 /:Secus absolute incipiuntur, ut sequitur::/

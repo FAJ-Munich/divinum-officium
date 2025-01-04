@@ -321,6 +321,11 @@ Y mi pueblo, * dice el Señor, se saciará de mis bienes.;;214
 Con el Señor triunfará * y se gloriará la estirpe de Israel.;;215
 Infunde * tu terror a todas las naciones.;;216(1-13)
 
+[DaymP Laudes]
+Aleluya, * aleluya, aleluya, aleluya, aleluya, aleluya, aleluya, aleluya, aleluya.;;92;99;62
+Se ha levantado Cristo * del sepulcro, el que libró a los tres mancebos del horno de fuego ardiente, aleluya.;;210
+Aleluya, * aleluya, aleluya.;;148;149;150
+
 [Monastic Laudes] (feria 2)
 Ten misercordia de mí, * Dios mío.;;50
 Atiende * a mis gemidos, Señor.;;5
@@ -404,14 +409,3 @@ Tu reinado, * Señor, es un reinado perpetuo.;;144(10-21)
 Alabaré * al Señor mientras viva.;;145
 Nuestro Dios * merece una alabanza armoniosa.;;146
 Glorifica * al Señor, Jerusalén.;;147
-
-[DaymP Vespera]
-Aleluya, aleluya, aleluya;;109
-;;110
-;;111
-;;112
-
-[DaymP Laudes]
-Aleluya, * aleluya, aleluya, aleluya, aleluya, aleluya, aleluya, aleluya, aleluya.;;92;99;62
-Se ha levantado Cristo * del sepulcro, el que libró a los tres mancebos del horno de fuego ardiente, aleluya.;;210
-Aleluya, * aleluya, aleluya.;;148;149;150

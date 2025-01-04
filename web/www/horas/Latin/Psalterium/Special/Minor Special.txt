@@ -83,7 +83,7 @@ R. Neque despícias me, Deus, salutáris meus.
 v. Némini quidquam debeátis, nisi ut ínvicem diligátis: qui enim díligit próximum, legem implévit.
 $Deo gratias
 
-[Feria Sexta] 
+[Feria Sexta]
 @:Feria Sexta_
 (sed rubrica monastica)
 @:Dominica Sexta
@@ -107,7 +107,7 @@ R. Benedícam Dóminum * In omni témpore.
 v. In timóre incolátus vestri témpore conversámini: sciéntes quod non corruptibílibus auro vel argénto redémpti estis, sed pretióso sánguine quasi Agni immaculáti Christi.
 $Deo gratias
 
-[Feria Nona] 
+[Feria Nona]
 @:Feria Nona_
 (sed rubrica monastica)
 @:Dominica Nona

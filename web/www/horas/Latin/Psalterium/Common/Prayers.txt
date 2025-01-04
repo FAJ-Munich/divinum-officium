@@ -93,6 +93,9 @@ v. Confíteor Deo omnipoténti, beátæ Maríæ semper Vírgini, beáto Michaél
 [Confiteor] (rubrica Monastica)
 @:Confiteor_:s/Paulo/Paulo, beáto Patri nostro Benedícto/ s/Paulum/Paulum, beátum Patrem nostrum Benedíctum/
 
+[Confiteor] (rubrica cisterciensis)
+@:Confiteor_:s/Paulo/Paulo, beáto Patri nostro Bernárdo/ s/Paulum/Paulum, beátum Patrem nostrum Bernárdum/
+
 [Confiteor] (rubrica Ordo Praedicatorum)
 v. Confiteor Deo omnipotenti, et beáte Maríae semper Vírgini, et beáto Domínico Patri nostro, et omnibus Sanctis: quia peccavi nimis cogitatione, locutione, opere et omissione, me cupla: precor beátam Maríam semper Vírginem, et beátum Domínicum Patrem nostrum, et omnes Sanctos oráre pro me.
 
@@ -210,10 +213,14 @@ Sanctum quoque * Paráclitum Spíritum.
 Tu Rex glóriæ, * Christe.
 Tu Patris * sempitérnus es Fílius.
 /:Fit reverentia:/ Tu, ad liberándum susceptúrus hóminem: * non horruísti Vírginis úterum.
+(sed rubrica cisterciensis dicitur)
+Tu, ad liberándum susceptúrus hóminem: * non horruísti Vírginis úterum.
 Tu, devícto mortis acúleo, * aperuísti credéntibus regna cælórum.
 Tu ad déxteram Dei sedes, * in glória Patris.
 Judex créderis * esse ventúrus.
 /:Sequens versus dicitur flexis genibus:/
+(sed rubrica cisterciensis dicitur)
+/:Fratres, quando incipiunt:/ Te ergo quæsumus, /:exeuntes e Stallis, reverenter inclinent ad verba:/ Quos pretioso /:et cetera:/
 Te ergo quǽsumus, tuis fámulis súbveni, * quos pretióso sánguine redemísti.
 Ætérna fac cum Sanctis tuis * in glória numerári.
 (sed rubrica 1570 dicitur)
@@ -222,6 +229,8 @@ Salvum fac pópulum tuum, Dómine, * et bénedic hereditáti tuæ.
 Et rege eos, * et extólle illos usque in ætérnum.
 Per síngulos dies * benedícimus te.
 /:Fit reverentia, secundum consuetudinem:/ Et laudámus nomen tuum in sǽculum, * et in sǽculum sǽculi.
+(sed rubrica cisterciensis dicitur)
+Et laudámus nomen tuum in sǽculum, * et in sǽculum sǽculi.
 Dignáre, Dómine, die isto * sine peccáto nos custodíre.
 Miserére nostri, Dómine, * miserére nostri.
 Fiat misericórdia tua, Dómine, super nos, * quemádmodum sperávimus in te.

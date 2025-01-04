@@ -120,6 +120,10 @@ R. Bohu díky.
 V. Duše věrných zemřelých pro milosrdenství Boží ať odpočívají v pokoji.
 R. Amen.
 
+[Conclmart] (rubrica cisterciensis)
+V. A jinde mnoho svatých mučedníků, vyznavačů a svatých panen, jejichž přímluvu si v modlitbách vyprošujeme.
+$Deo gratias.
+
 [Per Dominum]
 r. Skrze našeho Pána Ježíše Krista, tvého Syna, jenž s tebou žije a kraluje v jednotě Ducha Svatého Bůh, po všecky věky věkův.
 R. Amen.
@@ -164,57 +168,25 @@ neskonale velebný, všemohoucí Otče,
 božský Utěšiteli, Duchu svatý.
 Kriste, Králi slávy, 
 tys od věků Syn Boha Otce;
-/:Ukloníme se:/ abys člověka vykoupil, stal ses člověkem a nepohrdl jsi panenským lůnem;
+/:Ukloníme se:/ Ty, abys člověka vykoupil, stal ses člověkem a nepohrdl jsi panenským lůnem;
+(sed rubrica cisterciensis)
+Ty, abys člověka k vykoupení přijal člověka, nepohrdl jsi panenským lůnem;
 zlomil jsi osten smrti a otevřel věřícím nebe;
 sedíš po Otcově pravici a máš účast na jeho slávě.
 Věříme, že přijdeš soudit, a proto tě prosíme:
-/:Při následujícím verši klečíme:/ přispěj na pomoc svým služebníkům, vždyť jsi je vykoupil svou předrahou krví;
+/:Při následujícím verši klečíme:/
+(sed rubrica cisterciensis)
+/:Když bratři začínají:/ Te ergo quæsumus, /: vystoupí ze Štal 
+!a uctivě se ukloní na slova:/ Quos pretioso /:atd.:/
+přispěj na pomoc svým služebníkům, vždyť jsi je vykoupil svou předrahou krví;
 dej, ať se radují s tvými Svatými ve věčné slávě.
 Zachraň, Pane, svůj lid, žehnej svému dědictví, 
 veď ho a stále pozvedej.
 Každý den tě budeme velebit 
 /:Během následujícího verše se hluboce ukloníme, pokud je to místní zvyk.:/ a chválit tvé jméno po všechny věky.
-Pomáhej nám i dnes, ať se nedostaneme do područí hříchu.
-Smiluj se nad námi, Pane, smiluj se nad námi.
-Ať spočine na nás tvé milosrdenství, jak doufáme v tebe.
-Pane, k tobě se utíkáme, ať nejsme zahanbeni navěky.
-
-[Te Deum] (rubrica cisterciensis)
-v. Bože, tebe chválíme, tebe, Pane, velebíme.
-Tebe, věčný Otče, oslavuje celá země. 
-Všichni Andělé, Nebesa a všechny mocné nebeské Zástupy, 
-Cherubové i Serafové bez ustání volají:
-_
-/:(ukloníme se):/ Svatý, Svatý, Svatý, Pán, Bůh zástupů.;
-_
-Plná jsou nebesa i země tvé vznešené slávy.
-Oslavuje tě sbor tvých Apoštolů,
-chválí tě velký počet Proroků,
-vydává o tobě svědectví zástup Mučedníků
-a po celém světě vyznává tě tvá Církev:
-neskonale velebný, všemohoucí Otče,
-úctyhodný Synu Boží, pravý a jediný,
-božský Utěšiteli, Duchu svatý.
-Ty jsi Král slávy, Kriste
-tys od věků Syn Boha Otce;
-_
-Ty, abys člověka k vykoupení přijal člověka, nepohrdl jsi panenským lůnem;
-_
-zlomil jsi osten smrti a otevřel věřícím nebeské říše;
-sedíš po Otcově pravici a máš účast na jeho slávě.
-Věříme, že přijdeš soudit, a proto tě prosíme:
-_
-!Když bratři začínají <i>Te ergo quæsumus</i>, vystoupí ze Štal 
-!a uctivě se ukloní na slova <i>Quos pretioso</i> atd.
-přispěj na pomoc svým služebníkům, <b>vždyť jsi je vykoupil svou předrahou krví</b>;
-_
-dej, ať se radují s tvými Svatými ve věčné slávě.
-Zachraň, Pane, svůj lid, žehnej svému dědictví, 
-veď ho a až navěky ho pozvedej.
-Každý den tě budeme velebit 
+(sed rubrica cisterciensis)
 a chválit tvé jméno po všechny věky.
-_
-Rač nás, Pane, tento den chránit od hříchu.
+Pomáhej nám i dnes, ať se nedostaneme do područí hříchu.
 Smiluj se nad námi, Pane, smiluj se nad námi.
 Ať spočine na nás tvé milosrdenství, jak doufáme v tebe.
 V tebe, Pane, doufám, ať nejsem zahanben navěky.
@@ -238,10 +210,6 @@ r. Zdrávas Maria
 [Conclmart]
 V. A jinde mnoho svatých mučedníků, vyznavačů a svatých panen.
 $Deo gratias
-
-[Conclmart] (rubrica cisterciensis)
-V. A jinde mnoho svatých mučedníků, vyznavačů a svatých panen, jejichž přímluvu si v modlitbách vyprošujeme.
-$Deo gratias.
 
 [Pretiosa]
 V. Předrahá je v Hospodinových očích.
@@ -374,3 +342,5 @@ V. Jejichž duše - těchto zbožných, velectěných otců, a řeholních bratr
 [Lectio regulae]
 Čtení z Řehole našeho Svatého Otce Benedikta, Kapitola 
 
+[Confiteor] (rubrica cisterciensis)
+@:Confiteor_:s/Pavlovi/Pavlovi, našemu svatému Otci Bernardovi/g s/Pavla/Pavla, našeho svatého Otce Bernarda/g
