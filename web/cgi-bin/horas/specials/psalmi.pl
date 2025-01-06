@@ -133,9 +133,9 @@ sub psalmi_minor {
   if ($winner =~ /tempora/i || $testmode =~ /seasonal/i || $dayname[0] =~ /pasc/i) {
 
     my $ind =
-        $hora eq 'Prima' ? 0
-      : $hora eq 'Tertia' ? 1
-      : $hora eq 'Sexta' ? 2
+        $hora eq 'Prima' ? ($version =~ /cist/i ? 1 : 0)
+      : $hora eq 'Tertia' ? ($version =~ /cist/i ? 2 : 1)
+      : $hora eq 'Sexta' ? ($version =~ /cist/i ? 3: 2)
       : $hora eq 'Nona' ? 4
       : -1;
     my $name = gettempora('Psalmi minor');
