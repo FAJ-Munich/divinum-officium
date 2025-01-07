@@ -120,10 +120,6 @@ R. Bohu díky.
 V. Duše věrných zemřelých pro milosrdenství Boží ať odpočívají v pokoji.
 R. Amen.
 
-[Conclmart] (rubrica cisterciensis)
-V. A jinde mnoho svatých mučedníků, vyznavačů a svatých panen, jejichž přímluvu si v modlitbách vyprošujeme.
-$Deo gratias.
-
 [Per Dominum]
 r. Skrze našeho Pána Ježíše Krista, tvého Syna, jenž s tebou žije a kraluje v jednotě Ducha Svatého Bůh, po všecky věky věkův.
 R. Amen.
@@ -211,6 +207,10 @@ r. Zdrávas Maria
 V. A jinde mnoho svatých mučedníků, vyznavačů a svatých panen.
 $Deo gratias
 
+[Conclmart] (rubrica cisterciensis)
+V. A jinde mnoho svatých mučedníků, vyznavačů a svatých panen, jejichž přímluvu si v modlitbách vyprošujeme.
+$Deo gratias.
+
 [Pretiosa]
 V. Předrahá je v Hospodinových očích.
 R. Smrt jeho Svatých.
@@ -297,9 +297,10 @@ Benedictio. Hospodin nám požehnej, + a ode všeho zlého ochraňuj, a do věč
 V. Požehnejte <i>mi</i>.
 R. Bůh <i>ti požehnej</i>.
 
-[commemoratio omnium]
+[commemoratio omnium_]
 R.br. Vzpomínka na všechny zemřelé bratry, familiáře našeho Řádu i dobrodince.
-(sed rubrica cisterciensis)
+
+[commemoratio omnium_C]
 /:Poté řekne Lektor::/ Vzpomínka na všechny zemřelé bratry, familiáře a dobrodince našeho Řádu.
 
 [Requiescant]
@@ -341,6 +342,3 @@ V. Jejichž duše - těchto zbožných, velectěných otců, a řeholních bratr
 
 [Lectio regulae]
 Čtení z Řehole našeho Svatého Otce Benedikta, Kapitola 
-
-[Confiteor] (rubrica cisterciensis)
-@:Confiteor_:s/Pavlovi/Pavlovi, našemu svatému Otci Bernardovi/g s/Pavla/Pavla, našeho svatého Otce Bernarda/g

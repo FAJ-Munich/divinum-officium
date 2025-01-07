@@ -244,7 +244,7 @@ Benedictio. Que le Seigneur tout-puissant nous bénisse, + nous protège de tout
 [Benedicite]
 V. Seigneur, veuillez me bénir.
 
-[commemoratio omnium]
+[commemoratio omnium_]
 R.br. Souvenons-nous de tous nos frères, amis de notre Ordre et de nos bienfaiteurs.
 
 [Requiescant]

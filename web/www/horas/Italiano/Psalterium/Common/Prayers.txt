@@ -234,7 +234,7 @@ Benedictio. Signore ci benedica, + e ci difenda da ogni male, e ci conduca alla 
 V. Benedite.
 R. O Dio.
 
-[commemoratio omnium]
+[commemoratio omnium_]
 R.br. Commemorazione di tutti i fratelli, famigliari del nostro Ordine, e dei nostri benefattori.
 
 [Requiescant]

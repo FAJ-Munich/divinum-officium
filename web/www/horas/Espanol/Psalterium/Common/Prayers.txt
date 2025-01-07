@@ -242,7 +242,7 @@ Bendición. El Señor nos bendiga, + nos defienda de todo mal y nos lleve a la v
 V. Bendecid.
 R. Oh Dios.
 
-[commemoratio omnium]
+[commemoratio omnium_]
 R.br. Conmemoración de todos nuestros hermanos, de parientes de nuestra Orden, y de nuestros benefactores.
 
 [Requiescant]

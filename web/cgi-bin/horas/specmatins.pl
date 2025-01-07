@@ -470,8 +470,8 @@ sub get_absolutio_et_benedictiones {
     unshift @ben, $abs[$num - 1];
 
     ## BMV special cases
-  } elsif ($winner =~ /C1[02]/) {
-    my %mariae = %{setupstring($lang, subdirname('Commune', $version) . "C10.txt")};
+  } elsif ($winner =~ /(C1[02])/) {
+    my %mariae = %{setupstring($lang, subdirname('Commune', $version) . "$1.txt")};
     @ben = split("\n", $mariae{Benedictio});
     setbuild2('Special benedictio');
 
@@ -521,19 +521,20 @@ sub lectiones {
   my @a = get_absolutio_et_benedictiones($num, $lang);
 
   if ($rule !~ /Limit.*?Benedictio/i) {
-    push(@s, "\$rubrica Pater secreto");
-    push(@s, "\$Pater noster Et");
-    push(@s, "Absolutio. $a[0]", '$Amen') unless $version =~ /^Ordo Praedicatorum/;
+    push(@s, "\$rubrica Pater secreto") unless $rule =~ /sine absolutio/i;
+    push(@s, "\$Pater noster Et") unless $rule =~ /sine absolutio/i;
+    push(@s, "Absolutio. $a[0]", '$Amen') unless $version =~ /^Ordo Praedicatorum/ || $rule =~ /sine absolutio/i;
   } else {
     push(@s, "\$Pater totum secreto");
   }
   push(@s, "\n");
 
-  my $rpn = ($rule =~ /12 lectio/) ? 4 : 3;    # readings per nocturn
+  my $rpn = ($rule =~ /12 lectio/) ? 4 : ($rule !~ /Lectio brevis/) ? 3 : 1;    # readings per nocturn
   $num ||= 1;
 
-  for my $i (1 .. $rpn) {                      # push all the lectios
+  for my $i (1 .. $rpn) {                                                       # push all the lectios
     my $l = ($num - 1) * $rpn + $i;
+    $i = 0 if $rule =~ /Lectio brevis sine absolutio/;
 
     if ($rule !~ /Limit.*?Benedictio/i) {
       push(@s, prayer('Jube domne', $lang));
@@ -1132,7 +1133,8 @@ sub lectio : ScriptFunc {
   #handle verse numbers for passages
   my $item = translate('Lectio', $lang);
   $item .= " %s" unless ($item =~ /%s/);
-  $w = ($rule !~ /Limit.*?Benedictio/i ? "_\n" : '') . setfont($largefont, sprintf($item, $num)) . "\n$w";
+  $w = ($rule !~ /Limit.*?Benedictio/i ? "_\n" : '') . setfont($largefont, sprintf($item, $num)) . "\n$w"
+    unless $rule =~ /Lectio brevis sine absolutio/;
   my @w = split("\n+", $w);
   $w = "";
 
