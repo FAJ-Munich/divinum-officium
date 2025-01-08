@@ -120,6 +120,18 @@ R. Bohu díky.
 V. Duše věrných zemřelých pro milosrdenství Boží ať odpočívají v pokoji.
 R. Amen.
 
+[Amen]
+R. Amen.
+
+[Per Christum]
+Skrze Krista, našeho Pána.
+
+[Per eumdem Christum]
+Skrze téhož Krista, našeho Pána.
+
+[Qui tecum in]
+Který s tebou žije a kraluje po všechny věky věkův.
+
 [Per Dominum]
 r. Skrze našeho Pána Ježíše Krista, tvého Syna, jenž s tebou žije a kraluje v jednotě Ducha Svatého Bůh, po všecky věky věkův.
 R. Amen.
@@ -266,12 +278,6 @@ Alleluja, alleluja.
 [Aportainferi]
 V. Od brány pekelné.
 R. Vysvoboď Pane jejich duše.
-
-[Amen]
-R. Amen.
-
-[Per Christum]
-Skrze Krista, našeho Pána.
 
 [Oratio Visita_]
 v. Navštiv, Pane, prosíme tě, tento příbytek, a veškeré úklady nepřítele od něj daleko odežeň; Tvoji svatí Andělé nechť se v něm zabydlí, aby nás v míru zachovali; a tvé požehnání ať s nám zůstává navždy.

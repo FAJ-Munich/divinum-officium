@@ -8,7 +8,7 @@ Officium Parvum Beatæ Maríæ Virginis;;Simplex;;1;;ex C11
 ex C11;
 Ave only
 Doxology=Nat
-no Suffragium
+Omit Suffragium mute
 Special Benedictio
 Votive nocturn
 Psalmi Dominica
@@ -30,11 +30,13 @@ Feria Te Deum
 
 [Oratio 1]
 @Commune/C11:Oratio:s/^/v. /
+(sed rubrica cisterciensis)
+@Commune/C11:Oratio:s/^/v. / s/$/~/m s/Per Dominum/Per Christum\n\$Amen/
 
 [Commemoratio]
 !Commemoratio de Sanctis
 Ant. Sancti Dei omnes, intercédere dignémini pro nostra omniúmque salúte.
-V. Lætamini in Dómino et exsultáte, justi.
+V. Lætámini in Dómino et exsultáte, justi.
 R. Et gloriámini, omnes recti corde.
 $Oremus
 v. Prótege, Dómine, pópulum tuum, et, Apostolórum tuórum Petri et Pauli et aliórum Apostolórum patrocínio confidéntem, perpétua defensióne consérva.
@@ -69,7 +71,7 @@ _
 [HymnusM minor]
 
 #Hymnus
-v. Meménto salútis auctor,
+v. Meménto salútis Auctor,
 Quod nostri quondam córporis,
 Ex illibáta Vírgine
 Nascéndo, formam súmpseris.
@@ -81,7 +83,7 @@ Et hora mortis súscipe.
 _
 @Psalterium/Doxologies:NatT: s/^/r. /
 
-[Hymnus minor] (rubrica 1570 aut rubrica monastica)
+[Hymnus minor]
 @:Hymnus minor_
 (sed rubrica 1570 aut rubrica monastica)
 @:HymnusM minor
@@ -183,6 +185,8 @@ $Deo gratias
 
 [Ant 2]
 @Commune/C10
+(sed rubrica cisterciensis)
+@Commune/C10:Ant 2_
 
 [Oratio 2]
 v. Deus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscípere voluísti: præsta supplícibus tuis; ut, qui vere eam Genetrícem Dei crédimus, ejus apud te intercessiónibus adjuvémur.
@@ -229,7 +233,8 @@ _
 @:Pre oratio
 @:Oratio Prima
 (sed rubrica cisterciensis)
-@:Oratio 2
+@:Oratio 2: s/$/~/m s/Per eumdem/Per eumdem Christum\n\$Amen/
+
 @:Minor final
 
 [Capitulum Prima]
@@ -252,19 +257,19 @@ $Qui vivis
 &psalm(119)
 (sed rubrica cisterciensis et feria 2 aut rubrica cisterciensis et feria 4 aut rubrica cisterciensis et feria 6)
 &psalm(118,33,40)
-(sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 7)
+(sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 5 aut rubrica cisterciensis et feria 7)
 &psalm(118,105,112)
 
 &psalm(120)
 (sed rubrica cisterciensis et feria 2 aut rubrica cisterciensis et feria 4 aut rubrica cisterciensis et feria 6)
 &psalm(118,41,48)
-(sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 7)
+(sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 5 aut rubrica cisterciensis et feria 7)
 &psalm(118,113,120)
 
 &psalm(121)
 (sed rubrica cisterciensis et feria 2 aut rubrica cisterciensis et feria 4 aut rubrica cisterciensis et feria 6)
 &psalm(118,49,56)
-(sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 7)
+(sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 5 aut rubrica cisterciensis et feria 7)
 &psalm(118,121,128)
 _
 @:Ant Laudes:2 s/^/Ant. /
@@ -307,19 +312,19 @@ $Qui tecum
 &psalm(122)
 (sed rubrica cisterciensis et feria 2 aut rubrica cisterciensis et feria 4 aut rubrica cisterciensis et feria 6)
 &psalm(118,57,64)
-(sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 7)
+(sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 5 aut rubrica cisterciensis et feria 7)
 &psalm(118,129,136)
 
 &psalm(123)
 (sed rubrica cisterciensis et feria 2 aut rubrica cisterciensis et feria 4 aut rubrica cisterciensis et feria 6)
 &psalm(118,65,72)
-(sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 7)
+(sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 5 aut rubrica cisterciensis et feria 7)
 &psalm(118,137,144)
 
 &psalm(124)
 (sed rubrica cisterciensis et feria 2 aut rubrica cisterciensis et feria 4 aut rubrica cisterciensis et feria 6)
 &psalm(118,73,80)
-(sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 7)
+(sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 5 aut rubrica cisterciensis et feria 7)
 &psalm(118,145,152)
 _
 @:Ant Laudes:3 s/^/Ant. /
@@ -337,7 +342,7 @@ _
 @:Pre oratio
 @:Oratio Sexta
 (sed rubrica cisterciensis)
-@Sancti/01-01:Oratio: s/^/v. /
+@Sancti/01-01:Oratio: s/^/v. / s/Qui tecum/Amen/
 @:Minor final
 
 [Capitulum Sexta]
@@ -360,19 +365,19 @@ $Per eumdem
 &psalm(125)
 (sed rubrica cisterciensis et feria 2 aut rubrica cisterciensis et feria 4 aut rubrica cisterciensis et feria 6)
 &psalm(118,81,88)
-(sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 7)
+(sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 5 aut rubrica cisterciensis et feria 7)
 &psalm(118,153,160)
 
 &psalm(126)
 (sed rubrica cisterciensis et feria 2 aut rubrica cisterciensis et feria 4 aut rubrica cisterciensis et feria 6)
 &psalm(118,89,96)
-(sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 7)
+(sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 5 aut rubrica cisterciensis et feria 7)
 &psalm(118,161,168)
 
 &psalm(127)
 (sed rubrica cisterciensis et feria 2 aut rubrica cisterciensis et feria 4 aut rubrica cisterciensis et feria 6)
 &psalm(118,97,104)
-(sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 7)
+(sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 5 aut rubrica cisterciensis et feria 7)
 &psalm(118,169,176)
 _
 @:Ant Laudes:5 s/^/Ant. /
@@ -389,6 +394,8 @@ _
 #Oratio
 @:Pre oratio
 @:Oratio Nona
+(sed rubrica cisterciensis)
+@:Oratio Nona:s/$/~/m s/Qui tecum/Qui tecum in\n\$Amen/
 @:Minor final
 
 [Capitulum Nona]
@@ -457,7 +464,7 @@ _
 @:Pre oratio
 @:Oratio Completorium
 (sed rubrica cisterciensis)
-@:Oratio Sexta
+@:Oratio Sexta: s/$/~/m s/Per eumdem/Per eumdem Christum\n\$Amen/
 
 #Conclusio
 (deinde dicitur)
@@ -490,6 +497,8 @@ $Credo
 
 [Ant Completorium]
 Ant. Sub tuum præsídium * confúgimus, sancta Dei Génetrix: nostras deprecatiónes ne despícias in necessitátibus, sed a perículis cunctis libera nos semper, Virgo gloriósa et benedícta.
+(sed tempore paschali)
+@Commune/C10:Ant 1_Pasch:s/^/Ant. /
 
 [Capitulum Completorium_]
 !Sir 24:24

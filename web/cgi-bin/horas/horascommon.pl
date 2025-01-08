@@ -924,17 +924,20 @@ sub concurrence {
 
     #  before DA, more Semiduplex and Duplex where treated as "A capitulo"
     # In Cisterciense, even MM. maj is A capitulo in concurrence with Dom. I. classis
+    # In Altovadensis, even MM. min is A capitulo in concurrence with any Sunday
     my $flrank =
-        ($version =~ /cist/i && $cwinner{Rank} =~ /Dominica/i && $tomorrowname[0] =~ /Adv1|Quad[156]/)
-      ? ($rank < 4.9 ? 2 : $rank)
+        ($version =~ /cist/i && $cwinner{Rank} =~ /Dominica/i)
+      ? ($rank < ($tomorrowname[0] =~ /Adv1|Quad[156]/ ? 4.9 : $version =~ /altovadensis/i ? 3.9 : 2.9) ? 2 : $rank)
       : $version =~ /trident/i ? (
           ($rank < 2.9 && !($rank == 2.1 && $winner{Rank} !~ /infra Octavam/i)) ? 2
-        : ($rank >= 3 && $rank < 4.9 && $rank != 4 && $rank != 3.2) ? 3
+        : ($rank >= 3 && $rank < 4.9 && $rank != 4 && $rank != 3.9 && $rank != 3.2) ? 3
         : $rank
       )
       : $rank;
     my $flcrank =
-      $version =~ /trident/i
+      $version =~ /cist/i && $cwinner{Rank} =~ /Dominica/i
+      ? 2
+      : $version =~ /trident/i
       ? ($crank < 2.91 ? 2 : ($cwinner{Rank} =~ /Dominica/i ? 2.99 : ($crank < 4.9 && $crank != 4) ? 3 : $crank))
       : ($version =~ /divino/i && $cwinner{Rank} =~ /Dominica/i) ? 4.9
       : $crank;
@@ -1597,16 +1600,8 @@ sub precedence {
         || ($month == 2 && $day < 3))
       {
         $vtv = 'C12N';
-      } elsif ($dayname[0] =~ /adv/i) {
+      } elsif ($dayname[0] =~ /adv/i || $winner =~ /03-25/) {
         $vtv = 'C12A';
-      } elsif ($dayname[0] =~ /Pasc/i) {
-        $vtv = 'C12P';
-      } elsif (
-        $month == 3
-        && (($day == 24 && $hora =~ /(Vespera|Completorium)/i)
-          || $day == 25)
-      ) {
-        $vtv = 'C12';
       } elsif ($dayname[0] =~ /(Quadp|Quad)/i) {
         $vtv = 'C12Q';
       }
@@ -1836,8 +1831,9 @@ sub nooctnat {
 # Latin spelling variety in versions
 sub spell_var {
   my $t = shift;
+  our $version;
 
-  if (our $version =~ /196/) {
+  if ($version =~ /196/) {
 
     # substitute i for j
     # but not in html tags!
@@ -1853,6 +1849,7 @@ sub spell_var {
   } else {
     $t =~ s/Génetrix/Génitrix/g;
     $t =~ s/\bco(t[ií]d[ií])/quo$1/g;
+    $t =~ s/(allelú)ja/$1ia/gi if $version =~ /cist/i;
   }
   return $t;
 }
