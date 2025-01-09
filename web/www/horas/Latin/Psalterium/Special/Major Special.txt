@@ -1716,17 +1716,18 @@ _
 @:Suffragium BMV:1
 @:Suffragium BMV AntL
 _
-@Psalterium/Mariaant:Postpentecost: s/.*V\./V./s s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$//
+@Psalterium/Mariaant:Postpentecost: s/.*V\./V./s s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$/\n/
 (sed tempore post Epiphaniam aut Septuagesimæ aut Quadragesimæ aut Passionis dicitur)
-@Psalterium/Mariaant:Quadragesimae: s/.*V\./V./s  s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$//
+@Psalterium/Mariaant:Quadragesimae: s/.*V\./V./s  s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$/\n/
 (sed Adventus dicitur) 
-@Psalterium/Mariaant:Advent: s/.*V\./V./s s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$//
+@Psalterium/Mariaant:Advent: s/.*V\./V./s s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$/\n/
 (sed Nativitatis aut Epiphaniæ aut post partum dicitur)
-@Psalterium/Mariaant:Nativiti: s/.*V\./V./s s/[ÁA]m[ée]n.*$//si
+@Psalterium/Mariaant:Nativiti: s/.*V\./V./s s/[ÁA]m[ée]n.*$/\n/si
 (sed Paschali dicitur)
-@Psalterium/Mariaant:Paschalis: s/.*V\./V./s s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$//
+@Psalterium/Mariaant:Paschalis: s/.*V\./V./s s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$/\n/
+(deinde dicitur)
 @:Suffragium ConclusioBMV
-(sed rubrica 1951 aut feria 4 aut feria 3 aut feria 7)
+(sed rubrica 1951 aut feria 4 aut feria 3 aut feria 7 dicuntur)
 _
 (atque commune C10 aut commune C11 hi versus omittuntur)
 (atque rubrica 1951 aut feria 4 dicuntur semper)
@@ -1767,13 +1768,14 @@ _
 @:Suffragium BMV:1
 @:Suffragium BMV:s/.*$//m
 (sed tempore post Epiphaniam aut Septuagesimæ aut Quadragesimæ aut Passionis dicitur)
-@Psalterium/Mariaant:Quadragesimae: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$//s
+@Psalterium/Mariaant:Quadragesimae: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$/\n/s
 (sed Adventus dicitur)
-@Psalterium/Mariaant:Advent: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$//s
+@Psalterium/Mariaant:Advent: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$/\n/s
 (sed Nativitatis aut Epiphaniæ aut post partum dicitur)
-@Psalterium/Mariaant:Nativiti: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/[ÁA]m[ée]n.*$//s
+@Psalterium/Mariaant:Nativiti: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/[ÁA]m[ée]n.*$/\n/s
 (sed Paschali dicitur)
-@Psalterium/Mariaant:Paschalis: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$//s
+@Psalterium/Mariaant:Paschalis: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$/\n/s
+(deinde dicitur)
 @:Suffragium ConclusioBMV
 (sed rubrica 1951 aut feria 3 aut feria 2 aut feria 6)
 _
@@ -1792,8 +1794,8 @@ _
 @:Suffragium DePace
 
 [Suffragium ConclusioBMV]
-$Per eundem
-(sed post partum)
+$Per eumdem Christum
+(sed post partum omittitur)
 $Amen
 
 [Preces feriales Laudes]
