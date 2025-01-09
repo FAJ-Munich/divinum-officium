@@ -44,7 +44,7 @@ Amen.
 V. Rač mi dáti, abych tě chválil, Panno přesvatá.
 R. Dej mi sílu proti svým nepřátelům.
 
-[Ant 1]
+[Ant 1_]
 Svatá Maria, * přispěj na pomoc ubohým, pomoz slaboduchým, utěš plačtivé, oroduj za lid, zasahuj na pomoc kléru, přimlouvej se za oddané ženské pokolení: aby všichni pociťovali tvou pomoc, kdykoliv slaví tvou svatou slavnost.
 
 [Oratio]
@@ -98,7 +98,6 @@ R. Abychom hodni byli učinění zaslíbení Kristových.
 !Sir 24:14
 v. Před věky na počátku mě Bůh stvořil, až navěky být nepřestanu. Před ním ve svatostánku jsem konala svou službu.
 $Deo gratias.
-
 
 [Hymnus Laudes]
 v. Ó přeslavná Paní světa, 
