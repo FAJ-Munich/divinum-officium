@@ -39,6 +39,9 @@ $Deus in adjutorium
 [Conclusio] (rubrica cisterciensis)
 $Dulce nomen
 
+[Ant Matutinum]
+@Commune/C11
+
 [Ant Matutinum] (rubrica cisterciensis)
 @Commune/C11:Ant MatutinumBMV:1
 @Commune/C11:Ant MatutinumBMV:2-3 s/.*;;/;;/gm
@@ -73,6 +76,9 @@ $rubrica Matutinum parvum
 [Oratio 2] (rubrica cisterciensis)
 @:Oratio 1
 
+[Oratio 3] (rubrica cisterciensis)
+@:Oratio 1
+
 [Prelude Laudes]
 @:Prelude Vespera
 
@@ -84,7 +90,7 @@ $Deus in adjutorium
 [Commemoratio] (rubrica cisterciensis)
 !Immediate fit Comm. sequens, quæ omittitur tantum in die et per Oct. omnium Sanctorum.
 Ant. Sancti Dei omnes, intercédere dignémini pro nostra omniúmque salúte.
-V. Lætamini in Dómino et exsultáte, justi.
+V. Lætámini in Dómino et exsultáte justi.
 R. Et gloriámini, omnes recti corde.
 $Oremus
 v. Infirmitátem nostram, quæsumus, Dómine, propítius réspice: et mala ómnia quæ juste merémur, ómnium Sanctórum tuórum intercessióne avérte. Per Christum Dóminum nostrum.
@@ -99,7 +105,7 @@ R. Amen
 [Responsory Vespera] (rubrica cisterciensis)
 @Sancti/10-07:Responsory Sexta
 
-[COP Matutinum] (rubrica altovadensis)
+[COP Matutinum] (rubrica numquam)
 $Ave Maria Parvum
 _
 @Commune/C11:Ant MatutinumBMV:1 s/^/Ant. / s/;;.*// 
@@ -109,10 +115,30 @@ $Oremus
 _
 $Dulce nomen
 
-[COP Laudes] (rubrica altovadensis)
+[COP Matutinum] (rubrica altovadensis)
 $Ave Maria Parvum
 _
 @Sancti/01-01:Ant Vespera:1 s/^/Ant. / s/;;.*// 
+@:Versum 2
+$Oremus
+@:Oratio 1
+_
+$Dulce nomen
+
+[COP Laudes] (rubrica numquam)
+$Ave Maria Parvum
+_
+@Sancti/01-01:Ant Vespera:1 s/^/Ant. / s/;;.*// 
+@:Versum 2
+$Oremus
+@:Oratio 1
+_
+$Dulce nomen
+
+[COP Laudes] (rubrica altovadensis)
+$Ave Maria Parvum
+_
+@Commune/C10:Ant 2_: s/^/Ant. /
 @:Versum 2
 $Oremus
 @:Oratio 1
@@ -125,7 +151,7 @@ _
 @Sancti/01-01:Ant Vespera:2 s/^/Ant. / s/;;.*// 
 @Commune/C11:Versum 0
 $Oremus
-@Commune/C12:Oratio 2
+@Commune/C12:Oratio 2: s/$/~/m s/Per eumdem/Per eumdem Christum\n\$Amen/
 _
 $Dulce nomen
 
@@ -145,7 +171,7 @@ _
 @Sancti/01-01:Ant Vespera:4 s/^/Ant. / s/;;.*//
 @Commune/C10:Versum 2
 $Oremus
-@Sancti/01-01:Oratio: s/^/v. /
+@Sancti/01-01:Oratio: s/^/v. / s/Qui tecum/Amen/
 _
 $Dulce nomen
 
@@ -155,7 +181,7 @@ _
 @Sancti/01-01:Ant Vespera:5 s/^/Ant. / s/;;.*//
 @:Verse Nona
 $Oremus
-@:Oratio Nona
+@:Oratio Nona: s/$/~/m s/Qui tecum/Qui tecum in\n\$Amen/
 _
 $Dulce nomen
 
@@ -175,6 +201,6 @@ _
 @Sancti/12-25:Ant Vespera:3 s/^/Ant. / s/;;.*//
 @Psalterium/Common/Prayers:Conclusio cisterciensis:3-4
 $Oremus
-@:Oratio Sexta
+@:Oratio Sexta: s/$/~/m s/Per eumdem/Per eumdem Christum\n\$Amen/
 _
 $Dulce nomen

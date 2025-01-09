@@ -16,7 +16,7 @@ sub psalmi {
 
     if ($hora =~ /^(?:Laudes|Vespera)$/i) {
       $psalmi = psalmi_major($lang);
-      $duplexf ||= $duplex > 2;
+      $duplexf ||= $duplex > 2 && $winner !~ /C12/;
     } else {
       $psalmi = psalmi_minor($lang);
     }
@@ -143,7 +143,7 @@ sub psalmi_minor {
     if ($name eq 'Adv') {
       $name = $dayname[0];
 
-      if ($day > 16 && $day < 24 && $dayofweek) {
+      if ($day > 16 && $day < 24 && $dayofweek && $version !~ /cist/i) {
         my $i = $dayofweek + 1;
 
         if ($dayofweek == 6 && $version =~ /trident|monastic.*divino/i) {    # take ants from feria occuring Dec 21st
