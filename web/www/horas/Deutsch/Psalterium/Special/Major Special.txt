@@ -590,5 +590,10 @@ $Oremus
 v. O Gott, der du gewollt hast, dass für uns dein Sohn den Tod am Kreuzpfahl erleide, um die Gewalt des bösen Feindes von uns zu entfernen, verleihe uns, deinen Dienern, die Gnade, dass wir die huldvolle Wirkung seiner Auferstehung erfahren.
 $Per eumdem
 
+[Suffragium BMV Ant]
+!Gedächtnis Unserer Lieben Frau
+@Commune/C11:Ant 1_:s/^/Ant. / s/\* // s/deine heilige Festlichkeit/dein heiliges Gedächtnis/
+
 [Suffragium BMV AntL]
+@:Suffragium BMV Ant:1
 Ant. Heilige, allzeit jüngfräuliche Gottesgebärerin Maria, tritt ein für uns bei Gott unserem Herrn. (Alleluja, alleluja.)

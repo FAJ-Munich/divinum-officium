@@ -971,19 +971,9 @@ $Oremus
 !Oh Dios, que enviaste a tu Hijo para sufrir por nosotros la muerte en la Cruz, líbranos del poder del enemigo, y concédenos el ser partícipes de su Resurrección.
 $Per eumdem
 
-[Suffragium BMV]
+[Suffragium BMV Ant]
 !Conmemoración de la Bienaventurada Virgen María.
 Ant. Santa María, fortalece a los débiles, consuela a los afligidos; ruega por el pueblo, interésate por el clero, intercede por el devoto sexo femenino; experimenten tu auxilio todos cuantos celebran tu santa festividad. 
-_
-(deinde dicuntur semper)
-V. Ruega por nosotros, Santa Madre de Dios.
-R. Para que seamos dignos de las promesas de Cristo.
-_
-$Oremus
-Te pedimos, Señor, que nosotros, tus siervos, gocemos siempre de salud de alma y cuerpo; y, por la intercesión gloriosa de Santa María, la Virgen, líbranos de las tristezas de este mundo, y concédenos las alegrías del cielo.
-(sed tempore post partum loco horum versuum dicuntur)
-@Psalterium/Mariaant:Nativiti:s/.*V\./V\./s
-
 
 [Suffragium DeJosephV]
 !Conmemoración de S. José
