@@ -932,7 +932,7 @@ V. El Señor ha hecho admirable a su santo.
 R. El Señor me oirá siempre que a El clame.
 _
 !Oración
-/:En la letra N. se dice el nombre del Titular de la iglesia, salvo si éste es una persona divina, un misterio del Señor, o si se ha dicho ya el Oficio o Conmemoración a nombre del Santo, o si el nombre estuviera ya en la oración. Si el titular fuera uno de los Santos Ángeles o S. Juan Bautista, su nombre se dice tras el de S. José. En cualquiera de estos casos, se omiten las palabras “San N.”:/
+/:En la letra N. se dice el nombre del Titular de la iglesia, salvo si éste es una persona divina, un misterio del Señor, o si se ha dicho ya el Oficio o Conmemoración a nombre del Santo, o si el nombre estuviera ya en la oración. Si el titular fuera uno de los Santos Ángeles o S. Juan Bautista, su nombre se dice tras el de S. José. En cualquiera de estos casos, se omiten las palabras «San N.»:/
 $Oremus
 v. Oh Señor, te rogamos que guardes de peligro nuestros cuerpos y nuestras almas, y que por la intercesión de la bienaventurada y gloriosa Virgen Madre de Dios, San José, los Apóstoles San Pedro y San Pablo, San~
 r. N. y todos los Santos, destruido todo error y enemigo, te sirva tu Iglesia en seguridad y libertad.
