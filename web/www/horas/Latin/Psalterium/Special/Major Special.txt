@@ -1606,7 +1606,7 @@ Ant. Crucem sanctam súbiit, qui inférnum confrégit; accínctus est poténtia,
 !De Beata Maria
 @Commune/C11:Ant 1_:s/^/Ant. / s/\* // s/festivitátem/commemoratiónem/
 (sed rubrica cisterciensis)
-@Commune/C11:Ant 1_:s/^/Ant. / s/\* // s/festivitátem/commemoratiónem/ s/femíneo/fœmíneo/
+@Commune/C11:Ant 1_:s/^/Ant. / s/\* // s/festivitátem/commemoratiónem/ s/femíneo/fœmíneo/ s/:.*//
 
 [Suffragium BMV]
 @:Suffragium BMV Ant
@@ -1770,8 +1770,8 @@ _
 @:Suffragium PaschaleV
 
 [Suffragium Vespera] (rubrica cisterciensis)
-@:Suffragium BMV:1
-@:Suffragium BMV:s/.*$//m
+@:Suffragium BMV:1 
+@:Suffragium BMV:s/.*$//m 
 (sed tempore post Epiphaniam aut Septuagesimæ aut Quadragesimæ aut Passionis dicitur)
 @Psalterium/Mariaant:Quadragesimae: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$/\n/s
 (sed Adventus dicitur)
