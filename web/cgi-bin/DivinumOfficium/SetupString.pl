@@ -473,17 +473,7 @@ sub get_loadtime_inclusion($$$$$$$) {
   # self-reference.
   my $inclfile = $ftitle ? setupstring($lang, "$ftitle.txt", 'resolve@' => RESOLVE_WHOLEFILE) : $sections;
 
-  if ( $version !~ /Trident/i
-    && $section =~ /Gregem/i
-    && (my ($plural, $class, $name) = papal_commem_rule(${$sections}{'Rule'})))
-  {
-    my ($itemkey) = ($section =~ /(.*?)\s*Gregem/);
-    $text = papal_prayer($lang, $plural, $class, $name, $itemkey);
-  } else {
-
-    # Get text from reference, less any trailing blank lines.
-    ($text = ${$inclfile}{$section}) =~ s/\n+$/\n/s if (exists ${$inclfile}{$section});
-  }
+  ($text = ${$inclfile}{$section}) =~ s/\n+$/\n/s if (exists ${$inclfile}{$section});
 
   if ($text) {
     do_inclusion_substitutions($text, $substitutions);
@@ -535,9 +525,9 @@ sub setupstring($$%) {
     # Not yet in cache, so open it and add it.
     my ($base_sections, $new_sections) = ({}, {});
 
-    if ($lang eq 'English') {
+    if ($lang eq $main::langfb) {
 
-      # English layers on top of Latin.
+      # fallback langauage layers on top of Latin.
       my $baselang = $calledlang =~ /\.\.\/missa/ ? '../missa/Latin' : 'Latin';
       $base_sections = setupstring($baselang, $fname, 'resolve@' => RESOLVE_NONE);
     } elsif ($lang =~ /-/) {
@@ -548,8 +538,8 @@ sub setupstring($$%) {
       $base_sections = setupstring($temp, $fname, 'resolve@' => RESOLVE_NONE);
     } elsif ($lang && $lang ne 'Latin') {
 
-      # Other non-Latin languages layer on top of English.
-      my $baselang = $calledlang =~ /\.\.\/missa/ ? '../missa/English' : 'English';
+      # Other non-Latin languages layer on top of fallback language.
+      my $baselang = $calledlang =~ /\.\.\/missa/ ? "../missa/$main::langfb" : $main::langfb;
       $base_sections = setupstring($baselang, $fname, 'resolve@' => RESOLVE_NONE);
     }
 
@@ -727,7 +717,7 @@ sub officestring($$;$) {
 }
 
 #*** checkfile($lang, $filename)
-# substitutes English if no $lang item, Latin if no English
+# substitutes $main::langfb if no $lang item, Latin if no $main::langfb
 # if $lang contains dash, the part before the last dash is taken as a fallback recursively (till something exists)
 sub checkfile {
   my $lang = shift;
@@ -742,10 +732,8 @@ sub checkfile {
     my $temp = $lang;
     $temp =~ s/-[^-]+$//;
     return checkfile($temp, $file);
-  } elsif ($lang =~ /english/i) {
-    return "$datafolder$redirect/Latin/$file";
-  } elsif (-e "$datafolder$redirect/English/$file") {
-    return "$datafolder$redirect/English/$file";
+  } elsif (-e "$datafolder$redirect/$main::langfb/$file") {
+    return "$datafolder$redirect/$main::langfb/$file";
   } else {
     return "$datafolder$redirect/Latin/$file";
   }
