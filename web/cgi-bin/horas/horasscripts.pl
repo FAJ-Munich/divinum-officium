@@ -165,10 +165,16 @@ sub Benedicamus_Domino : ScriptFunc {
     || ($dayname[0] =~ /Pasc0/i && $hora =~ /(Laudes|Vespera)/i)
     && ($lang !~ /gabc/i || $chantTone !~ /resurrectionis/i))
   {
-    $text =~ ($lang !~ /gabc/i)
-      ? s/\.\s*\n/". " . prayer('Alleluia Duplex', $lang) . "\n"/egr
-      : prayer('Benedicamus Domino1', $lang);
-    return $text;    # Paschal octave (Feria IV - Sabbato)
+
+    if ($lang !~ /gabc/i) {
+
+      # Paschal octave (Feria IV - Sabbato)
+      return $text =~ s/\.\s*\n/", " . lc(prayer('Alleluia Duplex', $lang)) . "\n"/egr;
+    } else {
+      return prayer('Benedicamus Domino1', $lang);
+    }
+
+    return $text;
   } elsif ($lang !~ /gabc/i || $hora !~ /(Matutinum|Laudes|Vespera)/i) {
     return $text;    # Little hours
   }
