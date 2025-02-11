@@ -129,6 +129,7 @@ use constant MONTHLENGTH => ('', 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31,
 use constant DAYNAMES => qw/Dom. F.II F.III F.IV F.V F.VI Sabb./;
 
 # output html table with entries
+
 sub kalendar_table {
   my ($kyear, $kmonth, $mode) = @_;
   my $background = (our $whitebground) ? ' class="contrastbg"' : '';
@@ -175,10 +176,10 @@ sub kalendar_table {
       }
     }
 
-    $output .=
-        '<TR>'
-      . join('', map { '<TD' . (length($_) < 52 ? ' ALIGN="CENTER"' : '') . ">$_</TD>" } table_row($date1, $cday))
-      . "</TR>\n";
+    $output .= '<TR>'
+      . join('',
+      map { '<TD' . (length($_) < 20 || $_ =~ /\<A/ ? ' ALIGN="CENTER"' : '') . ">$_</TD>" } table_row($date1, $cday),
+      ) . "</TR>\n";
   }
   $output .= note('nigra19') if $mode eq 'kal';
   $output =~ s/{(.+?)}/ setfont('maroon', $1) /ge;
@@ -222,7 +223,7 @@ sub html_output {
     $command = "pray" . ($compare ? $1 : $command);    # Cofficium can't use Plures
   }
 
-  print << "PrintTag";
+  print <<"PrintTag";
 </P>
 <INPUT TYPE="HIDDEN" NAME="setup" VALUE="$setupsave">
 <INPUT TYPE="HIDDEN" NAME="date1" VALUE="$date1">

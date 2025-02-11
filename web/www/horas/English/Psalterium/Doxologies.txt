@@ -6,11 +6,11 @@ And Holy Ghost, for evermore.
 Amen.
 
 [NatT]
-All honor, praise and glory be,
+All honour, praise and glory be,
 O Jesu, Virgin-Born, to thee;
 All glory, as is ever meet,
 To Father, and to Paraclete.
-Amen
+Amen.
 
 [Epi]
 All glory, Jesu, be to thee
@@ -24,7 +24,7 @@ All glory, Lord, to Thee we pay
 For Thine Epiphany today;
 All glory, as is ever meet,
 To Father, and to Paraclete.
-Amen
+Amen.
 
 [Pasch]
 Hymns of glory, songs of praise,
@@ -68,16 +68,16 @@ Whom with the Father we adore,
 And Holy Ghost, for evermore.
 Amen.
 
-[Corp]
-All honour, laud, and glory be,
-O Jesu, Virgin-Born, to thee;
-Whom with the Father we adore,
-And Holy Ghost, for evermore.
-Amen.
-
 [Heart]
 We give thee praise, who dost impart
 Such grace, O Jesu, from thy Heart;
 Whom with the Father we adore,
 And Holy Ghost, for evermore.
+Amen.
+
+[HeartT]
+All honour, praise and glory be,
+Such grace, O Jesu, from thy Heart;
+All glory, as is ever meet,
+To Father, and to Paraclete.
 Amen.

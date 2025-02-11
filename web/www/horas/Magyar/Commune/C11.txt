@@ -1,4 +1,4 @@
-[Name]
+[Officium]
 In Festis Beatć Marić Virginis
 
 [Ant VesperaBMV]
@@ -47,8 +47,8 @@ Egy áldás adassék.
 V. Szent Szűz fogadd kegyesen dícséretünket
 R. És adj erőt ellenségeid ellen
 
-[Ant 1]
-Szent Szűz Mária * győzd le nyomorúságunkat, segíts ha félünk, vígasztalj ha gyengék vagyunk; imádkozz a népért, könyörogj a papokért, légy a jámbor asszonyok kőzbenjárója, hogy mindenki aki szent ünnepedet ünnepli érezze segítségedet.
+[Ant 1_]
+Szent Szűz Mária * győzd le nyomorúságunkat, segíts ha félünk, vígasztalj ha gyengék vagyunk; imádkozz a népért, könyörogj a papokért, légy a jámbor asszonyok kőzbenjárója: hogy mindenki aki szent ünnepedet ünnepli érezze segítségedet.
 
 [Oratio]
 Kérünk téged ÚrIsten, add meg nekünk szolgáidnak testünk és lelkünk egészségét és örömeit, hogy akik a Boldogságos mindig szűz Mária közbenjárását el'vezzük, szabaduljunk meg szomorúságainktől és lépjünk be örok örömödbe.
@@ -78,7 +78,7 @@ A Szentlélek mívelt csodát,
 Hogy akiért a nemzetek
 Sóhajtanak: szívébe szállt.
 _
-Dicsőség teneked Urunk,
+* Dicsőség teneked Urunk,
 Kinek a Szűz szülőanyád,
 Atya, s kegyes Lélek, neked,
 Most és örök időkön át.
@@ -130,6 +130,10 @@ Evangélium szent Lukács Evangélista kőnyvéből
 !Luke 11:27-28
 Azon időben egy asszony a tömegből felkiáltott: „Boldog a méh, amely kihordott, és az emlő, amelyet szoptál!”. És így tovább.
 _
+
+[Versum 0]
+V. Imádkozzál érettünk Istennek szent anyja
+R. Hogy métók lehessünk a Krisztus igéreteire
 
 [Capitulum Laudes]
 !Sir 24:14

@@ -6,7 +6,7 @@ sub ordo_entry {
   my ($date, $ver, $compare, $winneronly) = @_;
 
   our $version = $ver;
-  our ($day, $month, $year, $dayname, %scriptura, %commemoratio);
+  our ($day, $month, $year, $dayname, %scriptura, @commemoentries);
 
   precedence($date);
 
@@ -24,6 +24,15 @@ sub ordo_entry {
   ($c2, $h1, $h2) = ('', '', $h1) unless $h2;
   $c2 = setfont($smallblack, "$h1:") if $h1;
   $c2 .= "<I>" . setfont(liturgical_color($h2), " $h2") . "</I>" if $h2;
+
+  if ($c2 && @commemoentries > 1) {
+    for my $ind (1 .. @commemoentries - 1) {
+      my %com = %{setupstring('Latin', "$commemoentries[$ind].txt")};
+      my $comname = $com{Rank};
+      $comname =~ s/\;\;.*//;
+      $c2 .= " <I>&amp; " . setfont(liturgical_color($comname), " $comname") . "</I>" if $comname;
+    }
+  }
 
   $c2 =~ s/Hebdomadam/Hebd/i;
   $c2 =~ s/Quadragesima/Quadr/i;
@@ -52,15 +61,6 @@ sub ordo_entry {
 
   if ($version !~ /1955|196/ && $winner{Rule} =~ /\;mtv/i) {
     $c2 .= setfont($smallblack, ' m.t.v.');
-  }
-
-  if ( $version !~ /196/
-    && $winner =~ /Sancti/
-    && exists($winner{Lectio1})
-    && $winner{Lectio1} !~ /\@Commune/i
-    && $winner{Lectio1} !~ /\!(Matt|Marc|Luc|Joannes)\s+[0-9]+\:[0-9]+\-[0-9]+/i)
-  {
-    $c2 .= setfont($smallfont, " *L1*");
   }
 
   our $hora;
@@ -107,7 +107,7 @@ sub html_header {
   my $vers = $version1;
   $vers .= ' / ' . $version2 if $compare;
 
-  my $output = << "PrintTag";
+  my $output = <<"PrintTag";
 <H1>
 <FONT COLOR="MAROON" SIZE="+1"><B><I>Divinum Officium</I></B></FONT>&nbsp;
 <FONT COLOR="RED" SIZE="+1">$vers</FONT>

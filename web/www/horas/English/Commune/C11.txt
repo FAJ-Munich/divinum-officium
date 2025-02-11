@@ -1,4 +1,4 @@
-[Name]
+[Officium]
 In Festis Beatae Mariae Virginis
 
 [Ant VesperaBMV]
@@ -47,8 +47,8 @@ Amen.
 V. Holy Virgin, my praise by thee accepted be.
 R. Give me strength against thine enemies.
 
-[Ant 1]
-O Holy Mary, be thou an help to the helpless, a strength to the fearful, a comfort to the sorrowful; * pray for the people, plead for the clergy, make intercession for all women vowed to God; may all that are keeping this thine holy Feast-day feel the might of thine assistance.
+[Ant 1_]
+O Holy Mary, * be thou an help to the helpless, a strength to the fearful, a comfort to the sorrowful; pray for the people, plead for the clergy, make intercession for all women vowed to God: may all that are keeping this thine holy Feast-day feel the might of thine assistance.
 
 [Oratio]
 Grant, we beseech thee, O Lord God, unto all thy servants, that they may remain continually in the enjoyment of soundness both of mind and body, and by the glorious intercession of the Blessed Mary, always a Virgin, may be delivered from present sadness, and enter into the joy of thine eternal gladness.
@@ -78,7 +78,7 @@ Blest, by the work the Spirit wrought;
 From whom the great desire of earth
 Took human flesh and human birth.
 _
-All honour, laud, and glory be,
+* All honour, laud, and glory be,
 O Jesu, Virgin-born to thee;
 All glory, as is ever meet,
 To Father and to Paraclete.
@@ -205,6 +205,10 @@ R. He that is mighty, even the Lord, hath done to me great things; and Holy is H
 [Lectio9]
 Yea, rather, blessed are they that hear the Word of God and keep it. How nobly doth the Saviour say “Yea” to the woman's blessing, declaring also that not only is she blessed who was meet to give bodily birth to the Word of God, but that all they who spiritually conceive the same Word by the hearing of faith, and, by keeping it through good works, bring it forth and, as it were, carefully nurse it, in their own hearts, and in the hearts of their neighbours, are also blessed. Yea, and that the very Mother of God herself was blessed in being for a while the handmaid of the Word of God made Flesh, but that she was much more blessed in this, that through her love she keepeth Him for ever.
 &teDeum
+
+[Versum 0]
+V. Pray for us, holy Mother of God. 
+R. That we may be made worthy of the promises of Christ. 
 
 [Capitulum Laudes]
 !Sir 24:14

@@ -187,6 +187,12 @@ sub oratio {
   if (!$w && $commune) {
     my %com = (columnsel($lang)) ? %commune : %commune2;
     $w = $com{$type};
+
+    if ($w =~ /N\./ && exists($w{Name})) {
+      my @name = split("\n", $w{Name});
+      @name = grep(/$type\=/, @name) unless $w{Name} !~ /\=/;
+      $w = replaceNdot($w, $lang, $name[0]);
+    }
     setbuild2("$commune Oratio") if $w;
   }
 
@@ -338,10 +344,10 @@ sub oratio {
     foreach $sf (@sf) {
 
       # No more than 3 commemorations TODO is this for all rubrics?
-      last if $ctotalnum > 3;
+      last if $ctotalnum > 2;
       @sf1 = split(',', $sf);
       my $i = ($dayofweek % @sf1);
-      $sf1[$i] = 'Maria3' if ($sf1[$i] =~ /Maria2/i && ($month > 2 || ($month == 2 && $day > 1)));
+      $sf1[$i] = 'Sanctorum' if ($sf1[$i] =~ /Maria2/i && ($month > 2 || ($month == 2 && $day > 1)));
       $retvalue .= "_\n" . delconclusio($sf{"$type $sf1[$i]"});
     }
   }
@@ -490,10 +496,15 @@ sub getcommemoratio {
   } else {
     %$c = {};
   }
-  if (!$rank) { $rank[0] = $w{Name}; }                    #commemoratio from commune
+  if (!$rank) { $rank[0] = $w{Officium}; }                #commemoratio from commune
   my $o = $w{$type};
   if (!$o) { $o = $c{$type}; }
-  if ($o =~ /N\./) { replaceNdot($w, $lang); }
+
+  if ($o =~ /N\./ && exists($w{Name})) {
+    my @name = split("\n", $w{Name});
+    @name = grep(/$type\=/, @name) unless $w{Name} !~ /\=/;
+    $o = replaceNdot($o, $lang, $name[0]);
+  }
 
   if (!$o && $w{Rule} =~ /Oratio Dominica/i) {
     $wday =~ s/\-[0-9]/-0/;
@@ -566,7 +577,7 @@ sub getproprium {
 
     if ($w) {
       $w = replaceNdot($w, $lang);
-      my $n = $com{Name};
+      my $n = $com{Officium};
       $n =~ s/\n//g;
       if ($buildflag) { setbuild($n, $name, 'subst'); }
     }
@@ -603,7 +614,7 @@ sub getfromcommune {
   if (!$v) { $ind = 4 - $ind; $v = $w{"$name $ind"}; }
 
   if ($v && $name =~ /Ant/i) {
-    my $source = $w{Name};
+    my $source = $w{Officium};
     $source =~ s/\n//g;
     setbuild($source, "$name $ind", 'try');
   }

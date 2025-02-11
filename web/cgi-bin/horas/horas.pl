@@ -179,6 +179,7 @@ sub resolve_refs {
     }
 
     # rubrics - small red
+    $line =~ s{«\s?(.*?)\s?»}{"<span class=\'nigra\'>$1</span>"}eg if $line =~ m{/:.*«.*».*:/};
     $line =~ s{/:(.*?):/}{setfont($smallfont, $1)}eg;
 
     # italic for mute vovels in hymns
@@ -766,9 +767,10 @@ sub postprocess_short_resp(\@$) {
   my ($capit, $lang) = @_;
   return $capit if $lang =~ /gabc/i;
 
+  our (@dayname, $votive);
   s/&Gloria1?/&Gloria1/ for (@$capit);
 
-  if ($dayname[0] =~ /Pasc/i) {
+  if (alleluia_required($dayname[0], $votive)) {
     my $rlines = 0;
 
     for (@$capit) {

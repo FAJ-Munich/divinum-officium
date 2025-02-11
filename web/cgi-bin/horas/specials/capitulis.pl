@@ -10,7 +10,7 @@ sub capitulum_major {
   my $name = 'Capitulum Laudes';    # same for Vespera
                                     # special cases
   $name = 'Capitulum Vespera 1' if $winner =~ /12-25/ && $vespera == 1;
-  $name = 'Capitulum Vespera' if $winner =~ /C12/;
+  $name = 'Capitulum Vespera' if $winner =~ /C12/ && $hora eq 'Vespera';
 
   setbuild('Psalterium/Special/Major Special', $name, 'Capitulum ord');
 
@@ -19,21 +19,8 @@ sub capitulum_major {
 
   if (!$capit) {
     my %capit = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
-    $name = gettempora('Capitulum major');
-
-    if ($version =~ /Monastic/) {
-      $name .= 'M';
-      $name =~ s/Day[1-5]M/DayFM/i;
-    }
-    $name .= " $hora";
+    $name = gettempora('Capitulum major') . " $hora";
     $capit = $capit{$name};
-  }
-
-  if ($version =~ /^Monastic/) {
-    my (@capit) = split(/\n/, $capit);
-    postprocess_short_resp(@capit, $lang);
-    $capit = join("\n", @capit);
-    $capit =~ s/\&gloria.*//gsi if $version =~ /cist/i;
   }
 
   setcomment($label, 'Source', $c, $lang);
@@ -47,8 +34,8 @@ sub monastic_major_responsory {
 
   my $key = "Responsory $hora";
 
-  # special case only 4 times
-  $key .= ' 1' if ($winner =~ /(?:12-25|Quadp[123]-0)/ && $vespera == 1);
+  # special case only once
+  $key .= ' 1' if $winner =~ /12-25/ && $vespera == 1;    #($winner =~ /(?:12-25|Quadp[123]-0)/ && $vespera == 1);
 
   my ($resp, $c) = getproprium($key, $lang, $seasonalflag, 1);
 
@@ -63,6 +50,13 @@ sub monastic_major_responsory {
   if (!$resp) {
     $key =~ s/Breve //;
     ($resp, $c) = getproprium($key, $lang, $seasonalflag, 1);
+  }
+
+  # If no proper Responsory, take it from Psalterium
+  if (!$resp) {
+    my %resp = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
+    $name = 'Responsory ' . gettempora('Capitulum major') . " $hora";
+    $resp = $resp{$name};
   }
 
   # For backwards compatibility, remove any attached versicle (safeguard \n for GABC)
@@ -86,12 +80,17 @@ sub capitulum_minor {
   my %capit = %{setupstring($lang, 'Psalterium/Special/Minor Special.txt')};
   my $name = gettempora('Capitulum minor') . " $hora";
   $name = 'Completorium' if $hora eq 'Completorium';
-  $name .= 'M' if ($version =~ /Monastic/);
   my $capit = $capit{$name} =~ s/\s*$//r;
-  my ($resp, $comment);
+  my ($resp, $vers, $comment);
+
+  $name .= 'M' if ($version =~ /Monastic/);
 
   if ($resp = $capit{"Responsory $name"}) {
     $resp =~ s/\s*$//;
+    $capit =~ s/\s*$/\n_\n$resp/;
+  } elsif (($resp = $capit{"Responsory breve $name"}) && ($vers = $capit{"Versum $name"})) {
+    $vers =~ s/\s*$//;
+    $resp =~ s/\s*$/\n_\n$vers/;
     $capit =~ s/\s*$/\n_\n$resp/;
   }
 

@@ -11,7 +11,7 @@ v. Em nome do Pai, ++ e do Filho, e do Espírito Santo. Amen.
 P. Eu irei até ao altar de Deus.
 S. Até Deus, que é a alegria da minha juventude.
 !*&Introibo
-!O Sacerdote e os Acólitos recitam o salmo alternadamente.
+!O Sacerdote e os Acólitos recitam o salmo alternadamente:
 !Ps. 42, 1-5
 P. Julgai-me, ó Deus, e defendei a minha causa da gente infiel; livrai-me do homem iníquo e ardiloso.
 S. Pois que Vós, ó Deus, sois a minha fortaleza, porque me repelistes? E porque ando triste enquanto o meu inimigo me aflige?
@@ -32,21 +32,21 @@ S. Que criou o céu e a terra.
 P. Eu me confesso a Deus, todo poderoso, à bem-aventurada sempre Virgem Maria, ao bem-aventurado S. Miguel Arcanjo, ao bem-aventurado S. João Baptista, aos Santos Apóstolos S. Pedro e S. Paulo, a todos os santos, e a vós, irmãos: que pequei muitas vezes por pensamentos, palavras e obras: (aqui baterá no peito três vezes, dizendo:)
 Por minha culpa, por minha culpa, por minha tão grande culpa.
 Portanto rogo à bem-aventurada sempre Virgem Maria, ao bem-aventurado S. Miguel Arcanjo, ao bem-aventurado S. João Baptista, aos Santos Apóstolos S. Pedro e S. Paulo, a todos os Santos e a vós, irmãos, que rogueis a Deus, nosso Senhor, por mim.	
-!x!S. Compadeça-se de vós o Senhor omnipotente; vos perdoe os pecados e guie até à vida eterna.	
-!x!!O Sacerdote responde: 
-!x!P. Amen.
-!x!!O acólito diz o confiteor.
-!x!S. Eu me confesso a Deus, todo poderoso, à bem-aventurada sempre Virgem Maria, ao bem-aventurado S. Miguel Arcanjo, ao bem-aventurado S. João Baptista, aos Santos Apóstolos S. Pedro e S. Paulo, a todos os santos, e a vós, Padre: que pequei muitas vezes por pensamentos, palavras e obras: (aqui baterá no peito três vezes, dizendo:)
+S. Compadeça-se de ti o Senhor omnipotente; perdoe os teus pecados e te guie até à vida eterna.	
+!O Sacerdote responde: 
+P. Amen.
+!O acólito diz o confiteor.
+S. Eu me confesso a Deus, todo poderoso, à bem-aventurada sempre Virgem Maria, ao bem-aventurado S. Miguel Arcanjo, ao bem-aventurado S. João Baptista, aos Santos Apóstolos S. Pedro e S. Paulo, a todos os santos, e a vós, Padre: que pequei muitas vezes por pensamentos, palavras e obras: (aqui baterá no peito três vezes, dizendo:)
 Por minha culpa, por minha culpa, por minha tão grande culpa.
 Portanto rogo à bem-aventurada sempre Virgem Maria, ao bem-aventurado S. Miguel Arcanjo, ao bem-aventurado S. João Baptista, aos Santos Apóstolos S. Pedro e S. Paulo, a todos os Santos e a vós, Padre, que rogueis a Deus, nosso Senhor, por mim.
 !O Sacerdote, juntando as mãos, diz:
-P. Compadeça-se de vós o Senhor omnipotente; vos perdoe os pecados e guie até à vida eterna.
+P. Compadeça-se de vós o Senhor omnipotente; perdoe os vossos pecados e vos guie até à vida eterna.
 S. Amen.
-!  
+! Fazendo o sinal da cruz, diz:
 P. Que o Senhor ++ omnipotente e misericordioso nos conceda o perdão, a absolvição e a remissão dos nossos pecados.
 S. Amen. 	
 
-!inclinado, prossegue:
+!Inclinado, prossegue:
 P. Ó Deus, volvei-Vos para nós, e alcançaremos a vida.
 S. E o vosso povo se alegrará convosco.	
 P. Senhor, mostrai-nos a vossa misericórdia.
@@ -55,24 +55,24 @@ P. Senhor, atendei à minha oração.
 S. E que meu clamor chegue até Vós.	
 P. O Senhor esteja convosco.	
 S. E com vosso espírito.	
-!O Sacerdote sobe ao altar, murmurando:
+!O Sacerdote sobe ao altar, dizendo entretanto:
 v. Oremos. 
 v. Afastai de nós, Senhor, Vos imploramos, as nossas iniquidades, para que mereçamos entrar no santuário com as almas purificadas. Por Cristo, nosso Senhor. Amen.	
 !Com as mãos juntas, inclinado sobre o altar, o Sacerdote diz:
-v. Vos pedimos, Senhor, pelos méritos dos vossos Santos, cujas relíquias estão aqui, e de todos os Santos, que Vos digneis perdoar os nossos pecados. Amen.
+v. Vos pedimos, Senhor, pelos méritos dos vossos Santos, cujas relíquias estão aqui (beija o altar), e de todos os Santos, que Vos digneis perdoar os nossos pecados. Amen.
 
 !*S 	
-#Incense
+# Incensatio
 !Nas Missas solenes, incensa-se o altar. O diácono diz:
 Sua bênção, reverendo padre!
 !Enquanto abençoa o incensso o padre diz:
 Sê abençoado ++ por Ele por cuja honra és queimado. Amen. 	
 
-#Introit
+# Introitus
 &introitus
 
 # Kyrie
-!  
+! O celebrante, no meio do altar, diz, alternadamente com os assistentes:
 P. Senhor, tende piedade de nós.	
 S. Senhor, tende piedade de nós.
 P. Senhor, tende piedade de nós.	
@@ -83,35 +83,35 @@ P. Senhor, tende piedade de nós.
 S. Senhor, tende piedade de nós.
 P. Senhor, tende piedade de nós.
 
-!! Gloria
+!! Glória
 !*&GloriaM
 !Canto de alegria, a Glória só se diz nas Missas de carácter festivo: Domingos (fora do Advento, Septuagésima e Quaresma), Tempos do Natal, Tempo Pascal, festas de Nosso Senhor, da Santíssima Virgem, dos Anjos e dos Santos, e Missas votivas solenes. Omite-se em todas as outras Missas:
 v. Glória a Deus nas alturas e paz na terra aos homens de boa vontade. Nós Vos louvamos. Nós Vos bendizemos. Nós Vos adoramos. Nós Vos glorificamos. Nós Vos damos graças pela vossa imensa glória. Ó Senhor Deus, Rei dos céus, Deus Pai todo-o-poderoso. Senhor Jesus Cristo, Filho Unigénito, Senhor Deus, Cordeiro de Deus, Filho de Deus Pai. Vós que tirais os pecados do mundo, tende misericórdia de nós. Vós, que tirais os pecados do mundo, atendei à nossa súplica. Vós, que estais sentado à direita do Pai, tende misericórdia de nós. Só Vós sois o Santo; só Vós, o Senhor; só Vós, o Altíssimo, Jesus Cristo: com o Espírito Santo ++ na glória de Deus Pai. Amen. 	
 
-# Collect
+# Oratio
 !O Sacerdote benze-se, beija o altar, volta-se para os fiéis e diz:
 &DominusVobiscum
 !Breve oração que resume e apresenta a Deus os votos de todos os fiéis, votos estes sugeridos pelo mistério ou solenidade do dia.
 &collect
 
-# Lesson
+# Lectio
 &lectio
 
-# Gradual
+# Graduale
 &graduale
 
 !*SnD
 # Evangelium
-!Nas Missas Solenes o padre abençoa o incensso, e o diácono, ajoelhado de frente para o altar, com as mãos juntas, diz o Munda cor.
+!Nas Missas Solenes o padre abençoa o incenso, e o diácono, ajoelhado de frente para o altar, com as mãos juntas, diz o Munda cor.
 Ó omnipotente Deus, assim como purificastes os lábios do Profeta Isaías com uma brasa de fogo, assim também purificais agora o meu coração e os meus lábios. Dignai-Vos, pela vossa benigna misericórdia, purificar-me inteiramente, para que possa dignamente anunciar o vosso Evangelho.  Amen. 
 !Depois tira o livro do altar, e ajoelhando-se novamente diante do padre, pede a sua bênção, dizendo:
 D. Dignai-Vos, Senhor, abençoar-me.
 !O padre responde:
 P. Que o Senhor esteja no vosso coração e nos vossos lábios, para que possa digna e devidamente anunciar seu Evangelho. Amen. 	
-v. Em nome do Pai, e do Filho, e do Espírito Santo. Amen. 	
-!Virando-se para o livro, com as mãos juntas -- nas Missas Solenes o diácono -- diz:
+v. Em nome do Pai, e do Filho, e do Espírito Santo. Amen.
+!Virando-se para o livro, com as mãos juntas, o diácono diz:
 P. O Senhor esteja convosco.
-S. E com vosso espírito.	
+S. E com vosso espírito.
 &evangelium
 
 !*RnD
@@ -119,27 +119,26 @@ S. E com vosso espírito.
 !Enquanto o Acólito muda o Missal, o Sacerdote inclina-se profundamente no meio do Altar, dizendo:
 v. Ó omnipotente Deus, assim como purificastes os lábios do Profeta Isaías com uma brasa de fogo, assim também purificais agora o meu coração e os meus lábios. Dignai-Vos, pela vossa benigna misericórdia, purificar-me inteiramente, para que possa dignamente anunciar o vosso Evangelho. Amen. 	
 v. Dignai-Vos, Senhor, abençoar-me. Que o Senhor esteja no meu coração e nos meus lábios, para que possa digna e devidamente anunciar seu Evangelho. Amen.	
-!  
+! Virando-se para o livro, com as mãos juntas diz:
 P. O Senhor esteja convosco.	
 S. E com vosso espírito.	
 &evangelium
 
 !*D
 # Evangelium
-!In Masses for the Dead, the Munda cor is said, but the blessing is not asked, and the priest does not kiss the Gospel.
 !Nas Missas de Defuntos, o Munda cor é dito, mas a bênção não é pedida, e o padre não beija o Evangelho.
 Ó omnipotente Deus, assim como purificastes os lábios do Profeta Isaías com uma brasa de fogo, assim também purificais agora o meu coração e os meus lábios. Dignai-Vos, pela vossa benigna misericórdia, purificar-me inteiramente, para que possa dignamente anunciar o vosso Evangelho. Por Cristo nosso Senhor. Amen. 	
-!  
+! Virando-se para o livro, com as mãos juntas diz:
 P. O Senhor esteja convosco.	
 S. E com vosso espírito.	
 &evangelium
 
-# Creed
+# Credo
 !*&Credo
 !Aos Domingos e certos dias de festa, o celebrante vai ao meio do altar e diz o Credo. Este só se diz aos Domingos, e em algumas festas de 1ª. classe. É cantado em Missas Solenes.
 v. Creio em um só Deus. Pai, todo poderoso, criador do Céu e da Terra, de todas as coisas visíveis e invisíveis. E creio em um só Senhor, Jesus Cristo, Filho Unigénito de Deus, nascido do Pai antes de todos os séculos. Deus de Deus, Luz da Luz, Deus verdadeiro de Deus verdadeiro. Gerado, não criado, consubstancial ao Pai: por Ele todas as coisas foram feitas. E por nós, homens, e para nossa salvação desceu dos céus. (todos se ajoelham.) E encarnou pelo Espírito Santo, no seio da Virgem Maria: E foi feito homem. Também por nós foi crucificado sob Pôncio Pilatos, padeceu e foi sepultado. Ressuscitou ao terceiro dia, conforme as Escrituras, e subiu aos céus, onde está sentado à direita do Pai. De novo há-de vir em sua glória, para julgar os vivos e os mortos; e o seu reino não terá fim. Creio no Espírito Santo, Senhor que dá a vida, e procede do Pai e do Filho; e com o Pai e o Filho é adorado e glorificado: Ele que falou pelos Profetas. Creio na Igreja una, santa, católica e apostólica. Confesso um só baptismo para a remissão dos pecados. E espero a ressurreição dos mortos, e ++ a vida do mundo que há-de vir. Amen. 	
 
-# Offertory
+# Offertorium
 !O padre beija o altar, e virando-se para o povo diz:
 P. O Senhor esteja convosco.
 S. E com vosso espírito.
@@ -154,7 +153,6 @@ v. Recebei, ó Pai santo, Deus omnipotente e eterno, esta hóstia imaculada, que
 v. Ó Deus, que maravilhosamente criastes a dignidade da natureza humana e que mais prodigiosamente ainda a reformastes, permiti que pela mistura simbólica desta água e deste vinho sejamos participantes da divindade daquele que quis assumir a nossa humanidade, Jesus Cristo, vosso Filho, nosso Senhor, que, sendo Deus, vive e reina convosco em unidade do Espírito Santo, em todos os séculos dos séculos. Amen.
 
 !*D
-!In Masses for the Dead, the foregoing prayer is said, but the water is not blessed.
 !Em Missas para Defuntos, a seguinte oração é dita, mas a água não é abençoada.
 
 !No meio do altar, o celebrante faz o oferecimento do cálice:
@@ -165,7 +163,7 @@ v. Em humildade e contrição, sejamos recebidos por Vós, Senhor; e assim este 
 v. Vinde, ó Santificador omnipotente, Deus eterno, e abençoai + este sacrifício, preparado para a glória do vosso Santo Nome.
 
 !*S
-# Incense
+# Incensatio
 !Segue-se, nas Missas solenes, o rito da incensão. Tudo o que é oferecido a Deus é incensado. Logo, são incensados o Pão, o Vinho e todos os fiéis presentes.
 v. Dignai-Vos Senhor, pela intercessão do bem-aventurado Arcanjo Miguel, que está de pé à direita do altar do incenso, e de todos vossos eleitos, abençoar ++ este incenso e aceitá-lo como odor de suavidade. Por Cristo, Senhor nosso. Amen.	
 !O Sacerdote incensa primeiro as oblatas:
@@ -194,10 +192,10 @@ S. Que o Senhor receba por vossas mãos este sacrifício para a honra e glória 
 P. Amen.
 !Em seguida lê a Secreta. À Secreta principal, podem, em certas Missas, ajuntar-se outras, em número igual e segundo as mesmas regras da Colecta. P. Por todos os séculos dos séculos. S. Amen.
 _
-!!Secret
+!! Secreta
 &secreta
 
-# Preface
+# Prefatio
 !Com o Prefácio, começa a grande, a solene oração sacerdotal da Igreja e oblação propriamente dita do Sacrifício. Curto diálogo introdutório entre o Sacerdote e os fiéis desperta nas almas os sentimentos de acção de graças que convêm à celebração dos santos mistérios.
 P. O Senhor esteja convosco.	
 S. E com vosso espírito.	
@@ -271,7 +269,7 @@ pertence, e Vos é dada, toda a honra e glória.
 P. Por todos os séculos dos séculos.
 S. Amen. 	
 
-# Preparação para a Comunhão
+# Preparatio Communionis
 v. Oremos. Instruídos com os salutares preceitos do Salvador e dirigidos pelos seus divinos ensinamentos, ousamos dizer:	
 v. Pai nosso que estais nos céus; santificado seja o vosso nome; venha a nós o vosso reino; seja feita a vossa vontade, assim na terra como no céu. O pão nosso de cada dia nos dai hoje; perdoai-nos as nossas dívidas, assim como nós perdoamos aos nossos devedores e não nos deixeis cair em tentação:	
 M. Mas livrai-nos do mal.
@@ -295,7 +293,7 @@ v. Que esta mistura e esta consagração do Corpo e do Sangue de nosso Senhor Je
 !Cobre o Cálice, genuflecte e levanta-se; depois inclinando-se e batendo três vezes no peito, diz:
 
 !*nD
-!  
+! O celebrante bate três vezes no peito, dizendo:
 v. Cordeiro de Deus, que tirais o pecado do mundo, tende piedade de nós.
 v. Cordeiro de Deus, que tirais o pecado do mundo, tende piedade de nós.
 v. Cordeiro de Deus, que tirais o pecado do mundo, dai-nos a paz. 	
@@ -338,7 +336,6 @@ v. Que o Corpo de nosso Senhor Jesus Cristo guarde a minha alma para a vida eter
 v. Como retribuirei ao Senhor os bens que Ele se dignou dispensar-me? Tomarei o Cálice da salvação e invocarei o nome do Senhor, louvando-O, e ficarei livre dos meus inimigos.
 !Toma o preciosíssimo Sangue, fazendo antes sobre si o sinal da cruz
 v. Que o Sangue de nosso Senhor Jesus Cristo guarde a minha alma para a vida eterna. Amen. 	
-!Then he receives all the Precious Blood, together with the Particle.
 !Recebe depois todo o Precioso Sangue, junto com a Partícula.
 
 &Communio_Populi
@@ -350,16 +347,16 @@ v. Que conservemos com pureza de coração, Senhor, o que a boca acaba de recebe
 v. Senhor, que o vosso Corpo, que recebi, e o vosso sangue, que bebi, se unam intimamente ás minhas entranhas; dignai-Vos permitir, Senhor, que não fique em mim mancha alguma de pecado, agora que estou confortado com sacramentos tão puros e santos: Vós, que viveis e reinais em todos os séculos. Amen.	
 ! Purifica o cálice e deixa-o, coberto, no meio do altar. Nas Missas solenes, é o subdiácono quem purifica o cálice e o leva para a credencia. O Sacerdote passa para o lado direito do altar, e recita a antífona da Comunhão.
 
-# Communion
+# Communio
 &communio
 
-# Post Communion
+# Postcommunio
 !O Sacerdote volta ao meio do altar, beija-o, e, voltando-se para os fiéis saúda-os:
 P. O Senhor esteja convosco.	
 S. E com vosso espírito.	
 &postcommunio
 
-# Conclusion
+# Conclusio
 !Vira-se para as pessoas e diz:
 P. O Senhor esteja convosco.
 S. E com vosso espírito.		
@@ -385,8 +382,8 @@ S. E com vosso espírito.
 &Ultimaev
 
 !*R
-# PRAYERS ORDERED BY THE POPE Leo XIII
-!To be said kneeling after the celebration of Low Mass. 
+# Oratio Leonis XIII
+! Dizer de joelhos depois da celebração de Missa rezada:
 P. Ave, Maria, Cheia de graça, o Senhor é convosco; bendita sois Vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus.
 A. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora da nossa morte. Amen.
 P. Ave, Maria, Cheia de graça, o Senhor é convosco; bendita sois Vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus.
@@ -394,7 +391,7 @@ A. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora da noss
 P. Ave, Maria, Cheia de graça, o Senhor é convosco; bendita sois Vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus. 
 A. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora da nossa morte. Amen.
 _
-A. Salvé, Rainha, mãe de misericórdia, vida, doçura, esperança nossa, salve! A Vós bradamos, os degredados filhos de Eva. A Vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei. E, depois deste desterro, nos mostrai Jesus, bendito fruto do vosso ventre. Ó clemente, ó piedosa, ó doce Virgem Maria.
+A. Salve, Rainha, mãe de misericórdia, vida, doçura, esperança nossa, salve! A Vós bradamos, os degredados filhos de Eva. A Vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei. E, depois deste desterro, nos mostrai Jesus, bendito fruto do vosso ventre. Ó clemente, ó piedosa, ó doce Virgem Maria.
 P. Rogai por nós, Santa Mãe de Deus.
 O. Para que sejamos dignos das promessas de Cristo.  
 _ 	

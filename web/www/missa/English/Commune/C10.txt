@@ -1,4 +1,4 @@
-[Name]
+[Officium]
 Sancta Maria Sabbato; Salve Sancta parens
 
 [Rank]
@@ -45,7 +45,6 @@ Through Your mercy, O Lord, and by the intercession of blessed Mary, ever Virgin
 $Per Dominum
 
 [Communio]
-!  
 Blessed is the womb of the Virgin Mary, which bore the Son of the eternal Father.
 
 [Postcommunio]

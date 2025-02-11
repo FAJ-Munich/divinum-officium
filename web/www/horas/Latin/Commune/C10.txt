@@ -1,4 +1,4 @@
-[Name]
+[Officium]
 Officium Beatæ Mariæ Virginis in Sabbato
 
 [Rank]
@@ -18,10 +18,16 @@ Antiphonas horas
 [Versum 1]
 @Commune/C6:Versum 2
 
-[Ant 1]
+[Ant 1_]
 Beáta Mater * et intácta Virgo, gloriósa Regína mundi, intercéde pro nobis ad Dóminum.
-(sed tempore paschali)
+
+[Ant 1_Pasch]
 Regína cæli, * lætáre, allelúja; quia quem meruísti portáre, allelúja; resurréxit, sicut dixit, allelúja: ora pro nobis Deum, allelúja.
+
+[Ant 1]
+@:Ant 1_
+(sed tempore paschali)
+@:Ant 1_Pasch
 
 [Oratio]
 @Commune/C11
@@ -53,7 +59,7 @@ Per Vírginem matrem concédat nobis Dóminus salútem et pacem.
 [Versum 0]
 @Commune/C11
 
-[Ant Laudes] (rubrica tridentina aut rubrica monastica)
+[Ant Laudes] (rubrica tridentina)
 @Commune/C11
 
 [Capitulum Laudes]
@@ -69,10 +75,16 @@ Per Vírginem matrem concédat nobis Dóminus salútem et pacem.
 V. Benedícta tu in muliéribus.
 R. Et benedíctus fructus ventris tui.
 
-[Ant 2]
+[Ant 2_]
 Beáta Dei Génetrix, María, * Virgo perpétua, templum Dómini, sacrárium Spíritus Sancti, sola sine exémplo placuísti Dómino nostro Jesu Christo: ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu.
+
+
+[Ant 2]
+@:Ant 2_
+(sed rubrica cisterciensis)
+@:Ant 2_:s/femíneo/fœmíneo/
 (sed tempore paschali)
-@:Ant 1
+@:Ant 1_Pasch
 
 [Lectio Prima]
 @Commune/C11

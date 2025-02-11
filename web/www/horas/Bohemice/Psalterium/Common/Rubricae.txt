@@ -14,12 +14,11 @@
 [Pater post V]
 /:A pokud se takto zakončí Officium, řekne se pouze «Pater Noster» potichu.:/
 
-[Secreto]
+[Secreto_]
 /:potichu:/
-(sed rubrica cisterciensis)
+
+[Secreto_C]
 /:Ve Chóru, když se zakončí Malé Mariánské Hodinky, řekne se potichu::/
-(sed die in Cœna Domini aut die in Parasceve aut die Sabbato Sancto)
-/:potichu:/
 
 [Secreto a Laudibus]
 /:Pokud se Matutinum a Laudy říkají odděleně, tehdy se řekne potichu::/
@@ -28,15 +27,17 @@
 (sed rubrica cisterciensis)
 /:Mimo Officium dvanáctilekcového svátku se říká potichu::/
 
-[Clara voce]
+[Clara voce_]
 /:Poté se nahlas řekne Verš::/
-(sed rubrica cisterciensis)
-/:V Chóru se udělá velký Kříž + a na pokyn představeného se ukloníme Oltáři. Poté se nahlas a důstojně řekne Verš::/
+
+[Clara voce_C]
+/:V Chóru se udělá velký Kříž + a na pokyn představeného se ukloníme Oltáři.:/
+/:Poté se nahlas a důstojně řekne Verš::/
 
 [Secus absolute]
 /:Secus absolute incipiuntur, ut sequitur::/
 (sed rubrica ^Trident)
-/:Dicto Hymno:/ Te Deum laudamus /:vel ultimo Responsorio, absolute dicitur Versus::/
+/:Dicto Hymno «Te Deum laudamus» vel ultimo Responsorio, absolute dicitur Versus::/
 
 [Matutinum]
 !Zbytek se vynechává, pokud se %Laudy% neříkají oddělení.
@@ -50,11 +51,14 @@
 (sed rubrica cisterciensis)
 !Zbytek se ve dvanáctilekcovém Officiu vynechává, a hned navazují %Laudy%. Avšak jak ve Fériích, tak ve třílekcových Svátcích, v zimě i na jaře se vždy říká následující.
 
+[Matutinum parvum]
+!Následují hned %Laudy%.
+
 [Deinde secreto]
 /:Pak se říká potichu:/
 
 [PAC ad Completorium]
-/:Pokud po Kompletáři navazuje Matutinum, tehdy se dvakrát řekne:/ Pater noster, Ave Maria /:a:/ Credo, /:a sice jako konec předchozího Officia, a jako začátek Officia následujícího dne.:/
+/:Pokud po Kompletáři navazuje Matutinum, tehdy se dvakrát řekne «Pater noster, Ave Maria» a «Credo,» a sice jako konec předchozího Officia, a jako začátek Officia následujícího dne.:/
 
 [DefunctV]
 &Dominus_vobiscum
@@ -102,6 +106,7 @@
 
 [Incipit] (rubrica altovadensis)
 /:Po skončení připomínky malých Hodinek Panny Marie se udělá velký Kříž + a na pokyn představeného se ukloníme Oltáři.:/
+@:Clara voce_C:2
 
 [IncipitL] (rubrica altovadensis)
 /:Po skončení Matutina či po Připomínce Malého Mariánského Officia před Officiem feriálním či třílekcovým, uděláme velký Kříž + a na pokyn představeného se ukloníme Oltáři.:/
@@ -110,12 +115,15 @@
 /:začíná se pouze pokud se Officium slaví zpěvem:/
 
 [CompletBMV]
-/:Poté se říká mariánský Kompletář. Po jeho skončení se po celý rok, s výjimkou Čtvrtku a Pátku Svatého týdne, slavně zazpívá:/
+/:Poté se říká mariánský Kompletář.:/
+
+[CompletBMV2]
+/:Po jeho skončení se po celý rok, s výjimkou Čtvrtku a Pátku Svatého týdne, slavně zazpívá:/
 
 [sine Oremus]
-/:a bez:/ Orémus /:::/
+/:a bez «Orémus» ::/
 (sed rubrica altovadensis)
-/:a bez:/ Orémus /:pokračuje Hebdomadář.:/
+/:a bez «Orémus» pokračuje Hebdomadář.:/
 
 [Conclusio cisterciensis]
 /:A kdykoliv se po skončení Hodinky odchází z Chóru (pokud tedy nenavazuje Mše svatá, nebo po denním Officiu pak Officium Defunctorum, nebo Pohřební obřady, nebo Procesí, nebo Litaniæ, nebo Prosebné dny, atd.) říká se::/

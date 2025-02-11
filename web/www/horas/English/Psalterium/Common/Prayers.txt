@@ -49,7 +49,7 @@ V. The Lord be with you.
 R. And with thy spirit.
 V. O Lord, hear my prayer.
 R. And let my cry come unto thee.
-/:skip second 'O Lord, hear my prayer':/
+/:skip second «O Lord, hear my prayer»:/
 
 [Confiteor_]
 v. I confess to almighty God, to blessed Mary ever Virgin, to blessed Michael the Archangel, to blessed John the Baptist, to the holy Apostles Peter and Paul, and to all the Saints, that I have sinned exceedingly in thought, word and deed: /:strikes his breast:/ through my fault, through my fault, through my most grievous fault. Therefore I beseech blessed Mary ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, and all the Saints, to pray for me to the Lord our God. 
@@ -97,6 +97,15 @@ R. Thanks be to God.
 [Fidelium animae]
 V. May the souls of the faithful, through the mercy of God, rest in peace.
 R. Amen.
+
+[Per Christum]
+Through Christ our Lord.
+
+[Per eumdem Christum]
+Through the same Christ our Lord.
+
+[Qui tecum in]
+Who with thee liveth and reigneth, world without end.
 
 [Per Dominum]
 r. Through Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.
@@ -146,7 +155,7 @@ Thou art the everlasting * Son of the Father.
 When thou hadst overcome the sharpness of death, * thou didst open the Kingdom of Heaven to all believers.
 Thou sittest at the right hand of God, * in the glory of the Father.
 We believe that thou shalt come * to be our Judge.
-/:Kneel for the following verse:/
+/:Kneel for the following verse:/ ~
 We therefore pray thee, help thy servants, * whom thou hast redeemed with thy precious Blood.
 Make them to be numbered with thy Saints, * in glory everlasting.
 O Lord, save thy people, * and bless thine heritage.
@@ -219,9 +228,6 @@ Alleluia, alleluia.
 V. From the gates of hell.
 R. Deliver their souls, O Lord!
 
-[Per Christum]
-Through Christ our Lord.
-
 [Oratio Visita_]
 v. Visit, we beseech thee, O Lord, this dwelling, and drive far from it the snares of the enemy; let thy holy angels dwell herein to preserve us in peace, and let thy blessing be always upon us.
 
@@ -243,7 +249,7 @@ Benedictio. May the Lord bless us, + protect us from all evil and bring us to ev
 V. Let us bless.
 R. God.
 
-[commemoratio omnium]
+[commemoratio omnium_]
 R.br. Commemoration of all brothers, friends of our Order, and our benefactors.
 
 [Requiescant]

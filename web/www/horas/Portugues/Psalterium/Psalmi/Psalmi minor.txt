@@ -1,3 +1,19 @@
+[Tertia]
+Dominica = Alleluia, * Lead me into the path of thy commandments, alleluia, alleluia.
+118(33-48),118(49-64),118(65-80)
+Feria II = O Senhor é minha luz * e minha salvação.
+26(1-6), 26(7-14), 27
+Feria III = O Senhor ouviu * a minha súplica: o Senhor aceitou a minha oração.
+39(2-9), 39(10-14), 39(15-18)
+Feria IV = Pois eis que Deus é o meu ajudador: * e o Senhor é o protetor da minha alma.
+53, 54(2-16), 54(17-24)
+Feria V = Quão bom é Deus * para Israel, para os que são de coração puro!
+72(1-9), 72(10-17), 72(18-28)
+Feria VI = Desperta o teu poder, Senhor, * e vem salvar-nos.
+79(2-8), 79(9-20), 81
+Sabato = Chegue a minha oração até Ti, Senhor: * não escondas de mim a tua face.
+101(2-13), 101(14-23), 101(24-29)
+
 [Adv1]
 1 = Naquele dia * os montes destilarão doçura e das colinas brotarão leite e mel, aleluia.
 2 = Alegra-te, * filha de Sião, exulta de júbilo, filha de Jerusalém, aleluia.
@@ -61,7 +77,7 @@
 4 =
 5 = Não retribuíram eles * o mal pelo bem? Pois eles cavaram um poço para a minha alma.
 
-[Monastic]
+[Monastic_]
 Prima Dominica=Aleluia * aleluia, aleluia (aleluia);;118(1-8),118(9-16),118(17-24),118(25-32)
 Prima Feria II=Servi ao Senhor com temor, * e exultai-lhe com tremor.;;1,2,6
 Prima Feria III=Deus é um juiz justo * forte e paciente; até quando irá durar sua ira?;;7,8,9(2-19)
@@ -79,4 +95,3 @@ Sexta Feria=Tu que habitas * nos céus, tem piedade de nós.;;122,123,124
 Nona Dominica=Aleluia * aleluia, aleluia (aleluia);;118(81-88),118(89-96),118(97-104)
 Nona Feria II=Estende a tua mão, * Senhor, a socorrer-me, pois optei pelos teus mandamentos.;;118(153-160),118(161-168),118(169-176)
 Nona Feria=Bem aventurados * os que temem o Senhor;;125,126,127
-Completorium=;;4,90,133

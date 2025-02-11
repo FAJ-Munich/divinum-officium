@@ -61,6 +61,7 @@ sub preces {
       && ($winner{Rank} !~ /octav/i || $winner{Rank} =~ /post octav/i)
       && checkcommemoratio(\%winner) !~ /Octav/i)
     {
+      $precesferiales = preces('Feriales');
       return 1;
     }
   }

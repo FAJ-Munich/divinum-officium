@@ -85,8 +85,8 @@ sub latin_uppercase {
 # findkalentry - read rank from sancti file
 sub findkalentry {
   my ($entry, $ver) = @_;
-  our $winner = subdirname('Sancti', $ver) . $entry;
-  my %saint = %{setupstring('Latin', "$winner.txt")};
+  our $winner = subdirname('Sancti', $ver) . "$entry.txt";
+  my %saint = %{setupstring('Latin', "$winner")};
 
   my @srank = split(";;", $saint{Rank});
 
@@ -95,11 +95,14 @@ sub findkalentry {
   our $rank = @srank[2];
   my $rankname = rankname('Latin');
 
-  # TODO: get rid of below line when setupstrin respects version conditionals
-  $rankname =~ s/IV. classis/Memoria/ if $ver =~ /Monastic|Ordo Preadicatorum/;
+  # TODO: get rid of below line when setupstring respects version conditionals
+  $rankname =~ s/IV. classis/Memoria/ if $ver =~ /Monastic|Ordo Praedicatorum/;
 
   (
-    setfont(liturgical_color($srank[0]), $rank > 4 ? latin_uppercase($srank[0]) : $srank[0]),
+    setfont(
+      liturgical_color($srank[0]),
+      $rank > 4 && $srank[0] !~ /octava|vigilia/i ? latin_uppercase($srank[0]) : $srank[0],
+    ),
     setfont('1 maroon', ' ' . $rankname),
   );
 }
@@ -115,6 +118,8 @@ sub kalendar_entry {
   my $s = shift @kalentries;
 
   my $output = join(' ', findkalentry($s, $ver));
+
+  $output = '' if $ver =~ /1955|196/ && $date =~ /01-(?:0[7-9]|1[012])/;
 
   while (my $ke = shift @kalentries) {
     my ($d1, $d2) = findkalentry($ke, $ver);
@@ -150,7 +155,7 @@ sub html_header {
   my $vers = $version1;
   $vers .= ' / ' . $version2 if $compare;
 
-  my $output = << "PrintTag";
+  my $output = <<"PrintTag";
 <A ID="top"></A>
 <H1>
 <FONT COLOR="MAROON" SIZE="+1"><B><I>Kalendarium</I></B></FONT>&ensp;

@@ -16,7 +16,7 @@ sub psalmi {
 
     if ($hora =~ /^(?:Laudes|Vespera)$/i) {
       $psalmi = psalmi_major($lang);
-      $duplexf ||= $duplex > 2;
+      $duplexf ||= $duplex > 2 && $winner !~ /C12/;
     } else {
       $psalmi = psalmi_minor($lang);
     }
@@ -137,9 +137,9 @@ sub psalmi_minor {
   if ($winner =~ /tempora/i || $testmode =~ /seasonal/i || $dayname[0] =~ /pasc/i) {
 
     my $ind =
-        $hora eq 'Prima' ? 0
-      : $hora eq 'Tertia' ? 1
-      : $hora eq 'Sexta' ? 2
+        $hora eq 'Prima' ? ($version =~ /cist/i ? 1 : 0)
+      : $hora eq 'Tertia' ? ($version =~ /cist/i ? 2 : 1)
+      : $hora eq 'Sexta' ? ($version =~ /cist/i ? 3 : 2)
       : $hora eq 'Nona' ? 4
       : -1;
     my $name = gettempora('Psalmi minor');
@@ -147,7 +147,7 @@ sub psalmi_minor {
     if ($name eq 'Adv') {
       $name = $dayname[0];
 
-      if ($day > 16 && $day < 24 && $dayofweek) {
+      if ($day > 16 && $day < 24 && $dayofweek && $version !~ /cist/i) {
         my $i = $dayofweek + 1;
 
         if ($dayofweek == 6 && $version =~ /trident|monastic.*divino/i) {    # take ants from feria occuring Dec 21st
@@ -308,19 +308,25 @@ sub psalmi_major {
   my @psalmTones;
 
   if ($version =~ /Monastic/ && !($hora eq 'Laudes' && $rule =~ /Matutinum romanum/i)) {    # Triduum like Roman
-    my $head = "Daym$dayofweek";
+    my $head = $version =~ /cist/i ? 'Cistercian' : 'Monastic';
 
     if ($hora eq 'Laudes') {
-      if ($rule =~ /Psalmi Dominica/ || ($winner =~ /Sancti/i && $rank >= 4 && $dayname[1] !~ /vigil/i)) {
-        $head = 'DaymF';
+      if (
+        $rule =~ /Psalmi Dominica/
+        || ($rule !~ /Psalmi Feria/i
+          && ($winner =~ /Sancti/i && $rank >= ($version =~ /cist/i ? 3 : 4) && $dayname[1] !~ /vigil/i))
+      ) {
+        $head = $version =~ /cist/i ? 'DaycF' : 'DaymF';
+      } elsif ($dayofweek == 0 && $dayname[0] =~ /Pasc/i && $version !~ /cisterciensis/i) {
+        $head = 'DaymP';
       }
-      if ($dayname[0] =~ /Pasc/i && $head =~ /Daym0/i) { $head = 'DaymP'; }
     }
     @psalmi = split("\n", $psalmi{"$head $hora"});
     setbuild("Psalterium/Psalmi/Psalmi major", "$head $hora", 'Psalmi ord');
 
-    if ($hora eq 'Laudes' && $head =~ /Daym[1-6]/) {
-      unless ($version =~ /Trident/
+    if ($hora eq 'Laudes' && $head =~ /Monastic/) {
+      unless ($dayofweek == 0
+        || $version =~ /Trident/
         || (($dayname[0] =~ /Adv|Quadp/) && ($duplex < 3) && ($commune !~ /C10/))
         || (($dayname[0] =~ /Quad\d/) && ($dayname[1] =~ /Feria/))
         || ($dayname[1] =~ /Quattuor Temporum Septembris/)
@@ -476,7 +482,8 @@ sub psalmi_major {
 
   if ( $version =~ /Monastic/
     && $hora eq 'Vespera'
-    && ($winner !~ /C(?:9|12)/)
+    && ($winner !~ /C9/)
+    && ($winner !~ /C12/ || $version =~ /cist/i)
     && ($commune !~ /C9/)
     && ($dayname[0] !~ /Quad6/ || $dayofweek < 4))
   {

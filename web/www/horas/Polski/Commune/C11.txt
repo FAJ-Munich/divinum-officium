@@ -1,4 +1,4 @@
-[Name]
+[Officium]
 In Festis Beatae Mariae Virginis
 
 [Ant VesperaBMV]
@@ -47,7 +47,7 @@ Amen.
 V. Dozwól mi chwalić Cię, Panno święta.
 R. Daj mi moc przeciw nieprzyjaciołom swoim.
 
-[Ant 1]
+[Ant 1_]
 Święta Marjo, * wspomóż nieszczęśliwych, wesprzyj bojaźliwych, pociesz zasmuconych, módl się za lud, wstawiaj się za klerem, przyczyń się za niewiastami Bogu poświęconemi: niechaj doznają Twego wsparcia wszyscy, którzy obchodzą świętą uroczystość Twoją.
 
 [Oratio]
@@ -178,6 +178,10 @@ V. A miłosierdzie jego od narodu do narodów, bojącym się jego.
 R. Albowiem uczynił mi wielkie rzeczy, który możny jest, i święte imię jego.
 &Gloria
 R. Albowiem uczynił mi wielkie rzeczy, który możny jest, i święte imię jego.
+
+[Versum 0]
+V. Módl się za nami święta Boża Rodzicielko.
+R. Abyśmy się stali godnymi obietnic Chrystusowych
 
 [Capitulum Laudes]
 !Syr 24:14
