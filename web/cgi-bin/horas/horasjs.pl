@@ -193,7 +193,7 @@ sub horasjsend {
   # $caller in principle might not be defined.
   my $caller_flag = $caller || 0;
 
-  print << "PrintTag";
+  print <<"PrintTag";
 		
 	
 	
