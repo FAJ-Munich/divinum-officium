@@ -303,6 +303,9 @@ function readings() {
 )
 }
 
+sub horasjsend() {
+  #empty but necessary
+}
 # below function is unused
 # sub Readings {
 #   my @months = (31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31);

@@ -44,6 +44,8 @@ my %predicates = (
   brevior => sub { shift == 2 },
   'summorum pontificum' => sub { shift =~ /^Divino|1955|196/ },
   'in solemnitatibus' => sub { shift =~ /solemnis|resurrectionis/i },
+  'in hieme' => sub { shift =~ /hieme|Adventus|Nativitatis|Epiphani|gesimæ|Passionis/i },
+  'in æstate' => sub { shift !~ /hieme|Adventus|Nativitatis|Epiphani|gesimæ|Passionis/i },
   feriali => sub { shift =~ /feria|vigilia/i; },
 );
 
@@ -157,9 +159,10 @@ sub parse_conditional($$$) {
 sub get_tempus_id {
 
   our @dayname;
-  our ($day, $month, $dayofweek, $version);
-  our $hora;
+  our ($day, $month, $year, $dayofweek, $version, $hora);
   my $vesp_or_comp = ($hora =~ /Vespera/i) || ($hora =~ /Completorium/i);
+  our $monthday; # = monthday($day, $month, $year, ($version =~ /196/) + 0, $vesp_or_comp);
+  my $oct_or_nov = $monthday =~ /^(10|11)\d\-/;
   local $_ = $dayname[0];
 
   /^Adv/
@@ -171,7 +174,7 @@ sub get_tempus_id {
       ? 'Epiphaniæ'
       : ($month == 1 || ($month == 2 && ($day == 1 || $day == 2 && !$vesp_or_comp))) ? 'post Epiphaniam post partum'
       : ($month == 2) ? 'post Epiphaniam'
-      : 'post Pentecosten'
+      : 'post Pentecosten in hieme'
     : /^Quadp(\d)/ && ($1 < 3 || $dayofweek < 3) ? ($month == 1 || $day == 1 || ($day == 2 && !$vesp_or_comp))
       ? 'Septuagesimæ post partum'
       : 'Septuagesimæ'
@@ -194,7 +197,8 @@ sub get_tempus_id {
       || ($1 == 3 && ($dayofweek < 6 || ($dayofweek == 6 && $vesp_or_comp))))
     && $version =~ /Divino/i
     ? 'Octava SSmi Cordis post Pentecosten'
-    : 'post Pentecosten';
+    : /^Pent/ && !$oct_or_nov ? 'post Pentecosten'
+    : 'post Pentecosten in hieme';
 }
 
 # Returns the name of the day for use as a subject in conditionals.

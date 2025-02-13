@@ -22,17 +22,27 @@ Glória laudis * résonet in ore ómnium, Patri, genitǽque Proli, Spirítui San
 Laus Deo Patri, * parilíque Proli, et tibi, Sancte, stúdio perénni, Spíritus, nostro résonet ab ore, omne per ævum.;;112
 Ex quo ómnia, * per quem ómnia, in quo ómnia: ipsi glória in sǽcula.;;116
 
-[Capitulum Vespera]
-@Psalterium/Major Special:Day6 Vespera
-
 [Hymnus Vespera]
-@Psalterium/Major Special:Hymnus Day6 Vespera
+{:H-VespFeria:}v. Jam sol recédit ígneus:
+Tu, lux perénnis, Únitas,
+Nostris, beáta Trínitas,
+Infúnde lumen córdibus.
+_
+Te mane laudum cármine,
+Te deprecámur véspere;
+Dignéris ut te súpplices
+Laudémus inter cǽlites.
+_
+Patri, simúlque Fílio,
+Tibíque, Sancte Spíritus,
+Sicut fuit, sit júgiter
+Sæclum per omne glória.
+Amen.
 
 [HymnusM Vespera]
-@Psalterium/Major Special:HymnusM Day6 Vespera
-
-[HymnusM Vespera]
-@Psalterium/Major Special:HymnusM Day6 Vespera
+{gabc:Psalterium/Feria/hy--o_lux_beata_trinitas_hiemalis--solesmes_1934}
+(sed tempore in æstate)
+{gabc:Psalterium/Feria/hy--o_lux_beata_trinitas_aestivalis--solesmes_1934}
 
 [Versum 1]
 V. Benedicámus Patrem et Fílium cum Sancto Spíritu.
@@ -238,7 +248,9 @@ Duo sunt ópera misericórdiæ, quæ nos líberant, quæ bréviter ipse Dóminus
 @:Ant Vespera:s/;;.*//g
 
 [Capitulum Laudes]
-@:Capitulum Vespera
+!Rom 11:33
+v. O Altitúdo divitiárum sapiéntiæ, et sciéntiæ Dei, quam incomprehensibília sunt judícia ejus, et investigábiles viæ ejus!
+$Deo gratias
 
 [HymnusM Laudes]
 @:Hymnus Laudes:s/laudis cánticum/laudum cántica/ s/Quod/Quæ/ s/Præítque solem núntius/Sparsámque lucem núntiat/ s/Cadunt ténebræ/Cadit calígo/ s/Nunc, et per omne sǽculum/Et nunc et in perpétuum/
