@@ -23,6 +23,17 @@ R.br. {gabc:Psalterium/Feria/rb--magnus_dominus_noster--solesmes_1934}
 !De Beata Maria
 Ant. {name:Sancta Maria succurre;annotation:4.;mode:4;%%(c4) SAn(e!fwg)cta(dc) Ma(de)rí(e)a,(e.) *(,) suc(gh)cú(hg)re(ed) mí(e!fw!gv_FE)se(de)ris,(e.) (;) ju(h)va(g) pu(fe)sil(d)lá(efe)ni(de)mes,(e.) (;) ré(ed)fo(dc)ve(c) flé(e!fw!gv_FE)bi(de)les:(e.) (:) o(d!f'h)ra(g) pro(fe) pó(dc)pu(df)lo,(efED.) (;) in(d)tér(dh)ve(ixhih)ni(g) pro(gh) cle(gf)ro,(ed..) (;) in(d)ter(fh)cé(h)de(g) pro(fe) de(dc)vó(df)to(efE'D) (,) fe(fh)mí(hvGF')ne(g)o(gf) se(e.)xu:(e.) (:) sén(c)ti(df)ant(fd) o(e_f)mnes(g) tu(gh)um(gf) ju(de)vá(dd)men,(c.) (;) qui(cd)cúm(fe)que(fg) cé(gh)le(g)brant(g'_) (,) tu(g)am(g) sanc(g)tam(f) com(gh)me(g)mo(gf)ra(g)ti(ghg)o(e.)nem.(e.) (::)}
 
+[Suffragium DeJoseph]
+!De sancto Joseph
+Ant. {name:Ipse Jesus erat incipiens;annotation:7.;mode:7;book:Liber antiphonarius, 1960, p. 655;transcriber:Andrew Hinkley;%%(c3) I(e_i)pse(g_h) Je(i_j)sus(i'_) *(,) e(j)rat(i') in(h)cí(hi)pi(h)ens(h.) (,) qua(hf)si(g) an(h)nó(ij)rum(i) tri(h')gín(i)ta,(i.) (;) ut(e') pu(f)ta(e)bá(d!e'f)tur(f.) (,) fí(f_i)li(h)us(fg) Jo(fe)seph.(e.) (::) <i>T. P.</i> Al(fg)le(f)lú(e.)ja.(e.) (::)}
+_
+{initial-style:0;%%(c3) V/. Os(h) jus(h)ti(h) me(h)di(h)tá(h)bi(h)tur(h) sa(h)pi(h)én(h)ti(h)am.(f.) (::)}
+{initial-style:0;%%(c3) R/. Et(h) lin(h)gua(h) e(h)jus(h) lo(h)qué(h)tur(h) ju(h)dí(h)ci(h)um.(f.) (::)}
+(sed commune C4 aut commune C5 loco hujus versus dicitur)
+@:Suffragium DeJosephV:4-5
+(deinde dicitur)
+_
+@:Suffragium DeJosephV:7-8
 
 [Suffragium DeApostolisV]
 !De Apostolis
