@@ -43,16 +43,16 @@ sub preces {
 
       if ($r[2] >= 3 || $commemoratio{Rank} =~ /Octav/i || checkcommemoratio(\%commemoratio) =~ /octav/i) {
         $dominicales = 0;
-      }
-    } elsif (@commemoentries) {
-      foreach my $commemo (@commemoentries) {
+      } elsif (@commemoentries) {
+        foreach my $commemo (@commemoentries) {
 
-        # if (!(-e "$datafolder/$lang/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
-        my %c = %{officestring($lang, $commemo, 0)};
-        my @cr = split(";;", $c{Rank});
+          if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
+          my %c = %{officestring('Latin', $commemo, 0)};
+          my @cr = split(";;", $c{Rank});
 
-        if ($cr[2] >= 3 || $c{Rank} =~ /Octav/i || checkcommemoratio(\%c) =~ /octav/i) {
-          $dominicales = 0;
+          if ($cr[2] >= 3 || $c{Rank} =~ /Octav/i || checkcommemoratio(\%c) =~ /octav/i) {
+            $dominicales = 0;
+          }
         }
       }
     }
@@ -61,7 +61,7 @@ sub preces {
       && ($winner{Rank} !~ /octav/i || $winner{Rank} =~ /post octav/i)
       && checkcommemoratio(\%winner) !~ /Octav/i)
     {
-      # $precesferiales = $hora eq 'Prima';
+      $precesferiales = preces('Feriales');
       return 1;
     }
   }

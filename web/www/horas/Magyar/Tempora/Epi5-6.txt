@@ -1,9 +1,6 @@
 [Rank]
 Sabbato infra Hebdomadam V post Epiphaniam;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Szent Pál Apostolol Filemonhoz írt levelének kezdete
 !Phlm 1:1-6
@@ -14,9 +11,6 @@ Szent Pál Apostolol Filemonhoz írt levelének kezdete
 5 s mivel hallom, mekkora hittel és szeretettel vagy Krisztus Jézus és valamennyi szent iránt. 
 6 A hitben való közösség legyen benned hatékony mindannak a jónak felismerésére, amit Krisztusért kaptatok.
 
-[Responsory1]
-@Tempora/Epi2-6:Responsory1
-
 [Lectio2]
 !Phlm 1:7-11
 7 Nagy örömömre és vigasztalásomra szolgált ugyanis, testvér, a szereteted, mert a szentek szíve enyhülést talált benne. 
@@ -24,9 +18,6 @@ Szent Pál Apostolol Filemonhoz írt levelének kezdete
 9 mégis a szeretetre hivatkozva inkább kéréssel fordulok hozzád, én, az öreg Pál, aki most Krisztusért fogságot szenvedek. 
 10 Fiamért, Onezimuszért könyörgök, akinek bilincseimben adtam életet. 
 11 Egykor haszontalan volt számodra, most pedig számodra is, számomra is hasznos.
-
-[Responsory2]
-@Tempora/Epi2-6:Responsory2
 
 [Lectio3]
 !Phlm 1:12-19
@@ -38,6 +29,3 @@ Szent Pál Apostolol Filemonhoz írt levelének kezdete
 17 Ha tehát együtt érzel velem, fogadd őt úgy, mint engem. 
 18 Ha megkárosított vagy tartozik valamivel, írd az én terhemre. 
 19 Én, Pál sajátkezűleg írom: Én térítem meg. Nem is beszélek arról, hogy te többel tartozol nekem: saját magaddal.
-
-[Responsory3]
-@Tempora/Epi2-6:Responsory3

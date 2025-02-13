@@ -4,9 +4,3 @@ Sabbato in Hebdomadam IV Adventus;;Feria major;;2
 [Lectio1]
 De Isaia Propheta
 !Isa  homilia
-
-[Lectio2]
-!Isa 
-
-[Lectio3]
-!Isa 

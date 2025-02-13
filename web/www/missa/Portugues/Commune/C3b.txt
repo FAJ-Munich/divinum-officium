@@ -1,7 +1,5 @@
-[Name]
+[Officium]
 Commune plurimorum martirum extra Tempus Paschale; Salus autem
-
-[Rule]
 
 [Comment]
 # 15 – 3 Muitos Mártires – Salus autem

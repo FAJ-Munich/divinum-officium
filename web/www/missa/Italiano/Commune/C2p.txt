@@ -1,7 +1,5 @@
-[Name]
+[Officium]
 Commune unius Martyris Tempore Paschali; Protextsisti
-
-[Rule]
 
 [Introitus]
 !Ps 63:3
@@ -83,4 +81,3 @@ $Per Dominum
 [Postcommunio3]
 Ristorati dalla partecipazione a questo sacramento, ti preghiamo, o Signore nostro Dio, affinché per l'intercessione del beato N. martire tuo, sentiamo l'effetto duraturo del sacrificio celebrato.
 $Per Dominum
-

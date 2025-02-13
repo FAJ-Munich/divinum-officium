@@ -1,16 +1,6 @@
 [Rank]
 Dominica Sanctissimae Trinitatis;;Duplex I classis;;6.5
 
-[Rule]
-9 lectiones		
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-No Commemoration
-Psalm5 Vespera=116
-Psalm5 Vespera3=113
-Prima=53
-
 [Hymnus Vespera]
 v. Száll a tüzes nap lefelé,
 Szívünkben, örök Napvilág,
@@ -137,11 +127,6 @@ v. Tehát hárman tanúskodnak: az Atya, a Fiu és a Szentlélek, és ez a háro
 [Capitulum Sexta]
 !2 Cor 13:13
 v. Urunk, Jézus Krisztus kegyelme, Isten szeretete és a Szentlélek közössége legyen mindnyájatokkal!
-$Deo gratias
-
-[Capitulum Nona]
-!1 John 5:7
-v. Tehát hárman tanúskodnak: az Atya, a Fiu és a Szentlélek, és ez a három egy.
 $Deo gratias
 
 [Commemoratio 3]

@@ -8,13 +8,6 @@ O szczęśliwy mężu, * którego dusza w niebie zamieszkuje! Aniołowie z tego 
 Boże, który widzisz, że o własnych siłach w dobrem nie zdołamy, dozwól łaskawie, aby wstawiennictwo błogosławionego Marcina, Wyznawcy Twego i Biskupa, przeciw wszelkim przeciwnościom nas umocniło.
 $Per Dominum
 
-[Commemoratio]
-!Wspomnienie Św. Menny Męczennika
-@Commune/C2:Oratio proper
-$Oremus
-Dozwól prosimy Cię, wszechmogący Boże, abyśmy, którzy błogosławionego Mennę Męczennika Twego, narodziny obchodzimy, za jego przyczyną w miłości Imienia Twego się utwierdzili.
-$Per Dominum
-
 [Invit]
 Chwalmy Boga naszego, * Cześć oddając błogosławionemu Marcinowi.
 
@@ -48,7 +41,7 @@ V. Panie jeślim potrzebny jest jeszcze ludowi twemu, nie wzbraniam się podją�
 R. Który ani się bał umrzeć ani się zbraniał żyć.
 
 [Lectio4]
-Marcin w Sabinie albo Sabarze mieście Pannoniej urodzony, lat dzisięć mając nad wolą rodziców swych do kościoła bieżawszy, katechumenów w poczet to jest Chrztu czekających dał się wpisać. Gdy miał lat piętnaście na żołnierkę się wyprawiwszy naprzód w wojsku Konstantynowym potym Julianowym służył. Ten nie jedno zbroją, a ubiór żołnierski, którym się nakrywał nie mając w Ambianie ubogiemu i nagiemu, aby mu w Imię Chrystusowe jałmużnę dał proszącemu połowicę płaszcza dał. Nocy nadchodzącej ukazał mu się Chrystus połowiną oną odziany tak mówiąc: Marcin jeszcze Chrztu czekający tą mnie suknią pokrył.
+Marcin w Sabinie albo Sabarze mieście Pannoniej urodzony, lat dziesięć mając nad wolą rodziców swych do kościoła bieżawszy, katechumenów w poczet to jest Chrztu czekających dał się wpisać. Gdy miał lat piętnaście na żołnierkę się wyprawiwszy naprzód w wojsku Konstantynowym potym Julianowym służył. Ten nie jedno zbroją, a ubiór żołnierski, którym się nakrywał nie mając w Ambianie ubogiemu i nagiemu, aby mu w Imię Chrystusowe jałmużnę dał proszącemu połowicę płaszcza dał. Nocy nadchodzącej ukazał mu się Chrystus połowiną oną odziany tak mówiąc: Marcin jeszcze Chrztu czekający tą mnie suknią pokrył.
 
 [Responsory4]
 R. Oczy i ręce ku Niebu ustawicznie trzymając,
@@ -66,7 +59,7 @@ V. Na sile cielesnej nagle począł słabieć i zwoławszy uczniów mówił:
 R. Że rozstanie z ciałem blisko jest.
 
 [Lectio6]
-Ale gdy na niego onej ciężkiej gorączce na wznak modlącego patrzyli uczniowie, prosili go pokornie aby się na wznak obrócił, aż by choroba zelżyła. Marcin Święty im rzekł: Dopuśćcie mi w niebo raczej a nie na ziemię patrzyć, aby swą drogą duch prosto do Pana szedł. Gdy już śmierci bliski był, ujrzawszy nieprzyjaciela narodu ludzkiego rzekł: Czego tu stoisz krwawa bestjo nic we mnie nie najdziesz. Co mówiąc mając osiemdziesiąt lat i jeden, ducha Bodu oddał, którego chór Anielski przyjął, śpiewanie wiele ich a osobliwie Święty Seweryn koleński Biskupi, słyszało.
+Ale gdy na niego onej ciężkiej gorączce na wznak modlącego patrzyli uczniowie, prosili go pokornie aby się na wznak obrócił, aż by choroba zelżyła. Marcin Święty im rzekł: Dopuśćcie mi w niebo raczej a nie na ziemię patrzyć, aby swą drogą duch prosto do Pana szedł. Gdy już śmierci bliski był, ujrzawszy nieprzyjaciela narodu ludzkiego rzekł: Czego tu stoisz krwawa bestjo nic we mnie nie najdziesz. Co mówiąc mając osiemdziesiąt lat i jeden, ducha Bogu oddał, którego chór Anielski przyjął, śpiewanie wiele ich a osobliwie Święty Seweryn koleński Biskupi, słyszało.
 
 [Responsory6]
 R. Mówili uczniowie do Świętego Marcina: Czemu nas Ojcze opuszczasz, komu nas nędznych zostawisz?
@@ -97,10 +90,6 @@ R. Marcin Święty na łono Abrahamowe z weselem przyjęty, Marcin ten ubogi i p
 * Do nieba bogatym wchodzi, pieniem Anielskiem uraczony.
 V. Marcin Biskup przeniósł się z świata, perła kapłanów w Chrystusie żyje.
 R. Do nieba bogatym wchodzi, pieniem Anielskiem uraczony.
-
-[Lectio93]
-!Wspomnienie Św. Menny Męczennika
-Mennas Egipcjanin, żołnierz chrześcijański, w prześladowaniu Djoklecjana i Maximiana cesarzów, udawszy się na puszczę aby pokutował, dnia narodzenia cesarskiego, którego lud widokami się bawił, wyskoczywszy na theatrum bezpieczną mową zabobony pogańskie ganił. Poimany tedy i Pyrhusowi staroście w głównym mieście Phrygji oddany, biczmi okrutnie sieczony, po tym na końcu pieczony pochodniami pałającemi palony, z ranami włośień odnowionymi palony, po cierniu i miotłach żelaznych za ręce i nogi uwiązany, uwłoczony, ołownemi korbaczami pobity. Na ostatek mieczem zgładzony i w ogień wrzucony. Ciał stamtąd wydarte chrześcijanie pogrzebli i po tym do Konstantynopola przenieśli.
 
 [Ant Laudes]
 Uczniowie mówili * błogosławionemu Marcinowi: Ojcze, czemu nas opuszczasz i komu nas zostawiasz w naszym smutku? Wilcy drapieżni rzucą się na twoje stado.

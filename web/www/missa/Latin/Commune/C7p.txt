@@ -1,9 +1,12 @@
-[Name]
+[Officium]
 Commune non Virginum Martyrum Tempore Paschali
 
 [Rule]
 Psalmi Dominica
 Antiphonas horas
+
+[Introitus]
+ 
 
 [Oratio]
 @Commune/C7
@@ -13,9 +16,6 @@ Antiphonas horas
 
 [Oratio2]
 @Commune/C7
-
-[Introitus]
- 
 
 [Lectio]
  

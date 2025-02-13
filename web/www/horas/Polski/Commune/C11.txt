@@ -1,4 +1,4 @@
-[Name]
+[Officium]
 In Festis Beatae Mariae Virginis
 
 [Ant VesperaBMV]
@@ -47,8 +47,12 @@ Amen.
 V. Dozwól mi chwalić Cię, Panno święta.
 R. Daj mi moc przeciw nieprzyjaciołom swoim.
 
-[Ant 1]
+[Ant 1_]
 Święta Marjo, * wspomóż nieszczęśliwych, wesprzyj bojaźliwych, pociesz zasmuconych, módl się za lud, wstawiaj się za klerem, przyczyń się za niewiastami Bogu poświęconemi: niechaj doznają Twego wsparcia wszyscy, którzy obchodzą świętą uroczystość Twoją.
+
+[Oratio]
+Prosimy Cię, Panie, dozwól nam sługom Twoim, radować się nieustannem zdrowiem duszy i ciała, a za chwalebnem wstawieniem się błogosławionej Marji, zawsze Dziewicy, wyzwól nas od smutków doczesnych, a daj zakosztować wiecznego wesela.
+$Per Dominum
 
 [Invit]
 Święta Maryjo, Bogurodzico Dziewico, * Wstawiaj się za nami.
@@ -175,6 +179,10 @@ R. Albowiem uczynił mi wielkie rzeczy, który możny jest, i święte imię jeg
 &Gloria
 R. Albowiem uczynił mi wielkie rzeczy, który możny jest, i święte imię jego.
 
+[Versum 0]
+V. Módl się za nami święta Boża Rodzicielko.
+R. Abyśmy się stali godnymi obietnic Chrystusowych
+
 [Capitulum Laudes]
 !Syr 24:14
 v. Od początku i przed wieki jestem stworzona i aż do przyszłego wieku nie ustanę, a w mieszkaniu świętym służyłam przed nim.
@@ -204,10 +212,6 @@ Amen.
 
 [Ant 2]
 Błogosławiona jesteś * Maryjo, któraś uwierzyła: wypełni się w Tobie, co zostało Ci powiedziane od Pana, alleluja.
-
-[Oratio]
-Prosimy Cię, Panie, dozwól nam sługom Twoim, radować się nieustannem zdrowiem duszy i ciała, a za chwalebnem wstawieniem się błogosławionej Marji, zawsze Dziewicy, wyzwól nas od smutków doczesnych, a daj zakosztować wiecznego wesela.
-$Per Dominum
 
 [Lectio Prima]
 !Syr 24:19-20

@@ -1,9 +1,6 @@
 [Rank]
 S. Laurentii a Brundusio Confessoris;;Duplex;;3;;vide C5a
 
-[Rank] (rubrica innovata)
-S. Laurentii a Brundusio Confessoris;;Duplex optional;;2;;vide C5a
-
 [Rule]
 vide C5a;
 Gloria
@@ -13,7 +10,7 @@ O God, Who, to enable him to accomplish tasks, no matter how difficult, for the 
 $Per Dominum
 
 [Secreta]
-@Commune/C4a:Secreta1:s/N\./Lawrence/
+@Commune/C4a:Secreta:s/N\./Lawrence/
 
 [Postcommunio]
-@Commune/C4a:Postcommunio1:s/N\./Lawrence/
+@Commune/C4a:Postcommunio:s/N\./Lawrence/

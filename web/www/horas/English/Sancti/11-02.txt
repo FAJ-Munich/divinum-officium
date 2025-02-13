@@ -1,16 +1,12 @@
 [Rank]
-In Commemoratione Omnium Fidelium Defunctorum;;Duplex;;3;;ex C9
+All Souls;;Duplex;;3;;ex C9
 
 [Rank] (rubrica 196)
-In Commemoratione Omnium Fidelium Defunctorum;;I. classis;;6;;ex C9
-
-[Rank] (rubrica innovata)
-In Commemoratione Omnium Fidelium Defunctorum;;Duplex Solemnity;;6;;ex C9
+All Souls;;I. classis;;6;;ex C9
 
 [Oratio mortuorum1]
 #Oratio
 @Commune/C9:Oratio_a_porta:s/&psalm.*\)//s
-_
 $Oremus
 v. We beseech you, O Lord, to be merciful to the souls of all your servants and handmaids for whom we humbly entreat your majesty, that by these offices of pious supplication they may be found worthy to enter into everlasting rest.
 $Per Dominum
@@ -55,12 +51,6 @@ From the first letter of St. Paul to the Corinthians
 42 So also is the resurrection of the dead. It is sown in corruption, it shall rise in incorruption.
 43 It is sown in dishonour, it shall rise in glory. It is sown in weakness, it shall rise in power.
 44 It is sown a natural body, it shall rise a spiritual body.
-
-[Responsory8]
-R. O Lord, judge me not according to my works; for I have done nothing that can be counted in respect of thee. I beseech thy majesty therefore, that thou wouldest
-* Blot out my transgressions, O God.
-V. Lord, wash me thoroughly from mine iniquity and cleanse me from my sin.
-R. Blot out my transgressions, O God.
 
 [Lectio9]
 !1 Cor 15:51-58

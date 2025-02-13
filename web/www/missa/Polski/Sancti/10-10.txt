@@ -15,6 +15,7 @@ Gloria
 Panie Jezu Chryste, wzorze i nagrodo prawdziwej pokory, prosimy Cię, jak św. Franciszka uczyniłeś chwalebnym naśladowcą Swoim przez pogardę dla ziemskich zaszczytów, tak nam daj iść za jego przykładem i dzielić z nim chwałę:
 $Qui vivis
 
+
 [Secreta]
 Prosimy Cię, Panie, niech święty Franciszek, Wyznawca, wybłaga, by dary ofiarne złożone na świętym ołtarzu posłużyły nam ku zbawieniu.
 $Per Dominum

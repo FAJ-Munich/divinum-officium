@@ -1,0 +1,8 @@
+[Oratio]
+@Commune/C4c:Oratio:s/N\./Maurus/
+
+[Secreta]
+@Commune/C4c:Secreta:s/N\./Maurus/
+
+[Postcommunio]
+@Commune/C4c:Postcommunio:s/N\./Maurus/

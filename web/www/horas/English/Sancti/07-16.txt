@@ -1,11 +1,8 @@
 [Rank]
-Beatæ Mariæ Virginis de Monte Carmelo;;Duplex majus;;4;;ex C11
+Our Lady of Mt. Carmel;;Duplex majus;;4;;ex C11
 
 [Rank] (rubrica 196)
-Beatæ Mariæ Virginis de Monte Carmelo;;Simplex;;1.1;;vide C11
-
-[Rank] (rubrica innovata)
-Beatæ Mariæ Virginis de Monte Carmelo;;Duplex optional;;2;;ex C11
+Our Lady of Mt. Carmel;;Simplex;;1.1;;vide C11
 
 [Oratio]
 O Lord, Who hast given this excellency unto the Order of Carmel that the same should be especially styled the Order of the Most Blessed Mary, always a Virgin, thine Own Mother, mercifully grant that we who on this day do renew her memory in solemn worship, may worthily be shielded by her protection, and finally attain unto thine everlasting joy.
@@ -23,6 +20,9 @@ Many godly persons believe that it is not in this world only that the most Bless
 [Lectio94]
 On the holy day of Pentecost, it is said that many men, who were walking in the footsteps of the holy prophets Elias and Eliseus, embraced the faith of the Gospel, and began to build a chapel to that purest of Virgins on that very spot of Mount Carmel where Elias of old had seen a cloud arising, a remarkable symbol of the Virgin. Honouring this same Most Blessed Virgin as the special protectress of their Order, they were thenceforth called the brethren of Our Lady of Mount Carmel. The special protection of the Most Blessed Virgin hath never failed their Order, which Honorius III was dissuaded by a dream from abolishing, and to which she granted the badge of the holy scapular with the promise that those who are enrolled and observe the slight abstinence and say the few prayers prescribed, will be taken as soon as possible from the fire of Purgatory to the heavenly fatherland. Therefore the Order, laden with so many and such great favours, hath instituted a solemn Commemoration of the Most Blessed Virgin, to be celebrated year by year.
 &teDeum
+
+[Responsory7]
+@Commune/C11::s/holy Feast day/solemn Commemoration/
 
 [Ant 2]
 Thine head upon thee * is like Carmel, and the hair of thine head like kingly purple bound in tresses, alleluia.

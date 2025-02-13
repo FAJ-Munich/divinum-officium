@@ -1,7 +1,4 @@
-[Rank]
-Feria Secunda in Rogationibus;;Feria;;1.6
-
-[RankNewcal]
+[Rank] (rubrica innovata)
 Feria Secunda infra Hebdomadam V post Octavam Paschae;;Feria;;1
 
 [Rule]
@@ -18,9 +15,6 @@ Dalla prima Epistola di san Pietro Apostolo
 3 se pure avete gustato come è dolce il Signore.
 4 Accostatevi a lui, pietra viva, rigettata dagli uomini, ma eletta e onorata da Dio ; 
 5 e voi pure come pietre vive siete edificati sopra di lui, (per essere) casa spirituale, sacerdozio santo, per offrire vittime spirituali, gradite a Dio per Gesù Cristo.
-
-[Responsory1]
-@Tempora/Pasc4-1:Responsory1
 
 [Lectio2]
 !1 Pet 2:6-10
@@ -45,12 +39,6 @@ R. Cantate salmi a lui, alleluia.
 15 perché tale è la volontà di Dio, che facendo il bene chiudiate la bocca alla ignoranza degli uomini stolti :
 16 come liberi, e non quasi tenendo la libertà per velame di malizia, ma come servi di Dio,
 17 Onorate tutti : amate i fratelli : temete Dio : rendete onore al re.
-
-[Responsory3]
-@Tempora/Pasc4-0:Responsory3
-
-[Ant 2]
-Chiedete, e riceverete: * cercate, e troverete: bussate e vi sarà aperto, alleluia.
 
 [Oratio 2]
 Fa, o Dio onnipotente, che noi i quali nella nostra afflizione confidiamo nella tua bontà, siamo sempre fortificati dalla tua protezione contro ogni avversità. 

@@ -1,12 +1,8 @@
-[Name]
+[Officium]
 Officium parvum Beatae Mariae Virginis
 
 [Rank]
 Officium parvum Beatae Mariae Virginis;;Simplex;;1;;ex C11
-
-[Oratio 2]
-v. O God, who didst will that, at the announcement of an Angel, thy Word should take flesh in the womb of the Blessed Virgin Mary, grant to us thy suppliants, that we who believe her to be truly the Mother of God may be helped by her intercession with thee.
-$Per eumdem
 
 [Commemoratio]
 !Commemoration of the Saints
@@ -17,31 +13,26 @@ $Oremus
 v. Shield, O Lord, thy people, and ever keep them in thy care, who put their trust in the pleading of thy Apostles Peter and Paul, and of the other Apostles.
 v. May all thy saints, we beseech thee, O Lord, everywhere come to our help, that while we do honor to their merits, we may also enjoy their intercession: grant thy own peace unto our times, and drive away all wickedness from thy Church; direct our way, our actions, and our wishes and those of all thy servants in the way of salvation; to our benefactors render everlasting blessings, and to all the faithful departed grant eternal rest.
 $Per Dominum
-(sed rubrica 1955 aut rubrica 1960 aut rubrica monastica omittitur)
+(sed rubrica 1955 aut rubrica 196 omittitur)
 
-[Pre oratio]
+[Hymnus minor_]
 
-#Oratio
+#Hymnus
+v. Remember, O creator Lord,
+That in the Virgin's sacred womb
+Thou wast conceived, and of her flesh
+Didst our mortality assume.
 _
-v. Lord have mercy on us, Christ have mercy on us, Lord have mercy on us
-(sed rubrica 1955 aut rubrica 1960 omittitur)
-&Dominus_vobiscum
-$Oremus
-
-[Capitulum Completorium]
-!Sir 24:24
-v. I am mother of fair love, and fear, and knowledge, and holy hope.
-$Deo gratias
+r. Mother of grace, O Mary blest,
+To thee, sweet fount of love, we fly;
+Shield us through life, and take us hence
+To thy dear bosom when we die.
 _
-V. Pray for us, O holy Mother of God.
-R. That we may be made worthy of the promises of Christ.
-
-[Ant Completorium]
-Ant. We take refuge * under thy protection, O holy Mother of God! Despise not our supplications in our need, but deliver us always from all dangers, O Virgin, glorious and blessed!
-
-[Oratio Completorium]
-v. O Lord, we pray thee, that the glorious intercession of Mary, blessed, and glorious, and everlastingly Virgin, may shield us and bring us on toward eternal life.
-$Per Dominum
+r. O Jesu, born of Virgin bright,
+Immortal glory be to thee;
+Praise to the Father infinite,
+And Holy Ghost eternally.
+Amen.
 
 [Lectio1]
 !Sir 24:11-13
@@ -83,24 +74,9 @@ Fair and comely art thou, O daughter of Jerusalem, * terrible as a fenced camp s
 v. The daughters of Zion saw her, and called her blessed; the queens also, and they praised her.
 $Deo gratias
 
-[Hymnus minor]
-
-#Hymnus
-v. Remember, O creator Lord,
-That in the Virgin's sacred womb
-Thou wast conceived, and of her flesh
-Didst our mortality assume.
-_
-Mother of grace, O Mary blest,
-To thee, sweet fount of love, we fly;
-Shield us through life, and take us hence
-To thy dear bosom when we die.
-_
-O Jesu, born of Virgin bright,
-Immortal glory be to thee;
-Praise to the Father infinite,
-And Holy Ghost eternally.
-Amen.
+[Oratio 2]
+v. O God, who didst will that, at the announcement of an Angel, thy Word should take flesh in the womb of the Blessed Virgin Mary, grant to us thy suppliants, that we who believe her to be truly the Mother of God may be helped by her intercession with thee.
+$Per eumdem
 
 [Capitulum Prima]
 !Song 6:9
@@ -126,3 +102,18 @@ $Qui tecum
 [Verse Nona]
 V. After thy delivery, thou still remainest a Virgin undefiled.
 R. Mother of God, pray for us.
+
+[Ant Completorium]
+Ant. We take refuge * under thy protection, O holy Mother of God! Despise not our supplications in our need, but deliver us always from all dangers, O Virgin, glorious and blessed!
+
+[Capitulum Completorium_]
+!Sir 24:24
+v. I am mother of fair love, and fear, and knowledge, and holy hope.
+$Deo gratias
+_
+V. Pray for us, O holy Mother of God.
+R. That we may be made worthy of the promises of Christ.
+
+[Oratio Completorium]
+v. O Lord, we pray thee, that the glorious intercession of Mary, blessed, and glorious, and everlastingly Virgin, may shield us and bring us on toward eternal life.
+$Per Dominum

@@ -8,8 +8,8 @@ Thou Virgin first and last, let us thy mercy see.
 _
 V. The Angel of the Lord announced unto Mary.
 R. And she conceived of the Holy Spirit.
-$Oremus
 _
+$Oremus
 v. Pour forth, we beseech thee, O Lord, thy grace into our hearts: that as we have known the incarnation of thy Son Jesus Christ by the message of an Angel, so too by his Cross and passion may we be brought to the glory of his resurrection. Through the same Christ our Lord. Amen.
 
 [Nativiti]
@@ -31,6 +31,7 @@ v. Hail, O Queen of heaven, enthroned!
 Hail, by Angels Mistress owned! 
 Root of Jesse, Gate of morn, 
 Whence the world's true Light was born: 
+_
 Glorious Virgin, joy to thee, 
 Loveliest whom in heaven they see: 
 Fairest thou, where all are fair, 

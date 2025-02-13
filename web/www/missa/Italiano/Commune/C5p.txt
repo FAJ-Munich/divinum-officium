@@ -1,7 +1,5 @@
-[Name]
+[Officium]
 Commune confessoris non pontificis Tempore Paschali; Os justi
-
-[Rule]
 
 [Introitus]
 !Ps 36:30-31
@@ -50,4 +48,3 @@ Beato è quel servo se il padrone, quando ritorna, lo troverà al lavoro: in ver
 [Postcommunio]
 Ristorati dal cibo e dalla bevanda celeste, ti supplichiamo, o Signore Dio nostro, sia nostra difesa la preghiera del santo, nella cui festa abbiamo partecipato a questi doni.
 $Per Dominum
-

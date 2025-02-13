@@ -1,5 +1,3 @@
-@Tempora/Quad6-6
-
 [Ant Vespera]
 Aujourd'hui je suis profondément affligé * mais demain je briserai mes liens.;;115
 Avec ceux * qui haïssaient la paix, j'étais pacifique ; quand je leur parlais, ils m'attaquaient sans sujet.;;119
@@ -21,9 +19,6 @@ $Pater noster
 
 [Ant 3]
 Les princes des prêtres * et les pharisiens s'assurèrent du sépulcre en scellant la pierre et en y plaçant des gardes.
-
-[Oratio 3]
-@:Oratio Matutinum
 
 [Special Completorium]
 !Special Completorium

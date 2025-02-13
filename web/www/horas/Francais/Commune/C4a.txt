@@ -1,6 +1,10 @@
 [Ant 1]
 O docteur excellent, * lumière de la Sainte Eglise, bienheureux N., amoureux de la loi divine, priez pour nous le Fils de Dieu.
 
+[Oratio]
+Nous vous en prions, Dieu tout-puissant, accordez-nous de suivre les enseignements et les exemples du bienheureux N., votre Confesseur et Pontife, afin qu’au moyen du mépris des choses terrestres, nous arrivions aux joies éternelles.
+$Per Dominum
+
 [Lectio1]
 De libro Ecclesiastici.
 !Sir 39:1-5
@@ -47,10 +51,6 @@ R. Et le Seigneur Ta rempli de l’Esprit de Sagesse et d’intelligence.
 &Gloria
 R. Et le Seigneur Ta rempli de l’Esprit de Sagesse et d’intelligence.
 
-[Oratio]
-Nous vous en prions, Dieu tout-puissant, accordez-nous de suivre les enseignements et les exemples du bienheureux N., votre Confesseur et Pontife, afin qu’au moyen du mépris des choses terrestres, nous arrivions aux joies éternelles.
-$Per Dominum
-
 [Lectio7 in 2 loco]
 Lecture du saint Évangile selon saint Matthieu
 !Matt 5:13-19
@@ -58,7 +58,7 @@ En ce temps-là : Jésus dit à ses disciples : Vous êtes le sel de la terre. M
 _
 Homélie de saint Hilaire, Évêque.
 !Comm. de Matthieu, can. 4
-Vous êtes le sel de la terre. Si le sel s’affadit, ce qu’il salera ne vaudra rien. A mon avis, il n’y a pas de sel de la terre Comment donc appelle-t-il les Apôtres le sel de la terre? Mais il faut chercher la vraie signification de ces paroles, que montreront l’office des Apôtres et la nature du sel lui-même. Le sel contient en lui l’élément de l’eau et celui du feu, et il est composé de l’un et de l’autre.
+Vous êtes le sel de la terre. Si le sel s’affadit, ce qu’il salera ne vaudra rien. A mon avis, il n’y a pas de sel de la terre Comment donc appelle-t-il les Apôtres le sel de la terre ? Mais il faut chercher la vraie signification de ces paroles, que montreront l’office des Apôtres et la nature du sel lui-même. Le sel contient en lui l’élément de l’eau et celui du feu, et il est composé de l’un et de l’autre.
 
 [Lectio8 in 2 loco]
 CE sel qui est devenu d’usage universel pour le genre, humain rend incorruptibles les corps qui en sont saupoudrés, et il est très apte à donner le goût de toute saveur cachée. Or les Apôtres sont les prédicateurs des choses célestes et comme les dispensateurs de l’éternité, conférant l’immortalité à tous les corps aspergés de leur parole. C’est donc à bon droit qu’ils sont nommés sel de la terre, puisqu’à la manière du sel, par la vertu de la doctrine, ils conservent les corps pour l’éternité.

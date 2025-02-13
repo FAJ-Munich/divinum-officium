@@ -15,9 +15,6 @@ ex TemporaM/Pasc5-4;
 Doxology=Asc
 Feria Te Deum
 
-[Rule] (rubrica 196)
-
-
 [Ant Matutinum]
 @Tempora/Pasc5-4::1 s/;;.*//
 ;;

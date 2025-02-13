@@ -1,7 +1,5 @@
-[Name]
+[Officium]
 Commune Unius Martyris Pontificis, Statuit
-
-[Rule]
 
 [Introitus]
 !Eccli 45:30
@@ -54,5 +52,3 @@ e come i cieli sarà stabile in perpetuo.
 [Postcommunio]
 Ristorati dalla partecipazione a questo sacramento, ti preghiamo, o Signore nostro Dio, affinché per l'intercessione del beato N. martire tuo e vescovo, sentiamo l'effetto duraturo del sacrificio celebrato.
 $Per Dominum
-
-

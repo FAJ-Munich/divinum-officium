@@ -8,7 +8,10 @@ Psalmi Dominica
 Antiphonas horas
 Psalm5 Vespera=116
 Psalm5 Vespera3=115
-(rubrica tridentina aut rubrica divino) Vesperae Defunctorum
+(rubrica tridentina aut rubrica divino) 
+(deinde dicitur)
+Vesperae Defunctorum
+(sed feria 7 aut rubrica 196 omittitur)
 
 [Ant Vespera]
 Vidi turbam magnam, * quam dinumeráre nemo póterat, ex ómnibus géntibus, stantes ante thronum.
@@ -278,7 +281,8 @@ _
 Laus, honor, virtus, glória
 Deo Patri, et Fílio,
 Sancto simul Paráclito,
-In sæculórum sǽcula. Amen.
+In sæculórum sǽcula.
+Amen.
 
 [Ant 2]
 Te gloriósus * Apostolórum chorus, te Prophetárum laudábilis númerus, te Mártyrum candidátus laudat exércitus, te omnes Sancti et elécti voce confiténtur unánimes, beáta Trínitas, unus Deus.

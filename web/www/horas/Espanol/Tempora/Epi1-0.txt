@@ -3,12 +3,6 @@ Sanctæ Familiæ Jesu Mariæ Joseph;;Duplex majus;;4
 (sed rubrica 1960)
 Sanctæ Familiæ Jesu Mariæ Joseph;;Duplex II classis;;5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-No Sunday Commemoratio
-
 [Ant Vespera]
 Jacob * engendró a José, el esposo de María, de la cual nació Jesús, llamado Cristo.;;109
 Un ángel del Señor * se le apareció en sueños a José y le dijo: No tengas reparo en llevarte a María tu mujer, porque la criatura que hay en ella viene del Espíritu Santo.;;112
@@ -348,10 +342,6 @@ R. El Señor nos enseñará. * Sus caminos.
 _
 V. He vivido pobre y en trabajos desde mi juventud.
 R. Cuando fui exaltado, me vi humillado y abatido.
-
-[Capitulum Nona]
-@:Lectio Prima
-$Deo gratias
 
 [Responsory Nona]
 R.br. He vivido pobre y en trabajos. * Desde mi juventud. 

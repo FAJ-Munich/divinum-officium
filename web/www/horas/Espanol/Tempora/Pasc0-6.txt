@@ -1,20 +1,9 @@
 [Rank]
 Sabbato in Albis;;Semiduplex I class;;6;;ex Pasc0-0
 
-[Rule]
-ex Pasc0-0;
-1 nocturn;
-Omit Hymnus Preces Suffragium;
-Minores sine Antiphona;
-Capitulum Versum 2;
-Psalmi Dominica;
-
 [Oratio]
 Dios todopoderoso, concede a quienes hemos celebrado con amor estas fiestas pascuales, llegar a las alegrías eternas.
 $Per Dominum
-
-[Ant Matutinum]
-@Tempora/Pasc0-3
 
 [Lectio1]
 Lección del Santo Evangelio según San Juan.

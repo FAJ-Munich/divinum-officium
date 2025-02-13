@@ -1,4 +1,4 @@
-[Name]
+[Officium]
 Commune Apostolorum
 
 [Ant Vespera]
@@ -245,10 +245,6 @@ R. Y comprendieron su obra.
 
 [Ant 2]
 Vosotros, los que habéis dejado todo * y me habéis seguido, recibiréis cien veces más, y heredaréis la vida eterna.
-
-[Oratio]
-Te suplicamos, omnipotente Dios, que el bienaventurado Apóstol N., cuya festividad prevenimos, implore tu auxilio en favor nuestro, de suerte que, libres de nuestras culpas, también nos veamos exentos de todos los peligros.
-$Per Dominum
 
 [Lectio Prima]
 !Act 5:41

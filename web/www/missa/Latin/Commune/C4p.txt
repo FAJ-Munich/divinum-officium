@@ -1,9 +1,10 @@
 @Commune/C4
 
-[Name]
+[Officium]
 Commune Confessoris Pontificis Tempore Paschali
 
 [Rule]
+
 
 [Graduale]
 @Commune/C4:GradualeP

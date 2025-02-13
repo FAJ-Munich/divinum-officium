@@ -1,4 +1,4 @@
-[Name]
+[Officium]
 Officium Beatae Mariae Virginis in Sabbato
 
 [Rank]
@@ -42,4 +42,3 @@ Msza jak na święta N. M. P. Salve, Sancta Parens.
 
 [Postcommunio]
 @Commune/C10:Postcommunio
-

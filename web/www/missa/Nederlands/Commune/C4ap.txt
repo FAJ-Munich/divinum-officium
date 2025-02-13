@@ -1,4 +1,4 @@
-[Name]
+[Officium]
 Commune Doctore Tempore Paschali: In medio
 
 [Rule]
@@ -11,6 +11,9 @@ Gloria
 @Commune/C4a
 
 [Lectio]
+@Commune/C4a
+
+[Lectio1]
 @Commune/C4a
 
 [Graduale]
@@ -36,7 +39,4 @@ Gloria
 @Commune/C4a
 
 [Postcommunio1]
-@Commune/C4a
-
-[Lectio1]
 @Commune/C4a

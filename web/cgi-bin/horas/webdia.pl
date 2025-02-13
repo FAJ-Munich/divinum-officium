@@ -17,7 +17,7 @@ sub htmlHead {
   my ($horasjs) = "<SCRIPT TYPE='text/JavaScript' LANGUAGE='JavaScript1.2'>\n" . horasjs() . '</SCRIPT>';
   $onload && ($onload = " onload=\"$onload\";");
 
-  print << "PrintTag";
+  print <<"PrintTag";
 Content-type: text/html; charset=utf-8
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
@@ -59,10 +59,12 @@ Content-type: text/html; charset=utf-8
       background: $dialogbackground;
     }
     .contrastbg { background: white; }
+    .nigra { color: black; }
+
 PrintTag
 
   if (our $whitebground) {
-    print << "PrintTag";
+    print <<"PrintTag";
     \@media (prefers-color-scheme: dark) {
       body {
         background: black;
@@ -76,10 +78,11 @@ PrintTag
         background: #3F3F3F;
         color: white;
       }
+      .nigra {  color: white;  }
       }
 PrintTag
   } else {
-    print << "PrintTag";
+    print <<"PrintTag";
     \@media (prefers-color-scheme: dark) {
       body {
         background: $dialogbackground;
@@ -104,7 +107,7 @@ PrintTag
 PrintTag
   }
 
-  print << "PrintTag";
+  print <<"PrintTag";
   </STYLE>
   <TITLE>$title</TITLE>
 	<SCRIPT TYPE='text/JavaScript' SRC='js/util.js'></SCRIPT>
@@ -312,10 +315,10 @@ sub setfont {
   my $size = ($istr =~ /^\.*?([0-9\-\+]+)/i) ? $1 : 0;
   my $color = ($istr =~ /([a-z]+)\s*$/i) ? $1 : '';
   if ($istr =~ /(\#[0-9a-f]+)\s*$/i || $istr =~ /([a-z]+)\s*$/i) { $color = $1; }
-  $color = '' if $color eq 'italic';                          # italic is not a color
+  $color = '' if $color eq 'italic';                                    # italic is not a color
   my $font = "<FONT ";
   if ($size) { $font .= "SIZE='$size' "; }
-  if ($color !~ /black/i) { $font .= "COLOR=\"$color\""; }    # black not explictly for dark mode
+  if ($color && $color !~ /black/i) { $font .= "COLOR=\"$color\""; }    # black not explictly for dark mode
   $font .= ">";
   if (!$text) { return $font; }
   my $bold = '';
@@ -522,6 +525,13 @@ sub setcell {
     if ($lang =~ /gabc/i) {    # post process GABC chants
       my $dId = 0;
 
+      # Merge Oratio
+      $text =~
+        s/(o|at)\.\(([fhi])\.\) \(\:\:\)\}\s*(?:\<br\/\>)*\s*\{\(c[34]\) (O\([hi]\)ré\([ghi]{1,2}\)mus\.\([fhi]\.\) \(\:\:\)\})/$1.($2.) (::) $3/s;
+      $text =~ s/(O\([hi]\)ré\([ghi]{1,2}\)mus\.\([fhi]\.\)) \(\:\:\)\}\s*(?:\<br\/\>)*\s*\{\(c[34]\)/$1 (:)/gs;
+      $text =~
+        s/\(([dhi])\.\) \(\:\:\)\}\s*(?:\<br\/\>)*\s*\{(?:initial\-style\:0\;\%\%)\(c[34]\) (Per|Qui)/($1.) (:) $2/gs;
+
       # retrieve all GABC scores from files
       while ($text =~ /\{gabc:(.+?)\}/is) {
         my $temp = $1;
@@ -564,8 +574,9 @@ sub setcell {
         $text =~ s/(\(\:\:\)\}?) <br\/?>\n/$1 \n/gi;      # remove wrong HTML linebreaks
         $text =~ s/\) \* /\) \*() /g;                     # star to be followed by ()
         $text =~ s/(\([\,\;\:]+\))\s*?(\^?\d+\.\^?|(<sp>)?[VR]\/(<\/sp>)?\.)\s/ $2$1 /gs;
-        $text =~ s/†\((.*?)\)/($1) † /g;
-        $text =~ s/\) \^?†\^?\(?\)?/\) ^†^() /g;
+        $text =~ s/†\(([a-z0-9\_\'\.]+?)\)/($1) ^†^(,) /g;
+
+        #        $text =~ s/\) \^?†\^?\(?\)?/\) ^†^() /g;
         $text =~ s/(<sp>)?V\/(<\/sp>)?\.?(\(\))?/V\/\.() /g;
         $text =~ s/(<sp>)?R\/(<\/sp>)?\.?(\(\))?/R\/\.() /g;
         $text =~ s/\.\(\) \(\:\:\)/.(::)/g;               # contract () (::)
@@ -823,6 +834,8 @@ sub horas_menu {
     . qq(&version=$version&testmode=$testmode&lang2=$lang2&votive=$votive")
     : qq(HREF="#" onclick="appendix('Index')");
   $output .= qq(\n<A $a><FONT COLOR=$colour>Appendix</FONT></A>\n) if ($0 !~ /Cofficium/);
+  $a = qq(HREF="#" onclick="callkalendar('kalendar')");
+  $output .= qq(&nbsp;&nbsp;\n<A $a><FONT COLOR=$colour>Kalendarium</FONT></A>\n) if ($0 !~ /Pofficium/);
   $output;
 }
 
@@ -922,8 +935,9 @@ sub expand {
   if (
     $sigil ne '$rubrica '
     && ($expand eq 'propria'
-      || ($expand eq 'psalteria' && ($line =~ /^(?:[A-Z](?!men)|pater_noster)/)))
+      || ($expand eq 'psalteria' && ($line =~ /^(?:[A-Z](?!men|remus)|pater_noster)/)))
   ) {
+    $line =~ s/ solemnis// if $lang eq 'Latin-gabc';
     setlink($sigil . $line, 0, $lang);
   } elsif ($sigil eq '&') {
 

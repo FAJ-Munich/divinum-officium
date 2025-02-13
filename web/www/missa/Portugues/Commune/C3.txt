@@ -1,7 +1,5 @@
-[Name]
+[Officium]
 Commune Plurimorum Martyrum Intret in conspectu
-
-[Rule]
 
 [Comment]
 # 13 – 1 Muitos Mártires – Intret

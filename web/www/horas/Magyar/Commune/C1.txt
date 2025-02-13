@@ -1,4 +1,4 @@
-[Name]
+[Officium]
 Commune Apostolorum
 
 [Ant Vespera]
@@ -127,10 +127,6 @@ R. És megértették cselekedeteit
 
 [Ant 2]
 Ti akik mindent elhagytatok * és követtetek engem, százszoros jutalmat kaptok és az örök életet
-
-[Oratio]
-Add meg nekünk kérünk Mindenható Isten, hogy szent Apostolod N. vigiliájának ünneplése áhitatunkat és lelkünk egészségét szolgálja
-$Per Dominum
 
 [Lectio Prima]
 !Acts 5:41

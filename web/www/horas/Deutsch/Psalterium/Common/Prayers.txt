@@ -53,7 +53,7 @@ V. Der Herr sei mit euch.
 R. Und mit deinem Geiste.
 V. O Herr, erhöre mein Gebet.
 R. Und laß mein Rufen zu dir kommen.
-/:das zweite 'O Herr, erhöre mein Gebet' wird ausgelassen:/
+/:das zweite «O Herr, erhöre mein Gebet» wird ausgelassen:/
 
 [Confiteor_]
 v. Ich bekenne Gott, dem Allmächtigen, der seligen, allzeit reinen Jungfrau Maria, dem heiligen Erzengel Michael, dem heiligen Johannes dem Täufer, den heiligen Aposteln Petrus und Paulus und allen Heiligen, daß ich viel gesündigt habe in Gedanken, Worten und Werken: /:man schlägt sich an die Brust:/ durch meine Schuld, durch meine Schuld, durch meine große Schuld. Darum bitte ich die selige, allzeit reine Jungfrau Maria, den heiligen Erzengel Michael, den heiligen Johannes den Täufer, die heiligen Apostel Petrus und Paulus und alle Heiligen für mich zu beten bei Gott, unserem Herrn. 
@@ -95,6 +95,15 @@ R. Dank sei Gott.
 [Fidelium animae]
 V. Die Seelen der Gläubigen mögen durch die Barmherzigkeit Gottes ruhen in Frieden.
 R. Amen.
+
+[Per Christum]
+Im Hinblick auf Christus, unsern Herrn.
+
+[Per eumdem Christum]
+Im Hinblick auf denselben Christus, unsern Herrn.
+
+[Qui tecum in]
+Der mit dir lebt und herrscht von Ewigkeit zu Ewigkeit.
 
 [Per Dominum]
 r. Durch unseren Herrn Jesus Christus, deinen Sohn, der mit dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit.
@@ -144,7 +153,7 @@ Du bist des Vaters * allewiger Sohn.
 Du hast bezwungen des Todes Stachel * und denen, die glauben, die Reiche der Himmel aufgetan.
 Du sitzest zur Rechten Gottes * in Deines Vaters Herrlichkeit.
 Als Richter, so glauben wir, * kehrst Du einst wieder.
-/:knieend beten wir:/
+/:knieend beten wir:/ ~
 Dich bitten wir denn, komm Deinen Dienern zu Hilfe, * die Du erlöst mit kostbarem Blute.
 In der ewigen Herrlichkeit * zähle uns deinen Heiligen zu.
 Rette Dein Volk, o Herr, * und segne Dein Erbe;
@@ -217,9 +226,6 @@ Alleluja, alleluja.
 V. Von den Pforten des Fegfeuers.
 R. Errette, o Herr, ihre Seelen.
 
-[Per Christum]
-Im Hinblick auf Christus, unsern Herrn.
-
 [Oratio Visita_]
 v. Nimm, wir bitten dich, o Herr, Wohnung in diesem Gemach und alle Nachstellungen des Feindes scheuche weit von ihm weg; deine heiligen Engel mögen in ihm Wohnung nehmen, die uns im Frieden beschützen, und dein Segen walte stets über uns.
 
@@ -240,14 +246,14 @@ Benedictio. Der Herr möge uns segnen + und uns vor allem Schaden bewahren und u
 V. Gebt den Segen.
 R. Gott [möge ihn geben].
 
-[commemoratio omnium]
+[commemoratio omnium_]
 R.br. Gedenken an alle Brüder, Familien unseres Ordens und unsere Wohltäter.
 
 [Requiescant]
 V. Laß sie ruhen in Frieden.
 R. Amen.
 
-[deus veniae]
+[deus veniae_]
 v. O Gott, der Du barmherzig bist und das Heil der Menschen liebst: wir bitten Dich um Deine Milde: auf daß Du allen Brüdern unserer Kongregation, Freunde und Wohltäter, die aus dieser Welt geschieden sind, durch die Fürsprache der seligen allzeit reinen Jungfrau Maria und aller Heiligen die Gemeinschaft in der ewigen Glückseligkeit gewähren mögest. 
 
 [oratio_Domine]
@@ -261,3 +267,6 @@ Benedictio. Es segne uns und beschütze uns der allmächtige und barmherzige Her
 
 [Jube domne]
 V. Laß, o Herr, den Segen erteilen.
+
+[Lectio regulae]
+Lesung aus der Regel unseres Hl. Vaters Benedikt, Kapitel Nr.

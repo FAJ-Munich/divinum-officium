@@ -1,10 +1,8 @@
 [Rank]
 In Vigilia S. Matthæi Apostoli;;Simplex;;1.5;;ex C1v
 
-[Rule]
-ex C1v;
-no Gloria
-Suffr=Maria3;;Ecclesiæ;Papa
+[Name]
+Matthieu
 
 [Introitus]
 !Ps 51:10; 51:11
@@ -49,4 +47,3 @@ Grande est sa gloire, grâce à votre salut : vous le couvrirez de gloire et d�
 [Postcommunio]
 Nous vous supplions, Seigneur, qu’apaisé par les supplications de votre saint Apôtre et Evangéliste Matthieu, vous nous accordiez le pardon et le salut éternel.
 $Per Dominum
-

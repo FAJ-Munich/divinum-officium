@@ -1,9 +1,6 @@
 [Rank]
 S. Silvestri Papæ et Conf.;;Duplex;;3;;vide C4d
 
-[Rank] (rubrica 196)
-Die septima post Nativitatem;;Duplex II class;;5;;ex Sancti/12-25m3
-
 [Rule]
 OPapaC=Silvéstrum;
 vide C4d;
@@ -12,7 +9,7 @@ Credo
 Prefatio=Nat
 
 [Oratio]
-@Commune/C1v:Oratio:s/N\./Silvéstri/
+@Commune/C4:Oratio:s/N\./Silvéstri/
 
 [Commemoratio Oratio]
 !Pro Octava Nativitatis.

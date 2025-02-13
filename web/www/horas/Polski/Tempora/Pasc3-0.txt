@@ -1,11 +1,6 @@
 [Rank]
 III Niedziela po Wielkiejnocy;;Semiduplex;;5;;
 
-[Rule]
-9 Lectiones
-Duplex
-Una Antiphona
-
 [Ant 1]
 Maluczko, * a już mię nie ujrzycie, mówi Pan, i zasię maluczko, a ujrzycie mię, gdyż idę do Ojca, alleluja, alleluja.
 

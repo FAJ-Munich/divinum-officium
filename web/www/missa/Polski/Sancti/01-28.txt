@@ -11,8 +11,6 @@ Gloria
 ! Szaty białe
 Św. Piotr Nolasco założył pod wpływem objawienia Matki Bożej nowy zakon, którego celem było wykupywanie chrześcijan z niewoli muzułmańskiej. Zakonnicy zobowiązywali się specjalnym ślubem do osobistego oddania się w niewolę, jeżeli byłoby to potrzebne do uwolnienia jeńca. Św. Piotr umarł w Barcelonie 25 grudnia 1256 roku.
 
-Wspomnienie św. Agnieszki, Dziewicy i Męczennicy. Drugie święto św. Agnieszki świadczy, jak wielki był jej kult w Rzymie.
-
 [Introitus]
 @Commune/C5b:Introitus
 
@@ -41,19 +39,4 @@ $Per Dominum
 
 [Postcommunio]
 Pokrzepieni niebieskim pokarmem i napojem, błagamy Cię pokornie. Boże nasz, niech nas bronią modlitwy tego, w którego święto przyjęliśmy te dary.
-$Per Dominum
-
-[Commemoratio Oratio]
-!Drugie wspomnienie św. Agnieszki
-Boże, który co roku sprawiasz nam radość uroczystością świętej Agnieszki, Dziewicy i Męczennicy Twojej, daj, prosimy, abyśmy oddając jej cześć, szli także za przykładem jej świętego życia.
-$Per Dominum
-
-[Commemoratio Secreta]
-!Drugie wspomnienie św. Agnieszki
-Niechaj zstąpi, prosimy Cię, Panie, obfite błogosławieństwo Twoje na te dary ofiarne, niechaj nas łaskawie uświęci i rozraduje uroczystym obchodem Męczenników.
-$Per Dominum
-
-[Commemoratio Postcommunio]
-!Drugie wspomnienie św. Agnieszki
-Panie, przyjęliśmy Sakrament obchodząc doroczną uroczystość; spraw, prosimy, niech on udzieli nam pomocy na życie doczesne i wieczne.
 $Per Dominum

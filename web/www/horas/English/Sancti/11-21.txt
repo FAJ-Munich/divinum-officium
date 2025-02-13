@@ -1,11 +1,11 @@
 [Rank]
-In Presentatione Beatae Mariae Virginis;;Duplex majus;;3;;ex C11
+Presentation of the Blessed Virgin Mary;;Duplex majus;;3;;ex C11
 
 [Rank] (rubrica 196)
-In Presentatione Beatae Mariae Virginis;;Duplex;;3;;vide C11
+Presentation of the Blessed Virgin Mary;;Duplex;;3;;vide C11
 
 [Ant 1]
-@Commune/C10:Ant 2:s/Christ;.*/Christ, alleluia./
+@Commune/C10:Ant 2_:s/Christ;.*/Christ, alleluia./
 
 [Oratio]
 O God, Who wast pleased that the blessed Mary always a Virgin, being herself the dwelling-place of the Holy Ghost, should, as on this day, be presented in thine earthly Temple, grant, we beseech thee, that by her prayers we may worthily be presented in the heavenly Temple of thy glory.
@@ -23,7 +23,3 @@ Such was Mary that her single life offereth an example to all. If then the doer 
 
 [Lectio6]
 Why should I go on to speak of the scantiness of her eating, or of the multiplicity of her work? how her labour seemed above human capacity, and her refreshment insufficient for human strength, her toil never missing a moment, her fasting taking two days together. And when she was fain to eat, she took not dainties, but whatsoever food came first to hand that would keep body and soul together. She would not sleep till need was, and even then, while her body rested, her soul watched, for she often talked in her sleep, either repeating things that she had read, or going on with what she was doing before sleep interrupted her, or rehearsing things executed, or talking of things projected.
-
-[Lectio94]
-@:Lectio4
-&teDeum

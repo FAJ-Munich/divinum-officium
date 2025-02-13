@@ -79,7 +79,8 @@ sub specials {
     }
 
     # Omit this section if the rule says so.
-    my $ite = substr($item, 1, index($item, ' '));
+    $item =~ /\#(.+?)(\s|$)/;
+    my $ite = $1;
 
     if (
       $rule =~ /Omit.*? $ite/i
@@ -134,6 +135,12 @@ sub specials {
       next;
     }
 
+    if ($item =~ /Commemoratio officii parvi/) {
+      my %mariae = %{setupstring($lang, 'CommuneM/C12.txt')};
+      push(@s, $item, $mariae{"COP $hora"});
+      next;
+    }
+
     # Preces:
     if ($item =~ /preces/i) {
       $skipflag = !preces($item);    # check if Preces Feriales or Dominicales are to be said
@@ -185,9 +192,7 @@ sub specials {
     }
 
     if ($item =~ /Capitulum/i && $hora =~ /^(?:Tertia|Sexta|Nona|Completorium)$/i) {
-      if ($hora eq 'Completorium') {
-        push(@s, translate($item, $lang));
-      }
+      push(@s, translate($item, $lang)) if ($hora eq 'Completorium');
       push(@s, capitulum_minor($lang));
       next;
     }
@@ -227,6 +232,8 @@ sub specials {
     }
 
     if ($item =~ /Hymnus/) {
+
+      # Fills in Hymnus (and Versus if necessary)
       push(@s, gethymn($lang));
       next;
     }
@@ -435,7 +442,7 @@ sub getproprium {
   }
 
   if ($w) {
-    if ($buildflag) { setbuild($winner, $name, 'subst'); }
+    if ($buildflag) { setbuild($winner, $name, 'proprium'); }
     return ($w, $c);
   }
 
@@ -487,7 +494,7 @@ sub getproprium {
 
     if ($w) {
       $w = replaceNdot($w, $lang);
-      my $n = $com{Name};
+      my $n = $com{Officium} || $cn;
       $n =~ s/\n//g;
       if ($buildflag) { setbuild($n, $name, 'subst'); }
     }
@@ -625,7 +632,7 @@ sub getseant {
 }
 
 #*** geffrompsalterium($item, $ind, $lang)
-# returns $item (antiphona/versum) $ind(1-3) from $lang/Psalterium/Major Special.txt
+# returns $item (antiphona/versum) $ind(1-3/0) from $lang/Psalterium/Major Special.txt
 sub getfrompsalterium {
   my $item = shift;
   my $ind = shift;
@@ -661,7 +668,7 @@ sub setbuild2 {
   $buildscript .= ",,,$comment\n";
 }
 
-#*** setbuild($line, $name, $vomment)
+#*** setbuild($line, $name, $comment)
 # set a headline into building script
 sub setbuild {
   if ($column != 1) { return; }
@@ -669,21 +676,26 @@ sub setbuild {
   my $name = shift;
   my $comment = shift;
   $source = $file;
-  if ($source =~ /(.*?)\//s) { $source = $1; }
+
+  if ($source =~ /(.*?)\//s) {
+    $source = $1 unless $1 =~ /Sancti/;
+    $source =~ s/\.txt$//;
+  }
 
   if ($comment =~ /ord/i) {
     $comment = setfont($redfont, $comment);
   } else {
     $comment = ",,,$comment";
   }
+  $name = setfont('italic', $name);
   $buildscript .= "$comment: $source $name\n";
 }
 
 #*** checksuffragium
 # versions 1956 and 1960 exclude from Ordinarium
 sub checksuffragium {
-  return 1 if $winner =~ /C12/;    # Officium Parvum B.M.V.
 
+  our $collectcount;
   my $ranklimit = ($version =~ /cist/i ? 4 : 3);    # Roman: Duplex; Cist: MM. maj.
   return 0
     if $rule =~ /no suffragium/i
@@ -706,7 +718,10 @@ sub checksuffragium {
     || ($octavcount || $commemoratio{Rank} =~ /octav/i)
 
     # Cistercian: minor Feasts of Apostles
-    || $version =~ /cist/i && $commune =~ /C1a?$/i;
+    || $version =~ /cist/i && $commune =~ /C1a?$/i
+
+    # Altovadensis: max 3. collects
+    || $version =~ /altovadensis/i && $collectcount > 2;
 
   if ($commemoratio && $seasonalflag) {
     my @r = split(';;', $commemoratio{Rank});

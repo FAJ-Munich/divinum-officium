@@ -1,10 +1,6 @@
 [Rank]
 Sabbato infra Hebdomadam III post Octavam Paschae;;Feria;;1
 
-[Rule]
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 From the Book of Revelation of St John Apostle
 !Rev 22:1-7

@@ -1,8 +1,8 @@
 [Rank]
 In Vigilia S. Johannis Baptistae;;Simplex;;1.5
 
-[Rank1960]
-In Vigilia S. Johannis Baptistae;;Simplex;;5
+[Rank] (rubrica 196)
+In Vigilia S. Joannis Baptistae;;Duplex II classis;;5
 
 [Rule]
 no Gloria
@@ -50,4 +50,3 @@ Grande è la sua gloria, in virtù del tuo aiuto salutare; o Signore, lo hai riv
 [Postcommunio]
 La potente preghiera del beato Giovanni Battista ci accompagni, o Signore, e a noi renda propizio Colui del quale egli preannunciò la venuta, il Signore nostro Gesù Cristo, tuo Figlio:
 $Qui tecum
-

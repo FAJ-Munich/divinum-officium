@@ -4,10 +4,6 @@ Dominica IV Adventus;;Semiduplex;;5.6
 [Rank] (rubrica 196)
 Dominica IV Adventus;;Semiduplex;;6
 
-[Rule]
-9 lectiones
-Antiphonas horas
-
 [Ant Vespera]
 Suonate la tromba * in Sion, perché è vicino il giorno del Signore: ecco ch'egli verrà a salvarci, alleluia, alleluia.
 Ecco che verrà * il desiderato da tutte le Genti: e la casa del Signore si riempirà di gloria, alleluia.

@@ -612,11 +612,6 @@ Amen.
 {(c3) Fra(h)tres:(h.) (,) Só(h)bri(h)i(h) es(h)tó(h)te,(h) et(h) vi(h)gi(h)lá(h)te:(f.) (;) qui(h)a(h) ad(h)ver(h)sá(h)ri(h)us(h) ves(h)ter(h) di(h)á(h)bo(h)lus(h_') (,) tam(h)quam(h) le(h)o(h) rú(h)gi(h)ens(h_') (,) cír(h)cu(h)it,(h) quæ(h)re(g)ns quem(f) dé(h)vo(h)ret:(h.) (;) cu(h)i(h) re(h)sís(h)ti(h)te(h) for(h)tes(h) in(h) fi(h.)de.(d.) (::)}
 $Tu autem
 
-[Versum 4] (rubrica ^Monastic)
-{initial-style:0;%%(c3) V/. Cus(h)tó(h)di(h) nos(h) Dó(h)mi(h)ne(h) ut(h) pu(h)píl(h)lam(h) ó(h)cu(h)li.(f.) (::) R/. Sub(h) um(h)bra(h) a(h)lá(h)rum(h) tu(h)á(h)rum(h) pró(h)te(h)ge(h) nos.(f.) (::)}
-(sed tempore paschali)
-{initial-style:0;%%(c3) V/. Cus(h)tó(h)di(h) nos(h) Dó(h)mi(h)ne(h) ut(h) pu(h)píl(h)lam(h) ó(h)cu(h)li,(h_') (,) al(h)le(h)lú(h)ja.(f.) (::) R/. Sub(h) um(h)bra(h) a(h)lá(h)rum(h) tu(h)á(h)rum(h) pró(h)te(h)ge(h) nos(h_') (,) al(h)le(h)lú(h)ja.(f.) (::)}
-
 [Completorium_]
 !Jer 14:9
 {centering-scheme: latin;%%(c3) TU(h) au(h)tem(h) in(h) no(h)bis(h) es(h) Dó(h)mi(h)ne,(h) et(h) no(h)men(h) tu(h)um(h) in(h)vo(h)cá(h)tum(h) est(h) su(h)per(h) nos,(h) ne(h) de(h)re(h)lín(f)quas(e) nos.(ef..) (::)}
@@ -639,6 +634,11 @@ R.br.  {gabc:Psalterium/rb--in_manus_tuas--solesmes_1961}
 {initial-style:0;%%(c4) V/. Cus(f)tó(f)di(f) nos(f) Dó(f)mi(f)ne(f) ut(f) pu(f)píl(f)lam(f) ó(f)cu(f)li.(e_'/fvED'Cded.) (::) R/. Sub(f) um(f)bra(f) a(f)lá(f)rum(f) tu(f)á(f)rum(f) pró(f)te(f)ge(f) nos.(e_'/fvED'Cded.) (::)}
 (sed tempore paschali)
 {initial-style:0;%%(c3) V/. Cu(f)stó(f)di(f) nos(f) Dó(f)mi(f)ne(f) ut(f) pu(f)píl(f)lam(f) ó(f)cu(f)li,(f'_) (,) al(f)le(f)lú(f)ja.(e'_//fvED'Cded.) (::) R/. Sub(f) um(f)bra(f) a(f)lá(f)rum(f) tu(f)á(f)rum(f) pró(f)te(f)ge(f) nos,(f'_) (,) al(f)le(f)lú(f)ja.(e'_//fvED'Cded.) (::)}
+
+[Versum 4] (rubrica ^Monastic)
+{initial-style:0;%%(c3) V/. Cus(h)tó(h)di(h) nos(h) Dó(h)mi(h)ne(h) ut(h) pu(h)píl(h)lam(h) ó(h)cu(h)li.(f.) (::) R/. Sub(h) um(h)bra(h) a(h)lá(h)rum(h) tu(h)á(h)rum(h) pró(h)te(h)ge(h) nos.(f.) (::)}
+(sed tempore paschali)
+{initial-style:0;%%(c3) V/. Cus(h)tó(h)di(h) nos(h) Dó(h)mi(h)ne(h) ut(h) pu(h)píl(h)lam(h) ó(h)cu(h)li,(h_') (,) al(h)le(h)lú(h)ja.(f.) (::) R/. Sub(h) um(h)bra(h) a(h)lá(h)rum(h) tu(h)á(h)rum(h) pró(h)te(h)ge(h) nos(h_') (,) al(h)le(h)lú(h)ja.(f.) (::)}
 
 [Ant 4]
 {(c4) Sal(g)va(hj) nos,(j.) *() Dó(jk)mi(j)ne,(ji) vi(h)gi(i')lán(h)tes,(g.) (;) cus(g)tó(i')di(j) nos(k') dor(j)mi(h')én(j)tes;(i.) (;)  ut(i) vi(g')gi(i)lé(k')mus(i) cum(h') Chri(j)sto,(i_0j) (,) et(h) re(h)qui(h)es(h)cá(gf)mus(gh) in(gf) pa(e.)ce.(e.) (::) ^_T. P._^() Al(g)le(gf)lú(e.)ja.(e.) (::)};;3a
@@ -666,10 +666,8 @@ Allelúja. Spíritus Paráclitus, allelúja, docébit vos ómnia, allelúja, all
 $rLitany simplex0
 $Preces feriales minora
 
-
 [Preces Dominicales]
 $rLitany simplex
 (sed rubrica ^Monastic dicitur)
 $mLitany simplex
 $Preces dominicales Completorium
-

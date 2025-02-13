@@ -6,9 +6,6 @@ Del Libro segundo de los Macabeos.
 3 Grave e insoportable era para la muchedumbre el progreso de la maldad; 
 4 porque el templo era teatro de libertinajes y orgías de los gentiles, que se solazaban allí con las meretrices y en los atrios sagrados tenían comercio con las mujeres, llenándolo todo de inmundicias.
 
-[Responsory1]
-@Tempora/101-0:Responsory7
-
 [Lectio2]
 !2 Mac 6:5-9
 5 El altar mismo estaba lleno de cosas indecentes, execradas por la Ley. 
@@ -17,14 +14,8 @@ Del Libro segundo de los Macabeos.
 8 Por sugestión de los tolemenses, se publicó un edicto en las ciudades griegas inmediatas, para obrar de igual modo con los judíos, obligándolos a participar en los sacrificios 
 9 y condenando a muerte a los que no consintiesen en acomodarse a las costumbres gentílicas. Era de ver qué excesos de desolación tuvieron entonces lugar.
 
-[Responsory2]
-@Tempora/101-1:Responsory2
-
 [Lectio3]
 !2 Mac 6:10-12
 10 Dos mujeres fueron delatadas por haber circuncidado a sus hijos, y, con los niños colgados de los pechos, las pasearon por la ciudad y luego las precipitaron de las murallas. 
 11 Otros que se habían reunido en próximas cavernas para celebrar ocultos el día séptimo, denunciados a Filipo, fueron entregados a las llamas. Ni pensaron en defenderse, por el sumo respeto hacia el día santo. 
 12 Por esto ruego a aquellos a cuyas manos venga a parar este libro que no se escandalicen de estos desdichados sucesos, ni piensen que para ruina y no para corrección de nuestro linaje sucedieron tales cosas.
-
-[Responsory3]
-@Tempora/101-1:Responsory3

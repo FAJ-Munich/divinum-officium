@@ -4,10 +4,6 @@ Dominica in Septuagesima;;Semiduplex;;5.6
 [Rank] (rubrica 1960)
 Dominica in Septuagesima;;Semiduplex;;5
 
-[Rule]
-9 lectiones
-Invit2
-
 [Ant 1]
 The Lord said unto Adam: * Of the tree which is in the midst of the garden, thou shalt not eat; in the hour that thou eatest thereof, thou shalt surely die.
 
@@ -149,8 +145,12 @@ Praise ye the Lord * from the heavens.
 
 [Capitulum Laudes]
 !1 Cor 9:24
-v. Know you not that they that run in the race, all run indeed, but one receiveth the prize? So run that you may obtain.
+v. Brothers: Know you not that they that run in the race, all run indeed, but one receiveth the prize? So run that you may obtain.
 $Deo gratias
+
+[Versum 2]
+V. Lord, thou hast been our refuge.
+R. From generation to generation.
 
 [Ant 2]
 Thus saith the Lord: The kingdom of heaven is like unto a man that is an householder, * which went out early in the morning to hire labourers into his vineyard.

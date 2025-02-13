@@ -1,6 +1,3 @@
-[Rank]
-S. Sylverii Papae Martyri;;Simplex;;1.1;;vide C2
-
 [Lectio2]
 @Sancti/06-20:Lectio93:s/The woman.*//s
 

@@ -4,17 +4,17 @@
 12-01=12-01C=S. Eligii, Episcopi et Confessoris=1=
 12-02=12-02=S. Bibianae Virginis et Martyris=2=
 12-03=12-03C=S. Galgani Confessoris=3=
-12-04=12-02m~12-04o=S. Petri Chrysologi Episcopi Confessoris Ecclesiae Doctoris=3=S. Barbarae Virginis et Martyris=1=
+12-04=12-04~12-04o=S. Petri Chrysologi Episcopi Confessoris Ecclesiae Doctoris=3=S. Barbarae Virginis et Martyris=1=
 12-05=12-03=S. Francisci Xaverii Confessoris=3=
 12-06=12-06=S. Nicolai Episcopi et Confessoris=2=
 12-07=12-07C=Vigilia
 12-08=12-08=Immaculata Conceptione Beatae Mariae Virginis=6=
-12-09=12-09=De II die Infra Octavam Immaculatae Concept Beatae Mariae Virgini=2=
-12-10=12-10=De III die Infra Octavam Immaculatae Concept Beatae Mariae Virgini=2=S. S. Melchiadis Papae et Mart =1=
-12-11=12-11=S. Damasi Papae et confessoris=2=Die IV infra Octavam Immaculatae Conceptionis BMV=2=
-12-12=12-12=De V die Infra Octavam Immaculatae Concept Beatae Mariae Virgini=2=
-12-13=12-13=S. Luciae Virginis et Martyris=3=Die V infra Octavam Immaculatae conceptionem BMV=2=
-12-14=12-14=De VII die Infra Octavam Immaculatae Concept Beatae Mariae Virgini=2=
+12-09=12-09bmv=De II die Infra Octavam Immaculatae Concept Beatae Mariae Virgini=2=
+12-10=12-10bmv~12-10r=De III die Infra Octavam Immaculatae Concept Beatae Mariae Virgini=2=S. S. Melchiadis Papae et Mart=1=
+12-11=12-11bmv~12-11=S. Damasi Papae et confessoris=2=Die IV infra Octavam Immaculatae Conceptionis BMV=1=
+12-12=12-12bmv=De V die Infra Octavam Immaculatae Concept Beatae Mariae Virgini=2=
+12-13=12-13~12-13bmv=S. Luciae Virginis et Martyris=3=Die V infra Octavam Immaculatae conceptionem BMV=1=
+12-14=12-14bmv=De VII die Infra Octavam Immaculatae Concept Beatae Mariae Virgini=2=
 12-15=12-15=In Octava Immaculatae Concept Beatae Mariae Virgini=4=
 12-20=12-20o=Vigilia Sancti Thomae Apostoli=5=
 12-21=12-21=S. Thomæ Apostoli=6=
@@ -27,21 +27,21 @@
 12-31=12-31o=S. Silvestri Papae et Conf=3=
 *January*
 01-00=01-00=Sanctissimi Nominis Iesu=5=
-01-01=01-01o=In Circumcisione Domini=5=
-01-02=01-02o=In Octava Sancti Stephani=3=
-01-03=01-03o=In Octavam S. Joannis=3=
-01-04=01-04o=In Octava Ss. Innocentium=3=
-01-05=01-05=Vigilia Epiphaniae=2=S. Telesphori Papae et Martyris=1=
+01-01=01-01=In Circumcisione Domini=5=
+01-02=01-02=In Octava Sancti Stephani=3=
+01-03=01-03=In Octavam S. Joannis=3=
+01-04=01-04=In Octava Ss. Innocentium=3=
+01-05=01-05~01-05cc=Vigilia Epiphaniae=2=S. Telesphori Papae et Martyris=1=
 01-06=01-06=Epiphaniae Domini=6=
 01-07=01-07=Secunda die infra Octavam Epiphaniae=2=
 01-08=01-08=Tertia die infra Octavam Epiphaniae=2=
 01-09=01-09=Quarta die infra Octavam Epiphaniae=2=
-01-10=01-10~01-10cc=Quinta die infra Octavam Epiphaniae=2=S. Pauli primi Eremitae et Confessoris=1=
+01-10=01-10~01-15=Quinta die infra Octavam Epiphaniae=2=S. Pauli primi Eremitae et Confessoris=1=
 01-11=01-11~01-11cc=Sexta die infra Octavam Epiphaniae=2=S. Hygini Papæ et Martyris=1=
 01-12=01-12t=De Dominica infra Octavam Epiphaniae=2=
 01-13=01-13=Die Octava Epiphaniae=3=
 01-14=01-14~01-14cc=S. Hilarii Episcopi Confessoris et Ecclesiae Doctoris=2=S. Felicis Presbyteri et Mart.=1=
-01-15=01-15=S. Mauri Abbatis=3=
+01-15=01-15cc=S. Mauri Abbatis=3=
 01-16=01-16=S. Marcelli Papae et Martyris=2=
 01-17=01-17=S. S. Antonii Abbatis=3=
 01-18=01-18~01-18r=Cathedra S. Petri=4=S. Priscæ Virginis=1=

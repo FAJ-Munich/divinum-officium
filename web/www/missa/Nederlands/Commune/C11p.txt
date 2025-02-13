@@ -1,6 +1,6 @@
 @Commune/C10
 
-[Name]
+[Officium]
 In Festis Beatae Mariae Virginis tempore Paschali: Salve Sancta Parens
 
 [Rule]
@@ -11,8 +11,8 @@ Prefatio=Maria=Festivitate
 [GradualeA]
 @Commune/C11
 
-[Tractus]
-@Commune/C10c
-
 [GradualeP]
 @Commune/C11
+
+[Tractus]
+@Commune/C10c

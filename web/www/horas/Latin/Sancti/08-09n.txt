@@ -1,5 +1,8 @@
 [Rank]
-S. Terésiæ Benedictæ a Cruce (Edith Stein) Virginis et Martyris;;Duplex optional;;2;;vide C6
+S. Terésiæ Benedictæ a Cruce (Edith Stein) Virginis et Martyris;;Duplex optional;;3;;vide C6
 
 [Rule]
 vide C6;
+
+[Lectio93]
+@Commune/C6:Lectio4 in 2 loco

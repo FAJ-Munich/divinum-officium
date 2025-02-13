@@ -1,11 +1,6 @@
 [Rank]
 Dominica III post Pascha;;Semiduplex;;5;;
 
-[Rule]
-9 Lectiones
-Duplex
-Una Antiphona
-
 [Commemoratio]
 !Commemoratio for the Octava of St Joseph
 @Tempora/Pasc2-3:Oratio

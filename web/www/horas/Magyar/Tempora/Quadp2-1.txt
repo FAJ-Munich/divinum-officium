@@ -1,9 +1,6 @@
 [Rank]
 Feria II infra Hebdomadam Sexagesimae;;Feria;;1
 
-[Rule]
-Oratio Dominica
-
 [Lectio1]
 Olvasmány Mózes első könyvéből
 !Gen 7:1-4
@@ -24,6 +21,3 @@ Olvasmány Mózes első könyvéből
 13 Ezen a napon Noé és fiai, Szem, Kám és Jáfet Noé feleségével és fiainak három feleségével együtt beszálltak a bárkába, 
 14 s velük minden fajtájú vadállat, minden fajtájú háziállat, mindenféle földi csúszómászó és mindenféle madár és szárnyas. 
 17 Ezután negyven napig ömlött az eső a földre. A víz megdagadt és fölemelte a bárkát úgy, hogy a föld felett úszott.
-
-[Responsory3]
-@Tempora/Quadp2-0:Responsory3

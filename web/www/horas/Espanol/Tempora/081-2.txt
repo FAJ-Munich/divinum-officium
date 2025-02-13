@@ -24,15 +24,9 @@ R. Para que una nueva gracia adorne tu frente.
 12 Ay de mí, que odié la disciplina y no di oídos a los que me adoctrinaban. 
 13 No escuché la voz de los que me educaban y no di oídos a los que me enseñaban.
 
-[Responsory2]
-@Tempora/081-0:Responsory5
-
 [Lectio3]
 !Prov 5:20-23
 20 ¿Para qué andar loco, hijo mío, tras la extraña y abrazar en tu seno a una extranjera? 
 21 Los caminos del hombre están a los ojos de Yahvé, Él ve todos sus pasos. 
 22 El impío queda preso en su propia iniquidad y cogido en el lazo de su culpa. 
 23 Morirá por falta de disciplina, y su gran necedad le perderá.
-
-[Responsory3]
-@Tempora/081-0:Responsory6

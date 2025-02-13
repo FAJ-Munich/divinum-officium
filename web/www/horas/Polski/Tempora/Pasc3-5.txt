@@ -1,10 +1,6 @@
 [Rank]
 Piątek III tygodnia po Oktawie Wielkanocy;;Feria;;1
 
-[Rule]
-Una Antiphona
-Feria Te Deum
-
 [Lectio1]
 Z Księgi Apokalipsy św. Jana Apostoła
 !Ap 19:1-5
@@ -33,6 +29,3 @@ Z Księgi Apokalipsy św. Jana Apostoła
 
 [Ant 2]
 Poznali * Pana Jezusa, alleluja, w łamaniu chleba, alleluja.
-
-[Ant 3] (rubrica 1960)
-@Tempora/Pasc3-0

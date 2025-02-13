@@ -5,20 +5,6 @@ S. Apollinaris Episcopi et Martyris;;Duplex;;3;;vide C2
 Oh Dios, remunerador de las almas fieles, que consagraste este día con el martirio del bienaventurado Apolinar, sacerdote tuyo, te rogamos nos concedas a nosotros, siervos tuyos, que consigamos el perdón por las preces de aquel cuya veneranda festividad celebramos.
 $Per Dominum
 
-[Commemoratio Sabbat]
-!Conmemoración de S. Liborio, Obispo y Confesor
-@Commune/C4:Oratio proper
-$Oremus
-v. Te pedimos, Dios todopoderoso, que al celebrar la fiesta de San Liborio, obispo, aumente nuestro celo por servirte, y crezca en nosotros tu obra de salvación.
-$Per Dominum
-
-[Commemoratio]
-!Conmemoración de S. Liborio, Obispo y Confesor
-@Commune/C4:Oratio proper
-$Oremus
-v. Te pedimos, Dios todopoderoso, que al celebrar la fiesta de San Liborio, obispo, aumente nuestro celo por servirte, y crezca en nosotros tu obra de salvación.
-$Per Dominum.
-
 [Lectio4]
 Apolinar se trasladó a Roma desde Antioquía, junto con San Pedro, el cual le ordenó Obispo y le envió a Ravena para predicar el Evangelio de nuestro Señor Jesucristo. Como convirtiera en esta ciudad a muchas almas a la fe cristiana, fue detenido por los sacerdotes de los ídolos y golpeado cruelmente. Merced a sus oraciones, un noble personaje, Bonifacio, mudo desde largo tiempo, recobró el habla, y una hija suya fue librada de un espíritu inmundo: estos milagros promovieron una nueva sedición contra el Santo. Le azotaron con varas y le obligaron a andar descalzo sobre carbones encendidos; mas viendo que el fuego de estos carbones no le quemaba, le expulsaron de la ciudad.
 
@@ -47,10 +33,3 @@ Porque no se nos ha prometido como recompensa comer y beber, sino la comunicaci�
 [Lectio9]
 Convirtámonos, y procuremos que no haya entre nosotros, para perdición, disputas sobre los primeros lugares. La que sostuvieron los Apóstoles sobre esto, no se narra para que nos sirva de excusa sino para que estemos sobre aviso. Si Pedro no se convirtió del todo hasta el fin, a pesar de haber seguido al Señor ya desde el principio, ¿quién podrá jactarse de una conversión total realizada rápidamente? Huyamos, pues, de la jactancia, y del mundo. El Apóstol que dijo: “He aquí que lo hemos dejado todo y os hemos seguido”, recibió la orden de dejar a sus hermanos.
 &teDeum
-
-[Commemoratio 3] (rubrica divino aut rubrica tridentina)
-!Conmemoración de Sta. Cristina, Virgen y Mártir
-@Commune/C6:Oratio proper
-$Oremus
-Te suplicamos, Señor, que Santa Cristina, virgen y mártir, nos alcance tu perdón: pues siempre te agradó por su castidad y dio testimonio de tu poder.
-$Per Dominum

@@ -1,4 +1,4 @@
-[Name]
+[Officium]
 Officium parvum Beatae Mariae Virginis
 
 [Rank]
@@ -17,17 +17,3 @@ Feria Te Deum
 
 [Oratio]
 @Commune/C10
-
-[Introitus]
-
-[Lectio]
-
-[Graduale]
-
-[Evangelium]
-
-[Offertorium]
-
-[Secreta]
-
-[Postcommunio]

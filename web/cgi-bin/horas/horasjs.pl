@@ -7,7 +7,7 @@ sub horasjs {
   my $caller_flag = $caller || 0;
 
   if ($officium ne 'Pofficium.pl') {
-    $output .= << "PrintTag";
+    $output .= <<"PrintTag";
 
 //position
 function startup() {
@@ -82,7 +82,7 @@ function startup() {
 		}
 PrintTag
   }
-  $output .= << "PrintTag";
+  $output .= <<"PrintTag";
 //to prevent inhearitance of popup
 function clearradio() {
   var a= document.forms[0].popup;
@@ -126,8 +126,11 @@ function parchange() {
 }
 
 //calls kalendar
-function callkalendar() {
+function callkalendar(mode) {
   document.forms[0].action = 'kalendar.pl';
+  if (mode == 'kalendar') {
+    document.forms[0].kmonth.value = 15;
+  }
   document.forms[0].target = "_self"
   document.forms[0].submit();
 }
@@ -190,7 +193,7 @@ sub horasjsend {
   # $caller in principle might not be defined.
   my $caller_flag = $caller || 0;
 
-  print << "PrintTag";
+  print <<"PrintTag";
 		
 	
 	

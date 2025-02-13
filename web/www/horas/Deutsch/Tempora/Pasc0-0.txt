@@ -1,9 +1,6 @@
 [Rank]
 Sonntag der Auferstehung des Herrn;;Duplex I classis cum Octava Privilegiata I;;7
 
-[Ant Vespera]
-@:Ant Laudes
-
 [Ant 1]
 Nach dem Sabbat aber, * als der Morgen am ersten Tag der Woche anbrach, kam Maria Magdalena und die andere Maria, das Grab zu sehen, alleluja.
 
@@ -96,9 +93,6 @@ Ant. Das ist ein Tag, * den der Herrn gemacht hat: wir wollen jubeln und uns fre
 
 [Ant 2]
 Und ganz früh, am ersten Tage nach dem Sabbat, kommen sie zum Grabe, als die Sonne eben aufgegangen war, alleluja.
-
-[Prelude Laudes] (rubrica 1955 aut rubrica 1960)
-@:Prelude Matutinum
 
 [Ant 3]
 Und als sie aufschauten, * sahen sie, dass der Stein weggewälzt war: er war freilich sehr groß, alleluja.

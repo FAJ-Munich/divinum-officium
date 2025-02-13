@@ -7,9 +7,6 @@ Del Libro del Eclesiástico.
 4 El que se impone privaciones amontona para otros, y con sus bienes otros se darán buena vida. 
 5 El que para sí mismo es malo, ¿para quién será bueno? Ni él disfruta de sus tesoros.
 
-[Responsory1]
-@Tempora/081-0:Responsory1
-
 [Lectio2]
 !Sir 14:6-10
 6 Nadie más necio que el que para sí mismo es tacaño, y lleva ya en eso su castigo. 
@@ -17,9 +14,6 @@ Del Libro del Eclesiástico.
 8 Es malo quien mira con envidia, el que vuelve su rostro y mira con desdén. 
 9 El ojo del codicioso no se sacia con su parte, y mientras busca lo del prójimo pierde lo suyo. 
 10 El ojo envidioso mira con envidia el pan que otro come, y a su propia mesa siempre hay alborotos.
-
-[Responsory2]
-@Tempora/081-0:Responsory2
 
 [Lectio3]
 !Sir 14:11-17
@@ -29,6 +23,3 @@ Del Libro del Eclesiástico.
 14 No te prives del bien del día y no dejes pasar la parte de goce que te toca. 
 16 Mira que tienes que dejar lo tuyo para otros, y tu hacienda se la distribuirán tus herederos.  
 17 Da y torna y satisface tus deseos, que en el hades no hay que buscar placer.
-
-[Responsory3]
-@Tempora/081-0:Responsory3

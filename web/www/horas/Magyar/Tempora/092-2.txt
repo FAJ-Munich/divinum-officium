@@ -7,9 +7,6 @@ Jób könyvéből
 15 Arannyal nem lehet érte megfizetni, és a színezüst sem elég nagy ár érte. 
 16 Nem lehet megvenni ofiri aranyért, sem ritka ónixért, sem pedig zafírért.
 
-[Responsory1]
-@Tempora/091-0:Responsory4
-
 [Lectio2]
 !Job 28:17-22
 17 Nem érhet föl vele sem arany, sem üveg, aranyedényért sem lehet becserélni. 
@@ -19,9 +16,6 @@ Jób könyvéből
 21 Fátyol takarja minden élő elől, el van rejtve az ég madarai előtt. 
 22 Maga az alvilág és a halál is vallja: mi csak hallomásból tudunk róla.
 
-[Responsory2]
-@Tempora/091-0:Responsory5
-
 [Lectio3]
 !Job 28:23-28
 23 Egyedül az Isten ismer hozzá utat, egyedül ő tudja, hol a lelőhelye. 
@@ -30,6 +24,3 @@ Jób könyvéből
 26 amikor az esőnek korlátot szabott, és a mennydörgések útját kijelölte, 
 27 akkor volt, hogy látta, a súlyát lemérte, megvizsgálta és lehatolt mélyére. 
 28 Az embernek akkor csupán ennyit mondott: „Az Isten félelme, lásd, ez a bölcsesség, az okosság meg: kerülni a bűnt.”
-
-[Responsory3]
-@Tempora/091-0:Responsory6

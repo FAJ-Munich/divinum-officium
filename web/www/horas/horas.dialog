@@ -1,7 +1,8 @@
 [parameters]
 Priest~>$priest~>Checkbutton~>~>1;;
 Building script~>$building~>Checkbutton~>~>2;;
-Language 1~>$lang1~>Optionmenu~>languages~>3;;
+Language for left column~>$lang1~>Optionmenu~>languages~>3;;
+Fallback language~>$langfb~>Optionmenu~>languages~>20;;
 Pius XII Psalter~>$psalmvar~>Checkbutton~>~>4;;
 Use antique hymns~>$oldhymns~>Checkbutton~>~>15;;
 Hide verse numbers~>$nonumbers~>Checkbutton~>~>16;;
@@ -36,7 +37,7 @@ Votive~>$votive~>Optionmenu~>votives;;
 tota,psalteria,propria,lineamenta
 
 [languages]
-Latin,Čeština/Cesky,Dansk,Deutsch,English,Español/Espanol,Français/Francais,Italiano,Magyar,Polski,Português/Portugues,Latin-Bea,Polski-Newer,Latin-gabc
+Latin,English,Čeština/Bohemice,Dansk,Deutsch,Español/Espanol,Français/Francais,Italiano,Magyar,Polski,Português/Portugues,Latin-Bea,Polski-Newer,Latin-gabc
 
 [versions]
 Tridentine - 1570,Tridentine - 1888,Tridentine - 1906,Divino Afflatu - 1954,Reduced - 1955,Rubrics 1960 - 1960,Rubrics 1960 - 2020 USA,Monastic - 1617/Monastic Tridentinum 1617,Monastic - 1930/Monastic Divino 1930,Monastic - 1963,Ordo Cisterciensis - 1951/Monastic Tridentinum Cisterciensis 1951,Ordo Cisterciensis - Abbatia B.M.V. de Altovado/Monastic Tridentinum Cisterciensis Altovadensis,Ordo Praedicatorum - 1962,Bavariae/Bavariae Monastic Tridentinum

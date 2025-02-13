@@ -1,4 +1,4 @@
-[Name]
+[Officium]
 Kommune der Apostel
 
 [Ant Vespera]
@@ -213,10 +213,6 @@ R. Und achteten auf seine Werke.
 
 [Ant 2]
 Ihr, die ihr alles verlassen habt * und mir gefolgt seid, werdet Hundertfaches erhalten und das ewige Leben zum Besitz bekommen.
-
-[Oratio]
-Wir bitten dich, o allmächtiger Gott, daß der heilige Apostel N., von dessen Festtag wir die Vorfeier begehen, für uns deine Hilfe erbitte, damit wir, befreit von unseren Verschuldungen, auch von allen Gefahren befreit werden.
-$Per Dominum
 
 [Lectio Prima]
 !Apg 5,41

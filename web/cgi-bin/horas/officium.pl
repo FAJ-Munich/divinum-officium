@@ -91,7 +91,7 @@ $q = new CGI;
 #get parameters
 getini('horas');    #files, colors
 
-our ($lang1, $lang2, $expand, $votive, $column, $local);
+our ($lang1, $lang2, $langfb, $expand, $votive, $column, $local);
 our %translate;     #translation of the skeleton label for 2nd language
 
 our $command = strictparam('command');
@@ -123,6 +123,7 @@ if ($command =~ s/changeparameters//) { getsetupvalue($command); }
 $version = check_version($version) || (error("Unknown version: $version") && 'Rubrics 1960 - 1960');
 $lang1 = check_language($lang1) || (error("Unknown language: $lang1") && 'Latin');
 $lang2 = check_language($lang2) || 'English';
+$langfb = check_language($langfb) || 'English';
 
 our $plures = strictparam('plures');
 my @horas = ();
@@ -170,7 +171,8 @@ $only = !$Ck && ($lang1 eq $lang2);
 
 if ($officium eq 'Pofficium.pl') {
   our $date1 = strictparam('date1');
-  if (!$date1) { $date1 = gettoday(); }
+  if (!$date1 || $date1 eq 'hodie') { $date1 = gettoday(); }
+  if ($date1 eq 'crastina') { $date1 = prevnext(gettoday(), 1); }
   if ($command =~ /next/i) { $date1 = prevnext($date1, 1); $command = ''; }
   if ($command =~ /prev/i) { $date1 = prevnext($date1, -1); $command = ''; }
 }
@@ -214,7 +216,7 @@ if ($command =~ /setup(.*)/i) {
   $command = "change" . $command . strictparam('pcommand');
 } else {
   print headline($html_dayhead, substr($officium, 0, 1), $version, $version2);
-  load_languages_data($lang1, $lang2, $version, $missa);
+  load_languages_data($lang1, $lang2, $langfb, $version, $missa);
 
   if ($command =~ /appendix/i) {
     require "$Bin/appendix.pl";

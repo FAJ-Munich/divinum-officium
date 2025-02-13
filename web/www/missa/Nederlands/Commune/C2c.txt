@@ -1,7 +1,5 @@
-[Name]
+[Officium]
 Commune Unius Martyris Pontificis: Statuit
-
-[Rule]
 
 [Introitus]
 !Eccli 45:30
@@ -56,3 +54,4 @@ Eens voor altijd heb ik bij mijn heiligheid gezworen: zijn nakroost zal eeuwig v
 
 [Postcommunio]
 Verkwikt door de deelname aan de heilige gave, vragen wij U, Heer, onze God, dat wij door de tussenkomst van uw heilige martelaar en bisschop N. de uitwerking mogen ondervinden van wat wij in deze eredienst verrichten.
+$Per Dominum

@@ -1,15 +1,15 @@
 @CommuneM/C6
 
-[Name]
+[Officium]
+@Commune/C6b
+
+[Oratio]
 @Commune/C6b
 
 [HymnusM Matutinum]
 @Commune/C6b
 
 [Responsory1]
-@Commune/C6b
-
-[Oratio]
 @Commune/C6b
 
 [MM Capitulum]

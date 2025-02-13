@@ -4,9 +4,6 @@ In Commemoratione Omnium Fidelium Defunctorum;;Duplex;;3;;ex C9
 [Rank] (rubrica 196)
 In Commemoratione Omnium Fidelium Defunctorum;;I. classis;;6;;ex C9
 
-[Rank] (rubrica innovata)
-In Commemoratione Omnium Fidelium Defunctorum;;Duplex Solemnity;;6;;ex C9
-
 [Ant Vespera]
 Piacerò al Signore * nella regione dei vivi.;;114
 Ohimè, o Signore, * troppo si protrae la mia vita.;;119
@@ -25,9 +22,8 @@ R. Amen.
 V. Signore, ascolta la mia preghiera.
 R. E il mio grido giunga a Te.
 &Dominus_vobiscum2
-_
 $Oremus
- O Dio, Creatore e Redentore di tutti gli uomini fedeli, concedi alle anime dei tuoi servi e delle tue serve la remissione di tutti i peccati, affinché quella misericordia che sempre desiderarono, per le pie suppliche l'ottengano,
+v. O Dio, Creatore e Redentore di tutti gli uomini fedeli, concedi alle anime dei tuoi servi e delle tue serve la remissione di tutti i peccati, affinché quella misericordia che sempre desiderarono, per le pie suppliche l'ottengano,
 $Qui vivis
 
 [Oratio mortuorum1]
@@ -41,7 +37,6 @@ R. Amen.
 V. Signore, ascolta la mia preghiera.
 R. E il mio grido giunga a Te.
 &Dominus_vobiscum2
-_
 $Oremus
 v. Signore, sii propizio alle anime di tutti i tuoi servi e serve per cui supplichiamo umilmente la tua maestà: affinché, per questi suffragi di pie preghiere, meritino di giungere all'eterno riposo. 
 $Per Dominum
@@ -116,12 +111,6 @@ Dalla prima Lettera dell'Apostolo san Paolo ai Corinti.
 43 se si semina ignobile, risorgerà glorioso; si semina inerte, risorgerà robusto; 
 44 si semina un corpo animale, risorgerà un corpo spirituale.
 
-[Responsory8]
-R. Signore, non volermi giudicare secondo le mie azioni: nessuna cosa degna ho io fatta dinanzi a te; onde supplico la tua maestà. 
-* Che tu, o Dio, cancelli la mia iniquità.
-V. Lavami ancor più, o Signore, dalla mia ingiustizia, e mondami dal mio peccato. 
-R. Che tu, o Dio, cancelli la mia iniquità.
-
 [Lectio9]
 !1 Cor 15:51-58
 51 Ecco, io vi dico un mistero: Risorgeremo, si, tutti, ma non tutti saremo cangiati. 
@@ -149,6 +138,10 @@ R. Liberami, o Signore, dalla morte eterna in quel giorno tremendo,
 &Gloria
 V. Riposino in pace.
 R. Amen.
+
+[Versum 2]
+V. Udii una voce dal cielo, che mi diceva:
+R. Beati i morti che muoiono nel Signore.
 
 [Oratio mortuorum2]
 #Oratio
@@ -189,10 +182,6 @@ O Dio, largitore di perdono e amatore della salvezza degli uomini: preghiamo la 
 $Amen
 
 &special('Conclusio', 'Italiano')
-
-[Versum 2]
-V. Udii una voce dal cielo, che mi diceva:
-R. Beati i morti che muoiono nel Signore.
 
 [Special Tertia]
 &special('Initial', 'Italiano')

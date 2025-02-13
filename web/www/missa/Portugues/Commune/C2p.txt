@@ -1,7 +1,5 @@
-[Name]
-Commune unius Martyris Tempore Paschali; Protextsisti
-
-[Rule]
+[Officium]
+Commune unius Martyris Tempore Paschali; Protexisti
 
 [Comment]
 # 16 – Mártir – Protexisti

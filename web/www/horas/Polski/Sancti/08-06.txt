@@ -70,6 +70,7 @@ Sławne * rzeczy powiedziano o tobie, miasto Boże.;;86
 V. Chwałą i czcią ukoronowałeś go, Panie.
 R. I postanowiłeś go nad dziełami rąk twoich.
 Tabor i Hermon * w imieniu twem radować się będą: twoje ramię z mocą.;;88
+(sed rubrica 1960) Tabor i Hermon * w imieniu twem radować się będą: twoje ramię z mocą.;;88(2-19)
 Światłość weszła * sprawiedliwemu, a wesele ludziom prawego serca.;;96
 Oblokłeś się * w wyznanie i ozdobę: odziany światłością jako szatą.;;103
 V. Wielka jest chwała jego w zbawieniu twojem.
@@ -207,13 +208,6 @@ R. Wyryta znamieniem świątości i chwałą poczciwości.
 
 [Ant 2]
 Oto głos * z obłoku mówiący: Ten jest Syn Mój miły, w którymem sobie dobrze upodobał: jego słuchajcie, alleluja.
-
-[Commemoratio 2]
-!Wspominamy Śś. Sykstusa, Felicissimusa i Agapita Męczenników
-@Commune/C3:Oratio proper
-$Oremus
-Boże, który dozwalasz nam obchodzić narodziny Świętych Męczenników Twoich Sykstusa, Felicissimusa i Agapita, daj nam w ich gronie wieczną szczęśliwością się radować.
-$Per Dominum
 
 [Lectio Prima]
 !Ap 21:10-11; 21:23.

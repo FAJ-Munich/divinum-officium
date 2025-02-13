@@ -1,35 +1,27 @@
-[Name]
+[Officium]
 Officium parvum Beatae Mariae Virginis
 
 [Rank]
 Officium parvum Beatae Mariae Virginis;;Simplex;;1;;ex C11
 
-[Oratio 2]
-v. O Dio che, all'annuncio dell'Angelo, volesti che il Verbo prendesse carne nel seno della Beata Vergine Maria, concedi a noi supplichevoli che mentre la crediamo vera Madre di Dio, siamo aiutati presso di te dalla sua intercessione.
-$Per eumdem
+[Hymnus minor_]
 
-[Pre oratio]
-
-#Oratio
+#Hymnus
+v. Ricordati, o Creatore delle cose,
+che nascendo un giorno
+dal seno purissimo della Vergine,
+prendesti un corpo simile al nostro.
 _
-v. Signore, pietà di noi. Cristo, pietà di noi. Signore, pietà di noi.
-(sed rubrica 1955 aut rubrica 1960 omittitur)
-&Dominus_vobiscum
-$Oremus
-
-[Capitulum Completorium]
-!Sir 24:24
-v. Io sono la Madre del vero amore, e del timore, e della scienza, e della santa speranza.  
-$Deo gratias
+r. Maria, Madre di grazia
+e di misericordia,
+Tu dal nemico salvaci
+e nella morte accoglici.
 _
-V. Prega per noi, o Santa Madre di Dio.
-R. Affinché siam fatti degni delle promesse di Cristo.
-
-[Ant Completorium]Ant.  Sotto la tua protezione * cerchiamo rifugio, Santa Madre di Dio: non disprezzare le suppliche di noi che siamo nella prova, ma liberaci da ogni pericolo, o Vergine gloriosa e benedetta.
-
-[Oratio Completorium]
-v. Ti preghiamo, o Signore, affinché la gloriosa intercessione della beata e glorio sa Vergine Maria ci protegga e conduca alla vita eterna.
-$Per Dominum
+r. O Gesù, sia gloria a te,
+che sei nato dalla Vergine,
+insieme con il Padre e lo Spirito Santo,
+per i secoli eterni.
+Amen.
 
 [Lectio1]
 !Sir 24:11-13
@@ -76,24 +68,9 @@ Bella sei tu e graziosa, o figlia di Gerusalemme, terribile come esercito schier
 v. La videro le figlie di Sion e la proclamarono beata, e le regine l'hanno lodata.
 $Deo gratias
 
-[Hymnus minor]
-
-#Hymnus
-v. Ricordati, o Creatore delle cose,
-che nascendo un giorno
-dal seno purissimo della Vergine,
-prendesti un corpo simile al nostro.
-_
-Maria, Madre di grazia
-e di misericordia,
-Tu dal nemico salvaci
-e nella morte accoglici.
-_
-O Gesù, sia gloria a te,
-che sei nato dalla Vergine,
-insieme con il Padre e lo Spirito Santo,
-per i secoli eterni.
-Amen.
+[Oratio 2]
+v. O Dio che, all'annuncio dell'Angelo, volesti che il Verbo prendesse carne nel seno della Beata Vergine Maria, concedi a noi supplichevoli che mentre la crediamo vera Madre di Dio, siamo aiutati presso di te dalla sua intercessione.
+$Per eumdem
 
 [Capitulum Prima]
 !Cantico dei Cantici 6:9
@@ -119,3 +96,18 @@ $Qui tecum
 [Verse Nona]
 V. Dopo il parto, o Vergine, sei rimasta inviolata.
 R. Madre di Dio, intercedi per noi.
+
+[Ant Completorium]
+Ant.  Sotto la tua protezione * cerchiamo rifugio, Santa Madre di Dio: non disprezzare le suppliche di noi che siamo nella prova, ma liberaci da ogni pericolo, o Vergine gloriosa e benedetta.
+
+[Capitulum Completorium_]
+!Sir 24:24
+v. Io sono la Madre del vero amore, e del timore, e della scienza, e della santa speranza.  
+$Deo gratias
+_
+V. Prega per noi, o Santa Madre di Dio.
+R. Affinché siam fatti degni delle promesse di Cristo.
+
+[Oratio Completorium]
+v. Ti preghiamo, o Signore, affinché la gloriosa intercessione della beata e glorio sa Vergine Maria ci protegga e conduca alla vita eterna.
+$Per Dominum

@@ -1,10 +1,6 @@
 [Rank]
 Die VI Infra Octavam S. Joseph;;Semiduplex;;2;;vide Tempora/Pasc2-3
 
-[Rule]
-vide Tempora/Pasc2-3
-9 lectiones
-
 [Lectio1]
 Dal libro dell'Apocalisse dell'Apostolo san Giovanni
 !Apo 2:1-7
@@ -45,9 +41,6 @@ R. Qui adora Dio, alleluia, alleluia, alleluia.
 15 Così anche tu hai chi tiene la dottrina dei Nicolaiti. 
 16 Fa parimenti penitenza: altrimenti verrò presto da te, e combatterò contro di essi colla spada della mia bocca.
 17 Chi ha orecchio oda quel che lo Spirito Santo dice alle chiese: Al vincitore darò la manna nascosta, e gli darò un sassolino bianco: e nel sassolino (sta) scritto un nome nuovo, che nessuno conosce, se non chi lo riceve.
-
-[Responsory3]
-@Tempora/Pasc3-0:Responsory3
 
 [Lectio4]
 Sermone di san Bernardo Abate

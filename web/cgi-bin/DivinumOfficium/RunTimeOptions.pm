@@ -58,6 +58,8 @@ use constant LEGACY_MISSA_VERSION_NAMES => {
   'Monastic Tridentinum 1617' => 'Tridentine - 1570',
   'Monastic Divino 1930' => 'Divino Afflatu - 1954',
   'Monastic - 1963' => 'Rubrics 1960 - 1960',
+  'Monastic Tridentinum Cisterciensis 1951' => 'Tridentine - 1910',
+  'Monastic Tridentinum Cisterciensis Altovadensis' => 'Reduced - 1955',
   'Tridentine - 1888' => 'Tridentine - 1910',
   'Tridentine - 1906' => 'Tridentine - 1910',
   'Ordo Praedicatorum - 1962' => 'Ordo Praedicatorum Dominican 1962',
@@ -68,6 +70,8 @@ use constant LEGACY_MISSA_VERSION_NAMES => {
 sub check_version {
   my $v = shift;
   my $missa = shift;
+
+  return undef unless $v;
 
   if (!$missa) {
     return LEGACY_VERSION_NAMES->{$v} || unequivocal($v, 'versions');

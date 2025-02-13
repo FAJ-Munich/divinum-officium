@@ -1,4 +1,4 @@
-[Name]
+[Officium]
 Officium Beatæ Mariæ Virginis in Sabbato
 
 [Rank]
@@ -10,9 +10,7 @@ Special Benedictio
 Special Lectio 3
 Doxology=Nat
 Antiphonas horas
-(deinde rubrica tridentina dicitur) 
-Psalmi Dominica
-(sed rubrica cisterciensis omittitur)
+(rubrica tridentina) Psalmi Dominica
 
 [Hymnus Vespera]
 @Commune/C11
@@ -20,10 +18,16 @@ Psalmi Dominica
 [Versum 1]
 @Commune/C6:Versum 2
 
-[Ant 1]
+[Ant 1_]
 Beáta Mater * et intácta Virgo, gloriósa Regína mundi, intercéde pro nobis ad Dóminum.
-(sed tempore paschali)
+
+[Ant 1_Pasch]
 Regína cæli, * lætáre, allelúja; quia quem meruísti portáre, allelúja; resurréxit, sicut dixit, allelúja: ora pro nobis Deum, allelúja.
+
+[Ant 1]
+@:Ant 1_
+(sed tempore paschali)
+@:Ant 1_Pasch
 
 [Oratio]
 @Commune/C11
@@ -37,12 +41,6 @@ Ave María, grátia plena, * Dóminus tecum.
 [HymnusM Matutinum]
 @Commune/C11
 
-[Benedictio]
-Précibus et méritis beátæ Maríæ semper Vírginis et ómnium Sanctórum, perdúcat nos Dóminus ad regna cælórum.
-Nos cum prole pia benedícat Virgo María.
-Ipsa Virgo Vírginum intercédat pro nobis ad Dóminum.
-Per Vírginem matrem concédat nobis Dóminus salútem et pacem.
-
 [Responsory1] (rubrica tridentina)
 @Commune/C11
 
@@ -51,6 +49,12 @@ Per Vírginem matrem concédat nobis Dóminus salútem et pacem.
 R. Quia ex te ortus est sol justítiæ
 &Gloria
 R. Christus, Deus noster.
+
+[Benedictio]
+Précibus et méritis beátæ Maríæ semper Vírginis et ómnium Sanctórum, perdúcat nos Dóminus ad regna cælórum.
+Nos cum prole pia benedícat Virgo María.
+Ipsa Virgo Vírginum intercédat pro nobis ad Dóminum.
+Per Vírginem matrem concédat nobis Dóminus salútem et pacem.
 
 [Versum 0]
 @Commune/C11
@@ -61,20 +65,26 @@ R. Christus, Deus noster.
 [Capitulum Laudes]
 @Commune/C11
 
-[HymnusM Laudes]
+[Hymnus Laudes]
 @Commune/C11
 
-[Hymnus Laudes]
+[HymnusM Laudes]
 @Commune/C11
 
 [Versum 2]
 V. Benedícta tu in muliéribus.
 R. Et benedíctus fructus ventris tui.
 
-[Ant 2]
+[Ant 2_]
 Beáta Dei Génetrix, María, * Virgo perpétua, templum Dómini, sacrárium Spíritus Sancti, sola sine exémplo placuísti Dómino nostro Jesu Christo: ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu.
+
+
+[Ant 2]
+@:Ant 2_
+(sed rubrica cisterciensis)
+@:Ant 2_:s/femíneo/fœmíneo/
 (sed tempore paschali)
-@:Ant 1
+@:Ant 1_Pasch
 
 [Lectio Prima]
 @Commune/C11

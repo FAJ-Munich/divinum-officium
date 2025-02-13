@@ -1,7 +1,5 @@
-[Name]
+[Officium]
 Commune Unius Martyris Pontificis, Sacerdotes Dei
-
-[Rule]
 
 [Comment]
 # 10 – 2 Mártir Pontífice – Sacerdotis Dei

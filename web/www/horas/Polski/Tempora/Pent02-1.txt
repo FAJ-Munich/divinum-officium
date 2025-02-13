@@ -4,11 +4,6 @@ Poniedziałek w Oktawie Bożego Ciała;;Semiduplex II class;;5;;ex Tempora/Pent0
 [Rank] (rubrica 196 aut rubrica 1955)
 Poniedziałek II tygodnia po Pięćdziesiątnicy;;Feria;;1
 
-[Rule]
-ex Tempora/Pent01-4;
-9 lectiones
-Doxology=Corp
-
 [Lectio1]
 Z Pierwszej Księgi Królewskiej
 !1 Sm 5:1-5

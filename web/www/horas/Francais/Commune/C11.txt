@@ -1,4 +1,4 @@
-[Name]
+[Officium]
 Aux fêtes de la Bienheureuse Vierge Marie
 
 [Ant VesperaBMV]
@@ -47,8 +47,12 @@ Ainsi soit-il.
 V. Rendez-moi digne de vous louer, Vierge sainte.
 R. Donnez-moi de la force contre vos ennemis.
 
-[Ant 1]
+[Ant 1_]
 Sainte Marie, * secourez les malheureux, venez en aide aux faibles, consolez les affligés, priez pour tout le peuple, intervenez en faveur du clergé [16], intercédez pour les femmes consacrées par vœu : qu’ils éprouvent tous votre assistance, ceux qui célèbrent votre sainte fête.
+
+[Oratio]
+Seigneur notre Dieu, accordez, s’il vous plaît, à nous vos serviteurs, de jouir d’une perpétuelle santé de l’âme et du corps : et grâce à la glorieuse intercession de la bienheureuse Marie toujours Vierge, d’être délivrés des tristesses du temps présent, puis de goûter les joies éternelles.
+$Per Dominum
 
 [Invit]
 Sainte Marie, Mère de Dieu et Vierge, * Intercédez pour nous.
@@ -183,6 +187,10 @@ R. Car le Seigneur, lui qui est puissant, m’a fait de grandes choses, et son n
 « Heureux plutôt ceux qui écoutent la parole de Dieu et qui la gardent ! » Le Sauveur approuve éminemment ce qu’avait dit cette femme, quand il affirme que non seulement celle qui a mérité d’engendrer corporellement le Verbe de Dieu, mais aussi tous ceux qui s’efforcent de concevoir spirituellement le même Verbe par l’audition de la foi, de l’enfanter et de le nourrir par la pratique des bonnes œuvres, soit dans leur cœur, soit en celui de leur prochain, sont véritablement heureux. Certes, la Mère de Dieu est bienheureuse d’avoir servi dans le temps, et contribué à l’incarnation du Verbe ; mais elle est encore plus heureuse d’avoir mérité, en l’aimant toujours, de le garder en elle éternellement.
 &teDeum
 
+[Versum 0]
+V. Priez pour nous, sainte Mère de Dieu.
+R. Afin que nous devenions dignes des promesse de Jésus-Christ.
+
 [Capitulum Laudes]
 !Sir 24:14
 v. Dès le commencement et avant tous les siècles, j’ai été créée, et dans la suite des âges je ne cesserai point d’être ; et, dans la demeure sainte, j’ai exercé devant lui mon ministère.
@@ -212,10 +220,6 @@ Ainsi soit-il.
 
 [Ant 2]
 Vous êtes bienheureuse, * Marie, vous qui avez cru : car ce qui vous a été dit par le Seigneur s’accomplira en vous, alléluia.
-
-[Oratio]
-Seigneur notre Dieu, accordez, s’il vous plaît, à nous vos serviteurs, de jouir d’une perpétuelle santé de l’âme et du corps : et grâce à la glorieuse intercession de la bienheureuse Marie toujours Vierge, d’être délivrés des tristesses du temps présent, puis de goûter les joies éternelles.
-$Per Dominum
 
 [Lectio Prima]
 !Sir 24:19-20

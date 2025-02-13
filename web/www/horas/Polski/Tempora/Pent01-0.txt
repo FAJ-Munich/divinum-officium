@@ -1,22 +1,29 @@
 [Rank]
 Niedziela Trójcy Przenajświętszej;;Duplex I classis;;6.5
 
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Symbolum Athanasium
-No Commemoration
-Psalm5 Vespera=116
-Psalm5 Vespera3=113
-Prima=53
-
 [Ant Vespera]
 Chwała Ci, o Trójco * jedyna i równa sobie w Bóstwie, przed wiekami, teraz i na zawsze.
 Cześć i wieczna chwała * Bogu Ojcu i Synowi, jako też Duchowi Świętemu na wieki wieków.
 Pieśń chwały * niechaj rozbrzmiewa z ust wszystkich ku czci Ojca i Jednorodzonego Syna Jego i Ducha Świętego.
 Chwałę Boga Ojca, * Jednorodzonego Syna Jego i Twoją, o Duchu Święty, niechaj głoszą usta nasze z nieustanną miłością przez wszystkie wieki.
 Temu, od którego wszystko * pochodzi, przez którego i w którym wszystko istnieje, chwała na wieki.
+
+[Hymnus Vespera]
+{:H-VespFeria:}v. Już słońce zachodzi ogniste:
+Ty, światłości nieustająca, Jedności,
+Trójco błogosławiona,
+Wlej światło do naszych serc.
+_
+Ciebie rano w pieśni pochwalnej,
+Ciebie błagamy wieczorem:
+Zezwól, byśmy Cię kornie
+Sławili między niebianami.
+_
+Ojcu, zarazem i Synowi,
+I Tobie, Duchu Święty,
+Jak była, tak niech będzie chwała
+Nieustannie po wszystkie wieki.
+Amen.
 
 [Versum 1]
 V. Błogosławmy Ojca i Syna, i Ducha Świętego.
@@ -155,7 +162,7 @@ R. Błogosławmy Ojca i Syna, i Ducha Świętego,
 V. Błogosławiony jesteś, Panie, na utwierdzeniu niebieskiem, i sławny, i chwalebny na wieki.
 R. Chwalmy Go i wywyższajmy na wieki. 
 
-[Lectio8](rubrica 1960)
+[Lectio8] (rubrica 1960)
 @:Lectio8a:s/ Wreszcie.*//s
 
 [Lectio8a]
@@ -169,9 +176,14 @@ R. Święty, Święty, Święty, Pan Bóg Zastępów.
 &Gloria
 R. Cała ziemia pełna jest Jego chwały. 
 
-[Lectio9](rubrica 1960)
+[Lectio9] (rubrica 1960)
 @:Lectio8a:s/.*(Wreszcie)/$1/s
 &teDeum
+
+[Capitulum Laudes]
+!Rz 11:33
+v. O głębokości bogactw, mądrości i wiadomości Bożéj, jako są nieogarnione sądy jego, i niedościgłe drogi jego!
+$Deo gratias
 
 [Hymnus Laudes]
 v. Ty, Jedności Trójcy,

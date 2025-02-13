@@ -1,7 +1,5 @@
-[Name]
+[Officium]
 Commune Unius Martyris: Laetabitur
-
-[Rule]
 
 [Introitus]
 !Ps 63:11

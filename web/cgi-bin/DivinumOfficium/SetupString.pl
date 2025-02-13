@@ -14,18 +14,21 @@ our $version, $datafolder;
 our %setupstring_caches_by_version;
 
 # Pseudo constants to be used in vero() sub
+# Commune Summorum Pont. introduced in 1942 only (=> not for Monastic 1930)
 my %subjects = (
   rubricis => sub {$version},
   rubrica => sub {$version},
   tempore => \&get_tempus_id,
   missa => sub { our $missanumber },
-  communi => sub { {summpont => ($version =~ /1960/ || $version =~ /1955/ || $version =~ /Divino/)} },
+  communi => sub { our $version },
   'die' => \&get_dayname_for_condition,
   feria => sub { our $dayofweek + 1 },
   tonus => sub {$chantTone},
   toni => sub {$chantTone},
-  commune => sub {$commune},
+  commune => sub { our $commune },
+  votiva => sub { our $votive },
   officio => sub { $dayname[1]; },
+  ad => sub { our $missa ? 'missam' : our $hora; },
 );
 my %predicates = (
   tridentina => sub { shift =~ /Trident/ },
@@ -39,8 +42,10 @@ my %predicates = (
   tertia => sub { shift == 3 },
   longior => sub { shift == 1 },
   brevior => sub { shift == 2 },
-  'summorum pontificum' => sub { ${shift()}{summpont} },
+  'summorum pontificum' => sub { shift =~ /^Divino|1955|196/ },
   'in solemnitatibus' => sub { shift =~ /solemnis|resurrectionis/i },
+  'in hieme' => sub { shift =~ /hieme|Adventus|Nativitatis|Epiphani|gesimæ|Passionis/i },
+  'in æstate' => sub { shift !~ /hieme|Adventus|Nativitatis|Epiphani|gesimæ|Passionis/i },
   feriali => sub { shift =~ /feria|vigilia/i; },
 );
 
@@ -154,9 +159,10 @@ sub parse_conditional($$$) {
 sub get_tempus_id {
 
   our @dayname;
-  our ($day, $month, $dayofweek, $version);
-  our $hora;
+  our ($day, $month, $year, $dayofweek, $version, $hora);
   my $vesp_or_comp = ($hora =~ /Vespera/i) || ($hora =~ /Completorium/i);
+  our $monthday; # = monthday($day, $month, $year, ($version =~ /196/) + 0, $vesp_or_comp);
+  my $oct_or_nov = $monthday =~ /^(10|11)\d\-/;
   local $_ = $dayname[0];
 
   /^Adv/
@@ -166,8 +172,9 @@ sub get_tempus_id {
       : 'Nativitatis'
     : /^Epi/ ? ($month == 1 && $day <= 13)
       ? 'Epiphaniæ'
-      : ($month == 1 || $day == 1 || ($day == 2 && !$vesp_or_comp)) ? 'post Epiphaniam post partum'
-      : 'post Epiphaniam'
+      : ($month == 1 || ($month == 2 && ($day == 1 || $day == 2 && !$vesp_or_comp))) ? 'post Epiphaniam post partum'
+      : ($month == 2) ? 'post Epiphaniam'
+      : 'post Pentecosten in hieme'
     : /^Quadp(\d)/ && ($1 < 3 || $dayofweek < 3) ? ($month == 1 || $day == 1 || ($day == 2 && !$vesp_or_comp))
       ? 'Septuagesimæ post partum'
       : 'Septuagesimæ'
@@ -190,7 +197,8 @@ sub get_tempus_id {
       || ($1 == 3 && ($dayofweek < 6 || ($dayofweek == 6 && $vesp_or_comp))))
     && $version =~ /Divino/i
     ? 'Octava SSmi Cordis post Pentecosten'
-    : 'post Pentecosten';
+    : /^Pent/ && !$oct_or_nov ? 'post Pentecosten'
+    : 'post Pentecosten in hieme';
 }
 
 # Returns the name of the day for use as a subject in conditionals.
@@ -207,6 +215,7 @@ sub get_dayname_for_condition {
       $month == 11
       && ($day == 2 || ($day == 3 && $dayofweek == 1) || ($day == 1 && day_of_week(11, 1, $year) != 6 && $vesp_or_comp))
     );
+  return 'Nicolai' if $month == 12 && $day == 6;
   return '';
 }
 
@@ -222,7 +231,12 @@ sub vero($) {
 
   # aut binds tighter than et
 AUTEM: for (split /\baut\b/, $condition) {
-    for (split /\bet\b/) {
+    my $negation = 0;    # the first condition always has to be true
+
+    for (split /\b(et|nisi)\b/) {
+      $negation = 1 if /nisi/;    # everthing after 'nisi' has to be false until the next 'aut'
+      next if /et|nisi/;          # don't evaluate the captured seperator
+
       s/^\s*(.*?)\s*$/$1/;
 
       # Normalise whitespace.
@@ -247,8 +261,10 @@ AUTEM: for (split /\baut\b/, $condition) {
       my $predicate_text = $predicate;
       $predicate = $predicates{lc($predicate)} || sub { shift =~ /$predicate_text/i };
       $subject = $subjects{lc($subject)};
-      next AUTEM unless $subject && &$predicate(&$subject());
+
+      next AUTEM unless $subject && (&$predicate(&$subject()) xor $negation);
     }
+
     return ($vero = 1);
   }
   return ($vero = 0);
@@ -260,6 +276,7 @@ AUTEM: for (split /\baut\b/, $condition) {
 # their contents. $basedir and $lang are used for inclusions only.
 sub setupstring_parse_file($$$) {
   my ($fullpath, $basedir, $lang) = @_;
+
   my @filelines = do_read($fullpath) or return '';
 
   # Regex for matching section headers.
@@ -452,25 +469,19 @@ sub get_loadtime_inclusion($$$$$$$) {
 
   # Adjust offices of apostles & martyrs in Paschaltide to use the special common.
   # Github #525: Safeguard against infinite loops: exclude Hymnus, Oratio, and Lectio which are partially copied from "extra Tempus Paschalis"
-  if ($dayname[0] =~ /Pasc/i && !$missa && $callerfname !~ /C[123]/ && $section !~ /Hymnus|Oratio|Lectio/i) {
-    $ftitle =~ s/(C[123])(?![p\d])/$1p/g;
+  if ( $dayname[0] =~ /Pasc/i
+    && !$missa
+    && $callerfname !~ /C[123]/
+    && $section !~ /Hymnus|Oratio|Lectio|Secreta|Postcommunio/i)
+  {
+    $ftitle =~ s/(C[123][abcd]*)(?![p\d])/$1p/g;
   }
 
   # Load the file to resolve the reference; if none specified, it's a
   # self-reference.
   my $inclfile = $ftitle ? setupstring($lang, "$ftitle.txt", 'resolve@' => RESOLVE_WHOLEFILE) : $sections;
 
-  if ( $version !~ /Trident/i
-    && $section =~ /Gregem/i
-    && (my ($plural, $class, $name) = papal_commem_rule(${$sections}{'Rule'})))
-  {
-    my ($itemkey) = ($section =~ /(.*?)\s*Gregem/);
-    $text = papal_prayer($lang, $plural, $class, $name, $itemkey);
-  } else {
-
-    # Get text from reference, less any trailing blank lines.
-    ($text = ${$inclfile}{$section}) =~ s/\n+$/\n/s if (exists ${$inclfile}{$section});
-  }
+  ($text = ${$inclfile}{$section}) =~ s/\n+$/\n/s if (exists ${$inclfile}{$section});
 
   if ($text) {
     do_inclusion_substitutions($text, $substitutions);
@@ -492,6 +503,10 @@ sub setupstring($$%) {
   if ($lang =~ /\.\.\/missa\/(.+)/) {    # For Monastic look-up of Evangelium, prevent __preamble from
     $lang = $1;                          # horas file to contaminate missa structure which could lead
     $basedir =~ s/horas/missa/g;         # to infinite cycles github #525
+  }
+
+  if ($fname =~ /Comment.txt$|C1(?!\d)[a-z]?/) {
+    $basedir =~ s/missa/horas/g;         # missa uses comments from horas dir
   }
 
   checklatinfile(\$fname);    # modifies $fname if fallback to Roman folder from Monastic or OP is used in Latin
@@ -518,9 +533,9 @@ sub setupstring($$%) {
     # Not yet in cache, so open it and add it.
     my ($base_sections, $new_sections) = ({}, {});
 
-    if ($lang eq 'English') {
+    if ($lang eq $main::langfb) {
 
-      # English layers on top of Latin.
+      # fallback langauage layers on top of Latin.
       my $baselang = $calledlang =~ /\.\.\/missa/ ? '../missa/Latin' : 'Latin';
       $base_sections = setupstring($baselang, $fname, 'resolve@' => RESOLVE_NONE);
     } elsif ($lang =~ /-/) {
@@ -531,8 +546,8 @@ sub setupstring($$%) {
       $base_sections = setupstring($temp, $fname, 'resolve@' => RESOLVE_NONE);
     } elsif ($lang && $lang ne 'Latin') {
 
-      # Other non-Latin languages layer on top of English.
-      my $baselang = $calledlang =~ /\.\.\/missa/ ? '../missa/English' : 'English';
+      # Other non-Latin languages layer on top of fallback language.
+      my $baselang = $calledlang =~ /\.\.\/missa/ ? "../missa/$main::langfb" : $main::langfb;
       $base_sections = setupstring($baselang, $fname, 'resolve@' => RESOLVE_NONE);
     }
 
@@ -561,8 +576,13 @@ sub setupstring($$%) {
 
       if (@baserank) {
         my @newrank = split(';;', ${$new_sections}{Rank});
-        $baserank[0] = $newrank[0];
+        my $office = ${$new_sections}{Officium};
+        $baserank[0] = $office || $newrank[0];
         ${$new_sections}{Rank} = join(';;', @baserank);
+      } elsif (exists(${$new_sections}{Officium})) {
+        my @newrank = split(';;', ${$new_sections}{Rank});
+        $newrank[0] = ${$new_sections}{Officium};
+        ${$new_sections}{Rank} = join(';;', @newrank);
       }
 
     } else {
@@ -682,9 +702,13 @@ sub officestring($$;$) {
   my $m = 0;
   my $w = 0;
   if ($monthday =~ /([0-9][0-9])([0-9])\-[0-9]/) { $m = $1; $w = $2; }
-  my @months = ('Augusti', 'Septembris', 'Octobris', 'Novembris', 'Decembris');
   my @weeks = ('I.', 'II.', 'III.', 'IV.', 'V.');
-  if ($m) { $m = $months[$m - 8]; }
+
+  if ($m) {
+    my %m = %{setupstring($lang, 'Psalterium/Comment.txt')};
+    my @months = split("\n", $m{Menses});
+    $m = $months[$m - 8];
+  }
   if ($w) { $w = $weeks[$w - 1]; }
   $rank[0] .= " $w $m";
   $s{Rank} = join(';;', @rank);
@@ -701,37 +725,40 @@ sub officestring($$;$) {
 }
 
 #*** checkfile($lang, $filename)
-# substitutes English if no $lang item, Latin if no English
+# substitutes $main::langfb if no $lang item, Latin if no $main::langfb
 # if $lang contains dash, the part before the last dash is taken as a fallback recursively (till something exists)
 sub checkfile {
   my $lang = shift;
   my $file = shift;
   our $datafolder;
 
-  if (-e "$datafolder/$lang/$file") {
-    return "$datafolder/$lang/$file";
+  my $redirect = $datafolder =~ /missa/i && $file =~ /C1[a-z]?/ ? '/../horas' : '';
+
+  if (-e "$datafolder$redirect/$lang/$file") {
+    return "$datafolder$redirect/$lang/$file";
   } elsif ($lang =~ /-/) {
     my $temp = $lang;
     $temp =~ s/-[^-]+$//;
     return checkfile($temp, $file);
-  } elsif ($lang =~ /english/i) {
-    return "$datafolder/Latin/$file";
-  } elsif (-e "$datafolder/English/$file") {
-    return "$datafolder/English/$file";
+  } elsif (-e "$datafolder$redirect/$main::langfb/$file") {
+    return "$datafolder$redirect/$main::langfb/$file";
   } else {
-    return "$datafolder/Latin/$file";
+    return "$datafolder$redirect/Latin/$file";
   }
 }
 
 sub checklatinfile {
+
   my $file_ref = shift;
   my $file = $$file_ref;
   our $datafolder;
   my $txt = $file =~ s/\.txt$// ? '.txt' : '';
 
-  -e "$datafolder/Latin/$file.txt"
+  my $redirect = $datafolder =~ /missa/i && $file =~ /C1[a-z]?/ ? '/../horas' : '';
+
+  -e "$datafolder$redirect/Latin/$file.txt"
     || $file =~ s/(Sancti|Tempora|Commune)(?:M|OP)(.*)/$1$2/
-    && (-e "$datafolder/Latin/$file.txt")
+    && (-e "$datafolder$redirect/Latin/$file.txt")
     && ($$file_ref = "$file$txt");
 }
 

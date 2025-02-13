@@ -4,9 +4,6 @@ Commemoratio Omnium Fidelium Defunctorum;;Duplex;;3;;ex C9
 [Rank] (rubrica 196)
 Commemoratio Omnium Fidelium Defunctorum;;Duplex I. classis;;6;;ex C9
 
-[Rank] (rubrica innovata)
-Commemoratio Omnium Fidelium Defunctorum;;Duplex solemnity;;6;;ex C9
-
 [Oratio mortuorum]
 #Oratio
 $Pater noster Et
@@ -18,7 +15,6 @@ R.Ámen
 V. Uram, hallgasd meg könyörgésünket.
 R. És kiáltásunk jusson elődbe
 &Dominus_vobiscum2
-_
 $oremus 
 v. Isten ki a mindenség teremtőle és megvátója vagy bocsasd meg szolgaid és szolgálóid vétkeit, és könyörgéseink által add meg nekik a megbocsájtást amire mindig vágyakoztak
 $Qui vivis
@@ -34,7 +30,6 @@ R. Amen.
 V. Uram, hallgasd meg könyörgésünket.
 R. És kiáltásunk jusson elődbe
 &Dominus_vobiscum2
-_
 v. Könyörögjunk
 v. Propitiare, quesumus Domine, animabus omnium famulorum famularumque tuarum, pro quibus majestatem tuam suppliciter exoramus, ut per haec piae deprecationis officia, pervenire mereantur ad requiem sempiternam.
 $Per Dominum

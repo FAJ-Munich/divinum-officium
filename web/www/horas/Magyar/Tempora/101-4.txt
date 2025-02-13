@@ -8,9 +8,6 @@ A Makkabeusok első könyvéből
 53 József nyomorúsága idején megtartotta a törvényt, és ura lett Egyiptomnak. 
 54 Ősatyánk, Pinchász buzgalmáért az örök papság ígéretét kapta.
 
-[Responsory1]
-@Tempora/101-0:Responsory1
-
 [Lectio2]
 !1 Mac 2:55-63
 55 Józsue betöltötte a törvényt, és Izrael bírája lett. 
@@ -23,9 +20,6 @@ A Makkabeusok első könyvéből
 62 Ne féljetek hát a bűnös szavától, mert dicsősége csak sár és féreg martaléka. 
 63 Ma még dicsőítik, holnap már letűnik, visszatér a porba, tervei meghiúsulnak.
 
-[Responsory2]
-@Tempora/101-0:Responsory2
-
 [Lectio3]
 !1 Mac 2:64-69
 64 Gyermekeim, legyetek férfiak, és tartsatok ki a törvényben! Mert így juttok dicsőségre. 
@@ -34,6 +28,3 @@ A Makkabeusok első könyvéből
 67 Gyűljetek köré mindannyian, akik szem előtt tartjátok a törvényt, és álljatok szörnyű bosszút népetekért. 
 68 Fizessetek vissza keményen a pogányoknak, és igazodjatok a törvény előírásaihoz.” 
 69 Aztán megáldotta őket, és megtért atyáihoz.
-
-[Responsory3]
-@Tempora/101-0:Responsory3

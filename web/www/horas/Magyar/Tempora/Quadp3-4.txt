@@ -1,9 +1,6 @@
 [Rank]
 Feria V post Cineres;;Feria major;;2
 
-[Rule]
-Preces Feriales
-
 [Lectio1]
 Evangélium szent Máté könyvéből
 !Matt 8:5-13
