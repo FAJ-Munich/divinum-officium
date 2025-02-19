@@ -437,7 +437,8 @@ sub occurrence {
       my $c = getdialog('communes');
       $c =~ s/\n//sg;
       my %communesname = split(',', $c);
-      $officename[1] .= " $communetype $communesname{$commune} [$commune]";
+      $commune =~ /^.*(C\d.*)\.txt/;
+      $officename[1] .= " $communetype $communesname{$1} [$commune]";
     }
 
     if ($winner =~ /01-12t/ && $hora =~ /laudes/i) {
@@ -1277,7 +1278,7 @@ sub extract_common {
   my ($communetype, $commune);
   our ($datafolder);
 
-  if ($common_field =~ /^(ex|vide)\s*(C[0-9]+[a-z]*)/i) {
+  if ($common_field =~ /^(ex|vide)\s*(C[0-9]+[a-z]*\-*[12]*)/i) {
 
     # Genuine common.
     $communetype = $1;
@@ -1285,7 +1286,9 @@ sub extract_common {
     $communetype = 'ex' if ($version =~ /Trident/i && $office_rank >= 2);
 
     if ($paschal_tide) {
-      my $paschal_fname = "$datafolder/Latin/" . subdirname('Commune', $version) . "$commune" . 'p.txt';
+      my $divfolder = $datafolder;
+      $divfolder =~ s/missa/horas/g if $commune =~ /C[1-5](?!\d)[a-z]?/;
+      my $paschal_fname = "$divfolder/Latin/" . subdirname('Commune', $version) . "$commune" . 'p.txt';
       $commune .= 'p' if -e $paschal_fname;
     }
     $commune = subdirname('Commune', $version) . "$commune.txt" if ($commune);

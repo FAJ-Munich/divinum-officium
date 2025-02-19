@@ -1,0 +1,9 @@
+[Officium]
+S. Marcelli Papae et Martyris
+
+[Name]
+Marcela
+
+[Oratio]
+Modlitby lidu svého, prosíme, Pane, milostivě vyslyš, aby nám pro zásluhy sv. Marcela, mučedníka tvého a biskupa, z jehož mučednické smrti se radujeme, pomoženo bylo.
+$Per Dominum

@@ -1,18 +1,20 @@
-[Rank]
-S. Stephani Protomartyris;;Duplex II class cum octava simplici;;5.4;;ex C2
+[Officium]
+S. Stephani Protomartyris
 
-[Rank] (rubrica 196)
-S. Stephani Protomartyris;;Duplex II class;;5.4;;ex C2
+[Rank]
+;;Duplex II class cum octava simplici;;5.4;;ex C2a
+(sed rubrica 196)
+;;Duplex II class;;5.4;;ex C2a
 
 [Rule]
-ex C2;
+ex C2a;
 Psalmi Dominica
 Antiphonas horas
 9 lectiones
 no Psalm5
 
 [Versum 1]
-@Commune/C2
+@Commune/C2a
 
 [Ant 1]
 Stéphanus autem * plenus grátia et fortitúdine, faciébat signa magna in pópulo.
@@ -135,7 +137,7 @@ Alii istum volunt esse Zacharíam, qui occísus est a Joas rege Judæ inter temp
 &teDeum
 
 [Versum 0]
-@Commune/C2::s/N\./Stéphane/
+@Commune/C2a::s/N\./Stéphane/
 
 [Ant Laudes]
 Lapidavérunt Stéphanum, * et ipse invocábat Dóminum, dicens: Ne státuas illis hoc peccátum.

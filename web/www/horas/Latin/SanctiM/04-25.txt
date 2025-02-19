@@ -1,6 +1,3 @@
-[Rank]
-S. Marci Evangelistæ;;Duplex II classis;;5.1;;ex C1p
-
 [Rule]
 ex C1;
 12 lectiones

@@ -1,0 +1,24 @@
+@CommuneM/C4
+
+[Oratio] (communi Summorum Pontificum)
+@Commune/C4b
+
+[Oratio pro commemoratio] (communi Summorum Pontificum)
+@Commune/C4b
+
+[Oratio pro plurium] (communi Summorum Pontificum)
+@Commune/C4b
+
+[Lectio9] (communi Summorum Pontificum)
+@Commune/C4b:Lectio7:s/Manet.*//s
+
+[Lectio10] (communi Summorum Pontificum)
+@Commune/C4b:Lectio7:s/.*(Manet)/$1/s
+@Commune/C4b:Lectio8:s/His.*//s
+
+[Lectio11] (communi Summorum Pontificum)
+@Commune/C4b:Lectio8:s/.*(His)/$1/s
+@Commune/C4b:Lectio9:s/Coróna.*//s
+
+[Lectio12] (communi Summorum Pontificum)
+@Commune/C4b:Lectio9:s/.*(Coróna)/$1/s

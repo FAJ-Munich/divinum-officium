@@ -1,0 +1,9 @@
+[Officium]
+S. Joannis Chrysostomi Episcopi Confessoris Ecclesiae Doctoris
+
+[Name]
+Jana Zlatoústého
+
+[Oratio]
+Milost nebeská, prosíme, Pane, nechť obšťastňuje Církev tvou, kterou jsi chtěl osvítiti slavnými zásluhami a naukami svatého Jana Zlatoústého, vyznavače tvého a biskupa.
+$Per Dominum.

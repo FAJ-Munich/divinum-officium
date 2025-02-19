@@ -1,13 +1,17 @@
+[Officium]
+S. Anacleti Papæ et Martyris
+
 [Rank]
-S. Anacleti Papæ et Martyris;;Semiduplex;;2.2;;vide C2
+;;Semiduplex;;2.2;;vide C2b-1
 
 [Rule]
-vide C2;
+vide C2b-1;
 9 lectiones
-OPapaM=Anaclétum;
 
-[Oratio]
-@Commune/C2:Oratio1:s/N\./Anacléti/
+[Name]
+Anacléti
+(sed communi Summorum Pontificum)
+Anaclétum
 
 [Lectio4]
 Anacletus Atheniensis, Trajano imperatore rexit Ecclesiam. Decrevit, ut episcopus a tribus episcopis, neque a paucioribus consecraretur, et clerici sacris ordinibus publice a proprio episcopo initiarentur: et ut in Missa, peracta consecratione omnes communicarent. Beati Petri sepulcrum ornavit, Pontificumque sepulturæ locum attribuit. Fecit ordinationes duas mense Decembri, quibus creavit presbyteros quinque, diaconos tres, episcopos sex. Sedit annos novem, menses tres, dies decem. Martyrio coronatus, sepultus est in Vaticano.

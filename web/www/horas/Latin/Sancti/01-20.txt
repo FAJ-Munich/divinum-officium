@@ -1,8 +1,10 @@
-[Rank]
-Ss. Fabiani et Sebastiani Martyrum;;Duplex;;3;;vide C3
+[Officium]
+Ss. Fabiani et Sebastiani Martyrum
 
-[Rank] (rubrica innovata)
-Ss. Fabiani et Sebastiani Martyrum;;Duplex optional;;2;;vide C3
+[Rank]
+;;Duplex;;3;;vide C3
+(sed rubrica innovata)
+;;Duplex optional;;2;;vide C3
 
 [Rule]
 vide C3;

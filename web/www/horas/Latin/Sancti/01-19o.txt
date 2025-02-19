@@ -1,10 +1,13 @@
+[Officium]
+S. Canuti Regis et Martyrum
+
 [Rank]
-S. Canuti Regis et Martyrum;;Simplex;;1.1;;vide C2
+;;Simplex;;1.1;;vide C2a
 (sed rubrica tridentina)
-S. Canuti Regis et Martyrum;;Semiduplex;;2.2;;vide C2
+;;Semiduplex;;2.2;;vide C2a
 
 [Rule]
-vide C2;
+vide C2a-1;
 (rubrica tridentina) 9 lectiones
 
 [Oratio]

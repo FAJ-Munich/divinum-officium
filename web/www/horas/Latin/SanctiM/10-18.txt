@@ -1,6 +1,3 @@
-[Rank]
-S. Lucæ Evangelistæ;;Duplex 2 classis;;5;;ex C1a
-
 [Rule]
 12 lectiones
 

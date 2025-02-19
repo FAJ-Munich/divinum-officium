@@ -592,16 +592,16 @@ sub getcommemoratio {
   if ($rank[3] =~ /(ex|vide)\s+(.*)\s*$/i) {
     my $file = $2;
     if ($w{Rule} =~ /Comex=(.*?);/i && $rank < 5) { $file = $1; }
-    if ($file =~ /^C[1-3]a?$/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
+    if ($file =~ /^C[1-3](?![v\d])$/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
     $file = "$file.txt";
     if ($file =~ /^C/) { $file = subdirname('Commune', $version) . "$file"; }
     %c = %{setupstring($lang, $file)};
-
+    
     if ($c{Rank} =~ /;;(ex|vide)\s+(.*)\s*$/i) {
 
       # allow daisy-chained Commune references to the second-level
       $file = $2;
-      if ($file =~ /^C[1-3]a?$/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
+      if ($file =~ /^C[1-3](?![v\d])$/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
       $file = "$file.txt";
       if ($file =~ /^C/) { $file = subdirname('Commune', $version) . "$file"; }
       my %c2 = %{setupstring($lang, $file)};
@@ -616,9 +616,10 @@ sub getcommemoratio {
   } else {
     %c = {};
   }
+
   if (!$rank) { $rank[0] = $w{Officium}; }    #commemoratio from commune
   my $o = $w{Oratio};
-  if ($o =~ /N\./) { $o = replaceNdot($o, $lang); }
+  if ($o =~ /N\./ && $w{Name}) { $o = replaceNdot($o, $lang, $w{Name}); }
 
   if (!$o && $w{Rule} =~ /Oratio Dominica/i) {
     $wday =~ s/\-[0-9]/-0/;
@@ -630,7 +631,7 @@ sub getcommemoratio {
   }
 
   $o ||= $w{"Oratio $ind"} || $w{'Oratio ' . (4 - $ind)} || $c{Oratio};
-
+  
   # Special processing for Common of Supreme Pontiffs.
   my $popeclass = '';
   my %cp;
@@ -716,9 +717,9 @@ sub vigilia_commemoratio {
 
   if ($w{Rank} =~ /Vigilia/i) {
     $w = $w{Oratio};
-
+    
     if (!$w && $w{Rank} =~ /(?:ex|vide) C1v/) {
-      my %com = columnsel($lang) ? %commune : %commune2;
+      my %com = %{setupstring($lang, subdirname('Commune', $version) . "C1v.txt")};
       $w = $com{Oratio};
       $w = replaceNdot($w, $lang, $w{Name});
     }

@@ -1,0 +1,14 @@
+[Officium] (rubrica 1930 aut rubrica 1963)
+Ss. Vincentii et Anastasii Martyrum
+(sed rubrica 1930 aut rubrica 1963)
+S. Vincentii Martyris
+
+[Rank] (rubrica 1930 aut rubrica 1963)
+S. Vincentii Martyris
+(sed rubrica 1930 aut rubrica 1963)
+;;Simplex;;1.1;;vide C2b
+
+[Rule]
+vide C3;
+9 lectiones
+$Per Dominum

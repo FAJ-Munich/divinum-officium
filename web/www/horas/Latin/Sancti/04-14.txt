@@ -1,11 +1,13 @@
-[Rank]
-S. Justini Martyris;;Duplex;;3;;vide C2
+[Officium]
+S. Justini Martyris
 
-[Rank] (rubrica innovata)
-S. Justini Martyris;;Duplex;;3.91;;vide C2
+[Rank]
+;;Duplex;;3;;vide C2a
+(sed rubrica innovata)
+;;Duplex;;3.91;;vide C2a
 
 [Rule]
-vide C2;
+vide C2a;
 9 lectiones
 Lectio1 Quad
 

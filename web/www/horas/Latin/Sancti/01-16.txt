@@ -1,9 +1,15 @@
+[Officium]
+S. Marcelli Papæ et Martyris
+
 [Rank]
-S. Marcelli Papæ et Martyris;;Semiduplex;;2.2;;vide C2
+;;Semiduplex;;2.2;;vide C2b
 
 [Rule]
-vide C2;
+vide C2b;
 9 lectiones
+
+[Name]
+Marcélli
 
 [Oratio]
 Preces pópuli tui, quǽsumus, Dómine, cleménter exáudi: ut beáti Marcélli Mártyris tui atque Pontíficis méritis adjuvémur, cujus passióne lætámur.
@@ -43,7 +49,7 @@ R. Posuísti in cápite ejus corónam de lápide pretióso.
 R. Posuísti in cápite ejus corónam de lápide pretióso.
 
 [Responsory8] (rubrica tridentina)
-@Commune/C2
+@Commune/C2a
 
 [Lectio9]
 @Commune/C4:Lectio9 in 2 loco

@@ -1,7 +1,7 @@
 @Sancti/03-12
 
-[Rank] (rubrica 1930 aut rubrica 1963)
-S. Gregorii Magni Papæ, Confessoris et Ecclesiæ Doctoris, O. N.;;II Class;;5;;ex C4a
+[Officium]
+S. Gregorii Magni Papæ, Confessoris et Ecclesiæ Doctoris, O. N.
 
 [Rule]
 ex C4a;

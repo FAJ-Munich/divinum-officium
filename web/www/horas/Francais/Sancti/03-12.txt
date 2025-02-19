@@ -1,5 +1,5 @@
-[Rank]
-S. Gregorii Papæ Confessoris et Ecclesiæ Doctoris;;Duplex;;3;;vide C4a
+[Officium]
+S. Gregorii Papæ Confessoris et Ecclesiæ Doctoris
 
 [Name]
 Gregori

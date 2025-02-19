@@ -50,7 +50,7 @@ R. Quóniam digni hábiti sunt pro nómine Jesu contuméliam pati, † allelúja
 [MM Capitulum]
 @Commune/C1p:Capitulum Sexta
 _
-@Commune/C1p:Nocturn 2 Versum
+@Commune/C1p:Versum 2
 
 [Ant Vespera 3]
 @Commune/C1p::s/125/138/

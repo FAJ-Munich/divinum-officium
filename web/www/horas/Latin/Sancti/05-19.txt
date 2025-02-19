@@ -1,8 +1,13 @@
+[Officium]
+S. Petri Celestini Papæ et Confessoris
+
 [Rank]
-S. Petri Celestini Papæ et Confessoris;;Duplex;;3;;vide C4
+;;Duplex;;3;;vide C4b
+(sed rubrica 1963)
+;;Simplex;;1.1;;vide C4b
 
 [Rule]
-vide C4;
+vide C4b;
 9 lectiones
 
 [Ant 1]

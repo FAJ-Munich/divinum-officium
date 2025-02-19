@@ -9,6 +9,9 @@
 [HymnusM Vespera]
 @Commune/C2
 
+[Oratio]
+@Commune/C2
+
 [Invit]
 @Commune/C2p
 
@@ -151,4 +154,4 @@ R. Rectos decet collaudátio, allelúja, allelúja.
 @Commune/C2p:Lectio9 in 2 loco
 
 [LectioE in 2 loco]
-@Commune/C3pp:LectioE
+@Commune/C3p:LectioE

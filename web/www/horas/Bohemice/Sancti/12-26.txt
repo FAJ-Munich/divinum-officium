@@ -1,0 +1,6 @@
+[Officium]
+sv. Stěpána, prvomučedníka
+
+[Oratio]
+Dej nám, prosíme, Pane, následovati, co uctíváme, abychom se učili i nepřátele milovati, ježto slavíme narozeniny toho, jenž i za pronásledovatele přimlouvati se uměl u Pána našeho Ježíše Krista, Syna tvého.
+$Qui tecum

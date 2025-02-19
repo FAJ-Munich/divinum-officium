@@ -1,15 +1,11 @@
-[Rank]
-In Cathedra S. Petri Ap. Antiochiæ;;Duplex majus;;4;;ex C4
+[Officium]
+In Cathedra S. Petri Ap. Antiochiæ
 
-[Rule]
-ex C4;
-Gloria
-Credo
-Prefatio=Apostolis
-Sub unica conclusione
+[Officium] (rubrica 196 aut rubrica 1930)
+In Cathedra S. Petri Apostoli
 
 [Introitus]
-@Commune/C2c
+@Commune/C2a
 
 [Oratio]
 @Sancti/01-18
@@ -28,10 +24,12 @@ $Per Dominum
 @Commune/Coronatio
 
 [Tractus]
+!Ps 106:32; 106:31
+Dat zij hem roemen in de vergadering van het volk, in de raad der ouderlingen hem prijzen.
+V. Dat zij de Heer prijzen om zijn barmhartigheid en om zijn wonderwerken voor de kinderen der mensen.
+_
+!Tractus
 @Commune/Coronatio
-
-[Evangelium]
-@Commune/C4b
 
 [Offertorium]
 @Commune/Coronatio

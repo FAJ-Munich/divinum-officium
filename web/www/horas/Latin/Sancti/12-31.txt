@@ -1,24 +1,26 @@
-[Rank]
-S. Silvestri Papæ et Confessoris;;Duplex;;3;;vide C4
+[Officium]
+S. Silvestri Papæ et Confessoris
 
-[Rank] (rubrica 196)
-S. Silvestri Papæ et Confessoris;;Simplex;;1.1;;vide C4
+[Rank]
+;;Duplex;;3;;vide C4b
+(sed rubrica 196)
+;;Commemoratio;;2.9;;vide C4b
 
 [Rule]
 vide C4;
 9 lectiones
-OPapaC=Silvéstrum;
 Lectio1 OctNat
+
+[Name]
+Silvéstri
+(sed rubrica 196)
+Silvéstrum
 
 [Ant Vespera]
 @Sancti/12-25:Ant Vespera 3
 
-[Oratio]
-Da, quǽsumus, omnípotens Deus: ut beáti Silvéstri Confessóris tui atque Pontíficis veneránda solémnitas, et devotiónem nobis áugeat et salútem.
-$Per Dominum.
-
-[Oratio] (rubrica 196)
-@Commune/C4:Oratio Gregem
+[Oratio] (nisi rubrica 196)
+@Commune/C4
 
 [Lectio4]
 Silvéster Románus, patre Rufíno, a prima ætáte óperam dedit Cyríno presbýtero; cujus doctrínam et mores egrégie imitátus est. Hic, sæviénte persecutióne, in Sorácte monte latitáverat; et trigésimum annum agens, présbyter sanctæ Románæ Ecclésiæ a Marcellíno Pontífice creátur. Quo in múnere cum omni laude cléricis áliis antecélleret, in Melchíadis póstea locum succéssit, imperatóre Constantíno, qui ántea pacem Ecclésiæ Christi lege pública déderat. Vix Ecclésiæ gubernácula tractánda suscéperat, Constantínum, jam Crucis signo cǽlitus illustrátum, et de hoste Maxéntio victórem, ad tuéndam propagandámque christiánam religiónem impénse fovit. Quem étiam, uti vetus Ecclésiæ Románæ refert tradítio, Apostolórum imágines recognóscere fecit, sacro baptísmate tinxit, et ab infidelitátis lepra mundávit.

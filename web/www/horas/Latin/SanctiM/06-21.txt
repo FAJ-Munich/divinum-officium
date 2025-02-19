@@ -1,4 +1,4 @@
 @Sancti/06-21
 
 [Rank]
-S. Aloisii Gonzagæ Confessoris;;Simplex;;1.1;;vide C5
+;;Simplex;;1.1;;vide C5
