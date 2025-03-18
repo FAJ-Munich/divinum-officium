@@ -163,7 +163,7 @@ R. Et erat súbditus illis.
 
 [Capitulum Laudes]
 !Prov 28:20; 27:18
-v. Vir fidélis multum laudábitur. Et, qui custos est Dómini sui, glorificábitur.
+{centering-scheme: latin;%%(c3) Vir(h) fi(h)dé(h)lis(h) mul(h)tum(h) lau(h)dá(h)bi(h)tur.(h.) (,) Et,(h) qui(h) cus(h)tos(h) est(h) Dó(h)mi(h)ni(h) su(h)i,(h) glo(h)ri(h)fi(h)cá(f)bi(e)tur.(ef..) (::)}
 $Deo gratias 
 
 [Hymnus Laudes]
