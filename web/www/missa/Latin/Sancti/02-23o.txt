@@ -4,6 +4,9 @@ In Vigilia S. Matthiæ Ap.
 [Rank]
 ;;Vigilia;;1.5;;ex C1v
 
+[Rule]
+ex C1v;
+
 [Name]
 Matthíæ
 

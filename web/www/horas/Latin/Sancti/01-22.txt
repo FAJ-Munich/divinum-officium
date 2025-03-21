@@ -3,10 +3,14 @@ Ss. Vincentii et Anastasii Martyrum
 
 [Rank]
 ;;Semiduplex;;2.2;;vide C3
+(sed rubrica cisterciensis)
+;;Simplex;;1.2;;vide C3
 
 [Rule]
 vide C3;
 9 lectiones
+(sed rubrica cisterciensis)
+3 lectiones
 
 [Oratio]
 Adésto, Dómine, supplicatiónibus nostris: ut, qui ex iniquitáte nostra reos nos esse cognóscimus, beatórum Mártyrum tuórum Vincéntii et Anastásii intercessióne liberémur.

@@ -8,7 +8,6 @@ S. Hygini Papæ et Martyris
 vide C2b;
 Prefatio=Epi 
 
-
 [Name]
 Hygíni
 (sed communi Summorum Pontificum)

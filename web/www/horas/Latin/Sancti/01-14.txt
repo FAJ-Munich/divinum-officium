@@ -7,7 +7,7 @@ S. Hilarii Episcopi Confessoris
 ;;Duplex;;3;;vide C4a
 (sed rubrica 1570 aut rubrica 1617)
 ;;Semiduplex;;2.2;;vide C4
-(sed rubrica 1963)
+(sed rubrica 1963 aut rubrica cisterciensis)
 ;;Simplex;;1.1;;vide C4a
 (sed rubrica innovata)
 ;;Duplex optional;;2;;vide C4a
@@ -24,13 +24,13 @@ Hilárium
 Hilárii
 Ant=Hilári
 
-[Responsory1] (sed non rubrica 1960)
+[Responsory1] (nisi rubrica 1960)
 @Tempora/Epi2-0:Responsory1
 
-[Responsory2] (sed non rubrica 1960)
+[Responsory2] (nisi rubrica 1960)
 @Tempora/Epi2-0:Responsory2
 
-[Responsory3] (sed non rubrica 1960)
+[Responsory3] (nisi rubrica 1960)
 @Tempora/Epi2-0:Responsory3
 
 [Lectio4]

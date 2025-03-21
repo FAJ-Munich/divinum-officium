@@ -78,6 +78,9 @@ Justus Dóminus, * et justítiam diléxit: æquitátem vidit vultus ejus.;;10
 Habitábit * in tabernáculo tuo: requiéscet in monte sancto tuo.;;14
 Posuísti, Dómine, * super caput ejus corónam de lápide pretióso.;;20
 
+[Nocturn 1 Versum] (rubrica cisterciensis)
+@:Versum 1
+
 [Nocturn 2 Versum]
 V. Posuísti, Dómine, super caput ejus.
 R. Corónam de lápide pretióso.

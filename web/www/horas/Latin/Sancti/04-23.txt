@@ -6,6 +6,14 @@ S. Georgii Martyris
 (sed rubrica 196)
 ;;Simplex;;1.1;;vide C2a
 
+[Rank] (rubrica cisterciensis)
+S. Georgii, Martyris;;Commemoratio et M.;;1;;vide C2
+
+[Rank] (tempore paschali et rubrica altovadensis)
+S. Georgii, Martyris;;Commemoratio et M.;;1;;vide C2pc
+(sed tempore Octava Paschæ)
+S. Georgii, Martyris;;Commemoratio et M.;;1;;vide C2p
+
 [Rule]
 vide C2a;
 9 lectiones

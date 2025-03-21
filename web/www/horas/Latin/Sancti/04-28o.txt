@@ -4,6 +4,9 @@ S. Vitalis Martyris
 [Rank]
 ;;Simplex;;1.1;;vide C2a
 
+[Rank] (rubrica cisterciensis)
+S. Vitalis Martyris;;Simplex;;1;;vide C2
+
 [Rule]
 vide C2a;
 

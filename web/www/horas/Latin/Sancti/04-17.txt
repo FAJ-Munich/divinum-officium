@@ -3,12 +3,14 @@ S. Aniceti Papæ et Martyris
 
 [Rank]
 ;;Simplex;;1.1;;vide C2b-1
+(sed rubrica cisterciensis)
+;;Commemoratio;;1;;vide C2-1
 
 [Rule]
 vide C2b-1;
 
 [Name]
-Aniceti
+Anicéti
 (sed communi Summorum Pontificum)
 Anicétum
 

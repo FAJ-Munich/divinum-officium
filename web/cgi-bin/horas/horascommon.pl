@@ -182,7 +182,7 @@ sub occurrence {
     }
 
     # prevent duplicate vigil of St. Mathias in leap years
-    if ($day == 23 && $month == 2 && leapyear($year)) {
+    if (($day == 23 || $day == 22) && $month == 2 && leapyear($year)) {
       $sfile = (($sfile =~ /02-23o/) ? '' : ($sfile =~ /02-23/) ? subdirname('Sancti', $version) . '02-23r' : $sfile);
       @commemoentries = grep { $_ !~ /02-23o/ } @commemoentries;
     }
@@ -279,11 +279,7 @@ sub occurrence {
         || (
           $version =~ /19(?:55|6)/i
           && (
-            (
-              $srank =~ /vigil/i
-              && ($sday !~ /(06\-23|06\-28|08\-09|08\-14|12\-24)/
-                || ($dayofweek == 0 && $month < 12))    # #3873: ensure no Vigil on Sunday except Nativity
-            )
+            ($srank =~ /vigil/i && $dayofweek == 0 && $month < 12)    # #3873: ensure no Vigil on Sunday except Nativity
             || ($srank =~ /(infra octavam|in octava)/i && nooctnat())
           )
         )
@@ -943,8 +939,11 @@ sub concurrence {
     my $flcrank =
       $version =~ /cist/i && $cwinner{Rank} =~ /Dominica/i
       ? 2
-      : $version =~ /trident/i
-      ? ($crank < 2.91 ? 2 : ($cwinner{Rank} =~ /Dominica/i ? 2.99 : ($crank < 4.9 && $crank != 4) ? 3 : $crank))
+      : $version =~ /trident/i ? (
+        $crank < 2.91
+        ? ($crank > 2 ? 2 : $crank)
+        : ($cwinner{Rank} =~ /Dominica/i ? 2.99 : ($crank < 4.9 && $crank != 4) ? 3 : $crank)
+      )
       : ($version =~ /divino/i && $cwinner{Rank} =~ /Dominica/i) ? 4.9
       : $crank;
 
@@ -994,7 +993,10 @@ sub concurrence {
         && $cwrank[0] !~ /Dominica|feria|in.*octava/i)
 
       # on Christmas Eve and New Year's Eve, nothing of a preceding Sunday
-      || ($cwinner =~ /12-25|01-01/)
+      || ($cwinner =~ /12-25|01-01/ && $version !~ /cist/i)
+
+      # Cist: we need Comm. of S. Silvester on 31-12
+      || ($cwinner =~ /12-25/ && $version =~ /cist/i)
 
       # in 1st Vespers of Duplex II. cl. also commemoration of any Duplex
       || ( $crank >= 5
@@ -1766,7 +1768,7 @@ sub rankname {
         $rankname =~ s/Semiduplex //;
       }
     }
-  } elsif ($commune =~ /C10/) {    # Can;t use winner due 9/13/2025 DA
+  } elsif ($commune =~ /C10/) {    # Can't use winner due 9/13/2025 DA
     $rankname = $ranktable[1];     # Simplex - BMV Sabbato
   } elsif ($version =~ /196/ && $winner =~ /Pasc[07]-[1-6]/) {
     $rankname = "$t{'Dies Octavæ'} I. $t{classis}";    # Paschal & Pentecost Octave post 1960
@@ -1856,8 +1858,13 @@ sub spell_var {
     $t = join('', @parts);
   } else {
     $t =~ s/Génetrix/Génitrix/g;
+    $t =~ s/Genetrí/Genitrí/g;
     $t =~ s/\bco(t[ií]d[ií])/quo$1/g;
     $t =~ s/(allelú)ja/$1ia/gi if $version =~ /cist/i;
+    $t =~ s/(c)(æ|ae)l/$1œl/gi if $version =~ /cist/i;
+    $t =~ s/(c)([aá]r[ií])(t|ss)/$1h$2$3/gi if $version =~ /cist/i;
+    $t =~ s/>aríssim/>haríssim/gi if $version =~ /cist/i;
+    $t =~ s/(A|a)b(i|í)ci/$1bj$2ci/gi if $version =~ /cist/i;
   }
   return $t;
 }

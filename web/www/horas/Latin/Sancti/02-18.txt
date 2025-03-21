@@ -4,6 +4,9 @@ S. Simeonis Episcopi et Martyris
 [Rank]
 ;;Simplex;;1.1;;vide C2
 
+[Rank] (rubrica cisterciensis)
+S. Simeonis, Episcopi et Martyris;;Commemoratio et M.;;1;;vide C2
+
 [Rule]
 vide C2;
 
