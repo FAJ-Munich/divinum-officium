@@ -20,6 +20,9 @@ vide Sancti/12-26;
 [Oratio]
 @Sancti/12-26::s/natalícia/Inventiónem/
 
+[Invit]
+@Commune/C2
+
 [Lectio1]
 De Actibus Apostolorum
 !Acts 7:51-54

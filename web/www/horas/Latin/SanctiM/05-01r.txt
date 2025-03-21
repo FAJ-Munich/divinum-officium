@@ -1,4 +1,4 @@
-@Tempora/Pasc2-3
+@Sancti/05-01r
 
 [Rule]
 12 lectiones

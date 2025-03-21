@@ -1,5 +1,2 @@
 [Officium]
 Ss. Alexandri et Sociorum Martyrum
-
-[Rule]
-vide C3;

@@ -1,5 +1,7 @@
 [Officium]
 S. Ephræm Syri Confessoris et Ecclesiæ Doctoris
+(sed rubrica monastica)
+S. Ephræm Syri Diaconi, Confessoris et Ecclesiæ Doctoris
 
 [Rank]
 ;;Duplex;;3;;vide C5a

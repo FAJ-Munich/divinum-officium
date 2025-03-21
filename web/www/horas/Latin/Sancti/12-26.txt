@@ -32,9 +32,6 @@ $Qui tecum
 v. Deus, qui nos annua ómnium sanctórum Mártyrum tuórum commemoratióne lætíficas: § concéde propítius; * ut, quorum gaudémus méritis, § accendámur examplis.
 $Per Dominum
 
-[Commemoratio 3] (rubrica cisterciensis)
-@:Commemoratio
-
 [Octava 1]
 @:Octava 3
 
@@ -240,6 +237,9 @@ Sepeliérunt Stéphanum * viri timoráti, et fecérunt planctum magnum super eum
 [Ant 3] (rubrica cisterciensis)
 Intuens in cœlum * beátus Stéphanus vidit glóriam Dei, et ait: Ecce vídeo cœlos apértos, et Fílium hóminis stantem a dextris Dei.
 
+[Commemoratio 3] (rubrica cisterciensis)
+@:Commemoratio
+
 [Octava 3]
 !Commemoratio Octavæ S. Stephani
 Ant. Sepeliérunt Stéphanum viri timoráti, et fecérunt planctum magnum super eum.
@@ -262,4 +262,3 @@ _
 $Oremus
 v. Da nobis, quǽsumus, Dómine, imitári quod cólimus: ut discámus et inimícos dilígere; quia ejus natalícia celebrámus, qui novit étiam pro persecutóribus exoráre Dóminum nostrum Jesum Christum Fílium tuum:
 $Qui tecum
-

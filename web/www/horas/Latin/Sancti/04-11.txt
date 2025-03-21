@@ -1,5 +1,7 @@
 [Officium]
 S. Leonis I Papæ Confessoris et Ecclesiæ Doctoris
+(sed rubrica cisterciensis)
+S. Leonis <i>I.</i>, Papæ, Confessoris et Ecclesiæ Doctoris
 (sed rubrica 1570 aut rubrica 1617)
 S. Leonis I Papæ Confessoris
 
@@ -9,6 +11,8 @@ S. Leonis I Papæ Confessoris
 ;;Duplex;;3;;vide C4-1
 (sed rubrica innovata)
 ;;Duplex;;3.91;;vide C4b-2
+(sed rubrica cisterciensis)
+;;Simplex;;1.2;;vide C4a
 
 [Rule]
 vide C4b-2;mtv
@@ -56,12 +60,3 @@ His actis, sanctus Pontifex se ad reficiendas et ædificandas ecclesias converti
 [Lectio94]
 Leo primus, Etrúscus, eo témpore prǽfuit Ecclésiæ, cum rex Hunnórum Attila, cognoménto Flagéllum Dei, in Itáliam invádens, post captam et incénsam Aquiléjam, Romam petitúrus cópias paráverat. Cui occúrrens Leo, divína persuásit eloquéntia, ut regrederétur. Tum Romæ singulári ómnium lætítia excéptus, paulo post, invadénti Urbem Genseríco eádem eloquéntiæ vi persuásit, ut ab incéndiis, ignomíniis et cǽdibus abstinéret. Cum autem Ecclésiam a multis hærésibus maximéque a Nestoriánis et Eutychiánis exagitári vidéret, Concílium Chalcedonénse indíxit; ubi, sexcéntis trigínta coáctis epíscopis, Eutyches et Dióscorus, et íterum Nestórius condemnáti sunt; cujus Concílii decréta auctoritáte sua firmávit. Multas sacras ædes exstrúxit, ac monastérium vicínum basílicæ sancti Petri ædificávit. His et áliis præcláre gestis, cum multa sancte et luculénter scripsísset, quarto Idus Novémbris obdormívit in Dómino, anno pontificátus sui vigésimo primo.
 &teDeum
-
-[Lectio7]
-@Commune/C4:Lectio7 in 2 loco
-
-[Lectio8]
-@Commune/C4:Lectio8 in 2 loco
-
-[Lectio9]
-@Commune/C4:Lectio9 in 2 loco

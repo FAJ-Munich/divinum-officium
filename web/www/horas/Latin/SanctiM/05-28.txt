@@ -1,7 +1,4 @@
 @Sancti/05-28
 
-[Officium]
-S. Augustini Episcopi et Confessoris, O. N.
-
 [MM Capitulum]
 @CommuneM/C5

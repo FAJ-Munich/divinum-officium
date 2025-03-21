@@ -1,8 +1,5 @@
 @Sancti/10-05
 
-[Officium]
-Ss. Placidi et Sociorum Martyrum, O. N.
-
 [Rule]
 vide C3a-1;
 12 lectiones

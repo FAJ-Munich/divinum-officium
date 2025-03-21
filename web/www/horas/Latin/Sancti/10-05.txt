@@ -1,5 +1,7 @@
 [Officium]
 Ss. Placidi et Sociorum Martyrum
+(sed rubrica monastica)
+Ss. Placidi et Sociorum Martyrum, O. N.
 
 [Rank]
 ;;Simplex;;1.1;;vide C3a-1

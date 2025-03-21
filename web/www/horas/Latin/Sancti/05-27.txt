@@ -1,5 +1,7 @@
 [Officium]
 S. Bedæ Venerabilis Confessoris et Ecclesiæ Doctoris
+(sed rubrica monastica)
+S. Bedæ Venerabilis, Confessoris et Ecclesiæ Doctoris, O. N.
 
 [Rank]
 ;;Duplex;;3;;vide C5a

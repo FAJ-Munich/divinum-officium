@@ -1,3 +1,6 @@
+[Officium]
+Św. Gabryjela od Matki Bożej Bolesnej Wyznawcy
+
 [Comment]
 # 27 II – Św. Gabriela od Matki Bożej Bolesnej
 ! 3 klasy

@@ -10,7 +10,7 @@ Gloria
 
 [Name]
 Felícis
-(sed communi Summarum Pontificia)
+(sed communi Summorum Pontificum)
 Felícem
 
 [Lectio93]

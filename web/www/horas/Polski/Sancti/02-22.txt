@@ -1,7 +1,7 @@
 [Officium]
 Stolicy Św. Piotra w Antiochji
 
-[Officium] (rubrica 196 aut rubrica 1930)
+[Officium] (rubrica 196 aut rubrica 1930 aut rubrica cisterciensis)
 Stolicy Św. Piotra w Apostoła
 
 [Hymnus Vespera]

@@ -23,20 +23,13 @@ v. Gregem tuum, Pastor ætérne, placátus inténde: et per beátos N. et N. Sum
 $Per Dominum
 
 [Lectio7] (communi Summorum Pontificum)
-Léctio sancti Evangélii secúndum Matthǽum
-!Matt 16:13-19
-In illo témpore: Venit Jesus in partes Cæsaréæ Philíppi, et interrogábat discípulos suos, dicens: Quem dicunt hómines esse Fílium hóminis? Et réliqua.
-_
-Homilía sancti Leónis Papæ
-!Sermo 2 in anniversario assumpt. suæ, ante medium
-Cum, sicut evangélica lectióne reserátum est, interrogásset Dóminus discípulos, quem ipsum (multis divérsa opinántibus) créderent; respondissétque beátus Petrus, dicens: Tu es Christus Fílius Dei vivi; Dóminus ait: Beátus es, Simon Bar-Jona, quia caro et sanguis non revelávit tibi, sed Pater meus, qui in cælis est: et ego dico tibi, quia tu es Petrus, et super hanc petram ædificábo Ecclésiam meam, et portæ ínferi non prævalébunt advérsus eam. Et tibi dabo claves regni cælórum: et quodcúmque ligáveris super terram, erit ligátum et in cælis: et quodcúmque sólveris super terram, erit solútum et in cælis. Manet ergo disposítio veritátis, et beátus Petrus, in accépta fortitúdine petræ persevérans, suscépta Ecclésiæ gubernácula non relíquit.
+@Sancti/03-12
 
 [Lectio8] (communi Summorum Pontificum)
-In univérsa namque Ecclésia, Tu es Christus Fílius Dei vivi, quotídie Petrus dicit; et omnis lingua, quæ confitétur Dóminum, magistério hujus vocis imbúitur. Hæc fides diábolum vincit et captivórum ejus víncula dissólvit. Hæc érutos mundo, ínserit cælo, et portæ ínferi advérsus eam prævalére non possunt. Tanta enim divínitus soliditáte muníta est, ut eam neque hærética umquam corrúmpere právitas, nec pagána potúerit superáre perfídia. His ítaque modis, dilectíssimi, rationábile obséquio celebrétur hodiérna festívitas: ut in persóna humilitátis meæ ille intelligátur, ille honorétur, in quo et ómnium pastórum sollicitúdo, cum commendatárum sibi óvium custódia persevérat, et cujus étiam dígnitas in indígno heréde non déficit.
+@Sancti/03-12
 
 [Lectio9] (communi Summorum Pontificum)
-Cum ergo cohortatiónes nostras áuribus vestræ sanctitátis adhibémus, ipsum vobis, cujus vice fúngimur, loqui crédite: quia et illíus vos afféctu monémus, et non áliud vobis, quam quod dócuit, prædicámus; obsecrántes, ut succíncti lumbos mentis vestræ, castam et sóbriam vitam in Dei timóre ducátis. Coróna mea, sicut Apóstolus ait, et gáudium vos estis, si fides vestra, quæ ab inítio Evangélii in univérso mundo prædicáta est, in dilectióne et sanctitáte permánserit. Nam licet omnem Ecclésiam, quæ in toto est orbe terrárum, cunctis opórteat florére virtútibus; vos tamen præcípue inter céteros pópulos decet méritis pietátis excéllere, quos in ipsa apostólicæ petræ arce fundátos, et Dóminus noster Jesus Christus cum ómnibus redémit, et beátus Apóstolus Petrus præ ómnibus erudívit.
-&teDeum
+@Sancti/03-12
 
 [Ant 3]
 @Commune/C4:Ant 3 summi Pontificis

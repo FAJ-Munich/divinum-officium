@@ -2,9 +2,9 @@
 In Octava S. Joannis Apostoli et Evangelistæ
 
 [Rank]
-;;Simplex;;1.4;;vide Sancti/12-26
+;;Simplex;;1.4;;vide Sancti/12-27
 (sed rubrica tridentina)
-;;Duplex;;3.1;;ex Sancti/12-26
+;;Duplex;;3.2;;ex Sancti/12-27
 
 [Rule]
 vide Sancti/12-27;

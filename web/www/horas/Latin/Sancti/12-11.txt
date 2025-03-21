@@ -2,16 +2,16 @@
 S. Damasi Papæ et Confessoris
 
 [Rank]
-;;Semiduplex;;2.2;;vide C4
+;;Semiduplex;;2.2;;vide C4b
 (sed rubrica 196)
-;;Duplex;;3;;vide C4
+;;Duplex;;3;;vide C4b
 (sed rubrica innovata)
-;;Semiduplex;;2.5;;vide C4
+;;Semiduplex;;2.5;;vide C4b
 (sed rubrica monastica nisi rubrica 1617)
-;;Simplex;;1.1;;vide C4
+;;Simplex;;1.1;;vide C4b
 
 [Rule]
-vide C4;
+vide C4b;
 9 lectiones;
 Doxology=Nat
 Omit Preces
@@ -40,12 +40,3 @@ Pœnam taliónis constítuit iis, qui álterum falsi críminis accusássent. St�
 
 [Lectio94]
 Dámasus Hispánus, vir egrégius et erudítus in Scriptúris sacris, indícto primo Constantinopolitáno concílio, nefáriam Eunómii et Macedónii hǽresim exstínxit. Ariminénsem convéntum, a Libério jam ante rejéctum, íterum condemnávit; in quo, ut scribit sanctus Hierónymus, Valéntis potíssimum et Ursácii fráudibus, damnátio Nicǽnæ fídei conclamáta est. Basílicas duas ædificávit: álteram sancti Lauréntii nómine ad theátrum Pompéji, álteram via Ardeatína ad Catacúmbas. Státuit, ut, quod plúribus jam locis erat in usu, Psalmi per omnes ecclésias diu noctúque ab altérnis caneréntur, et in fine cujúsque Psalmi dicerétur: Glória Patri, et Fílio, et Spirítui Sancto. Ejus jussu sanctus Hierónymus novum testaméntum Græcæ fídei réddidit. Multa étiam sanctórum Mártyrum córpora invénit, eorúmque memórias vérsibus exornávit. Virtúte, doctrína et prudéntia clarus, prope octogenárius, Theodósio senióre imperánte, obdormívit in Dómino.
-
-[Lectio7]
-@Commune/C4:Lectio7 in 2 loco
-
-[Lectio8]
-@Commune/C4:Lectio8 in 2 loco
-
-[Lectio9]
-@Commune/C4:Lectio9 in 2 loco

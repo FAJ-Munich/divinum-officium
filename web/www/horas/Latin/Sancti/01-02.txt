@@ -1,5 +1,5 @@
 [Officium]
-In Octava Sancti Stephani Protomartyris
+In Octava S. Stephani Protomartyris
 
 [Rank]
 ;;Simplex;;1.4;;vide Sancti/12-26
@@ -7,7 +7,7 @@ In Octava Sancti Stephani Protomartyris
 ;;Duplex;;3.1;;ex Sancti/12-26
 
 [Rule]
-vide Sancti/12-26
+vide Sancti/12-26;
 Feria Te Deum
 Comkey=70
 Lectio1 TempNat

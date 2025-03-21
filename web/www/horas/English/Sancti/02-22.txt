@@ -1,7 +1,7 @@
 [Officium]
 Chair of St. Peter at Antioch
 
-[Officium] (rubrica 196 aut rubrica 1930)
+[Officium] (rubrica 196 aut rubrica 1930 aut rubrica cisterciensis)
 Chair of St. Peter the Apostle
 
 [Hymnus Vespera]

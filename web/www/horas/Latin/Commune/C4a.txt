@@ -18,6 +18,8 @@ O Doctor óptime, * Ecclésiæ sanctæ lumen, beáte N., divínæ legis amátor,
 
 [Oratio]
 Deus, qui pópulo tuo ætérnæ salútis beátum N. minístrum tribuísti: præsta, quǽsumus; ut, quem Doctórem vitæ habúimus in terris, intercessórem habére mereámur in cœlis.
+(sed communi Summorum Pontificum)
+Deus, qui pópulo tuo ætérnæ salútis beátum N. minístrum tribuísti: præsta, quǽsumus; ut, quem Doctórem vitæ habúimus in terris, intercessórem habére mereámur in cælis.
 $Per Dominum.
 
 [Lectio1]

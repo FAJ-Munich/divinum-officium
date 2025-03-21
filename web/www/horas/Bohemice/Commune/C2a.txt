@@ -11,6 +11,14 @@ Světec, k jehož cti jest sloužena tato mše, dosáhl již své dokonalosti a 
 mu vstavila drahocennou korunu na hlavu. Není pro nás důležitější modlitby nad prosbu o posílení lásky Boží v nás.
 
 [Oratio]
+Uděl, prosíme, všemohoucí Bože, abychom, když slavíme narození pro nebe svatého N., tvého Mučedníka, na jeho přímluvu byli v lásce k tvému jménu posilněni.
+$Per Dominum
+
+[Oratio altera]
+Dej, prosíme, všemohoucí Bože; abychom, když slavíme svátek svatého N., tvého Mučedníka, obdrželi na pomoc jeho přímluvy u tebe.
+$Per Dominum
+
+[Oratio] (ad Missam)
 Uděl, prosíme, všemohoucí Bože, abychom slavíce narozeniny svatého N., mučedníka tvého, na jeho přímluvu v lásce k jménu tvému posilněni byli.
 $Per Dominum
 

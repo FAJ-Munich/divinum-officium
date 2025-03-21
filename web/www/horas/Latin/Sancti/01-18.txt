@@ -1,5 +1,7 @@
 [Officium]
 Cathedræ S. Petri Romæ
+(sed rubrica monastica)
+In Festo Cathedræ S. Petri, qua in Romæ primum sedit
 
 [Rank]
 ;;Duplex majus;;4;;ex C4

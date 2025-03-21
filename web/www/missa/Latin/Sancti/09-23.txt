@@ -12,7 +12,7 @@ Gloria
 
 [Name]
 Lini
-(sed communi Summarum Pontificum)
+(sed communi Summorum Pontificum)
 Linum
 Secreta=Lino
 Postcommunio=Lino

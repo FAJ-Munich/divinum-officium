@@ -23,7 +23,7 @@ Omnes gentes * per gyrum credidérunt Christo Dómino.;;116
 [Ant 1]
 Orémus omnes * ad Dóminum Jesum Christum, ut Confessóribus suis fontis venam apériat.
 
-[Oratio] (nisi communi Summorum Pontificum) 
+[Oratio] (nisi communi Summorum Pontificum)
 Deus, qui nos ánnua beáti Cleméntis Mártyris tui atque Pontíficis solemnitáte lætíficas: concéde propítius; ut cujus natalítia cólimus, virtútem quoque passiónis imitémur.
 $Per Dominum
 
@@ -96,9 +96,6 @@ Quibus concitátus Trajánus, misit illuc qui Cleméntem, alligáta ad ejus coll
 Clemens, Románus, discípulus beáti Petri, septem Urbis regiónes divísit septem notáriis, síngulas síngulis attríbuens, qui passiónes Mártyrum et res ab eis gestas, diligentíssime conquisítas, lítteris mandárent. Multa scripsit et ipse accuráte et salutáriter, quibus christiánam religiónem illustrávit. Cum autem doctrína ac vitæ sanctitáte multos ad Christi fidem convérteret, a Trajáno imperatóre relegátus est trans mare Pónticum in solitúdine urbis Chersónæ, in qua duo míllia Christianórum réperit, qui ab eódem Trajáno condemnáti fúerant. Cum multos ibi infidéles, ad Christi fidem convertísset, jussu ejúsdem imperatóris alligáta ad ejus collum ánchora, in mare præcipitátus, martýrio coronátus est. Ejus corpus, Nicoláo primo Pontífice Romam translátum, in ecclésia, quæ ejus nómine ántea fúerat dicáta, honorífice recónditum est.
 &teDeum
 
-[Lectio7]
-@Commune/C4:Lectio7 in 2 loco
-
 [Lectio7] (rubrica tridentina)
 Léctio sancti Evangélii secúndum Matthǽum
 !Matt 24:42-45
@@ -107,9 +104,6 @@ _
 Homilía sancti Hilárii Epíscopi
 !Comment. in Matth. Can 26
 Ut ignorántiam illam diéi ómnibus táciti, non sine útilis siléntii ratióne esse scirémus, vigiláre nos Dóminus propter advéntum furis admónuit, et oratiónum assiduitáte deténtos ómnibus præceptórum suórum opéribus inhærére. Furem enim esse osténdit zábulum, ad detrahénda ex nobis spólia pervígilem, et córporum nostrórum dómibus insidiántem: ut ea incuriósis nobis, et somno déditis, consiliórum suórum atque illecebrárum jáculis perfódiat. Parátos ígitur esse nos cónvenit: quia diéi ignorátio inténtam sollicitúdinem suspénsæ exspectatiónis exágitet.
-
-[Lectio8]
-@Commune/C4:Lectio8 in 2 loco
 
 [Lectio8] (rubrica tridentina)
 !Can 27

@@ -6,12 +6,6 @@
 [Ant 1] (rubrica cisterciensis)
 @Commune/C1
 
-[Ant 2] (rubrica cisterciensis)
-@Commune/C1
-
-[Ant 3] (rubrica cisterciensis)
-@Commune/C1
-
 [Lectio4]
 @CommuneM/C1
 
@@ -40,3 +34,9 @@ Certe iste ipse pastor Ecclésiæ, ad cujus sacratíssimum corpus sedémus, quan
 
 [Lectio12]
 @Sancti/12-21:Lectio9
+
+[Ant 2] (rubrica cisterciensis)
+@Commune/C1
+
+[Ant 3] (rubrica cisterciensis)
+@Commune/C1

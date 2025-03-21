@@ -7,9 +7,9 @@ Ss. Fabiani et Sebastiani Martyrum
 ;;Duplex optional;;2;;vide C3
 
 [Rank] (rubrica cisterciensis)
-SS. Fabiani et Sebastiani, Martyrum;;iij. Lect. et M.;;1.2;;vide C3
+;;iij. Lect. et M.;;1.2;;vide C3
 (sed rubrica altovadensis)
-SS. Fabiani et Sebastiani, Martyrum (propria Bohemiæ);;MM. min.;;3;;ex C3
+;;MM. min.;;3;;ex C3
 
 [Rule]
 vide C3;

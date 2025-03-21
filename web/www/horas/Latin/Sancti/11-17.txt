@@ -8,12 +8,12 @@ S. Gregorii Thaumaturgi Episcopi et Confessoris
 (sed rubrica 196)
 ;;Duplex;;3;;vide C4
 
-[Name]
-Gregórii
-
 [Rule]
 vide C4;
 9 lectiones
+
+[Name]
+Gregórii
 
 [Lectio4]
 Gregórius, Neocæsaréæ Ponti epíscopus, sanctitáte doctrinaque illustris, signis vero ac miraculis multo illustrior, quorum multitúdine atque præstántia Thaumatúrgus appellátus est, et sancti Basilíi testimonio cum Moyse, Prophetis et Apóstolis comparátus; montem, qui ecclésiæ ædificatiónem impediebat, oratióne álio tránstulit. Item palúdem, inter fratres causam discordiárum, exsiccávit. Lycum fluvium, perniciose agros inundántem, defixo ad ripam quo sustentabátur baculo, qui statim virentem crevit in árborem, coércuit, ut póstea ultra eum terminum non efflúxerit.

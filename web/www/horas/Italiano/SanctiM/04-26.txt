@@ -1,6 +1,2 @@
 [Officium]
 SS. Cleti et Marcellini Paparum et Martyrum
-
-[Rule]
-vide C3;
-OPapaM=Cleto e Marcellino;

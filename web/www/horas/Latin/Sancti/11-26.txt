@@ -1,5 +1,7 @@
 [Officium]
 S. Silvestri Abbatis
+(sed rubrica monastica)
+S. Silvestri Abbatis O. N.
 
 [Rank]
 ;;Duplex;;3;;vide C5b

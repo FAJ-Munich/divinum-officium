@@ -1,8 +1,5 @@
 @Sancti/04-21
 
-[Officium]
-S. Anselmi Episcopi, Confessoris et Ecclesiæ Doctoris, O. N.
-
 [Hymnus Vespera]
 Fortis en præsul, monachus fidélis,
 Láurea doctor redimítus astat:

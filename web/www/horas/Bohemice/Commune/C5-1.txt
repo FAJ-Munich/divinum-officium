@@ -6,6 +6,10 @@ Justus
 Spravedlivý jako krásná palma upíná se k nebesům a jako mohutný cedr rozkládá větve svého příkladu po celém světě. Této krásy však dosáhl jenom proto, že dlel v domě Pána – v Církvi. Bez milosti Boží není člověk schopen krásy a ctností duše; svou Milostí nás Bůh ospravedlnil a povznesl do nadpřirozených výší a svou Milostí vypěstil květy a ovoce našich duší. Nespoléhejme na své slabé síly a prosme za stálou pomoc Milosti Boží.
 
 [Oratio]
+Vyslyš, Pane, naše prosby, které na slavnost svatého N., tvého Vyznavače, vznášíme: abychom, třebaže nemáme důvěru v zjednání své spravedlnosti, jeho prosbami, neboť se ti zalíbil, se nám dostane pomoci.
+$Per Dominum.
+
+[Oratio] (ad Missam)
 Vyslyš, Pane, snažné prosby naše, které o slavnosti svatého N., vyznavače tvého, pronášíme, abychom, ježto ve spravedlnost svou důvěry nemáme, prosbami toho, jenž se tobě líbil, podporováni byli.
 $Per Dominum
 

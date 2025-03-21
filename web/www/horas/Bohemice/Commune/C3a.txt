@@ -12,6 +12,10 @@ Jak byli moudrými světci že věřili Boha a v Ježíše Krista, Syna Božího
 Bože, jenž nám popřáváš svatých mučedníků tvých N. a N. narozeniny slaviti, dej, ať se z jejich společnosti radujeme v blaženosti věčné.
 $Per Dominum
 
+[Oratio altera]
+Dej, prosíme, všemohoucí Bože; abychom, když slavíme svátek tvých svatých Mučedníků N. a N., obdrželi pomoc jejich přímluvy u tebe.
+$Per Dominum
+
 [Introitus]
 !Sir 44,15; 44,14
 v. Moudrost Svatých nechť vyprávějí národové a chválu jejich ať zvěstuje shromáždění. Jména pak jejich žití budou na věky věkův.

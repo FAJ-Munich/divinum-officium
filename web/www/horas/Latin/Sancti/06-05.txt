@@ -1,5 +1,7 @@
 [Officium]
 S. Bonifatii Episcopi et Martyris
+(sed rubrica moanstica)
+S. Bonifatii Episcopi et Martyris O. N.
 
 [Rank]
 ;;Duplex;;3;;vide C2

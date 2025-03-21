@@ -1,5 +1,3 @@
-@Commune/C4b
-
 [Officium]
 S. Damasi Papæ et Confessoris
 

@@ -11,7 +11,7 @@ vide C2b;
 [Name]
 Zephyrínum
 
-[Oratio] (nisi communi Summorum Pontificum) 
+[Oratio] (nisi communi Summorum Pontificum)
 Præsta, quǽsumus, omnipotens Deus: ut beati Zephyrini Martyris tui atque Pontificis, cujus gaudemus meritis, instruamur exemplis.
 $Per Dominum
 
