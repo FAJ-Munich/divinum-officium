@@ -35,15 +35,6 @@ our $Ck = 0;
 our $officium = 'Eofficium.pl';
 our $version = 'Rubrics 1960 - 1960';
 
-@versions = (
-  'Trident - 1570',
-  'Trident - 1910',
-  'Divino Afflatu - 1954',
-  'Reduced - 1955',
-  'Rubrics 1960 - 1960',
-  'Rubrica 1960 - 2020 USA/Rubrics 1960 Newcalendar',
-);
-
 #***common variables arrays and hashes
 #filled  getweek()
 our @dayname;    #0=Advn|Natn|Epin|Quadpn|Quadn|Pascn|Pentn 1=winner title|2=other title
@@ -91,12 +82,14 @@ require "$Bin/specmatins.pl";
 
 if (-e "$Bin/monastic.pl") { require "$Bin/monastic.pl"; }
 require "$Bin/webdia.pl";
+require "$Bin/altovadum.pl";
 require "./Ewebdia.pl";
 require "$Bin/horasjs.pl";
 
 #require "$Bin/tfertable.pl";
 use lib "$Bin/../../../web/cgi-bin";
 use DivinumOfficium::LanguageTextTools qw(load_languages_data);
+use DivinumOfficium::RunTimeOptions qw(check_version check_language);
 
 binmode(STDOUT, ':encoding(utf-8)');
 
@@ -121,7 +114,7 @@ getini('horas');    #files, colors
 $setupsave = strictparam('setup');
 $setupsave =~ s/\~24/\"/g;
 
-our ($lang1, $lang2, $expand, $column, $accented);
+our ($lang1, $lang2, $langfb, $expand, $column, $accented);
 our %translate;     #translation of the skeleton label for 2nd language
 
 #internal script, cookies
@@ -220,11 +213,13 @@ if ($flag) {
 
   #setcookies('horasgp', 'general');
 }
-if (!$version) { $version = 'Rubrics 1960 - 1960'; }
+$version = check_version($version) || 'Rubrics 1960 - 1960';
 if (!$lang2) { $lang2 = 'English'; }
-$only = ($lang1 =~ $lang2) ? 1 : 0;
+if (!$langfb) { $langfb = 'English'; }
+$only = $lang1 eq $lang2;
 
 precedence($date1);    #fills our hashes et variables
+setsecondcol();
 our $psalmnum1 = 0;
 our $psalmnum2 = 0;
 
@@ -276,7 +271,7 @@ if ($command =~ /setup/i) {
   setuptable($command);
 
 } elsif ($command =~ /pray/) {
-  load_languages_data($lang1, $lang2, $version, $missa);
+  load_languages_data($lang1, $lang2, $langfb, $version, $missa);
   $pmode = 'hora';
   $command =~ s/(pray|change|setup)//ig;
   $title = $command;

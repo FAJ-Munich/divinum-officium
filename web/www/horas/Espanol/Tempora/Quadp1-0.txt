@@ -4,9 +4,6 @@ Dominica in Septuagesima;;Semiduplex;;5.6
 [Rank] (rubrica 1960)
 Dominica in Septuagesima;;Semiduplex;;5
 
-[Versum 1]
-@Psalterium/Special/Major Special:Day6 Versum 3
-
 [Ant 1]
 Dijo el Señor * a Adán: No comas del árbol que está en medio del paraíso. El día en que comas de él, morirás.
 
@@ -181,9 +178,6 @@ Llama a los jornaleros * y págales el jornal, dice el Señor.
 !1 Cor 10:4-5
 v. Bebían de la roca milagrosa que los acompañaba: roca que significaba a Cristo. A pesar de todo, la mayoría no fueron aceptados por Dios.
 $Deo gratias
-
-[Versum 3]
-@Psalterium/Special/Major Special:Day0 Versum 3
 
 [Ant 3]
 Dijo el propietario * a sus jornaleros: ¿Cómo es que estáis aquí el día entero sin trabajar? Le respondieron: Porque nadie nos ha contratado. –Id también vosotros a mi viña y os pagaré lo debido.

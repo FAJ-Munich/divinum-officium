@@ -1,0 +1,7 @@
+[Rank]
+sv. Ambrože, Biskupa, Vyznavače a Učitele Církve;;MM. min.;;3;;ex C4a
+
+[Name]
+Ambrože
+Ant=Ambroži
+

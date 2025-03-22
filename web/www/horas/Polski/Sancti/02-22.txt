@@ -1,8 +1,8 @@
-[Rank]
-Stolicy Św. Piotra w Antiochji;;Duplex majus;;4;;ex C4
+[Officium]
+Stolicy Św. Piotra w Antiochji
 
-[Rank] (rubrica 196)
-Stolicy Św. Piotra w Apostoła;;Duplex II classis;;5;;ex C4
+[Officium] (rubrica 196 aut rubrica 1930 aut rubrica cisterciensis)
+Stolicy Św. Piotra w Apostoła
 
 [Hymnus Vespera]
 v. Cokolwiek na ziemi zwiążesz pętami, 
@@ -161,6 +161,6 @@ V. Tyś jest naczyniem wybranem, św. Pawle Apostole.
 R. Głosicielem prawdy po całym świecie.
 _
 $Oremus
-(sed rubrica 1960 aut rubrica monastica hæc versus omittuntur)
+(sed rubrica 196 hæc versus omittuntur)
 v. Boże, któryś liczne narody wymową św. Pawła Apostoła oświecił, daj nam, prosimy Cię, abyśmy doznali u Ciebie wstawiennictwa tego, którego dziś pamiątkę obchodzimy.
 $Per Dominum

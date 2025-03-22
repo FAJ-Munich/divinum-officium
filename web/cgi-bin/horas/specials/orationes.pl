@@ -53,7 +53,7 @@ sub oratio {
   }
 
   if ( ($rule =~ /Oratio Dominica/i && (!exists($winner{Oratio}) || $hora eq 'Vespera'))
-    || ($winner{Rank} =~ /Quattuor/i && $dayname[0] !~ /Pasc7/i && $version !~ /196/ && $hora eq 'Vespera'))
+    || ($winner{Rank} =~ /Quattuor/i && $dayname[0] !~ /Pasc7/i && $version !~ /196|cist/i && $hora eq 'Vespera'))
   {
     my $name = "$dayname[0]-0";
     if ($name =~ /(?:Epi1|Nat)/i && $version !~ /Monastic/) { $name = 'Epi1-0a'; }
@@ -457,7 +457,7 @@ sub oratio {
             $key =
                 ($ic =~ /$sundaystring/i)
               ? ($version !~ /trident/i ? 3000 : 7100)
-              : $ccind + 9900;    # Sundays are all privilegde commemorations under DA
+              : $ccind + 9900;    # Sundays are all privileged commemorations under DA
             $cc{$key} = $ic;
             setbuild2("Commemorated from Concurrent: $key");
           }
@@ -676,7 +676,7 @@ sub getcommemoratio {
   if ($rank[3] =~ /(ex|vide)\s+(.*)\s*$/i) {
     my $file = $2;
     if ($w{Rule} =~ /Comex=(.*?);/i && $rank < 5) { $file = $1; }
-    if ($file =~ /^C[1-3]a?$/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
+    if ($file =~ /^C[1-3](?![v\d])/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
     $file = "$file.txt";
     if ($file =~ /^C/) { $file = subdirname('Commune', $version) . "$file"; }
     %c = %{setupstring($lang, $file)};
@@ -685,7 +685,7 @@ sub getcommemoratio {
 
       # allow daisy-chained Commune references to the second-level
       $file = $2;
-      if ($file =~ /^C[1-3]a?$/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
+      if ($file =~ /^C[1-3](?![v\d])/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
       $file = "$file.txt";
       if ($file =~ /^C/) { $file = subdirname('Commune', $version) . "$file"; }
       my %c2 = %{setupstring($lang, $file)};
@@ -700,9 +700,10 @@ sub getcommemoratio {
   } else {
     %c = {};
   }
+
   if (!$rank) { $rank[0] = $w{Officium}; }    #commemoratio from commune
   my $o = $w{Oratio};
-  if ($o =~ /N\./) { $o = replaceNdot($o, $lang); }
+  if ($o =~ /N\./ && $w{Name}) { $o = replaceNdot($o, $lang, $w{Name}); }
 
   if (!$o && $w{Rule} =~ /Oratio Dominica/i) {
     $wday =~ s/\-[0-9]/-0/;
@@ -809,7 +810,7 @@ sub vigilia_commemoratio {
     $w = $w{Oratio};
 
     if (!$w && $w{Rank} =~ /(?:ex|vide) C1v/) {
-      my %com = columnsel($lang) ? %commune : %commune2;
+      my %com = %{setupstring($lang, subdirname('Commune', $version) . "C1v.txt")};
       $w = $com{Oratio};
       $w = replaceNdot($w, $lang, $w{Name});
     }
@@ -834,21 +835,30 @@ sub getsuffragium {
   our ($version, @dayname, $hora, $commune, $month, $day, $churchpatron, %cwinner);
   $commune = "C10"
     if $cwinner{Rank} =~ /C1[012]/ && $hora eq 'Vespera'; # if Sancta Maria in Sabbato is commemorated on Friday Vespers
-  my %suffr = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
-  my ($suffr, $comment);
 
-  $comment =
+  my $comment =
       $version =~ /altovadensis/i ? 5
     : $version =~ /cisterciensis/i ? 4
     : $version =~ /trident/i ? 3
     : $dayname[0] =~ /pasc/i ? 2
     : 1;
-  $suffr = $comment > 2 ? $suffr{"Suffragium $hora"} : $suffr{'Suffragium'};
+
+  my $key = 'Suffragium';
+
+  if ($comment == 2) {
+    $key .= ' Paschale';
+    $key .= 'V' if $version =~ /Monastic/ && $hora eq 'Vespera';
+  } elsif ($comment > 2) {
+    $key .= " $hora";
+  }
+
+  my %suffr = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
+  my $suffr = $suffr{$key};
 
   if ($version =~ /altovadensis/i && $collectcount == 2 && $commune !~ /C1[012]/) {
     $suffr =~ s/\n\!.*//s;
     my $conclBMV = $suffr{'Suffragium ConclusioBMV'};
-    $suffr =~ s/$/~\n$conclBMV/s;
+    $suffr =~ s/$/~\n$conclBMV/s unless $suffr =~ /\$Per eumdem|\$Qui tecum|\$Per Dominum/;
     setbuild1('Suffragium altovadense:', "limited to three collects total");
   }
 

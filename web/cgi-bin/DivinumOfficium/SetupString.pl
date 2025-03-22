@@ -207,6 +207,7 @@ sub get_dayname_for_condition {
   our $hora;
   my $vesp_or_comp = ($hora =~ /Vespera/i) || ($hora =~ /Completorium/i);
   return 'Epiphaniæ' if ($month == 1 && ($day == 6 || ($day == 5 && $vesp_or_comp)));
+  return 'Baptismatis Domini' if ($month == 1 && ($day == 13 || ($day == 12 && $vesp_or_comp)));
   return 'in Cœna Domini' if $winner =~ /Quad6-4/;
   return 'in Parasceve' if $winner =~ /Quad6-5/;
   return 'Sabbato Sancto' if $winner =~ /Quad6-6/;
@@ -216,6 +217,9 @@ sub get_dayname_for_condition {
       && ($day == 2 || ($day == 3 && $dayofweek == 1) || ($day == 1 && day_of_week(11, 1, $year) != 6 && $vesp_or_comp))
     );
   return 'Nicolai' if $month == 12 && $day == 6;
+  return 'Nat28' if $month == 12 && $day == 28;
+  return 'Nat29' if $month == 12 && $day == 29;
+  return 'doctorum' if ($dayname[1] =~ /Doctor/i || $dayname[2] =~ /Doctor/i);
   return '';
 }
 
@@ -505,7 +509,7 @@ sub setupstring($$%) {
     $basedir =~ s/horas/missa/g;         # to infinite cycles github #525
   }
 
-  if ($fname =~ /Comment.txt$|C1(?!\d)[a-z]?/) {
+  if ($fname =~ /Comment.txt$|C[1-5](?!\d)[a-z]?/) {
     $basedir =~ s/missa/horas/g;         # missa uses comments from horas dir
   }
 

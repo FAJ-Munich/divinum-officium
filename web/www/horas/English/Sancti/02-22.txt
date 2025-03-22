@@ -1,8 +1,8 @@
-[Rank]
-Chair of St. Peter at Antioch;;Duplex majus;;4;;ex C4
+[Officium]
+Chair of St. Peter at Antioch
 
-[Rank] (rubrica 196)
-Chair of St. Peter the Apostle;;Duplex II classis;;5;;ex C4
+[Officium] (rubrica 196 aut rubrica 1930 aut rubrica cisterciensis)
+Chair of St. Peter the Apostle
 
 [Hymnus Vespera]
 v. Peter, whatever thou shalt bind on earth,
@@ -172,6 +172,6 @@ V. O Holy Apostle Paul, thou art a chosen vessel unto God.
 R. To preach the Gospel throughout the whole world.
 _
 $Oremus
-(sed rubrica 1960 aut rubrica monastica hæc versus omittuntur)
+(sed rubrica 196 hæc versus omittuntur)
 v. O God, Who, through the preaching of the Blessed Apostle Paul, hast caused the light of the Gospel to shine throughout the world, grant, we beseech thee, that we, who do keep his memorial, may continually be helped by his intercession with thee.
 $Per Dominum

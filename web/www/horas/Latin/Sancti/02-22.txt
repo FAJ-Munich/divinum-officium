@@ -1,8 +1,12 @@
-[Rank]
-In Cathedra S. Petri Apostoli Antiochiæ;;Duplex majus;;4;;ex C4
+[Officium]
+In Cathedra S. Petri Apostoli Antiochiæ
+(sed rubrica 196 aut rubrica 1930 aut rubrica cisterciensis)
+In Cathedra S. Petri Apostoli
 
-[Rank] (rubrica 196)
-In Cathedra S. Petri Apostoli;;Duplex II classis;;5;;ex C4
+[Rank]
+;;Duplex majus;;4;;ex C4
+(sed rubrica 196)
+;;Duplex II classis;;5;;ex C4
 
 [Rule]
 ex C4;
@@ -205,6 +209,9 @@ Quodcúmque * ligáveris super terram, erit ligátum et in cælis; et quodcúmqu
 V. Elégit te Dóminus sacerdótem sibi.
 R. Ad sacrificándum ei hóstiam laudis.
 
+[Versum 3] (rubrica cisterciensis)
+@:Versum 1
+
 [Ant 3]
 @Commune/C4:Ant 3 summi Pontificis
 
@@ -217,6 +224,6 @@ V. Tu es vas electiónis, sancte Paule Apóstole.
 R. Prædicátor veritátis in univérso mundo.
 _
 $Oremus
-(sed rubrica 1960 aut rubrica monastica hæc versus omittuntur)
+(sed rubrica 196 hæc versus omittuntur)
 v. Deus, qui multitúdinem géntium beáti Pauli Apóstoli prædicatióne docuísti: da nobis, quǽsumus; ut, cujus commemoratiónem cólimus, ejus apud te patrocínia sentiámus.
 $Per Dominum

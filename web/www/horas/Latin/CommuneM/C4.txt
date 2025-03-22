@@ -1,8 +1,42 @@
 @Commune/C4
 
 [Rule]
-Psalmi Dominica
+Psalmi Dominica 
+(sed rubrica cisterciensis omittitur)
 Antiphonas horas
+
+[Ant Vespera] (rubrica cisterciensis)
+Ecce sacérdos magnus, * qui in diébus suis plácuit Deo, et invéntus est justus.
+Euge serve bone, * in módico fidélis, intra in gáudium Dómini tui.
+Fidélis servus, et prudens, * quem constítuit Dóminus super famíliam suam.
+Beátus ille servus, * cum vénerit Dóminus ejus, et pulsáverit jánuam, et invénerit eum vigilántem.
+Ecce vere * Israëlita, in quo dolus non est.
+
+[Ant Vespera] (tempore paschali et rubrica cisterciensis)
+Allelúia, * allelúia, allelúia.
+
+[Capitulum Laudes] (rubrica cisterciensis)
+!Sir 44:25
+v. Benedictiónem ómnium Géntium dedit illi Dóminus, * et testaméntum suum confirmávit super caput ejus.
+$Deo gratias
+
+[Versum 1] (rubrica cisterciensis)
+@Commune/C4:Versum 2
+
+[Versum 2] (rubrica cisterciensis)
+@:Versum 1
+
+[Versum 3] (rubrica cisterciensis)
+@:Versum 1
+
+[Ant Laudes] (rubrica cisterciensis)
+@:Ant Vespera
+
+[Responsory Breve Tertia] (rubrica cisterciensis)
+@Commune/C4:Responsory Breve Sexta
+
+[Responsory Breve Sexta] (rubrica cisterciensis)
+@Commune/C4:Responsory Breve Tertia
 
 [AntMatutinumM]
 Justus Dóminus * et justítiam diléxit: æquitátem vidit vultus ejus;;10
@@ -10,6 +44,10 @@ Cognóvit eum Dóminus * in benedictiónibus suis, et invénit grátiam coram ó
 In fide * et lenitáte ípsius Sanctum fecit illum Dóminus, et osténdit illi glóriam suam;;96
 Justus * germinábit sicut lílium: et florébit in ætérnum ante Dóminum;;97
 Sint lumbi vestri * præcíncti et lucérnæ ardéntes in mánibus vestris;;256;257;258
+
+[Nocturn 1 Versum] (rubrica cisterciensis)
+V. Ecce sacérdos magnus.
+R. Qui in diébus suis plácuit Deo, et invéntus est justus.
 
 [Ant Matutinum]
 @Commune/C4::1-2
@@ -106,6 +144,9 @@ R. Et florébit in ætérnum ante Dóminum.
 [Ant Vespera 3]
 @Commune/C4:Ant Vespera:s/$/_/gm s/_/;;109/ s/_/;;111/ s/_/;;112/ s/_/;;131/ s/_//
 
+[Ant Vespera 3] (rubrica cisterciensis)
+@:Ant Vespera
+
 [Lectio1 in 2 loco]
 @Commune/C4:Lectio1 in 2 loco:s/-5/-4/ s/5 .*//s
 
@@ -153,4 +194,4 @@ Qui si dicto áudiens, et præcéptis obédiens erit, id est, si doctrínæ oppo
 Quod, si cóntuens longam Dei patiéntiam, quæ in proféctum humánæ salútis exténditur, advérsum consérvos insoléscet, et sæculi malus vitiísque se tradet, præséntium tantum curam in cultu ventris exércens; desperáta die Dóminus advéniet, eúmque a bonis, quæ spopónderat, dívidet, portionémque ejus cum hypócritis in pœnæ æternitáte constítuet: quia advéntum desperávit, quia mandátis non obtemperáverit, quia præséntibus studúerit, quia vita Géntium víxerit, quia desperatióne judícii commíssam sibi famíliam fame, siti, cæde vexáverit.
 
 [LectioE in 2 loco]
-@Commune/C4d:LectioE
+@Commune/C4-1:LectioE

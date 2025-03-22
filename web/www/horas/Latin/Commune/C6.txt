@@ -3,6 +3,7 @@ Commune Virginum Martyrum
 
 [Rule]
 Psalmi Dominica
+(sed rubrica cisterciensis omittitur)
 Antiphonas horas
 
 [Ant Vespera]
@@ -55,6 +56,10 @@ $Per Dominum
 
 [Oratio1]
 Indulgéntiam nobis, quǽsumus, Dómine, beáta N. Virgo et Martyr implóret: quæ tibi grata semper éxstitit, et mérito castitátis, et tuæ professióne virtútis.
+$Per Dominum
+
+[Oratio2]
+Exáudi nos, Deus, salutáris noster: * ut sicut de beátæ N., Vírginis tuæ, festivitáte gaudémus: § ita piæ devotiónis erudiámur afféctu.
 $Per Dominum
 
 [Invit]

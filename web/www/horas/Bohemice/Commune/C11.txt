@@ -2,6 +2,13 @@
 Jeho levice * je pod mou hlavou, a jeho pravice mě objímá.;;112
 Krásnou * ses stala a sladkou ve svých potěšeních, svatá Boží Rodičko.;;147
 
+[Ant Vespera] (rubrica cisterciensis)
+Když Král * seděl u svého stolu, můj nard vydával svou vůni.;;109
+Vylitá mast * je tvé jméno, proto si tě mladé dívky velice zamilovaly.;;112
+Jsem černá, * ale krásná, dcery Jerusalémské, proto si mě Král zamiloval, a uvedl mě do své ložnice.;;121
+Požehnaná jsi * mezi ženami, a požehnaný plod života tvého.;;126
+Krásná jsi a zdobná, * dcero Jerusalémská, hrozná jako seřazená šik vojska.;;147
+
 [Hymnus Vespera]
 !První sloku tohoto hymnu zpíváme vkleče
 v. Zdrávas, hvězdo moří,
@@ -94,6 +101,9 @@ After thy delivery thou still remainest a virgin; * undefiled Mother of God, pra
 V. Oroduj za nás, svatá Boží Rodičko.
 R. Abychom hodni byli učinění zaslíbení Kristových.
 
+[Ant Laudes] (rubrica cisterciensis)
+@:Ant Vespera:s/;;.*//g
+
 [Capitulum Laudes]
 !Sir 24:14
 v. Před věky na počátku mě Bůh stvořil, až navěky být nepřestanu. Před ním ve svatostánku jsem konala svou službu.
@@ -103,7 +113,7 @@ $Deo gratias.
 v. Ó přeslavná Paní světa, 
 Povýšená nad nebesa,
 Jenž tebe stvořil, Maria, 
-Svatýmis prsy krmila.
+Svatými's prsy krmila.
 _
 Což Eva bídná ztratila,
 To svým Plodem nahradila,
@@ -125,13 +135,23 @@ Amen.
 Blahoslavená jsi, * Maria, neboť jsi uvěřila; Bude v tobě dokonáno, co ti řekl Pán, alleluja.
 
 [Lectio Prima]
-!Syr 24:19-20
+!Sir 24:19-20
 v. Na náměstích jsem voněla jako skořice a vonný balzám, jako nejjemnější myrha jsem šířila vůni.
 
 [Capitulum Sexta]
-!Syr 24:15-16
+!Sir 24:15-16
 v. A tak jsem na Siónu obdržela sídlo. Usadil mě v městě, které miloval jako mě, v Jerusalémě vykonávám svou moc. V lidu plném slávy jsem zapustila kořeny, v Pánově údělu je jeho dědictví, a v plnosti svatých se zdržuji.
-$Deo gratias.
+$Deo gratias
+
+[Capitulum Sexta] (rubrica cisterciensis)
+!Cant. 6:9.
+v. Uzřely ji dcery sionské, a velebí ji coby nejkrásnější; a královny ji vychválily.
+$Deo gratias
+
+[Capitulum Nona] (rubrica cisterciensis)
+!Cant. 6:10.
+v. Kdopak to je? Vychází jak jitřenka na východě, krásná jak luna, jasná jak slunce, hrozná jak seřazené šiky vojska.
+$Deo gratias
 
 [Ant 3]
 Blahoslavenou mě budou zvát * všechna pokolení, neboť na pokornou služebnici shlédl Bůh.

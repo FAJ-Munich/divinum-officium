@@ -314,7 +314,7 @@ sub psalmi_major {
       if (
         $rule =~ /Psalmi Dominica/
         || ($rule !~ /Psalmi Feria/i
-          && ($winner =~ /Sancti/i && $rank >= ($version =~ /cist/i ? 3 : 4) && $dayname[1] !~ /vigil/i))
+          && ($winner =~ /Sancti/i && $rank >= ($version =~ /cist/i ? 2.2 : 4) && $dayname[1] !~ /vigil/i))
       ) {
         $head = $version =~ /cist/i ? 'DaycF' : 'DaymF';
       } elsif ($dayofweek == 0 && $dayname[0] =~ /Pasc/i && $version !~ /cisterciensis/i) {
@@ -462,7 +462,8 @@ sub psalmi_major {
   {
     @p = @psalmi;
   } elsif (($rule =~ /Psalmi Dominica/i || ($commune{Rule} && $commune{Rule} =~ /Psalmi Dominica/i))
-    && ($antiphones[0] !~ /\;\;\s*[0-9]+/))
+    && ($antiphones[0] !~ /\;\;\s*[0-9]+/)
+    && ($rule !~ /Psalmi Feria/i))
   {
     $prefix = translate("Psalmi, antiphonae", $lang) . ' ';
     my $h = $hora;
@@ -477,6 +478,16 @@ sub psalmi_major {
     setbuild2('Psalmi dominica');
   } else {
     @p = @psalmi;
+
+    # Cist: to get Sunday Psalms if "Psalmi Feria" rule is used,
+    # e.g. on Sundays in Octaves.
+    if ( $dayofweek == 0
+      && $rule =~ /Psalmi Feria/i
+      && $version =~ /monastic/i
+      && $hora eq 'Laudes')
+    {
+      @p = split("\n", $psalmi{'DayaC Laudes2'});
+    }
   }
   my $lim = 5;
 

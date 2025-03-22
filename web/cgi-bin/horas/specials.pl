@@ -93,7 +93,7 @@ sub specials {
     ) {
       $skipflag = 1;
 
-      if ($item =~ /incipit/i && $version !~ /1955|196/) {
+      if ($item =~ /incipit/i && $version !~ /Cist|1955|196/i) {
         $comment = 2;
         setbuild1($ite, 'limit');
       } else {
@@ -102,7 +102,11 @@ sub specials {
       }
       setcomment($label, 'Preces', $comment, $lang) if ($rule !~ /Omit.*? $ite mute/i);
 
-      if ($item =~ /incipit/i && $version !~ /1955|196/ && $winner !~ /C12/) {
+      if ( $item =~ /incipit/i
+        && $version !~ /1955|196/
+        && $winner !~ /C12/
+        && !($version =~ /cist/i && $winner =~ /C9/))
+      {
         if ($hora eq 'Laudes') {
           push(@s, '/:' . translate('Si Laudes', $lang) . ':/');
         } else {
@@ -249,13 +253,19 @@ sub specials {
       # Prime and Compline, but during the Triduum, we do it for those hours,
       # too. The test for this case is somewhat oblique.
       my $prime_or_compline = ($hora =~ /^(?:Prima|Completorium)$/i);
-      my $triduum = ($rule =~ /Limit.*?Oratio/);
+      my $triduum = ($rule =~ /Limit.*?Oratio/);    # $winner =~ /Quad6-[4-6]/
       my %oratio_params;
 
       # Skip the usual stuff at Prime and Compline in the Triduum.
       if ($prime_or_compline && $triduum) {
         $skipflag = 1;
         $oratio_params{special} = 1;
+      }
+
+      # Ordo Praedicatorum includes some kind of preces in Laudes due triduum
+      if ($triduum && $version =~ /Ordo Praedicatorum/ && $hora eq 'Laudes') {
+        my $w = columnsel($lang) ? \%winner : \%winner2;
+        push(@s, $w{'Preces ad Laudes'});
       }
 
       # Generate the prayer(s) together with the title.
@@ -722,7 +732,10 @@ sub checksuffragium {
     || $version =~ /cist/i && $commune =~ /C1a?$/i
 
     # Altovadensis: max 3. collects
-    || $version =~ /altovadensis/i && $collectcount > 2;
+    || $version =~ /altovadensis/i && $collectcount > 2
+
+    # Altovadensis: limit at xij. Lect. et M.
+    || $version =~ /altovadensis/i && $rank > 2.5;
 
   if ($commemoratio && $seasonalflag) {
     my @r = split(';;', $commemoratio{Rank});
@@ -778,10 +791,20 @@ sub replaceNdot {
     $name = $c{Name};
   }
 
-  if ($name) {
-    $name =~ s/[\r\n]//g;
-    $s =~ s/N\. (et|and|und|és) N\./$name/;
-    $s =~ s/N\./$name/;
+  # Safeguard against Secreta / Postcommunio from missa; switch for Doctor Antiphone
+  my @name = split("\n", $name);
+
+  if ($s =~ /^O\s/ && $name =~ /Ant\=/) {
+    @name = grep(/Ant\=/, @name);
+  } else {
+    @name = grep(/Oratio\=/, @name) unless $name !~ /Oratio\=/;
+  }
+  $name[0] =~ s/^.*?\=//;
+
+  if ($name[0]) {
+    $name[0] =~ s/[\r\n]//g;
+    $s =~ s/N\. (et|and|und|és) N\./$name[0]/;
+    $s =~ s/N\./$name[0]/;
   }
   return $s;
 }

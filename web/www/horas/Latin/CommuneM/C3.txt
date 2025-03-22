@@ -2,7 +2,30 @@
 
 [Rule]
 Psalmi Dominica
+(sed rubrica cisterciensis omittitur)
 Antiphonas horas
+
+[Ant Vespera] (rubrica cisterciensis)
+@Commune/C3::s/Omnes Sancti/Sancti Mártyres/ s/cæl/cœl/g
+
+[Versum 1] (rubrica cisterciensis)
+V. Justi in perpétuum vivent.
+R. Et apud Dóminum est merces eórum.
+
+[Versum 2] (rubrica cisterciensis)
+@:Versum 1
+
+[Versum 3] (rubrica cisterciensis)
+@:Versum 1
+
+[Ant 1] (rubrica cisterciensis)
+Isti sunt sancti * qui pro testaménto Dei sua córpora tradidérunt, et in sánguine Agni lavérunt stolas suas.
+
+[Ant 2] (rubrica cisterciensis)
+Fulgébunt justi: * et tamquam scintíllæ in arundinéto discúrrent. Judicábunt natiónes, et regnábunt in ætérnum.
+
+[Ant Laudes]
+@Commune/C3:Ant Vespera:s/Omnes Sancti/Sancti Mártyres/ s/cæl/cœl/g
 
 [AntMatutinumM]
 Oculi Dómini * respexérunt in páuperes, † cum peccatóres arcus suos in eos inténderent.;;10
@@ -10,6 +33,22 @@ Istorum est enim  * regnum cælórum, qui contempsérunt vitam mundi, et perven�
 Sanguis sanctórum martyrum * pro Christo effúsus est in terra; ideo adépti sunt munera sempitérna;;63
 Vindica Domine * sanguinem Sanctórum tuórum, qui effúsus est super terram;;78
 Beáti, * qui persecutiónem patiúntur propter justítiam, quóniam ipsórum est regnum cælórum;;259;254;255
+
+[Nocturn 1 Versum] (rubrica cisterciensis)
+@Commune/C3:Nocturn 2 Versum
+
+[Nocturn 2 Versum] (rubrica cisterciensis)
+@:MM Capitulum:s/.*[V℣]\./V./s
+
+[MM Capitulum]
+@Commune/C3:Capitulum Sexta
+_
+V. Justórum ánimæ in manu Dei sunt.
+R. Et non tanget illos torméntum mortis.
+
+[Nocturn 3 Versum] (rubrica cisterciensis)
+V. Gloriósus Deus in Sanctis suis.
+R. Mirábilis in Majestáte sua.
 
 [Ant Matutinum]
 @Commune/C3::1-2
@@ -103,19 +142,30 @@ R. Et non tanget illos torméntum mortis.
 [Ant Vespera 3]
 @Commune/C3::s/112/115/ s/111/112/ s/110/111/
 
+[Ant Vespera 3] (rubrica cisterciensis)
+Si coram homínibus * torménta passi sunt, spes electórum est immortális in ætérnum.
+Tamquam aurum in fornáce * probávit eléctos Dóminus, et quasi holocáusti hóstiam accépit illos.
+Istórum est enim * regnum cœlórum, qui contempsérunt vitam mundi, et pervenérunt ad præmia regni, et lavérunt stolas suas in sánguine Agni.
+Via Justórum * recta facta est, et iter Sanctórum præparátum est.
+
+[Ant 3] (rubrica cisterciensis)
+Tradidérunt * córpora sua ad supplícia: ídeo coronántur, et accípiunt palmas.
+
 [Lectio5 in 2 loco]
-Sermo sancti Joánnis Chrysóstomi
-!Sermo 1 de Martyribus, tom. 3.
-Nemo est, qui nesciat, Mártyrum glorias ad hoc divino consílio a Dei pópulis frequentári, ut et illis débitus honor dicétur, et nobis virtútis exémpla, favénte Christo, monstréntur; ut, dum hæc ita celebrári perspícimus, cognoscámus quanta eos glória máneat in cælis, quorum natalítia táliter celebrántur in terris; quo possímus, étiam ipsi, tálibus provocári exémplis, virtúte pari, devotióne consímili ac fide; ut, Christo præstánte, dimicáre et víncere hostem possímus, ut, parta victória, cum iísdem Sanctis in regnis cæléstibus triumphémus.
+@Commune/C3:Lectio4 in 2 loco
 
 [Lectio6 in 2 loco]
-Quis est enim, qui eórum volens mérito copulári, nisi prius constántiam eórum téneat, sectétur fidem, imitétur virtútem passiónis; eórum glóriam páribus vitæ lineaméntis aut invéniat aut exquírat? Qui, etsi martýrio par esse non possit, tamen múneris tanti dignitáte se quisque bonis áctibus dignum præbeat. Adest enim clementíssimus Deus, qui desiderántibus suis aut martýrium præbeat, aut, sine martýrio, cum Sanctis præmia divína retríbuat.
+@Commune/C3:Lectio5 in 2 loco
 
 [Lectio7 in 2 loco]
-Ut enim infirmátur peccátor advérsis, ita justus tentatiónibus roborátur. Sic dimicárunt advérsus peccátum Sancti; sic, et laborándo fortióres, et moriéndo victóres effécti sunt. Nullus athlétes sine certámine fórtior dici, nullus sine victória póterit coronári. Nemo miles sine prœlio hostem subjécit; nemo sine bello imperatórem proméruit.
+@Commune/C3:Lectio6 in 2 loco:s/Habes.*// 
+
+[Lectio8 in 2 loco_]
+His te jamdúdum Dóminus per grátiam ímbuit, et póstmodum Apóstolus Paulus armávit. Hæc sunt arma, quibus dimicárunt Sancti, quorum virtútes díligis et victórias admiráris. Imitáre, christiáne, quos díligis Sanctos; et quorum virtútes frequéntas, eórum vitam et institúta sectáre. Esto talis de eórum exémplo; quia et hi de superiórum tales effécti sunt. Nec enim virtus ab eo póterit imitári cujúsquam, qui ejus vitam non fúerit imitátus.
 
 [Lectio8 in 2 loco]
-Habes, christiáne, competéntia arma, quibus hostem expúgnes; habes fortíssima tela, quibus inimícum debelles. His te jamdúdum Dóminus per grátiam ímbuit, et póstmodum Apóstolus Paulus armávit. Hæc sunt arma, quibus dimicárunt Sancti, quorum virtútes díligis et victórias admiráris. Imitáre, christiáne, quos díligis Sanctos; et quorum virtútes frequéntas, eórum vitam et institúta sectáre. Esto talis de eórum exémplo; quia et hi de superiórum tales effécti sunt. Nec enim virtus ab eo póterit imitári cujúsquam, qui ejus vitam non fúerit imitátus.
+@Commune/C3:Lectio6 in 2 loco:s/.*(Habes)/$1/ s/$/~/s
+@:Lectio8 in 2 loco_
 
 [Lectio9 in 2 loco]
 @Commune/C3:Lectio7 in 2 loco:s/Hinc .*//s

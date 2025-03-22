@@ -56,7 +56,7 @@ $Fidelium animae
 (si rubrica 1951 dicuntur)
 
 $Conclusio cisterciensis
-(numquam omittur)
+(numquam omittitur)
 (atque dicuntur semper)
 (rubrica ^Monastic) $rubrica Martyrologium
 
@@ -69,7 +69,7 @@ $Kyrie
 $rubrica Pater secreto
 $Pater noster Et
 $respice
-&Gloria
+(nisi rubrica praedicatorum) &Gloria
 $Oremus
 (sed rubrica cisterciensis)
 $rubrica sine Oremus
@@ -87,7 +87,7 @@ $Adjutorium nostrum
 $Benedicite
 $benedictio Prima2
 $Amen
-(sed rubrica cisterciensis omittitur)
+(sed rubrica cisterciensis aut rubrica praedicatorum omittitur)
 
 $rubrica Pater post
 $Pater noster

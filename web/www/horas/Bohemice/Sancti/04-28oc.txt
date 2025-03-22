@@ -1,0 +1,5 @@
+[Rank]
+sv. Vitala, Mučedníka
+
+[Name]
+Vitala
