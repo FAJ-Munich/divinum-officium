@@ -6,7 +6,13 @@ Die Octavæ Nativitatis Domini;;Duplex I classis;;7;;ex SanctiM/12-25
 [Rule]
 12 lectiones
 no Commemoratio
+(sed rubrica cisterciensis omittitur)
 Lectio1 TempNat
+
+[Responsory Vespera 1]
+@Sancti/12-25:Responsory Breve Tertia
+(sed rubrica cisterciensis)
+@SanctiM/12-25:Responsory4
 
 [Versum 1]
 @Sancti/12-25:Versum 2

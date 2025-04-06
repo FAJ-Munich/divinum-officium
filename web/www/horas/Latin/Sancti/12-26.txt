@@ -1,18 +1,23 @@
-[Rank]
-S. Stephani Protomartyris;;Duplex II class cum octava simplici;;5.4;;ex C2
+[Officium]
+S. Stephani Protomartyris
 
-[Rank] (rubrica 196)
-S. Stephani Protomartyris;;Duplex II class;;5.4;;ex C2
+[Rank]
+;;Duplex II class cum octava simplici;;5.4;;ex C2a
+(sed rubrica 196)
+;;Duplex II class;;5.4;;ex C2a
 
 [Rule]
-ex C2;
+ex C2a;
 Psalmi Dominica
 Antiphonas horas
 9 lectiones
 no Psalm5
 
 [Versum 1]
-@Commune/C2
+@Commune/C2a
+
+[Versum 1] (rubrica cisterciensis)
+@CommuneM/C2
 
 [Ant 1]
 Stéphanus autem * plenus grátia et fortitúdine, faciébat signa magna in pópulo.
@@ -20,6 +25,12 @@ Stéphanus autem * plenus grátia et fortitúdine, faciébat signa magna in póp
 [Oratio]
 Da nobis, quǽsumus, Dómine, imitári quod cólimus: ut discámus et inimícos dilígere; quia ejus natalícia celebrámus, qui novit étiam pro persecutóribus exoráre Dóminum nostrum Jesum Christum Fílium tuum:
 $Qui tecum
+
+[Commemoratio] (rubrica cisterciensis)
+!Commemoratio omnium SS. Martyrum
+@CommuneM/C3:Oratio proper
+v. Deus, qui nos annua ómnium sanctórum Mártyrum tuórum commemoratióne lætíficas: § concéde propítius; * ut, quorum gaudémus méritis, § accendámur examplis.
+$Per Dominum
 
 [Octava 1]
 @:Octava 3
@@ -135,7 +146,7 @@ Alii istum volunt esse Zacharíam, qui occísus est a Joas rege Judæ inter temp
 &teDeum
 
 [Versum 0]
-@Commune/C2::s/N\./Stéphane/
+@Commune/C2a::s/N\./Stéphane/
 
 [Ant Laudes]
 Lapidavérunt Stéphanum, * et ipse invocábat Dóminum, dicens: Ne státuas illis hoc peccátum.
@@ -143,6 +154,13 @@ Lápides torréntis * illi dulces fuérunt: ipsum sequúntur omnes ánimæ just�
 Adhǽsit ánima mea * post te, quia caro mea lapidáta est pro te, Deus meus.
 Stéphanus vidit * cælos apértos, vidit, et introívit: beátus homo, cui cæli patébant.
 Ecce vídeo * cælos apértos, et Jesum stántem a dextris virtútis Dei.
+
+[Ant Laudes] (rubrica cisterciensis)
+Cum autem * esset Stéphanus plenus Spíritu sancto, inténdens in cœlum, vidit glóriam Dei, et Jesum stantem ad déxteram Patris.
+Lapidábant * Judæi Stéphanum invocántem, et dicéntem: Dómine Jesu, áccipe spíritum meum.
+Adhǽsit ánima mea post te, * quia caro mea lapidáta est pro te, Deus meus.
+Stéphanus vidit * cœlos apértos, vidit, et introívit: beátus homo, cui cœli patébant.
+Pósitis autem génibus, * clamávit voce magna dicens Stéphanus: Dómine Jesu, ne státuas illis hoc peccátum.
 
 [Capitulum Laudes]
 !Act. 6:8
@@ -153,8 +171,14 @@ $Deo gratias
 V. Sepeliérunt Stéphanum viri timoráti.
 R. Et fecérunt planctum magnum super eum.
 
+[Versum 2] (rubrica cisterciensis)
+@CommuneM/C2
+
 [Ant 2]
 @:Ant 1
+
+[Ant 2] (rubrica cisterciensis)
+Patefáctæ sunt * jánuæ cœli Christi Mártyri Stéphano, qui in número Mártyrum invéntus est primus, et ídeo triúmphat in cœlis coronátus, allelúia.
 
 [Octava 2]
 !Commemoratio Octavæ S. Stephani
@@ -162,6 +186,18 @@ Ant. Stéphanus autem plenus grátia et fortitúdine, faciébat signa magna in p
 _
 V. Sepeliérunt Stéphanum viri timoráti.
 R. Et fecérunt planctum magnum super eum.
+_
+$Oremus
+v. Da nobis, quǽsumus, Dómine, imitári quod cólimus: ut discámus et inimícos dilígere; quia ejus natalícia celebrámus, qui novit étiam pro persecutóribus exoráre Dóminum nostrum Jesum Christum Fílium tuum:
+$Qui tecum
+
+[Octava 2] (rubrica cisterciensis)
+!Commemoratio Octavæ S. Stephani
+Ant. Cum autem * esset Stéphanus plenus Spíritu sancto, inténdens in cœlum, vidit glóriam Dei, et Jesum stantem ad déxteram Patris.
+_
+@CommuneM/C2:Versum 2
+(sed die Nat29)
+@Commune/C2:Versum 1
 _
 $Oremus
 v. Da nobis, quǽsumus, Dómine, imitári quod cólimus: ut discámus et inimícos dilígere; quia ejus natalícia celebrámus, qui novit étiam pro persecutóribus exoráre Dóminum nostrum Jesum Christum Fílium tuum:
@@ -180,6 +216,11 @@ $Deo gratias
 @:Lectio Prima
 $Deo gratias
 
+[Capitulum Nona] (rubrica cisterciensis)
+!Act. 7
+v. Cum autem esset plenus Spíritu sancto, inténdens in cœlum, vidit glóriam Dei, et Jesum stantem ad dextris Dei. 
+$Deo gratias
+
 [Ant Vespera 3]
 @Sancti/12-25
 
@@ -187,8 +228,17 @@ $Deo gratias
 V. Stéphanus vidit cælos apértos.
 R. Vidit, et introívit: beátus homo, cui cæli patébant.
 
+[Versum 3] (rubrica cisterciensis)
+@CommuneM/C2
+
 [Ant 3]
 Sepeliérunt Stéphanum * viri timoráti, et fecérunt planctum magnum super eum.
+
+[Ant 3] (rubrica cisterciensis)
+Intuens in cœlum * beátus Stéphanus vidit glóriam Dei, et ait: Ecce vídeo cœlos apértos, et Fílium hóminis stantem a dextris Dei.
+
+[Commemoratio 3] (rubrica cisterciensis)
+@:Commemoratio
 
 [Octava 3]
 !Commemoratio Octavæ S. Stephani
@@ -196,6 +246,18 @@ Ant. Sepeliérunt Stéphanum viri timoráti, et fecérunt planctum magnum super 
 _
 V. Stéphanus vidit cælos apértos.
 R. Vidit, et introívit: beátus homo, cui cæli patébant.
+_
+$Oremus
+v. Da nobis, quǽsumus, Dómine, imitári quod cólimus: ut discámus et inimícos dilígere; quia ejus natalícia celebrámus, qui novit étiam pro persecutóribus exoráre Dóminum nostrum Jesum Christum Fílium tuum:
+$Qui tecum
+
+[Octava 3] (rubrica cisterciensis)
+!Commemoratio Octavæ S. Stephani
+Ant. Stéphanus vidit * cœlos apértos, vidit, et introívit: beátus homo, cui cœli patébant.
+_
+@CommuneM/C2:Versum 2
+(sed die Nat28)
+@Commune/C2:Versum 1
 _
 $Oremus
 v. Da nobis, quǽsumus, Dómine, imitári quod cólimus: ut discámus et inimícos dilígere; quia ejus natalícia celebrámus, qui novit étiam pro persecutóribus exoráre Dóminum nostrum Jesum Christum Fílium tuum:

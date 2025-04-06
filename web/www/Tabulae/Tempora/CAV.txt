@@ -1,3 +1,5 @@
+TemporaM/Epi1-0=Tempora/Epi1-0;;
+TemporaM/Quad5-5=Tempora/Quad5-5;;
 TemporaM/Pasc2-4=TemporaM/Pasc2-4Feria;;
 TemporaM/Pasc2-5=TemporaM/Pasc2-5Feria;;
 TemporaM/Pasc2-6=TemporaM/Pasc2-6Feria;;
@@ -6,7 +8,7 @@ TemporaM/Pasc3-1=TemporaM/Pasc3-1Feriat;;
 TemporaM/Pasc3-2=TemporaM/Pasc3-2Feria;;
 TemporaM/Pasc3-3=TemporaM/Pasc3-3Feria;;
 TemporaM/Pasc5-3=TemporaM/Pasc5-3t;;
-TemporaM/Pent02-5=TemporaM/Pent02-5Feria;;
+TemporaM/Pent02-5=Tempora/Pent02-5o;;
 TemporaM/Pent02-6=TemporaM/Pent02-6Feria;;
 TemporaM/Pent03-0=TemporaM/Pent03-0o;;
 TemporaM/Pent03-1=TemporaM/Pent03-1Feriao;;

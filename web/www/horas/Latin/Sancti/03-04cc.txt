@@ -1,11 +1,15 @@
+[Officium]
+S. Lucii I Papæ et Martyris
+
 [Rank]
-S. Lucii I Papæ et Martyris;;Simplex;;1.1;;vide C2
+;;Simplex;;1.1;;vide C2b-1
+(sed rubrica cisterciensis)
+;;Simplex;;1;;vide C2b-1
 
 [Rule]
-vide C2;
-OPapaM=Lúcium;
+vide C2b-1;
 
-[Oratio]
-@Commune/C2:Oratio:s/N\./Lúcii/
-(sed communi Summorum Pontificum dicitur)
-@Commune/C2:Oratio Gregem
+[Name]
+Lúcii
+(sed communi Summorum Pontificum)
+Lúcium

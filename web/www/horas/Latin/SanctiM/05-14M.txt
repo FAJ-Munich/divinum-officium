@@ -1,5 +1,11 @@
-[Rank]
-S Pachomii Abbatis;;Simplex;;1.1;;vide C5
+[Officium]
+S Pachomii Abbatis
 
-[Oratio]
-@Commune/C5:Oratio1:s/N\./Pachómii/
+[Officium] (rubrica cisterciensis)
+S. Pachomii, Abbatis (1965)
+
+[Rank]
+;;Simplex;;1.1;;vide C5b
+
+[Name]
+Pachómii

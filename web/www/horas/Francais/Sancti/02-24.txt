@@ -1,11 +1,11 @@
-[Rank]
-S. Matthiæ Apostoli;;Duplex II classis;;5.1;;ex C1
+[Officium]
+S. Matthiæ Apostoli
 
-[Rank] (rubrica 196)
-S. Matthiæ Apostoli;;Duplex II classis;;5;;ex C1
+[Name]
+Matthias
 
 [Oratio]
-O Dieu, qui avez agrégé le bienheureux Matthias au collège de vos Apôtres, accordez à notre demande, que, par son intercession, nous sentions toujours l’action de votre cœur rempli pour nous de miséricorde.
+0 Dieu, qui avez associé le bienheureux Matthias au collège de vos Apôtres, accordez-nous, s’il vous plaît, que, par son intercession, nous ressentions toujours les effets de vôtre miséricorde à notre égard.
 $Per Dominum
 
 [Lectio1]
@@ -33,7 +33,7 @@ Des Actes des Apôtres.
 [Lectio7]
 Lecture du saint Évangile selon saint Matthieu.
 !Matt 11:25-30
-En ce temps-là, Jésus, prenant la parole, dit : Mon V.> Père, Seigneur du del et de la terre, je vous rends gloire de ce que vous avez caché ces choses aux sages et aux prudents, et les avez révélées aux petits. Et le reste.
+En ce temps-là, Jésus, prenant la parole, dit : Mon Père, Seigneur du ciel et de la terre, je vous rends gloire de ce que vous avez caché ces choses aux sages et aux prudents, et les avez révélées aux petits. Et le reste.
 _
 Homélie de saint Augustin, Évêque.
 !Sermon 10 sur les Paroles du Seigneur.

@@ -9,7 +9,7 @@ Duplex
 Psalmi minores Dominica
 Laudes 2
 Antiphonas horas
-Omit Incipit Invitatorium Hymnus Capitulum Lectio Commemoratio Preces Suffragium Conclusion Martyrologium De Officium Capituli
+Omit Incipit Invitatorium Hymnus Capitulum Lectio Commemoratio Antiphona finalis Preces Suffragium Conclusion Martyrologium De Officium Capituli
 Limit Benedictiones Oratio
 9 Lectiones 1960
 Capitulum Versum 2 ad Laudes tantum
@@ -25,7 +25,7 @@ Feria
 [Oratio]
 @Tempora/Quad6-4::s/usque ad mortem/usque ad mortem, mortem autem crucis/
 
-[Prelude Vespera] (rubrica 1955 aut rubrica 1960)
+[Prelude Vespera] (rubrica 1955 aut rubrica 196)
 !Vesperæ ab iis qui solemni Actioni liturgicæ postmeridianæ intersunt, hodie non dicuntur.
 
 [Ant Matutinum]

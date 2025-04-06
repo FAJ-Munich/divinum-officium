@@ -23,6 +23,10 @@ sub capitulum_major {
     $capit = $capit{$name};
   }
 
+  if ($vespera == 1 && $version =~ /Ordo Praedicatorum/) {
+    $capit .= "\n_\n" . monastic_major_responsory($lang);
+  }
+
   setcomment($label, 'Source', $c, $lang);
   $capit;
 }
@@ -33,14 +37,21 @@ sub monastic_major_responsory {
   our ($hora, $winner, $vespera, $seasonalflag, $version);
 
   my $key = "Responsory $hora";
+  my ($resp, $c, $cistrv1f);
 
-  # special case only once
-  $key .= ' 1' if $winner =~ /12-25/ && $vespera == 1;    #($winner =~ /(?:12-25|Quadp[123]-0)/ && $vespera == 1);
+  # First Vespers can use special 'Responsory Vespera 1' (cist & OP)
+  ($resp, $c) = getproprium("$key 1", $lang, $seasonalflag, 1) if $vespera == 1;
 
-  my ($resp, $c) = getproprium($key, $lang, $seasonalflag, 1);
+  if ($resp) {    # need to set flag for further use
+    $cistrv1f = $version =~ /Cist/;
+  } else {        # if it is not a case 'Responsory $hora'
+    ($resp, $c) = getproprium($key, $lang, $seasonalflag, 1) unless $resp;
+  }
 
   # Monastic Responsories at Major Hours are usually identical to Roman at Tertia and Sexta
   if (!$resp) {
+    $key =~ s/Vespera/Breve Tertia/ if $version =~ /cist/i;
+    $key =~ s/Laudes/Breve Sexta/ if $version =~ /cist/i;
     $key =~ s/Vespera/Breve Sexta/;
     $key =~ s/Laudes/Breve Tertia/;
     ($resp, $c) = getproprium($key, $lang, $seasonalflag, 1);
@@ -64,7 +75,7 @@ sub monastic_major_responsory {
 
   if ($resp) {
     my @resp = split("\n", $resp);
-    postprocess_short_resp(@resp, $lang);
+    postprocess_short_resp(@resp, $lang) unless $cistrv1f;
     $resp = join("\n", @resp);
     $resp =~ s/\&gloria.*//gsi if $version =~ /cist/i;
   }
@@ -84,6 +95,7 @@ sub capitulum_minor {
   my ($resp, $vers, $comment);
 
   $name .= 'M' if ($version =~ /Monastic/);
+  $name =~ s/Quad/Quad3/ if $version =~ /Praedicatorum/ && $dayname[0] =~ /^Quad[34]/;
 
   if ($resp = $capit{"Responsory $name"}) {
     $resp =~ s/\s*$//;

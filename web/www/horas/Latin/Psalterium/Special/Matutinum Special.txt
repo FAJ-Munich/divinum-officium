@@ -29,11 +29,24 @@ Prope est jam Dóminus, * Veníte, adorémus.
 [Invit Quad]
 Non sit vobis vanum mane súrgere ante lucem: * Quia promísit Dóminus corónam vigilántibus.
 
-[Invit Quad5]
+[Invit Quad5_]
 Hódie, si vocem Dómini audiéritis, * Nolíte obduráre corda vestra.
 
-[Invit Pasch]
+[Invit Quad5 OP]
+Adorémus Dóminum, * Qui nos redémit per crucem.
+
+[Invit Quad5]
+@:Invit Quad5_
+(sed rubrica Praedicatorum)
+@:Invit Quad5 OP
+
+[Invit Pasch_]
 Surréxit Dóminus vere, * Allelúja.
+
+[Invit Pasch]
+@:Invit Pasch_
+(sed rubrica praedicatorum)
+Allelúja, allelúja, * Allelúja.
 
 [Day0 Hymnus]
 {:H-MatDom1:}v. Nocte surgéntes vigilémus omnes,
@@ -410,6 +423,33 @@ Amen.
 @:Hymnus Quad:21
 @:Hymnus Quad:25-45
 
+[HymnusM Quad] (rubrica Praedicatorum)
+Summi largítor prǽmii,
+Spes qui es única mundi,
+Preces inténde servórum,
+Ad te devóte clamántium.
+_
+Nostra te consciéntia
+Grave offendísse monstra:
+Quam emúndes, supplicamus,
+Ab ómnibus piáculis.
+_
+Si rénuis, quis tríbuet?
+Indúlge, qui potens es:
+Te corde rogáre mundo
+Fac nos precámur, Dómine.
+_
+Ergo nunc accépta nostrum,
+Qui sacrásti jejúnium:
+Quo mýstuce paschália
+Capiámus sacraménta.
+_
+Summa nobis hoc cónferat
+In Deitáte Trínitas:
+In qua gloriátur unus
+Per cuncta sǽcula Deus.
+Amen.
+
 [Hymnus Quad]
 {:H-MatQuad:}v. Ex more docti mýstico
 Servémus hoc jejúnium,
@@ -557,6 +597,9 @@ Qui surrexísti a mórtuis,
 Cum Patre et Sancto Spíritu,
 In sempitérna sǽcula.
 Amen.
+
+[HymnusM Pasch] (rubrica praedicatorum)
+@Psalterium/Special/Major Special:HymnusM Pasch Laudes_
 
 [Hymnus Pasch]
 {:H-MatPasc:}v. Rex sempitérne Cǽlitum,

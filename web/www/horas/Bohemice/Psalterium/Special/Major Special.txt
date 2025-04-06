@@ -186,6 +186,9 @@ i Duchu Utěšiteli
 buď sláva všechen věků věk. 
 Amen.
 
+[HymnusM Day0 Laudes hiemalis]
+@:HymnusM Day1 Laudes
+
 [HymnusM Day1 Laudes]
 v. Ó blesku slávy Otcovy, 
 jenž ve dne sluncem zazáříš,
@@ -248,6 +251,9 @@ Ve svatosti * služme Pánu, a on nás vysvobodí od našich nepřátel.
 
 [Feria5C Ant 2]
 Abys nám dal poznat * svůj lid, Pane, k odpuštění našich hříchů.
+
+[Feria6 Ant 2]
+Velikým milosrdenstvím * našeho Boha nás navštívil Vycházející z výsosti.
 
 [Feria7C Ant 2]
 Na cestu pokoje * naveď nás, Pane.
@@ -461,7 +467,7 @@ Ti pějem v novém nadšení.
 Amen.
 
 
-[Quad Vespera]
+[Quad Vespera_]
 !Joel 2:17
 v. Kněží, Hospodinovi služebníci, ať pláčou mezi předsíní a oltářem a říkají: „Ušetř, Hospodine, svůj lid, nevydávej své dědictví v potupu, aby nad ním nevládli pohané!“ 
 $Deo gratias
@@ -603,7 +609,9 @@ jsou kruté muky k slávě ti,
 když smrtí skosen život byl, 
 nám smrtí život vydobyl. 
 _
+(nisi rubrica cisterciensis)
 !Následující sloka se říká na kolenou.
+(nisi rubrica cisterciensis)
 _
 Buď, kříži, zdráv, všech naděje! 
 Když triumfální čas teď je, 
@@ -742,6 +750,8 @@ Ant. Kříž svatý podstoupil ten, který zničil podsvětí; mocí se opásal,
 [Suffragium BMV Ant]
 !K Panně Marii
 Ant. Panno Maria, přispěj na pomoc ubohým, pomoz malodušným, utěš plačící, oroduj za lid, přimlouvej se za kněžstvo, pomáhej oddanému ženskému pokolení; aby všichni pociťovali tvou pomoc, kdož oslavují tvou svatou připomínku.
+(sed rubrica cisterciensis)
+Ant. Panno Maria, přispěj na pomoc ubohým, pomoz malodušným, utěš plačící, oroduj za lid, přimlouvej se za kněžstvo, pomáhej oddanému ženskému pokolení.
 
 [Suffragium BMV AntL]
 @:Suffragium BMV Ant:1

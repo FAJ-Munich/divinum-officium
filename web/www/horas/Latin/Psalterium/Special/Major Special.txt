@@ -211,7 +211,7 @@ Te cordis ima cóncinant,
 te vox canóra cóncrepet,
 te díligat castus amor,
 te mens adóret sóbria,
-__
+_
 Ut cum profúnda cláuserit
 diem calígo nóctium,
 fides ténebras nésciat
@@ -1014,6 +1014,8 @@ $Deo gratias
 @:Quad Laudes_
 (sed rubrica cisterciensis)
 @:Quad Laudes_C
+(sed rubrica praedicatorum)
+@Psalterium/Special/Minor Special:Quad Tertia
 
 [Responsory Quad Laudes]
 R.br. Ipse liberávit me * de láqueo venántium.
@@ -1079,13 +1081,18 @@ Amen.
 
 [Quad Versum 2]
 @:Quad Versum 3
-(sed rubrica cisterciensis)
+(sed rubrica cisterciensis aut rubrica praedicatorum)
 @Psalterium/Special/Minor Special:Versum Quad Sexta
 
-[Quad Vespera]
+[Quad Vespera_]
 !Joël 2:17
 v. Inter vestíbulum et altáre plorábunt sacerdótes, minístri Dómini, et dicent: Parce, Dómine, parce pópulo tuo: et ne des hereditátem tuam in oppróbrium, ut dominéntur eis natiónes.
 $Deo gratias
+
+[Quad Vespera]
+@:Quad Vespera_
+(sed rubrica Praedicatorum)
+@Psalterium/Special/Minor Special:Quad Tertia
 
 [Responsory Quad Vespera]
 R.br. Scápulis suis * obumbrábit tibi.
@@ -1143,6 +1150,8 @@ $Deo gratias
 @:Quad5 Laudes_
 (sed rubrica cisterciensis)
 @:Quad5 Laudes_C
+(sed rubrica praedicatorum)
+@:Quad5 Vespera
 
 [Responsory Quad5 Laudes_]
 R.br. Érue a frámea * Deus ánimam meam.
@@ -1343,7 +1352,9 @@ Sæcli pepéndit prétium,
 Statéra facta córporis,
 Prædámque tulit tártari.
 _
-!Sequens stropha dicitur flexis genibus.
+(nisi rubrica cisterciensis)
+!Sequens stropha dicitur flexis genibus. 
+(nisi rubrica cisterciensis)
 _
 O Crux, ave, spes única,
 In hac triúmphi glória
@@ -1380,6 +1391,8 @@ $Deo gratias
 
 [Responsory Pasch Laudes]
 @Psalterium/Special/Minor Special:Responsory breve Pasch Tertia
+(sed rubrica cisterciensis)
+@Psalterium/Special/Minor Special:Responsory breve Pasch Sexta
 
 [Hymnus Pasch Laudes]
 {:H-Auroracoelum:}v. Auróra cælum púrpurat,
@@ -1413,7 +1426,7 @@ Surréxit, ac Paráclito,
 In sempitérna sǽcula.
 Amen.
 
-[HymnusM Pasch Laudes]
+[HymnusM Pasch Laudes_]
 v. Auróra lucis rútilat,
 Cælum láudibus íntonat,
 Mundus exsúltans júbilat,
@@ -1445,6 +1458,53 @@ Cum Patr[e] et Sancto Spíritu,
 In sempitérna sǽcula.
 Amen.
 
+[HymnusM Pasch LaudesOP_]
+v. Sermóne blando Angelus
+Predíxit muliéribus:
+In Galilǽa Dóminus
+Vidéndus est quantócius.
+_
+Illæ dum pergunt cóncite
+Apóstolis hoc dícere,
+Vidéntes eum vívere,
+Osculántur pedes Dómini.
+_
+Quo ágnito discípuli
+In Galilǽam própere
+Pergunt vidére fáciem
+Desiderátam Dómini.
+_
+Claro pascháli gáudio
+Sol mundo nitet rádio,
+Cum Christum jam Apóstoli
+Visu cernunt corpóreo.
+_
+Osténsa sibi vúlnera,
+In Christi carne fúlgida,
+Resurrexísse Dóminum
+Voce faténtur pública.
+_
+Rex Christe clementíssime,
+Tu corda nostra pósside:
+Ut tibi laudes débitas
+Reddámus omni témpore.
+_
+Quǽsumus, Auctor ómnium,
+In hoc pascháli gáudio,
+Ab omni mortis ímpetu
+Tuum defénde pópulum.
+_
+Glória tibi Dómine,
+Qui surrexísti a mórtuis,
+Cum Patre et Sancto Spíritu
+In sempitérna sǽcula.
+Amen.
+
+[HymnusM Pasch Laudes]
+@:HymnusM Pasch Laudes_
+(sed rubrica praedicatorum)
+@:HymnusM Pasch LaudesOP_
+
 [Pasch Versum 2_]
 V. In resurrectióne tua, Christe, allelúja.
 R. Cæli et terra læténtur, allelúja.
@@ -1457,12 +1517,16 @@ R. Quia Dóminus regnávit a ligno, allelúia.
 @:Pasch Versum 2_
 (sed rubrica cisterciensis)
 @:Pasch Versum 2_C
+(sed rubrica praedicatorum)
+@Psalterium/Special/Minor Special:Versum Pasch Sexta_
 
 [Pasch Vespera]
 @:Pasch Laudes
 
 [Responsory Pasch Vespera]
 @Psalterium/Special/Minor Special:Responsory breve Pasch Sexta
+(sed rubrica cisterciensis)
+@Psalterium/Special/Minor Special:Responsory breve Pasch Tertia
 
 [Hymnus Pasch Vespera]
 {:H-Adregias:}v. Ad régias Agni dapes,
@@ -1606,16 +1670,13 @@ Ant. Crucem sanctam súbiit, qui inférnum confrégit; accínctus est poténtia,
 !De Beata Maria
 @Commune/C11:Ant 1_:s/^/Ant. / s/\* // s/festivitátem/commemoratiónem/
 (sed rubrica cisterciensis)
-@Commune/C11:Ant 1_:s/^/Ant. / s/\* // s/festivitátem/commemoratiónem/ s/femíneo/fœmíneo/
+@Commune/C11:Ant 1_:s/^/Ant. / s/\* // s/festivitátem/commemoratiónem/ s/femíneo/fœmíneo/ s/:.*//
 
 [Suffragium BMV]
 @:Suffragium BMV Ant
 _
 (deinde dicuntur semper)
-@Commune/C11:Versum 0
-_
-$Oremus
-@Commune/C11:Oratio:1 s/^/v. /
+@:Versum et Oratio BMV
 (sed tempore post partum loco horum versuum dicuntur)
 @Psalterium/Mariaant:Nativiti:s/.*V\./V\./s
 
@@ -1718,10 +1779,16 @@ _
 (atque tempore paschali loco horum versuum dicitur)
 @:Suffragium Paschale
 
+[Versum et Oratio BMV]
+@Commune/C11:Versum 0
+_
+$Oremus
+@Commune/C11:Oratio:1 s/^/v. /
+
 [Suffragium Laudes] (rubrica cisterciensis)
 @:Suffragium BMV AntL
 _
-@Psalterium/Mariaant:Postpentecost: s/.*V\./V./s s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$/\n/
+@:Versum et Oratio BMV
 (sed tempore post Epiphaniam aut Septuagesimæ aut Quadragesimæ aut Passionis dicitur)
 @Psalterium/Mariaant:Quadragesimae: s/.*V\./V./s  s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$/\n/
 (sed Adventus dicitur) 
@@ -1770,16 +1837,19 @@ _
 @:Suffragium PaschaleV
 
 [Suffragium Vespera] (rubrica cisterciensis)
-@:Suffragium BMV:1
-@:Suffragium BMV:s/.*$//m
-(sed tempore post Epiphaniam aut Septuagesimæ aut Quadragesimæ aut Passionis dicitur)
-@Psalterium/Mariaant:Quadragesimae: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$/\n/s
-(sed Adventus dicitur)
-@Psalterium/Mariaant:Advent: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$/\n/s
+@:Suffragium BMV Ant:1
+(deinde dicuntur semper)
+@:Suffragium BMV Ant:2
+_
+@:Versum et Oratio BMV
+(sed tempore post Epiphaniam aut Septuagesimæ aut Quadragesimæ aut Passionis loco horum versuum dicitur)
+@Psalterium/Mariaant:Quadragesimae: s/.*v\./Ant. / s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$/\n/s
+(sed Adventus loco horum versuum dicitur)
+@Psalterium/Mariaant:Advent: s/.*v\./Ant. / s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$/\n/s
 (sed Nativitatis aut Epiphaniæ aut post partum dicitur)
-@Psalterium/Mariaant:Nativiti: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/[ÁA]m[ée]n.*$/\n/s
-(sed Paschali dicitur)
-@Psalterium/Mariaant:Paschalis: s/.*v\./Ant. / s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$/\n/s
+@Psalterium/Mariaant:Nativiti: s/.*v\./Ant. / s/[ÁA]m[ée]n.*$/\n/s
+(sed Paschali loco horum versuum dicitur)
+@Psalterium/Mariaant:Paschalis: s/.*v\./Ant. / s/(P[aeo]r|Through|Im|Ugyanazon|Przez|Pelo|Skrze).*$/\n/s 
 (deinde dicitur)
 @:Suffragium ConclusioBMV
 (sed rubrica 1951 aut feria 3 aut feria 2 aut feria 6)
@@ -1802,6 +1872,15 @@ _
 $Per eumdem Christum
 (sed post partum omittitur)
 $Amen
+
+[Suffragium ConclusioBMV] (rubrica cisterciensis)
+$Per eumdem
+(sed post partum) $Qui tecum 
+(sed tempore post pentecosten) $Per Dominum
+
+[Comment] (rubrica cisterciensis)
+In Suffragium Vespera, the original regex included "s/$/~ /gm s/~ (\s+[VvR]\.|\s+\$|$)/$1/sg"
+However, this made the Antiphons very confusing and ugly, therefore deleting.
 
 [Preces feriales Laudes]
 $Kyrie
@@ -1846,7 +1925,7 @@ V. Inténde ánimæ meæ, et líbera eam.
 R. Propter inimícos meos éripe me.
 
 [Pasch Versum 0]
-@:Pasch Versum 2
+@:Pasch Versum 2_
 
 [Asc Versum 0]
 V. Ascéndo ad Patrem meum et Patrem vestrum, allelúja.

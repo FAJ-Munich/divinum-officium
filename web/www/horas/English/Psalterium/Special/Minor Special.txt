@@ -210,7 +210,7 @@ R. His truth shall compass thee * with a shield.
 V. For he hath given his angels charge over thee.
 R. To keep thee in all thy ways.
 
-[Quad5 Tertia]
+[Quad5 Tertia_]
 !Jer 17:13
 v. O Lord: all that forsake thee shall be confounded: they that depart from thee, shall be written in the earth: because they have forsaken the Lord, the vein of living waters.
 $Deo gratias
@@ -231,7 +231,7 @@ R. And my lowness from the horns of the unicorns.
 V. Deliver, O God, my soul from the sword.
 R. My only one from the hand of the dog.
 
-[Quad5 Sexta]
+[Quad5 Sexta_]
 !Jer 17:18
 v. Let them be confounded that persecute me, and let not me be confounded: let them be afraid, and let not me be afraid: bring upon them the day of affliction, and with a double destruction, destroy them, O Lord my God.
 $Deo gratias
@@ -248,7 +248,7 @@ R. From the lion's mouth, * O Lord, save me.
 V. Take not away my soul, O God, with the wicked.
 R. Nor my life with bloody men.
 
-[Quad5 Nona]
+[Quad5 Nona_]
 !Jer 18:20
 v. Remember that I have stood in thy sight, to speak good for them, and turn away thy indignation from them.
 $Deo gratias
@@ -270,7 +270,7 @@ R. Rescue me from the unjust man.
 v. Knowing that Christ rising again from the dead, dieth now no more, death shall no more have dominion over him. For in that he died to sin, he died once; but in that he liveth, he liveth unto God.
 $Deo gratias
 
-[Responsory breve Pasch Tertia]
+[Responsory breve Pasch Tertia_]
 R.br. The Lord is risen from the sepulchre, * alleluia, alleluia.
 R. The Lord is risen from the sepulchre, * alleluia, alleluia.
 V. Who for us was hanged on the tree.
@@ -299,7 +299,7 @@ R. Alleluia, alleluia.
 &Gloria
 R. The Lord is risen indeed, * alleluia, alleluia.
 
-[Versum Pasch Sexta]
+[Versum Pasch Sexta_]
 V. The disciples therefore were glad, alleluia.
 R. When they saw the Lord, alleluia.
 
