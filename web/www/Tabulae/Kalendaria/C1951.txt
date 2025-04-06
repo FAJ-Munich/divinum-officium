@@ -105,5 +105,52 @@
 04-28=04-28o=S. Vitalis, Martyris=1=
 04-29=04-29C=S.P.N. Roberti, Primi Abbatis Cistercii=6=
 04-30=04-30=S. Petri, Martyris=2=
-
-
+*May*
+05-01=05-01cist=SS. Apostolorum Philippi et Jacobi=4=
+05-02=05-02=S. Athanasii Confessoris Ecclesiae Doctoris=1.2=
+05-03=05-03~05-03C=Inventionis S. Crucis=5=Ss. Alexandri I Papæ, Eventii et Theoduli Mm. ac Juvenalis Ep. et Conf.=1=
+05-04=04-02~05-04=S. Francisci de Paula, Confessoris=2=S. Monicæ, Viduæ=1=
+05-05=05-05C=S. Sacerdotis, Episcopi et Confessoris=2=
+05-06=05-06=S. Joannis Apostoli ante portam Latinam=3=
+05-07=05-07=S. Stanislai Episcopi Martyris=2=
+05-08=05-08=Apparitione S. Michaelis Archangeli=2=
+05-09=05-09C=S. Gregorii Nazianzeni, Episcopi, Confessoris et Ecclesiæ Doctoris=3=
+05-10=05-10C~05-10o=S. Petri, Episcopi et Confessoris=2=SS. Gordiani et Epimachi, Martyrum=1=
+05-11=05-05=S. Pii v., Papæ et Confessoris=1.2=
+05-12=05-12=Ss. Nerei, Achillei et Domitillae Virgini atque Pancratii Martyrum=2=
+05-14=05-14=S. Bonifacii, Martyris=1=
+05-19=05-19~05-19o=S. Petri Celestini Papae Confessoris=2=
+05-20=05-20C=S. Yvonis, Confessoris=1=
+05-23=05-23C=S. Desiderii, Episcopi et Martyris=1=
+05-24=05-24C=S. Donatiani et Rogatiani, Martyrum=1=
+05-25=05-25~05-25o=S. Gregorii VII, Papae et Confessoris=3=
+05-26=05-26~05-26o=S. Philippi Nerii, Confessoris=2=S. Eleutherii, Papæ et Martyris=1=
+05-27=05-27o=S. Joannis, Papæ et Martyris=1=
+05-30=05-30=S. Felicis, Papæ et Martyris=1=
+05-31=05-31o=S. Petronillæ, Virginis=1=
+*June*
+06-01=06-01C=BB. Bernardi, Mariæ et Gratiæ, Martyrum=1.2=
+06-02=06-02=Ss. Marcellini et Petri Martyrum=1=
+06-05=06-05=S. Bonifacii, Episc. et Mart. (1965)=3=
+06-06=06-06=S. Norberti, Episcopi, Confessoris et Patroni Bohemiæ=5=
+06-07=06-07=S. Roberti, Abbatis=1=
+06-08=06-08=S. Medardi, Episcopi et Confessoris=1=
+06-09=06-09=Ss. Primi et Feliciani Martyrum=1=
+06-10=06-10=S. Claudii, Episcopi et Confessoris=1=
+06-11=06-11=S. Barnabae, Apostoli=3=
+06-12=06-12=B. Aleydis, Virginis=2=
+06-13=06-13=S. Antonii de Padua Confessoris et Ecclesiae Doctoris=3=
+06-14=06-14=S. Basilii Magni Confessoris et Ecclesiae Doctoris=2=
+06-15=06-15=S. Viti, Martyris=4=
+06-16=06-16=S. Lutgardis, Virginis=2=
+06-18=06-18=S. Ephraem Syri Confessorem et Ecclesiae Doctorem=3=Ss. Marci et Marcellini Martyrum=1=
+06-19=06-19=Ss. Gervasii et Protasii Mart=1=
+06-20=06-20=S. Sylverii Papae et Martyri=1=
+06-22=06-22=S. Paulini Episcopi et Confessoris=1=
+06-23=06-23=Vigilia S. Joannis Baptistae=5=
+06-24=06-24=In Nativitate S. Joannis Baptistae=6=
+06-25=06-25=S. Gulielmi, Abbatis=3=
+06-26=06-26=Ss. Joannis et Pauli Martyrum=3=
+06-28=06-28=Vigilia Ss. Petri et Pauli Apostolorum=5=
+06-29=06-29=Ss. Apostolorum Petri et Pauli=6=
+06-30=06-30=In Commemoratione Sancti Pauli Apostoli=5=

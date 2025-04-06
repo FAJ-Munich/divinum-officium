@@ -66,10 +66,14 @@ sub oratio {
   } else {
     $w = $w{Oratio};
   }
-  if ($hora eq 'Matutinum' && exists($winner{'Oratio Matutinum'})) { $w = $w{'Oratio Matutinum'}; }
-  if (!$w) { $w = $w{"Oratio $ind"}; }    # if none yet, look for Oratio of Vespers or Lauds according to ind
 
-  if (!$w) {                              # if none yet, look in commune.
+  if ($hora eq 'Matutinum' && exists($winner{'Oratio Matutinum'})) {
+    $w = $w{'Oratio Matutinum'};
+  } elsif (!$w || exists($winner{"Oratio $ind"})) {
+    $w = $w{"Oratio $ind"};
+  }    # if none yet, look for Oratio of Vespers or Lauds according to ind
+
+  if (!$w) {    # if none yet, look in commune.
     my %c = columnsel($lang) ? %commune : %commune2;
     my $i = $ind;
     $w = $c{"Oratio $i"};
@@ -79,11 +83,11 @@ sub oratio {
   if ($hora ne 'Matutinum') { setbuild($winner, "Oratio $ind", 'Oratio ord'); }
   my $i = $ind;
 
-  if (!$w) {                              # if none yet:
-    if ($i == 2) {                        # if Laudes, try 2nd Vespers
+  if (!$w) {    # if none yet:
+    if ($i == 2) {    # if Laudes, try 2nd Vespers
       $i = 3;
       $w = $w{"Oratio $i"};
-    } else {                              # if Vespers, try Laudes
+    } else {          # if Vespers, try Laudes
       $w = $w{'Oratio 2'};
     }
     if (!$w) { $i = 4 - $i; $w = $w{"Oratio $i"}; }    # or, try other Vesper
@@ -393,10 +397,14 @@ sub oratio {
           my @cr = split(";;", $c{Rank});
 
           if ($version =~ /trident/i && $version !~ /1906/) {
-            $key = $cr[0] =~ /Vigilia Epi|$sundaystring/i ? 2900 : $cr[2] * 1000;
+            $key =
+              $cr[0] =~ /Vigilia Epi|$sundaystring/i
+              ? ($version =~ /altovadensis/i ? 4900 : 2900)
+              : $cr[2] * 1000;
           } else {
             $key = 9000;    # concurrent office comes first under DA and also 1906
           }
+
           $key = 10000 - $key;    # reverse order
           $ccind++;
           $cc{$key} = $c;
@@ -494,7 +502,7 @@ sub oratio {
 
           if ($cr[0] =~ /Vigilia Epi|$sundaystring/i) {
             $key =
-              ($version !~ /trident/i || ($version =~ /1906/ && $cr[2] > 5))
+              ($version !~ /trident/i || $version =~ /altovadensis/i || ($version =~ /1906/ && $cr[2] > 5))
               ? 7000
               : 2900;    # under DA, all Sundays, in 1906, priviliged Sundays, are all privilegded commemorations
           } else {
@@ -561,7 +569,7 @@ sub oratio {
               $ccind++;
               $key =
                   ($ic =~ /$sundaystring/i)
-                ? ($version !~ /trident/i ? 3000 : 7100)
+                ? ($version !~ /trident/i || $version =~ /altovadensis/i ? 3000 : 7100)
                 : $ccind + 9900;    # Sundays are all privilegde commemorations under DA
               $cc{$key} = $ic;
               setbuild2("Commemorated: $key");

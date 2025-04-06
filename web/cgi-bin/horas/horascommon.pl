@@ -746,7 +746,7 @@ sub concurrence {
 
     # before Divino Afflatu, the Sundays from Septuag to Judica and in Albis gave way at 2nd Vespers in concurrence to a Duplex
     $rank = $wrank[2] = 2.99;
-  } elsif ($dayname[0] =~ /Quad[0-5]|Quadp|Adv|Pasc1/ && $dayofweek == 0 && $version =~ /divino|altovadensis/i) {
+  } elsif ($dayname[0] =~ /Quad[0-5]|Quadp|Adv|Pasc1/ && $dayofweek == 0 && $version =~ /divino|cist/i) {
 
     # after Divino Afflatu, the Sundays from Septuag to Judica and in Albis gave way at 2nd Vespers in concurrence to a Duplex II. cl. (Cist: MM. maj.)
     $rank = $wrank[2] = $version =~ /divino/i ? 4.9 : 3.9;
@@ -840,7 +840,7 @@ sub concurrence {
     if (
       $ccomrank >= (
              $rank >= ($version =~ /trident/i ? 6 : 5)
-          && $wrank[0] !~ /feria|octava/i ? 2.1 : $version !~ /cist/i ? 1.1 : 1
+          && $cwrank[0] !~ /feria|sabbato|octava/i ? 2.1 : $version !~ /cist/i ? 1.1 : 1
       )
       && $ccomrank !~ 1.5
       && $version !~ /1955|196/
