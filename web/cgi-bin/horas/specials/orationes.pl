@@ -221,7 +221,7 @@ sub oratio {
     }
   }
 
-  if ($lang eq 'Latin-gabc' && $w =~ /\(\:\:\)/) {
+  if ($lang eq 'Latin-gabc' && $w =~ /\(\:\:\)/ && $rule !~ /Limit.*Oratio/) {
 
     # Convert Tonus simplex into solemnis
     if (($horamajor || $hora eq 'Matutinum')) {
@@ -274,7 +274,7 @@ sub oratio {
     } elsif ($version !~ /monastic/i) {
       $w =~ s/†\(\,\)/†(;)/;
     }
-  } else {
+  } elsif ($w !~ /^\{/s) {
 
     # Ensure large red Initial
     $w =~ s/^(?:v. )?/v. / unless $w =~ /^[\$\&\#]/;

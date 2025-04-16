@@ -4,7 +4,7 @@ Sabbato Sancto;;Feria privilegiata Duplex I classis;;7
 [Rule]
 Psalmi minores Dominica
 Antiphonas horas
-Omit Incipit Invitatorium Hymnus Capitulum Lectio Commemoratio Preces Suffragium Conclusion
+Omit Incipit Invitatorium Hymnus Capitulum Lectio Commemoratio Antiphona finalis Preces Suffragium Conclusion Martyrologium De Officium Capituli
 Limit Benedictiones, Oratio
 9 lectiones 1960
 Capitulum Versum 2 ad Laudes tantum
@@ -107,7 +107,7 @@ Feria
 {gabc:tenebrae/sabbato/an--mulieres_sedentes--solesmes_1934};;solemn1g
 
 [Oratio 2]
-. {(c4) CHri(ffg)stus(f.) *(,) fa(fg)ctus(f) est(f') pro(f) no(ghF'ED.g_[oh:h]e/fg)bis(f.) (;) ob(f)é(hf/gh!jj/kjk)di(jij)ens(h_g) (,) us(h!jjh)que(f.) ad(ixfiH'Gh) mor(f_[oh:h]g_[oh:h]f_[oh:h])tem.(f.) (::) <sc>Mor</sc>(ixf!hhi)<sc>tem</sc>(g) au(gjj)tem(ixj.h!iw!jvIG'hw!ivHG) cru(fv.ff)cis.(f_c) (,) (fg!hvGF.e!g'h//fhg/hggf.0) (z0::c3) <sc>Pro</sc>(d)<sc>pter</sc>(d) quod(d) et(fe~) De(eh)us(h.) (,) ex(h)al(h)tá(h)vit(h) il(h)lum,(ihhe./h_[oh:h]i_[oh:h]h_[oh:h]/ihhe.) (,) (hi!kv//lvKI'jvHF.1) (,) (h_g/ijh'___ jvIH'jvIH'//hvGF.) (:) et(f) de(f!h'i)dit(i) il(i)li(ih/jkihhf.) (,) no(hf/hhh)men,(h.f!gwh!iv.hi/jhh/iih.0) (;) quod(d) est(d) su(d)per(d) o(dfE'D)mne(ef) no(fhG'Fhhh)men.(hhf.) (,) (gxg_[oh:h]fgvED.fgED.fehv.hhhff//dfe/fee[ll:1]d.0) (::)}
+{(c4) CHri(ffg)stus(f.) *(,) fa(fg)ctus(f) est(f') pro(f) no(ghF'ED.g_[oh:h]e/fg)bis(f.) (;) ob(f)é(hf/gh!jj/kjk)di(jij)ens(h_g) (,) us(h!jjh)que(f.) ad(ixfiH'Gh) mor(f_[oh:h]g_[oh:h]f_[oh:h])tem.(f.) (::) <sc>Mor</sc>(ixf!hhi)<sc>tem</sc>(g) au(gjj)tem(ixj.h!iw!jvIG'hw!ivHG) cru(fv.ff)cis.(f_c) (,) (fg!hvGF.e!g'h//fhg/hggf.0) (z0::c3) <sc>Pro</sc>(d)<sc>pter</sc>(d) quod(d) et(fe~) De(eh)us(h.) (,) ex(h)al(h)tá(h)vit(h) il(h)lum,(ihhe./h_[oh:h]i_[oh:h]h_[oh:h]/ihhe.) (,) (hi!kv//lvKI'jvHF.1) (,) (h_g/ijh'___ jvIH'jvIH'//hvGF.) (:) et(f) de(f!h'i)dit(i) il(i)li(ih/jkihhf.) (,) no(hf/hhh)men,(h.f!gwh!iv.hi/jhh/iih.0) (;) quod(d) est(d) su(d)per(d) o(dfE'D)mne(ef) no(fhG'Fhhh)men.(hhf.) (,) (gxg_[oh:h]fgvED.fgED.fehv.hhhff//dfe/fee[ll:1]d.0) (::)}
 (sed hora vespera)
 {initial-style:0;;%%(c4) V/. Christus factus est pro nobis obédiens usque ad mortem, mortem autem crucis: propter quod et Deus exaltávit illum, et dedit illi nomen quod est super omne nomen. /:sine cantu:/
 $Pater totum secrecto

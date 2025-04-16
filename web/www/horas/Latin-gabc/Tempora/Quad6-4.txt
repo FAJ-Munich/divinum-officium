@@ -4,7 +4,7 @@ Feria Quinta in Cena Domini;;Feria privilegiata Duplex I classis;;7
 [Rule]
 Psalmi minores Dominica
 Antiphonas horas
-Omit Incipit Invitatorium Hymnus Capitulum Lectio Preces Commemoratio Suffragium Conclusion
+Omit Incipit Invitatorium Hymnus Capitulum Lectio Commemoratio Antiphona finalis Preces Suffragium Conclusion Martyrologium De Officium Capituli
 Limit Benedictiones Oratio
 9 lectiones 1960
 Capitulum Versum 2 ad Laudes tantum
@@ -104,7 +104,7 @@ Feria
 {name:Traditor autem;annotation:1;mode:1;book:The Liber Usualis, 1961, p. 658 & Liber antiphonarius, 1960, p. 434;transcriber:Andrew Hinkley;%%(c4) TRá(f)di(c')tor(d) au(dh)tem(ixh_i) *() de(h')dit(g) e(e')is(f) si(g)gnum,(fe~) di(d.)cens :(d.) (;) Quem(d) o(fe)scu(d)lá(e')tus(f) fú(gh)e(g)ro,(f.) (,) i(f_g)pse(f) est,(c.) (;) te(e)né(g_[oh:h]e)te(f_e) e(d.)um.(d.) (::)};;solemn1g
 
 [Oratio]
-v. . {(c4) CHri(ffg)stus(f.) *(,) fa(fg)ctus(f) est(f') pro(f) no(ghF'ED.g_[oh:h]e/fg)bis(f.) (;) ob(f)é(hf/gh!jj/kjk)di(jij)ens(h_g) (,) us(h!jjh)que(f.) ad(ixfiH'Gh) mor(f_[oh:h]g_[oh:h]f_[oh:h])tem.(f.) (::)}
+{(c4) CHri(ffg)stus(f.) *(,) fa(fg)ctus(f) est(f') pro(f) no(ghF'ED.g_[oh:h]e/fg)bis(f.) (;) ob(f)é(hf/gh!jj/kjk)di(jij)ens(h_g) (,) us(h!jjh)que(f.) ad(ixfiH'Gh) mor(f_[oh:h]g_[oh:h]f_[oh:h])tem.(f.) (::)}
 (sed hora vespera)
 v. Christus factus est pro nobis obédiens usque ad mortem. /:sine cantu:/
 $Pater totum secreto
