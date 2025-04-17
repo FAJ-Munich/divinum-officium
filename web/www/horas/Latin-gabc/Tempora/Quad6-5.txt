@@ -111,7 +111,8 @@ Feria
 {(c4) CHri(ffg)stus(f.) *(,) fa(fg)ctus(f) est(f') pro(f) no(ghF'ED.g_[oh:h]e/fg)bis(f.) (;) ob(f)é(hf/gh!jj/kjk)di(jij)ens(h_g) (,) us(h!jjh)que(f.) ad(ixfiH'Gh) mor(f_[oh:h]g_[oh:h]f_[oh:h])tem.(f.) (::) <sc>Mor</sc>(ixf!hhi)<sc>tem</sc>(g) au(gjj)tem(ixj.h!iw!jvIG'hw!ivHG) cru(fv.ff)cis.(f_c) (,) (fg!hvGF.e!g'h//fhg/hggf.0) (::)}
 (sed hora vespera)
 v. Christus factus est pro nobis obédiens usque ad mortem, mortem autem crucis. /:sine cantu:/
-$Pater totum secreto
+!secreto
+$Pater noster
 !aliquantulum altius
 _
 &psalm(50)
