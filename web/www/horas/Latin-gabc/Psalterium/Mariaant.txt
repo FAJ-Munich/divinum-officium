@@ -16,7 +16,7 @@ v. Grátiam tuam, quǽsumus, Dómine, méntibus nostris infúnde: ut, qui, Ánge
 {gabc:Psalterium/Mariaant/an--alma_redemptoris_simple_tone--solesmes_1961.1}
 (sed feria 1 dicuntur)
 {gabc:Psalterium/Mariaant/an--alma_redemptoris--solesmes_1961.1}
-(sed rubrica monastica)
+(sed rubrica monastica et feria 1)
 {gabc:Psalterium/Mariaant/an--alma_redemptoris_monasticum--solesmes_1934}
 (atque dicuntur semper)
 _
@@ -44,7 +44,7 @@ v. Concéde, miséricors Deus, fragilitáti nostræ præsídium; ut, qui sanctæ
 {gabc:Psalterium/Mariaant/an--regina_caeli_simple_tone--solesmes.1}
 (sed feria 1 dicuntur)
 {gabc:Psalterium/Mariaant/an--regina_caeli--solesmes.1}
-(sed rubrica monastica)
+(sed rubrica monastica et feria 1)
 {gabc:Psalterium/Mariaant/an--regina_caeli_monasticum--solesmes_1934}
 (atque dicuntur semper)
 _
@@ -58,7 +58,7 @@ v. Deus, qui per resurrectiónem Fílii tui, Dómini nostri Jesu Christi, mundum
 {gabc:Psalterium/Mariaant/an--salve_regina_simple_tone--solesmes.1}
 (sed feria 1 dicuntur)
 {gabc:Psalterium/Mariaant/an--salve_regina--solesmes_1961.1}
-(sed rubrica monastica dicitur)
+(sed rubrica monastica et feria 1 dicitur)
 {gabc:Psalterium/Mariaant/an--salve_regina_monasticum--solesmes_1934}
 (atque dicuntur semper)
 _
