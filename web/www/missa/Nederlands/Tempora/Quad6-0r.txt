@@ -1,5 +1,5 @@
-[Rank]
-Dominica II Passionis seu in Palmis;;I classis Semiduplex;;6.91
+[Officium]
+Dominica II Passionis seu in Palmis
 
 [Rule]
 no Gloria
@@ -170,7 +170,7 @@ R. Amen.
 ! Rami non tenentur manibus, dum in ! Missa historia Passionis Domini cantatur ! vel legitur.
 
 [Introitus]
-!Ps 21:20 et 22
+!Ps 21:20 en 22
 v. Heer, weiger mij uw hulp toch niet. Zie toe om mij te beschermen. Bevrijd mij uit de muil van de leeuw. Red mij in mijn ellende van de hoorn des eenhoorns.
 !Ps 21:2
 O God, mijn God, zie op mij neer. Waarom hebt Gij mij verlaten? De stem van mijn zonden houdt mij ver verwijderd van mijn heil.
@@ -186,7 +186,7 @@ Lezing uit de Brief van de heilige Apostel Paulus aan de  Philippenzen
 Broeders, laat in u dezelfde gezindheid leven, die er was in Christus Jezus. Daar Hij goddelijk was van wezen, was het voor Hem niet onrechtmatig aan God gelijk te willen zijn; maar toch heeft Hij Zich zelf vernietigd, door het wezen aan te nemen van een slaaf, door gelijk te worden aan de mensen, en uiterlijk te zijn als een mens. Hij heeft Zich zelf vernederd door gehoorzaam te worden tot de dood, ja zelfs tot de dood aan het kruis, Maar daarom ook heeft God Hem hoog verheven en Hem de Naam gegeven, die iedere naam te boven gaat, (Hier knielt men.) opdat in de Naam van Jezus iedere knie zich buige, in de hemel, op de aarde of onder de aarde, en iedere tong belijde, dat Jezus Christus, de Heer, in de glorie is van God de Vader.
 
 [Graduale]
-!Ps 72:24 et 1-3
+!Ps 72:24 en 1-3
 Gij houdt mij vast aan mijn rechterhand, Gij leidt mij naar uw welbehagen en zult mij opnemen in uw glorie.
 V. Hoe goed is God voor Israël, voor hen die oprecht zijn van harte! En toch, haast wankelden mijn voeten, haast gleden mijn schreden uit. Want ik benijdde de goddelozen, toen ik de vrede dier bozen zag.
 _
@@ -229,7 +229,7 @@ $Per Dominum
 Vader, als deze kelk niet kan voorbijgaan, zonder dat Ik hem drink, laat dan uw wil geschieden.
 
 [Postcommunio]
-Moge, Heer, door de werking van dit geheim onze zonden uitgewist en onze rechtmatige verlangens worden vervuld.
+Moge, Heer, door de werking van dit geheim onze zonden uitgewist en onze rechtmatige verlangens vervuld worden.
 $Per Dominum
 
 [Munda Cor Passionis]
