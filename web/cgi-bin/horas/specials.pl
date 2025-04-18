@@ -105,14 +105,14 @@ sub specials {
       setcomment($label, 'Preces', $comment, $lang) if ($rule !~ /Omit.*? $ite mute/i);
 
       if ( $item =~ /incipit/i
-        && $version !~ /1955|196/
+        && $version !~ /Cist|1955|196/
         && $winner !~ /C12/
         && !($version =~ /cist/i && $winner =~ /C9/))
       {
         if ($hora eq 'Laudes') {
-          push(@s, '/:' . translate('Si Laudes', $lang) . ':/');
+          push(@s, '$rubrica Secreto a Laudibus');
         } else {
-          push(@s, '/:' . translate('secreto', $lang) . ':/');
+          push(@s, '$rubrica Secreto');
         }
         push(@s, '$Pater noster', '$Ave Maria');
         if ($hora =~ /^(?:Matutinum|Prima)$/) { push(@s, '$Credo'); }
