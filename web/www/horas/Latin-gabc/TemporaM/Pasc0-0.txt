@@ -1,9 +1,5 @@
 @Tempora/Pasc0-0
 
-[Rule]
-Psalmi Dominica
-Antiphonas horas
-12 lectiones
 
 [AntM Matutinum]
 Terra * trémuit et quiévit, † dum exsúrgeret in judício Deus, allelúja.;;29

@@ -1,9 +1,11 @@
 @Tempora/Pasc0-0
 
+
 [Rule]
 Psalmi Dominica
 Antiphonas horas
 12 lectiones
+(rubrica Bavariae) Minores sine Antiphona
 
 [Ant Matutinum]
 @Tempora/Pasc0-0::1
