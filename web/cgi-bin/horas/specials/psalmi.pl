@@ -217,15 +217,15 @@ sub psalmi_minor {
       setbuild2('Psalmi dominica');
     }
   } else {
-    $ant = '' if $version =~ /Monastic/;
+    $ant = '' if $version =~ /^Monastic/;
   }
 
   $comment = -1 if $hora eq 'Completorium' && $version =~ /^(?:Trident|Monastic)/;
   setcomment($label, 'Source', $comment, $lang, $prefix);
 
-  if ($w{Rule} =~ /Minores sine Antiphona/i) {
+  if ($w{Rule} =~ /Minores sine Antiphona/i || $hora eq 'Completorium' && $version =~ /^Monastic/) {
     $ant = '';
-    $psalmTone = ($version =~ /monastic/) ? 'in-dir-monasticus' : 'in-directum';
+    $psalmTone = ($version =~ /monastic/i) ? 'in-dir-monasticus' : 'in-directum';
     setbuild2('Sine antiphonae');
   }
 
