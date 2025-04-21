@@ -1,18 +1,5 @@
-[Rank]
-Dominica in Albis in Octava Paschæ;;Duplex majus I. classis;;6.91;;
-
-[Rank] (rubrica 1960)
-Dominica in Albis in Octava Paschæ;;Duplex I classis;;6;;
-
-[Rule]
-9 Lectiones
-Duplex
-Una Antiphona
-
-[Capitulum Vespera]
-!1 Joann. 5:4
-v. Caríssimi: Omne, quod natum est ex Deo, vincit mundum: et hæc est victória, quæ vincit mundum, fides nostra.
-$Deo gratias
+[Officium]
+Dominica in Albis in Octava Paschæ
 
 [Ant 1]
 {name:Cum esset sero;annotation:1.D;mode:1;book:The Liber Usualis, 1961, p. 807 & Liber antiphonarius, 1960, p. 456;transcriber:Andrew Hinkley;%%(c4) CUM(c) es(cd)set(d') se(d)ro(d') *() di(d)e(d') il(f)la(dcd) (,) u(c)na(d) sab(fd/fg'h)ba(fe)tó(d)rum,(d.) (;) et(dc~) fo(f')res(g) es(h)sent(gf~) clau(g_[uh:l]h)sae,(fv_ED.) (,) u(d)bi(d) e(dc)rant(f) di(g')scí(f)pu(gh)li(hg) con(fg)gre(hg)gá(gfg)ti,(d.) (;) ste(g)tit(g') Je(g)sus(h') in(g) mé(fg)di(f)o,(f.) (;) et(f) di(g)xit(f) e(e'_[oh:h])is :(f_) (,) Pax(gf) vo(fe)bis,(dc) al(d)le(fe)lú(d.){ia}.(d.) (::)};;1d
@@ -68,20 +55,11 @@ Sermo sancti Augustíni Epíscopi
 !Sermo 1 in Octava Paschæ, qui est 157 de Tempore
 Paschális solémnitas hodiérna festivitáte conclúditur, et ídeo hódie Neophytórum hábitus commutátur: ita tamen, ut candor, qui de hábitu depónitur, semper in corde teneátur. In qua quidem primum nobis agéndum est, ut quia pascháles dies sunt, id est, indulgéntiæ ac remissiónis, ita a nobis sanctórum diérum festívitas agátur, ut relaxatióne córporum púritas non obfuscétur: sed pótius abstinéntes ab omni luxu, ebrietáte, lascívia, demus óperam sóbriæ remissióni, ac sanctæ sinceritáti: ut, quidquid modo corporáli abstinéntia non acquírimus, méntium puritáte quærámus.
 
-[Responsory4]
-@Tempora/Pasc0-1:Responsory1
-
 [Lectio5]
 Ad omnes quidem pértinet sermo, quos cura nostra compléctitur: verúmtamen hódie termináta sacramentórum solemnitáte, vos allóquimur, novélla gérmina sanctitátis, regeneráta ex aqua et Spíritu Sancto: germen pium, exámen novéllum, flos nostri honóris, et fructus labóris, gáudium et coróna mea, omnes qui statis in Dómino. Apostólicis verbis vos álloquor: Ecce nox præcéssit, dies autem appropinquávit: abjícite ópera tenebrárum, et indúite vos arma lucis. Sicut in die honéste ambulémus: non in comessatiónibus et ebrietátibus, non in cubílibus et impudicítiis, non in contentióne et æmulatióne: sed induímini Dóminum Jesum Christum.
 
-[Responsory5]
-@Tempora/Pasc0-1:Responsory2
-
 [Lectio6]
 Habémus, inquit, certiórem prophéticum sermónem: cui bene fácitis intendéntes tamquam lucérnæ in obscúro loco, donec dies lucéscat, et lúcifer oriátur in córdibus vestris. Sint ergo lumbi vestri accíncti, et lucérnæ ardéntes in mánibus vestris: et vos símiles homínibus exspectántibus dóminum suum, quando revertátur a núptiis. Ecce dies advéniunt, in quibus Dóminus dicit: Pusíllum, inquit, et non vidébitis me, et íterum pusíllum, et vidébitis me. Hæc est hora, de qua dixit: Vos tristes éritis, sǽculum autem gaudébit: id est, vita ista tentatiónibus plena, in qua peregrinámur ab eo. Sed íterum, inquit, vidébo vos, et gaudébit cor vestrum, et gáudium vestrum nemo tollet a vobis.
-
-[Responsory6]
-@Tempora/Pasc0-2:Responsory1
 
 [Lectio7]
 Léctio sancti Evangélii secúndum Joánnem
@@ -92,27 +70,17 @@ Homilía sancti Gregórii Papæ
 !Homilia 26 in Evangelia
 Prima lectiónis hujus evangélicæ quǽstio ánimum pulsat: quómodo post resurrectiónem corpus Domínicum verum fuit, quod clausis jánuis ad discípulos íngredi pótuit? Sed sciéndum nobis est, quod divína operátio, si ratióne comprehénditur, non est admirábilis: nec fides habet méritum, cui humána rátio præbet experiméntum. Sed hæc ipsa nostri Redemptóris ópera, quæ ex semetípsis comprehéndi nequáquam possunt, ex ália ejus operatióne pensánda sunt: ut rebus mirabílibus fidem prǽbeant facta mirabilióra. Illud enim corpus Dómini intrávit ad discípulos jánuis clausis, quod vidélicet ad humános óculos per nativitátem suam clauso exívit útero Vírginis. Quid ergo mirum, si clausis jánuis post resurrectiónem suam in ætérnum jam victúrus intrávit, qui moritúrus véniens, non apérto útero Vírginis exívit?
 
-[Responsory7]
-@Tempora/Pasc0-2:Responsory2
-
 [Lectio8]
 Sed quia ad illud corpus, quod vidéri póterat, fides intuéntium dubitábat: osténdit eis prótinus manus et latus, palpándam carnem prǽbuit, quam clausis jánuis introdúxit. Qua in re duo mira, et juxta humánam ratiónem sibi valde contrária osténdit: dum post resurrectiónem suam corpus suum incorruptíbile, et tamen palpábile demonstrávit. Nam et corrúmpi necésse est quod palpátur: et palpári non potest quod non corrúmpitur. Sed miro modo atque inæstimábili Redémptor noster et incorruptíbile post resurrectiónem, et palpábile corpus exhíbuit: ut monstrándo incorruptíbile, invitáret ad prǽmium, et præbéndo palpábile, firmáret ad fidem. Et incorruptíbilem se ergo, et palpábilem demonstrávit: ut profécto esse post resurrectiónem osténderet corpus suum et ejúsdem natúræ, et altérius glóriæ.
-
-[Responsory8]
-@Tempora/Pasc0-5:Responsory1
 
 [Lectio9]
 Dixit eis: Pax vobis. Sicut misit me Pater, et ego mitto vos: id est, sicut misit me Pater Deus Deum, et ego mitto vos homo hómines. Pater Fílium misit, qui hunc pro redemptióne géneris humáni incarnári constítuit. Quem vidélicet in mundum veníre ad passiónem vóluit: sed tamen amávit Fílium, quem ad passiónem misit. Eléctos vero Apóstolos Dóminus non ad mundi gáudia, sed sicut ipse missus est, ad passiónes in mundum mittit. Quia ergo et Fílius amátur a Patre, et tamen ad passiónem míttitur: ita et discípuli a Dómino amántur, qui tamen ad passiónem mittúntur in mundum. Itaque recte dícitur: Sicut misit me Pater, et ego mitto vos: id est, ea vos caritáte díligo, cum inter scándala persecutórum mitto, qua me caritáte Pater díligit, quem veníre ad tolerándas passiónes fecit.
 &teDeum
 
 [Capitulum Laudes]
-@:Capitulum Vespera
-
-[Ant 2]
-@:Ant 1
-
-[Capitulum Tertia]
-@:Capitulum Vespera
+!1 Joann. 5:4
+v. Caríssimi: Omne, quod natum est ex Deo, vincit mundum: et hæc est victória, quæ vincit mundum, fides nostra.
+$Deo gratias
 
 [Capitulum Sexta]
 !1 Joann. 5:5-6

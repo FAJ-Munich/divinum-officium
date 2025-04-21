@@ -1,16 +1,6 @@
-[Rank]
-Sabbato in Albis;;Semiduplex I class;;6.9;;ex Pasc0-0
-
-[Rule]
-ex Pasc0-0;
-1 nocturn;
-Omit Hymnus Preces Suffragium;
-Minores sine Antiphona;
-Capitulum Versum 2;
-Psalmi Dominica;
-
-[Ant Matutinum]
-@Tempora/Pasc0-3
+[Oratio]
+Concéde, quǽsumus, omnípotens Deus: ut, qui festa paschália venerándo égimus, per hæc contíngere ad gáudia ætérna mereámur.
+$Per Dominum
 
 [Lectio1]
 Léctio sancti Evangélii secúndum Joánnem
@@ -44,8 +34,3 @@ Nec mirum esse videátur, quod per juniórem synagóga, per seniórem vero Eccl�
 
 [Ant 2]
 {name:Currebant;annotation:1.f;mode:1;book:Liber antiphonarius, 1960, p. 452;transcriber:Andrew Hinkley;%%(c4) CUr(d)ré(d)bant(dc~) du(f)o(g) si(f_h)mul,(h'_) *(,) et(h) il(h)le(j) á(h)li(g)us(h) di(gf)scí(ixg!hwi_h)pu(gh)lus(h_f) (,) prae(g)cu(g)cúr(gh)rit(g) cí(f)ti(g)us(fe) Pe(de)tro,(dc..) (;) et(c_d) ve(f)nit(fd~) pri(f!gwh)or(g.) (,) ad(g_h) mo(f)nu(f)mén(fe)tum,(dc) al(d)le(fe)lú(d.)ia.(d.) (::)};;1f
-
-[Oratio]
-Concéde, quǽsumus, omnípotens Deus: ut, qui festa paschália venerándo égimus, per hæc contíngere ad gáudia ætérna mereámur.
-$Per Dominum
-
