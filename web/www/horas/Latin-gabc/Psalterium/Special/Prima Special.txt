@@ -85,19 +85,56 @@ Qui natus est de María Vírgine.
 [Responsory Heart]
 Qui corde fundis grátiam.
  
+[Hymnus Prima]
+v. Jam lucis orto sídere,
+Deum precémur súpplices,
+Ut in diúrnis áctibus
+Nos servet a nocéntibus.
+_
+Linguam refrénans témperet,
+Ne litis horror ínsonet:
+Visum fovéndo cóntegat,
+Ne vanitátes háuriat.
+_
+Sint pura cordis íntima,
+Absístat et vecórdia;
+Carnis terat supérbiam
+Potus cibíque párcitas.
+_
+Ut, cum dies abscésserit,
+Noctémque sors redúxerit,
+Mundi per abstinéntiam
+Ipsi canámus glóriam.
+_
+* Deo Patri sit glória,
+Ejúsque soli Fílio,
+Cum Spíritu Paráclito,
+Nunc et per omne sǽculum.
+Amen.
 
-[Preces Dominicales Prima 1]
-$rLitany simplex
-(sed rubrica ^Monastic dicitur)
-$mLitany simplex
-(deinde dicitur)
-$Preces dominicales primae
-(sed rubrica ^Monastic dicitur)
-@:Preces Dominicales Prima 2
-
-[Preces Dominicales Prima 2]
-$Adjutorium nostrum
-$Confiteor
-$Misereatur
-$Indulgentiam
-$Preces dominicales secundae
+[HymnusM Prima]
+{gabc:Psalterium/Feria/hy--jam_lucis_orto_sidere_feriis_et_officiis_simplicibus_per_annum--solesmes_1934}
+(sed tonus dominicalis aut tonus festivus minor aut tonus 8vam)
+{gabc:Psalterium/Dominica/hy--jam_lucis_orto_sidere_dominicis_per_annum--solesmes_1934}
+(sed tempore adventu)
+{gabc:Psalterium/Adventu/hy--jam_lucis_orto_sidere_tempore_adventus--solesmes_1934}
+(sed tempore quadragesima)
+{gabc:Psalterium/Quadragesima/hy--jam_lucis_orto_sidere_in_quadragesima--solesmes_1934}
+(sed tempore Passionis)
+{gabc:Psalterium/Passionis/hy--jam_lucis_orto_sidere_in_tempore_passionis--solesmes_1934}
+(sed tonus festivus$)
+{gabc:Psalterium/Festis_minor/hy--jam_lucis_orto_sidere_festis_minoribus_per_annum--solesmes_1934}
+(sed tonus festivus major)
+{gabc:Psalterium/Festis_major/hy--jam_lucis_orto_sidere_festis_majoribus--solesmes_1934}
+(sed tonus solemnis)
+{gabc:Psalterium/hy--jam_lucis_orto_sidere_solemnitatibus--solesmes_1934}
+(sed tempore Nativitatis aut tempore Corpus)
+{gabc:Psalterium/Nativitate/hy--jam_lucis_orto_sidere_in_nativitate_domini--solesmes_1934}
+(sed tempore Pasc)
+{gabc:Psalterium/Pascha/hy--jam_lucis_orto_sidere_in_tempore_paschali--solesmes_1934}
+(sed tempore Ascensionis)
+{gabc:Psalterium/Pascha/hy--jam_lucis_orto_sidere_in_tempore_ascensionis--solesmes_1934}
+(sed tempore Pentecostes)
+{gabc:Psalterium/Pascha/hy--jam_lucis_orto_sidere_in_festo_pentecostes--solesmes_1934}
+(sed commune C11 aut tonus BMV) 
+{gabc:Commune/C11/hy--jam_lucis_orto_sidere_in_festis_bmv--solesmes_1934}
