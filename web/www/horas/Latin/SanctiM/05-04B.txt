@@ -1,8 +1,8 @@
 [Rank]
-S. Floriani Martyris;;Duplex majus;;4;;vide C2p
+S. Floriani Martyris;;Duplex majus;;4;;vide C2
 
 [Rule]
-vide C2p
+vide C2
 12 lectiones
 
 [Oratio]

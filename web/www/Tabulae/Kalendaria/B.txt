@@ -98,7 +98,7 @@
 05-13SS=05-13SS=In Octava Beatae Mariae Virginis Patronæ Bavariæ=4=S.Roberti Ballarmino Episcopi Confessoris et Ecclesiae Doctoris=3=
 05-01=05-01=Ss. Philippi et Jacobi Apostolorum=5=
 05-02=05-02=S. Athanasii Confessoris Ecclesiae Doctoris=3=
-05-03=05-03=Inventione Sanctae crucis=5=Ss. Martyrum=1=
+05-03=05-03~05-03r=Inventione Sanctae crucis=5=Ss. Martyrum=1=
 05-04=05-04B~05-04=S. Floriani Martyris=4=S. Monica Vidua=3=
 05-05=05-05B~05-05=S. Godehardii=4=S. Pii V Papae Confessoris=3=
 05-06=05-06=S. Joannis Apostoli ante portam Latinam=4=

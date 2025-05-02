@@ -25,7 +25,7 @@ Hinc celéuma * præcinámus, quo Patrónam salutámus: Ave, magna Dómina, alle
 R/.(::) Ut(h) dig(h)ni(h) ef(h)fi(h)ci(h)á(h)mur(h) pro(h)mis(h)si(h)ó(h)ni(h)bus(h) Chri(hi)sti,(h_) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 1]
-Descénde cælo, * fília Príncipis, pulchrósque gressus fígere Bóicis gináre terris, qua vocáris, ínclita magna Patróna regni, allelúja.;;solemn6
+{annotation:6. f;%%(cb4) De(fg/hf/ggf)scén(f')de(f) cæ(fdc)lo,(c.) *() fí(fh/jij)li(ih)a(gh) Prín(hvGF)ci(f)pis,(f.) (,) pul(g)chrós(f')que(g) gres(gh)sus(f) fí(f')ge(f)re(d_c) (,) Bó(f!gwh!io)i(h)cis(h') gi(h)ná(gf)re(gf) ter(f)ris,(f.) (:) qua(f) vo(hjjhg)cá(jkj)ris,(j.) (,) ín(jkkjij)cli(ih)ta(h.) (,) mag(j)na(ih) Pa(gh)tró(hgff)na(d_c) reg(f!gh/jh'hvGF)ni,(gf..) (;) al(gh)le(fed_c)lú(f!gh/jh'hvGFggf)ja.(f.) (::)};;solemn6
 
 [Oratio]
 Deus, qui dilécti Fílii tui Genetrícem nobis Matrem ac Regni Patrónam dare dignátus es: concéde propítius; ut sub hujus Matris tutéla ab omni hóstium defendámur incúrsu, et sine timóre in sanctitáte et justítia tibi serviámus.

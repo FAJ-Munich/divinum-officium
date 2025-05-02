@@ -14,9 +14,6 @@ Ad Mariam *  dirigámus cursum, ad hanc erigámus mentes, manus, lúmina, allel�
 Hæc de lacu * Babylónis ad tranquíllæ visiónis nos edúcat cúlmina, allelúja.;;126
 Hinc celéuma * præcinámus, quo Patrónam salutámus: Ave, magna Dómina, allelúja!;;147
 
-[Capitulum Vespera]
-@CommuneM/C10
-
 [Versum 1]
 V. Ora pro nobis, magna Patróna Baváriæ, allelúja.
 R. Ut digni efficiámur promissiónibus Christi, allelúja.
@@ -196,7 +193,7 @@ Altum thronum Salomónis, * fulgens vas devotiónis, claram vallem visiónis ben
 Laudent Matrem veri Dei * cuncta, quæ subsístunt ei, cælum, terra, lux déi et supérna cúria, allelúja.
 
 [Capitulum Laudes]
-@CommuneM/C10:Capitulum Vespera
+@CommuneM/C10
 
 [Hymnus Laudes]
 In supréma jerarchía
