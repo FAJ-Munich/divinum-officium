@@ -1,4 +1,13 @@
 
+[Hymnus Vespera]
+!Prima stropha sequentis hymni dicitur flexis genibus.
+{gabc:Commune/C11/hy--ave_maris_stella--solesmes_1934}
+(sed tonus festivus)
+{gabc:Commune/C11/hy--ave_maris_stella_another_chant--solesmes_1961.1}
+(sed tonus in solemnitatibus)
+{gabc:Commune/C11/hy--ave_maris_stella_in_solemnitatibus--solesmes_1934}
+
+
 [Versum 0]
 {initial-style:0;%%(c3) V/. O(h)ra(h) pro(h) no(h)bis(h) san(h)cta(h) De(h)i(h) Gé(h)ne(h)trix.(f.) (::)}
 {initial-style:0;%%(c3) R/. Ut(h) dig(h)ni(h) ef(h)fi(h)ci(h)á(h)mur(h) pro(h)mis(h)si(h)ó(h)ni(h)bus(h) Chris(h)ti.(f.) (::)}

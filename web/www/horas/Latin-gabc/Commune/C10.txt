@@ -17,15 +17,6 @@ Antiphonas horas
 v. Ab inítio et ante sǽcula creáta sum, et usque ad futúrum sǽculum non désinam, et in habitatióne sancta coram ipso ministrávi.
 $Deo gratias.
 
-[Hymnus Vespera]
-!Prima stropha sequentis hymni dicitur flexis genibus.
-{gabc:Commune/C11/hy--ave_maris_stella--solesmes_1934}
-(sed tonus festivus)
-{gabc:Commune/C11/hy--ave_maris_stella_another_chant--solesmes_1961.1}
-(sed tonus in solemnitatibus)
-{gabc:Commune/C11/hy--ave_maris_stella_in_solemnitatibus--solesmes_1934}
-
-
 [Versum 1]
 @Commune/C6:Versum 2
 

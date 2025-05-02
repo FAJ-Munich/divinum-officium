@@ -1,0 +1,21 @@
+[Ant 1]
+Ego sum pastor óvium: * ego sum via, véritas, et vita: ego sum pastor bonus, et cognósco oves meas, et cognóscunt me meæ, allelúja, allelúja.
+(sed rubrica monastica)
+{name:Ego sum pastor ovium;annotation:8 g2.;mode:8;book:Antiphonale Monasticum, 1934, p. 481;transcriber:Jakub Jelínek;commentary:Cf. Io. 10, 2.14; Io. 14, 6;%%(c4)E(f)go(fg) sum(ggf~) *() pas(h)tor(j) ó(i_j_H'_1G)vi(fg)um:(g.) (;) e(gj)go(ji) sum(jkj'jvIH') vi(h)a,(hji) et(hg~) vé(h_i)ri(hg)tas:(ghg.) (:) e(f)go(fg) sum(g_f~) pas(gh)tor(gh) bo(f.)nus,(f.) (;) et(f) co(hj~)gnós(ji)co(g') me(h)as,(ghg.___) (,) et(f) co(g>)gnós(hg)cunt(f') me(f) me(ev_DC)æ,(c.) (;) al(c)le(d)lú(e')ia,(f) al(gh)le(h)lú(g.)ia.(g.) (::)};;8G
+(sed rubrica cisterciensis)
+@:Ant 1C
+
+[Ant 1C]
+Hæc autem scripta sunt, * ut credátis quia Jesus est Christus Fílius Dei, et ut credéntes vitam habeátis in nómine ipsíus, allelúja.
+
+[Ant 2] (rubrica cisterciensis)
+Ego sum * pastor bonus, qui pasco oves meas, et pro óvibus meis pono ánimam meam, allelúia.
+
+[Ant 3]
+Ego sum pastor bonus, * qui pasco oves meas, et pro óvibus meis pono ánimam meam, allelúja.
+(sed rubrica monastica)
+{name:Ego sum pastor bonus;annotation:;mode:3a;book:Antiphonale Monasticum, 1934, p. 483;transcriber:Jakub Jelínek;commentary:Cf. Io. 10, 14;%%(c4) E(g)go(hi) sum(i'_) *() pas(j)tor(hj~) bo(ji)nus,(g'_) (,) qui(g) pas(g)co(hi) o(h)ves(gf) me(e!fwg)as,(g.) (;) et(g) pro(g) ó(i_j)vi(h)bus(j) me(i_h)is(g'_) (,) po(h)no(g') á(f)ni(g)mam(gf~) me(e)am,(e_f) al(g)le(gf)lú(e.)ia.(e.) (::)};;3-antiquo-a
+
+
+[Ant 3] (rubrica cisterciensis)
+Ego sum * pastor óvium: ego sum via, véritas, et vita: ego sum pastor bonus, et cognósco oves meas, et cognóscunt me meæ, allelúja, allelúja.
