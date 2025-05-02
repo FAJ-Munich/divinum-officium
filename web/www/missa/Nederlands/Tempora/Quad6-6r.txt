@@ -7,98 +7,95 @@ Prefatio=Pasch;
 
 [Prelude]
 !!Benedictio ignis
-! Hora competenti tobaleis cooperiuntur ! altaria, sed candelæ exstinctæ manent usque ! ad principium Missæ. Interim excutitur ! ignis de lapide, et ex eo accenduntur carbones.
-
-! Celebrans induitur amictu, alba, cingulo, ! stola et pluviali violacei coloris; ministri ! sacri amictu, alba, cingulo, diaconus ! stola et dalmatica, subdiaconus tunicella, ! eiusdem coloris.
-
-! (Sacerdos induitur amictu, alba, cingulo, ! stola et pluviali violaceo, vel manet sine ! casula.)
-
-! Adstantibus ministris, seu ministrantibus ! cum cruce, aqua benedicta et incenso, ! sive ante portam, sive in aditu ecclesiæ, vel ! intus eam, ubi scilicet populus ritum sacrum ! melius sequi possit, celebrans benedicit ! novum ignem, dicens:
+! Het altaar staat gedekt met dwalen, doch de kaarsen branden niet vóór het begin der mis. Buiten de kerk wordt vuur uit een steen geslagen en worden kolen ontstoken.
+! De celebrant draagt amict, albe, singel, stola en een paarse koorkap; de gewijde misdienaar draagt amict, albe en singel, de diaken stola en dalmatiek, en de subdiaken een tuniek, alles in dezelfde kleur.
+! (De celebrant draagt amict, albe, singel, stola en een paarse koorkap.)
+! In aanwezigheid van de (mis)dienaren met het kruis wordt het water en de wierook gezegend, hetzij voor de deur, hetzij bij de ingang van de kerk, hetzij daarbinnen, dat wil zeggen waar de mensen de heilige ritus beter kunnen volgen. De celebrant zegent het nieuwe vuur en zegt:
 &DominusVobiscum
 v. Laat ons bidden.
 God, Gij hebt door uw Zoon, de hoeksteen, uw gelovigen het vuur van uw luister geschonken. Heilig + dit nieuwe vuur, dat uit de steen is geslagen en ons tot gebruik zal dienen, en schenk ons de genade dat dit Paasfeest in ons zulke hemelse verlangens ontsteke, dat wij met een zuiver hart tot de feesten van uw eeuwige luister mogen geraken. Door dezelfde Christus, onze Heer.
 R. Amen.
 
-! Deinde ignem ter aspergit, nihil dicens.
+! Daarna besprenkelt hij in stilte drie keer het vuur.
 
-! Acolythus, seu unus ministrantium, ! assumens de carbonibus benedictis, ponit ! in thuribulo; celebrans vero ponit incensum ! in thuribulo, benedicens illud more ! solito, ignemque ter adolet incenso.
+! De misdienaar of een van de dienaren neemt een aantal gezegende kolen en legt ze in het wierookvat; de celebrant doet wierook in het wierookvat, zegent het op de gebruikelijke wijze, en bewierookt het vuur drie keer.
 _
 _
 !! De benedictione cerei Paschalis
-! Novo igne benedicto, acolythus, seu ! unus ministrantium, portat cereum paschalem ! in medium, ante celebrantem, qui cum ! stilo, inter extrema foramina ad insertionem ! granorum incensi destinata, incidit ! crucem. Deinde facit super earn litteram ! græcam Alpha, subtus vero litteram Omega, ! et inter bracchia crucis quatuor numeros ! exprimentes annum currentem, interim ! dicens:
-r. Christus, gisteren en heden, (incidit hastam erectam)
-r. Begin en Einde, (incidit hastam transversam)
-r. Alpha (incidit supra hastam erectam litteram &Alpha;)
-r. en Omega. (incidit subtus hastam erectam litteram &Omega;)
-r. Hem behoort de tijd (incidit primum numerum anni currentis in angulo sinistro superiore crucis)
-r. en de eeuwigheid. (incidit secundum numerum anni currentis in angulo dextro superiore crucis)
-r. Hem zij eer en heerschappij (incidit tertium numerum anni currentis in angulo sinistro inferiore crucis)
-r. door alle eeuwen der eeuwen. Amen. (incidit quartum numerum anni currentis in angulo dextro inferiore crucis)
+! Als het nieuwe vuur is gezegend, draagt ​​de misdienaar of een van de dienaren de paaskaars voor de celebrant uit naar het midden. De celebrant snijdt met een stift een kruis (1,2) tussen de buitenste gaatjes die bestemd zijn voor het inbrengen van wierookkorrels. Dan graveert hij erboven de Griekse letter Alfa (3), eronder de letter Omega (4) en tussen de armen van het kruis vier getallen die het huidige jaar aangeven (5,6,7,8), terwijl hij ondertussen zegt:
+r. Christus, gisteren en heden, (1. de staande balk)
+r. Begin en Einde, (2. de dwarsbalk)
+r. Alpha (3. boven de staande balk de letter &Alpha;)
+r. en Omega. (4. onder de staande balk de letter &Omega;)
+r. Hem behoort de tijd (5. in de linker bovenhoek van het kruis)
+r. en de eeuwigheid. (6. in de rechter bovenhoek van het kruis)
+r. Hem zij eer en heerschappij (7. in de linker onderhoek van het kruis)
+r. door alle eeuwen der eeuwen. Amen. (8. in de rechter onderhoek van het kruis)
 _
-! Incisione crucis et aliorum signorum, ! quæ coloribus vel alio modo antea præparari ! possunt, peracta, diaconus, seu alius ! ministranttiun, præbet celebranti grana incensi, ! quæ idem celebrans, si non sunt benedicta ! ter aspergit et ter adolet incenso, ! nihil dicens. Deinde infigit quinque grana ! in foramina, interim dicens:
+! Nadat het graveren van het kruis en de andere tekens, wat vooraf met kleuren of op een andere wijze kan worden voorbereid, is voltooid, biedt de diaken of een andere dienaar de celebrant vijf wierookkorrels aan, die de celebrant in stilte driemaal besprenkelt en bewierookt. Vervolgens bevestigt hij de vijf wierookkorrels in de gaten, terwijl hij zegt:
 r. Door zijn heilige wonden,
 r. de verheerlijkte,
 r. bewake
 r. en beware ons
 r. Christus, de Heer. Amen.
 _
-! Tum diaconus, seu unus ministrantium, ! porrigit celebranti parvam candelam, ! de novo igne accensam, qua cereum accendit, ! dicens:
+! Vervolgens overhandigt de diaken of een van de dienaren de celebrant een klein kaarsje, aangestoken met het nieuwe vuur. Hij steekt de kaars aan en zegt:
 v. Het licht van Christus' glorievolle verrijzenis
 Verdrijve uit hart en geest iedere duisternis.
-! Mox, celebrans benedicit cereum accensum, dicens:
+! Vervolgens zegent de celebrant de brandende kaars en zegt:
 &DominusVobiscum
 v. Laat ons bidden.
 Wij vragen U, almachtige God, stort over deze ontstoken kaars uw zegen + in overvloed uit, en, onzichtbare Herschepper, sla acht op het licht van deze nacht, opdat niet alleen het offer, dat deze nacht wordt opgedragen, in de geheimnisvolle straling van uw licht schittere, maar dat ook op iedere plaats, waarheen iets van deze geheimnisvolle gewijde kaars wordt gebracht, de boosheid en de listen van de duivel worden uitgebannen en de kracht van uw Majesteit ons tot steun zij. Door Christus, onze Heer.
 R. Amen.
 _
-! Interim luminaria ecclesiæ exstinguuntur.
+! Ondertussen gaan de lichten in de kerk uit.
 _
 _
 !! De solemni processione
-! Tum celebrans iterum ponit incensum ! in thuribulo; postea diaconus, depositis ! paramentis violaceis, et indutus stola ! et dalmatica albi coloris, accipit cereum ! paschalem accensum, et ordinatur processio: ! præcedit thuriferarius, sequitur subdiaconus ! cum cruce, diaconus cum cereo accenso, ! post eum statim celebrans, deinde ! clerus per ordinem, et populus.
+! Vervolgens doet de celebrant opnieuw wierook in het wierookvat. Hierna legt de diaken zijn paarse gewaden af ​​en trekt een witte stola en dalmatiek aan. Hij ontvangt de brandende paaskaars en start de processie: het wierookvat gaat voorop, gevolgd door de subdiaken met het kruis, de diaken met de brandende kaars, onmiddellijk na hem de celebrant, dan de orde der geestelijken en het volk.
 
-! (Tum sacerdos, depositis paramentis ! violaceis, et indutus stola et dalmatica albi ! coloris, iterum ponit incensum in thuribulo; ! postea accipit cereum paschalem accensum, ! et ordinatur processio: precedit thuriferarius, ! sequitur crucifer, post eum statim sacerdos ! cum cereo accenso, deinde ceteri ministrantes, ! et populus.)
+! (Vervolgens legt de priester zijn purperen gewaden af, trekt een wit gewaad en een dalmatiek aan en doet opnieuw wierook in het wierookvat; Daarna ontvangt hij de brandende paaskaars en start de processie: het wierookvat gaat voorop, het kruis volgt, onmiddellijk daarachter de priester met de brandende kaars, dan de andere dienaren en het volk.)
 
-! Cum diaconus ingressus est ecclesiam, ! stans, cantat solus:
+! In de kerk aangekomen heft de diaken de gewijde paaskaars omhoog en zingt staande:
 V. Licht van Christus.
-! cui omnes alii, prater subdiaconum et thuriferarium, ! genuflectentes versus cereum benedictum, ! respondent:
+!  Hierop knielen alle anderen, behalve de kruisdrager en de wieroker, voor de gezegende kaars en antwoorden:
 R. God zij dank.
-! Celebrans vero de cereo benedicto propriam ! candelam accendit.
+! Vervolgens ontsteekt de celebrant zijn eigen kaars aan de gewijde paaskaars.
 
-! Procedens ad medium ecclesiæ, ibi eodem ! modo diaconus altius cantat
+! De diaken gaat tot midden in de kerk, en zingt op dezelfde wijze als boven, maar nu een toon hoger:
 V. Licht van Christus.
-! cui omnes, ut supra, genuflectentes, ! respondent:
+! Waarop allen, zoals hierboven, knielend antwoorden:
 R. God zij dank.
-! Et de cereo benedicto accenduntur candelæ cleri.
+! Hierna worden de kaarsen der geestelijkheid aan de gewijde kaars ontstoken.
 
-! Tertio procedens ante altare, in medio ! chori, rursum adhuc altius cantat:
+! De diaken gaat in de richting van het altaar, en midden in het koor zingt hij voor de derde maal, opnieuw een toon hoger:
 V. Licht van Christus.
-! cui tertio omnes, ut supra, genuflectentes, respondent:
+! Waarop allen, zoals hierboven, voor de derde maal knielend antwoorden:
 R. God zij dank.
-! Et accenduntur candelæ: populi de cereo benedicto, et luminaria ecclesiæ.
+! Nu worden de kaarsen der gelovigen met het vuur van de paaskaars ontstoken en gaan de kerklichten aan.
 
-! (Cum sacerdos ingressus est ecclesiam, ! stans, cantat solus: Lumen Christi, cui omnes ! alii, prater cruciferum et thuriferarium, genuflectentes ! versus cereum benedictum, respondent: ! Deo grátias. Tunc unus ex ministrantibus ! de cereo benedicto candelam pro ! sacerdote accendit.
-! Procedens ad medium ecclesiæ, ibi eodem ! modo sacerdos altius cantat: Lumen Christi, ! cui omnes, ut supra, genuflectentes, respondent: ! Deo grátias. Et de cereo benedicto ! accenduntur candelæ ministrantium.
-! Tertio procedens ante altare, in medio ! chori, rursum adhuc altius cantat: Lumen ! Christi, cui tertio omnes, ut supra genuflectentes, ! respondent: Deo grátias. Et accenduntur ! candelæ populi de cereo benedicto, et ! luminaria ecclesiæ.)
+! (Wanneer de priester de kerk is binnengekomen, zingt hij staande: Licht van Christus. Hierop knielen alle anderen, behalve de kruisdrager en de wieroker, voor de gezegende kaars en antwoorden: God zij dank. Dan steekt een van de dienaren aan de gewijde kaars een kaars aan voor de priester.
+! Vervolgens gaat de priester naar het midden van de kerk en zingt op dezelfde wijze als boven, maar nu een toon hoger: Licht van Christus, waarop allen, zoals hierboven, knielend antwoorden: God zij dank. Hierna worden de kaarsen der dienaren aan de gewijde kaars aangestoken.
+! Tenslotte, terwijl hij voor het altaar staat, in het midden van het koor, zingt hij voor de derde keer en weer een toon hoger: Licht van Christus, waarop allen, knielend zoals hierboven, voor de derde keer antwoorden: God zij dank. Nu worden de kaarsen der gelovigen met het vuur van de paaskaars ontstoken en gaan de kerklichten aan.)
 _
 _
 !! De præconio paschali
-! Tunc celebrans vadit ad locum suum ! in choro, in latere Epistolæ; subdiaconus ! cum cruce stat in latere Evangelii, contra ! legile; clerus locum suum occupat in ! scamnis.
-! Diaconus deponit cereum paschalem in ! medio chori, supra parvum sustentaculum, ! et, postquam celebrans posuerit incensum ! in thuribulo, accipiens librum, petit benedictionem, ! dicens:
+! Vervolgens gaat de celebrant naar zijn plaats in het koor, aan de Epistelkant; De subdiaken staat met het kruis aan de Evangeliekant, tegenover de lezenaar; de geestelijken nemen plaats in de kerkbanken.
+! De diaken plaatst de paaskaars in het midden van het koor op een kleine verhoging en, nadat de celebrant wierook in het wierookvat heeft gedaan, neemt hij het boek en vraagt de zegen aan de celebrant:
 Wil, Heer, uw zegen schenken.
-! Et celebrans subiungit:
+! En de celebrant zegent hem aldus:
 De Heer zij in uw hart en op uw lippen, opdat gij waardig en passend zijn Paasboodschap moogt verkondigen. In de naam van de Vader en de Zoon + en de Heilige Geest.
-! Et diaconus respondet:
+! De diaken antwoordt:
 Amen.
 _`
-! (Sacerdos deponit cereum paschalem ! in medio chori, supra parvum sustentaculum, ! seque recipit ad abacum; crucifer stat in latere ! Evangelii, contra legile; ceteri ministrantes ! disponuntur hinc et inde.
-! Sacerdos vero, postquam posuerit incensum ! in thuribulo, accepto libro, dicit: ! Iube, Dómine, benedícere. - Dóminus ! sit in corde meo, et in lábiis meis: ut digne ! et competénter annúntiem suum paschále ! præcónium. Amen.)
+! (De priester plaatst de paaskaars in het midden van het koor op een kleine verhoging en keert terug naar het altaar; het kruisbeeld staat aan de kant van het Evangelie, tegenover de lezenaar. De andere dienaren gaan elders staan.
+! De priester doet wierook in het wierookvat, pakt het boek en zegt: Geef mij, Heer uw zegen. - Moge de Heer in mijn hart en op mijn lippen zijn, zodat ik waardig en passend zijn Paasboodschap kan verkondigen. Amen.)
 
-! Postea diaconus vadit ad legile, strato ! albo coopertum, et ponit super eo librum, ! et incensat; deinde, circumiens cereum paschalem, ! etiam illum thurificat.
-! Tunc surgentibus omnibus, et stantibus, ! ut fit ad Evangelium, diaconus cantat præconium ! paschale, habens ante se cereum ! paschalem, a dextris altare, a sinistris aulam ! ecclesiæ. Dum canitur præconium paschale, ! convenit, ut clerus et populus candelas ! accensas gestent.
+!Daarna gaat de diaken naar de lezenaar, bedekt met een wit laken, legt het boek erop en bewierookt het; daarna gaat hij rond de paaskaars en bewierookt ook deze.
+! Vervolgens zingt de diaken de paasverkondiging, waarbij iedereen staat zoals bij het Evangelie. Hij heeft de paaskaars vóór zich, het altaar rechts en de kerkzaal links. Terwijl de paasverkondiging wordt gezongen, is het passend dat de geestelijken en het volk brandende kaarsen dragen.
 
-! (Postea sacerdos vadit ad legile, strato ! albo coopertum, et ponit super eo librum, et ! incensat; deinde, circumiens cereum paschalem, ! etiam illum thurificat.
-! Tunc surgentibus omnibus, et stantibus, ut ! fit ad Evangelium, ipse sacerdos cantat vel ! legit præconium paschale, habens ante se cereum ! paschalem, a dextris altare, a sinistris ! aulam ecclesiæ. Dum canitur præconium paschale, ! convenit, ut clerus et populus candelas ! accensas gestent.)
+! (Daarna gaat de priester naar de lezenaar, bedekt met een wit laken, legt het boek erop en bewierookt het; daarna gaat hij rond de paaskaars en bewierookt ook deze.
+! Vervolgens zingt of leest de priester zelf de paasverkondiging, waarbij iedereen staat zoals bij het Evangelie. Hij heeft de paaskaars vóór zich, het altaar rechts en de kerkzaal links. Terwijl de Paasverkondiging wordt gezongen, is het passend dat de geestelijken en het volk brandende kaarsen dragen.)
 
 v. Laat nu de hemelse engelenscharen juichen. Laat de goddelijke geheimen in luide jubel weerklank vinden. Laat bij de overwinning van zulk een Koning de heilstrompet schallen. Dat ook de aarde, door zulk een licht overstraald, zich verheuge, en dat zij in het licht van de glans van de eeuwige Koning zich bewust worde, dat van de gehele aarde de duisternis geweken is. Dat ook onze Moeder, de heilige Kerk, vol vreugde zij, nu zij getooid is met de stralen van zulk een licht, en dit gebouw dreune van de machtige stemmen der scharen. Daarom, dierbare broeders, die hier aanwezig zijt in de wondere helderheid van dit heilige licht, roept samen met mij, bid ik u, de goedertierenheid van de almachtige God af. Opdat Hij, die zich gewaardigd heeft mij, zonder enige verdienste van mijn kant, onder het getal der Levieten op te nemen, over mij de klaarheid van zijn licht uitstorte en de lofzang op deze kaars volmaakt laat zingen. Door onze Heer Jezus Christus, zijn Zoon, die met Hem leeft en heerst in eenheid met de Heilige Geest, God, door alle eeuwen der eeuwen.
 R. Amen.
@@ -117,20 +114,20 @@ R. Amen.
 _
 _
 !! De lectionibus
-! Post præconium paschale, diaconus, ! depositis paramentis albis, assumit violacea, ! et vadit ad celebrantem.
+! Na de paasverkondiging legt de diaken zijn witte gewaad af, trekt het paarse gewaad aan en gaat naar de celebrant.
 
-! (Post præconium paschale, sacerdos ! deponit dalmaticam et stolam albi coloris, ! et, indutus iterum stola et pluviali violaceis, ! redit ad legile.)
+! (Na de paasverkondiging legt de priester zijn dalmatiek en zijn witte gewaad af, waarna hij, met het paarse gewaad en de mantel weer aan, terugkeert naar de lezenaar.)
 
-! Postea leguntur lectiones, sine titulo, ! nec in earum fine respondetur Deo gratias. ! Leguntur vero a lectore, in medio chori, ! ante cereum benedictum, ita quidem ut ! lector habeat a dextris altare, a sinistris ! aulam ecclesiæ. Celebrans et ministri, clerus ! et populus, sedentes auscultant.
+! Daarna worden de lessen voorgelezen, zonder titel, en aan het eind is er geen antwoord: "God zij dank." Ze worden door de lector gelezen in het midden van het koor, voor een gewijde kaars, zodat de lector het altaar aan zijn rechterhand heeft en de kerkzaal aan zijn linkerhand. De celebrant en de dienaren, de geestelijken en het volk zitten en luisteren.
 
-! (Postea leguntur lectiones, sine titulo, ! nec in earum fine respondetur Deo gratias. ! Leguntur vero a sacerdote, in medio chori, ! ante cereum benedictum, ita quidem ut sacerdos ! habeat a dextris altare, a sinistris ! aulam ecclesiæ. Ministrantes et populus sedentes ! auscultant.
-! Si vero adsit clericus lector, omnia peraguntur, ! ut supra.)
+! (Daarna worden de lessen voorgelezen, zonder titel, en aan het eind is er geen antwoord: "God zij dank." Ze worden door de priester gelezen in het midden van het koor, voor een gewijde kaars, zodat de priester het altaar aan zijn rechterhand heeft en de kerkzaal aan zijn linkerhand. De dienaren en het volk zitten en luisteren.
+! Indien de lezer echter een geestelijke is, verloopt alles zoals hierboven beschreven.)
 
-! In fine lectionis, vel post canticum, ! dicuntur orationes hoc modo: omnes surgunt; ! celebrans dicit Orémus, diaconus ! Flectámus genua, et omnes, una cum ipso ! celebrante, flexis genibus, per aliquod temporis ! spatium in silentio orant; dicto a diacono ! Leváte, omnes surgunt, et celebrans ! dicit orationem, in tono feriali, et iunctis ! manibus.
+! Aan het einde van de les, of na het lied, worden de gebeden als volgt uitgesproken: Allen staan ​​op. De celebrant zegt: "Laten we bidden." De diaken zegt: "Buigen wij de knieën." En allen, samen met de celebrant zelf, knielen neer en bidden ze een tijdje in stilte. Wanneer de diaken zegt: "Staat op", staan ​​allen op en de celebrant bidt het gebed met gevouwen handen.
 
-! (In fine lectionis, vel post canticum, ! dicuntur orationes hoc modo: omnes surgunt; ! sacerdos, stans ante legile, dicit: Orémus. ! Flectámus genua, et omnes, una cum ipso sacerdote, ! flexis genibus, per aliquod temporis ! spatium in silentio orant; dicto a sacerdote ! Leváte, omnes surgunt, et ipse dicit orationem, ! in tono feriali, et iunctis manibus.)
+! (Aan het einde van de les, of na het lied, worden de gebeden als volgt uitgesproken: Allen staan ​​op. De priester, staand voor de lessenaar, zegt: "Laten we bidden. Buigen wij de knieën." En allen, samen met de priester zelf, knielen neer en bidden een tijdje in stilte. Wanneer de priester zegt "Staat op", staan allen op en bidt hij zelf het gebed met gevouwen handen.)
 
-! Leguntur vero quatuor sequentes lectiones, ! cum suis canticis, et orationibus.
+! De volgende vier lessen worden gelezen, met de bijbehorende lofzangen en gebeden.
 
 ! Lectio prima
 !Gen. 1:1-31; 2:1-2
@@ -197,9 +194,9 @@ $Per Dominum
 _
 _
 !! De prima parte Litaniarum
-! His expletis, a duobus cantoribus, in medio chori genuflexis, cantantur ! Litaniæ Sanctorum (quin tamen duplicentur) usque ad invocationem ! Propitius esto, omnibus genuflexis et respondentibus.
+! Wanneer deze voltooid zijn, wordt de Litanie van de Heiligen (waarbij de eerste aanroepen zijn verdubbeld) tot aan de aanroeping Propitis esto gezongen door twee zangers, die knielen in het midden van het koor,  waarbij iedereen knielt en antwoordt.
 
-! (His expletis, a duobus cantoribus, seu, his deficientibus, ab ipso ! sacerdote, genuflexo in infimo gradu altaris, a latere Epistolæ, ! cantantur Litaniæ Sanctorum (quin tamen duplicentur) usque ad ! invocationem Propitius esto, omnibus genuflexis et respondentibus.)
+! (Wanneer deze voltooid zijn, wordt de Litanie van de Heiligen (waarbij de eerste aanroepen zijn verdubbeld) tot aan de aanroeping Propitius esto door de twee zangers gezongen, of, indien dit niet lukt, door de priester zelf, die knielt op de onderste trede van het altaar aan de Epistelkant, waarbij iedereen knielt en antwoordt.)
 V. Heer, ontferm U over ons.
 R. Heer, ontferm U over ons.
 V. Christus, ontferm U over ons.
@@ -254,17 +251,17 @@ V. Heilige Agatha, R. bid voor ons.
 V. Heilige Anastasia, R. bid voor ons.
 V. Alle heilige Maagden en Weduwen, R. bidt voor ons.
 V. Alle heiligen van God, R. spreek voor ons ten beste.
-! Postea, si ecclesia habet fontem baptismalem, ritus prosequitur ut ! infra.
+! Als de kerk over een doopvont beschikt, gaat het ritueel als volgt verder.
 _
 _
 !! De benedictione aquæ baptismalis
-! Dum cantantur Litaniæ Sanctorum, vas aquæ baptismalis benedicendæ, et ! cetera omnia quæ ad benedictionem requiruntur, præparantur in medio ! chori, versus latus Epistolæ, in conspectu fidelium. Vas aquæ ! benedicendæ convenienter ornari decet.
+! Tijdens het zingen van de litanie wordt midden in het koor, voor de paaskaars en ten aanschouwe van de gelovigen, een vat met het te wijden doopwater neergezet met alle benodigdheden.
 
-! In benedicenda aqua baptismali celebrans, stans coram populo, ante ! se habeat vas aquæ baptismalis benedicendæ, a dextris cereum ! benedictum, a sinistris alium subdiaconum, vel clericum, seu ! ministrantem, stantem cum cruce.  Celebrans, iunctis manibus, in tono ! feriali dicit:
+! De celebrant doet deze wijding, naar het volk gekeerd, met vóór hem het doopwater en het volk, rechts de gewijde kaars, links een geestelijke of dienaar met het kruis. De celebrant zegt met gevouwen handen:
 &DominusVobiscum
 v. Laat ons bidden.
 Almachtige, eeuwige God, laat uw aanwezigheid voelen bij de geheimen van uw grote liefde. Wees tegenwoordig bij uw Sacramenten en zend uw geest van aanneming uit, om nieuwe mensen te herscheppen, die de doopvont U baart, opdat, wat wij in onze onbetekenende bediening gaan verrichten, door uw kracht tot volle uitwerking mag komen. Door onze Heer Jezus Christus, uw Zoon: die met U leeft en heerst in de eenheid van de Heilige Geest, God: 
-! Elevans vocem in modum præfationis, prosequitur iunctis manibus:
+! Dan zingt de celebrant op prefatietoon en vervolgt met gevouwen handen:
 v. Door alle eeuwen der eeuwen.
 R. Amen.
 V. De Heer zij met u.
@@ -275,99 +272,101 @@ V. Laten wij de Heer onze God danken.
 R. Dat is passend en rechtvaardig.
 v. Waarlijk passend en rechtvaardig is het, billijk en heilzaam, dat wij U altijd en overal danken, Heilige Geest, almachtige Vader, eeuwige God, die op wonderbare wijze met onzichtbare macht uw Sacramenten uitwerking verzekert. En al zijn wij onwaardig zulke verheven geheimen te voltrekken, laat ons uw genadegaven niet ontbreken en leen ook vol liefde het oor aan onze beden. God, uw geest zweefde over de wateren bij het begin van de wereld, opdat toen al het water heiligende kracht zou ontvangen. God, Gij hebt een beeld van wedergeboorte gegeven in de stroom van de zondvloed, toen Gij de misslagen van de schuldige wereld door het water hebt weggewassen, opdat het geheim van een en hetzelfde element het einde zou betekenen van de zondigheid en het begin der deugd. Sla acht, Heer, op het aanschijn van uw Kerk en vermeerder in haar het getal van hen, die in U herboren zijn, Gij, die door de  machtige stroom van uw genade uw stad verblijdt, en om volkeren te vernieuwen de bron van het Doopsel over de gehele wereld openstelt, opdat zij op uw machtig bevel de genade van uw enige Zoon ontvange uit de Heilige Geest.
 
-! Hic celebrans in modum crucis aquam dividit manu extensa, ! quam statim linteo extergit, dicens:
+! De celebrant verdeelt met uitgestrekte hand het water in kruisvorm, en vervolgt:
 
 v. Dat de Heilige Geest dit water, dat voor de wedergeboorte van de mens bereid is, door de geheimvolle mededeling van zijn goddelijke kracht vruchtbaar make, opdat een hemels kroost, in heiligheid ontvangen, uit de onbevlekte schoot van de goddelijke bron, herboren tot een nieuw leven, te voorschijn trede, en de genade als een moeder opnieuw het leven schenke aan allen, van welk geslacht of leeftijd ook. Verre van hier wijke op uw bevel, o Heer, iedere onreine geest. Verre van hier iedere boze duivelse list. Verre van hier iedere vijandelijke macht, die vol hinderlagen kuipt, bij verrassing binnensluipt, met zijn besmetting verderf zaait.
 
-! Aquam manu tangit.
+! Hij raakt het water met de hand aan.
 
 v. Moge dit heilig en onschuldig schepsel vrij blijven van iedere vijandige aanval en zuiver zijn door de afwezigheid van iedere ongerechtigheid. Moge het een levengevende bron zijn, herscheppend water, een zuiverende vloed, opdat allen, die zich in dit heilzaam bad gaan wassen, door de werking van de Heilige Geest in hen de genade van een volkomen zuivering mogen verwerven.
 
-! Facit crucem super aquam, dicens:
+! Hij maakt drie keer het kruisteken over het water, en vervolgt:
 
 v. Daarom zegen ik u, schepsel water, door de levende + God, de waarachtige + God, de heilige + God, door God, die u in het begin door zijn woord van het droge heeft gescheiden, wiens geest over u zweefde.
 
-! Hic manu aquam dividit, et effundit eam versus quatuor mundi partes, dicens:
+! Hij verdeelt het water met de hand en sprenkelt het naar de vier windstreken terwijl hij zegt:
 
 v. Die u uit de paradijsbron liet stromen en u bevel gaf in vier stromen de gehele aarde te besproeien. Die u, toen ge bitter waart in de woestijn, zoet en drinkbaar maakte en voor het dorstige volk uit de rots deed ontspringen. Ik zegen u + ook door Jezus Christus, zijn enige Zoon, onze Heer, die u te Cana in Galilea door een wonderteken van zijn macht in wijn veranderde. Die over u gewandeld heeft en door Johannes in de Jordaan met u gedoopt werd. Die u tezamen met bloed uit zijn zijde heeft laten vloeien, en zijn leerlingen bevel heeft gegeven de gelovigen met u te dopen, toen Hij zei: Gaat, onderwijst alle volkeren, en doopt hen in de naam van de Vader, de Zoon en de Heilige Geest.
 
-! Mutat vocem, et prosequitur recto tono:
+! Hij vervolgt op reciteertoon:
 
 Sta ons, nu wij dat gebod onderhouden, almachtige God, genadig bij, en zend genadig over ons uit de adem van uw geest.
 
-! Halat ter in aquam in modum crucis, dicens:
+! Hij blaast drie keer op het water in de vorm van een kruis, en zegt:
 
 v. Zegen met uw adem dit zuivere water, opdat het, behalve de natuurlijke uitwerking, dat het het lichaam van hen, die er zich in wassen, kan reinigen, ook zijn uitwerking doe gevoelen in de zuivering van de harten.
 
-! Hic celebrans paululum demittit cereum in aquam: et resumens tonum præfationis, dicit:
+! De celebrant laat de kaars een stukje in het water zakken en vervolgt met te zeggen:
 
 v. Dat de kracht van de Heilige Geest neerdale in deze rijkgevulde bron.
 
-! Deinde extractum cereum de aqua, iterum profundius mergit, aliquanto ! altius repetens:
+! Nadat hij de kaars uit het water heeft gehaald, doopt hij die weer erin, maar nu iets dieper, en herhaalt:
 
 v. Dat de kracht van de Heilige Geest neerdale in deze rijkgevulde bron.
 
-! Postea cereum rursus de aqua ! extractum, tertio immergens usque ad fundum, altiori adhuc voce repetit:
+! Daarna haalt hij de kaars weer uit het water, doopt die voor de derde keer erin, en nu tot op de bodem, en herhaalt:
 
 v. Dat de kracht van de Heilige Geest neerdale in deze rijkgevulde bron.
 
-! Descendat, ut supra. Et deinde sufflans ter in aquam, secundum hanc ! figuram &Psi;, prosequitur:
+! Terwijl de paaskaars op de bodem rust, blaast hij drie keer op het water in de vorm van de griekse letter &Psi; (de beginletter van het woord "psyche," d.i. "levensadem"), en vervolgt:
 
 v. En al dit water bevruchte met de kracht om de wedergeboorte te bewerken.
 v. En al dit water bevruchte met de kracht om de wedergeboorte te bewerken.
 v. En al dit water bevruchte met de kracht om de wedergeboorte te bewerken.
 
-! Hic tollitur cereus de aqua, et prosequitur:
+! Hij heft de paaskaars uit het water en zegt:
 
 v. Moge hier de smetten van alle zonden uitgewist worden. Moge hier de natuur, die naar uw beeld geschapen is en tot eer van haar oorsprong is hersteld, gezuiverd worden van alle oude smetten, opdat iedere mens, die dit Sacrament van de wedergeboorte ondergaat, tot een nieuwe jeugd in ware onschuld herboren wordt.
 
-! Sequentia dicit legendo:
+! Dan leest hij:
 
 Door onze Heer Jezus Christus, uw Zoon, die zal komen oordelen levenden en doden, en de wereld door het vuur. R. Amen.
 _
 _
-! Deinde aliquis clericus, vel ministrans, accipit in vase aliquo de eadem ! aqua, ad aspergendum populum post renovationem promissionum Baptismatis, ! ut infra, dicetur, et ad aspergendum in domibus et aliis locis.
+! Vervolgens doet een geestelijke of een dienaar wat van dit water in een vat om straks, zoals hieronder wordt vermeld, na de hernieuwing der doopbeloften het volk te besprenkelen, en voor de wijding der huizen en andere plaatsen.
 
-! His peractis, celebrans, qui benedicit aquam, infundit de oleo ! catechumenorum in eam in modum crucis, intellegibili voce dicens:
+! Daarna giet de celebrant Olie der geloofsleerlingen in de vorm van een kruis op het water, en zegt luidop:
 v. Dat door de Olie des heils + deze doopvont geheiligd mag worden, en bevrucht voor hen, die daaruit tot het eeuwig leven herboren zullen worden. 
 R. Amen.
 _
-! Deinde infundit de chrismate, modo quo supra, dicens:
+! Hij giet er enige druppels in van het H. Chrisma en zegt:
 v. Moge het Chrisma van onze Heer Jezus Christus en de Heilige Geest, de Vertrooster, zich uitstorten in de naam van de heilige Drieëenheid. 
 R. Amen.
 _
-! Postea accipit ambas ampullas dicti olei sancti, et chrismatis, ! et de utroque simul in modum crucis infundendo, dicit:
+! Daarna neemt hij beide flesjes met de genoemde heilige Olie en het Chrisma, giet wat van beide samen uit in de vorm van een kruis en zegt:
 v. Moge het heiligend Chrisma en de zalvende Olie zich ook vermengen met het doopwater, in de naam van de Vader, + en de Zoon + en de Heilige + Geest. 
 R. Amen.
 _
-! Tunc miscet ipsum oleum cum aqua. Si aderunt baptizandi, eos baptizet ! more consueto. Sed, præsertim si plures sint, permittitur cæremonias ! Ritualis romani, quæ ipsam Baptismi collationem præcedunt, id est, in ! Baptismate infantium usque ad verba Credis in Deum (Rituale romanum, ! tit. II, cap. II, n. 17), et in Baptismate adultorum usque ad verba Quis ! vocaris? (Rituale romanum, tit. II, cap. IV, n. 37), eodem mane, tempore ! opportuno, præmittere.
+! Vervolgens mengt hij de olie met het water.
 
-! Benedictione peracta, aqua baptismalis defertur processionaliter ad ! fontem, hoc modo: præcedit thuriferarius, sequitur alius subdiaconus, ! vel clericus, cum cruce, et clerus; deinde diaconus cum vase aquæ ! baptismalis, nisi conveniat ipsum ab acolythis portari, et celebrans; ! cereus vero paschalis remanet in suo loco; et interim cantatur sequens
+! Als er mensen aanwezig zijn die gedoopt moeten worden, moet hij hen op de gebruikelijke wijze dopen. Maar het is toegestaan, vooral als er meer zijn, de ceremoniën van het Romeins Rituaal die voorafgaan aan de eigenlijke toediening van het Doopsel - dat wil zeggen: bij de Doop van kinderen tot aan de woorden Credis in Deum (Romeins Rituale, tit. II, cap. II, nr. 17) en bij de Doop van volwassenen tot aan de woorden Quis vocaris? (Romeins Rituale, tit. II, cap. IV, n. 37) - eerder op een geschikt tijdstip op dezelfde ochtend uit te voeren.
+
+! Na de zegening (of de toediening van het doopsel) wordt het doopwater in processie naar de doopvont gedragen. De wieroker gaat voorop, gevolgd door de subdiaken of een dienaar met het kruis. Dan volgt de geestelijkheid, de diaken met het vat met doopwater, tenzij het gepast is dat het door de dienaars wordt gedragen, en daarna de celebrant. Maar de Paaskaars blijft op zijn plaats. Ondertussen wordt het volgende gezongen:
 
 ! Canticum
 !Ps 41:2-4
 v. Gelijk een hert smacht naar de waterbronnen, zo smacht mijn ziel naar U, o God.
 V. Mijn ziel dorst naar de levende God. Wanneer zal ik komen en verschijnen voor Gods aanschijn?
 V. Mijn tranen zijn mijn spijs geworden, dag en nacht, want dag in dag uit zegt men mij: Waar blijft nu uw God?
-! Aqua baptismali in fontem immissa, celebrans, manibus iunctis et in tono feriali, dicit:
+! Het doopwater wordt in de doopvont gegoten en de celebrant zegt met gevouwen handen:
 &DominusVobiscum
 v. Laat ons bidden.
 Almachtige, eeuwige God, sla genadig acht op de godsvrucht van uw volk, dat gaat herboren worden, en dat als een hert smacht naar uw waterbron. Verleen goedgunstig, dat die dorst naar geloof door het Sacrament van het Doopsel zijn lichaam en ziel moge heiligen.
 $Per Dominum
 
-! Et incensat fontem.
+! De celebrant bewierookt de doopvont.
 
-! Tunc redeunt omnes in silentio in chorum, et datur initium renovationi ! promissionum Baptismatis.
+! Allen keren in stilte naar het koor terug en daarna heeft de vernieuwing der doopgeloften plaats.
 
-! (Benedictione peracta, aqua baptismalis defertur processionaliter ! ad fontem, hoc modo: præcedit thuriferarius, sequuntur crucifer et ! ministrantes; deinde unus vel plures ministrantium, qui vas aquæ ! baptismalis gestant, et sacerdos; cereus vero paschalis remanet in suo ! loco. Cetera fiunt ut supra.)
+! (Na de zegening wordt het doopwater in processie naar de doopvont gedragen, op deze wijze: De wieroker gaat voorop, gevolgd door een dienaar met het kruis; dan een of meer dienaren, die het vat met doopwater dragen, en de priester. Maar de Paaskaars blijft op zijn plaats. De rest wordt zoals hierboven gedaan.)
 
-! Sicubi vero baptisterium exstat ab ecclesia separatum, et ! præferatur benedictionem aquæ baptismalis in ipso baptisterio fieri, ! post invocationem Sancta Trínitas, unus Deus, miserere nobis, ! descenditur ad fontem hoc modo: præcedit clericus cum cereo benedicto, ! sequitur alius subdiaconus cum cruce, vel crucifer, medius inter ! acolythos cum candelabris accensis, deinde clerus per ordinem, demum ! celebrans cum ministris sacris. Cantores vero et populus remanent in ! locis suis, et prosequuntur cantum Litaniarum, repetitis, si opus est, ! invocationibus inde a Sancta María, ora pro nobis.  Benedictio aquæ ! baptismalis fit ut supra, his tantum mutatis: dum pergitur ad fontem, ! cantatur canticum Sicut cervus, et celebrans, antequam intret ad ! benedictionem fontis, dicit orationem Omnípotens sempitérne Deus, ! respice propitius; postea procedit ad benedictionem fontis. ! Benedictione peracta, omnes redeunt in silentio in ecclesiam, ! et datur initium renovationi promissionum Baptismatis.
+! Wanneer er echter een doopvont is dat losstaat van de kerk, en men de voorkeur geeft aan het zegenen van het doopwater in de doopvont zelf, daalt men na de aanroeping "Sancta Trínitas, unus Deus, miserere nobis" op de volgende wijze af naar de doopvont: een geestelijke gaat vooraf met een gewijde kaars, een andere subdiaken volgt met een kruis of een kruisbloem in het midden tussen de misdienaars met brandende kandelaars, dan de geestelijken in de juiste volgorde en ten slotte de celebrant met de gewijde dienaren. De zangers en het volk blijven op hun plaatsen en zingen de Litanie verder. Indien nodig herhalen ze daarbij de aanroepingen daaruit: "Sancta María, ora pro nobis." De zegening van het doopwater vindt plaats zoals hierboven beschreven, met slechts deze wijzigingen: terwijl men naar de doopvont gaat, zingt men het lied Sicut cervus, en voordat de celebrant de doopvont binnengaat om het te zegenen, zegt hij het gebed "Omnípotens sempitérne Deus, respice propitius". Daarna zegent hij de doopvont. Na de zegen keert iedereen in stilte terug naar de kerk en begint de hernieuwing van de doopbeloften.
 _
 _
 !! De renovatione promissionum baptismatis
-! Completa benedictione aquæ baptismalis, eiusque translatione ad fontem, ! vel, ubi benedictio locum non habuerit, post absolutam primam partem ! Litaniarum, proceditur ad renovationem promissionum Baptismatis, qua ! perdurante convenit, ut clerus et populus candelas accensas gestent.
+! Na de zegening van het doopwater en het overbrengen ervan naar de doopvont, of, wanneer de zegening niet heeft plaatsgevonden, na het eerste deel van de litanie, vindt de hernieuwing van de doopbeloften plaats. Hierbij is het passend dat de geestelijkheid en het volk brandende kaarsen dragen.
 
-! Celebrans, depositis paramentis violaceis, assumit stolam et ! pluviale albi coloris; deinde, imposito thure, et facta incensatione ! cerei, stans iuxta illum, facie versus ad populum, vel ex ambone seu ! pulpito, incipit, ut sequitur:
+! De celebrant legt zijn paarse gewaad af en trekt een wit gewaad en een mantel aan; Vervolgens plaatst hij de wierook en laat hij de kaars branden. Hij gaat ernaast staan, met zijn gezicht naar het volk gekeerd, of vanaf de ambo of preekstoel, en begint als volgt:
 
 v. In deze hoogheilige nacht, dierbare broeders, gedenkt onze heilige Moeder de Kerk de dood en de begrafenis van onze Heer Jezus Christus, en houdt daarom vol wederliefde deze nachtwake. In afwachting van zijn glorievolle verrijzenis verheugt zij zich, diepgelukkig.
 
@@ -393,20 +392,20 @@ O. Onze Vader, die in de hemel zijt, uw Naam worde geheiligd, uw rijk kome, uw w
 S. En de almachtige God, Vader van onze Heer Jezus Christus, die ons herboren deed worden uit water en de Heilige Geest, en die ons vergiffenis gaf van de zonden, moge ons door zijn genade bewaren in dezelfde Christus Jezus, onze Heer, ten eeuwigen leven.
 O. Amen.
 _
-! Et aspergit populum aqua benedicta, extracta, ut supra dictum est, ! in benedictione aquæ baptismalis; vel, ubi benedictio aquæ ! baptismalis locum non habet, aqua benedicta «ordinaria».
+! En hij besprenkelt het volk met gezegend water, dat, zoals hierboven gezegd, is opgenomen in de zegen van het doopwater; of, waar de zegening met doopwater niet heeft plaatsgevonden, met "gewoon" gezegend water.
 
-! Hæc allocutio et renovatio promissionum Baptismatis fieri potest, ! ubique locorum, lingua vernacula; versione tamen ab Ordinario loci ! approbata.
+! Deze toespraak en de hernieuwing van de doopbeloften kunnen overal in de volkstaal worden gedaan; de versie moet echter door de plaatselijke ordinarius zijn goedgekeurd.
 _
 _
 !! De altera parte Litaniarum
 
-! Renovatione promissionum Baptismatis peracta, cantores, seu ipse ! sacerdos, incipiunt alteram partem Litaniarum, inde ab invocatione ! Propitius esto, usque ad finem, omnibus genuflexis et respondentibus. ! Si in hac sacra Vigilia paschali Ordines conferantur, consueta ! ordinandorum prostrati et benedictio peragitur, dum hæc altera pars ! Litaniarum decantatur.
+! Nadat de hernieuwing van de doopbeloften van het is voltooid, beginnen de zangers, of de priester zelf, met het tweede deel van de Litanie, vanaf de aanroeping Propitis esto, tot het einde, waarbij allen knielen en antwoorden. Als er tijdens deze heilige Paaswake een priesterwijding plaatsvindt, wordt de gebruikelijke neerwerping en zegening van de te wijden persoon uitgevoerd terwijl dit tweede deel van de litanie wordt gezongen.
 
-! Celebrans vero et ministri, accedentes ad sacristiam, induuntur ! paramentis albi coloris pro Missa solemniter celebranda.
+! De celebrant en de dienaren gaan naar de sacristie en kleden zich in witte gewaden voor de plechtige viering van de mis.
 
-! (Sacerdos vero et ministrantes accedunt ad sacristiam, ubi sacerdos ! induitur paramentis albi coloris, ministrantes vero sumunt vestes ! festivas, pro Missa cantata.  Vel si, cantoribus deficientibus, ipse ! sacerdos Litanias Sanctorum decantare debeat, his ab solutis, ad ! sacristiam accedat, cum ministrantibus, ad paramenta sumenda pro Missa ! cant at a, ut supra dictum est.)
+! (De priester en de dienaren gaan naar de sacristie, waar de priester zich kleedt in een wit gewaad, terwijl de dienaren de feestgewaden voor de gezongen mis aannemen. Of, indien de priester, vanwege de afwezigheid van de zangers, zelf de Litanie van de Heiligen moet zingen, dient hij, nadat zij zijn weggestuurd, met de dienaren naar de sacristie te gaan om de gewaden voor de gezongen mis aan te nemen, zoals hierboven vermeld.)
 
-! Interim cereus paschalis reponitur in candelabro suo, in latere ! Evangelii, et altare paratur pro Missa solemni, luminaribus accensis et ! floribus.
+! Ondertussen wordt de paaskaars op de kandelaar gezet, naast het Evangelie, en wordt het altaar voorbereid voor de plechtige Mis, waarbij lichtjes worden aangestoken en bloemen worden neergezet.
 
 V. Wees genadig, R. spaar ons, Heer.
 V. Wees genadig, R. verhoor ons, Heer.
@@ -444,13 +443,13 @@ R. Christus, verhoor ons.
 _
 _
 !! De Missa solemni Vigiliæ paschalis
-! Celebratio solius Missæ Vigiliæ paschalis sine cæremoniis ! præcedentibus interdicitur.
+! Het is verboden de Paaswakemis op zichzelf te vieren, zonder voorafgaande ceremonies.
 
-! Sacra Communio fidelibus dari potest tantummodo inter Missarum solemnia, ! vel continuo ac statim ab iis expletis; exceptis iis, qui in periculo ! mortis sunt constituti.
+! De Heilige Communie kan aan de gelovigen alleen worden uitgereikt tijdens plechtige Missen, of onmiddellijk nadat deze zijn gevierd; behalve aan hen die in doodsgevaar verkeren.
 
-! In fine Litaniarum, cantores solemniter incipiunt Kyrie, eléison, ut in ! Missa moris est. Interim celebrans cum ministris, in paramentis albis, ! seu cum ministrantibus, accedit ad altare, et, facta ei debita ! reverentia, omissis psalmo Iudica me, Deus, et confessione, statim ! ascendens, osculatur illud in medio, et incensat more solito.
+! Aan het einde van de litanie beginnen de zangers plechtig met het Kyrie, eleison, zoals gebruikelijk is in de mis. Ondertussen nadert de celebrant met de voorgangers in witte gewaden, of met degenen die de mis dienen, het altaar en, na het verschuldigde respect te hebben betoond, waarbij de psalm 'Judica me, Deus' en de schuldbelijdenis worden weglaten, bestijgt onmiddellijk het altaar, kust het in het midden en bewierookt het op de gebruikelijke wijze.
 
-! Celebrans benedicit, dicens:
+! De celebrant zegent en zegt:
 v. Moogt gij door Hem + gezegend worden, tot wiens eer gij zult branden. Amen. 
 _
 _
@@ -467,13 +466,13 @@ S. Heer, ontferm U over ons.
 _
 _
 !!Gloria
-! Finitis a choro Kyrie, eléison, celebrans incipit solemniter Glória ! in excelsis, et pulsantur campanæ ac discooperiuntur imagines.
+! Finitis a choro Kyrie, eléison, celebrans incipit solemniter Glória in excelsis, et pulsantur campanæ ac discooperiuntur imagines.
 
 ! Pulsatio campanarum hoc modo fiat:
 
-! In locis, in quibus una tantum habetur ecclesia, campanæ pulsentur ! hora, qua dicti hymni incipit cantus.
+! In locis, in quibus una tantum habetur ecclesia, campanæ pulsentur hora, qua dicti hymni incipit cantus.
 
-! In locis autem, ubi plures ecclesiæ exstant, sive in omnibus eodem ! tempore sacræ cæremoniæ peragantur, sive tempore diverso, campanæ ! omnium ecclesiarum eiusdem loci pulsentur una cum campanis ecclesiæ ! cathedralis, vel matricis aut principalis. In dubio quænam ecclesia in ! loco sit matrix aut principalis, adeatur Ordinarius loci.
+! In locis autem, ubi plures ecclesiæ exstant, sive in omnibus eodem tempore sacræ cæremoniæ peragantur, sive tempore diverso, campanæ omnium ecclesiarum eiusdem loci pulsentur una cum campanis ecclesiæ cathedralis, vel matricis aut principalis. In dubio quænam ecclesia in loco sit matrix aut principalis, adeatur Ordinarius loci.
 
 Eer aan God in den hoge, en op aarde vrede aan de mensen van goede wil. Wij loven U, Wij zegenen U, Wij aanbidden U, Wij verheerlijken U, Wij danken U om uw grote heerlijkheid. Heer, God, Koning in de hemel, God, almachtige Vader. Heer, enige Zoon, Jezus Christus. Heer God, Lam Gods, Zoon van de Vader. Gij, die de zonden van de wereld wegneemt, ontferm U over ons. Gij, die de zonden van de wereld wegneemt, aanvaard ons gebed. Gij, die zetelt aan de rechterhand van de Vader, ontferm U over ons. Want Gij alleen zijt heilig, Gij alleen de Heer, Gij alleen de Allerhoogste, Jezus Christus, met de Heilige Geest + in de heerlijkheid van God de Vader. Amen.
 _
@@ -492,9 +491,9 @@ Broeders, zo Gij met Christus verrezen zijt, streeft dan ook naar de dingen van 
 $Deo gratias
 _
 _
-! Finita Epistola, celebrans incipit:
+! Na het epistel zingt de celebrant:
 S. Alleluia.
-! Et totum decantat ter, elevando vocem gradatim: et omnes ! post quamlibet vicem, in eodem tono, repetunt illud idem:
+! Hij zingt het in totaal drie keer, waarbij hij geleidelijk zijn stem verheft. En na elke beurt herhalen allen hetzelfde, op dezelfde toon:
 C. Alleluia.
 _`
 S. Alleluia.
@@ -503,7 +502,7 @@ _`
 S. Alleluia.
 C. Alleluia.
 _`
-! Postea cantores prosequuntur:
+! Daarna gaan de zangers verder:
 ! Ps. 117, 1
 V. Looft de Heer, want Hij is goed; want eeuwig duurt zijn barmhartigheid.
 ! Deinde dicitur
@@ -532,25 +531,25 @@ R. Lof zij U, o Christus.
 S. Moge door de woorden van het Evangelie onze zonden gedelgd worden.
 _
 _
-! Non dicitur Credo, sed finito Evangelio celebrans dicit:
+! Er is geen Credo en geen antifoon bij de Offerande.
 &DominusVobiscum
 r. Laat ons bidden.
 
-! Non dicitur antiphona ad Offertorium. Ad Lavabo dicitur Glória Patri.
+! Ad Lavabo dicitur Glória Patri.
 
-! Si est Missa sollemnis, Diaconus porrigit Celebranti Patenam cum Hostia: si privata, Sacerdos ipse accipit Patenam cum Hostia, quam offerens, dicit:
+! Indien het een plechtige Mis is, overhandigt de diaken daarna de pateen met de hostie aan de celebrant; anders neemt de priester zelf de pateen met de hostie, die hij opdraagt, terwijl hij zegt:
 v. Aanvaard, heilige Vader, almachtige eeuwige God, deze smetteloze offergave, die ik, uw onwaardige dienaar, opdraag aan U, mijn levende en ware God, voor mijn talloze zonden, beledigingen en nalatigheden, en voor alle aanwezigen, maar ook voor alle gelovige Christenen, levenden zowel als doden, opdat hij mijn en hun zaligheid ten goede kome ten eeuwigen leven. Amen.
 _
 _
-! Deinde faciens crucem cum eadem Patena, deponit Hostiam super Corporale. Diaconus ministrat vinum, Subdiaconus aquam in Calice: vel si privata est Missa, utrumque infundií Sacerdos, et aquam miscendam in Calice benedicit signo crucis, dicens:
+! De diaken doet wijn en de subdiaken water in de kelk. Als de Mis zonder diaken en subdiaken wordt gevierd, schenkt de priester beide in en met een kruisteken zegent hij het water dat in de kelk gemengd zal worden, terwijl hij zegt:
 v. God, + Gij hebt de waardigheid van de menselijke natuur op wonderbare wijze geschapen en nog wondervoller weer hersteld; geef ons, door het geheim van dit water en deze wijn deel aan de godheid van Hem, die zich gewaardigd heeft onze mensheid te delen, Jezus Christus, uw Zoon, onze Heer: die met U leeft en heerst in eenheid van de Heilige Geest, God: door alle eeuwen der eeuwen. Amen.
 _
 _
-! Postea accipit Calicem, et offert dicens:
+! Daarna neemt hij de kelk en draagt deze op, terwijl hij zegt:
 v. Wij dragen U op, Heer, de kelk van het heil en smeken daarbij uw goedertierenheid, dat hij in zoete geur mag opstijgen tot voor het oog van uw goddelijke majesteit, tot heil van ons en de gehele wereld. Amen.
-! Deinde facit signum crucis cum Calice, et illum ponit super Corporale, et Palla cooperit: tum, junctis manibus super Altare, aliquantulum inclinatus, dicit:
+! Vervolgens maakt hij een kruisteken met de kelk, plaatst deze op het corporale en bedekt hem met de palla; daarna zegt hij, met de handen tegen elkaar op het altaar en enigszins gebogen:
 v. Neem ons aan, o Heer, om onze geest van nederigheid en ons vermorzeld hart en moge ons offer heden zo voor uw ogen voltrokken worden, dat het U aangenaam is, Heer God.
-! Erectus expandit manus, easque in altum porrectas jungens, elevátis ad coelum oculis et statim demissis, dicit:
+! Hij richt zich op, strekt zijn handen uit en voegt de uitgestrekte handen in de hoogte samen. Tegelijk slaat hij de ogen ten hemel, slaat ze direct weer neer en zegt:
 v. Kom, Heiligmaker, almachtige, eeuwige God, + en zegen dit offer, uw heilige Naam bereid.
 _
 _
@@ -567,32 +566,32 @@ v. De Heer ontsteke in ons het vuur zijner minne en de vlam van eeuwige liefde. 
 ! Postea incensatur Sacerdos a Diacono, deinde alii per ordinem.
 _
 _
-! Sacerdos lavat manus, dicens:
+! Intussen wast de priester zijn handen, terwijl hij zegt:
 !Ps. 25, 6-12.
 v. In onschuld was ik mijn handen en ga rond uw altaar, o Heer. Om openlijk uw lof te verkondigen en al uw wonderen te verhalen. Heer, ik heb lief het verblijf van uw huis en de woontent van uw heerlijkheid. Ruk mijn ziel niet weg met de zondaars noch mijn leven met bloeddorstige mannen; Aan wier handen de misdaad kleeft en wier rechterhand met geschenken gevuld is. Ik echter wandel in onschuld: red mij en wees mij genadig! Mijn voet staat op effen baan; ik zal de Heer in de vergadering loven. 
 V. Eer aan de Vader en de Zoon en de Heilige Geest.
 R. Zoals het was in het begin en nu en altijd, en in de eeuwen der eeuwen. Amen
 _
 _
-! Deinde, aliquantulum inclinatus in medio Altaris, junctis manibus super eo, dicit:
+! Enigszins voorovergebogen midden voor het altaar, terwijl de handen tegen elkaar op het altaar rusten, zegt hij vervolgens:
 v. Aanvaard, heilige Drieëenheid, deze offerande, die wij U opdragen ter gedachtenis van het lijden, de verrijzenis en de hemelvaart van onze Heer Jezus Christus, en tere ere van de heilige Maria, altijd Maagd, en van de heilige Johannes de Doper, en van de heilige apostelen Petrus en Paulus en van deze - wier relikwieën in dit altaar rusten - en van alle heiligen, opdat hij hun tot eer en ons tot heil strekke, en dat zij, wier gedachtenis wij vieren op aarde, voor ons ten beste spreken in de hemel. Door dezelfde Christus, onze Heer. Amen.
 _
 _
-! Postea osculatur Altare, et versus ad populum extendens, et jungens manus, voce paululum elevata, dicit:
+! Daarna kust hij het altaar en, gekeerd naar het volk, strekt hij de handen uit, voegt ze samen en zegt hardop maar niet te luid:
 S. Bidt, broeders, dat mijn en uw offerande welgevallig mag zijn aan God, de almachtige Vader.
-! Minister, seu circumstantes respondent: alioquin ipsemet Sacerdos:
+! De misdienaar ofwel de omstaanders antwoorden of anders de priester zelf:
 M. Moge de Heer het offer uit uw handen aanvaarden tot lof en eer van zijn Naam en ook tot voordeel van ons en geheel zijn heilige Kerk.
-! Sacerdos submissa voce dicit:
+! De priester zegt met zachte stem:
 S. Amen.
 _
-! Deinde, manibus extensis, absolute sine Orémus.subjungit Orationes secretas.
+! Vervolgens strekt hij de handen uit en laat hierop direct zonder het 'Oremus' de secreta volgen.
 !Secreta
 v. Aanvaard, vragen wij U, Heer, met de opdracht van onze gaven, de gebeden van uw volk, opdat ze, in de Paasgeheimen geheiligd, ons onder uw inwerking tot een heilmiddel mogen strekken voor de eeuwigheid.
 $Per Dominum
 _
 _
 !! Præfatio
-! Quibus finitis, cum pervenerit ad conclusionem, clara voce dicit: Per ómnia sǽcula sæculórum, cum Præfatione, ut in sequentibus. Præfationem incipit ambabus manibus positis hinc inde super Altare: quas aliquantulum elevat, cum dicit: Sursum corda. Jungit eas ante pectus, et caput inclinat, cum dicit: Grátias agamus Dómino, Deo nostro. Deinde disjungit manus, et disjunctas tenet usque ad finem Præfationis: qua finita, iterum jungit eas, et inclinatus dicit: Sanctus. Et cum dicit: Benedíctus, qui venit, signum crucis sibi producit a fronte ad pectus.
+! Aan het einde bij de conclusio zegt hij met luide stem 'Per omnia sæcula sæculorum' met de prefatie. Hij begint de prefatie met de handen aan weerszijde op het altaar. Daarna heft hij ze enigszins op, terwijl hij zegt: 'Sursum corda'. Hij voegt ze tegen elkaar vóór de borst, en buigt het hoofd bij de woorden: 'Grátias agámus Dómino, Deo nostro'. Dan strekt hij de handen uit en houdt ze uitgestrekt tot aan het einde van de prefatie; hierna vouwt hij ze weer samen en gebogen zegt hij: 'Sanctus'. En wanneer hij zegt: 'Benedíctus, qui venit', bekruist hij zich van het voorhoofd tot de borst.
 V. De Heer zij met u.
 R. En met uw geest.
 V. Hoog de harten.
@@ -631,54 +630,54 @@ _
 v. Die daags voor zijn lijden brood nam in zijn heilige en eerbiedwaardige handen, zijn ogen ten hemel opsloeg tot U, God, zijn almachtige Vader, U dankte, het zegende + brak en aan zijn leerlingen gaf met de woorden: Neemt en eet allen hiervan:
 _
 _
-! Tenens ambabus manibus Hostiam inter indices et pollices, profert verba consecrationis secrete, distincte et attente super Hostiam, et simul super omnes, si plures sint consecrandæ.
+! Terwijl hij de hostie in beide handen houdt tussen duim en wijsvinger, spreekt hij in stilte nauwkeurig en aandachtig de consecratiewoorden uit over de hostie en tevens over alle hosties, indien er meer geconsacreerd moeten worden.
 _
 !!!WANT DIT IS MIJN LICHAAM
 _
-! Quibus verbis prolatis, statim Hostiam consecratam genuflexus adorat: surgit, ostendit populo, reponit super Corporale, et genuflexus iterum adorat: nec amplius pollices et indices disjungit, nisi quando Hostia tractanda est, usque ad ablutionem digitorum.
+! Direct na het uitspreken van deze woorden knielt hij en aanbidt hij de geconsacreerde Hostie; hij staat op, toont de Hostie aan het volk, legt haar weer op het corporale, en knielt opnieuw ter aanbidding. De priester doet nu duim en wijsvinger niet meer van elkaar tot aan de ablutie [de reiniging] van de vingers na de communie, tenzij hij de Hostie moet nemen.
 wait5
 _
 _
-~(Tunc, detecto Calice, dicit:)
+! Dan neemt hij de palla van de kelk en zegt:
 v. Op dezelfde wijze nam Hij na het avondmaal deze heerlijke kelk in zijn heilige en eerbiedwaardige handen, dankte U wederom, zegende + hem en gaf hem aan zijn leerlingen, met de woorden: Neemt en drinkt allen hieruit:
 _
 _
-! Profert verba consecrationis super Calicem, attente, continuate, et secrete, tenens illum parum elevatum.
+! Hij spreekt de consecratiewoorden uit over de kelk, aandachtig en zonder onderbreking, terwijl hij hem enigszins omhooggeheven houdt.
 _
 !!!WANT DIT IS DE KELK VAN MIJN BLOED, VAN HET NIEUW EN EEUWIG VERBOND, GEHEIM VAN HET GELOOF, DAT VOOR U EN VOOR VELEN VERGOTEN ZAL WORDEN TOT VERGIFFENIS DER ZONDEN
 wait5
 _
-! Quibus verbis prolatis, deponit Calicem super Corporale, et dicens secrete:
+! Na het uitspreken van deze woorden zet hij de kelk weer op het corporale en zegt:
 v. Zo dikwijls gij dit doen zult, zult gij het doen ter gedachtenis aan Mij.
-! Genuflexus adorat: surgit, ostendit populo, deponit, cooperit, et genuflexus iterum adorat.
+! Daarbij knielt hij ter aanbidding, staat op, toont de kelk aan het volk, zet hem neer, bedekt hem en knielt opnieuw ter aanbidding.
 _
 _
-~(Deinde disjunctis manibus dicit:)
+! Daarna strekt hij de handen uiteen en zegt:
 v. Vandaar dan, o Heer, dat wij, uw dienaren, maar ook uw heilig volk, indachtig zijn het lijden van deze Christus, uw Zoon, onze Heer, alsook zijn verrijzenis uit de doden en zijn glorievolle hemelvaart. Uit uw geschenken en gaven dragen wij uw verheven majesteit een zuivere offerande + op, een heilige offerande, + een smetteloze offerande, + het heilig Brood + van het eeuwig leven en de Kelk + van het eeuwig heil.
 _
 _
-~(Extensis manibus prosequitur:)
+! Met uitgestrekte handen gaat hij verder:
 v. Wil het beschouwen met een genadig en welwillend oog en aanvaarden, zoals Gij de gaven van uw rechtvaardige dienaar Abel hebt willen aanvaarden, en het offer van onze aartsvader Abraham en het heilig offer, de smetteloze offerande, die uw hogepriester Melchisedech U aanbood.
 _
 _
-! Profunde inclinatus, junctis manibus et super Altare positis, dicit:
+! Diep gebogen en met de samengevoegde handen rustend op het altaar, zegt hij:
 v. Wij vragen U nederig, almachtige God, laat dit offer door de handen van uw heilige Engel op uw verheven altaar brengen, onder het oog van uw goddelijke majesteit, opdat wij allen, die door de deelname aan het offer op het altaar, het heilig Lichaam + en Bloed + van uw Zoon zullen nuttigen, de volheid van de hemelse zegening en genade mogen ontvangen. Door dezelfde Christus, onze Heer. Amen.
 _
 _
-! Commemoratio pro defunctis
+! Gedachtenis voor de overledenen
 v. Gedenk ook, o Heer, uw dienaren en dienaressen N. en N., die ons zijn voorgegaan met het teken van geloof en in de slaap van vrede rusten. Wij bidden U, Heer, hun en allen die in Christus rusten, de plaats van verkwikking, licht en vrede te geven. Door dezelfde Christus, onze Heer. Amen.
 _
 _
-! Manu dextera percutit sibi pectus, elata aliquantulum voce dicens:
+! Hij klopt zich met de rechterhand op de borst en verheft zijn stem enigszins bij de woorden:
 v. Wil ook ons, uw zondige dienaren, die op uw rijke barmhartigheid vertrouwen, enig deel en gemeenschap geven met uw heilige apostelen en martelaren: Johannes, Stefanus, Matthias, Barnabas, Ignatius, Alexander, Marcellinus, Petrus, Felicitas, Perpetua, Agatha, Lucia, Agnes, Cecilia, Anastasia en al uw heiligen; laat ons in hun gezelschap toe, niet op grond van onze verdiensten, maar om wille van uw barmhartigheid. Door Christus, onze Heer.
 _
 _
 v. Door wie Gij, Heer, dit alles steeds weer als iets goeds voortbrengt, heiligt, + levend maakt, + zegent + en ons schenkt.
-! Discooperit Calicem, genuflectit, accipit Hostiam inter pollicem et indicem manus dexteræ: et tenens sinistra Calicem, cum Hostia signat ter a labio ad labium Calicis, dicens:
+! Hij neemt de palla van de kelk, knielt, neemt de Hostie tussen duim en wijsvinger van de rechterhand; en, terwijl hij met linkerhand de kelk vasthoudt, maakt hij met de Hostie driemaal een kruisteken over de kelk van rand tot rand bij de woorden:
 v. Door Hem + en met Hem + en in Hem + gewordt U, God, almachtige Vader, + in eenheid met de Heilige Geest, + 
 ! Elevans parum Calicem cum Hostia, dicit:
 alle eer en heerlijkheid.
-! ponit Hostiam, Calicem Palla cooperit, genuflectit, surgit, et dicit intellegibili voce vel cantat:
+! Hij legt de Hostie weer neer, bedekt de kelk met de palla, knielt, staat op en zegt met verstaanbare stem of zingt:
 v. Door alle eeuwen der eeuwen. 
 R. Amen.
 _
@@ -690,51 +689,51 @@ R. Maar verlos ons van het kwade.
 S. (in stilte) Amen.
 _
 _
-! Deinde manu dextera accipit inter indicem et medium digitos Patenam, quam tenens super Altare erectam, dicit secrete:
+! Vervolgens neemt hij met de rechterhand de pateen tussen wijs- en middelvinger, laat hem met de rand op het altaar steunen en zegt in stilte:
 v. Wij vragen U, Heer, verlos ons van alle kwaad uit het verleden, het heden en de toekomst, en schenk ons op voorspraak van de roemrijke, altijd maaagdelijke Moeder van God, Maria, uw heilige apostelen Petrus en Paulus, en Andreas en alle heiligen, genadig uw vrede in onze dagen, opdat wij, met de steun van uw barmhartigheid, ons altijd vrij van zonden mogen houden, en tegen alle onrust beschermd zijn. 
-! Submittit Patenam Hostiæ, discooperit Calicem, genuflectit, surgit, accipit Hostiam, et eam super Calicem tenens utraque manu, frangit per medium, dicens:
+! Hij schuift de pateen onder de Hostie, neemt de palla van de kelk, knielt, staat op, neemt de Hostie, houdt haar met beide handen boven de kelk en breekt haar middendoor, terwijl hij zegt:
 v. Door dezelfde Jezus Christus onze Heer, uw Zoon: 
-! Et mediam partem, quam in dextera manu tenet, ponit super Patenam. Deinde ex parte, quæ in sinistra remanserat, frangit particulam, dicens:
+! Hij legt de helft, die hij in de rechterhand houdt, op de pateen. Daarna breekt hij een deeltje af van het deel, dat hij nog in de linkerhand houdt, terwijl hij zegt:
 die met U leeft en heerst in eenheid met de de Heilige Geest, God.
-! Aliam mediam partem, quam in sinistra manu habet, adjungit mediæ super Patenam positæ, et particulam parvam dextera retinens super Calicem, quem sinistra per nodum infra cuppam tenet, dicit intellegibili voce vel cantat:
+! De helft die hij in de linkerhand houdt, legt hij bij de helft op de pateen. Het kleine stukje houdt hij met zijn rechterhand boven de kelk die hij met zijn linkerhand vasthoudt bij de nodus onder de cuppa. Daarbij zegt hij met verstaanbare stem of hij zingt:
 V. Door alle eeuwen der eeuwen. 
 R. Amen. 
-! Cum ipsa particula signat ter super Calicem, dicens:
+! Met dat kleine deel maakt hij driemaal een kruisteken over de kelk, terwijl hij zegt:
 v. De vrede des Heren zij altijd met u.
 R. En met uw geest.
 
-! Pacis osculum non datur.
+! De vredeskus wordt niet gegeven.
 _
 _
-! Particulam ipsam immittit in Calicem, dicens secrete:
+! Hij laat het kleine stukje in de kelk vallen, terwijl hij in stilte zegt:
 v. Deze vermenging en heiliging van het Lichaam en Bloed van onze Heer Jezus Christus moge ons, die het ontvangen, tot eeuwig leven strekken. Amen.
 _
 _
-! Agnus Dei non dicitur: et, omissa oratione Dómine Iesu Christe, qui dixísti, dicuntur ceteræ orationes consuetæ:
+! Geen Agnus Dei en geen gebed voor de vrede.
 v. Heer Jezus Christus, Zoon van de levende God, Gij hebt volgens de wil van de Vader onder medewerking van de Heilige Geest, door uw dood de wereld het leven geschonken; bevrijd mij door dit, uw heilig Lichaam en Bloed, van al mijn zonden en van alle kwaad, doe mij altijd trouw zijn aan uw bevelen, en laat mij nooit van U gescheiden worden. Die met dezelfde God de Vader en de Heilige Geest leeft en heerst, God, in de eeuwen der eeuwen. Amen.
 _
 _
 v. Moge de nuttiging van uw Lichaam, Heer Jezus Christus, dat ik, onwaardige, durf te ontvangen, voor mij geen vonnis en oordeel betekenen, maar overeenkomstig uw goedheid mij bescherming bieden naar ziel en lichaam en mij een middel ter verbetering zijn. Die leeft en heerst met God de Vader, in eenheid met de Heilige Geest, God: door alle eeuwen der eeuwen. Amen.
 _
 _
-! Genuflectit, surgit, et dicit:
+! Hij knielt, staat op en zegt:
 v. Het hemels brood zal ik nemen en de naam des Heren aanroepen. 
-! Deinde parum inclinatus, accipit ambas partes Hostiæ inter pollicem et indicem sinistræ manus, et Patenam inter eundem indicem et medium supponit, et dextera tribus vicibus percutiens pectus, elata aliquantulum voce, ter dicit devote et humiliter:
+! Een weinig gebogen neemt hij vervolgens beide delen van de Hostie tussen duim en wijsvinger van de linkerhand. Hij schuift de pateen eronder tussen wijs- en middelvinger van de linkerhand. Met de rechterhand klopt hij zich driemaal op de borst en zegt driemaal eerbiedig en nederig, terwijl hij zijn stem enigszins verheft:
 V. Heer, ik ben niet waardig, dat Gij onder mijn dak komt, maar spreek slechts een woord en mijn ziel zal gezond worden.
 V. Heer, ik ben niet waardig, dat Gij onder mijn dak komt, maar spreek slechts een woord en mijn ziel zal gezond worden.
 V. Heer, ik ben niet waardig, dat Gij onder mijn dak komt, maar spreek slechts een woord en mijn ziel zal gezond worden.
 _
 _
-! Postea dextera se signans cum Hostia super Patenam, dicit:
+! Met de rechterhand bekruist hij zich daarna met de Hostie boven de pateen en zegt:
 v.  Het Lichaam van onze Heer Jezus Christus moge mijn ziel bewaren voor het eeuwig leven. Amen.
-! Et se inclinans, reverenter sumit ambas partes Hostiæ: quibus sumptis, deponit Patenam super Corporale, et erigens se jungit manus, et quiescit aliquantulum in meditatione Sanctissimi Sacramenti.
+! Hij buigt voorover en nuttigt eerbiedig de beide delen van de Hostie, Na de nuttiging legt hij de pateen op het corporale, richt zich op, voegt de handen samen en blijft een tijdje in stilte het Allerheiligst Sacrament overwegen.
 _
 _
-! Deinde discooperit Calicem, genuflectit, colligit fragmenta, si quæ sint, extergit Patenam super Calicem, interim dicens:
+! Vervolgens neemt hij de palla van de kelk, knielt, verzamelt de partikels, als die er zijn, veegt de pateen af boven de kelk en zegt intussen:
 v. Wat zal ik de Heer wedergeven voor alles wat Hij mij schonk? De kelk des heils zal ik opheffen en de naam des Heren aanroepen. Onder lofzangen zal ik de Heer aanroepen en ik zal van mijn vijanden bevrijd zijn.
-! Accipit Calicem manu dextera, et eo se signans, dicit:
+! Hij neemt de kelk met de rechterhand, bekruist er zich mee, en zegt:
 v. Het Bloed van onze Heer Jezus Christus moge mijn ziel bewaren voor het eeuwig leven. Amen.
-! Et sinistra supponens Patenam Calici, reverenter sumit totum Sanguinem cum particula. Quo sumpto, si qui sunt communicandi, eos communicet, antequam se purificet
+! En terwijl hij met de linkerhand de pateen onder de kelk houdt, nuttigt hij eerbiedig al het Bloed samen met het kleine deel van de Hostie. Na de nuttiging geeft hij de communie aan de eventuele communicanten, voordat hij zichzelf [zijn mond] purificeert,
 _
 _
 !!Communio Populi
@@ -742,15 +741,15 @@ wait16
 Ziel van Christus, heilig mij. Lichaam van Christus, red mij. Bloed van Christus, bedwelm mij. Water van Christus' zijde, was mij. Passie van Christus, versterk mij. O goede Jezus, hoor mij. Verberg mijn in uw wonden. Laat mij niet van u gescheiden worden. Bescherm mij tegen de kwade vijand. Roep mij op het uur van mijn dood, en verzoek mij naar u toe te komen, zodat ik u kan prijzen met uw heiligen. In de eeuwen der eeuwen. Amen.
 _
 _
-! Postea dicit:
+! Vervolgens zegt hij:
 v. Mogen wij in een zuiver hart ontvangen, wat wij met de mond nuttigden, en moge de gave in dit leven ons een heilmiddel worden voor het eeuwige.
-! Interim porrigit Calicem ministro, qui infundit in eo parum vini, quo se purificat: deinde prosequitur:
+! Intussen reikt hij de kelk aan de misdienaar die er een weinig wijn in giet, waarmee hij zichzelf [zijn mond] purificeert; dan vervolgt hij:
 v. Moge uw Lichaam, dat ik genuttigd heb, o Heer, een vast verblijf in mij vinden; en laat in mij geen smet van zonden over, nu de zuivere en heilige Sacramenten mij hebben verkwikt. Die leeft en heerst in de eeuwen der eeuwen. Amen.
-! Abluit et extergit digitos, ac sumit ablutionem: extergit os et Calicem, quem, plicato Corporali, operit et collocat in Altari ut prius: deinde prosequitur Missam.
+! Hij wast zijn vingers, droogt ze af en nuttigt de ablutie; hij veegt zijn mond af en droogt de kelk, die hij na het toevouwen van het corporale bedekt en op het altaar plaatst zoals voorheen. Dan vervolgt hij de Mis.
 _
 _
 !! Pro Laudibus
-! Post sumptionem Sacramenti, distributio Communionis, purificatio et ablutio ! fiunt more solito; deinde pro LAUDIBUS dominicæ Resurrectionis in choro ! cantatur antiphona:
+! Post sumptionem Sacramenti, distributio Communionis, purificatio et ablutio fiunt more solito; deinde pro LAUDIBUS dominicæ Resurrectionis in choro cantatur antiphona:
 Ant. Alleluia, alleluia, alleluia.
 !Psalmus 150
 ~(150:1) Looft de Heer in zijn heiligdom,* looft Hem in zijn verheven uitspansel.
@@ -763,7 +762,7 @@ R. Zoals het was in het begin, en nu en altijd, * en in de eeuwen der eeuwen. Am
 Ant. Alleluia, alleluia, alleluia.
 _
 _
-! Capitulum, hymnus et versus non dicuntur, sed statim ! celebrans in cantu incipit antiphonam ad Benedíctus.
+! Capitulum, hymnus et versus non dicuntur, sed statim celebrans in cantu incipit antiphonam ad Benedíctus.
 Ant. Zeer vroeg, op de eerste dag der week, toen de zon reeds was opgegaan, kwamen ze bij het graf, alleluia.
 
 ! Deinde cantatur Benedíctus, cum Glória Patri in fine, et fit incensatio, ut alias in Laudibus.
@@ -809,6 +808,6 @@ R. Amen.
 
 ! Omisso ultimo Evangelio, omnes revertuntur in sacristiam.
 
-! Si contingat in hac solemni Vigilia Ordines quoque conferri, Pontifex ! ultimam admonitionem (cum impositione sic dicti « pensi »), quæ iuxta ! Pontificale romanum post benedictionem pontificalem et ante ultimum Evangelium ! locum habet, hac nocte eidem benedictioni pontificali præmittat.
+! Si contingat in hac solemni Vigilia Ordines quoque conferri, Pontifex ultimam admonitionem (cum impositione sic dicti « pensi »), quæ iuxta Pontificale romanum post benedictionem pontificalem et ante ultimum Evangelium locum habet, hac nocte eidem benedictioni pontificali præmittat.
 
-! Sacerdotes, qui Missam Vigiliæ paschalis celebrant post mediam noctem, ! possunt ipso dominico die Resurrectionis Missam litare, atque etiam, si ! indultum habeatur, bis aut ter. Locorum Ordinarii vero, si eandem Vigiliam ! paschalem celebraverint, possunt, sed non tenentur, Missam solemnem ipso die ! Paschatis litare.
+! Sacerdotes, qui Missam Vigiliæ paschalis celebrant post mediam noctem, possunt ipso dominico die Resurrectionis Missam litare, atque etiam, si indultum habeatur, bis aut ter. Locorum Ordinarii vero, si eandem Vigiliam paschalem celebraverint, possunt, sed non tenentur, Missam solemnem ipso die Paschatis litare.

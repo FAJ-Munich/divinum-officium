@@ -181,13 +181,6 @@ Super ómnia * ligna cedrórum tu sola excélsior, in qua Vita mundi pepéndit, 
 (sed rubrica monastica)
 {annotation:1. D2;book:Antiphonale Monasticum, 1934, p. 901;%%(c4) SU(c)per(d') ó(f)mni(fe)a(d') *() li(d)gna(e_f) ce(de)dró(d)rum(c.) (,) tu(f) so(g)la(h') ex(g)cél(fe~)si(fg)or,(gf'fvED.) (;) in(f) qua(fe) vi(g)ta(ge) mun(fe~)di(d) pe(fe)pén(de)dit,(c'_) (,) in(f) qua(fe) Chri(g)stus(gh) tri(ed)um(fe~)phá(d.)vit,(d.) (;) et(cd~) mors(d_/eed.) mor(d.e!fw!g_h)tem(gg) (,) su(fg)pe(f)rá(fe)vit,(dc) in(d') æ(f)tér(d_c)num,(e_0f) al(g>)le(fe)lú(d.)ja(d.) (::)};;1d2
 
-[Commemoratio 2]
-!Commemoratio Ss. Mártyrum
-@Commune/C2:Oratio proper
-$Oremus
-v. Præsta, quǽsumus, omnípotens Deus: ut, qui sanctórum tuórum Alexándri, Evéntii, Theodúli atque Juvenális natalítia cólimus; a cunctis malis imminéntibus, eórum intercessiónibus, líberemur. 
-$Per Dominum.
-
 [Lectio Prima]
 !Phil 2:8-9
 v. Humiliávit semetípsum factus obédiens usque ad mortem, mortem autem Crucis. Propter quod et Deus exaltávit illum, et donávit illi nomen, quod est super omne nomen.
