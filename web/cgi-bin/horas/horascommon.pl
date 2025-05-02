@@ -607,7 +607,7 @@ sub occurrence {
         $officename[2] =~ s/:/ ad Laudes tantum:/
           if $srank[2] < 4.2
           && $srank[2] != 2.1
-          && $trank[0] !~ /infra octavam|cinerum|majoris hebd/i
+          && $trank[0] !~ /infra octavam|cinerum|majoris hebd|in Octava|Albis/i
           && $tname !~ /Adv|Quad/i;
       } elsif ($laudesonly) {
         $officename[2] =~ s/:/ $laudesonly:/;
@@ -615,7 +615,7 @@ sub occurrence {
         $officename[2] =~ s/:/ ad Laudes \& Matutinum:/
           if $trank[2] >= 5
           && $srank[2] < 2
-          && $trank[0] !~ /infra octavam|cinerum|majoris hebd/i
+          && $trank[0] !~ /infra octavam|cinerum|majoris hebd|in Octava|Albis/i
           && $tname !~ /Adv|Quad/i;
       }
 
@@ -899,8 +899,9 @@ sub concurrence {
       $cvespera = 0;
       $winner = $cwinner;
 
-      if ($crank < 7 && $comrank >= $ccomrank && $comrank > 2) {
-        $tomorrowname[2] = $dayname[2] .= "<br/>Vespera de sequenti; Commemoratio Sanctorum hodiernorum tantum";
+      if ($crank < 7 && $comrank > 2) {
+        my $hodie = $comrank >= $ccomrank ? 'hodiernorum tantum' : 'tantum';
+        $tomorrowname[2] = $dayname[2] .= "<br/>Vespera de sequenti; Commemoratio Sanctorum $hodie";
       } else {
         $tomorrowname[2] .= "<br/>Vespera de sequenti.";
         @commemoentries = ();
@@ -912,7 +913,6 @@ sub concurrence {
       $communetype = $ccommunetype;
       $cwinner = '';
       %cwinner = {};
-      @cwrank = ();
     } else {
       $vespera = 3;
       $tvesp = 3;
@@ -1021,7 +1021,7 @@ sub concurrence {
       $communetype = $ccommunetype;
       $winner = $cwinner;
       $cwinner = '';
-      %cwinner = ();
+      %cwinner = {};
     } elsif (
       $version !~ /196/
       && ( $winner{Rank} =~ /Dominica/i
@@ -1812,8 +1812,8 @@ sub rankname {
     $rankname = $ranktable[$i];                             # 'Semiduplex/iij.L.' - all other Octaves pre Divino
   } elsif ($version =~ /Divino/ && $latname =~ /^In Octava|infra Octavam|post Octavam Asc|Vigilia Pent/i) {
     $rankname = ($rank < 2)
-      ? $ranktable[1]                                                                            # 'Simplex'
-      : ($rank < 3 && $latname !~ /Asc|Nat|Cord/i || $latname =~ /post|Joan/) ? $ranktable[2]    # 'Semiduplex'
+      ? $ranktable[1]                                                                              # 'Simplex'
+      : ($rank < 3 && ($latname !~ /Asc|Nat|Cord/i || $latname =~ /post|Joan/)) ? $ranktable[2]    # 'Semiduplex'
       : ($rank < 3) ? "$ranktable[2] III. $t{ordinis}"                # 'Semiduplex III. ordinis'
       : ($rank < 5 && $latname !~ /Asc|Nat|Cord/i) ? $ranktable[4]    # 'Duplex majus'
       : ($rank < 5) ? "$ranktable[4] III. $t{ordinis}"                # 'Duplex majus III. ordinis'

@@ -687,7 +687,7 @@ sub getcommemoratio {
   if ($rank[3] =~ /(ex|vide)\s+(.*)\s*$/i) {
     my $file = $2;
     if ($w{Rule} =~ /Comex=(.*?);/i && $rank < 5) { $file = $1; }
-    if ($file =~ /^C[1-3](?![v\d])/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
+    if ($file =~ /^C[1-3](?![v\d])/ && $dayname[0] =~ /Pasc/i) { $file =~ s/p?$/p/; }
     $file = "$file.txt";
     if ($file =~ /^C/) { $file = subdirname('Commune', $version) . "$file"; }
     %c = %{setupstring($lang, $file)};
@@ -696,7 +696,7 @@ sub getcommemoratio {
 
       # allow daisy-chained Commune references to the second-level
       $file = $2;
-      if ($file =~ /^C[1-3](?![v\d])/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
+      if ($file =~ /^C[1-3](?![v\d])/ && $dayname[0] =~ /Pasc/i) { $file =~ s/p?$/p/; }
       $file = "$file.txt";
       if ($file =~ /^C/) { $file = subdirname('Commune', $version) . "$file"; }
       my %c2 = %{setupstring($lang, $file)};
@@ -836,7 +836,7 @@ sub vigilia_commemoratio {
   my $a = $p{"Feria Ant 2"};       #$p{"Day$dayofweek Ant 2"};
   my $v = $p{"Feria Versum 2"};    #$p{"Day$dayofweek Versum 2"};
   $a =~ s/\s*\*\s*/ /;
-  $w = $c . "Ant. $a" . "_\n$v" . "_\n\$Oremus\n$w";
+  $w = $c . "Ant. $a" . "_\n$v" . "_\n\$Oremus\nv. $w";
   return $w;
 }
 
