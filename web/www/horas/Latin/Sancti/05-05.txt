@@ -18,6 +18,18 @@ Pium
 [Ant 1] (rubrica divino aut rubrica 1955 aut rubrica 1960)
 @Commune/C4
 
+[Ant 1] (rubrica Bavariae)
+@Commune/C4:Ant 3
+
+[Versum 1] (rubrica Bavariae)
+@Commune/C4:Versum 3
+
+[Ant 2] (rubrica Bavariae)
+@Commune/C4:Ant 1
+
+[Versum 2] (rubrica Bavariae)
+@Commune/C4:Versum 1
+
 [Oratio]
 Deus, qui, ad conteréndos Ecclésiæ tuæ hostes et ad divínum cultum reparándum, beátum Pium Pontíficem Máximum elígere dignátus es: fac nos ipsíus deféndi præsídiis et ita tuis inhærére obséquiis; ut, ómnium hóstium superátis insídiis, perpétua pace lætémur.
 $Per Dominum
@@ -38,5 +50,8 @@ Pius, Boschi in Insúbria natus, cum quatuórdecim esset annórum, órdinem Præ
 [Versum 0]
 @Commune/C2a::s/N\./Pie/
 
-[Ant 3] (rubrica divino aut rubrica 1955 aut rubrica 1960)
+[Ant 3] (rubrica divino aut rubrica 1955 aut rubrica 1960 aut rubrica Bavariae)
 @Commune/C4:Ant 3 summi Pontificis
+
+[Versum 3] (rubrica Bavariae)
+@Commune/C4:Versum 1

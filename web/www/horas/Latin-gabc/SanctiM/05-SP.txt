@@ -8,7 +8,7 @@ Antiphonas horas
 Doxology=Nat
 
 [Ant Vespera]
-Stella maris * attendámus, qui transíre decertámus Babylónis flúmina, allelúja.;;109;;1f
+{annotation:1. f;%%(c4) Stel(d)la(f) ma(dc)ris(f) *(,) at(g)ten(f_h)dá(hr)mus,(h.) qui(hj) trans(hv_GF')í(ggh)re(h.) (;) de(h)cer(hr)tá(h!iwj!kvJH'___i>)mus(h') Ba(h)by(h)ló(hg)nis(h) flú(gf)mi(gh)na,(h.) (;) al(f!gh)le(gfe!fgf)lú(dcd)ja.(d.) (::)};;109;;1f
 Hæc ut nostram * indefésse cymbam regat, est necésse, per fluctus et fúlmina, allelúja.;;112;;2-monasticus
 Ad Mariam *  dirigámus cursum, ad hanc erigámus mentes, manus, lúmina, allelúja.;;121;;3-antiquo-a
 Hæc de lacu * Babylónis ad tranquíllæ visiónis nos edúcat cúlmina, allelúja.;;126;;4-antiquo-E

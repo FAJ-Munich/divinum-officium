@@ -1,8 +1,8 @@
 [Rank]
-De III die infra Octavam Beatae Mariae Virginis Patronæ Bavariæ;;Semiduplex;;2;;ex SanctiB/05-SP
+De III die infra Octavam Beatae Mariae Virginis Patronæ Bavariæ;;Semiduplex;;2;;ex SanctiM/05-SP
 
 [Rule]
-ex SanctiB/05-SP;
+ex SanctiM/05-SP;
 Antiphonas horas
 Doxology=Nat
 
