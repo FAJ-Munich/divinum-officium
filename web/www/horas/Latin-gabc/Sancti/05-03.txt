@@ -22,19 +22,10 @@ Psalm5 Vespera=116
 {name:Nos autem gloriari;annotation:7. c;mode:7;book:Antiphonale Monasticum, 1934, p. 1041;transcriber:Dominique CROCHU;%%(c3) NOS(ig/ij) au(ij)tem(i'_) *(,) glo(i)ri(g')á(h)ri(f') o(g)pór(ff)tet(e.) (;) in(e>) Cru(g')ce(g) Dó(h')mi(g)ni(f') no(h)stri(gv_FE) Je(fg)su(g') Chri(e)sti,(e_0f) al(g>)le(fg)lú(e.)ja(e.) (::)};;;;7c
 {name:Per signum crucis;annotation:8. c;mode:8;book:Antiphonale Monasticum, 1934, p. 900;%%(c4) PER(j) si(j')gnum(j) Cru(jkj)cis(jij.) *(,) de(j) in(j')i(j)mí(h')cis(j) no(i_h)stris(g_0h) (,) lí(f')be(h)ra(jh) nos(i_[uh:l]j) De(h')us(h) no(hg)ster,(f) al(gh)le(h)lú(g.)ja.(g.) (::)};;;;8c
 
-[Capitulum Vespera]
+[Capitulum Laudes]
 !Phil 2:5-7
 v. Fratres: Hoc enim sentíte in vobis, quod et in Christo Jesu: qui, cum in forma Dei esset, non rapínam arbitrátus est esse se æquálem Deo: sed semetípsum exinanívit, formam servi accípiens, in similitúdinem hóminum factus, et hábitu invéntus ut homo.
 $Deo gratias.
-
-[Hymnus Vespera]
-@Psalterium/Major Special:Hymnus Quad5 Vespera
-
-[HymnusM Vespera]
-@Psalterium/Major Special:HymnusM Quad5 Vespera
-
-[Versum 1]
-@Sancti/05-03:Ant Matutinum:4-5
 
 [Ant 1]
 {name:O crux splendidior;annotation:1. D;mode:1;book:The Liber Usualis, 1961, p. 1453 & Liber antiphonarius, 1960, p. 699;transcriber:Andrew Hinkley;%%(c4) O(c_[ll:1]d) Crux,(ff) *() splen(dc~)dí(f)di(gh)or(h_g) cun(fe~)ctis(d) a(f_g)stris,(cd..) (;) mun(d_e)do(d) cé(dc)le(d)bris,(f.) (,) ho(fe)mí(d)ni(fe)bus(ddc) mul(f_h)tum(g_[oh:h]e_[oh:h]f_[oh:h]ggh) a(fe)má(d)bi(fe)lis,(ddc.) (;) sán(e!gwh_g)cti(fe)or(fgf) u(e[ll:1]d)ni(ef)vér(dV!cd~)sis :(d.) (:) quae(dh) so(h)la(g_[oh:h]e_[oh:h]f_[oh:h]ggh) fu(fe)í(d)sti(fe) di(ddc~)gna(c.) (,) por(cd~)tá(f)re(ghg___) ta(fe)lén(dc~)tum(efe) mun(d.)di :(d.) (:) dul(h)ce(gf) li(gh)gnum,(ixh/iih.0) (,) dul(f)ces(e[ll:1]d) cla(fg)vos,(g.) (,) dúl(c)ci(d)a(f) fe(fg)rens(fe~) pón(d_[oh:h]e_[oh:h]d_[oh:h])de(cd)ra :(d.) (:) sal(ixh_0!i!@hg~)va(g_[uh:l]hG'_[oh:h]F_[oh:h]E'D) prae(f')sén(g)tem(e[ll:1]d) ca(fe)tér(dd)vam,(c.) (;) in(c_[ll:1]d) tu(fe)is(f') hó(g)di(hg)e(gg) (,) láu(c)di(d)bus(f_g) con(e[ll:1]d~)gre(fe)gá(d.)tam.(d.) (::) <i>T. P.</i> Al(c_[ll:1]d)le(f_gF'E)lú(g_h_g~)ja,(fv_ED'_5C_) al(d_g)le(efe)lú(d.)ja.(d.) (::)};;1d
