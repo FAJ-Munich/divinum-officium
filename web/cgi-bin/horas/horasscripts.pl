@@ -164,9 +164,9 @@ sub Benedicamus_Domino : ScriptFunc {
   if (
     $hora =~ /(Laudes|Vespera)/i
     && ( ($dayname[0] =~ /Pasc0/i && ($lang !~ /gabc/i || $chantTone !~ /resurrectionis/i))
-    || ($dayname[0] =~ /Pasc/ && $version =~ /Praedicatorum/ && ($rank > 3 || $winner eq 'C10'))
-    || Septuagesima_vesp())
-    ) {
+      || ($dayname[0] =~ /Pasc/ && $version =~ /Praedicatorum/ && ($rank > 3 || $winner eq 'C10'))
+      || Septuagesima_vesp())
+  ) {
 
     if ($lang !~ /gabc/i) {
 
@@ -270,7 +270,6 @@ sub psalm : ScriptFunc {
   my $fname = "Psalm$psnum.txt";
 
   if ($lang =~ /gabc/i) {
-    if ($canticaTone && $psnum > 230 && $psnum < 233) { $psnum .= ",$canticaTone"; }
     $fname = ($psnum =~ /,/) ? "$psnum.gabc" : "Psalm$psnum.txt";    # distingiush between chant and text
     $fname =~ s/\:/\./g;
     $fname =~ s/,/-/g;                                               # file name with dash not comma
@@ -296,8 +295,8 @@ sub psalm : ScriptFunc {
 
   if ($psnum > 150 && $psnum < 300 && @lines) {
     if ($fname =~ /\.gabc/) {
-      $num =~ s/(;.*)//;
-      my $latFile = "$datafolder/Latin/Psalterium/Psalmorum/Psalm$num.txt";
+      $psnum =~ s/(;.*)//;
+      my $latFile = "$datafolder/Latin/Psalterium/Psalmorum/Psalm$psnum.txt";
       my (@latlines) = do_read($latFile);
       $latlines[0] =~ s/ \*/; Tone: $ftone */;
       unshift(@lines, $latlines[0]);
