@@ -163,7 +163,7 @@ sub specials {
 
     # Invitatorium:
     if ($item =~ /invitatorium/i) {
-      invitatorium($lang);           # see specmatins.pl
+      invitatorium($lang);    # see specmatins.pl
       next;
     }
 

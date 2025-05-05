@@ -424,7 +424,7 @@ sub lectioE {
     @e = split("\n", $w{LectioE});
   } elsif ($version =~ /Bavariae/i && $commune) {    # TODO: see if this can be generalised
     my ($wB, $cB) = getproprium('LectioE', $lang, 1, 1);
-    
+
     if ($wB) {
       @e = split("\n", $wB);
     }

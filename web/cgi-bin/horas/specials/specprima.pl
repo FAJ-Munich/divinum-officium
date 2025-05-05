@@ -155,14 +155,14 @@ sub martyrologium {
   {
     $mobile = $a{'05-SP'};
   } elsif ($version =~ /bavariae/i
-  && $dayofweek == 5
-  && ($month == 5 && $day < 14)
-  && $dayname[0] !~ /Pasc[67]/i
-  && exists($a{'05-SS'}))
+    && $dayofweek == 5
+    && ($month == 5 && $day < 14)
+    && $dayname[0] !~ /Pasc[67]/i
+    && exists($a{'05-SS'}))
   {
     $mobile = $a{'05-SS'};
   }
-  
+
   #if ($month == 12 && $day == 25 && exists($a{'Nativity'})) {$mobile = $a{'Nativity'}; $hd = 1;}
   if ($hd == 1) { $t = "v. $mobile" . "_\n$t"; $mobile = ''; }
   my $fname = nextday($month, $day, $year);
