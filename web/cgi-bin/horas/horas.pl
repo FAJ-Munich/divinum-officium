@@ -593,7 +593,7 @@ sub canticum {
     : 3;
 
   my $ant, $ant2;
-  my $canticaTone;
+  our $canticaTone;
   my $duplexf = $version =~ /196/;
 
   if ($hora eq 'Completorium') {
@@ -628,11 +628,6 @@ sub canticum {
     } else {
       $duplexf ||= $df;
     }
-  }
-
-  if ($lang =~ /gabc/i) {
-    $ant =~ s/;;(.*)//;
-    $canticaTone = $1;
   }
 
   my @psalmi = $canticaTone ? ("$ant;;'" . (229 + $num) . ",$canticaTone'") : ("$ant;;" . (229 + $num));
@@ -737,7 +732,7 @@ sub postprocess_ant(\$$) {
   return unless $$ant;
 
   if ($lang =~ /gabc/i && $$ant =~ /;;(.*)/) {    # strip tone from Antiphone and save it
-    our $canticaTone = $1;
+    our $canticaTone ||= $1;
     $$ant =~ s/;;.*//;
   }
 

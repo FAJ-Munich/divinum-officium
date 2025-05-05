@@ -161,7 +161,7 @@ sub get_tempus_id {
   our @dayname;
   our ($day, $month, $year, $dayofweek, $version, $hora);
   my $vesp_or_comp = ($hora =~ /Vespera/i) || ($hora =~ /Completorium/i);
-  our $monthday; # = monthday($day, $month, $year, ($version =~ /196/) + 0, $vesp_or_comp);
+  our $monthday;    # = monthday($day, $month, $year, ($version =~ /196/) + 0, $vesp_or_comp);
   my $oct_or_nov = $monthday =~ /^(10|11)\d\-/;
   local $_ = $dayname[0];
 
@@ -195,8 +195,7 @@ sub get_tempus_id {
     : /^Pent0(\d)/
     && ( ($1 == 2 && $dayofweek > 5 && !($dayofweek == 6 && $vesp_or_comp))
       || ($1 == 3 && ($dayofweek < 6 || ($dayofweek == 6 && $vesp_or_comp))))
-    && $version =~ /Divino/i
-    ? 'Octava SSmi Cordis post Pentecosten'
+    && $version =~ /Divino/i ? 'Octava SSmi Cordis post Pentecosten'
     : /^Pent/ && !$oct_or_nov ? 'post Pentecosten'
     : 'post Pentecosten in hieme';
 }
