@@ -175,7 +175,8 @@ sub get_tempus_id {
       : ($month == 1 || ($month == 2 && ($day == 1 || $day == 2 && !$vesp_or_comp))) ? 'post Epiphaniam post partum'
       : ($month == 2) ? 'post Epiphaniam'
       : 'post Pentecosten in hieme'
-    : /^Quadp(\d)/ && ($1 < 3 || $dayofweek < 3) ? ($month == 1 || $day == 1 || ($day == 2 && !$vesp_or_comp))
+    : /^Quadp(\d)/ && ($1 < 3 || $dayofweek < 3)
+      ? ($month == 1 || ($month == 2 && ($day == 1 || $day == 2 && !$vesp_or_comp)))
       ? 'Septuagesimæ post partum'
       : 'Septuagesimæ'
     : /^Quad(\d)/ && $1 < 5 ? 'Quadragesimæ'
@@ -215,6 +216,8 @@ sub get_dayname_for_condition {
       $month == 11
       && ($day == 2 || ($day == 3 && $dayofweek == 1) || ($day == 1 && day_of_week(11, 1, $year) != 6 && $vesp_or_comp))
     );
+  return 'Malachiae' if $month == 11 && $day == 3;
+  return 'Caroli' if $month == 11 && $day == 4;
   return 'Nicolai' if $month == 12 && $day == 6;
   return 'Nat28' if $month == 12 && $day == 28;
   return 'Nat29' if $month == 12 && $day == 29;
@@ -439,21 +442,21 @@ sub process_conditional_lines {
   return @output;
 }
 
-#*** do_inclusion_substitutions(\$text, $substitutions)
-# Performs substitutions on $text, where $substitutions contains the
-# substitutions in the syntax of the @ directive.
+#*** do_inclusion_substitutions(\$text, $subs)
+# Performs manipulation in text from 'include' directive:
+# (de)select line(s) (numbered from 1!) or substitute text
 sub do_inclusion_substitutions(\$$) {
-  my ($text, $substitutions) = @_;
+  my ($text, $subs) = @_;
 
-  # substitute text or select line(s) (numbered from 1!)
-  while (($substitutions =~ m{(?:s/([^/]*)/([^/]*)/([gism]*))|(?:(\d+)(-\d+)?)}g)) {
-    if ($4) {
-      my ($s) = $4 - 1;
-      my ($l) = $5 ? -$5 - $s : 1;
-      my (@t) = split(/\n/, $$text);
-      $$text = join("\n", splice(@t, $s, $l)) . "\n";
+  while ($subs =~ m{(?:s/(?<s>[^/]*)/(?<r>[^/]*)/(?<f>[gism]*))|(?:(?<n>\!?)(?<b>\d+)(-(?<e>\d+))?)}g) {
+    if ($+{b}) {
+      my $s = $+{b} - 1;
+      my $l = $+{e} ? $+{e} - $s : 1;
+      my @t1 = split(/\n/, $$text);
+      my @t2 = splice(@t1, $s, $l);
+      $$text = join("\n", $+{n} ? @t1 : @t2) . "\n";
     } else {
-      eval "\$\$text =~ s/$1/$2/$3";
+      eval "\$\$text =~ s/$+{s}/$+{r}/$+{f}";
     }
   }
 }
@@ -508,7 +511,7 @@ sub setupstring($$%) {
     $basedir =~ s/horas/missa/g;         # to infinite cycles github #525
   }
 
-  if ($fname =~ /Comment.txt$|C[1-5](?!\d)[a-z]?/) {
+  if ($fname =~ /Comment.txt$|C\d(?![3-9])[a-z]?/) {
     $basedir =~ s/missa/horas/g;         # missa uses comments from horas dir
   }
 

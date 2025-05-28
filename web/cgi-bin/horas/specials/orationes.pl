@@ -277,7 +277,7 @@ sub oratio {
   } elsif ($w !~ /^\{/s) {
 
     # Ensure large red Initial
-    $w =~ s/^(?:v. )?/v. / unless $w =~ /^[\$\&\#]/;
+    $w =~ s/^(?:v. )?/v. / unless $w =~ /^[\$\&\#\/\!]/;
   }
 
   push(@s, $w);
@@ -1043,6 +1043,8 @@ sub getrefs {
         $v =~ s/\((?:hi|hr|h\_0|fe|f\_0?h|h\_\')\)/\(h\)/g;
         $v =~ s/\(\,\)//g;
       }
+
+      $before ||= "!" . translate('Commemoratio', $lang) . " $s{Officium}";
       $w = $before . "\nAnt. $a\n" . "_\n$v" . "_\n$o" . "_\n$after";
       next;
     }

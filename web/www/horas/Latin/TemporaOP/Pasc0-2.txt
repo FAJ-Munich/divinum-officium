@@ -3,9 +3,6 @@
 [Rank]
 @Tempora/Pasc0-2
 
-[Oratio]
-@Tempora/Pasc0-2
-
 [Ant Matutinum]
 @TemporaOP/Pasc0-1::1 s/4/7/
 ;;8
@@ -26,8 +23,8 @@ R. Surréxit Dóminus de sepúlcro, allelúja,
 V. Læténtur cæli et exsultet terra ante fáciem Dómini.
 R. Qui pro nobis pepéndit in ligno, allelúja.
 
-[Lectio2]
-Talem déxteram sibi locat, Pater ad déxteram locat, trophæum nostræ salútis ampléctens: tales illic mártyres nobis cicatrícis suæ coróna monstrávit. Et quóniam sermo huc noster usque evasit, considerémus qua grátia secúndum Ioánnem crediderint Apóstoli, qui gavísi sunt; secúndum Lucam quasi incréduli redarguántur: ibi Spíritum Sanctum accéperint, hic sedére in civitáte jubeántur, quoadúsque induántur virtúte ex alto. Et vidétur mihi ille quasi Apóstolus maióra et altióra tetigisse, hic sequéntia et humánis próxima: hic histórico usus circúitu, ille compendio.  Nam etsi primo Lucas eos non credidísse dicat, póstea tamen credidisse demonstrat. Et si prima considerémus, contrária sunt: si sequéntia, certum est convenire.
+[Lectio2] 
+Talem déxteram sibi locat, Pater ad déxteram locat, trophæum nostræ salútis ampléctens: tales illic mártyres nobis cicatrícis suæ coróna monstrávit. Et quóniam sermo huc noster usque evasit, considerémus qua grátia secúndum Joánnem crediderint Apóstoli, qui gavísi sunt; secúndum Lucam quasi incréduli redarguántur: ibi Spíritum Sanctum accéperint, hic sedére in civitáte jubeántur, quoadúsque induántur virtúte ex alto. Et vidétur mihi ille quasi Apóstolus majóra et altióra tetigisse, hic sequéntia et humánis próxima: hic histórico usus circúitu, ille compendio.  Nam etsi primo Lucas eos non credidísse dicat, póstea tamen credidisse demonstrat. Et si prima considerémus, contrária sunt: si sequéntia, certum est convenire.
 
 [Responsory2]
 R. Tulérunt Dóminum meum: et néscio ubi posuérunt eum. Dicit ei Angelus: Noli flere, María:
@@ -35,7 +32,7 @@ R. Tulérunt Dóminum meum: et néscio ubi posuérunt eum. Dicit ei Angelus: Nol
 V. Dum ergo fleret, inclinávit se et prospéxit in monuméntum: et vidit duos Angelos in albis sedéntes, qui dicunt ei.
 R. Surréxit sicut dixit: præcédet vos in Galilæam: ibi eum vidébitis, allelúja, allelúja.
 
-[Lectio3]
+[Lectio3] 
 Stetit, inquit, in médio eórum et dixit: Pax vobis: ego sum, nolíte timére. Conturbáti vero et contérriti, existimábant se spíritum vidére. Vidétur separatim se istis úndecim demonstrasse, sicut se Amaóni et Cléophæ seorsum jam véspere demonstráverat. Et quemádmodum isti duo, ita étiam vidéntur illi úndecim ad confirmándos réliquos convenire potuisse. Dénique conturbáti sunt: et ideo apéruit sensum, ut intelligerent ea quæ scripta sunt. Spíritum autem Sanctum vel illis úndecim quasi perfectióribus insufflávit, et réliquis póstea tribuéndum esse promíttit: vel eísdem ibi insufflávit, hic spondet. Nec vidétur esse contrárium.  cum divisiones gratiárum sint. Ibi remittendórum grátia tribúta est peccatórum, quod esse vidétum augústius: et ideo insufflátur a Christo. Lucas autem linguarum grátiam descrípsit effúsam.
 
 [Responsory3]
@@ -44,6 +41,9 @@ V. Non in fermenta malitiæ et nequitiæ: sed in ázymis sinceritátis et verit�
 @Tempora/Pasc0-5:Responsory2:2 s/\*/R./
 &Gloria
 @Psalterium/Common/Translate:Alleluia:s/^/R. /
+
+[Oratio]
+@Tempora/Pasc0-2
 
 [Ant 2]
 @Tempora/Pasc0-2

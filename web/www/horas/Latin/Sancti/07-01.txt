@@ -1,5 +1,12 @@
+[Officium]
+Pretiosissimi Sanguinis Domini Nostri Jesu Christi
+
 [Rank]
-Pretiosissimi Sanguinis Domini Nostri Jesu Christi;;Duplex I classis;;6;;
+;;Duplex I classis;;6;;
+(sed rubrica tridentina)
+;;Duplex II classis;;5;;
+(sed rubrica cisterciensis)
+;;Duplex majus;;4;;
 
 [Rule]
 proprium
@@ -74,7 +81,7 @@ Imbre aquárum víndice,
 Criminósum mersit orbem
 Noë in arca sóspite:
 Mira tandem vis amóris
-Lávit orbem sánguine.
+Lavit orbem sánguine.
 _
 Tam salúbri terra felix
 Irrigáta plúvia,
@@ -105,7 +112,7 @@ Ingruéntium malórum
 Tunc recédant ágmina.
 _
 Te redémptus laudet orbis
-Gráta servans múnera,
+Grata servans múnera,
 O salútis sempitérnæ
 Dux et Auctor ínclite,
 Qui tenes beáta regna
@@ -126,6 +133,18 @@ R. Emúndat nos ab omni peccáto.
 Exívit ergo Jesus * portans corónam spíneam et purpúreum vestiméntum. Et dixit eis: Ecce homo.;;73
 Et bájulans sibi crucem, * exívit in eum, qui dícitur Calváriæ, locum, ubi crucifixérunt eum.;;87
 Ut vidérunt eum jam mórtuum, * non fregérunt ejus crura, sed unus mílitum láncea latus ejus apéruit, et contínuo exívit sanguis et aqua.;;93
+V. Christus diléxit nos.
+R. Et lavit nos a peccátis nostris in sánguine suo.
+
+[Nocturn 1 Versum]
+V. Redemísti nos, Dómine. 
+R. In sánguine tuo.
+
+[Nocturn 2 Versum]
+V. Sanguis Jesu Christi, Fílii Dei.
+R. Emúndat nos ab omni peccáto.
+
+[Nocturn 3 Versum]
 V. Christus diléxit nos.
 R. Et lavit nos a peccátis nostris in sánguine suo.
 

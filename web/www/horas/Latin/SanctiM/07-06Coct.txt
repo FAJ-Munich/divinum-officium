@@ -1,0 +1,5 @@
+[Officium]
+Quinta die infra Octavam Visitationis Beatæ Mariæ Virginis
+
+[Rank]
+;;Semiduplex;;2;;ex Sancti/07-02

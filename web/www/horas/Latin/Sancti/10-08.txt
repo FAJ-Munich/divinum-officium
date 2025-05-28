@@ -1,5 +1,10 @@
+[Officium]
+S. Birgittæ Viduæ
+
 [Rank]
-S. Birgittæ Viduæ;;Duplex;;3;;vide C7a
+;;Duplex;;3;;vide C7a
+(sed rubrica cisterciensis)
+;;Commemoratio;;1;;vide C7a
 
 [Rule]
 vide C7a;

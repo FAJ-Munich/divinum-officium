@@ -154,4 +154,132 @@
 06-29=06-29~06-29oct=Ss. Apostolorum Petri et Pauli=6=Sexta die infra Octavam Nativitatis S. Joannis Baptistae=2=
 06-30=06-30~06-30oct=In Commemoratione Sancti Pauli Apostoli=5=Septima die infra Octavam Nativitatis S. Joannis Baptistae=2=
 *July*
-07-01=07-01~07-01t~07-01oct=Pretiosissimi Sanguinis Domini Nostri Jesu Christi=5=
+07-01=07-01t~07-01oct=In Octava S. Joannis Baptistae=3=Octavae Ss. Petri et Pauli=1=
+07-02=07-02~07-02cc~07-02oct=In Visitatione B Mariae Virginis=6=SS. Processi et Martiniani, Martyrum=1=
+07-03=07-03Coct~07-03oct=Secunda die infra Octavam Visitationis B.M.V.=2=Quinta die infra Octavam Ss. Apostolorum=1.5
+07-04=07-04Coct~07-04oct=Tertia die infra Octavam Visitationis B.M.V.=2=Sexta die infra Octavam Ss. Apostolorum=1.5
+07-05=07-05Coct~07-05oct=Quarta die infra Octavam Visitationis B.M.V.=2=Septima die infra Octavam Ss. Apostolorum=1.5
+07-06=07-06~07-06Coct=In Octava Ss. Apostolorum=2.3=Quinta die infra Octavam Visitationis B.M.V.=2=
+07-07=07-07Coct=Sexta die infra Octavam Visitationis B.M.V.=2=
+07-08=07-08C~07-08Coct=S. Eugenii, Papae et Confessoris=3=Septima die infra Octavam Visitationis B.M.V.=2=
+07-09=07-09Coct=Octava Visitationis B.M.V.=2.3=
+07-10=07-10=SS. Martyrum Septem Fratrum, ac Rufinæ et Secundæ, Virginum et Martyrum=1=
+07-11=07-11=S. Pii, Papæ et Martyris=1=
+07-12=07-12=S. Joannis Gualberti Abbatis=2=
+07-13=07-13=S. Anacleti, Papæ et Martyris=1=
+07-14=07-14=S. Bonaventurae Episcopi Confessoris et Ecclesiae Doctoris=3=
+07-15=07-15=S. Henrici Imperatoris Confessoris=5=
+07-16=07-16C=S.P.N. Stephani, Tertii Abbatis Cistercii=7=
+07-17=07-16~07-17Coct~07-17=Beatæ Mariæ Virginis de Monte Carmelo=5=Secunda die infra Octavam S. P. N. Stephani, Abbatis=2=S. Alexii, Confessoris=1=
+07-18=07-18Coct~07-18o=Tertia die infra Octavam S. P. N. Stephani, Abbatis=2=S. Symphorosæ cum Septem Filiis, Martyribus.=1=
+07-19=07-19Coct=Quarta die infra Octavam S. P. N. Stephani, Abbatis=2=
+07-20=07-20Coct~07-20o=Quinta die infra Octavam S. P. N. Stephani, Abbatis=2=S. Margaritæ, Virginis et Martyris=1=
+07-21=07-21Coct~07-21=Sexta die infra Octavam S. P. N. Stephani, Abbatis=2=S. Praxedis, Virginis=1=
+07-22=07-22C~07-22Coct=S. Mariae Magdalenae Poenitentis=3=Septima die infra Octavam S. P. N. Stephani, Abbatis=2=
+07-23=07-23Coct~07-23=In Octava S. P. N. Stephani, Abbatis=2=S. Apollinaris Episcopi et Mart=1=
+07-24=07-24C~07-24~07-24r=B. Balduini, Abbatis et Confessoris=2=Vigilia S. Jacobi Apostoli=1.5=S. Christinae, Virginis et Martyris=1=
+07-25=07-25~07-25cc=S. Jacobi Apostoli=5=S. Christophori Mart=1=
+07-26=07-26C=S. Joachim et S. Annae Matris BMV=5=
+07-27=07-18~07-27=S. Camilli de Lellis Confessoris=2=S. Pantaleonis, Martyris=1=
+07-28=07-19~07-28=S. Vincentii a Paulo Conf=2=SS. Nazarii et Celsi, Martyrum=1=
+07-29=07-29~07-29cc=S. Marthae Virginis=2=SS. Felicis, Simplicii, Faustini et Beatricis Mart=1=
+07-30=07-20C~07-30=S. Hieronymi Æmiliani, Confessoris=2=S. Abdon et Sennen, Martyrum=1=
+07-31=07-31~07-31C=S. Ignatii Confessoris=2=
+*Augustus*
+08-01=08-01~08-01r=S. Petri ad Vincula=3=SS. Martyrum Machabaeorum=1=
+08-02=08-02~08-02o=S. Alphonsi Mariae de Ligorio, Episc., Conf. et Ecclesiæ Doctoris=3=S. Stephani, Papae et Martyris=1=
+08-03=08-03=Inventionis S. Stephani, Protomartyris=1=
+08-04=08-04=S. Dominici Confessoris=4=
+08-05=08-05=B.M.V. ad Nives=5.1=
+08-06=08-06~08-06cc=The Transfiguratione Domini Nostri Jesu Christi=5.2=SS. Xysti,Felicissimi et Agapiti Martyrum=1=
+08-07=08-07~08-07o=S. Cajetani Thirnæi, Confessoris=2=S. Donati, Ep. et Mart.=1=
+08-08=08-08Ccc=Ss. Cyriaci, Largi et Smaragdi, Martyrum=1=
+08-09=08-09=Vigilia S. Laurentii Martyris=1.5=S. Romani, Martyris=1=
+08-10=08-10=S. Laurentii, Martyris=5=
+08-11=08-11C~08-11=In Susceptione S. Coronæ=4=SS. Tiburtii et Susannae Virg Martyrum=1=
+08-12=08-12=S. Clarae Virginis=3=
+08-13=08-13=SS. Hippoliti et Cassiani, Martyrum=1=
+08-14=08-14~08-14cc=In Vigilia Assumptionis B.M.V.=1.5=S. Eusebii=1=
+08-15=08-15=Assumptione Beatae Mariae Virginis=7=
+08-16=08-16bmv~08-17=Secunda die infra 8vam Assumptionis=2=S. Hyacinthi, Confessoris=1=
+08-17=08-17bmv~08-17t=Tertia die infra 8vam Assimptionis=2=Octavae Laurentii=1=
+08-18=08-18bmv~08-18r=Quarta die infra 8vam Assumptionis=2=S. Agapiti, Martyris=1=
+08-19=08-19bmv=Quinta die infra 8vam Assumptionis=2=
+08-20=08-20C~08-20bmv=S. Bernardi, Abbatis et Ecclesiae Doctoris=6=Sexta die infra 8vam Assumptionis=2=
+08-21=08-21bmv~08-21Coct=Septima die infra Octavam S. Assumptionis=2.1=Secunda die infra Octavam S. Bernardi=2=
+08-22=08-22t~08-22Coct~08-22cc=In Octava Assumptionis BMV=3=Tertia die infra Octavam S. Bernardi=2=SS. Timothei, Hippolyti et Symphoriani, Martyrum=1=
+08-23=08-23o~08-23Coct=Vigilia S. Bartholomaei, Apostoli=1.5=Quarta die infra Octavam S. Bernardi=2=
+08-24=08-24~08-24Coct=S. Bartholomaei, Apostoli=5=Quinta die infra Octavam S. Bernardi=2=
+08-25=08-25~08-25Coct=S. Ludovici, Confessoris=3=Sexta die infra Octavam S. Bernardi=2=
+08-26=08-26Coct~08-26=Septima die infra Octavam S. Bernardi=2=S. Zephirini, Papae et Martyris=1=
+08-27=08-27Coct=In Octava S. Bernardi=2=
+08-28=08-28~08-28cc=S. Augustini Episcopi et Confessoris et Ecclesiae Doctoris=4=S. Hermetis=Mart=1=
+08-29=08-29~08-29cc=Decollatione S. Joannis Baptistae=4=S. Sabinae Mart=1=
+08-30=08-30o=SS. Felicis et Soc. Mart.=1.1=
+08-31=08-27=S. Josephi Calasanctii, Confessoris=2=
+*September*
+09-01=09-01=S. Aegidii, Abbatis=1=
+09-08=09-08~09-08cc=Nativitate Beatae Mariae Virginis=6=S. Adriani, Mart=1=
+09-09=09-09bmv~09-09=Secunda die infra Oct. Nativ. B.M.V.=2=S. Gorgonii, Martyris=1=
+09-10=09-10bmv=Tertia die infra Oct. Nativ. B.M.V.=2=
+09-11=09-11bmv~09-11=Quarta die infra Oct. Nativ. B.M.V.=2=SS. Proti et Hyacinthi, Martyrum=1=
+09-12=09-12bmv=Quinta die infra Oct. Nativ. B.M.V.=2=
+09-13=09-13bmv=Sexta die infra Oct. Nativ. B.M.V.=2=
+09-14=09-14~09-14bmv=In Exaltatione Sanctae crucis=5.2=Septima die infra Oct. Nativ. B.M.V.=2=
+09-15=09-15t~09-15cc=In Oct. Nativ. B.M.V.=2=S. Nicomedis=1=
+09-16=09-16~09-16cc=SS. Cornelii et Cypriani, Martyrum=2=Ss. Euphemiae, Luciae et Geminiani, Martyrum=1=
+09-17=09-17C=S. Lamberti, Epicopi et Confessoris=2=
+09-19=09-19~09-19Ccc=SS. Januarii et Sociorum, Martyrum=1=S. Sequani Abbatis=1=
+09-20=09-20o~09-20=Vigilae St Matthaei Apostoli=1.5=S. Eustachii et Sociorum, Martyrum=1=
+09-21=09-21=S. Matthaei Apostoli et Evangelistae=5=
+09-22=09-22o=SS. Mauritii et Sociorum, Martyrum=2=
+09-23=09-23~09-23cc=S. Lini, Papae et Martyris=1=S. Theclae, Virginis et Martyris=1=
+09-27=09-27=S. Cosmae et Damiani, Martyrum=1=
+09-29=09-29=In Dedicatione S. Michaelis Archangelis=5=
+09-30=09-30=S. Hieronymi Presbyteris Confessoris et Ecclesiae Doctoris=3=
+*October*
+10-00=10-DP=Festum Beatae Mariae Virginis a Rosario=5=
+10-01=10-01=S. Remigii, Episcopi et Confessoris=1=
+10-02=10-02=SS. Angelorum Custodum=5=
+10-04=10-04=S. Francisci Confessoris=3=
+10-05=10-05=S. Placidi et Sociorum, Martyrum=2=
+10-06=10-06=S. Brunonis Confessoris=3=
+10-07=10-07t=S. Marci, Papæ et Confessoris=1=
+10-08=10-08C~10-08=S. Martini, Abbatis=1=S. Brigittae Viduae=1=
+10-09=10-09t=S. Dionysii, Rustici et Eleutherii, Martyrum=2=
+10-13=10-13C=S. Mauritii, Abbasit et Comfessoris=3=
+10-14=10-14=S. Callisti Papae et Martyris=1=
+10-15=10-15=S. Teresiae Virginis=3=
+10-16=10-16=S. Hedwigis, Viduae=3=
+10-18=10-18=S. Lucae Evangelistae=5=
+10-21=10-21C~10-21=SS. Ursulae et Sociarum, Virginum et Martyrum=4=S. Hilarionis Abbatis=1=
+10-25=10-25C~10-25Ccc=S. Bernardi, Episcopi et Confessoris=2=SS. Crispini et Crispiniani, Martyrum=1=
+10-26=10-26=S. Evaristi, Papae et Martyris=1=
+10-27=10-27=In Vigilia SS. Simonis et Judae Apostolorum=1.5=
+10-28=10-28=Ss. Simonis et Judae Apostolorum=5=
+10-31=10-31=In Vigilia Omnium Sanctorum=1.5=
+*November*
+11-01=11-01=Omnium Sanctorum=6=
+11-02=11-02oct=Commemoratio Omnium Fidelium Defunctorum=6=Secunda die infra Octavam Omnium Sanctorum=2=
+11-03=11-03C~11-03oct=S. Malachiæ Episcopi et Confessoris=3=Tertia die infra Octavam Omnium Sanctorum=2=
+11-04=11-04~11-04oct~11-04cc=S. Caroli Episcopi et Confessoris=3=Quarta die infra Octavam Omnium Sanctorum=2=S. Vitalis et Agricolæ=1=
+11-05=11-05oct=Quinta die infra Octavam Omnium Sanctorum=2=
+11-06=11-06oct=Sexta die infra Octavam Omnium Sanctorum=2=
+11-07=11-07oct=Septima die infra Octavam Omnium Sanctorum=2=
+11-08=11-08~11-08r=In Octava Omnium Sanctorum=2=SS. Quatuor Coronatorum Martyrum=1=
+11-09=11-09~11-09cc=In dedicatione Basilicae Ss. Salvatoris=5=S. Theodori=1=
+11-11=11-11~11-11cc=S. Martini Episcopi et Confessoris=2=S. Mennæ, Martyris=1=
+11-12=11-12=S. Martini Papae et Martyris=1=
+11-13=11-13C=All Saints of Cistercian order=2=
+11-15=11-15C=S. Leopoldi, Confessoris=3=
+11-16=11-16C=S. Edmundi, Episcopi et Confessoris=2=
+11-17=11-17=S. Gregorii Thaumaturgi Episcopi et Confessoris=23=
+11-18=11-18=In Dedicatione Basilicarum Ss. Apostolorum Petri et Pauli=5=
+11-19=11-19o~11-19=S. Pontiani, Papæ et Martyris=1=S. Elisabeth, Reginæ et Viduæ=1=
+11-21=11-21=In Præsentatione of Beatæ Mariæ Virginis=6=S. Columbani, Abbatis=1=
+11-22=11-22=S. Ceciliæ Virginis et Martyris=3=
+11-23=11-23~11-23cc=S. Clement Papæ et Martyris=3=S. Felicitatis Martyris=1=
+11-24=11-24o=S. Chrysogoni Martyris=1=
+11-25=11-25=S. Catharinæ Virginis et Martyris=3=
+11-29=11-29~11-29r=Vigilia S. Andreæ Apostoli=1.5=S. Saturnini Martyris=1=
+11-30=11-30=S. Andreæ Apostoli=5=

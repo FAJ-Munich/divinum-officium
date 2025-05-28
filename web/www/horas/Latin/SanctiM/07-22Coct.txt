@@ -1,0 +1,10 @@
+[Officium]
+Septima die infra Octavam S. P. N. Stephani, Abbatis
+
+[Rank]
+;;Semiduplex;;2;;ex SanctiM/07-16C
+
+[Rule]
+Psalmi Feria
+3 Lectio
+no secunda vespera
