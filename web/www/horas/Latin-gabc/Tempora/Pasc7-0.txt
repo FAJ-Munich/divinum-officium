@@ -42,10 +42,12 @@ $Deo gratias
 {initial-style:0;%%(c3) V/. Re(h)plé(h)ti(h) sunt(h) om(h)nes(h) Spí(h)ri(h)tu(h) San(hi)cto,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::) R/. Et(h) cœ(h)pé(h)runt(h) lo(hi)qui,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 1]
-Non vos relínquam * órphanos, allelúja: vado et vénio ad vos, allelúja: et gaudébit cor vestrum, allelúja.
+{name:Non vos relinquam;annotation:1. D;mode:1;book:The Liber Usualis, 1961, p. 862 & Liber antiphonarius, 1960, p. 502;%%(c4) NON(cd~) vos(d) re(d)lín(de~)quam(d) *() ór(dc~)pha(df)nos,(f_e) al(d)le(cd)lú(d_e){ja} :(ddc.) (:) va(f_h)do,(g_[uh:l]h) et(f) vé(g_[uh:l]h)ni(g)o(fe) ad(cd~) vos,(d_f) al(e)le(cd)lú(d_e){ja} :(ddc.) (:) et(c) gau(cd~)dé(d_e)bit(d_c) cor(c_[ll:1]d) ve(f_)strum,(e_[uh:l]f) al(gh)le(fe)lú(d.){ja}.(d.) (::)};;solemn1D
+(sed rubrica monastica)
+{name:Non vos relinquam;annotation:1. D;mode:1;book:Antiphonale Monasticum, 1934, p. 519;transcriber:Matthias Bry;%%(c4)NON(cd~) vos(d) re(d)lín(de~)quam(d') ór(d>)pha(cf)nos,(f_e) al(d>)le(cd)lú(d_e)ja :(ddc.) (;) va(f_h)do,(g_h) et(f) vé(g_h)ni(g)o(fe) ad(cd~) vos,(d_f) al(e>)le(cd)lú(d_e)ja :(ddc.) (:) et(c) gau(cd~)dé(d_e)bit(ddc) cor(c_d) ve(ff)strum,(e_f) al(gh)le(fe)lú(d./)ja.(d.) (::)};;solemn1D
 
 [Oratio]
-Deus, qui hodiérna die corda fidélium Sancti Spíritus illustratióne docuísti: da nobis in eódem Spíritu recta sápere; et de ejus semper consolatióne gaudére.
+{(c3) De(h)us,(h) qui(h) ho(h)di(h)ér(h)na(h) di(h)e(h) cor(h)da(h) fi(h)dé(h)li(h)um(h) San(h)cti(h) Spí(h)ri(h)tus(h) il(h)lus(h)tra(h)ti(h)ó(h)ne(h) do(h)cu(h)ís(h)ti:(f.) †(;) da(h) no(h)bis(h) in(h) e(h)ó(h)dem(h) Spí(h)ri(h)tu(h) rec(g)ta(f) sá(h)pe(h)re;(h.) *(;) et(h) de(h) e(h)jus(h) sem(h)per(h) con(h)so(h)la(h)ti(h)ó(h)ne(h) gau(h)dé(h)re.(d.) (::)}
 $Per Dominum eiusdem
 
 [Invit]

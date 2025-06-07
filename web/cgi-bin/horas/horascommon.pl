@@ -1723,10 +1723,7 @@ sub setheadline {
   if ($lang1 =~ /gabc/i) {
     our $chantTone;
     $winner{Rank} =~ /^(.*?)\;/;
-    return
-      ($1 || $winner{Rank}) . " ~ "
-      . rankname($lang1)
-      . " : Tonus $chantTone";    # Display Chant Tone in Headline
+    return ($1 || $winner{Rank}) . " ~ " . rankname($lang1) . " : Tonus $chantTone";    # Display Chant Tone in Headline
   }
 
   $winner{Rank} =~ /^(.*?)\;/;

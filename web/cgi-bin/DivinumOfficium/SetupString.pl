@@ -176,7 +176,7 @@ sub get_tempus_id {
       : ($month == 2) ? 'post Epiphaniam'
       : 'post Pentecosten in hieme'
     : /^Quadp(\d)/ && ($1 < 3 || $dayofweek < 3)
-      ? ($month == 1 || ($month == 2 && ($day == 1 || $day == 2 && !$vesp_or_comp)))
+    ? ($month == 1 || ($month == 2 && ($day == 1 || $day == 2 && !$vesp_or_comp)))
       ? 'Septuagesimæ post partum'
       : 'Septuagesimæ'
     : /^Quad(\d)/ && $1 < 5 ? 'Quadragesimæ'

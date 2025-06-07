@@ -630,7 +630,8 @@ sub canticum {
     }
   }
 
-  my @psalmi = $canticaTone ? ("$ant;;'" . (229 + $num) . ",$canticaTone'") : ("$ant;;" . (229 + $num));
+  my @psalmi =
+    ($canticaTone && $lang =~ /gabc/i) ? ("$ant;;'" . (229 + $num) . ",$canticaTone'") : ("$ant;;" . (229 + $num));
   antetpsalm(\@psalmi, $duplexf, $lang);
   $s[-1] = "Ant. $ant2" if $ant2;
 }

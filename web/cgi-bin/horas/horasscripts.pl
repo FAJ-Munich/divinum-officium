@@ -230,7 +230,7 @@ sub handleverses {
     # Surrounding space to safeguard against /:‡:/ which needs to remain unchanged
     s/\s‡\s/ † /g unless $noflexa;
 
-    s/\s(\+|\^✠\^\(\))\s/ / if $version =~ /cist/i;      # no sign-of the cross in Cistercian
+    s/\s(\+|\^✠\^\(\))\s/ / if $version =~ /cist/i;    # no sign-of the cross in Cistercian
 
     $_
   } @{$_[0]};
