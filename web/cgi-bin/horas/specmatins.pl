@@ -46,7 +46,7 @@ sub invitatorium {
   my $ant = chompd($invit[$i]);
   my ($w, $c);
 
-  if ( $version =~ /Monastic/i
+  if ( $version =~ /Monastic|Praedicatorum/i
     && $dayofweek
     && $winner =~ /Pasc/
     && $winner !~ /Pasc[07]/
@@ -555,11 +555,11 @@ sub lectiones {
 
   my @a = get_absolutio_et_benedictiones($num, $lang);
 
-  if ($rule !~ /Limit.*?Benedictio/i) {
+  if ($rule !~ /Limit.*?Benedictio/i && $version !~ /Cist/i) {
     push(@s, "\$rubrica Pater secreto") unless $rule =~ /sine absolutio/i;
     push(@s, "\$Pater noster Et") unless $rule =~ /sine absolutio/i;
     push(@s, "Absolutio. $a[0]", '$Amen') unless $version =~ /^Ordo Praedicatorum/ || $rule =~ /sine absolutio/i;
-  } else {
+  } elsif ($version !~ /Cist/i || $rule =~ /Matutinum Romanum/i) {
     push(@s, "\$Pater totum secreto");
   }
   push(@s, "\n");
@@ -913,6 +913,7 @@ sub lectio : ScriptFunc {
       # Monastic: Commemoratio Sancti unless Sunday outranking duplex or Feast of 1st class (or octave) on a Feria
       || ( $rule =~ /12 lectio/i
         && $num == 12
+        && $version != /Cist/i
         && !(($rank > 5.5 && $dayofweek && !homilyflag) || ($winner{Rank} =~ /Dominica/i && $rank > 3)))
     )
 
@@ -1120,7 +1121,7 @@ sub lectio : ScriptFunc {
     } else {
 
       #      if ($version =~ /monastic/i && $dayofweek != 0 && $month == 1 && $day > 6 && $day < 13) {
-##        die $w{"Rank"};
+      ##        die $w{"Rank"};
       #        $na += 4 if ($dayofweek == 2 || $dayofweek == 5);
       #
       #        if ($dayofweek == 3) {    # Saturday dont work due C10 || $dayofweek == 6 ) {

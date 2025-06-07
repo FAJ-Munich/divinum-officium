@@ -571,7 +571,7 @@ R. In fractióne panis, allelúia.
 @:Responsory Pasch NonaC_
 
 [Hymnus Pasc7 Tertia]
-!Prima stropha hymni sequentis dicitur flexibus genibus.
+/:Prima stropha hymni sequentis dicitur flexibus genibus.:/
 v. Veni Creátor Spíritus,
 Mentes tuórum vísita,
 Imple supérna grátia,
@@ -602,14 +602,14 @@ Noscámus atque Fílium,
 Teque utriúsque Spíritum
 Credámus omni témpore.
 _
-Deo Patri sit glória,
+* Deo Patri sit glória,
 Et Fílio, qui a mórtuis
 Surréxit, ac Paráclito,
 In sæculórum sǽcula.
 Amen.
 
 [HymnusM Pasc7 Tertia]
-@:Hymnus Pasc7 Tertia:s/díceris Paráclitus/Paráclitus díceris/ s/Altíssimi donum Dei/Donum Dei altíssimi/ s/Dígitus patérnæ déxteræ/Dextræ Dei tu dígitus/ s/Teque/Te/ s/Deo Patri sit glória/Glória Patri Domino/ s/Et Fílio/Natóque/
+@:Hymnus Pasc7 Tertia:s/díceris Paráclitus/Paráclitus díceris/ s/Altíssimi donum Dei/Donum Dei altíssimi/ s/Dígitus patérnæ déxteræ/Dextræ Dei tu dígitus/ s/Teque/Te/
 
 [Hymnus Tertia]
 v. Nunc, Sancte, nobis, Spíritus,
@@ -740,17 +740,10 @@ Amen.
 _
 @Psalterium/Doxologies:AscT
 
-[Hymnus Completorium Pent Dox] (rubrica Ordo Praedicatorum)
-Sit laus Patri cum Fílio,
-Sancto simul Paráclito:
-Nobísque mittat Fílius
-Charisma Sancti Spíritus.
-Amen.
-
 [Hymnus Completorium Pent] (rubrica Ordo Praedicatorum)
 @Tempora/Pasc5-4:HymnusM Vespera:1-20
 @Tempora/Pasc7-0:Hymnus Laudes:26-30
-@:Hymnus Completorium Pent Dox
+*
 
 [Lectio Completorium]
 !1 Pet 5:8-9

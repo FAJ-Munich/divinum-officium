@@ -9,7 +9,6 @@ ex Pasc7-0;
 1 nocturn;
 Psalmi Dominica;
 Antiphonas horas
-Hymnus Tertia
 No commemoration
 
 [Oratio]
@@ -54,6 +53,5 @@ Ego sum óstium, * dicit Dóminus: per me si quis introíerit, salvábitur, et p
 
 [Ant 3]
 Pacem * relínquo vobis, pacem meam do vobis: non quómodo mundus dat, ego do vobis, allelúja.
-
-[Ant 3] (rubrica cisterciensis)
+(sed rubrica cisterciensis aut rubrica praedicatorum)
 Amen, dico vobis, * qui non intrat per óstium in ovíle óvium, sed ascéndit aliúnde, ille fur est, et latro: qui autem intrat per óstium, pastor est óvium, allelúia.
