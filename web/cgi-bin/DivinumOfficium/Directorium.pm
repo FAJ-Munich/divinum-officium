@@ -224,8 +224,10 @@ sub dirge {
     $hora =~ /Laudes/i
     ? get_sday($month, $day, $year)
     : nextday($month, $day, $year);
-  my $dirgeline = get_from_directorium('transfer', $version, 'dirge1', $year) . ' '
-    . get_from_directorium('transfer', $version, 'dirge2', $year);
+  my $dirgeline =
+      get_from_directorium('transfer', $version, 'dirge1', $year) . ' '
+    . get_from_directorium('transfer', $version, 'dirge2', $year) . ' '
+    . get_from_directorium('transfer', $version, 'dirge3', $year);
   $dirgeline =~ /$sday/;
 }
 
