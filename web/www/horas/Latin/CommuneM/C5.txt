@@ -276,7 +276,7 @@ _
 @Commune/C5:Lectio5 in 2 loco:s/ Sed hæc .*//s
 
 [Lectio6 in 2 loco] (rubrica cisterciensis)
-@Commune/C5:Lectio4 in 2 loco:s/16/29/ s/.* Hæc sibi /Hæc sibi /s 
+@Commune/C5:Lectio4 in 2 loco:s/16/29/ s/.* Hæc sibi /Hæc sibi /s
 
 [Lectio7 in 2 loco]
 @Commune/C5:Lectio5 in 2 loco:s/.* Sed hæc /Sed hæc /s

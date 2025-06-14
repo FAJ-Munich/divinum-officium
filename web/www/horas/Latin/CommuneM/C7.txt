@@ -70,7 +70,7 @@ De Parábolis Salomónis.
 12 Reddet ei bonum, et non malum, ómnibus diébus vitæ suæ. 
 13 Quæsívit lanam et linum, et operáta est consílio mánuum suárum. 
 14 Facta est quasi navis institóris, de longe portans panem suum. 
-15 Et de nocte surréxit, dedítque prædam domésticis suis, et cibária ancíllis suis.	
+15 Et de nocte surréxit, dedítque prædam domésticis suis, et cibária ancíllis suis.
 
 [Lectio2] (rubrica cisterciensis)
 !Prov 31:16-20
@@ -88,7 +88,7 @@ De Parábolis Salomónis.
 24 Síndonem fecit, et véndidit, et cíngulum trádidit Chananæo.
 25 Fortitúdo et decor induméntum ejus, et ridébit in die novíssimo.
 26 Os suum apéruit sapiéntiæ, et lex cleméntiæ in lingua ejus.
-	
+
 [Lectio4] (rubrica cisterciensis)
 !Prov 31:27-31
 27 Considerávit semitas domus suæ, et panem otiósa non comédit.
