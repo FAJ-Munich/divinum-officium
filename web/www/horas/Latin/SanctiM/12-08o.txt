@@ -8,13 +8,10 @@ ex C11;
 12 lectiones
 Antiphonas horas
 Doxology=Nat
-Ant Matutinum 13 special
+Ant Matutinum 12 special
 
 [Ant Matutinum 3N]
 Hodie concepta est beata virgo Maria ex progenie David, * per quam salus mundi credentibus apparuit.
-
-[Ant Matutinum 13]
-@Sancti/03-25:Ant Matutinum 12
 
 [Lectio1]
 @Sancti/12-08o::s/11.*//s s/-13/-11/
@@ -117,5 +114,5 @@ R. Sancta et immaculata virginitas, quibus te laudibus efferam nescio:
 V. Benedicta tu in mulieribus, et benedictus fructus ventris tui.
 R. Quia quem cæli capere non poterant, tuo gremio contulisti.
 
-[LectioE]
+[Evangelium]
 @Sancti/09-08

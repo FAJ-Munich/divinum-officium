@@ -6,19 +6,39 @@
 [Oratio]
 @Commune/C5b
 
+[Lectio1] (rubrica cisterciensis)
+@CommuneM/C4:Lectio1 in 2 loco
+
+[Lectio2] (rubrica cisterciensis)
+@CommuneM/C4:Lectio2 in 2 loco
+
+[Lectio3] (rubrica cisterciensis)
+@CommuneM/C4:Lectio3 in 2 loco
+
+[Lectio4] (rubrica cisterciensis)
+@CommuneM/C4:Lectio4 in 2 loco
+
 [Lectio9]
 @Commune/C1:Lectio7
+(sed rubrica cisterciensis)
+@Commune/C1:Lectio7:s/Jesus autem.*//
 
 [Lectio10]
 @Commune/C1:Lectio8:s/ Locus .*//s
+(sed rubrica cisterciensis)
+@Commune/C1:Lectio7:s/.*Jesus autem/Jesus autem/
 
 [Lectio11]
 @Commune/C1:Lectio8:s/.* Locus /Locus /s
+(sed rubrica cisterciensis)
+@Commune/C1:Lectio8:s/ Locus .*//s
 
 [Lectio12]
 @Commune/C1:Lectio9
+(sed rubrica cisterciensis)
+@Commune/C1:Lectio8:s/.* Locus /Locus /s
 
-[LectioE]
+[Evangelium]
 @Commune/C5b
 
 [Lectio9 in 2 loco]
@@ -47,6 +67,11 @@
 
 [Lectio12 in 3 loco]
 @Commune/C1:Lectio9 in 2 loco:s/.* Sciéndum /Sciéndum /s
+
+[Evangelium in 3 loco]
+Léctio sancti Evangélii secúndum Matthǽum
+!Matt 19:27-29
+In illo témpore: Dixit Petrus ad Jesum: Ecce nos relíquimus ómnia, et secúti sumus te: quid ergo erit nobis? Jesus autem dixit illis: Amen dico vobis, quod vos, qui secúti estis me, in regeneratióne cum séderit Fílius hóminis in sede Majestátis suæ, sedébitis et vos super sedes duódecim, judicántes duódecim tribus Israël. Et omnis qui relíquerit domum, vel fratres, aut soróres, aut patrem, aut matrem, aut uxórem, aut fílios, aut agros propter nomen meum, céntuplum accípiet, et vitam ætérnam possidébit.
 
 [Lectio9 in 4 loco]
 Léctio sancti Evangélii secúndum Matthǽum
