@@ -4,7 +4,7 @@ Dominica Sanctissimæ Trinitatis
 [Rank]
 ;;Duplex I classis;;6.5
 
-[Rank] (rubrica tridentina)
+[Rank] (rubrica tridentina nisi rubrica Bavariae)
 ;;Duplex II classis;;5.9
 
 [Rule]
