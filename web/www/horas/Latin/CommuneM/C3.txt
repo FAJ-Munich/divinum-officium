@@ -227,7 +227,7 @@ Tradidérunt * córpora sua ad supplícia: ídeo coronántur, et accípiunt palm
 @Commune/C3:Lectio5 in 2 loco
 
 [Lectio7 in 2 loco]
-@Commune/C3:Lectio6 in 2 loco:s/Habes.*// 
+@Commune/C3:Lectio6 in 2 loco:s/Habes.*//
 
 [Lectio8 in 2 loco_]
 His te jamdúdum Dóminus per grátiam ímbuit, et póstmodum Apóstolus Paulus armávit. Hæc sunt arma, quibus dimicárunt Sancti, quorum virtútes díligis et victórias admiráris. Imitáre, christiáne, quos díligis Sanctos; et quorum virtútes frequéntas, eórum vitam et institúta sectáre. Esto talis de eórum exémplo; quia et hi de superiórum tales effécti sunt. Nec enim virtus ab eo póterit imitári cujúsquam, qui ejus vitam non fúerit imitátus.

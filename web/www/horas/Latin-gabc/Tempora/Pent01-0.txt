@@ -58,9 +58,11 @@ _
 {initial-style:0;%%(c3) V/. Ves(h)per(h)tí(h)na(h) o(h)rá(h)ti(h)o(h) a(h)scén(h)dat(h) ad(h) te,(h) Dó(h)mi(h)ne.(f.) (::)
 R/. Et(h) de(h)scén(h)dat(h) su(h)per(h) nos(h) mi(h)se(h)ri(h)cór(h)di(h)a(h) tu(h)a.(f.) (::)}
 _
-$Oremus
-. {(c3) De(h)us,(h) in(h) te(h) spe(h)rán(h)ti(h)um(h) for(h)ti(h)tú(h)do,(h) a(h)dés(h)to(h) pro(h)pí(h)ti(h)us(h) in(h)vo(h)ca(h)ti(h)ó(h)ni(h)bus(h) nos(h)tris:(f.) †(;) et,(h) qui(h)a(h) si(h)ne(h) te(h) ni(h)hil(h) pot(h)est(h) mor(h)tá(h)lis(h) in(h)fír(h)mi(h)tas,(h) præ(h)sta(h) au(h)xí(h)li(h)um(h) grá(h)ti(g)æ(f) tu(h)æ;(h.) *(;) ut,(h) in(h) ex(h)se(h)quén(h)dis(h) man(h)dá(h)tis(h) tu(h)is,(h) et(h) vo(h)lun(h)tá(h)te(h) ti(h)bi(h) et(h) ac(h)ti(h)ó(h)ne(h) pla(h)ce(h)á(h)mus.(d.) (::)}
-$Per Dominum
+$Oremus solemnis
+{(c4) De(g)us,(h) in(h) te(h) spe(h)rán(h)ti(h)um(h) for(h)ti(h)tú(h)do,(h) a(h)dés(h)to(h) pro(h)pí(h)ti(h)us(h) in(h)vo(h)ca(h)ti(h)ó(h)ni(h)bus(h) nos(h)tris:(g.) †(;) et,(g) qui(h)a(h) si(h)ne(h) te(h) ni(h)hil(h) pot(h)est(h) mor(h)tá(h)lis(h) in(h)fír(h)mi(h)tas,(h) præ(h)sta(h) au(h)xí(h)li(h)um(h) grá(h)ti(h)æ(h) tu(h)æ;(h.) *(;) ut,(h) in(h) ex(h)se(h)quén(h)dis(h) man(h)dá(h)tis(h) tu(h)is,(h) et(h) vo(h)lun(h)tá(h)te(h) ti(h)bi(h) et(h) ac(h)ti(h)ó(h)ne(h) pla(h)ce(g)á(g)mus.(i.) (::)}
+(sed rubrica monastica)
+{(c3) De(h)us,(i) in(i) te(i) spe(i)rán(i)ti(i)um(i) for(i)ti(i)tú(i)do,(i) a(i)dés(i)to(i) pro(i)pí(i)ti(i)us(i) in(i)vo(i)ca(i)ti(i)ó(i)ni(i)bus(i) nos(i)tris:(h.) †(;) et,(h) qui(i)a(i) si(i)ne(i) te(i) ni(i)hil(i) pot(i)est(i) mor(i)tá(i)lis(i) in(i)fír(i)mi(i)tas,(i) præ(i)sta(i) au(i)xí(i)li(i)um(i) grá(i)ti(i)æ(i) tu(i)æ;(i_') *(;) ut,(i) in(i) ex(i)se(i)quén(i)dis(i) man(i)dá(i)tis(i) tu(i)is,(i) et(i) vo(i)lun(i)tá(i)te(i) ti(i)bi(i) et(i) ac(i)ti(i)ó(i)ne(i) pla(i)ce(h)á(h)mus.(i.) (::)}
+$Per Dominum solemnis
 
 [Invit]
 {name:Deum verum unum in Trinitate;annotation:4.;mode:4;book:Nocturnale Romanum, 2002, p. 504;transcriber:Marek Klein;%%(f3)De(e!fwg!ho~)um(g>) ve(fh/hO1g)rum,(fe) u(fg)num(g) in(g>) Tri(e)ni(fh)tá(g!hwi)te,(hhO1g) (,) et(g) Tri(i)ni(ij)tá(ji/jvIHi)tem(hhO1g) in(g) U(fe)ni(fh)tá(g!hwiHG)te,(ffog) (;) * Ve(ef)ní(g)te,(hi) a(ih/ijIHho~)do(fg)ré(g)mus.(g) (::)};;4d

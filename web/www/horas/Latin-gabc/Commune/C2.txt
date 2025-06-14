@@ -1,0 +1,4 @@
+[HymnusM Vespera]
+@:Hymnus Vespera:s/blanda fraudum pábula/blandiménta nóxia/ s/Imbúta felle députans/Cadúca rite députans/ s/Fundénsque pro te/Pro te effúndens/ s/Patri sit, atque/Deo Patri, et/
+(sed tempore paschali)
+{gabc:Commune/C2/hy--deus_tuorum_tp--solesmes_1934}

@@ -85,7 +85,8 @@ In sempitérna sǽcula.
 Amen.
 
 [Versum 1]
-@:Ant Matutinum:4-5
+V. Sancti et justi in Dómino gaudéte, allelúja.
+R. Vos elégit Deus in hereditátem sibi, allelúja.
 
 [Versum 1] (rubrica cisterciensis)
 V. Nimis honoráti sunt amíci tui, Deus, allelúia.

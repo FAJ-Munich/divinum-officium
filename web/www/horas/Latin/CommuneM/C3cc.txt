@@ -7,11 +7,11 @@ Commune Plurium Martyrum Commemoratum
 [Ant 2]
 @CommuneM/C3:Ant 3
 
-[Versum 1] 
+[Versum 1]
 @CommuneM/C3:Nocturn 1 Versum
 
-[Versum 2] 
+[Versum 2]
 @:Versum 1
 
-[Versum 3] 
+[Versum 3]
 @:Versum 1
