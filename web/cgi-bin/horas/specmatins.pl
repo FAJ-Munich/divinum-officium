@@ -714,7 +714,7 @@ sub lectio : ScriptFunc {
   }
   my $w = $w{"Lectio$num"};
 
-  if ($nocturn == 1 && $rule =~ /Lectio1 Quad/i && $dayname[0] !~ /Quad\d/i) {
+  if ($nocturn == 1 && $rule =~ /Lectio1 Quad/i && $dayname[0] !~ /Quad(\d|p3\-[3456])/i) {
 
     # For some Saints, the assigned I nocturn readings (from Commune) are valid in Quadragesima only;
     # in Septuag/Paschaltide, these get the Lessons from the occurent scripture instead (e.g., 04-13)

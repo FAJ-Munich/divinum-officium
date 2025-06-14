@@ -271,7 +271,7 @@ sub occurrence {
       if (
         ($trank[2] >= (($version =~ /19(?:55|6)/i) ? 6 : 7) && $srank[2] < 6)
         || (
-          $trank !~ /Dominica|Feria|Sabbato/i && (
+          $trank !~ /Dominica(?!.*Trinitatis)|Feria|Sabbato/i && (
             ($trank[2] >= 6 && $srank[2] < 2.1)    # on Duplex I. cl nothing of Simplex and common octaves
             || ($trank[2] >= 5 && $srank[2] == 2 && $srank[2] =~ /infra octavam/i)
           )
@@ -538,8 +538,8 @@ sub occurrence {
           my @tsfile = split('~', $ittable);
           my $tsfile = subdirname('Tempora', $version) . $tsfile[0] . ".txt";
           %tscrip = %{officestring('Latin', $tsfile)};
-          $tsrank = $tscrip{Rank};
-          $tsrank =~ s/\s*;;.*//s;
+          $tsrank = $tscrip{Rank} || $tscrip{Scriptura};
+          $tsrank =~ s/\s*;;.*|\s*$//s;
           $initia = ($tscrip{Lectio1} =~ /!.*? 1\:1\-/) ? 1 : 0;
           $officename[2] = "Tempora: $trank[0] (Scriptura ut in: $tsrank)";
         } else {
@@ -801,7 +801,7 @@ sub concurrence {
     $octvespera = 1 if $version =~ /cist/i && $dayofweek == 6;
   }
 
-  if ($ctrank[0] =~ /Dominica/i
+  if ($ctrank[0] =~ /Dominica|Trinitatis/i
     && !($version =~ /19(?:55|6)|altovadensis/i && $ctrank[0] =~ /Dominica Resurrectionis/i))
   {
 
@@ -920,7 +920,8 @@ sub concurrence {
       $cvespera = 0;
       $winner = $cwinner;
 
-      if ($crank < 7 && $comrank > 2) {
+      if ($crank < 7 && ($crank != 6.5 && $crank != 6) && $comrank > 2 && $cwinner{Rule} !~ /no commemoratio/i) {
+        # Unless the next day is a genuine Duplex I. classis feast, Semiduplex saints get commemorated
         my $hodie = $comrank >= $ccomrank ? 'hodiernorum tantum' : 'tantum';
         $tomorrowname[2] = $dayname[2] .= "<br/>Vespera de sequenti; Commemoratio Sanctorum $hodie";
       } else {
@@ -1780,7 +1781,7 @@ sub rankname {
         : (/Epi[1-6]|Pent[22-23]/ && $dayofweek && !($dayofweek == 6 && $hora =~ /(?:Vespera|Completorium)/))
         ? 3                                                             # 'Semiduplex Dominica anticipata'
         : 4;                                                            # 'Semiduplex Dominica minor';
-      $i = 2 if $version =~ /Trident/ && /Quad[2-4]/;
+      $i = 2 if $version =~ /Trident/ && /Quad[2-4]/;                   # 'Semiduplex Dominica II. classis'
       $rankname = $sundaytable[$i];
 
       if ($version =~ /cist/i) {
