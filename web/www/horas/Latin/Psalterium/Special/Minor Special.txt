@@ -240,9 +240,9 @@ _
 
 [Responsory Quad Sexta] (rubrica Praedicatorum)
 R. Ab omni via mala prohíbui pedes meos:
-* Ut custódiam mándata tua Dómine.
+* Ut custódiam mandáta tua Dómine.
 V. A judíciis tuis non declinávi, quia tu legem posuísti mihi.
-R. Ut custódiam mándata tua Dómine.
+R. Ut custódiam mandáta tua Dómine.
 &Gloria
 R. Ab omni via mala prohíbui pedes meos.
 _
@@ -571,7 +571,7 @@ R. In fractióne panis, allelúia.
 @:Responsory Pasch NonaC_
 
 [Hymnus Pasc7 Tertia]
-!Prima stropha hymni sequentis dicitur flexibus genibus.
+/:Prima stropha hymni sequentis dicitur flexibus genibus.:/
 v. Veni Creátor Spíritus,
 Mentes tuórum vísita,
 Imple supérna grátia,
@@ -602,14 +602,14 @@ Noscámus atque Fílium,
 Teque utriúsque Spíritum
 Credámus omni témpore.
 _
-Deo Patri sit glória,
+* Deo Patri sit glória,
 Et Fílio, qui a mórtuis
 Surréxit, ac Paráclito,
 In sæculórum sǽcula.
 Amen.
 
 [HymnusM Pasc7 Tertia]
-@:Hymnus Pasc7 Tertia:s/díceris Paráclitus/Paráclitus díceris/ s/Altíssimi donum Dei/Donum Dei altíssimi/ s/Dígitus patérnæ déxteræ/Dextræ Dei tu dígitus/ s/Teque/Te/ s/Deo Patri sit glória/Glória Patri Domino/ s/Et Fílio/Natóque/
+@:Hymnus Pasc7 Tertia:s/díceris Paráclitus/Paráclitus díceris/ s/Altíssimi donum Dei/Donum Dei altíssimi/ s/Dígitus patérnæ déxteræ/Dextræ Dei tu dígitus/ s/Teque/Te/
 
 [Hymnus Tertia]
 v. Nunc, Sancte, nobis, Spíritus,
@@ -678,7 +678,7 @@ Sis præsul et custódia.
 _
 Procul recédant sómnia,
 Et nóctium phantásmata;
-Hostémque nóstrum cómprime,
+Hostémque nostrum cómprime,
 Ne polluántur córpora.
 _
 * Præsta, Pater piíssime,
@@ -740,17 +740,10 @@ Amen.
 _
 @Psalterium/Doxologies:AscT
 
-[Hymnus Completorium Pent Dox] (rubrica Ordo Praedicatorum)
-Sit laus Patri cum Fílio,
-Sancto simul Paráclito:
-Nobísque mittat Fílius
-Charisma Sancti Spíritus.
-Amen.
-
 [Hymnus Completorium Pent] (rubrica Ordo Praedicatorum)
 @Tempora/Pasc5-4:HymnusM Vespera:1-20
 @Tempora/Pasc7-0:Hymnus Laudes:26-30
-@:Hymnus Completorium Pent Dox
+*
 
 [Lectio Completorium]
 !1 Pet 5:8-9
@@ -789,7 +782,7 @@ Salva nos, * Dómine, vigilántes, custódi nos dormiéntes; ut vigilémus cum C
 Evígila super nos, * ætérne Salvátor, ne nos apprehéndat cállidus tentátor, quia tu nobis factus es sempitérnus adjútor.
 
 [Ant 4 Quad3]
-Média vita in mórte sumus: quem quǽrimus adjutórem, nísi te, Dómine, qui pro peccátis nostris juste irásceris? * Sancte Deus, Sancte fortis, Sancte et miséricors Salvátor, amáræ morti ne trádas nos.
+Média vita in morte sumus: quem quǽrimus adjutórem, nisi te, Dómine, qui pro peccátis nostris juste irásceris? * Sancte Deus, Sancte fortis, Sancte et miséricors Salvátor, amáræ morti ne tradas nos.
 V. Ne projícias nos in témpore senectutis; cum defécerit virtus nostra, ne derelínquas nos, Dómine. Sancte Deus.
 
 [Ant 4 Quad5]

@@ -1,0 +1,8 @@
+[Officium]
+Septima die infra Octavam Visitationis Beatæ Mariæ Virginis
+
+[Rank]
+;;Semiduplex;;2;;ex Sancti/07-02
+
+[Rule]
+no secunda vespera

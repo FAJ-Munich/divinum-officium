@@ -137,12 +137,10 @@ R. Und mit deinem Geiste.
 !Et pronuntians: Aus dem heiligen Evangelium nach N., signat librum, et se in fronte, ore et pectore, et legit Evangelium, ut dictum est. Quo finito, respondet Minister: Laus tibi, Christe, et Sacerdos osculatur Evangelium, dicens: per evangelica dicta, ut supra.
 &evangelium
 
-# Credo
+# Glaubensbekenntnis
 !*&Credo
-!Deinde ad medium Altaris extendens, elevans et jungens manus, dicit, si dicendum est, Credo in unum Deum, et prosequitur junctis manibus. Cum dicit Deum, caput Cruci inclinat: quod similiter facit, cum dicit Jesum Christum, et simul adorátur. Ad illa autem verba Et incarnátus est, genuflectit usque dum dicatur Et homo factus est. In fine ad Et vitam ventúri saeculi, signat se signo crucis a fronte ad pectus.
-v. Ich glaube an den einen Gott. Den allmächtigen Vater, Schöpfer des Himmels und der Erde, aller sichtbaren und unsichtbaren Dinge.
-Und an den einen Herrn Jesus Christus, Gottes eingeborenen Sohn. Er ist aus dem Vater geboren vor aller Zeit. Gott von Gott, Licht vom Lichte, wahrer Gott vom wahren Gott, gezeugt, nicht geschaffen, eines Wesens mit dem Vater; durch ihn ist alles geschaffen. Für uns Menschen und um unseres Heiles willen ist er vom Himmel herabgestiegen. (hier knien alle) Er hat Fleisch angenommen durch den Heiligen Geist aus Maria, der Jungfrau, und ist Mensch geworden. Gekreuzigt wurde er sogar für uns. Unter Pontius Pilatus hat er den Tod erlitten und ist begraben worden. Er ist auferstanden am dritten Tage, gemäß der Schrift; er ist aufgefahren in den Himmel und sitzet zur Rechten des Vaters. Er wird wiederkommen in Herrlichkeit, Gericht zu halten über Lebende und Tote, und seines Reiches wird kein Ende sein.
-Ich glaube an den Heiligen Geist, den Herrn und Lebensspender, der vom Vater und vom Sohne ausgeht. Er wird mit dem Vater und dem Sohne zugleich angebetet und verherrlicht. Er hat gesprochen durch die Propheten. Ich glaube an die eine, heilige, katholische und apostolische Kirche. Ich bekenne die eine Taufe zur Vergebung der Sünden. Ich erwarte die Auferstehung der Toten. Und das Leben der zukünftigen Welt. Amen.
+!Deinde ad medium Altaris extendens, elevans et jungens manus, dicit, si dicendum est, Credo in unum Deum, et prosequitur junctis manibus. Cum dicit Deum, caput Cruci inclinat: quod similiter facit, cum dicit Jesum Christum, et simul adorátur. Ad illa autem verba Et incarnátus est, genuflectit usque dum dicatur Et homo factus est. In fine ad Et vitam ventúri sæculi, signat se signo crucis a fronte ad pectus.
+v. Ich glaube an den einen Gott. Den allmächtigen Vater, Schöpfer des Himmels und der Erde, aller sichtbaren und unsichtbaren Dinge. Und an den einen Herrn Jesus Christus, Gottes eingeborenen Sohn. Er ist aus dem Vater geboren vor aller Zeit. Gott von Gott, Licht vom Lichte, wahrer Gott vom wahren Gott, gezeugt, nicht geschaffen, eines Wesens mit dem Vater; durch ihn ist alles geschaffen. Für uns Menschen und um unseres Heiles willen ist er vom Himmel herabgestiegen. (hier knien alle) Er hat Fleisch angenommen durch den Heiligen Geist aus Maria, der Jungfrau, und ist Mensch geworden. Gekreuzigt wurde er sogar für uns. Unter Pontius Pilatus hat er den Tod erlitten und ist begraben worden. Er ist auferstanden am dritten Tage, gemäß der Schrift; er ist aufgefahren in den Himmel und sitzet zur Rechten des Vaters. Er wird wiederkommen in Herrlichkeit, Gericht zu halten über Lebende und Tote, und seines Reiches wird kein Ende sein. Ich glaube an den Heiligen Geist, den Herrn und Lebensspender, der vom Vater und vom Sohne ausgeht. Er wird mit dem Vater und dem Sohne zugleich angebetet und verherrlicht. Er hat gesprochen durch die Propheten. Ich glaube an die eine, heilige, katholische und apostolische Kirche. Ich bekenne die eine Taufe zur Vergebung der Sünden. Ich erwarte die Auferstehung der Toten. Und das Leben der zukünftigen Welt. Amen.
 
 # Offertorium
 !Deinde osculatur Altare, et versus ad populum, dicit:
@@ -169,7 +167,7 @@ v. Laß uns, Herr, im Geiste der Demut und mit zerknirschtem Herzen bei Dir Aufn
 v. Komm, Heiligmacher, allmächtiger ewiger Gott, (die Hostie segnend) und + segne dieses Opfer, das Deinem heiligen Namen bereitet ist.
 
 !*S
-# Incense
+# Beweihräucherung
 !Postea, si sollemniter celebrat, benedicit incensum, dicens:
 v. Per intercessiónem beáti Michaélis Archángeli, stantis a dextris altáris incénsi, et ómnium electórum suórum, incénsum istud dignétur Dóminus bene + dícere, et in odórem suavitátis accípere. Per Christum, Dóminum nostrum. Amen.
 !Et, accepto thuribulo a Diacono, incensat Oblata, modo in Rubricis generalibus præscripto, dicens:
@@ -202,7 +200,7 @@ _
 !!Secreta
 &secreta
 
-# Prefatio
+# Präfation
 !Quibus finitis, cum pervenerit ad conclusionem, clara voce dicit: Per ómnia saecula sæculórum, cum Præfatione, ut in sequentibus. Præfationem incipit ambabus manibus positis hinc inde super Altare: quas aliquantulum elevat, cum dicit: Sursum corda. Jungit eas ante pectus, et caput inclinat, cum dicit: Grátias agamus Dómino, Deo nostro. Deinde disjungit manus, et disjunctas tenet usque ad finem Præfationis: qua finita, iterum jungit eas, et inclinatus dicit: Sanctus. Et cum dicit: Benedíctus, qui venit, signum crucis sibi producit a fronte ad pectus.
 V. Der Herr sei mit euch.
 R. Und mit deinem Geiste.
@@ -235,21 +233,20 @@ v. Qui prídie quam paterétur, (Accipit Hostiam,) accépit panem in sanctas ac 
 
 !Tenens ambabus manibus Hostiam inter indices et pollices, profert verba consecrationis secrete, distincte et attente super Hostiam, et simul super omnes, si plures sint consecrandæ.
 _
-!!!HOC EST ENIM CORPUS MEUM.
+!!!DAS IST MEIN LEIB.
 _
 !Quibus verbis prolatis, statim Hostiam consecratam genuflexus adorat: surgit, ostendit populo, reponit super Corporale, et genuflexus iterum adorat: nec amplius pollices et indices disjungit, nisi quando Hostia tractanda est, usque ad ablutionem digitorum.
 wait5
 
 (Tunc, detecto Calice, dicit:)~
-v. Símili modo postquam coenátum est, (Ambabus manibus accipit Calicem,) accípiens et hunc præclárum Cálicem in sanctas ac venerábiles manus suas: (item Caput inclinat,) tibi grátias agens, (Sinistra tenens Calicem, dextera signat super eum,) bene + dixit, dedítque discípulis suis, dicens: Accípite, et bíbite ex eo omnes.
-
+v. In gleicher Weise nahm er nach dem Mahle diesen wunderbaren Kelch in seine heiligen und ehrwürdigen Hände (Er nimmt den Kelch mit beiden Händen.), dankte Dir abermals (Er nimmt den Kelch in die linke Hand und unterschreibt ihn mit der rechten Hand mit dem Kreuzzeichen.), segnete + ihn und gab ihn seinen Jüngern mit den Worten: Nehmet hin und trinket alle daraus.
 !Profert verba consecrationis super Calicem, attente, continuate, et secrete, tenens illum parum elevatum.
-_
-!!!HIC EST ENIM CALIX SANGUINIS MEI, NOVI ET AETERNI TESTAMENTI: MYSTERIUM FIDEI: QUI PRO VOBIS ET PRO MULTIS EFFUNDETUR IN REMISSIONEM PECCATORUM.
+
+!!!DAS IST DER KELCH MEINES BLUTES, DES NEUEN UND EWIGEN BUNDES: GEHEIMNIS DES GLAUBENS: DAS FÜR EUCH UND FÜR DIE VIELEN VERGOSSEN WIRD ZUR VERGEBUNG DER SÜNDEN&period;
 wait5
 _
 !Quibus verbis prolatis, deponit Calicem super Corporale, et dicens secrete:
-v. Hæc quotiescúmque fecéritis, in mei memóriam faciétis.
+v. Sooft ihr dieses vollzieht, tut ihr dies zu meinem Gedächtnis.
 !Genuflexus adorat: surgit, ostendit populo, deponit, cooperit, et genuflexus iterum adorat.
 
 (Deinde disjunctis manibus dicit:)
@@ -336,13 +333,13 @@ V. Herr, ich bin nicht würdig, (Und still fährt er fort:) daß Du eingehst unt
 V. Herr, ich bin nicht würdig, (Und still fährt er fort:) daß Du eingehst unter meinem Dache; aber sprich nur ein Wort, so wird meine Seele gesund.
 
 !Postea dextera se signans cum Hostia super Patenam, dicit:
-v.  Corpus Dómini nostri Jesu Christi custódiat ánimam meam in vitam ætérnam. Amen.
+v.  Der Leib unseres Herrn Jesu Christi bewahre meine Seele zum ewigen Leben. Amen.
 !Et se inclinans, reverenter sumit ambas partes Hostiæ: quibus sumptis, deponit Patenam super Corporale, et erigens se jungit manus, et quiescit aliquantulum in meditatione Sanctissimi Sacramenti.
 
 !Deinde discooperit Calicem, genuflectit, colligit fragmenta, si quæ sint, extergit Patenam super Calicem, interim dicens:
-v. Quid retríbuam Dómino pro ómnibus, quæ retríbuit mihi? Cálicem salutáris accípiam, et nomen Dómini invocábo. Laudans invocábo Dóminum, et ab inimícis meis salvus ero.
+v. Was soll ich dem Herrn vergelten für alles, was er mir erwiesen hat? Den Kelch des Heiles will ich ergreifen und den Namen des Herrn anrufen. Lobpreisend will ich den Herrn anrufen, und vor meinen Feinden werde ich sicher sein.
 !Accipit Calicem manu dextera, et eo se signans, dicit:
-v. Sanguis Dómini nostri Jesu Christi custódiat ánimam meam in vitam ætérnam. Amen.
+v. Das Blut unseres Herrn Jesu Christi bewahre meine Seele zum ewigen Leben. Amen.
 !Et sinistra supponens Patenam Calici, reverenter sumit totum Sanguinem cum particula. Quo sumpto, si qui sunt communicandi, eos communicet, antequam se purificet
 
 &Communio_Populi
@@ -360,8 +357,8 @@ der Du lebst und herrschest in alle Ewigkeit. Amen.
 
 # Postcommunio
 !Osculatur Altare
-S. Dóminus vobíscum.
-R. Et cum spíritu tuo.
+S. Der Herr sei mit euch.  
+M. Und mit deinem Geiste.
 &postcommunio
 
 # Conclusio
@@ -369,6 +366,7 @@ R. Et cum spíritu tuo.
 S. Der Herr sei mit euch.  
 M. Und mit deinem Geiste.
 !dicit pro Missæ qualitate, vel Ite, Missa est, vel Benedicámus Dómino. Deo grátias.
+
 !*D In Missis Defunctorum dicit:  Requiescant in pace.  Amen.
 
 &itemissaest

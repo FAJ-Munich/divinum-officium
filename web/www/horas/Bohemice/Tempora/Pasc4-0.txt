@@ -1,10 +1,5 @@
 [Officium]
-Dominica IV Post Pascha
-
-[Rule]
-9 Lectiones
-Una Antiphona
-StJamesRule=Jas
+4. Neděle po Zmrtvýchvstání Páně
 
 [Ant 1]
 Odcházím k tomu, * který mě poslal; a nikdo z vás se mě neptá: Kam jdeš? Alleluja, Alleluja.

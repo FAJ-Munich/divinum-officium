@@ -1,9 +1,5 @@
 [Officium]
-Dominica II Post Pascha
-
-[Rule]
-9 Lectiones
-Una Antiphona
+2. Neděle po Zmrtvýchvstání Páně
 
 [Ant 1]
 Já jsem * pastýř ovcí; já jsem cesta a pravda; já jsem dobrý pastýř, a znám své ovce, a mé ovce znají mne, alleluja, alleluja.

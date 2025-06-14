@@ -1,15 +1,6 @@
 [Officium]
 Wniebowstąpienie Pańskie
 
-[Rule]
-Psalmi Dominica
-Antiphonas horas
-Duplex
-9 Lectiones
-Doxology=Asc
-Psalm5 vespera=116
-No Commemoratio
-
 [Ant Vespera]
 Mężowie Galilejscy, * czemu patrzycie w niebo? Ten Jezus, który wzięty jest od was do nieba, tak przyjdzie, alleluja.
 A gdy pilnie patrzyli * za Nim do nieba idącym, rzekli: alleluja.
@@ -44,7 +35,7 @@ Sam bądź weselem tych co płaczą,
 Nagrodą słodką ich żywota.
 Amen.
 
-[Versum 1]
+[Versum 1_]
 V. Wstąpił Bóg przy okrzykach radosnych, alleluja.
 R. I Pan przy odgłosie trąb, alleluja.
 
@@ -164,7 +155,7 @@ Onego czasu: Ukazał się Jezus jedenastu, gdy siedzieli u stołu, i ganił nied
 _
 Homilia świętego Grzegorza, Papieża
 !Homilia 29. na Ewangelię
-To, że uczniowie w Zmartwychwstanie Pana z ociąganiem uwierzyli, nie tyle ich słabość sprawiła, lecz, że tak powiem, nasza przyszła pewność. Im wątpiącym wielu dowodami Zmartwychwstanie zostało udowodnione, ale gdy o tym czytamy, czy ich wątpienie nas nie umacnia? Mniej mi bowiem dała Maria Magdalena, która wcześniej uwierzyła, niż Tomasz, który długo wątpił. On bowiem, wątpiąc, dotknął blizny ran i z naszego serca usunął ranę wątpliwości.~
+To, że uczniowie w Zmartwychwstanie Pana z ociąganiem uwierzyli, nie tyle ich słabość sprawiła, lecz, że tak powiem, nasza przyszła pewność. Im wątpiącym wielu dowodami Zmartwychwstanie zostało udowodnione, ale gdy o tym czytamy, czy ich wątpienie nas nie umacnia? Mniej mi bowiem dała Maria Magdalena, która wcześniej uwierzyła, niż Tomasz, który długo wątpił. On bowiem, wątpiąc, dotknął blizny ran i z naszego serca usunął ranę wątpliwości.
 
 [Responsory7]
 R. Ja prosić będę Ojca i innego Pocieszyciela da wam,
@@ -261,10 +252,10 @@ _
 v. Módlmy się.
 @:Oratio
 
-[Nocturn 2 Versum]
+[Nocturn 2 Versum_]
 V. Wstąpiwszy Chrystus na wysokość, alleluja.
 R. Wiódł więźnie poimane, alleluja.
 
-[Nocturn 3 Versum]
+[Nocturn 3 Versum_]
 V. Wstępuję do Ojca mojego i Ojca waszego, alleluja.
 R. Boga mojego i Boga waszego, alleluja.

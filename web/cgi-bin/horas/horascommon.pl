@@ -10,7 +10,7 @@ use FindBin qw($Bin);
 use lib "$Bin/..";
 use DivinumOfficium::Scripting qw(dispatch_script_function parse_script_arguments);
 use DivinumOfficium::Date qw(getweek leapyear geteaster get_sday nextday day_of_week monthday);
-use DivinumOfficium::Directorium qw(get_kalendar get_transfer get_tempora transfered );
+use DivinumOfficium::Directorium qw(get_from_directorium transfered );
 
 sub error {
   my $t = shift;
@@ -63,7 +63,7 @@ sub occurrence {
   my @officename = ($weekname, '', '');
 
   # look for permanent Transfers assigned to the day of the year (as of 2023-5-22 only 12-12n in Newcal version)
-  my $transfertemp = get_tempora($version, $sday);
+  my $transfertemp = get_from_directorium('tempora', $version, $sday);
 
   if ($transfertemp && $transfertemp !~ /tempora/i) {
     $transfertemp = subdirname('Sancti', $version) . "$transfertemp";    # add path to Sancti folder if necessary
@@ -72,7 +72,7 @@ sub occurrence {
   }
 
   # get annual transfers if applicable depending on the day of Easter
-  my $transfers = get_transfer($year, $version, $sday);
+  my $transfers = get_from_directorium('transfer', $version, $sday, $year);
   my @transfers = split("~", $transfers);
 
   foreach $transfer (@transfers) {
@@ -106,7 +106,7 @@ sub occurrence {
     $tday = subdirname('Tempora', $version) . "$weekname" . (($weekname !~ /Nat/i) ? "-$dayofweek" : "");
 
     # look for permanent Transfers assigned to the Temporal, most prominently the Ferias in the Octaves of S. Joseph, Corpus Christi, Ssmi Cordis
-    $tfile = get_tempora($version, $tday) || $tday;
+    $tfile = get_from_directorium('tempora', $version, $tday) || $tday;
 
     if ($transfertemp && $transfertemp =~ /tempora/i && !transfered($transfertemp, $year, $version)) {
 
@@ -152,7 +152,7 @@ sub occurrence {
   } else {
 
     #handle Sanctoral
-    my $kalentries = get_kalendar($version, $sday);
+    my $kalentries = get_from_directorium('kalendar', $version, $sday);
     @commemoentries = split("~", $kalentries);
 
     foreach $kalentry (@commemoentries) {
@@ -470,6 +470,7 @@ sub occurrence {
         $commemoratio = '';
         $comrank = 0;
         @commemoentries = ();
+        $officename[2] = '';
       } else {
         $officename[2] =~ s/:/ ad Laudes \& Matutinum:/
           if $srank[2] >= 5 && $cr[2] < 2 && $srank[0] !~ /infra octavam/i;
@@ -507,6 +508,11 @@ sub occurrence {
 
     if (!$officename[2] && ($saint{'Commemoratio 2'} || $saint{'Commemoratio'})) {
       ($_) = split(/\n/, $saint{'Commemoratio 2'} || $saint{'Commemoratio'});
+
+      if (/\@([a-z0-9\/\-]+?)\:/isx) {
+        my %s = %{setupstring('Latin', "$1.txt")};
+        $_ = "!Commemoratio " . $s{'Officium'};
+      }
       $officename[2] = "Commemoratio: $_" if (s/^!Commemoratio //);
       $officename[2] =~ s/:/ ad Laudes tantum:/ if ($srank[2] >= 5 && $saint{'Commemoratio 2'} || $version =~ /196/);
     }
@@ -607,7 +613,7 @@ sub occurrence {
         $officename[2] =~ s/:/ ad Laudes tantum:/
           if $srank[2] < 4.2
           && $srank[2] != 2.1
-          && $trank[0] !~ /infra octavam|cinerum|majoris hebd|in Octava|Albis/i
+          && $trank[0] !~ /infra octavam|cinerum|majoris hebd|in Octava|Albis|Quattuor Temporum Pentecostes/i
           && $tname !~ /Adv|Quad/i;
       } elsif ($laudesonly) {
         $officename[2] =~ s/:/ $laudesonly:/;
@@ -993,6 +999,7 @@ sub concurrence {
       # in 1st Vespers of Duplex I. cl. only commemoration of Feria major, Dominica (major), 8va privilegiata and Duplex II./I. cl
       || ( $crank >= 6
         && !($rank == 1.15 || $rank == 2.1 || $rank == 2.99 || $rank == 3.9 || $rank >= 4.2)
+        && $version !~ /cist/i
         && $cwrank[0] !~ /Dominica|feria|in.*octava/i)
 
       # on Christmas Eve and New Year's Eve, nothing of a preceding Sunday
@@ -1001,7 +1008,7 @@ sub concurrence {
       # Cist: we need Comm. of S. Silvester on 31-12
       || ($cwinner =~ /12-25/ && $version =~ /cist/i)
 
-      # in 1st Vespers of Duplex II. cl. also commemoration of any Duplex
+      # in 1st Vespers of Duplex II. cl. (Cist: Serm. maj. & min.) also commemoration of any Duplex
       || ( $crank >= 5
         && !($rank == 1.15 || $rank == 2.1 || $rank >= 2.99)
         && $cwrank[0] !~ /Dominica|feria|in.*octava/i)
@@ -1177,8 +1184,8 @@ sub concurrence {
 
     # In Occurence (i.e. today): Simplex end after None.
     $ranklimit =
-        ($wrank[0] =~ /Dominica|feria|in.*octava/i) ? 2
-      : $rank >= 6 ? ($version !~ /trident/i ? 4.2 : $version !~ /cist/i ? 3.1 : 2.1)
+        ($wrank[0] =~ /Dominica|feria|in.*octava/i || $version =~ /cist/i) ? 2
+      : $rank >= 6 ? ($version !~ /trident/i ? 4.2 : 3.1)
       : $rank >= 5 ? 2.1
       : 2;
     @comentries = ();
@@ -1422,16 +1429,12 @@ sub precedence {
 
   $C10 = 'C10';
 
-  if ($missa) {
-    $C10 .=
-        ($dayname[0] =~ /Adv/i) ? 'a'
-      : ($month == 1 || ($month == 2 && $day == 1)) ? 'b'
-      : ($dayname[0] =~ /(Epi|Quad)/i) ? 'c'
-      : ($dayname[0] =~ /Pasc/i) ? 'Pasc'
-      : '';
-  } else {
-    $C10 .= ($month == 1 || ($month == 2 && $day == 1)) ? 'n' : '';
-  }
+  $C10 .=
+      ($dayname[0] =~ /Adv/i) ? 'a'
+    : ($month == 1 || ($month == 2 && $day == 1)) ? 'b'
+    : ($dayname[0] =~ /(Epi|Quad)/i) ? 'c'
+    : ($dayname[0] =~ /Pasc/i) ? 'Pasc'
+    : '';
 
   ### Get the relevant Office and Commemorations
   if ($hora =~ /vespera|completorium/i && $votive !~ /C12/i) {
@@ -1719,13 +1722,12 @@ sub setheadline {
 
   if ($lang1 =~ /gabc/i) {
     our $chantTone;
-    return
-        substr($winner{Rank}, 0, index($winner{Rank}, ';')) . " ~ "
-      . rankname($lang1)
-      . " : Tonus $chantTone";    # Display Chant Tone in Headline
+    $winner{Rank} =~ /^(.*?)\;/;
+    return ($1 || $winner{Rank}) . " ~ " . rankname($lang1) . " : Tonus $chantTone";    # Display Chant Tone in Headline
   }
 
-  substr($winner{Rank}, 0, index($winner{Rank}, ';')) . " ~ " . rankname($lang1);    # $rank[0] ~ $rankname
+  $winner{Rank} =~ /^(.*?)\;/;
+  ($1 || $winner{Rank}) . " ~ " . rankname($lang1);
 }
 
 #*** rankname($lang);
@@ -1743,7 +1745,7 @@ sub rankname {
   my $rankname;
 
   if ( ($latname !~ /(?:Die|Feria|Sabbato|^In Octava)/i)
-    && ($winner !~ /Pasc[07]/ || $dayofweek == 0 || $latname !~ /Pasc|Pent/))
+    && ($winner !~ /Pasc[07]-[1-6]/ || $dayofweek == 0))
   {
     my $i = $rank;
 

@@ -44,7 +44,7 @@
 				For easier understanding and handling, they are organized into folders. All files use UTF-8 encoding. If adding files, please be aware of this, as it can and will effect the appearance of text.</P>
 				
 				<P>The top level folders are folders for the languages (Latin, English, French, etc.). The basic rule is that if a file is missing for a specific (modern) language, the program automatically selects the language text from the English. <I>(Exception: Hyphenated language folders (e.g., Polski-Newer) first select the un-hyphenated folder of that language first.</I></P>
-				<P>Each language folder contains the same set of subfolders, which represents the parts of the printed breviary volumes: Psalterium, Tempora, Sancti, Commune. For technical reasons, there are separate folders for the psalms and for the Martyrologium. The Latin folder "psalms" contains unaccented psalms, while "psalms1" contains the accented psalms, and "PiusXII" contains the Pius XII psalter. Folders marked "M" are used to display the Monastic version of the Office. Whenever separate files in the "M"-folders are unnecssary, the script defaults to that same folder without "M".</P>
+				<P>Each language folder contains the same set of subfolders, which represents the parts of the printed breviary volumes: Psalterium, Tempora, Sancti, Commune. For technical reasons, there are separate folders for the Psalterium and for the Martyrologium. Folders marked "M" are used to display the Monastic version of the Office. Whenever separate files in the "M"-folders are unnecssary, the script defaults to that same folder without "M".</P>
 				<P>The style and punctuation used within the text is that of the 1962 liturgical books (i.e. natalicio is preferred to natalitio, abicere to abjicere, etc.), with the exception that one space is used between sentences, and no space is placed before a colon or other punctuation. In accordance with the principles sent to the typographers of the 1960 <I>editiones typicae</I>, the letter J in the 1960 rubrics is transformed to the letter I. (<I>Sacrae Congregatio Rituum, "Ordinationes ad librorum liturgicorum editores", 26.VI.1960</I>) The code is capable of automatically making certain typographical and rubrical changes to account for these and other variations in the 1960 rubrics.</P>
 				<P>The files itself usually are converted into <span class=prma>hash elements</span>, e.g. [Ant Matutinum], [Capitulum Nona], etc.</P>
 				<P>The <span class=prma>key</span> is enclosed within square brackets <span class=pram>[ ... ]</span> which is a separate line followed by the body of the element. For instance, [Ant 2] refers to the Benedictus antiphon at Lauds, while [Lectio93] normally refers to the 9th (hagiographical) reading of a commemorated saint (pre-1960), which became the 3rd reading at Matins on 3rd class feasts under 1960 rubrics.</P>
@@ -100,7 +100,7 @@
 							<LI>220-226 = Laudes 2;</LI>
 							<LI>231-234 = New Testament canticles	and the Quicumque</LI>
 						</UL>
-						The verses are numbered by chapter:verse numbers, and anything in parentheses is printed in small red font.
+						The verses are numbered by chapter:verse numbers, and anything in parentheses is printed in small red font. The &Dagger; symbol is used in the files to demark a verse division which is printed as a flexa, i.e., &dagger; in the Antiphonale Romanum, Liber Usualis, and Breviarum Monasticum but a mediant, i.e. &ast;, in the Breviarum Romanum.
 					</LI>
 					
 					<LI>The <span class=prma>Tempora</span> folder holds the offices from the <span class=prma><I>Proprium de Tempore</I></span>. Each office has exactly one file, and each is a hash collection. The naming convention is:<PRE>Season name w-d</PRE> where <I>w</I> is the week of the season, and <I>d</I> is the day of week. (Example: Pent04-2 represents Tuesday of the 4th week after Pentecost. Similarly, 085-0 represents Sunday of the 5th week of August.)</LI>
@@ -242,9 +242,11 @@
 						<TR><TD><B>C4</B> : Common of Confessor, Bishop or Pope</TD><TD><B>C4a</B> : Common for a Bishop-Doctor of the Church</TD></TR>
 						<TR><TD><B>C4b</B> : Common of Confessor-Popes <I>(variations from 1942)</I></TD><TD><B>C4b-2</B> : Common of Doctor-Popes <I>(variations from 1942)</I></TD></TR>
 						<TR><TD><B>C5</B> : Common of Confessor not Bishop</TD><TD><B>C5a</B> : Common for Doctor of the Church (not a bishop)</TD></TR>
-						<TR><TD colspan="2"><B>C5b</B> : Common of Abbots <I>(variations from 1942)</I></TD></TR>
-						<TR><TD><B>C6</B> : Common of One Virgin Martyr</TD><TD><B>C6a</B> : Common of Several Virgins&ensp;<B>C6b</B> : Common of a Virgin</TD></TR>
-						<TR><TD><B>C7</B> : Common of a Holy Woman Martyr</TD><TD><B>C7a</B> : Common of Holy Women&ensp;<B>C7b</B> : Common of Several Holy Women Martyrs</TD></TR>
+						<TR><TD colspan="2"><B>C5b</B> : Common of Abbots</TD></TR>
+						<TR><TD><B>C6</B> : Common of One Virgin Martyr</TD><TD><B>C6a</B> : Common of a Virgin</TD></TR>
+						<TR><TD colspan="2"><B>C6b</B> : Common of Several Virgins</TD></TR>
+						<TR><TD><B>C7</B> : Common of a Holy Woman Martyr</TD><TD><B>C7a</B> : Common of a Widow</TD></TR>
+						<TR><TD colspan="2"><B>C7b</B> : Common of Several Holy Women Martyrs</TD></TR>
 						<TR><TD><B>C8</B> : Common of the Dedication of a Church</TD><TD><B>C9</B> : Office of the Dead</TD></TR>
 						<TR><TD><B>C10</B> : Office of the Blessed Virgin for Saturday</TD><TD><B>C11</B> : Common for the Blessed Virgin Mary</TD></TR>
 						<TR><TD><B>C12</B> : Little Office of the Blessed Virgin Mary</TD><TD><B>other</B> : reference to Proper office</TD></TR>
@@ -256,7 +258,7 @@
 				<P ALIGN=CENTER><A Href=#Top>Top</A></FONT></P>
 				<span class=prmm>Exceptions</span><BR /><BR />
 				
-				<P>Many of the files in Tempora or Sancti folders have an entry: <B>Rule</B>.
+				<P>Many of the files in the Latin Tempora or Sancti folders have an entry: <B>Rule</B>.
 				There are the exceptions from those rules built into the <B>Ordinarium</B>
 				and the <B>Psalterium</B> and represented by the files in those folders.
 				
@@ -280,6 +282,7 @@ Antiphones horas
 						the <I>Lauds & Vespers antiphons, versum, & oratio</I> are taken from the named file.</TD></TR>
 					<TR><TD><span class=prma>mtv</span></TD><TD>Changing the third verse in Iste confessor hymn</TD><TD>vide C4a;mtv</TD><TD>Sancti/01-14</TD></TR>
 					<TR><TD><span class=prma>Psalmi&nbsp;Dominica</span></TD><TD COLSPAN=2>The Sunday psalm set is used, except if the psalm is explicitly indicated as being proper in the Proprium file.</TD><TD>Sancti/01-01</TD></TR>
+					<TR><TD><span class=prma>Psalmi&nbsp;minores ex Psalterio</span></TD><TD COLSPAN=2>The minor hours are using the ferial psalms.</TD><TD>Sancti/05-31</TD></TR>
 					<TR><TD><span class=prma>Feria&nbsp;Te&nbsp;Deum</span></TD><TD COLSPAN=2>Te Deum is sung at the end of Matins even on a Feria.</TD><TD>Sancti/01-02</TD></TR>
 					<TR><TD><span class=prma>Festum&nbsp;Domini</span></TD><TD COLSPAN=2>Under Rubrics 1960, such a feast still trumps any minor Sunday.</TD><TD>Sancti/01-06</TD></TR>
 					<TR><TD><span class=prma>Antiphonas&nbsp;horas</span></TD><TD COLSPAN=2><I>Laudes</I> antiphons are used for the minor

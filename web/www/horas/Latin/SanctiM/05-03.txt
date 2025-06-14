@@ -77,8 +77,11 @@ Psalmi Dominica
 [Responsory12]
 @SanctiM/09-14
 
-[LectioE]
+[Evangelium]
 @Sancti/05-03
+
+[Ant 2] (rubrica cisterciensis)
+Ecce Crucem Dómini, * fúgite, partes advérsæ, vicit Leo de tribu Juda, radix David, allelúia.
 
 [Responsory TertiaM]
 @Sancti/05-03:Ant Matutinum:4-5

@@ -635,7 +635,7 @@ sub getseant {
   my $w = '';
   my $key = sprintf("seant%02i-%02i", $month, $day);
 
-  if (my ($d) = get_stransfer($year, $version, $key)) {
+  if (my ($d) = get_from_directorium('stransfer', $version, $year, $key)) {
     my %w = %{setupstring($lang, "Tempora/$d.txt")};
     $w = $w{'Ant 3'};
   }
@@ -731,6 +731,9 @@ sub checksuffragium {
 
     # Cistercian: minor Feasts of Apostles
     || $version =~ /cist/i && $commune =~ /C1a?$/i
+
+    # Cistercian: S. Augustine and Decollatio S. J.
+    || $version =~ /cist/i && $winner =~ /08-2[89]/i
 
     # Altovadensis: max 3. collects
     || $version =~ /altovadensis/i && $collectcount > 2

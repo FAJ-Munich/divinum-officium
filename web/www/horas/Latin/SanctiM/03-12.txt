@@ -21,7 +21,7 @@ _
 Vidétur egens náufragus,
 Dum stipem petit Ángelus:
 Tu munus jam post géminum
-Prǽbes et vas argénteum.
+Præbes et vas argénteum.
 _
 Ex hoc te Christus témpore
 Suæ præfert Ecclésiæ:
@@ -89,7 +89,7 @@ Duódecim * paupéribus ad mensam invitátis, † Angelum Dómini convívam tred
 [Lectio12]
 @Sancti/03-12:Lectio9:s/.*(Coróna)/$1/s
 
-[LectioE]
+[Evangelium]
 @Commune/C4b
 
 [Ant Laudes]

@@ -1,8 +1,5 @@
 @Sancti/07-22
 
-[Rank] (rubrica 1930)
-S. Mariæ Magdalenæ Pœnitentis;;Duplex majus;;4;;ex C7
-
 [Rule] (rubrica 1930)
 12 lectiones
 
@@ -67,7 +64,7 @@ S. Mariæ Magdalenæ Pœnitentis;;Duplex majus;;4;;ex C7
 [Responsory12]
 @CommuneM/C7::s/N\./María Magdaléna/
 
-[LectioE]
+[Evangelium]
 @Tempora/Quad5-4
 
 [Ant 3] (rubrica 1963)

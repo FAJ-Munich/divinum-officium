@@ -219,9 +219,18 @@ sub handleverses {
 
     s{(\(.*?\))}{/:$&:/} unless $gabc;                   # text in () as rubrics
 
+    # Discussion #4504: For Breviarum Romanum style
+    # ‡ marks mediant for Breviarum Romanum but flexa for Antiphonale
+    # Following space to safeguard against /:‡:/ which needs to remain unchanged
+    # flexa removed for Breviarum Romanum display
+    s/‡\s+(.*?)\*\s*/* $1/g if $noflexa;
     s/†\s*//g if $noflexa;
 
-    s/\s(\+|\^✠\^\(\))\s/ / if $version =~ /cist/i;      # no sign-of the cross in Cistercian
+    # Discussion #4504: For Antiphonale style
+    # Surrounding space to safeguard against /:‡:/ which needs to remain unchanged
+    s/\s‡\s/ † /g unless $noflexa;
+
+    s/\s(\+|\^✠\^\(\))\s/ / if $version =~ /cist/i;    # no sign-of the cross in Cistercian
 
     $_
   } @{$_[0]};

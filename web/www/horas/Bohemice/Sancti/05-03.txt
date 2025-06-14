@@ -1,13 +1,6 @@
 [Officium]
 Nalezení Svatého Kříže
 
-[Rule]
-proprium
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Psalm5 Vespera=116
-
 [Ant Vespera]
 O what a work of love was that * when Life and death died together upon the Tree. (Alleluia.)
 Save us, * O Christ the Saviour, save us through the might of thy Cross Thou Who didst save Peter when he was ready to sink in the sea, have mercy upon us. (Alleluia.)
@@ -24,6 +17,9 @@ R. Až Pán přijde jako soudce. (Alleluja.)
 
 [Ant 1]
 Ó Kříži, * zářivější než všechny hvězdy, slavnější než svět, lidem velmi milý, svatý více než vše na světě; ty jediný jsi byl hoden nést to nejlepší na světě; sladké dřevo, sladké hřeby, nesly sladké břemeno, uzdrav zástup zde stojící, shromážděný ke tvé chvále. (Alleluja, alleluja.)
+
+[Ant 1] (rubrica cisterciensis)
+Ó požehnaný Kříži! * neboť na tobě visel Spasitel světa, a v tobě zvítězil Král Andělů, alleluja.
 
 [Oratio]
 Bože, jenž jsi v přeslavném Nalezení spásonosného Kříže povzbudil zázraky svého utrpení; uděl, abychom cenou tohoto životodárného dřeva, dosáhli udělení věčného života.
@@ -171,9 +167,6 @@ R. Neboť skrze svůj kříž jsi vykoupil svět. (Alleluja.)
 
 [Ant 2]
 Nade všechno * dřevo z cedru ty jediný jsi vznešenější, neboť na tobě visel Život světa, na tobě Kristus zvítězil a smrtí smrt přemohl navěky. (Alleluia.)
-
-[Ant 2] (rubrica cisterciensis)
-Hle, Kříž Páně, * prchejte, nepřátelské končiny, zvítězil lev z kmene Juda, kořen Davidův, alleluja.
 
 [Lectio Prima]
 !Phil 2:8-9

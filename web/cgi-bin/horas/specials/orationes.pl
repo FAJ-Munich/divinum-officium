@@ -223,7 +223,8 @@ sub oratio {
 
   if ($lang eq 'Latin-gabc' && $w =~ /\(\:\:\)/ && $rule !~ /Limit.*Oratio/) {
 
-    # Convert Tonus simplex into solemnis
+    # GABC: In the database, Oratios are noted in Tonus simplex
+    # For Laudes Vespera and Matutinum, these are converted here into Tonus solemnis
     if (($horamajor || $hora eq 'Matutinum')) {
 
       my ($flexa, $metrum, $prePunctum, $punctum, $concl);
@@ -243,7 +244,7 @@ sub oratio {
         $flexa =~ s/(c3.*?)\(i\)/$1(h)/;       # add initia
         $flexa =~ s/\(f(\.?)\)/(h$1)/;         # raise pitch at flexa
         $metrum =~ s/\([gf]\)/(i)/g;           # remove metrum
-        $metrum =~ s/\(h\.\)/(i_')/g;          # incisi majoris momenti => minoris '
+        $metrum =~ s/\(h\.\)/(i_')/g;          #'# incisi majoris momenti => minoris
         $metrum =~ s/\(h/(i/g;                 # raise pitch in general
         $metrum =~ s/\(i\)/(h)/;               # add initia
         $prePunctum =~ s/\(h/(i/g;             # raise pitch in general
@@ -277,7 +278,7 @@ sub oratio {
   } elsif ($w !~ /^\{/s) {
 
     # Ensure large red Initial
-    $w =~ s/^(?:v. )?/v. / unless $w =~ /^[\$\&\#]/;
+    $w =~ s/^(?:v. )?/v. / unless $w =~ /^[\$\&\#\/\!]/;
   }
 
   push(@s, $w);
@@ -1043,6 +1044,8 @@ sub getrefs {
         $v =~ s/\((?:hi|hr|h\_0|fe|f\_0?h|h\_\')\)/\(h\)/g;
         $v =~ s/\(\,\)//g;
       }
+
+      $before ||= "!" . translate('Commemoratio', $lang) . " $s{Officium}";
       $w = $before . "\nAnt. $a\n" . "_\n$v" . "_\n$o" . "_\n$after";
       next;
     }

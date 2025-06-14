@@ -47,7 +47,8 @@ sub gethymn {
   if ($version !~ /1960/ && $hymn =~ /\*/) {    # doxology needed
     my ($dox, $dname) = doxology($lang);
     if ($dname) { $hymn =~ s/\*.*/$dox/s }
-    $section .= " {Doxology: $dname}" if ($dname && $section);
+    $section .= " {Doxology: $dname}"
+      if ($dname && $section && ($dayname[0] !~ /Pasc7/ || ($hora ne 'Tertia' && $hora ne 'Vespera')));
   }
 
   $hymn =~ s/^(?:v\.\s*)?(\p{Lu})/v. $1/;       # add initial
@@ -101,6 +102,7 @@ sub hymnusmajor {
           || $dayname[0] =~ /Epi1/i && $version =~ /cist/i
           || $dayname[0] =~ /Quadp/i
           || $winner{Rank} =~ /Novembris/i
+          || (($month > 9 || $month < 5) && $version =~ /cist/i)
           || ($winner{Rank} =~ /Octobris/i && $version !~ /cist/i))
       );
     setbuild1('Hymnus', $name);
@@ -137,7 +139,7 @@ sub doxology {
 
     if ($dname) {
       my %w = %{setupstring($lang, 'Psalterium/Doxologies.txt')};
-      if ($version =~ /Monastic|1570/i && $w{"${dname}T"}) { $dname .= 'T'; }
+      if ($version =~ /Monastic|1570|Praedicatorum/i && $w{"${dname}T"}) { $dname .= 'T'; }
       $dox = $w{$dname};
       setbuild2("Doxology: $dname");
     }

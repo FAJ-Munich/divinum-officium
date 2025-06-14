@@ -1,14 +1,6 @@
 [Officium]
 Die II infra octavam Pentecostes
 
-[Rule]
-ex Pasc7-0;
-1 nocturn;
-Psalmi Dominica;
-Antiphonas horas
-Hymnus Tertia
-No commemoration
-
 [Oratio]
 Bože, jenž jsi svý Apoštolům dal Svatého Ducha; uděl svému lidu vyslyšení zbožné prosby, abys těm, kterým jsi dal víru, uštědřil též pokoj.
 $Per Dominum eiusdem
@@ -48,6 +40,5 @@ Tak Bůh miloval svět, * že svého jediného Syna vydal; aby každý, kdo v n�
 
 [Ant 3]
 If a Man love Me * he will keep My word and My Father will love him, and We will come unto him, and make Our abode with him. Alleluia.
-
-[Ant 3] (rubrica cisterciensis)
+(sed rubrica cisterciensis aut rubrica praedicatorum)
 Bůh totiž neposlal * svého Syna na svět, aby svět soudil, ale aby byl svět spasen skrze něho, alleluja.

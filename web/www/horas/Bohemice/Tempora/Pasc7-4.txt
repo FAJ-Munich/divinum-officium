@@ -1,15 +1,6 @@
 [Officium]
 Feria Quinta infra octavam Pentecostes
 
-[Rule]
-ex Pasc7-0;
-1 nocturn;
-Psalmi Dominica;
-Antiphonas horas 
-Hymnus Tertia
-Feria Te Deum 
-no93
-
 [Lectio1]
 Continuation of the Holy Gospel according to Luke
 !Luke 9:1-6
@@ -45,6 +36,5 @@ Ježíš svolal * svých dvanáct učedníků, a dal jim sílu a moc nade všemi
 
 [Ant 3]
 The Comforter, * Which proceedeth from the Father, alleluia, He shall glorify Me, alleluia, alleluia.
-
-[Ant 3] (rubrica cisterciensis)
+(sed rubrica cisterciensis aut rubrica praedicatorum)
 Vyšlo * dvanáct Apoštolů, a procházeli městy a hlásali Evangelium, a uzdravovali všude, alleluja, alleluja.

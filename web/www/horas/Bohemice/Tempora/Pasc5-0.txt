@@ -1,10 +1,5 @@
 [Officium]
-Dominica V Post Pascha
-
-[Rule]
-9 Lectiones
-Una Antiphona
-Doxology=Pasc
+5. Neděle po Zmrtvýchvstání Páně
 
 [Ant 1]
 Zatím * jste neprosili o nic v mém jménu; proste, a dostanete, alleluja.

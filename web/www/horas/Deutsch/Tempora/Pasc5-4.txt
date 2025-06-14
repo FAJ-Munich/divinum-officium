@@ -1,15 +1,6 @@
 [Officium]
 Fest der Himmelfahrt des Herrn
 
-[Rule]
-Psalmi Dominica
-Antiphonas horas
-Duplex
-9 Lectiones
-Doxology=Asc
-Psalm5 vespera=116
-No Commemoratio
-
 [Ant Vespera]
 Ihr Männer von Galiläa, * was schaut ihr hinauf in den Himmel? Dieser Jesus, der von euch weg- und in den Himmel aufgenommen ist, wird ebenso sicher wieder kommen, alleluja.
 Als sie so hinaufschauten * auf ihn, wie er in den Himmel stieg, sagten sie (d.h. die Engel) ihnen etwas, alleluja.
@@ -44,7 +35,7 @@ Sei unsre Freude nach dem Weh,
 Sei uns des Lebens süßer Lohn.
 Amen.
 
-[Versum 1]
+[Versum 1_]
 V. Gott steigt empor im Jubel, alleluja.
 R. Der Herr beim feierlichen Schalle der Trompeten, alleluja.
 
@@ -267,10 +258,10 @@ v. Oremus.
 Verleihe uns, wir bitten dich, o allmächtiger Gott, die Gnade, dass wir, die wir an die heute erfolgte Himmelfahrt deines Eingeborenen, unseres Erlösers glauben, auch selbst mit unseren Herzen in Himmelshöhen weilen.
 $Per eumdem
 
-[Nocturn 2 Versum]
+[Nocturn 2 Versum_]
 V. Als Christus aufstieg zur Höhe, alleluja.
 R. Führt er mit sich gefangen die Gefangenschaft, alleluja.
 
-[Nocturn 3 Versum]
+[Nocturn 3 Versum_]
 V. Ich steige auf zu meinem Vater und zu eurem Vater, alleluja.
 R. Zu meinem Gott und zu eurem Gott, alleluja.

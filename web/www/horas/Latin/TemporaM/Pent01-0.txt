@@ -8,6 +8,18 @@ Antiphonas horas
 [Ant Vespera] (rubrica cisterciensis)
 @Tempora/Pent01-0::1-4:s/in sæculórum sǽcula./in sǽcula sæculórum./
 
+[Responsory Vespera] (rubrica 1617 aut rubrica divino)
+@:Responsory Tertia:s/\s\_.*//s
+
+[Responsory Laudes] (rubrica 1617 aut rubrica divino)
+@:Responsory Sexta:s/\s\_.*//s
+
+[Versum 1] (rubrica 1617 aut rubrica divino)
+@:Versum 3
+
+[Versum 2] (rubrica 1617 aut rubrica divino)
+@Tempora/Pent01-0:Versum 1
+
 [Ant Matutinum 3N]
 Laus Deo Patri, * parilíque Proli et tibi, Sancte, stúdio perénni, Spíritus, nostro résonet ab ore omne per ævum.
 

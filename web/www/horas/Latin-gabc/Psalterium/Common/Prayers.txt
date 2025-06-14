@@ -138,8 +138,21 @@ R/. A(g.)men.(h.) (::)}
 R/. A(h.)men.(i.) (::)}
 
 [Per Dominum eiusdem]
-r. Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
-R. Amen.
+{initial-style:0;%%(c3) Per(h) Dó(h)mi(h)num(h) nos(h)trum(h) Je(h)sum(h) Chris(h)tum,(h) Fí(h)li(h)um(h) tu(h)um:(f.) †(;) qui(h) te(h)cum(h) vi(h)vit(h) et(h) reg(h)nat(h) in(h) u(h)ni(h)tá(h)te(h) e(h)jús(h)dem(h) Spí(h)ri(h)tus(h) San(f)cti,(g) De(h)us,(h.) *(;) per(h) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f.) (::)
+R/. A(g.)men.(h.) (::)}
+
+[Per Dominum eiusdem] (rubrica monastica)
+{initial-style:0;%%(c3) Per(h) Dó(h)mi(h)num(h) nos(h)trum(h) Je(h)sum(h) Chris(h)tum,(h) Fí(h)li(h)um(h) tu(h)um:(f.) †(,) qui(h) te(h)cum(h) vi(h)vit(h) et(h) reg(h)nat(h) in(h) u(h)ni(h)tá(h)te(h) e(h)jús(h)dem(h) Spí(h)ri(h)tus(h) San(f)cti,(g) De(h)us,(h.) *(;) per(h) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f.) (::)
+R/. A(h)men.(h.) (::)}
+
+[Per Dominum eiusdem solemnis]
+{initial-style:0;%%(c4) Per(g) Dó(h)mi(h)num(h) nos(h)trum(h) Je(h)sum(h) Chris(h)tum,(h) Fí(h)li(h)um(h) tu(h)um:(g.) †(;) qui(g) te(h)cum(h) vi(h)vit(h) et(h) reg(h)nat(h) in(h) u(h)ni(h)tá(h)te(h) e(h)jús(h)dem(h) Spí(h)ri(h)tus(h) San(g)cti,(g) De(h)us,(h.) *(;) per(g) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(g)cu(h)ló(hg)rum.(g.) (::)
+R/. A(g.)men.(h.) (::)}
+
+[Per Dominum eiusdem solemnis] (rubrica monastica)
+{initial-style:0;%%(c3) Per(h) Dó(i)mi(i)num(i) nos(i)trum(i) Je(i)sum(i) Chris(i)tum,(i) Fí(i)li(i)um(i) tu(i)um:(h.) †(;) qui(h) te(i)cum(i) vi(i)vit(i) et(i) reg(i)nat(i) in(i) u(i)ni(i)tá(i)te(i) e(i)jús(i)dem(i) Spí(i)ri(i)tus(i) San(h)cti,(h’) De(i)us,(i.) *(;) per(h) óm(i)ni(i)a(i) sǽ(i)cu(i)la(i) sæ(h)cu(i)ló(ih)rum.(h.) (::)
+R/. A(h.)men.(i.) (::)}
+
 
 [Qui cum Patre]
 r. Qui cum Pátre et Spíritu Sancto vivis et regnas, Deus, per ómnia sǽcula sæculórum.
