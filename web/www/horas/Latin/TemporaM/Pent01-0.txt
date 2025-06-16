@@ -8,16 +8,16 @@ Antiphonas horas
 [Ant Vespera] (rubrica cisterciensis)
 @Tempora/Pent01-0::1-4:s/in sæculórum sǽcula./in sǽcula sæculórum./
 
-[Responsory Vespera] (rubrica 1617 aut rubrica divino)
+[Responsory Vespera] (rubrica 1617 aut rubrica divino aut rubrica Bavariae)
 @:Responsory Tertia:s/\s\_.*//s
 
-[Responsory Laudes] (rubrica 1617 aut rubrica divino)
+[Responsory Laudes] (rubrica 1617 aut rubrica divino aut rubrica Bavariae)
 @:Responsory Sexta:s/\s\_.*//s
 
-[Versum 1] (rubrica 1617 aut rubrica divino)
+[Versum 1] (rubrica 1617 aut rubrica divino aut rubrica Bavariae)
 @:Versum 3
 
-[Versum 2] (rubrica 1617 aut rubrica divino)
+[Versum 2] (rubrica 1617 aut rubrica divino aut rubrica Bavariae)
 @Tempora/Pent01-0:Versum 1
 
 [Ant Matutinum 3N]
