@@ -56,8 +56,8 @@ sub psalmi_matutinum_monastic {
   }
 
   #** special antiphons for not Quad weekdays
-  if (($dayofweek > 0 && $dayname[0] !~ /Quad/i)
-    || $winner =~ /Pasc6-0/)
+  if ((($dayofweek > 0 && $dayname[0] !~ /Quad/i) || $winner =~ /Pasc6-0/)
+    && $version != /Cist/i)
   {
     my $start = ($dayname[0] =~ /Pasc|Nat[23]\d/i) ? 0 : 8;
     my @p;
@@ -321,7 +321,7 @@ sub psalmi_matutinum_monastic {
   }
 
   # end 2nd nocturn in ferial office
-  my ($w, $c) = getproprium('MM Capitulum', $lang, 0, 1);
+  my ($w, $c) = getproprium('MM Capitulum', $lang, 0);
 
   if (!$w && $commune) {
     my %c = (columnsel($lang)) ? %commune : %commune2;
@@ -337,7 +337,7 @@ sub psalmi_matutinum_monastic {
   push(@s, "!!Capitulum", $w, "\n");    # print Capitulum, V.R.
 }
 
-#*** monstic_lectio3($w, $lang)
+#*** monastic_lectio3($w, $lang)
 # return the legend if appropriate
 sub monastic_lectio3 {
   my $w = shift;
@@ -379,9 +379,9 @@ sub absolutio_benedictio {
     $ben = $a[3 - ($i == 3)];
   }
 
-  push(@s, "\$rubrica Pater secreto");
-  push(@s, "\$Pater noster Et");
-  push(@s, "Absolutio. $abs", '$Amen', "\n");
+  push(@s, "\$rubrica Pater secreto") unless $version =~ /Cist/i;
+  push(@s, "\$Pater noster Et") unless $version =~ /Cist/i;
+  push(@s, "Absolutio. $abs", '$Amen', "\n") unless $version =~ /Cist/i;
   push(@s, prayer('Jube domne', $lang));
   push(@s, "Benedictio. $ben", '$Amen', '_');
 }
