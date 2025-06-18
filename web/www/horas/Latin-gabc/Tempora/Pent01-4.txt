@@ -1,16 +1,3 @@
-[Rank]
-Festum Sanctissimi Corporis Christi;;Duplex I classis cum Octava privilegiata II ordinis;;7
-
-[Rank] (rubrica 1960)
-Festum Sanctissimi Corporis Christi;;Duplex I classis;;7
-
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Doxology=Corp
-No Commemoratio
-
 [Ant Vespera]
 Sacérdos in ætérnum * Christus Dóminus secúndum órdinem Melchísedech, panem et vinum óbtulit.;;109
 Miserátor Dóminus * escam dedit timéntibus se in memóriam suórum mirabílium.;;110
@@ -37,8 +24,8 @@ $Deo gratias
 {gabc:Tempora/CorpusChristi/hy--pange_lingua..._corporis--solesmes_1934}
 
 [Versum 1]
-V. Panem de cælo præstitísti eis, allelúja.
-R. Omne delectaméntum in se habéntem, allelúja.
+{initial-style:0;%%(c3) V/. Pa(h)nem(h) de(h) cæ(h)lo(h) præ(h)sti(h)tí(h)sti(h) e(hi)is,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::) 
+R/. Om(h)ne(h) de(h)lec(h)ta(h)mén(h)tum(h) in(h) se(h) ha(h)bén(hi)tem,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 1]
 O quam suávis est, * Dómine, spíritus tuus, qui, ut dulcédinem tuam in fílios demonstráres, pane suavíssimo de cælo prǽstito, esuriéntes reples bonis, fastidiósos dívites dimíttens inánes.
@@ -46,7 +33,7 @@ O quam suávis est, * Dómine, spíritus tuus, qui, ut dulcédinem tuam in fíli
 {name:O quam suavis est;annotation:6. f;mode:6;book:Antiphonale Monasticum, 1934, p. 548;transcriber:Dominique CROCHU;%%(cb4) O(fg/hf/ggf) quam(f') su(f)á(f)vis(dc) est,(c.) *() Dó(f!gh/jh'hvGF)mi(gf)ne,(f.) (,) spí(fh/jij)ri(ih)tus(gh) tu(hvGF)us !(f.) (;) qui(g) ut(f') dul(g)cé(gh)di(f)nem(f') tu(f)am(d_c) (,) in(f) fí(f!gwh!io)li(h)os(h') de(h)mon(gf)strá(gf)res,(f.) (:) pa(f)ne(hj) su(j)a(hg)vís(j)si(kj)mo(j.) (,) de(jk) cǽ(k)lo(ji) prǽ(j)sti(ih)to,(h.) (,) e(j)su(ih)ri(gh)én(hg)tes(f_') re(f)ples(d_c) bo(f!gh/jh'hvGF)nis,(gf..) (;) fa(f)sti(hj)di(jvHG'j)ó(jk)sos(j) dí(jkj)vi(hi)tes(g_f) (,) di(gh)mít(fe)tens(d_c) in(f)á(f!gh/jh'hvGFggf)nes.(f.) (::)};;solemn6
 
 [Oratio]
-Deus, qui nobis sub Sacraménto mirábili passiónis tuæ memóriam reliquísti: tríbue, quǽsumus, ita nos Córporis, et Sánguinis tui sacra mystéria venerári; ut redemptiónis tuæ fructum in nobis júgiter sentiámus:
+{(c3) De(h)us,(h) qui(h) no(h)bis(h) sub(h) Sa(h)cra(h)mén(h)to(h) mi(h)rá(h)bi(h)li(h) pas(h)si(h)ó(h)nis(h) tu(h)æ(h) me(h)mó(h)ri(h)am(h) re(h)li(h)quís(h)ti:(f.) †(;) trí(h)bu(h)e,(h) quǽ(h)su(h)mus,(h_') (,) i(h)ta(h) nos(h) Cór(h)po(h)ris,(h) et(h) Sán(h)gui(h)nis(h) tu(h)i(h) sa(h)cra(h) mys(h)té(h)ri(h)a(h) ve(g)ne(f)rá(h)ri;(h.) *(;) ut(h) re(h)demp(h)ti(h)ó(h)nis(h) tu(h)æ(h) fruc(h)tum(h) in(h) no(h)bis(h) jú(h)gi(h)ter(h) sen(h)ti(h)á(h)mus:(d.) (::)}
 $Qui vivis
 
 [Invit]
