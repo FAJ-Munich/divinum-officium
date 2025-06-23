@@ -113,7 +113,7 @@ sub invitatorium {
 
     push(@s, $_);
   } else {
-    $error .= "$fname cannnot open";
+    $error .= "$fname cannot open";
   }
 }
 
@@ -144,8 +144,22 @@ sub hymnusmatutinum {
     my %hymn = %{setupstring($lang, 'Psalterium/Special/Matutinum Special.txt')};
     $name = gettempora('Hymnus matutinum');
     $name = ($name) ? "Hymnus $name" : "Day$dayofweek Hymnus";
+
+    if ($name =~ /Day[1-6] Hymnus/i && $version =~ /Cist/i) {
+      $name = "Day0 Hymnus";
+    }
     $comment = ($name) ? 1 : 5;
-    if ($name =~ /^Day0 Hymnus$/i && ($month < 4 || ($monthday && $monthday =~ /^1[0-9][0-9]\-/))) { $name .= '1'; }
+
+    if (
+      $name =~ /^Day0 Hymnus$/i
+      && (
+        $month < 4
+        || ( ($monthday && $monthday =~ /^1[0-9][0-9]\-/ && $version !~ /Cist/i)
+          || ($monthday && $monthday =~ /^1[1-9][0-9]\-/ && $version =~ /Cist/i))
+      )
+    ) {
+      $name .= '1';
+    }
     setbuild("Psalterium/Special/Matutinum Special", $name, 'Hymnus ord');
 
   }
@@ -706,7 +720,7 @@ sub lectio : ScriptFunc {
   }
 
   #** handle initia table (Str$ver$year)
-  if ($nocturn == 1 && $version !~ /monastic/i && $winner !~ /C12/) {
+  if ($nocturn == 1 && $version !~ /1963/ && $winner !~ /C12/) {
     my $file = initiarule($month, $day, $year);
     if ($file) { %w = resolveitable(\%w, $file, $lang); }
   } elsif ($num < 4 && $rule =~ /StJamesRule=((?:1 )?[a-z,\|á]+)\s/i) {
@@ -932,6 +946,7 @@ sub lectio : ScriptFunc {
     if ( ($commemoratio =~ /tempora/i && $commemoratio !~ /Nat(29|30|31)/i || $commemoratio =~ /01\-05\./)
       && ($homilyflag == 1 || exists($commemoratio{"Lectio$j0"}))
       && $comrank > 1
+      && $version !~ /Cist/i
       && ($rank > 4 || ($rank >= 3 && $version =~ /Trident/i) || $homilyflag == 1))
 
       #  || exists($commemoratio{Lectio1}) removed as it results in a wrong commemoration of Die infra 8vam (e.g., 2024-04-23)
@@ -989,6 +1004,7 @@ sub lectio : ScriptFunc {
       && $commemoratio{Rank} =~ /S\. /i
       && ($winner !~ /tempora/i || $winner{Rank} < 5)
       && ($version !~ /1955/ || $comrank > 4)
+      && $version !~ /Cist/i
       && $cflag)
     {
       %w = (columnsel($lang)) ? %commemoratio : %commemoratio2;
@@ -1214,7 +1230,8 @@ sub lectiones_ex3_fiunt4 {
       my $cc = $scrip{"Lectio$l0"};
       push(@scrips, $cc);
     } else {
-      my @splits = split("¶\n", $scrip{"Lectio$l0"});
+      $scrip{"Lectio$l0"} =~ /(¶\s)/s;
+      my @splits = split($1, $scrip{"Lectio$l0"});
       push(@scrips, @splits);
     }
   }
@@ -1424,12 +1441,13 @@ sub resolveitable {
     my $replace = $file =~ /\~R$/ ? 1 : 0;    # if we have a ~R(eplace) rule
     $file =~ s/~[ABR]$//;                     # remove ~A(fter) or ~B(efore) or ~R(eplace) from the end of the string
     @file = split('~', $file);                # gather the transfered intias
-    $lim = 3;                                 # in general, allow up to 3 transferals
+    $lim = $rule =~ /12 lect/ ? 4 : 3;        # in general, allow up to 3 transferals
     $start = 1;                               # in general, start at 1
 
     if ($initia && !$replace)
     {    # if we have an (unreplaced) inita on the day already (so we put the transferred afterwards)
-      $start = (@file < 2) ? 3 : 2;    # if we have one transferred place it no. at 3; otherwise at 2&3
+      $start =
+        (@file < 2) ? ($rule =~ /12 lect/ ? 4 : 3) : 2; # if we have one transferred place it no. at 3; otherwise at 2&3
 
       if ($rule !~ /(9|12) lectiones/i && $winner =~ /Sancti/i) {
         $lim = 1;
@@ -1440,6 +1458,7 @@ sub resolveitable {
 
     while (@file && $i <= $lim) {    # while we have more transferals and stay in the limit
       $file = shift(@file);
+
       %winit = %{setupstring($lang, subdirname('Tempora', $version) . "$file.txt")};
 
       #$w{"Lectio$start"} = $winit{"Lectio$i"};
@@ -1451,10 +1470,10 @@ sub resolveitable {
 
     $i = 2;    # from here $i is used as a counter for which Lectio$i gets appended
 
-    while ($start <= 3) { # only in case we put transfers "before", also transfer the remaining parts of the last initia
-
-      #$w{"Lectio$start"} = $winit{"Lectio$i"};
-      #if (exists($winit{"Responsory$i"})) {$w{"Responsory$start"} = $winit{"Responsory$i"};}
+    while ($start <= ($rule =~ /12 lect/ ? 4 : 3))
+    {          # only in case we put transfers "before", also transfer the remaining parts of the last initia
+               #$w{"Lectio$start"} = $winit{"Lectio$i"};
+               #if (exists($winit{"Responsory$i"})) {$w{"Responsory$start"} = $winit{"Responsory$i"};}
       %w = tferifile(\%w, \%winit, $start, $i, $lang);
       $i++;
       $start++;

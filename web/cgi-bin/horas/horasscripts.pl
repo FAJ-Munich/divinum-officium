@@ -379,6 +379,7 @@ sub psalm : ScriptFunc {
   }
 
   $output =~ s/\$ant/Ant. $antline/g if $psnum == 94;
+  $output =~ s/94C/94/ if $psnum == "94C";
   $output;
 }
 
