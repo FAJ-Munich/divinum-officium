@@ -58,7 +58,7 @@ sub invitatorium {
   } else {
 
     #look for special from proprium the tempore or sancti
-    ($w, $c) = getproprium("Invit", $lang, $seasonalflag, 1);
+    ($w, $c) = getproprium("Invit", $lang, 1);
     if ($w) { $ant = chompd($w); $comment = $c; }
     setcomment($label, 'Source', $comment, $lang, translate('Antiphona', $lang));
   }
@@ -113,7 +113,7 @@ sub invitatorium {
 
     push(@s, $_);
   } else {
-    $error .= "$fname cannnot open";
+    $error .= "$fname cannot open";
   }
 }
 
@@ -124,15 +124,15 @@ sub hymnusmatutinum {
   my $hymn = '';
   my $name = 'Hymnus';
   $name .= checkmtv($version, \%winner) unless (exists($winner{'Hymnus Matutinum'}));
-  my ($h, $c) = getproprium("$name Matutinum", $lang, $seasonalflag, 1);
+  my ($h, $c) = getproprium("$name Matutinum", $lang, 1);
 
   if ($h) {
     if (hymnshift($version, $day, $month, $year)) {  # if 1st Vesper hymn has been omitted due to concurrent II. Vespers
-      my ($h1, $c1) = getproprium("$name Vespera", $lang, $seasonalflag, 1);
+      my ($h1, $c1) = getproprium("$name Vespera", $lang, 1);
       $h = $h1;
       setbuild2("Hymnus shifted");
     } elsif (hymnmerge($version, $day, $month, $year)) {    # if also 2nd Vesper been omitted
-      my ($h1, $c1) = getproprium("$name Vespera", $lang, $seasonalflag, 1);
+      my ($h1, $c1) = getproprium("$name Vespera", $lang, 1);
       $h =~ s/^(v. )//;
       $h1 =~ s/\_(?!.*\_).*/\_\n$h/s;    # find the Doxology as last verse since e.g. Venantius(05-18) has a proper one
       $h = $h1;
@@ -144,8 +144,22 @@ sub hymnusmatutinum {
     my %hymn = %{setupstring($lang, 'Psalterium/Special/Matutinum Special.txt')};
     $name = gettempora('Hymnus matutinum');
     $name = ($name) ? "Hymnus $name" : "Day$dayofweek Hymnus";
+
+    if ($name =~ /Day[1-6] Hymnus/i && $version =~ /Cist/i) {
+      $name = "Day0 Hymnus";
+    }
     $comment = ($name) ? 1 : 5;
-    if ($name =~ /^Day0 Hymnus$/i && ($month < 4 || ($monthday && $monthday =~ /^1[0-9][0-9]\-/))) { $name .= '1'; }
+
+    if (
+      $name =~ /^Day0 Hymnus$/i
+      && (
+        $month < 4
+        || ( ($monthday && $monthday =~ /^1[0-9][0-9]\-/ && $version !~ /Cist/i)
+          || ($monthday && $monthday =~ /^1[1-9][0-9]\-/ && $version =~ /Cist/i))
+      )
+    ) {
+      $name .= '1';
+    }
     setbuild("Psalterium/Special/Matutinum Special", $name, 'Hymnus ord');
 
   }
@@ -302,24 +316,6 @@ sub psalmi_matutinum {
         setbuild2("$name special versums for nocturns");
       }
     }
-
-    #  if ( $version =~ /Trident/i
-    #   && $testmode =~ /seasonal/i
-    #   && $winner =~ /Sancti/i
-    #   && $rank >= 2
-    #   && $rank < 5
-    #   && !exists($winner{'Ant Matutinum'}))
-    # {
-    #   my %psalmi = %{setupstring($lang, 'Psalterium/Psalmi/Psalmi matutinum.txt')};
-    #   @psalmi = split("\n", $psalmi{"Daya$dayofweek"});
-    #   nocturn(1, $lang, \@psalmi, (0, 1, 6, 7));
-    #   lectiones(1, $lang);
-    #   nocturn(2, $lang, \@psalmi, (2, 3, 6, 7));
-    #   lectiones(2, $lang);
-    #   nocturn(3, $lang, \@psalmi, (4, 5, 6, 7));
-    #   lectiones(3, $lang);
-    #   return;
-    # }
 
     for (1 .. 3) {
       nocturn($_, $lang, \@psalmi, ((($_ - 1) * 5) .. ($_ * 5 - 1)));
@@ -564,7 +560,7 @@ sub lectiones {
     push(@s, "\$Pater noster Et") unless $rule =~ /sine absolutio/i;
     push(@s, "Absolutio. $a[0]", '$Amen') unless $version =~ /^Ordo Praedicatorum/ || $rule =~ /sine absolutio/i;
   } elsif ($version !~ /Cist/i || $rule =~ /Matutinum Romanum/i) {
-    push(@s, "\$Pater totum secreto");
+    push(@s, "\$Pater totum secreto") unless $version =~ /Cist/i && $votive =~ /C12/;
   }
   push(@s, "\n");
 
@@ -626,7 +622,7 @@ sub lectio : ScriptFunc {
       # Pre-1960: Sanctoral simplex feast
       # (unless monastic in Nativitytide and Epiphany => prevent the former Octave days of Stephanus, Joannes, Innocents)
       || (
-           $version !~ /196/
+           $version !~ /196|Cist/
         && $rule !~ /1 et 2 lectiones/i
         && $winner =~ /Sancti/i
         && $rank < 2
@@ -724,14 +720,17 @@ sub lectio : ScriptFunc {
   }
 
   #** handle initia table (Str$ver$year)
-  if ($nocturn == 1 && $version !~ /monastic/i && $winner !~ /C12/) {
+  if ($nocturn == 1 && $version !~ /1963/ && $winner !~ /C12/) {
     my $file = initiarule($month, $day, $year);
     if ($file) { %w = resolveitable(\%w, $file, $lang); }
-  }
+  } elsif ($num < 4 && $rule =~ /StJamesRule=((?:1 )?[a-z,\|á]+)\s/i) {
 
-  #StJamesRule
-  if ($num < 4 && $rule =~ /StJamesRule=([a-z,]+)\s/i)    #was also: && $version !~ /1961/
-  {
+    # StJamesRule: should rather be called St. Apostles or St. James and St. Johns rule:
+    # On May 1st and 6th, if occuring scripture is from the respective Apostle, then it's read
+    # instead of the assigned Incipit which is a repeat from Dom. IV post Pasc and Dom infra 8vam Asc
+    # If these Sundays happen to fall on the day after the Apostle's feast, then Scripture is taken  from
+    # the following Monday such that there is no repeat of readings. Since May 3 and May 8 have
+    # proper 1st Nocturn readings, (at least before 1960) the Monday readings are impeded anyway
     %w = StJamesRule(\%w, $lang, $num, $1);
   }
 
@@ -836,8 +835,7 @@ sub lectio : ScriptFunc {
       || ($num == 4 && $rule =~ /12 lect/i && exists($scriptura{"Lectio3"}))
     )                                                   # or for Monastic if we have to split the lessons at the ¶ mark
     && ($version !~ /trident/i || $rank < 5)
-    )
-  {                                                     # but not in Tridentinum Duplex II. vel I. classis
+  ) {                                                   # but not in Tridentinum Duplex II. vel I. classis
     %w = (columnsel($lang)) ? %scriptura : %scriptura2;
     $w = $w{"Lectio$num"};
 
@@ -931,8 +929,7 @@ sub lectio : ScriptFunc {
 
     # Simplex: also look when last lectio has been diverged to Lectio 4
     || (($ltype1960 == LT1960_SANCTORAL || $rank < 2) && $winner =~ /Sancti/i && $num == 4)
-    )
-  {    # 9th lesson diverged to Legend of Commemorated Saint
+  ) {    # 9th lesson diverged to Legend of Commemorated Saint
     %w = (columnsel($lang)) ? %winner : %winner2;
     my $L9winnerflag = 0;
 
@@ -951,6 +948,7 @@ sub lectio : ScriptFunc {
     if ( ($commemoratio =~ /tempora/i && $commemoratio !~ /Nat(29|30|31)/i || $commemoratio =~ /01\-05\./)
       && ($homilyflag == 1 || exists($commemoratio{"Lectio$j0"}))
       && $comrank > 1
+      && $version !~ /Cist/i
       && ($rank > 4 || ($rank >= 3 && $version =~ /Trident/i) || $homilyflag == 1))
 
       #  || exists($commemoratio{Lectio1}) removed as it results in a wrong commemoration of Die infra 8vam (e.g., 2024-04-23)
@@ -1008,6 +1006,7 @@ sub lectio : ScriptFunc {
       && $commemoratio{Rank} =~ /S\. /i
       && ($winner !~ /tempora/i || $winner{Rank} < 5)
       && ($version !~ /1955/ || $comrank > 4)
+      && $version !~ /Cist/i
       && $cflag)
     {
       %w = (columnsel($lang)) ? %commemoratio : %commemoratio2;
@@ -1233,7 +1232,8 @@ sub lectiones_ex3_fiunt4 {
       my $cc = $scrip{"Lectio$l0"};
       push(@scrips, $cc);
     } else {
-      my @splits = split("¶\n", $scrip{"Lectio$l0"});
+      $scrip{"Lectio$l0"} =~ /(¶\s)/s;
+      my @splits = split($1, $scrip{"Lectio$l0"});
       push(@scrips, @splits);
     }
   }
@@ -1443,12 +1443,13 @@ sub resolveitable {
     my $replace = $file =~ /\~R$/ ? 1 : 0;    # if we have a ~R(eplace) rule
     $file =~ s/~[ABR]$//;                     # remove ~A(fter) or ~B(efore) or ~R(eplace) from the end of the string
     @file = split('~', $file);                # gather the transfered intias
-    $lim = 3;                                 # in general, allow up to 3 transferals
+    $lim = $rule =~ /12 lect/ ? 4 : 3;        # in general, allow up to 3 transferals
     $start = 1;                               # in general, start at 1
 
     if ($initia && !$replace)
     {    # if we have an (unreplaced) inita on the day already (so we put the transferred afterwards)
-      $start = (@file < 2) ? 3 : 2;    # if we have one transferred place it no. at 3; otherwise at 2&3
+      $start =
+        (@file < 2) ? ($rule =~ /12 lect/ ? 4 : 3) : 2; # if we have one transferred place it no. at 3; otherwise at 2&3
 
       if ($rule !~ /(9|12) lectiones/i && $winner =~ /Sancti/i) {
         $lim = 1;
@@ -1459,6 +1460,7 @@ sub resolveitable {
 
     while (@file && $i <= $lim) {    # while we have more transferals and stay in the limit
       $file = shift(@file);
+
       %winit = %{setupstring($lang, subdirname('Tempora', $version) . "$file.txt")};
 
       #$w{"Lectio$start"} = $winit{"Lectio$i"};
@@ -1470,16 +1472,16 @@ sub resolveitable {
 
     $i = 2;    # from here $i is used as a counter for which Lectio$i gets appended
 
-    while ($start <= 3) { # only in case we put transfers "before", also transfer the remaining parts of the last initia
-
-      #$w{"Lectio$start"} = $winit{"Lectio$i"};
-      #if (exists($winit{"Responsory$i"})) {$w{"Responsory$start"} = $winit{"Responsory$i"};}
+    while ($start <= ($rule =~ /12 lect/ ? 4 : 3))
+    {          # only in case we put transfers "before", also transfer the remaining parts of the last initia
+               #$w{"Lectio$start"} = $winit{"Lectio$i"};
+               #if (exists($winit{"Responsory$i"})) {$w{"Responsory$start"} = $winit{"Responsory$i"};}
       %w = tferifile(\%w, \%winit, $start, $i, $lang);
       $i++;
       $start++;
     }
   } else {    # when there is a conflict of a ~B transfer and an inita itself
-    $file =~ s/~[AB]$//;
+    $file =~ s/~[ABR]$//;
     @file = split('~', $file);
     $lim = 1;      # in general allow 1 transfer and
     $start = 2;    # put the actual days in second place
@@ -1551,15 +1553,24 @@ sub StJamesRule {
   my $key;
 
   if ($w{Rank} =~ /Dominica/i && prevdayl1($s)) {
+
+    # On Dominica IV post Pascha & infra 8vam Ascensionis, if the previous day has had the incipit
+    # already, then read from Monday instead.
     my $kd = "$dayname[0]-1";
     if ($ordostatus =~ /Ordo/i) { return $kd; }
     %w1 = %{setupstring($lang, subdirname('Tempora', $version) . "$kd.txt");};
+    setbuild2("subst: Incipit from $s replaced by Monday readings to avoid repeat");
   }
 
-  if ($w{Rank} =~ /Jacobi/ && $scriptura{Lectio1} =~ /!.*?($s) /i) {
+  if ($w{Rank} =~ /Jacobi|Joannis/ && $scriptura{Lectio1} =~ /!.*?($s) /i) {
+
+    # On Ss. Philippi et Jacobi, App & S. Joannis ante portam Latinam, if occuring scripture is
+    # from the Apostel's epistels or revelation, then it is read
     if ($ordostatus =~ /Ordo/) { $s = $scriptura; $s =~ s/(Tempora\/|\.txt)//gi; return $s; }
     %w1 = columnsel($lang) ? %scriptura : %scriptura2;
+    setbuild2("subs: Incipit from $1 replaced by occuring scripture") if $num == 1;
   }
+
   if (!exists($w1{"Lectio$num"})) { return %w; }
   $w{"Lectio$num"} = $w1{"Lectio$num"};
   return %w;
@@ -1629,7 +1640,7 @@ sub getantmatutinum {
   }
 
   # Look up proper AntMatutinum and return if none
-  my ($wprop, $cprop) = getproprium('Ant Matutinum', $lang, $flag, 1);
+  my ($wprop, $cprop) = getproprium('Ant Matutinum', $lang, $flag);
   return unless $wprop;
 
   my $w = $wprop;    # for Backwards compatibility pass through if target is met
@@ -1642,7 +1653,7 @@ sub getantmatutinum {
       push(@w, shift(@wprop)) for 1 .. $ppN;    # pass-through psalm lines for nocturn if they exist
       last unless $noc;                         # for 3 lectio, no versicle to be appended;
 
-      my ($vers, $cvers) = getproprium("Nocturn $noc Versum", $lang, 1, 1);
+      my ($vers, $cvers) = getproprium("Nocturn $noc Versum", $lang, 1);
       my @vers = split("\n", $vers);
       push(@w, @vers);                          # add "interspersed" Versicle
     }

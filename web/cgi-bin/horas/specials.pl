@@ -163,7 +163,19 @@ sub specials {
 
     # Invitatorium:
     if ($item =~ /invitatorium/i) {
-      invitatorium($lang);    # see specmatins.pl
+
+      # CIST: between Most Holy Trinity and All Saints, Psalm 94 is prayed instead of Invitatory on Ferias incl. in Octaves
+      if ( $version =~ /Cist/i
+        && $winner{Rank} =~ /Feria|Vigilia|Sabbato infra oct/i
+        && $dayname[0] =~ /Pent|Epi/i
+        && $month > 5
+        && $month < 11)
+      {
+        push(@s, "\&psalm('94C')", "\n");
+        setbuild('Psalterium/Special/Matutinum Special', 'Psalmus 94 loco Invitatorii in Æstate', 'Invitatorium ord');
+      } else {
+        invitatorium($lang);    # see specmatins.pl
+      }
       next;
     }
 
@@ -441,7 +453,6 @@ sub getproprium {
   my $name = shift;
   my $lang = shift;
   my $flag = shift;
-  my $buildflag = shift;
   my $w = '';
   my $c = 0;
   my $prefix = 0;
@@ -454,7 +465,7 @@ sub getproprium {
   }
 
   if ($w) {
-    if ($buildflag) { setbuild($winner, $name, 'proprium'); }
+    setbuild($winner, $name, 'proprium');
     return ($w, $c);
   }
 
@@ -508,7 +519,7 @@ sub getproprium {
       $w = replaceNdot($w, $lang);
       my $n = $com{Officium} || $cn;
       $n =~ s/\n//g;
-      if ($buildflag) { setbuild($n, $name, 'subst'); }
+      setbuild($n, $name, 'subst');
     }
   }
   return ($w, $c);
@@ -588,18 +599,18 @@ sub getantvers {
   #		}
   #	}
   #	if (!$w) {
-  ($w, $c) = getproprium("$item $ind", $lang, 1, 1);
+  ($w, $c) = getproprium("$item $ind", $lang, 1);
 
   #	}
 
   if (!$w && $ind > 1) {
     my $i = 4 - $ind;
-    ($w, $c) = getproprium("$item $i", $lang, 1, 1);
+    ($w, $c) = getproprium("$item $i", $lang, 1);
   }
 
-  #if (!$w && $ind != 2) {($w, $c) = getproprium("$item 2", $lang, 1, 1);}
-  #if (!$w && $ind == 2) {($w, $c) = getproprium("$item 3", $lang, 1, 1);}
-  #if (!$w && $ind == 2) {($w, $c) = getproprium("$item 1", $lang, 1, 1);}
+  #if (!$w && $ind != 2) {($w, $c) = getproprium("$item 2", $lang, 1);}
+  #if (!$w && $ind == 2) {($w, $c) = getproprium("$item 3", $lang, 1);}
+  #if (!$w && $ind == 2) {($w, $c) = getproprium("$item 1", $lang, 1);}
   #handle seant
   if (!$w && $hora eq 'Vespera' && $item =~ /Ant/i && $winner =~ /Tempora\/Quadp[12]/i) {
     $w = getseant($lang);
@@ -722,8 +733,8 @@ sub checksuffragium {
     || $version !~ /cist/i && $dayname[0] =~ /Adv|Quad5/i
 
     # All Duplex (MM. maj.) Saints (except Patr. S. Joseph)
-    || ($winner =~ /sancti/i && $rank >= $ranklimit && $seasonalflag)
-    || ($winner =~ /tempora/i && $duplex > 2 && $seasonalflag)
+    || ($winner =~ /sancti/i && $rank >= $ranklimit)
+    || ($winner =~ /tempora/i && $duplex > 2)
 
     # Octaves
     || ($winner{Rank} =~ /octav/i && $winner{Rank} !~ /post Octavam/i)
@@ -741,7 +752,7 @@ sub checksuffragium {
     # Altovadensis: limit at xij. Lect. et M.
     || $version =~ /altovadensis/i && $rank > 2.5;
 
-  if ($commemoratio && $seasonalflag) {
+  if ($commemoratio) {
     my @r = split(';;', $commemoratio{Rank});
 
     return 0

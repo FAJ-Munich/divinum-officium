@@ -59,8 +59,9 @@ sub horas {
 
   if ($Ck) {
     $version = $version2;
-    load_languages_data($lang1, $lang2, $version, $missa);
+    load_languages_data($lang1, $lang2, $langfb, $version, $missa);
     precedence();
+    setsecondcol();
   }
 
   if (!$only) {
@@ -512,7 +513,7 @@ sub canticum {
 
   if ($hora eq 'Completorium') {
     push(@s, '#' . translate(substr($item, 1), $lang));
-    my ($w, $c) = getproprium("Ant 4$vespera", $lang, 1);
+    my ($w, $c) = getproprium("Ant 4$vespera", $lang);
 
     if ($w) {
       setbuild1($ite, 'special');

@@ -19,15 +19,16 @@ $nofancychars='0';;
 $noinnumbers='1';;
 $noflexa='1';;
 $langfb='English';;
+$testmode='Proper';;
 
 [parameterscheck]
-bbtbbbtcccccnnbbbbbt
+bbtbbbtcccccnnbbbbbtt
 
 [general]
 $expand='tota';;
 $version='Rubrics 1960 - 1960';;
 $lang2='English';;
-$votive='';;
+$votive='Hodie';;
 
 [generalcheck]
 oooo

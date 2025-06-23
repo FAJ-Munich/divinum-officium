@@ -29,7 +29,7 @@ sub occurrence {
   our ($tname, $sname, $sanctoraloffice);
   our (@trank, @srank, @commemoentries);
   our (%tempora, %saint);
-  our ($initia, $scriptura, $laudesonly, $commemorated, $seasonalflag);
+  our ($initia, $scriptura, $laudesonly, $commemorated);
   our $transfervigil = '';
   our ($vespera, $cvespera);
   our ($tvesp, $svesp, $dayofweek);
@@ -97,7 +97,7 @@ sub occurrence {
     $transfer = shift @transfers;
   }
 
-  if ($testmode =~ /(Saint|Common)/i) {
+  if ($testmode eq 'Sanctoral') {
     $tfile = 'none';
   } else {
 
@@ -149,7 +149,7 @@ sub occurrence {
     }
   }
 
-  if ($testmode =~ /^Season$/i) {
+  if ($testmode eq 'Temporal') {
     $sfile = 'none';
   } else {
 
@@ -320,13 +320,6 @@ sub occurrence {
         $srank[2] = ($version =~ /Monastic/i)
           ? 1.1     #Monastic post-DA: reduced to Memoria unless Octave
           : 1.2;    #1955: Semiduplex reduced to Simplex
-      } elsif ($version =~ /196/i
-        && $srank[2] < 2
-        && $srank[1] =~ /Simplex/i
-        && $testmode =~ /seasonal/i
-        && ($month > 1 || $day > 13))
-      {
-        $srank[2] = 1;
       }
     } else {
       $srank = '';
@@ -337,7 +330,7 @@ sub occurrence {
     }
 
     # In Festo Sanctae Mariae Sabbato according to the rubrics.
-    if ($testmode !~ /^season$/i && $BMVSabbato && $trank[2] < 1.4 && $srank[2] < 1.4) {
+    if ($testmode ne 'Sanctoral' && $BMVSabbato && $trank[2] < 1.4 && $srank[2] < 1.4) {
       unless ($tomorrow) {
         $scriptura = $tname;
       }
@@ -380,7 +373,6 @@ sub occurrence {
     # Ensure that the dies infra Octavam Epiphaniæ does not outrank the Sunday infra Octavam or the Feast of the Holy Family
     $srank[2] = 2.9;
   }
-  if ($testmode =~ /seasonal/i && $version =~ /196/ && $srank[2] < 5 && $dayname[0] =~ /Adv/i) { $srank[2] = 1; }
 
   # Sort out occurrence between the sanctoral and temporal cycles.
   # Dispose of some cases in which the office can't be sanctoral:
@@ -530,7 +522,6 @@ sub occurrence {
         && ( $saint{Rank} !~ /\;\;ex /
           || ($version =~ /trident/i && $saint{Rank} !~ /\;\;(vide|ex) /i)
           || $saint{Rule} =~ /Lectio1 temp/i)
-        && ($version !~ /monastic/i || $tname !~ /(?:Pasc|Pent)/ || $month > 10)
       ) {
         my $ittable = initiarule($month, $day, $year);
 
@@ -543,8 +534,9 @@ sub occurrence {
           %tscrip = %{officestring('Latin', $tsfile)};
           $tsrank = $tscrip{Rank} || $tscrip{Scriptura};
           $tsrank =~ s/\s*;;.*|\s*$//s;
-          $initia = ($tscrip{Lectio1} =~ /!.*? 1\:1\-/) ? 1 : 0;
           $officename[2] = "Tempora: $trank[0] (Scriptura ut in: $tsrank)";
+        } elsif ($version !~ /monastic/i || $tname !~ /(?:Pasc|Pent)/ || $month > 10) {
+          $officename[2] = "Tempora: $trank[0]";
         } else {
           $officename[2] = "Scriptura: $trank[0]";
         }
@@ -699,6 +691,23 @@ sub occurrence {
       if ($s{Rank} =~ /Vigil/i && exists($s{Commemoratio})) { $commemorated = $sname; }
       if ($s{Rank} =~ /Vigil/i && exists($s{"Commemoratio 2"})) { $commemorated = $sname; }
     }
+
+    if (!($officename[2] || $missa)) {
+
+      my $ittable = initiarule($month, $day, $year);
+
+      if ($ittable && $ittable !~ /\~[A]$/) {
+
+        # If we have transferred scripture which is not coming "after" the actual day's
+        # we put the source of the transferred Letio1 into the headline
+        my @tsfile = split('~', $ittable);
+        my $tsfile = subdirname('Tempora', $version) . $tsfile[0] . ".txt";
+        %tscrip = %{officestring('Latin', $tsfile)};
+        $tsrank = $tscrip{Rank} || $tscrip{Scriptura};
+        $tsrank =~ s/\s*;;.*|\s*$//s;
+        $officename[2] = "Scriptura ut in: $tsrank";
+      }
+    }
   }
 
   if ($month == 1 && $day < 14 && $officename[0] !~ /Epi/i) { $officename[0] = "Nat$day"; }
@@ -712,14 +721,13 @@ sub occurrence {
   if ($version =~ /trident/i && $communetype =~ /ex/i && $rank < 1.5) { $communetype = 'vide'; }
 
   $comrank =~ s/\s*//g;
-  $seasonalflag = ($testmode =~ /Seasonal/i && $winner =~ /Sancti/ && $rank < 5) ? 0 : 1;
 }
 
 sub concurrence {
   my ($day, $month, $year, $version) = @_;    # sort out concurrence for the day and the next day
 
   # globals readonly
-  our ($testmode, $hora, $missa, $caller, $datafolder, $lang2);
+  our ($hora, $missa, $caller, $datafolder, $lang2);
 
   # globals set/mod here
   our ($winner, $cwinner, $rank, $crank, $commemoratio, $comrank, $commune, $communetype);
@@ -734,7 +742,7 @@ sub concurrence {
   our (@dayname, @tomorrowname);
 
   # globals read only
-  our ($hora, $version, $missa, $missanumber, $votive, $lang1, $lang2, $testmode);
+  our ($missanumber, $votive, $lang1);
   our $datafolder;
 
   occurrence($day, $month, $year, $version, 1);    # get next day's office
@@ -1383,7 +1391,7 @@ sub gettoday {
 
 sub setsecondcol {
   our ($winner, $commemoratio, $commune, $scriptura);
-  our ($lang2, $vespera, $cvespera, $testmode);
+  our ($lang2, $vespera, $cvespera);
 
   our (%winner2, %commemoratio2, %commune2, %scriptura2) = () x 4;
 
@@ -1392,18 +1400,6 @@ sub setsecondcol {
     if $commemoratio;
   %commune2 = %{officestring($lang2, $commune)} if $commune;
   %scriptura2 = %{officestring($lang2, $scriptura)} if $scriptura;
-
-  if ($testmode =~ /Commune/i) {
-    foreach my $key (keys %winner2) {
-      next if $key =~ /Rank/i;
-
-      if (exists($commune2{$key})) {
-        $winner2{$key} = $commune2{$key};
-      } else {
-        delete($winner2{$key});
-      }
-    }
-  }
 }
 
 #*** precedence()
@@ -1424,7 +1420,7 @@ sub precedence {
   our (%tempora, %saint, %ctempora, %csaint) = () x 2;
 
   # globals read only
-  our ($hora, $version, $missa, $missanumber, $votive, $lang1, $lang2, $testmode);
+  our ($hora, $version, $missa, $missanumber, $votive, $lang1, $lang2);
   our ($vespera, $cvespera, $tvesp, $svesp, $rank);
   our $datafolder;
 
@@ -1620,18 +1616,6 @@ sub precedence {
       || ($version =~ /Trident/i && $rank =~ /\;\;(ex|vide)/i && $duplex > 1))
     {
       $communerule = $commune{Rule};
-    }
-
-    if ($testmode =~ /Commune/i) {
-      foreach my $key (keys %winner) {
-        next if $key =~ /Rank/i;
-
-        if (exists($commune{$key})) {
-          $winner{$key} = $commune{$key};
-        } else {
-          delete($winner{$key});
-        }
-      }
     }
   }
 

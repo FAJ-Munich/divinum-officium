@@ -56,9 +56,7 @@ sub psalmi_matutinum_monastic {
   }
 
   #** special antiphons for not Quad weekdays
-  if (($dayofweek > 0 && $dayname[0] !~ /Quad/i)
-    || $winner =~ /Pasc6-0/)
-  {
+  if (($dayofweek > 0 && $dayname[0] !~ /Quad/i) || $winner =~ /Pasc6-0/) {
     my $start = ($dayname[0] =~ /Pasc|Nat[23]\d/i) ? 0 : 8;
     my @p;
 
@@ -110,6 +108,7 @@ sub psalmi_matutinum_monastic {
     setbuild("$src", "$name $i Versum", 'subst');
   }
 
+  #** CIST: change of versicle for Simplex feast (iij. Lect. et M.)
   if ( $version =~ /Cist/i
     && $winner !~ /^Tempora/
     && $winner{Rule} =~ /3 lectio|(ex|vide) C10/i)
@@ -189,6 +188,7 @@ sub psalmi_matutinum_monastic {
     if (exists($winner{'Ant Matutinum'})) {
       my ($w, $c) = getantmatutinum($lang);
       my @p = split("\n", $w);
+      my $skip = "";
 
       for (my $i = 0; $i < @p; $i++) {
         my $p = $p[$i];
@@ -196,10 +196,23 @@ sub psalmi_matutinum_monastic {
 
         if ($i == 0 || $i == 8) {
           $p = "$p[$i]$p";
+        } elsif ($version =~ /Cist/i && ($i == 2 || $i == 4)) {
+
+          # CIST: there are three Ant. for first Nocturn
+          if ($i == 4 && ($dayofweek == 1 || $dayofweek == 4)) {
+
+            # CIST: on Monday, Psalm 36 is divided and the Ant. can't be placed inbetween.
+            # Same on Thursday.
+            $skip = 1;
+          } else {
+            $p = "$p[$i]$p";
+          }
+        } elsif ($version =~ /Cist/i && $i == 5 && $skip) {
+          $p = "$p[$i-1]$p";
         }
         $psalmi[$i] = $p;
       }
-      setbuild1("Antiphonas", "per Octavam cum Psalmi de Feria currentæ");
+      setbuild1("Antiphonas", "per Octavam cum Psalmis de Feria");
     }
 
     #	} elsif (($rank > 1.9 && $version =~ /Bavariae/i) && !(($dayname[0] =~ /Pasc0/) && ($dayofweek > 2))) {
@@ -252,16 +265,34 @@ sub psalmi_matutinum_monastic {
     # i.e., outside Ascensiontide and Rogation Monday (pre-55), Pentecost, Vigils, Ember days and Octaves:
     # The change from "summer" to "winter" matins (pre- and post-1960) is tied to the 1st Sunday of November not All Saints' Day.
     # The previous elsif made a mistake and referred to non-existing scriptura of the last week of October
-    if ($winner =~ /Tempora/i || !(exists($winner{Lectio94}) || exists($winner{Lectio4}))) {
-      brevis_monastic($lang);
-
+    if (initiarule($month, $day, $year)) {
+      lectiones(0, $lang);
+      setbuild2("Lectionis de Scriptura Dominicæ omissa");
+    } elsif ($winner =~ /Tempora/i
+      || !(exists($winner{Lectio94}) || exists($winner{Lectio93}) || exists($winner{Lectio4})))
+    {
       # on a ferial day in "Summer", we have just a Lectio brevis
-    } elsif (exists($winner{Lectio94}) || exists($winner{Lectio4})) {
-      legend_monastic($lang);
+
+      brevis_monastic($lang);
+      setbuild2("Lectio brevis");
+    } elsif (exists($winner{Lectio94}) || exists($winner{Lectio93}) || exists($winner{Lectio4})) {
 
       # on a III. class feast in "Summer", we have the contracted Saint's legend
+      legend_monastic($lang);
+      setbuild2("Lectio unica de Sancto");
     }
     push(@s, "\n");
+  } elsif ($dayname[0] =~ /(Pasc[1-6]|Pent)/i
+    && $winner{Rank} !~ /quat(t?)uor|Dominica/i
+    && $rule !~ /(3|12) lectiones/
+    && $version =~ /Cist/i)
+  {
+    # CIST: days within Octaves and Vigils need Lectio brevis + R.br. as well
+
+    if ($winner =~ /Tempora/i || $winner{Rank} =~ /Vigil/i) {
+      brevis_monastic($lang);
+      push(@s, "\n");
+    }
   } else {
     lectiones(0, $lang);
 
@@ -317,7 +348,7 @@ sub psalmi_matutinum_monastic {
   }
 
   # end 2nd nocturn in ferial office
-  my ($w, $c) = getproprium('MM Capitulum', $lang, 0, 1);
+  my ($w, $c) = getproprium('MM Capitulum', $lang, 0);
 
   if (!$w && $commune) {
     my %c = (columnsel($lang)) ? %commune : %commune2;
@@ -333,7 +364,7 @@ sub psalmi_matutinum_monastic {
   push(@s, "!!Capitulum", $w, "\n");    # print Capitulum, V.R.
 }
 
-#*** monstic_lectio3($w, $lang)
+#*** monastic_lectio3($w, $lang)
 # return the legend if appropriate
 sub monastic_lectio3 {
   my $w = shift;
@@ -375,9 +406,9 @@ sub absolutio_benedictio {
     $ben = $a[3 - ($i == 3)];
   }
 
-  push(@s, "\$rubrica Pater secreto");
-  push(@s, "\$Pater noster Et");
-  push(@s, "Absolutio. $abs", '$Amen', "\n");
+  push(@s, "\$rubrica Pater secreto") unless $version =~ /Cist/i;
+  push(@s, "\$Pater noster Et") unless $version =~ /Cist/i;
+  push(@s, "Absolutio. $abs", '$Amen', "\n") unless $version =~ /Cist/i;
   push(@s, prayer('Jube domne', $lang));
   push(@s, "Benedictio. $ben", '$Amen', '_');
 }
@@ -391,8 +422,8 @@ sub legend_monastic {
   my %w = (columnsel($lang)) ? %winner : %winner2;
   my $str;
 
-  if (exists($w{Lectio94})) {
-    $str = $w{Lectio94};
+  if (exists($w{Lectio94}) || exists($w{Lectio93})) {
+    $str = $w{Lectio94} || $w{Lectio93};
   } else {
     $str = $w{Lectio4};
     if (exists($w{Lectio5}) && $w{Lectio5} !~ /!/) { $str .= $w{Lectio5} . $w{Lectio6}; }
@@ -425,8 +456,11 @@ sub brevis_monastic {
   my $lang = shift;
   absolutio_benedictio($lang);
   my $lectio;
+  my %w = columnsel($lang) ? %winner : %winner2;
 
-  if ($commune =~ /C10/) {
+  if ($version =~ /Cist/i && $w{"MM LB"}) {
+    $lectio = $w{"MM LB"};
+  } elsif ($commune =~ /C10/) {
     my %c = (columnsel($lang)) ? %commune : %commune2;
     my $name = getC10readingname();
     my @resp = split(/\n/, $c{'Responsory3'});
@@ -445,6 +479,8 @@ sub brevis_monastic {
     $lectio = $b{"MM LB" . (($dayname[0] =~ /Pasc/) ? " Pasch" : $dayofweek)};
   }
   $lectio =~ s/&Gloria1?/&Gloria1/;
+  $lectio =~ s/&Gloria.*//s if $version =~ /Cist/i;
+  if ($lectio) { $lectio = "#Lectio brevis\n$lectio" }
   push(@s, $lectio);
 }
 
