@@ -23,11 +23,16 @@ R. Y he cometido la maldad en tu presencia.
 16 Y si el hombre le decía: “Espera a que se queme el sebo, como siempre, y luego cogerás lo que tú quieras,” le respondía el criado: “No; tienes que dármela ahora mismo, y si no, la cojo yo por la fuerza.” 
 17 Muy grande era el pecado de aquellos jóvenes ante Yahvé, pues hacían odioso a los hombres el ofrecer ante Yahvé.
 
-[Responsory2]
+[Responsory2_]
 R. Oíste, oh Señor, la oración de tu siervo, permitiéndome que edificara un templo para gloria de tu nombre: 
 * Bendice y santifica para siempre esta casa, oh Dios de Israel, 
 V. Señor, que guardas el pacto con tus siervos, que andan en tu presencia con todo su corazón. 
 R. Bendice y santifica para siempre esta casa, oh Dios de Israel.
+
+[Responsory2]
+@:Responsory2_
+(sed rubrica cisterciensis)
+@:Responsory3_
 
 [Lectio3]
 !1 Sam 2:18-21
@@ -36,10 +41,15 @@ R. Bendice y santifica para siempre esta casa, oh Dios de Israel.
 20 Helí bendijo a Elcana y a su mujer, diciendo: “Que te dé Yahvé hijos de esta mujer por el que le prestaste.” Volviéronse ellos a su casa, 
 21 y Yahvé visitó a Ana, que concibió y parió tres hijos y dos hijas. El joven Samuel iba creciendo en la presencia de Yahvé.
 
-[Responsory3]
+[Responsory3_]
 R. Escucha, Señor, los himnos y las plegarias que tu siervo pronuncia hoy en tu presencia, para que estén tus ojos abiertos, 
 * Hacia esta casa de día y de noche. 
 V. Óyeles, Señor, desde tu santuario y desde tu excelsa mansión de los cielos. 
 R. Hacia esta casa de día y de noche. 
 &Gloria
 R. Hacia esta casa de día y de noche. 
+
+[Responsory3]
+@:Responsory3_
+(sed rubrica cisterciensis)
+@Tempora/Pent01-1:Responsory1_

@@ -285,14 +285,13 @@ sub psalmi_matutinum_monastic {
   } elsif ($dayname[0] =~ /(Pasc[1-6]|Pent)/i
     && $winner{Rank} !~ /quat(t?)uor|Dominica/i
     && $rule !~ /(3|12) lectiones/
-    && $version =~ /Cist/i)
+    && $version =~ /Cist/i
+    && ($winner =~ /Tempora/i || $winner{Rank} =~ /Vigil|infra Oct/i))
   {
     # CIST: days within Octaves and Vigils need Lectio brevis + R.br. as well
-
-    if ($winner =~ /Tempora/i || $winner{Rank} =~ /Vigil/i) {
-      brevis_monastic($lang);
-      push(@s, "\n");
-    }
+    brevis_monastic($lang);
+    push(@s, "\n");
+    setbuild2("Lectio Brevis de Feria (Rubrica Cisterciensis)");
   } else {
     lectiones(0, $lang);
 
@@ -326,8 +325,8 @@ sub psalmi_matutinum_monastic {
     my ($ant, $p) = split(/;;/, $psalmi[16]);
     my %w = (columnsel($lang)) ? %winner : %winner2;
 
-    if (exists($w{"Ant Matutinum 3N"})) {
-      my @t = split("\n", $w{"Ant Matutinum 3N"});
+    if (exists($w{'Ant Matutinum 3N'}) || exists($commune{'Ant Matutinum 3N'})) {
+      my @t = split("\n", $w{'Ant Matutinum 3N'} || $commune{'Ant Matutinum 3N'});
       for (my $i = 0; $i <= $#t; $i++) { $psalmi[16 + $i] = $t[$i]; }
       my ($p1);
       ($ant, $p1) = split(/;;/, $psalmi[16]);
@@ -400,10 +399,17 @@ sub absolutio_benedictio {
   } else {
     my %ben = %{setupstring($lang, 'Psalterium/Benedictions.txt')};
     my $i = dayofweek2i();
+    my %w = (columnsel($lang)) ? %winner : %winner2;
     @a = split(/\n/, $ben{"Nocturn $i"});
     my @abs = split(/\n/, $ben{Absolutiones});
     $abs = $abs[dayofweek2i() - 1];
     $ben = $a[3 - ($i == 3)];
+
+    # CIST: some days have their proper Benedictio
+    if (exists($w{Benedictio}) && $version =~ /Cist/i) {
+      $ben = $w{Benedictio};
+      setbuild2('Special Benedictio ex proprio');
+    }
   }
 
   push(@s, "\$rubrica Pater secreto") unless $version =~ /Cist/i;
@@ -431,7 +437,7 @@ sub legend_monastic {
 
   $str =~ s/&teDeum\s*//;
   $str =~ s/^(?=\p{Letter})/v. /;
-  push(@s, $str, '$Tu autem', '_');
+  push(@s, '#Lectio unica', $str, '$Tu autem', '_');
 
   my $resp = '';
 

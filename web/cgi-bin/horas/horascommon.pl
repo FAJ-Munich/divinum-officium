@@ -48,7 +48,6 @@ sub occurrence {
   my $sfile = '';
   my $tfile = '';
   my $weekname = '';
-  my $BMVSabbato = 0;
 
   if ($tomorrow) {
     $sday = nextday($month, $day, $year);
@@ -189,8 +188,6 @@ sub occurrence {
       @commemoentries = grep { $_ !~ /02-23o/ } @commemoentries;
     }
 
-    $BMVSabbato = ($sfile =~ /v/ || $dayofweek !~ 6 || $transfervigil) ? 0 : 1;    # nicht sicher, ob das notwendig ist
-
     if (checklatinfile(\$sfile)) {
       $sname = "$sfile.txt";
       if ($caller && $hora =~ /(Matutinum|Laudes)/i) { $sname =~ s/11-02t/11-02/; }    # special for All Souls day
@@ -201,7 +198,6 @@ sub occurrence {
 
       if ($tomorrow) {
         $svesp = 1;
-        $BMVSabbato = ($srank[2] < 1.4 && $version !~ /196/ && $dayofweek == 6 && !$transfervigil);
 
         if ( $version !~ /196|Trident/
           && $hora =~ /Completorium/i
@@ -329,28 +325,34 @@ sub occurrence {
       @commemoentries = ();
     }
 
-    # In Festo Sanctae Mariae Sabbato according to the rubrics.
-    if ($testmode ne 'Sanctoral' && $BMVSabbato && $trank[2] < 1.4 && $srank[2] < 1.4) {
-      unless ($tomorrow) {
-        $scriptura = $tname;
-      }
+  }
 
-      if ($trank[2] == 1.15) {
-        $tname =~ s/\.txt$//;
-        unshift(@commemoentries, $tname);
-        $commemoratio = $tname;
-        $comrank = $trank[2];
-      }
-      $tempora{Rank} = $trank = "Sanctæ Mariæ Sabbato;;Simplex;;1.3;;vide $C10";
-      $tname = subdirname('Commune', $version) . "$C10.txt";
-      @trank = split(";;", $trank);
+  # In Festo Sanctae Mariae Sabbato according to the rubrics.
+  if ( $dayofweek == 6
+    && $trank[2] < 1.4
+    && $srank[2] < 1.4
+    && !$transfervigil
+    && (!$tommorow || $version =~ /196/)
+    && $testmode ne 'Sanctoral')
+  {
+    $scriptura = $tname unless $tomorrow;
+
+    if ($trank[2] == 1.15) {
+      $tname =~ s/\.txt$//;
+      unshift(@commemoentries, $tname);
+      $commemoratio = $tname;
+      $comrank = $trank[2];
     }
+
+    $tempora{Rank} = $trank = "Sanctæ Mariæ Sabbato;;Simplex;;1.3;;vide $C10";
+    $tname = subdirname('Commune', $version) . "$C10.txt";
+    @trank = split(";;", $trank);
   }
 
   if (
     $version =~ /Trid/i
-    && (($trank[2] < 5.1 && $trank[2] > 4.2 && $trank[0] =~ /Dominica/i && $version !~ /altovadensis/i)
-      || $trank[0] =~ /infra octavam Corp/i)
+    && ( ($trank[2] < 5.1 && $trank[2] > 4.2 && $trank[0] =~ /Dominica/i && $version !~ /altovadensis/i)
+      || ($trank[0] =~ /infra octavam Corp/i && $version !~ /Cist/i))
   ) {
 
     # before Divino: Dominica minor and infra 8vam CC is outranked by any Duplex
@@ -366,6 +368,10 @@ sub occurrence {
     %saint = %{setupstring('Latin', $sname)};
     $srank = $saint{Rank};
     @srank = split(";;", $srank);
+  } elsif ($dayname[0] =~ /Adv|Quad/ && $srank[2] > 6 && $saint{Rule} !~ /Patronus/) {
+
+    # Making sure Duplex I. classis only outranks Major Sundays (after 1897) or Ferias when it is allowed by the rubrics
+    $srank[2] = 6.01;
   }
 
   if ($tname =~ /Epi1\-0/i && $srank[2] == 5.6) {
@@ -438,8 +444,8 @@ sub occurrence {
       $comrank = 5.6;
     } elsif (($srank[2] < 7 && $sname !~ /01-01/)
       && ($trank[2] >= ($srank[2] >= 5 ? 2.1 : 1.5) || ($version =~ /cist/i && $trank[2] == 1.15))
-      && !($srank[0] =~ /Sangu/i && $trank[0] =~ /Cord/i))
-    {    # incl. github #2950
+      && !($srank[0] =~ /Sangu/i && $trank[0] =~ /Cor[dp]/i))
+    {    # incl. github #2950 #4586
       unshift(@commemoentries, $tname);
       $commemoratio = $tname;
       $comrank = $trank[2];
@@ -594,7 +600,9 @@ sub occurrence {
       $laudesonly = ($missa) ? '' : ($climit1960 == 2) ? ' ad Laudes tantum' : '';
     }
 
-    if ($winner =~ /Epi1\-0a/ && ($hora =~ /laudes/i || $vespera == 3)) {
+    if ( ($winner =~ /Epi1\-0a/ || ($winner =~ /Epi1\-0/ && $version =~ /altovadensis/i))
+      && ($hora =~ /laudes/i || ($vespera == 3 && $day != 12)))
+    {
       unshift(@commemoentries, 'Sancti/01-06.txt');
       $commemoratio = 'Sancti/01-06.txt';
       $comrank = 5.6;
@@ -783,6 +791,11 @@ sub concurrence {
 
     # after Divino Afflatu, the Sundays from Septuag to Judica and in Albis gave way at 2nd Vespers in concurrence to a Duplex II. cl. (Cist: MM. maj.)
     $rank = $wrank[2] = $version =~ /divino/i ? 4.9 : 3.9;
+  } elsif ($wrank[0] =~ /(?<!Albis )In Octava/i && ($rank > 5 || $wrank[0] =~ /Asc|Nat|Cord/i)) {
+
+    # Dies Octavae privilegiatae (post-Divino) and Octavae Festorum Domini, si primaria fuerint et solemniora (pre-Divino)
+    # give way at 2nd Vespers to Duplex I. et II. classis only!
+    $rank = $wrank[2] = 4.99;
   }
 
   if ( $cwrank[0] =~ /Dominica/i
@@ -863,7 +876,7 @@ sub concurrence {
     || ($cwinner{Rank} =~ /C10/i && $winner{Rank} =~ /C1[01]/i)
 
     # no 1st Vespers of Easter after 1955
-    || ($version =~ /19(?:55|6)|altovadensis/i && $cwinner{Rank} =~ /Dominica Resurrectionis|Patrocinii S. Joseph/i)
+    || ($version =~ /19(?:55|6)/i && $cwinner{Rank} =~ /Dominica Resurrectionis|Patrocinii S. Joseph/i)
 
     # TODO: last condition should be made obsolete and handled via database
     || ($version =~ /19(?:55|6)/
@@ -1005,6 +1018,9 @@ sub concurrence {
       || ( $rank >= ($version =~ /cist/i ? 7 : $version =~ /trident/i ? 6 : 5)
         && $winner !~ /feria|in.*octava/i
         && $crank < 2.1)
+
+      # no commemoration of Precious Blood on the Feast of the Sacred Heart: Github #4586
+      || ($winner =~ /Pent02-5/ && $cwinner =~ /07-01\./)
     ) {
       $dayname[2] .= "<br/>Vespera de præcedenti; nihil de sequenti";
       $cwinner = '';
@@ -1046,11 +1062,18 @@ sub concurrence {
       $vespera = 1;
       $cvespera = 3;
 
-      if (($comrank == 1.15 || $comrank == 2.1 || $comrank == 2.99 || $comrank == 3.9) && $cwinner !~ /12-25|01-01/)
-      {    # privilidged Feria, Dominica, or infra 8vam
+      if ( ($comrank == 1.15 || $comrank == 2.1 || $comrank == 2.99 || $comrank == 3.9)
+        && $cwinner !~ /12-25|01-01/
+        && !($cwinner =~ /07-01/ && $trank[0] =~ /Sangu|Cor[dp]/))
+      {
+        # privilidged Feria, Dominica, or infra 8vam only
+        # no Commemoration of the Octaves of Ssmi Corporis and Ssmi Cordis on Precious Blood #4586
         $dayname[2] .= "<br/>Vespera de sequenti; commemoratio de off. priv. tantum";
       } else {
         $dayname[2] .= "<br/>Vespera de sequenti; nihil de præcedenti";
+        $commemoratio = '';
+        $comrank = 0;
+        @commemoentries = ();
       }
       $rank = $crank;
       $commune = $ccommune;

@@ -29,6 +29,8 @@ my %subjects = (
   votiva => sub { our $votive },
   officio => sub { $dayname[1]; },
   ad => sub { our $missa ? 'missam' : our $hora; },
+  mense => sub { our $month },
+  # mense is not perfect eg. 1 matches also 10 11 12
 );
 my %predicates = (
   tridentina => sub { shift =~ /Trident/ },
@@ -42,7 +44,7 @@ my %predicates = (
   tertia => sub { shift == 3 },
   longior => sub { shift == 1 },
   brevior => sub { shift == 2 },
-  'summorum pontificum' => sub { shift =~ /^Divino|1955|196/ },
+  'summorum pontificum' => sub { shift =~ /194[2-9]]|195[45]|196/ },
   'in solemnitatibus' => sub { shift =~ /solemnis|resurrectionis/i },
   'in hieme' => sub { shift =~ /hieme|Adventus|Nativitatis|Epiphani|gesimæ|Passionis/i },
   'in æstate' => sub { shift !~ /hieme|Adventus|Nativitatis|Epiphani|gesimæ|Passionis/i },

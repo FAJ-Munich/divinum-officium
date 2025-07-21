@@ -217,6 +217,8 @@ sub handleverses {
       s{\(\d+[a-z]?\)}{/:$&:/};
     }
 
+    s/\(fit reverentia\)// if $version =~ /cist/i;       # no (fit reverentia) in Cistercian
+
     s{(\(.*?\))}{/:$&:/} unless $gabc;                   # text in () as rubrics
 
     # Discussion #4504: For Breviarum Romanum style
