@@ -77,7 +77,7 @@ Christum Dei Fílium, qui suo nos redémit sánguine, * Veníte, adorémus.
 
 [Hymnus Matutinum]
 v. Ira justa Conditóris,
-Imbre aquárum víndice,
+Imbr[e] aquárum víndice,
 Criminósum mersit orbem
 Noë in arca sóspite:
 Mira tandem vis amóris
@@ -117,6 +117,50 @@ O salútis sempitérnæ
 Dux et Auctor ínclite,
 Qui tenes beáta regna
 Cum Parénte et Spíritu.
+Amen.
+
+[Hymnus Matutinum] (rubrica cisterciensis)
+v. Ira justa Conditóris,
+Imbr[e] aquárum víndice,
+Criminósum mersit orbem
+No<i>ë</i> in arca sóspite:
+Mira tandem vis amóris
+Lavit orbem sánguine.
+_
+Tam salúbri terra felix
+Irrigáta plúvia,
+Ante spinas quæ scatébat,
+Germinávit flósculos;
+Inque néctaris sapórem
+Transiér[e] absýnthia.
+_
+Triste prótinus venénum
+Dirus anguis pósuit,
+Et cruénta belluárum
+Désiit ferócia:
+Mitis Agni vulneráti
+Hæc fuit victória.
+_
+O sciéntiæ supérnæ
+Altitúd[o] impérvia!
+O suávitas benígni
+Prædicánda péctoris!
+Servus erat morte dignus,
+Rex luit pœn[am] óptimus.
+_
+Quando culpis provocámus
+Ultiónem júdicis,
+Tunc loquéntis protegámur
+Sánguinis præséntia;
+Ingruéntium malórum
+Tunc recédant ágmina.
+_
+Te redémptus laudet orbis
+Grata servans múnera,
+O salútis sempitérnæ
+Dux et Auctor ínclite,
+Qui tenes beáta regna
+Cum Parént[e] et Spíritu.
 Amen.
 
 [Ant Matutinum]

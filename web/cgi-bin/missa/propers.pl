@@ -219,7 +219,7 @@ sub oratio {
   my $sub_unica_conc =
        $commemoratio{Rule} =~ /Sub unica conclusione in commemoratione/i
     || $winner{Rule} =~ /Sub unica concl(usione)?\s*$/mi
-    || (world_mission_sunday() && $version !~ /1954/);
+    || (world_mission_sunday() && $version !~ /Divino/);
 
   if ($sub_unica_conc) {
     if ($version !~ /196/) {
@@ -423,6 +423,8 @@ sub getcc {
 }
 
 sub world_mission_sunday {
+
+  # Instituted by Pope Pius XI. in 1926
   $version =~ /Divino|1955|196/
     && $winner{Rank} =~ /Dominica/i
     && monthday($day, $month, $year, 1, 0) eq '104-0';
@@ -1173,19 +1175,52 @@ sub Communio_Populi : ScriptFunc {
 }
 
 sub Ultimaev : ScriptFunc {
+
   my $lang = shift;
   my ($t, %p);
 
-  if ( $version =~ /(1955|196)/
-    || !exists($commemoratio{Evangelium})
-    || $commemoratio{Rule} =~ /Evangelium non appropriatum/)
-  {
+  my %win = columnsel($lang) ? %winner : %winner2;
+  our @commemoentries;
+  my (%com, %comlat);
+
+  foreach my $commemo (@commemoentries) {
+    if (!(-e "$datafolder/$lang/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
+    %comlat = %{setupstring('Latin', $commemo)};
+    %com = $lang eq 'Latin' ? %comlat : %{setupstring($lang, $commemo)};
+    if (exists($com{Evangelium}) && $com{Rule} !~ /Evangelium non appropriatum/i) { last; }
+  }
+
+  # Before Divino Afflatu, only Sundays, Ferias with proper Gospel and Vigil were commemorated
+  # No more proper Last Gospel after 1955, except for the 3rd Mass of Christmas
+  if (
+       $version =~ /196/
+    || ($version =~ /1955/ && $winner !~ /12-25/)
+    || (
+      !exists($win{'Ultima Evangelium'})
+      && ( !exists($com{Evangelium})
+        || $com{Rule} =~ /Evangelium non appropriatum/
+        || ($version =~ /Trident/i && $comlat{Rank} !~ /Dominica|Feria|Vigil/))
+    )
+  ) {
+
+    # Initium S. Joannis
     return '' if $Propers;
     our %prayers;
     $t = prayer('Ultima Evangelium', $lang);
+  } elsif (!exists($win{'Ultima Evangelium'})) {
+
+    # Commemorated Last Gospel
+    my $comm = translate_label('Commemoratio', $lang);
+    my @comrank = split(";;", $com{Rank});
+
+    $comm =~ s/\s$//;
+
+    $t = $com{Evangelium};
+    $t =~ s/\!/!$comm $comrank[0]\n!/s;
   } else {
-    %p = (columnsel($lang)) ? %commemoratio : %commemoratio2;
-    $t = $p{Evangelium};
+
+    # Proper Last Gospel (e.g. 12-25 and Pent01-0) always takes precedence
+    $t = $win{'Ultima Evangelium'};
   }
 
   if ($t && $t !~ /^\s*$/) {
