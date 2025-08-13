@@ -57,7 +57,7 @@ R. Qui in diébus suis plácuit Deo, et invéntus est justus.
 @:AntMatutinumM:2-5
 
 [Ant Matutinum] (rubrica cisterciensis)
-@CommuneM/C2::1-12
+@CommuneCist/C2::1-12
 Amávit eum Dóminus, * et ornávit eum: stolam glóriæ índuit eum, et ad portas paradísi coronávit eum.;;256;257;258
 (sed tempore paschali)
 Allelúia, * allelúia, allelúia.;;256;257;258
@@ -107,7 +107,7 @@ V. Vínculis carnis absolútus taléntum, sibi créditum Dómino suo duplicátum
 R. Quia in hac peregrinatióne solo córpore constitútus, cogitatióne et aviditáte in illa ætérna pátria conversátus est.
 
 [Responsory4] (tempore paschali et rubrica cisterciensis)
-@CommuneM/C1p:Responsory11
+@CommuneCist/C1p:Responsory11
 
 [Lectio5]
 @Commune/C4:Lectio4

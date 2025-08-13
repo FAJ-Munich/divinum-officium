@@ -121,9 +121,9 @@ V. Vitam pétiit a te, et tribuísti ei, Dómine.
 R. Posuísti in cápite ejus corónam de lápide pretióso.
 
 [Responsory4] (rubrica cisterciensis)
-@CommuneM/C2:Responsory4C
+@CommuneCist/C2:Responsory4
 (sed tempore paschali)
-@CommuneM/C1p:Responsory11
+@CommuneCist/C1p:Responsory11
 
 [Lectio5]
 @Commune/C5:Lectio4

@@ -52,7 +52,7 @@ Amen.
 [Invit]
 Laudémus Deum nostrum * In confessióne beátæ N.
 (sed tempore paschali et rubrica cisterciensis)
-@Commune/C2p
+@CommuneCist/C1p
 
 [Hymnus Matutinum]
 @Commune/C6::16-25

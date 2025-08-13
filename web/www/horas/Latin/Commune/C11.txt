@@ -90,7 +90,7 @@ $Per Dominum
 [Invit]
 Sancta María, Dei Génetrix Virgo, * Intercéde pro nobis.
 (sed tempore paschali et rubrica cisterciensis)
-@Commune/C2p
+@CommuneCist/C1p
 
 [Hymnus Matutinum]
 {:H-Quemterra:}v. Quem terra, pontus, sídera
