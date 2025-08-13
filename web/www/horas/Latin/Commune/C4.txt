@@ -91,7 +91,7 @@ $Per Dominum.
 [Invit]
 Regem Confessórum Dóminum, * Veníte, adorémus.
 (sed tempore paschali et rubrica cisterciensis)
-@Commune/C2p
+@CommuneCist/C1p
 
 [Hymnus Matutinum]
 @:Hymnus Vespera
