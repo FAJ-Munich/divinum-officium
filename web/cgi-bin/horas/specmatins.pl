@@ -660,7 +660,7 @@ sub lectio : ScriptFunc {
   #Lectio1 OctNat/TempNat: special rule for Dec 29 through Jan 05
   if ($nocturn == 1 && $rule =~ /Lectio1 (Oct|Temp)Nat/i) {
     my %temp;
-    setbuild1("Lectiones I Nocturno ex Tempora Nativitatis") if $num == 1;
+    setbuild1("Lectiones in I Nocturno ex Tempora Nativitatis") if $num == 1;
 
     if ($month == 12 && $day < 29) {
 
@@ -728,8 +728,14 @@ sub lectio : ScriptFunc {
   #** handle initia table (Str$ver$year)
   if ($nocturn == 1 && $version !~ /1963/ && $winner !~ /C12/) {
     my $file = initiarule($month, $day, $year);
-    if ($file) { %w = resolveitable(\%w, $file, $lang); }
-  } elsif ($num < 4 && $rule =~ /StJamesRule=((?:1 )?[a-z,\|á]+)\s/i) {
+
+    if ($file) {
+      %w = resolveitable(\%w, $file, $lang);
+      setbuild("Lectiones in I Nocturno de Scriptura", $file, "subst") if $num == 1;
+    }
+  }
+
+  if ($num < 4 && $rule =~ /StJamesRule=((?:1 )?[a-z,\|á]+)\s/i) {
 
     # StJamesRule: should rather be called St. Apostles or St. James and St. Johns rule:
     # On May 1st and 6th, if occuring scripture is from the respective Apostle, then it's read
@@ -756,16 +762,17 @@ sub lectio : ScriptFunc {
     $rule =~ s/in 1 Nocturno L.*loco//;
   }
 
-  if ($nocturn == 1 && $commemoratio{Rank} =~ /Quattuor/i && $month == 9) {
-    $w = '';
-  }    # Q.T. Septembris...
+  #  if ($nocturn == 1 && $commemoratio{Rank} =~ /Quattuor/i && $month == 9) {
+  #    $w = '';
+  #  }    # Q.T. Septembris...
 
   if ( $rule =~ /12 lectiones/i
     && $rule !~ /Lectio1 (Oct|Temp)(Nat|ora)/i
     && (($num == 4 && !exists($w{Lectio1})) || ($num == 9 && !exists($w{Lectio10}))))
   {
+    # accidental Lectio4 or Lectio9 from Roman version
     $w = '';
-  }    # accidental Lectio4 or Lectio9 from Roman version
+  }
 
   if ($w && $num % ($rule =~ /12 lectiones/i ? 4 : 3) == 1) {
     my @n = split('/', $winner);
@@ -804,18 +811,19 @@ sub lectio : ScriptFunc {
     && $winner =~ /sancti/i
     && $commune =~ /^C/
     && ( ($communetype =~ /^ex/i && ($rank > 3 || ($version =~ /Cist/i && $rank > 2.2)))
-      || ($rule =~ /in (\d) Nocturno Lectiones ex/i && $1 eq $nocturn))
+      || ($rule =~ /in $nocturn Nocturno Lectiones ex/i))
   ) {
     my %com = (columnsel($lang)) ? %commune : %commune2;
     my $lecnum = "Lectio$num";
 
-    if ($rule =~ qr/in $nocturn Nocturno Lectiones ex Commune in (\d+) loco/i) {
-      my $loco = $1;
+    if ($rule =~ qr/in $nocturn Nocturno Lectiones ex (Commune|C\d+[a-z]*) in (\d+) loco/i) {
+      my $loco = $2;
+      %com = %{setupstring($lang, subdirname('Commune', $version) . "$1.txt")} unless ($1 eq 'Commune');
       $lecnum .= " in $loco loco" if $loco > 1;
       $w = $com{$lecnum};
 
       if ($w && $num % ($rule =~ /12 lectiones/i ? 4 : 3) == 1) {
-        setbuild2("Lectio$num in $loco loco ex $commune{Officium}");
+        setbuild2("Lectio$num in $loco loco ex $com{Officium}");
       }
     } elsif (exists($com{$lecnum})) {
       $w = $com{$lecnum};
@@ -839,6 +847,10 @@ sub lectio : ScriptFunc {
     && ($version !~ /trident/i || $rank < 5)
   ) {                                                   # but not in Tridentinum Duplex II. vel I. classis
     %w = (columnsel($lang)) ? %scriptura : %scriptura2;
+
+    my $infile = initiarule($month, $day, $year);
+    if ($infile && $winner !~ /C12/) { %w = resolveitable(\%w, $infile, $lang); }
+
     $w = $w{"Lectio$num"};
 
     if ($version =~ /monastic/i && $rule =~ /12 lectiones/i && ($version !~ /1963/ || $rule =~ /Lectio1 tempora/i)) {
@@ -852,8 +864,9 @@ sub lectio : ScriptFunc {
       $w{Responsory1} = $w{Responsory2} = '';
     }
     if ($w && $num == 1) { setbuild2("Lectio1 ex scriptura"); }
-  } elsif (!$w && $num == 4 && exists($commemoratio{"Lectio$num"}) && ($version =~ /1960/i))
-  {    # handle diverged 3rd lesson in 1960
+  } elsif (!$w && $num == 4 && exists($commemoratio{"Lectio$num"}) && ($version =~ /1960/i)) {
+
+    # handle diverged 3rd lesson in 1960
     %w = (columnsel($lang)) ? %commemoratio : %commemoratio2;
     $w = $w{"Lectio$num"};
     if ($w && $num == 4) { setbuild2("Lectio3 ex commemoratio"); }
