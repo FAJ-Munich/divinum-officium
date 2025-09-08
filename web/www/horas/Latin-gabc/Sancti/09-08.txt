@@ -18,6 +18,13 @@ Regáli ex progénie * María exórta refúlget; cujus précibus nos adjuvári, 
 Corde et ánimo * Christo canámus glóriam in hac sacra solemnitáte præcélsæ Genetrícis Dei Maríæ.;;126
 Cum jucunditáte * Nativitátem beátæ Maríæ celebrémus, ut ipsa pro nobis intercédat ad Dóminum Jesum Christum.;;147
 
+[Ant Vespera] (rubrica monastica)
+{name:Nativitas gloriosae;annotation:8. G;mode:8;book:Antiphonale Monasticum, 1934, p. 1032;transcriber:Dominique CROCHU;%%(c4) NA(g)tí(g')vi(g)tas(gd) glo(f)ri(gh)ó(g)sæ(g'_) *(,) Vír(g)gi(g)nis(h_i) Ma(g)rí(g_hG'F)æ,(f.) (;) ex(f) sé(g')mi(h)ne(h) A(i_j)bra(hg)hæ,(g.) (,) or(gh~)tæ(g') de(g) tri(g)bu(fefe) Ju(d.)da,(d.) (;) cla(f_0gh)ra(g') ex(f) stir(hg~)pe(hi) Da(h)vid.(g.) (::)};;109;;8G
+{name:Nativitas est hodie;annotation:7. c;mode:7;book:Antiphonale Monasticum, 1934, p. 1032;transcriber:Dominique CROCHU;%%(c3) NA(i)tí(i')vi(g)tas(i') est(j) hó(i)di(hi)e(i'_) *(,) sanc(i)tæ(i') Ma(g)rí(h')æ(g) Vír(e)gi(e)nis,(e.) (;) cu(g)jus(g) vi(g')ta(h) ín(f')cly(h)ta(g'_) (,) cun(f)ctas(e') il(f)lú(f'_)strat(h) ec(g')clé(e)si(de)as.(e.) (::)};;112;;7c
+{name:Regali ex progenie;annotation: 6.;mode:6;book:Antiphonale Monasticum, 1934, p. 1032;transcriber:Dominique CROCHU;%%(c4) RE(f)gá(g)li(f') *() ex(f) pro(f)gé(g')ni(f)e(g) Ma(gh)rí(f.)a(f.) (,) ex(f)ór(ixfh!iv_H~G~)ta(g') re(ixi)fúl(hg~)get :(f.) (:) cu(f)jus(f) pré(g)ci(f)bus(f) nos(ixfh!iv_HG) ad(g')ju(h')vá(f.)ri,(f.) (;) men(fv_2/fv_)te(dec) et(c_d) spí(f)ri(fg)tu(g'_) (,) de(g)vo(g)tís(gf)si(g)me(gh) pó(f)sci(df)mus.(f.) (::)};;121;;6
+{name:Corde et animo;annotation:8. g;mode:8;book:Antiphonale Monasticum, 1934, p. 1033;transcriber:Dominique CROCHU;%%(c4) COr(gv_F~D~)de(e) et(f) á(gh)ni(h)mo(g'_) *(,) Chri(g)sto(g') ca(h)ná(g)mus(e') gló(f/g'h)ri(fv_ED)am(d!ewf.) (;) in(c) hac(d') sa(f)cra(fg) so(g')lem(h>)ni(g')tá(g)te(f'_) (,) præ(h)cél(h!iwji/jkJ'~H~)sæ(i_h) (,) Ge(g)ni(g)trí(hi)cis(g) De(hg)i(f) Ma(fg)rí(g.)æ.(g.) (::)};;126;;8G
+{name:Cum jucunditate;annotation:7. c;mode:7;book:Antiphonale Monasticum, 1934, p. 1033;transcriber:Dominique CROCHU;%%(c3) CUM(i) ju(g)cun(i')di(j)tá(i.)te(i.) *(,) Na(i)ti(i)vi(i)tá(ij)tem(i') be(i)á(i)tæ(i') Ma(i)rí(i')æ(g) ce(hi)le(g)bré(e.)mus,(e.) (;) ut(e) i(fg)psa(g') pro(g) no(g)bis(g) in(h')ter(g)cé(f_h)dat(g'_) (,) ad(f) Dó(e')mi(f)num(f'_) Je(h)sum(g) Chri(e.)stum.(e.) (::)};;147;;7c
+
 [Versum 1]
 {initial-style:0;%%(c3) V/. Na(h)tí(h)vi(h)tas(h) est(h) hó(hi)di(h)e(h_') (,) san(h)ctæ(h) Ma(h)rí(f')æ(e) Vír(f_0h)gi(h)nis.(hiH'Ghih.ghG'FE'fggf.) (::)
 R/. Cu(h)jus(h) vi(h)ta(h) ín(hi)cly(h)ta(h_') (,) cun(h)ctas(h) il(h)lús(h)trat(f') ec(e)clé(f_0h)si(h)as.(hiH'Ghih.ghG'FE'fggf.) (::)}
@@ -123,7 +130,7 @@ Jacob autem génuit Joseph. Hunc locum objécit nobis Juliánus Augústus de dis
 &teDeum
 
 [Ant Laudes]
-@:Ant Vespera:s/;;.*//g
+@:Ant Vespera:s/;;\d*;;/;;;;/g
 
 [Ant 2]
 Nativitátem hodiérnam * perpétuæ Vírginis Genetrícis Dei Maríæ solémniter celebrémus, qua celsitúdo throni procéssit, allelúja.
@@ -144,7 +151,7 @@ $Per Dominum
 [Ant 3]
 {name:Nativitas tua;annotation: 1.f;mode:1;book:The Liber Usualis, 1961, p. 1627 & Liber antiphonarius, 1960, p. 837;transcriber:Andrew Hinkley;%%(c4) NA(d)tí(d_c)vi(f)tas(g) tu(f_h)a,(h'_) *(,) De(h)i(g) Gé(e_[uh:l]f)ni(g)trix(fe) Vir(d.)go,(d.) (;) gáu(d')di(f)um(d) an(dc~)nun(f)ti(g)á(f_h)vit(hv_GF'_4ED'_4) (,) u(f)ni(g')vér(e)so(fe) mun(d.)do :(d.) (:) ex(h_) te(h'_) e(h)nim(gf) or(g)tus(gh) est(h.) (,) Sol(hh) ju(ixg_[uh:l]i)stí(h)ti(gh)ae,(hv_GF'_4ED'_4) (,) Chri(f)stus(g') De(e)us(fe) no(d.)ster :(d.) (:) qui(d) sol(d)vens(f') ma(d)le(dc)di(f)cti(g)ó(f_h)nem,(h'_) (,) de(h)dit(g) be(e')ne(f)di(g)cti(fe)ó(d.)nem :(d.) (;) et(c) con(d)fún(f')dens(e) mor(c_[ll:1]d)tem,(c.) (;) do(fv_ED)ná(e)vit(f) no(gfh)bis(hv_GF'_4ED'_4) (,) vi(f)tam(g') sem(e)pi(fe)tér(d.)nam.(d.) (::)}
 (sed rubrica monastica)
-{name:Nativitas tua;annotation: 1.f;mode:1;book:Antiphonale Monasticum, 1934, p. 1035;transcriber:Dominique CROCHU;%%(c4) NA(d)tí(d_c)vi(f)tas(g) tu(f_h)a,(h.) *(,) De(h)i(g) Gé(e_f)ni(g)trix(fe) Vir(d.)go,(d.) (;) gáu(d')di(f)um(d) an(dc~)nun(f')ti(g)á(f_h)vit(hv_GF'_ED'_) (,) u(f)ni(g')vér(e)so(fe) mun(d.)do :(d.) (:) ex(h_) te(h'_) e(h)nim(gf) or(g)tus(gh) est(h.) (,) Sol(hh) ju(g_i)stí(h)ti(gh)æ,(hv_GF'_ED'_) (,) Chri(f)stus(g') De(e)us(fe) no(d.)ster :(d.) (:) qui(d) sol(d)vens(f') ma(d)le(dc)di(f)cti(g)ó(f_h)nem,(h.) (,) de(h)dit(g) be(e')ne(f)di(g)cti(fe)ó(d.)nem :(d.) (;) et(c) con(d)fún(f')dens(e>) mor(c_d)tem,(c.) (;) do(fv_ED)ná(e)vit(f) no(gfh)bis(hv_GF'_ED'_) (,) vi(f)tam(g'>) sem(e)pi(fe)tér(d.)nam.(d.) (::)}
+{name:Nativitas tua;annotation: 1.f;mode:1;book:Antiphonale Monasticum, 1934, p. 1035;transcriber:Dominique CROCHU;%%(c4) NA(d)tí(d_c)vi(f)tas(g) tu(f_h)a,(h.) *(,) De(h)i(g) Gé(e_f)ni(g)trix(fe) Vir(d.)go,(d.) (;) gáu(d')di(f)um(d) an(dc~)nun(f')ti(g)á(f_h)vit(hv_GF'_ED'_) (,) u(f)ni(g')vér(e)so(fe) mun(d.)do :(d.) (:) ex(h_) te(h'_) e(h)nim(gf) or(g)tus(gh) est(h.) (,) Sol(hh) ju(g_i)stí(h)ti(gh)æ,(hv_GF'_ED'_) (,) Chri(f)stus(g') De(e)us(fe) no(d.)ster :(d.) (:) qui(d) sol(d)vens(f') ma(d)le(dc)di(f)cti(g)ó(f_h)nem,(h.) (,) de(h)dit(g) be(e')ne(f)di(g)cti(fe)ó(d.)nem :(d.) (;) et(c) con(d)fún(f')dens(e>) mor(c_d)tem,(c.) (;) do(fv_ED)ná(e)vit(f) no(gfh)bis(hv_GF'_ED'_) (,) vi(f)tam(g'>) sem(e)pi(fe)tér(d.)nam.(d.) (::)};;solemn1f
 
 [Octava]
 !Commemoratio Octavæ Nativitatis Beatæ Mariæ Virginis
