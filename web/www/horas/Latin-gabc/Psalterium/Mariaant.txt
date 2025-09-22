@@ -6,11 +6,10 @@
 {gabc:Psalterium/Mariaant/an--alma_redemptoris_monasticum--solesmes_1934}
 (atque dicuntur semper)
 _
-V. {::}Ángelus Dómini nuntiávit Maríæ.
-R. Et concépit de Spíritu Sancto.
+{initial-style:0;%%(c3) V/. Án(h)ge(h)lus(h) Dó(h)mi(h)ni(h) nun(h)ti(h)á(h)vit(h) Ma(h)rí(h)æ.(f.) (::) R/. Et(h) con(h)cé(h)pit(h) de(h) Spí(h)ri(h)tu(h) Sanc(h)to.(f.) (::)}
 _
 $Oremus 	
-v. Grátiam tuam, quǽsumus, Dómine, méntibus nostris infúnde: ut, qui, Ángelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus; per passiónem ejus et crucem, ad resurrectiónis glóriam perducámur. Per eúmdem Christum Dóminum nóstrum. Amen.
+v. Grátiam tuam, quǽsumus, Dómine, méntibus nostris infúnde: † ut, qui, Ángelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus; * per passiónem ejus et crucem, ad resurrectiónis glóriam perducámur. Per eúmdem Christum Dóminum nóstrum. Amen.
 
 [Nativiti]
 {gabc:Psalterium/Mariaant/an--alma_redemptoris_simple_tone--solesmes_1961.1}
@@ -20,11 +19,10 @@ v. Grátiam tuam, quǽsumus, Dómine, méntibus nostris infúnde: ut, qui, Ánge
 {gabc:Psalterium/Mariaant/an--alma_redemptoris_monasticum--solesmes_1934}
 (atque dicuntur semper)
 _
-V. {::}Post partum, Virgo, invioláta permansísti.
-R. Dei Génetrix, intercéde pro nobis.
+{initial-style:0;%%(c3) V/. Post(h) par(h)tum,(h) Vir(h)go,(h) in(h)vi(h)o(h)lá(h)ta(h) per(h)man(h)sís(h)ti.(f.) (::) R/. De(h)i(h) Gé(h)ne(h)trix,(h) in(h)ter(h)cé(h)de(h) pro(h) no(h)bis.(f.) (::)}
 _
 $Oremus 	
-v. Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fecúnda, humáno géneri prǽmia præstitísti: tríbue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nóstrum Jesum Christum Fílium tuum. Amen.
+v. Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fecúnda, humáno géneri prǽmia præstitísti: † tríbue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, * Per quam merúimus auctórem vitæ suscípere, Dóminum nóstrum Jesum Christum Fílium tuum. Amen.
 
 [Quadragesimae]
 {gabc:Psalterium/Mariaant/an--ave_regina_caelorum_simple_tone--solesmes.1}
@@ -34,11 +32,10 @@ v. Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fecúnda, humáno 
 {gabc:Psalterium/Mariaant/an--ave_regina_caelorum_monasticum--solesmes_1934}
 (atque dicuntur semper)
 _
-V. {::}Dignáre me laudáre te, Virgo sacráta.
-R. Da mihi virtútem contra hostes tuos.
+{initial-style:0;%%(c3) V/. Di(h)gná(h)re(h) me(h) lau(h)dá(h)re(h) te,(h) Vir(h)go(h) sa(h)crá(h)ta.(f.) (::) R/. Da(h) mi(h)hi(h) vir(h)tú(h)tem(h) con(h)tra(h) hos(h)tes(h) tu(h)os.(f.) (::)}
 _
 $Oremus 	
-v. Concéde, miséricors Deus, fragilitáti nostræ præsídium; ut, qui sanctæ Dei Genetrícis memóriam ágimus; intercessiónis ejus auxílio, a nostris iniquitátibus resurgámus. Per eúmdem Christum Dóminum nóstrum. Amen.
+v. Concéde, miséricors Deus, fragilitáti nostræ præsídium;  † ut, qui sanctæ Dei Genetrícis memóriam ágimus; * intercessiónis ejus auxílio, a nostris iniquitátibus resurgámus. Per eúmdem Christum Dóminum nóstrum. Amen.
 
 [Paschalis]
 {gabc:Psalterium/Mariaant/an--regina_caeli_simple_tone--solesmes.1}
@@ -48,11 +45,13 @@ v. Concéde, miséricors Deus, fragilitáti nostræ præsídium; ut, qui sanctæ
 {gabc:Psalterium/Mariaant/an--regina_caeli_monasticum--solesmes_1934}
 (atque dicuntur semper)
 _
-V. {::}Gaude et lætáre, Virgo María, allelúja.
-R. Quia surréxit Dóminus vere, allelúja.
+{initial-style:0;%%(c3) V/. Gau(h)de(h) et(h) læ(h)tá(h)re,(h) Vir(h)go(h) Ma(h)rí(h)a,(h) al(h)le(h)lú(h)ja.(f.) (::) R/. Qui(h)a(h) sur(h)ré(h)xit(h) Dó(h)mi(h)nus(h) ve(h)re,(h) al(h)le(h)lú(h)ja.(f.) (::)}
 _
 $Oremus 	
-v. Deus, qui per resurrectiónem Fílii tui, Dómini nostri Jesu Christi, mundum lætificáre dignátus es: præsta, quǽsumus; ut, per ejus Genetrícem Vírginem Maríam, perpétuæ capiámus gáudia vitæ. Per eúmdem Christum Dóminum nóstrum. Amen.
+{(c3) De(h)us,(h) qui(h) per(h) re(h)sur(h)rec(h)ti(h)ó(h)nem(h) Fí(h)li(h)i(h) tu(h)i,(h) Dó(h)mi(h)ni(h) nos(h)tri(h) Je(h)su(h) Chris(h)ti,(h) (,) mun(h)dum(h) læ(h)ti(h)fi(h)cá(h)re(h) dig(h)ná(h)tus(h) es:(f.) †(,) præ(h)sta,(h) quǽ(h)su(h)mus;(h) (;) ut,(h) per(h) e(h)jus(h) Ge(h)ne(h)trí(h)cem(h) Vír(h)gi(h)nem(g) Ma(f)rí(h)am,(h.) *(;) per(h)pé(h)tu(h)æ(h) ca(h)pi(h)á(h)mus(h) gáu(h)di(h)a(h) vi(h)tæ.(d.) (:) Per(h) eúm(h)dem(h) Chris(h)tum(h) Dó(h)mi(h)num(h) nós(h)trum.(f.) (::) 
+R/. A(g.)men.(h.) (::)} 
+(Sed rubrica monastica) 
+R/. A(h)men.(h.) (::)}
 
 [Postpentecost]
 {gabc:Psalterium/Mariaant/an--salve_regina_simple_tone--solesmes.1}
@@ -62,8 +61,10 @@ v. Deus, qui per resurrectiónem Fílii tui, Dómini nostri Jesu Christi, mundum
 {gabc:Psalterium/Mariaant/an--salve_regina_monasticum--solesmes_1934}
 (atque dicuntur semper)
 _
-V. {::}Ora pro nobis, sancta Dei Génetrix.
-R. Ut digni efficiámur promissiónibus Christi.
+{initial-style:0;%%(c3) V/. O(h)ra(h) pro(h) no(h)bis,(h) sanc(h)ta(h) De(h)i(h) Gé(h)ne(fr)trix.(f.) (::) R/. Ut(h) dig(h)ni(h) ef(h)fi(h)ci(h)á(h)mur(h) pro(h)mis(h)si(h)ó(h)ni(h)bus(h) Chri(h)sti.(f.) (::)}
 _
 $Oremus 	
-v. Omnípotens sempitérne Deus, qui gloriósæ Vírginis Matris Maríæ corpus et ánimam, ut dignum Fílii tui habitáculum éffici mererétur, Spíritu Sancto cooperánte, præparásti: da, ut, cujus commemoratióne lætámur, ejus pia intercessióne, ab instántibus malis et a morte perpétua liberémur. Per eúmdem Christum Dóminum nóstrum. Amen.
+{(c3) Om(h)ní(h)po(h)tens(h) sem(h)pi(h)tér(h)ne(h) De(h)us,(h) (,) qui(h) glo(h)ri(h)ó(h)sæ(h) Vír(h)gi(h)nis(h) Ma(h)tris(h) Ma(h)rí(h)æ(h) cor(h)pus(h) et(h) á(h)ni(h)mam,(h) (,) ut(h) dig(h)num(h) Fí(h)li(h)i(h) tu(h)i(h) ha(h)bi(h)tá(h)cu(h)lum(h) éf(h)fi(h)ci(h) me(h)re(h)ré(h)tur,(h) (,) Spí(h)ri(h)tu(h) Sanc(h)to(h) co(h)o(h)per(h)án(h)te,(h) præ(h)pa(h)rá(h)sti:(f.) †(,) da,(h) ut,(h) cu(h)jus(h) com(h)me(h)mo(h)ra(h)ti(h)ó(h)ne(g) læ(f)tá(h)mur,(h.) *(;) e(h)jus(h) pi(h)a(h) in(h)ter(h)ces(h)si(h)ó(h)ne,(h) ab(h) in(h)stán(h)ti(h)bus(h) ma(h)lis(h) et(h) a(h) mor(h)te(h) per(h)pé(h)tu(h)a(h) li(h)be(h)ré(h)mur.(d.) (:) Per(h) eúm(h)dem(h) Chris(h)tum(h) Dó(h)mi(h)num(h) nós(h)trum.(f.) (::) 
+R/. A(g.)men.(h.) (::)} 
+(Sed rubrica monastica) 
+R/. A(h)men.(h.) (::)}

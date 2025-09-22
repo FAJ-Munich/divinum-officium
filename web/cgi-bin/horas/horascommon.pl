@@ -1809,7 +1809,7 @@ sub rankname {
         : (/Epi[1-6]|Pent[22-23]/ && $dayofweek && !($dayofweek == 6 && $hora =~ /(?:Vespera|Completorium)/))
         ? 3                                                             # 'Semiduplex Dominica anticipata'
         : 4;                                                            # 'Semiduplex Dominica minor';
-      $i = 2 if $version =~ /Trident/ && $version !~ /altovado/i && /Quad[2-4]/; # 'Semiduplex Dominica II. classis'
+      $i = 2 if $version =~ /Trident/ && $version !~ /altovado/i && /Quad[2-4]/;    # 'Semiduplex Dominica II. classis'
       $rankname = $sundaytable[$i];
 
       if ($version =~ /cist/i) {

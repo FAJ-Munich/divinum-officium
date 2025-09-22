@@ -167,10 +167,6 @@ R. Deus noster maniféste véniet.
 V. Emítte Agnum, Dómine, Dominatórem terræ.
 R. De Petra desérti ad montem fíliæ Sion.
 
-[Adv 3 Versum]
-V. Egrediétur Dóminus de loco sancto suo.
-R. Véniet ut salvet pópulum suum.
-
 [Nat24 Versum]
 V. Hódie sciétis quia véniet Dóminus.
 R. Et mane vidébitis glóriam ejus.
@@ -219,7 +215,7 @@ R. Et a verbo áspero.
 V. Érue a frámea, Deus, ánimam meam.
 R. Et de manu canis únicam meam.
 
-[Pasch 1 Versum]
+[Pasch 1 Versum_]
 V. Surréxit Dóminus de sepúlcro, allelúja.
 R. Qui pro nobis pepéndit in ligno, allelúja.
 
@@ -243,7 +239,7 @@ R. Non timébis a timóre noctúrno.
 V. Ne perdas cum ímpiis, Deus, ánimam meam.
 R. Et cum viris sánguinum vitam meam.
 
-[Pasch 3 Versum]
+[Pasch 3 Versum_]
 V. Gavísi sunt discípuli, allelúja.
 R. Viso Dómino, allelúja.
 
@@ -459,7 +455,7 @@ R. Viso Dómino, allelúja.
 [Cantm Fest]
 ;;246;247;248
 
-[Daym1]
+[Daym1_]
 Rectos décet * collaudátio;;32
 ;;33
 Expúgna * impugnántes me;;34
@@ -475,7 +471,7 @@ Sana Dómine * ánimam meam, quia peccávi tibi;;40
 Eructávit * cor meum verbum bonum;;43
 ;;44
 
-[Daym2]
+[Daym2_]
 Adjútor * in tribulatiónibus;;45
 ;;46
 Magnus Dóminus * et laudábilis nimis;;47
@@ -491,7 +487,7 @@ Inténde in me * et exáudi me;;54
 Justa judicáte * fílii hóminum;;57
 ;;58
 
-[Daym3]
+[Daym3_]
 Da nobis Dómine * auxílium de tribulatióne;;59
 ;;60
 Benedícite, * gentes, Deum nóstrum;;61
@@ -523,7 +519,7 @@ Tu solus * altíssimus super omnem terram;;81
 Benedixísti * Dómine terram tuam;;83
 ;;84
 
-[Daym5]
+[Daym5_]
 Inclína Dómine, * aurem tuam, et exáudi me;;85
 ;;86
 Benedíctus, * Dóminus in ætérnum;;88(2-19)
@@ -539,7 +535,7 @@ Quia mirabília * fecit Dóminus;;97
 Jubiláte * Deo omnis terra;;99!Bonum est * confitéri Dómino;;99
 ;;100
 
-[Daym6]
+[Daym6_]
 Clamor meus * ad te véniat, Deus;;101
 ;;102
 Bénedic, * ánima mea Dómino;;103(1-24)

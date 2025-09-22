@@ -587,7 +587,6 @@ Amen.
 (sed commune C11 aut tonus BMV)
 {gabc:Commune/C11/hy--te_lucis_ante_terminum_in_festis_b_m_v_--solesmes_1934}
 
-
 [Lectio Completorium]
 !1 Pet 5:8-9
 {(c3) Fra(h)tres:(h.) (,) Só(h)bri(h)i(h) es(h)tó(h)te,(h) et(h) vi(h)gi(h)lá(h)te:(f.) (;) qui(h)a(h) ad(h)ver(h)sá(h)ri(h)us(h) ves(h)ter(h) di(h)á(h)bo(h)lus(h_') (,) tam(h)quam(h) le(h)o(h) rú(h)gi(h)ens(h_') (,) cír(h)cu(h)it,(h) quæ(h)re(g)ns quem(f) dé(h)vo(h)ret:(h.) (;) cu(h)i(h) re(h)sís(h)ti(h)te(h) for(h)tes(h) in(h) fi(h.)de.(d.) (::)}
@@ -597,9 +596,6 @@ $Tu autem
 !Jer 14:9
 {centering-scheme: latin;%%(c3) TU(h) au(h)tem(h) in(h) no(h)bis(h) es(h) Dó(h)mi(h)ne,(h) et(h) no(h)men(h) tu(h)um(h) in(h)vo(h)cá(h)tum(h) est(h) su(h)per(h) nos,(h) ne(h) de(h)re(h)lín(f)quas(e) nos.(ef..) (::)}
 $Deo gratias
-
-[Completorium]
-@:Completorium_
 
 [Completorium] (rubrica Ordo Praedicatorum)
 @:Completorium_:s/au(h)tem(h) //
@@ -642,3 +638,16 @@ Allelúja. Ascéndens Christus in altum, allelúja, captívam duxit captivitáte
 
 [Ant 4 Pent]
 Allelúja. Spíritus Paráclitus, allelúja, docébit vos ómnia, allelúja, allelúja.
+
+[Preces Feriales]
+$rLitany simplex0
+(sed rubrica monastica)
+$mLitany2
+$Preces feriales minora
+
+[Preces Dominicales]
+$rLitany simplex
+(sed rubrica monastica)
+$mLitany simplex
+$Preces dominicales Completorium
+$Domine exaudi

@@ -1364,8 +1364,7 @@ sub responsory_gloria {
       && $num % $rpn == ($rpn - 1)             # before last
       && tedeum_required($num + 1)             # when there is Te Deum after last
     )
-    )
-  {                                            # let's add the Gloria
+  ) {                                          # let's add the Gloria
 
     if ($lang =~ /gabc/ && $w =~ /\{.*\}/) {
       if ($w =~ /\_\s\{gabc:/) {

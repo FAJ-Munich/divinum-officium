@@ -85,6 +85,7 @@ Qui natus est de María Vírgine.
 [Responsory Heart]
 Qui corde fundis grátiam.
  
+
 [Hymnus Prima]
 v. Jam lucis orto sídere,
 Deum precémur súpplices,
@@ -138,3 +139,40 @@ Amen.
 {gabc:Psalterium/Pascha/hy--jam_lucis_orto_sidere_in_festo_pentecostes--solesmes_1934}
 (sed commune C11 aut tonus BMV) 
 {gabc:Commune/C11/hy--jam_lucis_orto_sidere_in_festis_bmv--solesmes_1934}
+
+[Preces Dominicales Prima 1]
+$rLitany simplex
+(sed rubrica monastica dicitur)
+$mLitany simplex
+(deinde dicitur)
+$Preces dominicales primae
+(sed rubrica ^Monastic dicitur)
+@:Preces Dominicales Prima 2
+
+[Commemoratio defunctorum]
+$commemoratio omnium 
+(rubrica altovadensis dicitur)
+&necrologium
+(rubrica cisterciensis) $rubrica Superior
+$Requiescant recto
+_
+&psalm('129,in-dir-monasticus')
+_
+$Aportainferi  
+(deinde dicuntur)
+$Requiescant
+$Domine exaudi
+(sed rubrica cisterciensis omittitur)
+
+&Dominus_vobiscum2
+(sed rubrica cisterciensis dicitur)
+&Dominus_vobiscum
+$Oremus
+$deus veniae
+$Per Dominum
+(sed rubrica cisterciensis dicitur)
+$Amen
+_
+$Requiem2
+(sed rubrica cisterciensis omittitur)
+$Requiescant simplex
