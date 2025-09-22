@@ -806,7 +806,8 @@ sub vigilia_commemoratio {
     if ($dt !~ /(08\-14|06\-23|06\-28|08\-09)/) { return ''; }
   } elsif ($dayname[0] =~ /Adv|Quad[0-6]/i
     || ($dayname[0] =~ /Quadp3/i && $dayofweek >= 4)
-    || ($dayname[0] =~ /Quadp/i && $version =~ /Monastic.*Divino/i))
+    || ($dayname[0] =~ /Quadp/i && $version =~ /Monastic.*Divino/i)
+    || $trank[0] =~ /Quattuor Temporum Sept/)
   {
     return '';
   }
@@ -1023,9 +1024,11 @@ sub getrefs {
 
           # Confessor-Popes have a common Magnificat antiphon at second Vespers.
           if ($popeclass && $popeclass =~ /C/ && $ind == 3) { $a = papal_antiphon_dum_esset($lang); }
-        } else {
-          if ($o =~ /N\./) { $o = replaceNdot($o, $lang, $name); }
+        } elsif ($o =~ /N\./) {
+          $o = replaceNdot($o, $lang, $name);
         }
+      } elsif ($o =~ /N\./ && $s{Name}) {
+        $o = replaceNdot($o, $lang, $s{Name});
       }
       do_inclusion_substitutions($a, $substitutions);
       do_inclusion_substitutions($v, $substitutions);

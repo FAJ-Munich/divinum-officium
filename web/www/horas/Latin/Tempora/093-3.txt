@@ -8,9 +8,8 @@ Feria Quarta Quattuor Temporum Septembris
 
 [Rule]
 Preces Feriales
-no Secunda Vespera(rubrica tridentina aut rubrica divino)
 
-[Oratio]
+[Oratio] (nisi ad vesperam aut rubrica 196)
 Misericórdiæ tuæ remédiis, quǽsumus, Dómine, fragílitas nostra subsístat: ut, quæ sua conditióne attéritur, tua cleméntia reparétur.
 $Per Dominum
 
@@ -41,5 +40,5 @@ Et dixit illis: Hoc genus in nullo potest exíre, nisi in oratióne et jejúnio.
 [Ant 2]
 Hoc genus * dæmoniórum in nullo potest exíre, nisi in oratióne et jejúnio.
 
-[Ant 3] (nisi rubrica cisterciensis)
+[Ant 3] (rubrica 196)
 @:Ant 2
