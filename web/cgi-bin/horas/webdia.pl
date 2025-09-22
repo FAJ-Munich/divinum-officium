@@ -602,9 +602,10 @@ sub setcell {
   $text =~ s/\{\:.*?\:\}//sg;
   $text =~ s/\`//g;                                                 #` #accent grave for editor
   $text =~ s/\s([»!?;:])/&nbsp;$1/g unless $lang eq 'Latin-gabc';   # no-break space before punctutation (mostly French)
-  $text =~ s/\s([*§†])/&nbsp;$1/g if $version =~ /cist/i;           # no-break space before break characters (style of Cistercian books)
-  $text =~ s/«\s/«&nbsp;/g unless $lang =~ /Deutsch|gabc/i;         # no-break space after begin quote
-  $text =~ s/\s\&\s/ &amp; /;                                       # HTML - Ampersand;
+  $text =~ s/\s([*§†])/&nbsp;$1/g
+    if $version =~ /cist/i;    # no-break space before break characters (style of Cistercian books)
+  $text =~ s/«\s/«&nbsp;/g unless $lang =~ /Deutsch|gabc/i;    # no-break space after begin quote
+  $text =~ s/\s\&\s/ &amp; /;                                  # HTML - Ampersand;
   $text =~
     s/↊|\&\#x218a\;/<span style='color:grey; display:inline-block; transform: rotate(180deg) translate(-40%, 15%);'>2<\/span><span style='color:grey; display:inline-block; transform: translate(-100%, 16%);'>.<\/span>/gu;
   my $cist_flex = 1;    # 1 .. from Psalterium - 2 .. from Breviarium Cist.

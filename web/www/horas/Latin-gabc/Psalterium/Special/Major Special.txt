@@ -15,7 +15,7 @@ R.br. {gabc:Psalterium/Feria/rb--magnus_dominus_noster--solesmes_1934}
 (sed tempore Paschali)
 {gabc:Sancti/05-03/hy--vexilla_regis_inventio--solesmes_1934}
 
-[Quad5 Versum 3]
+[Quad5 Versum 3_]
 {initial-style:0;%%(c3) V/. É(h)ri(h)pe(h) me,(h) Dó(h)mi(h)ne,(h) ab(h) hó(h)mi(h)ne(h) ma(h)lo.(g_0hGF'Efgf.) (::)}
 {initial-style:0;%%(c3) R/. A(h) vi(h)ro(h) in(h)í(h)quo(h) é(h)ri(h)pe(h) me.(g_0hGF'Efgf.) (::)}
 
@@ -32,7 +32,6 @@ _
 _
 $Oremus  
 v. Deus, qui ineffábili providéntia beátum Joseph sanctíssimæ Genitrícis tuæ sponsum elígere dignátus es: præsta quǽsumus; ut quem protectórem venerámur in terris, intercessórem habére mereámur in cælis.
-
 
 [Suffragium DeJoseph]
 !De sancto Joseph

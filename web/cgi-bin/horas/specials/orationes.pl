@@ -720,11 +720,12 @@ sub getcommemoratio {
   if (!$o) { return ''; }
 
   if ($lang eq 'Latin-gabc' && $o =~ /\(\:\:\)/) {
-    
+
     # GABC: In the database, Oratios are noted in Tonus simplex
     # Even for Commemoratio ad Laudem & Vesperam, these are converted here into Tonus solemnis
     $o = oratio_solemnis($o);
-    } else {
+  } else {
+
     # Ensure large red Initial
     $w =~ s/^(?:v. )?/v. / unless $w =~ /^[\$\&\/\!\{\#]/;
   }
@@ -1044,7 +1045,7 @@ sub getrefs {
         # More changes for solemn tone:
         $v =~ s/\((?:hi|hr|h\_0|fe|f\_0?h|h\_\')\)/\(h\)/g;
         $v =~ s/\(\,\)//g;
-        
+
         $o = oratio_solemnis($o);
         $o =~ s/Oremus/Oremus solemnis/;
       }
@@ -1067,9 +1068,9 @@ sub getrefs {
 
 sub oratio_solemnis {
   my $o = shift;
-  
+
   my ($flexa, $metrum, $prePunctum, $punctum, $concl);
-  
+
   if ($o =~ /†/) {
     $o =~ /(.*) †\([\,\;]\) (.*) \*\(\;\) (.*)\(h\)(.*)(\$.*)/s;
     ($flexa, $metrum, $prePunctum, $punctum, $concl) = ($1, $2, $3, $4, $5);
@@ -1077,9 +1078,9 @@ sub oratio_solemnis {
     $o =~ /(.*) \*\(\;\) (.*)\(h\)(.*)(\$.*)/s;
     ($metrum, $prePunctum, $punctum, $concl) = ($1, $2, $3, $4);
   }
-  
+
   $concl =~ s/\s*$/ solemnis/s;
-  
+
   if ($version =~ /monastic/i) {
     $flexa =~ s/\(h/(i/g;                  # raise pitch in general
     $flexa =~ s/(c3.*?)\(i\)/$1(h)/;       # add initia
@@ -1092,11 +1093,11 @@ sub oratio_solemnis {
     $prePunctum =~ s/^(.*)\(i\)/$1(h)/;    # lower ultimate pitch
     $prePunctum =~ s/^(.*)\(i\)/$1(h)/;    # lower penultimate pitch
     $punctum =~ s/\(d/(i/g;                # raise final pitches
-    
+
     $o =
-    $flexa
-    ? "$flexa †(,) $metrum (,) $prePunctum(i)$punctum$concl"
-    : "$metrum (,) $prePunctum(i)$punctum$concl";
+      $flexa
+      ? "$flexa †(,) $metrum (,) $prePunctum(i)$punctum$concl"
+      : "$metrum (,) $prePunctum(i)$punctum$concl";
   } else {
     $flexa =~ s/c3(.*?)\(h\)/c4$1(g)/;     # lower pitch and add initia
     $flexa =~ s/\(f(\.?)\)/(g$1)/;         # raise pitch at flexa
@@ -1107,14 +1108,14 @@ sub oratio_solemnis {
     $prePunctum =~ s/^(.*)\(h\)/$1(g)/;    # lower ultimate pitch
     $prePunctum =~ s/^(.*)\(h\)/$1(g)/;    # lower penultimate pitch
     $punctum =~ s/\(d/(h/g;                # raise final pitches
-    
+
     $o =
-    $flexa
-    ? "$flexa †(;) $metrum (;) $prePunctum(h)$punctum$concl"
-    : "$metrum (;) $prePunctum(h)$punctum$concl";
+      $flexa
+      ? "$flexa †(;) $metrum (;) $prePunctum(h)$punctum$concl"
+      : "$metrum (;) $prePunctum(h)$punctum$concl";
   }
-  
+
   return $o;
 }
-  
+
 1;

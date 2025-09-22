@@ -287,8 +287,17 @@ sub psalm : ScriptFunc {
     $psnum =~ s/\:\:/ \& /g;                                         # Multiple Psalms joined together
     $psnum =~ s/\:/; Part: /;                                        # n-th Part of Psalm
     $psnum =~ s/,,.*?,,//;
-    $psnum =~ s/,/; Tone: /;                                         # name Tone in Psalm headline
-    $ftone = ($psnum =~ /Tone: (.*)/) ? $1 : '';
+    $psnum =~ s/,/; Tonus: /;                                         # name Tone in Psalm headline
+    $ftone = ($psnum =~ /Tonus: (.*)/) ? $1 : '';
+    $psnum =~ s/in[,-]dir[,-]monasticus|in[,-]directum/in Directum/;
+    $psnum =~ s/-monasticus//;
+    $psnum =~ s/(irregularis).*/$1/;
+    $psnum =~ s/per$/Peregrinus/;
+    $psnum =~ s/-antiquo-alt-(.*)/$1 alteratus usu antiqui/;
+    $psnum =~ s/-alt-(.*)/$1 alteratus/;
+    $psnum =~ s/3-antiquo-(.*)/3$1 in tenore antiquo/;
+    $psnum =~ s/4-antiquo-(.*)/4$1 usu antiqui/;
+    $psnum =~ s/solemn(.*)/$1; Mediatio solemnis/;
 
     if (!(-e "$datafolder/$lang/Psalterium/Psalmorum/$fname")) {
       $psnum =~ s/;.*//;
@@ -307,9 +316,10 @@ sub psalm : ScriptFunc {
   if ($psnum > 150 && $psnum < 300 && @lines) {
     if ($fname =~ /\.gabc/) {
       $psnum =~ s/(;.*)//;
+      my $tonus = $1;
       my $latFile = "$datafolder/Latin/Psalterium/Psalmorum/Psalm$psnum.txt";
       my (@latlines) = do_read($latFile);
-      $latlines[0] =~ s/ \*/; Tone: $ftone */;
+      $latlines[0] =~ s/ \*/$tonus */;
       unshift(@lines, $latlines[0]);
     }
 
@@ -358,16 +368,13 @@ sub psalm : ScriptFunc {
   $output .= "\n!$source" if $source;                                            # add source
   $output .= "\n" . join("\n", @lines) . ($lines[0] =~ /^\{/ ? "}\n" : "\n");    # end chant with brace for recognition
 
-  if ($version =~ /Monastic/ && $psnum == 129 && $hora eq 'Prima') {
-
-    # Commemoratio Defunctorum ad Primam
-    $output .= prayer('Requiem', $lang);
-  } elsif ($psnum != 210 && !$nogloria) {
+  if ($psnum != 210 && !$nogloria) {
     if ($lines[0] =~ /^\{/ && !triduum_gloria_omitted()) {
 
       # Add Gloria/Requiem Chant
-      my $gloria = $commune !~ /C9/ ? 'gloria' : 'requiem';
-      $fname = "Psalterium/Psalmorum/$gloria-$ftone.gabc";
+      my $doxology = 'gloria';
+      $doxology = 'requiem' if $commune =~ /C9/ || ($version =~ /monastic/i && $psnum == 129 && $hora eq 'Prima');
+      $fname = "Psalterium/Psalmorum/$doxology-$ftone.gabc";
       $fname =~ s/,/-/g;    # file name with dash not comma
       $fname = checkfile($lang, $fname);
       my (@lines) = do_read($fname);

@@ -204,14 +204,10 @@ R/. Si(h)ne(h) pec(h)cá(h)to(h) nos(h) cus(h)to(h)dí(h)re.(f.) (::Z)
 V/. Mi(h)se(h)ré(h)re(h) nos(h)tri,(h) Dó(h)mi(f)ne.(f.) (::)
 R/. Mi(h)se(h)ré(h)re(h) nos(h)tri.(f.) (::Z)
 V/. Fi(h)at(h) mi(h)se(h)ri(h)cór(h)di(h)a(h) tu(h)a,(h) Dó(h)mi(h)ne,(h) su(h)per(f) nos.(h.) (::)
-R/. Que(h)mád(h)mo(h)dum(h) spe(h)rá(h)vi(g)mus(gr) in(f) te.(h.) (::Z)
-V/. Dó(h)mi(h)ne,(h) ex(h)áu(h)di(h) o(h)ra(h)ti(h)ó(h)nem(h) me(h)am.(f.) (::)
-R/. Et(h) cla(h)mor(h) me(h)us(h) ad(h) te(h) vé(h)ni(f)at.(f.) (::)}
+R/. Que(h)mád(h)mo(h)dum(h) spe(h)rá(h)vi(g)mus(gr) in(f) te.(h.) (::)}
 (sed rubrica ^Monastic loco horum versuum dicuntur)
 {initial-style:0;%%(c3) V/. Dig(h)ná(h)re,(h) Dó(h)mi(h)ne,(h) noc(h)te(h) is(h)ta.(f.) (::)
-R/. Si(h)ne(h) pec(h)cá(h)to(h) nos(h) cus(h)to(h)dí(h)re.(f.) (::Z)
-V/. Dó(h)mi(h)ne,(h) ex(h)áu(h)di(h) o(h)ra(h)ti(h)ó(h)nem(h) me(h)am.(f.) (::)
-R/. Et(h) cla(h)mor(h) me(h)us(h) ad(h) te(h) vé(h)ni(f)at.(f.) (::)}
+R/. Si(h)ne(h) pec(h)cá(h)to(h) nos(h) cus(h)to(h)dí(h)re.(f.) (::)}
 
 [Preces dominicales primae]
 {initial-style:0;%%(c3) V/. Et(h) e(h)go(h) ad(h) te,(h) Dó(h)mi(h)ne,(h) cla(h)má(h)vi.(f.) (::) 
@@ -259,11 +255,7 @@ R/. Si(h)ne(h) pec(h)cá(h)to(h) nos(h) cus(h)to(h)dí(h)re.(f.) (::Z)
 V/. Mi(h)se(h)ré(h)re(h) nos(h)tri,(h) Dó(h)mi(f)ne.(f.) (::)
 R/. Mi(h)se(h)ré(h)re(h) nos(h)tri.(f.) (::Z)
 V/. Fi(h)at(h) mi(h)se(h)ri(h)cór(h)di(h)a(h) tu(h)a,(h) Dó(h)mi(h)ne,(h) su(h)per(f) nos.(h.) (::)
-R/. Que(h)mád(h)mo(h)dum(h) spe(h)rá(h)vi(g)mus(gr) in(f) te.(h.) (::Z)
-V/. Dó(h)mi(h)ne,(h) ex(h)áu(h)di(h) o(h)ra(h)ti(h)ó(h)nem(h) me(h)am.(f.) (::)
-R/. Et(h) cla(h)mor(h) me(h)us(h) ad(h) te(h) vé(h)ni(f)at.(f.) (::)}
+R/. Que(h)mád(h)mo(h)dum(h) spe(h)rá(h)vi(g)mus(gr) in(f) te.(h.) (::)}
 (sed rubrica ^Monastic loco horum versuum dicuntur)
 {initial-style:0;%%(c3) V/. Dig(h)ná(h)re,(h) Dó(h)mi(h)ne,(h) di(h)e(h) is(h)to.(f.) (::)
-R/. Si(h)ne(h) pec(h)cá(h)to(h) nos(h) cus(h)to(h)dí(h)re.(f.) (::Z)
-V/. Dó(h)mi(h)ne,(h) ex(h)áu(h)di(h) o(h)ra(h)ti(h)ó(h)nem(h) me(h)am.(f.) (::)
-R/. Et(h) cla(h)mor(h) me(h)us(h) ad(h) te(h) vé(h)ni(f)at.(f.) (::)}
+R/. Si(h)ne(h) pec(h)cá(h)to(h) nos(h) cus(h)to(h)dí(h)re.(f.) (::)}
