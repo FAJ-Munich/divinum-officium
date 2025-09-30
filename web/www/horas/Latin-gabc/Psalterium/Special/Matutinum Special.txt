@@ -26,10 +26,10 @@ Prope est jam Dóminus, * Veníte, adorémus.
 [Invit Quad]
 Non sit vobis vanum mane súrgere ante lucem: * Quia promísit Dóminus corónam vigilántibus.
 
-[Invit Quad5]
+[Invit Quad5_]
 Hódie, si vocem Dómini audiéritis, * Nolíte obduráre corda vestra.
 
-[Invit Pasch]
+[Invit Pasch_]
 Surréxit Dóminus vere, * Allelúja.
 
 [Day0 Hymnus]
@@ -171,9 +171,6 @@ Cum Spíritu Paráclito
 Regnans per omne sǽculum.
 Amen.
 
-[Day2 HymnusM]
-@:Day2 Hymnus
-
 [Day2 Hymnus]
 {:H-MatFeria:}v. Consors patérni lúminis,
 Lux ipse lucis, et dies,
@@ -225,9 +222,6 @@ Patríque compar Únice,
 Cum Spíritu Paráclito
 Regnans per omne sǽculum.
 Amen.
-
-[Day4 HymnusM]
-@:Day4 Hymnus
 
 [Day4 Hymnus]
 {:H-MatFeria:}v. Nox atra rerum cóntegit
@@ -670,7 +664,7 @@ R. Exáudi oratiónem meam.
 &Gloria
 R. Dómine, * exáudi oratiónem meam.
 
-[MM Capitulum]
+[MM Capitulum_]
 !1 Cor 16:13-14
 v. Vigiláte, state in fide, viríliter ágite, et confortámini. Ómnia vestra in caritáte fiant.
 $Deo gratias

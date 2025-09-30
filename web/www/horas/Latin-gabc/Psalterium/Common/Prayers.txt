@@ -138,16 +138,16 @@ R/. De(g)o(g) grá(g')ti(g)as,(h.) (,) al(g)le(f)lú(gh~)ia,(h_') (,) al(h)le(gj
 {initial-style:0;%%(c3) R/. A(g.)men.(h.) (::)}
 
 [Per Christum]
-Per Christum Dóminum nostrum.
+{initial-style:0;%%(c3) Per(h) Chris(h)tum(h) Dó(h)mi(h)num(h) nós(h)trum.(f.) (::)}
 
 [Per eumdem Christum]
-Per eúmdem Christum Dóminum nostrum.
+{initial-style:0;%%(c3) Per(h) eúm(h)dem(h) Chris(h)tum(h) Dó(h)mi(h)num(h) nós(h)trum.(f.) (::)}
 
 [Qui tecum in]
-Qui tecum vivit et regnat in sǽcula sæculórum.
+{initial-style:0;%%(c3) Qui(h) te(h)cum(h) vi(h)vit(h) et(h) reg(h)nat(h) in(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f.) (::)}
 
 [Per eundem]
-@:Per eumdem:s/eúmdem/eúndem/
+@:Per eumdem:s/eúm(h)dem/eún(h)dem/
 
 [Per Dominum]
 {initial-style:0;%%(c3) Per(h) Dó(h)mi(h)num(h) nos(h)trum(h) Je(h)sum(h) Chris(h)tum,(h) Fí(h)li(h)um(h) tu(h)um:(f.) †(;) qui(h) te(h)cum(h) vi(h)vit(h) et(h) reg(h)nat(h) in(h) u(h)ni(h)tá(h)te(h) Spí(h)ri(h)tus(h) San(g)cti,(f) De(h)us,(h.) *(;) per(h) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f.) (::)
@@ -182,23 +182,23 @@ R/. A(g.)men.(h.) (::)}
 R/. A(h)men.(i.) (::)}
 
 [Qui cum Patre]
-{initial-style:0;%%(c4) Qui(h) cum(h) Pá(h)tre(h) et(h) Spí(h)ri(h)tu(h) San(h)cto(h) vi(h)vis(h) et(h) reg(h)nas,(h) De(h)us,(h.) *(;) per(h) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f.) (::)
+{initial-style:0;%%(c3) Qui(h) cum(h) Pá(h)tre(h) et(h) Spí(h)ri(h)tu(h) San(h)cto(h) vi(h)vis(h) et(h) reg(h)nas,(h) De(h)us,(h.) *(;) per(h) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f.) (::)
 R/. A(g.)men.(h.) (::)}
 
-
+[Qui cum Patre] (rubrica monastica)
 r. Qui cum Patre et Spíritu Sancto vivis et regnas, Deus, per ómnia sǽcula sæculórum.
 R. Amen.
 
-
+[Qui cum Patre solemnis]
 r. Qui cum Patre et Spíritu Sancto vivis et regnas, Deus, per ómnia sǽcula sæculórum.
 R. Amen.
 
-
+[Qui cum Patre solemnis] (rubrica monastica)
 r. Qui cum Patre et Spíritu Sancto vivis et regnas, Deus, per ómnia sǽcula sæculórum.
 R. Amen.
 
 [Per eumdem]
-{initial-style:0;%%(c4) Per(h) e(h)úm(h)dem(h) Dó(h)mi(h)num(h) nos(h)trum(h) Je(h)sum(h) Chris(h)tum,(h) Fí(h)li(h)um(h) tu(h)um:(f.) †(;) qui(h) te(h)cum(h) vi(h)vit(h) et(h) reg(h)nat(h) in(h) u(h)ni(h)tá(h)te(h) Spí(h)ri(h)tus(h) San(g)cti,(f) De(h)us,(h.) *(;) per(h) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f.) (::)
+{initial-style:0;%%(c3) Per(h) e(h)úm(h)dem(h) Dó(h)mi(h)num(h) nos(h)trum(h) Je(h)sum(h) Chris(h)tum,(h) Fí(h)li(h)um(h) tu(h)um:(f.) †(;) qui(h) te(h)cum(h) vi(h)vit(h) et(h) reg(h)nat(h) in(h) u(h)ni(h)tá(h)te(h) Spí(h)ri(h)tus(h) San(g)cti,(f) De(h)us,(h.) *(;) per(h) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f.) (::)
 R/. A(g.)men.(h.) (::)}
 
 [Per eumdem] (rubrica monastica)
@@ -214,11 +214,11 @@ R/. A(g.)men.(h.) (::)}
 R/. A(h)men.(i.) (::)}
 
 [Qui vivis]
-{initial-style:0;%%(c4) Qui(h) vi(h)vis(h) et(h) reg(h)nas(h) cum(h) De(h)o(h) Pa(h)tre,(h) in(h) u(h)ni(h)tá(h)te(h) Spí(h)ri(h)tus(h) San(g)cti,(f) De(h)us,(h.) *(;) per(h) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f.) (::)
+{initial-style:0;%%(c3) Qui(h) vi(h)vis(h) et(h) reg(h)nas(h) cum(h) De(h)o(h) Pa(h)tre,(h) in(h) u(h)ni(h)tá(h)te(h) Spí(h)ri(h)tus(h) San(g)cti,(f) De(h)us,(h.) *(;) per(h) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f.) (::)
 R/. A(g.)men.(h.) (::)}
 
 [Qui vivis] (rubrica monastica)
-{initial-style:0;%%(c4) Qui(h) vi(h)vis(h) et(h) reg(h)nas(h) cum(h) De(h)o(h) Pa(h)tre,(h) in(h) u(h)ni(h)tá(h)te(h) Spí(h)ri(h)tus(h) San(g)cti,(f') De(h)us,(h.) *(;) per(h) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f.) (::)
+{initial-style:0;%%(c3) Qui(h) vi(h)vis(h) et(h) reg(h)nas(h) cum(h) De(h)o(h) Pa(h)tre,(h) in(h) u(h)ni(h)tá(h)te(h) Spí(h)ri(h)tus(h) San(g)cti,(f') De(h)us,(h.) *(;) per(h) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f.) (::)
 R/. A(h)men.(h.) (::)}
 
 [Qui vivis solemnis]
@@ -230,36 +230,36 @@ R/. A(g.)men.(h.) (::)}
 R/. A(h)men.(i.) (::)}
 
 [Qui tecum]
-{initial-style:0;%%(c4) Qui(h) te(h)cum(h) vi(h)vit(h) et(h) reg(h)nat(h) in(h) u(h)ni(h)tá(h)te(h) Spí(h)ri(h)tus(h) San(g)cti,(f) De(h)us,(h.) *(;) per(h) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f.) (::)
+{initial-style:0;%%(c3) Qui(h) te(h)cum(h) vi(h)vit(h) et(h) reg(h)nat(h) in(h) u(h)ni(h)tá(h)te(h) Spí(h)ri(h)tus(h) San(g)cti,(f) De(h)us,(h.) *(;) per(h) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f.) (::)
 R/. A(g.)men.(h.) (::)}
 
+[Qui tecum] (rubrica monastica)
+{initial-style:0;%%(c3) Qui(h) te(h)cum(h) vi(h)vit(h) et(h) reg(h)nat(h) in(h) u(h)ni(h)tá(h)te(h) Spí(h)ri(h)tus(h) San(g)cti,(f’) De(h)us,(h.) *(;) per(h) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f.) (::)
+R/. A(h.)men.(h.) (::)}
 
-r. Qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
-R. Amen.
+[Qui tecum solemnis]
+{initial-style:0;%%(c4) Qui(g) te(h)cum(h) vi(h)vit(h) et(h) reg(h)nat(h) in(h) u(h)ni(h)tá(h)te(h) Spí(h)ri(h)tus(h) San(g)cti,(g) De(h)us,(h.) *(;) per(g) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(g)cu(h)ló(hg)rum.(g.) (::)
+R/. A(g.)men.(h.) (::)}
 
-
-r. Qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
-R. Amen.
-
-
-r. Qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
-R. Amen.
+[Qui tecum solemnis] (rubrica monastica)
+{initial-style:0;%%(c3) Qui(h) te(i)cum(i) vi(i)vit(i) et(i) reg(i)nat(i) in(i) u(i)ni(i)tá(i)te(i) Spí(i)ri(i)tus(i) San(h)cti,(h) De(i)us,(i.) *(;) per(h) óm(i)ni(i)a(i) sǽ(i)cu(i)la(i) sæ(h)cu(i)ló(ih)rum.(h.) (::)
+R/. A(h)men.(i.) (::)}
 
 [Qui tecum eiusdem]
-{initial-style:0;%%(c4) Qui(h) te(h)cum(h) vi(h)vit(h) et(h) reg(h)nat(h) in(h) u(h)ni(h)tá(h)te(h) e(h)jús(h)dem(h) Spí(h)ri(h)tus(h) San(g)cti,(f) De(h)us,(h.) *(;) per(h) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f.) (::)
+{initial-style:0;%%(c3) Qui(h) te(h)cum(h) vi(h)vit(h) et(h) reg(h)nat(h) in(h) u(h)ni(h)tá(h)te(h) e(h)jús(h)dem(h) Spí(h)ri(h)tus(h) San(g)cti,(f) De(h)us,(h.) *(;) per(h) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f.) (::)
 R/. A(g.)men.(h.) (::)}
 
+[Qui tecum eiusdem] (rubrica monastica)
+{initial-style:0;%%(c3) Qui(h) te(h)cum(h) vi(h)vit(h) et(h) reg(h)nat(h) in(h) u(h)ni(h)tá(h)te(h) e(h)jús(h)dem(h) Spí(h)ri(h)tus(h) San(g)cti,(f’) De(h)us,(h.) *(;) per(h) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(f.) (::)
+R/. A(h.)men.(h.) (::)}
 
-r. Qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
-R. Amen.
+[Qui tecum eiusdem solemnis]
+{initial-style:0;%%(c4) Qui(g) te(h)cum(h) vi(h)vit(h) et(h) reg(h)nat(h) in(h) u(h)ni(h)tá(h)te(h) e(h)jús(h)dem(h) Spí(h)ri(h)tus(h) San(g)cti,(g) De(h)us,(h.) *(;) per(g) óm(h)ni(h)a(h) sǽ(h)cu(h)la(h) sæ(g)cu(h)ló(hg)rum.(g.) (::)
+R/. A(g.)men.(h.) (::)}
 
-
-r. Qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
-R. Amen.
-
-
-r. Qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
-R. Amen.
+[Qui tecum eiusdem solemnis] (rubrica monastica)
+{initial-style:0;%%(c3) Qui(h) te(i)cum(i) vi(i)vit(i) et(i) reg(i)nat(i) in(i) u(i)ni(i)tá(i)te(i) e(i)jús(i)dem(i) Spí(i)ri(i)tus(i) San(h)cti,(h) De(i)us,(i.) *(;) per(h) óm(i)ni(i)a(i) sǽ(i)cu(i)la(i) sæ(h)cu(i)ló(ih)rum.(h.) (::)
+R/. A(h)men.(i.) (::)}
 
 [Te Deum]
 {(c4)TE(e) De(gh)um(h) lau(hg)dá(hiwj)mus:(i.h.)* (;) te(h) Dó(h)mi(h)num(g) con(h')fi(i)té(h.)mur.(g.) (::) Te(j) æ(j)tér(j')num(i) Pa(hi)trem,(h.) om(h)nis(h) ter(h)ra(g) ve(h')ne(i)rá(h.)tur.(g.) (::) Ti(j)bi(j) om(j')nes(i) án(hi)ge(h)li,(h.) (;) ti(h)bi(h) cæ(h)li,(h) et(h) u(h)ni(h)vér(h)sæ(g) pot(h')es(i)tá(h.)tes  :(g.) (::) Ti(j)bi(j) ché(j)ru(j)bim(j') et(i) sé(hi)ra(h)phim(h.) (;) in(h)ces(h)sá(h)bi(h)li(h) vo(g)ce(h') pro(i)clá(h.)mant :(g.) (::) ^_Fit reverentia_^ () Sanc(g.h/iwj)tus,(i.h.) (::) Sanc(g.h/iwj)tus,(i.h.) (::) Sanc(he/gh)tus(h.) (,) Dó(h)mi(h)nus(g) De(h')us(i) Sá(h')ba(h)oth.(g.) (::) Ple(j)ni(j) sunt(j) cæ(j)li(j') et(i) ter(hi)ra(h.) (;) ma(h)ies(h)tá(h)tis(h) gló(g)ri(h')æ(i) tu(h.)æ :(g.) (::) Te(j) glo(j')ri(i)ó(hi)sus(h.) (,) A(h)pos(h)to(g)ló(h')rum(i) cho(h.)rus :(g.) (::) te(j) pro(j')phe(i)tá(hi)rum(h.) lau(h)dá(g)bi(h')lis(i) nú(h')me(h)rus :(g.) (::) te(j) már(j)ti(j)rum(j) can(j')di(i)dá(hi)tus(h.) (;) lau(g)dat(h') ex(i)ér(h')ci(h)tus.(g.) (::) Te(j) per(j) or(j)bem(j') ter(i)rá(hi)rum(h.) (;) sanc(h)ta(h) con(h)fi(h)té(g)tur(h') Ec(i)clé(h')si(h)a:(g.) (::) Pa(gh/iwj)trem(i.h.) (;) im(h)mén(h)sæ(g) ma(h')ies(i)tá(h.)tis :(g.) (::) ve(j)ne(j)rán(j)dum(j) tu(j')um(i) ve(hi)rum(h.) (;) et(h) ú(g)ni(h')cum(i) Fí(h')li(h)um :(g.) (::) Sanc(g)tum(h') quo(i)que(h.) (;) Pa(h)rá(g)cli(h')tum(i) Spí(h')ri(h)tum.(g.) (::) Tu(gh) rex(h) gló(g)ri(h')æ,(i) Chris(g.)te.(e.) (::) Tu(h) Pa(i)tris(h.) (,) sem(h)pi(h)tér(g)nus(h') es(i) Fí(g')li(g)us.(e.) (::) ^_Fit reverentia_^ () Tu,(gj) ad(j) li(j)be(j)rán(j)dum(j) su(j)scep(j)tú(i')rus(h) hó(ij)mi(i)nem,(h.) (;) non(h) hor(h)ru(h)ís(h)ti(h) Vír(g)gi(h')nis(i) u(g')te(g)rum.(e.) (::) Tu,(gj) de(j)víc(j)to(j) mor(j)tis(i') a(h)cú(ij)le(i)o,(h.) (;) a(h)pe(h)ru(h)ís(h)ti(h) cre(h)dén(i)ti(h)bus(h) re(g)gna(h') cæ(i)ló(g.)rum.(e.) (::) Tu(gj) ad(j) déx(j)te(j)ram(j) De(i')i(h) se(ij)des(i.h.) (;) in(h) gló(g)ri(h')a(i) Pa(g.)tris.(e.) (::) Iu(h)dex(h) cré(i)de(h)ris(h.) (;) es(g)se(h') ven(i)tú(g.)rus.(e.) (::) ^_Sequens versus dicitur flexis genibus_^ () Te(gj) er(j)go(j) quæ(j)su(j)mus,(j.) tu(j)is(j) fá(j)mu(i')lis(h) súb(ij)ve(i)ni,(h.) (;) quos(h) pre(h)ti(h)ó(h)so(h) sán(i)gui(h)ne(g) red(h')e(i)mis(g.)ti.(e.) (::) Æ(f)tér(fe)na(df) fac(evDC.) cum(c) Sanc(e)tis(f) tu(g)is(g) in(g) gló(g)ri(g)a(g) nu(h)me(f)rá(gvFE)ri.(e.) (::) Sal(c)vum(df) fac(f) pó(f)pu(f)lum(f) tu(f)um,(f) Dó(d)mi(f)ne,(evDC.) (;) et(c) bé(df)ne(f)dic(f) he(f)re(fe)di(d)tá(f)ti(gh) tu(gvFE)æ.(e.) (::) Et(f) re(fe)ge(d) e(f)os,(EvDC.) (;) et(c) ex(df)tól(fe)le(d) il(g)los(g.) (,) us(g)que(g) in(h) æ(f)tér(gvFE)num.(e.) (::) Per(h) sín(h)gu(h')los(g) di(ij)es(i.h.) (;) be(h)ne(g)dí(h')ci(i)mus(g.) te.(e.) (::) ^_Fit reverentia, secundum consuetudinem_^ () et(h) lau(h)dá(h)mus(h) no(h)men(h) tu(h)um(h') in(g) sæ(ij)cu(i)lum,(h) (;) et(h) in(h) sæ(g)cu(h')lum(i) sæ(g')cu(g)li.(e.) (::) Di(h)gná(h)re,(h) Dó(h)mi(h)ne,(h) di(h')e(g) is(ij)to(i.h.) (;) si(h)ne(h) pec(h)cá(h)to(h) nos(g) cus(h')to(i)di(g.)re.(e.) (::) Mi(h)se(h)ré(h)re(h) nos(h')tri,(g) Dó(ij)mi(i)ne,(h.) (;) mi(h)se(g)ré(h')re(i) nos(g.)tri.(e.) (::) Fi(h)at(h) mi(h)se(h)ri(h)cór(h)di(h)a(h) tu(h)a,(h.) Dó(h)mi(h')ne,(g) su(ij)per(i) nos,(h.) (;) quem(h)ád(h)mo(h)dum(h) spe(h)rá(g)vi(h')mus(i) in(g.) te.(e.) (::) In(c) te,(df) Dó(fe)mi(d)ne,(f) spe(gh)rá(gf/gf)vi : (e.d.) (;) non(c) con(df)fún(fe)dar(dc) in(f) æ(gh)tér(gfgvFE)num.(e.) (::)}
@@ -283,7 +283,9 @@ $Amen
 {(c3) O(i)ré(hi)mus.(i.) (::)}
 
 [Te decet]
-v. Te decet laus, + te decet hymnus: tibi glória Deo Patri, et Fílio, cum Spíritu Sancto in sǽcula sæculórum. Amen.
+{gabc:Psalterium/hy--te_decet_laus_ii--solesmes_1957.1}
+(sed tempore Paschali)
+{gabc:Psalterium/Pascha/hy--te_decet_laus--solesmes.1}
 
 [Kyrie]
 {(c3) KY(h)ri(h)e(h) e(h)lé(h)i(h)son.(h.) (::) R/. Chri(h)ste(h) e(h)lé(h)i(h)son.(h.) (,) Ký(h)ri(h)e(h) e(f)lé(g)i(h)son.(h.) (::)}
@@ -352,9 +354,6 @@ R/. A(d.)men.(d.) (::)}
 [Benedicite]
 {initial-style:0;%%(c3) V/. Be(h)ne(h)dí(h)ci(f)te.(f.) (::)
 R/. De(h)us.(f.) (::)}
-
-[commemoratio omnium_C]
-/:Deinde dicit Lector::/ Commemorátio ómnium fratrum, familiárium et benefactórum defunctórum Ordinis nostri.
 
 [Requiescant]
 {initial-style:0;%%(c3) V/. Re(h)qui(h)és(h)cant(h) in(h) pa(h)ce.(f.) (::) R/. A(h)men.(f.) (::)}

@@ -287,7 +287,7 @@ sub psalm : ScriptFunc {
     $psnum =~ s/\:\:/ \& /g;                                         # Multiple Psalms joined together
     $psnum =~ s/\:/; Part: /;                                        # n-th Part of Psalm
     $psnum =~ s/,,.*?,,//;
-    $psnum =~ s/,/; Tonus: /;                                         # name Tone in Psalm headline
+    $psnum =~ s/,/; Tonus: /;                                        # name Tone in Psalm headline
     $ftone = ($psnum =~ /Tonus: (.*)/) ? $1 : '';
     $psnum =~ s/in[,-]dir[,-]monasticus|in[,-]directum/in Directum/;
     $psnum =~ s/-monasticus//;

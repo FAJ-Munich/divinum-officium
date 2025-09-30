@@ -223,12 +223,14 @@ sub oratio {
 
   if ($lang eq 'Latin-gabc' && $w =~ /\(\:\:\)/ && $rule !~ /Limit.*Oratio/) {
 
-    # GABC: In the database, Oratios are noted in Tonus simplex
-    # For Laudes Vespera and Matutinum, these are converted here into Tonus solemnis
+    # GABC: In the database, Oratios are noted in Tonus simplex acc. to Ant. Monasticum!
+    # For Laudes, Vespera and Matutinum, these are converted here into Tonus solemnis
     if (($horamajor || $hora eq 'Matutinum')) {
 
       $w = oratio_solemnis($w);
     } elsif ($version !~ /monastic/i) {
+
+      # Roman flexa has longer pause
       $w =~ s/†\(\,\)/†(;)/;
     }
   } elsif ($w !~ /^\{/s) {
@@ -867,6 +869,24 @@ sub getsuffragium {
   my %suffr = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
   my $suffr = $suffr{$key};
 
+  if ($lang =~ /gabc/ && $version =~ /monastic/i) {
+
+    # In the database, the Orations for the Suffrages are given in the Roman solemn form.
+    # For Monastic, we need to raise the pitch.
+    my @suffr = split('{', $suffr);
+
+    foreach my $suf (@suffr) {
+      if ($suf =~ /^\(c4\)(.*?)(\}.*)$/s) {
+        my ($o, $rem) = ($1, $2);
+        $o =~ s/\(h/\(i/g;
+        $o =~ s/\(g/\(h/g;
+        $o =~ s/\(i\.\) \(\;\)/(i_') (,)/;    #' # incisi majoris => minioris moventi
+        $suf = "(c3)$o$rem";
+      }
+    }
+    $suffr = join('{', @suffr);
+  }
+
   if ($version =~ /altovadensis/i && $collectcount == 2 && $commune !~ /C1[012]/) {
     $suffr =~ s/\n\!.*//s;
     my $conclBMV = $suffr{'Suffragium ConclusioBMV'};
@@ -1082,12 +1102,22 @@ sub oratio_solemnis {
   $concl =~ s/\s*$/ solemnis/s;
 
   if ($version =~ /monastic/i) {
-    $flexa =~ s/\(h/(i/g;                  # raise pitch in general
-    $flexa =~ s/(c3.*?)\(i\)/$1(h)/;       # add initia
-    $flexa =~ s/\(f(\.?)\)/(h$1)/;         # raise pitch at flexa
-    $metrum =~ s/\([gf]\)/(i)/g;           # remove metrum
-    $metrum =~ s/\(h\.\)/(i_')/g;          #'# incisi majoris momenti => minoris
-    $metrum =~ s/\(h/(i/g;                 # raise pitch in general
+
+    # Antiphonale Monasticum 1934 (Tonus Orationis pp. 1236 ff.):
+    # Tonus simplex:  (c3) h hr 'h fr f. † hr g f 'h h. * hr 'h dr d.
+    # Tonus solemnis: (c3) h ir 'i hr h. * (h ir i_',) ir h h 'i ir i.
+    $metrum =~ s/\([gf]\)/(i)/g;    # remove metrum
+
+    if ($flexa) {
+      $flexa =~ s/\(h/(i/g;                # raise pitch in general
+      $flexa =~ s/(c3.*?)\(i\)/$1(h)/;     # add initia
+      $flexa =~ s/\(f(r?\.?)\)/(h$1)/g;    # raise pitch at flexa
+      $metrum =~ s/\(h\.\)/(i_')/g;        #'# incisi majoris momenti => minoris
+      $metrum =~ s/\(h/(i/g;               # raise pitch in general
+    } else {
+      $metrum =~ s/\(h/(i/g;               # raise pitch in general
+      $metrum =~ s/\(i[r\.]\)/(h$1)/g;     # add flexa
+    }
     $metrum =~ s/\(i\)/(h)/;               # add initia
     $prePunctum =~ s/\(h/(i/g;             # raise pitch in general
     $prePunctum =~ s/^(.*)\(i\)/$1(h)/;    # lower ultimate pitch
@@ -1096,23 +1126,32 @@ sub oratio_solemnis {
 
     $o =
       $flexa
-      ? "$flexa †(,) $metrum (,) $prePunctum(i)$punctum$concl"
-      : "$metrum (,) $prePunctum(i)$punctum$concl";
+      ? "$flexa *(;) $metrum (,) $prePunctum(i)$punctum$concl"
+      : "$metrum *(;) $prePunctum(i)$punctum$concl";
   } else {
-    $flexa =~ s/c3(.*?)\(h\)/c4$1(g)/;     # lower pitch and add initia
-    $flexa =~ s/\(f(\.?)\)/(g$1)/;         # raise pitch at flexa
-    $flexa =~ s/\(h[\_\']+\)/(h.)/;        # incisi minoris momenti => majoris
-    $metrum =~ s/\([gf]\)/(h)/g;           # remove metrum
-    $metrum =~ s/\(h\)/(g)/;               # add initia
-    $metrum =~ s/c3/c4/ unless $flexa;     # lower pitch if necessary
-    $prePunctum =~ s/^(.*)\(h\)/$1(g)/;    # lower ultimate pitch
-    $prePunctum =~ s/^(.*)\(h\)/$1(g)/;    # lower penultimate pitch
-    $punctum =~ s/\(d/(h/g;                # raise final pitches
+
+    # Antiphonale Romanum 1949 (Toni antiqui ad libitum pp. 52* ff.)
+    # Tonus simplex:  (c3) h hr 'h fr f. † hr g f 'h h. * hr 'h dr d.
+    # Tonus solemnis: (c4) g hr 'h gr g. * (g hr h.;) hr g g 'h hr h.
+    $metrum =~ s/\([gf]\)/(h)/g;    # remove metrum
+
+    if ($flexa) {
+      $flexa =~ s/c3(.*?)\(h\)/c4$1(g)/;    # lower pitch and add initia
+      $flexa =~ s/\(f(r?\.?)\)/(g$1)/g;     # raise pitch at flexa
+      $flexa =~ s/\(h[\_\']+\)/(h.)/;       # incisi minoris momenti => majoris
+    } else {
+      $metrum =~ s/\(h[r\.]\)/(g$1)/g;      # add flexa
+      $metrum =~ s/c3/c4/;                  # lower pitch
+    }
+    $metrum =~ s/\(h\)/(g)/;                # add initia
+    $prePunctum =~ s/^(.*)\(h\)/$1(g)/;     # lower ultimate pitch
+    $prePunctum =~ s/^(.*)\(h\)/$1(g)/;     # lower penultimate pitch
+    $punctum =~ s/\(d/(h/g;                 # raise final pitches
 
     $o =
       $flexa
-      ? "$flexa †(;) $metrum (;) $prePunctum(h)$punctum$concl"
-      : "$metrum (;) $prePunctum(h)$punctum$concl";
+      ? "$flexa *(;) $metrum (;) $prePunctum(h)$punctum$concl"
+      : "$metrum *(;) $prePunctum(h)$punctum$concl";
   }
 
   return $o;

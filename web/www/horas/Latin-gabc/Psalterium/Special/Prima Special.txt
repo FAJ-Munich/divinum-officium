@@ -48,14 +48,14 @@ R.br. {gabc:Psalterium/rb--christe_fili_dei_vivi--solesmes_1961}
 R.br. {gabc:Psalterium/Passionis/rb--christe_fili_dei_vivi--passionis--solesmes_1961}
 
 [Versum]
-{initial-style:0;%%(c4) V/. Ex(f)súr(f)ge(f) Chri(f)ste,(f) ád(f)ju(f)va(f) nos.(e'_[oh:h]//fvED'Cded.) (::) (Z-) R/. Et(f) lí(f)be(f)ra(f) nos(f) pro(f)pter(f) no(f)men(f) tu(f)um.(e'_[oh:h]//fvED'Cded.) (::)}
+{initial-style:0;%%(c4) V/. Ex(f)súr(f)ge(f) Chri(f)ste,(f) ád(f)ju(f)va(f) nos.(e'_[oh:h]//fvED'Cded.) (::) R/. Et(f) lí(f)be(f)ra(f) nos(f) pro(f)pter(f) no(f)men(f) tu(f)um.(e'_[oh:h]//fvED'Cded.) (::)}
 (sed tempore paschali)
-{initial-style:0;%%(c4) V/. Ex(f)súr(f)ge(f) Chri(f)ste,(f) ád(f)ju(f)va(f) nos,(f_') (,) al(f)le(f)lú(f)ja.(e'_[oh:h]//fvED'Cded.) (::) (Z-)  R./ Et(f) lí(f)be(f)ra(f) nos(f) pro(f)pter(f) no(f)men(f) tu(f)um,(f_') (,) al(f)le(f)lú(f)ja.(e'_[oh:h]//fvED'Cded.) (::)}
+{initial-style:0;%%(c4) V/. Ex(f)súr(f)ge(f) Chri(f)ste,(f) ád(f)ju(f)va(f) nos,(f_') (,) al(f)le(f)lú(f)ja.(e'_[oh:h]//fvED'Cded.) (::) R/. Et(f) lí(f)be(f)ra(f) nos(f) pro(f)pter(f) no(f)men(f) tu(f)um,(f_') (,) al(f)le(f)lú(f)ja.(e'_[oh:h]//fvED'Cded.) (::)}
 
 [Versum] (rubrica monastica)
 {initial-style:0;%%(c3) V/. Ex(h)súr(h)ge(h) Chri(h)ste,(h) ád(h)ju(h)va(h) nos.(f.) (::)  R/. Et(h) lí(h)be(h)ra(h) nos(h) pro(h)pter(h) no(h)men(h) tu(h)um.(f.) (::)}
 (sed tempore paschali)
-{initial-style:0;%%(c3) V/. Ex(h)súr(h)ge(h) Chri(h)ste,(h) ád(h)ju(h)va(h) nos,(h_')  al(h)le(h)lú(h)ja.(f.) (::) (::)  R./ Et(h) lí(h)be(h)ra(h) nos(h) pro(h)pter(h) no(h)men(h) tu(h)um,(h_') (,) al(h)le(h)lú(h)ja.(f.) (::)}
+{initial-style:0;%%(c3) V/. Ex(h)súr(h)ge(h) Chri(h)ste,(h) ád(h)ju(h)va(h) nos,(h_')  al(h)le(h)lú(h)ja.(f.) (::) R./ Et(h) lí(h)be(h)ra(h) nos(h) pro(h)pter(h) no(h)men(h) tu(h)um,(h_') (,) al(h)le(h)lú(h)ja.(f.) (::)}
 
 [Responsory Adv]
 R.br. {gabc:Psalterium/Adventu/rb--christe_fili_dei--solesmes_1961.1}

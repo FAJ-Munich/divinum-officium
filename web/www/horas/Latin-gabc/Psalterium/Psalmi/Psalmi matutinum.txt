@@ -452,9 +452,6 @@ Allelúja, * allelúja, allelúja.;;243;244;245
 V. Gavísi sunt discípuli, allelúja.
 R. Viso Dómino, allelúja.
 
-[Cantm Fest]
-;;246;247;248
-
 [Daym1_]
 Rectos décet * collaudátio;;32
 ;;33

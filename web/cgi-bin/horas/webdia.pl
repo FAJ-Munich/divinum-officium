@@ -523,12 +523,24 @@ sub setcell {
     if ($lang =~ /gabc/i) {    # post process GABC chants
       my $dId = 0;
 
-      # Merge Oratio
+      # Merge Orationes
+      if ($text =~ /Commemoratio|Suffragium/) {
+
+        # The Versicle are given in the simple tone with clef (c3) ending on (f.)
+        # Roman: The Oration follows in the solemn tone.
+        # Keeping the clef (c4) and adding custos for that purpose.
+        $text =~
+          s/\.\((f)\.\)\s*\(\:\:\)\}(?:\s|\_|\<br\/\>)*\{(\(c4\) O\(h\)ré\([gh]{1,2}\)mus\.\([fh]\.\) \(\:\:\)\})/.($1.) (f+::) $2/gs;
+      }
       $text =~
-        s/(o|at)\.\(([fhi])\.\) \(\:\:\)\}\s*(?:\<br\/\>)*\s*\{\(c[34]\) (O\([hi]\)ré\([ghi]{1,2}\)mus\.\([fhi]\.\) \(\:\:\)\})/$1.($2.) (::) $3/s;
-      $text =~ s/(O\([hi]\)ré\([ghi]{1,2}\)mus\.\([fhi]\.\)) \(\:\:\)\}\s*(?:\<br\/\>)*\s*\{\(c[34]\)/$1 (:)/gs;
+        s/\.\(([dfghi])\.\)\s*\(\:\:\)\}(?:\s|\_|\<br\/\>)*\{\(c[34]\) (O\([hi]\)ré\([ghi]{1,2}\)mus\.\([fhi]\.\) \(\:\:\)\})/.($1.) (::) $2/gs;
+      $text =~ s/(O\([hi]\)ré\([ghi]{1,2}\)mus\.\([fhi]\.\)) \(\:\:\)\}(?:\s|\_|\<br\/\>)*\{\(c[34]\)/$1 (:)/gs;
       $text =~
-        s/\(([dhi])\.\) \(\:\:\)\}\s*(?:\<br\/\>)*\s*\{(?:initial\-style\:0\;\%\%)\(c[34]\) (Per|Qui)/($1.) (:) $2/gs;
+        s/\(([fdhi])\.\) \(\:\:\)\}\s*(?:\<br\/\>)*\s*\{(?:initial\-style\:0\;\%\%)\(c[34]\) (Per|Qui)/($1.) (:) $2/gs;
+
+      # Merge Absolutio, Benedictio
+      $text =~
+        s/\(([fd])\.\) \(\:\:\)\}\s*(?:\<br\/\>)*\s*\{(?:initial\-style\:0\;\%\%)\(c[34]\) (R\/. A\([gh]\.?\)men)/($1.) (::) $2/gs;
 
       # retrieve all GABC scores from files
       while ($text =~ /\{gabc:(.+?)\}/is) {

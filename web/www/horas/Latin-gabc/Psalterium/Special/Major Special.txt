@@ -16,29 +16,89 @@ R.br. {gabc:Psalterium/Feria/rb--magnus_dominus_noster--solesmes_1934}
 {gabc:Sancti/05-03/hy--vexilla_regis_inventio--solesmes_1934}
 
 [Quad5 Versum 3_]
-{initial-style:0;%%(c3) V/. É(h)ri(h)pe(h) me,(h) Dó(h)mi(h)ne,(h) ab(h) hó(h)mi(h)ne(h) ma(h)lo.(g_0hGF'Efgf.) (::)}
-{initial-style:0;%%(c3) R/. A(h) vi(h)ro(h) in(h)í(h)quo(h) é(h)ri(h)pe(h) me.(g_0hGF'Efgf.) (::)}
+{initial-style:0;%%(c3) V/. É(h)ri(h)pe(h) me,(h) Dó(h)mi(h)ne,(h) ab(h) hó(h)mi(h)ne(h) ma(h)lo.(g_0hGF'Efgf.) (::)
+R/. A(h) vi(h)ro(h) in(h)í(h)quo(h) é(h)ri(h)pe(h) me.(g_0hGF'Efgf.) (::)}
+
+[Suffragium Divino]
+Ant. {name:Beata Dei Genitrix Virgo;annotation:2.;mode:2;book:The Liber Usualis, 1961, p. 260 & Liber antiphonarius, 1960, p. 52 & Liber antiphonarius, 1960, p. 577.23;transcriber:Andrew Hinkley;%%(f3) BE(e)á(ef)ta(f') De(h)i(hg) Gé(fg)ni(f)trix,(e.) *(,) Vir(fg)go(f) Ma(e)rí(gh)a,(f.) (;) San(hi)ctí(hg)que(i) o(kxj_kJ~'I~)mnes(ji__) (;) in(e)ter(f)cé(h_i)dant(h) pro(hg) no(fe)bis(g) ad(hg) Dó(f)mi(f)num.(f.) (::)}
+_
+{initial-style:0;%%(c3) V/. Mi(h)ri(h)fi(h)cá(h)vit(h) Dó(h)mi(h)nus(h) Sanc(h)tos(h) su(h)os.(f.) (::)
+R/. Et(h) ex(h)au(h)dí(h)vit(h) e(h)os(h) cla(h)mán(h)tes(h) ad(h) se.(f.) (::)}
+_
+!Oratio
+/:In hac oratione, ad litteram N. exprimitur nomen Titularis propriæ ecclesiæ, dummodo Titulus non sit Persona divina vel Mysterium Domini, aut de ipso ratione Festi factum non fuerit Officium vel Commemoratio, aut illius nomen non sit in eadem Suffragii Oratione expressum; ac nomina sanctorum Angelorum et sancti Joannis Baptistæ, si Titulares fuerint, præponuntur nomini sancti Joseph. In hisce autem omnibus casibus omittuntur verba «atque beáto N.»:/
+$Oremus solemnis 
+{(c4) A(g) cunc(h)tis(h) nos,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) men(h)tis(h) et(h) cór(h)po(h)ris(h) de(h)fén(h)de(h) pe(h)rí(h)cu(g)lis:(g.) *(;) et,(g) in(h)ter(h)ce(h)dén(h)te(h) be(h)á(h)ta(h) et(h) glo(h)ri(h)ó(h)sa(h) sem(h)per(h) Vír(h)gi(h)ne(h) De(h)i(h) Ge(h)ni(h)trí(h)ce(h) Ma(h)rí(h)a,(h) cum(h) be(h)á(h)to(h) Jo(h)seph,(h) be(h)á(h)tis(h) A(h)pós(h)to(h)lis(h) tu(h)is(h) Pe(h)tro(h) et(h) Pau(h)lo,(h) at(h)que(h) be(h)á(h)to(h) ^N.^() et(h) óm(h)ni(h)bus(h) Sanc(h)tis,(h) sa(h)lú(h)tem(h) no(h)bis(h) trí(h)bu(h)e(h) be(h)ní(h)gnus(h) et(h) pa(h)cem;(h.) (;) ut,(h) de(h)strúc(h)tis(h) ad(h)ver(h)si(h)tá(h)ti(h)bus(h) et(h) er(h)ró(h)ri(h)bus(h) u(h)ni(h)vér(h)sis,(g.) *(;) Ec(h)clé(h)si(h)a(h) tu(h)a(h) se(h)cú(h)ra(h) ti(h)bi(h) sér(h)vi(h)at(h) li(g)ber(g)tá(h)te.(h.) (::)}
+$Per eumdem solemnis
+
+[Suffragium Divino1]
+Ant. {name:Sancti omnes intercedant;annotation:7.;mode:7;book:Liber antiphonarius, 1960, p. [129] & Liber antiphonarius, 1960, p. 53;transcriber:Andrew Hinkley;%%(c2) SAn(g)cti(e_f) o(g_h)mnes(g.) *(,) in(ih~)ter(ij)cé(i)dant(hv_GF) pro(gh) no(fe)bis(dc) ad(ded) Dó(c)mi(c)num.(c.) (::)}
+_
+{initial-style:0;%%(c3) V/. Mi(h)ri(h)fi(h)cá(h)vit(h) Dó(h)mi(h)nus(h) Sanc(h)tos(h) su(h)os.(f.) (::)
+R/. Et(h) ex(h)au(h)dí(h)vit(h) e(h)os(h) cla(h)mán(h)tes(h) ad(h) se.(f.) (::)}
+_
+!Oratio
+/:In hac oratione, ad litteram N. exprimitur nomen Titularis propriæ ecclesiæ, dummodo Titulus non sit Persona divina vel Mysterium Domini, aut de ipso ratione Festi factum non fuerit Officium vel Commemoratio, aut illius nomen non sit in eadem Suffragii Oratione expressum; ac nomina sanctorum Angelorum et sancti Joannis Baptistæ, si Titulares fuerint, præponuntur nomini sancti Joseph. In hisce autem omnibus casibus et omittuntur verba «atque beáto N.». Si Titularis ante omnes fuerit nominandus, particula «cum» omittitur ante nomen sanctorum Petri et Pauli ac præponitur nomini Sancti Joseph.:/
+$Oremus  
+$Oremus solemnis 
+{(c4) A(g) cunc(h)tis(h) nos,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) men(h)tis(h) et(h) cór(h)po(h)ris(h) de(h)fén(h)de(h) pe(h)rí(h)cu(g)lis:(g.) *(;) et,(g) in(h)ter(h)ce(h)dén(h)te(h) be(h)á(h)to(h) Jo(h)seph,(h) cum(h) be(h)á(h)tis(h) A(h)pós(h)to(h)lis(h) tu(h)is(h) Pe(h)tro(h) et(h) Pau(h)lo,(h) at(h)que(h) be(h)á(h)to(h) ^N.^() et(h) óm(h)ni(h)bus(h) Sanc(h)tis,(h) sa(h)lú(h)tem(h) no(h)bis(h) trí(h)bu(h)e(h) be(h)ní(h)gnus(h) et(h) pa(h)cem;(h.) (;) ut,(h) de(h)strúc(h)tis(h) ad(h)ver(h)si(h)tá(h)ti(h)bus(h) et(h) er(h)ró(h)ri(h)bus(h) u(h)ni(h)vér(h)sis,(g.) *(;) Ec(h)clé(h)si(h)a(h) tu(h)a(h) se(h)cú(h)ra(h) ti(h)bi(h) sér(h)vi(h)at(h) li(g)ber(g)tá(h)te.(h.) (::)}
+$Per eumdem solemnis
+
+[Suffragium Feriale]
+!De cruce
+Ant. {name:Per signum Crucis;annotation:2.;mode:2;book:Antiphonale Monasticum, 1934, p. 1041;transcriber:Dominique CROCHU;%%(f3) PER(ffe~) si(eh)gnum(g>) Cru(f_g)cis(ffe.) *(,) de(fi) in(i)i(ih)mí(i)cis(ij) nos(hhi)tris(h.) (,) lí(h_i)be(h)ra(hg) nos(fe) De(f)us(hg) nos(f.)ter.(f.) (::)}
+_
+{initial-style:0;%%(c3) V/. Om(h)nis(h) ter(h)ra(h) ad(h)ó(h)ret(h) te,(h) et(h) psal(h)lat(h) ti(h)bi.(f.) (::)
+R/. Psal(h)mum(h) di(h)cat(h) nó(h)mi(h)ni(h) tu(h)o,(h) Dó(h)mi(h)ne.(f.) (::)}
+_
+$Oremus solemnis
+{(c4) Per(g)pé(h)tu(h)a(h) nos,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) (,) pa(h)ce(h) cus(h)tó(h)di,(g.) *(;) quos(h) per(h) li(h)gnum(h) sanc(h)tæ(h) Cru(h)cis(h) red(h)í(h)me(h)re(g) di(g)gná(h)tus(h) es.(h.) (::)}
+
+[Suffragium Paschale]
+Ant. {name:Crucifixus surrexit;annotation:6.;mode:6;book:Antiphonale Monasticum, 1934, p. 471;transcriber:Frado;%%(c4) CRu(f)ci(ghg)fí(h)xus(g_f) *() sur(gh)ré(g)xit(fe) a(df) mór(fef)tu(d_e/DC'd)is,(d_c) (,) et(dc~) red(fgwhg)é(h')mit(g) nos,(f.) (;) al(d)le(fef)lú(d_e/DC'/d)ia,(d_c) al(f)le(g)lú(gf~)ja(f.) (::)}
+_
+{initial-style:0;%%(c3) V/. Dí(h)ci(h)te(h) in(h) na(h)ti(h)ó(h)ni(h)bus,(h) al(h)le(h)lú(h)ja.(f.) (::)
+R/. Qui(h)a(h) Dó(h)mi(h)nus(h) re(h)gná(h)vit(h) a(h) li(h)gno,(h) al(h)le(h)lú(h)ja.(f.) (::)}
+_
+$Oremus solemnis
+{(c4) De(g)us,(h) qui(h) pro(h) no(h)bis(h) Fí(h)li(h)um(h) tu(h)um(h) Cru(h)cis(h) pa(h)tí(h)bu(h)lum(h) sub(h)í(h)re(h) vo(h)lu(h)ís(h)ti,(h) (,) ut(h) in(h)i(h)mí(h)ci(h) a(h) no(h)bis(h) ex(h)pél(h)le(h)res(h) pot(h)es(h)tá(h)tem:(g.) *(;) con(h)cé(h)de(h) no(h)bis(h) fá(h)mu(h)lis(h) tu(h)is;(h.) (;) ut(h) re(h)sur(h)rec(h)ti(h)ó(h)nis(h) grá(h)ti(h)am(h) con(g)se(g)quá(h)mur.(h.) (::)}
+$Per eumdem solemnis
+
+[Suffragium PaschaleV]
+Ant. {name:Crucem sanctam;annotation:2.;mode:2;book:Antiphonale Monasticum, 1934, p. 131 & Antiphonale Monasticum, 1934, p. 468;transcriber:Frado;%%(f3) CRu(e)cem((ef~) san(f)ctam(f!gwh) súb(hg)i(fg)it,(g.) (,) qui(gi) in(g)fér(hg~)num(f) con(gf~)fré(ef)git(f.) (;) ac(f)cín(f>)tus(ec) est(e) pot(f!gwh)én(hg~)ti(fg)a,(g'_) (,) sur(i)ré(i_j)xit(g) di(hg)e(f) ter(gf~)ti(ef)a,(f.) (;) al(eg~)le(gf/hvGF/gf)lú(ef~)ja.(f.) (::)}
+@:Suffragium Paschale:2-9
 
 [Suffragium BMV Ant]
 !De Beata Maria
 Ant. {name:Sancta Maria succurre;annotation:4.;mode:4;%%(c4) SAn(e!fwg)cta(dc) Ma(de)rí(e)a,(e.) *(,) suc(gh)cú(hg)re(ed) mí(e!fw!gv_FE)se(de)ris,(e.) (;) ju(h)va(g) pu(fe)sil(d)lá(efe)ni(de)mes,(e.) (;) ré(ed)fo(dc)ve(c) flé(e!fw!gv_FE)bi(de)les:(e.) (:) o(d!f'h)ra(g) pro(fe) pó(dc)pu(df)lo,(efED.) (;) in(d)tér(dh)ve(ixhih)ni(g) pro(gh) cle(gf)ro,(ed..) (;) in(d)ter(fh)cé(h)de(g) pro(fe) de(dc)vó(df)to(efE'D) (,) fe(fh)mí(hvGF')ne(g)o(gf) se(e.)xu:(e.) (:) sén(c)ti(df)ant(fd) o(e_f)mnes(g) tu(gh)um(gf) ju(de)vá(dd)men,(c.) (;) qui(cd)cúm(fe)que(fg) cé(gh)le(g)brant(g'_) (,) tu(g)am(g) sanc(g)tam(f) com(gh)me(g)mo(gf)ra(g)ti(ghg)o(e.)nem.(e.) (::)}
 
+[Suffragium BMV]
+@:Suffragium BMV Ant
+_
+(deinde dicuntur semper)
+@:Versum et Oratio BMV
+(sed tempore post partum loco horum versuum dicuntur)
+{initial-style:0;%%(c3) V/. Post(h) par(h)tum,(h) Vir(h)go,(h) in(h)vi(h)o(h)lá(h)ta(h) per(h)man(h)sís(h)ti.(f.) (::) R/. De(h)i(h) Gé(h)ne(h)trix,(h) in(h)ter(h)cé(h)de(h) pro(h) no(h)bis.(f.) (::)}
+_
+$Oremus solemnis
+{(c4) De(g)us,(h) qui(h) sa(h)lú(h)tis(h) æ(h)tér(h)næ,(h) be(h)á(h)tæ(h) Ma(h)rí(h)æ(h) vir(h)gi(h)ni(h)tá(h)te(h) fe(h)cún(h)da,(h) hu(h)má(h)no(h) gé(h)ne(h)ri(h) prǽ(h)mi(h)a(h) præ(h)sti(h)tís(h)ti:(g.) *(:) trí(g)bu(h)e,(h) quǽ(h)su(h)mus;(h) ut(h) ip(h)sam(h) pro(h) no(h)bis(h) in(h)ter(h)cé(h)de(h)re(h) sen(h)ti(h)á(h)mus,(h.) (;) per(h) quam(h) me(h)rú(h)i(h)mus(h) auc(h)tó(h)rem(h) vi(h)tæ(h) su(h)scí(h)pe(h)re,(h) Dó(h)mi(h)num(h) nos(h)trum(h) Je(h)sum(h) Chris(h)tum(h) Fí(h)li(h)um(h) tu(g)um.(g) A(h)men(h.) (::)}
+
 [Suffragium DeJosephV]
 !De sancto Joseph
 Ant. {name:Ecce fidelis servus;annotation:8.;mode:8;book:Liber antiphonarius, 1960, p. 658;transcriber:Andrew Hinkley;%%(c4) EC(h)ce(gf) fi(h')dé(j)lis(i') ser(j)vus(hg) *() et(f) pru(fg)dens,(g.) (;) quem(h) con(f)stí(g)tu(f)it(e_f) Dó(gh)mi(g)nus(g'_) (,) su(h)per(gf) fa(h)mí(hj)li(j)am(i) su(g.)am.(g.) (::) <i>T. P.</i> Al(fg)le(f)lú(e.)ja.(e.) (::)}
 _
-{initial-style:0;%%(c3) V/. Gló(h)ri(h)a(h) et(h) di(h)ví(h)ti(h)æ(h) in(h) do(h)mo(h) e(h)jus.(f.) (::)}
-{initial-style:0;%%(c3) R/. Et(h) jus(h)tí(h)ti(h)a(h) e(h)jus(h) ma(h)net(h) in(h) sǽ(h)cu(h)lum(h) sǽ(h)cu(h)li.(f.) (::)}
+{initial-style:0;%%(c3) V/. Gló(h)ri(h)a(h) et(h) di(h)ví(h)ti(h)æ(h) in(h) do(h)mo(h) e(h)jus.(f.) (::)
+R/. Et(h) jus(h)tí(h)ti(h)a(h) e(h)jus(h) ma(h)net(h) in(h) sǽ(h)cu(h)lum(h) sǽ(h)cu(fr)li.(f.) (::)}
 _
-$Oremus  
-v. Deus, qui ineffábili providéntia beátum Joseph sanctíssimæ Genitrícis tuæ sponsum elígere dignátus es: præsta quǽsumus; ut quem protectórem venerámur in terris, intercessórem habére mereámur in cælis.
+$Oremus solemnis 
+{(c4) De(g)us,(h) qui(h) in(h)ef(h)fá(h)bi(h)li(h) pro(h)vi(h)dén(h)ti(h)a(h) be(h)á(h)tum(h) Jo(h)seph(h) sanc(h)tís(h)si(h)mæ(h) Ge(h)ni(h)trí(h)cis(h) tu(h)æ(h) spon(h)sum(h) e(h)lí(h)ge(h)re(h) di(h)gná(h)tus(g) es:(g.) *(;) præ(g)sta(h) quǽ(h)su(h)mus;(h_’) (,) ut(h) quem(h) pro(h)tec(h)tó(h)rem(h) ve(h)ne(h)rá(h)mur(h) in(h) ter(h)ris,(h.) (;) in(h)ter(h)ces(h)só(h)rem(h) ha(h)bé(h)re(h) me(h)re(h)á(h)mur(g) in(g) cæ(h)lis.(h.) (::)}
 
 [Suffragium DeJoseph]
 !De sancto Joseph
 Ant. {name:Ipse Jesus erat incipiens;annotation:7.;mode:7;book:Liber antiphonarius, 1960, p. 655;transcriber:Andrew Hinkley;%%(c3) I(e_i)pse(g_h) Je(i_j)sus(i'_) *(,) e(j)rat(i') in(h)cí(hi)pi(h)ens(h.) (,) qua(hf)si(g) an(h)nó(ij)rum(i) tri(h')gín(i)ta,(i.) (;) ut(e') pu(f)ta(e)bá(d!e'f)tur(f.) (,) fí(f_i)li(h)us(fg) Jo(fe)seph.(e.) (::) <i>T. P.</i> Al(fg)le(f)lú(e.)ja.(e.) (::)}
 _
-{initial-style:0;%%(c3) V/. Os(h) jus(h)ti(h) me(h)di(h)tá(h)bi(h)tur(h) sa(h)pi(h)én(h)ti(h)am.(f.) (::)}
-{initial-style:0;%%(c3) R/. Et(h) lin(h)gua(h) e(h)jus(h) lo(h)qué(h)tur(h) ju(h)dí(h)ci(h)um.(f.) (::)}
+{initial-style:0;%%(c3) V/. Os(h) jus(h)ti(h) me(h)di(h)tá(h)bi(h)tur(h) sa(h)pi(h)én(h)ti(fr)am.(f.) (::)
+R/. Et(h) lin(h)gua(h) e(h)jus(h) lo(h)qué(h)tur(h) ju(h)dí(h)ci(fr)um.(f.) (::)}
 (sed commune C4 aut commune C5 loco hujus versus dicitur)
 @:Suffragium DeJosephV:4-5
 (deinde dicitur)
@@ -49,23 +109,38 @@ _
 !De Apostolis
 Ant. {name:Petrus Apostolus et Paulus;annotation:8.;mode:8;book:Liber antiphonarius, 1960, p. 775;transcriber:Andrew Hinkley;%%(c3) PE(e_h)trus(f) A(ed)pó(ef)sto(f)lus,(e'_) *(,) et(e) Pau(g')lus(h) Do(i)ctor(hf~) gén(h)ti(h)um,(g.) (;) i(i')psi(i) nos(i) do(h)cu(h)é(iji)runt(hg/hih.) (,) le(f)gem(e) tu(f!gwh_f)am(g_f~) Dó(e)mi(e)ne.(e.) (::)}
 _
-{initial-style:0;%%(c3) V/. Con(h)stí(h)tu(h)es(h) e(h)os(h) prín(h)ci(h)pes(h) su(h)per(h) om(h)nem(h) ter(h)ram.(f.) (::)}
-{initial-style:0;%%(c3) R/. Mé(h)mo(h)res(h) e(h)runt(h) nó(h)mi(h)nis(h) tu(h)i(h) Dó(h)mi(h)ne.(f.) (::)}
+{initial-style:0;%%(c3) V/. Con(h)stí(h)tu(h)es(h) e(h)os(h) prín(h)ci(h)pes(h) su(h)per(h) om(h)nem(h) ter(h)ram.(f.) (::)
+R/. Mé(h)mo(h)res(h) e(h)runt(h) nó(h)mi(h)nis(h) tu(h)i(h) Dó(h)mi(fr)ne.(f.) (::)}
 _
-$Oremus  
-v. Deus, cujus déxtera beátum Petrum ambulántem in flúctibus, ne mergerétur, eréxit, et coapóstolum ejus Paulum tértio naufragántem de profúndo pélagi liberávit: exáudi nos propítius, et concéde; ut ambórum méritis, æternitátis glóriam consequámur.
+$Oremus solemnis 
+{(c4) De(g)us,(h) cu(h)jus(h) déx(h)te(h)ra(h) be(h)á(h)tum(h) Pe(h)trum(h) am(h)bu(h)lán(h)tem(h) in(h) flúc(h)ti(h)bus,(h) ne(h) mer(h)ge(h)ré(h)tur,(h) e(h)ré(h)xit,(h) (,) et(h) co(h)a(h)pós(h)to(h)lum(h) e(h)jus(h) Pau(h)lum(h) tér(h)ti(h)o(h) nau(h)fra(h)gán(h)tem(h) de(h) pro(h)fún(h)do(h) pé(h)la(h)gi(h) li(h)be(h)rá(h)vit:(g.) *(;) ex(g)áu(h)di(h) nos(h) pro(h)pí(h)ti(h)us,(h) et(h) con(h)cé(h)de;(h.) (;) ut(h) am(h)bó(h)rum(h) mé(h)ri(h)tis,(h) æ(h)ter(h)ni(h)tá(h)tis(h) gló(h)ri(h)am(h) con(g)se(g)quá(h)mur.(h.) (::)}
+
+[Suffragium DeApostolis]
+!De Apostolis
+Ant. {name:Gloriosi principes terrae;annotation:6;mode:6;book:Liber antiphonarius, 1960, p. 774;transcriber:Andrew Hinkley;%%(c4) GLo(f)ri(g)ó(ixf!gi)si(i) *() prín(i)ci(h)pes(g) ter(hv_GF)rae,(f.) (;) quó(f)mo(ixgi)do(i') in(i) vi(i)ta(i) su(i)a(i) di(ixi)le(i)xé(ih)runt(gh~) se,(h.) (;) i(h!j'k)ta(j) et(ixih) in(gh~) mor(hg)te(efddc) (,) non(ixf!gwh'!iv) sunt(gfg) se(h)pa(gh)rá(f.)ti.(f.) (::)}
+_
+{initial-style:0;%%(c3) V/. In(h) om(h)nem(h) ter(h)ram(h) ex(h)í(h)vit(h) so(h)nus(h) e(h)ó(h)rum.(f.) (::)
+R/. Et(h) in(h) fi(h)nes(h) or(h)bis(h) ter(h)ræ(h) ver(h)ba(h) e(h)ó(h)rum.(f.) (::)}
+_
+@:Suffragium DeApostolisV:7-8
 
 [Suffragium DePace]
 !De Pace
 Ant. {name:Da pacem Domine;annotation:2.;mode:2;book:The Liber Usualis, 1961, p. 1867 & Chants of the Church, 1956, p. 94 & Cantus selecti, 1957, p. 232*;transcriber:Andrew Hinkley;%%(f3) DA(ff) pa(e')cem(f) Dó(h')mi(i)ne(h.) (,) in(g') di(h)é(i)bus(hg) no(f.)stris :(f.) (;) qui(h')a(h) non(hg) est(f) á(g')li(h)us(kxiji/jkj.) (,) qui(j') pu(j)gnet(i') pro(h) no(hi)bis,(h.) (,) ni(h')si(h) tu(g_[uh:l]h) De(i)us(hg) no(f.)ster.(f.) (::) <i>T. P.</i> Al(e)le(ef)lú(f.)ja.(f.) (::)}
 _
-{initial-style:0;%%(c3) V/. Fi(h)at(h) pax(h) in(h) vir(h)tú(h)te(h) tu(h)a.(f.) (::)}
-{initial-style:0;%%(c3) R/. Et(h) a(h)bun(h)dán(h)ti(h)a(h) in(h) túr(h)ri(h)bus(h) tu(h)is.(f.) (::)}
+{initial-style:0;%%(c3) V/. Fi(h)at(h) pax(h) in(h) vir(h)tú(h)te(h) tu(h)a.(f.) (::)
+R/. Et(h) a(h)bun(h)dán(h)ti(h)a(h) in(h) túr(h)ri(h)bus(h) tu(h)is.(f.) (::)}
 (sed tempore paschali loco hujus versum dicuntur)
-{initial-style:0;%%(c3) V/. Fi(h)at(h) pax(h) in(h) vir(h)tú(h)te(h) tu(h)a,(h_') (,) al(h)le(h)lú(h)ja.(f.) (::)}
-{initial-style:0;%%(c3) R/. Et(h) a(h)bun(h)dán(h)ti(h)a(h) in(h) túr(h)ri(h)bus(h) tu(h)is,(h_') (,)  al(h)le(h)lú(h)ja.(f.) (::)}
+{initial-style:0;%%(c3) V/. Fi(h)at(h) pax(h) in(h) vir(h)tú(h)te(h) tu(h)a,(h_') (,) al(h)le(h)lú(h)ja.(f.) (::)
+R/. Et(h) a(h)bun(h)dán(h)ti(h)a(h) in(h) túr(h)ri(h)bus(h) tu(h)is,(h_') (,)  al(h)le(h)lú(h)ja.(f.) (::)}
 _
 (deinde dicitur semper)
-$Oremus
-v. Deus, a quo sancta desidéria, recta consília, et justa sunt ópera: da servis tuis illam, quam mundus dare non potest, pacem; ut et corda nostra mandátis tuis dédita, et hóstium subláta formídine, témpora sint tua protectióne tranquílla.
-$Per Dominum
+$Oremus solemnis
+{(c4) De(g)us,(h) a(h) quo(h) sanc(h)ta(h) de(h)si(h)dé(h)ri(h)a,(h) rec(h)ta(h) con(h)sí(h)li(h)a,(h) et(h) jus(h)ta(h) sunt(h) ó(h)pe(g)ra:(g.) *(;) da(g) ser(h)vis(h) tu(h)is(h) il(h)lam,(h) quam(h) mun(h)dus(h) da(h)re(h) non(h) pot(h)est,(h) pa(h)cem;(h.) (;) ut(h) et(h) cor(h)da(h) nos(h)tra(h) man(h)dá(h)tis(h) tu(h)is(h) dé(h)di(h)ta,(h) et(h) hós(h)ti(h)um(h) sub(h)lá(h)ta(h) for(h)mí(h)di(h)ne,(h) tém(h)po(h)ra(h) sint(h) tu(h)a(h) pro(h)tec(h)ti(h)ó(h)ne(g) tran(g)quíl(h)la.(h.) (::)}
+$Per Dominum solemnis
+
+[Versum et Oratio BMV]
+@Commune/C11:Versum 0
+_
+$Oremus solemnis
+{(c4) Con(g)cé(h)de(h) nos(h) fá(h)mu(h)los(h) tu(h)os,(h) (,) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne(h) De(h)us,(h) (,) per(h)pé(h)tu(h)a(h) men(h)tis(h) et(h) cór(h)po(h)ris(h) sa(h)ni(h)tá(h)te(h) gau(h)dé(h)re:(g.) *(;) et,(g) glo(h)ri(h)ó(h)sa(h) be(h)á(h)tæ(h) Ma(h)rí(h)æ(h) sem(h)per(h) Vír(h)gi(h)nis(h) in(h)ter(h)ces(h)si(h)ó(h)ne,(h.) (;) a(h) præ(h)sén(h)ti(h) li(h)be(h)rá(h)ri(h) tris(h)tí(h)ti(h)a,(h) (,) et(h) æ(h)tér(h)na(h) pér(h)fru(h)i(g) læ(g)tí(h)ti(h)a.(h.) (::)}
