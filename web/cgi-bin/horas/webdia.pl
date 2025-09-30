@@ -12,6 +12,10 @@ my $a = 4;
 #*** htmlHead($title, $onload)
 # generate html head
 sub htmlHead {
+  print "Content-type: text/html; charset=utf-8\n\n";
+
+  return if our $content;
+
   my ($title, $onload) = @_;
 
   my ($horasjs) = "<SCRIPT TYPE='text/JavaScript' LANGUAGE='JavaScript1.2'>\n" . horasjs() . '</SCRIPT>';
@@ -21,8 +25,6 @@ sub htmlHead {
   my $viewport_tag = $is_mobile ? '  <META NAME="viewport" CONTENT="width=device-width, initial-scale=0.75">' : '';
 
   print <<"PrintTag";
-Content-type: text/html; charset=utf-8
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <HTML><HEAD>
 $viewport_tag
@@ -898,7 +900,7 @@ sub print_content {
   my ($ind1, $ind2);
 
   table_start();
-  ante_post('Ante') if $antepost;
+  ante_post('Ante') if $antepost && !$content;
 
   while ($ind1 < @$script1 || $ind2 < @$script2) {
     $column = 1;
@@ -917,7 +919,7 @@ sub print_content {
       $ind2 = $ind1;
     }
   }
-  ante_post('Post') if $antepost;
+  ante_post('Post') if $antepost && !$content;
   table_end();
 }
 
