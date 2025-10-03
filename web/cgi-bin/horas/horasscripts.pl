@@ -279,8 +279,15 @@ sub psalm : ScriptFunc {
 
   # select right Psalm file
   my $fname = "Psalm$psnum.txt";
+  my ($ftone, $ffolder);
 
   if ($lang =~ /gabc/i) {
+
+    # Redirect certain tones for Monastic and Tridentine
+    $psnum =~ s/(,|solemn)(1g3|2|in,dir)$/$1$2-monasticus/ if $version =~ /monastic/i;
+    $psnum =~ s/(,|solemn)([34])([abg])/$1$2-antiquo-$3/ if $version =~ /monastic|1570/i;
+
+    # Deal with formatting specifics necessary for perl scripting
     $fname = ($psnum =~ /,/) ? "$psnum.gabc" : "Psalm$psnum.txt";    # distingiush between chant and text
     $fname =~ s/\:/\./g;
     $fname =~ s/,/-/g;                                               # file name with dash not comma
@@ -288,24 +295,46 @@ sub psalm : ScriptFunc {
     $psnum =~ s/\:/; Part: /;                                        # n-th Part of Psalm
     $psnum =~ s/,,.*?,,//;
     $psnum =~ s/,/; Tonus: /;                                        # name Tone in Psalm headline
+
+    # Extract Tone and folder (also to be used for Doxology)
     $ftone = ($psnum =~ /Tonus: (.*)/) ? $1 : '';
-    $psnum =~ s/in[,-]dir[,-]monasticus|in[,-]directum/in Directum/;
+    $ffolder = ($ftone =~ /^(solemn|\d)/) ? $1 : 'specialis';
+    $ffolder .= '-antiquo' if $ftone =~ /antiquo/;
+
+    if ($ffolder =~ /([18]|solemn)/ && $version =~ /monastic/i) {
+
+      # redirect Monastic tones to the correct files acc. to Roman
+      $fname =~ s/8a/8Gstar/;
+      $fname =~ s/1D$/1D-/;
+      $fname =~ s/1Dstar/1D/;
+      $fname =~ s/1g4/1g3/;
+    }
+
+    # Format and edit the Psalm headline
+    $psnum =~ s/in[,-]dir[,-]monasticus|in[,-]dir/in Directum/;
     $psnum =~ s/-monasticus//;
     $psnum =~ s/(irregularis).*/$1/;
     $psnum =~ s/per$/Peregrinus/;
-    $psnum =~ s/-antiquo-alt-(.*)/$1 alteratus usu antiqui/;
-    $psnum =~ s/-alt-(.*)/$1 alteratus/;
-    $psnum =~ s/3-antiquo-(.*)/3$1 in tenore antiquo/;
-    $psnum =~ s/4-antiquo-(.*)/4$1 usu antiqui/;
+    $psnum =~ s/,antiquo,alt,(.*)/$1 alteratus usu antiqui/;
+    $psnum =~ s/,alt,(.*)/$1 alteratus/;
+    $psnum =~ s/3,antiquo,(.*)/3$1 in tenore antiquo/;
+    $psnum =~ s/4,antiquo,(.*)/4$1 usu antiqui/;
     $psnum =~ s/solemn(.*)/$1; Mediatio solemnis/;
 
-    if (!(-e "$datafolder/$lang/Psalterium/Psalmorum/$fname")) {
+    if (!(-e "$datafolder/$lang/Psalterium/Psalmorum/$ffolder/$fname")) {
       $psnum =~ s/;.*//;
       $fname = "Psalm$psnum.txt";
+      $ffolder = '';
+      $ftone = '';
     }
   }
 
-  my @lines = do_read(checkfile($bea ? 'Latin-Bea' : $lang, "Psalterium/Psalmorum/$fname"));
+  my @lines = do_read(
+    checkfile(
+      $bea ? 'Latin-Bea' : $lang,
+      $ffolder ? "Psalterium/Psalmorum/$ffolder/$fname" : "Psalterium/Psalmorum/$fname",
+    )
+  );
   return "Psalm$psnum not found" unless @lines;
 
   # Prepare title and source if canticle
@@ -374,7 +403,7 @@ sub psalm : ScriptFunc {
       # Add Gloria/Requiem Chant
       my $doxology = 'gloria';
       $doxology = 'requiem' if $commune =~ /C9/ || ($version =~ /monastic/i && $psnum == 129 && $hora eq 'Prima');
-      $fname = "Psalterium/Psalmorum/$doxology-$ftone.gabc";
+      $fname = "Psalterium/Psalmorum/$ffolder/$doxology-$ftone.gabc";
       $fname =~ s/,/-/g;    # file name with dash not comma
       $fname = checkfile($lang, $fname);
       my (@lines) = do_read($fname);

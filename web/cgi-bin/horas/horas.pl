@@ -576,7 +576,7 @@ sub getordinarium {
   # Psalms 3 and 66 in ordinarium get their chanttone here:
   if ($lang =~ /gabc/i) {
     foreach my $line (@script) {
-      $line =~ s/^\&psalm\((\d+)\)/\&psalm(\'$1,in-dir-monasticus\')/;
+      $line =~ s/^\&psalm\((\d+)\)/\&psalm(\'$1,in-dir\')/;
     }
   }
 

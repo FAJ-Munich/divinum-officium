@@ -417,7 +417,7 @@ Per síngulos dies * benedícam te, Dómine;;144:1--monastic--
 [Monastic Vespera] (feria 7)
 {name:Regnum tuum;office-part:Antiphona;annotation:7c2;book:Antiphonale Monasticum, 1934, p. 160;transcriber:gregofacsimil;%%(c3)RE(h)gnum(h) tu(h_i)um,(i) *() Dó(hi__H_G_)mi(f')ne,(h) re(g_f)gnum(e'_) óm(f>)ni(d)um(f') sæ(h)cu(g)ló(e.)rum.(e.) (::)};;'144:2--monastic--,7c2'
 {name:Laudabo;office-part:Antiphona; annotation:4.E;book:Antiphonale Monasticum, 1934, p. 160;transcriber:Harpa Dei;%%(c4) LAu(f)dá(fe)bo(d) *() De(e')um(f) me(g_h)um(g'_) in(f) vi(g)ta(gf) me(e.)a.(e.) (::)};;'145,4E'
-{name:Deo nostro;office-part:Antiphona;annotation:8.a;book:Antiphonale Monasticum, 1934, p. 161;transcriber:Sr. Maria Ruth;%%(c3) DE(h)o(g') no(h)stro(f.) *() ju(ed)cún(e')da(f) sit(g') lau(f>)dá(e)ti(de)o.(e.) (::)};;'146,8Gstar'
+{name:Deo nostro;office-part:Antiphona;annotation:8.a;book:Antiphonale Monasticum, 1934, p. 161;transcriber:Sr. Maria Ruth;%%(c3) DE(h)o(g') no(h)stro(f.) *() ju(ed)cún(e')da(f) sit(g') lau(f>)dá(e)ti(de)o.(e.) (::)};;'146,8a'
 {name:Lauda Jerusalem;office-part:Antiphona;annotation:t. irreg.;book:Antiphonale Monasticum, 1934, p. 162;transcriber:Harpa Dei;%%(c4) Lau(h)da(g') *() Je(g)rú(f')sa(g)lem(ixh_i) Dó(g')mi(ixi)num.(h.) (::)};;'147,irregularis-a'
 
 [Cistercian Ant Vespera]
