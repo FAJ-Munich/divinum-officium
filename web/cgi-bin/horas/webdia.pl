@@ -566,30 +566,31 @@ sub setcell {
         $text =~
           s/\{(\(|name:|annotation:|initial-style:|centering-scheme:)/<DIV ID="GABC$hora$searchind$dId" class="GABC">$1/s;
         $text =~ s/\(\:\:\)\}/\(\:\:\)<\/DIV><DIV ID="GCHANT$hora$searchind$dId" class="GCHANT" width="100\%"><\/DIV>/s;
-        $text =~ s/<i>T\.\s?P\.<\/i>/\_\^T. P.\^\_ /g;    #Tempore Paschalis
-        $text =~ s/<\/?i>/\_/g;                           # italics
+        $text =~
+          s/name:([a-zA-Z\s\.\:]*?)\(([a-zA-Z\s\.\:]*?)\)([a-zA-Z\s\.\:]*?);/$1 $2 $3;/gm; # remove parentheses in title
+        $text =~ s/<i>T\.\s?P\.<\/i>/\_\^T. P.\^\_ /g;                                     #Tempore Paschalis
+        $text =~ s/<\/?i>/\_/g;                                                            # italics
         $text =~ s/<\/?b>|<v>\\greheightstar<\/v>/*/g;
-        $text =~ s/<\/?sc>/\%/g;                          # small capitals
-        $text =~ s/<\/?c>/\^/g;                           # coloured
-        $text =~ s/<\/?e>/\_/g;                           # elisions
-        $text =~ s/<sp>\'(?:ae|æ)<\/sp>/ǽ/g;
-        $text =~ s/<sp>\'(?:oe|œ)<\/sp>/œ́/g;
-        $text =~ s/<sp>(?:ae|æ)<\/sp>/æ/g;
-        $text =~ s/<sp>(?:oe|œ)<\/sp>/œ/g;
-        $text =~ s/\(\:\:\)\s*?<br\/?>\n/(::)\n/gi;       # remove wrong HTML linebreaks
-        $text =~ s/;\s*?<br\/?>\n/;\n/gi;                 # remove wrong HTML linebreaks
-        $text =~ s/%% <br\/?>\n/%%\n/gi;                  # remove wrong HTML linebreaks
-        $text =~ s/%%\(/%%\n\(/gi;                        # insert break at end of header
-        $text =~ s/;([a-z\%\(])/;\n$1/gi;                 # insert break in header
-        $text =~ s/(\(\:\:\)\}?) <br\/?>\n/$1 \n/gi;      # remove wrong HTML linebreaks
-        $text =~ s/\) \* /\) \*() /g;                     # star to be followed by ()
+        $text =~ s/<\/?sc>/\%/g;                                                           # small capitals
+        $text =~ s/<\/?c>/\^/g;                                                            # coloured
+        $text =~ s/<\/?e>/\_/g;                                                            # elisions
+        $text =~ s/<sp>(?:ae|æ)<\/sp>/æ/g;                                                 # various æ spellings
+        $text =~ s/<sp>\'(?:ae|æ)<\/sp>|aé/ǽ/g;
+        $text =~ s/ae\(/æ(/g;
+        $text =~ s/<sp>(?:oe|œ)<\/sp>/œ/g;                                                 # various œ spellings
+        $text =~ s/<sp>\'(?:oe|œ)<\/sp>|oé/œ́/g;
+        $text =~ s/\(\:\:\)\s*?<br\/?>\n/(::)\n/gi;     # remove wrong HTML linebreaks
+        $text =~ s/;\s*?<br\/?>\n/;\n/gi;               # remove wrong HTML linebreaks
+        $text =~ s/%% <br\/?>\n/%%\n/gi;                # remove wrong HTML linebreaks
+        $text =~ s/%%\(/%%\n\(/gi;                      # insert break at end of header
+        $text =~ s/;([a-z\%\(])/;\n$1/gi;               # insert break in header
+        $text =~ s/(\(\:\:\)\}?) <br\/?>\n/$1 \n/gi;    # remove wrong HTML linebreaks
+        $text =~ s/\) \* /\) \*() /g;                   # star to be followed by ()
         $text =~ s/(\([\,\;\:]+\))\s*?(\^?\d+\.\^?|(<sp>)?[VR]\/(<\/sp>)?\.)\s/ $2$1 /gs;
-        $text =~ s/†\(([a-z0-9\_\'\.]+?)\)/($1) ^†^(,) /g;
-
-        #        $text =~ s/\) \^?†\^?\(?\)?/\) ^†^() /g;
+        $text =~ s/†\(([a-z0-9\_\'\.]+?)\)/($1) ^†^(,) /g;    #        $text =~ s/\) \^?†\^?\(?\)?/\) ^†^() /g;
         $text =~ s/(<sp>)?V\/(<\/sp>)?\.?(\(\))?/V\/\.() /g;
         $text =~ s/(<sp>)?R\/(<\/sp>)?\.?(\(\))?/R\/\.() /g;
-        $text =~ s/\.\(\) \(\:\:\)/.(::)/g;               # contract () (::)
+        $text =~ s/\.\(\) \(\:\:\)/.(::)/g;                   # contract () (::)
         $text =~ s/<\/?nlba>//g;
         $text =~ s/\_/\|\|/g;
       }

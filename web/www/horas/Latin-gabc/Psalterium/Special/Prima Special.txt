@@ -87,31 +87,51 @@ Qui corde fundis grátiam.
  
 
 [Hymnus Prima]
-v. Jam lucis orto sídere,
-Deum precémur súpplices,
-Ut in diúrnis áctibus
-Nos servet a nocéntibus.
-_
-Linguam refrénans témperet,
-Ne litis horror ínsonet:
-Visum fovéndo cóntegat,
-Ne vanitátes háuriat.
-_
-Sint pura cordis íntima,
-Absístat et vecórdia;
-Carnis terat supérbiam
-Potus cibíque párcitas.
-_
-Ut, cum dies abscésserit,
-Noctémque sors redúxerit,
-Mundi per abstinéntiam
-Ipsi canámus glóriam.
-_
-* Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sǽculum.
-Amen.
+{gabc:Psalterium/Feria/hy--jam_lucis_orto_sidere_in_feriis_et_fest._simpl.--solesmes} 
+(sed tonus dominicalis aut tonus festivus minor aut tonus 8vam aut tonus festivus$)
+{gabc:Psalterium/Dominica/hy--jam_lucis_orto_sidere_in_dom._et_minor._festis--solesmes}
+(sed tonus festivus major)
+{gabc:Psalterium/Festis_major/hy--jam_lucis_orto_sidere_in_major._festis--solesmes}
+(sed tempore adventu)
+{gabc:Psalterium/Adventu/hy--jam_lucis_orto_sidere_in_adventu--solesmes_1961.1}
+(sed tempore quadragesimæ)
+{gabc:Psalterium/Quadragesima/hy--jam_lucis_orto_sidere_in_tempore_quadragesimae--}
+(sed tonus solemnis)
+{gabc:Psalterium/Festis_major/hy--jam_lucis_orto_sidere_in_major._festis--solesmes}
+(sed tempore Passionis)
+{gabc:Psalterium/Passionis/hy--jam_lucis_orto_sidere_in_tempore_passionis--}
+(sed tempore Nativitatis aut tempore Corpus)
+{gabc:Psalterium/Nativitate/hy--jam_lucis_orto_sidere_tempore_nativitatis--}
+(sed tempore Nativitatis et rubrica 1960 aut tempore Corpus et rubrica 1960)
+{gabc:Psalterium/Nativitate/hy--jam_lucis_orto_sidere_tempore_nativitatis--solesmes_1961}
+(sed tempore Epiphaniæ)
+{gabc:Psalterium/Nativitate/hy--jam_lucis_orto_sidere_tempore_epiphaniae--}
+(sed tempore Epiphaniæ et rubrica 1960)
+{gabc:Psalterium/Nativitate/hy--jam_lucis_orto_sidere_tempore_epiphaniae--solesmes_1961}
+(sed tempore Pasc)
+{gabc:Psalterium/Pascha/hy--jam_lucis_orto_sidere_in_tempore_paschali--}
+(sed tempore Pasc et rubrica 1960)
+{gabc:Psalterium/Pascha/hy--jam_lucis_orto_sidere_in_tempore_paschali--solesmes_1961.1}
+(sed tempore Ascensionis)
+{gabc:Psalterium/Pascha/hy--jam_lucis_orto_sidere_in_ascensione--}
+(sed tempore Ascensionis et rubrica 1960)
+{gabc:Psalterium/Pascha/hy--jam_lucis_orto_sidere_in_ascensione--solesmes_1961}
+(sed tempore Pentecostes)
+{gabc:Psalterium/Pascha/hy--jam_lucis_orto_sidere_in_pentecoste--}
+(sed tempore Pentecostes et rubrica 1960)
+{gabc:Psalterium/Pascha/hy--jam_lucis_orto_sidere_in_pentecoste--solesmes_1961}
+(sed tempore Cordis)
+{gabc:Tempora/Cordis/hy--jam_lucis_orto_sidere_in_festo_s._cordis_jesu--}
+(sed tempore Cordis et rubrica 1960)
+{gabc:Tempora/Cordis/hy--jam_lucis_orto_sidere_in_festo_s._cordis_jesu--solesmes_1961}
+(sed die transfigurationis nisi rubrica 1960)
+{gabc:Sancti/08-06/hy--jam_lucis_orto_sidere_in_transfiguratione--}
+(sed die regis nisi rubrica 1960)
+{gabc:Sancti/10-DU/hy--jam_lucis_orto_sidere_in_festo_christi_regis--solesmes}
+(sed commune C11 aut tonus BMV nisi rubrica 1960)
+{gabc:Commune/C11/hy--jam_lucis_orto_sidere_in_festis_bmv--.1}
+(sed die septem doloris nisi rubrica 1960)
+{gabc:Sancti/09-15/hy--jam_lucis_orto_sidere_septem_dolorum--}
 
 [HymnusM Prima]
 {gabc:Psalterium/Feria/hy--jam_lucis_orto_sidere_feriis_et_officiis_simplicibus_per_annum--solesmes_1934}
@@ -119,7 +139,7 @@ Amen.
 {gabc:Psalterium/Dominica/hy--jam_lucis_orto_sidere_dominicis_per_annum--solesmes_1934}
 (sed tempore adventu)
 {gabc:Psalterium/Adventu/hy--jam_lucis_orto_sidere_tempore_adventus--solesmes_1934}
-(sed tempore quadragesima)
+(sed tempore quadragesimæ)
 {gabc:Psalterium/Quadragesima/hy--jam_lucis_orto_sidere_in_quadragesima--solesmes_1934}
 (sed tempore Passionis)
 {gabc:Psalterium/Passionis/hy--jam_lucis_orto_sidere_in_tempore_passionis--solesmes_1934}
@@ -137,8 +157,14 @@ Amen.
 {gabc:Psalterium/Pascha/hy--jam_lucis_orto_sidere_in_tempore_ascensionis--solesmes_1934}
 (sed tempore Pentecostes)
 {gabc:Psalterium/Pascha/hy--jam_lucis_orto_sidere_in_festo_pentecostes--solesmes_1934}
+(sed tempore Cordis)
+{gabc:Tempora/Cordis/hy--jam_lucis_orto_sidere_in_festo_s._cordis_jesu--solesmes_1934}
+(sed die regis)
+{gabc:Sancti/10-DU/hy--jam_lucis_orto_sidere_in_festo_christi_regis--solesmes_1934}
 (sed commune C11 aut tonus BMV) 
 {gabc:Commune/C11/hy--jam_lucis_orto_sidere_in_festis_bmv--solesmes_1934}
+(sed die septem doloris)
+{gabc:Sancti/09-15/hy--jam_lucis_orto_sidere_in_festo_christi_regis--solesmes_1934}
 
 [Preces Dominicales Prima 1]
 $rLitany simplex
