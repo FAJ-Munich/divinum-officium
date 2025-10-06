@@ -8,7 +8,7 @@ Feria VI = Dóminum, Deum nostrum, * Veníte, adorémus.
 Sabbato = Pópulus Dómini, et oves páscuæ ejus: * Veníte, adorémus.
 Invit 1 = Adorémus Dóminum, * Quóniam ipse fecit nos.
 
-[Invit Trid]
+[Invit Trid_]
 Dominica=Adorémus Dóminum, * Qui fecit nos.
 Feria II=Veníte, * Exsultémus Dómino.
 Feria III=Jubilémus Deo, * Salutári nostro.
@@ -26,10 +26,10 @@ Prope est jam Dóminus, * Veníte, adorémus.
 [Invit Quad]
 Non sit vobis vanum mane súrgere ante lucem: * Quia promísit Dóminus corónam vigilántibus.
 
-[Invit Quad5]
+[Invit Quad5_]
 Hódie, si vocem Dómini audiéritis, * Nolíte obduráre corda vestra.
 
-[Invit Pasch]
+[Invit Pasch_]
 Surréxit Dóminus vere, * Allelúja.
 
 [Day0 Hymnus]
@@ -171,9 +171,6 @@ Cum Spíritu Paráclito
 Regnans per omne sǽculum.
 Amen.
 
-[Day2 HymnusM]
-@:Day2 Hymnus
-
 [Day2 Hymnus]
 {:H-MatFeria:}v. Consors patérni lúminis,
 Lux ipse lucis, et dies,
@@ -225,9 +222,6 @@ Patríque compar Únice,
 Cum Spíritu Paráclito
 Regnans per omne sǽculum.
 Amen.
-
-[Day4 HymnusM]
-@:Day4 Hymnus
 
 [Day4 Hymnus]
 {:H-MatFeria:}v. Nox atra rerum cóntegit
@@ -609,7 +603,7 @@ R. In omni témpore.
 &Gloria
 R. Benedícam Dóminum * In omni témpore.
 
-[MM LB2]
+[MM LB2_]
 !Prov 3:19-20
 v. Dóminus sapiéntia fundávit terram: stabilívit cælos prudéntia. Sapiéntia illíus erupérunt abýssi, et nubes rore concréscunt.
 $Tu autem
@@ -621,7 +615,7 @@ R. Salvum me fac.
 &Gloria
 R. Deus, in nómine tuo * salvum me fac.
 
-[MM LB3]
+[MM LB3_]
 !Sap 1:1-2
 v. Dilígite justítiam, qui judicátis terram. Sentíte de Dómino in bonitáte, et in simplicitáte cordis quǽrite illum: quóniam invenítur ab his qui non tentant illum, appáret autem eis qui fidem habent in illum.
 $Tu autem
@@ -633,7 +627,7 @@ R. Non confúndar in ætérnum.
 &Gloria
 R. In te, Dómine, sperávi: * non confúndar in ætérnum.
 
-[MM LB4]
+[MM LB4_]
 !Sap 3:9
 v. Qui confídunt in illo intélligent veritátem, et fidéles in dilectióne acquiéscent illi: quóniam donum et pax est eléctis ejus.
 $Tu autem
@@ -657,7 +651,7 @@ R. In ætérnum cantábo.
 &Gloria
 R. Misericórdias tuas Dómine * in ætérnum cantábo.
 
-[MM LB6]
+[MM LB6_]
 !Eccl 12:2-3
 v. Bénefac justo, et invénies retributiónem magnam: et si non ab ipso, certe a Dómino. Non est enim ei bene qui assíduus est in malis, et eleemósynas non danti: quóniam et Altíssimus ódio habet peccatóres, et misértus est pœniténtibus.
 $Tu autem
@@ -670,7 +664,7 @@ R. Exáudi oratiónem meam.
 &Gloria
 R. Dómine, * exáudi oratiónem meam.
 
-[MM Capitulum]
+[MM Capitulum_]
 !1 Cor 16:13-14
 v. Vigiláte, state in fide, viríliter ágite, et confortámini. Ómnia vestra in caritáte fiant.
 $Deo gratias
@@ -678,7 +672,7 @@ _
 V. Beáti hábitant in domo tua, Dómine.
 R. In sǽcula sæculórum laudábunt te.
 
-[MM Capitulum Adv]
+[MM Capitulum Adv_]
 !Titus 2:12-13
 v. Sóbrie, et juste, et pie vivámus in hoc sǽculo, exspectántes beátam spem, et advéntum glóriæ magni Dei, et Salvatóris nostri Jesu Christi.
 $Deo gratias

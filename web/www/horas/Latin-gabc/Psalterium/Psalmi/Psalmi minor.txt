@@ -162,7 +162,7 @@ Sabbato = Intret orátio mea * in conspéctu tuo, Dómine.
 4 = 
 5 = Per arma justítiæ * virtútis Dei commendémus nosmetípsos in multa patiéntia.;;1f
 
-[Quad5]
+[Quad5_]
 1 = Líbera me, Dómine, * et pone me juxta te: et cujúsvis manus pugnet contra me.;;;;1a2
 2 = Judicásti, Dómine, * causam ánimæ meæ, defénsor vitæ meæ, Dómine, Deus meus.;;4-antiquo-alt-Astar
 3 = Pópule meus, * quid feci tibi? aut quid moléstus fui? Respónde mihi.;;4-antiquo-alt-A
@@ -176,6 +176,20 @@ Sabbato = Intret orátio mea * in conspéctu tuo, Dómine.
 4 = 
 5 = {(f3) AL(h)le(hi)lú(ih)ja,(f!gw!h_GE.) *(,) al(hj)le(j)lú(ij)ja,(h_GF') al(g)le(ef)lú(f.)ja.(f.) (::)};;;;2
 Completorium = {(c4) AL(g)le(g')lú(h)ja,(gf__) *(,) al(h)le(j)lú(i_0j)ja,(h_GF) al(gh)le(h)lú(g.)ja.(g.) (::)};;;;8G
+
+[Pasch] (rubrica monastica)
+Prima Dominica={(c3) AL(e)le(e)lú(ei)ja,(i.) *() al(h)le(g)lú(hi~)ja,(i.) (;) al(j)le(i)lú(hhg~)ja,(f') al(g)le(f)lú(e.)ja.(e.) (::)};;;;7d
+Prima Feria={(c4) AL(g)le(g)lú(gj)ja,(h_') *() al(h)le(g')lú(h)ja,(g.) (;) al(g)le(f')lú(g)ja,(h') al(i)le(hg)lú(h)ja.(g.) (::)};;;;8G
+Tertia Dominica={(c4) AL(g)le(g)lú(gj)ja,(h_') *() al(h)le(g')lú(h)ja,(g.) (;) al(g)le(f')lú(g)ja,(h') al(i)le(hg)lú(h)ja.(g.) (::)};;;;8G
+Tertia Feria II={(c3) AL(e)le(h')lú(h)ja,(g') *() al(e)le(g')lú(h)ja,(f.) (;) al(f)le(e')lú(f)ja,(f') al(g)le(f)lú(e.)ja.(e.) (::)};;;;8G
+Tertia Hebdomadam={(c4) AL(h)le(h')lú(h)ja,(g'_) *() al(h)le(g)lú(h)ja,(g'_) (,) al(g)le(f')lú(g)ja,(h') al(ixi)le(g')lú(i)ja.(h) (::)};;;;irregularis-a
+Sexta Dominica={(c4) AL(f)le(fg)lú(gh)ja,(f'_) *() al(f)le(fg)lú(gf~)ja,(d!ewfEC.) (;) al(c)le(d)lú(ffg)ja,(fe) al(g)le(gh)lú(f.)ja.(f.) (::)};;;;6
+Sexta Feria II={(c3) AL(h)le(g')lú(h)ja,(f_') *() al(h)le(e')lú(f)ja,(e_d) (,) al(e)le(d')lú(e)ja,(f') al(g)le(fe)lú(f)ja.(e.) (::)};;;;8a
+Sexta Hebdomadam={(c4) AL(h)le(fg)lú(g)ja,(g_') *() al(g)le(h!iwj)lú(j_h)ja,(i_0j) (,) al(h)le(h)lú(g')ja,(h) al(i')le(h)lú(g.)ja.(g.) (::)};;;;8G
+Nona Dominica={(c3)AL(e)le(f)lú(h_i)ja,(ii) (,) al(h_i)le(j_h)lú(i.)ja,(i.) (;) al(f_i)le(h_g)lú(f_e)ja,(f_e) (,) al(d_e)le(f_h)lú(f.)ja.(f.) (::)};;;;4-antiquo-alt-Astar
+Nona Feria II={(c4) AL(d_h)le(h_0i)lú(h)ja,(g_') *() al(f)le(gh)lú(fe)ja,(d!ewf.) (;) al(fg)le(f)lú(fe)ja,(dc) al(d)le(fe)lú(d.)ja.(d.) (::)};;;;1a2
+Nona Hebdomadam={(f3) AL(f)le(h)lú(h_g~)ja,(f_') *() al(g)le(e')lú(f)ja,(e.) (;) al(f)le(h)lú(hg)ja,(fe) al(f)le(gh)lú(f.)ja.(f.) (::)};;;;2
+Completorium={name:Alleluja;annotation:8.G;%%(c4) AL(g)le(g')lú(h)ja,(gf__) *(,) al(h)le(j)lú(i_0j)ja,(h_GF) al(gh)le(h)lú(g.)ja.(g.) (::)};;;;8G
 
 [Tridentinum]
 Prima Dominica=Allelúja, * allelúja, allelúja;;53,117,118:1,118:2
@@ -195,7 +209,7 @@ Nona Dominica=Allelúja, * allelúja, allelúja;;118:9,118:10,118:11
 Nona Feria=Áspice * in me, et miserére mei Dómine;;118:9,118:10,118:11
 Completorium={name:Miserere;annotation:8.G;%%(c4) Mi(g)se(g')ré(h)re(gf..) *() mi(gh)hi,(h') Dó(g)mi(fg)ne,(g.) (;) et(h) ex(j)áu(i_0j)di(h) o(h)ra(hg)ti(f)ó(gh)nem(h) me(h.)am(h.) (::)};;4,30:TridC,90,133;;8G
 
-[Monastic]
+[Monastic_]
 Prima Dominica={(c3) AL(h_g~)le(f)lú(hi~)ja,(i.) *() al(ij)le(hf)lú(g)ja,(f_e) al(f)le(fhg)lú(e.)ja.(e.) (::)};;118:1--monastic--,118:2--monastic--,118:3--monastic--,118:4--monastic--;;7c2
 Prima Feria II=Servíte Dómino * in timóre: et exsultáte ei cum tremóre.;;1,2,6;;8G
 Prima Feria III=Deus judex justus, * fortis et longánimis: numquid irascétur per síngulos dies?;;7,8,9:1--monastic--;;8G
@@ -213,18 +227,7 @@ Sexta Feria=Qui hábitas * in cælis, miserére nobis.;;122,123,124;;8G
 Nona Dominica={(c4)AL(g)le(hi)lú(hgi~)ja,(i'_) al(j)le(hg)lú(h)ja,(gf) al(g)le(gf)lú(e.)ja.(e.) (::)};;118:11--monastic--,118:12--monastic--,118:13--monastic--;;3-antiquo-a
 Nona Feria II=Fiat manus tua, * Dómine, ut salvet me: quóniam mandáta tua elégi.;;118:20--monastic--,118:21--monastic--,118:22--monastic--;;1a2
 Nona Feria=Beáti omnes, * qui timent Dóminum.;;125,126,127;;2
-Completorium={name:Miserere;annotation:8.G;%%(c4) Mi(g)se(g')ré(h)re(gf..) *() mi(gh)hi,(h') Dó(g)mi(fg)ne,(g.) (;) et(h) ex(j)áu(i_0j)di(h) o(h)ra(hg)ti(f)ó(gh)nem(h) me(h.)am(h.) (::)};;4,90,133;;8G
 
-[Pasch] (rubrica monastica)
-Prima Dominica={(c3) AL(e)le(e)lú(ei)ja,(i.) *() al(h)le(g)lú(hi~)ja,(i.) (;) al(j)le(i)lú(hhg~)ja,(f') al(g)le(f)lú(e.)ja.(e.) (::)};;;;7d
-Prima Feria={(c4) AL(g)le(g)lú(gj)ja,(h_') *() al(h)le(g')lú(h)ja,(g.) (;) al(g)le(f')lú(g)ja,(h') al(i)le(hg)lú(h)ja.(g.) (::)};;;;8G
-Tertia Dominica={(c4) AL(g)le(g)lú(gj)ja,(h_') *() al(h)le(g')lú(h)ja,(g.) (;) al(g)le(f')lú(g)ja,(h') al(i)le(hg)lú(h)ja.(g.) (::)};;;;8G
-Tertia Feria II={(c3) AL(e)le(h')lú(h)ja,(g') *() al(e)le(g')lú(h)ja,(f.) (;) al(f)le(e')lú(f)ja,(f') al(g)le(f)lú(e.)ja.(e.) (::)};;;;8G
-Tertia Hebdomadam={(c4) AL(h)le(h')lú(h)ja,(g'_) *() al(h)le(g)lú(h)ja,(g'_) (,) al(g)le(f')lú(g)ja,(h') al(ixi)le(g')lú(i)ja.(h) (::)};;;;irregularis-a
-Sexta Dominica={(c4) AL(f)le(fg)lú(gh)ja,(f'_) *() al(f)le(fg)lú(gf~)ja,(d!ewfEC.) (;) al(c)le(d)lú(ffg)ja,(fe) al(g)le(gh)lú(f.)ja.(f.) (::)};;;;6
-Sexta Feria II={(c3) AL(h)le(g')lú(h)ja,(f_') *() al(h)le(e')lú(f)ja,(e_d) (,) al(e)le(d')lú(e)ja,(f') al(g)le(fe)lú(f)ja.(e.) (::)};;;;8a
-Sexta Hebdomadam={(c4) AL(h)le(fg)lú(g)ja,(g_') *() al(g)le(h!iwj)lú(j_h)ja,(i_0j) (,) al(h)le(h)lú(g')ja,(h) al(i')le(h)lú(g.)ja.(g.) (::)};;;;8G
-Nona Dominica={(c3)AL(e)le(f)lú(h_i)ja,(ii) (,) al(h_i)le(j_h)lú(i.)ja,(i.) (;) al(f_i)le(h_g)lú(f_e)ja,(f_e) (,) al(d_e)le(f_h)lú(f.)ja.(f.) (::)};;;;4-antiquo-alt-Astar
-Nona Feria II={(c4) AL(d_h)le(h_0i)lú(h)ja,(g_') *() al(f)le(gh)lú(fe)ja,(d!ewf.) (;) al(fg)le(f)lú(fe)ja,(dc) al(d)le(fe)lú(d.)ja.(d.) (::)};;;;1a2
-Nona Hebdomadam={(f3) AL(f)le(h)lú(h_g~)ja,(f_') *() al(g)le(e')lú(f)ja,(e.) (;) al(f)le(h)lú(hg)ja,(fe) al(f)le(gh)lú(f.)ja.(f.) (::)};;;;2
-Completorium={name:Alleluja;annotation:8.G;%%(c4) AL(g)le(g')lú(h)ja,(gf__) *(,) al(h)le(j)lú(i_0j)ja,(h_GF) al(gh)le(h)lú(g.)ja.(g.) (::)};;;;8G
+[Monastic]
+@:Monastic_
+Completorium={name:Miserere;annotation:8.G;%%(c4) Mi(g)se(g')ré(h)re(gf..) *() mi(gh)hi,(h') Dó(g)mi(fg)ne,(g.) (;) et(h) ex(j)áu(i_0j)di(h) o(h)ra(hg)ti(f)ó(gh)nem(h) me(h.)am(h.) (::)};;4,90,133;;8G

@@ -32,9 +32,6 @@ R. In ætérnum, Dómine, * Pérmanet verbum tuum.
 V. Dóminus regit me, et nihil mihi déerit.
 R. In loco páscuæ ibi me collocávit.
 
-[Responsory Dominica SextaM]
-@:Versum Dominica Sexta
-
 [Dominica Nona]
 !1 Cor 6:20
 v. Empti enim estis prétio magno. Glorificáte et portáte Deum in córpore vestro.
@@ -426,21 +423,45 @@ R. Quóniam advesperáscit, allelúja.
 {gabc:Tempora/Pascha/hy--veni_creator_spiritus--solesmes_1934}
 
 [Hymnus Tertia]
-v. Nunc, Sancte, nobis, Spíritus,
-Unum Patri cum Fílio,
-Dignáre promptus íngeri
-Nostro refúsus péctori.
-_
-Os, lingua, mens, sensus, vigor
-Confessiónem pérsonent.
-Flamméscat igne cáritas,
-Accéndat ardor próximos.
-_
-* Præsta, Pater piíssime,
-Patríque compar Únice,
-Cum Spíritu Paráclito
-Regnans per omne sǽculum.
-Amen.
+{gabc:Psalterium/Feria/hy--nunc_sancte_nobis_in_feriis_per_annum--solesmes_1961.1}
+(sed tonus dominicalis aut tonus festivus minor aut tonus 8vam aut tonus festivus$)
+{gabc:Psalterium/Dominica/hy--nunc_sancte_nobis_spiritus_in_dom._et_minor._fest.--solesmes.1}
+(sed tonus festivus major aut tonus solemnis)
+{gabc:Psalterium/Festis_major/hy--nunc_sancte_nobis_spiritus_in_major._festis--solesmes}
+(sed tempore adventu nisi tonus solemnis)
+{gabc:Psalterium/Adventu/hy--nunc_sancte_nobis_in_adventu--solesmes_1961.1}
+(sed tempore Quadragesimæ nisi tonus solemnis)
+{gabc:Psalterium/Quadragesima/hy--nunc_sancte_nobis_spiritus_in_quadragesima--solesmes}
+(sed tempore Passionis)
+{gabc:Psalterium/Passionis/hy--nunc_sancte_nobis_spiritus_temp._passionis--solesmes}
+(sed tempore Nativitatis aut tempore Corpus)
+{gabc:Psalterium/Nativitate/hy--nunc_sancte_nobis_spiritus_in_nativ._domini--solesmes}
+(sed tempore Nativitatis et rubrica 1960 aut tempore Corpus et rubrica 1960)
+{gabc:Psalterium/Nativitate/hy--nunc_sancte_nobis_in_nativitate_domini--solesmes_1961.1}
+(sed tempore Epiphaniæ)
+{gabc:Psalterium/Nativitate/hy--nunc_sancte_nobis_spiritus_in_epiphania--solesmes}
+(sed tempore Epiphaniæ et rubrica 1960)
+{gabc:Psalterium/Nativitate/hy--nunc_sancte_nobis_in_epiphania_domini--solesmes_1961.1}
+(sed tempore Pasc)
+{gabc:Psalterium/Pascha/hy--nunc_sancte_nobis_spiritus_in_tempore_paschali--}
+(sed tempore Pasc et rubrica 1960)
+{gabc:Psalterium/Pascha/hy--nunc_sancte_nobis_in_tempore_paschali--solesmes_1961}
+(sed tempore Ascensionis)
+{gabc:Psalterium/Pascha/hy--nunc_sancte_nobis_spiritus_in_ascensione--solesmes}
+(sed tempore Ascensionis et rubrica 1960)
+{gabc:Psalterium/Pascha/hy--nunc_sancte_nobis_in_ascensione--solesmes_1961.1}
+(sed tempore Cordis)
+{gabc:Tempora/Cordis/hy--nunc_sancte_nobis_spiritus_in_sacratis._cordi._jesu--solesmes}
+(sed tempore Cordis et rubrica 1960)
+{gabc:Tempora/Cordis/hy--nunc_sancte_nobis_in_festo_s._cordis_jesu--solesmes_1961.1}
+(sed die transfigurationis nisi rubrica 1960)
+{gabc:Sancti/08-06/hy--nunc_sancte_nobis_spiritus_in_transfiguratione--}
+(sed die regis nisi rubrica 1960)
+{gabc:Sancti/10-DU/hy--nunc_sancte_nobis_spiritus_in_festo_d._n._j._c._regis--solesmes}
+(sed commune C11 aut tonus BMV nisi rubrica 1960)
+{gabc:Commune/C11/hy--nunc_sancte_nobis_in_festis_bmv--solesmes_1961.1}
+(sed die septem doloris nisi rubrica 1960)
+{gabc:Sancti/09-15/hy--nunc_sancte_nobis_spiritus_septem_dolorum--}
 
 [HymnusM Tertia]
 {gabc:Psalterium/Feria/hy--nunc_sancte_nobis_in_feriis_per_annum--solesmes_1934}
@@ -448,7 +469,7 @@ Amen.
 {gabc:Psalterium/Dominica/hy--nunc_sancte_nobis_in_dominicis_per_annum--solesmes_1934}
 (sed tempore adventu)
 {gabc:Psalterium/Adventu/hy--nunc_sancte_nobis_in_adventu--solesmes_1934}
-(sed tempore quadragesima)
+(sed tempore Quadragesimæ)
 {gabc:Psalterium/Quadragesima/hy--nunc_sancte_nobis_in_quadragesima--solesmes_1934}
 (sed tempore Passionis)
 {gabc:Psalterium/Passionis/hy--nunc_sancte_nobis_in_tempore_passionis--solesmes_1934}
@@ -464,25 +485,59 @@ Amen.
 {gabc:Psalterium/Pascha/hy--nunc_sancte_nobis_in_tempore_paschali--solesmes_1934}
 (sed tempore Ascensionis)
 {gabc:Psalterium/Pascha/hy--nunc_sancte_nobis_in_tempore_ascensionis--solesmes_1934}
+(sed tempore Cordis)
+{gabc:Tempora/Cordis/hy--nunc_sancte_nobis_in_festo_s._cordis_jesu--solesmes_1934}
+(sed die regis)
+{gabc:Sancti/10-DU/hy--nunc_sancte_nobis_in_festo_christi_regis--solesmes_1934}
 (sed commune C11 aut tonus BMV)
 {gabc:Commune/C11/hy--nunc_sancte_nobis_in_festis_bmv--solesmes_1934}
+(sed die septem doloris)
+{gabc:Sancti/09-15/hy--nunc_sancte_nobis_in_festo_septem_dolorum_bmv--solesmes_1934}
 
 [Hymnus Sexta]
-v. Rector potens, verax Deus,
-Qui témperas rerum vices,
-Splendóre mane illúminas,
-Et ígnibus merídiem:
-_
-Exstíngue flammas lítium,
-Aufer calórem nóxium,
-Confer salútem córporum,
-Verámque pacem córdium.
-_
-* Præsta, Pater piíssime,
-Patríque compar Únice,
-Cum Spíritu Paráclito
-Regnans per omne sǽculum.
-Amen.
+{gabc:Psalterium/Feria/hy--rector_potens_verax_deus_in_fer._et_fest._simpl.--solesmes}
+(sed tonus dominicalis aut tonus festivus minor aut tonus 8vam aut tonus festivus$)
+{gabc:Psalterium/Dominica/hy--rector_potens_verax_deus_in_dom._et_minor._festis--solesmes}
+(sed tonus festivus major aut tonus solemnis)
+{gabc:Psalterium/Festis_major/hy--rector_potens_verax_deus_in_major._festis--solesmes}
+(sed tempore adventu nisi tonus solemnis)
+{gabc:Psalterium/Adventu/hy--rector_potens_in_adventu--solesmes_1961}
+(sed tempore Quadragesimæ nisi tonus solemnis)
+{gabc:Psalterium/Quadragesima/hy--rector_potens_verax_deus_in_quadragesima--}
+(sed tempore Passionis)
+{gabc:Psalterium/Passionis/hy--rector_potens_verax_deus_in_tempore_passionis--}
+(sed tempore Nativitatis aut tempore Corpus)
+{gabc:Psalterium/Nativitate/hy--rector_potens_verax_deus_in_tempore_nativitatis--}
+(sed tempore Nativitatis et rubrica 1960 aut tempore Corpus et rubrica 1960)
+{gabc:Psalterium/Nativitate/hy--rector_potens_verax_deus_in_tempore_nativitatis--1961}
+(sed tempore Epiphaniæ)
+{gabc:Psalterium/Nativitate/hy--rector_potens_verax_deus_in_tempore_epiphaniae--}
+(sed tempore Epiphaniæ et rubrica 1960)
+{gabc:Psalterium/Nativitate/hy--rector_potens_verax_deus_in_tempore_epiphaniae--1961}
+(sed tempore Pasc)
+{gabc:Psalterium/Pascha/hy--rector_potens_verax_deus_in_tempore_paschali--}
+(sed tempore Pasc et rubrica 1960)
+{gabc:Psalterium/Pascha/hy--rector_potens_in_tempore_paschali--solesmes_1961.1}
+(sed tempore Ascensionis)
+{gabc:Psalterium/Pascha/hy--rector_potens_verax_deus_in_ascensione--}
+(sed tempore Ascensionis et rubrica 1960)
+{gabc:Psalterium/Pascha/hy--rector_potens_in_ascensione--solesmes_1961}
+(sed tempore Pentecostes)
+{gabc:Psalterium/Pascha/hy--rector_potens_verax_deus_in_pentecoste--}
+(sed tempore Pentecostes et rubrica 1960)
+{gabc:Psalterium/Pascha/hy--rector_potens_in_pentecoste--solesmes_1961}
+(sed tempore Cordis)
+{gabc:Tempora/Cordis/hy--rector_potens_in_festo_s._cordis_jesu--solesmes}
+(sed tempore Cordis et rubrica 1960)
+{gabc:Tempora/Cordis/hy--rector_potens_in_festo_s._cordis_jesu--solesmes_1961}
+(sed die transfigurationis nisi rubrica 1960)
+{gabc:Sancti/08-06/hy--rector_potens_verax_deus_in_transfiguratione--}
+(sed die regis nisi rubrica 1960)
+{gabc:Sancti/10-DU/hy--rector_potens_in_festo_d._n._j._c._regis--solesmes}
+(sed commune C11 aut tonus BMV nisi rubrica 1960)
+{gabc:Commune/C11/hy--rector_potens_verax_deus_in_festis_bmv--}
+(sed die septem doloris nisi rubrica 1960)
+{gabc:Sancti/09-15/hy--rector_potens_verax_deus_septem_dolorum--}
 
 [HymnusM Sexta]
 {gabc:Psalterium/Feria/hy--rector_potens_in_feriis_per_annum--solesmes_1934}
@@ -490,7 +545,7 @@ Amen.
 {gabc:Psalterium/Dominica/hy--rector_potens_in_dominicis_per_annum--solesmes_1934}
 (sed tempore adventu)
 {gabc:Psalterium/Adventu/hy--rector_potens_in_adventu--solesmes_1934}
-(sed tempore quadragesima)
+(sed tempore Quadragesimæ)
 {gabc:Psalterium/Quadragesima/hy--rector_potens_in_quadragesima--solesmes_1934}
 (sed tempore Passionis)
 {gabc:Psalterium/Passionis/hy--rector_potens_in_tempore_passionis--solesmes_1934}
@@ -508,25 +563,59 @@ Amen.
 {gabc:Psalterium/Pascha/hy--rector_potens_in_tempore_ascensionis--solesmes_1934}
 (sed tempore Pentecostes)
 {gabc:Psalterium/Pascha/hy--rector_potens_in_festo_pentecostes--solesmes_1934}
-(sed commune C11 aut tonus BMV) 
+(sed tempore Cordis)
+{gabc:Tempora/Cordis/hy--rector_potens_in_festo_s._cordis_jesu--solesmes_1934}
+(sed die regis)
+{gabc:Sancti/10-DU/hy--rector_potens_in_festo_christi_regis--solesmes_1934}
+(sed commune C11 aut tonus BMV)
 {gabc:Commune/C11/hy--rector_potens_in_festis_bmv--solesmes_1934}
+(sed die septem doloris)
+{gabc:Sancti/09-15/hy--rector_potens_in_festo_septem_dolorum_bmv--solesmes_1934}
 
 [Hymnus Nona]
-v. Rerum, Deus, tenax vigor,
-Immótus in te pérmanens,
-Lucis diúrnæ témpora
-Succéssibus detérminans:
-_
-Largíre lumen véspere,
-Quo vita nusquam décidat,
-Sed prǽmium mortis sacræ
-Perénnis instet glória.
-_
-* Præsta, Pater piíssime,
-Patríque compar Únice,
-Cum Spíritu Paráclito
-Regnans per omne sǽculum.
-Amen.
+{gabc:Psalterium/Feria/hy--rerum_deus_tenax_vigor_in_fer._et_fest._simpl.--solesmes}
+(sed tonus dominicalis aut tonus festivus minor aut tonus 8vam aut tonus festivus$)
+{gabc:Psalterium/Dominica/hy--rerum_deus_tenax_vigor_in_dom._et_minor._festis--solesmes}
+(sed tonus festivus major aut tonus solemnis)
+{gabc:Psalterium/Festis_major/hy--rerum_deus_tenax_vigor_in_major._festis--solesmes.1}
+(sed tempore adventu nisi tonus solemnis)
+{gabc:Psalterium/Adventu/hy--rerum_deus_in_adventu--solesmes_1961}
+(sed tempore Quadragesimæ nisi tonus solemnis)
+{gabc:Psalterium/Quadragesima/hy--rerum_deus_tenax_vigor_in_quadragesima--}
+(sed tempore Passionis)
+{gabc:Psalterium/Passionis/hy--rerum_deus_tenax_vigor_in_tempore_passionis--}
+(sed tempore Nativitatis aut tempore Corpus)
+{gabc:Psalterium/Nativitate/hy--rerum_deus_tenax_vigor_tempore_nativitatis--}
+(sed tempore Nativitatis et rubrica 1960 aut tempore Corpus et rubrica 1960)
+{gabc:Psalterium/Nativitate/hy--rerum_deus_tenax_vigor_tempore_nativitatis--1961}
+(sed tempore Epiphaniæ)
+{gabc:Psalterium/Nativitate/hy--rerum_deus_tenax_vigor_tempore_epiphaniae--}
+(sed tempore Epiphaniæ et rubrica 1960)
+{gabc:Psalterium/Nativitate/hy--rerum_deus_tenax_vigor_tempore_epiphaniae--1961}
+(sed tempore Pasc)
+{gabc:Psalterium/Pascha/hy--rerum_deus_tenax_vigor_in_tempore_paschali--}
+(sed tempore Pasc et rubrica 1960)
+{gabc:Psalterium/Pascha/hy--rector_potens_in_tempore_paschali--solesmes_1961.1}
+(sed tempore Ascensionis)
+{gabc:Psalterium/Pascha/hy--rerum_deus_tenax_vigor_in_ascensione--}
+(sed tempore Ascensionis et rubrica 1960)
+{gabc:Psalterium/Pascha/hy--rerum_deus_tenax_vigor_in_ascensione--solesmes_1961}
+(sed tempore Pentecostes)
+{gabc:Psalterium/Pascha/hy--rerum_deus_tenax_vigor_in_pentecoste--}
+(sed tempore Pentecostes et rubrica 1960)
+{gabc:Psalterium/Pascha/hy--rerum_deus_tenax_vigor_in_pentecoste--solesmes_1961}
+(sed tempore Cordis)
+{gabc:Tempora/Cordis/hy--rerum_deus_tenax_vigor_in_festo_s._cordis_jesu--solesmes}
+(sed tempore Cordis et rubrica 1960)
+{gabc:Tempora/Cordis/hy--rerum_deus_tenax_vigor_in_festo_s._cordis_jesu--solesmes_1961}
+(sed die transfigurationis nisi rubrica 1960)
+{gabc:Sancti/08-06/hy--rerum_deus_tenax_vigor_in_transfiguratione--}
+(sed die regis nisi rubrica 1960)
+{gabc:Sancti/10-DU/hy--rerum_deus_in_festo_d._n._j._c._regis--solesmes}
+(sed commune C11 aut tonus BMV nisi rubrica 1960)
+{gabc:Commune/C11/hy--rerum_deus_tenax_vigor_in_festis_bmv--}
+(sed die septem doloris nisi rubrica 1960)
+{gabc:Sancti/09-15/hy--rerum_deus_tenax_vigor_septem_dolorum--}
 
 [HymnusM Nona]
 {gabc:Psalterium/Feria/hy--rerum_deus_in_feriis_per_annum--solesmes_1934}
@@ -534,7 +623,7 @@ Amen.
 {gabc:Psalterium/Dominica/hy--rerum_deus_in_dominicis_per_annum--solesmes_1934}
 (sed tempore adventu)
 {gabc:Psalterium/Adventu/hy--rerum_deus_in_adventu--solesmes_1934}
-(sed tempore quadragesima)
+(sed tempore Quadragesimæ)
 {gabc:Psalterium/Quadragesima/hy--rerum_deus_in_quadragesima--solesmes_1934}
 (sed tempore Passionis)
 {gabc:Psalterium/Passionis/hy--rerum_deus_in_tempore_passionis--solesmes_1934}
@@ -552,13 +641,59 @@ Amen.
 {gabc:Psalterium/Pascha/hy--rerum_deus_in_tempore_ascensionis--solesmes_1934}
 (sed tempore Pentecostes)
 {gabc:Psalterium/Pascha/hy--rerum_deus_in_festo_pentecostes--solesmes_1934}
-(sed commune C11 aut tonus BMV) 
+(sed tempore Cordis)
+{gabc:Tempora/Cordis/hy--rerum_deus_in_festo_s._cordis_jesu--solesmes_1934}
+(sed die regis)
+{gabc:Sancti/10-DU/hy--rerum_deus_in_festo_christi_regis--solesmes_1934}
+(sed commune C11 aut tonus BMV)
 {gabc:Commune/C11/hy--rerum_deus_in_festis_bmv--solesmes_1934}
+(sed die septem doloris)
+{gabc:Sancti/09-15/hy--rerum_deus_in_festo_septem_dolorum_bmv--solesmes_1934}
 
 [Hymnus Completorium]
-{gabc:Psalterium/Feria/hy--te_lucis_ante_terminum_in_fer_et_fest_simpl--solesmes}
+{gabc:Psalterium/Feria/hy--te_lucis_ante_terminum_in_fer_et_fest_simpl--solesmes} 
+(sed tonus dominicalis aut tonus festivus minor aut tonus 8vam aut tonus festivus$)
+{gabc:Psalterium/Dominica/hy--te_lucis_ante_terminum_in_dominicis_per_annum--solesmes_1961.1}
+(sed tonus festivus major aut tonus solemnis)
+{gabc:Psalterium/Festis_major/hy--te_lucis_ante_terminum_in_major._festis_per_annum--solesmes}
+(sed tempore adventu nisi tonus solemnis)
+{gabc:Psalterium/Adventu/hy—te_lucis_ante_terminum_in_adventu—solesmes_1961.1}
+(sed tempore Quadragesimæ nisi tonus solemnis)
+{gabc:Psalterium/Quadragesima/hy--te_lucis_ante_terminum_in_quadragesima--solesmes}
 (sed tempore Passionis)
 {gabc:Psalterium/Passionis/hy--te_lucis_ante_terminum_passiontide--solesmes_1961.1}
+(sed tempore Nativitatis aut tempore Corpus)
+{gabc:Psalterium/Nativitate/hy--te_lucis_ante_terminum_in_nativ._domini--solesmes}
+(sed tempore Nativitatis et rubrica 1960 aut tempore Corpus et rubrica 1960)
+{gabc:Psalterium/Nativitate/hy--te_lucis_ante_terminum_in_nativitate_domini--solesmes_1961.1}
+(sed tempore Epiphaniæ)
+{gabc:Psalterium/Nativitate/hy--te_lucis_ante_terminum_in_epiphania--solesmes}
+(sed tempore Epiphaniæ et rubrica 1960)
+{gabc:Psalterium/Nativitate/hy--te_lucis_ante_terminum_in_epiphania_domini--solesmes_1961.1}
+(sed tempore Pasc)
+{gabc:Psalterium/Pascha/hy--te_lucis_ante_terminum_in_tempore_paschali--}
+(sed tempore Pasc et rubrica 1960)
+{gabc:Psalterium/Pascha/hy--te_lucis_ante_terminum_in_tempore_paschali--solesmes_1961.1}
+(sed tempore Ascensionis)
+{gabc:Psalterium/Pascha/hy--te_lucis_ante_terminum_in_tempore_ascensionis--}
+(sed tempore Ascensionis et rubrica 1960)
+{gabc:Psalterium/Pascha/hy--te_lucis_ante_terminum_in_tempore_ascensionis--solesmes_1961.1}
+(sed tempore Pentecostes)
+{gabc:Psalterium/Pascha/hy--te_lucis_ante_terminum_in_pentecoste--solesmes}
+(sed tempore Pentecostes et rubrica 1960)
+{gabc:Psalterium/Pascha/hy--te_lucis_ante_terminum_pentecost--solesmes_1961.1}
+(sed tempore Cordis)
+{gabc:Tempora/Cordis/hy--te_lucis_ante_terminum_in_sacratis._cord._jesu--solesmes}
+(sed tempore Cordis et rubrica 1960)
+{gabc:Tempora/Cordis/hy--te_lucis_ante_terminum_in_sacratis._cord._jesu--solesmes_1961}
+(sed die transfigurationis nisi rubrica 1960)
+{gabc:Sancti/08-06/hy--te_lucis_ante_terminum_in_transfiguratione--}
+(sed die regis nisi rubrica 1960)
+{gabc:Sancti/10-DU/hy--te_lucis_ante_terminum_in_festo_d._n._j._c._regis--solesmes}
+(sed commune C11 aut tonus BMV nisi rubrica 1960)
+{gabc:Commune/C11/hy--te_lucis_ante_terminum_in_festis_et_oct._b._m._v.--solesmes}
+(sed die septem doloris nisi rubrica 1960)
+{gabc:Sancti/09-15/hy--te_lucis_ante_terminum_septem_dolorum--}
 
 [HymnusM Completorium]
 {gabc:Psalterium/Feria/hy--te_lucis_ante_terminum_in_feriis_per_annum--solesmes_1934}
@@ -566,7 +701,7 @@ Amen.
 {gabc:Psalterium/Dominica/hy--te_lucis_ante_terminum_in_dominicis_per_annum--solesmes_1934}
 (sed tempore adventu)
 {gabc:Psalterium/Adventu/hy--te_lucis_ante_terminum_in_adventu--solesmes_1934}
-(sed tempore quadragesima)
+(sed tempore Quadragesimæ)
 {gabc:Psalterium/Quadragesima/hy--te_lucis_ante_terminum_in_quadragesima--solesmes_1934}
 (sed tempore Passionis)
 {gabc:Psalterium/Passionis/hy--te_lucis_ante_terminum_in_tempore_passionis--solesmes_1934}
@@ -578,15 +713,61 @@ Amen.
 {gabc:Psalterium/Solemnis/hy--te_lucis_ante_terminum_in_solemnitatibus--solesmes_1934}
 (sed tempore Nativitatis aut tempore Corpus)
 {gabc:Psalterium/Nativitate/hy--te_lucis_ante_terminum_in_nativitate_domini--solesmes_1934}
+(sed tempore Epiphaniæ aut die transfigurationis)
+{gabc:Psalterium/Nativitate/hy--te_lucis_ante_terminum_in_epiphania_domini--solesmes_1934}
 (sed tempore Pasc)
 {gabc:Psalterium/Pascha/hy--te_lucis_ante_terminum_in_tempore_paschali--solesmes_1934}
 (sed tempore Ascensionis)
 {gabc:Psalterium/Pascha/hy--te_lucis_ante_terminum_in_tempore_ascensionis--solesmes_1934}
 (sed tempore Pentecostes)
 {gabc:Psalterium/Pascha/hy--te_lucis_ante_terminum_in_festo_pentecostes--solesmes_1934}
+(sed tempore Cordis)
+{gabc:Tempora/Cordis/hy--te_lucis_ante_terminum_in_sacratis._cord._jesu--solesmes}
+(sed die regis)
+{gabc:Sancti/10-DU/hy--te_lucis_ante_terminum_in_festo_christi_regis--solesmes_1934}
 (sed commune C11 aut tonus BMV)
 {gabc:Commune/C11/hy--te_lucis_ante_terminum_in_festis_b_m_v_--solesmes_1934}
+(sed die septem doloris)
+{gabc:Sancti/09-15/hy--te_lucis_ante_terminum_in_festo_septem_dolorum_bmv--solesmes_1934}
 
+
+[Hymnus Completorium Quad]
+Christe, qui lux es et dies,
+Noctis tenébras détegis,
+Lucísque lumen créderis,
+Lumen beátum prǽdicans.
+_
+Precámur sancte Dómine,
+defénde nos in hac nocte:
+Sit nobis in te réquies,
+Quiétam noctem tríbue.
+_
+Ne gravis somnus írruat,
+Nec hostis nos subrípiat,
+Nec caro illi conséntiens
+Nos tibi reos státuat.
+_
+Oculi somnum cápiant,
+Cor ad te semper vígilet:
+Déxtera tua prótegat
+Fámulos, qui te díligunt.
+_
+Defénsor noster áspice,
+Insidiántes réprime,
+Gubérna tuos fámulos,
+/:Ad hunc Vers. genuflectatur:/
+Quos Sánguine mercátus es.
+_
+Meménto nostri, Dómine,
+In gravi isto córpore:
+Qui es defénsor ánimæ,
+Adésto nobis, Dómine.
+_
+Præsta Pater omnípotens,
+Per Jesum Christum Dóminum,
+Qui tecum in perpétuum
+Regnat cum Sancto Spíritu.
+Amen.
 
 [Lectio Completorium]
 !1 Pet 5:8-9
@@ -597,9 +778,6 @@ $Tu autem
 !Jer 14:9
 {centering-scheme: latin;%%(c3) TU(h) au(h)tem(h) in(h) no(h)bis(h) es(h) Dó(h)mi(h)ne,(h) et(h) no(h)men(h) tu(h)um(h) in(h)vo(h)cá(h)tum(h) est(h) su(h)per(h) nos,(h) ne(h) de(h)re(h)lín(f)quas(e) nos.(ef..) (::)}
 $Deo gratias
-
-[Completorium]
-@:Completorium_
 
 [Completorium] (rubrica Ordo Praedicatorum)
 @:Completorium_:s/au(h)tem(h) //
@@ -642,3 +820,16 @@ Allelúja. Ascéndens Christus in altum, allelúja, captívam duxit captivitáte
 
 [Ant 4 Pent]
 Allelúja. Spíritus Paráclitus, allelúja, docébit vos ómnia, allelúja, allelúja.
+
+[Preces Feriales]
+$rLitany simplex0
+(sed rubrica monastica)
+$mLitany2
+$Preces feriales minora
+
+[Preces Dominicales]
+$rLitany simplex
+(sed rubrica monastica)
+$mLitany simplex
+$Preces dominicales Completorium
+$Domine exaudi

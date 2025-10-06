@@ -223,6 +223,9 @@ sub get_dayname_for_condition {
   return 'Nat28' if $month == 12 && $day == 28;
   return 'Nat29' if $month == 12 && $day == 29;
   return 'doctorum' if ($dayname[1] =~ /Doctor/i || $dayname[2] =~ /Doctor/i);
+  return 'transfigurationis' if ($month == 8 && ($day == 6 || ($day == 5 && $vesp_or_comp)));
+  return 'septem doloris' if $winner =~ /09-15$|09-DT|Quad5-5$/;
+  return 'regis DNJC' if $winner =~ /10-DU/;
   return '';
 }
 

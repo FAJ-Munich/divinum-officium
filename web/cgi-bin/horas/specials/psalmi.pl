@@ -238,7 +238,7 @@ sub psalmi_minor {
 
   if ($w{Rule} =~ /Minores sine Antiphona/i || $hora eq 'Completorium' && $version =~ /^Monastic/) {
     $ant = '';
-    $psalmTone = ($version =~ /monastic/i) ? 'in-dir-monasticus' : 'in-directum';
+    $psalmTone = 'in-dir';
     setbuild2('Sine antiphonae');
   }
 
@@ -424,7 +424,6 @@ sub psalmi_major {
       setbuild2("Antiphona $commune");
     }
   }
-  $error .= $w;
 
   if (!$w && exists($w{"Ant $hora"})) {
     $w = $w{"Ant $hora"};

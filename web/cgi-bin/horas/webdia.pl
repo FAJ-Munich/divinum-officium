@@ -12,6 +12,10 @@ my $a = 4;
 #*** htmlHead($title, $onload)
 # generate html head
 sub htmlHead {
+  print "Content-type: text/html; charset=utf-8\n\n";
+
+  return if our $content;
+
   my ($title, $onload) = @_;
 
   my ($horasjs) = "<SCRIPT TYPE='text/JavaScript' LANGUAGE='JavaScript1.2'>\n" . horasjs() . '</SCRIPT>';
@@ -21,8 +25,6 @@ sub htmlHead {
   my $viewport_tag = $is_mobile ? '  <META NAME="viewport" CONTENT="width=device-width, initial-scale=0.75">' : '';
 
   print <<"PrintTag";
-Content-type: text/html; charset=utf-8
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <HTML><HEAD>
 $viewport_tag
@@ -521,12 +523,24 @@ sub setcell {
     if ($lang =~ /gabc/i) {    # post process GABC chants
       my $dId = 0;
 
-      # Merge Oratio
+      # Merge Orationes
+      if ($text =~ /Commemoratio|Suffragium/) {
+
+        # The Versicle are given in the simple tone with clef (c3) ending on (f.)
+        # Roman: The Oration follows in the solemn tone.
+        # Keeping the clef (c4) and adding custos for that purpose.
+        $text =~
+          s/\.\((f)\.\)\s*\(\:\:\)\}(?:\s|\_|\<br\/\>)*\{(\(c4\) O\(h\)ré\([gh]{1,2}\)mus\.\([fh]\.\) \(\:\:\)\})/.($1.) (f+::) $2/gs;
+      }
       $text =~
-        s/(o|at)\.\(([fhi])\.\) \(\:\:\)\}\s*(?:\<br\/\>)*\s*\{\(c[34]\) (O\([hi]\)ré\([ghi]{1,2}\)mus\.\([fhi]\.\) \(\:\:\)\})/$1.($2.) (::) $3/s;
-      $text =~ s/(O\([hi]\)ré\([ghi]{1,2}\)mus\.\([fhi]\.\)) \(\:\:\)\}\s*(?:\<br\/\>)*\s*\{\(c[34]\)/$1 (:)/gs;
+        s/\.\(([dfghi])\.\)\s*\(\:\:\)\}(?:\s|\_|\<br\/\>)*\{\(c[34]\) (O\([hi]\)ré\([ghi]{1,2}\)mus\.\([fhi]\.\) \(\:\:\)\})/.($1.) (::) $2/gs;
+      $text =~ s/(O\([hi]\)ré\([ghi]{1,2}\)mus\.\([fhi]\.\)) \(\:\:\)\}(?:\s|\_|\<br\/\>)*\{\(c[34]\)/$1 (:)/gs;
       $text =~
-        s/\(([dhi])\.\) \(\:\:\)\}\s*(?:\<br\/\>)*\s*\{(?:initial\-style\:0\;\%\%)\(c[34]\) (Per|Qui)/($1.) (:) $2/gs;
+        s/\(([fdhi])\.\) \(\:\:\)\}\s*(?:\<br\/\>)*\s*\{(?:initial\-style\:0\;\%\%)\(c[34]\) (Per|Qui)/($1.) (:) $2/gs;
+
+      # Merge Absolutio, Benedictio
+      $text =~
+        s/\(([fd])\.\) \(\:\:\)\}\s*(?:\<br\/\>)*\s*\{(?:initial\-style\:0\;\%\%)\(c[34]\) (R\/. A\([gh]\.?\)men)/($1.) (::) $2/gs;
 
       # retrieve all GABC scores from files
       while ($text =~ /\{gabc:(.+?)\}/is) {
@@ -552,30 +566,31 @@ sub setcell {
         $text =~
           s/\{(\(|name:|annotation:|initial-style:|centering-scheme:)/<DIV ID="GABC$hora$searchind$dId" class="GABC">$1/s;
         $text =~ s/\(\:\:\)\}/\(\:\:\)<\/DIV><DIV ID="GCHANT$hora$searchind$dId" class="GCHANT" width="100\%"><\/DIV>/s;
-        $text =~ s/<i>T\.\s?P\.<\/i>/\_\^T. P.\^\_ /g;    #Tempore Paschalis
-        $text =~ s/<\/?i>/\_/g;                           # italics
+        $text =~
+          s/name:([a-zA-Z\s\.\:]*?)\(([a-zA-Z\s\.\:]*?)\)([a-zA-Z\s\.\:]*?);/$1 $2 $3;/gm; # remove parentheses in title
+        $text =~ s/<i>T\.\s?P\.<\/i>/\_\^T. P.\^\_ /g;                                     #Tempore Paschalis
+        $text =~ s/<\/?i>/\_/g;                                                            # italics
         $text =~ s/<\/?b>|<v>\\greheightstar<\/v>/*/g;
-        $text =~ s/<\/?sc>/\%/g;                          # small capitals
-        $text =~ s/<\/?c>/\^/g;                           # coloured
-        $text =~ s/<\/?e>/\_/g;                           # elisions
-        $text =~ s/<sp>\'(?:ae|æ)<\/sp>/ǽ/g;
-        $text =~ s/<sp>\'(?:oe|œ)<\/sp>/œ́/g;
-        $text =~ s/<sp>(?:ae|æ)<\/sp>/æ/g;
-        $text =~ s/<sp>(?:oe|œ)<\/sp>/œ/g;
-        $text =~ s/\(\:\:\)\s*?<br\/?>\n/(::)\n/gi;       # remove wrong HTML linebreaks
-        $text =~ s/;\s*?<br\/?>\n/;\n/gi;                 # remove wrong HTML linebreaks
-        $text =~ s/%% <br\/?>\n/%%\n/gi;                  # remove wrong HTML linebreaks
-        $text =~ s/%%\(/%%\n\(/gi;                        # insert break at end of header
-        $text =~ s/;([a-z\%\(])/;\n$1/gi;                 # insert break in header
-        $text =~ s/(\(\:\:\)\}?) <br\/?>\n/$1 \n/gi;      # remove wrong HTML linebreaks
-        $text =~ s/\) \* /\) \*() /g;                     # star to be followed by ()
+        $text =~ s/<\/?sc>/\%/g;                                                           # small capitals
+        $text =~ s/<\/?c>/\^/g;                                                            # coloured
+        $text =~ s/<\/?e>/\_/g;                                                            # elisions
+        $text =~ s/<sp>(?:ae|æ)<\/sp>/æ/g;                                                 # various æ spellings
+        $text =~ s/<sp>\'(?:ae|æ)<\/sp>|aé/ǽ/g;
+        $text =~ s/ae\(/æ(/g;
+        $text =~ s/<sp>(?:oe|œ)<\/sp>/œ/g;                                                 # various œ spellings
+        $text =~ s/<sp>\'(?:oe|œ)<\/sp>|oé/œ́/g;
+        $text =~ s/\(\:\:\)\s*?<br\/?>\n/(::)\n/gi;     # remove wrong HTML linebreaks
+        $text =~ s/;\s*?<br\/?>\n/;\n/gi;               # remove wrong HTML linebreaks
+        $text =~ s/%% <br\/?>\n/%%\n/gi;                # remove wrong HTML linebreaks
+        $text =~ s/%%\(/%%\n\(/gi;                      # insert break at end of header
+        $text =~ s/;([a-z\%\(])/;\n$1/gi;               # insert break in header
+        $text =~ s/(\(\:\:\)\}?) <br\/?>\n/$1 \n/gi;    # remove wrong HTML linebreaks
+        $text =~ s/\) \* /\) \*() /g;                   # star to be followed by ()
         $text =~ s/(\([\,\;\:]+\))\s*?(\^?\d+\.\^?|(<sp>)?[VR]\/(<\/sp>)?\.)\s/ $2$1 /gs;
-        $text =~ s/†\(([a-z0-9\_\'\.]+?)\)/($1) ^†^(,) /g;
-
-        #        $text =~ s/\) \^?†\^?\(?\)?/\) ^†^() /g;
+        $text =~ s/†\(([a-z0-9\_\'\.]+?)\)/($1) ^†^(,) /g;    #        $text =~ s/\) \^?†\^?\(?\)?/\) ^†^() /g;
         $text =~ s/(<sp>)?V\/(<\/sp>)?\.?(\(\))?/V\/\.() /g;
         $text =~ s/(<sp>)?R\/(<\/sp>)?\.?(\(\))?/R\/\.() /g;
-        $text =~ s/\.\(\) \(\:\:\)/.(::)/g;               # contract () (::)
+        $text =~ s/\.\(\) \(\:\:\)/.(::)/g;                   # contract () (::)
         $text =~ s/<\/?nlba>//g;
         $text =~ s/\_/\|\|/g;
       }
@@ -602,9 +617,10 @@ sub setcell {
   $text =~ s/\{\:.*?\:\}//sg;
   $text =~ s/\`//g;                                                 #` #accent grave for editor
   $text =~ s/\s([»!?;:])/&nbsp;$1/g unless $lang eq 'Latin-gabc';   # no-break space before punctutation (mostly French)
-  $text =~ s/\s([*§†])/&nbsp;$1/g if $version =~ /cist/i;           # no-break space before break characters (style of Cistercian books)
-  $text =~ s/«\s/«&nbsp;/g unless $lang =~ /Deutsch|gabc/i;         # no-break space after begin quote
-  $text =~ s/\s\&\s/ &amp; /;                                       # HTML - Ampersand;
+  $text =~ s/\s([*§†])/&nbsp;$1/g
+    if $version =~ /cist/i;    # no-break space before break characters (style of Cistercian books)
+  $text =~ s/«\s/«&nbsp;/g unless $lang =~ /Deutsch|gabc/i;    # no-break space after begin quote
+  $text =~ s/\s\&\s/ &amp; /;                                  # HTML - Ampersand;
   $text =~
     s/↊|\&\#x218a\;/<span style='color:grey; display:inline-block; transform: rotate(180deg) translate(-40%, 15%);'>2<\/span><span style='color:grey; display:inline-block; transform: translate(-100%, 16%);'>.<\/span>/gu;
   my $cist_flex = 1;    # 1 .. from Psalterium - 2 .. from Breviarium Cist.
@@ -897,7 +913,7 @@ sub print_content {
   my ($ind1, $ind2);
 
   table_start();
-  ante_post('Ante') if $antepost;
+  ante_post('Ante') if $antepost && !$content;
 
   while ($ind1 < @$script1 || $ind2 < @$script2) {
     $column = 1;
@@ -916,7 +932,7 @@ sub print_content {
       $ind2 = $ind1;
     }
   }
-  ante_post('Post') if $antepost;
+  ante_post('Post') if $antepost && !$content;
   table_end();
 }
 

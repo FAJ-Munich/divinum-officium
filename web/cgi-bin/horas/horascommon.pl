@@ -853,9 +853,13 @@ sub concurrence {
     || ($version =~ /1955/ && $cwrank[2] < 5)
 
     # In 1960, II. cl. feasts have I. Vespers if and only if they're feasts of the Lord on a Sunday.
-    || ( $version =~ /196/i
+    # Barroux differs: all II. cl. feasts and C10 have I. Vespers
+    || ( $version =~ /196/
+      && $version !~ /Barroux/
       && $cwrank[2] <
       (($cwrank[0] =~ /Dominica/i || ($cwinner{Rule} =~ /Festum Domini/i && $dayofweek == 6)) ? 5 : 6))
+
+    || ($version =~ /Barroux/ && $cwrank[2] < 5 && $cwinner{Rank} !~ /C10/)
 
     # no Ferias, Vigils and infra Oct days
     || ( $cwinner{Rank} =~ /Feria|Sabbato|Vigilia|Quat[t]*uor/i
@@ -1809,7 +1813,7 @@ sub rankname {
         : (/Epi[1-6]|Pent[22-23]/ && $dayofweek && !($dayofweek == 6 && $hora =~ /(?:Vespera|Completorium)/))
         ? 3                                                             # 'Semiduplex Dominica anticipata'
         : 4;                                                            # 'Semiduplex Dominica minor';
-      $i = 2 if $version =~ /Trident/ && $version !~ /altovado/i && /Quad[2-4]/; # 'Semiduplex Dominica II. classis'
+      $i = 2 if $version =~ /Trident/ && $version !~ /altovado/i && /Quad[2-4]/;    # 'Semiduplex Dominica II. classis'
       $rankname = $sundaytable[$i];
 
       if ($version =~ /cist/i) {

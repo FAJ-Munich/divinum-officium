@@ -225,23 +225,23 @@ sub psalmi_matutinum_monastic {
   setcomment($label, 'Source', $comment, $lang, $prefix);
 
   if ($lang =~ /gabc/i) {
-    my $psalmTone = 'in-dir-monsticus';
+    my $psalmTone = 'in-dir';
 
     foreach my $psalmline (@psalmi) {
-      if ($psalmline =~ /[VR]\/?\./) { $psalmTone = 'in-dir-monsticus'; next; }    #skip over Versicles
-      my @a = split(';;', $psalmline);                                             # retrieve psalmtone behind second ;;
+      if ($psalmline =~ /[VR]\/?\./) { $psalmTone = 'in-dir'; next; }    #skip over Versicles
+      my @a = split(';;', $psalmline);                                   # retrieve psalmtone behind second ;;
 
       if (@a > 2) {
-        $psalmTone = chompd($a[2]);                                                # update psalmtone
+        $psalmTone = chompd($a[2]);                                      # update psalmtone
       }
       my $ant0 = chompd($a[0]);
       my @psalm0 = split(';', chompd($a[1]));
 
       foreach my $ps0 (@psalm0) {
-        $ps0 = "'$ps0,$psalmTone'";                                                # combine psalm tone with all psalms
+        $ps0 = "'$ps0,$psalmTone'";                                      # combine psalm tone with all psalms
       }
       my $psalm0 = join(';', @psalm0);
-      $psalmline = "$ant0;;$psalm0";                                               # recombine antiphone line
+      $psalmline = "$ant0;;$psalm0";                                     # recombine antiphone line
     }
   }
   nocturn(1, $lang, \@psalmi, (0 .. 7));

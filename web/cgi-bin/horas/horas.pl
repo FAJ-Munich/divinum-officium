@@ -26,9 +26,8 @@ sub adhoram {
 #*** horas($hora)
 # collects and prints the officium for the given $hora
 sub horas {
-  my $command = shift;
-  $hora = $command;
-  $hora = 'Vespera' if $hora =~ /vesper/i;
+  our $hora = shift;
+  $hora = 'Vespera' if $hora eq 'Vesperae';
   print "<H2 ID='${hora}top'>" . adhoram($hora) . "</H2>\n";
   my (@script1, @script2);
   our ($lang1, $lang2, $column);
@@ -53,7 +52,7 @@ sub horas {
     precedence();
   }
 
-  @script1 = getordinarium($lang1, $command);
+  @script1 = getordinarium($lang1, $hora);
   @script1 = specials(\@script1, $lang1);
   $column = 2;         # This prevents the duplications in the Building Script
 
@@ -65,7 +64,7 @@ sub horas {
   }
 
   if (!$only) {
-    @script2 = getordinarium($lang2, $command);
+    @script2 = getordinarium($lang2, $hora);
     @script2 = specials(\@script2, $lang2);
   }
 
@@ -529,6 +528,8 @@ sub canticum {
         $ant2 = "$ant\n$ant2";
       }
     }
+    ($ant, $canticaTone) = split(";;", $ant) if $lang =~ /gabc/i;
+    $canticaTone =~ s/\s*$//;
   } else {
     $comment = ($winner =~ /sancti/i) ? 3 : 2;
     setcomment($item, 'Source', $comment, $lang, translate('Antiphona', $lang));
@@ -575,7 +576,7 @@ sub getordinarium {
   # Psalms 3 and 66 in ordinarium get their chanttone here:
   if ($lang =~ /gabc/i) {
     foreach my $line (@script) {
-      $line =~ s/^\&psalm\((\d+)\)/\&psalm(\'$1,in-dir-monasticus\')/;
+      $line =~ s/^\&psalm\((\d+)\)/\&psalm(\'$1,in-dir\')/;
     }
   }
 
