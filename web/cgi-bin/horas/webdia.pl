@@ -538,9 +538,11 @@ sub setcell {
       $text =~
         s/\(([fdhi])\.\) \(\:\:\)\}\s*(?:\<br\/\>)*\s*\{(?:initial\-style\:0\;\%\%)\(c[34]\) (Per|Qui)/($1.) (:) $2/gs;
 
-      # Merge Absolutio, Benedictio
+      # Merge Absolutio, Benedictio and remove redundant Amen.
       $text =~
         s/\(([fd])\.\) \(\:\:\)\}\s*(?:\<br\/\>)*\s*\{(?:initial\-style\:0\;\%\%)\(c[34]\) (R\/. A\([gh]\.?\)men)/($1.) (::) $2/gs;
+      $text =~
+        s/(?<=R\/.\s?A\([defgh]\.?\)men\.\([defgh]\.?\) \(\:\:\))\s?R\/. A\([gh]\.?\)men\.\([gh]\.?\) \(\:\:\)//g;
 
       # retrieve all GABC scores from files
       while ($text =~ /\{gabc:(.+?)\}/is) {
