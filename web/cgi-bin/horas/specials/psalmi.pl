@@ -187,7 +187,7 @@ sub psalmi_minor {
       $ant = chompd($ant[$ind]);
 
       # add fourth alleluja
-      $ant =~ s/(\S+)\.$/$1, $1./ if ($version =~ /monastic/i && $name eq 'Pasch');
+      $ant =~ s/(\S+)\.$/$1, $1./ if ($version =~ /trident|monastic/i && $name eq 'Pasch' && $lang !~ /gabc/);
       $comment = 1;
       setbuild("Psalterium/Psalmi/Psalmi minor", $name, "subst Antiphonas");
     }
