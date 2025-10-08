@@ -320,6 +320,7 @@ sub psalm : ScriptFunc {
     $psnum =~ s/3,antiquo,(.*)/3$1 in tenore antiquo/;
     $psnum =~ s/4,antiquo,(.*)/4$1 usu antiqui/;
     $psnum =~ s/solemn(.*)/$1; Mediatio solemnis/;
+    $psnum =~ s/([a-gA-G1-5])star/$1*/;
 
     if (!(-e "$datafolder/$lang/Psalterium/Psalmorum/$ffolder/$fname")) {
       $psnum =~ s/;.*//;
@@ -384,6 +385,14 @@ sub psalm : ScriptFunc {
   if ($antline && $psnum != 232) {                     # put dagger if needed
     $lines[0] =~ s/^\d+:\d+[a-z]? \K(.*)/ getantcross($1, $antline) /e;
     if ($lines[0] =~ s{/:\x{2021}:/$}{}) { $lines[1] =~ s{^\d+:\d+[a-z]? \K}{/:\x{2021}:/ }; }
+  } elsif (!$antline && $lang =~ /gabc/i && $psnum !~ /in Directum/) {
+
+    # Remove Intonation
+    $title .= ' sine intonatio';
+    $lines[7] =~ /\((.*?)\)/;
+    my $tenor = $1;
+    $lines[6] =~ s/\)([\w\s\,\.\:]+\(.*?\)[\w\s\,\.\:]+)\(.*?\)/\)$1($tenor)/;
+    $lines[6] =~ s/\)([\w\s\,\.\:]+)\(.*?\)/\)$1($tenor)/;
   }
 
   handleverses(\@lines, $lang =~ /gabc/i);

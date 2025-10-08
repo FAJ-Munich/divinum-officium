@@ -184,10 +184,17 @@ sub psalmi_minor {
 
     if ($name && $ind >= 0) {
       my @ant = split("\n", $psalmi{$name});
-      $ant = chompd($ant[$ind]);
+
+      if ($lang =~ /gabc/) {
+        @ant = split(";;", $ant[$ind]);
+        $ant = chompd($ant[0]);
+        $psalmTone = chompd($ant[1]);
+      } else {
+        $ant = chompd($ant[$ind]);
+      }
 
       # add fourth alleluja
-      $ant =~ s/(\S+)\.$/$1, $1./ if ($version =~ /monastic/i && $name eq 'Pasch');
+      $ant =~ s/(\S+)\.$/$1, $1./ if ($version =~ /trident|monastic/i && $name eq 'Pasch' && $lang !~ /gabc/);
       $comment = 1;
       setbuild("Psalterium/Psalmi/Psalmi minor", $name, "subst Antiphonas");
     }
@@ -643,7 +650,7 @@ sub antetpsalm {
       my $antp = $ant;
 
       unless ($duplexf && $version !~ /cist/i) {
-        $antp =~ s/\s*\*.*//;
+        $antp =~ s/\s+\*.*//;
 
         if ($lang =~ /gabc/i && $ant =~ /\{.*\}/) {
           $antp =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/;    # proper closure of GABC antiphone
