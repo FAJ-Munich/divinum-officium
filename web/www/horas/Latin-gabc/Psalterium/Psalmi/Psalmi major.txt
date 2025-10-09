@@ -1,9 +1,9 @@
 [Day0 Laudes1]
-Allelúja, * Dóminus regnávit, decórem índuit, allelúja, allelúja.;;92
-Jubiláte * Deo omnis terra, allelúja.;;99
-Benedícam te * in vita mea, Dómine: et in nómine tuo levábo manus meas, allelúja.;;62
-Tres púeri * jussu régis in fornácem missi sunt, non timéntes flammam ignis, dicéntes: Benedíctus Deus, allelúja.;;210
-Allelúja, * laudáte Dóminum de cælis, allelúja, allelúja.;;148
+Allelúja, * Dóminus regnávit, decórem índuit, allelúja, allelúja.;;92;;6
+Jubiláte * Deo omnis terra, allelúja.;;99;;4E
+Benedícam te * in vita mea, Dómine: et in nómine tuo levábo manus meas, allelúja.;;62;;7a
+Tres púeri * jussu régis in fornácem missi sunt, non timéntes flammam ignis, dicéntes: Benedíctus Deus, allelúja.;;210;;8G
+Allelúja, * laudáte Dóminum de cælis, allelúja, allelúja.;;148;;1g
 
 [Day0 Laudes2]
 ;;50
@@ -13,137 +13,138 @@ Allelúja, * laudáte Dóminum de cælis, allelúja, allelúja.;;148
 ;;148
 
 [Day0 Vespera]
-Dixit Dóminus * Dómino meo: Sede a dextris meis.;;109
-Magna ópera Dómini: * exquisíta in omnes voluntátes ejus.;;110
-Qui timet Dóminum, * in mandátis ejus cupit nimis.;;111
-Sit nomen Dómini * benedíctum in sǽcula.;;112
-Deus autem noster * in cælo: ómnia quæcúmque vóluit, fecit.;;113
+Dixit Dóminus * Dómino meo: Sede a dextris meis.;;109;;7c2
+Magna ópera Dómini: * exquisíta in omnes voluntátes ejus.;;110;;3b
+Qui timet Dóminum, * in mandátis ejus cupit nimis.;;111;;4g
+Sit nomen Dómini * benedíctum in sǽcula.;;112;;7c
+Deus autem noster * in cælo: ómnia quæcúmque vóluit, fecit.;;113;;per
 
 [Day1 Laudes1]
-Jubiláte * Deo in voce exsultatiónis.;;46
-Inténde * voci oratiónis meæ, Rex meus et Deus meus.;;5
-Deus majestátis * intónuit: afférte glóriam nómini ejus.;;28
-Laudámus nomen tuum * ínclitum, Deus noster.;;211
-Laudáte * Dóminum omnes gentes.;;116
+Jubiláte * Deo in voce exsultatiónis.;;46;;7a
+Inténde * voci oratiónis meæ, Rex meus et Deus meus.;;5;;8G
+Deus majestátis * intónuit: afférte glóriam nómini ejus.;;28;;4E
+Laudámus nomen tuum * ínclitum, Deus noster.;;211;;1f
+Laudáte * Dóminum omnes gentes.;;116;;1g3
 
 [Day1 Laudes2]
-Miserére * mei, Deus, secúndum magnam misericórdiam tuam.;;50
-Deduc me * in justítia tua, Dómine.;;5
-Dóminus dabit virtútem * et benedícet pópulo suo in pace.;;28
-Convérsus est furor tuus, * Dómine, et consolátus es me.;;221
-Laudáte * Dóminum quóniam confirmáta est super nos misericórdia ejus.;;116
+Miserére * mei, Deus, secúndum magnam misericórdiam tuam.;;50;;8G
+Deduc me * in justítia tua, Dómine.;;5;;6
+Dóminus dabit virtútem * et benedícet pópulo suo in pace.;;28;;1g
+Convérsus est furor tuus, * Dómine, et consolátus es me.;;221;;8G
+Laudáte * Dóminum quóniam confirmáta est super nos misericórdia ejus.;;116;;7d
 
 [Day1 Vespera]
-Inclinávit Dóminus * aurem suam mihi.;;114
-Vota mea * Dómino reddam coram omni pópulo ejus.;;115
-Clamávi * et Dóminus exaudívit me.;;119
-Auxílium meum * a Dómino, qui fecit cælum et terram.;;120
-Lætátus sum * in his, quæ dicta sunt mihi.;;121
+Inclinávit Dóminus * aurem suam mihi.;;114;;1g2
+Vota mea * Dómino reddam coram omni pópulo ejus.;;115;;3g
+Clamávi * et Dóminus exaudívit me.;;119;;7b
+Auxílium meum * a Dómino, qui fecit cælum et terram.;;120;;1f
+Lætátus sum * in his, quæ dicta sunt mihi.;;121;;4g
 
 [Day2 Laudes1]
-Cantáte * Dómino et benedícite nómini ejus.;;95
-Salutáre vultus mei, * Deus meus.;;42
-Illúmina, Dómine, * vultum tuum super nos.;;66
-Exaltáte * Regem sæculórum in opéribus vestris.;;212
-Laudáte * nomen Dómini, qui statis in domo Dómini.;;134
+Cantáte * Dómino et benedícite nómini ejus.;;95;;2
+Salutáre vultus mei, * Deus meus.;;42;;6
+Illúmina, Dómine, * vultum tuum super nos.;;66;;1g3
+Exaltáte * Regem sæculórum in opéribus vestris.;;212;;7a
+Laudáte * nomen Dómini, qui statis in domo Dómini.;;134;;2
 
 [Day2 Laudes2]
-Dele iniquitátem meam, * Dómine, secúndum multitúdinem miseratiónum tuárum.;;50
-Discérne causam meam, * Deus, de gente non sancta.;;42
-Deus misereátur * nostri, et benedícat nobis.;;66
-Corrípies me, Dómine, * et vivificábis me.;;222
-Laudáte * Dóminum quia benígnus est, et in servis suis deprecábitur.;;134
+Dele iniquitátem meam, * Dómine, secúndum multitúdinem miseratiónum tuárum.;;50;;4E
+Discérne causam meam, * Deus, de gente non sancta.;;42;;8c
+Deus misereátur * nostri, et benedícat nobis.;;66;;8Gstar
+Corrípies me, Dómine, * et vivificábis me.;;222;;8G
+Laudáte * Dóminum quia benígnus est, et in servis suis deprecábitur.;;134;;3b
 
 [Day2 Vespera]
-Qui hábitas in cælis, * miserére nobis.;;122
-Adjutórium nostrum * in nómine Dómini.;;123
-In circúitu pópuli sui * Dóminus, ex hoc nunc et usque in sǽculum.;;124
-Magnificávit Dóminus * fácere nobíscum: facti sumus lætántes.;;125
-Dóminus ædíficet * nobis domum, et custódiat civitátem.;;126
+Qui hábitas in cælis, * miserére nobis.;;122;;8G
+Adjutórium nostrum * in nómine Dómini.;;123;;1g2
+In circúitu pópuli sui * Dóminus, ex hoc nunc et usque in sǽculum.;;124;;1f
+Magnificávit Dóminus * fácere nobíscum: facti sumus lætántes.;;125;;7a
+Dóminus ædíficet * nobis domum, et custódiat civitátem.;;126;;5
 
 [Day3 Laudes1]
-Dóminus regnávit, * exsúltet terra.;;96
-Te décet hymnus, * Deus, in Sion.;;64
-Tibi, Dómine, psallam, * et intéllegam in via immaculáta.;;100
-Dómine, magnus es tu, * et præclárus in virtúte tua.;;213
-Laudábo Deum meum * in vita mea.;;145
+Dóminus regnávit, * exsúltet terra.;;96;;3g2
+Te décet hymnus, * Deus, in Sion.;;64;;8c
+Tibi, Dómine, psallam, * et intéllegam in via immaculáta.;;100;;6
+Dómine, magnus es tu, * et præclárus in virtúte tua.;;213;;4-alt-c
+Laudábo Deum meum * in vita mea.;;145;;4E
 
 [Day3 Laudes2]
-Ámplius lava me, * Dómine, ab injustítia mea.;;50
-Impietátibus nostris * tu propitiáberis Deus.;;64
-In innocéntia * cordis mei perambulábo, Dómine.;;100
-Exsultávit cor meum * in Dómino, qui humíliat et súblevat.;;223
-Lauda * ánima mea Dóminum, qui érigit elísos et díligit justos.;;145
+Ámplius lava me, * Dómine, ab injustítia mea.;;50;;7a
+Impietátibus nostris * tu propitiáberis Deus.;;64;;4E
+In innocéntia * cordis mei perambulábo, Dómine.;;100;;8G
+Exsultávit cor meum * in Dómino, qui humíliat et súblevat.;;223;;7a
+Lauda * ánima mea Dóminum, qui érigit elísos et díligit justos.;;145;;1f
 
 [Day3 Vespera]
-Beáti omnes * qui timent Dóminum.;;127
-Confundántur omnes * qui odérunt Sion.;;128
-De profúndis * clamávi ad te, Dómine.;;129
-Dómine, * non est exaltátum cor meum.;;130
-Elégit Dóminus * Sion in habitatiónem sibi.;;131
+Beáti omnes * qui timent Dóminum.;;127;;2
+Confundántur omnes * qui odérunt Sion.;;128;;8G
+De profúndis * clamávi ad te, Dómine.;;129;;8c
+Dómine, * non est exaltátum cor meum.;;130;;1g2
+Elégit Dóminus * Sion in habitatiónem sibi.;;131;;3g
 
 [Day4 Laudes1]
-Jubiláte * in conspéctu régis Dómini.;;97
-Dómine, * refúgium factus es nobis.;;89
-Dómine, * in cælo misericórdia tua.;;35
-Pópulus meus, * ait Dóminus, bonis meis adimplébitur.;;214
-Deo nostro * jucúnda sit laudátio.;;146
+Jubiláte * in conspéctu régis Dómini.;;97;;8G
+Dómine, * refúgium factus es nobis.;;89;;6
+Dómine, * in cælo misericórdia tua.;;35;;8c
+Pópulus meus, * ait Dóminus, bonis meis adimplébitur.;;214;;4E
+Deo nostro * jucúnda sit laudátio.;;146;;7a
 
 [Day4 Laudes2]
-Tibi soli peccávi, * Dómine, miserére mei.;;50
-Convértere, Dómine, * et deprecábilis esto super servos tuos.;;89
-Multiplicásti, Deus, * misericórdiam tuam.;;35
-Fortitúdo mea * et laus mea Dóminus: et factus est mihi in salútem.;;224
-Laudáte * Dóminum qui sanat contrítos corde, et álligat contritiónes eórum.;;146
+Tibi soli peccávi, * Dómine, miserére mei.;;50;;8Gstar
+Convértere, Dómine, * et deprecábilis esto super servos tuos.;;89;;1f
+Multiplicásti, Deus, * misericórdiam tuam.;;35;;7a
+Fortitúdo mea * et laus mea Dóminus: et factus est mihi in salútem.;;224;;4E
+Laudáte * Dóminum qui sanat contrítos corde, et álligat contritiónes eórum.;;146;;7a
 
 [Day4 Vespera]
-Ecce quam bonum * et quam jucúndum habitáre fratres in unum.;;132
-Confitémini Dómino * quóniam in ætérnum misericórdia ejus.;;135(1-9)
-Confitémini Dómino * quia in humilitáte nostra memor fuit nostri.;;135(10-26)
-Adhǽreat lingua mea * fáucibus meis, si non memínero tui Jerúsalem.;;136
-Confitébor * nómini tuo, Dómine, super misericórdia et veritáte tua.;;137
+Ecce quam bonum * et quam jucúndum habitáre fratres in unum.;;132;;1a
+Confitémini Dómino * quóniam in ætérnum misericórdia ejus.;;135:1;;3g2
+Confitémini Dómino * quia in humilitáte nostra memor fuit nostri.;;135:2;;3g2
+Adhǽreat lingua mea * fáucibus meis, si non memínero tui Jerúsalem.;;136;;3a
+Confitébor * nómini tuo, Dómine, super misericórdia et veritáte tua.;;137;;5
 
 [Day5 Laudes1]
-Exaltáte * Dóminum Deum nóstrum, et adoráte in monte sancto ejus.;;98
-Éripe me * de inimícis meis, Dómine, ad te confúgi.;;142
-Benedixísti, * Dómine, terram tuam: remisísti iniquitátem plebis tuæ.;;84
-In Dómino justificábitur * et laudábitur omne semen Israël.;;215
-Lauda, * Jerúsalem, Dóminum.;;147
+Exaltáte * Dóminum Deum nóstrum, et adoráte in monte sancto ejus.;;98;;6
+Éripe me * de inimícis meis, Dómine, ad te confúgi.;;142;;2
+Benedixísti, * Dómine, terram tuam: remisísti iniquitátem plebis tuæ.;;84;;7a
+In Dómino justificábitur * et laudábitur omne semen Israël.;;215;;5
+Lauda, * Jerúsalem, Dóminum.;;147;;1g3
 
 [Day5 Laudes2]
-Cor contrítum * et humiliátum, Deus, non despícies.;;50
-Propter nomen tuum, * Dómine, vivificábis me in æquitáte tua.;;142
-Deus, tu convérsus * vivificábis nos, et plebs tua lætábitur in te.;;84
-Cum irátus fúeris, * Dómine, misericórdiæ recordáberis.;;225
-Lauda * Deum tuum, Sion, qui annúntiat judícia sua Israël.;;147
+Cor contrítum * et humiliátum, Deus, non despícies.;;50;;6
+Propter nomen tuum, * Dómine, vivificábis me in æquitáte tua.;;142;;8G
+Deus, tu convérsus * vivificábis nos, et plebs tua lætábitur in te.;;84;;4E
+Cum irátus fúeris, * Dómine, misericórdiæ recordáberis.;;225;;1f
+Lauda * Deum tuum, Sion, qui annúntiat judícia sua Israël.;;147;;8G
 
 [Day5 Vespera]
-Dómine, * probásti me et cognovísti me.;;138(1-13)
-Mirabília ópera tua, * Dómine, et ánima mea cognóscit nimis.;;138(14-24)
-Ne derelínquas me, * Dómine, virtus salútis meæ.;;139
-Dómine, * clamávi ad te, exáudi me.;;140
-Educ de custódia * ánimam meam, Dómine, ad confiténdum nómini tuo.;;141
+Dómine, * probásti me et cognovísti me.;;138:1;;3g2
+Mirabília ópera tua, * Dómine, et ánima mea cognóscit nimis.;;138:2;;6-alt
+Ne derelínquas me, * Dómine, virtus salútis meæ.;;139;;4E
+Dómine, * clamávi ad te, exáudi me.;;140;;8c
+Educ de custódia * ánimam meam, Dómine, ad confiténdum nómini tuo.;;141;;3a
 
 [Day6 Laudes1]
-Fílii Sion * exsúltent in Rege suo.;;149
-Quam magnificáta * sunt ópera tua, Dómine.;;91
-Lætábitur justus * in Dómino et sperábit in eo.;;63
-Osténde nobis, Dómine, * lucem miseratiónum tuárum.;;216
-Omnis spíritus * laudet Dóminum.;;150
+Fílii Sion * exsúltent in Rege suo.;;149;;8c
+Quam magnificáta * sunt ópera tua, Dómine.;;91;;7a
+Lætábitur justus * in Dómino et sperábit in eo.;;63;;7c
+Osténde nobis, Dómine, * lucem miseratiónum tuárum.;;216;;3a
+Omnis spíritus * laudet Dóminum.;;150;;7a
 
 [Day6 Laudes2]
-Benígne fac, Dómine, * in bona voluntáte tua Sion.;;50
-Rectus Dóminus, * Deus noster, et non est iníquitas in eo.;;91
-A timóre inimíci * éripe, Dómine, ánimam meam.;;63
-In servis suis * miserébitur Dóminus et propítius erit terræ pópuli sui.;;226
-Laudáte * Dóminum secúndum multitúdinem magnitúdinis ejus.;;150
+Benígne fac, Dómine, * in bona voluntáte tua Sion.;;50;;4E
+Rectus Dóminus, * Deus noster, et non est iníquitas in eo.;;91;;2
+A timóre inimíci * éripe, Dómine, ánimam meam.;;63;;2
+In servis suis * miserébitur Dóminus et propítius erit terræ pópuli sui.;;226;;5
+(sed rubrica 1960) In servis suis * miserébitur Dóminus et propítius erit terræ pópuli sui.;;226:1960;;5
+Laudáte * Dóminum secúndum multitúdinem magnitúdinis ejus.;;150;;8G
 
 [Day6 Vespera]
-Benedíctus Dóminus * suscéptor meus et liberátor meus.;;143(1-8)
-Beátus pópulus * cujus Dóminus Deus ejus.;;143(9-15)
-Magnus Dóminus * et laudábilis nimis: et magnitúdinis ejus non est finis.;;144(1-7)
-Suávis Dóminus * univérsis: et miseratiónes ejus super ómnia ópera ejus.;;144(8-13)
-Fidélis Dóminus * in ómnibus verbis suis: et sanctus in ómnibus opéribus suis.;;144(14-21)
+Benedíctus Dóminus * suscéptor meus et liberátor meus.;;143:1;;6
+Beátus pópulus * cujus Dóminus Deus ejus.;;143:2;;8c
+Magnus Dóminus * et laudábilis nimis: et magnitúdinis ejus non est finis.;;144:1;;1a3
+Suávis Dóminus * univérsis: et miseratiónes ejus super ómnia ópera ejus.;;144:2;;8G
+Fidélis Dóminus * in ómnibus verbis suis: et sanctus in ómnibus opéribus suis.;;144:3;;4g
 
 [Daya0 Laudes]
 Allelúja, * allelúja;;92;99;62;66
@@ -371,8 +372,8 @@ In týmpano et choro, * in chordis et órgano laudáte Deum;;148;149;150
 [Monastic Laudes] (feria 7)
 Benígne fac * in bona voluntáte tua, Dómine;;50
 In veritáte tua * exáudi me, Dómine;;142
-Date magnitúdinem * Deo nostro;;226(1-32)
-;;226(33-65)
+Date magnitúdinem * Deo nostro;;226:1--monastic--
+;;226:2--monastic--
 In cýmbalis * benesonántibus laudáte Deum;;148;149;150
 
 [Monastic Vespera]

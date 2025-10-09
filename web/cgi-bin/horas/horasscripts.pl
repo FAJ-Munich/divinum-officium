@@ -309,7 +309,8 @@ sub psalm : ScriptFunc {
       $fname =~ s/1Dstar/1D/;
       $fname =~ s/1g4/1g3/;
     }
-
+    $fname =~ s/226\-/226.1--monastic---/;
+    
     # Format and edit the Psalm headline
     $psnum =~ s/in[,-]dir[,-]monasticus|in[,-]dir/in Directum/;
     $psnum =~ s/-monasticus//;
@@ -344,6 +345,17 @@ sub psalm : ScriptFunc {
   my $source;
 
   if ($psnum > 150 && $psnum < 300 && @lines) {
+    if ($fname =~ /226.1--monastic--/ && $version !~ /monastic/i) {
+      my $fname2 = $fname;
+      $fname2 =~ s/226.1/226.2/;
+      my @extralines = do_read(checkfile($lang, "Psalterium/Psalmorum/$ffolder/$fname"));
+      splice(@extralines, 0, 6);
+      $extralines[1] =~ /\((.*?)\)/;
+      my $tenor = $1;
+      $extralines[0] =~ s/\)([\w\s\,\.\:]+\(.*?\)[\w\s\,\.\:]+)\(.*?\)/\)$1($tenor)/;
+      $extralines[0] =~ s/\([cf][1234]b?\)([\w\s\,\.\:]+)\(.*?\)/1. $1($tenor)/;
+      push(@lines, @extralines);
+    }
     if ($fname =~ /\.gabc/) {
       $psnum =~ s/(;.*)//;
       my $tonus = $1;
