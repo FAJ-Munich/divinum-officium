@@ -287,47 +287,52 @@ sub psalm : ScriptFunc {
     $psnum =~ s/(,|solemn)(1g3|2|in,dir)$/$1$2-monasticus/ if $version =~ /monastic/i;
     $psnum =~ s/(,|solemn)([34])([abg])/$1$2-antiquo-$3/ if $version =~ /monastic|1570/i;
 
-    # Deal with formatting specifics necessary for perl scripting
-    $fname = ($psnum =~ /,/) ? "$psnum.gabc" : "Psalm$psnum.txt";    # distingiush between chant and text
-    $fname =~ s/\:/\./g;
-    $fname =~ s/,/-/g;                                               # file name with dash not comma
-    $psnum =~ s/\:\:/ \& /g;                                         # Multiple Psalms joined together
-    $psnum =~ s/\:/; Part: /;                                        # n-th Part of Psalm
-    $psnum =~ s/,,.*?,,//;
-    $psnum =~ s/,/; Tonus: /;                                        # name Tone in Psalm headline
-
-    # Extract Tone and folder (also to be used for Doxology)
-    $ftone = ($psnum =~ /Tonus: (.*)/) ? $1 : '';
-    $ffolder = ($ftone =~ /^(solemn|\d)/) ? $1 : 'specialis';
-    $ffolder .= '-antiquo' if $ftone =~ /antiquo/;
-
-    if ($ffolder =~ /([18]|solemn)/ && $version =~ /monastic/i) {
-
-      # redirect Monastic tones to the correct files acc. to Roman
-      $fname =~ s/8a/8Gstar/;
-      $fname =~ s/1D$/1D-/;
-      $fname =~ s/1Dstar/1D/;
-      $fname =~ s/1g4/1g3/;
-    }
-    $fname =~ s/226\-/226.1--monastic---/;
-    
-    # Format and edit the Psalm headline
-    $psnum =~ s/in[,-]dir[,-]monasticus|in[,-]dir/in Directum/;
-    $psnum =~ s/-monasticus//;
-    $psnum =~ s/(irregularis).*/$1/;
-    $psnum =~ s/per$/Peregrinus/;
-    $psnum =~ s/,antiquo,alt,(.*)/$1 alteratus usu antiqui/;
-    $psnum =~ s/,alt,(.*)/$1 alteratus/;
-    $psnum =~ s/3,antiquo,(.*)/3$1 in tenore antiquo/;
-    $psnum =~ s/4,antiquo,(.*)/4$1 usu antiqui/;
-    $psnum =~ s/solemn(.*)/$1; Mediatio solemnis/;
-    $psnum =~ s/([a-gA-G1-5])star/$1*/;
-
-    if (!(-e "$datafolder/$lang/Psalterium/Psalmorum/$ffolder/$fname")) {
-      $psnum =~ s/;.*//;
+    # Distingiush between chant and text
+    if ($psnum !~ /,/) {
       $fname = "Psalm$psnum.txt";
-      $ffolder = '';
-      $ftone = '';
+    } else {
+      
+      # Deal with formatting specifics necessary for perl scripting
+      $fname = ($psnum =~ /,/) ? "$psnum.gabc" : "Psalm$psnum.txt";
+      #$fname =~ s/\:/\./g;
+      $fname =~ s/,/-/g;                                               # file name with dash not comma
+      #$psnum =~ s/\:\:/ \& /g;                                         # Multiple Psalms joined together
+      #$psnum =~ s/\:/; Part: /;                                        # n-th Part of Psalm
+      #$psnum =~ s/,,.*?,,//;
+      $psnum =~ s/,/; Tonus: /;                                        # name Tone in Psalm headline
+      
+      # Extract Tone and folder (also to be used for Doxology)
+      $ftone = ($psnum =~ /Tonus: (.*)/) ? $1 : '';
+      $ffolder = ($ftone =~ /^(solemn|\d)/) ? $1 : 'specialis';
+      $ffolder .= '-antiquo' if $ftone =~ /antiquo/;
+      
+      if ($ffolder =~ /([18]|solemn)/ && $version =~ /monastic/i) {
+        
+        # redirect Monastic tones to the correct files acc. to Roman
+        $fname =~ s/8a/8Gstar/;
+        $fname =~ s/1D$/1D-/;
+        $fname =~ s/1Dstar/1D/;
+        $fname =~ s/1g4/1g3/;
+      }
+      
+      # Format and edit the Psalm headline
+      $psnum =~ s/in[,-]dir[,-]monasticus|in[,-]dir/in Directum/;
+      $psnum =~ s/-monasticus//;
+      $psnum =~ s/(irregularis).*/$1/;
+      $psnum =~ s/per$/Peregrinus/;
+      $psnum =~ s/,antiquo,alt,(.*)/$1 alteratus usu antiqui/;
+      $psnum =~ s/,alt,(.*)/$1 alteratus/;
+      $psnum =~ s/3,antiquo,(.*)/3$1 in tenore antiquo/;
+      $psnum =~ s/4,antiquo,(.*)/4$1 usu antiqui/;
+      $psnum =~ s/solemn(.*)/$1; Mediatio solemnis/;
+      $psnum =~ s/([a-gA-G1-5])star/$1*/;
+      
+      if (!(-e "$datafolder/$lang/Psalterium/Psalmorum/$ffolder/$fname")) {
+        $psnum =~ s/;.*//;
+        $fname = "Psalm$psnum.txt";
+        $ffolder = '';
+        $ftone = '';
+      }
     }
   }
 
@@ -341,22 +346,12 @@ sub psalm : ScriptFunc {
 
   # Prepare title and source if canticle
   my $title = translate('Psalmus', $lang) . " $psnum";
-  $title .= "($v1$c1-$v2$c2)" if $v1;
+  $title =~ s/(; Tonus:.*)?$/($v1$c1-$v2$c2)$1/ if $v1;
   my $source;
 
   if ($psnum > 150 && $psnum < 300 && @lines) {
-    if ($fname =~ /226.1--monastic--/ && $version !~ /monastic/i) {
-      my $fname2 = $fname;
-      $fname2 =~ s/226.1/226.2/;
-      my @extralines = do_read(checkfile($lang, "Psalterium/Psalmorum/$ffolder/$fname"));
-      splice(@extralines, 0, 6);
-      $extralines[1] =~ /\((.*?)\)/;
-      my $tenor = $1;
-      $extralines[0] =~ s/\)([\w\s\,\.\:]+\(.*?\)[\w\s\,\.\:]+)\(.*?\)/\)$1($tenor)/;
-      $extralines[0] =~ s/\([cf][1234]b?\)([\w\s\,\.\:]+)\(.*?\)/1. $1($tenor)/;
-      push(@lines, @extralines);
-    }
     if ($fname =~ /\.gabc/) {
+      map { s/[\(\)]//g; } @lines[0..5];
       $psnum =~ s/(;.*)//;
       my $tonus = $1;
       my $latFile = "$datafolder/Latin/Psalterium/Psalmorum/Psalm$psnum.txt";
@@ -385,14 +380,25 @@ sub psalm : ScriptFunc {
     }
   }
 
-  @lines = grep {    # take only needed lines if boundary given
-    (
+  # take only needed lines if boundary given
+  if ($lines[6] =~ /^\(([cf][1-4]b?)\)[\s\w\,\.\:]+\((.*?)\)[\s\w\,\.\:]+\((.*?)\)/ && $v1) {
+    my ($clef, $int1, $int2) = ($1, $2, $3);
+    # There are 6 GABC header lines to be considered:
+    splice(@lines, $v2+6, 1000);  # Remove rest of the psalm
+    splice(@lines, 6, $v1-1);     # Remove inital part of the psalm
+    # Insert intonation
+    $lines[6] =~ s/^\d+\./($clef)/;
+    $lines[6] =~ s/^(\([cf][1-4]b?\)[\s\w\,\.\:]+)\(.*?\)([\s\w\,\.\:]+)\(.*?\)/$1($int1)$2($int2)/;
+  } elsif ($v1) {
+    @lines = grep {
+      (
       /^(?:\d+:)?(?<v>\d+)(?<c>[a-z])?/                # line has numbering
-        && ($+{v} == $v1 && (!$c1 || $+{c} ge $c1))    # first line
-        || ($+{v} == $v2 && (!$c2 || $+{c} le $c2))    # last line
-        || ($+{v} > $v1 && $+{v} < $v2)                # betwean
-    )
-  } @lines if $v1;
+      && ($+{v} == $v1 && (!$c1 || $+{c} ge $c1))    # first line
+      || ($+{v} == $v2 && (!$c2 || $+{c} le $c2))    # last line
+      || ($+{v} > $v1 && $+{v} < $v2)                # between
+      )
+    } @lines;
+  }
 
   if ($antline && $psnum != 232) {                     # put dagger if needed
     $lines[0] =~ s/^\d+:\d+[a-z]? \K(.*)/ getantcross($1, $antline) /e;

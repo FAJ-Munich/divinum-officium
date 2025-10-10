@@ -315,7 +315,7 @@ V. Ímmola Deo sacrifium laudis.
 R. Et redde altíssimo vota tua.
 
 [Daya3]
-{name: Avertit Dominus;annotation: 8g;%%(c4)A(g)vér(f)tit(h) Dó(j)mi(j)nus(i) *(,) cap(g)ti(i)vi(j)tá(h)tem(h) ple(i)bis(h) su(g)æ.(g) (::)};;'52,8g';'54,8g'
+{name: Avertit Dominus;annotation: 8g;%%(c4)A(g)vér(f)tit(h) Dó(j)mi(j)nus(i) *(,) cap(g)ti(i)vi(j)tá(h)tem(h) ple(i)bis(h) su(g)æ.(g) (::)};;52;54;;8G
 Quóniam * in te confídit ánima mea.;;55;56
 Juste judicáte * fílii hóminum.;;57;58
 Da nobis * Dómine auxílium de tribulatióne.;;59;60

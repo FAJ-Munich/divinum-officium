@@ -98,8 +98,8 @@ Laudáte * Dóminum qui sanat contrítos corde, et álligat contritiónes eórum
 
 [Day4 Vespera]
 Ecce quam bonum * et quam jucúndum habitáre fratres in unum.;;132;;1a
-Confitémini Dómino * quóniam in ætérnum misericórdia ejus.;;135:1;;3g2
-Confitémini Dómino * quia in humilitáte nostra memor fuit nostri.;;135:2;;3g2
+Confitémini Dómino * quóniam in ætérnum misericórdia ejus.;;135(1-9);;3g2
+Confitémini Dómino * quia in humilitáte nostra memor fuit nostri.;;135(10-27);;3g2
 Adhǽreat lingua mea * fáucibus meis, si non memínero tui Jerúsalem.;;136;;3a
 Confitébor * nómini tuo, Dómine, super misericórdia et veritáte tua.;;137;;5
 
@@ -118,8 +118,8 @@ Cum irátus fúeris, * Dómine, misericórdiæ recordáberis.;;225;;1f
 Lauda * Deum tuum, Sion, qui annúntiat judícia sua Israël.;;147;;8G
 
 [Day5 Vespera]
-Dómine, * probásti me et cognovísti me.;;138:1;;3g2
-Mirabília ópera tua, * Dómine, et ánima mea cognóscit nimis.;;138:2;;6-alt
+Dómine, * probásti me et cognovísti me.;;138(1-12);;3g2
+Mirabília ópera tua, * Dómine, et ánima mea cognóscit nimis.;;138(13-23);;6-alt
 Ne derelínquas me, * Dómine, virtus salútis meæ.;;139;;4E
 Dómine, * clamávi ad te, exáudi me.;;140;;8c
 Educ de custódia * ánimam meam, Dómine, ad confiténdum nómini tuo.;;141;;3a
@@ -136,15 +136,15 @@ Benígne fac, Dómine, * in bona voluntáte tua Sion.;;50;;4E
 Rectus Dóminus, * Deus noster, et non est iníquitas in eo.;;91;;2
 A timóre inimíci * éripe, Dómine, ánimam meam.;;63;;2
 In servis suis * miserébitur Dóminus et propítius erit terræ pópuli sui.;;226;;5
-(sed rubrica 1960) In servis suis * miserébitur Dóminus et propítius erit terræ pópuli sui.;;226:1960;;5
+(sed rubrica 1960) In servis suis * miserébitur Dóminus et propítius erit terræ pópuli sui.;;226(1-27);;5
 Laudáte * Dóminum secúndum multitúdinem magnitúdinis ejus.;;150;;8G
 
 [Day6 Vespera]
-Benedíctus Dóminus * suscéptor meus et liberátor meus.;;143:1;;6
-Beátus pópulus * cujus Dóminus Deus ejus.;;143:2;;8c
-Magnus Dóminus * et laudábilis nimis: et magnitúdinis ejus non est finis.;;144:1;;1a3
-Suávis Dóminus * univérsis: et miseratiónes ejus super ómnia ópera ejus.;;144:2;;8G
-Fidélis Dóminus * in ómnibus verbis suis: et sanctus in ómnibus opéribus suis.;;144:3;;4g
+Benedíctus Dóminus * suscéptor meus et liberátor meus.;;143(1-9);;6
+Beátus pópulus * cujus Dóminus Deus ejus.;;143(10-18);;8c
+Magnus Dóminus * et laudábilis nimis: et magnitúdinis ejus non est finis.;;144(1-7);;1a3
+Suávis Dóminus * univérsis: et miseratiónes ejus super ómnia ópera ejus.;;144(8-13);;8G
+Fidélis Dóminus * in ómnibus verbis suis: et sanctus in ómnibus opéribus suis.;;144(14-22);;4g
 
 [Daya0 Laudes]
 Allelúja, * allelúja;;92;99;62;66
@@ -372,8 +372,8 @@ In týmpano et choro, * in chordis et órgano laudáte Deum;;148;149;150
 [Monastic Laudes] (feria 7)
 Benígne fac * in bona voluntáte tua, Dómine;;50
 In veritáte tua * exáudi me, Dómine;;142
-Date magnitúdinem * Deo nostro;;226:1--monastic--
-;;226:2--monastic--
+Date magnitúdinem * Deo nostro;;226(1-32)
+;;226(33-65)
 In cýmbalis * benesonántibus laudáte Deum;;148;149;150
 
 [Monastic Vespera]
@@ -398,28 +398,28 @@ Et omnis * mansuetúdinis ejus;;131
 Ecce quam bonum, * et quam jucúndum, habitáre fratres in unum!;;132
 
 [Monastic Vespera] (feria 4)
-{name:Omnia quaecumque;annotation:3.g;%%(c4)O(g)mni(h)a(hj) *() quæ(ji)cúm(h)que(g) vó(gh)lu(g)it,(g.) (,) Dó(g_f)mi(g)nus(gf) fe(e.)cit.(e.) (::)};;'134,3g'
-{name:Quoniam;annotation:3.g;%%(c4)Quó-(g)ni-(h)am(hj) * in(ji) ae-(h)tér(g>)num(gh) mi-(g)se-(e')ri-(f)cór-(ggf~)di-(gh)a(gf) e-(e.)jus.(e.) (::)};;'135,3g'
-{name:Hymnum cantáte;annotation:8.G;%%(c4) HY(hg~)mnum(f') *() can(g>)tá(g_)te(h') no(g)bis(f.) (,) de(h!iwj) cán(i)ti(jkj)cis(h) Si(hg)on(g.) (::)};;'136,8G'
-{name:In conspéctu;annotation:5.a;%%(c3) IN(f) con(e')spé(f)ctu(e_d) * An(h)ge(h_i)ló(h_g)rum(f'_) (,) psal(f)lam(e') ti(f)bi(ed) De(ef)us(ef) me(d.)us.(d.) (::)};;'137,5'
+{name:Omnia quaecumque;annotation:3.g;%%(c4)O(g)mni(h)a(hj) *() quæ(ji)cúm(h)que(g) vó(gh)lu(g)it,(g.) (,) Dó(g_f)mi(g)nus(gf) fe(e.)cit.(e.) (::)};;134;;3g
+{name:Quoniam;annotation:3.g;%%(c4)Quó-(g)ni-(h)am(hj) * in(ji) ae-(h)tér(g>)num(gh) mi-(g)se-(e')ri-(f)cór-(ggf~)di-(gh)a(gf) e-(e.)jus.(e.) (::)};;135;;3g
+{name:Hymnum cantáte;annotation:8.G;%%(c4) HY(hg~)mnum(f') *() can(g>)tá(g_)te(h') no(g)bis(f.) (,) de(h!iwj) cán(i)ti(jkj)cis(h) Si(hg)on(g.) (::)};;136;;8G
+{name:In conspéctu;annotation:5.a;%%(c3) IN(f) con(e')spé(f)ctu(e_d) * An(h)ge(h_i)ló(h_g)rum(f'_) (,) psal(f)lam(e') ti(f)bi(ed) De(ef)us(ef) me(d.)us.(d.) (::)};;137;;5
 
 [Monastic Vespera] (feria 5)
-Dómine, * probásti me, et cognovísti me;;138:1--monastic--
-;;138:2--monastic--
+Dómine, * probásti me, et cognovísti me;;138(1-9)
+;;138(10-23)
 A viro iníquo * líbera me, Dómine;;139
 Dómine, * clamávi ad te, exáudi me;;140
 
 [Monastic Vespera] (feria 6)
 Pórtio mea, * Dómine, sit in terra vivéntium;;141
-Benedíctus * Dóminus, Deus meus;;143:1--monastic--
-;;143:2--monastic--
-Per síngulos dies * benedícam te, Dómine;;144:1--monastic--
+Benedíctus * Dóminus, Deus meus;;143(1-9)
+;;143(10-18)
+Per síngulos dies * benedícam te, Dómine;;144(1-9)
 
 [Monastic Vespera] (feria 7)
-{name:Regnum tuum;office-part:Antiphona;annotation:7c2;book:Antiphonale Monasticum, 1934, p. 160;transcriber:gregofacsimil;%%(c3)RE(h)gnum(h) tu(h_i)um,(i) *() Dó(hi__H_G_)mi(f')ne,(h) re(g_f)gnum(e'_) óm(f>)ni(d)um(f') sæ(h)cu(g)ló(e.)rum.(e.) (::)};;'144:2--monastic--,7c2'
-{name:Laudabo;office-part:Antiphona; annotation:4.E;book:Antiphonale Monasticum, 1934, p. 160;transcriber:Harpa Dei;%%(c4) LAu(f)dá(fe)bo(d) *() De(e')um(f) me(g_h)um(g'_) in(f) vi(g)ta(gf) me(e.)a.(e.) (::)};;'145,4E'
-{name:Deo nostro;office-part:Antiphona;annotation:8.a;book:Antiphonale Monasticum, 1934, p. 161;transcriber:Sr. Maria Ruth;%%(c3) DE(h)o(g') no(h)stro(f.) *() ju(ed)cún(e')da(f) sit(g') lau(f>)dá(e)ti(de)o.(e.) (::)};;'146,8a'
-{name:Lauda Jerusalem;office-part:Antiphona;annotation:t. irreg.;book:Antiphonale Monasticum, 1934, p. 162;transcriber:Harpa Dei;%%(c4) Lau(h)da(g') *() Je(g)rú(f')sa(g)lem(ixh_i) Dó(g')mi(ixi)num.(h.) (::)};;'147,irregularis-a'
+{name:Regnum tuum;office-part:Antiphona;annotation:7c2;book:Antiphonale Monasticum, 1934, p. 160;transcriber:gregofacsimil;%%(c3)RE(h)gnum(h) tu(h_i)um,(i) *() Dó(hi__H_G_)mi(f')ne,(h) re(g_f)gnum(e'_) óm(f>)ni(d)um(f') sæ(h)cu(g)ló(e.)rum.(e.) (::)};;144(10-22);;7c2
+{name:Laudabo;office-part:Antiphona; annotation:4.E;book:Antiphonale Monasticum, 1934, p. 160;transcriber:Harpa Dei;%%(c4) LAu(f)dá(fe)bo(d) *() De(e')um(f) me(g_h)um(g'_) in(f) vi(g)ta(gf) me(e.)a.(e.) (::)};;145;;4E
+{name:Deo nostro;office-part:Antiphona;annotation:8.a;book:Antiphonale Monasticum, 1934, p. 161;transcriber:Sr. Maria Ruth;%%(c3) DE(h)o(g') no(h)stro(f.) *() ju(ed)cún(e')da(f) sit(g') lau(f>)dá(e)ti(de)o.(e.) (::)};;146;;8a
+{name:Lauda Jerusalem;office-part:Antiphona;annotation:t. irreg.;book:Antiphonale Monasticum, 1934, p. 162;transcriber:Harpa Dei;%%(c4) Lau(h)da(g') *() Je(g)rú(f')sa(g)lem(ixh_i) Dó(g')mi(ixi)num.(h.) (::)};;147;;irregularis-a
 
 [Cistercian Ant Vespera]
 Laudáte * Dóminum omnes Gentes.;;115;116
