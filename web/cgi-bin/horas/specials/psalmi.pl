@@ -668,11 +668,11 @@ sub antetpsalm {
 
     for (my $i = 0; $i < @p; $i++) {
       my $p = $p[$i];
-      $p =~ s/(\(.*?\-.*?\))(.*\')$/$2$1/;  # GABC: pull Verse numbers out of Tone
+      $p =~ s/(\(.*?\-.*?\))(.*\')$/$2$1/;    # GABC: pull Verse numbers out of Tone
       $p =~ s/[\(\-]/\,/g;
       $p =~ s/\)//;
       if ($i < (@p - 1)) { $p = '-' . $p; }
-      $p =~ s/\-\'/\'\-/;    # ensure dash behind apostrophe to be passed through to psalm script
+      $p =~ s/\-\'/\'\-/;                     # ensure dash behind apostrophe to be passed through to psalm script
       push(@s, "\&psalm($p)", "\n");
     }
   }

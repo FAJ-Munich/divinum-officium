@@ -204,7 +204,7 @@ Cantémus Dómino * glorióse.;;224
 In sanctis ejus * laudáte Deum.;;148;149;150
 
 [Daya5 Laudes]
-Spíritu principáli * confírma cor meum Deus.;;50
+Spíritu principáli * confírma cor meum Deus.;;50;;8c
 In veritáte tua * exáudi me Dómine.;;142
 Illúmina, Dómine, * vultum tuum super nos.;;62;66
 Dómine * audívi auditiónem tuam et tímui.;;225
