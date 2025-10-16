@@ -296,14 +296,34 @@ sub handleverses {
     } elsif ($_[2] =~ /4/) {
       if ($_[3] !~ /alt/) {
 
-        # 4E:   e|h gh hr g h 'i hr h. * hr g h ih gr 'gf e.
-        # 4g:   e|h gh hr g h 'i hr h. * hr        'h  gr g.
+        # 4E: e|h gh hr g h 'i hr h. * hr g  h ih  gr 'gf e.
+        # 4E*:                       * hr g  h ih  gr 'gf ef..  (Ant. Monast.)
+        # 4d:                        * hr g  h ih  gr 'gf ed..  (Ant. Monast.)
+        # 4E2:                       * hr hg h hih gr 'gf e.    (Ant. Monast.)
+        # 4E2*:                      * hr hg h hih gr 'gf ef..  (Ant. Monast.)
+        # 4d2:                       * hr hg h hih gr 'gf ed..  (Ant. Monast.)
+        # 4a:                        * hr g  h i   'g  hr h.    (Ant. Monast.)
+        # 4g:                        * hr          'h  gr g.
         s/\(e\)(.*?)\(gh\)/(h)$1(gh)/ unless $_[3] =~ /antiquo/;
 
-        if ($_[3] =~ /g/) {
-          while (s/(\:.*?)<i>(.*?)<\/i>([\,\.\,\:]?)\((?:[gh]|ih.*?)\)/$1$2$3(h)/) { }
-          s/(<b>.*?<\/b>[\,\.\,\:]?)\(gr.*?\)<b>(.*?)<\/b>([\,\.\,\:]?)\(gf.*?\)(.*?)\(e\.\)/$1(h)$2$3(gr)$4(g.)/;
-          s/(<b>.*?<\/b>[\,\.\,\:]?)\(gf.*?\)(.*?)\(e\.\)/$1(h gr)$2(g.)/;
+        if ($_[3] =~ /star|2|d/) {
+          my $fin = $_[3] =~ /star/ ? 'ef..' : $_[3] =~ /d/ ? 'ed..' : 'e.';
+          s/\(e\.\)/($fin)/;
+
+          if ($_[3] =~ /2/) {
+            s/(.*<i>(.*?)<\/i>[\,\.\,\:]?)\(ih/$1(hih/;
+            s/(.*<i>(.*?)<\/i>[\,\.\,\:]?)\(g\)/$1(hg)/;
+          }
+        } elsif ($_[3] =~ /[ag]$/) {
+          my ($fin, $sup, $prep) =
+            $_[3] =~ /g/ ? ('g.', 'gr', 'h') : ('h.', 'hr', 'g');
+          s/(<b>.*?<\/b>[\,\.\,\:]?)\(gr.*?\)<b>(.*?)<\/b>([\,\.\,\:]?)\(gf.*?\)(.*?)\(e\.\)/$1($prep)$2$3($sup)$4($fin)/;
+          s/(<b>.*?<\/b>[\,\.\,\:]?)\(gf.*?\)(.*?)\(e\.\)/$1($prep $sup)$2($fin)/;
+          s/(.*<i>(.*?)<\/i>[\,\.\,\:]?)\(ih.*?\)/$1(i)/;
+
+          if ($_[3] =~ /g/) {
+            while (s/(\:.*?)<i>(.*?)<\/i>([\,\.\,\:]?)\((?:[ghi])\)/$1$2$3(h)/) { }
+          }
         }
       } else {
 
