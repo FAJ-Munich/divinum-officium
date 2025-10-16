@@ -782,9 +782,13 @@ sub getcommemoratio {
   postprocess_vr($v, $lang);
 
   if ($lang =~ /gabc/i) {    # Change Versicle into the simple tone
-    $v =~ s/\([a-zA-Z0-9\_\.\~\>\<\'\/\!]+?\) (R\/\.)?\(::\)/\(f\.\) $1\(::\)/g;
-    $v =~ s/\((?:hi|hr|h\_0|f?e|f\'?|f\_0?h|h\_\')\)/\(h\)/g;    # More changes for solemn Versicle
-    $v =~ s/\(\,\)//g;
+    map {
+      s/hr\)(.*?\(\,\))/h)$1/g;    # remove (first) superveniente in Tonus solemnis
+      s/(.*\(.*?)hr\)/$1fr)/g;     # change supervenient at puncutum
+      s/\([a-zA-Z0-9\_\.\~\>\<\'\/\!]+?\) (R\/\.)?\(::\)/\(f\.\) $1\(::\)/g;    # change finalis
+      s/\((?:hi|hr|h\_0|f?e|f\'?|f\_0?h|h\_\')\)/\(h\)/g;                       # More changes for solemn Versicle
+      s/\(\,\)//g;
+    } $v;
   }
 
   # my $w = "!" . &translate("Commemoratio", $lang) . (($lang !~ /latin/i || $wday =~ /tempora/i) ? ':' : ''); # Adding : except for Latin Sancti which are in Genetiv
