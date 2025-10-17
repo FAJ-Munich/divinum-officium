@@ -428,7 +428,7 @@ sub psalmi_major {
       && ($communetype =~ /ex/ || ($version =~ /Trident/i && $winner =~ /Sancti/i)))
     {
       ($w, $c) = getproprium('Ant Vespera 3', $lang, 1);
-      setbuild2("Antiphona $commune");
+      setbuild2("Antiphona $commune") if $w;
     }
   }
 
@@ -446,7 +446,7 @@ sub psalmi_major {
     || ($version =~ /Trident/i && $hora eq 'Laudes' && $winner =~ /Sancti/))
   {
     ($w, $c) = getproprium("Ant $hora", $lang, 1);
-    setbuild2("Antiphona $commune");
+    setbuild2("Antiphona $commune") if $w;
   }
   if ($w) { @antiphones = split("\n", $w); $comment = $c; }
 
@@ -556,6 +556,7 @@ sub psalmi_major {
       if ($lang =~ /gabc/i) {
 
         # recombine antiphones with psalms and psalmtones according to antiphone
+        $p =~ s/;;.*//;    # Strip Psalterium tone
         $p = ($p =~ /\'(.*),/s) ? $1 : $p;
 
         $p = ($antiphones[$i] =~ s/\;\;([0-9\;\n]+)// && !$aflag) ? $1 : $p;

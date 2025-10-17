@@ -133,7 +133,7 @@ $Deo gratias
 R.br. {gabc:Commune/C1/rb--lux_perpetua--solesmes_1934}
 
 [Ant Vespera 3]
-@:Ant Vespera:1 s/;;;;;;/;;109;;/
+@:Ant Vespera:1 s/;;;;/;;109;;/
 @:Ant Vespera:2 s/;;;;/;;112;;/
 @:Ant Vespera:3 s/;;;;/;;115;;/
 @:Ant Vespera:4 s/;;;;/;;125;;/
