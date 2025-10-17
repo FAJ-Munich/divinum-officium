@@ -564,12 +564,14 @@ sub setcell {
           $gregFile = checkfile($lang, $gregFile);
         }
 
-        if (-e $gregFile) {
+        if (-e "$gregFile") {
           my (@gregScore) = do_read($gregFile);
 
           if (@gregScore) {
             $text =~ s/gabc:$temp/@gregScore/s;
           }
+        } else {
+          $text =~ s/\{gabc:(.+?)\}/'GABC score $gregFile not found'/;
         }
       }
 
@@ -580,7 +582,7 @@ sub setcell {
           s/\{(\(|name:|annotation:|initial-style:|centering-scheme:)/<DIV ID="GABC$hora$searchind$dId" class="GABC">$1/s;
         $text =~ s/\(\:\:\)\}/\(\:\:\)<\/DIV><DIV ID="GCHANT$hora$searchind$dId" class="GCHANT" width="100\%"><\/DIV>/s;
         $text =~
-          s/name:([a-zA-Z\s\.\:]*?)\(([a-zA-Z\s\.\:]*?)\)([a-zA-Z\s\.\:]*?);/$1 $2 $3;/gm; # remove parentheses in title
+          s/(name:[a-zA-Z\s\.\:]*?)\(([a-zA-Z\s\.\:]*?)\)([a-zA-Z\s\.\:]*?);/$1 $2 $3;/gm; # remove parentheses in title
         $text =~ s/<i>T\.\s?P\.<\/i>/\_\^T. P.\^\_ /g;                                     #Tempore Paschalis
         $text =~ s/<\/?i>/\_/g;                                                            # italics
         $text =~ s/<\/?b>|<v>\\greheightstar<\/v>/*/g;

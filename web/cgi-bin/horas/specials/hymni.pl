@@ -100,7 +100,7 @@ sub hymnusmajor {
     $name .= ' hiemalis'
       if (
            $name =~ /Day0/i
-        && ($name =~ /Laudes/i || $version =~ /cist/i)
+        && ($name =~ /Laudes/i || $version =~ /cist/i || $lang =~ /gabc/i)
         && ( $dayname[0] =~ /Epi[2-6]/
           || $dayname[0] =~ /Epi1/i && $version =~ /cist/i
           || $dayname[0] =~ /Quadp/i

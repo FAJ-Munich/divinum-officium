@@ -4,133 +4,26 @@
 $Deo gratias
 
 [Hymnus Day0 Laudes]
-{:H-Ecceiamnoctis:}v. Ecce, jam noctis tenuátur umbra,
-Lux et auróræ rútilans corúscat:
-Súpplices rerum Dóminum canóra
-Voce precémur:
-_
-Ut reos culpæ miserátus omnem
-Pellat angórem, tríbuat salútem,
-Donet et nobis bona sempitérnæ
-Múnera pacis.
-_
-Præstet hoc nobis Déitas beáta
-Patris, ac Nati, paritérque Sancti
-Spíritus, cujus résonat per omnem
-Glória mundum.
-Amen.
+{gabc:Psalterium/Dominica/hy--ecce_jam_noctis_tenuatur--solesmes}
 
 [HymnusM Day0 Laudes]
-@:Hymnus Day0 Laudes:s/Ecce,/Ecce/ s/Lux et auróræ/Lucis auróra/ s/Súpplices.*?:/Nísibus totis rogitémus omnes\nCunctipoténtem:/s s/reos culpæ miserátus/Deus nostri miserátus, / s/angórem/languórem/ s/bona.*?\./pietáte Patris\nRegna polorum./s s/résonat.*/réboat in omni\nGlória mundo.\nAmen./s
+{gabc:Psalterium/Dominica/hy--ecce_jam_noctis--solesmes_1934}
 
 [HymnusM Day0 Laudes] (rubrica cisterciensis)
 @:Hymnus Day0 Laudes:s/Ecce,/Ecce/ s/Lux et auróræ/Lucis auróra/ s/Súpplices.*?:/Nísibus totis rogitémus omnes\nCunctipoténtem:/s s/reos culpæ miserátus/Deus nostri miserátus, / s/angórem/languórem/ s/bona.*?\./pietáte Patris\nRegna polórum./s
 
 [Hymnus Day0 Laudes hiemalis]
-{:H-Aeternererum:}v. Ætérne rerum Cónditor,
-Noctem diémque qui regis,
-Et témporum das témpora,
-Ut álleves fastídium.
-_
-Noctúrna lux viántibus
-A nocte noctem ségregans,
-Præco diéi jam sonat,
-Jubárque solis évocat.
-_
-Hoc excitátus Lúcifer
-Solvit polum calígine:
-Hoc omnis errónum cohors
-Viam nocéndi déserit.
-_
-Hoc nauta vires cólligit,
-Pontíque mitéscunt freta:
-Hoc, ipsa petra Ecclésiæ,
-Canénte, culpam díluit.
-_
-Surgámus ergo strénue:
-Gallus jacéntes éxcitat,
-Et somnoléntos íncrepat,
-Gallus negántes árguit.
-_
-Gallo canénte, spes redit,
-Ægris salus refúnditur,
-Mucro latrónis cónditur,
-Lapsis fides revértitur.
-_
-Jesu, labántes réspice,
-Et nos vidéndo córrige:
-Si réspicis, labes cadunt,
-Fletúque culpa sólvitur.
-_
-Tu, lux, refúlge sénsibus,
-Mentísque somnum díscute:
-Te nostra vox primum sonet,
-Et vota solvámus tibi.
-_
-Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sǽculum.
-Amen.
+{gabc:Psalterium/Dominica/hy--aeterne_rerum_conditor--solesmes}
 
 [HymnusM Day0 Laudes hiemalis_]
-v. Ætérne rerum Cónditor,
-Noctem diémque qui regis,
-Et témporum das témpora,
-Ut álleves fastídium.
-_
-Præco diéi jam sonat,
-Noctis profúndæ pérvigil,
-Noctúrna lux viántibus,
-A nocte noctem ségregans.
-_
-Hoc excitátus Lúcifer
-Solvit polum calígine,
-Hoc omnis errónum cohors
-Viam nocéndi déserit.
-_
-Hoc nauta vires cólligit,
-Pontíque mitéscunt freta:
-Hoc, ipsa Petr[a] Ecclésiæ,
-Canénte, culpam díluit.
-_
-Surgámus ergo strénue,
-Gallus jacéntes éxcitat,
-Et somnoléntos íncrepat,
-Gallus negántes árguit.
-_
-Gallo canénte spes redit,
-Ægris salus refúnditur,
-Mucro latrónis cónditur,
-Lapsis fides revértitur.
-_
-Jesu labéntes réspice,
-Et nos vidéndo córrige:
-Si réspicis, lapsus cadunt,
-Fletúque culpa sólvitur.
-_
-Tu lux refúlge sénsibus,
-Mentísque somnum díscute:
-Te nostra vox primum sonet,
-Et vota solvámus tibi.
-_
-Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Et nunc et in perpétuum.
-Amen.
+{gabc:Psalterium/Dominica/hy--aeterne_rerum_conditor--solesmes_1934}
 
 [Dominica Versum 2]
 {initial-style:0;%%(c3) V/. Dó(h)mi(h)nus(h) re(h)gná(h)vit,(h) de(h)có(h)rem(h) índ(h)u(hr)it.(g_'/hvGF'Efgf.) (::)
 R/. Índ(h)u(h)it(h) Dó(h)mi(h)nus(h) for(h)ti(h)tú(h)di(h)nem,(h) et(h) præ(h)cín(h)xit(h) se(h) vir(h)tú(h hr)te.(g_'/hvGF'Efgf.) (::)}
 
 [Responsory Dominica Laudes_]
-R.br. Inclína cor meum, Deus, * In testimónia tua.
-R. Inclína cor meum, Deus, * In testimónia tua.
-V. Avérte óculos meos, ne vídeant vanitátem: in via tua vivífica me.
-R. In testimónia tua.
-&Gloria
-R. Inclína cor meum, Deus, * in testimónia tua.
+R.br. {gabc:Psalterium/Dominica/rb--inclina_cor_meum--solesmes_1934}
 
 [Responsory Dominica Laudes_C]
 R.br. Hæc est dies * Quam fecit Dóminus.  
@@ -146,39 +39,16 @@ R. Hæc est dies * Quam fecit Dóminus.
 $Deo gratias
 
 [Responsory Dominica Vespera]
-R.br. Quam magnificáta sunt * ópera tua, Dómine.
-R. Quam magnificáta sunt * ópera tua, Dómine.
-V. Ómnia in sapiéntia fecísti.
-R. Ópera tua Dómine.
-&Gloria
-R. Quam magnificáta sunt * ópera tua, Dómine.
+R.br. R.br. {gabc:Psalterium/Dominica/rb--quam_magnificata_sunt--solesmes_1934}
 
 [Hymnus Day0 Vespera]
-{:H-Luciscreator:}v. Lucis Creátor óptime,
-Lucem diérum próferens,
-Primórdiis lucis novæ,
-Mundi parans oríginem:
-_
-Qui mane junctum vésperi
-Diem vocári prǽcipis:
-Illábitur tetrum chaos,
-Audi preces cum flétibus.
-_
-Ne mens graváta crímine,
-Vitæ sit exsul múnere,
-Dum nil perénne cógitat,
-Seséque culpis ílligat.
-_
-Cæléste pulset óstium:
-Vitále tollat prǽmium:
-Vitémus omne nóxium:
-Purgémus omne péssimum.
-_
-* Præsta, Pater piíssime,
-Patríque compar Únice,
-Cum Spíritu Paráclito
-Regnans per omne sǽculum.
-Amen.
+{gabc:Psalterium/Dominica/hy--lucis_creator_optime--solesmes_1961.1}
+
+[HymnusM Day0 Vespera]
+{gabc:Psalterium/Dominica/hy--lucis_creator_optime_in_aestate--solesmes_1934}
+
+[HymnusM Day0 Vespera hiemalis]
+{gabc:Psalterium/Dominica/hy--lucis_creator_optime_in_hieme--solesmes_1934}
 
 [HymnusM Day0 Vespera hiemalis] (rubrica cisterciensis)
 v. Deus, creátor ómnium
@@ -222,9 +92,6 @@ Unum potens per ómnia,
 Fove precántes Trínitas. 
 Amen.
 
-[HymnusM Day0 Vespera]
-@:Hymnus Day0 Vespera:s/Illábitur tetrum chaos/Tetrum chaos illábitur/ s/Cæléste pulset óstium:/Cælórum pulset íntimum,/
-
 [Dominica Versum 3]
 {initial-style:0;%%(c3) V/. Di(h)ri(h)gá(h)tur,(h) Dó(h)mi(h)ne,(h) o(h)rá(h)ti(h)o(h) me(h hr)a.(g_'/hvGF'Efgf.) (::)
 R/. Sic(h)ut(h) in(h)cén(h)sum(h) in(h) con(h)spéc(h)tu(h) tu(h hr)o.(g_'/hvGF'Efgf.) (::)}
@@ -235,256 +102,55 @@ R/. Sic(h)ut(h) in(h)cén(h)sum(h) in(h) con(h)spéc(h)tu(h) tu(h hr)o.(g_'/hvGF
 $Deo gratias
 
 [Responsory Feria Laudes]
-R.br. Sana ánimam meam, * Quia peccávi tibi.
-R. Sana ánimam meam, * Quia peccávi tibi.
-V. Ego dixi: Dómine, miserére mei
-R. Quia peccávi tibi.
-&Gloria
-R. Sana ánimam meam, * Quia peccávi tibi.
+R.br. {gabc:Psalterium/Feria/rb--sana_animam_meam--solesmes}
 
 [Hymnus Day1 Laudes]
-{:H-LaudsFeria:}v. Splendor Patérnæ glóriæ,
-De luce lucem próferens,
-Lux lucis, et fons lúminis,
-Diem dies illúminans:
-_
-Verúsque sol illábere,
-Micans nitóre pérpeti:
-Jubárque Sancti Spíritus
-Infúnde nostris sénsibus.
-_
-Votis vocémus et Patrem,
-Patrem poténtis grátiæ,
-Patrem perénnis glóriæ:
-Culpam reléget lúbricam.
-_
-Confírmet actus strénuos:
-Dentes retúndat ínvidi:
-Casus secúndet ásperos:
-Agénda recte dírigat.
-_
-Mentem gubérnet et regat:
-Sit pura nobis cástitas:
-Fides calóre férveat,
-Fraudis venéna nésciat.
-_
-Christúsque nobis sit cibus,
-Potúsque noster sit fides:
-Læti bibámus sóbriam
-Profusiónem Spíritus.
-_
-Lætus dies hic tránseat:
-Pudor sit ut dilúculum:
-Fides velut merídies:
-Crepúsculum mens nésciat.
-_
-Auróra lucem próvehit,
-Cum luce nobis pródeat
-In Patre totus Fílius,
-Et totus in Verbo Pater.
-_
-Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sǽculum.
-Amen.
+{gabc:Psalterium/Feria/hy--splendor_paternae--solesmes}
 
 [HymnusM Day1 Laudes]
-v. Splendor patérnæ glóriæ,
-De luce lucem próferens,
-Lux lucis, et fons lúminis,
-Diem dies illúminans:
-_
-Verúsque sol illábere,
-Micans nitóre pérpeti:
-Jubárque Sancti Spíritus
-Infúnde nostris sénsibus.
-_
-Votis vocémus et Patrem,
-Patrem perénnis glóriæ,
-Patrem poténtis grátiæ,
-Culpam reléget lúbricam.
-_
-Confírmet actus strénuos:
-Dentes retúndat ínvidi:
-Casus secúndet ásperos,
-Donet geréndi grátiam.
-_
-Mentem gubérnet et regat,
-Casto, fidéli córpore:
-Fides calóre férveat,
-Fraudis venéna nésciat.
-_
-Christúsque nobis sit cibus,
-Potúsque noster sit fides:
-Læti bibámus sóbriam
-Ebrietátem spíritus.
-_
-Lætus dies hic tránseat,
-Pudor sit ut dilúculum,
-Fides velut merídies,
-Crepúsculum mens nésciat.
-_
-Auróra cursus próvehit,
-Auróra totus pródeat,
-In Patre totus Fílius,
-Et totus in Verbo Pater.
-_
-Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Et nunc et in perpétuum.
-Amen.
+{gabc:Psalterium/Feria/hy--splendor_paternae_gloriae-in_aestate-solesmes_1934}
+(sed tempore in hieme)
+{gabc:Psalterium/Feria/hy--splendor_paternae_gloriae-in_hieme-solesmes_1934}
 
 [Hymnus Day2 Laudes]
-{:H-LaudsFeria:}v. Ales diéi núntius
-Lucem propínquam prǽcinit:
-Nos excitátor méntium
-Jam Christus ad vitam vocat.
-_
-Auférte, clamat, léctulos,
-Ægro sopóre désides:
-Castíque, recti, ac sóbrii
-Vigiláte, jam sum próximus.
-_
-Jesum ciámus vócibus,
-Flentes, precántes, sóbrii:
-Inténta supplicátio
-Dormíre cor mundum vetat.
-_
-Tu, Christe, somnum díscute:
-Tu rumpe noctis víncula:
-Tu solve peccátum vetus,
-Novúmque lumen íngere.
-_
-Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sǽculum.
-Amen.
+{gabc:Psalterium/Feria/hy--ales_diei_nuntius--solesmes}
 
 [HymnusM Day2 Laudes]
-@:Hymnus Day2 Laudes:s/Nunc et per omne sǽculum/Et nunc, et in perpétuum/ s/recti/rect[i]/ s/Vigiláte/Vig[i]láte/
+{gabc:Psalterium/Feria/hy--ales_diei_nuntius_aestivalis--solesmes_1934}
+(sed tempore in hieme)
+{gabc:Psalterium/Feria/hy--ales_diei_nuntius--solesmes_1934}
 
 [Hymnus Day3 Laudes]
-{:H-LaudsFeria:}v. Nox, et tenébræ, et núbila,
-Confúsa mundi et túrbida:
-Lux intrat, albéscit polus:
-Christus venit: discédite.
-_
-Calígo terræ scínditur
-Percússa solis spículo,
-Rebúsque jam color redit,
-Vultu niténtis síderis.
-_
-Te, Christe, solum nóvimus:
-Te mente pura et simplici,
-Flendo et canéndo quǽsumus,
-Inténde nostris sénsibus.
-_
-Sunt multa fucis íllita,
-Quæ luce purgéntur tua:
-Tu, vera lux cæléstium,
-Vultu seréno illúmina.
-_
-Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sǽculum.
-Amen.
+{gabc:Psalterium/Feria/hy--nox_et_tenebrae--solesmes}
 
 [HymnusM Day3 Laudes]
-@:Hymnus Day3 Laudes:s/vera lux cæléstium/lux Eói síderis/ s/Nunc et per omne sǽculum/Et nunc, et in perpétuum/ s/tenébræ/tenébr[æ]/ s/mundi/mund[i]/ s/pura/pur[a]/ s/Flendo/Flend[o]/ s/seréno/serén[o]/
+{gabc:Psalterium/Feria/hy--nox_et_tenebrae--solesmes_1934_aes}
+(sed tempore in hieme)
+{gabc:Psalterium/Feria/hy--nox_et_tenebrae--solesmes_1934}
 
 [Hymnus Day4 Laudes]
-{:H-LaudsFeria:}v. Lux ecce surgit áurea,
-Pallens facéssat cǽcitas,
-Quæ nosmet in præceps diu
-Erróre traxit dévio.
-_
-Hæc lux serénum cónferat,
-Purósque nos præstet sibi:
-Nihil loquámur súbdolum:
-Volvámus obscúrum nihil.
-_
-Sic tota decúrrat dies,
-Ne lingua mendax, ne manus
-Oculíve peccent lúbrici,
-Ne noxa corpus ínquinet.
-_
-Speculátor astat désuper,
-Qui nos diébus ómnibus,
-Actúsque nostros próspicit
-A luce prima in vésperum.
-_
-Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sǽculum.
-Amen.
+{gabc:Psalterium/Feria/hy--lux_ecce_surgit_aurea--solesmes}
 
 [HymnusM Day4 Laudes]
-@:Hymnus Day4 Laudes:s/Nunc et per omne sǽculum/Et nunc, et in perpétuum/ s/Oculíve/Oculív[e]/ s/Speculátor/Spec[u]látor/ s/prima/prim[a]/
+{gabc:Psalterium/Feria/hy--lux_ecce_surgit-in_aestate-solesmes_1934}
+(sed tempore in hieme)
+{gabc:Psalterium/Feria/hy--lux_ecce_surgit-in_hieme-solesmes_1934}
 
 [Hymnus Day5 Laudes]
-{:H-LaudsFeria:}v. Ætérna cæli glória,
-Beáta spes mortálium,
-Summi Tonántis Únice,
-Castǽque proles Vírginis:
-_
-Da déxteram surgéntibus,
-Exsúrgat et mens sóbria,
-Flagrans et in laudem Dei
-Grates repéndat débitas.
-_
-Ortus refúlget Lúcifer,
-Præítque solem núntius:
-Cadunt tenébræ nóctium:
-Lux sancta nos illúminet.
-_
-Manénsque nostris sénsibus,
-Noctem repéllat sǽculi,
-Omníque fine témporis
-Purgáta servet péctora.
-_
-Quæsíta jam primum fides
-In corde radíces agat:
-Secúnda spes congáudeat,
-Qua major exstat cáritas.
-_
-Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sǽculum.
-Amen.
+{gabc:Psalterium/Feria/hy--aeterna_caeli_gloria--solesmes}
 
 [HymnusM Day5 Laudes]
-@:Hymnus Day5 Laudes:s/Summi/Celsi/ s/Præítque solem núntius/Sparsámque lucem núntiat/ s/Cadunt tenébræ/Cadit calígo/ s/témporis/diéi/ s/In corde radíces agat/Radícet altis sénsibus/ s/Nunc et per omne sǽculum/Et nunc, et in perpétuum/
+{gabc:Psalterium/Feria/hy--aeterna_caeli_gloria_aestivalis--solesmes_1934}
+(sed tempore in hieme)
+{gabc:Psalterium/Feria/hy--aeterna_caeli_gloria_hiemalis--solesmes_1934}
 
 [Hymnus Day6 Laudes]
-{:H-LaudsFeria:}v. Auróra jam spargit polum:
-Terris dies illábitur:
-Lucis resúltat spículum:
-Discédat omne lúbricum.
-_
-Phantásma noctis éxsulet:
-Mentis reátus córruat:
-Quidquid ténebris hórridum
-Nox áttulit culpæ, cadat.
-_
-Ut mane, quod nos últimum
-Hic deprecámur cérnui,
-Cum luce nobis éffluat,
-Hoc dum canóre cóncrepat.
-_
-Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sǽculum.
-Amen.
+{gabc:Psalterium/Feria/hy--aurora_jam_spargit--solesmes}
 
 [HymnusM Day6 Laudes]
-@:Hymnus Day6 Laudes:s/éxsulet/décidat/ s/córruat/súbruat/ s/Ut .* cóncrepat./Et mane illud últimum,\nQuod præstolámur cérnui,\nIn lucem nobis éffluat,\nDum hoc canóre cóncrepat./s s/Nunc et per omne sǽculum/Et nunc, et in perpétuum/
+{gabc:Psalterium/Feria/hy--aurora_jam_spargit_polum_aestivalis--solesmes_1934}
+(sed tempore in hieme)
+{gabc:Psalterium/Feria/hy--aurora_jam_spargit_polum_hiemalis--solesmes_1934}
 
 [Feria Versum 2]
 {initial-style:0;%%(c3) V/. Re(h)plé(h)ti(h) su(h)mus(h) ma(h)ne(h) mi(h)se(h)ri(h)cór(h)di(h)a(h) tu(h hr)a.(g_'/hvGF'Efgf.) (::)
@@ -524,12 +190,7 @@ Illumináre, Dómine, * his qui in ténebris sedent: et dírige pedes nostros in
 In viam pacis * dírige nos Dómine.
 
 [Responsory Feria Vespera_]
-R.br. Benedícam Dóminum * In omni témpore.
-R. Benedícam Dóminum * In omni témpore.
-V. Semper laus ejus in ore meo.
-R. In omni témpore.
-&Gloria
-R. Benedícam Dóminum * In omni témpore.
+R.br. {gabc:Psalterium/Feria/rb--benedicam_dominum--solesmes_1934}
 
 [Responsory Feria Vespera_C]
 R.br. Adjutórium nostrum * In nómine Dómini. 
@@ -543,154 +204,44 @@ R. Adjutórium nostrum * In nómine Dómini.
 R.br. {gabc:Psalterium/Feria/rb--magnus_dominus_noster--solesmes_1934}
 
 [Hymnus Day1 Vespera]
-{:H-VespFeria:}v. Imménse cæli Cónditor,
-Qui mixta ne confúnderent,
-Aquæ fluénta dívidens,
-Cælum dedísti límitem.
-_
-Firmans locum cæléstibus,
-Simúlque terræ rívulis;
-Ut unda flammas témperet,
-Terræ solum ne díssipent.
-_
-Infúnde nunc, piíssime,
-Donum perénnis grátiæ:
-Fraudis novæ ne cásibus
-Nos error átterat vetus.
-_
-Lucem fides adáugeat:
-Sic lúminis jubar ferat:
-Hæc vana cuncta próterat:
-Hanc falsa nulla cómprimant.
-_
-Præsta, Pater piíssime,
-Patríque compar Únice,
-Cum Spíritu Paráclito
-Regnans per omne sǽculum.
-Amen.
+{gabc:Psalterium/Feria/hy--immense_caeli_conditor--solesmes}
 
 [HymnusM Day1 Vespera]
-@:Hymnus Day1 Vespera:s/adáugeat/invéniat/ s/Hæc/Ut/
+{gabc:Psalterium/Feria/hy--immense_caeli_conditor_aestivalis--solesmes_1934}
+(sed tempore in hieme)
+{gabc:Psalterium/Feria/hy--immense_caeli_conditor_hiemalis--solesmes_1934}
 
 [Hymnus Day2 Vespera]
-{:H-VespFeria:}v. Tellúris alme Cónditor,
-Mundi solum qui séparans,
-Pulsis aquæ moléstiis,
-Terram dedísti immóbilem:
-_
-Ut germen aptum próferens,
-Fulvis decóra flóribus,
-Fecúnda fructu sísteret,
-Pastúmque gratum rédderet.
-_
-Mentis perústæ vúlnera
-Munda viróre grátiæ:
-Ut facta fletu díluat,
-Motúsque pravos átterat.
-_
-Jussis tuis obtémperet:
-Nullis malis appróximet:
-Bonis repléri gáudeat,
-Et mortis ictum nésciat.
-_
-Præsta, Pater piíssime,
-Patríque compar Únice,
-Cum Spíritu Paráclito
-Regnans per omne sǽculum.
-Amen.
+{gabc:Psalterium/Feria/hy--telluris_alme_conditor--solesmes}
 
 [HymnusM Day2 Vespera]
-@:Hymnus Day2 Vespera:s/dedísti/dedíst[i]/ s/alme/ingens/ s/séparans/éruens/ s/ictum/actum/
+{gabc:Psalterium/Feria/hy--telluris_ingens-aestivalis-solesmes_1934}
+(sed tempore in hieme)
+{gabc:Psalterium/Feria/hy--telluris_ingens-hiemalis-solesmes_1934}
 
 [Hymnus Day3 Vespera]
-{:H-VespFeria:}v. Cæli Deus sanctíssime,
-Qui lúcidas mundi plagas
-Candóre pingis ígneo,
-Augens decóro lúmine:
-_
-Quarto die qui flámmeam
-Dum solis accéndis rotam,
-Lunæ minístras órdinem,
-Vagósque cursus síderum:
-_
-Ut nóctibus, vel lúmini
-Diremptiónis términum,
-Primórdiis et ménsium
-Signum dares notíssimum;
-_
-Expélle noctem córdium:
-Abstérge sordes méntium:
-Resólve culpæ vínculum:
-Evérte moles críminum.
-_
-Præsta, Pater piíssime,
-Patríque compar Únice,
-Cum Spíritu Paráclito
-Regnans per omne sǽculum.
-Amen.
+{gabc:Psalterium/Feria/hy--caeli_deus_sanctissime--solesmes.1}
 
 [HymnusM Day3 Vespera]
-@:Hymnus Day3 Vespera:s/mundi plagas/centrum poli/ s/Dum solis accéndis rotam/Solis rotam constítuens/ s/Expélle noctem córdium:/Illúmina cor hóminum,/
+{gabc:Psalterium/Feria/hy--caeli_deus_aestivalis--solesmes_1934}
+(sed tempore in hieme)
+{gabc:Psalterium/Feria/hy--caeli_deus_hiemalis--solesmes_1934}
 
 [Hymnus Day4 Vespera]
-{:H-VespFeria:}v. Magnæ Deus poténtiæ,
-Qui fértili natos aqua
-Partim relínquis gúrgiti,
-Partim levas in áëra.
-_
-Demérsa lymphis ímprimens,
-Subvécta cælis érigens:
-Ut stirpe ab una pródita,
-Divérsa répleant loca:
-_
-Largíre cunctis sérvulis,
-Quos mundat unda Sánguinis,
-Nescíre lapsus críminum,
-Nec ferre mortis tǽdium.
-_
-Ut culpa nullum déprimat:
-Nullum éfferat jactántia:
-Elísa mens ne cóncidat:
-Eláta mens ne córruat.
-_
-Præsta, Pater piíssime,
-Patríque compar Únice,
-Cum Spíritu Paráclito
-Regnans per omne sǽculum.
-Amen.
+{gabc:Psalterium/Feria/hy--magnae_deus_potentiae--solesmes}
 
 [HymnusM Day4 Vespera]
-@:Hymnus Day4 Vespera:s/fértili natos aqua/ex aquis ortum genus/ s/relínquis/remíttis/ s/érigens/írrigans/ s/répleant/rápiant/ s/éfferat/levet/
+{gabc:Psalterium/Feria/hy--magnae_deus_potentiae_aestivalis--solesmes_1934}
+(sed tempore in hieme)
+{gabc:Psalterium/Feria/hy--magnae_deus_potentiae_hiemalis--solesmes_1934}
 
 [Hymnus Day5 Vespera]
-{:H-VespFeria:}v. Hóminis superne Cónditor,
-Qui cuncta solus órdinans,
-Humum jubes prodúcere
-Reptántis et feræ genus:
-_
-Et magna rerum córpora,
-Dictu jubéntis vívida,
-Per témporum certas vices
-Obtemperáre sérvulis:
-_
-Repélle, quod cupídinis
-Ciénte vi nos ímpetit,
-Aut móribus se súggerit,
-Aut áctibus se intérserit.
-_
-Da gaudiórum prǽmia,
-Da gratiárum múnera:
-Dissólve litis víncula:
-Astrínge pacis fœ́dera.
-_
-Præsta, Pater piíssime,
-Patríque compar Únice,
-Cum Spíritu Paráclito
-Regnans per omne sǽculum.
-Amen.
+{gabc:Psalterium/Feria/hy--hominis_superne_conditor--solesmes}
 
 [HymnusM Day5 Vespera]
-@:Hymnus Day5 Vespera:s/Hóminis superne Cónditor/Plasmátor hóminis Deus/ s/Et magna/Qui magna/ s/Per témporum certas vices/Ut sérviant per órdinem,/ s/Obtemperáre sérvulis/Subdens dedísti hómini/ s/quod cupídinis/a servis tuis,/ s/Ciénte vi nos ímpetit/Quidquid per immundítiam/
+{gabc:Psalterium/Feria/hy--plasmator_hominis_deus_aestivalis--solesmes_1934}
+(sed tempore in hieme)
+{gabc:Psalterium/Feria/hy--plasmator_hominis_deus_hiemalis--solesmes_1934}
 
 [Feria Versum 3] (feria 7)
 {initial-style:0;%%(c3) V/. Ves(h)per(h)tí(h)na(h) o(h)rá(h)ti(h)o(h) a(h)scén(h)dat(h) ad(h) te,(h) Dó(h)mi(hr)ne.(g_'/hvGF'Efgf.) (::)}
