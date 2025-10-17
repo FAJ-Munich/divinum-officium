@@ -531,6 +531,8 @@ sub setcell {
         # Keeping the clef (c4) and adding custos for that purpose.
         $text =~
           s/\.\((f)\.\)\s*\(\:\:\)\}(?:\s|\_|\<br\/\>)*\{(\(c4\) O\(h\)ré\([gh]{1,2}\)mus\.\([fh]\.\) \(\:\:\)\})/.($1.) (f+::) $2/gs;
+      } elsif ($text =~ /Incipit/i) {
+        $text =~ s/(men\.\([defgh]\.?\) \(\:\:\))\}(?:\s|\_|\<br\/\>)*\{\(c[34]\) (Al|Laus)\(/$1 $2\(/gs;
       }
       $text =~
         s/\.\(([dfghi])\.\)\s*\(\:\:\)\}(?:\s|\_|\<br\/\>)*\{\(c[34]\) (O\([hi]\)ré\([ghi]{1,2}\)mus\.\([fhi]\.\) \(\:\:\)\})/.($1.) (::) $2/gs;
@@ -561,10 +563,13 @@ sub setcell {
           $gregFile =~ s/\-gloria//;
           $gregFile = checkfile($lang, $gregFile);
         }
-        my (@gregScore) = do_read($gregFile);
 
-        if (@gregScore) {
-          $text =~ s/gabc:$temp/@gregScore/s;
+        if (-e $gregFile) {
+          my (@gregScore) = do_read($gregFile);
+
+          if (@gregScore) {
+            $text =~ s/gabc:$temp/@gregScore/s;
+          }
         }
       }
 
