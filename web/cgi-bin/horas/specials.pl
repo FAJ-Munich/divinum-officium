@@ -534,7 +534,6 @@ sub tryoldhymn {
 
   our ($version, $oldhymns);
   $name1 =~ s/Hymnus\S*/$&M/;
-
   ($oldhymns || ($version =~ /(Monastic|1570|Praedicatorum)/i)) && exists(${$source}{$name1}) ? $name1 : $name;
 }
 

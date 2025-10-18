@@ -39,7 +39,7 @@ R. Hæc est dies * Quam fecit Dóminus.
 $Deo gratias
 
 [Responsory Dominica Vespera]
-R.br. R.br. {gabc:Psalterium/Dominica/rb--quam_magnificata_sunt--solesmes_1934}
+R.br. {gabc:Psalterium/Dominica/rb--quam_magnificata_sunt--solesmes_1934}
 
 [Hymnus Day0 Vespera]
 {gabc:Psalterium/Dominica/hy--lucis_creator_optime--solesmes_1961.1}
@@ -157,34 +157,50 @@ R.br. {gabc:Psalterium/Feria/rb--sana_animam_meam--solesmes}
 R/. Ex(h)sul(h)tá(h)vi(h)mus,(h) et(h) de(h)lec(h)tá(h)ti(h) su(h hr)mus.(g_'/hvGF'Efgf.) (::)}
 
 [Feria2 Ant 2]
-Benedíctus * Dóminus Deus Israël, quia visitávit et liberávit nos.
-(sed rubrica tridentina aut rubrica monastica)
-Benedíctus * Dóminus Deus Israël.
+{name:Benedictus Dominus Deus;annotation:4.E;mode:4;book:Liber antiphonarius, 1960, p. 75;transcriber:Andrew Hinkley;%%(c4) BE(g)ne(f)dí(ef)ctus(d'_) *(,) Dó(f)mi(f)nus(f) De(e')us(f) Is(g)ra(f)ël,(g.) (;) qui(f)a(d) vi(e')si(f)tá(g!hi)vit(h'_) (,) et(h) li(g')be(f)rá(gh)vit(g) nos.(e.) (::)};;4E
+(sed rubrica tridentina)
+{name:Benedictus Dominus Deus;annotation:6.;transcriber:faj-munich;book:Liber antiphonarius Tomus I, 1891, p. 56;%%(c4) BE(f)ne(g)dí(hf)ctus(g) *(,) Dó(g)mi(g)nus(fgFD) (;) De(f)us(g) Is(h)ra(gf)ël,(f.) (::)};;6
+(sed rubrica monastica)
+{name:Benedictus Dominus Deus;annotation:6.;transcriber:faj-munich;book:Antiphonale Monasticum 1934, p. 45;%%(c4) BE(f)ne(g)dí(hfg)ctus(f_0gFD'_) *(,) De(f)us(g') Is(h)ra(gf)ël,(f.) (::)};;6
     
 [Feria3 Ant 2]
-Eréxit nobis * Dóminus cornu salútis in domo David púeri sui.
+{name:Erexit nobis Dominus;annotation:7.a;;mode:7;book:Liber antiphonarius, 1960, p. 110;transcriber:Andrew Hinkley;%%(c3) E(e)ré(g')xit(h) no(i)bis(h') *() Dó(g)mi(h_i)nus(i) cor(ji~)nu(j) sa(kj)lú(i)tis(i'_) (;) in(j) do(i)mo(hf) Da(h)vid(g_h) pú(iv_HF)e(g)ri(f) su(e.)i.(e.) (::)}
+(sed rubrica monastica)
+{name:Erexit nobis Dominus;annotation:7.a;mode:7;book:Antiphonale Monasticum, 1934, p. 51;transcriber:MarkM;%%(c3)E(e)ré(g)xit(h') no(i)bis(h') Dó(g)mi(hi)nus(i.) *(,)cor(ji~)nu(j) sa(kj)lú(i.)tis(i.) (;)in(j>) do(i_vHF)mo(h') Da(h)vid(g.) (,)pú(iv_HF')e(g)ri(fg) su(e.)i.(e.) (::)};;7a
 
 [Feria3C Ant 2]
 Salútem * ex inimícis nostris, et de manu ómnium, qui nos odérunt, líbera nos, Dómine.
 
 [Feria4 Ant 2]
-De manu ómnium * qui odérunt nos, liberávit nos Dóminus.
-(sed rubrica tridentina aut rubrica monastica)
-De manu ómnium * qui odérunt nos, líbera nos Dómine.
+{name:De manu omnium;annotation:1.g2;mode:1;book:Liber antiphonarius, 1960, p. 129;transcriber:Andrew Hinkley;%%(c4) DE(f) ma(h)nu(g') ó(h)mni(fg)um(g'_) *() qui(d) o(f)dé(f')runt(e) nos,(f'_) (,) li(g)be(ef)rá(g)vit(e') nos(f) Dó(d)mi(cd)nus.(d.) (::)};;1g2
+(sed rubrica tridentina)
+{name:De manu omnium;annotation:2.;transcriber:faj-munich;book:Liber antiphonarius Tomus I, 1891, p. 64;%%(f3) DE(h) ma(j)nu(i) óm(j)ni(h)um(i) *() qui(f) o(h)dé(h)runt(hi) nos,(h) (;) lí(h)be(i)ra(g) nos,(hg) Dó(f)mi(f)ne.(f) (::)};;2
+(sed rubrica monastica)
+{name:De manu omnium;annotation:1.g5;mode:1;book:Antiphonale Monasticum, 1934, p. 58;transcriber:Dominique CROCHU;%%(c4) DE(f) ma(h)nu(g') óm(h>)ni(fg)um(g'_) *() qui(d) o(f)dé(f')runt(e) nos,(f_') (,) lí(g)be(g')ra(e) nos,(fe) Dó(d)mi(cd)ne.(d.) (::)};;1g5
 
 [Feria5 Ant 2]
-In sanctitáte * serviámus Dómino, et liberábit nos ab inimícis nostris.
+{name:In sanctitate serviamus;annotation:7.a;mode:7;book:Liber antiphonarius, 1960, p. 149;transcriber:Andrew Hinkley;%%(c3) IN(e) san(g')cti(h)tá(i_)te(i'_) *(,) ser(i)vi(i')á(j)mus(h') Dó(i)mi(h)no,(g.) (;) et(h) li(ij)be(i)rá(h')bit(g) nos(e'_) (,) ab(f) i(g)ni(h_f)mí(g)cis(f) no(e.)stris.(e.) (::)};;7a
+(sed rubrica tridentina)
+{name:In sanctitate serviamus;annotation:7.a;mode:7;transcriber:faj-munich;book:Liber antiphonarius Tomus I, 1891, p. 68;%%(c3) IN(e) san(g')cti(h)tá(i_)te(i'_) *(,) ser(i)vi(i')á(j)mus(h') Dó(i)mi(h)no,(g.) (;) et(h) li(i)be(i)rá(h')bit(g) nos(e) ab(f) i(h)ni(hf)mí(g)cis(f) no(e.)stris.(e.) (::)};;7a
+(sed rubrica monastica)
+{name:In sanctitate serviamus;annotation:7.a;mode:7;book:Antiphonale Monasticum, 1934, p. 65;transcriber:Dominique CROCHU;%%(c3) IN(e) sanc(g)ti(h)tá(i'_)te(i_) *() ser(i)vi(i)á(j')mus(h) Dó(i')mi(h)no,(g.) (;) et(h) li(ij)be(i)rá(h')bit(g) nos(e_') ab(f) in(g')i(h)mí(f')cis(f) no(e.)stris.(e.) (::)};;7a
 
 [Feria5C Ant 2]
 Ad dandam sciéntiam * plebi tuæ, Dómine, in remissiónem peccatórum eórum.
 
 [Feria6 Ant 2]
-Per víscera misericórdiæ * Dei nostri visitávit nos Óriens ex alto.
+{name:Per viscera misericordiae;annotation:8.G;mode:8;book:Liber antiphonarius, 1960, p. 170;transcriber:Andrew Hinkley;%%(c4) PER(g) ví(gj)sce(hg)ra(h) *(,) mi(gf)se(g)ri(h)cór(h_k)di(ji)ae(jkj) De(jh)i(ih) no(g.)stri,(g.) (;) vi(g)si(e')tá(g)vit(fe) nos(d.) Ó(e')ri(f)ens(gh) ex(h) al(g.)to.(g.) (::)};;8G
+(sed rubrica tridentina)
+{name:Per viscera misericordiae;annotation:8.G;mode:8;transcriber:faj-munich;book:Liber antiphonarius Tomus I, 1891, p. 72;%%(c4) PER(g) ví(gj)sce(hg)ra(h) *(,) mi(gf)se(g)ri(h)cór(jk)di(j)ae(ji/jkj) De(jh)i(ij) no(h)stri,(g) (;) vi(g)si(ge)tá(f!gh)vit(fe) nos(d) Ó(e)ri(f)ens(gh) ex(h) al(g)to.(g) (::)};;8G
+(sed rubrica monastica)
+{name:Per viscera misericordiae;annotation:8.G;mode:8;book:Antiphonale Monasticum, 1934, p. 73;transcriber:Dominique CROCHU;%%(c4) PER(g) ví(gj)sce(hg)ra(h) mi(gf)se(g)ri(h)cór(h_k)di(ji)æ(jkj.) De(jh)i(ih) no(g.)stri(g.) (;) vi(g)si(e')tá(g)vit(fe) nos(d.) (,) O(e)ri(f)ens(gh) ex(h) al(g.)to.(g.) (::)};;8G
 
 [Feria7 Ant 2]
-Illúmina, Dómine, * sedéntes in ténebris et umbra mortis, et dírige pedes nostros in viam pacis.
-(sed rubrica tridentina aut rubrica monastica)
-Illumináre, Dómine, * his qui in ténebris sedent: et dírige pedes nostros in viam pacis, Deus Israël.
+{name:Illumina Domine sedentes;annotation:8.G;mode:8;book:Liber antiphonarius, 1960, p. 191;transcriber:Andrew Hinkley;%%(c4) IL(g)lú(gj)mi(h)na(gf) Dó(g_h_g_)mi(fg)ne(g.) *(,) se(i')dén(j)tes(k') in(j) té(k')ne(j)bris(ji) et(hg) um(h')bra(j) mor(i.)tis,(i.) (;) et(i_) dí(i')ri(j)ge(h') pe(j)des(g') no(h)stros(g_h_g_) in(e_f) vi(gh)am(h) pa(g.)cis.(g.) (::)};;8G
+(sed rubrica tridentina)
+{name:Illuminare Domine his qui;annotation:8.G;mode:8;transcriber:faj-munich;book:Liber antiphonarius Tomus I, 1891, p. 77;%%(c4) IL(g)lu(g)mi(gj)ná(h)re(gf) Dó(ghg)mi(fg)ne(g) *(,) his(h) qui(j) in(k) té(j)ne(g)bris(h) se(j)dent,(j) (;) et(j) dí(j)ri(i)ge(h) pe(j)des(g) no(h)stros(ghg) in(ef) vi(g)am(g) pa(fe)cis,(d) (,) De(g)us(h) Is(ji)ra(hg)el.(g) (::)};;8G
+(sed rubrica monastica)
+{name:Illuminare Domine his qui;annotation:8.G;mode:8;book:Antiphonale Monasticum, 1934, p. 81;transcriber:Dominique CROCHU;%%(c4) IL(g)lu(g)mi(gj)ná(h)re(gf) Dó(ghg___)mi(fg)ne(g_') *(,) his(i_) qui(j') in(k>) té(j')ne(h)bris(j) se(i.)dent,(i.) ( ;) et(i) dí(i')ri(j)ge(h') pe(j)des(g') no(h)stros(ghg.___) (,) in(e_f) vi(g)am(gh) pa(gv_FD)cis,(d.) (,) De(g)us(h) Is(hji)ra(h)el.(g.) (::)};;8G
 
 [Feria7C Ant 2]
 In viam pacis * dírige nos Dómine.
@@ -248,42 +264,58 @@ R.br. {gabc:Psalterium/Feria/rb--magnus_dominus_noster--solesmes_1934}
 {initial-style:0;%%(c3) R/. Et(h) de(h)scén(h)dat(h) su(h)per(h) nos(h) mi(h)se(h)ri(h)cór(h)di(h)a(h) tu(h)a.(g_'/hvGF'Efgf.) (::)}
 
 [Feria2 Ant 3]
-Magníficat * ánima mea Dóminum, quia respéxit Deus humilitátem meam.
+{name:Magnificat anima;annotation:8.G;mode:8;book:Liber antiphonarius, 1960, p. 103;transcriber:Andrew Hinkley;%%(c4) MA(g)gní(gj)fi(hg)cat(h'_) (,) á(g)ni(h)ma(gf) me(g)a(h) Dó(j_k)mi(ji)num,(jkj.) (;) qui(j')a(k) re(i')spé(j)xit(h') De(j)us(g'/hih'_15) (,) hu(g)mi(e')li(f)tá(gh)tem(h) me(g.)am.(g.) (::)};;8G
+(sed rubrica tridentina)
+{name:Magnificat anima;annotation:8.G;mode:8;book:Liber antiphonarius Tomus II, 1891, p. 11;transcriber:faj-munich;%%(c4) MA(g)gní(gj)fi(h)cat(gh) (,) á(h)ni(g)ma(f) me(g)a(h) Dó(jk)mi(j)num,(ji!jkj) (;) qui(j)a(k) re(i)spé(j)xit(h) De(j)us(g) (,) hu(g)mi(h)li(g)tá(e!fh)tem(h) me(g)am.(g) (::)};;8G
+(sed rubrica monastica)
+{name:Magnificat anima mea;annotation:8.G;mode:8;book:Antiphonale Monasticum, 1934, p. 137;transcriber:Dominique CROCHU;%%(c4)MA(g)gní(gj)fi(hg)cat(h.) á(g)ni(h)ma(gf) me(g)a(h) Dó(j_k)mi(ji)num,(jkkj.) (;) qui(j)a(k) re(i')spé(j)xit(h') De(j)us(g_0/hih'_) (,) hu(g)mi(e')li(f)tá(gh)tem(h) me(g.)am.(g.) (::)};;8G
 
 [Feria2C Ant 3]
 @:Feria3 Ant 3:s/(Deo)/Dómino $1/
 
 [Feria3 Ant 3]
-Exsultávit * spíritus meus in Deo salutári meo.
-(sed rubrica tridentina aut rubrica monastica)
-Exsúltet * spíritus meus in Deo salutári meo.
+{name:Exsultavit spiritus;annotation:5;mode:5.;book:Liber antiphonarius, 1960, p. 123;transcriber:Andrew Hinkley;%%(c3) EX(f)sul(ef)tá(d)vit(f) *() spí(h')ri(g)tus(f) me(h_i)us(h'_) (;) in(i) De(hg)o(f) sa(f)lu(ed)tá(ef)ri(e) me(d.)o.(d.) (::)};;5
+(sed rubrica tridentina)
+{name:Exsultet spiritus meus;annotation:5.a;mode:5;book:Liber antiphonarius Tomus II, 1891, p. 16;transcriber:faj-munich;%%(c3) EX(f)súl(d)tet(f) *() spí(h)ri(g)tus(f) me(gh)us(h) (;) in(i) De(hg)o(f) (,) sa(f)lu(h)tá(ef)ri(e) me(d)o.(d) (::)};;5
+(sed rubrica monastica)
+{name:Exsultet spiritus meus;annotation:5.a;mode:5;book:Antiphonale Monasticum, 1934, p. 142;transcriber:Dominique CROCHU;%%(c3) EX(f)súl(d)tet(f') *() spí(h)ri(hg)tus(f) me(h)us(h_') (,) in(i>) Dó(h')mi(g)no(f) De(f_e)o(f_') (,) sa(f)lu(h)tá(e')ri(e) me(d.)o.(d.) (::)}
 
 [Feria3C Ant 3]
 Respexísti * humilitátem meam Dómine Deus meus.
 
 [Feria4 Ant 3]
-Respéxit Dóminus * humilitátem meam, et fecit in me magna, qui potens est.
+{name:Respexit Dominus;annotation:8.G*;mode:8;book:Liber antiphonarius, 1960, p. 143;transcriber:Andrew Hinkley;%%(c4) RE(f)spé(fg)xit(g) Dó(hg)mi(fg)nus(g'_[oh:h]) *(,) hu(h)mi(j')li(i)tá(jk)tem(h') me(g)am,(g.) (;) et(h') fe(j)cit(i') in(j) me(h') ma(h)gna(ghg___) qui(e_[uh:l]f) pot(gh)ens(h) est.(g.) (::)};;8Gstar
+(sed rubrica tridentina)
+{name:Respexit Dominus;annotation:8.G*;mode:8;book:Liber antiphonarius Tomus II, 1891, p. 20;transcriber:faj-munich;%%(c4) RE(f)spé(fg)xit(g) Dó(hg)mi(fg)nus(g'_[oh:h]) *(,) hu(h)mi(j')li(i)tá(jk)tem(h') me(g)am,(g.) (;) et(h') fe(j)cit(i') in(jk) me(h') ma(h)gna(ixg!hiHG) (;) qui(e_[uh:l]f) pot(gh)ens(hg) est.(g.) (::)};;8G
+(sed rubrica monastica)
+{name:Respexit Dominus;annotation:8.G2;mode:8;book:Antiphonale Monasticum, 1934, p. 149;%%(c4)RE(f)spé(fg)xit(g) Dó(hg)mi(fg)nus(g.) <v>\greheightstar</v>(,) hu(h)mi(j)li(i')tá(j)tem(h') me(h)am,(g.) (;) et(h) fe(j)cit(i') in(j>) me(h') ma(h>)gna(ghg___.) (,) qui(e_f) po(gh)tens(h>) est.(g.) (::)};;8G2
 
 [Feria4C Ant 3]
 Quia fecit * mihi Dóminus magna qui potens est, et sanctum nomen ejus.
 
 [Feria5 Ant 3]
-Fecit Deus * poténtiam in brácchio suo: dispérsit supérbos mente cordis sui.
+{name:Fecit Deus potentiam;annotation:7.c;mode:7;book:Liber antiphonarius, 1960, p. 162;transcriber:Andrew Hinkley;%%(c3) FE(i)cit(i') De(h)us(g') *() po(h)tén(iji)ti(hi)am(i.) (,) in(hi) brá(k')chi(j)o(i') su(j)o:(i.) (;) dis(g)pér(iji)sit(h') su(f)pér(h)bos(g'_) (,) men(h)te(g_h) cor(ih)dis(f) su(e.)i.(e.) (::)};;7c
 (sed rubrica tridentina aut rubrica monastica)
-Fac Deus, * poténtiam in brácchio tuo: dispérde supérbos, et exálta húmiles.
+{name:Fac Deus potentiam;annotation:7.c;mode:7;book:Liber antiphonarius Tomus II, 1891, p. 25;transcriber:faj-munich;%%(c3)Fac(i) De(h)us(g') pot(h)én(iji)ti(hi)am(i.) *(,)  in(i_0jl) brá(lk)chi(j')o(j) tu(i.)o :(i.) (;) dis(g)pér(iji)de(h') su(f)pér(h)bos,(g'_) (,) et(h) ex(i)ál(hf)ta(gf) hú(e)mi(e)les.(e.) (::)};;7c
+(sed rubrica monastica)
+{name:Fac Deus potentiam;annotation:7.c;mode:7;book:Antiphonale Monasticum, 1934, p. 154;%%(c3)Fac(i) De(h)us(g') pot(h)én(iji)ti(hi)am(i.) *(,)  in(i_0jl) brá(lk)chi(j')o(j) tu(i.)o :(i.) (;) dis(g)pér(iji)de(h') su(f)pér(hh)bos,(g'_) (,) et(h) ex(ih)ál(f)ta(f') hú(e)mi(de)les.(e.) (::)};;7c
 
 [Feria6 Ant 3]
-Depósuit Dóminus * poténtes de sede, et exaltávit húmiles.
-(sed rubrica tridentina aut rubrica monastica)
-Depósuit poténtes, * Sanctos persequéntes: et exaltávit húmiles, Christum confiténtes.
+{name:Deposuit Dominus;annotation:1.f;mode:1;book:Liber antiphonarius, 1960, p. 184;transcriber:Andrew Hinkley;%%(c4) DE(d)pó(d_c)su(f)it(g') Dó(f)mi(gh)nus(h'_) *(,) pot(h)én(ixh.g!hwi)tes(h) de(gf) se(ixg!hwi_h)de,(g_h_g_.) (;) et(e) ex(g)al(g_h)tá(e)vit(fe) hú(d)mi(d)les.(d.) (::)};;1f
+(sed rubrica tridentina)
+{name:Deposuit potentes;annotation:1.f;mode:1;book:Liber antiphonarius Tomus II, 1891, p. 31;transcriber:faj-munich;%%(c4)DE(d)pó(d)su(dc)it(f) pot(g)én(f!gwh)tes,(h.) *(,) sanc(ixh.g!hwi)tos(h') per(g)se(f)quén(ixg!hwiH~G~)tes :(hg..) ( ;) et(g) ex(g)al(g')tá(g)vit(e) hú(gh)mi(gf)les,(f_g) (;) Chri(fe)stum(c) con(eg)fi(fe)tén(d.)tes.(d.) (::)};;1f
+(sed aut rubrica monastica)
+{name:Deposuit potentes;annotation:1.f;mode:1;book:Antiphonale Monasticum, 1934, p. 158;transcriber:Dominique CROCHU;%%(c4)DE(d)pó(d)su(dc)it(f) pot(g)én(f!gwh)tes,(h.) *(,) sanc(ixh.g!hwi)tos(h') per(g)se(f)quén(ixg!hwiH~G~)tes :(hg..) ( ;) et(g) ex(g)al(g')tá(e)vit(g') hú(h)mi(gf)les,(f_g) (,) Chri(e)stum(dc~) con(d)fi(fe)tén(d.)tes.(d.) (::)};;1f
 
 [Feria6C Ant 3]
 @:Feria7 Ant 3:s/semen/sémini/ s/exaltáre/exaltávit/
 
 [Feria7 Ant 3]
-Suscépit Deus * Israël, púerum suum: sicut locútus est ad Ábraham, et semen ejus usque in sǽculum.
-(sed rubrica tridentina aut rubrica monastica)
-Suscépit Deus * Israël, púerum suum: sicut locútus est ad Ábraham, et semen ejus: exaltáre húmiles usque in sǽculum.
+{name:Suscepit Deus;annotation:7.a;mode:7;book:The Liber Usualis, 1961, p. 313 & Liber antiphonarius, 1960, p. 206;transcriber:Andrew Hinkley;%%(c3) SUs(e_[uh:l]f)cé(hg)pit(hi) De(ijji)us(i.) *(,) Is(j')ra(k)el(j) pú(ih)e(ij)rum(j') su(i)um,(i.) (;) sic(f)ut(g') lo(h)cú(i')tus(j) est(i'_[oh:h]) ad(h) A(j')bra(k)ham(j) et(ih) se(ij)men(i) e(hg)jus,(hih.) (,) us(f_e)que(f!gwh_f) in(g_[oh:h]f~) saé(e')cu(e)lum.(e.) (::)};;7a
+(sed rubrica tridentina)
+{name:Suscepit Deus;annotation:7.a;mode:7;book:Liber antiphonarius Tomus II, 1891, p. 31;transcriber:faj-munich;%%(c3)SU(ef)scé(hg)pit(hi) De(iji)us(i) *(,) Is(j)ra(k)el(j) pú(ih)e(ij)rum(j) su(i)um,(i) (:) sic(f)ut(g) lo(h)cú(i)tus(j) est(i) ad(h) A(j)bra(k)ham,(j) et(ih) se(ij)men(j) e(i)jus(i) :(:) ex(i)al(g)tá(ij)re(i) hú(h)mi(g)les(hih) us(fe)que(f!gwhf) in(gf) sǽ(e)cu(e)lum.(e) (::)};;7a
+(sed rubrica monastica)
+{name:Suscepit Deus;annotation:7.a;mode:7;book:Antiphonale Monasticum, 1934, p. 163;transcriber:fraterMichael;%%(c3)SU(e_0f)scé(hg)pit(hi~) De(i_0/jji)us(i.) *(,) Is(j')ra(k)el(j) pú(ih)e(ij)rum(j>) su(i.)um,(i.) (;) sic(e)ut(ehg~) lo(h)cú(ij)tus(j) est(i_') (,) ad(h) A(j')bra(k)ham,(j) et(ih) se(ij)men(j) e(i.)jus(i.) :(;) ex(i)al(g)tá(ij)re(i) hú(h')mi(h)les(gih.) (,) us(f_e)que(f!gwh_f) in(g>) sǽ(e)cu(de)lum.(e.) (::)};;7a
 
 [Adv Laudes_]
 !Isa 2:3
@@ -296,66 +328,13 @@ v. Salvatórem expectámus Dóminum nostrum Jesum Christum, qui reformávit corp
 $Deo gratias.
 
 [Responsory Adv Laudes]
-R.br. Veni ad liberándum nos * Dómine Deus virtútum.
-R. Veni ad liberándum nos * Dómine Deus virtútum.
-V. Osténde fáciem tuam et salvi érimus.
-R. Dómine Deus virtútum.
-&Gloria
-R. Veni ad liberándum nos * Dómine Deus virtútum.
+R.br. {gabc:Psalterium/Adventu/rb--veni_ad_liberandum--solesmes_1934}
 
 [Hymnus Adv Laudes]
-{:H-LaudsAdv:}v. En clara vox redárguit
-Obscúra quæque, pérsonans:
-Procul fugéntur sómnia,
-Ab alto Jesus prómicat.
-_
-Mens jam resúrgat, tórpida,
-Non ámplius jacens humi:
-Sidus refúlget jam novum,
-Ut tollat omne nóxium.
-_
-En Agnus ad nos míttitur
-Laxáre gratis débitum:
-Omnes simul cum lácrimis
-Precémur indulgéntiam.
-_
-Ut cum secúndo fúlserit,
-Metúque mundum cínxerit,
-Non pro reátu púniat,
-Sed nos pius tunc prótegat.
-_
-Virtus, honor, laus, glória
-Deo Patri cum Fílio,
-Sancto simul Paráclito,
-In sæculórum sǽcula.
-Amen.
+{gabc:Psalterium/Adventu/hy--en_clara_vox--solesmes}
 
 [HymnusM Adv Laudes_]
-{:H-LaudsAdv:}v. Vox clara ecce íntonat,
-Obscúra quæque íncrepat:
-Pellántur éminus sómnia;
-Ab æthre Christus prómicat.
-_
-Mens jam resúrgat tórpida
-Quæ sorde exstat sáucia;
-Sidus refúlget jam novum,
-Ut tollat omne nóxium.
-_
-E sursum Agnus míttitur
-Laxáre gratis débitum:
-Omnes pro indulgéntia
-Vocem demus cum lácrimis,
-_
-Secúndo ut cum fúlserit,
-Mundúmque horror cínxerit,
-Non pro reátu púniat,
-Sed nos pius tunc prótegat.
-_
-Laus, honor, virtus, glória,
-Deo Patri, et Fílio,
-Sancto simul Paráclito,
-In sæculórum sǽcula.
-Amen.
+{gabc:Psalterium/Adventu/hy--vox_clara--solesmes_1934}
 
 [HymnusM Adv Laudes]
 @:HymnusM Adv Laudes_
@@ -376,12 +355,7 @@ R/. De(h) Pe(h)tra(h) de(h)sér(h)ti(h) ad(h) mon(h)tem(h) fí(h)li(h)æ(h) Si(h
 $Deo gratias
 
 [Responsory Adv Vespera_]
-R.br. Osténde nobis Dómine * Misericórdiam tuam.
-R. Osténde nobis Dómine * Misericórdiam tuam.
-V. Et salutáre tuum da nobis.
-R. Misericórdiam tuam.
-&Gloria
-R. Osténde nobis Dómine * Misericórdiam tuam.
+R.br. {gabc:Psalterium/Adventu/rb--ostende_nobis_domine--solesmes_1934}
 
 [Responsory Adv Vespera_C]
 R.br. Tu exúrgens, Dómine, * Miseréberis Sion. 
@@ -390,99 +364,60 @@ V. Quia tempus miseréndi ejus, quia venit tempus.
 R. Miseréberis Sion. 
 
 [Hymnus Adv Vespera]
-{:H-VespAdv:}v. Creátor alme síderum,
-Ætérna lux credéntium,
-Jesu, Redémptor ómnium,
-Inténde votis súpplicum.
-_
-Qui dǽmonis ne fráudibus
-Períret orbis, ímpetu
-Amóris actus, lánguidi
-Mundi medéla factus es.
-_
-Commúne qui mundi nefas
-Ut expiáres, ad crucem
-E Vírginis sacrário
-Intácta prodis víctima.
-_
-Cujus potéstas glóriæ
-Noménque cum primum sonat,
-Et cǽlites et ínferi
-Treménte curvántur genu.
-_
-Te deprecámur últimæ
-Magnum diéi Júdicem,
-Armis supérnæ grátiæ
-Defénde nos ab hóstibus.
-_
-Virtus, honor, laus, glória
-Deo Patri cum Fílio,
-Sancto simul Paráclito,
-In sæculórum sǽcula.
-Amen.
+{gabc:Psalterium/Adventu/hy--creator_alme_siderum--solesmes}
 
 [HymnusM Adv Vespera]
-{:H-VespAdv:}v. Cónditor alme síderum,
-Ætérna lux credéntium,
-Christe, Redémptor ómnium,
-Exáudi preces súpplicum.
-_
-Qui cóndolens intéritu
-Mortis períre sǽculum,
-Salvásti mundum lánguidum,
-Donans reis remédium,
-_
-Vergénte mundi véspere,
-Uti sponsus de thálamo,
-Egréssus honestíssima
-Vírginis matris cláusula.
-_
-Cujus forti poténtiæ
-Genu curvántur ómnia;
-Cæléstia, terréstria
-Nutu faténtur súbdita.
-_
-Te deprecámur, hágie,
-Ventúre judex sǽculi,
-Consérva nos in témpore
-Hostis a telo pérfidi.
-_
-Laus, honor, virtus, glória,
-Deo Patri, et Fílio,
-Sancto simul Paráclito,
-In sæculórum sǽcula.
-Amen.
+{gabc:Psalterium/Adventu/hy--conditor_alme_siderum--solesmes}
 
 [Adv Versum 3]
 {initial-style:0;%%(c3) V/. Ro(h)rá(h)te,(h) cæ(h)li,(h) dé(h)su(h)per,(h) et(h) nu(h)bes(h) plu(h)ant(h) jus(h hr)tum.(g_'/hvGF'Efgf.) (::)
 R/. A(h)pe(h)ri(h)á(h)tur(h) ter(h)ra,(h) et(h) gér(h)mi(h)net(h) Sal(h)va(h)tó(h hr)rem.(g_'/hvGF'Efgf.) (::)}
 
 [Adv Ant 17]
-O Sapiéntia, * quæ ex ore Altíssimi prodiísti, attíngens a fine usque ad finem, fórtiter suavitérque dispónens ómnia: veni ad docéndum nos viam prudéntiæ.
+{name:O Sapientia;annotation:2.;mode:2;book:The Liber Usualis, 1961, p. 340 & Liber antiphonarius, 1960, p. 234;transcriber:Andrew Hinkley;%%(f3) O(ehhg) Sa(hg)pi(f)én(gf~)ti(ef)a,(f'_) *(,) quæ(f) ex(f) o(fg)re(f) Al(f)tís(g)si(f)mi(g_[uh:l]h) pro(fg)dí(f)sti,(e.) (;) at(f)tín(cf~)gens(f) a(f) fi(g)ne(f') us(g)que(f) ad(f) fi(g')nem,(f) fór(g')ti(h)ter(kxiji/jkj.) (;) su(j)á(j')vi(i)ter(h) dis(g)po(h)néns(ih~)que(f') ó(g)mni(fe)a :(e.) (:) ve(eh)ni(g'_[oh:h]) (,) ad(h) do(f)cén(gf~)dum(ef~) nos(fv_EC.) (,) vi(e_[uh:l]f)am(h) pru(g)dén(e)ti(g)ae.(f.) (::)};;2
+(sed rubrica monastica)
+{name:O Sapientia;annotation:2.;mode:2;book:Antiphonale Monasticum, 1934, p. 208;transcriber:Andrew Hinkley;%%(f3) O(ehhg) Sa(hg)pi(f)én(gf~)ti(ef)a,(f'_) *(,) quæ(f) ex(f) o(fg)re(f') Al(f)tís(g')si(f)mi(g_h) pro(fg)dí(f)sti,(e.) (;) at(f)tín(ef~)gens(f) a(f) fi(fg)ne(f') u(g)sque(f) ad(f) fi(g')nem,(f) fór(g')ti(h)ter(iji/jkj.) (,) su(j)á(j')vi(i)ter(h') di(g)spo(h')néns(i>)que(g') ó(h>)mni(fe)a:(e.) (:) ve(eh)ni(g'_) ad(h) do(f)cén(gf~)dum(ef~) nos(fv_EC.) (,) vi(e_f)am(h') pru(g)dén(e)ti(gh)æ.(f.) (::)};;2
 
 [Adv Ant 18]
-O Adonái * et Dux domus Israël, qui Móysi in igne flammæ rubi apparuísti, et ei in Sina legem dedísti: veni ad rediméndum nos in brácchio exténto.
+{name:O Adonai;annotation:2.;mode:2;
+book:The Liber Usualis, 1961, p. 340 & Liber antiphonarius, 1960, p. 235;transcriber:Andrew Hinkley;%%(f3) O(ehhg) A(h_f)do(gf)ná(ef)i,(f'_) *(,) et(f) Dux(f) do(g)mus(hf) Is(g)ra(f)el,(e.) (;) qui(f) Mó(cf)y(f)si(f') (,) in(f) i(g)gne(f') flam(g)mae(f) ru(g)bi(f') (,) ap(f)pa(g')ru(f)í(g_[uh:l]h)sti,(kxiji/jkj.) (;) et(j) e(j')i(i) in(h) Si(h)na(h_g) le(h)gem(i') de(g)dí(hg)sti :(e.) (:) ve(eh)ni(g'_[oh:h]) (,) ad(h) red(hg)i(f)mén(gf~)dum(ef~) nos(f.) (,) in(ec~) brá(e)chi(f)o(h_g) ex(e)tén(gg)to.(f.) (::)};;2
+(sed rubrica monastica)
+{name:O Adonai;annotation:2.;mode:2;book:Antiphonale Monasticum, 1934, p. 209;transcriber:Dominique CROCHU;%%(f3) O(ehhg) A(h_f)do(gf)ná(ef)i,(f'_) *(,) et(f) Dux(f) dó(g)mus(hf) Is(g)ra(f)el,(e.) (;) qui(f) Mó(ef)y(f)si(f_') in(f) í(g>)gne(f') flám(g>)mæ(f) rú(g)bi(f') ap(f)pa(g')ru(f)í(g_h)sti,(iji/jkj.) (,) et(j) é(j)i(i') in(h) Sí(h)na(h_g) lé(h')gem(i>) de(g)dí(h)sti :(e.) (:) vé(eh)ni(g'_) ad(h) re(hg)di(f)mén(gf~)dum(ef~) nos(f.) (,) in(ec~) brá(e)chi(f)o(h_g) ex(e)tén(gh)to.(f.) (::)};;2
 
 [Adv Ant 19]
-O radix Jesse * qui stas in signum populórum, super quem continébunt reges os suum, quem gentes deprecabúntur: veni ad liberándum nos, jam noli tardáre.
+{name:O radix Jesse;annotation:2.;mode:2;book:Liber antiphonarius, 1960, p. 235;transcriber:Andrew Hinkley;%%(f3) O(ehhg) Ra(h_f)dix(gf) Jes(ef)se,(f'_) *(,) qui(f) stas(fg) in(f) si(g)gnum(f) po(g_h)pu(fg)ló(f)rum,(e.) (;) su(f)per(cf~) quem(f) con(f)ti(f)né(fg)bunt(f) re(g')ges(f) os(g_h) su(kxiji)um,(jkj.) (;) quem(j_i~) gen(j)tes(i) de(h)pre(hg)ca(f!gwh)bún(h)tur:(e.) (:) ve(eh)ni(g'_) (,) ad(h) li(hg)be(f)rán(gf~)dum(ef~) nos,(fv_EC.) (;) jam(e_f) no(h_g)li(e) tar(gh)dá(f.)re.(f.) (::)};;2
+(sed rubrica monastica)
+{name:O radix Jesse;annotation:2.;mode:2;book:Antiphonale Monasticum, 1934, p. 209;transcriber:Dominique CROCHU;%%(f3) O(ehhg) ra(h_f)dix(gf) Jes(ef)se,(f'_) *(,) qui(f) stas(fg) in(f) si(g')gnum(f) po(g_h)pu(fg)ló(f)rum,(e.) (;) su(f)per(ef~) quem(f') con(f)ti(f)né(fg)bunt(f) re(g>)ges(f') os(f) sú(g_h)um,(iji/jkj.) (;) quem(j>_) gen(j>)tes(i') de(h)pre(hg)ca(f!gwh)bún(h>_)tur:(e.) (:) ve(eh)ni(g'_) ad(h) li(hg)be(f)rán(gf~)dum(ef~) nos,(fv_EC.) (,) jam(e_f) no(h_g)li(e) tar(gh)dá(f.)re.(f.) (::)};;2
 
 [Adv Ant 20]
-O clavis David * et sceptrum domus Israël; qui áperis, et nemo claudit; claudis, et nemo áperit: veni, et educ vinctum de domo cárceris, sedéntem in ténebris, et umbra mortis.
+{name:O clavis David;annotation:2.;mode:2;book:Liber antiphonarius, 1960, p. 236;transcriber:Andrew Hinkley;%%(f3) O(ehhg) Cla(h_f)vis(gf) Da(ef)vid,(f'_) *(,) et(f) scep(fg)trum(f') do(g)mus(hf) Is(g)ra(f)el:(e.) (;) qui(f) á(cf)pe(f)ris,(f') (,) et(f) ne(g')mo(f) clau(g_h)dit;(kxiji/jkj.) (;) clau(j'_)dis,(i) (,) et(h) ne(hg)mo(f!gwh) á(h)pe(f_gF'E)rit:(e.) (:) ve(eh)ni,(g.) (,) et(hg) e(f)duc(gf) vin(ef)ctum(f.) (,) de(f_e) do(f)mo(h') cár(h_)ce(f_gF'E)ris,(e.) (;) se(h')dén(g)tem(h'_) in(f) té(gf)ne(ef)bris(fv_EC.) (;) et(e_f) um(h_g~)bra(e) mor(gg)tis.(f.) (::)};;2
+(sed rubrica monastica)
+{name:O clavis David;annotation:2.;mode:2;book:Antiphonale Monasticum, 1934, p. 210;transcriber:Dominique CROCHU;%%(f3) O(ehhg) cla(h_f)vis(gf) Da(ef)vid,(f'_) *(,) et(f) sce(fg)ptrum(f') do(g)mus(hf) Is(g)ra(f)el:(e.) (;) qui(f) á(ef)pe(f)ris,(f'_) et(f) ne(g')mo(f) clau(g_h)dit;(iji/jkj.) (;) clau(j>_)dis,(i'_) et(h) ne(hg)mo(f!gwh) á(h)pe(f_gF'E)rit:(e.) (:) ve(eh)ni,(g.) et(hg) e(f)duc(g') vin(g>)ctum(f.) de(f_e) do(f)mo(g') cár(h>_)ce(f_gF'E)ris,(e.) (;) se(h_)dén(g)tem(hg) in(f) té(gf)ne(ef)bris(fv_EC.) (,) et(e_f) um(h_g)bra(e) mor(gh)tis(f.) (::)};;2
 
 [Adv Ant 21]
-O Óriens * splendor lucis ætérnæ, et sol justítiæ: veni, et illúmina sedéntes in ténebris, et umbra mortis.
+{name:O Oriens;annotation:2.;mode:2;book:Liber antiphonarius, 1960, p. 236;transcriber:Andrew Hinkley;%%(f3) O(ehhg) O(h_f/gf)ri(ef)ens,(f.) *(,) splen(fg)dor(f) lu(f)cis(g_h) ae(fg)tér(f)nae,(e.) (;) et(f) sol(cf) ju(f)stí(g')ti(h)ae:(kxiji/jkj.) (:) ve(j)ni,(i) (,) et(hg) il(fh~)lú(h)mi(f_gF'E)na(e.) (;) se(h')dén(g)tes(h'_) in(f) té(gf)ne(ef)bris(fv_EC.) (;) et(e_f) um(h_g~)bra(e) mor(gg)tis.(f.) (::)};;2
+(sed rubrica monastica)
+{name:O Oriens;annotation:2.;mode:2;book:Antiphonale Monasticum, 1934, p. 210;transcriber:Dominique CROCHU;%%(f3) O(ehhf) O(g_f)ri(ef)ens,(f.) *(,) splen(fg)dor(f') lu(f)cis(g_h) æ(fg)tér(f>)næ,(e.) (;) et(f) sol(ef) ju(f)stí(g')ti(h)æ :(iji/jkj.) (:) ve(j)ni,(i.) et(hg) il(fh~)lú(h)mi(f_gF'E)na(e.) (;) se(h_)dén(g)tes(hg) in(f) té(gf)ne(ef)bris(fv_EC.) (,) et(e_f) um(h_g)bra(e) mor(gh)tis.(f.) (::)};;2
 
 [Adv Ant 22]
-O Rex géntium, * et desiderátus eárum, lapísque anguláris, qui facis útraque unum: veni, et salva hóminem, quem de limo formásti.
+{name:O Rex gentium;annotation:2.;mode:2;book:Liber antiphonarius, 1960, p. 236;transcriber:Andrew Hinkley;%%(f3) O(ehhg) Rex(h_f) gén(gf~)ti(ef)um,(f'_) *(,) et(f) de(f)si(f)de(f)rá(f)tus(g_h) e(fg)á(f)rum,(e.) (;) la(f)pí(cf)sque(f) an(g')gu(f)lá(g_h)ris,(kxiji/jkj) (;) qui(j) fa(j')cis(i) ú(h)tra(hg)que(f!gwh) u(h)num:(e.) (:) ve(eh)ni,(g'_) (,) et(h) sal(hg~)va(f) hó(gf)mi(ef)nem,(fv_EC.) (;) quem(e) de(f) li(h')mo(g) for(e)má(gg)sti.(f.) (::)};;2
+(sed rubrica monastica)
+{name:O Rex gentium;annotation:2.;mode:2;book:Antiphonale Monasticum, 1934, p. 211;transcriber:Andrew Hinkley;%%(f3) O(ehhg) Rex(h_f) gén(gf~)ti(ef)um,(f'_) *(,) et(f) de(f)si(f)de(f')rá(f)tus(g_h) e(fg)á(f)rum,(e.) (;) la(f)pí(ef)sque(f) an(g>')gu(f)lá(g_h)ris,(iji/jkj.) (,) qui(j) fa(j)cis(i') ú(h)tra(hg)que(f!gwh) u(h)num:(e.) (:) ve(eh)ni,(g'_) et(h) sal(hg~)va(f) hó(gf)mi(ef)nem,(fv_EC.) (,) quem(e) de(f) li(h')mo(g) for(e)má(gh)sti.(f.) (::)};;2
 
 [Adv Ant 23]
-O Emmánuel, * Rex et légifer noster, exspectátio géntium, et Salvátor eárum: veni ad salvándum nos, Dómine, Deus noster.
+{name:O Emmánuel;annotation:2.;mode:2;book:Liber antiphonarius, 1960, p. 237;transcriber:Andrew Hinkley;%%(f3) O(ehhg) Em(h_f)má(gf)nu(ef)el,(f'_) *(,) Rex(g) et(f) lé(f)gi(g_h)fer(fg) no(f)ster,(e.) (;) ex(f)spe(cf)ctá(fg)ti(f)o(f) gén(g')ti(h)um,(kxiji/jkj.) (;) et(j') Sal(i)vá(h)tor(hg) e(f!gwh)á(h)rum:(e.) (:) ve(eh)ni(g'_) (,) ad(h) sal(f)ván(gf~)dum(ef~) nos(f.) (,) Dó(ec)mi(e)ne(f) De(h_g)us(e) no(gg)ster.(f.) (::)};;2
+(sed rubrica monastica)
+{name:O Emmánuel;annotation:2.;mode:2;book:Antiphonale Monasticum, 1934, p. 211;transcriber:Harpa Dei;%%(f3) O(ehhg) Em(h_f)má(gf)nu(ef)el,(f'_) *(,) Rex(g) et(f') lé(f)gi(g_h)fer(fg) no(f)ster,(e.) (;) ex(f)spe(ef)ctá(fg)ti(f)o(f) gén(g')ti(h)um,(iji/jkj.) (;) et(j) Sal(i>')vá(h)tor(hg) e(f!gwh)á(h)rum:(e.) (:) ve(eh)ni(g'_) ad(h) sal(f)ván(gf~)dum(ef~) nos(f.) (,) Dó(ec)mi(e)ne(f) De(h_g)us(e) no(gh)ster.(f.) (::)};;2
 
 [Adv Ant 21L]
-Nolíte timére; * quinta enim die véniet ad vos Dóminus noster.
+{name:Nolite timere;annotation:8.G;mode:8;book:Liber antiphonarius, 1960, p. 245;transcriber:Andrew Hinkley;%%(c3) NO(e)lí(eh)te(f) ti(ed)mé(e_f)re:(e.) *(;) quin(i_)ta(g) e(ij)nim(i) di(hhi)e(h.) (,) vé(hg)ni(f)et(h') ad(i) vos(g.) (,) Dó(h_f)mi(g)nus(f) no(e.)ster.(e.) (::)};;8G
+(sed rubrica monastica)
+{name:Nolite timere;annotation:8.G;mode:8;book:Antiphonale Monasticum, 1934, p. 219;%%(c3) NO(e)lí(eh)te(f) ti(ed)mé(e_f)re :(e.) *(;) quin(i_>)ta(g) e(ij)nim(i>) di(hhi)e(h.) (,) vé(hg)ni(f)et(h') ad(i>) vos(g) Dó(h_f)mi(g)nus(f) no(e.)ster.(e.) (::)};;8G
 
 [Adv Ant 23L]
-Ecce compléta sunt * ómnia, quæ dicta sunt per Ángelum de Vírgine María.
+{name:Ecce completa sunt;annotation:8.c;mode:8;book:Liber antiphonarius, 1960, p. 255;transcriber:Andrew Hinkley;%%(c4) EC(j_)ce(ji) com(hg~)plé(hi)ta(h) sunt(g.) *(;) ó(gh)mni(g)a(g'_) quae(g) di(g)cta(e) sunt(g) per(g) An(f)ge(e)lum(f'_) (,) de(d) Vír(e')gi(f)ne(gh) Ma(h)rí(g.)a.(g.) (::)};;8c
+(sed rubrica monastica)
+{name:Ecce completa sunt;annotation:8.a;mode:8;book:Antiphonale Monasticum, 1934, p. 220;transcriber:Sr. Maria Ruth Malagoli osb;%%(c4) EC(j_)ce(ji)  com(hg~)plé(hi)ta(h) sunt(g>.) *(,) óm(gh~)ni(g)a(g_') quæ(g) dic(g')ta(e) sunt(g') per(g) An(f')ge(e)lum(f>_') (,) de(d) Vír(e')gi(f)ne(gh) Ma(h)rí(g.)a.(g.) (::)};;8a
 
 [Quad Laudes_]
 !Isa 58:1
@@ -495,66 +430,13 @@ v. Ecce nunc tempus acceptábile, ecce nunc dies salútis. Némini dantes ullam 
 $Deo gratias
 
 [Responsory Quad Laudes]
-R.br. Ipse liberávit me * de láqueo venántium.
-R. Ipse liberávit me * de láqueo venántium.
-V. Et a verbo áspero.
-R. De láqueo venántium.
-&Gloria
-R. Ipse liberávit me * de láqueo venántium
+R.br. {gabc:Psalterium/Quadragesima/rb--ipse_liberavit--solesmes_1934}
 
 [Hymnus Quad Laudes]
-{:H-Osolsalutis:}v. O sol salútis, íntimis,
-Jesu, refúlge méntibus,
-Dum, nocte pulsa, grátior
-Orbi dies renáscitur.
-_
-Dans tempus acceptábile,
-Da lacrimárum rívulis
-Laváre cordis víctimam,
-Quam læta adúrat cáritas.
-_
-Quo fonte manávit nefas,
-Fluent perénnes lácrimæ,
-Si virga pœniténtiæ
-Cordis rigórem cónterat.
-_
-Dies venit, dies tua,
-In qua reflórent ómnia:
-Lætémur et nos in viam
-Tua redúcti déxtera.
-_
-Te prona mundi máchina,
-Clemens, adóret, Trínitas,
-Et nos novi per grátiam
-Novum canámus cánticum.
-Amen.
+{gabc:Psalterium/Quadragesima/hy--o_sol_salutis_intimis--solesmes}
 
 [HymnusM Quad Laudes]
-v. Jam Christe sol justítiæ,
-Mentis diéscant ténebræ:
-Virtútum ut lux rédeat,
-Terris diem cum réparas.
-_
-Dans tempus acceptábile,
-Et pǽnitens cor tríbue,
-Convértat ut benígnitas
-Quos longa suffert píetas.
-_
-Quiddámque pæniténtiæ
-Da ferre, quamvis grávium,
-Majóre tuo múnere,
-Quo démptio fit críminum.
-_
-Dies venit, dies tua,
-In qua reflórent ómnia:
-Lætémur in hac ad tuam
-Per hanc redúcti grátiam.
-_
-Te rerum univérsitas,
-Clemens, adóret, Trínitas,
-Et nos novi per véniam,
-Novum canámus cánticum.
-Amen.
+{gabc:Psalterium/Quadragesima/hy--jam_christe--solesmes_1934}
 
 [Quad Vespera_]
 !Joël 2:17
@@ -562,42 +444,13 @@ Amen.
 $Deo gratias
 
 [Responsory Quad Vespera]
-R.br. Scápulis suis * obumbrábit tibi.
-R. Scápulis suis * obumbrábit tibi.
-V. Et sub pennis ejus sperábis.
-R. Obumbrábit tibi.
-&Gloria
-R. Scápulis suis * obumbrábit tibi.
+R.br. {gabc:Psalterium/Quadragesima/rb--scapulis_suis--solesmes_1934}
 
 [HymnusM Quad Vespera]
-@:Hymnus Quad Vespera:s/nóminis laudem tui/laudem tui nóminis/ s/Concéde.*_/Sic corpus extra cónteri\nDona per abstinéntiam,\nJejúnet ut mens sóbria\nA labe prorsus críminum.\n_/s
+{gabc:Psalterium/Quadragesima/hy--audi_benigne_conditor--solesmes_1934}
 
 [Hymnus Quad Vespera]
-{:H-Audibenigne:}v. Audi, benígne Cónditor,
-Nostras preces cum flétibus,
-In hoc sacro jejúnio
-Fusas quadragenário.
-_
-Scrutátor alme córdium,
-Infírma tu scis vírium:
-Ad te revérsis éxhibe
-Remissiónis grátiam.
-_
-Multum quidem peccávimus,
-Sed parce confiténtibus:
-Ad nóminis laudem tui
-Confer medélam lánguidis.
-_
-Concéde nostrum cónteri
-Corpus per abstinéntiam;
-Culpæ ut relínquant pábulum
-Jejúna corda críminum.
-_
-Præsta, beáta Trínitas,
-Concéde, simplex Únitas;
-Ut fructuósa sint tuis
-Jejuniórum múnera.
-Amen.
+{gabc:Psalterium/Quadragesima/hy--audi_benigne_conditor--solesmes.1}
 
 [Quad Versum 3]
 {initial-style:0;%%(c3) V/. Án(h)ge(h)lis(h) su(h)is(h) De(h)us(h) man(h)dá(h)vit(h) de(h hr) te.(g_'/hvGF'Efgf.) (::)
@@ -614,55 +467,12 @@ v. Christus semel oblátus est ad multórum exhauriénda peccáta: * secúndo si
 $Deo gratias
 
 [Responsory Quad5 Laudes_]
-R.br. Érue a frámea * Deus ánimam meam.
-R. Érue a frámea * Deus ánimam meam
-V. Et de manu canis únicam meam.
-R. Deus ánimam meam.
-R. Érue a frámea * Deus ánimam meam.
+R.br. {gabc:Psalterium/Passionis/rb--erue_a_framea_in_feriis--solesmes_1934}
+(sed feria 1)
+R.br. {gabc:Psalterium/Passionis/rb--erue_a_framea-dominica-solesmes_1934}
 
 [Hymnus Quad5 Laudes]
-{:H-Lustrasex:}v. Lustra sex qui jam perégit,
-Tempus implens córporis,
-Sponte líbera Redémptor
-Passióni déditus,
-Agnus in Crucis levátur
-Immolándus stípite.
-_
-Felle potus ecce languet,
-Spina, clavi, láncea,
-Mite corpus perforárunt,
-Unda manat, et cruor:
-Terra, pontus, astra, mundus,
-Quo lavántur flúmine!
-_
-Crux fidélis, inter omnes
-Arbor una nóbilis:
-Silva talem nulla profert
-Fronde, flore, gérmine:
-Dulce ferrum, dulce lignum
-Dulce pondus sústinent.
-_
-Flecte ramos, arbor alta,
-Tensa laxa víscera,
-Et rigor lentéscat ille,
-Quem dedit natívitas:
-Et supérni membra Regis
-Tende miti stípite.
-_
-Sola digna tu fuísti
-Ferre mundi víctimam;
-Atque portum præparáre
-Arca mundo náufrago,
-Quam sacer cruor perúnxit,
-Fusus Agni córpore.
-_
-Sempitérna sit beátæ
-Trinitáti glória:
-Æqua Patri, Filióque,
-Par decus Paráclito:
-Uníus, Triníque nomen
-Laudet univérsitas.
-Amen.
+{gabc:Psalterium/Passionis/hy--lustra_sex_qui_jam--solesmes}
 
 [HymnusM Quad5 Laudes]
 {gabc:Psalterium/Passionis/hy--lustris_sex_qui_jam_peractis--solesmes_1934}
@@ -681,61 +491,23 @@ R/. Am(h)pli(h)á(h)vit(h) ad(h)vér(h)sum(h) me(h) sup(h)plan(h)ta(h)ti(h)ó(h 
 $Deo gratias
 
 [Responsory Quad5 Vespera_]
-R.br. De ore leónis * líbera me, Dómine.
-R. De ore leónis * líbera me, Dómine.
-V. Et a córnibus unicórnium humilitátem meam.
-R. Líbera me, Dómine.
-R. De ore leónis * líbera me, Dómine.
+R.br. {gabc:Psalterium/Passionis/rb--de_ore_leonis--solesmes_1934}
+(sed feria 1 aut feria 7)
+R.br. {gabc:Psalterium/Passionis/rb--de_ore_leonis-dominica-solesmes_1934}
 
 [Hymnus Quad5 Vespera]
-{:H-Vexillaregis:}v. Vexílla Regis pródeunt;
-Fulget Crucis mystérium,
-Qua Vita mortem pértulit,
-Et morte vitam prótulit.
-_
-Quæ, vulneráta lánceæ
-Mucróne diro, críminum
-Ut nos laváret sórdibus,
-Manávit unda et sánguine.
-_
-Impléta sunt quæ cóncinit
-David fidéli cármine,
-Dicéndo natiónibus:
-Regnávit a ligno Deus.
-_
-Arbor decóra et fúlgida,
-Ornáta Regis púrpura,
-Elécta digno stípite
-Tam sancta membra tángere.
-_
-Beáta, cujus brácchiis
-Prétium pepéndit sǽculi,
-Statéra facta córporis,
-Tulítque prædam tártari.
-_
-!Sequens stropha dicitur flexis genibus.
-_
-O Crux, ave, spes única,
-In hac triúmphi glória
-(sed tempore Passionis)
-Hoc Passiónis témpore
-(sed tempore Paschali)
-Paschále quæ fers gáudium
-Piis adáuge grátiam,
-Reísque dele crímina.
-_
-Te, fons salútis, Trínitas,
-Colláudet omnis spíritus:
-Quibus Crucis victóriam
-Largíris, adde prǽmium.
-Amen.
-
-[HymnusM Quad5 Vespera]
 {gabc:Sancti/09-14/hy--vexilla_regis_exaltatio--solesmes_1934}
 (sed tempore Passionis)
 {gabc:Psalterium/Passionis/hy--vexilla_regis_tempore_passionis--solesmes_1934}
 (sed tempore Paschali)
 {gabc:Sancti/05-03/hy--vexilla_regis_inventio--solesmes_1934}
+
+[HymnusM Quad5 Vespera]
+{gabc:Sancti/09-14/hy--vexilla_regis_exaltatio--solesmes.1}
+(sed tempore Passionis)
+{gabc:Psalterium/Passionis/hy--vexilla_regis_tempus_passionis--solesmes}
+(sed tempore Paschali)
+{gabc:Sancti/05-03/hy--vexilla_regis_inventio--solesmes.1}
 
 [Quad5 Versum 3_]
 {initial-style:0;%%(c3) V/. É(h)ri(h)pe(h) me,(h) Dó(h)mi(h)ne,(h) ab(h) hó(h)mi(h)ne(h) ma(h)lo.(g_'/hbGF'Efgf.) (::)
@@ -751,68 +523,10 @@ R/. Et(h) in(h) si(h)ti(h) me(h)a(h) po(h)ta(h)vé(h)runt(h) me(h) a(h)cé(h hr)
 $Deo gratias
 
 [Hymnus Pasch Laudes]
-{:H-Auroracoelum:}v. Auróra cælum púrpurat,
-Æther resúltat láudibus,
-Mundus triúmphans júbilat,
-Horrens avérnus ínfremit:
-_
-Rex ille dum fortíssimus
-De mortis inférno specu
-Patrum senátum líberum
-Edúcit ad vitæ jubar.
-_
-Cujus sepúlcrum plúrimo
-Custóde signábat lapis,
-Victor triúmphat, et suo
-Mortem sepúlcro fúnerat.
-_
-Sat fúneri, sat lácrimis,
-Sat est datum dolóribus:
-Surréxit exstínctor necis,
-Clamat corúscans Ángelus.
-_
-Ut sis perénne méntibus
-Paschále, Jesu, gáudium,
-A morte dira críminum
-Vitæ renátos líbera.
-_
-* Deo Patri sit glória,
-Et Fílio, qui a mórtuis
-Surréxit, ac Paráclito,
-In sempitérna sǽcula.
-Amen.
+{gabc:Psalterium/Pascha/hy--aurora_caelum--solesmes}
 
 [HymnusM Pasch Laudes_]
-v. Auróra lucis rútilat,
-Cælum láudibus íntonat,
-Mundus exsúltans júbilat,
-Gemens inférnus úlulat:
-_
-Cum Rex ille fortíssimus,
-Mortis confráctis víribus,
-Pede concúlcans tártara,
-Solvit a pœna míseros.
-_
-Ille qui clausus lápide
-Custodítur sub mílite,
-Triúmphans pompa nóbili,
-Victor surgit de fúnere.
-_
-Solútis jam gemítibus,
-Et inférni dolóribus,
-Quia surréxit Dóminus,
-Respléndens clamat Ángelus.
-_
-Quǽsumus, Auctor ómnium,
-In hoc pascháli gáudio,
-Ab omni mortis ímpetu
-Tuum defénde pópulum.
-_
-Glória tibi Dómine,
-Qui surrexíst[i] a mórtuis,
-Cum Patr[e] et Sancto Spíritu,
-In sempitérna sǽcula.
-Amen.
+{gabc:Psalterium/Pascha/hy--aurora_lucis_rutilat--solesmes}
 
 [HymnusM Pasch LaudesOP_]
 v. Sermóne blando Angelus
@@ -865,88 +579,10 @@ R/. Cæ(h)li(h) et(h) ter(h)ra(h) læ(h)tén(h)tur,(h) al(h)le(h)lú(h hr)ja.(g_
 R/. Qui(h)a(h) Dó(h)mi(h)nus(h) re(h)gná(h)vit(h) a(h) li(h)gno,(h) al(h)le(h)lú(h hr)ia.(g_'/hvGF'Efgf.) (::)}
 
 [Hymnus Pasch Vespera]
-{:H-Adregias:}v. Ad régias Agni dapes,
-Stolis amícti cándidis,
-Post tránsitum Maris Rubri,
-Christo canámus Príncipi:
-_
-Divína cujus cáritas
-Sacrum propínat sánguinem,
-Almíque membra córporis
-Amor sacérdos ímmolat.
-_
-Sparsum cruórem póstibus
-Vastátor horret Ángelus:
-Fugítque divísum mare;
-Mergúntur hostes flúctibus.
-_
-Jam Pascha nostrum Christus est
-Paschális idem víctima,
-Et pura puris méntibus
-Sinceritátis ázyma.
-_
-O vera cæli víctima,
-Subjécta cui sunt tártara,
-Solúta mortis víncula,
-Recépta vitæ prǽmia.
-_
-Victor, subáctis ínferis,
-Trophǽa Christus éxplicat;
-Cælóque apérto, súbditum
-Regem tenebrárum trahit.
-_
-Ut sis perénne méntibus
-Paschále, Jesu, gáudium,
-A morte dira críminum
-Vitæ renátos líbera.
-_
-* Deo Patri sit glória,
-Et Fílio, qui a mórtuis
-Surréxit, ac Paráclito,
-In sempitérna sǽcula.
-Amen.
+{gabc:Psalterium/Pascha/hy--ad_regias_agni_dapes--solesmes}
 
 [HymnusM Pasch Vespera]
-v. Ad cenam Agni próvidi,
-Et stolis albis cándidi,
-Post tránsitum maris Rubri,
-Christo canámus Príncipi.
-_
-Cujus corpus sanctíssimum,
-In ara crucis tórridum,
-Cruóre ejus róseo
-Gustándo vívimus Deo.
-_
-Protécti Paschæ véspere
-A devastánte Angelo,
-Erépti de duríssimo
-Pharaónis império.
-_
-Jam Pascha nostrum Christus est,
-Qui immolátus agnus est:
-Sinceritátis ázyma,
-Caro ejus obláta est.
-_
-O vere digna hóstia,
-Per quam fracta sunt tártara,
-Redémpta plebs captiváta,
-Réddita vitæ prǽmia.
-_
-Consúrgit Christus túmulo,
-Victor redit de bárathro,
-Tyránnum trudens vínculo,
-Et Paradísum réserans.
-_
-Quǽsumus, Auctor ómnium,
-In hoc pascháli gáudio,
-Ab omni mortis ímpetu
-Tuum defénde pópulum.
-_
-Glória tibi Dómine,
-Qui surrexíst[i] a mórtuis,
-Cum Patr[e] et Sancto Spíritu,
-In sempitérna sǽcula.
-Amen.
+{gabc:Psalterium/Pascha/hy--ad_coenam--solesmes_1934}
 
 [Pasch Versum 3]
 {initial-style:0;%%(c3) V/. Ma(h)ne(h) no(h)bís(h)cum,(h) Dó(h)mi(h)ne,(h) al(h)le(h)lú(h hr)ja.(g_'/hvGF'Efgf.) (::)

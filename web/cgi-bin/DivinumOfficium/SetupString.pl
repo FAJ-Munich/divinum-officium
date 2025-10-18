@@ -569,7 +569,7 @@ sub setupstring($$%) {
       # Fill in missing "pre-Urban hymn translations to avoid being overriden by Latin
       foreach my $seckey (keys(%{$new_sections})) {
         if ($seckey =~ /Hymnus(.*?) (.*)/) {
-          unless (exists(${$new_sections}{"Hymnus$1M $2"})) {
+          unless ($lang =~ /gabc/i || exists(${$new_sections}{"Hymnus$1M $2"})) {
             ${$new_sections}{"Hymnus$1M $2"} = ${$new_sections}{$seckey};
           }
         }

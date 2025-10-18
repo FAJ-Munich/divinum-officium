@@ -42,6 +42,7 @@ sub gethymn {
     my %h = %{setupstring($lang, "Psalterium/Special/$hymnsource Special.txt")};
     $name = tryoldhymn(\%h, $name);
     $hymn = $h{$name};
+    $error .= "$lang ::: $name ::: $hymn<br/>";
   }
 
   if ($version !~ /1960/ && $hymn =~ /\*/) {    # doxology needed
