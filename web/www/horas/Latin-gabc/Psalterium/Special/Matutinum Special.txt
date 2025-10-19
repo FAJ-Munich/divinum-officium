@@ -18,19 +18,19 @@ Feria VI={name:Adoremus Dominum Quoniam;annotation:6.;mode:6;transcriber:Ryan Ca
 Sabbato={name:Dominum Deum nostrum;annotation:6.;mode:6;transcriber:Ryan Carey;%%(c4) DÓ(f)MI(f)NUM(fg) De(fe)um(f) nos(g)trum(gh) (:) * Ve(h)ní(f)te(gh) ad(ghGF)o(g)ré(g)mus.(f)  (::)};;6
 
 [Invit Adv]
-Regem ventúrum Dóminum, * Veníte, adorémus.
+{name:Regem venturum Dominum;annotation:2.;mode:2;book:Liber nocturnalis, 1930, p. 57;%%(f3) Re(f!gwh)gem(fe) ven(f)tú(h)rum(g) Dó(hi)mi(hg)num(g) *(,) Ve(ij)ní(hg)te(fe) a(hi)do(hg)ré(f.)mus.(f.) (::)};;2
 
 [Invit Adv3]
-Prope est jam Dóminus, * Veníte, adorémus.
+{name:Prope est iam Dominus;annotation:2.;mode:2;book:Liber nocturnalis, 1930, p. 57;%%(f3) Pro(f!gwh)pe(fe) est(f) jam(hg) Dó(hi)mi(hg)nus(g) *(,) Ve(ij)ní(hg)te(fe) a(hi)do(hg)ré(f)mus.(f) (::)};;2
 
 [Invit Quad]
-Non sit vobis vanum mane súrgere ante lucem: * Quia promísit Dóminus corónam vigilántibus.
+{name:Non sit vobis;annotation:4.d;mode:4;book:Liber nocturnalis, 1930, p. 79;transcriber:faj-munich;%%(c4) Non(c) sit(d) vo(f)bis(f) va(fg)num(f.) ma(f)ne(e) súr(fg)ge(f)re(f) an(g)te(e) lu(f)cem:(ded/dc) *(;) Qui(ce!fg)a(g) pro(g)mí(g)sit(g) Dó(gh)mi(g)nus(g) co(g)ró(hg)nam(f) vi(g)gi(gf)lán(e)ti(e)bus.(e.) (::)};;4d
 
 [Invit Quad5_]
-Hódie, si vocem Dómini audiéritis, * Nolíte obduráre corda vestra.
+{name:Non sit vobis;annotation:4.c;mode:4;book:Liber nocturnalis, 1930, p. 80;transcriber:faj-munich;%%(c4) Hó(cd!ef.)di(ed)e,(d) si(f) vo(f)cem(f) Dó(fe)mi(dc)ni(d) au(f)di(f)é(ef!gf)ri(e)tis,(dde.) *(;) No(cd)lí(f)te(e) ob(f)du(g)rá(gg)re(f) cor(gh)da(gf) ves(e.)tra.(e.) (::)};;4
 
 [Invit Pasch_]
-Surréxit Dóminus vere, * Allelúja.
+{name:Surrexit Dominus vere;annotation:6.;mode:4;book:Liber nocturnalis, 1930, p. 83;transcriber:faj-munich;%%(c4) Sur(d)ré(ffg)xit(f) Dó(g)mi(fe)nus(f) ve(gh)re,(ixhivggf.) *(;) Al(fgh)le(ghffvED)lú(f/hgh)ja.(gf..) (::)};;6
 
 [Day0 Hymnus]
 {:H-MatDom1:}v. Nocte surgéntes vigilémus omnes,
@@ -340,249 +340,28 @@ Regnans per omne sǽculum.
 Amen.
 
 [HymnusM Adv]
-v. Verbum supérnum, pródiens
-A Patre olim éxiens,
-Qui natus orbi súbvenis,
-Cursu declívi témporis.
-_
-Illúmina nunc péctora,
-Tuóque amóre cóncrema;
-Audíto ut præcónio
-Sint pulsa tandem lúbrica.
-_
-Judéxque cum post áderis
-Rimári facta péctoris,
-Reddens vicem pro ábditis,
-Justísque regnum pro bonis.
-_
-Non demum arctémur malis
-Pro qualitáte críminis;
-Sed cum beátis cómpotes
-Simus perénnes cælibes.
-_
-Laus, honor, virtus, glória,
-Deo Patri, et Fílio,
-Sancto simul Paráclito,
-In sæculórum sǽcula.
-Amen.
+{gabc:Psalterium/Adventu/hy--verbum_supernum_prodiens_a_--hymni_antiqui}
 
 [Hymnus Adv]
-{:H-MatAdv:}v. Verbum supérnum, pródiens
-E Patris ætérni sinu,
-Qui natus orbi súbvenis,
-Labénte cursu témporis:
-_
-Illúmina nunc péctora,
-Tuóque amóre cóncrema;
-Ut cor cadúca déserens
-Cæli volúptas ímpleat.
-_
-Ut, cum tribúnal Júdicis
-Damnábit igni nóxios,
-Et vox amíca débitum
-Vocábit ad cælum pios;
-_
-Non esca flammárum nigros
-Volvámur inter túrbines,
-Vultu Dei sed cómpotes
-Cæli fruámur gáudiis.
-_
-* Patri, simúlque Fílio,
-Tibíque, Sancte Spíritus,
-Sicut fuit, sit júgiter
-Sæclum per omne glória.
-Amen.
+{gabc:Psalterium/Adventu/hy--verbum_supernum_prodiens--sandhofe}
 
 [HymnusM Quad]
-@:Hymnus Quad:s/nóxia/péssima/ 1-20
-@:Hymnus Quad:24
-@:Hymnus Quad:s/ore súpplici/atque sínguli/ 23
-@:Hymnus Quad:22
-@:Hymnus Quad:21
-@:Hymnus Quad:25-45
+{gabc:Psalterium/Quadragesima/hy--ex_more_docti_mystico--solesmes_1934}
 
 [Hymnus Quad]
-{:H-MatQuad:}v. Ex more docti mýstico
-Servémus hoc jejúnium,
-Deno diérum círculo
-Ducto quater notíssimo.
-_
-Lex et prophétæ prímitus
-Hoc prætulérunt, póstmodum
-Christus sacrávit, ómnium
-Rex atque factor témporum.
-_
-Utámur ergo párcius
-Verbis, cibis et pótibus,
-Somno, jocis, et árctius
-Perstémus in custódia.
-_
-Vitémus autem nóxia,
-Quæ súbruunt mentes vagas:
-Nullúmque demus cállidi
-Hostis locum tyránnidi.
-_
-Flectámus iram víndicem,
-Plorémus ante Júdicem,
-Clamémus ore súpplici,
-Dicámus omnes cérnui:
-_
-Nostris malis offéndimus
-Tuam, Deus, cleméntiam:
-Effúnde nobis désuper,
-Remíssor, indulgéntiam.
-_
-Meménto quod sumus tui,
-Licet cadúci, plásmatis:
-Ne des honórem nóminis
-Tui, precámur, álteri.
-_
-Laxa malum, quod fécimus,
-Auge bonum, quod póscimus:
-Placére quo tandem tibi
-Possímus hic, et pérpetim.
-_
-Præsta, beáta Trínitas,
-Concéde, simplex Únitas,
-Ut fructuósa sint tuis
-Jejuniórum múnera.
-Amen.
+{gabc:Psalterium/Quadragesima/hy--ex_more_docti_mystico--sandhofe}
 
 [HymnusM Quad5]
 {gabc:Psalterium/Passionis/hy--pange_lingua--solesmes_1934}
 
 [Hymnus Quad5]
-{:H-MatQuad5:}v. Pange, lingua, gloriósi
-Láuream certáminis,
-Et super Crucis trophǽo
-Dic triúmphum nóbilem,
-Quáliter Redémptor orbis
-Immolátus vícerit.
-_
-De paréntis protoplásti
-Fraude Factor cóndolens,
-Quando pomi noxiális
-In necem morsu ruit,
-Ipse lignum tunc notávit,
-Damna ligni ut sólveret.
-_
-Hoc opus nostræ salútis
-Ordo depopóscerat,
-Multifórmis proditóris
-Ars ut artem fálleret,
-Et medélam ferret inde,
-Hostis unde lǽserat.
-_
-Quando venit ergo sacri
-Plenitúdo témporis,
-Missus est ab arce Patris
-Natus, orbis Cónditor,
-Atque ventre virgináli
-Carne amíctus pródiit.
-_
-Vagit infans inter arcta
-Cónditus præsépia:
-Membra pannis involúta
-Virgo Mater álligat:
-Et Dei manus pedésque
-Stricta cingit fáscia.
-_
-Sempitérna sit beátæ
-Trinitáti glória,
-Æqua Patri, Filióque;
-Par decus Paráclito:
-Uníus Triníque nomen
-Laudet univérsitas.
-Amen.
+{gabc:Psalterium/Passionis/hy--pange_lingua..._lauream--sandhofe}
 
 [HymnusM Pasch]
-v. Rex sempitérne Dómine,
-Rerum Creátor ómnium,
-Qui eras ante sǽcula
-Semper cum Patre Fílius:
-_
-Qui mundi in primórdio
-Adam plásmasti hóminem:
-Cui tuæ imágini
-Vultum dedísti símilem.
-_
-Quem diábolus déceperat,
-Hostis humáni géneris,
-Cujus tu formam córporis
-Assúmere dignátus es:
-_
-Ut hóminem redímeres,
-Quem ante jam plasmáveras:
-Et nos Deo conjúngeres,
-Per carnis contubérnium.
-_
-Quem éditum ex Vírgine
-Pavéscit omnis ánima:
-Per quem et nos resúrgere
-Devóta mente crédimus.
-_
-Qui nobis in Baptísmate
-Donásti indulgéntiam,
-Qui tenebámur vínculis
-Ligáti consciéntiæ.
-_
-Qui Crucem propter hóminem
-Suscípere dignátus es:
-Dedísti tuum sánguinem
-Nostræ salútis prétium.
-_
-Quǽsumus Auctor ómnium,
-In hoc Pascháli gáudio,
-Ab omni mortis ímpetu
-Tuum defénde pópulum.
-_
-Glória tibi Dómine,
-Qui surrexísti a mórtuis,
-Cum Patre et Sancto Spíritu,
-In sempitérna sǽcula.
-Amen.
+{gabc:Psalterium/Pascha/hy--rex_sempiterne_domine--monastic}
 
 [Hymnus Pasch]
-{:H-MatPasc:}v. Rex sempitérne Cǽlitum,
-Rerum Creátor ómnium,
-Æquális ante sǽcula
-Semper Parénti Fílius:
-_
-Nascénte qui mundo Faber
-Imáginem vultus tui
-Tradens Adámo, nóbilem
-Limo jugásti spíritum.
-_
-Cum livor et fraus dǽmonis
-Fœdásset humánum genus:
-Tu, carne amíctus, pérditam
-Formam refórmas ártifex.
-_
-Qui, natus olim e Vírgine,
-Nunc e sepúlcro násceris,
-Tecúmque nos a mórtuis
-Jubes sepúltos súrgere.
-_
-Qui, pastor ætérnus, gregem
-Aqua lavas baptísmatis:
-Hæc est lavácrum méntium:
-Hæc est sepúlcrum críminum.
-_
-Nobis diu qui débitæ
-Redémptor affíxus cruci,
-Nostræ dedísti pródigus
-Prétium salútis sánguinem.
-_
-Ut sis perénne méntibus
-Paschále, Jesu, gáudium,
-A morte dira críminum
-Vitæ renátos líbera.
-_
-* Deo Patri sit glória,
-Et Fílio, qui a mórtuis
-Surréxit, ac Paráclito,
-In sempitérna sǽcula.
-Amen.
+{gabc:Psalterium/Pascha/hy--rex_sempiterne_coelitum--sandhofe}
 
 [MM LB Pasch]
 !Osea 6:1-3

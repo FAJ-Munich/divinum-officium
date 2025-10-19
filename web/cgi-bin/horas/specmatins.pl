@@ -70,8 +70,10 @@ sub invitatorium {
   postprocess_ant($ant, $lang);
   my @ant = split('\*', $ant);
 
-  if ($lang =~ /gabc/i && $ant =~ /(\([cf][1-4]\))/) {               # postProcess Ant1 for GABC
-    $ant[1] = '{' . $1 . $ant[1];
+  if ($lang =~ /gabc/i && $ant =~ /(\([cf][1-4]b?\))/) {             # postProcess Ant1 for GABC
+    my $clef = $1;
+    $ant[1] =~ s/^\s*\([,;:]\)//;
+    $ant[1] = '{' . $clef . $ant[1];
   }
   my $ant2 = "Ant. $ant[1]";
 
