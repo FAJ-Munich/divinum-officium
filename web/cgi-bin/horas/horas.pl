@@ -33,11 +33,14 @@ sub horas {
   our ($lang1, $lang2, $column);
 
   # GABC: Ensure no chant is displayed at the little hours during the Triduum
+  # And (for the time being) if OCist or OP version are displayed
   my $templang1 = $lang1;    # save settings for later
   my $templang2 = $lang2;
   my $temponly = $only;
 
-  if (triduum_gloria_omitted() && $hora =~ /Prima|Tertia|Sexta|Nona|Completorium/i) {
+  if ($version =~ /Cisterciensis|Praedicatorum/
+    || (triduum_gloria_omitted() && $hora =~ /Prima|Tertia|Sexta|Nona|Completorium/i))
+  {
     $lang1 =~ s/\-gabc//;
     $lang2 =~ s/\-gabc//;
     $only = !$Ck && ($lang1 eq $lang2);
