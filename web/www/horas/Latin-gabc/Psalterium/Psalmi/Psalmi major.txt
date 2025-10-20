@@ -189,9 +189,9 @@ Fidélis Dóminus * in ómnibus verbis suis: et sanctus in ómnibus opéribus su
 {name:Alleluia. (Saturday P. T. at Vespers);annotation:6.;mode:6;book:The Liber Usualis, 1961, p. 307 & The Liber Usualis, 1961, p. 312 & Liber antiphonarius, 1960, p. 202 & Liber antiphonarius, 1960, p. 205;transcriber:Andrew Hinkley;%%(c4) AL(f)le(g)lú(gh){ia},(f.) *(,) al(g)le(f)lú(fe){ia},(d') al(f)le(g')lú(g){ia}.(f.) (::)};;143(1-9);143(10-18);144(1-7);144(8-13);144(14-22);;6
 
 [Daya0 Laudes]
-Allelúja, * allelúja;;92;99;62;66;;6
-Tres púeri * jussu régis in fornacem missi sunt, non timéntes flammam ignis dicéntes: Benedíctus Deus, allelúja;;210;;8G
-Allelúja, * allelúja, allelúja;;148;149;150;;8G
+{name:Alleluia. (Dominica ad Laudes);annotation:6.;mode:6;book:Liber Antiphonarius Tomus I, 1891, p. 3;transcriber:faj-munich;%%(c4) AL(f)le(fd!ewfe)lú(dc~)ja,(c) *(;) al(f)le(g)lú(gf~)ja.(f) (::)};;92;99;62;66;;6
+{name:Tres pueri.;annotation:8.G;mode:8;book:Liber Antiphonarius Tomus I, 1891, p. 5;transcriber:faj-munich;%%(c4) TRES(g) pú(g)e(g)ri(gh) *(;) jus(hvGF)su(gh) ré(h)gis(h) in(g) for(hj)na(j)cem(i) mis(ji)si(hg) sunt,(g) (:) non(j) ti(i)mén(j)tes(h) flam(j)mam(g) ig(h)nis(g) (:) di(g)cén(fe)tes:(f) (;) Be(d)ne(ef)díc(gh)tus(h) De(g)us.(g) (::)};;210;;8G
+{name:Alleluia. (II Dominica ad Laudes);annotation:8.G;mode:8;book:Liber Antiphonarius Tomus I, 1891, p. 5;transcriber:faj-munich;%%(c4) AL(h)le(gf)lú(gh)ja,(g) *() al(h)le(j)lú(hg)ja,(f) al(gh)le(h)lú(g)ja(g) (::)};;148;149;150;;8G
 
 [DayaC Laudes]
 ;;92
@@ -220,9 +220,9 @@ Allelúja, * allelúja, allelúja;;148;149;150;;8G
 {name:Alleluia. II Sund. P. T. at Lauds;annotation:6.;mode:6;book:Liber Antiphonarius Tomus I, 1891, p. 7;%%(c4)AL(f)le(ghg')lú(h)ja,(g_f) * al(gh)le(g)lú(fe)ja,(dc.) (;) al(f)le(g)lú(g)ja.(f.) (::)};;148;149;150;;6
 
 [Daya1 Laudes]
-Miserére * mei Deus.;;50;;6
-Intéllige * clamórem meum Dómine.;;5;;8c
-Deus deus meus * ad te de luce vígilo.;;62;66;;8G
+{annotation:6.;book:Liber Antiphonarius Tomus I, 1891, p. 53;%%(c4)Mi(f)se(g)ré(h)re(gf) *() me(gh)i,(g) De(f)us.(f) (::)};;50;;6
+{annotation:8.c;book:Liber Antiphonarius Tomus I, 1891, p. 54;%%(c3)In(f)tél(h>)le(gh)ge(f) *() cla(ed)mó(e)rem(f) me(g)um,(e) Dó(f)mi(e)ne.(e) (::)};;5;;8c
+{annotation:8.G;book:Liber Antiphonarius Tomus I, 1891, p. 54;%%(c4)De(fg)us,(g) De(h)us(j) me(j)us,(hih) *(;) ad(g) te(hj) de(g) lu(h)ce(gf) ví(gh)gi(g)lo.(g) (::)};;62;66;;8G
 Convérsus est * furor tuus Dómine, et consolátus es me.;;221;;8G
 Laudáte * Dóminum de cælis.;;148;149;150;;1a
 
@@ -395,11 +395,11 @@ Osténde nobis, Dómine, * lucem miseratiónum tuárum.;;216(1-13)
 {name:Alleluia. II Sund. P. T. at Lauds;annotation:6.;mode:6;book:Antiphonale Monasticum, 1934, p. 32 & Antiphonale Monasticum, 1934, p. 475;transcriber:Harpa Dei;%%(c4)AL(f)le(ghg')lú(h)ja,(g_f) * al(gh)le(g)lú(fe)ja,(d.) al(f)le(g)lú(gf~)ja.(f.) (::)};;148;149;150;;6
 
 [Monastic Laudes] (feria 2)
-Miserére * mei, Deus;;50
-Intéllege * clamórem meum, Dómine;;5
-Dómine, * in cælo misericórdia tua;;35
+{name:Miserere mei Deus;annotation:6.;mode:6;book:Antiphonale Monasticum, 1934, p. 36;transcriber:Jakub Jelínek;commentary:Ps. 50, 3;%%(c4)MI(f)se(g)ré(h')re(f) *() me(gh)i(g) De(f.)us.(f.) (::)};;50;;6
+{name:Intellige clamorem;annotation:8.a;mode:8;book:Antiphonale Monasticum, 1934, p. 39;transcriber:Jakub Jelínek;commentary:Ps. 5, 2;%%(c3)IN(h)tél(h_)li(gh)ge(f.) *() cla(ed)mó(e)rem(f') me(g)um(f') Dó(e)mi(de)ne.(e.) (::)};;5;;8a
+{name:Domine in caelo;annotation:8.a;mode:8;book:Antiphonale Monasticum, 1934, p. 40;transcriber:Jakub Jelínek;commentary:Ps. 35, 6;%%(c3)DO(h)mi(h)ne(g') *() in(h) cæ(fe)lo(g'_) (,) mi(f)se(g')ri(h)cór(f')di(e)a(f') tu(f)a.(e.) (::)};;35;;8a
 {annotation:8. G;%%(c4) Con(h)vér(f)sus(fg) est(g.) *() fu(h)ror(j) tu(i')us,(j) Dó(h')mi(j)ne,(i.) (,) et(j) con(h)so(gf)lá(g_0h)tus(i') es(h) me.(g.) (::)};;221;;8G
-Laudáte * Dóminum de cælis;;148;149;150
+{name:Laudate Dominum de caelis;annotation:1.a;mode:1;book:Antiphonale Monasticum, 1934, p. 43;transcriber:Jakub Jelínek;commentary:Ps. 148, 1;%%(c4)LAu(h_)dá(h'_)te(g) *() Dó(e')mi(f)num(g) de(fe) cæ(d.)lis.(d.) (::)};;148;149;150;;1a
 
 [Monastic Laudes] (feria 2 et tempore paschali)
 {annotation:6. F;%%(c4) Al(f)le(g')lú(h)ja,(f') *() al(g)le(f)lú(fe)ja,(d_') al(f)le(g')lú(g)ja.(f.) (::)};;50;5;35;;6
