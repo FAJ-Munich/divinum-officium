@@ -593,7 +593,7 @@ sub psalmi_major {
     && $lang !~ /gabc/i
     && (!exists($winner{"Ant $hora"}) || $commune =~ /C10/)
     && $communetype !~ /ex/i
-    && ($version !~ /Trident/ || $hora eq 'Vespera')
+    && ($version !~ /^Trident/ || $hora eq 'Vespera')
     && ($version !~ /Monastic/ || $hora ne 'Laudes' || $winner{Rank} !~ /Dominica/i))
   {
     $psalmi[0] =~ s/.*(?=;;)/ alleluia_ant($lang) /e;

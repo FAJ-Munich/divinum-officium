@@ -6,7 +6,7 @@ Tres púeri * jussu régis in fornácem missi sunt, non timéntes flammam ignis,
 Allelúja, * laudáte Dóminum de cælis, allelúja, allelúja.;;148;;1g
 
 [Day0 Laudes1] (tempore paschali)
-{name:Alleluia. (Sund. P. T. at Lauds);annotation:6.;mode:6;book:Antiphonale Romanum, 1912, p. 5;%%(c4)AL(f)le(ghg')lú(h)ia,(g_f_) *(,) al(gh)le(g)lú(fe)ia,(d') al(f)le(g')lú(g)ia.(f.) (::)};;92;99;62;210;148;;6
+{name:Alleluia. (Sund. P. T. at Lauds);annotation:6.;mode:6;book:Antiphonale Romanum, 1912, p. 5;%%(c4)AL(f)le(ghg')lú(h)ja,(g_f_) *(,) al(gh)le(g)lú(fe)ja,(d') al(f)le(g')lú(g)ja.(f.) (::)};;92;99;62;210;148;;6
 
 [Day0 Laudes2]
 ;;50
@@ -87,7 +87,7 @@ Dómine, magnus es tu, * et præclárus in virtúte tua.;;213;;4-alt-c
 Laudábo Deum meum * in vita mea.;;145;;4E
 
 [Day3 Laudes1] (tempore paschali)
-{name:Alleluia (Wednesday P. T. at Lauds);annotation:3.g2;mode:3;book:Antiphonale Romanum, 1912, p. 106;%%(c4)Al(g)le(h)lú(hj)ia,(i_') *(,) al(h)le(g')lú(h)ia,(gf) al(gh)le(g)lú(e.)ia.(e.) (::)};;96;64;100;213;145;;3g2
+{name:Alleluia (Wednesday P. T. at Lauds);annotation:3.g2;mode:3;book:Antiphonale Romanum, 1912, p. 106;%%(c4)Al(g)le(h)lú(hj)ja,(i_') *(,) al(h)le(g')lú(h)ja,(gf) al(gh)le(g)lú(e.)ja.(e.) (::)};;96;64;100;213;145;;3g2
 
 [Day3 Laudes2]
 Ámplius lava me, * Dómine, ab injustítia mea.;;50;;7a
@@ -114,7 +114,7 @@ Pópulus meus, * ait Dóminus, bonis meis adimplébitur.;;214;;4E
 Deo nostro * jucúnda sit laudátio.;;146;;7a
 
 [Day4 Laudes1] (tempore paschali)
-{name:Alleluia (Thursday P. T. at Lauds);annotation:8.G;mode:8;book:Antiphonale Romanum, 1912, p. 124;%%(c4)Al(h)le(g)lú(h)ia,(gf) *(,) al(g)le(h)lú(i')ia,(j) al(h')le(h)lú(g.)ia.(g.) (::)};;97;89;35;214;146;;8G
+{name:Alleluia (Thursday P. T. at Lauds);annotation:8.G;mode:8;book:Antiphonale Romanum, 1912, p. 124;%%(c4)Al(h)le(g)lú(h)ja,(gf) *(,) al(g)le(h)lú(i')ja,(j) al(h')le(h)lú(g.)ja.(g.) (::)};;97;89;35;214;146;;8G
 
 [Day4 Laudes2]
 Tibi soli peccávi, * Dómine, miserére mei.;;50;;8Gstar
@@ -141,7 +141,7 @@ In Dómino justificábitur * et laudábitur omne semen Israël.;;215;;5
 Lauda, * Jerúsalem, Dóminum.;;147;;1g3
 
 [Day5 Laudes1] (tempore paschali)
-{name:Alleluia. (Friday P. T. at Lauds);annotation:6.;mode:6;book:Antiphonale Romanum, 1912, p. 142;%%(c4) Al(h)le(hg)lú(h)ia,(gf) *(,) al(gh)le(g)lú(fef)ia,(d_c) al(fg)le(ghg)lú(f.)ia.(f.) (::)};;98;142;84;215;147;;6
+{name:Alleluia. (Friday P. T. at Lauds);annotation:6.;mode:6;book:Antiphonale Romanum, 1912, p. 142;%%(c4) Al(h)le(hg)lú(h)ja,(gf) *(,) al(gh)le(g)lú(fef)ja,(d_c) al(fg)le(ghg)lú(f.)ja.(f.) (::)};;98;142;84;215;147;;6
 
 [Day5 Laudes2]
 Cor contrítum * et humiliátum, Deus, non despícies.;;50;;6
@@ -168,7 +168,7 @@ Osténde nobis, Dómine, * lucem miseratiónum tuárum.;;216;;3a
 Omnis spíritus * laudet Dóminum.;;150;;7a
 
 [Day6 Laudes1] (tempore paschali)
-{name:Alleluia. (Saturday P. T. at Lauds);annotation:8.c;mode:8;book:Antiphonale Romanum, 1949, p. 186;%%(c4) Al(h')le(h)lú(hih)ia,(hgh.) *(,) al(f')le(f)lú(d!ewf)ia,(f.) al(f_0h)le(g)lú(e.)ia.(e.) (::)};;98;142;84;215;147;;8c
+{name:Alleluia. (Saturday P. T. at Lauds);annotation:8.c;mode:8;book:Antiphonale Romanum, 1949, p. 186;%%(c4) Al(h')le(h)lú(hih)ja,(hgh.) *(,) al(f')le(f)lú(d!ewf)ja,(f.) al(f_0h)le(g)lú(e.)ja.(e.) (::)};;98;142;84;215;147;;8c
 
 [Day6 Laudes2]
 Benígne fac, Dómine, * in bona voluntáte tua Sion.;;50;;4E
@@ -215,16 +215,16 @@ Fidélis Dóminus * in ómnibus verbis suis: et sanctus in ómnibus opéribus su
 ;;148;149;150
 
 [DayaP Laudes]
-{name:Alleluia. (Sund. P. T. at Lauds);annotation:8.G;mode:8;book:Liber Antiphonarius Tomus I, 1891, p. 4;%%(c3)AL(eh)le(f)lú(e)ia,(f) *() al(ed)le(efe)lú(de~)ja,(e) (;) al(g)le(h)lú(i)ja,(f) al(h)le(h)lú(hih)ja,(hgh) al(h)le(gh)lú(fe)ja,(e) (:) al(e)le(e')lú(e)ja,(f') al(d)le(f')lú(h)ja,(g_') (;) al(e)le(g_h)lú(f)ja,(ed) al(ef)le(f)lú(e.)ja.(e.) (::)};;92;99;62;66;;8G
-{name:Surrexit Christus;annotation:6.;mode:6;book:Liber Antiphonarius Tomus I, 1891, p. 5;%%(c4) SUr(f)ré(f)xit(f') Chri(g)stus(f') *() de(e) se(f)púl(g)cro,(gh) (:) qui(ef) li(g)be(f)rá(e!fg)vit(gf) tres(ef) pú(g)e(f)ros(d!ewf.) (;) de(c) ca(d')mí(f)no(f') i(g>)gnis(f') ar(f)dén(fEC)tis,(dc) (;) al(f)le(g)lú(gf~)ja.(f.) (::)};;210;;6
-{name:Alleluia. II Sund. P. T. at Lauds;annotation:6.;mode:6;book:Liber Antiphonarius Tomus I, 1891, p. 7;%%(c4)AL(f)le(ghg')lú(h)ja,(g_f) * al(gh)le(g)lú(fe)ja,(dc.) (;) al(f)le(g)lú(g)ja.(f.) (::)};;148;149;150;;6
+{name:Alleluia. (Sund. P. T. at Lauds);annotation:8.G;mode:8;book:Liber Antiphonarius Tomus I, 1891, p. 4;transcriber:faj-munich;%%(c3)AL(eh)le(f)lú(e)ja,(f) *() al(ed)le(efe)lú(de~)ja,(e) (;) al(g)le(h)lú(i)ja,(f) al(h)le(h)lú(hih)ja,(hgh) al(h)le(gh)lú(fe)ja,(e) (:) al(e)le(e')lú(e)ja,(f') al(d)le(f')lú(h)ja,(g_') (;) al(e)le(g_h)lú(f)ja,(ed) al(ef)le(f)lú(e.)ja.(e.) (::)};;92;99;62;66;;8G
+{name:Surrexit Christus;annotation:6.;mode:6;book:Liber Antiphonarius Tomus I, 1891, p. 5;transcriber:faj-munich;%%(c4) SUr(f)ré(f)xit(f') Chri(g)stus(f') *() de(e) se(f)púl(g)cro,(gh) (:) qui(ef) li(g)be(f)rá(e!fg)vit(gf) tres(ef) pú(g)e(f)ros(d!ewf.) (;) de(c) ca(d')mí(f)no(f') i(g>)gnis(f') ar(f)dén(fEC)tis,(dc) (;) al(f)le(g)lú(gf~)ja.(f.) (::)};;210;;6
+{name:Alleluia. II Sund. P. T. at Lauds;annotation:6.;mode:6;book:Liber Antiphonarius Tomus I, 1891, p. 7;transcriber:faj-munich;%%(c4)AL(f)le(ghg')lú(h)ja,(g_f) * al(gh)le(g)lú(fe)ja,(dc.) (;) al(f)le(g)lú(g)ja.(f.) (::)};;148;149;150;;6
 
 [Daya1 Laudes]
-{annotation:6.;book:Liber Antiphonarius Tomus I, 1891, p. 53;%%(c4)Mi(f)se(g)ré(h)re(gf) *() me(gh)i,(g) De(f)us.(f) (::)};;50;;6
-{annotation:8.c;book:Liber Antiphonarius Tomus I, 1891, p. 54;%%(c3)In(f)tél(h>)le(gh)ge(f) *() cla(ed)mó(e)rem(f) me(g)um,(e) Dó(f)mi(e)ne.(e) (::)};;5;;8c
-{annotation:8.G;book:Liber Antiphonarius Tomus I, 1891, p. 54;%%(c4)De(fg)us,(g) De(h)us(j) me(j)us,(hih) *(;) ad(g) te(hj) de(g) lu(h)ce(gf) ví(gh)gi(g)lo.(g) (::)};;62;66;;8G
-{annotation:8.G;book:Liber Antiphonarius Tomus I, 1891, p. 55;%%(c4)Con(h)vér(f)sus(fg) est(g) *() fu(h)ror(j) tu(i)us,(j) Dó(h)mi(i)ne,(j) (;) et(j) con(h)so(gf)lá(gh)tus(i) es(h) me.(g) (::)};;221;;8G
-{annotation:1.a;book:Liber Antiphonarius Tomus I, 1891, p. 55;%%(c4)Lau(h)dá(h)te(ghg) *() Dó(e)mi(f)num(g) de(fe) cæ(d)lis.(d) (::)};;148;149;150;;1a
+{annotation:6.;book:Liber Antiphonarius Tomus I, 1891, p. 53;transcriber:faj-munich;%%(c4)Mi(f)se(g)ré(h)re(gf) *() me(gh)i,(g) De(f)us.(f) (::)};;50;;6
+{annotation:8.c;book:Liber Antiphonarius Tomus I, 1891, p. 54;transcriber:faj-munich;%%(c3)In(f)tél(h>)le(gh)ge(f) *() cla(ed)mó(e)rem(f) me(g)um,(e) Dó(f)mi(e)ne.(e) (::)};;5;;8c
+{annotation:8.G;book:Liber Antiphonarius Tomus I, 1891, p. 54;transcriber:faj-munich;%%(c4)De(fg)us,(g) De(h)us(j) me(j)us,(hih) *(;) ad(g) te(hj) de(g) lu(h)ce(gf) ví(gh)gi(g)lo.(g) (::)};;62;66;;8G
+{annotation:8.G;book:Liber Antiphonarius Tomus I, 1891, p. 55;transcriber:faj-munich;%%(c4)Con(h)vér(f)sus(fg) est(g) *() fu(h)ror(j) tu(i)us,(j) Dó(h)mi(i)ne,(j) (;) et(j) con(h)so(gf)lá(gh)tus(i) es(h) me.(g) (::)};;221;;8G
+{annotation:1.a;book:Liber Antiphonarius Tomus I, 1891, p. 55;transcriber:faj-munich;%%(c4)Lau(h)dá(h)te(ghg) *() Dó(e)mi(f)num(g) de(fe) cæ(d)lis.(d) (::)};;148;149;150;;1a
 
 [Daya2 Laudes]
 Dele, Dómine, * iniquitátem meam.;;50;;4E
@@ -407,66 +407,66 @@ Parátus esto * Israël, in occúrsum Dómini, quóniam venit.
 {annotation:1. a;%%(c4) Al(h)le(h')lú(h)ja,(g') *() al(f)le(e')lú(f)ja,(g') al(e)le(fe)lú(d.)ja.(d.) (::)};;148;149;150;;1a
 
 [Monastic Laudes] (feria 3)
-Dele, Dómine, * iniquitátem meam;;50;;4E
-Salutáre * vultus mei, et Deus meus;;42;;6
-Quóniam * in te confídit ánima mea;;56;;8G2
-Cunctis diébus * vitæ nostræ salvos nos fac, Dómine;;222;;irregularis-a
-Omnes Ángeli ejus, * laudáte Dóminum de cælis;;148;149;150;;5g
+{name:Dele Domine;annotation:4.E;mode:4;book:Antiphonale Monasticum, 1934, p. 45 & Psalterium Monasticum, 1981, p. 136;transcriber:Jakub Jelínek;commentary:Ps. 50, 3;%%(c4)DE(e)le(f) Dó(g')mi(h)ne(g'_) *() in(h)i(g)qui(fd)tá(f')tem(g) me(e.)am.(e.) (::)};;50;;4E
+{name:Salutare vultus mei;annotation:6.;mode:6;book:Antiphonale Monasticum, 1934, p. 46 & Psalterium Monasticum, 1981, p. 136;transcriber:Jakub Jelínek;commentary:Ps. 42, 5;%%(c4)SA(f)lu(g)tá(h')re(f) *() vul(gh)tus(g) me(fe)i,(d') De(f)us(g') me(g)us.(f.) (::)};;42;;6
+{name:Quoniam in te confidit;annotation:8.G2;mode:8;book:Antiphonale Monasticum, 1934, p. 46;transcriber:Jakub Jelínek;commentary:Ps. 56, 2;%%(c4)QUó(f)ni(fg)am(g'_) *() in(h) te(j) con(i')fí(j)dit(h') á(g)ni(hi)ma(h) me(g.)a.(g.) (::)};;56;;8G2
+{name:Cunctis diebus;annotation:T. irreg.;book:Antiphonale Monasticum, 1934, p. 47;transcriber:Jakub Jelínek;commentary:Is. 38, 20;%%(c4)CUnc(f)tis(f) di(f)é(gh)bus(h') *() vi(ixi)tæ(g') nos(ixi)træ(h'_) (,) sal(g>)vos(f') nos(g) fac(ixh_i) Dó(g)mi(ixi)ne.(h.) (::)};;222;;irregularis-a
+{name:Omnes Angeli ejus;annotation:5.g;mode:5;book:Antiphonale Monasticum, 1934, p. 50;transcriber:Jakub Jelínek;commentary:Ps. 148, 2.1;%%(c3)O(d)mnes(e) An(ee)ge(d)li(f) e(h_i)jus(h.) *(,) lau(i)dá(h)te(g') Dó(f)mi(e)num(f') de(e) cæ(d.)lis.(d.) (::)};;148;149;150;;5g
 
 [Monastic Laudes] (feria 3 et tempore paschali)
-Allelúja, * allelúja, allelúja.;;50;42;56;;4E
-Cunctis diébus * vitæ nostræ salvos nos fac, Dómine. Allelúja.;;222;;irregularis-a
-Allelúja, * allelúja, allelúja.;;148;149;150;;5g
+{name:Alleluia (Tuesday P. T. at Lauds);annotation:4.E;mode:4;book:Antiphonale Monasticum, 1934, p. 45;transcriber:Harpa Dei;%%(c4)Al(e)le(f)lú(g_h)ja,(g_') * al(g)le(h')lú(g)ja,(fd) al(f')le(g)lú(e.)ja.(e.) (::)};;50;42;56;;4E
+{name:Cunctis diebus;annotation:T. irreg.;book:Antiphonale Monasticum, 1934, p. 47;transcriber:Jakub Jelínek;commentary:Is. 38, 20;%%(c4)CUnc(f)tis(f) di(f)é(gh)bus(h') *() vi(ixi)tæ(g') nos(ixi)træ(h'_) (,) sal(g>)vos(f') nos(g) fac(ixh_i) Dó(g)mi(ixi)ne.(h.) (:) ^_T. P._^ Al(ixi)le(g')lú(i)ja.(h.) (::)};;222;;irregularis-a
+{name:Alleluia (Tuesday P. T. at Lauds);annotation:5.g;mode:5;book:Antiphonale Monasticum, 1934, p. 50;transcriber:Harpa Dei;%%(c3)Al(d)le(e)lú(ee)ja,(d.) * al(f)le(h)lú(h_i)ja,(h_g) al(fe)le(fe)lú(d.)ja.(d.) (::)};;148;149;150;;5g
 
 [Monastic Laudes] (feria 4)
-Ámplius lava me, * Dómine ab injustítia mea;;50;;7a
-A timóre * inimíci éripe, Dómine ánimam meam;;63;;2
-Te décet hymnus, * Deus in Sion;;64;;8a
-Dóminus * judicábit fines terræ;;223;;1g2
-Cæli cælórum, * laudáte Deum;;148;149;150;;2
+{name:Amplius lava me;annotation:7.a;mode:7;book:Antiphonale Monasticum, 1934, p. 52;transcriber:Harpa Dei;%%(c3) AM(e)pli(g)us(h) la(i')va(i) me(h_f) *() Dó(h')mi(h)ne,(g.) (,) ab(h) in(f)ju(ed)stí(e_f)ti(g')a(f) me(e.)a.(e.) (::)};;50;;7a
+{name:A timore inimici;annotation:2.;mode:2;book:Antiphonale Monasticum, 1934, p. 52;transcriber:Harpa Dei;%%(f3) A(h) ti(h)mó(h_g)re(f') * i(h)ni(h)mí(h_g)ci(f.) (,) é(e)ri(f)pe(g) Dó(h')mi(f)ne(g.) á(h)ni(g)mam(fe~) me(f.)am.(f.) (::)};;63;;2
+{name:Te decet;annotation:8.a;mode:8;book:Antiphonale Monasticum, 1934, p. 53;transcriber:Harpa Dei;%%(c3) TE(h) de(hg)cet(f'_) *() hy(f)mnus(e') De(f)us(e') in(f) Si(e.)on.(e.) (::)};;64;;8a
+{name:Dominus judicabit;annotation:1.g2;mode:1;book:Antiphonale Monasticum, 1934, p. 54;transcriber:Jakub Jelínek;commentary:1 Sam. 2, 10;%%(c4)DO(f)mi(ghg)nus(h') *() ju(h)di(g)cá(e')bit(f) fi(g)nes(fe) † ter(d.)ræ.(d.) (::) ^_T. P._^ † ter(dc)ræ,(e_f) al(g)le(fe)lú(d.)ja.(d.) (::)};;223;;1g2
+{name:Caeli caelorum;annotation:2.;mode:2;book:Antiphonale Monasticum, 1934, p. 56;transcriber:Harpa Dei;%%(f3)Cae(h_)li(g_) cae(f')ló(h_)rum(g.) * lau(fe~)dá(f)te(g) De(f.)um. (f.) (::)};;148;149;150;;2
 
 [Monastic Laudes] (feria 4 et tempore paschali)
-Allelúja, * allelúja, allelúja.;;50;63;64;;7a
-Dóminus * judicábit fines terræ, allelúja.;;223;;1g2
-Allelúja, * allelúja, allelúja.;;148;149;150;;2
+{name:Alleluia. (Wednesday P. T. at Lauds I);annotation:1.g2;mode:7;book:Antiphonale Monasticum, 1934, p. 52;transcriber:Harpa Dei;%%(c3)Al(e)le(g')lú(h)ja,(i_') * al(h)le(f')lú(h)ja,(g_f) al(e_f)le(gf)lú(e.)ja.(e.) (::)};;50;63;64;;7a
+{name:Dominus judicabit;annotation:1.g2;mode:1;book:Antiphonale Monasticum, 1934, p. 54;transcriber:Jakub Jelínek;commentary:1 Sam. 2, 10;%%(c4)DO(f)mi(ghg)nus(h') *() ju(h)di(g)cá(e')bit(f) fi(g)nes(fe) † ter(d.)ræ.(d.) (::) ^_T. P._^ † ter(dc)ræ,(e_f) al(g)le(fe)lú(d.)ja.(d.) (::)};;223;;1g2
+{name:Alleluia. (Wednesday P. T. at Lauds II);annotation:2.;mode:2;book:Antiphonale Monasticum, 1934, p. 56;transcriber:Harpa Dei;%%(f3)AL(h_g~)le(f')lú(h)ja,(g_') * al(f)le(e')lú(f)ja,(g') al(h)le(g)lú(f.)ja.(f.) (::)};;148;149;150;;2
 
 [Monastic Laudes] (feria 5)
-Tibi soli * peccávi, Dómine, miserére mei;;50;;8G2
-Intret * orátio mea, in conspéctu tuo, Dómine;;87;;5
-Dómine, * refúgium factus es nobis;;89;;6
-Cantémus Dómino * glorióse;;224;;irregularis-a
-In sanctis ejus * laudáte Deum;;148;149;150;;6
+{name:Tibi soli peccavi;annotation:8.G2;mode:8;book:Antiphonale Monasticum, 1934, p. 58;transcriber:Jakub Jelínek;commentary:Ps. 50, 6.3;%%(c4)TI(f)bi(fg) so(g)li(g_f) *() pec(h_j)cá(j)vi(j) Dó(i')mi(h)ne,(i_j) (,) mi(h)se(h)ré(i')re(h) me(g.)i.(g.) (::)};;50;;8G2
+{name:Intret oratio mea;annotation:5.a;mode:5;book:Antiphonale Monasticum, 1934, p. 59;transcriber:Br Michael;commentary:Ps. 87, 3;%%(c3)IN(f>)tret(d') *() o(f)rá(h)ti(hg)o(f') me(h)a(h'_) (,) in(h) con(h')spéc(h)tu(hi) tu(f')o(e) Dó(f')mi(e)ne.(d.) (::)};;87;;5
+{name:Domine refugium;annotation:6.;mode:6;book:Antiphonale Monasticum, 1934, p. 60;transcriber:Jakub Jelínek;commentary:Ps. 89, 1;%%(c4)DO(f)mi(g)ne(h') *() re(f)fú(g')gi(f)um(e>') fac(d)tus(f) es(g') no(g)bis.(f.) (::)};;89;;6
+{name:Cantemus Domino;annotation:T. irreg.;mode:e;book:Antiphonale Monasticum, 1934, p. 61;transcriber:Jakub Jelínek;commentary:Ex. 15, 1;%%(c4)CAn(f)té(h')mus(ixi) *() Dó(g')mi(g)no(f') glo(f)ri(gh)ó(h)se.(h.) (::) ^_T. P._^ Al(ixi)le(g')lú(i)ja.(h.) (::)};;224;;irregularis-a
+{name:In sanctis ejus;annotation:6.;mode:6;book:Antiphonale Monasticum, 1934, p. 64;transcriber:Jakub Jelínek;commentary:Ps. 150, 1;%%(c4)IN(f) sanc(f_)tis(g') e(h>)jus(g.) *() lau(fd~)dá(f)te(g') De(g)um.(f.) (::)};;148;149;150;;6
 
 [Monastic Laudes] (feria 5 et tempore paschali)
-Allelúja, * allelúja, allelúja.;;50;87;89;;8G2
-Cantémus Dómino * glorióse;;224;;irregularis-a
-Allelúja, * allelúja, allelúja.;;148;149;150;;6
+{name:Alleluia. (Thursday P. T. at Lauds I);annotation:8.G2;mode:8;book:Antiphonale Monasticum, 1934, p. 59;transcriber:Harpa Dei;%%(c4)Al(f)le(fg)lú(g)ja,(g_f) * al(h_j)le(i')lú(h)ja,(i_j) al(h')le(h)lú(g.)ja.(g.) (::)};;50;87;89;;8G2
+{name:Cantemus Domino;annotation:T. irreg.;mode:e;book:Antiphonale Monasticum, 1934, p. 61;transcriber:Jakub Jelínek;commentary:Ex. 15, 1;%%(c4)CAn(f)té(h')mus(ixi) *() Dó(g')mi(g)no(f') glo(f)ri(gh)ó(h)se.(h.) (::) ^_T. P._^ Al(ixi)le(g')lú(i)ja.(h.) (::)};;224;;irregularis-a
+{name:Alleluia. (Thursday P. T. at Lauds II) ;annotation:6.;mode:6;book:Antiphonale Monasticum, 1934, p. 64;transcriber:Harpa Dei;%%(c4)Al(f)le(g')lú(h)ja,(g'_) * al(h)le(g')lú(f)ja,(d'_) al(f)le(g')lú(g)ja.(f.) (::)};;148;149;150;;6
 
 [Monastic Laudes] (feria 6)
-Spíritu principáli * confírma cor meum, Deus;;50;;1a2
-In Israël * magnum nomen ejus;;75;;8a
-Bonum est * confitéri Dómino;;91;;8a
-Dómine, * audívi audítum tuam, et tímui;;225;;4E
-In týmpano et choro, * in chordis et órgano laudáte Deum;;148;149;150;;1f
+{name:Spiritu principali;annotation:1.a2;mode:1;book:Antiphonale Monasticum, 1934, p. 66;transcriber:Jakub Jelínek;commentary:Ps. 50, 14;%%(c4)SPí(f)ri(e)tu(dc) prin(f)ci(g)pá(f_h)li(h'_) *(,) con(h>)fír(h>')ma(g) cor(e_f) me(g)um(fe~) De(d.)us.(d.) (::)};;50;;1a2
+{name:In Israel magnum;annotation:8.a;mode:8;book:Antiphonale Monasticum, 1934, p. 66;transcriber:Jakub Jelínek;commentary:Ps. 75, 2;%%(c3)IN(h) Is(hg)ra(fe)el(fvED) *() ma(e)gnum(f) no(gv_FE)men(f') e(f>)jus.(e.) (::)};;75;;8a
+{name:Bonum est confiteri;annotation:8.a;mode:8;book:Antiphonale Monasticum, 1934, p. 67;transcriber:Jakub Jelínek;commentary:Ps. 91, 2;%%(c3)BO(h)num(hg) est(f'_) *() con(f)fi(e')té(f)ri(e') Dó(f)mi(de)no.(e.) (::)};;91;;8a
+{name:Domine audivi;annotation:4.E;mode:4;book:Antiphonale Monasticum, 1934, p. 68;transcriber:Jakub Jelínek;commentary:Hab. 3, 2;%%(c4)DO(f)mi(d)ne(e') *() au(f)dí(g)vi(e') au(f)dí(gh)tum(h') tu(h)um,(g') et(f) † tí(g)mu(f)i.(e.) (::) ^_T.P._^ † tí(g)mu(f)i,(e_f) al(g)le(gf)lú(e.)ja.(e.) (::)};;225;;4E
+{name:In tympano et choro;annotation:1.f;mode:1;book:Antiphonale Monasticum, 1934, p. 71;transcriber:Jakub Jelínek;commentary:Ps. 150, 4;%%(c4)IN(d) tým(d')pa(d)no(f') et(e) cho(d)ro,(d_c) *(,) in(f) chor(g)dis(h') et(g) ór(fg)ga(f)no(f'_) (,) lau(g)dá(e')te(f) De(d.)um.(d.) (::)};;148;149;150;;1f
 
 [Monastic Laudes] (feria 6 et tempore paschali)
-Allelúja, * allelúja, allelúja.;;50;75;91;;1a2
-Dómine, * audívi audítum tuam, et tímui;;225;;4E
-Allelúja, * allelúja, allelúja.;;148;149;150;;1f
+{name:Alleluia. (Friday P. T. at Lauds I) ;annotation:1.a2;mode:1;book:Antiphonale Monasticum, 1934, p. 66;transcriber:Harpa Dei;%%(c4)AL(f)le(e')lú(d)ja,(d_c) * al(f')le(g)lú(f_h)ja,(h_g) al(e_g)le(fe)lú(d.)ja.(d.) (::)};;50;75;91;;1a2
+{name:Domine audivi;annotation:4.E;mode:4;book:Antiphonale Monasticum, 1934, p. 68;transcriber:Jakub Jelínek;commentary:Hab. 3, 2;%%(c4)DO(f)mi(d)ne(e') *() au(f)dí(g)vi(e') au(f)dí(gh)tum(h') tu(h)um,(g') et(f) † tí(g)mu(f)i.(e.) (::) ^_T.P._^ † tí(g)mu(f)i,(e_f) al(g)le(gf)lú(e.)ja.(e.) (::)};;225;;4E
+{name:Alleluia. (Friday P. T. at Lauds II);annotation:1.f;mode:1;book:Antiphonale Monasticum, 1934, p. 71;transcriber:Harpa Dei;%%(c4)Al(d)le(fe)lú(d)ja,(d_c) * al(f_g)le(hg)lú(f_g)ja,(f_') al(g)le(e_f)lú(d.)ja.(d.) (::)};;148;149;150;;1f
 
 [Monastic Laudes] (feria 7)
-Benígne fac * in bona voluntáte tua, Dómine;;50;;4E
-In veritáte tua * exáudi me, Dómine;;142;;8G
-Date magnitúdinem * Deo nostro;;226(1-32);;6
+{name:Benigne fac;annotation:4.E;mode:4;book:Antiphonale Monasticum, 1934, p. 73;transcriber:Serene Lai;%%(c4)BE(f)ní(g')gne(f) fac(e_) * in(d) bo(fe)na(d) vo(e')lun(f)tá(g_h)te(h_) tu(g')a,(f) Dó(g')mi(f)ne(e.) (::)};;50;;4E
+{name:In veritate tua;annotation:8.G;mode:8;book:Antiphonale Monasticum, 1934, p. 74;transcriber:Jakub Jelínek;commentary:Ps. 142, 1;%%(c4)IN(h) ve(f)ri(g')tá(g)te(h') tu(g)a(f'_) *(,) ex(h)áu(j')di(i) me(j) Dó(hi)mi(h)ne.(g.) (::)};;142;;8G
+{name:Date magnitudinem;annotation:6.;mode:6;book:Antiphonale Monasticum, 1934, p. 75;transcriber:Jakub Jelínek;commentary:Dt. 32, 3;%%(c4)DA(f)te(g') ma(h)gni(f')tú(g)di(fe)nem(d') *() De(f)o(g') † nos(g)tro.(f.) (::) ^_T.P._^ † nos(g)tro,(f_g) al(h>)le(gh)lú(f.)ja.(f.) (::)};;226(1-32);;6
 ;;226(33-65);;6
-In cýmbalis * benesonántibus laudáte Deum;;148;149;150;;4E
+{name:In cymbalis;annotation:4.E;mode:4;book:Antiphonale Monasticum, 1934, p. 79;transcriber:Jakub Jelínek;commentary:Ps. 150, 5;%%(c4)IN(e) cým(e')ba(e)lis(f') *() be(d)ne(e')so(f)nán(g')ti(f)bus(e.) (,) lau(fe~)dá(dc)te(df) De(e.)um.(e.) (::)};;148;149;150;;4E
 
 [Monastic Laudes] (feria 7 et tempore paschali)
-Allelúja, * allelúja, allelúja.;;50;;4E
+{name:Alleluia. (Saturday P. T. at Lauds I);annotation:4.E;mode:4;book:Antiphonale Monasticum, 1934, p. 73;transcriber:Harpa Dei;%%(c4)Al(f)le(g')lú(f)ja,(e_') * al(d)le(e_f)lú(g_h)ja,(g_') al(f)le(gf)lú(e.)ja.(e.) (::)};;50;;4E
 ;;142;;4E
 ;;142(9-14);;4E
-Date magnitúdinem * Deo nostro, allelúja.;;226;;6
-Allelúja, * allelúja, allelúja.;;148;149;150;;4E
+{name:Date magnitudinem;annotation:6.;mode:6;book:Antiphonale Monasticum, 1934, p. 75;transcriber:Jakub Jelínek;commentary:Dt. 32, 3;%%(c4)DA(f)te(g') ma(h)gni(f')tú(g)di(fe)nem(d') *() De(f)o(g') † nos(g)tro.(f.) (::) ^_T.P._^ † nos(g)tro,(f_g) al(h>)le(gh)lú(f.)ja.(f.) (::)};;226;;6
+{name:Alleluia. (Saturday P. T. at Lauds II);annotation:4.E;mode:4;book:Antiphonale Monasticum, 1934, p. 79;transcriber:Harpa Dei;%%(c4)Al(e)le(e')lú(e)ja,(f_') * al(d)le(e_f)lú(gf)ja,(e.) al(dc~)le(df)lú(e.)ja.(e.) (::)};;148;149;150;;4E
 
 [Daym6F Laudes]
 @:Monastic Laudes:1
@@ -475,31 +475,31 @@ Allelúja, * allelúja, allelúja.;;148;149;150;;4E
 @:Monastic Laudes:5
 
 [Monastic Vespera]
-Dixit Dóminus * Dómino meo: Sede a dextris meis;;109;;7c2
-Fidélia * ómnia mandáta ejus: confirmáta in sæculum sæculi;;110;;4g
-In mandátis * ejus cupit nimis;;111;;4a
-Sit nomen Dómini * benedíctum in sæcula;;112;;7c
+{name:Dixit Dominus;annotation:7.c2;mode:7;book:Antiphonale Monasticum, 1934, p. 124;transcriber:Rémi Roch;%%(c3) DI(g)xit(h) Dó(i')mi(j)nus(i) *() Dó(i_h)mi(f')no(h) me(g_f)o :(e.) (;) Se(f)de(f') a(d) dex(fh)tris(g) me(e.)is.(e.) (::)};;109;;7c2
+{name:Fidelia omnia;annotation:4.g;mode:4;book:Antiphonale Monasticum, 1934, p. 125;transcriber:Harpa Dei;commentary:Ps. 110, 8;%%(c4)FI(e)dé(g)li(gh)a(h'_) *() óm(h>)ni(gf)a(e') man(f)dá(g')ta(f) e(d_e)jus,(e.) (;) con(e)fir(de)má(c!dwe)ta(e_) in(e) sǽ(e_f)cu(g)lum(f') sǽ(e)cu(de)li.(e.) (::)};;110;;4g
+{name:In mandatis;anotation:4.a;mode:4;book:Antiphonale Monasticum, 1934, p. 126;transcriber:Harpa Dei;commentary:Ps. 111, 1;%%(c4)IN(g) man(gh~)dá(h_)tis(g') *() e(g>)jus(e_f) cu(g')pit(f) ni(e.)mis.(e.) (::)};;111;;4a
+{name:Sit nomen Domini;annotation:7.c;mode:7;book:Antiphonale Monasticum, 1934, p. 126 & Psalterium Monasticum, 1981, p. 305;transcriber:Sr. Maria Ruth;%%(c3) SIT(i/i) no(g')men(h) Dó(ij)mi(i)ni(h.) *(,) be(hg)ne(f)dí(g_[uh:l]h)ctum(f') in(g>) s<sp>'ae</sp>(e)cu(de)la.(e.) (::)};;112;;7c
 
 [Monastic Vespera] (tempore paschali)
-Allelúja, * allelúja, allelúja.;;109;110;111;112;;7c2
+{name:Alleluia. (Sund. P. T. at Vespers);annotation:7.c2;mode:7;book:Antiphonale Monasticum, 1934, p. 127;transcriber:Harpa Dei;%%(c3) AL(g)le(h)lú(i_j)ja,(i.) (,) al(i_h)le(f_h)lú(g_f)ja(e.) al(fd)le(fhg)lú(e.)ja.(e.) (::)};;109;110;111;112;;7c2
 
 [Monastic Vespera] (feria 2)
-Nos qui vívimus, * benedícimus Dómino;;113;;per
-Inclinávit * Dóminus aurem suam mihi;;114;;1g2
-Crédidi, * propter quod locútus sum;;115;116;;8a
-Sæpe * expugnavérunt me a juventúte mea;;128;;2
+{name:Nos qui vivimus;annotation:T. per.;mode:p;book:Antiphonale Monasticum, 1934, p. 132;transcriber:Jakub Jelínek;commentary:Ps. 113, 18;%%(c4)NOS(c) qui(d') ví(f)vi(fg)mus,(g.) *(,) be(h)ne(ixi)dí(h')ci(g)mus(f) Dó(gh)mi(h)no.(g.) (::)};;113;;per
+{name:Inclinavit Dominus;annotation:1.g2;mode:1;book:Antiphonale Monasticum, 1934, p. 133;transcriber:Harpa Dei;commentary:Ps. 114, 2;%%(c4) IN(f)cli(f)ná(gh)vit(h) *() Dó(h')mi(g)nus(h_g) au(e')rem(f) su(g)am(fe) mi(d.)hi.(d.) (::)};;114;;1g2
+{name:Credidi;annotation:8.a;mode:8;book:Antiphonale Monasticum, 1934, p. 134;transcriber:Harpa Dei;commentary:Ps. 115, 10;%%(c3) CRé(h)di(hg)di,(f'_) *(,) pro(f)pter(e') quod(f) lo(e')cú(f)tus(de) sum.(e.) (::)};;115;116;;8a
+{name:Saepe expungaverunt me;annotation:2;mode:2;book:Antiphonale Monasticum, 1934, p. 135;transcriber:Harpa Dei;commentary:Ps. 128, 1;%%(f3)SÆ(h_g)pe(f') *() ex(f)pu(g')gna(h)vé(i')runt(j>) me(i'_) (,) a(i) ju(i')ven(g>)tú(h_i)te(g') me(h)a.(f.) (::)};;128;;2
 
 [Monastic Vespera] (feria2 et tempore paschali)
-{annotation:1. g2;%%(c4) Al(f)le(f)lú(gh)ja,(h.) *() al(h)le(g)lú(hg)ja,(e_0f) al(g)le(fe)lú(d.)ja.(d.) (::)};;113;114;115;116;128;;1g2
+{annotation:1.g2;%%(c4) Al(f)le(f)lú(gh)ja,(h.) *() al(h)le(g)lú(hg)ja,(e_0f) al(g)le(fe)lú(d.)ja.(d.) (::)};;113;114;115;116;128;;1g2
 
 [Monastic Vespera] (feria 3)
-De profúndis * clamávi ad te, Dómine;;129;;8a
-Speret * Israël in Dómino;;130;;irregularis-a
-Et omnis * mansuetúdinis ejus;;131;;irregularis-a
-Ecce quam bonum, * et quam jucúndum, habitáre fratres in unum!;;132;;1a
+{name:De profundis;annotation:8.a;mode:8;book:Antiphonale Monasticum, 1934, p. 138;transcriber:fraterMichael;%%(c3)DE(h) pro(g')fún(h>)dis(f.) *() cla(ed)má(e)vi(f') ad(g) te(f') Dó(e)mi(de)ne.(e.) (::)};;129;;8a
+{name:Speret Israel;annotation:T. irreg.;book:Antiphonale Monasticum, 1934, p. 139;transcriber:Harpa Dei;%%(c4)SPe(h_)ret(gg) * Is(f)ra(g)el(h') in(ixi>) Dó(g')mi(ixi)no.(h.) (::)};;130;;irregularis-a
+{name:Et omnis;annotation:T. irreg.;book:Antiphonale Monasticum, 1934, p. 139;transcriber:fraterMichael;%%(c4)ET(h) om(h>)nis(g') *() man(g)su(f')e(g)tú(h')di(ixi)nis(g') e(ixi)jus.(h.) (::)};;131;;irregularis-a
+{name:Ecce quam bonum;annotation:1.a;mode:1;book:Antiphonale Monasticum, 1934, p. 140;transcriber:Harpa Dei;%%(c4)EC(h)ce(h_') quam(g) bo-(hg)num(e') * et(f) quam(g>) iu-(e)cún(fe~)dum(d_') ha-(e)bi(f)tá-(h)re(gf) fra(e_f)tres(g) in(fe) u-(d.)num!(d.) (::);;132;;1a
 
 [Monastic Vespera] (feria 3 et tempore paschali)
-Allelúja, * allelúja, allelúja.;;129;130;131;132;;8a
+{name:Alleluia. (Tuesday P. T. at Vespers);annotation:8.a;mode:8;book:Antiphonale Monasticum, 1934, p. 138;transcriber:Harpa Dei;%%(c3) Al(h)le(g')lú(h)ja,(f'_) * al(e)le(d')lú(e)ja,(f') al(g)le(fe)lú(f)ja.(e.) (::)};;129;130;131;132;;8a
 
 [Monastic Vespera] (feria 4)
 {name:Omnia quaecumque;annotation:3.g;%%(c4)O(g)mni(h)a(hj) *() quæ(ji)cúm(h)que(g) vó(gh)lu(g)it,(g.) (,) Dó(g_f)mi(g)nus(gf) fe(e.)cit.(e.) (::)};;134;;3g
@@ -508,34 +508,35 @@ Allelúja, * allelúja, allelúja.;;129;130;131;132;;8a
 {name:In conspéctu;annotation:5.a;%%(c3) IN(f) con(e')spé(f)ctu(e_d) * An(h)ge(h_i)ló(h_g)rum(f'_) (,) psal(f)lam(e') ti(f)bi(ed) De(ef)us(ef) me(d.)us.(d.) (::)};;137;;5
 
 [Monastic Vespera] (feria 4 et tempore paschali)
-Allelúja, * allelúja, allelúja.;;134;135;136;137;;3g
+{name:Alleluia. (Wednesday P. T. at Vespers);annotation:3.g;mode:3;book:Antiphonale Monasticum, 1934, p. 143;transcriber:Harpa Dei;%%(c4) Al(g)le(h')lú(j)ja,(j_i)* al(h')le(g)lú(gh)ja,(g_f) al(g)le(gf)lú(e.)ja.(e.) (::)};;134;135;136;137;;3g
 
 [Monastic Vespera] (feria 5)
-Dómine, * probásti me, et cognovísti me;;138(1-9);;3g
+{name:Domine probasti me;annotation:3.g;mode:3;book:Antiphonale Monasticum, 1934, p. 149;transcriber:Harpa Dei;%%(c4) DO(g)mi(h)ne(hj) *() pro(ji)bá(h)sti(g) me(gh) (,) et(g) co(g>')gno(f)ví(gh)sti(gf) me.(e.) (::)};;138(1-9);;3g
 ;;138(10-23);;3g
-A viro iníquo * líbera me, Dómine;;139;;4g
-Dómine, * clamávi ad te, exáudi me;;140;;8a
+{name:A viro iniquo;annotation:4.g;mode:4;book:Antiphonale Monasticum, 1934, p. 150;%%(c4)A(e) vi(g')ro(g) i(hi)ní(i_)quo(h.) *(,) lí(g)be(f)ra(g') me,(h) Dó(g')mi(f)ne.(e.) (::)};;139;;4g
+{name:Domine clamavi ad te;annotation:8.a;mode:8;book:Antiphonale Monasticum, 1934, p. 151;transcriber:Harpa Dei;%%(c3) DO(h)mi(h)ne(g'_) *() cla(h)má(f')vi(e) ad(g') te,(h) ex(fe)áu(f')di(e) me.(e.) (::)};;140;;8a
 
 [Monastic Vespera] (feria 5 et tempore paschali)
-Allelúja, * allelúja, allelúja.;;138(1-9);138(10-23);139;140;;3g
+{annotation:3.g;book:Antiphonale Monasticum, 1934, p. 149;
+transcriber:faj-munich;%%(c4) AL(g)le(h')lú(j)ja,(j_i) *() al(h')le(g)lú(gh)ja,(g_f) al(g)le(gf)lú(e.)ja.(e.) (::)};;138(1-9);138(10-23);139;140;;3g
 
 [Monastic Vespera] (feria 6)
-Pórtio mea, * Dómine, sit in terra vivéntium;;141;;8a
-Benedíctus * Dóminus, Deus meus;;143(1-9);;6
+{name:Portio mea Domine;annotation:8.a;mode:8;book:Antiphonale Monasticum, 1934, p. 154;transcriber:Serene Lai;%%(c3) POr(h)ti(h)o(h) me(g')a(h), Dó(f')mi-(e)ne,(g'_) * (,) sit(f) in(g') ter(h)ra(f') vi(e)vén(f')ti(e)um(e.). (::)};;141;;8a
+{name:Benedictus Dominus;annotation:6.;mode:6;book:Antiphonale Monasticum, 1934, p. 155;%%(c4) Be(f)ne(g')díc(h)tus(f') *(,) Dó(g)mi(fe)nus(d') De(f)us(g') me(g)us.(f.) (::)};;143(1-9);;6
 ;;143(10-18);;6
-Per síngulos dies * benedícam te, Dómine;;144(1-9);;8a
+{name:Per singulos dies;annotation:8.a;mode:8;book:Antiphonale Monasticum, 1934, p. 156;transcriber:Serene Lai;%%(c3) PER(h) sín(h')gu(g)los(fe) di(f)es(e'_) *(,) be(d)ne(e')dí(f)cam(g>') te(e), Dó(fg)mi(fe)ne.(e.) (::)};;144(1-9);;8a
 
 [Monastic Vespera] (feria 6 et tempore paschali)
-Allelúja, * allelúja, allelúja.;;142;143(1-9);143(10-18);144(1-9);;8a
+{name:Alleluia (Friday P. T. at Vespers);annotation:8.a;mode:8;book:Antiphonale Monasticum, 1934, p. 154;transcriber:Harpa Dei;%%(c3) Al(h)le(gh)lú(fe)ja,(g'_) * al(f)le(g')lú(h)ja,(f') al(f)le(e')lú(f)ja.(e.) (::)};;142;143(1-9);143(10-18);144(1-9);;8a
 
 [Monastic Vespera] (feria 7)
-{name:Regnum tuum;office-part:Antiphona;annotation:7c2;book:Antiphonale Monasticum, 1934, p. 160;transcriber:gregofacsimil;%%(c3)RE(h)gnum(h) tu(h_i)um,(i) *() Dó(hi__H_G_)mi(f')ne,(h) re(g_f)gnum(e'_) óm(f>)ni(d)um(f') sæ(h)cu(g)ló(e.)rum.(e.) (::)};;144(10-22);;7c2
-{name:Laudabo;office-part:Antiphona; annotation:4.E;book:Antiphonale Monasticum, 1934, p. 160;transcriber:Harpa Dei;%%(c4) LAu(f)dá(fe)bo(d) *() De(e')um(f) me(g_h)um(g'_) in(f) vi(g)ta(gf) me(e.)a.(e.) (::)};;145;;4E
-{name:Deo nostro;office-part:Antiphona;annotation:8.a;book:Antiphonale Monasticum, 1934, p. 161;transcriber:Sr. Maria Ruth;%%(c3) DE(h)o(g') no(h)stro(f.) *() ju(ed)cún(e')da(f) sit(g') lau(f>)dá(e)ti(de)o.(e.) (::)};;146;;8a
-{name:Lauda Jerusalem;office-part:Antiphona;annotation:t. irreg.;book:Antiphonale Monasticum, 1934, p. 162;transcriber:Harpa Dei;%%(c4) Lau(h)da(g') *() Je(g)rú(f')sa(g)lem(ixh_i) Dó(g')mi(ixi)num.(h.) (::)};;147;;irregularis-a
+{name:Regnum tuum;annotation:7.c2;annotation:7c2;book:Antiphonale Monasticum, 1934, p. 160;transcriber:gregofacsimil;%%(c3)RE(h)gnum(h) tu(h_i)um,(i) *() Dó(hi__H_G_)mi(f')ne,(h) re(g_f)gnum(e'_) óm(f>)ni(d)um(f') sæ(h)cu(g)ló(e.)rum.(e.) (::)};;144(10-22);;7c2
+{name:Laudabo;annotation:4.E; annotation:4.E;book:Antiphonale Monasticum, 1934, p. 160;transcriber:Harpa Dei;%%(c4) LAu(f)dá(fe)bo(d) *() De(e')um(f) me(g_h)um(g'_) in(f) vi(g)ta(gf) me(e.)a.(e.) (::)};;145;;4E
+{name:Deo nostro;annotation:8.a;annotation:8.a;book:Antiphonale Monasticum, 1934, p. 161;transcriber:Sr. Maria Ruth;%%(c3) DE(h)o(g') no(h)stro(f.) *() ju(ed)cún(e')da(f) sit(g') lau(f>)dá(e)ti(de)o.(e.) (::)};;146;;8a
+{name:Lauda Jerusalem;annotation:T. irreg.;annotation:t. irreg.;book:Antiphonale Monasticum, 1934, p. 162;transcriber:Harpa Dei;%%(c4) Lau(h)da(g') *() Je(g)rú(f')sa(g)lem(ixh_i) Dó(g')mi(ixi)num.(h.) (::)};;147;;irregularis-a
 
 [Monastic Vespera] (feria 7 et tempore paschali)
-Allelúja, * allelúja, allelúja.;;144(10-22);145;146;147;;7c2
+{name:Alleluia. (Sabbato P. T. at Vespers);annotation:7.c2;mode:7;book:Antiphonale Monasticum, 1934, p. 162;transcriber:Harpa Dei;%%(c3) AL(h)le(h)lú(h_i)ja,(i.) al(h_i_H_G_)le(f_h)lú(g_f~)ja(e.), (,)  al(fd)le(fhg)lú(e.)ja.(e.) (::)};;144(10-22);145;146;147;;7c2
 
 [Cistercian Ant Vespera]
 Laudáte * Dóminum omnes Gentes.;;115;116
