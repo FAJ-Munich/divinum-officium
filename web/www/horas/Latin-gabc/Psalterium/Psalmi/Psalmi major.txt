@@ -332,46 +332,22 @@ Lauda * Jerúsalem Dóminum.;;147;;1a
 Allelúja, * allelúja, allelúja.;;143;144;145;146;147;;6
 
 [Day1 Laudes3]
-Ecce véniet * Dóminus princeps regum terræ: beáti, qui parati sunt occúrrere illi.
-Cum vénerit * Fílius hóminis, putas invéniet fidem super terram?
-Ecce jam venit * plenitúdo témporis, in quo misit Deus Fílium suum in terras.
-Hauriétis aquas * in gáudio de fóntibus Salvatóris.
-Egrediétur * Dóminus de loco sancto suo: véniet ut salvet pópulum suum.
+@Psalterium/Psalmi/Psalmi minor:Adv42:s/^.*\=//gm s/(;;)/$1$1/gm
 
 [Day2 Laudes3]
-Roráte, cæli, désuper, * et nubes pluant justum: aperiátur terra, et gérminet Salvatórem.
-Emítte Agnum, Dómine, * Dominatórem terræ, de Petra desérti, ad montem fíliæ Sion.
-Ut cognoscámus, Dómine, * in terra viam tuam, in ómnibus géntibus salutáre tuum.
-Da mercédem, Dómine, * sustinéntibus te, ut prophétæ tui fidéles inveniántur.
-Lex per Móysen data est, * grátia et véritas per Jesum Christum facta est.
+@Psalterium/Psalmi/Psalmi minor:Adv43:s/^.*\=//gm s/(;;)/$1$1/gm
 
 [Day3 Laudes3]
-Prophétæ prædicavérunt * nasci Salvatórem de Vírgine María.
-Spíritus * Dómini super me, evangelizáre paupéribus misit me.
-Propter Sion * non tacébo, donec egrediátur ut splendor justus ejus.
-Ecce, véniet Dóminus, * ut sédeat cum princípibus, et sólium glóriæ téneat.
-Annuntiáte * pópulis, et dícite: Ecce, Deus Salvátor noster véniet.
+@Psalterium/Psalmi/Psalmi minor:Adv44:s/^.*\=//gm s/(;;)/$1$1/gm
 
 [Day4 Laudes3]
-De Sion * véniet Dóminus omnípotens, ut salvum fáciat pópulum suum.
-Convértere, Dómine, * aliquántulum, et ne tardes veníre ad servos tuos.
-De Sion * véniet, qui regnatúrus est Dóminus, Emmánuel magnum nomen ejus.
-Ecce Deus meus, * et honorábo eum: Deus pátris mei, et exaltábo eum.
-Dóminus * légifer noster, Dóminus Rex noster, ipse véniet, et salvábit nos.
+@Psalterium/Psalmi/Psalmi minor:Adv45:s/^.*\=//gm s/(;;)/$1$1/gm
 
 [Day5 Laudes3]
-Constántes estóte, * vidébitis auxílium Dómini super vos.
-Ad te, Dómine, * levávi ánimam meam: veni, et éripe me, Dómine, ad te confúgi.
-Veni, Dómine, * et noli tardáre: reláxa facínora plebi tuæ Israël.
-Deus a Líbano véniet, * et splendor ejus sicut lumen erit.
-Ego autem * ad Dóminum aspíciam, et exspectábo Deum Salvatórem meum.
+@Psalterium/Psalmi/Psalmi minor:Adv46:s/^.*\=//gm s/(;;)/$1$1/gm
 
 [Day6 Laudes3]
-Intuémini * quam sit gloriósus iste, qui ingréditur ad salvándos pópulos.
-Multiplicábitur * ejus impérium, et pacis non erit finis.
-Ego Dóminus * prope feci justítiam meam, non elongábitur, et salus mea non morábitur.
-Exspectétur, * sicut plúvia, elóquium Dómini: et descéndat, sicut ros, super nos Dóminus Deus noster.
-Parátus esto * Israël, in occúrsum Dómini, quóniam venit.
+@Psalterium/Psalmi/Psalmi minor:Adv47:s/^.*\=//gm s/(;;)/$1$1/gm
 
 [DaymF Laudes]
 {name:Alleluia Dominica per Annum ad Laudes;annotation:6.;mode:6;book:Antiphonale Monasticum, 1934, p. 29;transcriber:Jakub Jelínek;%%(c4) AL(f)le(f.d!ewfe)lú(dc~)ja,(c.) *(,) al(f)le(g)lú(gf~)ja.(f.) (::)};;92;;8G

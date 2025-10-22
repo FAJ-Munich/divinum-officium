@@ -531,8 +531,6 @@ sub canticum {
         $ant2 = "$ant\n$ant2";
       }
     }
-    ($ant, $canticaTone) = split(";;", $ant) if $lang =~ /gabc/i;
-    $canticaTone =~ s/\s*$//;
   } else {
     $comment = ($winner =~ /sancti/i) ? 3 : 2;
     setcomment($item, 'Source', $comment, $lang, translate('Antiphona', $lang));
@@ -548,6 +546,8 @@ sub canticum {
       $duplexf ||= $df;
     }
   }
+  ($ant, $canticaTone) = split(";;", $ant) if $lang =~ /gabc/i;
+  $canticaTone =~ s/\s*$//;
 
   my @psalmi =
     ($canticaTone && $lang =~ /gabc/i) ? ("$ant;;'" . (229 + $num) . ",$canticaTone'") : ("$ant;;" . (229 + $num));

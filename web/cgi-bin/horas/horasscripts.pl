@@ -268,6 +268,10 @@ sub handleverses {
 
         # 7a:   ir 'j ir 'h hr gf..
         # 8G:   jr i j 'h gr g.
+        if ($_[3] =~ /transposeF3/) {
+          s/\(c3\)/(f3)/;
+          s/\(k/(kxk/;
+        }
       } elsif ($_[3] =~ /^7(.*)/) {
 
         # 7b:   ir 'j ir 'h hr g.
@@ -462,7 +466,7 @@ sub psalm : ScriptFunc {
 
     # Redirect certain tones for Monastic and Tridentine
     $psnum =~ s/(,|solemn)(1g3|2|in,dir)$/$1$2-monasticus/ if $version =~ /monastic/i;
-    $psnum =~ s/(,|solemn)([34])([abg])/$1$2-antiquo-$3/ if $version =~ /monastic|1570/i;
+    $psnum =~ s/(,|solemn)([34])\,?(?!antiquo)/$1$2,antiquo,$3/ if $version =~ /monastic|1570/i;
 
     # Distingiush between chant and text
     if ($psnum !~ /,/) {
@@ -493,6 +497,7 @@ sub psalm : ScriptFunc {
         $ftone =~ s/1D$/1D-/;
         $ftone =~ s/1Dstar/1D/;
         $ftone =~ s/1g4/1g3/;
+        $ftone =~ s/1g3\-monasticus/1g3m/;
       }
 
       if ($ffolder =~ /^\d/) {
@@ -522,6 +527,7 @@ sub psalm : ScriptFunc {
       $psnum =~ s/4,antiquo,(.*)/4$1 usu antiqui/;
       $psnum =~ s/solemn(.*)/$1; Mediatio solemnis/;
       $psnum =~ s/([a-gA-G1-5])star/$1*/;
+      $psnum =~ s/,transposeF3/; transpositus/;
       $psnum =~ s/\,/–/g;    # Tone name with en-dash not comma
 
       if (!(-e "$datafolder/$lang/Psalterium/Psalmorum/$ffolder/$fname")) {
