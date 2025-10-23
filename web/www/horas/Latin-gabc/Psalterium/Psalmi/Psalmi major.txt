@@ -439,7 +439,7 @@ Allelúja, * allelúja, allelúja.;;143;;6
 {name:Alleluia Dominica per Annum ad Laudes;annotation:6.;mode:6;book:Antiphonale Monasticum, 1934, p. 29;transcriber:Jakub Jelínek;%%(c4) AL(f)le(f.d!ewfe)lú(dc~)ja,(c.) *(,) al(f)le(g)lú(gf~)ja.(f.) (::)};;92;;8G
 ;;99;;8G
 ;;62;;8G
-{name:Tres pueri jussu;annotation:8.G;book:Antiphonale Monasticum, 1934, p. 30;transcriber:MarkM;%%(c4)()Tres(g) pú(g')e(g)ri(gh) jus(h_vGF)su(gh) re(h>)gis(g'_) (,)in(f) for(hj~)ná(j')cem(i) mis(jk)si(i) sunt,(g.) (;)non(j_) ti(i')mén(j>)tes(h') flam(j>)mam(g') ig(h>)nis,(g_f) (,) di(d)cén(f_g)tes :(ggf~) Be(h)ne(hji)díc(hg)tus(fg~) De(g.)us.(g.) (::)};;210;;8G
+{name:Tres pueri jussu;annotation:8.G;book:Antiphonale Monasticum, 1934, p. 30;transcriber:MarkM;%%(c4)()Tres(g) pú(g')e(g)ri(gh) *() jus(h_vGF)su(gh) re(h>)gis(g'_) (,)in(f) for(hj~)ná(j')cem(i) mis(jk)si(i) sunt,(g.) (;)non(j_) ti(i')mén(j>)tes(h') flam(j>)mam(g') ig(h>)nis,(g_f) (,) di(d)cén(f_g)tes :(ggf~) Be(h)ne(hji)díc(hg)tus(fg~) De(g.)us.(g.) (::)};;210;;8G
 {name:Alleluia Dominica per Annum ad Laudes;annotation:8.G;mode:8;book:Antiphonale Monasticum, 1934, p. 32;transcriber:Jakub Jelínek;%%(c4)AL(h)le(gf)lú(gh)ja,(g.) *() al(h)le(j)lú(hg)ja,(f) al(gh)le(h)lú(g.)ja.(g.) (::)};;148;149;150;;8G
 
 [DaymF Canticles]
@@ -452,7 +452,9 @@ Allelúja, * allelúja, allelúja.;;143;;6
 {name:Ostende nobis Domine;annotation:3.a;mode:3;book:Antiphonale Monasticum, 1934, p. 78;transcriber:Harpa Dei;%%(c4)O(g)stén(hi~)de(i') *() no(j)bis(hg) Dó(hi)mi(hg)ne(g.) (,) lu(g!hwi)cem(h') mi(g)se(f')ra(g)ti(h)ó(gf)num(g) tu(gf)á(e.)rum.(e.) (::) ^_T. P._^ Al(g)le(gf)lú(e.)ja.(e.) (::)};;216(1-13);;3a
 
 [DaymP Laudes]
-{name:Alleluia.;annotation:8.G;mode:8;book:Antiphonale Monasticum, 1934, p. 29 & Antiphonale Monasticum, 1934, p. 474;transcriber:Harpa Dei;%%(c3)AL(e)le(e)lú(eh)ja,(fv_ED) * al(ef)le(f)lú(e.)ja,(e.) (;) al(g)le(h')lú(i)ja,(f') al(h)le(h)lú(hih)ja,(hgh_) (,) al(h)le(fgwh)lú(h_g)ja,(e.) (;) al(e)le(e')lú(e)ja,(f') al(d)le(f')lú(h)ja,(g_') (,) al(e)le(g_h)lú(f)ja,(ed) al(ef)le(f)lú(e.)ja.(e.) (::)};;92;99;62;;8G
+{name:Alleluia.;annotation:8.G;mode:8;book:Antiphonale Monasticum, 1934, p. 29 & Antiphonale Monasticum, 1934, p. 474;transcriber:Harpa Dei;%%(c3)AL(e)le(e)lú(eh)ja,(fv_ED) * al(ef)le(f)lú(e.)ja,(e.) (;) al(g)le(h')lú(i)ja,(f') al(h)le(h)lú(hih)ja,(hgh_) (,) al(h)le(fgwh)lú(h_g)ja,(e.) (;) al(e)le(e')lú(e)ja,(f') al(d)le(f')lú(h)ja,(g_') (,) al(e)le(g_h)lú(f)ja,(ed) al(ef)le(f)lú(e.)ja.(e.) (::)};;92;;8G
+;;99;;8G
+;;62;;8G
 {name:Surrexit Christus;annotation:6.;mode:6;book:Antiphonale Monasticum, 1934, p. 31 & Antiphonale Monasticum, 1934, p. 474;transcriber:Sr. Maria Ruth;%%(c4) SUr(f)ré(f)xit(g') Chri(h)stus(g') *() de(f) se(g)púl(gh)cro,(f.) (,) qui(f!gwhg) li(h)be(g)rá(f!gwhg)vit(h_g) tres(f_g) pú(h)e(fe)ros(d!ewf.) (;) de(c) ca(d')mí(f)no(f') i(g>)gnis(f') ar(f)dén(fe~)tis,(d_c) al(f)le(g)lú(gf~)ja.(f.) (::)};;210;;6
 {name:Alleluia. II Sund. P. T. at Lauds;annotation:6.;mode:6;book:Antiphonale Monasticum, 1934, p. 32 & Antiphonale Monasticum, 1934, p. 475;transcriber:Harpa Dei;%%(c4)AL(f)le(ghg')lú(h)ja,(g_f) * al(gh)le(g)lú(fe)ja,(d.) al(f)le(g)lú(gf~)ja.(f.) (::)};;148;149;150;;6
 
