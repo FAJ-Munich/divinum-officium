@@ -686,8 +686,9 @@ sub postprocess_short_resp(\@$) {
 
   our (@dayname, $votive);
   s/&Gloria1?/&Gloria1/ for (@$capit);
-  
+
   return $capit if $lang =~ /gabc/i;
+
   if (alleluia_required($dayname[0], $votive)) {
     my $rlines = 0;
 
