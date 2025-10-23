@@ -35,8 +35,33 @@ Amen.
 [HymnusM Vespera]
 @:Hymnus Vespera:s/sancto/Christi/
 
+[Invit]
+Laudémus Deum nostrum * In confessióne beátæ N..
+
 [Ant Matutinum2]
 Læva ejus * sub cápite meo, et déxtera illíus amplexábitur me.;;18
+
+[Responsory6]
+R. Fallax grátia, et vana est pulchritúdo: 
+* Múlier timens Dóminum, ipsa laudábitur.
+V. Date ei de fructu mánuum suárum, et laudent eam in portis ópera ejus.
+R. Múlier timens Dóminum, ipsa laudábitur.
+&Gloria
+R. Múlier timens Dóminum, ipsa laudábitur.
+
+[Responsory7]
+R. Os suum apéruit sapiéntiæ, et lex cleméntiæ in lingua ejus: considerávit sémitas domus suæ, 
+* Et panem otiósa non comédit.
+V. Gustávit et vidit quia bona est negotiátio ejus: non exstinguétur in nocte lucérna ejus.
+R. Et panem otiósa non comédit.
+
+[Responsory8]
+R. Regnum mundi et omnem ornátum sǽculi contémpsi, propter amórem Dómini mei Jesu Christi: 
+* Quem vidi, quem amávi, in quem crédidi, quem diléxi.
+V. Eructávit cor meum verbum bonum: dico ego ópera mea Regi.
+R. Quem vidi, quem amávi, in quem crédidi, quem diléxi.
+&Gloria
+R. Quem vidi, quem amávi, in quem crédidi, quem diléxi.
 
 [Capitulum Laudes]
 !Sir 51:1-3
@@ -45,6 +70,10 @@ $Deo gratias
 
 [Ant 2]
 Date ei * de fructu mánuum suárum, et laudent eam in portis ópera ejus.
+
+[Lectio Prima]
+!Sir 51:8; 51:12
+v. Laudábit usque ad mortem ánima mea Dóminum, quóniam éruis sustinéntes te, et líberas eos de manu angústiæ, Dómine, Deus noster.
 
 [Capitulum Sexta]
 !Sir 51:4-5

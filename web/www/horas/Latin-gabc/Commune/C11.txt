@@ -1,3 +1,7 @@
+[Ant VesperaBMV]
+Læva ejus * sub cápite meo, et déxtera illíus amplexábitur me.;;112
+Speciósa * facta es et suávis in delíciis tuis, sancta Dei Génetrix.;;147
+
 [Hymnus Vespera]
 !Prima stropha sequentis hymni dicitur flexis genibus.
 {gabc:Commune/C11/hy--ave_maris_stella--solesmes_1934}
@@ -6,9 +10,176 @@
 (sed tonus in solemnitatibus)
 {gabc:Commune/C11/hy--ave_maris_stella_in_solemnitatibus--solesmes_1934}
 
+[Versum 1]
+V. Dignáre me laudáre te, Virgo sacráta.
+R. Da mihi virtútem contra hostes tuos.
+
+[Ant 1]
+Sancta María, * succúrre míseris, juva pusillánimes, réfove flébiles, ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu: séntiant omnes tuum juvámen, quicúmque célebrant tuam sanctam festivitátem.
+
+[Oratio]
+Concéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: et, gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia.
+$Per Dominum
+
+[Invit]
+Sancta María, Dei Génetrix Virgo, * Intercéde pro nobis.
+
+[Hymnus Matutinum]
+{:H-Quemterra:}v. Quem terra, pontus, sídera
+Colunt, adórant, prædicant,
+Trinam regéntem máchinam,
+Claustrum Maríæ bájulat.
+_
+Cui luna, sol, et ómnia
+Desérviunt per témpora,
+Perfúsa cæli grátia,
+Gestant puéllæ víscera.
+_
+Beáta Mater múnere,
+Cujus supérnus ártifex
+Mundum pugíllo cóntinens,
+Ventris sub arca clausus est.
+_
+Beáta cæli núntio,
+Fœcúnda sancto Spíritu,
+Desiderátus géntibus,
+Cujus per alvum fusus est.
+_
+* Jesu, tibi sit glória,
+Qui natus es de Vírgine,
+Cum Patre, et almo Spíritu
+In sempitérna sǽcula.
+Amen.
+
+[Ant MatutinumBMV]
+Benedícta tu * in muliéribus, et benedíctus fructus ventris tui.;;8
+Sicut myrrha * elécta, odórem dedísti suavitátis, sancta Dei Génetrix.;;18
+Ante torum * hujus Vírginis frequentáte nobis dúlcia cántica drámatis.;;23
+Sicut lætántium * ómnium nostrum habitátio est in te, sancta Dei Génetrix.;;86
+Gaude, María Virgo: * cunctas hǽreses sola interemísti in univérso mundo.;;95
+Dignáre me * laudáre te, Virgo sacráta: da mihi virtútem contra hostes tuos.;;96
+Post partum, * Virgo, invioláta permansísti: Dei Génetrix, intercéde pro nobis.;;97
+
+[Responsory1]
+R. Sancta et immaculáta virgínitas, quibus te láudibus éfferam, néscio: 
+* Quia quem cæli cápere non póterant, tuo grémio contulísti.
+V. Benedícta tu in muliéribus, et benedíctus fructus ventris tui.
+R. Quia quem cæli cápere non póterant, tuo grémio contulisti.
+
+[Responsory2]
+R. Congratulámini mihi, omnes qui dilígitis Dóminum: quia cum essem párvula, plácui Altíssimo, 
+* Et de meis viscéribus génui Deum et hóminem.
+V. Beátam me dicent omnes generatiónes, quia ancíllam húmilem respéxit Deus.
+R. Et de meis viscéribus génui Deum et hóminem.
+
+[Responsory3]
+R. Beáta es, Virgo María, quæ Dóminum portásti, Creatórem mundi: 
+* Genuísti qui te fecit, et in ætérnum pérmanes Virgo.
+V. Ave, María, grátia plena; Dóminus tecum.
+R. Genuísti qui te fecit, et in ætérnum pérmanes Virgo.
+&Gloria
+R. Genuísti qui te fecit, et in ætérnum pérmanes Virgo.
+
+[Responsory4]
+R. Sicut cedrus exaltáta sum in Líbano, et sicut cypréssus in monte Sion: quasi myrrha elécta, 
+* Dedi suavitátem odóris.
+V. Et sicut cinnamómum et bálsamum aromatízans.
+R. Dedi suavitátem odóris.
+
+[Responsory5]
+R. Quæ est ista quæ procéssit sicut sol, et formósa tamquam Jerúsalem? 
+* Vidérunt eam fíliæ Sion, et beátam dixérunt, et regínæ laudavérunt eam.
+V. Et sicut dies verni circúmdabant eam flores rosárum et lília convállium.
+R. Vidérunt eam fíliæ Sion, et beátam dixérunt, et regínæ laudavérunt eam.
+
+[Responsory6]
+R. Ornátam monílibus fíliam Jerúsalem Dóminus concupívit: 
+* Et vidéntes eam fíliæ Sion, beatíssimam prædicavérunt, dicéntes: * Unguéntum effúsum nomen tuum.
+V. Astitit regína a dextris tuis in vestítu deauráto, circúmdata varietáte.
+R. Et vidéntes eam fíliæ Sion, beatíssimam prædicavérunt, dicéntes:
+&Gloria
+R. Unguéntum effúsum nomen tuum.
+
+[Responsory7]
+R. Felix namque es, sacra Virgo María, et omni laude digníssima:
+* Quia ex te ortus est sol justítiæ, Christus, Deus noster.
+V. Ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu: séntiant omnes tuum juvámen, quicúmque célebrant tuam sanctam festivitátem.
+R. Quia ex te ortus est sol justítiæ, Christus, Deus noster.
+
+[Responsory8]
+R. Beátam me dicent omnes generatiónes, 
+* Quia fecit mihi Dóminus magna qui potens est, et sanctum nomen ejus.
+V. Et misericórdia ejus a progénie in progénies timéntibus eum.
+R. Quia fecit mihi Dóminus magna qui potens est, et sanctum nomen ejus.
+&Gloria
+R. Quia fecit mihi Dóminus magna qui potens est, et sanctum nomen ejus.
+
 [Versum 0]
 {initial-style:0;%%(c3) V/. O(h)ra(h) pro(h) no(h)bis(h) san(h)cta(h) De(h)i(h) Gé(h)ne(fr)trix.(f.) (::)
 R/. Ut(h) dig(h)ni(h) ef(h)fi(h)ci(h)á(h)mur(h) pro(h)mis(h)si(h)ó(h)ni(h)bus(h) Chris(h)ti.(f.) (::)}
 
+[Capitulum Laudes]
+!Sir 24:14
+v. Ab inítio et ante sǽcula creáta sum, et usque ad futúrum sǽculum non désinam, et in habitatióne sancta coram ipso ministrávi.
+$Deo gratias.
+
+[Hymnus Laudes]
+{:Ogloriosavirginum:}v. O gloriósa vírginum,
+Sublímis inter sídera,
+Qui te creávit, párvulum
+Lacténte nutris úbere.
+_
+Quod Heva tristis ábstulit,
+Tu reddis almo gérmine:
+Intrent ut astra flébiles,
+Cæli reclúdis cárdines.
+_
+Tu Regis alti jánua
+Et aula lucis fúlgida:
+Vitam datam per Vírginem,
+Gentes redémptæ, pláudite.
+_
+* Jesu tibi sit glória,
+Qui natus es de Vírgine,
+Cum Patre, et almo Spíritu,
+In sempitérna sǽcula.
+Amen.
+
+[HymnusM Laudes]
+v. O gloriósa Dómina,
+Excélsa super sídera:
+Qui te creávit, próvide
+Lactásti sacro úbere.
+_
+Quod Heva tristis ábstulit,
+Tu reddis almo gérmine:
+Intrent ut astra flébiles,
+Cæli fenéstra facta es.
+_
+Tu Regis alti jánua,
+Et porta lucis fúlgida:
+Vitam datam per Vírginem,
+Gentes redémptæ, pláudite.
+_
+Glória tibi Dómine,
+Qui natus es de Vírgine,
+Cum Patr[e] et Sancto Spíritu,
+In sempitérna sǽcula. Amen.
+
+[Ant 2]
+Beáta es, * María, quæ credidísti: perficiéntur in te, quæ dicta sunt tibi a Dómino, allelúja.
+
+[Lectio Prima]
+!Sir 24:19-20
+v. In platéis sicut cinnamómum et bálsamum aromatízans odórem dedi: quasi myrrha elécta, dedi suavitátem odóris.
+
+[Capitulum Sexta]
+!Sir 24:15-16
+v. Et sic in Sion firmáta sum, et in civitáte sanctificáta simíliter requiévi, et in Jerúsalem potéstas mea. Et radicávi in pópulo honorificáto, et in parte Dei mei heréditas illíus, et in plenitúdine sanctórum deténtio mea.
+$Deo gratias.
+
 [Ant 3]
 {name:Beatam me dicent;office-part:Antiphona;mode:8;book:Antiphonale Monasticum, 1934, p. 957;transcriber:Matthias Bry;%%(c4)BE(g)á(gj)tam(h>) me(g') di(h)cent(gf~) *() om(g_h)nes(g_') ge(h)ne(gf)ra(g)ti(gh)ó(f.)nes,(f.) (;) qui(f)a(g') an(f)cíl(g')lam(h) hú(j_k)mi(j)lem(ji/jkj.) (,) re(h'_)spé(j)xit(i') De(g)us,(g_h) al(i>)le(hi)lú(g.)ja.(g.) (::)};;solemn8G
+
+[Ant 43] (rubrica Ordo Praedicatorum)
+Corde et ánimo Christo canámus glóriam, in hac sacra solemnitáte præcélsæ Genitrícis Dei Maríæ.

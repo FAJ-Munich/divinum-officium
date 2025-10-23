@@ -1,0 +1,181 @@
+[Ant Vespera]
+Dómine, quinque talénta * tradidísti mihi, ecce ália quinque superlucrátus sum.
+Euge, serve bone * in módico fidélis, intra in gáudium Dómini tui.
+Fidélis servus * et prudens, quem constítuit Dóminus super famíliam suam.
+Beátus ille servus, * quem, cum vénerit Dóminus ejus et pulsáverit jánuam, invénerit vigilántem.
+Serve bone * et fidélis, intra in gáudium Dómini tui.
+
+[Ant 1]
+Similábo eum * viro sapiénti, qui ædificávit domum suam supra petram.
+
+[Oratio]
+Deus, qui nos beáti N. Confessóris tui ánnua solemnitáte lætíficas: concéde propítius; ut cujus natalítia cólimus, étiam actiónes imitémur.
+$Per Dominum.
+
+[Nocturn 2 Versum]
+V. Os justi meditábitur sapiéntiam.
+R. Et lingua ejus loquétur judícium.
+
+[Nocturn 3 Versum]
+V. Lex Dei ejus in corde ipsíus.
+R. Et non supplantabúntur gressus ejus.
+
+[Responsory2]
+R. Justus germinábit sicut lílium:
+* Et florébit in ætérnum ante Dóminum.
+V. Plantátus in domo Dómini, in átriis domus Dei nostri.
+R. Et florébit in ætérnum ante Dóminum.
+
+[Responsory3]
+R. Iste cognóvit justítiam, et vidit mirabília magna, et exorávit Altíssimum:
+* Et invéntus est in número Sanctórum.
+V. Iste est qui contémpsit vitam mundi, et pervénit ad cæléstia regna.
+R. Et invéntus est in número Sanctórum.
+&Gloria
+R. Et invéntus est in número Sanctórum.
+
+[Responsory4]
+R. Honéstum fecit illum Dóminus, et custodívit eum ab inimícis, et a seductóribus tutávit illum:
+* Et dedit illi claritátem ætérnam.
+V. Justum dedúxit Dóminus per vias rectas, et osténdit illi regnum Dei.
+R. Et dedit illi claritátem ætérnam.
+
+[Responsory5]
+R. Amávit eum Dóminus, et ornávit eum: stolam glóriæ índuit eum,
+* Et ad portas paradísi coronávit eum.
+V. Índuit eum Dóminus lorícam fídei, et ornávit eum.
+R. Et ad portas paradísi coronávit eum.
+
+[Responsory6]
+R. Iste homo perfécit ómnia quæ locútus est ei Deus, et dixit ad eum: Ingrédere in réquiem meam:
+* Quia te vidi justum coram me ex ómnibus géntibus.
+V. Iste est, qui contémpsit vitam mundi, et pervénit ad cæléstia regna.
+R. Quia te vidi justum coram me ex ómnibus géntibus.
+&Gloria
+R. Quia te vidi justum coram me ex ómnibus géntibus.
+
+[Responsory7]
+R. Iste est qui ante Deum magnas virtútes operátus est, et de omni corde suo laudávit Dóminum:
+* Ipse intercédat pro peccátis ómnium populórum.
+V. Ecce homo sine queréla, verus Dei cultor, ábstinens se ab omni ópere malo, et pérmanens in innocéntia sua.
+R. Ipse intercédat pro peccátis ómnium populórum.
+
+[Capitulum Laudes]
+!Sir 31:8-9
+v. Beátus vir, qui invéntus est sine mácula, et qui post aurum non ábiit, nec sperávit in pecúnia et thesáuris. Quis est hic, et laudábimus eum? fecit enim mirabília in vita sua.
+$Deo gratias
+
+[Hymnus Laudes]
+{:H-Jesucoronacelsior:}v. Jesu, coróna célsior,
+Et véritas sublímior,
+Qui confiténti sérvulo
+Reddis perénne prǽmium:
+_
+Da supplicánti cœ́tui,
+Hujus rogátu, nóxii
+Remissiónem críminis,
+Rumpéndo nexum vínculi.
+_
+Anni revérso témpore,
+Dies refúlsit lúmine,
+Quo Sanctus hic de córpore
+Migrávit inter sídera.
+_
+Hic vana terræ gáudia,
+Et luculénta prǽdia,
+Pollúta sorde députans,
+Ovans tenet cæléstia.
+_
+Te, Christe, Rex piíssime,
+Hic confiténdo júgiter,
+Calcávit artes dǽmonum,
+Sævúmque avérni príncipem.
+_
+Virtúte clarus, et fide,
+Confessióne sédulus,
+Jejúna membra déferens,
+Dapes supérnas óbtinet.
+_
+Proínde te piíssime
+Precámur omnes súpplices:
+Nobis ut hujus grátia
+Pœnas remíttas débitas.
+_
+* Patri perénnis glória,
+Natóque Patris único,
+Sanctóque sit Paráclito,
+Per omne semper sǽculum.
+Amen.
+
+[HymnusM Laudes]
+v. Jesu coróna célsior,
+Et véritas sublímior,
+Qui confiténti sérvulo
+Reddis perénne prǽmium:
+_
+Da supplicánti cœ́tui,
+Obténtu hujus óptimi,
+Remissiónem críminum
+Rumpéndo nexum vínculi.
+_
+Anni recúrso témpore,
+Dies illúxit lúmine,
+Quo Sanctus hic de córpore
+Polum migrávit prǽpotens.
+_
+Hic vana terræ gáudia
+Et luculénta prǽdia,
+Pollúta sorde députans,
+Ovans tenet cæléstia.
+_
+Te, Christe Rex piíssime,
+Hic confiténdo júgiter,
+Calcávit hostem fórtiter,
+Supérbum ac satéllitem.
+_
+Virtútum actu et fide,
+Confessiónis órdine,
+Jejúna membra déferens,
+Dapes supérnas óbtinet.
+_
+Proínde te, piíssime,
+Precámur omnes súpplices,
+Ut hujus almi grátia
+Nobis remíttas débita.
+_
+Glória Patri Dómino,
+Glória Unigénito,
+Una cum Sancto Spíritu,
+In sempitérna sǽcula.
+Amen.
+
+[Ant 2]
+Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, intra in gáudium Dómini tui.
+
+[Lectio Prima]
+!Sap 10:10
+v. Justum dedúxit Dóminus per vias rectas, et osténdit illi regnum Dei, et dedit illi sciéntiam sanctórum: honestávit illum in labóribus, et complévit labóres illíus.
+
+[Capitulum Sexta]
+!Sir 39:6
+v. Justus cor suum trádidit ad vigilándum dilúculo ad Dóminum, qui fecit illum, et in conspéctu Altíssimi deprecábitur.
+$Deo gratias
+
+[Responsory Breve Sexta]
+R.br. Os justi * Meditábitur sapiéntiam.
+R. Os justi * Meditábitur sapiéntiam.
+V. Et lingua ejus loquétur judícium.
+R. Meditábitur sapiéntiam.
+&Gloria
+R. Os justi * Meditábitur sapiéntiam.
+
+[Responsory Breve Nona]
+R.br. Lex Dei ejus * In corde ipsíus.
+R. Lex Dei ejus * In corde ipsíus.
+V. Et non supplantabúntur gressus ejus.
+R. In corde ipsíus.
+&Gloria
+R. Lex Dei ejus * In corde ipsíus.
+
+[Ant 3]
+Hic vir despíciens mundum * et terréna, triúmphans, divítias cælo cóndidit ore, manu.

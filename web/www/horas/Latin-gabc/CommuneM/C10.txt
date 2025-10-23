@@ -1,9 +1,7 @@
-[Responsory Vespera]
-R.br. {gabc:Commune/C11/rb--ave_maria_rbr--solesmes_1934}
-(sed tonus solemnis)
-R.br. {gabc:Commune/C11/rb--ave_maria_rbrtonus_solemnis--solesmes_1934}
-
-[Responsory Vespera] (tempore paschali)
-R.br. {gabc:Commune/C11/rb--ave_maria_r._br._t.p.--solesmes_1934}
-(sed tonus solemnis)
-R.br. {gabc:Commune/C11/rb--ave_maria_r._br._tonus_solemnis_t.p.--solesmes_1957}
+[MM Capitulum]
+!Eccli 24:26-28
+v. Transíte ad me, omnes qui concupíscitis me, et a generatiónibus meis implémini: spíritus enim meus super mel dulcis, et heréditas mea super mel et favum: memória mea in generatióne sæculórum.
+$Deo gratias
+_
+V. Speciósa facta es et suávis.
+R. In delíciis tuis, sancta Dei Génetrix.

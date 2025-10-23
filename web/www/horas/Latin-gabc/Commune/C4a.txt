@@ -13,3 +13,11 @@
 (sed communi Summorum Pontificum)
 Deus, qui pópulo tuo ætérnæ salútis beátum N. minístrum tribuísti: præsta, quǽsumus; ut, quem Doctórem vitæ habúimus in terris, intercessórem habére mereámur in cælis.
 $Per Dominum.
+
+[Responsory8]
+R. In médio Ecclésiæ apéruit os ejus, 
+* Et implévit eum Dóminus spíritu sapiéntiæ et intelléctus.
+V. Jucunditátem et exsultatiónem thesaurizávit super eum.
+R. Et implévit eum Dóminus spíritu sapiéntiæ et intelléctus.
+&Gloria
+R. Et implévit eum Dóminus spíritu sapiéntiæ et intelléctus.

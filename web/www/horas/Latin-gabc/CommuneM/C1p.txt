@@ -1,3 +1,9 @@
+[Responsory4]
+R. Ibant Apóstoli gaudéntes a conspéctu concílii, 
+* Quóniam digni hábiti sunt pro nómine Jesu contuméliam pati, † allelúja, allelúja, allelúja.
+V. Non sunt loquélæ, neque sermónes, quorum non audiántur voces eórum.
+R. Quóniam digni hábiti sunt pro nómine Jesu contuméliam pati, † allelúja, allelúja, allelúja.
+
 [Responsory TertiaM]
 @Commune/C1p:Versum 1: s/\(g\_.* \(\:\:\)/(f\.) (\:\:)/g s/\(h\_'\)/\(h\)/g s/\(\,\)//g
 
