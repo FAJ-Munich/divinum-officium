@@ -54,7 +54,7 @@ Amen.
 R/. Vos(h) e(h)lé(h)git(h) De(h)us(h) in(h) he(h)re(h)di(h)tá(h)tem(h) si(h)bi,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)}
 
 [Ant 1]
-Lux perpétua * lucébit Sanctis tuis, Dómine, et ætérnitas témporum, allelúja.
+Lux perpétua * lucébit Sanctis tuis, Dómine, et ætérnitas témporum, allelúja.;;1g
 (sed rubrica monastica)
 {annotation:1. g;%%name:Lux perpetua;annotation:1. g;mode:1;book:Antiphonale Monasticum, 1934, p. 632;%%(c4) LUX(d_f) per(ddc~)pé(c)tu(de)a(e.) *(,) lu(ed)cé(dg)bit(g) San(gh)ctis(e) tu(fe)is,(d) Dó(ed)mi(cd)ne :(d.;) et(g_h!jvIH'Gh) æ(ed)tér(g)ni(gf)tas(dd) tém(c)po(de)rum,(e.) (,) al(ce~)le(e_d/fvEDd)lú(cd~)ja.(d.) (::)};;1g
 

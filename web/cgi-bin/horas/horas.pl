@@ -469,6 +469,7 @@ sub ant123_special {
   my $lang = shift;
 
   my $ant, $duplexf;
+  our $canticaTone;
 
   if ($month == 12 && ($day > 16 && $day < 24) && $winner =~ /tempora/i) {
     my %specials = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
@@ -492,6 +493,8 @@ sub ant123_special {
       setbuild2('subst: Special Magnificat Ant. Dum esset');
     }
   }
+  ($ant, $canticaTone) = split(";;", $ant) if $lang =~ /gabc/i;
+  $canticaTone =~ s/\s*$//;
   ($ant, $duplexf);
 }
 
@@ -531,6 +534,8 @@ sub canticum {
         $ant2 = "$ant\n$ant2";
       }
     }
+    ($ant, $canticaTone) = split(";;", $ant) if $lang =~ /gabc/i;
+    $canticaTone =~ s/\s*$//;
   } else {
     $comment = ($winner =~ /sancti/i) ? 3 : 2;
     setcomment($item, 'Source', $comment, $lang, translate('Antiphona', $lang));
@@ -546,8 +551,6 @@ sub canticum {
       $duplexf ||= $df;
     }
   }
-  ($ant, $canticaTone) = split(";;", $ant) if $lang =~ /gabc/i;
-  $canticaTone =~ s/\s*$//;
 
   my @psalmi =
     ($canticaTone && $lang =~ /gabc/i) ? ("$ant;;'" . (229 + $num) . ",$canticaTone'") : ("$ant;;" . (229 + $num));

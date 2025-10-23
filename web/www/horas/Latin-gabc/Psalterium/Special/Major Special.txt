@@ -164,7 +164,9 @@ R/. Ex(h)sul(h)tá(h)vi(h)mus,(h) et(h) de(h)lec(h)tá(h)ti(h) su(h hr)mus.(g_'/
 {name:Benedictus Dominus Deus;annotation:6.;transcriber:faj-munich;book:Antiphonale Monasticum 1934, p. 45;%%(c4) BE(f)ne(g)dí(hfg)ctus(f_0gFD'_) *(,) De(f)us(g') Is(h)ra(gf)ël,(f.) (::)};;6
     
 [Feria3 Ant 2]
-{name:Erexit nobis Dominus;annotation:7.a;;mode:7;book:Liber antiphonarius, 1960, p. 110;transcriber:Andrew Hinkley;%%(c3) E(e)ré(g')xit(h) no(i)bis(h') *() Dó(g)mi(h_i)nus(i) cor(ji~)nu(j) sa(kj)lú(i)tis(i'_) (;) in(j) do(i)mo(hf) Da(h)vid(g_h) pú(iv_HF)e(g)ri(f) su(e.)i.(e.) (::)}
+{name:Erexit nobis Dominus;annotation:7.a;mode:7;book:Liber antiphonarius, 1960, p. 110;transcriber:Andrew Hinkley;%%(c3) E(e)ré(g')xit(h) no(i)bis(h') *() Dó(g)mi(h_i)nus(i) cor(ji~)nu(j) sa(kj)lú(i)tis(i'_) (;) in(j) do(i)mo(hf) Da(h)vid(g_h) pú(iv_HF)e(g)ri(f) su(e.)i.(e.) (::)};;7a
+(sed rubrica tridentina)
+{name:Erexit nobis Dominus;annotation:7.a;mode:7;transcriber:faj-munich;book:Liber antiphonarius Tomus I, 1891, p. 64;%%(c3) E(e)ré(g)xit(h) no(i)bis(h) *() Dó(g)mi(hi)nus(i) cor(ji~)nu(k) sa(j)lú(i)tis(i) (:) in(ij~) do(ji)mo(hf) Da(h)vid(gh) pú(ivHF)e(g)ri(f) su(e)i.(e) (::)};;7a
 (sed rubrica monastica)
 {name:Erexit nobis Dominus;annotation:7.a;mode:7;book:Antiphonale Monasticum, 1934, p. 51;transcriber:MarkM;%%(c3)E(e)ré(g)xit(h') no(i)bis(h') Dó(g)mi(hi)nus(i.) *(,)cor(ji~)nu(j) sa(kj)lú(i.)tis(i.) (;)in(j>) do(i_vHF)mo(h') Da(h)vid(g.) (,)pú(iv_HF')e(g)ri(fg) su(e.)i.(e.) (::)};;7a
 

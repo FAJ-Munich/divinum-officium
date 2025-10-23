@@ -769,6 +769,10 @@ sub getcommemoratio {
   postprocess_ant($a, $lang);
   my $v = $w{"Versum $ind"};
 
+  if (!$v && $wday =~ /tempora/i) {
+    $v = getfrompsalterium('Versum', $ind, $lang);
+  }
+
   if ($winner =~ /Epi1\-0a|01\-12t/) {
     my %w = columnsel($lang) ? %winner : %winner2;
     $v = $vespera == 1 && $day == 10 ? $c{'Versum 2'} : $c{'Versum Tertia'};
@@ -1012,10 +1016,22 @@ sub getrefs {
       }
 
       my $a = chompd($s{"Ant $ind"}) || chompd($c{"Ant $ind"});
-      if (!$a) { $a = "$file Ant $ind missing\n"; }
+
+      if (!$a) {
+        if ($file =~ /tempora/i) {
+          $a = getfrompsalterium('Ant', $ind, $lang);
+        }
+        $a ||= "$file Ant $ind missing\n";
+      }
       postprocess_ant($a, $lang);
       my $v = chompd($s{"Versum $ind"}) || chompd($c{"Versum $ind"});
-      if (!$v) { $a = "$file Versus $ind missing\n"; }
+
+      if (!$v) {
+        if ($file =~ /tempora/i) {
+          $v = getfrompsalterium('Versum', $ind, $lang);
+        }
+        $v ||= "$file Versus $ind missing\n";
+      }
       postprocess_vr($v, $lang);
       my $o = '';
 
@@ -1098,9 +1114,11 @@ sub oratio_solemnis {
   if ($o =~ /†/) {
     $o =~ /(.*) †\([\,\;]\) (.*) \*\(\;\) (.*)\(h\)(.*)(\$.*)/s;
     ($flexa, $metrum, $prePunctum, $punctum, $concl) = ($1, $2, $3, $4, $5);
-  } else {
+  } elsif ($o =~ /\*/) {
     $o =~ /(.*) \*\(\;\) (.*)\(h\)(.*)(\$.*)/s;
     ($metrum, $prePunctum, $punctum, $concl) = ($1, $2, $3, $4);
+  } else {
+    return $o;
   }
 
   $concl =~ s/\s*$/ solemnis/s;
