@@ -70,8 +70,8 @@ Et nunc, et in perpétuum.
 Amen.
 
 [Versum 1]
-V. In omnem terram exívit sonus eórum.
-R. Et in fines orbis terræ verba eórum.
+{initial-style:0;%%(c3) V/. In(h) om(h)nem(h) ter(h)ram(h) ex(h)í(h)vit(h) so(h)nus(h) e(h)ó(h hr)rum.(g_'/hvGFEfgf.) (::)
+R/. Et(h) in(h) fi(h)nes(h) or(h)bis(h) ter(h)ræ(h) ver(h)ba(h) e(h)ó(h hr)rum.(g_'/hvGFEfgf.) (::)}
 
 [Ant 1]
 Tradent enim vos * in concíliis, et in synagógis suis flagellábunt vos, et ante reges et prǽsides ducémini propter me in testimónium illis, et Géntibus.
@@ -124,12 +124,12 @@ Lux orta est * justo, allelúja, rectis corde lætítia, allelúja.;;96
 Custodiébant * testimónia ejus, et præcépta ejus, allelúja.;;98
 
 [Nocturn 2 Versum]
-V. Constítues eos príncipes super omnem terram.
-R. Mémores erunt nóminis tui, Dómine.
+{initial-style:0;%%(c3) V/. Con(h)stí(h)tu(h)es(h) e(h)os(h) prín(h)ci(h)pes(h) su(h)per(h) om(h)nem(h) ter(h hr)ram.(g_'/hvGFEfgf.) (::)
+R/.  Mé(h)mo(h)res(h) e(h)runt(h) nó(h)mi(h)nis(h) tu(h)i,(h) Dó(h)mi(hr)ne.(g_'/hvGFEfgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Nimis honoráti sunt amíci tui Deus.
-R. Nimis confortátus est principátus eórum.
+{initial-style:0;%%(c3) V/. Ni(h)mis(h) ho(h)no(h)rá(h)ti(h) sunt(h) a(h)mí(h)ci(h) tu(h)i(h) De(h hr)us.(g_'/hvGFEfgf.) (::)
+R/.  Ni(h)mis(h) con(h)for(h)tá(h)tus(h) est(h) prin(h)ci(h)pá(h)tus(h) e(h)ó(h hr)rum.(g_'/hvGFEfgf.) (::)}
 
 [Responsory1]
 R. Ecce ego mitto vos sicut oves in médio lupórum, dicit Dóminus:
@@ -183,8 +183,8 @@ R. Quorum doctrína fulget Ecclésia, ut sole luna.
 $Deo gratias
 
 [Versum 2]
-V. Annuntiavérunt ópera Dei.
-R. Et facta ejus intellexérunt.
+{initial-style:0;%%(c3) V/. An(h)nun(h)ti(h)a(h)vé(h)runt(h) ó(h)pe(h)ra(h) De(h hr)i.(g_'/hvGFEfgf.) (::)
+R/. Et(h) fac(h)ta(h) e(h)jus(h) in(h)tel(h)le(h)xé(h hr)runt.(g_'/hvGFEfgf.) (::)}
 
 [Ant 2]
 Vos qui reliquístis * ómnia, et secúti estis me, céntuplum accipiétis, et vitam ætérnam possidébitis.

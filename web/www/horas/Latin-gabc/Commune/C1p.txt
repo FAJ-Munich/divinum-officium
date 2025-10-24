@@ -50,8 +50,8 @@ Amen.
 {gabc:Commune/C1/hy--tristes_erant_apostoli-Ascensionis-solesmes_1934}
 
 [Versum 1]
-{initial-style:0;%%(c3) V/. San(h)cti(h) et(h) jus(h)ti(h) in(h) Dó(h)mi(h)no(h) gau(h)dé(h)te,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)
-R/. Vos(h) e(h)lé(h)git(h) De(h)us(h) in(h) he(h)re(h)di(h)tá(h)tem(h) si(h)bi,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)}
+{initial-style:0;%%(c3) V/. San(h)cti(h) et(h) jus(h)ti(h) in(h) Dó(h)mi(h)no(h) gau(h)dé(h)te,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/. Vos(h) e(h)lé(h)git(h) De(h)us(h) in(h) he(h)re(h)di(h)tá(h)tem(h) si(h)bi,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 1]
 Lux perpétua * lucébit Sanctis tuis, Dómine, et ætérnitas témporum, allelúja.;;1g
@@ -73,12 +73,12 @@ Lux perpétua * lucébit Sanctis tuis, Dómine, et ætérnitas témporum, allel�
 ;;98
 
 [Nocturn 2 Versum]
-{initial-style:0;%%(c3) V/. Lux(h) per(h)pé(h)tu(h)a(h) lu(h)cé(h)bit(h) San(h)ctis(h) tu(h)is,(h) Dó(h)mi(h)ne,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)
-R/. Et(h) æ(h)tér(h)ni(h)tas(h) tém(h)po(h)rum,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)}
+{initial-style:0;%%(c3) V/. Lux(h) per(h)pé(h)tu(h)a(h) lu(h)cé(h)bit(h) San(h)ctis(h) tu(h)is,(h) Dó(h)mi(h)ne,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/. Et(h) æ(h)tér(h)ni(h)tas(h) tém(h)po(h)rum,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-{initial-style:0;%%(c3) V/. Læ(h)tí(h)ti(h)a(h) sem(h)pi(h)tér(h)na(h) su(h)per(h) cá(h)pi(h)ta(h) e(h)ó(h)rum,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)
-R/. Gáu(h)di(h)um(h) et(h) ex(h)sul(h)ta(h)ti(h)ó(h)nem(h) ob(h)ti(h)né(h)bunt,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)}
+{initial-style:0;%%(c3) V/. Læ(h)tí(h)ti(h)a(h) sem(h)pi(h)tér(h)na(h) su(h)per(h) cá(h)pi(h)ta(h) e(h)ó(h)rum,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/. Gáu(h)di(h)um(h) et(h) ex(h)sul(h)ta(h)ti(h)ó(h)nem(h) ob(h)ti(h)né(h)bunt,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Beátus vir qui métuit Dóminum, allelúja:
@@ -170,8 +170,8 @@ Amen.
 {gabc:Commune/C1/hy--claro_paschali_gaudio--solesmes_1934}
 
 [Versum 2]
-{initial-style:0;%%(c3) V/. Pre(h)ti(h)ó(h)sa(h) in(h) con(h)spé(h)ctu(h) Dó(h)mi(h)ni,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)
-R/. Mors(h) San(h)ctó(h)rum(h) e(h)jus,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)}
+{initial-style:0;%%(c3) V/. Pre(h)ti(h)ó(h)sa(h) in(h) con(h)spé(h)ctu(h) Dó(h)mi(h)ni,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/. Mors(h) San(h)ctó(h)rum(h) e(h)jus,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 2]
 Fíliæ Jerúsalem, * veníte et vidéte Mártyres cum corónis, quibus coronávit eos Dóminus in die solemnitátis et lætítiæ, allelúja, allelúja.
@@ -180,7 +180,7 @@ Fíliæ Jerúsalem, * veníte et vidéte Mártyres cum corónis, quibus coronáv
 
 [Lectio Prima]
 !Rom 8:28
-Scimus quóniam diligéntibus Deum † ómnia cooperántur in bonum, * iis qui secúndum propósitum vocáti sunt sancti.
+{(c3)Sci(h)mus(h) quón(h)i(h)am(h) di(h)li(h)gén(h)ti(h)bus(h) De(h)um(f.) †(,) óm(h)ni(h)a(h) co(h)o(h)pe(h)rán(h)tur(g) in(f) bo(h)num,(h.) *(;) i(h)is(h) qui(h) se(h)cún(h)dum(h) pro(h)pó(h)si(h)tum(h) vo(h)cá(h)ti(h) sunt(h) sanc(f)ti.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. {gabc:Commune/C1/rb--sancti_et_justi--solesmes_1934}

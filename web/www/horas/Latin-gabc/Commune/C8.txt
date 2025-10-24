@@ -80,8 +80,8 @@ Per ætérna sǽcula.
 Amen.
 
 [Versum 1]
-V. Hæc est domus Dómini fírmiter ædificáta. 
-R. Bene fundáta est supra firmam petram.
+{initial-style:0;%%(c3) V/. Hæc(h) est(h) do(h)mus(h) Dó(h)mi(h)ni(h) fír(h)mi(h)ter(h) æ(h)di(h)fi(h)cá(h hr)ta.(g_'/hvGFEfgf.) (::)
+R/. Be(h)ne(h) fun(h)dá(h)ta(h) est(h) su(h)pra(h) fir(h)mam(h) pe(h hr)tram.(g_'/hvGFEfgf.) (::)}
 
 [Ant 1]
 Sanctificávit Dóminus * tabernáculum suum: quia hæc est domus Dei, in qua invocábitur nomen ejus, de quo scriptum est: Et erit nomen meum ibi, dicit Dóminus.
@@ -117,8 +117,8 @@ Templum Dómini * sanctum est, Dei structúra est, Dei ædificátio est.;;95
 Benedícta * glória Dómini, de loco sancto suo, allelúja.;;98
 
 [Nocturn 2 Versum]
-V. Domus mea.
-R. Domus oratiónis vocábitur.
+{initial-style:0;%%(c3) V/. Do(h)mus(h) me(h hr)a.(g_'/hvGFEfgf.) (::)
+R/.  Do(h)mus(h) o(h)ra(h)ti(h)ó(h)nis(h) vo(h)cá(h)bi(hr)tur.(g_'/hvGFEfgf.) (::)}
 
 [Responsory1]
 R. In dedicatióne templi decantábat pópulus laudem: 
@@ -269,8 +269,8 @@ R. Decet sanctitúdo.
 R. Domum tuam, Domine, * Decet sanctitudo.
 
 [Versum Tertia]
-V. Locus iste sanctus est, in quo orat sacérdos.
-R. Pro delíctis et peccátis pópuli.
+{initial-style:0;%%(c3) V/. Lo(h)cus(h) is(h)te(h) sanc(h)tus(h) est,(h) in(h) quo(h) o(h)rat(h) sa(h)cér(h hr)dos.(g_'/hvGFEfgf.) (::)
+R/. Pro(h) de(h)líc(h)tis(h) et(h) pec(h)cá(h)tis(h) pó(h)pu(hr)li.(g_'/hvGFEfgf.) (::)}
 
 [Capitulum Sexta]
 !Apo 21:3
@@ -294,12 +294,12 @@ R. Fírmiter ædificáta.
 R. Hæc est domus Dómini * Fírmiter ædificáta.
 
 [Versum Nona]
-V. Bene fundáta est domus Dómini.
-R. Supra firmam petram.
+{initial-style:0;%%(c3) V/. Be(h)ne(h) fun(h)dá(h)ta(h) est(h) do(h)mus(h) Dó(h)mi(hr)ni.(g_'/hvGFEfgf.) (::)
+R/. Su(h)pra(h) fir(h)mam(h) pe(h hr)tram.(g_'/hvGFEfgf.) (::)}
 
 [Versum 3]
-V. Domum tuam, Dómine, decet sanctitúdo. 
-R. In longitúdinem diérum.
+{initial-style:0;%%(c3) V/. Do(h)mum(h) tu(h)am,(h) Dó(h)mi(h)ne,(h) de(h)cet(h) sanc(h)ti(h)tú(h hr)do.(g_'/hvGFEfgf.) (::)
+R/. In(h) lon(h)gi(h)tú(h)di(h)nem(h) di(h)é(h hr)rum.(g_'/hvGFEfgf.) (::)}
 
 [Ant 3]
 O quam metuéndus est * locus iste: vere non est hic áliud, nisi domus Dei, et porta cæli.

@@ -44,16 +44,16 @@ Sana, Dómine, * ánimam meam, quia peccávi tibi.;;40
 Sitívit * ánima mea ad Deum vivum: quando véniam, et apparébo ante fáciem Dómini?;;41
 
 [Nocturn 1 Versum]
-V. A porta ínferi.
-R. Erue, Dómine, ánimas eórum.
+{initial-style:0;%%(c3) V/. A(h) por(h)ta(h) ín(h)fe(hr)ri.(g_'/hvGFEfgf.) (::)
+R/.  E(h)ru(h)e,(h) Dó(h)mi(h)ne,(h) á(h)ni(h)mas(h) e(h)ó(h hr)rum.(g_'/hvGFEfgf.) (::)}
 
 [Nocturn 2 Versum]
-V. Cóllocet eos Dóminus cum princípibus.
-R. Cum princípibus pópuli sui.
+{initial-style:0;%%(c3) V/. Cól(h)lo(h)cet(h) e(h)os(h) Dó(h)mi(h)nus(h) cum(h) prin(h)cí(h)pi(hr)bus.(g_'/hvGFEfgf.) (::)
+R/.  Cum(h) prin(h)cí(h)pi(h)bus(h) pó(h)pu(h)li(h) su(h hr)i.(g_'/hvGFEfgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Ne tradas béstiis ánimas confiténtes tibi.
-R. Et ánimas páuperum tuórum ne obliviscáris in finem.
+{initial-style:0;%%(c3) V/. Ne(h) tra(h)das(h) bés(h)ti(h)is(h) á(h)ni(h)mas(h) con(h)fi(h)tén(h)tes(h) ti(h hr)bi.(g_'/hvGFEfgf.) (::)
+R/.  Et(h) á(h)ni(h)mas(h) páu(h)pe(h)rum(h) tu(h)ó(h)rum(h) ne(h) ob(h)li(h)vis(h)cá(h)ris(h) in(h) fi(h hr)nem.(g_'/hvGFEfgf.) (::)}
 
 [Responsory1]
 R. Credo quod Redémptor meus vivit, et in novíssimo die de terra surrectúrus sum, 

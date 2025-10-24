@@ -84,8 +84,8 @@ $Per eumdem
 $Qui tecum
 
 [Verse Nona]
-V. Post partum, Virgo, invioláta permansísti.
-R. Dei Génitrix, intercéde pro nobis.
+{initial-style:0;%%(c3) V/. Post(h) par(h)tum,(h) Vir(h)go,(h) in(h)vi(h)o(h)lá(h)ta(h) per(h)man(h)sís(h hr)ti.(g_'/hvGFEfgf.) (::)
+R/. De(h)i(h) Gé(h)ni(h)trix,(h) in(h)ter(h)cé(h)de(h) pro(h) no(h hr)bis.(g_'/hvGFEfgf.) (::)}
 
 [Hymnus Completorium_C]
 v. Eníxa est puérpera,

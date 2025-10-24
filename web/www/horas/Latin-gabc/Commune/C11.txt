@@ -11,8 +11,8 @@ Speciósa * facta es et suávis in delíciis tuis, sancta Dei Génetrix.;;147
 {gabc:Commune/C11/hy--ave_maris_stella_in_solemnitatibus--solesmes_1934}
 
 [Versum 1]
-V. Dignáre me laudáre te, Virgo sacráta.
-R. Da mihi virtútem contra hostes tuos.
+{initial-style:0;%%(c3) V/. Di(h)gná(h)re(h) me(h) lau(h)dá(h)re(h) te,(h) Vir(h)go(h) sa(h)crá(h hr)ta.(g_'/hvGFEfgf.) (::)
+R/. Da(h) mi(h)hi(h) vir(h)tú(h)tem(h) con(h)tra(h) hos(h)tes(h) tu(h hr)os.(g_'/hvGFEfgf.) (::)}
 
 [Ant 1]
 Sancta María, * succúrre míseris, juva pusillánimes, réfove flébiles, ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu: séntiant omnes tuum juvámen, quicúmque célebrant tuam sanctam festivitátem.

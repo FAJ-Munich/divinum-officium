@@ -36,9 +36,9 @@ Amen.
 @:Hymnus Vespera:s/pergis/pascis/ s/tendis/pergis/ s/súpplices/lárgius/ s/ut addas/adáuge/ s/Virtus, honor, laus/Laus, honor, virtus/ s/cum/et/
 
 [Versum 1]
-{initial-style:0;%%(c3) V/. Spé(h)ci(h)e(h) tu(h)a(h) et(h) pul(h)chri(h)tú(h)di(h)ne(h) tu(h)a.(g_'/hGF'E!fgf.) R/.(::) In(h)tén(h)de,(h) prós(h)pe(h)re(h) pro(h)cé(h)de,(h) et(h) reg(h)na.(g_'/hGF'E!fgf.) (::)}
+{initial-style:0;%%(c3) V/. Spé(h)ci(h)e(h) tu(h)a(h) et(h) pul(h)chri(h)tú(h)di(h)ne(h) tu(h)a.(g_'/hvGF'E!fgf.) R/.(::) In(h)tén(h)de,(h) prós(h)pe(h)re(h) pro(h)cé(h)de,(h) et(h) reg(h)na.(g_'/hvGF'E!fgf.) (::)}
 (sed tempore paschali)
-{initial-style:0;%%(c3) V/. Spé(h)ci(h)e(h) tu(h)a(h) et(h) pul(h)chri(h)tú(h)di(h)ne(h) tu(h)a,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) R/.(::) In(h)tén(h)de,(h) prós(h)pe(h)re(h) pro(h)cé(h)de,(h) et(h) reg(h)na,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)}
+{initial-style:0;%%(c3) V/. Spé(h)ci(h)e(h) tu(h)a(h) et(h) pul(h)chri(h)tú(h)di(h)ne(h) tu(h)a,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) R/.(::) In(h)tén(h)de,(h) prós(h)pe(h)re(h) pro(h)cé(h)de,(h) et(h) reg(h)na,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 1]
 Veni, Sponsa Christi, * áccipe corónam, quam tibi Dóminus præparávit in ætérnum.
@@ -116,12 +116,12 @@ Trahe me post te, * in odórem currémus unguentórum tuórum: óleum effúsum n
 Veni, Sponsa Christi, * áccipe corónam, quam tibi Dóminus præparávit in ætérnum.;;97
 
 [Nocturn 2 Versum]
-V. Adjuvábit eam Deus vultu suo.
-R. Deus in médio ejus, non commovébitur.
+{initial-style:0;%%(c3) V/. Ad(h)ju(h)vá(h)bit(h) e(h)am(h) De(h)us(h) vul(h)tu(h) su(h hr)o.(g_'/hvGFEfgf.) (::)
+R/.  De(h)us(h) in(h) mé(h)di(h)o(h) e(h)jus,(h) non(h) com(h)mo(h)vé(h)bi(hr)tur.(g_'/hvGFEfgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Elégit eam Deus, et præelégit eam.
-R. In tabernáculo suo habitáre facit eam.
+{initial-style:0;%%(c3) V/. E(h)lé(h)git(h) e(h)am(h) De(h)us,(h) et(h) præ(h)e(h)lé(h)git(h) e(h hr)am.(g_'/hvGFEfgf.) (::)
+R/.  In(h) ta(h)ber(h)ná(h)cu(h)lo(h) su(h)o(h) ha(h)bi(h)tá(h)re(h) fa(h)cit(h) e(h hr)am.(g_'/hvGFEfgf.) (::)}
 
 [Responsory1]
 R. Veni Sponsa Christi, áccipe corónam, quam tibi Dóminus præparávit in ætérnum; pro cujus amóre sánguinem tuum fudísti,
@@ -183,8 +183,8 @@ R. Ecce sponsus venit, exíte óbviam ei.
 $Deo gratias
 
 [Versum 2]
-V. Diffúsa est grátia in lábiis tuis.
-R. Proptérea benedíxit te Deus in ætérnum.
+{initial-style:0;%%(c3) V/. Dif(h)fú(h)sa(h) est(h) grá(h)ti(h)a(h) in(h) lá(h)bi(h)is(h) tu(h hr)is.(g_'/hvGFEfgf.) (::)
+R/. Prop(h)tér(h)e(h)a(h) be(h)ne(h)dí(h)xit(h) te(h) De(h)us(h) in(h) æ(h)tér(h hr)num.(g_'/hvGFEfgf.) (::)}
 
 [Ant 2]
 Simile est regnum cælórum * hómini negotiatori quærénti bonas margaritas: invénta una pretiósa, dedit ómnia sua, et comparávit eam. Allelúja.

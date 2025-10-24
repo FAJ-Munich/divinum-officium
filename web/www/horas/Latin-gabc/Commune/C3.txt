@@ -70,8 +70,8 @@ Per cuncta tibi sǽcula.
 Amen.
 
 [Versum 1]
-V. Lætámini in Dómino, et exsultáte justi.
-R. Et gloriámini omnes recti corde.
+{initial-style:0;%%(c3) V/. Læ(h)tá(h)mi(h)ni(h) in(h) Dó(h)mi(h)no,(h) et(h) ex(h)sul(h)tá(h)te(h) jus(h hr)ti.(g_'/hvGFEfgf.) (::)
+R/. Et(h) glo(h)ri(h)á(h)mi(h)ni(h) om(h)nes(h) rec(h)ti(h) cor(h hr)de.(g_'/hvGFEfgf.) (::)}
 
 [Ant 1]
 Istórum est enim * regnum cælórum qui contempsérunt vitam mundi, et pervenérunt ad prǽmia regni, et lavérunt stolas suas in sánguine Agni.
@@ -122,12 +122,12 @@ Tradidérunt * córpora sua in mortem, ne servírent idólis: ídeo coronáti p�
 Ecce merces * Sanctórum copiósa est apud Deum: ipsi vero mórtui sunt pro Christo, et vivent in ætérnum.;;45
 
 [Nocturn 2 Versum]
-V. Exsúltent justi in conspéctu Dei.
-R. Et delecténtur in lætítia.
+{initial-style:0;%%(c3) V/. Ex(h)súl(h)tent(h) jus(h)ti(h) in(h) con(h)spéc(h)tu(h) De(h hr)i.(g_'/hvGFEfgf.) (::)
+R/.  Et(h) de(h)lec(h)tén(h)tur(h) in(h) læ(h)tí(h)ti(hr)a.(g_'/hvGFEfgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Justi autem in perpétuum vivent.
-R. Et apud Dóminum est merces eórum.
+{initial-style:0;%%(c3) V/. Jus(h)ti(h) au(h)tem(h) in(h) per(h)pé(h)tu(h)um(h) vi(h hr)vent.(g_'/hvGFEfgf.) (::)
+R/.  Et(h) a(h)pud(h) Dó(h)mi(h)num(h) est(h) mer(h)ces(h) e(h)ó(h hr)rum.(g_'/hvGFEfgf.) (::)}
 
 [Responsory1]
 R. Abstérget Deus omnem lácrimam ab óculis Sanctórum: et jam non erit ámplius neque luctus, neque clamor, sed nec ullus dolor:

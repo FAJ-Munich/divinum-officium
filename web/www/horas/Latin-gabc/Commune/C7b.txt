@@ -1,6 +1,6 @@
 [Versum 1]
-V. Glória et honóre coronásti eas, Dómine.
-R. Et constituísti eas super ópera mánuum tuárum.
+{initial-style:0;%%(c3) V/. Gló(h)ri(h)a(h) et(h) ho(h)nó(h)re(h) co(h)ro(h)nás(h)ti(h) e(h)as,(h) Dó(h)mi(hr)ne.(g_'/hvGFEfgf.) (::)
+R/. Et(h) con(h)sti(h)tu(h)ís(h)ti(h) e(h)as(h) su(h)per(h) ó(h)pe(h)ra(h) má(h)nu(h)um(h) tu(h)á(h hr)rum.(g_'/hvGFEfgf.) (::)}
 
 [Ant 1]
 Istárum est enim * regnum cælórum, quæ contempsérunt vitam mundi, et pervenérunt ad prǽmia regni, et lavérunt stolas suas in sánguine Agni.

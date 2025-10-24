@@ -1,6 +1,6 @@
 [Versum 1]
-V. Adducéntur Regi Vírgines post eam.
-R. Próximæ ejus afferéntur tibi.
+{initial-style:0;%%(c3) V/. Ad(h)du(h)cén(h)tur(h) Re(h)gi(h) Vír(h)gi(h)nes(h) post(h) e(h hr)am.(g_'/hvGFEfgf.) (::)
+R/. Pró(h)xi(h)mæ(h) e(h)jus(h) af(h)fe(h)rén(h)tur(h) ti(h hr)bi.(g_'/hvGFEfgf.) (::)}
 
 [Ant 1]
 Prudéntes vírgines, * aptáte vestras lámpades: ecce sponsus venit, exíte óbviam ei.

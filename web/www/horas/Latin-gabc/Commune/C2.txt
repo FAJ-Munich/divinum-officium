@@ -38,8 +38,8 @@ Amen.
 {gabc:Commune/C2/hy--deus_tuorum_tp--solesmes_1934}
 
 [Versum 1]
-V. Glória et honóre coronásti eum, Dómine.
-R. Et constituísti eum super ópera mánuum tuárum.
+{initial-style:0;%%(c3) V/. Gló(h)ri(h)a(h) et(h) ho(h)nó(h)re(h) co(h)ro(h)nás(h)ti(h) e(h)um,(h) Dó(h)mi(hr)ne.(g_'/hvGFEfgf.) (::)
+R/. Et(h) con(h)sti(h)tu(h)ís(h)ti(h) e(h)um(h) su(h)per(h) ó(h)pe(h)ra(h) má(h)nu(h)um(h) tu(h)á(h hr)rum.(g_'/hvGFEfgf.) (::)}
 
 [Ant 1]
 Iste Sanctus * pro lege Dei sui certávit usque ad mortem, et a verbis impiórum non tímuit: fundátus enim erat supra firmam petram.
@@ -63,12 +63,12 @@ Habitábit * in tabernáculo tuo: requiéscet in monte sancto tuo.;;14
 Posuísti, Dómine, * super caput ejus corónam de lápide pretióso.;;20
 
 [Nocturn 2 Versum]
-V. Posuísti, Dómine, super caput ejus.
-R. Corónam de lápide pretióso.
+{initial-style:0;%%(c3) V/. Po(h)su(h)ís(h)ti,(h) Dó(h)mi(h)ne,(h) su(h)per(h) ca(h)put(h) e(h hr)jus.(g_'/hvGFEfgf.) (::)
+R/.  Co(h)ró(h)nam(h) de(h) lá(h)pi(h)de(h) pre(h)ti(h)ó(h hr)so.(g_'/hvGFEfgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Magna est glória ejus in salutári tuo.
-R. Glóriam et magnum decórem impónes super eum.
+{initial-style:0;%%(c3) V/. Ma(h)gna(h) est(h) gló(h)ri(h)a(h) e(h)jus(h) in(h) sa(h)lu(h)tá(h)ri(h) tu(h hr)o.(g_'/hvGFEfgf.) (::)
+R/.  Gló(h)ri(h)am(h) et(h) ma(h)gnum(h) de(h)có(h)rem(h) im(h)pó(h)nes(h) su(h)per(h) e(h hr)um.(g_'/hvGFEfgf.) (::)}
 
 [Responsory1]
 R. Iste Sanctus pro lege Dei sui certávit usque ad mortem, et a verbis impiórum non tímuit:
@@ -160,8 +160,8 @@ Nunc, et per omne sǽculum.
 Amen.
 
 [Versum 2]
-V. Justus ut palma florébit.
-R. Sicut cedrus Líbani multiplicábitur.
+{initial-style:0;%%(c3) V/. Jus(h)tus(h) ut(h) pal(h)ma(h) flo(h)ré(h hr)bit.(g_'/hvGFEfgf.) (::)
+R/. Sic(h)ut(h) ce(h)drus(h) Lí(h)ba(h)ni(h) mul(h)ti(h)pli(h)cá(h)bi(hr)tur.(g_'/hvGFEfgf.) (::)}
 
 [Ant 2]
 Qui odit * ánimam suam in hoc mundo, in vitam ætérnam custódit eam.

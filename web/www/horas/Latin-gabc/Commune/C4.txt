@@ -73,8 +73,8 @@ Trinus et unus.
 Amen.
 
 [Versum 1]
-V. Amávit eum Dóminus, et ornávit eum.
-R. Stolam glóriæ índuit eum.
+{initial-style:0;%%(c3) V/. A(h)má(h)vit(h) e(h)um(h) Dó(h)mi(h)nus,(h) et(h) or(h)ná(h)vit(h) e(h hr)um.(g_'/hvGFEfgf.) (::)
+R/. Sto(h)lam(h) gló(h)ri(h)æ(h) índ(h)u(h)it(h) e(h hr)um.(g_'/hvGFEfgf.) (::)}
 
 [Ant 1]
 {name:Sacerdos et Pontifex;office-part:Antiphona;tone:1D;annotation:1.D;book:Liber antiphonarius, 1960, p. [55] & Liber antiphonarius, 1960, p. 577.15 & Liber antiphonarius, 1960, p. 81star;transcriber:Andrew Hinkley;%%(c4) SA(d)cér(dd)dos(c) et(d) Pón(f_g)ti(d)fex,(d_fddc.) *(,) et(f') vir(g)tú(h)tum(g') ó(h)pi(gf)fex,(f.) (;) pa(h)stor(g') bo(h)ne(g') in(f) pó(fe)pu(fg)lo:(gvF'_ED.) (;) o(dd)ra(c) pro(d') no(f)bis(fgf) Dó(d)mi(cd)num.(d.) (::)};;1D
@@ -98,12 +98,12 @@ Vitam pétiit * a te, et tribuísti ei, Dómine: glóriam et magnum decórem imp
 Hic accípiet * benedictiónem a Dómino, et misericórdiam a Deo salutári suo: quia hæc est generátio quæréntium Dóminum.;;23
 
 [Nocturn 2 Versum]
-V. Elégit eum Dóminus sacerdótem sibi.
-R. Ad sacrificándum ei hóstiam laudis.
+{initial-style:0;%%(c3) V/. E(h)lé(h)git(h) e(h)um(h) Dó(h)mi(h)nus(h) sa(h)cer(h)dó(h)tem(h) si(h hr)bi.(g_'/hvGFEfgf.) (::)
+R/.  Ad(h) sa(h)cri(h)fi(h)cán(h)dum(h) e(h)i(h) hós(h)ti(h)am(h) lau(h hr)dis.(g_'/hvGFEfgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Tu es sacérdos in ætérnum.
-R. Secúndum órdinem Melchísedech.
+{initial-style:0;%%(c3) V/. Tu(h) es(h) sa(h)cér(h)dos(h) in(h) æ(h)tér(h hr)num.(g_'/hvGFEfgf.) (::)
+R/.  Se(h)cún(h)dum(h) ór(h)di(h)nem(h) Mel(h)chí(h)se(hr)dech.(g_'/hvGFEfgf.) (::)}
 
 [Responsory1]
 R. Euge, serve bone et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam:
@@ -192,9 +192,9 @@ Amen.
 @:Hymnus Laudes:s/Indúlgeas precántibus/Nostris favéto précibus/ s/Æternitátis prǽmio/Cum Ángelis cæléstibus/ s/Potítur inter Ángelos/Lætus potítur prǽmiis/ s/Nunc, et per omne sǽculum/Et nunc, et in perpétuum/
 
 [Versum 2]
-{initial-style:0;%%(c3) V/. Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas.(g_0hGF'Efgf.) (::) R/. Et(h) os(h)tén(h)dit(h) il(h)li(h) reg(h)num(h) De(h)i.(g_0hGF'Efgf.) (::)}
+{initial-style:0;%%(c3) V/. Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas.(g_'/hvGF'Efgf.) (::) R/. Et(h) os(h)tén(h)dit(h) il(h)li(h) reg(h)num(h) De(h)i.(g_'/hvGF'Efgf.) (::)}
 (sed tempore paschali)
-{initial-style:0;%%(c3) V/. Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas,(h_') (,) al(h)le(h)lú(h)ja.(g_0hGF'Efgf.) (::) R/. Et(h) os(h)tén(h)dit(h) il(h)li(h) reg(h)num(h) De(h)i,(h_') (,) al(h)le(h)lú(h)ja.(g_0hGF'Efgf.) (::)}
+{initial-style:0;%%(c3) V/. Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'Efgf.) (::) R/. Et(h) os(h)tén(h)dit(h) il(h)li(h) reg(h)num(h) De(h)i,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'Efgf.) (::)}
 
 [Ant 2]
 Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, dicit Dóminus.

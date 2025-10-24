@@ -14,8 +14,8 @@ Ipsa Virgo Vírginum intercédat pro nobis ad Dóminum.
 Per Vírginem matrem concédat nobis Dóminus salútem et pacem.
 
 [Versum 2]
-V. Benedícta tu in muliéribus.
-R. Et benedíctus fructus ventris tui.
+{initial-style:0;%%(c3) V/. Be(h)ne(h)díc(h)ta(h) tu(h) in(h) mu(h)li(h)é(h)ri(hr)bus.(g_'/hvGFEfgf.) (::)
+R/. Et(h) be(h)ne(h)díc(h)tus(h) fruc(h)tus(h) ven(h)tris(h) tu(h hr)i.(g_'/hvGFEfgf.) (::)}
 
 [Ant 2_]
 Beáta Dei Génetrix, María, * Virgo perpétua, templum Dómini, sacrárium Spíritus Sancti, sola sine exémplo placuísti Dómino nostro Jesu Christo: ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu.
