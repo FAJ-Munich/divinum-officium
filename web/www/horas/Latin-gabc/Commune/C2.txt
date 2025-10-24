@@ -45,7 +45,7 @@ R. Et constituísti eum super ópera mánuum tuárum.
 Iste Sanctus * pro lege Dei sui certávit usque ad mortem, et a verbis impiórum non tímuit: fundátus enim erat supra firmam petram.
 
 [Oratio]
-Infirmitátem nostram réspice, omnípotens Deus:  † et, quia pondus própriæ actiónis gravat, * beáti N. Mártyris tui atque Pontíficis intercéssio gloriósa nos prótegat.
+{(c3)In(h)fir(h)mi(h)tá(h)tem(h) nos(h)tram(h) ré(h)spi(h)ce,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(;) et,(h) qui(h)a(h) pon(h)dus(h) pró(h)pri(h)æ(h) ac(h)ti(h)ó(g)nis(f) gra(h hr)vat,(h.) *(;) be(h)á(h)ti(h) N. Már(h)ty(h)ris(h) tu(h)i(h) at(h)que(h) Pon(h)tí(h)fi(h)cis(h) in(h)ter(h)cés(h)si(h)o(h) glo(h)ri(h)ó(h)sa(h) nos(h) pró(h)te(dr)gat.(d.) (::)}
 $Per Dominum
 
 [Invit]
@@ -134,7 +134,7 @@ R. Qui minas júdicum non tímuit, nec terrénæ dignitátis glóriam quæsívit
 
 [Capitulum Laudes]
 !Jac 1:12
-Beátus vir, qui suffert tentatiónem: † quóniam cum probátus fúerit, accípiet corónam vitæ, * quam repromísit Deus diligéntibus se.
+{(c3) Be(h)á(h)tus(h) vir,(h) qui(h) suf(h)fert(h) ten(h)ta(h)ti(h)ó(h)nem:(f.) †(,) quón(h)i(h)am(h) cum(h) pro(h)bá(h)tus(h) fú(h)e(h)rit,(h) ac(h)cí(h)pi(h)et(h) co(h)ró(g)nam(f) vi(h)tæ,(h.) *(;) quam(h) re(h)pro(h)mí(h)sit(h) De(h)us(h) di(h)li(h)gén(h)ti(h)bus(f) se.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -168,7 +168,7 @@ Qui odit * ánimam suam in hoc mundo, in vitam ætérnam custódit eam.
 
 [Lectio Prima]
 !Sir 39:6
-Justus cor suum trádidit ad vigilándum dilúculo ad Dóminum, qui fecit illum, * et in conspéctu Altíssimi deprecábitur.
+{(c3) Jus(h)tus(h) cor(h) su(h)um(h) trá(h)di(h)dit(h) ad(h) vi(h)gi(h)lán(h)dum(h) di(h)lú(h)cu(h)lo(h) ad(h) Dó(h)mi(h)num,(h) qui(h) fe(g)cit(f) il(h)lum,(h.) *(;) et(h) in(h) con(h)spéc(h)tu(h) Al(h)tís(h)si(h)mi(h) de(h)pre(h)cá(f)bi(e)tur.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Glória et honóre * Coronásti eum, Dómine.
@@ -180,7 +180,7 @@ R. Glória et honóre * Coronásti eum, Dómine.
 
 [Capitulum Sexta]
 !Sir 15:3
-Cibávit illum pane vitæ et intelléctus, † et aqua sapiéntiæ salutáris * potávit illum Dóminus Deus noster.
+{(c3) Ci(h)bá(h)vit(h) il(h)lum(h) pa(h)ne(h) vi(h)tæ(h) et(h) in(h)tel(h)léc(h)tus,(f.) †(,) et(h) a(h)qua(h) sa(h)pi(h)én(h)ti(h)æ(h) sa(g)lu(f)tá(h)ris(h.) *(;) po(h)tá(h)vit(h) il(h)lum(h) Dó(h)mi(h)nus(h) De(h)us(h) nos(f)ter.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

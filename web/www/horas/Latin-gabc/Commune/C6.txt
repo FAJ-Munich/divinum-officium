@@ -44,7 +44,7 @@ Amen.
 Veni, Sponsa Christi, * áccipe corónam, quam tibi Dóminus præparávit in ætérnum.
 
 [Oratio]
-Deus, qui inter cétera poténtiæ tuæ mirácula étiam in sexu frágili victóriam martýrii contulísti: † concéde propítius; ut, qui beátæ N. Vírginis et Mártyris tuæ natalícia cólimus, * per ejus ad te exémpla gradiámur.
+{(c3)De(h)us,(h) qui(h) in(h)ter(h) cé(h)te(h)ra(h) pot(h)én(h)ti(h)æ(h) tu(h)æ(h) mi(h)rá(h)cu(h)la(h) ét(h)i(h)am(h) in(h) se(h)xu(h) frá(h)gi(h)li(h) vic(h)tó(h)ri(h)am(h) mar(h)tý(h)ri(h)i(h) con(h)tu(h)lís(h)ti:(f.) †(;) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut,(h) qui(h) be(h)á(h)tæ(h) N. Vír(h)gi(h)nis(h) et(h) Már(h)ty(h)ris(h) tu(h)æ(h) na(h)ta(h)lí(h)ci(g)a(f) có(h)li(hr)mus,(h.) *(;) per(h) e(h)jus(h) ad(h) te(h) ex(h)ém(h)pla(h) gra(h)di(h)á(h dr)mur.(d.) (::)}
 $Per Dominum
 
 [Invit]
@@ -179,7 +179,7 @@ R. Ecce sponsus venit, exíte óbviam ei.
 
 [Capitulum Laudes]
 !2 Cor 10:17-18
-Fratres: Qui gloriátur, in Dómino gloriétur. † Non enim qui seípsum comméndat, ille probátus est; * sed quem Deus comméndat.
+{(c3) Fra(h)tres:(h) Qui(h) glo(h)ri(h)á(h)tur,(h) in(h) Dó(h)mi(h)no(h) glo(h)ri(h)é(h)tur.(f.) †(,) Non(h) e(h)nim(h) qui(h) se(h)íp(h)sum(h) com(h)mén(h)dat,(h) il(h)le(g) pro(f)bá(h)tus(h) est;(h.) *(;) sed(h) quem(h) De(h)us(h) com(h)mén(f)dat.(ef..) (::)}
 $Deo gratias
 
 [Versum 2]
@@ -193,7 +193,7 @@ Simile est regnum cælórum * hómini negotiatori quærénti bonas margaritas: i
 
 [Lectio Prima]
 !Sir 51:13-14
-Dómine, Deus meus, exaltásti super terram habitatiónem meam, et pro morte defluénte deprecáta sum. † Invocávi Dóminum, Patrem Dómini mei, ut non derelínquat me in die tribulatiónis meæ, * et in témpore superbórum sine adjutório.
+{(c3) Dó(h)mi(h)ne,(h) De(h)us(h) me(h)us,(h) ex(h)al(h)tás(h)ti(h) su(h)per(h) ter(h)ram(h) ha(h)bi(h)ta(h)ti(h)ó(h)nem(h) me(h)am,(h) et(h) pro(h) mor(h)te(h) de(h)flu(h)én(h)te(h) de(h)pre(h)cá(h)ta(f) sum.(f.) †(,) In(h)vo(h)cá(h)vi(h) Dó(h)mi(h)num,(h) Pa(h)trem(h) Dó(h)mi(h)ni(h) me(h)i,(h) ut(h) non(h) de(h)re(h)lín(h)quat(h) me(h) in(h) di(h)e(h) tri(h)bu(h)la(h)ti(h)ó(g)nis(f) me(h)æ,(h.) *(;) et(h) in(h) tém(h)po(h)re(h) su(h)per(h)bó(h)rum(h) si(h)ne(h) ad(h)ju(h)tó(f)ri(e)o.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Spécie tua * Et pulchritúdine tua.
@@ -205,7 +205,7 @@ R. Spécie tua * Et pulchritúdine tua.
 
 [Capitulum Sexta]
 !2 Cor 11:2
-Æmulor enim vos Dei æmulatióne. † Despóndi enim vos uni viro, * vírginem castam exhibére Christo.
+{(c3) Æ(h)mu(h)lor(h) e(h)nim(h) vos(h) De(h)i(h) æ(h)mu(h)la(h)ti(h)ó(h)ne.(f.) †(,) De(h)spón(h)di(h) e(h)nim(h) vos(h) u(g)ni(f) vi(h)ro,(h.) *(;) vír(h)gi(h)nem(h) cas(h)tam(h) ex(h)hi(h)bé(h)re(h) Chris(f)to.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

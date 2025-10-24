@@ -195,7 +195,7 @@ sub capitulum_minor {
   if ($lang =~ /gabc/) {
     if (@capit[-1] =~ /V\/\./) {
       splice(@capit, -1, 1, split('R/.', $capit[-1]));
-      $capit[-1] = s/^/R\/./;
+      $capit[-1] =~ s/^/R\/./;
     }
 
     if ($version =~ /monastic/i) {
@@ -208,7 +208,7 @@ sub capitulum_minor {
         s/\((?:hi|hr|h\_0|f?e|f\'?|f\_0?h|h\_\')\)/\(h\)/g;                       # More changes for solemn Versicle
         s/\(\,\)//g;
       } @capit[-2 .. -1];
-    } elsif ($capit[-1] =~ /f\_0?h/) {
+    } elsif ($capit[-1] =~ /g\_0?h/) {
 
       # Transform Tonus solemnis aut simplex into Tonus cum neuma
       map {

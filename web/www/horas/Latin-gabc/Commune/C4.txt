@@ -80,7 +80,7 @@ R. Stolam glóriæ índuit eum.
 {name:Sacerdos et Pontifex;office-part:Antiphona;tone:1D;annotation:1.D;book:Liber antiphonarius, 1960, p. [55] & Liber antiphonarius, 1960, p. 577.15 & Liber antiphonarius, 1960, p. 81star;transcriber:Andrew Hinkley;%%(c4) SA(d)cér(dd)dos(c) et(d) Pón(f_g)ti(d)fex,(d_fddc.) *(,) et(f') vir(g)tú(h)tum(g') ó(h)pi(gf)fex,(f.) (;) pa(h)stor(g') bo(h)ne(g') in(f) pó(fe)pu(fg)lo:(gvF'_ED.) (;) o(dd)ra(c) pro(d') no(f)bis(fgf) Dó(d)mi(cd)num.(d.) (::)};;1D
 
 [Oratio]
-Da, quǽsumus, omnípotens Deus: † ut beáti N. Confessóris tui atque Pontíficis veneránda solémnitas, * et devotiónem nobis áugeat et salútem.
+{(c3)Da,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(;) ut(h) be(h)á(h)ti(h) N. Con(h)fes(h)só(h)ris(h) tu(h)i(h) at(h)que(h) Pon(h)tí(h)fi(h)cis(h) ve(h)ne(h)rán(h)da(g) so(f)lém(h)ni(hr)tas,(h.) *(;) et(h) de(h)vo(h)ti(h)ó(h)nem(h) no(h)bis(h) áu(h)ge(h)at(h) et(h) sa(h)lú(h dr)tem.(d.) (::)}
 $Per Dominum.
 
 [Invit]
@@ -158,7 +158,7 @@ R. Et vos símiles homínibus exspectántibus dóminum suum, quando revertátur 
 
 [Capitulum Laudes]
 !Sir 44:16-17
-Ecce sacérdos magnus, † qui in diébus suis plácuit Deo, et invéntus est justus: * et in témpore iracúndiæ factus est reconciliátio.
+{(c3) Ec(h)ce(h) sa(h)cér(h)dos(h) ma(h)gnus,(f.) †(,) qui(h) in(h) di(h)é(h)bus(h) su(h)is(h) plá(h)cu(h)it(h) De(h)o,(h) et(h) in(h)vén(h)tus(g) est(f) jus(h)tus:(h.) *(;) et(h) in(h) tém(h)po(h)re(h) i(h)ra(h)cún(h)di(h)æ(h) fac(h)tus(h) est(h) re(h)con(h)ci(h)li(h)á(f)ti(e)o.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -201,7 +201,7 @@ Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te c
 
 [Lectio Prima]
 !Sir 45:19-20
-Fungi sacerdótio, † et habére laudem in nómine ipsíus, * et offérre illi incénsum dignum in odórem suavitátis.
+{(c3) Fun(h)gi(h) sa(h)cer(h)dó(h)ti(f)o,(f.) †(,) et(h) ha(h)bé(h)re(h) lau(h)dem(h) in(h) nó(h)mi(h)ne(g) ip(f)sí(h)us,(h.) *(;) et(h) of(h)fér(h)re(h) il(h)li(h) in(h)cén(h)sum(h) di(h)gnum(h) in(h) o(h)dó(h)rem(h) su(h)a(h)vi(h)tá(f)tis.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Amávit eum Dóminus, * Et ornávit eum.
@@ -213,7 +213,7 @@ R. Amávit eum Dóminus, * Et ornávit eum.
 
 [Capitulum Sexta]
 !Sir 44:20; 44:22
-Non est invéntus símilis illi, † qui conserváret legem Excélsi: * ídeo jurejurándo fecit illum Dóminus créscere in plebem suam.
+{(c3) Non(h) est(h) in(h)vén(h)tus(h) sí(h)mi(h)lis(h) il(h)li,(f.) †(,) qui(h) con(h)ser(h)vá(h)ret(h) le(h)gem(g) Ex(f)cél(h)si:(h.) *(;) íd(h)e(h)o(h) ju(h)re(h)ju(h)rán(h)do(h) fe(h)cit(h) il(h)lum(h) Dó(h)mi(h)nus(h) cré(h)sce(h)re(h) in(h) ple(h)bem(h) su(f)am.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

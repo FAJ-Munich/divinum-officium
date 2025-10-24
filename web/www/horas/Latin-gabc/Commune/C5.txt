@@ -9,7 +9,7 @@ Serve bone * et fidélis, intra in gáudium Dómini tui.
 Similábo eum * viro sapiénti, qui ædificávit domum suam supra petram.
 
 [Oratio]
-Deus, qui nos beáti N. Confessóris tui ánnua solemnitáte lætíficas: † concéde propítius; ut cujus natalítia cólimus, * étiam actiónes imitémur.
+{(c3)De(h)us,(h) qui(h) nos(h) be(h)á(h)ti(h) N. Con(h)fes(h)só(h)ris(h) tu(h)i(h) án(h)nu(h)a(h) so(h)lem(h)ni(h)tá(h)te(h) læ(h)tí(h)fi(f)cas:(f.) †(;) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut(h) cu(h)jus(h) na(h)ta(h)lí(h)ti(g)a(f) có(h)li(hr)mus,(h.) *(;) ét(h)i(h)am(h) ac(h)ti(h)ó(h)nes(h) i(h)mi(h)té(h dr)mur.(d.) (::)}
 $Per Dominum.
 
 [Nocturn 2 Versum]
@@ -62,7 +62,7 @@ R. Ipse intercédat pro peccátis ómnium populórum.
 
 [Capitulum Laudes]
 !Sir 31:8-9
-Beátus vir, qui invéntus est sine mácula, † et qui post aurum non ábiit, nec sperávit in pecúnia et thesáuris. * Quis est hic, et laudábimus eum? fecit enim mirabília in vita sua.
+{(c3) Be(h)á(h)tus(h) vir,(h) qui(h) in(h)vén(h)tus(h) est(h) si(h)ne(h) má(h)cu(f)la,(f.) †(,) et(h) qui(h) post(h) au(h)rum(h) non(h) áb(h)i(h)it,(h) nec(h) spe(h)rá(h)vit(h) in(h) pe(h)cú(h)ni(h)a(h) et(g) the(f)sáu(h)ris.(h.)*(;) Quis(g) est(g) hic,(g) et(g) lau(g)dá(g)bi(g)mus(f) e(g)um?(gh..) (:) fe(h)cit(h) e(h)nim(h) mi(h)ra(h)bí(h)li(h)a(h) in(h) vi(h)ta(h) su(f)a.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -154,11 +154,11 @@ Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te c
 
 [Lectio Prima]
 !Sap 10:10
-Justum dedúxit Dóminus per vias rectas, † et osténdit illi regnum Dei, et dedit illi sciéntiam sanctórum: * honestávit illum in labóribus, et complévit labóres illíus.
+{(c3) Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas,(f.) †(,) et(h) os(h)tén(h)dit(h) il(h)li(h) re(h)gnum(h) De(h)i,(h) et(h) de(h)dit(h) il(h)li(h) sci(h)én(h)ti(h)am(g) sanc(f)tó(h)rum:(h.) *(;) ho(h)nes(h)tá(h)vit(h) il(h)lum(h) in(h) la(h)bó(h)ri(h)bus,(h) et(h) com(h)plé(h)vit(h) la(h)bó(h)res(h) il(h)lí(f)us.(ef..) (::)}
 
 [Capitulum Sexta]
 !Sir 39:6
-Justus cor suum trádidit ad vigilándum dilúculo ad Dóminum, qui fecit illum, * et in conspéctu Altíssimi deprecábitur.
+{(c3) Jus(h)tus(h) cor(h) su(h)um(h) trá(h)di(h)dit(h) ad(h) vi(h)gi(h)lán(h)dum(h) di(h)lú(h)cu(h)lo(h) ad(h) Dó(h)mi(h)num,(h) qui(h) fe(g)cit(f) il(h)lum,(h.) *(;) et(h) in(h) con(h)spéc(h)tu(h) Al(h)tís(h)si(h)mi(h) de(h)pre(h)cá(f)bi(e)tur.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

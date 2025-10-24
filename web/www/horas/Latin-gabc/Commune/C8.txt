@@ -92,9 +92,14 @@ conclusione Oratio de Mysterio vel Sancto, in cujus honorem Altare dedicatur.
 Deus, qui ex omni coaptatióne Sanctórum ætérnum tibi condis habitáculum: da ædificatióni tuæ increménta cœléstia; ut, quorum hic relíquias pio amóre compléctimur, eórum semper méritis adjuvémur.
 $Per Dominum.
 
+[Oratio in 2 loco]
+!In ipso die Dedicationis Ecclesiæ et per Ottava, et quando varianda est Oratio 
+{(c3)De(h)us,(h) qui(h) in(h)vi(h)si(h)bí(h)li(h)ter(h) óm(h)ni(h)a(h) cón(h)ti(h)nes,(h) et(h) ta(h)men(h) pro(h) sa(h)lú(h)te(h) gé(h)ne(h)ris(h) hu(h)má(h)ni(h) si(h)gna(h) tu(h)æ(h) pot(h)én(h)ti(h)æ(h) vi(h)si(h)bí(h)li(h)ter(h) os(h)tén(h)dis:(f.) †(;) tem(h)plum(h) hoc(h) pot(h)én(h)ti(h)a(h) tu(h)æ(h) in(h)ha(h)bi(h)ta(h)ti(h)ó(h)nis(h) il(h)lús(h)tra,(h) et(h) con(h)cé(h)de;(h) ut(h) om(h)nes,(h) qui(h) huc(h) de(h)pre(h)ca(h)tú(h)ri(g) con(f)vé(h)ni(hr)unt,(h.) *(;) ex(h) qua(h)cúm(h)que(h) tri(h)bu(h)la(h)ti(h)ó(h)ne(h) ad(h) te(h) cla(h)má(h)ve(h)rint,(h) con(h)so(h)la(h)ti(h)ó(h)nis(h) tu(h)as(h) be(h)ne(h)fí(h)ci(h)a(h) con(h)se(h)quán(h dr)tur.(d.) (::)}
+$Per Dominum
+
 [Oratio]
 !In Anniversario Dedicationis Ecclesiæ
-Deus, qui nobis per síngulos annos hujus sancti templi tui consecratiónis réparas diem, et sacris semper mystériis repræséntas incólumes: † exáudi preces pópuli tui, et præsta; ut quisquis hoc templum benefícia petitúrus ingréditur, * cuncta se impetrásse lætétur.
+{(c3)De(h)us,(h) qui(h) no(h)bis(h) per(h) sín(h)gu(h)los(h) an(h)nos(h) hu(h)jus(h) sanc(h)ti(h) tem(h)pli(h) tu(h)i(h) con(h)se(h)cra(h)ti(h)ó(h)nis(h) ré(h)pa(h)ras(h) di(h)em,(h) et(h) sa(h)cris(h) sem(h)per(h) mys(h)té(h)ri(h)is(h) re(h)præ(h)sén(h)tas(h) in(h)có(h)lu(f)mes:(f.) †(;) ex(h)áu(h)di(h) pre(h)ces(h) pó(h)pu(h)li(h) tu(h)i,(h) et(h) præ(h)sta;(h) ut(h) quis(h)quis(h) hoc(h) tem(h)plum(h) be(h)ne(h)fí(h)ci(h)a(h) pe(h)ti(h)tú(h)rus(g) in(f)gré(h)di(hr)tur,(h.) *(;) cunc(h)ta(h) se(h) im(h)pe(h)trás(h)se(h) læ(h)té(h dr)tur.(d.) (::)}
 $Per Dominum
 
 [Invit]
@@ -171,7 +176,7 @@ R. Et turres Jerúsalem gemmis ædificabúntur.
 
 [Capitulum Laudes]
 !Apo 21:2
-Vidi civitátem sanctam, Jerúsalem novam, † descendéntem de cælo a Deo, * parátam sicut sponsam ornátam viro suo.
+{(c3) Vi(h)di(h) ci(h)vi(h)tá(h)tem(h) sanc(h)tam,(h) Je(h)rú(h)sa(h)lem(h) no(h)vam,(f.) †(,) de(h)scen(h)dén(h)tem(h) de(h) cæ(h)lo(g) a(f) De(h)o,(h.) *(;) pa(h)rá(h)tam(h) sic(h)ut(h) spon(h)sam(h) or(h)ná(h)tam(h) vi(h)ro(h) su(f)o.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -251,14 +256,9 @@ Amen.
 [Ant 2]
 Zachǽe, * festínans descénde, quia hódie in domo tua opórtet me manére. At ille festínans descéndit, et suscépit illum gaudens in domum suam. Hódie huic dómui salus a Deo facta est, allelúja.
 
-[Oratio in 2 loco]
-!In ipso die Dedicationis Ecclesiæ et per Ottava, et quando varianda est Oratio 
-Deus, qui invisibíliter ómnia cóntines, et tamen pro salúte géneris humáni signa tuæ poténtiæ visibíliter osténdis: † templum hoc poténtia tuæ inhabitatiónis illústra, et concéde; ut omnes, qui huc deprecatúri convéniunt, * ex quacúmque tribulatióne ad te clamáverint, consolatiónis tuas benefícia consequántur.
-$Per Dominum
-
 [Lectio Prima]
 !Apo 21:4-5
-Et abstérget Deus omnem lácrimam ab óculis eórum: † et mors ultra non erit, neque luctus, neque clamor, neque dolor erit ultra, quia prima abiérunt. * Et dixit qui sedébat in throno: Ecce nova fácio ómnia.
+{(c3) Et(h) abs(h)tér(h)get(h) De(h)us(h) om(h)nem(h) lá(h)cri(h)mam(h) ab(h) ó(h)cu(h)lis(h) e(h)ó(h)rum:(f.) †(,) et(h) mors(h) ul(h)tra(h) non(h) e(h)rit,(h) ne(h)que(h) luc(h)tus,(h) ne(h)que(h) cla(h)mor,(h) ne(h)que(h) do(h)lor(h) e(h)rit(h) ul(h)tra,(h) qui(h)a(h) pri(h)ma(h) ab(g)i(f)é(h)runt.(h.) *(;) Et(h) di(h)xit(h) qui(h) se(h)dé(h)bat(h) in(h) thro(h)no:(h) Ec(h)ce(h) no(h)va(h) fá(h)ci(h)o(h) óm(f)ni(e)a.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Domum tuam, Dómine, * Decet sanctitúdo.
@@ -274,7 +274,7 @@ R. Pro delíctis et peccátis pópuli.
 
 [Capitulum Sexta]
 !Apo 21:3
-Et audívi vocem magnam de throno dicéntem: Ecce tabernáculum Dei cum homínibus, et habitábit cum eis; † et ipsi pópulus ejus erunt, * et ipse Deus cum eis erit eórum Deus.
+{(c3) Et(h) au(h)dí(h)vi(h) vo(h)cem(h) ma(h)gnam(h) de(h) thro(h)no(h) di(h)cén(h)tem:(h) Ec(h)ce(h) ta(h)ber(h)ná(h)cu(h)lum(h) De(h)i(h) cum(h) ho(h)mí(h)ni(h)bus,(h) et(h) ha(h)bi(h)tá(h)bit(h) cum(h) e(h)is;(f.) †(,) et(h) ip(h)si(h) pó(h)pu(h)lus(h) e(g)jus(f) e(h)runt,(h.) *(;) et(h) ip(h)se(h) De(h)us(h) cum(h) e(h)is(h) e(h)rit(h) e(h)ó(h)rum(h) De(f)us.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

@@ -22,11 +22,11 @@ Omne * quod dat mihi Pater, ad me véniet; et eum qui venit ad me, non eíciam f
 
 [Oratio_Fid]
 $Oremus
-Fidélium, Deus, ómnium Cónditor et Redémptor, animábus famulórum famularúmque tuárum remissiónem cunctórum tríbue peccatórum: ut indulgéntiam, quam semper optavérunt, piis supplicatiónibus consequántur:
+{(c3)Fi(h)dé(h)li(h)um,(h) De(h)us,(h) óm(h)ni(h)um(h) Cón(h)di(h)tor(h) et(h) Red(h)émp(h)tor,(h) a(h)ni(h)má(h)bus(h) fa(h)mu(h)ló(h)rum(h) fa(h)mu(h)la(h)rúm(h)que(h) tu(h)á(h)rum(h) re(h)mis(h)si(h)ó(h)nem(h) cunc(h)tó(h)rum(h) trí(h)bu(h)e(h) pec(h)ca(h)tó(h)rum:(f.) †(,) ut(h) in(h)dul(h)gén(h)ti(h)am,(h) quam(h) sem(h)per(h) op(g)ta(f)vé(h)runt,(h.) *(;) pi(h)is(h) sup(h)pli(h)ca(h)ti(h)ó(h)ni(h)bus(h) con(h)se(h)quán(h)tur:(d.) (::)}
 $Qui vivis
 
 [Oratio1]
-Absólve, quǽsumus Dómine, ánimam fámuli tui N., ut defúnctus sǽculo tibi vivat: † et quæ per fragilitátem carnis humána conversatióne commísit, * tu vénia misericordíssimæ pietátis abstérge.
+{(c3)Ab(h)sól(h)ve,(h) quǽ(h)su(h)mus(h) Dó(h)mi(h)ne,(h) á(h)ni(h)mam(h) fá(h)mu(h)li(h) tu(h)i(h) N. ut(h) de(h)fúnc(h)tus(h) sǽ(h)cu(h)lo(h) ti(h)bi(h) vi(h)vat:(f.) †(;) et(h) quæ(h) per(h) fra(h)gi(h)li(h)tá(h)tem(h) car(h)nis(h) hu(h)má(h)na(h) con(h)ver(h)sa(h)ti(h)ó(h)ne(g) com(f)mí(h hr)sit,(h.) *(;) tu(h) vé(h)ni(h)a(h) mi(h)se(h)ri(h)cor(h)dís(h)si(h)mæ(h) pi(h)e(h)tá(h)tis(h) abs(h)tér(h dr)ge.(d.) (::)}
 $Per Dominum
 
 [Invit]
@@ -132,7 +132,7 @@ Omnis spíritus * laudet Dóminum.;;150
 Ego sum * resurréctio et vita: qui credit in me, étiam si mórtuus fúerit, vivet; et omnis qui vivit et credit in me, non moriétur in ætérnum.
 
 [Oratio2]
-Deus indulgentiárum Dómine: † da animábus famulórum famularúmque tuárum, quorum anniversárium depositiónis diem commemorámus, * refrigérii sedem, quiétis beatitúdinem, et lúminis claritátem.
+{(c3)De(h)us(h) in(h)dul(h)gen(h)ti(h)á(h)rum(h) Dó(h)mi(f)ne:(f.) †(;) da(h) a(h)ni(h)má(h)bus(h) fa(h)mu(h)ló(h)rum(h) fa(h)mu(h)la(h)rúm(h)que(h) tu(h)á(h)rum,(h) quo(h)rum(h) an(h)ni(h)ver(h)sá(h)ri(h)um(h) de(h)po(h)si(h)ti(h)ó(h)nis(h) di(h)em(h) com(h)me(g)mo(f)rá(h hr)mus,(h.) *(;) re(h)fri(h)gé(h)ri(h)i(h) se(h)dem,(h) qui(h)é(h)tis(h) be(h)a(h)ti(h)tú(h)di(h)nem,(h) et(h) lú(h)mi(h)nis(h) cla(h)ri(h)tá(h dr)tem.(d.) (::)}
 $Per Dominum
 
 [Responsory91]

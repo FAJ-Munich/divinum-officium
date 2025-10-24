@@ -187,7 +187,7 @@ R.br. {gabc:Commune/C1/rb--sancti_et_justi--solesmes_1934}
 
 [Capitulum Sexta]
 !Sap. 5:5
-Ecce quómodo computáti sunt inter fílios Dei, * et inter sanctos sors illórum est.
+{(c3) Ec(h)ce(h) quó(h)mo(h)do(h) com(h)pu(h)tá(h)ti(h) sunt(h) in(h)ter(h) fí(h)li(g)os(f) De(h)i,(h.) *(;) et(h) in(h)ter(h) sanc(h)tos(h) sors(h) il(h)ló(f)rum(e) est.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

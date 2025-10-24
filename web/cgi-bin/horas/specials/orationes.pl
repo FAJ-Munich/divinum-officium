@@ -1112,7 +1112,7 @@ sub oratio_solemnis {
   my ($flexa, $metrum, $prePunctum, $punctum, $concl);
 
   if ($o =~ /†/) {
-    $o =~ /(.*) †\([\,\;]\) (.*) \*\(\;\) (.*)\(h\)(.*)(\$.*)/s;
+    $o =~ /(.*) †\([\,\;]\) (.*) \*\(\;\) (.*)\(h(?:\sdr)?\)(.*)(\$.*)/s;
     ($flexa, $metrum, $prePunctum, $punctum, $concl) = ($1, $2, $3, $4, $5);
   } elsif ($o =~ /\*/) {
     $o =~ /(.*) \*\(\;\) (.*)\(h\)(.*)(\$.*)/s;
@@ -1136,12 +1136,15 @@ sub oratio_solemnis {
       $flexa =~ s/\(f(r?\.?)\)/(h$1)/g;    # raise pitch at flexa
       $metrum =~ s/\(h\.\)/(i_')/g;        #'# incisi majoris momenti => minoris
       $metrum =~ s/\(h/(i/g;               # raise pitch in general
+      $metrum =~ s/hr\)/ir)/g;             # raise pitch in general
     } else {
       $metrum =~ s/\(h/(i/g;               # raise pitch in general
+      $metrum =~ s/hr\)/ir)/g;             # raise pitch in general
       $metrum =~ s/\(i[r\.]\)/(h$1)/g;     # add flexa
     }
     $metrum =~ s/\(i\)/(h)/;               # add initia
     $prePunctum =~ s/\(h/(i/g;             # raise pitch in general
+    $prePunctum =~ s/hr\)/ir)/g;           # raise pitch in general
     $prePunctum =~ s/^(.*)\(i\)/$1(h)/;    # lower ultimate pitch
     $prePunctum =~ s/^(.*)\(i\)/$1(h)/;    # lower penultimate pitch
     $punctum =~ s/\(d/(i/g;                # raise final pitches

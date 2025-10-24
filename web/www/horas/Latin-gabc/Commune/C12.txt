@@ -4,8 +4,8 @@ Ant. Sancti Dei omnes, intercédere dignémini pro nostra omniúmque salúte.
 V. Lætámini in Dómino et exsultáte, justi.
 R. Et gloriámini, omnes recti corde.
 $Oremus
-Prótege, Dómine, pópulum tuum, * et, Apostolórum tuórum Petri et Pauli et aliórum Apostolórum patrocínio confidéntem, perpétua defensióne consérva.
-Omnes Sancti tui, quǽsumus, Dómine, nos ubíque ádjuvent: ut, dum eórum mérita recólimus, patrocínia sentiámus: * et pacem tuam nostris concéde tempóribus, et ab Ecclésia tua cunctam repélle nequítiam; ** iter, actus et voluntátes nostras et ómnium famulórum tuórum, in salútis tuæ prosperitáte dispóne, * benefactóribus nostris sempitérna bona retríbue, et ómnibus fidélibus defúnctis réquiem ætérnam concéde.
+{(c3)Pró(h)te(h)ge,(h) Dó(h)mi(h)ne,(h) pó(h)pu(g)lum(f) tu(h)um,(h.) *(;) et,(h) A(h)pos(h)to(h)ló(h)rum(h) tu(h)ó(h)rum(h) Pe(h)tri(h) et(h) Pau(h)li(h) et(h) a(h)li(h)ó(h)rum(h) A(h)pos(h)to(h)ló(h)rum(h) pa(h)tro(h)cí(h)ni(h)o(h) con(h)fi(h)dén(h)tem,(h_') (,) per(h)pé(h)tu(h)a(h) de(h)fen(h)si(h)ó(h)ne(h) con(h)sér(h)va.(d.) (::)
+Om(h)nes(h) Sanc(h)ti(h) tu(h)i,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) nos(h) u(h)bí(h)que(h) ád(h)ju(f)vent:(f.) †(,) ut,(h) dum(h) e(h)ó(h)rum(h) mé(h)ri(h)ta(h) re(h)có(h)li(h)mus,(h) pa(h)tro(h)cí(h)ni(h)a(h) sen(g)ti(f)á(h)mus:(h.) *(;) et(h) pa(h)cem(h) tu(h)am(h) nos(h)tris(h) con(h)cé(h)de(h) tem(h)pó(h)ri(h)bus,(h) et(h) ab(h) Ec(h)clé(h)si(h)a(h) tu(h)a(h) cunc(h)tam(h) re(h)pél(h)le(h) ne(h)quí(h)ti(f)am;(f.) †(,) i(h)ter,(h) ac(h)tus(h) et(h) vo(h)lun(h)tá(h)tes(h) nos(h)tras(h) et(h) óm(h)ni(h)um(h) fa(h)mu(h)ló(h)rum(h) tu(h)ó(h)rum,(h) in(h) sa(h)lú(h)tis(h) tu(h)æ(h) pro(h)spe(h)ri(h)tá(h)te(g) dis(f)pó(h)ne,(h.) *(;) be(h)ne(h)fac(h)tó(h)ri(h)bus(h) nos(h)tris(h) sem(h)pi(h)tér(h)na(h) bo(h)na(h) re(h)trí(h)bu(h)e,(h) et(h) óm(h)ni(h)bus(h) fi(h)dé(h)li(h)bus(h) de(h)fúnc(h)tis(h) ré(h)qui(h)em(h) æ(h)tér(h)nam(h) con(h)cé(h)de.(d.) (::)}
 $Per Dominum
 (sed rubrica 1955 aut rubrica 196 omittitur)
 
@@ -24,11 +24,11 @@ Pulchra es, * et decóra, fília Jerúsalem: terríbilis ut castrórum ácies or
 
 [Capitulum Laudes]
 !Cant 6:8
-Vidérunt eam fíliæ Sion, † et beatíssimam prædicavérunt * et regínæ laudavérunt eam.
+{(c3) Vi(h)dé(h)runt(h) e(h)am(h) fí(h)li(h)æ(h) Si(h)on,(f.) †(,) et(h) be(h)a(h)tís(h)si(h)mam(h) præ(h)di(g)ca(f)vé(h)runt(h.) *(;) et(h) re(h)gí(h)næ(h) lau(h)da(h)vé(h)runt(h) e(f)am.(ef..) (::)}
 $Deo gratias
 
 [Oratio 2]
-Deus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscípere voluísti: * præsta supplícibus tuis; ut, qui vere eam Genetrícem Dei crédimus, ejus apud te intercessiónibus adjuvémur.
+{(c3)De(h)us,(h) qui(h) de(h) be(h)á(h)tæ(h) Ma(h)rí(h)æ(h) Vír(h)gi(h)nis(h) ú(h)te(h)ro(h) Ver(h)bum(h) tu(h)um,(h) An(h)ge(h)lo(h) nun(h)ti(h)án(h)te,(h) car(h)nem(h) su(h)scí(h)pe(h)re(h) vo(g)lu(f)ís(h hr)ti:(h.) *(;) præ(h)sta(h) sup(h)plí(h)ci(h)bus(h) tu(h)is;(h) ut,(h) qui(h) ve(h)re(h) e(h)am(h) Ge(h)ne(h)trí(h)cem(h) De(h)i(h) cré(h)di(h)mus,(h) e(h)jus(h) a(h)pud(h) te(h) in(h)ter(h)ces(h)si(h)ó(h)ni(h)bus(h) ad(h)ju(h)vé(h dr)mur.(d.) (::)}
 $Per eumdem
 
 [Hymnus minor_]
@@ -63,24 +63,24 @@ _
 
 [Capitulum Prima]
 !Cant 6:9
-Quæ est ista, quæ progréditur quasi auróra consúrgens, † pulchra ut luna, elécta ut sol, * terríbilis ut castrórum ácies ordináta?
+{(c3) Quæ(h) est(h) is(h)ta,(h) quæ(h) pro(h)gré(h)di(h)tur(h) qua(h)si(h) au(h)ró(h)ra(h) con(h)súr(h)gens,(f.) †(,) pul(h)chra(h) ut(h) lu(h)na,(h) e(h)léc(h)ta(g) ut(f) sol,(h.) *(;) ter(h)rí(h)bi(h)lis(h) ut(h) cas(h)tró(h)rum(h) á(h)ci(h)es(h) or(h)di(h)ná(f)ta?(ef..) (::)}
 $Deo gratias
 
 [Oratio Prima]
-Deus, qui virginálem aulam beátæ Maríæ, in qua habitáres, elígere dignátus es: † da, quǽsumus; ut, sua nos defensióne munítos, * jucúndos fácias suæ interésse commemoratióni.
+{(c3)De(h)us,(h) qui(h) vir(h)gi(h)ná(h)lem(h) au(h)lam(h) be(h)á(h)tæ(h) Ma(h)rí(h)æ,(h) in(h) qua(h) ha(h)bi(h)tá(h)res,(h) e(h)lí(h)ge(h)re(h) di(h)gná(h)tus(f) es:(f.) †(;) da,(h) quǽ(h)su(h)mus;(h) ut,(h) su(h)a(h) nos(h) de(h)fen(h)si(h)ó(h)ne(g) mu(f)ní(h hr)tos,(h.) *(;) ju(h)cún(h)dos(h) fá(h)ci(h)as(h) su(h)æ(h) in(h)ter(h)és(h)se(h) com(h)me(h)mo(h)ra(h)ti(h)ó(h dr)ni.(d.) (::)}
 $Qui vivis
 
 [Capitulum Sexta]
 !Sir 24:16
-@:Lectio2:3 s/^16/v./
+{(c3)Et(h) ra(h)di(h)cá(h)vi(h) in(h) pó(h)pu(h)lo(h) ho(h)no(h)ri(h)fi(h)cá(h)to,(f.) †(,) et(h) in(h) par(h)te(h) De(h)i(h) me(h)i(h) he(h)ré(h)di(h)tas(g) il(f)lí(h)us,(h.) *(;) et(h) in(h) ple(h)ni(h)tú(h)di(h)ne(h) sanc(h)tó(h)rum(h) de(h)tén(h)ti(h)o(h) me(f)a.(ef..) (::)}
 $Deo gratias
 
 [Oratio Sexta]
-Concéde, miséricors Deus, fragilitáti nostræ præsídium; † ut, qui sanctæ Dei Genetrícis memóriam ágimus; * intercessiónis ejus auxílio, a nostris iniquitátibus resurgámus.
+{(c3)Con(h)cé(h)de,(h) mi(h)sé(h)ri(h)cors(h) De(h)us,(h) fra(h)gi(h)li(h)tá(h)ti(h) nos(h)træ(h) præ(h)sí(h)di(f)um;(f.) †(;) ut,(h) qui(h) sanc(h)tæ(h) De(h)i(h) Ge(h)ne(h)trí(h)cis(h) me(h)mó(h)ri(g)am(f) á(h)gi(hr)mus;(h.) *(;) in(h)ter(h)ces(h)si(h)ó(h)nis(h) e(h)jus(h) au(h)xí(h)li(h)o,(h) a(h) nos(h)tris(h) in(h)i(h)qui(h)tá(h)ti(h)bus(h) re(h)sur(h)gá(h dr)mus.(d.) (::)}
 $Per eumdem
 
 [Oratio Nona]
-Famulórum tuórum, quǽsumus, Dómine, delíctis ignósce: † ut qui tibi placére de áctibus nostris non valémus: * Genitrícis Fílii tui Dómini nostri intercessióne salvémur:
+{(c3)Fa(h)mu(h)ló(h)rum(h) tu(h)ó(h)rum,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) de(h)líc(h)tis(h) i(h)gnó(h)sce:(f.) †(;) ut(h) qui(h) ti(h)bi(h) pla(h)cé(h)re(h) de(h) ác(h)ti(h)bus(h) nos(h)tris(h) non(g) va(f)lé(h hr)mus:(h.) *(;) Ge(h)ni(h)trí(h)cis(h) Fí(h)li(h)i(h) tu(h)i(h) Dó(h)mi(h)ni(h) nos(h)tri(h) in(h)ter(h)ces(h)si(h)ó(h)ne(h) sal(h)vé(h dr)mur:(d.) (::)}
 $Qui tecum
 
 [Verse Nona]
@@ -100,12 +100,12 @@ Ant. Sub tuum præsídium * confúgimus, sancta Dei Génetrix: nostras deprecati
 
 [Capitulum Completorium_]
 !Sir 24:24
-Ego mater pulchræ dilectiónis, † et timóris, et agnitiónis, * et sanctæ spei.
+{(c3)E(h)go(h) ma(h)ter(h) pul(h)chræ(h) di(h)lec(h)ti(h)ó(h)nis,(f.) †(,) et(h) ti(h)mó(h)ris,(h) et(h) a(h)gni(g)ti(f)ó(h)nis,(h.) *(;) et(h) sanc(h)tæ(h) spe(f)i.(ef..) (::)}
 $Deo gratias
 _
 V. Ora pro nobis sancta Dei Génetrix.
 R. Ut digni efficiámur promissiónibus Christi.
 
 [Oratio Completorium]
-Beátæ et gloriósæ semper Vírginis Maríæ, quǽsumus, Dómine, intercéssio gloriósa nos prótegat, * et ad vitam perdúcat ætérnam.
+{(c3)Be(h)á(h)tæ(h) et(h) glo(h)ri(h)ó(h)sæ(h) sem(h)per(h) Vír(h)gi(h)nis(h) Ma(h)rí(h)æ,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) in(h)ter(h)cés(h)si(h)o(h) glo(h)ri(h)ó(h)sa(g) nos(f) pró(h)te(hr)gat,(h.) *(;) et(h) ad(h) vi(h)tam(h) per(h)dú(h)cat(h) æ(h)tér(h dr)nam.(d.) (::)}
 $Per Dominum
