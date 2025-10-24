@@ -22,11 +22,11 @@ Omne * quod dat mihi Pater, ad me véniet; et eum qui venit ad me, non eíciam f
 
 [Oratio_Fid]
 $Oremus
-v. Fidélium, Deus, ómnium Cónditor et Redémptor, animábus famulórum famularúmque tuárum remissiónem cunctórum tríbue peccatórum: ut indulgéntiam, quam semper optavérunt, piis supplicatiónibus consequántur:
+Fidélium, Deus, ómnium Cónditor et Redémptor, animábus famulórum famularúmque tuárum remissiónem cunctórum tríbue peccatórum: ut indulgéntiam, quam semper optavérunt, piis supplicatiónibus consequántur:
 $Qui vivis
 
 [Oratio1]
-v. Absólve, quǽsumus Dómine, ánimam fámuli tui N., ut defúnctus sǽculo tibi vivat: et quæ per fragilitátem carnis humána conversatióne commísit, tu vénia misericordíssimæ pietátis abstérge.
+Absólve, quǽsumus Dómine, ánimam fámuli tui N., ut defúnctus sǽculo tibi vivat: † et quæ per fragilitátem carnis humána conversatióne commísit, * tu vénia misericordíssimæ pietátis abstérge.
 $Per Dominum
 
 [Invit]
@@ -132,7 +132,7 @@ Omnis spíritus * laudet Dóminum.;;150
 Ego sum * resurréctio et vita: qui credit in me, étiam si mórtuus fúerit, vivet; et omnis qui vivit et credit in me, non moriétur in ætérnum.
 
 [Oratio2]
-v. Deus indulgentiárum Dómine: da animábus famulórum famularúmque tuárum, quorum anniversárium depositiónis diem commemorámus, refrigérii sedem, quiétis beatitúdinem, et lúminis claritátem.
+Deus indulgentiárum Dómine: † da animábus famulórum famularúmque tuárum, quorum anniversárium depositiónis diem commemorámus, * refrigérii sedem, quiétis beatitúdinem, et lúminis claritátem.
 $Per Dominum
 
 [Responsory91]

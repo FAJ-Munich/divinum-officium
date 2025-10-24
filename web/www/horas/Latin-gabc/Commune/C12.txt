@@ -4,8 +4,8 @@ Ant. Sancti Dei omnes, intercédere dignémini pro nostra omniúmque salúte.
 V. Lætámini in Dómino et exsultáte, justi.
 R. Et gloriámini, omnes recti corde.
 $Oremus
-v. Prótege, Dómine, pópulum tuum, et, Apostolórum tuórum Petri et Pauli et aliórum Apostolórum patrocínio confidéntem, perpétua defensióne consérva.
-v. Omnes Sancti tui, quǽsumus, Dómine, nos ubíque ádjuvent: ut, dum eórum mérita recólimus, patrocínia sentiámus: et pacem tuam nostris concéde tempóribus, et ab Ecclésia tua cunctam repélle nequítiam; iter, actus et voluntátes nostras et ómnium famulórum tuórum, in salútis tuæ prosperitáte dispóne, benefactóribus nostris sempitérna bona retríbue, et ómnibus fidélibus defúnctis réquiem ætérnam concéde.
+Prótege, Dómine, pópulum tuum, * et, Apostolórum tuórum Petri et Pauli et aliórum Apostolórum patrocínio confidéntem, perpétua defensióne consérva.
+Omnes Sancti tui, quǽsumus, Dómine, nos ubíque ádjuvent: ut, dum eórum mérita recólimus, patrocínia sentiámus: * et pacem tuam nostris concéde tempóribus, et ab Ecclésia tua cunctam repélle nequítiam; ** iter, actus et voluntátes nostras et ómnium famulórum tuórum, in salútis tuæ prosperitáte dispóne, * benefactóribus nostris sempitérna bona retríbue, et ómnibus fidélibus defúnctis réquiem ætérnam concéde.
 $Per Dominum
 (sed rubrica 1955 aut rubrica 196 omittitur)
 
@@ -24,11 +24,11 @@ Pulchra es, * et decóra, fília Jerúsalem: terríbilis ut castrórum ácies or
 
 [Capitulum Laudes]
 !Cant 6:8
-v. Vidérunt eam fíliæ Sion, et beatíssimam prædicavérunt et regínæ laudavérunt eam.
+Vidérunt eam fíliæ Sion, † et beatíssimam prædicavérunt * et regínæ laudavérunt eam.
 $Deo gratias
 
 [Oratio 2]
-Deus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscípere voluísti: præsta supplícibus tuis; ut, qui vere eam Genetrícem Dei crédimus, ejus apud te intercessiónibus adjuvémur.
+Deus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscípere voluísti: * præsta supplícibus tuis; ut, qui vere eam Genetrícem Dei crédimus, ejus apud te intercessiónibus adjuvémur.
 $Per eumdem
 
 [Hymnus minor_]
@@ -63,11 +63,11 @@ _
 
 [Capitulum Prima]
 !Cant 6:9
-v. Quæ est ista, quæ progréditur quasi auróra consúrgens, pulchra ut luna, elécta ut sol, terríbilis ut castrórum ácies ordináta?
+Quæ est ista, quæ progréditur quasi auróra consúrgens, † pulchra ut luna, elécta ut sol, * terríbilis ut castrórum ácies ordináta?
 $Deo gratias
 
 [Oratio Prima]
-v. Deus, qui virginálem aulam beátæ Maríæ, in qua habitáres, elígere dignátus es: da, quǽsumus; ut, sua nos defensióne munítos, jucúndos fácias suæ interésse commemoratióni.
+Deus, qui virginálem aulam beátæ Maríæ, in qua habitáres, elígere dignátus es: † da, quǽsumus; ut, sua nos defensióne munítos, * jucúndos fácias suæ interésse commemoratióni.
 $Qui vivis
 
 [Capitulum Sexta]
@@ -76,11 +76,11 @@ $Qui vivis
 $Deo gratias
 
 [Oratio Sexta]
-v. Concéde, miséricors Deus, fragilitáti nostræ præsídium; ut, qui sanctæ Dei Genetrícis memóriam ágimus; intercessiónis ejus auxílio, a nostris iniquitátibus resurgámus.
+Concéde, miséricors Deus, fragilitáti nostræ præsídium; † ut, qui sanctæ Dei Genetrícis memóriam ágimus; * intercessiónis ejus auxílio, a nostris iniquitátibus resurgámus.
 $Per eumdem
 
 [Oratio Nona]
-v. Famulórum tuórum, quǽsumus, Dómine, delíctis ignósce: ut qui tibi placére de áctibus nostris non valémus: Genitrícis Fílii tui Dómini nostri intercessióne salvémur:
+Famulórum tuórum, quǽsumus, Dómine, delíctis ignósce: † ut qui tibi placére de áctibus nostris non valémus: * Genitrícis Fílii tui Dómini nostri intercessióne salvémur:
 $Qui tecum
 
 [Verse Nona]
@@ -100,12 +100,12 @@ Ant. Sub tuum præsídium * confúgimus, sancta Dei Génetrix: nostras deprecati
 
 [Capitulum Completorium_]
 !Sir 24:24
-v. Ego mater pulchræ dilectiónis, et timóris, et agnitiónis, et sanctæ spei.
+Ego mater pulchræ dilectiónis, † et timóris, et agnitiónis, * et sanctæ spei.
 $Deo gratias
 _
 V. Ora pro nobis sancta Dei Génetrix.
 R. Ut digni efficiámur promissiónibus Christi.
 
 [Oratio Completorium]
-v. Beátæ et gloriósæ semper Vírginis Maríæ, quǽsumus, Dómine, intercéssio gloriósa nos prótegat, et ad vitam perdúcat ætérnam.
+Beátæ et gloriósæ semper Vírginis Maríæ, quǽsumus, Dómine, intercéssio gloriósa nos prótegat, * et ad vitam perdúcat ætérnam.
 $Per Dominum

@@ -45,7 +45,7 @@ R. Et constituísti eum super ópera mánuum tuárum.
 Iste Sanctus * pro lege Dei sui certávit usque ad mortem, et a verbis impiórum non tímuit: fundátus enim erat supra firmam petram.
 
 [Oratio]
-Infirmitátem nostram réspice, omnípotens Deus: et, quia pondus própriæ actiónis gravat, beáti N. Mártyris tui atque Pontíficis intercéssio gloriósa nos prótegat.
+Infirmitátem nostram réspice, omnípotens Deus:  † et, quia pondus própriæ actiónis gravat, * beáti N. Mártyris tui atque Pontíficis intercéssio gloriósa nos prótegat.
 $Per Dominum
 
 [Invit]
@@ -134,7 +134,7 @@ R. Qui minas júdicum non tímuit, nec terrénæ dignitátis glóriam quæsívit
 
 [Capitulum Laudes]
 !Jac 1:12
-v. Beátus vir, qui suffert tentatiónem: quóniam cum probátus fúerit, accípiet corónam vitæ, quam repromísit Deus diligéntibus se.
+Beátus vir, qui suffert tentatiónem: † quóniam cum probátus fúerit, accípiet corónam vitæ, * quam repromísit Deus diligéntibus se.
 $Deo gratias
 
 [Hymnus Laudes]
@@ -168,7 +168,7 @@ Qui odit * ánimam suam in hoc mundo, in vitam ætérnam custódit eam.
 
 [Lectio Prima]
 !Sir 39:6
-v. Justus cor suum trádidit ad vigilándum dilúculo ad Dóminum, qui fecit illum, et in conspéctu Altíssimi deprecábitur.
+Justus cor suum trádidit ad vigilándum dilúculo ad Dóminum, qui fecit illum, * et in conspéctu Altíssimi deprecábitur.
 
 [Responsory Breve Tertia]
 R.br. Glória et honóre * Coronásti eum, Dómine.
@@ -180,7 +180,7 @@ R. Glória et honóre * Coronásti eum, Dómine.
 
 [Capitulum Sexta]
 !Sir 15:3
-v. Cibávit illum pane vitæ et intelléctus, et aqua sapiéntiæ salutáris potávit illum Dóminus Deus noster.
+Cibávit illum pane vitæ et intelléctus, † et aqua sapiéntiæ salutáris * potávit illum Dóminus Deus noster.
 $Deo gratias
 
 [Responsory Breve Sexta]

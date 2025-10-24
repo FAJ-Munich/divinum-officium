@@ -80,7 +80,7 @@ R. Stolam glóriæ índuit eum.
 {name:Sacerdos et Pontifex;office-part:Antiphona;tone:1D;annotation:1.D;book:Liber antiphonarius, 1960, p. [55] & Liber antiphonarius, 1960, p. 577.15 & Liber antiphonarius, 1960, p. 81star;transcriber:Andrew Hinkley;%%(c4) SA(d)cér(dd)dos(c) et(d) Pón(f_g)ti(d)fex,(d_fddc.) *(,) et(f') vir(g)tú(h)tum(g') ó(h)pi(gf)fex,(f.) (;) pa(h)stor(g') bo(h)ne(g') in(f) pó(fe)pu(fg)lo:(gvF'_ED.) (;) o(dd)ra(c) pro(d') no(f)bis(fgf) Dó(d)mi(cd)num.(d.) (::)};;1D
 
 [Oratio]
-v. Da, quǽsumus, omnípotens Deus: ut beáti N. Confessóris tui atque Pontíficis veneránda solémnitas, et devotiónem nobis áugeat et salútem.
+Da, quǽsumus, omnípotens Deus: † ut beáti N. Confessóris tui atque Pontíficis veneránda solémnitas, * et devotiónem nobis áugeat et salútem.
 $Per Dominum.
 
 [Invit]
@@ -158,7 +158,7 @@ R. Et vos símiles homínibus exspectántibus dóminum suum, quando revertátur 
 
 [Capitulum Laudes]
 !Sir 44:16-17
-v. Ecce sacérdos magnus, qui in diébus suis plácuit Deo, et invéntus est justus: et in témpore iracúndiæ factus est reconciliátio.
+Ecce sacérdos magnus, † qui in diébus suis plácuit Deo, et invéntus est justus: * et in témpore iracúndiæ factus est reconciliátio.
 $Deo gratias
 
 [Hymnus Laudes]
@@ -201,7 +201,7 @@ Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te c
 
 [Lectio Prima]
 !Sir 45:19-20
-v. Fungi sacerdótio, et habére laudem in nómine ipsíus, et offérre illi incénsum dignum in odórem suavitátis.
+Fungi sacerdótio, † et habére laudem in nómine ipsíus, * et offérre illi incénsum dignum in odórem suavitátis.
 
 [Responsory Breve Tertia]
 R.br. Amávit eum Dóminus, * Et ornávit eum.
@@ -213,7 +213,7 @@ R. Amávit eum Dóminus, * Et ornávit eum.
 
 [Capitulum Sexta]
 !Sir 44:20; 44:22
-v. Non est invéntus símilis illi, qui conserváret legem Excélsi: ídeo jurejurándo fecit illum Dóminus créscere in plebem suam.
+Non est invéntus símilis illi, † qui conserváret legem Excélsi: * ídeo jurejurándo fecit illum Dóminus créscere in plebem suam.
 $Deo gratias
 
 [Responsory Breve Sexta]

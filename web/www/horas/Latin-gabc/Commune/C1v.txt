@@ -6,5 +6,5 @@ $Per Dominum
 @:Oratio 1 loco:s/(Apóstoli tui)/$1 et Evangelístæ/
 
 [Oratio 2 loco]
-Quǽsumus omnípotens Deus, ut beátus N. Apóstolus, cujus prævenímus festivitátem, tuum pro nobis implóret auxílium: ut a nostris reátibus absolúti a cunctis étiam perículis eruámur.
+Quǽsumus omnípotens Deus, † ut beátus N. Apóstolus, cujus prævenímus festivitátem, tuum pro nobis implóret auxílium: * ut a nostris reátibus absolúti a cunctis étiam perículis eruámur.
 $Per Dominum

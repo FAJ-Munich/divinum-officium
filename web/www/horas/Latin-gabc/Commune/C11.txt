@@ -18,7 +18,7 @@ R. Da mihi virtútem contra hostes tuos.
 Sancta María, * succúrre míseris, juva pusillánimes, réfove flébiles, ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu: séntiant omnes tuum juvámen, quicúmque célebrant tuam sanctam festivitátem.
 
 [Oratio]
-Concéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: et, gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia.
+Concéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: † et, gloriósa beátæ Maríæ semper Vírginis intercessióne, * a præsénti liberári tristítia, et ætérna pérfrui lætítia.
 $Per Dominum
 
 [Invit]
@@ -120,7 +120,7 @@ R/. Ut(h) dig(h)ni(h) ef(h)fi(h)ci(h)á(h)mur(h) pro(h)mis(h)si(h)ó(h)ni(h)bus(
 
 [Capitulum Laudes]
 !Sir 24:14
-v. Ab inítio et ante sǽcula creáta sum, et usque ad futúrum sǽculum non désinam, et in habitatióne sancta coram ipso ministrávi.
+Ab inítio et ante sǽcula creáta sum, † et usque ad futúrum sǽculum non désinam, * et in habitatióne sancta coram ipso ministrávi.
 $Deo gratias.
 
 [Hymnus Laudes]
@@ -171,11 +171,11 @@ Beáta es, * María, quæ credidísti: perficiéntur in te, quæ dicta sunt tibi
 
 [Lectio Prima]
 !Sir 24:19-20
-v. In platéis sicut cinnamómum et bálsamum aromatízans odórem dedi: quasi myrrha elécta, dedi suavitátem odóris.
+In platéis sicut cinnamómum et bálsamum aromatízans odórem dedi: † quasi myrrha elécta, * dedi suavitátem odóris.
 
 [Capitulum Sexta]
 !Sir 24:15-16
-v. Et sic in Sion firmáta sum, et in civitáte sanctificáta simíliter requiévi, et in Jerúsalem potéstas mea. Et radicávi in pópulo honorificáto, et in parte Dei mei heréditas illíus, et in plenitúdine sanctórum deténtio mea.
+Et sic in Sion firmáta sum, et in civitáte sanctificáta simíliter requiévi, et in Jerúsalem potéstas mea. † Et radicávi in pópulo honorificáto, et in parte Dei mei heréditas illíus, * et in plenitúdine sanctórum deténtio mea.
 $Deo gratias.
 
 [Ant 3]

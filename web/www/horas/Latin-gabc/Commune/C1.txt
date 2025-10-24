@@ -179,7 +179,7 @@ R. Quorum doctrína fulget Ecclésia, ut sole luna.
 
 [Capitulum Laudes]
 !Eph 2:19-20
-v. Fratres: Jam non estis hóspites et ádvenæ: sed estis cives Sanctórum et doméstici Dei: superædificáti super fundaméntum Apostolórum, et Prophetárum, ipso summo angulári lápide Christo Jesu.
+Fratres: Jam non estis hóspites et ádvenæ: † sed estis cives Sanctórum et doméstici Dei: superædificáti super fundaméntum Apostolórum, et Prophetárum, * ipso summo angulári lápide Christo Jesu.
 $Deo gratias
 
 [Versum 2]
@@ -191,7 +191,7 @@ Vos qui reliquístis * ómnia, et secúti estis me, céntuplum accipiétis, et v
 
 [Lectio Prima]
 !Act 5:41
-v. Ibant Apóstoli gaudéntes a conspéctu concílii, quóniam digni hábiti sunt pro nómine Jesu contuméliam pati.
+Ibant Apóstoli gaudéntes a conspéctu concílii, * quóniam digni hábiti sunt pro nómine Jesu contuméliam pati.
 
 [Responsory Breve Tertia]
 R.br. In omnem terram * Exívit sonus eórum.
@@ -203,7 +203,7 @@ R. In omnem terram * Exívit sonus eórum.
 
 [Capitulum Sexta]
 !Act 5:12
-v. Per manus autem Apostolórum fiébant signa et prodígia multa in plebe.
+Per manus autem Apostolórum * fiébant signa et prodígia multa in plebe.
 $Deo gratias
 
 [Responsory Breve Sexta]

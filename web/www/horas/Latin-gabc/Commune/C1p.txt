@@ -136,7 +136,7 @@ R. Et sicut lac coaguláti sunt, allelúja, allelúja.
 
 [Capitulum Laudes]
 !Sap 5:1
-{(c3) Sta(h)bunt(h) jus(h)ti(h) in(h) ma(h)gna(h) con(h)stán(h)ti(h)a(h) ad(h)vér(h)sus(h) e(h)os,(h) qui(h) se(h) an(h)gus(h)ti(h)a(h)vé(h)runt,(h) et(h) qui(h) abs(h)tu(h)lé(h)runt(h) la(h)bó(h)res(h) e(h)ó(f)rum.(ef..) (::)}
+{(c3) Sta(h)bunt(h) jus(h)ti(h) in(h) ma(h)gna(h) con(h)stán(h)ti(h)a(f.) †(,) ad(h)vér(h)sus(h) e(h)os,(h) qui(h) se(h) an(h)gus(h)ti(g)a(f)vé(h)runt,(h.) *(;)  et(h) qui(h) abs(h)tu(h)lé(h)runt(h) la(h)bó(h)res(h) e(h)ó(f)rum.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -180,14 +180,14 @@ Fíliæ Jerúsalem, * veníte et vidéte Mártyres cum corónis, quibus coronáv
 
 [Lectio Prima]
 !Rom 8:28
-v. Scimus quóniam diligéntibus Deum ómnia cooperántur in bonum, iis qui secúndum propósitum vocáti sunt sancti.
+Scimus quóniam diligéntibus Deum † ómnia cooperántur in bonum, * iis qui secúndum propósitum vocáti sunt sancti.
 
 [Responsory Breve Tertia]
 R.br. {gabc:Commune/C1/rb--sancti_et_justi--solesmes_1934}
 
 [Capitulum Sexta]
 !Sap. 5:5
-v. Ecce quómodo computáti sunt inter fílios Dei, et inter sanctos sors illórum est.
+Ecce quómodo computáti sunt inter fílios Dei, * et inter sanctos sors illórum est.
 $Deo gratias
 
 [Responsory Breve Sexta]
