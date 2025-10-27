@@ -88,6 +88,7 @@ sub Gloria : ScriptFunc {
   my $lang = shift;
   if (triduum_gloria_omitted()) { return ""; }
   if ($rule =~ /Requiem gloria/i) { return prayer('Requiem', $lang); }
+  if ($lang eq 'Latin-gabc' && $hora =~ /Prima/) { return prayer('Gloria in directum', $lang); }
   return prayer('Gloria', $lang);
 }
 

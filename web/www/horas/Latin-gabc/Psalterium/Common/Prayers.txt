@@ -12,7 +12,7 @@ R/. Et(h) a(h)vér(h)te(h) i(h)ram(h) tu(h)am(g) a(f) no(h)bis.(h.) (::)}
 [Dominus det]
 {initial-style:0;%%(c3)V/. Dó(d)mi(d)nus(d) det(d) no(d)bis(d) su(d)am(d) pa(d)cem.(d.) (::) R/. Et(d) vi(d)tam(d) æ(d)tér(d)nam.(d) A(d)men.(d.) (::)}
 
-[Gloria]
+[Gloria in directum]
 {initial-style:0;%%(c3) V/. Gló(h)ri(h)a(h) Pa(h)tri,(g) et(f) Fí(h)li(hr)o,(h.) *(:) et(h) Spi(h)rí(h)tu(h)i(h) Sanc(h)to.(f.) (::) R/. Sic(h)ut(h) e(h)rat(h) in(h) prin(h)cí(h)pi(h)o,(h) et(h) nunc,(g) et(f) sem(h hr)per,(h.) *(:) et(h) in(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(h) A(h)men.(f.) (::)}
 
 [Gloria1]
@@ -77,6 +77,10 @@ R/. Et(h) cla(i)mor(i) me(i)us(h) ad(h) te(h) vé(i)ni(i)at.(i.) (::)}
 
 [domine exaudi solemnis]
 @:Dominus solemnis:3-4
+
+[Domine exaudi sine cantu]
+V. Dómine, exáudi oratiónem meam.
+R. Et clamor meus ad te véniat.
 
 [Domine labia]
 {(c3) DO(h)mi(h)ne,(h'_) lá(h)bi(h)a(h) ^+︎^ me(h)a(h) a(h)pé(g)ri(h)es.(h.) (::) <sp>R/</sp>. Et(h) os(h) me(h)um(h) an(h)nun(h)ti(h)á(h)bit(h) lau(h)dem(h) tu(g)am.(h.) (::)}

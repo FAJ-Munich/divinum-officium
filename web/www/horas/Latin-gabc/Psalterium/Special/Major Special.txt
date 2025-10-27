@@ -715,3 +715,11 @@ $Per Dominum solemnis
 _
 $Oremus solemnis
 {(c4) Con(g)cé(h)de(h) nos(h) fá(h)mu(h)los(h) tu(h)os,(h) (,) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne(h) De(h)us,(h) (,) per(h)pé(h)tu(h)a(h) men(h)tis(h) et(h) cór(h)po(h)ris(h) sa(h)ni(h)tá(h)te(h) gau(h)dé(h)re:(g.) *(;) et,(g) glo(h)ri(h)ó(h)sa(h) be(h)á(h)tæ(h) Ma(h)rí(h)æ(h) sem(h)per(h) Vír(h)gi(h)nis(h) in(h)ter(h)ces(h)si(h)ó(h)ne,(h.) (;) a(h) præ(h)sén(h)ti(h) li(h)be(h)rá(h)ri(h) tris(h)tí(h)ti(h)a,(h) (,) et(h) æ(h)tér(h)na(h) pér(h)fru(h)i(g) læ(g)tí(h)ti(h)a.(h.) (::)}
+
+[Preces feriales Laudes]
+$Preces feriales Laudes
+$Domine exaudi sine cantu
+
+[Preces feriales Vespera]
+$Preces feriales Vespera
+$Domine exaudi sine cantu
