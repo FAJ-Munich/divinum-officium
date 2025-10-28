@@ -319,8 +319,7 @@ $Amen
 {initial-style:0;%%(c3)V/. Di(e)ví(e)num(e) au(e)xí(e)li(e)um(e) ^✠^ má(e)ne(e)at(e) sem(e)per(e) no(e)bís(e)cum.(e.) (::) R/. A(e)men.(e.) (::)}
 
 [Divinum auxilium] (rubrica monastica)
-/:Si descendendum sit a choro, concluditur dicendo.:/
-(sed rubrica cisterciensis omittitur)
+(rubrica 1963)/:Si descendendum sit a choro, concluditur dicendo.:/
 {initial-style:0;%%(c3)V/. Di(d)ví(d)num(d) au(d)xí(d)li(d)um(d) ^✠^ má(d)ne(d)at(d) sem(d)per(d) no(d)bís(d)cum.(d.) (::)} 
 {initial-style:0;%%(c3)R/. Et(d) cum(d) frá(d)tri(d)bus(d) nos(d)tris(d) ab(d)sén(d)ti(d)bus.(d) A(d)men.(d.) (::)}
 (sed rubrica cisterciensis)
