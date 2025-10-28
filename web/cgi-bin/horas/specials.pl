@@ -750,7 +750,10 @@ sub checksuffragium {
     || $version =~ /altovadensis/i && $collectcount > 2
 
     # Altovadensis: limit at xij. Lect. et M.
-    || $version =~ /altovadensis/i && $rank > 2.5;
+    || $version =~ /altovadensis/i && $rank > 2.5
+
+    # Officium parvum
+    || $winner =~ /C12/;
 
   if ($commemoratio) {
     my @r = split(';;', $commemoratio{Rank});

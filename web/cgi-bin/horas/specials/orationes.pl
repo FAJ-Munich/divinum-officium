@@ -594,6 +594,8 @@ sub oratio {
   foreach my $key (sort keys %cc) {
     if (length($s[-1]) > 3) { push(@s, '_'); }
 
+    $cc{$key} =~ s/^v\.\s*\{/\{/m if $lang eq 'Latin-gabc';
+
     if ($key >= 900) {
       my $ostr;
       ($ostr, $addconclusio) = delconclusio($cc{$key}, $addconclusio);

@@ -6,3 +6,8 @@ R. Et gloriámini, omnes recti corde.
 $Oremus
 Infirmitátem nostram, quæsumus, Dómine, propítius réspice: et mala ómnia quæ juste merémur, ómnium Sanctórum tuórum intercessióne avérte. Per Christum Dóminum nostrum.
 R. Amen
+
+[Ant Laudes]
+@Commune/C12::s/(.*);;;;/$1;;148;;/s
+(sed rubrica cisterciensis)
+@Sancti/01-01:Ant Vespera:1 s/;;.*//
