@@ -124,47 +124,10 @@ R/. Ut(h) dig(h)ni(h) ef(h)fi(h)ci(h)á(h)mur(h) pro(h)mis(h)si(h)ó(h)ni(h)bus(
 $Deo gratias
 
 [Hymnus Laudes]
-{:Ogloriosavirginum:}v. O gloriósa vírginum,
-Sublímis inter sídera,
-Qui te creávit, párvulum
-Lacténte nutris úbere.
-_
-Quod Heva tristis ábstulit,
-Tu reddis almo gérmine:
-Intrent ut astra flébiles,
-Cæli reclúdis cárdines.
-_
-Tu Regis alti jánua
-Et aula lucis fúlgida:
-Vitam datam per Vírginem,
-Gentes redémptæ, pláudite.
-_
-* Jesu tibi sit glória,
-Qui natus es de Vírgine,
-Cum Patre, et almo Spíritu,
-In sempitérna sǽcula.
-Amen.
+{gabc:Commune/C11/hy--o_gloriosa_virginum--solesmes_1961.1}
 
 [HymnusM Laudes]
-v. O gloriósa Dómina,
-Excélsa super sídera:
-Qui te creávit, próvide
-Lactásti sacro úbere.
-_
-Quod Heva tristis ábstulit,
-Tu reddis almo gérmine:
-Intrent ut astra flébiles,
-Cæli fenéstra facta es.
-_
-Tu Regis alti jánua,
-Et porta lucis fúlgida:
-Vitam datam per Vírginem,
-Gentes redémptæ, pláudite.
-_
-Glória tibi Dómine,
-Qui natus es de Vírgine,
-Cum Patr[e] et Sancto Spíritu,
-In sempitérna sǽcula. Amen.
+{gabc:Commune/C11/hy--o_gloriosa_domina--solesmes_1934}
 
 [Ant 2]
 Beáta es, * María, quæ credidísti: perficiéntur in te, quæ dicta sunt tibi a Dómino, allelúja.

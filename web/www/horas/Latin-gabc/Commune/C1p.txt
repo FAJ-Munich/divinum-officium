@@ -48,6 +48,8 @@ Amen.
 {gabc:Commune/C1/hy--tristes_erant_apostoli--solesmes_1934}
 (sed tempore Ascensionis)
 {gabc:Commune/C1/hy--tristes_erant_apostoli-Ascensionis-solesmes_1934}
+(sed tonus BMV)
+{gabc:Commune/C1/hy--tristes_erant_apostoli-octava BMV-solesmes_1934}
 
 [Versum 1]
 {initial-style:0;%%(c3) V/. San(h)cti(h) et(h) jus(h)ti(h) in(h) Dó(h)mi(h)no(h) gau(h)dé(h)te,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
@@ -134,40 +136,27 @@ R. Et sicut lac coaguláti sunt, allelúja, allelúja.
 &Gloria
 R. Et sicut lac coaguláti sunt, allelúja, allelúja.
 
+[Ant Laudes]
+@:Ant Vespera:s/;;\d+;;/;;;;/
+
 [Capitulum Laudes]
 !Sap 5:1
 {(c3) Sta(h)bunt(h) jus(h)ti(h) in(h) ma(h)gna(h) con(h)stán(h)ti(h)a(f.) †(,) ad(h)vér(h)sus(h) e(h)os,(h) qui(h) se(h) an(h)gus(h)ti(g)a(f)vé(h)runt,(h.) *(;)  et(h) qui(h) abs(h)tu(h)lé(h)runt(h) la(h)bó(h)res(h) e(h)ó(f)rum.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
-{:H-Paschalemundogaudium:}v. Paschále mundo gáudium
-Sol núntiat formósior,
-Cum luce fulgéntem nova
-Jesum vident Apóstoli.
-_
-In carne Christi vúlnera
-Micáre tamquam sídera
-Mirántur, et quidquid vident
-Testes fidéles prǽdicant.
-_
-Rex Christe clementíssime,
-Tu corda nostra pósside:
-Ut lingua grates débitas
-Tuo repéndat nómini.
-_
-Ut sis perénne méntibus
-Paschále Jesu gáudium;
-A morte dira críminum
-Vitæ renátos líbera.
-_
-* Deo Patri sit glória,
-Et Fílio, qui a mórtuis
-Surréxit, ac Paráclito,
-In sempitérna sǽcula.
-Amen.
+{gabc:Commune/C1/hy--paschale_mundo_gaudium--solesmes}
+(sed tempore ascensionis nisi rubrica 1960)
+{gabc:Commune/C1/hy--paschale_mundo_gaudium_in_ascensione--}
+(sed tonus BMV)
+{gabc:Commune/C1/hy--paschale_mundo_gaudium_octava BMV--}
 
 [HymnusM Laudes]
 {gabc:Commune/C1/hy--claro_paschali_gaudio--solesmes_1934}
+(sed tempore ascensionis nisi rubrica 1960)
+{gabc:Commune/C1/hy--claro_paschali_gaudio-ascensio-solesmes_1934}
+(sed tonus BMV)
+{gabc:Commune/C1/hy--claro_paschali_gaudio-octava BMV-solesmes_1934}
 
 [Versum 2]
 {initial-style:0;%%(c3) V/. Pre(h)ti(h)ó(h)sa(h) in(h) con(h)spé(h)ctu(h) Dó(h)mi(h)ni,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)

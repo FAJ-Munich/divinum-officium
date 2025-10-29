@@ -1882,7 +1882,7 @@ sub setChantTone {
   my $rank = $latrank[2];
 
   # read only globals
-  our (%winner, $winner, @dayname, $version, $day, $month, $year, $dayofweek, $hora, $rule, $commune);
+  our (%winner, $winner, @dayname, $version, $day, $month, $year, $dayofweek, $hora, $rule, $commune, @commemoentries);
 
   our $chantTone = 'ferialis';
 
@@ -1977,8 +1977,8 @@ sub setChantTone {
     }
   }
 
-  if (($commune =~ /C11/i || $name =~ /(?:Beat|Sanct)(?:ae|æ) Mari/ && $name !~ /Vigil|Sabbato/i)
-    && $chantTone !~ /solemnis/i)
+  my $commemostring = join('\n', @commemoentries);
+  if (($commune =~ /C11/i || ($name =~ /(?:Beat|Sanct)(?:ae|æ) Mari/ && $name !~ /Vigil|Sabbato/i) || $commemostring =~ /bmv/) && $chantTone !~ /solemnis/i)
   {
     $chantTone = 'festivus BMV';
   } elsif ($winner =~ /tempora/i && $dayname[0] =~ /Pasc/i && $chantTone =~ /ferialis/i) {

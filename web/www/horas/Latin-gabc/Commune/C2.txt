@@ -138,26 +138,41 @@ R. Qui minas júdicum non tímuit, nec terrénæ dignitátis glóriam quæsívit
 $Deo gratias
 
 [Hymnus Laudes]
-{:H-Invictemartyrunicum:}v. Invícte Martyr, únicum
-Patris secútus Fílium,
-Victis triúmphas hóstibus,
-Victor fruens cæléstibus.
-_
-Tui precátus múnere
-Nostrum reátum dílue,
-Arcens mali contágium,
-Vitæ repéllens tǽdium.
-_
-Solúta sunt jam víncula
-Tui sacráti córporis:
-Nos solve vinclis sǽculi,
-Dono supérni Núminis.
-_
-* Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc, et per omne sǽculum.
-Amen.
+{gabc:Commune/C2/hy--invicte_martyr_unicum--solesmes}
+(sed tempore Cordis nisi rubrica 1960)
+{gabc:Commune/C2/hy--invicte_martyr_unicum-octava Cordis-solesmes}
+(sed tonus BMV nisi rubrica 1960 aut tempore Corpus nisi rubrica 1960)
+{gabc:Commune/C2/hy--invicte_martyr_unicum-octava BMV-solesmes}
+
+[Hymnus Laudes] (tempore paschali aut tempore ascensionis)
+{gabc:Commune/C2/hy--invicte_martyr_unicum_temp._pasch.--solesmes}
+(sed tempore ascensionis)
+{gabc:Commune/C2/hy--invicte_martyr_unicum_in_ascensione--}
+(sed tonus BMV)
+{gabc:Commune/C2/hy--invicte_martyr_unicum_temp._pasch.-octava BMV-solesmes}
+(sed rubrica 1960)
+{gabc:Commune/C2/hy--invicte_martyr_unicum_temp._pasch.--solesmes-1960}
+
+[Hymnus Laudes] (tempore nativitatis)
+{gabc:Commune/C2/hy--invicte_martyr_unicum_pro_s._stephano--solesmes}
+(sed rubrica 1960)
+{gabc:Commune/C2/hy--invicte_martyr_unicum_pro_s._stephano--solesmes-1960}
+
+[HymnusM Laudes]
+{gabc:Commune/C2/hy--martyr_dei_qui_unicum--solesmes_1934}
+(sed tempore Cordis)
+{gabc:Commune/C2/hy--martyr_dei_qui_unicum-octava Cordis-solesmes_1934}
+(sed tempore Corpus aut tonus BMV)
+{gabc:Commune/C2/hy--martyr_dei_qui_unicum-octava BMV-solesmes_1934}
+(sed tempore nativitatis)
+{gabc:Commune/C2/hy--martyr_dei_qui_unicum-S. Stephano-solesmes_1934}
+
+[HymnusM Laudes] (tempore paschali aut tempore ascensionis)
+{gabc:Commune/C2/hy--martyr_dei_qui_unicum-TP-solesmes_1934}
+(sed tempore ascensionis)
+{gabc:Commune/C2/hy--martyr_dei_qui_unicum-TA-solesmes_1934}
+(sed tonus BMV)
+{gabc:Commune/C2/hy--martyr_dei_qui_unicum-TP-octava BMV-solesmes_1934}
 
 [Versum 2]
 {initial-style:0;%%(c3) V/. Jus(h)tus(h) ut(h) pal(h)ma(h) flo(h)ré(h hr)bit.(g_'/hvGFEfgf.) (::)

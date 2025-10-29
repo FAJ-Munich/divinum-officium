@@ -162,34 +162,41 @@ R. Et vos símiles homínibus exspectántibus dóminum suum, quando revertátur 
 $Deo gratias
 
 [Hymnus Laudes]
-{:H-Jesuredemptoromnium:}v. Jesu Redémptor ómnium,
-Perpes coróna Prǽsulum,
-In hac die cleméntius
-Indúlgeas precántibus.
-_
-Tui sacri qua nóminis
-Conféssor almus cláruit:
-Hujus celébrat ánnua
-Devóta plebs solémnia.
-_
-Qui rite mundi gáudia
-Hujus cadúca réspuens,
-Æternitátis prǽmio
-Potítur inter Ángelos.
-_
-Hujus benígnus ánnue
-Nobis sequi vestígia:
-Hujus precátu, sérvulis
-Dimítte noxam críminis.
-_
-* Sit Christe, Rex piíssime,
-Tibi, Patríque glória,
-Cum Spíritu Paráclito,
-Nunc, et per omne sǽculum.
-Amen.
+{gabc:Commune/C4/hy--jesu_redemptor_omnium_com._con._pont.--solesmes}
+(sed tempore Cordis nisi rubrica 1960)
+{gabc:Commune/C4/hy--jesu_redemptor_omnium_com._con._pont.-octava Cordis-solesmes}
+(sed tonus BMV nisi rubrica 1960 aut tempore Corpus nisi rubrica 1960)
+{gabc:Commune/C4/hy--jesu_redemptor_omnium_com._con._pont.-octava BMV-solesmes}
+
+[Hymnus Laudes] (tempore paschali aut tempore ascensionis)
+{gabc:Commune/C4/hy--jesu_redemptor_omnium_in_tempore_paschali--}
+(sed tempore ascensionis)
+{gabc:Commune/C4/hy--jesu_redemptor_omnium_in_ascensione--}
+(sed tonus BMV)
+{gabc:Commune/C4/hy--jesu_redemptor_omnium_in_tempore_paschali--octava BMV}
+(sed rubrica 1960)
+{gabc:Commune/C4/hy--jesu_redemptor_omnium_in_tempore_paschali--1960}
+
+[Hymnus Laudes] (tempore nativitatis)
+{gabc:Commune/C4/hy--jesu_redemptor_omnium_pont._pro_s._silvestro--solesmes}
+(sed rubrica 1960)
+{gabc:Commune/C4/hy--jesu_redemptor_omnium_pont._pro_s._silvestro--solesmes-1960}
 
 [HymnusM Laudes]
-@:Hymnus Laudes:s/Indúlgeas precántibus/Nostris favéto précibus/ s/Æternitátis prǽmio/Cum Ángelis cæléstibus/ s/Potítur inter Ángelos/Lætus potítur prǽmiis/ s/Nunc, et per omne sǽculum/Et nunc, et in perpétuum/
+{gabc:Commune/C4/hy--jesu_redemptor_omnium--solesmes_1934}
+(sed tempore Cordis)
+{gabc:Commune/C4/hy--jesu_redemptor_omnium-octava Cordis-solesmes_1934}
+(sed tempore Corpus aut tonus BMV)
+{gabc:Commune/C4/hy--jesu_redemptor_omnium-octava BMV-solesmes_1934}
+(sed tempore nativitatis)
+{gabc:Commune/C4/hy--jesu_redemptor_omnium_s.silvestro--solesmes_1934}
+
+[HymnusM Laudes] (tempore paschali aut tempore ascensionis)
+{gabc:Commune/C4/hy--jesu_redemptor_omnium_t._paschali--solesmes_1934}
+(sed tempore ascensionis)
+{gabc:Commune/C4/hy--jesu_redemptor_omnium_t._ascensio--solesmes_1934}
+(sed tonus BMV)
+{gabc:Commune/C4/hy--jesu_redemptor_omnium_t._paschali-octava BMV-solesmes_1934}
 
 [Versum 2]
 {initial-style:0;%%(c3) V/. Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas.(g_'/hvGF'Efgf.) (::) R/. Et(h) os(h)tén(h)dit(h) il(h)li(h) reg(h)num(h) De(h)i.(g_'/hvGF'Efgf.) (::)}

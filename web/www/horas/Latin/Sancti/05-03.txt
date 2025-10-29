@@ -206,7 +206,7 @@ v. Humiliávit semetípsum factus obédiens usque ad mortem, mortem autem Crucis
 @:Ant Matutinum:4 s/V./R.br./ s/\, al.*/./
 @:Ant Matutinum:4 s/V./R./ s/\, al.*/./
 @:Ant Matutinum:5 s/R./V./ s/\, al.*/./
-@Psalterium/Prayers:Alleluia Duplex: s/^/R. /
+@Psalterium/Common/Prayers:Alleluia Duplex: s/^/R. /
 &Gloria
 @:Ant Matutinum:4 s/V./R./ s/\, al.*/./
 _
@@ -222,7 +222,7 @@ $Deo gratias
 @:Ant Matutinum:9 s/V./R.br./ s/\, al.*/./
 @:Ant Matutinum:9 s/V./R./ s/\, al.*/./
 @:Ant Matutinum:10 s/R./V./ s/\, al.*/./
-@Psalterium/Prayers:Alleluia Duplex: s/^/R. /
+@Psalterium/Common/Prayers:Alleluia Duplex: s/^/R. /
 &Gloria
 @:Ant Matutinum:9 s/V./R./ s/\, al.*/./
 _
@@ -237,7 +237,7 @@ $Deo gratias
 @:Ant Matutinum:14 s/V./R.br./ s/\, al.*/./
 @:Ant Matutinum:14 s/V./R./ s/\, al.*/./
 @:Ant Matutinum:15 s/R./V./ s/\, al.*/./
-@Psalterium/Prayers:Alleluia Duplex: s/^/R. /
+@Psalterium/Common/Prayers:Alleluia Duplex: s/^/R. /
 &Gloria
 @:Ant Matutinum:14 s/V./R./ s/\, al.*/./
 _

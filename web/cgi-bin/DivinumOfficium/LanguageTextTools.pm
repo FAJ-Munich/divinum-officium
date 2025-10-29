@@ -54,9 +54,9 @@ sub process_inline_alleluias {
 
   if ($lang =~ /gabc/i) {
     if ($paschalf) {
-      $$text_ref =~ s/†.*?\s?(\<i\>|\_|\^|\|)*?T\.\s?P\.(\<\/i\>|\_|\^|\|)*?.s?†/ /img;
+      $$text_ref =~ s/†.*?\s?(\<i\>|\_|\^|\|)+T\.\s?P\.(\<\/i\>|\_|\^|\|)+(\s*†)?/ /img;
     } else {
-      $$text_ref =~ s/\s*(\<\/i\>|\_|\^|\|)+T\.\s?P\.(\<\/i\>|\_|\^|\|)+.*?\(\:\:\)//img;
+      $$text_ref =~ s/(?:†(.*?))?\s*(\<\/i\>|\_|\^|\|)+T\.\s?P\.(\<\/i\>|\_|\^|\|)+.*?\(\:\:\)/$1/img;
     }
   } elsif ($paschalf) {
     $$text_ref =~ s/\(($alleluia_regexp.*?)\)/ $1 /isg;
