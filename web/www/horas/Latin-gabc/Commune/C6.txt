@@ -6,34 +6,34 @@ Veni, elécta mea, * et ponam in te thronum meum, allelúja.;;126
 Ista est speciósa * inter fílias Jerúsalem.;;147
 
 [Hymnus Vespera]
-{:H-Jesucoronavirginum:}v. Jesu, coróna Vírginum,
-Quem Mater illa cóncipit
-Quæ sola Virgo párturit,
-Hæc vota clemens áccipe:
-_
-Qui pergis inter lília
-Septus choréis Vírginum,
-Sponsus decórus glória
-Sponsísque reddens prǽmia.
-_
-Quocúmque tendis, Vírgines
-Sequúntur, atque láudibus
-Post te canéntes cúrsitant,
-Hymnósque dulces pérsonant;
-_
-Te deprecámur súpplices,
-Nostris ut addas sénsibus
-Nescíre prorsus ómnia
-Corruptiónis vúlnera.
-_
-* Virtus, honor, laus, glória
-Deo Patri cum Fílio,
-Sancto simul Paráclito,
-In sæculórum sǽcula.
-Amen.
+{gabc:Commune/C6/hy--jesu_corona_virginum--solesmes_1961.1}
+(sed tempore Cordis nisi rubrica 1960)
+{gabc:Commune/C6/hy--jesu_corona_virginum-octava Cordis-solesmes}
+(sed tonus BMV nisi rubrica 1960 aut tempore Corpus nisi rubrica 1960)
+{gabc:Commune/C6/hy--jesu_corona_virginum-octava BMV-solesmes}
+
+[Hymnus Vespera] (tempore paschali aut tempore ascensionis)
+{gabc:Commune/C6/hy--jesu_corona_virginum_in_tempore_paschali--solesmes_1961.1}
+(sed tempore ascensionis)
+{gabc:Commune/C6/hy--jesu_corona_virginum_in_tempore_ascensionis-solesmes}
+(sed tonus BMV)
+{gabc:Commune/C6/hy--jesu_corona_virginum_in_tempore_paschali-octava BMV-solesmes}
+(sed rubrica 1960)
+{gabc:Commune/C6/hy--jesu_corona_virginum_in_tempore_paschali--solesmes-1960}
 
 [HymnusM Vespera]
-@:Hymnus Vespera:s/pergis/pascis/ s/tendis/pergis/ s/súpplices/lárgius/ s/ut addas/adáuge/ s/Virtus, honor, laus/Laus, honor, virtus/ s/cum/et/
+{gabc:Commune/C6/hy--jesu_corona_virginum--solesmes_1934}
+(sed tempore Cordis)
+{gabc:Commune/C6/hy--jesu_corona_virginum-octava Cordis-solesmes_1934}
+(sed tempore Corpus aut tonus BMV)
+{gabc:Commune/C6/hy--jesu_corona_virginum-octava BMV-solesmes_1934}
+
+[HymnusM Vespera] (tempore paschali aut tempore ascensionis)
+{gabc:Commune/C6/hy--jesu_corona_virginum_in_tempore_paschali--solesmes_1934}
+(sed tempore ascensionis)
+{gabc:Commune/C6/hy--jesu_corona_virginum_in_tempore_ascensionis--solesmes_1934}
+(sed tonus BMV)
+{gabc:Commune/C6/hy--jesu_corona_virginum_in_tempore_paschali-octava BMV--solesmes_1934}
 
 [Versum 1]
 {initial-style:0;%%(c3) V/. Spé(h)ci(h)e(h) tu(h)a(h) et(h) pul(h)chri(h)tú(h)di(h)ne(h) tu(h)a.(g_'/hvGF'E!fgf.) R/.(::) In(h)tén(h)de,(h) prós(h)pe(h)re(h) pro(h)cé(h)de,(h) et(h) reg(h)na.(g_'/hvGF'E!fgf.) (::)}

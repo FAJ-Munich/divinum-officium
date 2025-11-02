@@ -1,62 +1,8 @@
-[Hymnus Vespera]
-{:H-Isteconfessor:}v. Iste Conféssor Dómini, coléntes
-Quem pie laudant pópuli per orbem,
-Hac die lætus méruit beátas
-Scándere sedes.
-_
-Qui pius, prudens, húmilis, pudícus,
-Sóbriam duxit sine labe vitam,
-Donec humános animávit auræ
-Spíritus artus.
-_
-Cujus ob præstans méritum, frequénter,
-Ægra quæ passim jacuére membra,
-Víribus morbi dómitis, salúti
-Restituúntur.
-_
-Noster hinc illi chorus obsequéntem
-Cóncinit laudem celebrésque palmas,
-Ut piis ejus précibus juvémur
-Omne per ævum.
-_
-Sit salus illi, decus atque virtus,
-Qui, super cæli sólio corúscans,
-Tótius mundi sériem gubérnat,
-Trinus et unus.  
-Amen.
-
-[Hymnus1 Vespera]
-@:Hymnus Vespera:s/beátas/suprémos/ s/Scándere sedes/Laudis honóres/ 
-
 [Hymnus1M Vespera]
-@:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
+{gabc:Commune/C4/hy--iste_confessor_pro_doctoribus-MTV-solesmes_1934}
 
 [HymnusM Vespera]
-v. Iste Conféssor Dómini sacrátus,
-Festa plebs cujus celébrat per orbem,
-Hódie lætus méruit secréta
-Scándere cæli.
-_
-Qui pius, prudens, húmilis, pudícus,
-Sóbrius, castus fuit et quiétus,
-Vita dum præsens vegetávit ejus
-Córporis artus.
-_
-Ad sacram cujus túmulum frequénter
-Membra languéntem modo sanitáti,
-Quólibet morbo fúerint graváta,
-Restituúntur.
-_
-Unde nunc noster chorus in honórem
-Ipsius, hymnum canit hunc libénter:
-Ut piis ejus méritis juvémur
-Omne per ævum.
-_
-Sit salus illi, decus atque virtus,
-Qui supra cæli résidens cacúmen,
-Tótius mundi máchinam gubérnat
-Trinus et unus.
-Amen.
+{gabc:Commune/C4/hy--iste_confessor_pro_doctoribus--solesmes_1934}
 
 [Ant 1]
 {name:O Doctor optime;annotation:2.D;mode:2;book:The Liber Usualis, 1961, p. 1188 & Liber antiphonarius, 1960, p. [66] & Liber antiphonarius, 1960, p. 577.17;transcriber:Andrew Hinkley;%%(f3) O(ehhg) Do(h)ctor(f) ó(gf)pti(ef)me,(f'_) *(,) Ec(f)clé(fg)si(f)ae(f) san(g_[uh:l]h)ctae(fg) lu(ff)men,(e.) (;) be(f)á(cf)te(f) N. (;) di(j)ví(j')nae(i) le(h)gis(hg) a(f!gwh)má(h)tor :(e.) (:) de(eh)pre(g')cá(h)re(g') pro(f) no(g)bis(f.) (,) Fí(e_[uh:l]f)li(h_g)um(e) De(gg)i.(f.) (::)}

@@ -6,34 +6,34 @@ Veni, elécta mea, * et ponam in te thronum meum, allelúja.;;126
 Ista est speciósa * inter fílias Jerúsalem.;;147
 
 [Hymnus Vespera]
-v. Fortem viríli péctore
-Laudémus omnes féminam,
-Quæ sanctitátis glória 
-Ubíque fulget ínclita.
-_
-Hæc sancto amóre sáucia,
-Dum mundi amórem nóxium
-Horréscit, ad cæléstia
-Iter perégit árduum.
-_
-Carnem domans jejúniis,
-Dulcíque mentem pábulo
-Oratiónis nútriens,
-Cæli potítur gáudiis.
-_
-Rex Christe, virtus fórtium,
-Qui magna solus éfficis,
-Hujus precátu, quǽsumus,
-Audi benígnus súpplices.
-_
-* Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc, et per omne sǽculum. 
-Amen.
+{gabc:Commune/C7/hy--fortem_virili_pectore--solesmes_1961.1}
+(sed tempore Cordis nisi rubrica 1960)
+{gabc:Commune/C7/hy--fortem_virili_pectore-octava Cordis-solesmes}
+(sed tonus BMV nisi rubrica 1960 aut tempore Corpus nisi rubrica 1960)
+{gabc:Commune/C7/hy--fortem_virili_pectore-octava BMV-solesmes}
+
+[Hymnus Vespera] (tempore paschali aut tempore ascensionis)
+{gabc:Commune/C7/hy--fortem_virili_pectore_paschal_time--solesmes_1961.1}
+(sed tempore ascensionis)
+{gabc:Commune/C7/hy--fortem_virili_pectore_tempore ascensionis-solesmes}
+(sed tonus BMV)
+{gabc:Commune/C7/hy--fortem_virili_pectore_paschal_time-octava BMV-solesmes}
+(sed rubrica 1960)
+{gabc:Commune/C7/hy--fortem_virili_pectore_paschal_time--solesmes-1960}
 
 [HymnusM Vespera]
-@:Hymnus Vespera:s/sancto/Christi/
+{gabc:Commune/C7/hy--fortem_virili_pectore_per_annum--solesmes_1934}
+(sed tempore Cordis)
+{gabc:Commune/C7/hy--fortem_virili_pectore_octava Cordis--solesmes_1934}
+(sed tempore Corpus aut tonus BMV)
+{gabc:Commune/C7/hy--fortem_virili_pectore_octava BMV—solesmes_1934}
+
+[HymnusM Vespera] (tempore paschali aut tempore ascensionis)
+{gabc:Commune/C7/hy--fortem_virili_pectore-TP-solesmes_1934}
+(sed tempore ascensionis)
+{gabc:Commune/C7/hy--fortem_virili_pectore-TA-solesmes_1934}
+(sed tonus BMV)
+{gabc:Commune/C7/hy--fortem_virili_pectore_octava BMV-TP-solesmes_1934}
 
 [Invit]
 Laudémus Deum nostrum * In confessióne beátæ N..
@@ -81,4 +81,4 @@ Date ei * de fructu mánuum suárum, et laudent eam in portis ópera ejus.
 $Deo gratias
 
 [Ant 3]
-{name:Manum suam aperuit;annotation:4 d.;mode:4;book:Antiphonale Monasticum, 1934, p. 690;transcriber:Dominique CROCHU;%%(c4)MA(c)num(de~) su(ef)am(e'_) *(,) a(f)pé(fg)ru(f)it(fe) ín(d)o(de)pi,(e.) (;) et(dh'!iv) pal(h)mas(gf) su(gf)as(d_c) (,) ex(d)tén(cdf~)dit(fe) ad(dc) páu(d)pe(de)rem,(e.) (;) et(f>) pa(e!fwg)nem(g_d) o(d)ti(dg)ó(g)sa(gf) non(g) co(ghg)mé(e.)dit.(e.) (::)};;4-antiquo-alt-d
+{name:Manum suam aperuit;annotation:4 d.;mode:4;book:Antiphonale Monasticum, 1934, p. 690;transcriber:Dominique CROCHU;%%(c4)MA(c)num(de~) su(ef)am(e'_) *(,) a(f)pé(fg)ru(f)it(fe) ín(d)o(de)pi,(e.) (;) et(dh'!iv) pal(h)mas(gf) su(gf)as(d_c) (,) ex(d)tén(cdf~)dit(fe) ad(dc) páu(d)pe(de)rem,(e.) (;) et(f>) pa(e!fwg)nem(g_d) o(d)ti(dg)ó(g)sa(gf) non(g) co(ghg)mé(e.)dit.(e.) (::)};;4-alt-d

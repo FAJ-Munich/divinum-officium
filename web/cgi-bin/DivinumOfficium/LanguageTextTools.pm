@@ -56,7 +56,7 @@ sub process_inline_alleluias {
     if ($paschalf) {
       $$text_ref =~ s/†.*?\s?(\<i\>|\_|\^|\|)+T\.\s?P\.(\<\/i\>|\_|\^|\|)+(\s*†)?/ /img;
     } else {
-      $$text_ref =~ s/(?:†(.*?))?\s*(\<\/i\>|\_|\^|\|)+T\.\s?P\.(\<\/i\>|\_|\^|\|)+.*?\(\:\:\)/$1/img;
+      $$text_ref =~ s/(?:†(.*?))?\s*(\<i\>|\_|\^|\|)+T\.\s?P\.(\<\/i\>|\_|\^|\|)+.*?\(\:\:\)/$1/img;
     }
   } elsif ($paschalf) {
     $$text_ref =~ s/\(($alleluia_regexp.*?)\)/ $1 /isg;

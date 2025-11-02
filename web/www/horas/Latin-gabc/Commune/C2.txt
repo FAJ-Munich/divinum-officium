@@ -6,36 +6,41 @@ Si quis mihi ministráverit, * honorificábit eum Pater meus, qui est in cælis,
 Volo Pater, * ut ubi ego sum, illic sit et miníster meus.
 
 [Hymnus Vespera]
-{:H-Deustuorummilitum:}v. Deus tuórum mílitum
-Sors, et córona, prǽmium,
-Laudes canéntes Mártyris
-Absólve nexu críminis.
-_
-Hic nempe mundi gáudia,
-Et blanda fraudum pábula
-Imbúta felle députans,
-Pervénit ad cæléstia.
-_
-Pœnas cucúrrit fórtiter,
-Et sústulit viríliter,
-Fundénsque pro te sánguinem,
-Ætérna dona póssidet.
-_
-Ob hoc precátu súpplici
-Te póscimus, piíssime;
-In hoc triúmpho Mártyris
-Dimítte noxam sérvulis.
-_
-* Laus et perénnis glória
-Patri sit, atque Fílio,
-Sancto simul Paráclito,
-In sempitérna sǽcula.
-Amen.
+{gabc:Commune/C2/hy--deus_tuorum_militum--solesmes_1961.1}
+(sed tempore Cordis nisi rubrica 1960)
+{gabc:Commune/C2/hy--deus_tuorum_militum-octava Cordis-solesmes}
+(sed tonus BMV nisi rubrica 1960 aut tempore Corpus nisi rubrica 1960)
+{gabc:Commune/C2/hy--deus_tuorum_militum-octava BMV-solesmes}
+
+[Hymnus Vespera] (tempore paschali aut tempore ascensionis)
+{gabc:Commune/C2/hy--deus_tuorum_militum_tempore_paschali--solesmes}
+(sed tempore ascensionis)
+{gabc:Commune/C2/hy--deus_tuorum_militum_in_ascensione--}
+(sed tonus BMV)
+{gabc:Commune/C2/hy--deus_tuorum_militum_TP-octava BMV--}
+(sed rubrica 1960)
+{gabc:Commune/C2/hy--deus_tuorum_militum_tempore_paschali--solesmes-1960}
+
+[Hymnus Vespera] (tempore nativitatis)
+{gabc:Commune/C2/hy--deus_tuorum_militum_pro_s._stephano--solesmes}
+(sed rubrica 1960)
+{gabc:Commune/C2/hy--deus_tuorum_militum_pro_s._stephano--solesmes-1960}
 
 [HymnusM Vespera]
-@:Hymnus Vespera:s/blanda fraudum pábula/blandiménta nóxia/ s/Imbúta felle députans/Cadúca rite députans/ s/Fundénsque pro te/Pro te effúndens/ s/Patri sit, atque/Deo Patri, et/
-(sed tempore paschali)
+{gabc:Commune/C2/hy--deus_tuorum_militum--solesmes_1934}
+(sed tempore Cordis)
+{gabc:Commune/C2/hy--deus_tuorum_militum-octava Cordis-solesmes_1934}
+(sed tempore Corpus aut tonus BMV)
+{gabc:Commune/C2/hy--deus_tuorum_militum-octava BMV-solesmes_1934}
+(sed tempore nativitatis)
+{gabc:Commune/C2/hy--deus_tuorum-stephano-solesmes_1934}
+
+[HymnusM Vespera] (tempore paschali aut tempore ascensionis)
 {gabc:Commune/C2/hy--deus_tuorum_tp--solesmes_1934}
+(sed tempore ascensionis)
+{gabc:Commune/C2/hy--deus_tuorum_ta--solesmes_1934}
+(sed tonus BMV)
+{gabc:Commune/C2/hy--deus_tuorum_tp-octava BMV--solesmes_1934}
 
 [Versum 1]
 {initial-style:0;%%(c3) V/. Gló(h)ri(h)a(h) et(h) ho(h)nó(h)re(h) co(h)ro(h)nás(h)ti(h) e(h)um,(h) Dó(h)mi(hr)ne.(g_'/hvGFEfgf.) (::)

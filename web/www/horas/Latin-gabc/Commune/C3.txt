@@ -6,68 +6,10 @@ Mártyres Dómini * Dóminum benedícite in ætérnum.
 Mártyrum chorus * laudáte Dóminum de cælis, allelúja.
 
 [Hymnus Vespera]
-{:H-Sanctorummeritis:}v. Sanctórum méritis ínclita gáudia
-Pangámus, sócii, géstaque fórtia:
-Gliscens fert ánimus prómere cántibus
-Victórum genus óptimum.
-_
-Hi sunt, quos fátue mundus abhórruit;
-Hunc fructu vácuum, flóribus áridum
-Contempsére tui nóminis ásseclæ
-Jesu, Rex bone cǽlitum.
-_
-Hi pro te fúrias, atque minas truces
-Calcárunt hóminum, sǽvaque vérbera:
-His cessit lácerans fórtiter úngula,
-Nec carpsit penetrália.
-_
-Cædúntur gládiis more bidéntium:
-Non murmur résonat, non quærimónia;
-Sed corde impávido mens bene cónscia
-Consérvat patiéntiam.
-_
-Quæ vox, quæ póterit lingua retéxere,
-Quæ tu Martýribus múnera prǽparas?
-Rubri nam flúido sánguine fúlgidis
-Cingunt témpora láureis.
-_
-Te, summa o Déitas, únaque póscimus;
-Ut culpas ábigas, nóxia súbtrahas,
-Des pacem fámulis; ut tibi glóriam,
-Annórum in sériem, canant.
-Amen.
+{gabc:Commune/C3/hy--sanctorum_meritis--solesmes_1961.1}
 
 [HymnusM Vespera]
-v. Sanctórum méritis ínclyta gáudia
-Pangámus, sócii, géstaque fórtia:
-Nam gliscit ánimus prómere cántibus
-Victórum genus óptimum.
-_
-Hi sunt quos rétinens mundus inhórruit:
-Ipsum nam stérili flore peráridum
-Sprevére pénitus, teque secúti sunt,
-Rex Christe bone cǽlitus.
-_
-Hi pro te fúrias atque ferócia
-Calcárunt hóminum, sǽvaque vérbera:
-Cessit his lácerans fórtiter úngula,
-Nec carpsit penetrália.
-_
-Cædúntur gládiis more bidéntium:
-Non murmur résonat, non querimónia:
-Sed corde tácito mens bene cónscia
-Consérvat patiéntiam.
-_
-Quæ vox, quæ póterit lingua retéxere,
-Quæ tu Martyribus múnera prǽparas?
-Rubri nam flúido sánguine láureis
-Ditántur bene fúlgidis.
-_
-Te summa Déitas únaque póscimus,
-Ut culpas ábluas, nóxia súbtrahas,
-Des pacem fámulis, nos quoque glóriam
-Per cuncta tibi sǽcula.
-Amen.
+{gabc:Commune/C3/hy--sanctorum_meritis--solesmes_1934}
 
 [Versum 1]
 {initial-style:0;%%(c3) V/. Læ(h)tá(h)mi(h)ni(h) in(h) Dó(h)mi(h)no,(h) et(h) ex(h)sul(h)tá(h)te(h) jus(h hr)ti.(g_'/hvGFEfgf.) (::)

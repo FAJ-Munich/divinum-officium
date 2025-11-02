@@ -6,78 +6,10 @@ Bene fundáta est * domus Dómini supra firmam petram.;;112
 Lápides pretiósi * omnes muri tui, et turres Jerúsalem gemmis ædificabúntur.;;147
 
 [Hymnus Vespera]
-{:H-Caelestisurbs:}v. Cæléstis urbs Jerúsalem,
-Beáta pacis vísio,
-Quæ celsa de vivéntibus
-Saxis ad astra tólleris,
-Sponsǽque ritu cíngeris
-Mille Angelórum míllibus.
-_
-O sorte nupta próspera,
-Dotáta Patris glória,
-Respérsa Sponsi grátia,
-Regína formosíssima,
-Christo jugáta Príncipi,
-Cæli corúsca cívitas.
-_
-Hic margarítis émicant,
-Paténtque cunctis óstia;
-Virtúte namque prǽvia
-Mortális illuc dúcitur,
-Amóre Christi pércitus
-Torménta quisquis sústinet.
-_
-Scalpri salúbris íctibus
-Et tunsióne plúrima,
-Fabri políta málleo
-Hanc saxa molem cónstruunt,
-Aptísque juncta néxibus
-Locántur in fastígio.
-_
-Decus Parénti débitum
-Sit usquequáque Altíssimo,
-Natóque Patris único,
-Et ínclito Paráclito,
-Cui laus, potéstas, glória 
-Ætérna sit per sǽcula.
-Amen.
+{gabc:Commune/C8/hy--caelestis_urbs_jerusalem--solesmes_1961.1}
 
 [HymnusM Vespera]
-v. Urbs Jerúsalem beáta,
-Dicta pacis vísio,
-Quæ constrúitur in cælis
-Vivis ex lapídibus,
-Et Ángelis coronáta
-Ut sponsáta cómite.
-_
-Nova véniens e cælo,
-Nuptiáli thálamo
-Præparáta, ut sponsáta
-Copulétur Dómino:
-Platéæ et muri ejus
-Ex auro puríssimo.
-_
-Portæ nitent margarítis
-Ádytis paténtibus,
-Et virtúte meritórum
-Illuc introdúcitur
-Omnis qui ob Christi nomen
-Hic in mundo prémitur.
-_
-Tunsiónibus, pressúris
-Expolíti lápides,
-Suis coaptántur locis
-Per manus artíficis,
-Disponúntur permansúri
-Sacris ædifíciis.
-_
-Glória et honor Deo
-Usquequáqu[e] altíssimo,
-Una Patri, Filióque,
-Inclyto Paráclito,
-Cui laus est et potéstas
-Per ætérna sǽcula.
-Amen.
+{gabc:Commune/C8/hy--urbs_jerusalem_beata--solesmes_1934}
 
 [Versum 1]
 {initial-style:0;%%(c3) V/. Hæc(h) est(h) do(h)mus(h) Dó(h)mi(h)ni(h) fír(h)mi(h)ter(h) æ(h)di(h)fi(h)cá(h hr)ta.(g_'/hvGFEfgf.) (::)

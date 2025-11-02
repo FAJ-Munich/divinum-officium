@@ -28,3 +28,9 @@ R. Elégit te Dóminus sacerdótem sibi
 * Ad sacrificándum ei hóstiam laudis.
 V. Ímmola Deo sacrifícium laudis, et redde Altíssimo vota tua.
 R. Ad sacrificándum ei hóstiam laudis.
+
+[Ant Vespera 3]
+@:Ant Vespera:1 s/;;;;/;;109;;/
+@:Ant Vespera:2 s/;;;;/;;111;;/
+@:Ant Vespera:3 s/;;;;/;;112;;/
+@:Ant Vespera:5 s/;;;;/;;131;;/

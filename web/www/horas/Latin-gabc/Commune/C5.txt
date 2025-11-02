@@ -6,64 +6,20 @@ Beátus ille servus, * quem, cum vénerit Dóminus ejus et pulsáverit jánuam, 
 Serve bone * et fidélis, intra in gáudium Dómini tui.
 
 [Hymnus Vespera]
-{:H-Isteconfessor:}v. Iste Conféssor Dómini, coléntes
-Quem pie laudant pópuli per orbem,
-Hac die lætus méruit beátas
-Scándere sedes.
-_
-Qui pius, prudens, húmilis, pudícus,
-Sóbriam duxit sine labe vitam,
-Donec humános animávit auræ
-Spíritus artus.
-_
-Cujus ob præstans méritum, frequénter,
-Ægra quæ passim jacuére membra,
-Víribus morbi dómitis, salúti
-Restituúntur.
-_
-Noster hinc illi chorus obsequéntem
-Cóncinit laudem celebrésque palmas,
-Ut piis ejus précibus juvémur
-Omne per ævum.
-_
-Sit salus illi, decus atque virtus,
-Qui, super cæli sólio corúscans,
-Tótius mundi sériem gubérnat,
-Trinus et unus.  
-Amen.
+{gabc:Commune/C5/hy--iste_confessor_conf._not_bishop_5--solesmes_1961}
 
 [Hymnus1 Vespera]
-@:Hymnus Vespera:s/beátas/suprémos/ s/Scándere sedes/Laudis honóres/ 
+{gabc:Commune/C5/hy--iste_confessor_conf._not_bishop_5-MTV-solesmes_1961}
 
 [Hymnus1M Vespera]
-@:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
+{gabc:Commune/C5/hy--iste_confessor_conf_pont_in_duplicibus_minoribus-MTV-solesmes_1934}
+(sed tonus festives major aut tonus solemnis)
+{gabc:Commune/C5/hy--iste_confessor_conf_pont_in_duplicibus_majoribus-MTV-solesmes_1934}
 
 [HymnusM Vespera]
-v. Iste Conféssor Dómini sacrátus,
-Festa plebs cujus celébrat per orbem,
-Hódie lætus méruit secréta
-Scándere cæli.
-_
-Qui pius, prudens, húmilis, pudícus,
-Sóbrius, castus fuit et quiétus,
-Vita dum præsens vegetávit ejus
-Córporis artus.
-_
-Ad sacram cujus túmulum frequénter
-Membra languéntem modo sanitáti,
-Quólibet morbo fúerint graváta,
-Restituúntur.
-_
-Unde nunc noster chorus in honórem
-Ipsius, hymnum canit hunc libénter:
-Ut piis ejus méritis juvémur
-Omne per ævum.
-_
-Sit salus illi, decus atque virtus,
-Qui supra cæli résidens cacúmen,
-Tótius mundi máchinam gubérnat
-Trinus et unus.
-Amen.
+{gabc:Commune/C5/hy--iste_confessor_conf_non_pont_in_duplicibus_minoribus--solesmes_1934}
+(sed tonus festives major aut tonus solemnis)
+{gabc:Commune/C5/hy--iste_confessor_conf_pont_in_duplicibus_majoribus--solesmes_1934}
 
 [Ant 1]
 Similábo eum * viro sapiénti, qui ædificávit domum suam supra petram.

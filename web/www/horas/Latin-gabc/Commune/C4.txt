@@ -1,76 +1,32 @@
 [Ant Vespera]
-{name:Ecce sacerdos magnus;annotation:7. c;mode:7;book:The Liber Usualis, 1961, p. 1176 & Liber antiphonarius, 1960, p. [55];transcriber:Andrew Hinkley;%%(c3) EC(i)ce(i') sa(g)cér(i')dos(j) ma(i)gnus,(i'_[oh:h]) *(,) qui(i) in(i') di(g)é(h')bus(g) su(e)is(e.) (;) plá(h)cu(h)it(hf~) De(hh)o,(g'_[oh:h]) (,) et(f) in(e)vén(f'_)tus(h) est(g) ju(e.)stus.(e.) (::) <i>T. P.</i> Al(fg)le(f)lú(e.)ja.(e.) (::)};;;;7c
-{name:Non est inventus;annotation:7. c;mode:7;book:The Liber Usualis, 1961, p. 1176 & Liber antiphonarius, 1960, p. [56];transcriber:Andrew Hinkley;%%(c3) NON(i_[oh:h]g) est(i') in(j)vén(i)tus(i.) *(,) sí(i_[oh:h]g)mi(h')lis(g) il(e)li,(e.) (;) qui(h) con(h)ser(hf~)vá(hh)ret(g.) (,) le(e_[uh:l]f)gem(g) Ex(f)cél(e.)si.(e.) (::) <i>T. P.</i> Al(fg)le(f)lú(e.)ja.(e.) (::)};;;;7c
-{name:Ideo jurejurando;annotation:8. G*;mode:8;book:The Liber Usualis, 1961, p. 1176 & Liber antiphonarius, 1960, p. [56];transcriber:Andrew Hinkley;%%(c4) ID(f)e(fg)o(g'_[oh:h]) *(,) ju(h)re(j)ju(i')rán(j)do(h'_) (,) fe(g)cit(hi) il(h)lum(g) Dó(f!gwh)mi(fe)nus(d.) (;) cré(e)sce(f)re(g) in(f) ple(gh)bem(h) su(g.)am.(g.) (::) <i>T. P.</i> Al(hi)le(h)lú(g.)ja.(g.) (::)};;;;8Gstar
+{name:Ecce sacerdos magnus;annotation:7. c;mode:7;book:The Liber Usualis, 1961, p. 1176 & Liber antiphonarius, 1960, p. [55];transcriber:Andrew Hinkley;%%(c3) EC(i)ce(i') sa(g)cér(i')dos(j) ma(i)gnus,(i'_[oh:h]) *(,) qui(i) in(i') di(g)é(h')bus(g) su(e)is(e.) (;) plá(h)cu(h)it(hf~) De(hh)o,(g'_[oh:h]) (,) et(f) in(e)vén(f'_)tus(h) est(g) ju(e.)stus.(e.) (::) _^T. P.^_ Al(fg)le(f)lú(e.)ja.(e.) (::)};;;;7c
+{name:Non est inventus;annotation:7. c;mode:7;book:The Liber Usualis, 1961, p. 1176 & Liber antiphonarius, 1960, p. [56];transcriber:Andrew Hinkley;%%(c3) NON(i_[oh:h]g) est(i') in(j)vén(i)tus(i.) *(,) sí(i_[oh:h]g)mi(h')lis(g) il(e)li,(e.) (;) qui(h) con(h)ser(hf~)vá(hh)ret(g.) (,) le(e_[uh:l]f)gem(g) Ex(f)cél(e.)si.(e.) (::) _^T. P.^_ Al(fg)le(f)lú(e.)ja.(e.) (::)};;;;7c
+{name:Ideo jurejurando;annotation:8. G*;mode:8;book:The Liber Usualis, 1961, p. 1176 & Liber antiphonarius, 1960, p. [56];transcriber:Andrew Hinkley;%%(c4) ID(f)e(fg)o(g'_[oh:h]) *(,) ju(h)re(j)ju(i')rán(j)do(h'_) (,) fe(g)cit(hi) il(h)lum(g) Dó(f!gwh)mi(fe)nus(d.) (;) cré(e)sce(f)re(g) in(f) ple(gh)bem(h) su(g.)am.(g.) (::) _^T. P.^_ Al(hi)le(h)lú(g.)ja.(g.) (::)};;;;8Gstar
 {name:Sacerdotes Dei;annotation:7. c;mode:7;book:The Liber Usualis, 1961, p. 1176 & Liber antiphonarius, 1960, p. [56];transcriber:Andrew Hinkley;%%(c3) SA(i)cer(i)dó(i_[oh:h]g)tes(i') De(j)i,(i'_[oh:h]) *(,) be(i)ne(i)dí(i_[oh:h]g)ci(h)te(f') Dó(g)mi(f)num :(e.) (;) ser(e')vi(g) Dó(e')mi(f)ni,(f.) (,) hy(g')mnum(h) dí(ij)ci(i)te(h) De(hg)o,(f) +() al(g')le(f)lú(e.)ja.(e.) (::) ()<i>Post Septuag.</i> †() in(g') æ(f)tér(e.)num.(e.) (::)}
-{name:Serve bone et fidelis intra Conf. Pontificis;annotation:3. g;mode:3;book:The Liber Usualis, 1961, p. 1177 & Liber antiphonarius, 1960, p. [56];transcriber:Andrew Hinkley;%%(c4) SEr(g)ve(h) bo(ghj)ne(j) *() et(j) fi(ji)dé(hh)lis,(g.) (;) in(h_j)tra(h') in(g) gáu(h)di(gf)um(f.) (,) Dó(e_[uh:l]f)mi(g)ni(gf) tu(e.)i.(e.) (::) <i>T. P.</i> Al(g)le(gf)lú(e.)ja.(e.) (::)};;;;3g
+{name:Serve bone et fidelis intra Conf. Pontificis;annotation:3. g;mode:3;book:The Liber Usualis, 1961, p. 1177 & Liber antiphonarius, 1960, p. [56];transcriber:Andrew Hinkley;%%(c4) SEr(g)ve(h) bo(ghj)ne(j) *() et(j) fi(ji)dé(hh)lis,(g.) (;) in(h_j)tra(h') in(g) gáu(h)di(gf)um(f.) (,) Dó(e_[uh:l]f)mi(g)ni(gf) tu(e.)i.(e.) (::) _^T. P.^_ Al(g)le(gf)lú(e.)ja.(e.) (::)};;;;3g
 
 [Ant Vespera] (rubrica monastica)
-{name:Ecce sacerdos magnus;annotation:7. c;mode:7;book:Antiphonale Monasticum, 1934, p. 657;%%(c3) EC(i)ce(i') sa(g)cér(i')dos(j) ma(i.)gnus,(i.) *(,) qui(i) in(i') di(g)é(h')bus(g) su(e.)is(e.) (;) plá(h_)cu(h)it(hf~) De(hh)o,(g') (,) et(e) in(f)vén(f'_)tus(h) est(g) † ju(e.)stus.(e.) (::) <i>T. P.</i> †() ju(e)stus,(e_0f) al(g>)le(fg)lú(e.)ja.(e.) (::)};;;;7c
-{name:Non est inventus;office-part:Antiphona;mode:7;book:Antiphonale Monasticum, 1934, p. 657;%%(c3) NON(i_g) est(i') in(j)vén(i.)tus(i.) *(,) sí(i_g)mi(h')lis(g) il(e.)li,(e.) (;) qui(g_) con(g)ser(hf~)vá(hh)ret(g.) (,) † le(e_f)gem(g) Ex(f)cél(e.)si.(e.) (::) <i>T. P.</i> †() le(e_f)gem(g') Ex(f)cél(e)si,(e_f) al(g>)le(fg)lú(e.)ja.(e.) (::)};;;;7c
-{name:Ideo jurejurando;annotation:8. g2;mode:8;book:Antiphonale Monasticum, 1934, p. 658;transcriber:Dominique CROCHU;%%(c4) ID(f)e(fg)o(g.) *() ju(h)re(j)ju(i')rán(j)do(h'_) (,) fe(g)cit(hi) il(h)lum(g') Dó(f/g'h)mi(f_e)nus(d.) (;) cré(d)sce(e_f)re(gh) in(gf~) ple(hi)bem(h>) † su(g.)am.(g.) (::) <i>T. P.</i> †() su(g)am,(g_0h) al(i>)le(hi)lú(g.)ja.(g.) (::)};;;;8G
+{name:Ecce sacerdos magnus;annotation:7. c;mode:7;book:Antiphonale Monasticum, 1934, p. 657;%%(c3) EC(i)ce(i') sa(g)cér(i')dos(j) ma(i.)gnus,(i.) *(,) qui(i) in(i') di(g)é(h')bus(g) su(e.)is(e.) (;) plá(h_)cu(h)it(hf~) De(hh)o,(g') (,) et(e) in(f)vén(f'_)tus(h) est(g) † ju(e.)stus.(e.) (::) _^T. P.^_ †() ju(e)stus,(e_0f) al(g>)le(fg)lú(e.)ja.(e.) (::)};;;;7c
+{name:Non est inventus;office-part:Antiphona;mode:7;book:Antiphonale Monasticum, 1934, p. 657;%%(c3) NON(i_g) est(i') in(j)vén(i.)tus(i.) *(,) sí(i_g)mi(h')lis(g) il(e.)li,(e.) (;) qui(g_) con(g)ser(hf~)vá(hh)ret(g.) (,) † le(e_f)gem(g) Ex(f)cél(e.)si.(e.) (::) _^T. P.^_ †() le(e_f)gem(g') Ex(f)cél(e)si,(e_f) al(g>)le(fg)lú(e.)ja.(e.) (::)};;;;7c
+{name:Ideo jurejurando;annotation:8. g2;mode:8;book:Antiphonale Monasticum, 1934, p. 658;transcriber:Dominique CROCHU;%%(c4) ID(f)e(fg)o(g.) *() ju(h)re(j)ju(i')rán(j)do(h'_) (,) fe(g)cit(hi) il(h)lum(g') Dó(f/g'h)mi(f_e)nus(d.) (;) cré(d)sce(e_f)re(gh) in(gf~) ple(hi)bem(h>) † su(g.)am.(g.) (::) _^T. P.^_ †() su(g)am,(g_0h) al(i>)le(hi)lú(g.)ja.(g.) (::)};;;;8G
 {name:Sacerdotes Dei;annotation:7. c;mode:7;book:Antiphonale Monasticum, 1934, p. 658;transcriber:Harpa Dei;%%(c3) SA(i)cer(i)dó(i_[oh:h]g)tes(i') De(j)i,(i'_[oh:h]) *(,) be(i)ne(i)dí(i_[oh:h]g)ci(h)te(f') Dó(g)mi(f)num :(e.) (;) ser(e')vi(g) Dó(e')mi(f)ni,(f.) (,) hy(g')mnum(h) dí(i')ci(h)te(h) De(hg)o,(f') †() al(g')le(fg)lú(e.)ja. (e.) (::) <i>Post Septuag.</i> † in(g') æ(fg)tér(e.)num.(e.) (::)};;;;7c
-{name:Serve bone et fidelis;annotation:3. g;mode:3;transcriber:Harpa Dei;%%(c4) SEr(g)ve(h) bo(ghi)ne(i_) *() et(i) fi(ji)dé(hh)lis,(g.) (;) in(g)tra(g) in(hi) gáu(h')di(g)um(h_g) Dó(e_[uh:l]f)mi(g)ni(gf) † tu(e.)i.(e.) (::) <i>T. P.</i> †() tu(e)i, (e_f) al(g)le(gf)lú(e.)ja.(e.) (::)};;;;3-antiquo-g
+{name:Serve bone et fidelis;annotation:3. g;mode:3;transcriber:Harpa Dei;%%(c4) SEr(g)ve(h) bo(ghi)ne(i_) *() et(i) fi(ji)dé(hh)lis,(g.) (;) in(g)tra(g) in(hi) gáu(h')di(g)um(h_g) Dó(e_[uh:l]f)mi(g)ni(gf) † tu(e.)i.(e.) (::) _^T. P.^_ †() tu(e)i, (e_f) al(g)le(gf)lú(e.)ja.(e.) (::)};;;;3g
 
 [Hymnus Vespera]
-{:H-Isteconfessor:}v. Iste Conféssor Dómini, coléntes
-Quem pie laudant pópuli per orbem,
-Hac die lætus méruit beátas
-Scándere sedes.
-_
-Qui pius, prudens, húmilis, pudícus,
-Sóbriam duxit sine labe vitam,
-Donec humános animávit auræ
-Spíritus artus.
-_
-Cujus ob præstans méritum, frequénter,
-Ægra quæ passim jacuére membra,
-Víribus morbi dómitis, salúti
-Restituúntur.
-_
-Noster hinc illi chorus obsequéntem
-Cóncinit laudem celebrésque palmas,
-Ut piis ejus précibus juvémur
-Omne per ævum.
-_
-Sit salus illi, decus atque virtus,
-Qui, super cæli sólio corúscans,
-Tótius mundi sériem gubérnat,
-Trinus et unus.  
-Amen.
+{gabc:Commune/C4/hy--iste_confessor_conf._bishop--solesmes_1961.1}
 
 [Hymnus1 Vespera]
-@:Hymnus Vespera:s/beátas/suprémos/ s/Scándere sedes/Laudis honóres/ 
+{gabc:Commune/C4/hy--iste_confessor_conf._bishop-MTV-solesmes_1961.1}
 
 [Hymnus1M Vespera]
-@:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
+{gabc:Commune/C4/hy--iste_confessor_conf_pont_in_duplicibus_minoribus-MTV-solesmes_1934}
+(sed tonus festives major aut tonus solemnis)
+{gabc:Commune/C4/hy--iste_confessor_conf_pont_in_duplicibus_majoribus-MTV-solesmes_1934}
 
 [HymnusM Vespera]
-v. Iste Conféssor Dómini sacrátus,
-Festa plebs cujus celébrat per orbem,
-Hódie lætus méruit secréta
-Scándere cæli.
-_
-Qui pius, prudens, húmilis, pudícus,
-Sóbrius, castus fuit et quiétus,
-Vita dum præsens vegetávit ejus
-Córporis artus.
-_
-Ad sacram cujus túmulum frequénter
-Membra languéntem modo sanitáti,
-Quólibet morbo fúerint graváta,
-Restituúntur.
-_
-Unde nunc noster chorus in honórem
-Ipsius, hymnum canit hunc libénter:
-Ut piis ejus méritis juvémur
-Omne per ævum.
-_
-Sit salus illi, decus atque virtus,
-Qui supra cæli résidens cacúmen,
-Tótius mundi máchinam gubérnat
-Trinus et unus.
-Amen.
+{gabc:Commune/C4/hy--iste_confessor_conf_pont_in_duplicibus_minoribus--solesmes_1934}
+(sed tonus festives major aut tonus solemnis)
+{gabc:Commune/C4/hy--iste_confessor_conf_pont_in_duplicibus_majoribus--solesmes_1934}
 
 [Versum 1]
 {initial-style:0;%%(c3) V/. A(h)má(h)vit(h) e(h)um(h) Dó(h)mi(h)nus,(h) et(h) or(h)ná(h)vit(h) e(h hr)um.(g_'/hvGFEfgf.) (::)
@@ -243,6 +199,6 @@ R. Tu es sacérdos * In ætérnum.
 Dum esset Summus Póntifex, * terréna non métuit, sed ad cæléstia regna gloriósus migrávit.
 
 [Ant 3]
-{name:Amavit eum Dominus Ant.;annotation:1. d2;mode:1;book:The Liber Usualis, 1961, p. 1181 & Liber antiphonarius, 1960, p. [65];transcriber:Andrew Hinkley;%%(c4) A(c)má(d')vit(f) e(fe)um(dc) Dó(d)mi(fe)nus,(ddc.) (;) * et(f) or(gh)ná(hg)vit(fg) e(gv_[oh:h]FD)um :(d.) (:) sto(g)lam(g') gló(h)ri(gf)ae(f) (,) ín(fe~)du(d)it(fe) e(dc)um,(c.) (;) et(c) ad(d) por(f')tas(d) pa(e)ra(f)dí(gh)si(ixhg/hiHG'g) (,) co(e')ro(f)ná(g)vit(fe) e(d.)um.(d.) (::) <i>T. P.</i> Al(e)le(fe)lú(d.){ia}.(d.) (::)};;1d2
+{name:Amavit eum Dominus Ant.;annotation:1. d2;mode:1;book:The Liber Usualis, 1961, p. 1181 & Liber antiphonarius, 1960, p. [65];transcriber:Andrew Hinkley;%%(c4) A(c)má(d')vit(f) e(fe)um(dc) Dó(d)mi(fe)nus,(ddc.) (;) * et(f) or(gh)ná(hg)vit(fg) e(gv_[oh:h]FD)um :(d.) (:) sto(g)lam(g') gló(h)ri(gf)ae(f) (,) ín(fe~)du(d)it(fe) e(dc)um,(c.) (;) et(c) ad(d) por(f')tas(d) pa(e)ra(f)dí(gh)si(ixhg/hiHG'g) (,) co(e')ro(f)ná(g)vit(fe) e(d.)um.(d.) (::) _^T. P.^_ Al(e)le(fe)lú(d.){ia}.(d.) (::)};;1d2
 (sed rubrica monastica)
-{name:Amavit eum Dominus;annotation:1. d2;mode:1;book:Antiphonale Monasticum, 1934, p. 663;%%(c4) A(c)má(d')vit(f) e(fe)um(dc~) Dó(d)mi(fe)nus,(ddc.) *(,) et(fg'h) or(h>)ná(hg)vit(fg) e(gv_FD)um:(d.) (;) sto(g)lam(gh) gló(h')ri(g)ae(f) ín(fe~)du(d)it(fe) e(d)um,(c.) (;) et(c) ad(d') por(f>_)tas(d_c) pa(e')ra(f)dí(gh)si(hg/hiHG'go) (,) † co(e')ro(f)ná(g)vit(fe) e(d.)um.(d.) <i>T. P.</i>(::) † co(e)ro(f)ná(g')vit(f) e(fe)um,(ed) al(d)le(fe)lú(d.)ia.(d.) (::)};;1d2
+{name:Amavit eum Dominus;annotation:1. d2;mode:1;book:Antiphonale Monasticum, 1934, p. 663;%%(c4) A(c)má(d')vit(f) e(fe)um(dc~) Dó(d)mi(fe)nus,(ddc.) *(,) et(fg'h) or(h>)ná(hg)vit(fg) e(gv_FD)um:(d.) (;) sto(g)lam(gh) gló(h')ri(g)ae(f) ín(fe~)du(d)it(fe) e(d)um,(c.) (;) et(c) ad(d') por(f>_)tas(d_c) pa(e')ra(f)dí(gh)si(hg/hiHG'go) (,) † co(e')ro(f)ná(g)vit(fe) e(d.)um.(d.) _^T. P.^_(::) † co(e)ro(f)ná(g')vit(f) e(fe)um,(ed) al(d)le(fe)lú(d.)ia.(d.) (::)};;1d2

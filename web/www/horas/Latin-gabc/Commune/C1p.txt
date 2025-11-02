@@ -13,36 +13,11 @@ Fulgébunt justi * sicut sol in conspéctu Dei, allelúja.;;116;;2
 {(f3)FUl(f)gé(h')bunt(h) ju(f_g)sti(f_e) *(,) sic(h!iwji)ut(hg) sol(f!gwh/ih.) (;) in(e) con(f)spé(h')ctu(i) De(hg)i,(fe) al(f)le(hg)lú(f.)ja.(f.) (::)};;;;2
 
 [Hymnus Vespera]
-{:H-Tristeserantapostoli:}v. Tristes erant Apóstoli
-De Christi acérbo fúnere,
-Quem morte crudelíssima
-Servi necárant ímpii.
-_
-Sermóne verax Angelus
-Muliéribus prædíxerat:
-Mox ore Christus gáudium
-Gregi feret fidélium.
-_
-Ad ánxios Apóstolos
-Currunt statim dum núntiæ,
-Illæ micántis óbvia
-Christi tenent vestígia.
-_
-Galilǽæ ad alta móntium
-Se cónferunt Apóstoli,
-Jesúque, voti cómpotes,
-Almo beántur lúmine.
-_
-Ut sis perénne méntibus
-Paschále Jesu gáudium;
-A morte dira críminum
-Vitæ renátos líbera.
-_
-* Deo Patri sit glória
-Et Filio, qui a mórtuis
-Surréxit, ac Paráclito
-In sempitérna sǽcula.
-Amen.
+{gabc:Commune/C1/hy--tristes_erant_apostoli--solesmes_1961.1}
+(sed tempore Ascensionis)
+{gabc:Commune/C1/hy--tristes_erant_apostoli_in_ascensione--}
+(sed tonus BMV)
+{gabc:Commune/C1/hy--tristes_erant_apostoli_octava BMV--}
 
 [HymnusM Vespera]
 {gabc:Commune/C1/hy--tristes_erant_apostoli--solesmes_1934}
