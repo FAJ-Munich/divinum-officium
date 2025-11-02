@@ -453,7 +453,7 @@ sub psalm : ScriptFunc {
     $nogloria =
          $psnum == 148
       || $psnum == 149
-      || ($psnum == 62 && $version !~ /Monastic/)
+      || ($psnum == 62 && $version !~ /Monastic/ || ($votive =~ /C9/ && $version =~ /Trident/))
       || ($psnum == 115 && $version =~ /Monastic/);
   }
 
@@ -529,6 +529,7 @@ sub psalm : ScriptFunc {
       $psnum =~ s/solemn(.*)/$1; Mediatio solemnis/;
       $psnum =~ s/([a-gA-G1-5])star/$1*/;
       $psnum =~ s/,transposeF3/; transpositus/;
+      $psnum =~ s/transpose(\d\w+)/$1; transpositus/;
       $psnum =~ s/\,/–/g;    # Tone name with en-dash not comma
 
       if (!(-e "$datafolder/$lang/Psalterium/Psalmorum/$ffolder/$fname")) {

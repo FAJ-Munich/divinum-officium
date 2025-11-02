@@ -1978,8 +1978,15 @@ sub setChantTone {
   }
 
   my $commemostring = join('\n', @commemoentries);
-  if (($commune =~ /C11/i || ($name =~ /(?:Beat|Sanct)(?:ae|æ) Mari/ && $name !~ /Vigil|Sabbato/i) || $commemostring =~ /bmv/) && $chantTone !~ /solemnis/i)
-  {
+
+  if (
+    (
+         $commune =~ /C11/i
+      || ($name =~ /(?:Beat|Sanct)(?:ae|æ) Mari/ && $name !~ /Vigil|Sabbato/i)
+      || $commemostring =~ /bmv/
+    )
+    && $chantTone !~ /solemnis/i
+  ) {
     $chantTone = 'festivus BMV';
   } elsif ($winner =~ /tempora/i && $dayname[0] =~ /Pasc/i && $chantTone =~ /ferialis/i) {
     $chantTone = 'paschalis';

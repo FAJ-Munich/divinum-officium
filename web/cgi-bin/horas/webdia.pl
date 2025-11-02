@@ -579,8 +579,9 @@ sub setcell {
       while ($text =~ /\{(\(|name:|annotation:|initial-style:|centering-scheme:)(.+?)\(\:\:\)\}/is) {
         $dId++;
         $text =~
-          s/\{(\(|name:|annotation:|initial-style:|centering-scheme:)/<DIV ID="GABC$hora$searchind$dId" class="GABC">$1/s;
-        $text =~ s/\(\:\:\)\}/\(\:\:\)<\/DIV><DIV ID="GCHANT$hora$searchind$dId" class="GCHANT" width="100\%"><\/DIV>/s;
+          s/\{(\(|name:|annotation:|initial-style:|centering-scheme:)/<DIV ID="GABC$hora$searchind-$dId" class="GABC">$1/s;
+        $text =~
+          s/\(\:\:\)\}/\(\:\:\)<\/DIV><DIV ID="GCHANT$hora$searchind-$dId" class="GCHANT" width="100\%"><\/DIV>/s;
         $text =~
           s/(name:[a-zA-Z\s\.\:]*?)\(([a-zA-Z\s\.\:]*?)\)([a-zA-Z\s\.\:]*?);/$1 $2 $3;/gm; # remove parentheses in title
         $text =~ s/<i>T\.\s?P\.<\/i>/\_\^T. P.\^\_ /g;                                     #Tempore Paschalis
