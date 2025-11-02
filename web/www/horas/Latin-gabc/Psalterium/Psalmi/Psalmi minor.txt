@@ -229,9 +229,9 @@ Sabbato = Intret orátio mea * in conspéctu tuo, Dómine.;;;;5
 5 = {name:Per arma justitiae;annotation:1. f;mode:1;book:Liber antiphonarius, 1891, p. 50;transcriber:FAJmunich;%%(c4) PER(d) ar(dc)ma(f) ju(g)stí(f)ti(gh)ae(h) * (;) vir(h)tú(hj)tis(h) De(h)i,(ixhg/hiHGg) (:) com(f)men(g)dé(h)mus(gf) nos(g)me(fe)tí(d!ewf)psos(fc) (;) in(f) mul(e)ta(f) pa(g)ti(fe)én(d)ti(d)a.(d) (::)};;1f
 
 [Quad] (rubrica monastica)
-1 = {name:Vivo ego;annotation:3.b;%%(c4)VI(j)vo(h) ego,(g_i i.) di(i)cit(j) Dó(ji)mi(gh)nus :(h.) (;)no(j)lo(i) mor(h_g)tem(h'_) pec(h)ca(gf)tó(ef)ris,(eed.) (;)sed(d) ut(e) ma(g!hwi)gis(h'_) con(g)ver(gf~)tá(ef)tur(g) et(gf~) vi(e.)vat.(e.) (::)};;3-antiquo-b
+1 = {name:Vivo ego;annotation:3.b;%%(c4)VI(j)vo(h) ego,(g_i i.) di(i)cit(j) Dó(ji)mi(gh)nus :(h.) (;)no(j)lo(i) mor(h_g)tem(h'_) pec(h)ca(gf)tó(ef)ris,(eed.) (;)sed(d) ut(e) ma(g!hwi)gis(h'_) con(g)ver(gf~)tá(ef)tur(g) et(gf~) vi(e.)vat.(e.) (::)};;3b
 2 = {name:Advenerunt nobis;annotation:8. G;mode:8;book:Antiphonale Monasticum, 1934, p. 97;transcriber:MarkM;%%(c4)AD(g)ve(g')né(h)runt(h>') no(g)bis(g'_) * (,) di(g)es(g') pæ(h)ni(g)tén(h_i)ti(gf)æ,(f.) (;)ad(h) red(f)i(hj)mén(j)da(ji) pec(hg)ca(h)ta,(g'_) (;)ad(g) sal(g)ván(g>')das(f) á(gh)ni(h)mas.(g.) (::)};;8G
-3 = {name:Commendemus nosmetipsos;annotation:4. A*;book:Antiphonale Monasticum, 1934, p. 102;transcriber:MarkM;%%(c3)COm(e)men(f')dé(h)mus(h') nos(h)met(ij)íp(i)sos(i'_) * (,) in(i) mul(h')ta(i) pa(j)ti(ih)én(i')ti(i)a,(i.) (;) in(f') je(i)jú(h')ni(g)is(f) mul(f_e)tis,(f'_) (,)per(e) ar(d_e)ma(f') jus(h)tí(f)ti(ef)æ.(f.) (::)};;4-antiquo-alt-Astar
+3 = {name:Commendemus nosmetipsos;annotation:4. A*;book:Antiphonale Monasticum, 1934, p. 102;transcriber:MarkM;%%(c3)COm(e)men(f')dé(h)mus(h') nos(h)met(ij)íp(i)sos(i'_) * (,) in(i) mul(h')ta(i) pa(j)ti(ih)én(i')ti(i)a,(i.) (;) in(f') je(i)jú(h')ni(g)is(f) mul(f_e)tis,(f'_) (,)per(e) ar(d_e)ma(f') jus(h)tí(f)ti(ef)æ.(f.) (::)};;4-alt-Astar
 4 =
 5 = {name:Per arma justitiae;annotation:1. f;mode:1;book:Antiphonale Monasticum, 1934, p. 107;%%(c4) Per(d) ar(d_c~)ma(f) ju(g')stí(f)ti(gh)ae(h'_) *(,) vir(h)tú(h!iwj)tis(h') De(h)i,(hg/hih.) (;) com(h)men(g)dé(f_g)mus(f_e) nos(g)me(fe)tí(d!ewf)psos(fc__) (,) in(c) mul(e')ta(f) pa(g)ti(fe)én(d)ti(cd)a.(d.) (::)};;1f
 
@@ -251,7 +251,7 @@ Sabbato = Intret orátio mea * in conspéctu tuo, Dómine.;;;;5
 
 [Quad5_] (rubrica monastica)
 1 = {name:Libera me Domine et pone;annotation:1. a2;mode:1;book:Antiphonale Monasticum, 1934, p. 6;transcriber:MarkM;%%(c4)LI(d_h)be(h)ra(h) me(h) Dó(hj)mi(h)ne,(h.) (,)et(hg~) po(h)ne(gf) me(e_f) jux(g)ta(fe) te :(d.) (;)et(d) cu(fe)jús(d)vis(e_f) ma(g_h)nus(ghg) (,) pug(e')net(f) con(g>)tra(fe) me.(d.) (::)};;1a2
-2 = {name:Judicasti Domine;annotation:4. A*;mode:4;book:Antiphonale Monasticum, 1934, p. 389;%%(c3)JU(e)di(f')cá(h)sti(h') Dó(h)mi(ij)ne(ii) * (,) cau(h')sa(i) á(j)ni(i')mæ(h) me(i.)æ,(i.) (;) de(i)fén(f')sor(i) vi(h')tæ(g) me(f_e)æ,(f_') (,) Dó(e)mi(d')ne(e) De(f')us(h) me(f.)us.(f.) (::)};;4-antiquo-alt-Astar
+2 = {name:Judicasti Domine;annotation:4. A*;mode:4;book:Antiphonale Monasticum, 1934, p. 389;%%(c3)JU(e)di(f')cá(h)sti(h') Dó(h)mi(ij)ne(ii) * (,) cau(h')sa(i) á(j)ni(i')mæ(h) me(i.)æ,(i.) (;) de(i)fén(f')sor(i) vi(h')tæ(g) me(f_e)æ,(f_') (,) Dó(e)mi(d')ne(e) De(f')us(h) me(f.)us.(f.) (::)};;4-alt-Astar
 3 = {name:Popule meus;annotation:4. A;mode:4;book:Antiphonale Monasticum, 1934, p. 389;%%(c3)PO(f)pu(e)le(f) me(h_i)us,(ii) * (,) quid(h_i) fe(j)ci(ih) ti(i.)bi,(i.) (;) aut(i) quid(f') mo(i)lé(h')stus(g) fu(f_e)i?(f_e) (,) Re(d_e)spón(f')de(h) mi(f.)hi.(f.) (::)};;4-alt-A
 4 =
 5 = {name:Numquid redditur;annotation:4. A*;mode:4;book:Antiphonale Monasticum, 1934, p. 389;%%(c3)NUm(e)quid(f') réd(h)di(hi)tur(ii) * (,) pro(h_i) bó(j)no(ih) ma(i.)lum,(i.) (;) qui(i)a(f') fo(i)dé(h')runt(g) fó(f')ve(e)am(f_e) (,) á(d_e)ni(f')mæ(h) me(f.)æ?(f.) (::)};;4-alt-Astar
@@ -281,7 +281,7 @@ Tertia Hebdomadam={(c4) AL(h)le(h')lú(h)ja,(g'_) * al(h)le(g)lú(h)ja,(g'_) (,)
 Sexta Dominica={(c4) AL(f)le(fg)lú(gh)ja,(f'_) * al(f)le(fg)lú(gf~)ja,(d!ewfEC.) (;) al(c)le(d)lú(ffg)ja,(fe) al(g)le(gh)lú(f.)ja.(f.) (::)};;6
 Sexta Feria II={(c3) AL(h)le(g')lú(h)ja,(f_') * al(h)le(e')lú(f)ja,(e_d) (,) al(e)le(d')lú(e)ja,(f') al(g)le(fe)lú(f)ja.(e.) (::)};;8a
 Sexta Hebdomadam={(c4) AL(h)le(fg)lú(g)ja,(g_') * al(g)le(h!iwj)lú(j_h)ja,(i_0j) (,) al(h)le(h)lú(g')ja,(h) al(i')le(h)lú(g.)ja.(g.) (::)};;8G
-Nona Dominica={(c3)AL(e)le(f)lú(h_i)ja,(ii) * al(h_i)le(j_h)lú(i.)ja,(i.) (;) al(f_i)le(h_g)lú(f_e)ja,(f_e) (,) al(d_e)le(f_h)lú(f.)ja.(f.) (::)};;4-antiquo-alt-Astar
+Nona Dominica={(c3)AL(e)le(f)lú(h_i)ja,(ii) * al(h_i)le(j_h)lú(i.)ja,(i.) (;) al(f_i)le(h_g)lú(f_e)ja,(f_e) (,) al(d_e)le(f_h)lú(f.)ja.(f.) (::)};;4-alt-Astar
 Nona Feria II={(c4) AL(d_h)le(h_0i)lú(h)ja,(g_') * al(f)le(gh)lú(fe)ja,(d!ewf.) (;) al(fg)le(f)lú(fe)ja,(dc) al(d)le(fe)lú(d.)ja.(d.) (::)};;1a2
 Nona Hebdomadam={(f3) AL(f)le(h)lú(h_g~)ja,(f_') * al(g)le(e')lú(f)ja,(e.) (;) al(f)le(h)lú(hg)ja,(fe) al(f)le(gh)lú(f.)ja.(f.) (::)};;2
 Completorium={name:Alleluja;annotation:8.G;%%(c4) AL(g)le(g')lú(h)ja,(gf__) * (,) al(h)le(j)lú(i_0j)ja,(h_GF) al(gh)le(h)lú(g.)ja.(g.) (::)};;8G
@@ -317,7 +317,7 @@ Prima Feria II={name:Servite Domino;annotation:8. G;mode:8;book:Antiphonale Mona
 Prima Feria III={name:Deus judex justus;annotation:8. G;mode:8;book:Antiphonale Monasticum, 1934, p. 14;transcriber:MarkM;%%(c4)DE(g)us(g) ju(hi)dex(h) jus(gh)tus,(g_f) * (,)for(g)tis(h) et(j') lon(i)gá(h')ni(j)mis :(g.) (;)num(j)quid(j) i(i')ras(j)cé(h_g)tur(h'_) per(g) sín(e_f)gu(gh)los(h) di(g.)es?(g.) (::)};;7,8,9(1-19);;8G
 Prima Feria IV={name:Exsurge Domine;annotation:1.g5;mode:1;book:Antiphonale Monasticum, 1934, p. 17;%%(c4) EX(f)súr(h>)ge(g') Dó(h)mi(fg)ne,(g.) * (,)non(f) præ(f)vá(f_g)le(e')at(f) ho(d.)mo.(d.) (::)};;9(20-39),10,11;;1g5
 Prima Feria V={name:Cantabo Domino;annotation:2.;mode:2;book:Antiphonale Monasticum, 1934, p. 18;transcriber:Dominique CROCHU;%%(f3) CAn(f)tá(h')bo(g) Dó(h')mi(g)no,(f'_) *(,) qui(f) bo(hg)na(f) trí(fe)bu(f)it(hg) mi(f.)hi.(f.) (::)};;12,13,14;;2
-Prima Feria VI={name:Bonorum meorum;annotation:3. b;mode:3;book:Antiphonale Monasticum, 1934, p. 19 & Antiphonale Monasticum, 1934, p. 21;transcriber:MarkM;%%(c4)BO(g)nó(i')rum(j>) me(h)ó(j)rum(i') * non(g) ín(h')di(g)ges,(h.) (;)in(g>) te(e') spe(f)rá(g_i)vi,(h'_,) con(g>)sér(gf~)va(g) me(ghg) Dó(fe)mi(de)ne.(e.) (::)};;15,16,17(1-27);;3-antiquo-b
+Prima Feria VI={name:Bonorum meorum;annotation:3. b;mode:3;book:Antiphonale Monasticum, 1934, p. 19 & Antiphonale Monasticum, 1934, p. 21;transcriber:MarkM;%%(c4)BO(g)nó(i')rum(j>) me(h)ó(j)rum(i') * non(g) ín(h')di(g)ges,(h.) (;)in(g>) te(e') spe(f)rá(g_i)vi,(h'_,) con(g>)sér(gf~)va(g) me(ghg) Dó(fe)mi(de)ne.(e.) (::)};;15,16,17(1-27);;3b
 Prima Sabbato={name:Vivit Dominus;office-part:Antiphona;mode:7;book:Antiphonale Monasticum, 1934, p. 22 & Antiphonale Monasticum, 1934, p. 24;transcriber:MarkM;%%(c3)VI(g)vit(h) Dó(i')mi(j)nus,(i.) * (,) et(i_h) be(f')ne(h)dí(g_f)ctus(e'_) (,)De(f)us(e') sa(d)lú(ef)tis(f) me(e.)æ.(e.) (::)};;17(28-54),18,19;;7c2
 Prima Festis={(c3) AL(h_g~)le(f)lú(hi~)ja,(i.) * al(ij)le(hf)lú(g)ja,(f_e) al(f)le(fhg)lú(e.)ja.(e.) (::)};;118(1-8),118(9-16),118(17-24),118(25-32);;7c2
 Tertia Dominica={(c4) AL(h)le(gf)lú(gh)ja,(g.) * al(h)le(j)lú(hg)ja,(f) al(gh)le(h)lú(g.)ja.(g.) (::)};;118(33-40),118(41-48),118(49-56);;8G
@@ -326,7 +326,7 @@ Tertia Feria={name:Clamavi et exaudivit me;annotation:T. irr.;mode:e;book:Antiph
 Sexta Dominica={(c4) AL(d_0h)le(hj)lú(hg)ja,(g_0h) * (,) al(h)le(g)lú(hg)ja,(e_0f) al(g>)le(fe)lú(d.)ja.(d.) (::)};;118(57-64),118(65-72),118(73-80);;1a2
 Sexta Feria II={name:Aspice in me;annotation:8. a;mode:8;book:Antiphonale Monasticum, 1934, p. 101;transcriber:Dominique CROCHU;%%(c3) AD(h)spi(h)ce(g') in(h>) me,(f.) * (,) et(f) mi(h)se(e')ré(f)re(ed) me(ef)i,(f') Dó(e)mi(de)ne.(e.) (::)};;118(129-136),118(137-144),118(145-152);;8a
 Sexta Feria={name:Qui habitas in caelis;annotation:8. G;mode:8;book:Antiphonale Monasticum, 1934, p.116 & Liber antiphonarius, 1960, p. 119;transcriber:Andrew Hinkley;%%(c4) QUI(h) há(f)bi(fg)tas(g) * in(h!iwj) cae(j_h)lis,(i_j) (,) mi(h)se(h)ré(i')re(h) no(g.)bis.(g.) (::)};;122,123,124;;8G
-Nona Dominica={(c4)AL(g)le(hi)lú(hgi~)ja,(i'_) al(j)le(hg)lú(h)ja,(gf) al(g)le(gf)lú(e.)ja.(e.) (::)};;118(81-88),118(89-96),118(97-104);;3-antiquo-a
+Nona Dominica={(c4)AL(g)le(hi)lú(hgi~)ja,(i'_) al(j)le(hg)lú(h)ja,(gf) al(g)le(gf)lú(e.)ja.(e.) (::)};;118(81-88),118(89-96),118(97-104);;3a
 Nona Feria II={name:Fiat manus tua;annotation:1. a2;mode:1;book:Antiphonale Monasticum, 1934, p. 106;transcriber:MarkM;%%(c4)FI(d_h)at(h_i) ma(h)nus(g') tu(h)a,(gf) * Dó(g)mi(gh)ne,(h'_) (,)ut(g) sal(h')vum(g) me(f) fá(g_h)ci(fv_ED)as,(d.) (;)qui(e)a(c') man(d)dá(f_g)ta(f) tu(fe)a(dc) con(d)cu(fe)pí(d.)vi.(d.) (::)};;118(153-160),118(161-168),118(169-176);;1a2
 Nona Feria={name:Beati omnes;annotation:2.;mode:2;book:Antiphonale Monasticum, 1934, p. 121;transcriber:Dominique CROCHU;%%(f3) BE(f)á(h')ti(h) o(h_g)mnes,(f') * qui(g) ti(h)ment(fe~) Dó(f)mi(g)num.(f.) (::)};;125,126,127;;2
 
