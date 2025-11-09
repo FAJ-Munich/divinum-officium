@@ -1,3 +1,10 @@
+[Responsory Vespera] (tonus solemnis)
+R.br. {gabc:Commune/C8/rb--locus_iste--solesmes_1934-solemnis}
+(sed tempore paschali)
+R.br. {gabc:Commune/C8/rb--locus_iste_paschal_time--solesmes_1934-solemnis}
+(sed tempore passionis)
+R.br. {gabc:Commune/C8/rb--locus_iste-passionis-solesmes_1934-solemnis}
+
 [AntMatutinumM]
 Introíbo * in domum tuam, Dómine, † et adorábo ad templum sanctum tuum.;;5
 Dóminus * in templo sancto suo, † Dóminus in cælo sedes ejus.;;10

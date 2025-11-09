@@ -26,7 +26,7 @@ Ista est speciósa * inter fílias Jerúsalem.;;147
 (sed tempore Cordis)
 {gabc:Commune/C7/hy--fortem_virili_pectore_octava Cordis--solesmes_1934}
 (sed tempore Corpus aut tonus BMV)
-{gabc:Commune/C7/hy--fortem_virili_pectore_octava BMV—solesmes_1934}
+{gabc:Commune/C7/hy--fortem_virili_pectore_octava BMV--solesmes_1934}
 
 [HymnusM Vespera] (tempore paschali aut tempore ascensionis)
 {gabc:Commune/C7/hy--fortem_virili_pectore-TP-solesmes_1934}
