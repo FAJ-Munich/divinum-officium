@@ -41,7 +41,9 @@ Ista est speciósa * inter fílias Jerúsalem.;;147
 {initial-style:0;%%(c3) V/. Spé(h)ci(h)e(h) tu(h)a(h) et(h) pul(h)chri(h)tú(h)di(h)ne(h) tu(h)a,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) R/.(::) In(h)tén(h)de,(h) prós(h)pe(h)re(h) pro(h)cé(h)de,(h) et(h) reg(h)na,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 1]
-Veni, Sponsa Christi, * áccipe corónam, quam tibi Dóminus præparávit in ætérnum.
+{name:Veni sponsa Christi (I Vesperis);annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 1209 & Liber antiphonarius, 1960, p. [86] & Liber antiphonarius, 1960, p. 577.19;transcriber:Andrew Hinkley;%%(c3) VE(e_[uh:l]h)ni(f) spon(fe~)sa(d) Chri(e_[uh:l]f)sti,(e.) *(,) ác(g')ci(h)pe(i) co(hf)ró(hh)nam,(g.) (;) quam(ii) ti(h)bi(h) Dó(ij)mi(i)nus(hg/hih'_15) (,) prae(f)pa(e')rá(f)vit(f'_) in(h) ae(g)tér(e.)num.(e.) (::) ^_T. P._^ Al(fg)le(f)lú(e.){ia}.(e.) (::)};;8G
+(sed rubrica monastica)
+{name:Veni sponsa Christi (I Vesperis);annotation:8.G;mode:8;book:Antiphonale Monasticum, 1934, p. 678;transcriber:Andrew Hinkley;%%(c3) VE(e@fwh)ni(f) spon(fe~)sa(d) Chri(e_f)sti,(e.) *(,) ác(g')ci(h)pe(i) co(hf)ró(hh)nam,(g.) (;) quam(ii) ti(h')bi(h) Dó(ij)mi(i)nus(hg/hih'_1) (,) præ(f)pa(e')rá(f)vit(f'_) † in(h) æ(g)tér(e.)num.(e.) (::) ^_T. P._^ † in(h) æ(g')tér(e)num,(e_f) al(g>)le(fg)lú(e.)ia.(e.) (::)};;8G
 
 [Oratio]
 {(c3)De(h)us,(h) qui(h) in(h)ter(h) cé(h)te(h)ra(h) pot(h)én(h)ti(h)æ(h) tu(h)æ(h) mi(h)rá(h)cu(h)la(h) ét(h)i(h)am(h) in(h) se(h)xu(h) frá(h)gi(h)li(h) vic(h)tó(h)ri(h)am(h) mar(h)tý(h)ri(h)i(h) con(h)tu(h)lís(h)ti:(f.) †(;) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut,(h) qui(h) be(h)á(h)tæ(h) N. Vír(h)gi(h)nis(h) et(h) Már(h)ty(h)ris(h) tu(h)æ(h) na(h)ta(h)lí(h)ci(g)a(f) có(h)li(hr)mus,(h.) *(;) per(h) e(h)jus(h) ad(h) te(h) ex(h)ém(h)pla(h) gra(h)di(h)á(h dr)mur.(d.) (::)}
@@ -187,7 +189,7 @@ $Deo gratias
 R/. Prop(h)tér(h)e(h)a(h) be(h)ne(h)dí(h)xit(h) te(h) De(h)us(h) in(h) æ(h)tér(h hr)num.(g_'/hvGFEfgf.) (::)}
 
 [Ant 2]
-Simile est regnum cælórum * hómini negotiatori quærénti bonas margaritas: invénta una pretiósa, dedit ómnia sua, et comparávit eam. Allelúja.
+{name:Simile est... negotiatori;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 1231 & Liber antiphonarius, 1960, p. [92] & Liber antiphonarius, 1960, p. [97];transcriber:Andrew Hinkley;%%(c4) SI(g)mi(hj)le(j') est(j) *() re(jh~)gnum(i) cae(h')ló(g)rum(g.) (,) hó(g)mi(gk)ni(k') ne(k)go(j)ti(h')a(j)tó(i)ri(i.) (,) quae(h')rén(g)ti(h') bo(i)nas(jh) mar(i)ga(h')rí(g)tas :(g.) (:) in(gd~)vén(g)ta(hj) u(j)na(i_[uh:l]j) pre(kj)ti(h')ó(g)sa,(g.) (,) de(g)dit(gk) ó(k')mni(j)a(h') su(j)a,(i.) (;) et(h) com(g')pa(h)rá(ijh)vit(i_[oh:h]h) e(g.)am.(g.) (::) ^_T. P._^ Al(hi)le(h)lú(g.){ia}.(g.) (::)};;8G
 (sed rubrica monastica)
 {annotation:1. D;book:Antiphonale Monasticum 1934, p. 685;%%(c4) Si(c)mi(cd)le(d) est(d.) *() reg(d!dc~)num(d') cæ(f_)ló(d_0e)rum(ddc.) (,) hó(f)mi(g)ni(gh) ne(g)go(f')ti(e)a(fgf)to(d.)ri(d.) (;) quæ(d)rén(e)ti(fg) bo(gh)nas(g_') mar(h>)ga(de)ri(dd)tas:(c.) (:) in(c_0d)vén(e>)ta(d') u(e)na(fg) pre(e)ti(fe)ó(d.)sa,(d.) (;) de(e!f'g)dit(d!ewf) óm(fe~)ni(d)a(de) su(dd)a,(c.) †(;) et(c_0d) com(f)pa(fe)rá(fg)vit(fe) e(d.)am.(d.) (::) ^_T. P._^ et(c_0d) com(f)pa(fe)rá(fg)vit(fe) e(fe)am,(dc) al(d)le(fe)lú(d.)ja.(d.) (::)};;1d
 
@@ -231,3 +233,8 @@ V. In tabernáculo suo habitáre facit eam.
 R. Et præelégit eam.
 &Gloria
 R. Elégit eam Deus, * Et præelégit eam.
+
+[Ant 3]
+{name:Veni sponsa Christi (II Vesperis);annotation:7.c;mode:7;book:The Liber Usualis, 1961, p. 1214 & Liber antiphonarius, 1960, p. [96] & Liber antiphonarius, 1960, p. 577.19;transcriber:Andrew Hinkley;%%(c3) VE(i')ni(g) spon(i')sa(j) Chri(i)sti,(i.) *(,) ác(i')ci(g)pe(h') co(g)ró(e)nam,(e.) (;) quam(h) ti(h')bi(h) Dó(f')mi(h)nus(g'_[oh:h]) (,) prae(f)pa(e')rá(f)vit(f'_) in(h) ae(g)tér(e.)num.(e.) (::) ^_T. P._^ Al(fg)le(f)lú(e.){ia}.(e.) (::)};;7c
+(sed rubrica monastica)
+{name:Veni sponsa Christi (II Vesperis);annotation:7.c;mode:7;book:Antiphonale Monasticum, 1934, p. 682;transcriber:Andrew Hinkley;%%(c3) VE(i')ni(g) spon(i>')sa(j) Chri(i.)sti,(i.) *(,) ác(i')ci(g)pe(h') co(g)ró(e.)nam,(e.) (;) quam(g>) ti(g')bi(h) Dó(f')mi(h)nus(g'_) (,) præ(f)pa(e')rá(f)vit(f'_) † in(h) æ(g)tér(e.)num.(e.) (::) ^_T. P._^ † in(h) æ(g')tér(e)num,(e_f)  al(g>)le(fg)lú(e.)ia.(e.) (::)};;7c

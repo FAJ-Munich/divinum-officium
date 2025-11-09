@@ -12,6 +12,11 @@ Volo Pater, * ut ubi ego sum, illic sit et miníster meus.
 (sed tonus BMV nisi rubrica 1960 aut tempore Corpus nisi rubrica 1960)
 {gabc:Commune/C2/hy--deus_tuorum_militum-octava BMV-solesmes}
 
+[Hymnus Vespera] (tempore nativitatis)
+{gabc:Commune/C2/hy--deus_tuorum_militum_pro_s._stephano--solesmes}
+(sed rubrica 1960)
+{gabc:Commune/C2/hy--deus_tuorum_militum_pro_s._stephano--solesmes-1960}
+
 [Hymnus Vespera] (tempore paschali aut tempore ascensionis)
 {gabc:Commune/C2/hy--deus_tuorum_militum_tempore_paschali--solesmes}
 (sed tempore ascensionis)
@@ -20,11 +25,6 @@ Volo Pater, * ut ubi ego sum, illic sit et miníster meus.
 {gabc:Commune/C2/hy--deus_tuorum_militum_TP-octava BMV--}
 (sed rubrica 1960)
 {gabc:Commune/C2/hy--deus_tuorum_militum_tempore_paschali--solesmes-1960}
-
-[Hymnus Vespera] (tempore nativitatis)
-{gabc:Commune/C2/hy--deus_tuorum_militum_pro_s._stephano--solesmes}
-(sed rubrica 1960)
-{gabc:Commune/C2/hy--deus_tuorum_militum_pro_s._stephano--solesmes-1960}
 
 [HymnusM Vespera]
 {gabc:Commune/C2/hy--deus_tuorum_militum--solesmes_1934}
@@ -47,7 +47,9 @@ Volo Pater, * ut ubi ego sum, illic sit et miníster meus.
 R/. Et(h) con(h)sti(h)tu(h)ís(h)ti(h) e(h)um(h) su(h)per(h) ó(h)pe(h)ra(h) má(h)nu(h)um(h) tu(h)á(h hr)rum.(g_'/hvGFEfgf.) (::)}
 
 [Ant 1]
-Iste Sanctus * pro lege Dei sui certávit usque ad mortem, et a verbis impiórum non tímuit: fundátus enim erat supra firmam petram.
+{name:Iste sanctus;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 1123 & Liber antiphonarius, 1960, p. [15];transcriber:Andrew Hinkley;%%(c4) I(h)ste(gf) San(g_[uh:l]h)ctus(g.) *(,) pro(f_h) le(j)ge(j') De(j)i(j) su(jk)i(j'_) (,) cer(j)tá(ji)vit(h) us(ij)que(hg) ad(fg~) mor(g)tem,(g.) (;) et(f) a(h) ver(jk)bis(k) im(k)pi(k)ó(kj)rum(k) non(klk) tí(j)mu(ij)it :(j.) (:) fun(j')dá(k)tus(i') e(j)nim(h') e(j)rat(gh!ivHG'g) (,) su(e)pra(f) fir(gh)mam(h) pe(g.)tram.(g.) (::)};;8G
+(sed rubrica monastica)
+{annotation:8.G;%%(c3) I(f)ste(ed) San(e_[uh:l]f)ctus(ee) *(,) pro(c_e) le(h)ge(h) De(h’)i(h) su(hi)i(h'_) (,) cer(h>)tá(hg)vit(f) us(g_0h)que(fe) ad(de~) mor(e.)tem,(e.) (;) et(d) a(f) ver(hi)bis(i’) im(i>)pi(i)ó(ih)rum(i) non(iji’) tí(h)mu(gh)it :(h.) (:) fun(h)dá(i)tus(g') e(h)nim(f’) e(h)rat(e!fwgFEeo) (,) su(c)pra(d) fir(ef)mam(f) pe(e.)tram.(e.) (::)};;8G
 
 [Oratio]
 {(c3)In(h)fir(h)mi(h)tá(h)tem(h) nos(h)tram(h) ré(h)spi(h)ce,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(;) et,(h) qui(h)a(h) pon(h)dus(h) pró(h)pri(h)æ(h) ac(h)ti(h)ó(g)nis(f) gra(h hr)vat,(h.) *(;) be(h)á(h)ti(h) N. Már(h)ty(h)ris(h) tu(h)i(h) at(h)que(h) Pon(h)tí(h)fi(h)cis(h) in(h)ter(h)cés(h)si(h)o(h) glo(h)ri(h)ó(h)sa(h) nos(h) pró(h)te(dr)gat.(d.) (::)}
@@ -149,6 +151,11 @@ $Deo gratias
 (sed tonus BMV nisi rubrica 1960 aut tempore Corpus nisi rubrica 1960)
 {gabc:Commune/C2/hy--invicte_martyr_unicum-octava BMV-solesmes}
 
+[Hymnus Laudes] (tempore nativitatis)
+{gabc:Commune/C2/hy--invicte_martyr_unicum_pro_s._stephano--solesmes}
+(sed rubrica 1960)
+{gabc:Commune/C2/hy--invicte_martyr_unicum_pro_s._stephano--solesmes-1960}
+
 [Hymnus Laudes] (tempore paschali aut tempore ascensionis)
 {gabc:Commune/C2/hy--invicte_martyr_unicum_temp._pasch.--solesmes}
 (sed tempore ascensionis)
@@ -157,11 +164,6 @@ $Deo gratias
 {gabc:Commune/C2/hy--invicte_martyr_unicum_temp._pasch.-octava BMV-solesmes}
 (sed rubrica 1960)
 {gabc:Commune/C2/hy--invicte_martyr_unicum_temp._pasch.--solesmes-1960}
-
-[Hymnus Laudes] (tempore nativitatis)
-{gabc:Commune/C2/hy--invicte_martyr_unicum_pro_s._stephano--solesmes}
-(sed rubrica 1960)
-{gabc:Commune/C2/hy--invicte_martyr_unicum_pro_s._stephano--solesmes-1960}
 
 [HymnusM Laudes]
 {gabc:Commune/C2/hy--martyr_dei_qui_unicum--solesmes_1934}
@@ -184,7 +186,9 @@ $Deo gratias
 R/. Sic(h)ut(h) ce(h)drus(h) Lí(h)ba(h)ni(h) mul(h)ti(h)pli(h)cá(h)bi(hr)tur.(g_'/hvGFEfgf.) (::)}
 
 [Ant 2]
-Qui odit * ánimam suam in hoc mundo, in vitam ætérnam custódit eam.
+{name:Qui odit animam suam;annotation:3.a;mode:3;book:The Liber Usualis, 1961, p. 1129 & Liber antiphonarius, 1960, p. [19] & Liber antiphonarius, 1960, p. 577.13;transcriber:Andrew Hinkley;%%(c4) QUI(g) o(gh!jj)dit(j'_) *(,) á(j)ni(ji)mam(hi) su(h)am(g') in(h) hoc(jh) mun(i_[uh:l]j)do,(i.) (;) in(i_[uh:l]j) vi(k)tam(i) ae(ji)tér(hh)nam(g'_[oh:h]) (,) cu(g)stó(hf)dit(gf) e(e.)am.(e.) (::)};;3a
+(sed rubrica monastica)
+{name:Qui odit animam suam;annotation:3.a;mode:3;book:Antiphonale Monasticum, 1934, p. 642;transcriber:Dominique CROCHU;%%(c4)QUI(g) o(g!hwi!jo)dit(i'_) *(,) á(j)ni(ji)mam(hi) su(h)am(g') in(h) hoc(jh) mun(i_j)do,(i.) (;) in(i_j) vi(k)tam(j) æ(ji)tér(h>)nam(g.) (,) cus(hv_GF')tó(g)dit(gf) e(e.)am.(e.) (::)};;3a
 
 [Lectio Prima]
 !Sir 39:6
@@ -220,4 +224,6 @@ R. In salutári tuo.
 R. Magna est glória ejus * In salutári tuo.
 
 [Ant 3]
-Qui vult veníre post me, * ábneget semetípsum, et tollat crucem suam, et sequátur me.
+{name:Qui vult venire;annotation:1.f;mode:1;book:The Liber Usualis, 1961, p. 1128 & Liber antiphonarius, 1960, p. [21];transcriber:Andrew Hinkley;%%(c4) QUI(d) vult(d) ve(dc)ní(f)re(g) post(f!gwh) me,(h.) *(,) áb(ixi_[oh:h]h)ne(g)get(g') se(g)met(g)í(f_h)psum,(g.) (;) et(g) tol(g')lat(g) cru(e')cem(g) su(h_g)am,(f_g) (,) et(e) se(c)quá(d_f)tur(e) me.(d.) (::)};;1f
+(sed rubrica monastica)
+{name:Qui vult venire post me;annotation:1.f;mode:1;book:Antiphonale Monasticum, 1934, p. 644;transcriber:Dominique CROCHU;%%(c4) QUI(d) vult(d) ve(dc)ní(f)re(g) post(f!gwh) me,(h.) *(,) áb(h_g)ne(ixi')get(h) se(g')met(g)í(f_h)psum,(g.) (;) et(g) tol(g')lat(g) cru(e')cem(g) su(h_g)am,(f_g) (,) et(e) se(dc)quá(d_f)tur(e>) me.(d.) (::)};;1f

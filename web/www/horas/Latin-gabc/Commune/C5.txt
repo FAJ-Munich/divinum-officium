@@ -13,16 +13,18 @@ Serve bone * et fidélis, intra in gáudium Dómini tui.
 
 [Hymnus1M Vespera]
 {gabc:Commune/C5/hy--iste_confessor_conf_pont_in_duplicibus_minoribus-MTV-solesmes_1934}
-(sed tonus festives major aut tonus solemnis)
+(sed tonus festivus major aut tonus solemnis)
 {gabc:Commune/C5/hy--iste_confessor_conf_pont_in_duplicibus_majoribus-MTV-solesmes_1934}
 
 [HymnusM Vespera]
 {gabc:Commune/C5/hy--iste_confessor_conf_non_pont_in_duplicibus_minoribus--solesmes_1934}
-(sed tonus festives major aut tonus solemnis)
+(sed tonus festivus major aut tonus solemnis)
 {gabc:Commune/C5/hy--iste_confessor_conf_pont_in_duplicibus_majoribus--solesmes_1934}
 
 [Ant 1]
-Similábo eum * viro sapiénti, qui ædificávit domum suam supra petram.
+{name:Similabo eum;annotation:1.D;mode:1;book:The Liber Usualis, 1961, p. 1193 & Liber antiphonarius, 1960, p. [73];transcriber:Andrew Hinkley;%%(c4) SI(c)mi(cd)lá(d)bo(d) e(f_2f_)um(d!ew!fv_EC.)*(,)  vi(f)ro(g) sa(ixhih)pi(g)én(ig~)ti,(h.) (;) qui(h) ae(g)di(f)fi(e)cá(g_[uh:l]h)vit(gfg) (,) do(fe)mum(dc~) su(d)am(d') su(f)pra(e_[uh:l]f) pe(d.)tram.(d.) (::) ^_T. P._^ Al(e)le(fe)lú(d.){ia}.(d.) (::)};;1D
+(sed rubrica monastica)
+{name:Similabo eum;annotation:1.D;mode:1;book:Antiphonale Monasticum, 1934, p. 669;transcriber:Dominique CROCHU;%%(c4) SI(c)mi(cd)lá(d)bo(d) e(fv_2/fv_)um(d!ewf_EC.) *(,) vi(f)ro(g) sa(ixhih)pi(g)én(ig~)ti,(h.) (;) qui(h) æ(g')di(f)fi(e)cá(g_h)vit(gfg) (,) do(fe)mum(c'>) su(d)am(d') su(f)pra(ef~) † pe(d.)tram.(d.) (::) ^_T. P._^ † pe(d)tram,(dc) al(d)le(fe)lú(d.)ja(d.) (::)};;1D
 
 [Oratio]
 {(c3)De(h)us,(h) qui(h) nos(h) be(h)á(h)ti(h) N. Con(h)fes(h)só(h)ris(h) tu(h)i(h) án(h)nu(h)a(h) so(h)lem(h)ni(h)tá(h)te(h) læ(h)tí(h)fi(f)cas:(f.) †(;) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut(h) cu(h)jus(h) na(h)ta(h)lí(h)ti(g)a(f) có(h)li(hr)mus,(h.) *(;) ét(h)i(h)am(h) ac(h)ti(h)ó(h)nes(h) i(h)mi(h)té(h dr)mur.(d.) (::)}
@@ -114,7 +116,9 @@ $Deo gratias
 {gabc:Commune/C5/hy--jesu_corona_celsior-TP-octava BMV--solesmes_1934}
 
 [Ant 2]
-Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, intra in gáudium Dómini tui.
+{name:Euge serve bone (Conf non Pont);annotation:4.E;mode:4;book:The Liber Usualis, 1961, p. 1200 & Liber antiphonarius, 1960, p. [82] & Liber antiphonarius, 1960, p. 577.19;transcriber:Andrew Hinkley;%%(c4) EU(eefE~'D~)ge(e_[oh:h][ll:1]d_[oh:h]) *(,) ser(e)ve(f) bo(g)ne(f) et(gh) fi(gf)dé(e)lis,(e.) (;) qui(f)a(e') in(f) pau(gf~)ca(gh) fu(g)í(e_[uh:l]f)sti(g) fi(gf)dé(e)lis,(e.) (:) su(e)pra(f) mul(gh)ta(g') te(g) con(g)stí(hi)tu(h)am :(g.) (;) in(ghg~)tra(h') in(g) gáu(e)di(fg)um(g.) (,) Dó(fd)mi(e)ni(fg) tu(e.)i.(e.) (::) ^_T. P._^ Al(g)le(gf)lú(e.){ia}.(e.) (::)};;4E
+(sed rubrica monastica)
+{name:Serve bone;annotation:4.E;mode:4;book:Antiphonale Monasticum, 1934, p. 673;transcriber:Harpa Dei;%%(c4)SEr(e)ve(f) bo(g')ne(e) * et(gh) fi(gf)dé(e.)lis,(e.) (,) qui(d)a(e') in(f) pau(gf~)ca(gh) fu(g)ís(e_f)ti(g) fi(gf)dé(e.)lis,(e.) (;) su(d)pra(e) mul(g_0h)ta(g) te(g_0h) con(g_0h)stí(h!iwji)tu(hg)am (g.)(,) in(g_hi)tra(h') in(g>) gáu(e)di(fg)um(g'_) (,) Dó(g_)mi(fe)ni(d) De(d_g)i(gf) † tu(e.)i.(e.) (::) ^_T. P._^ † tu(e)i,(e_0f) al(g)le(gf)lú(e.)ja.(e.) (::)};;4E
 
 [Lectio Prima]
 !Sap 10:10
@@ -142,4 +146,6 @@ R. In corde ipsíus.
 R. Lex Dei ejus * In corde ipsíus.
 
 [Ant 3]
-Hic vir despíciens mundum * et terréna, triúmphans, divítias cælo cóndidit ore, manu.
+{name:Hic vir despiciens;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 1199 & Liber antiphonarius, 1960, p. [85] & Liber antiphonarius, 1960, p. 577.19;transcriber:Andrew Hinkley;%%(c3) HIC(e) vir,(eh) de(f)spí(f')ci(e)ens(d) mun(e_[uh:l]f)dum(e.) *(,) et(g') ter(h)ré(i)na,(hf) tri(h')úm(h)phans,(g.) (;) di(i')ví(i)ti(h')as(h) cae(iji)lo(hg/hih'_15) (,) cón(f)di(e')dit(f) o(f!gwh'!iv)re,(h) ma(e.)nu.(e.) (::) ^_T. P._^ Al(fg)le(f)lú(e.){ia}.(e.) (::)};;8G
+(sed rubrica monastica)
+{name:Hic vir despiciens mundum;annotation:8.G;mode:8;book:Antiphonale Monasticum, 1934, p. 675;transcriber:Dominique CROCHU;%%(c3) HIC(e) vir,(eh) de(f)spí(f)ci(fe)ens(d) mun(e_f)dum(e.) *(,) et(g) ter(h)ré(i)na(hf) tri(h')úm(h)phans,(g.) (;) di(i)ví(i)ti(h')as(h) cæ(iji)lo(hg/h!i!h'_) (,) cón(f)di(ef)dit(f) o(f!gw!h_5i)re,(g) ma(e.)nu.(e.) (::) ^_T. P._^ Al(f)le(fg)lú(e.)ja.(e.) (::)};;8G

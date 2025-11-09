@@ -69,7 +69,9 @@ R. Quem vidi, quem amávi, in quem crédidi, quem diléxi.
 $Deo gratias
 
 [Ant 2]
-Date ei * de fructu mánuum suárum, et laudent eam in portis ópera ejus.
+{name:Date ei de fructu;annotation:7.c2;mode:7;book:The Liber Usualis, 1961, p. 1236 & Liber antiphonarius, 1960, p. [101] & Liber antiphonarius, 1960, p. 577.22;transcriber:Andrew Hinkley;%%(c3) DA(h_g)te(f) e(hi)i(i'_[oh:h]) *(,) de(h) fru(jk)ctu(j') má(i)nu(h)um(ij) su(hf)á(h.)rum,(g.) (;) et(i) lau(hg)dent(e') e(f)am(e') in(d) por(ef)tis(f.) (,) ó(f_h)pe(h)ra(g) e(e.)jus.(e.) (::) ^_T. P._^ Al(fg)le(f)lú(e.){ia}.(e.) (::)};;7c2
+(sed rubrica monastica)
+{name:Date ei de fructu;annotation:7.c2;mode:7;book:Antiphonale Monasticum, 1934, p. 688;transcriber:Dominique CROCHU;%%(c3)DA(h_g)te(f) e(hi)i(i'_) *(,) de(h) fruc(jk)tu(ji) má(hi)nu(h)um(hg~) su(f)á(hv_GE)rum,(e.) (;) et(f) lau(ed~)dent(e) e(fh)am(h_g) in(f) por(hi~)tis(i.) (,) ó(ij)pe(h)ra(fgf) † e(e.)jus.(e.) (::) ^_T.P._^ † e(e)jus,(e_f) al(g>)le(fg)lú(e.)ia.(e.) (::)};;7c2
 
 [Lectio Prima]
 !Sir 51:8; 51:12
@@ -81,4 +83,6 @@ Date ei * de fructu mánuum suárum, et laudent eam in portis ópera ejus.
 $Deo gratias
 
 [Ant 3]
+{name:Manum suam;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 1236 & Liber antiphonarius, 1960, p. [103] & Liber antiphonarius, 1960, p. 577.22;transcriber:Andrew Hinkley;%%(c4) MA(g)num(gv_[oh:h]FD) su(fg)am(ghg'_1[oh:h]) *(,) a(g)pé(h')ru(g)it(gf) ín(gh)o(g)pi,(ixhih.) (;) et(hj~) pal(ji)mas(h) su(jk)as(k'_) (,) ex(j)tén(ji)dit(g_[uh:l]hG'F) ad(hih') páu(g)pe(fg)rem :(g.) (:) et(gf) pa(ef'g)nem(gvFED'_4) (,) o(c)ti(d)ó(e_[uh:l]f)sa(gf) non(h) com(hih)é(g.)dit.(g.) (::) ^_T. P._^ Al(f)le(fg)lú(g.){ia}.(g.) (::)};;8G
+(sed rubrica monastica)
 {name:Manum suam aperuit;annotation:4 d.;mode:4;book:Antiphonale Monasticum, 1934, p. 690;transcriber:Dominique CROCHU;%%(c4)MA(c)num(de~) su(ef)am(e'_) *(,) a(f)pé(fg)ru(f)it(fe) ín(d)o(de)pi,(e.) (;) et(dh'!iv) pal(h)mas(gf) su(gf)as(d_c) (,) ex(d)tén(cdf~)dit(fe) ad(dc) páu(d)pe(de)rem,(e.) (;) et(f>) pa(e!fwg)nem(g_d) o(d)ti(dg)ó(g)sa(gf) non(g) co(ghg)mé(e.)dit.(e.) (::)};;4-alt-d

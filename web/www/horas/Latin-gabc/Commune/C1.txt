@@ -1,9 +1,16 @@
 [Ant Vespera]
-Hoc est præcéptum meum, * ut diligátis ínvicem, sicut diléxi vos.
-Majórem caritátem * nemo habet, ut ánimam suam ponat quis pro amícis suis.
-Vos amíci mei estis, * si fecéritis quæ præcípio vobis, dicit Dóminus.
-Beáti pacífici, * beáti mundo corde: quóniam ipsi Deum vidébunt.
-In patiéntia vestra * possidébitis ánimas vestras.
+Hoc est præcéptum meum, * ut diligátis ínvicem, sicut diléxi vos.;;;;8c
+Majórem caritátem * nemo habet, ut ánimam suam ponat quis pro amícis suis.;;;;1g
+Vos amíci mei estis, * si fecéritis quæ præcípio vobis, dicit Dóminus.;;;;1a3
+Beáti pacífici, * beáti mundo corde: quóniam ipsi Deum vidébunt.;;;;1f
+In patiéntia vestra * possidébitis ánimas vestras.;;;;1g
+
+[Ant Vespera] (rubrica monastica)
+Hoc est præcéptum meum, * ut diligátis ínvicem, sicut diléxi vos.;;;;8a
+Majórem caritátem * nemo habet, ut ánimam suam ponat quis pro amícis suis.;;;;1g
+Vos amíci mei estis, * si fecéritis quæ præcípio vobis, dicit Dóminus.;;;;1a2
+Beáti pacífici, * beáti mundo corde: quóniam ipsi Deum vidébunt.;;;;1f
+In patiéntia vestra * possidébitis ánimas vestras.;;;;1g
 
 [Hymnus Vespera]
 {gabc:Commune/C1/hy--exsultet_orbis_gaudiis--solesmes_1961.1}
@@ -27,7 +34,9 @@ In patiéntia vestra * possidébitis ánimas vestras.
 R/. Et(h) in(h) fi(h)nes(h) or(h)bis(h) ter(h)ræ(h) ver(h)ba(h) e(h)ó(h hr)rum.(g_'/hvGFEfgf.) (::)}
 
 [Ant 1]
-Tradent enim vos * in concíliis, et in synagógis suis flagellábunt vos, et ante reges et prǽsides ducémini propter me in testimónium illis, et Géntibus.
+{name:Tradent enim vos;annotation:1.f;mode:1;book:The Liber Usualis, 1961, p. 1112 & Liber antiphonarius, 1960, p. [8];transcriber:Andrew Hinkley;%%(c4) TRa(d)dent(dc~) e(f)nim(gh) vos(h_gg) *(,) in(f) con(g)cí(gh)li(fe)is,(d.) (;) et(g) in(g) sy(g)na(g')gó(h)gis(g') su(f)is(fe) (,) fla(c')gel(d)lá(f)bunt(gf~) vos,(d.) (:) et(dc) an(f')te(g) re(h')ges(g) et(f) praé(gh)si(fe)des(d'_) (,) du(f)cé(f)mi(fv_ED)ni(e_[oh:h][ll:1]d) (,) pro(d!ewf/g_[oh:h]f)pter(fd~) me,(fgf.) (;) in(fd~) te(f')sti(g)mó(h')ni(g)um(f) il(gh)lis(gg) (,) et(c_[ll:1]d) gén(f_)ti(g_[oh:h]f_[oh:h])bus.(d.) (::)};;1f
+(sed rubrica monastica)
+{name:Tradent enim vos;annotation:1.f;mode:1;book:Antiphonale Monasticum, 1934, p. 621;transcriber:Dominique CROCHU;%%(c4) TRa(d)dent(dc~) e(f)nim(gh) vos(h_ggo) *(,) in(f) con(g)cí(gh)li(fe)is,(d.) (;) et(g) in(g') sy(g)na(g')gó(h)gis(g') su(f)is(e') (,) fla(c)gel(d')lá(f)bunt(gf~) vos,(d.) (:) et(dc) an(f)te(g') re(h>)ges(g') et(f) prǽ(g_h)si(f_e)des(d'_) (,) du(f)cé(f)mi(fv_ED)ni(e_d) (,) pro(d!ewf/gf)pter(fd~) me,(fgf.) (;) in(fd~) te(f)sti(g)mó(h')ni(g)um(f) il(gh)lis(gg) (,) et(c_d) gén(f>_)ti(g_f)bus.(d.) (::)};;1f
 
 [Invit]
 Regem Apostolórum Dóminum, * Veníte, adorémus.
@@ -147,7 +156,9 @@ $Deo gratias
 R/. Et(h) fac(h)ta(h) e(h)jus(h) in(h)tel(h)le(h)xé(h hr)runt.(g_'/hvGFEfgf.) (::)}
 
 [Ant 2]
-Vos qui reliquístis * ómnia, et secúti estis me, céntuplum accipiétis, et vitam ætérnam possidébitis.
+{name:Vos qui reliquistis omnia;annotation:1.f;mode:1;book:Liber antiphonarius, 1960, p. [8];transcriber:Andrew Hinkley;%%(c4) VOS(d) qui(d) re(e')li(f)quí(g')stis(g) ó(gh)mni(fv_ED)a,(d.) *(;) et(c') se(d)cú(f)ti(fd) e(f_h)stis(f_0!g_h) me:(g.) (:) cén(ixh_i)tu(g)plum(fe) ac(f)ci(g)pi(fe)é(d!ewf)tis,(c.) (;) et(cd~) vi(d_/d_)tam(c) ae(d)tér(ff)nam(e_f) pos(g)si(fe)dé(d)bi(d)tis.(d.) (::)};;1f
+(sed rubrica monastica)
+{name:Vos qui reliquistis omnia;annotation:1.g;mode:1;book:Antiphonale Monasticum, 1934, p. 624;%%(c4)Vos(d) qui(d) re(e')li(f)quí(g')stis(g) óm(f_0g)ni(f_vED)a,(dewf.) *(;) et(c) se(d')cú(f)ti(fd) e(f_h)stis(f_0!g_h) me,(g.) (:) cén(h_i)tu(g)plum(fe) ac(f)ci(g)pi(fe)é(d!ewf)tis,(c.) (;) et(df~) vi(f_f_)tam(c) æ(d)tér(ff)nam(e_f) pos(g)si(fe)dé(d)bi(cd)tis.(d.) (::)};;1g
 
 [Lectio Prima]
 !Act 5:41
@@ -183,11 +194,24 @@ R. Amíci tui, Deus.
 R. Nimis honoráti sunt * Amíci tui, Deus.
 
 [Ant Vespera 3]
-Jurávit Dóminus, * et non pœnitébit eum: Tu es sacérdos in ætérnum.;;109
-Cóllocet eum * Dóminus cum princípibus pópuli sui.;;112
-Dirupísti, Dómine, * víncula mea: tibi sacrificábo hóstiam laudis.;;115
-Eúntes ibant * et flebant, mitténtes sémina sua.;;125
-Confortátus est * principátus eórum, et honoráti sunt amíci tui, Deus.;;138
+Jurávit Dóminus, * et non pœnitébit eum: Tu es sacérdos in ætérnum.;;109;;8G
+Cóllocet eum * Dóminus cum princípibus pópuli sui.;;112;;8c
+Dirupísti, Dómine, * víncula mea: tibi sacrificábo hóstiam laudis.;;115;;7a
+Eúntes ibant * et flebant, mitténtes sémina sua.;;125;;8c
+Confortátus est * principátus eórum, et honoráti sunt amíci tui, Deus.;;138;;7c2
+
+[Ant Vespera 3] (rubrica monastica)
+Jurávit Dóminus, * et non pœnitébit eum: Tu es sacérdos in ætérnum.;;109;;8G
+Cóllocet eum * Dóminus cum princípibus pópuli sui.;;112;;8a
+Dirupísti, Dómine, * víncula mea: tibi sacrificábo hóstiam laudis.;;115;;7a
+Confortátus est * principátus eórum, et honoráti sunt amíci tui, Deus.;;138;;7c2
 
 [Ant 3]
-Estóte fortes * in bello, et pugnáte cum antíquo serpénte: et accipiétis regnum ætérnum, allelúja.
+{name:Estote fortes in bello;annotation:1.g2;mode:1;book:The Liber Usualis, 1961, p. 1118 & Liber antiphonarius, 1960, p. [13];transcriber:Andrew Hinkley;%%(c4) E(f)stó(h)te(g') for(h)tes(g') in(f) bel(gf~)lo,(d.) *(;) et(h_[oh:h]i_[oh:h]h_[oh:h]) pu(g_[uh:l]h)gná(jk)te(jkj) cum(j) an(ji)tí(g)quo(ij) ser(ih~)pén(i)te :(h.) (:) et(h) ac(ghg)ci(e)pi(f)é(gh)tis(g) re(hf~)gnum(g) ae(f)tér(fe)num,(dc) (,) al(d)le(fe)lú(d.){ia}.(d.) (::)};;1g2
+(sed tempore gesimæ aut tempore passionis)
+{name:Estote fortes in bello;annotation:1.g2;mode:1;book:The Liber Usualis, 1961, p. 1118 & Liber antiphonarius, 1960, p. [13];transcriber:Andrew Hinkley;%%(c4) E(f)stó(h)te(g') for(h)tes(g') in(f) bel(gf~)lo,(d.) *(;) et(h_[oh:h]i_[oh:h]h_[oh:h]) pu(g_[uh:l]h)gná(jk)te(jkj) cum(j) an(ji)tí(g)quo(ij) ser(ih~)pén(i)te :(h.) (:) et(h) ac(ghg)ci(e)pi(f)é(gh)tis(g) re(hf~)gnum(g) ae(f)tér(fe)num,(dc) (,) di(d)cit(fe) Dó(d)mi(d)nus.(d.) (::)};;1g2
+
+[Ant 3] (rubrica monastica)
+{name:Estote fortes in bello;annotation:1.g3;mode:1;book:Antiphonale Monasticum, 1934, p. 628;%%(c4) E(f)stó(h')te(g) for(h')tes(g) in(f') bel(g>)lo,(d.) *(;) et(h_iHG) pu(h)gná(j_k)te(jkj') cum(j) an(ji~)tí(g)quo(i_j) ser(ih~)pén(i)te:(h.) (:) et(h) ac(ghg)ci(e')pi(f)é(g_h)tis(g.)(,)  re(hf~)gnum(g') æ(f)tér(fe~)num,(dc) +(,) al(d)le(fe)lú(d.)ia.(d.) (::)};;1g3
+(sed tempore gesimæ aut tempore passionis)
+{name:Estote fortes in bello;annotation:1.g3;mode:1;book:Antiphonale Monasticum, 1934, p. 628;%%(c4) E(f)stó(h')te(g) for(h')tes(g) in(f') bel(g>)lo,(d.) *(;) et(h_iHG) pu(h)gná(j_k)te(jkj') cum(j) an(ji~)tí(g)quo(i_j) ser(ih~)pén(i)te:(h.) (:) et(h) ac(ghg)ci(e')pi(f)é(g_h)tis(g.)(,)  re(hf~)gnum(g') æ(f)tér(fe~)num,(dc) (,) di(d)cit(fe) Dó(d)mi(cd)nus.(d.) (::)};;1g3
