@@ -19,7 +19,7 @@ Fontes, et ómnia * quæ movéntur in aquis, hymnum dícite Deo, allelúja.
 Loquebántur * váriis linguis Apóstoli magnália Dei, allelúja, allelúja, allelúja.
 
 [Ant Vespera] (rubrica monastica)
-{name:Dum complerentur;annotation:3. a2;mode:3;book:Antiphonale Monasticum, 1934, p. 520;transcriber:Albert Bloomfield;%%(c4)DUM(ed~) com(g)ple(hi)rén(i_)tur(i.) *(,) dí(i_k)es(j') Pen(h)te(i')có(h)stes,(g.) (;) é(g)rant(hi) óm(h)nes(gf) pá(e)ri(fg)ter(g') di(g)cén(h)tes,(gf) al(g)le(gf)lú(e.)ja.(e.) (::)};;;;3-antiquo-a2
+{name:Dum complerentur;annotation:3. a2;mode:3;book:Antiphonale Monasticum, 1934, p. 520;transcriber:Albert Bloomfield;%%(c4)DUM(ed~) com(g)ple(hi)rén(i_)tur(i.) *(,) dí(i_k)es(j') Pen(h)te(i')có(h)stes,(g.) (;) é(g)rant(hi) óm(h)nes(gf) pá(e)ri(fg)ter(g') di(g)cén(h)tes,(gf) al(g)le(gf)lú(e.)ja.(e.) (::)};;;;3a2
 {name:Spiritus Domini replevit;annotation:8. G;mode:8;book:Antiphonale Monasticum, 1934, p. 1076 & Antiphonale Monasticum, 1934, p. 520;transcriber:Albert Bloomfield;%%(c4)SPí(d)ri(fhg)tus(gh~) Dó(h')mi(g)ni(f_e) *(,) re(d)plé(f_g)vit(g_d) ór(f_g)bem(h_g) ter(f)rá(gh)rum,(h.) (;) al(gv_F_D_)le(e_f)lú(gh)ja.(g.) (::)};;;;8G
 {name:Repleti sunt;annotation:8. G;mode:8;book:Antiphonale Monasticum, 1934, p. 521;transcriber:Albert Bloomfield;%%(c4)RE(g)plé(gi_!jv)ti(h) sunt(gf~) óm(g_h)nes(g.) *(,) Spí(h)ri(g)tu(f) San(gh~)cto,(h.) (;) et(j_i) cœ(h')pé(j)runt(jk) ló(g)qui,(ghg_1'0) al(f)le(fg)lú(g.)ja.(g.) (::)};;;;8G
 {name:Fontes et omnia;annotation:1. a2;mode:1;book:Antiphonale Monasticum, 1934, p. 521;transcriber:Albert Bloomfield;%%(c4)FOn(d_h)tes,(h') *(,) et(j) óm(h>)ni(gh)a(h'_) quæ(h) mo(g)vén(e_f)tur(g) in(fe) a(d.)quis,(d.) (;) hym(f_d~)num(e_f) dí(g)ci(f)te(f) De(fe)o,(dc) al(d)le(fe)lú(d.)ja.(d.) (::)};;;;1a2

@@ -32,6 +32,16 @@ sub lectio_brevis_prima {
     $brevis = $b || $brevis;
   }
 
+  if ($brevis =~ /\(ef\.\.\)/) {
+
+    # Transform Tonus Capitulum (Nona) into Tonus Lectio brevis
+    map {
+      s/(.*)\(f/$1(h./g;
+      s/er\)/dr\)/g;
+      s/\(ef\.\.\)/(d.)/g;
+    } $brevis;
+  }
+
   $brevis = "\$benedictio Prima\n$brevis" unless $version =~ /^Monastic/;
   $brevis .= "\n\$Tu autem";
 

@@ -13,50 +13,30 @@ Fulgébunt justi * sicut sol in conspéctu Dei, allelúja.;;116;;2
 {(f3)FUl(f)gé(h')bunt(h) ju(f_g)sti(f_e) *(,) sic(h!iwji)ut(hg) sol(f!gwh/ih.) (;) in(e) con(f)spé(h')ctu(i) De(hg)i,(fe) al(f)le(hg)lú(f.)ja.(f.) (::)};;;;2
 
 [Hymnus Vespera]
-{:H-Tristeserantapostoli:}v. Tristes erant Apóstoli
-De Christi acérbo fúnere,
-Quem morte crudelíssima
-Servi necárant ímpii.
-_
-Sermóne verax Angelus
-Muliéribus prædíxerat:
-Mox ore Christus gáudium
-Gregi feret fidélium.
-_
-Ad ánxios Apóstolos
-Currunt statim dum núntiæ,
-Illæ micántis óbvia
-Christi tenent vestígia.
-_
-Galilǽæ ad alta móntium
-Se cónferunt Apóstoli,
-Jesúque, voti cómpotes,
-Almo beántur lúmine.
-_
-Ut sis perénne méntibus
-Paschále Jesu gáudium;
-A morte dira críminum
-Vitæ renátos líbera.
-_
-* Deo Patri sit glória
-Et Filio, qui a mórtuis
-Surréxit, ac Paráclito
-In sempitérna sǽcula.
-Amen.
+{gabc:Commune/C1/hy--tristes_erant_apostoli--solesmes_1961.1}
+(sed tempore Ascensionis)
+{gabc:Commune/C1/hy--tristes_erant_apostoli_in_ascensione--}
+(sed tonus BMV)
+{gabc:Commune/C1/hy--tristes_erant_apostoli_octava BMV--}
 
 [HymnusM Vespera]
 {gabc:Commune/C1/hy--tristes_erant_apostoli--solesmes_1934}
 (sed tempore Ascensionis)
 {gabc:Commune/C1/hy--tristes_erant_apostoli-Ascensionis-solesmes_1934}
+(sed tonus BMV)
+{gabc:Commune/C1/hy--tristes_erant_apostoli-octava BMV-solesmes_1934}
 
 [Versum 1]
-{initial-style:0;%%(c3) V/. San(h)cti(h) et(h) jus(h)ti(h) in(h) Dó(h)mi(h)no(h) gau(h)dé(h)te,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)
-R/. Vos(h) e(h)lé(h)git(h) De(h)us(h) in(h) he(h)re(h)di(h)tá(h)tem(h) si(h)bi,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)}
+{initial-style:0;%%(c3) V/. San(h)cti(h) et(h) jus(h)ti(h) in(h) Dó(h)mi(h)no(h) gau(h)dé(h)te,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/. Vos(h) e(h)lé(h)git(h) De(h)us(h) in(h) he(h)re(h)di(h)tá(h)tem(h) si(h)bi,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 1]
-Lux perpétua * lucébit Sanctis tuis, Dómine, et ætérnitas témporum, allelúja.
+{name:Lux perpetua;annotation:1.g;mode:1;book:The Liber Usualis, 1961, p. 1118 & Liber antiphonarius, 1960, p. [28];transcriber:Andrew Hinkley;%%(c4) LUX(d_f) per(dc~)pé(c)tu(de)a(e.) *(,) lu(e[ll:1]d)cé(dg)bit(g) San(gh)ctis(e) tu(fe)is,(d) (,) Dó(e[ll:1]d)mi(cd)ne :(d/e'fcd.g_[oh:h]d/efED.) (:) et(g_[uh:l]h!jvI'HG'h) ae(fe)tér(g)ni(fe)tas(d.) tém(c)po(de)rum,(e.) (,) al(ce~)le(e_[oh:h][ll:1]dfvEDe[ll:1]d)lú(cd~){ia}.(d.) (::)};;1g
 (sed rubrica monastica)
 {annotation:1. g;%%name:Lux perpetua;annotation:1. g;mode:1;book:Antiphonale Monasticum, 1934, p. 632;%%(c4) LUX(d_f) per(ddc~)pé(c)tu(de)a(e.) *(,) lu(ed)cé(dg)bit(g) San(gh)ctis(e) tu(fe)is,(d) Dó(ed)mi(cd)ne :(d.;) et(g_h!jvIH'Gh) æ(ed)tér(g)ni(gf)tas(dd) tém(c)po(de)rum,(e.) (,) al(ce~)le(e_d/fvEDd)lú(cd~)ja.(d.) (::)};;1g
+
+[Invit]
+Regem Apostolórum Dóminum, * Veníte, adorémus, allelúja.
 
 [Ant Matutinum]
 Stabunt justi * in magna constántia advérsus eos, qui se angustiavérunt, allelúja.;;18
@@ -69,77 +49,125 @@ Lux perpétua * lucébit Sanctis tuis, Dómine, et ætérnitas témporum, allel�
 ;;96
 ;;98
 
-[Nocturn 2 Versum] (nisi rubrica cisterciensis)
-{initial-style:0;%%(c3) V/. Lux(h) per(h)pé(h)tu(h)a(h) lu(h)cé(h)bit(h) San(h)ctis(h) tu(h)is,(h) Dó(h)mi(h)ne,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)
-R/. Et(h) æ(h)tér(h)ni(h)tas(h) tém(h)po(h)rum,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)}
+[Nocturn 2 Versum]
+{initial-style:0;%%(c3) V/. Lux(h) per(h)pé(h)tu(h)a(h) lu(h)cé(h)bit(h) San(h)ctis(h) tu(h)is,(h) Dó(h)mi(h)ne,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/. Et(h) æ(h)tér(h)ni(h)tas(h) tém(h)po(h)rum,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
-[Nocturn 3 Versum] (nisi rubrica cisterciensis)
-{initial-style:0;%%(c3) V/. Læ(h)tí(h)ti(h)a(h) sem(h)pi(h)tér(h)na(h) su(h)per(h) cá(h)pi(h)ta(h) e(h)ó(h)rum,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)
-R/. Gáu(h)di(h)um(h) et(h) ex(h)sul(h)ta(h)ti(h)ó(h)nem(h) ob(h)ti(h)né(h)bunt,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)}
+[Nocturn 3 Versum]
+{initial-style:0;%%(c3) V/. Læ(h)tí(h)ti(h)a(h) sem(h)pi(h)tér(h)na(h) su(h)per(h) cá(h)pi(h)ta(h) e(h)ó(h)rum,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/. Gáu(h)di(h)um(h) et(h) ex(h)sul(h)ta(h)ti(h)ó(h)nem(h) ob(h)ti(h)né(h)bunt,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
+
+[Responsory1]
+R. Beátus vir qui métuit Dóminum, allelúja:
+* In mandátis ejus cupit nimis, allelúja, allelúja, allelúja.
+V. Glória et divítiæ in domo ejus, et justítia ejus manet in sǽculum sǽculi.
+R. In mandátis ejus cupit nimis, allelúja, allelúja, allelúja.
+
+[Responsory2]
+R. Tristítia vestra, allelúja,
+* Convertétur in gáudium, allelúja, allelúja.
+V. Mundus autem gaudébit, vos vero contristabímini, sed tristítia vestra.
+R. Convertétur in gáudium, allelúja, allelúja.
+
+[Responsory3]
+R. Pretiósa in conspéctu Dómini, allelúja,
+* Mors Sanctórum ejus, allelúja.
+V. Custódit Dóminus ómnia ossa eórum, unum ex his non conterétur.
+R. Mors Sanctórum ejus, allelúja.
+&Gloria
+R. Mors Sanctórum ejus, allelúja.
+
+[Responsory4]
+R. Lux perpétua lucébit Sanctis tuis, Dómine,
+* Et ætérnitas témporum, allelúja, allelúja.
+V. Lætítia sempitérna erit super cápita eórum: gáudium et exsultatiónem obtinébunt.
+R. Et ætérnitas témporum, allelúja, allelúja.
+
+[Responsory5]
+R. Virtúte magna reddébant Apóstoli
+* Testimónium resurrectiónis Jesu Christi Dómini nostri, allelúja, allelúja.
+V. Repléti quidem Spíritu Sancto, loquebántur cum fidúcia verbum Dei.
+R. Testimónium resurrectiónis Jesu Christi Dómini nostri, allelúja, allelúja.
+
+[Responsory6]
+R. Isti sunt agni novélli, qui annuntiavérunt, allelúja, modo venérunt ad fontes,
+* Repléti sunt claritáte, allelúja, allelúja.
+V. In conspéctu Agni amícti sunt stolis albis, et palmæ in mánibus eórum.
+R. Repléti sunt claritáte, allelúja, allelúja.
+&Gloria
+R. Repléti sunt claritáte, allelúja, allelúja.
+
+[Responsory7]
+R. Ego sum vitis vera, et vos pálmites:
+* Qui manet in me, et ego in eo, hic fert fructum multum, allelúja, allelúja.
+V. Sicut diléxit me Pater, et ego diléxi vos.
+R. Qui manet in me, et ego in eo, hic fert fructum multum, allelúja, allelúja.
+
+[Responsory8]
+R. Cándidi facti sunt Nazarǽi ejus, allelúja: splendórem Deo dedérunt, allelúja:
+* Et sicut lac coaguláti sunt, allelúja, allelúja.
+V. Candidióres nive, nitidióres lacte, rubicundióres ébore antíquo, sapphíro pulchrióres.
+R. Et sicut lac coaguláti sunt, allelúja, allelúja.
+&Gloria
+R. Et sicut lac coaguláti sunt, allelúja, allelúja.
+
+[Ant Laudes]
+@:Ant Vespera:s/;;\d+;;/;;;;/
 
 [Capitulum Laudes]
 !Sap 5:1
-{(c3) Sta(h)bunt(h) jus(h)ti(h) in(h) ma(h)gna(h) con(h)stán(h)ti(h)a(h) ad(h)vér(h)sus(h) e(h)os,(h) qui(h) se(h) an(h)gus(h)ti(h)a(h)vé(h)runt,(h) et(h) qui(h) abs(h)tu(h)lé(h)runt(h) la(h)bó(h)res(h) e(h)ó(f)rum.(ef..) (::)}
+{(c3) Sta(h)bunt(h) jus(h)ti(h) in(h) ma(h)gna(h) con(h)stán(h)ti(h)a(f.) †(,) ad(h)vér(h)sus(h) e(h)os,(h) qui(h) se(h) an(h)gus(h)ti(g)a(f)vé(h)runt,(h.) *(;)  et(h) qui(h) abs(h)tu(h)lé(h)runt(h) la(h)bó(h)res(h) e(h)ó(f)rum.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
-{:H-Paschalemundogaudium:}v. Paschále mundo gáudium
-Sol núntiat formósior,
-Cum luce fulgéntem nova
-Jesum vident Apóstoli.
-_
-In carne Christi vúlnera
-Micáre tamquam sídera
-Mirántur, et quidquid vident
-Testes fidéles prǽdicant.
-_
-Rex Christe clementíssime,
-Tu corda nostra pósside:
-Ut lingua grates débitas
-Tuo repéndat nómini.
-_
-Ut sis perénne méntibus
-Paschále Jesu gáudium;
-A morte dira críminum
-Vitæ renátos líbera.
-_
-* Deo Patri sit glória,
-Et Fílio, qui a mórtuis
-Surréxit, ac Paráclito,
-In sempitérna sǽcula.
-Amen.
+{gabc:Commune/C1/hy--paschale_mundo_gaudium--solesmes}
+(sed tempore ascensionis nisi rubrica 1960)
+{gabc:Commune/C1/hy--paschale_mundo_gaudium_in_ascensione--}
+(sed tonus BMV)
+{gabc:Commune/C1/hy--paschale_mundo_gaudium_octava BMV--}
 
 [HymnusM Laudes]
 {gabc:Commune/C1/hy--claro_paschali_gaudio--solesmes_1934}
+(sed tempore ascensionis nisi rubrica 1960)
+{gabc:Commune/C1/hy--claro_paschali_gaudio-ascensio-solesmes_1934}
+(sed tonus BMV)
+{gabc:Commune/C1/hy--claro_paschali_gaudio-octava BMV-solesmes_1934}
 
 [Versum 2]
-{initial-style:0;%%(c3) V/. Pre(h)ti(h)ó(h)sa(h) in(h) con(h)spé(h)ctu(h) Dó(h)mi(h)ni,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)
-R/. Mors(h) San(h)ctó(h)rum(h) e(h)jus,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)}
+{initial-style:0;%%(c3) V/. Pre(h)ti(h)ó(h)sa(h) in(h) con(h)spé(h)ctu(h) Dó(h)mi(h)ni,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/. Mors(h) San(h)ctó(h)rum(h) e(h)jus,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 2]
-Fíliæ Jerúsalem, * veníte et vidéte Mártyres cum corónis, quibus coronávit eos Dóminus in die solemnitátis et lætítiæ, allelúja, allelúja.
+{name:Filiae Jerusalem;annotation:1.D2;mode:1;book:The Liber Usualis, 1961, p. 1145 & Liber antiphonarius, 1960, p. 577.11;transcriber:Andrew Hinkley;%%(c4) FI(c)li(d)ae(f) Je(gf)rú(d)sa(cd)lem,(d.) *(;) ve(dc)ní(f)te,(gh) et(h) vi(gf)dé(gf)te(d') Már(f)ty(de)res(ddc.) (;) cum(c) co(cg)ró(g.f!gwh)nis(fv_ED.) (,) qui(c)bus(d') co(d)ro(dg)ná(fe)vit(dc) e(d)os(fe) Dó(d)mi(cd)nus(d.) (:) in(h!iw!jv_IH) di(gv_[oh:h]FD)e(dd) (,) sol(c)e(d')mni(g)tá(gh)tis(ffe) et(df~) lae(fe)tí(de)ti(dc)ae,(c.) (;) al(c_[ll:1]d)le(f_gF'E)lú(gh__g~){ia},(fv_ED'_5C_) al(d_g)le(efe)lú(d.){ia}.(d.) (::)};;1D2
 (sed rubrica monastica)
 {(c4)FI(c)li(d)æ(f) Je(fgf)rú(d)sa(cd)lem,(d.) *(,) ve(dc)ní­(f)te,(gh) et(h>) vi(gf)dé(gf)te(d') Már(f>)ty(de)res(ddc.) (;) cum(c) co(cg)ró(g.f!gwh)nis(fv_EDdo) (,) qui(c)bus(d') co(d)ro(dg)ná(fe)vit(dc) e(d)os(fe) Dó(d)mi(cd)nus(d.) (:) in(h!iwj_IH) di(gv_FD)e(dd) (,) so(c)le(d')mni(g)tá(gh)tis(ggf) et(d>) læ(fe)tí­(de)ti(dc)æ,(c.) (;) al(c_d)le(f_gF'E)lú(ggh)ja,(fvED'C__) al(d_g)le(fe)lú(d.)ja.(d.) (::)};;1d2
+
+[Lectio Prima]
+!Rom 8:28
+{(c3)Sci(h)mus(h) quón(h)i(h)am(h) di(h)li(h)gén(h)ti(h)bus(h) De(h)um(f.) †(,) óm(h)ni(h)a(h) co(h)o(h)pe(h)rán(h)tur(g) in(f) bo(h)num,(h.) *(;) i(h)is(h) qui(h) se(h)cún(h)dum(h) pro(h)pó(h)si(h)tum(h) vo(h)cá(h)ti(h) sunt(h) sanc(f)ti.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. {gabc:Commune/C1/rb--sancti_et_justi--solesmes_1934}
 
 [Capitulum Sexta]
 !Sap. 5:5
-v. Ecce quómodo computáti sunt inter fílios Dei, et inter sanctos sors illórum est.
+{(c3) Ec(h)ce(h) quó(h)mo(h)do(h) com(h)pu(h)tá(h)ti(h) sunt(h) in(h)ter(h) fí(h)li(g)os(f) De(h)i,(h.) *(;) et(h) in(h)ter(h) sanc(h)tos(h) sors(h) il(h)ló(f)rum(e) est.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]
 R.br. {gabc:Commune/C1/rb--lux_perpetua--solesmes_1934}
 
+[Responsory Breve Nona]
+R.br. {gabc:Commune/C1/rb--laetitia_sempiterna--solesmes_1961.1}
+
 [Ant Vespera 3]
-@:Ant Vespera:1 s/;;;;;;/;;109;;/
+@:Ant Vespera:1 s/;;;;/;;109;;/
 @:Ant Vespera:2 s/;;;;/;;112;;/
 @:Ant Vespera:3 s/;;;;/;;115;;/
 @:Ant Vespera:4 s/;;;;/;;125;;/
-@:Ant Vespera:5 s/;;;;/;;138;;/
+@:Ant Vespera:5 s/;;116;;/;;138;;/
 
 [Ant 3]
-Sancti et justi * in Dómino gaudéte, allelúja: vos elégit Deus in hereditátem sibi, allelúja.
+{name:Sancti et justi;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 1122.1 & Liber antiphonarius, 1960, p. [36];transcriber:Andrew Hinkley;%%(c4) SAn(gf/gfd~)cti(e) et(f) ju(g_[uh:l]h)sti(g'_[oh:h]) *(,) in(g) Dó(g)mi(g)no(hg) gau(f)dé(gh)te,(hg) al(f)le(fg)lú(g){ia} :(g.) (:) vos(g) e(g)lé(h')git(g) De(fg)us(f'_) (,) in(g) hae(g')re(f)di(h')tá(j)tem(ig~) si(i')bi,(j) (,) al(h')le(h)lú(g.){ia}.(g.) (::)};;8G
 (sed rubrica monastica)
-{annotation:8. G;%%(c4) SAn(g_fgvFD)cti(e') et(f) ju(g_h)sti(g'_) *(,) in(g) Dó(g')mi(g)no(hg) gau(f)dé(gh)te,(h_g) al(f)le(fg)lú(g.)ja:(g.) (:) vos(g) e(g)lé(h')git(g) De(fg)us(f'_) (,) in(g) hæ(g')re(f)di(h')tá(j_)tem(ig~) si(i')bi,(j) al(h')le(h)lú(g.)ja.(g.) (::)};;8G
+{annotation:8.G;%%(c4) SAn(g_fgvFD)cti(e') et(f) ju(g_h)sti(g'_) *(,) in(g) Dó(g')mi(g)no(hg) gau(f)dé(gh)te,(h_g) al(f)le(fg)lú(g.)ja:(g.) (:) vos(g) e(g)lé(h')git(g) De(fg)us(f'_) (,) in(g) hæ(g')re(f)di(h')tá(j_)tem(ig~) si(i')bi,(j) al(h')le(h)lú(g.)ja.(g.) (::)};;8G

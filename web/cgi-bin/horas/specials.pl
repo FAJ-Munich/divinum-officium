@@ -534,7 +534,6 @@ sub tryoldhymn {
 
   our ($version, $oldhymns);
   $name1 =~ s/Hymnus\S*/$&M/;
-
   ($oldhymns || ($version =~ /(Monastic|1570|Praedicatorum)/i)) && exists(${$source}{$name1}) ? $name1 : $name;
 }
 
@@ -750,7 +749,10 @@ sub checksuffragium {
     || $version =~ /altovadensis/i && $collectcount > 2
 
     # Altovadensis: limit at xij. Lect. et M.
-    || $version =~ /altovadensis/i && $rank > 2.5;
+    || $version =~ /altovadensis/i && $rank > 2.5
+
+    # Officium parvum
+    || $winner =~ /C12/;
 
   if ($commemoratio) {
     my @r = split(';;', $commemoratio{Rank});

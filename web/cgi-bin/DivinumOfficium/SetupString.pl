@@ -204,14 +204,15 @@ sub get_tempus_id {
 
 # Returns the name of the day for use as a subject in conditionals.
 sub get_dayname_for_condition {
-  our ($day, $month, $year, $winner, $version);
+  our ($day, $month, $year, $winner, $version, $commemoratio);
   our $hora;
   my $vesp_or_comp = ($hora =~ /Vespera/i) || ($hora =~ /Completorium/i);
   return 'Epiphaniæ' if ($month == 1 && ($day == 6 || ($day == 5 && $vesp_or_comp)));
   return 'Baptismatis Domini' if ($month == 1 && ($day == 13 || ($day == 12 && $vesp_or_comp)));
-  return 'in Cœna Domini' if $winner =~ /Quad6-4/;
-  return 'in Parasceve' if $winner =~ /Quad6-5/;
-  return 'Sabbato Sancto' if $winner =~ /Quad6-6/;
+  return 'in Cœna Domini' if $winner =~ /Quad6\-4/;
+  return 'in Parasceve' if $winner =~ /Quad6\-5/;
+  return 'Sabbato Sancto' if $winner =~ /Quad6\-6/;
+  return 'regis DNJC' if ($winner =~ /10\-DU/ || $commemoratio =~ /10\-DU/);
   return 'Omnium Defunctorum'
     if (
       $month == 11
@@ -569,7 +570,7 @@ sub setupstring($$%) {
       # Fill in missing "pre-Urban hymn translations to avoid being overriden by Latin
       foreach my $seckey (keys(%{$new_sections})) {
         if ($seckey =~ /Hymnus(.*?) (.*)/) {
-          unless (exists(${$new_sections}{"Hymnus$1M $2"})) {
+          unless ($lang =~ /gabc/i || exists(${$new_sections}{"Hymnus$1M $2"})) {
             ${$new_sections}{"Hymnus$1M $2"} = ${$new_sections}{$seckey};
           }
         }
@@ -629,8 +630,9 @@ sub setupstring($$%) {
     # do [Rule] first, if it exists: we need to use the rule to work
     # out some subsequent substitutions.
     foreach my $key ((exists $sections{'Rule'}) ? 'Rule' : (), sort(keys(%sections))) {
-      if ($key !~ /Commemoratio/
-        && ($key !~ /LectioE|Evangelium/i || $missa || $basedir =~ /missa/ || $sections{$key} =~ /Commune/))
+      if ( ($key !~ /Commemoratio/ && ($key !~ /LectioE|Evangelium/i || $sections{$key} =~ /Commune/))
+        || $missa
+        || $basedir =~ /missa/)
       {
         my $iiij = 0;
         my $iiiT = $sections{$key};

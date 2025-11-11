@@ -531,6 +531,8 @@ sub setcell {
         # Keeping the clef (c4) and adding custos for that purpose.
         $text =~
           s/\.\((f)\.\)\s*\(\:\:\)\}(?:\s|\_|\<br\/\>)*\{(\(c4\) O\(h\)ré\([gh]{1,2}\)mus\.\([fh]\.\) \(\:\:\)\})/.($1.) (f+::) $2/gs;
+      } elsif ($text =~ /Incipit/i) {
+        $text =~ s/(men\.\([defgh]\.?\) \(\:\:\))\}(?:\s|\_|\<br\/\>)*\{\(c[34]\) (Al|Laus)\(/$1 $2\(/gs;
       }
       $text =~
         s/\.\(([dfghi])\.\)\s*\(\:\:\)\}(?:\s|\_|\<br\/\>)*\{\(c[34]\) (O\([hi]\)ré\([ghi]{1,2}\)mus\.\([fhi]\.\) \(\:\:\)\})/.($1.) (::) $2/gs;
@@ -561,10 +563,15 @@ sub setcell {
           $gregFile =~ s/\-gloria//;
           $gregFile = checkfile($lang, $gregFile);
         }
-        my (@gregScore) = do_read($gregFile);
 
-        if (@gregScore) {
-          $text =~ s/gabc:$temp/@gregScore/s;
+        if (-e "$gregFile") {
+          my (@gregScore) = do_read($gregFile);
+
+          if (@gregScore) {
+            $text =~ s/gabc:$temp/@gregScore/s;
+          }
+        } else {
+          $text =~ s/\{gabc:(.+?)\}/'GABC score $gregFile not found'/;
         }
       }
 
@@ -572,10 +579,11 @@ sub setcell {
       while ($text =~ /\{(\(|name:|annotation:|initial-style:|centering-scheme:)(.+?)\(\:\:\)\}/is) {
         $dId++;
         $text =~
-          s/\{(\(|name:|annotation:|initial-style:|centering-scheme:)/<DIV ID="GABC$hora$searchind$dId" class="GABC">$1/s;
-        $text =~ s/\(\:\:\)\}/\(\:\:\)<\/DIV><DIV ID="GCHANT$hora$searchind$dId" class="GCHANT" width="100\%"><\/DIV>/s;
+          s/\{(\(|name:|annotation:|initial-style:|centering-scheme:)/<DIV ID="GABC$hora$searchind-$dId" class="GABC">$1/s;
         $text =~
-          s/name:([a-zA-Z\s\.\:]*?)\(([a-zA-Z\s\.\:]*?)\)([a-zA-Z\s\.\:]*?);/$1 $2 $3;/gm; # remove parentheses in title
+          s/\(\:\:\)\}/\(\:\:\)<\/DIV><DIV ID="GCHANT$hora$searchind-$dId" class="GCHANT" width="100\%"><\/DIV>/s;
+        $text =~
+          s/(name:[a-zA-Z\s\.\:]*?)\(([a-zA-Z\s\.\:]*?)\)([a-zA-Z\s\.\:]*?);/$1 $2 $3;/gm; # remove parentheses in title
         $text =~ s/<i>T\.\s?P\.<\/i>/\_\^T. P.\^\_ /g;                                     #Tempore Paschalis
         $text =~ s/<\/?i>/\_/g;                                                            # italics
         $text =~ s/<\/?b>|<v>\\greheightstar<\/v>/*/g;

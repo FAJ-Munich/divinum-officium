@@ -114,7 +114,7 @@
 {initial-style:0;%%(c4) V/. Be(e)ne(h')di(i)cá(hg)mus(gh) Dó(gvFE)mi(de)no.(e.) (::) R/. De(eh'1!ivH'G)o(gh) grá(gvFE)ti(de)as.(e.) (::)}
 
 [simplicis]
-{initial-style:0;%%(c4) V/. Be(h')ne(g)di(h)cá(gg)mus(d.) Dó(fvED')mi(c)no.(d.) (::) R/. De(hghg'g)o(d.) grá(fvED')ti(c)as.(d.) (::)}
+{initial-style:0;%%(c4) V/. Be(h')ne(g)di(h)cá(gg)mus(d.) Dó(fvED')mi(c)no.(d.) (::) R/. De(hgh/g'g)o(d.) grá(fvED')ti(c)as.(d.) (::)}
 (sed rubrica monastica)
 @:simplicis3
 

@@ -1,172 +1,122 @@
 [Dominica Tertia]
 !1 Joann. 4:16
-v. Deus cáritas est: et qui manet in caritáte, in Deo manet, et Deus in eo.
+{(c3) DE(h)us(h) ca(h)ri(h)tas(h) est:(f.) †(;) et(h) qui(h) ma(h)net(h) in(h) ca(h)ri(h)ta(h)te,(h_') (,) in(h) De(g)o(f) ma(h)net,:(h.) *(;) et(h) De(h)us(h) in(h) e(f)o.(ef..) (::)}
 $Deo gratias
 
 [Responsory breve Dominica Tertia]
-R.br. Inclína cor meum, Deus, * In testimónia tua.
-R. Inclína cor meum, Deus, * In testimónia tua.
-V. Avérte óculos meos, ne vídeant vanitátem: in via tua vivífica me.
-R. In testimónia tua.
-&Gloria
-R. Inclína cor meum, Deus, * In testimónia tua.
+R.br. {gabc:Psalterium/Dominica/rb--inclina_cor_meum--solesmes}
 
 [Versum Dominica Tertia]
-V. Ego dixi: Dómine, miserére mei.
-R. Sana ánimam meam, quia peccávi tibi.
+{initial-style:0;%%(c3) V/. E(h)go(h) di(h)xi:(h) Dó(h)mi(h)ne,(h) mi(h)se(h)ré(h)re(h) me(h hr)i.(g_'/hvGF'Efgf.) (::) 
+R/. Sa(h)na(h) á(h)ni(h)mam(h) me(h)am,(h) qui(h)a(h) pec(h)cá(h)vi(h) ti(h hr)bi.(g_'/hvGF'Efgf.) (::)}
 
 [Dominica Sexta]
 !Gal 6:2
-v. Alter altérius ónera portáte, et sic adimplébitis legem Christi.
+{(c3) Al(h)ter(h) al(h)té(h)ri(h)us(h) ó(h)ne(h)ra(g) por(f)tá(h)te,(h.) *(;) et(h) sic(h) ad(h)im(h)plé(h)bi(h)tis(h) le(h)gem(h) Chris(f)ti.(ef..) (::)}
 $Deo gratias
 
 [Responsory breve Dominica Sexta]
-R.br. In ætérnum, Dómine, * Pérmanet verbum tuum.
-R. In ætérnum, Dómine, * Pérmanet verbum tuum.
-V. In sǽculum sǽculi véritas tua.
-R. Pérmanet verbum tuum.
-&Gloria
-R. In ætérnum, Dómine, * Pérmanet verbum tuum.
+R.br. {gabc:Psalterium/Dominica/rb--in_aeternum_domine--solesmes}
 
 [Versum Dominica Sexta]
-V. Dóminus regit me, et nihil mihi déerit.
-R. In loco páscuæ ibi me collocávit.
+{initial-style:0;%%(c3) V/. Dó(h)mi(h)nus(h) re(h)git(h) me,(h) et(h) ni(h)hil(h) mi(h)hi(h) dé(h)e(hr)rit.(g_'/hvGF'Efgf.) (::)
+R/. In(h) lo(h)co(h) pás(h)cu(h)æ(h) i(h)bi(h) me(h) col(h)lo(h)cá(h hr)vit.(g_'/hvGF'Efgf.) (::)}
 
 [Dominica Nona]
 !1 Cor 6:20
-v. Empti enim estis prétio magno. Glorificáte et portáte Deum in córpore vestro.
+{(c3) Emp(h)ti(h) e(h)nim(h) es(h)tis(h) pré(h)ti(g)o(f) ma(h)gno.(h.) *(;)  Glo(h)ri(h)fi(h)cá(h)te(h) et(h) por(h)tá(h)te(h) De(h)um(h) in(h) cór(h)po(h)re(h) ves(f)tro.(ef..) (::)}
 $Deo gratias
 
 [Responsory breve Dominica Nona]
-R.br. Clamávi in toto corde meo: * Exáudi me, Dómine.
-R. Clamávi in toto corde meo: * Exáudi me, Dómine.
-V. Justificatiónes tuas requíram.
-R. Exáudi me, Dómine.
-&Gloria
-R. Clamávi in toto corde meo: * Exáudi me, Dómine.
+R.br. {gabc:Psalterium/Dominica/rb--clamavi_in_toto--solesmes_1961.1}
 
 [Versum Dominica Nona]
-V. Ab occúltis meis munda me, Dómine.
-R. Et ab aliénis parce servo tuo.
+{initial-style:0;%%(c3) V/. Ab(h) oc(h)cúl(h)tis(h) me(h)is(h) mun(h)da(h) me,(h) Dó(h)mi(hr)ne.(g_'/hvGF'Efgf.) (::)
+R/. Et(h) ab(h) a(h)li(h)é(h)nis(h) par(h)ce(h) ser(h)vo(h) tu(h hr)o.(g_'/hvGF'Efgf.) (::)}
 
 [Feria Tertia]
 !Jer 17:14
-v. Sana me, Dómine, et sanábor: salvum me fac, et salvus ero: quóniam laus mea tu es.
+{(c3)Sa(h)na(h) me,(h) Dó(h)mi(h)ne,(h) et(h) sa(h)ná(h)bor:(f.) †(;) sal(h)vum(h) me(h) fac,(h) et(h) sal(g)vus(f) e(h)ro:(h.) *(;) quón(h)i(h)am(h) laus(h) me(h)a(h) tu(f) es.(ef..) (::)}
 $Deo gratias
 
 [Responsory breve Feria Tertia]
-R.br. Sana ánimam meam, * Quia peccávi tibi.
-R. Sana ánimam meam, * Quia peccávi tibi.
-V. Ego dixi: Dómine, miserére mei.
-R. Quia peccávi tibi.
-&Gloria
-R. Sana ánimam meam, * Quia peccávi tibi.
+R.br. {gabc:Psalterium/Feria/rb--sana_animam_meam--solesmes_1961.1}
 
 [Versum Feria Tertia]
-V. Adjútor meus, esto, ne derelínquas me.
-R. Neque despícias me, Deus, salutáris meus.
+{initial-style:0;%%(c3) V/. Ad(h)jú(h)tor(h) me(h)us,(h) es(h)to,(h) ne(h) de(h)re(h)lín(h)quas(hr) me.(g_'/hvGF'Efgf.) (::)
+R/. Ne(h)que(h) de(h)spí(h)ci(h)as(h) me,(h) De(h)us,(h) sa(h)lu(h)tá(h)ris(h) me(h hr)us.(g_'/hvGF'Efgf.) (::)}
 
 [Feria Sexta_]
 !Rom 13:8
-v. Némini quidquam debeátis, nisi ut ínvicem diligátis: qui enim díligit próximum, legem implévit.
+{(c3)Né(h)mi(h)ni(h) quid(h)quam(h) de(h)be(h)á(h)tis,(f.) †(;) ni(h)si(h) ut(h) ín(h)vi(h)cem(h) di(g)li(f)gá(h)tis:(h.) *(;) qui(h) e(h)nim(h) dí(h)li(h)git(h) pró(h)xi(h)mum,(h) le(h)gem(h) im(h)plé(f)vit.(ef..) (::)}
 $Deo gratias
 
 [Responsory breve Feria Sexta]
-R.br. Benedícam Dóminum * In omni témpore.
-R. Benedícam Dóminum * In omni témpore.
-V. Semper laus ejus in ore meo.
-R. In omni témpore.
-&Gloria
-R. Benedícam Dóminum * In omni témpore.
+R.br. {gabc:Psalterium/Feria/rb--benedicam_dominum--solesmes}
 
 [Feria Nona_]
 !1 Pet 1:17-19
-v. In timóre incolátus vestri témpore conversámini: sciéntes quod non corruptibílibus auro vel argénto redémpti estis, sed pretióso sánguine quasi Agni immaculáti Christi.
+{(c3)In(h) ti(h)mó(h)re(h) in(h)co(h)lá(h)tus(h) ves(h)tri(h) tém(h)po(h)re(h) con(h)ver(h)sá(h)mi(f)ni:(f.) †(;) sci(h)én(h)tes(h) quod(h) non(h) cor(h)rup(h)ti(h)bí(h)li(h)bus(h) au(h)ro(h) vel(h) ar(h)gén(h)to(h) red(h)émp(g)ti(f) es(h)tis,(h.) *(;) sed(h) pre(h)ti(h)ó(h)so(h) sán(h)gui(h)ne(h) qua(h)si(h) A(h)gni(h) im(h)ma(h)cu(h)lá(h)ti(h) Chris(f)ti.(ef..) (::)}
 $Deo gratias
 
 [Responsory breve Feria Nona]
-R.br. Rédime me, Dómine, * Et miserére mei.
-R. Rédime me, Dómine, * Et miserére mei.
-V. Pes enim meus stetit in via recta.
-R. Et miserére mei.
-&Gloria
-R. Rédime me, Dómine, * Et miserére mei.
+R.br. {gabc:Psalterium/Feria/rb--redime_me_domine--solesmes}
 
 [Adv Tertia]
 !Jer 23:5
-v. Ecce dies véniunt, dicit Dóminus, et suscitábo David germen justum: et regnábit rex, et sápiens erit: et fáciet judícium et justítiam in terra.
+{(c3)Ec(h)ce(h) di(h)es(h) vé(h)ni(h)unt,(h) di(h)cit(h) Dó(h)mi(f)nus,(f.) †(;) et(h) su(h)sci(h)tá(h)bo(h) Da(h)vid(h) ger(h)men(h) jus(h)tum:(h_') (,) et(h) re(h)gná(h)bit(h) rex,(h) et(h) sá(h)pi(g)ens(f) e(h)rit:(h.) *(;) et(h) fá(h)ci(h)et(h) ju(h)dí(h)ci(h)um(h) et(h) jus(h)tí(h)ti(h)am(h) in(h) ter(f)ra.(ef..) (::)}
 $Deo gratias
 
 [Responsory breve Adv Tertia]
-R.br. Veni ad liberándum nos, * Dómine, Deus virtútum.
-R. Veni ad liberándum nos, * Dómine, Deus virtútum.
-V. Osténde fáciem tuam, et salvi érimus.
-R. Dómine, Deus virtútum.
-&Gloria
-R. Veni ad liberándum nos, * Dómine, Deus virtútum.
+R.br. {gabc:Psalterium/Adventu/rb--veni_ad_liberandum--solesmes_1961.1}
 
 [Versum Adv Tertia]
-V. Timébunt gentes nomen tuum, Dómine.
-R. Et omnes reges terræ glóriam tuam.
+{initial-style:0;%%(c3) V/. Ti(h)mé(h)bunt(h) gen(h)tes(h) no(h)men(h) tu(h)um,(h) Dó(h)mi(hr)ne.(g_'/hvGF'Efgf.) (::)
+R/. Et(h) om(h)nes(h) re(h)ges(h) ter(h)ræ(h) gló(h)ri(h)am(h) tu(h hr)am.(g_'/hvGF'Efgf.) (::)}
 
 [Responsory Adv TertiaM_]
-V. Veni ad liberándum nos, Dómine, Deus virtútum.
-R. Osténde fáciem tuam, et salvi érimus.
+{initial-style:0;%%(c3) V/. Ve(h)ni(h) ad(h) li(h)be(h)rán(h)dum(h) nos,(h) Dó(h)mi(h)ne,(h) De(h)us(h) vir(h)tú(h hr)tum.(g_'/hvGF'Efgf.) (::)
+R/. Os(h)tén(h)de(h) fá(h)ci(h)em(h) tu(h)am,(h) et(h) sal(h)vi(h) é(h)ri(hr)mus.(g_'/hvGF'Efgf.) (::)}
 
 [Adv Sexta]
 !Jer 23:6
-v. In diébus illis salvábitur Juda, et Israël habitábit confidénter: et hoc est nomen, quod vocábunt eum, Dóminus justus noster.
+{(c3)In(h) di(h)é(h)bus(h) il(h)lis(h) sal(h)vá(h)bi(h)tur(h) Ju(h)da,(h_') (,) et(h) Is(h)ra(h)ël(h) ha(h)bi(h)tá(h)bit(h) con(h)fi(h)dén(h)ter:(f.) †(;) et(h) hoc(h) est(h) no(h)men,(h) quod(h) vo(h)cá(g)bunt(f) e(h)um,(h.) *(;) Dó(h)mi(h)nus(h) jus(h)tus(h) nos(f)ter.(ef..) (::)}
 $Deo gratias
 
 [Responsory breve Adv Sexta]
-R.br. Osténde nobis, Dómine, * Misericórdiam tuam.
-R. Osténde nobis, Dómine, * Misericórdiam tuam.
-V. Et salutáre tuum da nobis.
-R. Misericórdiam tuam.
-&Gloria
-R. Osténde nobis, Dómine, * Misericórdiam tuam.
+R.br. {gabc:Psalterium/Adventu/rb--ostende_nobis--solesmes_1961.1}
 
 [Versum Adv Sexta]
-V. Meménto nostri, Dómine, in beneplácito pópuli tui.
-R. Vísita nos in salutári tuo.
+{initial-style:0;%%(c3) V/. Me(h)mén(h)to(h) nos(h)tri,(h) Dó(h)mi(h)ne,(h) in(h) be(h)ne(h)plá(h)ci(h)to(h) pó(h)pu(h)li(h) tu(h hr)i.(g_'/hvGF'Efgf.) (::)
+R/. Ví(h)si(h)ta(h) nos(h) in(h) sa(h)lu(h)tá(h)ri(h) tu(h hr)o.(g_'/hvGF'Efgf.) (::)}
 
 [Responsory Adv SextaM_]
-V. Osténde nobis, Dómine, misericórdiam tuam.
-R. Et salutáre tuum da nobis.
+{initial-style:0;%%(c3) V/. Os(h)tén(h)de(h) no(h)bis,(h) Dó(h)mi(h)ne,(h) mi(h)se(h)ri(h)cór(h)di(h)am(h) tu(h hr)am.(g_'/hvGF'Efgf.) (::)
+R/. Et(h) sa(h)lu(h)tá(h)re(h) tu(h)um(h) da(h) no(h hr)bis.(g_'/hvGF'Efgf.) (::)}
 
 [Adv Nona]
 !Isa 14:1
-v. Prope est ut véniat tempus ejus, et dies ejus non elongabúntur: miserébitur enim Dóminus Jacob, et Israël salvábitur.
+{(c3)Pro(h)pe(h) est(h) ut(h) vé(h)ni(h)at(h) tem(h)pus(h) e(h)jus,(f.) †(;) et(h) di(h)es(h) e(h)jus(h) non(h) e(h)lon(g)ga(f)bún(h)tur:(h.) *(;) mi(h)se(h)ré(h)bi(h)tur(h) e(h)nim(h) Dó(h)mi(h)nus(h) Ja(h)cob,(h) et(h) Is(h)ra(h)ël(h) sal(h)vá(h)bi(f)tur.(ef..) (::)}
 $Deo gratias
 
 [Responsory breve Adv Nona]
-R.br. Super te, Jerúsalem, * Oriétur Dóminus.
-R. Super te, Jerúsalem, * Oriétur Dóminus.
-V. Et glória ejus in te vidébitur.
-R. Oriétur Dóminus.
-&Gloria
-R. Super te, Jerúsalem, * Oriétur Dóminus.
+R.br. {gabc:Psalterium/Adventu/rb--super_te_jerusalem_orietur--solesmes_1961.1}
 
 [Versum Adv Nona]
-V. Veni, Dómine, et noli tardáre.
-R. Reláxa facínora plebi tuæ.
+{initial-style:0;%%(c3) V/. Ve(h)ni,(h) Dó(h)mi(h)ne,(h) et(h) no(h)li(h) tar(h)dá(h hr)re.(g_'/hvGF'Efgf.) (::)
+R/. Re(h)lá(h)xa(h) fa(h)cí(h)no(h)ra(h) ple(h)bi(h) tu(h hr)æ.(g_'/hvGF'Efgf.) (::)}
 
 [Responsory Adv NonaM_]
-V. Super te, Jerúsalem, oriétur Dóminus.
-R. Et glória ejus in te vidébitur.
+{initial-style:0;%%(c3) V/. Su(h)per(h) te,(h) Je(h)rú(h)sa(h)lem,(h) o(h)ri(h)é(h)tur(h) Dó(h)mi(hr)nus.(g_'/hvGF'Efgf.) (::)
+R/. Et(h) gló(h)ri(h)a(h) e(h)jus(h) in(h) te(h) vi(h)dé(h)bi(hr)tur.(g_'/hvGF'Efgf.) (::)}
 
 [Quad Tertia]
 !Joël 2:12-13
-v. Convertímini ad me in toto corde vestro, in jejúnio, et fletu, et planctu. Et scíndite corda vestra, et non vestiménta vestra, ait Dóminus omnípotens.
+{(c3)Con(h)ver(h)tí(h)mi(h)ni(h) ad(h) me(h) in(h) to(h)to(h) cor(h)de(h) ves(h)tro,(h_') (,) in(h) je(h)jú(h)ni(h)o,(h) et(h) fle(h)tu,(h) et(h) planc(h)tu.(f.) †(;) Et(h) scín(h)di(h)te(h) cor(h)da(h) ves(h)tra,(h_') (,) et(h) non(h) ves(h)ti(h)mén(g)ta(f) ves(h)tra,(h.) *(;) a(h)it(h) Dó(h)mi(h)nus(h) om(h)ní(h)pot(f)ens.(ef..) (::)}
 $Deo gratias
 
 [Responsory breve Quad Tertia]
-R.br. Ipse liberávit me * De láqueo venántium.
-R. Ipse liberávit me * De láqueo venántium.
-V. Et a verbo áspero.
-R. De láqueo venántium.
-&Gloria
-R. Ipse liberávit me * De láqueo venántium.
+R.br. {gabc:Psalterium/Quadragesima/rb--ipse_liberavit--solesmes_1961.1}
 
 [Responsory Quad Tertia] (rubrica Praedicatorum)
 R. Partícipem me fac, Deus, ómnium timéntium te.
@@ -230,92 +180,72 @@ _
 @:Versum Quad Tertia
 
 [Versum Quad Tertia]
-V. Scápulis suis obumbrábit tibi.
-R. Et sub pennis ejus sperábis.
+{initial-style:0;%%(c3) V/. Scá(h)pu(h)lis(h) su(h)is(h) ob(h)um(h)brá(h)bit(h) ti(h hr)bi.(g_'/hvGF'Efgf.) (::)
+R/. Et(h) sub(h) pen(h)nis(h) e(h)jus(h) spe(h)rá(h hr)bis.(g_'/hvGF'Efgf.) (::)}
 
 [Responsory Quad TertiaC_]
 V. Dicet Dómino: Suscéptor meus es tu, et refúgium meum.
 R. Deus meus, sperábo in eum.
 
 [Responsory Quad TertiaM_]
-V. Ipse liberávit me de láqueo venántium.
-R. Et a verbo áspero.
+{initial-style:0;%%(c3) V/. Ip(h)se(h) li(h)be(h)rá(h)vit(h) me(h) de(h) lá(h)que(h)o(h) ve(h)nán(h)ti(hr)um.(g_'/hvGF'Efgf.) (::)
+R/. Et(h) a(h) ver(h)bo(h) ás(h)pe(hr)ro.(g_'/hvGF'Efgf.) (::)}
 
 [Quad Sexta]
 !Isa 55:7
-v. Derelínquat ímpius viam suam, et vir iníquus cogitatiónes suas, et revertátur ad Dóminum, et miserébitur ejus, et ad Deum nostrum, quóniam multus est ad ignoscéndum.
+{(c3)De(h)re(h)lín(h)quat(h) ím(h)pi(h)us(h) vi(h)am(h) su(h)am,(h_') (,) et(h) vir(h) in(h)í(h)quus(h) co(h)gi(h)ta(h)ti(h)ó(h)nes(h) su(h)as,(f.) †(;) et(h) re(h)ver(h)tá(h)tur(h) ad(h) Dó(h)mi(h)num,(h) et(h) mi(h)se(h)ré(h)bi(g)tur(f) e(h)jus,(h.) *(;) et(h) ad(h) De(h)um(h) nos(h)trum,(h) quón(h)i(h)am(h) mul(h)tus(h) est(h) ad(h) i(h)gno(h)scén(f)dum.(ef..) (::)}
 $Deo gratias
 
 [Responsory breve Quad Sexta]
-R.br. Scápulis suis * Obumbrábit tibi.
-R. Scápulis suis * Obumbrábit tibi.
-V. Et sub pennis ejus sperábis.
-R. Obumbrábit tibi.
-&Gloria
-R. Scápulis suis * Obumbrábit tibi.
+R.br. {gabc:Psalterium/Quadragesima/rb--scapulis_suis--solesmes_1961.1}
 
 [Versum Quad Sexta]
-V. Scuto circúmdabit te véritas ejus.
-R. Non timébis a timóre noctúrno.
+{initial-style:0;%%(c3) V/. Scu(h)to(h) cir(h)cúm(h)da(h)bit(h) te(h) vé(h)ri(h)tas(h) e(h hr)jus.(g_'/hvGF'Efgf.) (::)
+R/. Non(h) ti(h)mé(h)bis(h) a(h) ti(h)mó(h)re(h) noc(h)túr(h hr)no.(g_'/hvGF'Efgf.) (::)}
 
 [Quad Nona_]
 !Isa 58:7
-v. Frange esuriénti panem tuum, et egénos vagósque induc in domum tuam: cum víderis nudum, óperi eum, et carnem tuam ne despéxeris.
+{(c3)Fran(h)ge(h) e(h)su(h)ri(h)én(h)ti(h) pa(h)nem(h) tu(h)um,(h_') (,) et(h) e(h)gé(h)nos(h) va(h)gós(h)que(h) in(h)duc(h) in(h) do(h)mum(h) tu(h)am:(f.) †(;) cum(h) ví(h)de(h)ris(h) nu(h)dum,(h) ó(h)pe(g)ri(f) e(h)um,(h.) *(;) et(h) car(h)nem(h) tu(h)am(h) ne(h) de(h)spé(h)xe(f)ris.(ef..) (::)}
 $Deo gratias
 
 [Responsory breve Quad Nona]
-R.br. Scuto circúmdabit te * Véritas ejus.
-R. Scuto circúmdabit te * Véritas ejus.
-V. Non timébis a timóre noctúrno.
-R. Véritas ejus.
-&Gloria
-R. Scuto circúmdabit te * Véritas ejus.
+R.br. {gabc:Psalterium/Quadragesima/rb--scuto_circumdabit_te--solesmes_1961.1}
 
 [Versum Quad Nona]
-V. Ángelis suis Deus mandávit de te.
-R. Ut custódiant te in ómnibus viis tuis.
+{initial-style:0;%%(c3) V/. Án(h)ge(h)lis(h) su(h)is(h) De(h)us(h) man(h)dá(h)vit(h) de(h hr) te.(g_'/hvGF'Efgf.) (::)
+R/. Ut(h) cus(h)tó(h)di(h)ant(h) te(h) in(h) óm(h)ni(h)bus(h) vi(h)is(h) tu(h hr)is.(g_'/hvGF'Efgf.) (::)}
 
 [Quad5 Tertia_]
 !Jer 17:13
-v. Dómine, omnes qui te derelínquunt, confundéntur: recedéntes a te, in terra scribéntur: quóniam dereliquérunt venam aquárum vivéntium Dóminum.
+{(c3)Dó(h)mi(h)ne,(h) om(h)nes(h) qui(h) te(h) de(h)re(h)lín(h)quunt,(h) con(h)fun(h)dén(h)tur:(f.) †(;) re(h)ce(h)dén(h)tes(h) a(h) te,(h) in(h) ter(h)ra(g) scri(f)bén(h)tur:(h.) *(;) quón(h)i(h)am(h) de(h)re(h)li(h)qué(h)runt(h) ve(h)nam(h) a(h)quá(h)rum(h) vi(h)vén(h)ti(h)um(h) Dó(h)mi(f)num.(ef..) (::)}
 $Deo gratias
 
 [Responsory breve Quad5 Tertia_]
-R.br. Érue a frámea, * Deus, ánimam meam.
-R. Érue a frámea, * Deus, ánimam meam.
-V. Et de manu canis únicam meam.
-R. Deus, ánimam meam.
-&Gloria
-R. Érue a frámea, * Deus, ánimam meam.
+R.br. {gabc:Psalterium/Passionis/rb--erue_a_framea--solesmes_1961.1}
 
 [Versum Quad5 Tertia]
-V. De ore leónis líbera me, Dómine.
-R. Et a córnibus unicórnium humilitátem meam.
+{initial-style:0;%%(c3) V/. De(h) o(h)re(h) le(h)ó(h)nis(h) lí(h)be(h)ra(h) me,(h) Dó(h)mi(hr)ne.(g_'/hvGF'Efgf.) (::)
+R/. Et(h) a(h) cór(h)ni(h)bus(h) u(h)ni(h)cór(h)ni(h)um(h) hu(h)mi(h)li(h)tá(h)tem(h) me(h hr)am.(g_'/hvGF'Efgf.) (::)}
 
 [Responsory Quad5 TertiaC_]
 V. Divisérunt sibi vestiménta mea.
 R. Et super vestem meam misérunt sortem.
 
 [Responsory Quad5 TertiaM_]
-V. Érue a frámea, Deus, ánimam meam.
-R. Et de manu canis únicam meam.
+{initial-style:0;%%(c3) V/. É(h)ru(h)e(h) a(h) frá(h)me(h)a,(h) De(h)us,(h) á(h)ni(h)mam(h) me(h hr)am.(g_'/hvGF'Efgf.) (::)
+R/. Et(h) de(h) ma(h)nu(h) ca(h)nis(h) ú(h)ni(h)cam(h) me(h hr)am.(g_'/hvGF'Efgf.) (::)}
 
 [Quad5 Sexta_]
 !Jer 17:18
-v. Confundántur qui me persequúntur, et non confúndar ego: páveant illi, et non páveam ego: induc super eos diem afflictiónis, et dúplici contritióne cóntere eos, Dómine Deus noster.
+{(c3)Con(h)fun(h)dán(h)tur(h) qui(h) me(h) per(h)se(h)quún(h)tur,(h_') (,) et(h) non(h) con(h)fún(h)dar(h) e(h)go:(f.) †(;) pá(h)ve(h)ant(h) il(h)li,(h) et(h) non(h) pá(h)ve(g)am(f) e(h)go:(h.) *(;) in(h)duc(h) su(h)per(h) e(h)os(h) di(h)em(h) af(h)flic(h)ti(h)ó(h)nis,(h) et(h) dú(h)pli(h)ci(h) con(h)tri(h)ti(h)ó(h)ne(h) cón(h)te(h)re(h) e(h)os,(h_') (,) Dó(h)mi(h)ne(h) De(h)us(h) nos(f)ter.(ef..) (::)}
 $Deo gratias
 
 [Responsory breve Quad5 Sexta_]
-R.br. De ore leónis * Líbera me, Dómine.
-R. De ore leónis * Líbera me, Dómine.
-V. Et a córnibus unicórnium humilitátem meam.
-R. Líbera me, Dómine.
-&Gloria
-R. De ore leónis * Líbera me, Dómine.
+R.br. {gabc:Psalterium/Passionis/rb--de_ore_leonis--solesmes_1961.1}
 
 [Versum Quad5 Sexta]
-V. Ne perdas cum ímpiis, Deus, ánimam meam.
-R. Et cum viris sánguinum vitam meam.
+{initial-style:0;%%(c3) V/. Ne(h) per(h)das(h) cum(h) ím(h)pi(h)is,(h) De(h)us,(h) á(h)ni(h)mam(h) me(h hr)am.(g_'/hvGF'Efgf.) (::)
+R/. Et(h) cum(h) vi(h)ris(h) sán(h)gui(h)num(h) vi(h)tam(h) me(h hr)am.(g_'/hvGF'Efgf.) (::)}
 
 [Responsory Quad5 SextaC_]
 V. Insurrexérunt in me testes iníqui.
@@ -323,16 +253,11 @@ R. Et mentíta est iníquitas sibi.
 
 [Quad5 Nona_]
 !Jer 18:20
-v. Recordáre quod stéterim in conspéctu tuo, ut lóquerer pro eis bonum, et avérterem indignatiónem tuam ab eis.
+{(c3)Re(h)cor(h)dá(h)re(h) quod(h) sté(h)te(h)rim(h) in(h) con(h)spéc(h)tu(h) tu(h)o,(f.) †(;) ut(h) ló(h)que(h)rer(h) pro(h) e(g)is(f) bo(h)num,(h.) *(;) et(h) a(h)vér(h)te(h)rem(h) in(h)di(h)gna(h)ti(h)ó(h)nem(h) tu(h)am(h) ab(h) e(f)is.(ef..) (::)}
 $Deo gratias
 
 [Responsory breve Quad5 Nona_]
-R.br. Ne perdas cum ímpiis, * Deus ánimam meam.
-R. Ne perdas cum ímpiis, * Deus ánimam meam.
-V. Et cum viris sánguinum vitam meam.
-R. Deus ánimam meam.
-&Gloria
-R. Ne perdas cum ímpiis, * Deus ánimam meam.
+R.br. {gabc:Psalterium/Passionis/rb--ne_perdas_cum_impiis--solesmes_1961.1}
 
 [Responsory breve Quad5 NonaOP]
 R. Príncipes persecúti sunt me gratis, et a verbis tuis formidávit cor meum.
@@ -341,12 +266,12 @@ V. Quasi qui invénit spólia multa. Lætábor ego super elóquia tua.
 R. Príncipes persecúti sunt me gratis, et a verbis tuis formidávit cor meum.
 
 [Versum Quad5 Nona]
-V. Éripe me, Dómine, ab hómine malo.
-R. A viro iníquo éripe me.
+{initial-style:0;%%(c3) V/. É(h)ri(h)pe(h) me,(h) Dó(h)mi(h)ne,(h) ab(h) hó(h)mi(h)ne(h) ma(h hr)lo.(g_'/hvGF'Efgf.) (::)
+R/. A(h) vi(h)ro(h) in(h)í(h)quo(h) é(h)ri(h)pe(h hr) me.(g_'/hvGF'Efgf.) (::)}
 
 [Pasch Tertia]
 !Rom 6:9-10
-v. Christus resúrgens ex mórtuis jam non móritur, mors illi ultra non dominábitur. Quod enim mórtuus est peccáto, mórtuus est semel: quod autem vivit, vivit Deo.
+{(c3)Chris(h)tus(h) re(h)súr(h)gens(h) ex(h) mór(h)tu(h)is(h) jam(h) non(h) mó(h)ri(h)tur,(h_') (,) mors(h) il(h)li(h) ul(h)tra(h) non(h) do(h)mi(h)ná(h)bi(f)tur.(f.) †(;) Quod(h) e(h)nim(h) mór(h)tu(h)us(h) est(h) pec(h)cá(h)to,(h) mór(h)tu(h)us(g) est(f) se(h)mel:(h.) *(;) quod(h) au(h)tem(h) vi(h)vit,(h) vi(h)vit(h) De(f)o.(ef..) (::)}
 $Deo gratias
 
 [Responsory breve Pasch Tertia_]
@@ -366,15 +291,16 @@ R/.() Sur(f)ré(fg)xit(f') Dó(f)mi(f)nus(f_e) de(dc) se(f)púl(fgd)cro, (ixf!gw
 R/.() Sur(f)ré(fg)xit(f') Dó(f)mi(f)nus(f_e) de(dc) se(f)púl(fgd)cro(ixfgw!hih.) *(;) Al(ixi>)le(ivHG)lú(gh)ia,(f.) (,) al(dc~)le(ixf.g!hwiHGF)lú(ghf~)ia.(f.) (::)}
 
 [Versum Pasch Tertia]
-{initial-style:0;%%(c3) V/. Sur(h)ré(h)xit(h) Dó(h)mi(h)nus(h) ve(h)re,(h) al(h)le(h)lú(h)ja.(g_0hGF'Efgf.) (::) R/. Et(h) ap(h)pá(h)ru(h)it(h) Si(h)mó(h)ni,(h) al(h)le(h)lú(h)ja.(g_0hGF'Efgf.) (::)}
+{initial-style:0;%%(c3) V/. Sur(h)ré(h)xit(h) Dó(h)mi(h)nus(h) ve(h)re,(h) al(h)le(h)lú(h)ja.(g_0hGF'Efgf.) (::) 
+R/. Et(h) ap(h)pá(h)ru(h)it(h) Si(h)mó(h)ni,(h) al(h)le(h)lú(h)ja.(g_0hGF'Efgf.) (::)}
 
 [Responsory Pasch TertiaM]
-V. Surréxit Dóminus de sepúlcro, allelúja.
-R. Qui pro nobis pepéndit in ligno, allelúja.
+{initial-style:0;%%(c3) V/. Sur(h)ré(h)xit(h) Dó(h)mi(h)nus(h) de(h) se(h)púl(h)cro,(h) al(h)le(h)lú(h hr)ja.(g_'/hvGF'Efgf.) (::)
+R/. Qui(h) pro(h) no(h)bis(h) pe(h)pén(h)dit(h) in(h) li(h)gno,(h) al(h)le(h)lú(h hr)ja.(g_'/hvGF'Efgf.) (::)}
 
 [Pasch Sexta]
 !1 Cor 15:20-22
-v. Christus resurréxit a mórtuis primítiæ dormiéntium: quóniam quidem per hóminem mors, et per hóminem resurréctio mortuórum. Et sicut in Adam omnes moriúntur, ita et in Christo omnes vivificabúntur.
+{(c3)Chris(h)tus(h) re(h)sur(h)ré(h)xit(h) a(h) mór(h)tu(h)is(h) pri(h)mí(h)ti(h)æ(h) dor(h)mi(h)én(h)ti(f)um:(f.) †(;) quón(h)i(h)am(h) qui(h)dem(h) per(h) hó(h)mi(h)nem(h) mors,(h) et(h) per(h) hó(h)mi(h)nem(h) re(h)sur(h)réc(h)ti(h)o(h) mor(g)tu(f)ó(h)rum.(h.) *(;) Et(h) sic(h)ut(h) in(h) A(h)dam(h) om(h)nes(h) mo(h)ri(h)ún(h)tur,(h_') (,) i(h)ta(h) et(h) in(h) Chris(h)to(h) om(h)nes(h) vi(h)vi(h)fi(h)ca(h)bún(f)tur.(ef..) (::)}
 $Deo gratias
 
 [Responsory breve Pasch Sexta]
@@ -394,25 +320,20 @@ R/.() Sur(f)ré(fg)xit(f') Dó(f)mi(f_e)nus(dc) ve(fgd)re, (ixf!gw!hih.) *(;) Al
 R/.() Sur(f)ré(fg)xit(f') Dó(f)mi(f_e)nus(dc) ve(fgd)re :(f!gw!hih.) *(;) Al(ixi>)le(ivHG)lú(gh)ia,(f.) (,) al(dc~)le(ixf.g!hwiHGF)lú(ghf~)ia.(f.) (::)}
 
 [Versum Pasch Sexta_]
-V. Gavísi sunt discípuli, allelúja.
-R. Viso Dómino, allelúja.
+{initial-style:0;%%(c3) V/. Ga(h)ví(h)si(h) sunt(h) di(h)scí(h)pu(h)li,(h) al(h)le(h)lú(h hr)ja.(g_'/hvGF'Efgf.) (::)
+R/. Vi(h)so(h) Dó(h)mi(h)no,(h) al(h)le(h)lú(h hr)ja.(g_'/hvGF'Efgf.) (::)}
 
 [Pasch Nona]
 !1 Pet 3:18
-v. Christus semel pro peccátis nostris mórtuus est, justus pro injústis, ut nos offérret Deo, mortificátus quidem carne, vivificátus autem spíritu.
+{(c3)Chris(h)tus(h) se(h)mel(h) pro(h) pec(h)cá(h)tis(h) nos(h)tris(h) mór(h)tu(h)us(h) est,(h_') (,) jus(h)tus(h) pro(h) in(h)jús(h)tis,(f.) †(;) ut(h) nos(h) of(h)fér(h)ret(h) De(h)o,(h) mor(h)ti(h)fi(h)cá(h)tus(h) qui(g)dem(f) car(h)ne,(h.) *(;) vi(h)vi(h)fi(h)cá(h)tus(h) au(h)tem(h) spí(h)ri(f)tu.(ef..) (::)}
 $Deo gratias
 
 [Responsory breve Pasch Nona]
-R.br. Gavísi sunt discípuli, * Allelúja, allelúja.
-R. Gavísi sunt discípuli, * Allelúja, allelúja.
-V. Viso Dómino.
-R. Allelúja, allelúja.
-&Gloria
-R. Gavísi sunt discípuli, * Allelúja, allelúja.
+R.br. {gabc:Psalterium/Pascha/rb--gavisi_sunt_discipuli--solesmes_1961.1}
 
 [Versum Pasch Nona]
-V. Mane nobíscum, Dómine, allelúja.
-R. Quóniam advesperáscit, allelúja.
+{initial-style:0;%%(c3) V/. Ma(h)ne(h) no(h)bís(h)cum,(h) Dó(h)mi(h)ne,(h) al(h)le(h)lú(h hr)ja.(g_'/hvGF'Efgf.) (::)
+R/. Quón(h)i(h)am(h) ad(h)ves(h)pe(h)rá(h)scit,(h) al(h)le(h)lú(h hr)ja.(g_'/hvGF'Efgf.) (::)}
 
 [Hymnus Pasc7 Tertia]
 !Prima stropha hymni sequentis dicitur flexibus genibus.

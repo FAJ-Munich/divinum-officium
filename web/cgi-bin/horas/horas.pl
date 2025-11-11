@@ -33,11 +33,14 @@ sub horas {
   our ($lang1, $lang2, $column);
 
   # GABC: Ensure no chant is displayed at the little hours during the Triduum
+  # And (for the time being) if OCist or OP version are displayed
   my $templang1 = $lang1;    # save settings for later
   my $templang2 = $lang2;
   my $temponly = $only;
 
-  if (triduum_gloria_omitted() && $hora =~ /Prima|Tertia|Sexta|Nona|Completorium/i) {
+  if ($version =~ /Cisterciensis|Praedicatorum/
+    || (triduum_gloria_omitted() && $hora =~ /Prima|Tertia|Sexta|Nona|Completorium/i))
+  {
     $lang1 =~ s/\-gabc//;
     $lang2 =~ s/\-gabc//;
     $only = !$Ck && ($lang1 eq $lang2);
@@ -466,6 +469,7 @@ sub ant123_special {
   my $lang = shift;
 
   my $ant, $duplexf;
+  our $canticaTone;
 
   if ($month == 12 && ($day > 16 && $day < 24) && $winner =~ /tempora/i) {
     my %specials = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
@@ -489,6 +493,8 @@ sub ant123_special {
       setbuild2('subst: Special Magnificat Ant. Dum esset');
     }
   }
+  ($ant, $canticaTone) = split(";;", $ant) if $lang =~ /gabc/i;
+  $canticaTone =~ s/\s*$//;
   ($ant, $duplexf);
 }
 
@@ -677,10 +683,11 @@ sub postprocess_vr(\$$) {
 # Performs necessary adjustments to a short responsory.
 sub postprocess_short_resp(\@$) {
   my ($capit, $lang) = @_;
-  return $capit if $lang =~ /gabc/i;
 
   our (@dayname, $votive);
   s/&Gloria1?/&Gloria1/ for (@$capit);
+
+  return $capit if $lang =~ /gabc/i;
 
   if (alleluia_required($dayname[0], $votive)) {
     my $rlines = 0;

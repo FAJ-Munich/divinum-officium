@@ -40,7 +40,8 @@ sub suppress_alleluia {
   my ($text_ref, $gabcf) = @_;
 
   if ($gabcf) {
-    $$text_ref =~ s/[(]*al\(.*\)le\(.*\)l[uú]\(.*\)\{?[ij]a\}?[\.\,]*\(.*\)[)]*/ /ig;
+    $$text_ref =~ s/(.*)(?:\(.*?\)\s*)+\(?al\(.*\)le\(.*\)l[uú]\(.*\)\{?[ij]a\}?[\.\,]*\((.*?)\)\)?/$1.($2)/ig;
+    $$text_ref =~ s/[.,]{2,}\(/.(/;
   } else {
     $$text_ref =~ s/[,.]?\s*$alleluia_regexp//ig;
   }
@@ -54,9 +55,9 @@ sub process_inline_alleluias {
 
   if ($lang =~ /gabc/i) {
     if ($paschalf) {
-      $$text_ref =~ s/†.*?\s?(\<i\>|\^|\|)*?T\.\s?P\.(\<\/i\>|\^|\|)*?.s?†/†/isg;
+      $$text_ref =~ s/†.*?\s?(\<i\>|\_|\^|\|)+T\.\s?P\.(\<\/i\>|\_|\^|\|)+(\s*†)?/ /img;
     } else {
-      $$text_ref =~ s/\s*(\<\/i\>|\^|\|)+T\.\s?P\.(\<\/i\>|\^|\|)+.*?\(\:\:\)//isg;
+      $$text_ref =~ s/(?:†(.*?))?\s*(\<i\>|\_|\^|\|)+T\.\s?P\.(\<\/i\>|\_|\^|\|)+.*?\(\:\:\)/$1/img;
     }
   } elsif ($paschalf) {
     $$text_ref =~ s/\(($alleluia_regexp.*?)\)/ $1 /isg;

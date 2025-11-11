@@ -1905,14 +1905,12 @@ However, this made the Antiphons very confusing and ugly, therefore deleting.
 
 [Preces feriales Laudes]
 $Kyrie
-$rubrica Pater secreto
 $Pater noster Et
 $Preces feriales Laudes
 $Domine exaudi
 
 [Preces feriales Vespera]
 $Kyrie
-$rubrica Pater secreto
 $Pater noster Et
 $Preces feriales Vespera
 $Domine exaudi

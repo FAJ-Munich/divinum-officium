@@ -70,8 +70,10 @@ sub invitatorium {
   postprocess_ant($ant, $lang);
   my @ant = split('\*', $ant);
 
-  if ($lang =~ /gabc/i && $ant =~ /(\([cf][1-4]\))/) {               # postProcess Ant1 for GABC
-    $ant[1] = '{' . $1 . $ant[1];
+  if ($lang =~ /gabc/i && $ant =~ /(\([cf][1-4]b?\))/) {             # postProcess Ant1 for GABC
+    my $clef = $1;
+    $ant[1] =~ s/^\s*\([,;:]\)//;
+    $ant[1] = '{' . $clef . $ant[1];
   }
   my $ant2 = "Ant. $ant[1]";
 
@@ -86,7 +88,7 @@ sub invitatorium {
     if ($rule =~ /Invit2/i) {
 
       # old Invitatorium2 = Quadp[123]-0
-      s/ \*.*//;
+      s/ \*.*?(\(\:\:\)\})?$/ \1/m;
     } elsif ($dayname[0] =~ /Quad[56]/i
       && $winner =~ /tempora/i
       && $rule !~ /Gloria responsory/i
@@ -95,7 +97,7 @@ sub invitatorium {
 
       # old Invitatorium3
       s/&Gloria/\&Gloria2/;
-      s/v\. .* \^ (.)/v. \u\1/m;
+      s/^(v\.|\{\([cf][1-4]b?\))\s*.* \^ (.)/\1 \u\2/m;
       s/\$ant2\s*(?=\$)//s;
     } elsif (!$w
       && $dayofweek == 1
@@ -103,7 +105,7 @@ sub invitatorium {
       && ($dayname[0] =~ /(Epi|Pent|Quadp)/i || ($dayname[0] =~ /Quad/i && $version =~ /Trident|Monastic/i)))
     {
       # old Invitatorium4
-      s/^v\. .* \+ (.)/v. \u\1/m;
+      s/^(v\.|\{\([cf][1-4]b?\))\s*.* \+ (.)/\1 \u\2/m;
     }
 
     s{[+*^] }{}g;    # clean division marks

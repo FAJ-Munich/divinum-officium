@@ -387,32 +387,28 @@ sub psalmi_major {
     && $dayofweek > 0)
   {
     # TODO: is this really the case in Monastic 1963 Vespers throughout the week?
-    my @p1 = split("\n", $psalmi{"Day$dayofweek Laudes3"});
+    @antiphones = split("\n", $psalmi{"Day$dayofweek Laudes3"});
 
     if ($dayofweek == 6 && $version =~ /Trident|Monastic/) {
-      my $expectetur = $p1[3];    # save Expectetur
+      my $expectetur = $antiphones[3];    # save Expectetur
 
       if ($version =~ /trident|monastic.*divino/i) {    # take ants from feria occuring Dec 21st
-        @p1 = split("\n", $psalmi{'Day' . get_stThomas_feria($year) . ' Laudes3'});
+        @antiphones = split("\n", $psalmi{'Day' . get_stThomas_feria($year) . ' Laudes3'});
 
         if ($day == 23 && $version !~ /divino/i) {      # use Sundays ants
           my %w = %{setupstring($lang, subdirname('Tempora', $version) . 'Adv4-0.txt')};
-          @p1 = split("\n", $w{'Ant Laudes'});
+          @antiphones = split("\n", $w{'Ant Laudes'});
         }
       }
 
       if ($version =~ /Monastic/) {
-        $p1[2] = $expectetur;
-        $p1[3] = '';
+        $antiphones[2] = $expectetur;
+        $antiphones[3] = '';
       } else {
-        $p1[3] = $expectetur;
+        $antiphones[3] = $expectetur;
       }
     }
 
-    for (my $i = 0; $i < @p1; $i++) {
-      my @p2 = split(';;', $psalmi[$i]);
-      $antiphones[$i] = "$p1[$i];;$p2[1]";
-    }
     setbuild2('Special Laudes antiphonas for week before vigil of Christmas');
   }
 
@@ -428,7 +424,7 @@ sub psalmi_major {
       && ($communetype =~ /ex/ || ($version =~ /Trident/i && $winner =~ /Sancti/i)))
     {
       ($w, $c) = getproprium('Ant Vespera 3', $lang, 1);
-      setbuild2("Antiphona $commune");
+      setbuild2("Antiphona $commune") if $w;
     }
   }
 
@@ -446,7 +442,7 @@ sub psalmi_major {
     || ($version =~ /Trident/i && $hora eq 'Laudes' && $winner =~ /Sancti/))
   {
     ($w, $c) = getproprium("Ant $hora", $lang, 1);
-    setbuild2("Antiphona $commune");
+    setbuild2("Antiphona $commune") if $w;
   }
   if ($w) { @antiphones = split("\n", $w); $comment = $c; }
 
@@ -556,6 +552,7 @@ sub psalmi_major {
       if ($lang =~ /gabc/i) {
 
         # recombine antiphones with psalms and psalmtones according to antiphone
+        $p =~ s/;;.*//;    # Strip Psalterium tone
         $p = ($p =~ /\'(.*),/s) ? $1 : $p;
 
         $p = ($antiphones[$i] =~ s/\;\;([0-9\;\n]+)// && !$aflag) ? $1 : $p;
@@ -592,7 +589,7 @@ sub psalmi_major {
     && $lang !~ /gabc/i
     && (!exists($winner{"Ant $hora"}) || $commune =~ /C10/)
     && $communetype !~ /ex/i
-    && ($version !~ /Trident/ || $hora eq 'Vespera')
+    && ($version !~ /^Trident/ || $hora eq 'Vespera')
     && ($version !~ /Monastic/ || $hora ne 'Laudes' || $winner{Rank} !~ /Dominica/i))
   {
     $psalmi[0] =~ s/.*(?=;;)/ alleluia_ant($lang) /e;
@@ -668,10 +665,11 @@ sub antetpsalm {
 
     for (my $i = 0; $i < @p; $i++) {
       my $p = $p[$i];
+      $p =~ s/(\(.*?\-.*?\))(.*\')$/$2$1/;    # GABC: pull Verse numbers out of Tone
       $p =~ s/[\(\-]/\,/g;
       $p =~ s/\)//;
       if ($i < (@p - 1)) { $p = '-' . $p; }
-      $p =~ s/\-\'/\'\-/;    # ensure dash behind apostrophe to be passed through to psalm script
+      $p =~ s/\-\'/\'\-/;                     # ensure dash behind apostrophe to be passed through to psalm script
       push(@s, "\&psalm($p)", "\n");
     }
   }
