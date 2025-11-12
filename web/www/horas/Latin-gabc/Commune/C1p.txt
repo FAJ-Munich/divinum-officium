@@ -1,9 +1,9 @@
 [Ant Vespera]
-Sancti tui, * Dómine, florébunt sicut lílium, allelúja: et sicut odor bálsami erunt ante te, allelúja.;;;;7a
-In cæléstibus regnis * Sanctórum habitátio est, allelúja: et in ætérnum réquies eórum, allelúja.;;;;7a
-In velaménto * clamábant Sancti tui, Dómine, allelúja, allelúja, allelúja.;;;;2
-Spíritus et ánimæ * justórum hymnum dícite Deo nostro, allelúja, allelúja.;;;;8G
-Fulgébunt justi * sicut sol in conspéctu Dei, allelúja.;;116;;2
+{name:Sancti tui Domine;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 1120 & Liber antiphonarius, 1960, p. [29];transcriber:Andrew Hinkley;%%(c3) SAn(e)cti(e') tu(h)i(h') *() Dó(h)mi(f')ne(h) flo(g')ré(e)bunt(e.) (;) sic(i)ut(hf) lí(h)li(h)um,(g_[uh:l]h) al(ih~)le(f')lú(e){ia} :(e.) (:) et(e) sic(e)ut(e') o(g)dor(hi~) bál(i)sa(h_i)mi(i.) (;) e(i.)runt(ef) an(h)te(h) te,(gv_[oh:h]FE) al(fg)le(f)lú(e.){ja}.(e.) (::)};;;;7a
+{name:In caelestibus regnis... alleluia;annotation:7.a;mode:7;book:The Liber Usualis, 1961, p. 1120 & Liber antiphonarius, 1960, p. [29];transcriber:Andrew Hinkley;%%(c3) IN(e) cae(e)lé(h')sti(g)bus(h) re(i_[uh:l]j)gnis(i'_[oh:h]) *(,) San(h)ctó(j')rum(k) ha(j)bi(i)tá(j')ti(i)o(i) est,(h) al(ij~)le(j')lú(i){ia} :(i.) (:) et(i) in(j) ae(i')tér(h)num(f'_) (,) ré(h)qui(h)es(g') e(i)ó(hg)rum,(e_[uh:l]f) al(g)le(f)lú(e.){ja}.(e.) (::)};;;;7a
+{name:In velamento clamabant;annotation:2.;mode:2;book:The Liber Usualis, 1961, p. 1120 & Liber antiphonarius, 1960, p. [29];transcriber:Andrew Hinkley;%%(f3) IN(ff) ve(e)la(fh)mén(h_g)to(f) *(,) cla(h)má(h_g)bant(e') San(h)cti(i') tu(j)i(i') Dó(h)mi(ij)ne :(j.) (;) al(h)le(kxjh/j_k)lú(i){ja},(h'_) (,) al(i)le(h)lú(hg){ja},(fe) al(f)le(hg)lú(f.){ja}.(f.) (::)};;;;2
+{name:Spiritus et animae;annotation:8.Gstar;mode:8;book:The Liber Usualis, 1961, p. 1121 & Liber antiphonarius, 1960, p. [29];transcriber:Andrew Hinkley;%%(c4) SPí(f)ri(fg)tus(g) *(,) et(g) á(g)ni(f)mae(g_[uh:l]h) ju(fe)stó(d)rum(d.) (;) hy(g)mnum(g) dí(h')ci(g)te(f') De(g)o(gh) no(f)stro,(f.) (;) al(fh)le(j)lú(ij){ja},(hv_GF) al(gh)le(h)lú(g.){ja}.(g.) (::)};;;;8Gstar
+{name:Fulgebunt justi sicut sol;annotation:2.;mode:2;book:The Liber Usualis, 1961, p. 1121 & Liber antiphonarius, 1960, p. [30];transcriber:Andrew Hinkley;%%(f3) FUl(f)gé(h')bunt(h) ju(fg)sti(fe__) *(,) sic(hi/ji)ut(hg) sol(f!gwh/ih.0) (;) in(e) con(f)spé(h)ctu(i) De(hg)i,(fe) al(f)le(hg)lú(f.){ja}.(f.) (::)};;116;;2
 
 [Ant Vespera] (rubrica monastica)
 {(c3) SAnc(e)ti(e') tu(g)i(g'_) *(,) Dó(h)mi(f')ne(h) flo(g)ré(e.)bunt(e.) (;) sic(i)ut(hf~) lí(g')li(f)um,(e_d) al(ef)le(f)lú(e.)ja:(e.) (:) et(e) sic(e)ut(e') o(g)dor(hi~) bál(i>)sa(h_i)mi(i.) (,) e(ii)runt(e) an(f')te(h) te,(gv_FE) al(fg)le(fg)lú(e.)ja.(e.) (::)};;;;7a
@@ -36,7 +36,7 @@ R/. Vos(h) e(h)lé(h)git(h) De(h)us(h) in(h) he(h)re(h)di(h)tá(h)tem(h) si(h)bi
 {annotation:1. g;%%name:Lux perpetua;annotation:1. g;mode:1;book:Antiphonale Monasticum, 1934, p. 632;%%(c4) LUX(d_f) per(ddc~)pé(c)tu(de)a(e.) *(,) lu(ed)cé(dg)bit(g) San(gh)ctis(e) tu(fe)is,(d) Dó(ed)mi(cd)ne :(d.;) et(g_h!jvIH'Gh) æ(ed)tér(g)ni(gf)tas(dd) tém(c)po(de)rum,(e.) (,) al(ce~)le(e_d/fvEDd)lú(cd~)ja.(d.) (::)};;1g
 
 [Invit]
-Regem Apostolórum Dóminum, * Veníte, adorémus, allelúja.
+{name:Regem Apostolorum T.P.;annotation:6.;mode:6;book:Liber Responsorialis, 1895, p. 162;transcriber:faj-munich;%%(c4) Re(d!ffg)gem(f) A(f)pos(f)to(f)ló(f)rum(gh) Dó(g)mi(f)num,(f.) *(:) Ve(f)ní(g)te,(fe) ad(f)o(ixgi)ré(ixhig)mus,(gf) (;) al(f!gh)le(ghFED)lú(fghv/ghg)ja.(gf..) (::)};;6
 
 [Ant Matutinum]
 Stabunt justi * in magna constántia advérsus eos, qui se angustiavérunt, allelúja.;;18

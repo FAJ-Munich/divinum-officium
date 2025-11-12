@@ -1,3 +1,8 @@
+[Responsory Vespera]
+R.br. {gabc:Commune/C2/rb--posuisti_domine--solesmes_1934}
+(sed tempore passionis)
+R.br. {gabc:Commune/C2/rb--posuisti_domine-passionis-solesmes_1934}
+
 [AntMatutinumM]
 Hic accípiet * benedictiónem a Dómino, et misericórdiam a Deo salutári suo; qui hæc est generátio quæréntium Dóminum;;23
 Lætábitur justus * in Dómino et sperábit in eo, et laudabúntur omnes recti corde;;63
@@ -30,3 +35,14 @@ V. Hic accípiet benedictiónem a Dómino, et misericórdiam a Deo salutári suo
 R. Quam repromísit Deus diligéntibus se.
 &Gloria
 R. Quam repromísit Deus diligéntibus se.
+
+[Responsory Laudes]
+R.br. {gabc:Commune/C2/rb--gloria_et_honore--solesmes_1934}
+(sed tempore passionis)
+R.br. {gabc:Commune/C2/rb--gloria_et_honore-passionis-solesmes_1934}
+
+[Ant Vespera 3]
+@Commune/C2:Ant Vespera:1 s/;;;;/;;109;;/
+@Commune/C2:Ant Vespera:2 s/;;;;/;;111;;/
+@Commune/C2:Ant Vespera:3 s/;;;;/;;112;;/
+@Commune/C2:Ant Vespera:5 s/;;;;/;;115;;/

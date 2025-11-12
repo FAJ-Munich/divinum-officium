@@ -19,8 +19,8 @@
 {gabc:Commune/C8/hy--urbs_jerusalem_beata--solesmes_1934}
 
 [Versum 1]
-{initial-style:0;%%(c3) V/. Hæc(h) est(h) do(h)mus(h) Dó(h)mi(h)ni(h) fír(h)mi(h)ter(h) æ(h)di(h)fi(h)cá(h hr)ta.(g_'/hvGFEfgf.) (::)
-R/. Be(h)ne(h) fun(h)dá(h)ta(h) est(h) su(h)pra(h) fir(h)mam(h) pe(h hr)tram.(g_'/hvGFEfgf.) (::)}
+{initial-style:0;%%(c3) V/. Hæc(h) est(h) do(h)mus(h) Dó(h)mi(h)ni(h) fír(h)mi(h)ter(h) æ(h)di(h)fi(h)cá(h hr)ta.(g_'/hvGF'E!fgf.) (::)
+R/. Be(h)ne(h) fun(h)dá(h)ta(h) est(h) su(h)pra(h) fir(h)mam(h) pe(h hr)tram.(g_'/hvGF'E!fgf.) (::)}
 (sed tonus solemnis nisi ad matutinum loco hujus versus dicitur)
 {initial-style:0;%%(c3) V/. Hæc(h) est(h) do(h)mus(h) Dó(hi)mi(h)ni(h_’) (,) fír(h)mi(h)ter(h) æ(h)di(h)fi(fe)cá(f_0h)ta.(hiHGhih.ghGFE'fggf.) (::)
 R/. Be(h)ne(h) fun(h)dá(hi)ta(h) est(h_') (,) su(h)pra(h) fir(h)mam(fe) pe(f_0h)tram.(hiHGhih.ghGFE'fggf.) (::)}
@@ -40,7 +40,7 @@ R/. Be(h)ne(h) fun(h)dá(h)ta(h) est(h) su(h)pra(h) fir(h)mam(h) pe(hi)tram,(h_�
 [Oratio Dedicationis Altaris]
 !Orationes sequentes: quibus similiter, si agatur de Altari fixo, additur sub unica
 conclusione Oratio de Mysterio vel Sancto, in cujus honorem Altare dedicatur.
-Deus, qui ex omni coaptatióne Sanctórum ætérnum tibi condis habitáculum: da ædificatióni tuæ increménta cœléstia; ut, quorum hic relíquias pio amóre compléctimur, eórum semper méritis adjuvémur.
+{(c3)De(h)us,(h) qui(h) ex(h) om(h)ni(h) co(h)ap(h)ta(h)ti(h)ó(h)ne(h) Sanc(h)tó(h)rum(h) æ(h)tér(h)num(h) ti(h)bi(h) con(h)dis(h) ha(h)bi(h)tá(h)cu(f)lum:(f.) †(,) da(h) æ(h)di(h)fi(h)ca(h)ti(h)ó(h)ni(h) tu(h)æ(h) in(h)cre(h)mén(h)ta(h) cœ(h)lés(h)ti(h)a;(h_') (,) ut,(h) quo(h)rum(h) hic(h) re(h)lí(h)qui(h)as(h) pi(h)o(h) a(h)mó(h)re(g) com(f)pléc(h)ti(h)mur,(h.) *(;) e(h)ó(h)rum(h) sem(h)per(h) mé(h)ri(h)tis(h) ad(h)ju(h)vé(h)mur.(d.) (::)}
 $Per Dominum.
 
 [Oratio in 2 loco]
@@ -68,8 +68,8 @@ Templum Dómini * sanctum est, Dei structúra est, Dei ædificátio est.;;95
 Benedícta * glória Dómini, de loco sancto suo, allelúja.;;98
 
 [Nocturn 2 Versum]
-{initial-style:0;%%(c3) V/. Do(h)mus(h) me(h hr)a.(g_'/hvGFEfgf.) (::)
-R/.  Do(h)mus(h) o(h)ra(h)ti(h)ó(h)nis(h) vo(h)cá(h)bi(hr)tur.(g_'/hvGFEfgf.) (::)}
+{initial-style:0;%%(c3) V/. Do(h)mus(h) me(h hr)a.(g_'/hvGF'E!fgf.) (::)
+R/.  Do(h)mus(h) o(h)ra(h)ti(h)ó(h)nis(h) vo(h)cá(h)bi(hr)tur.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. In dedicatióne templi decantábat pópulus laudem: 
@@ -156,8 +156,8 @@ R.br. {gabc:Commune/C8/rb--domum_tuam_paschal_time--solesmes_1961.1}
 R.br. {gabc:Commune/C8/rb--domum_tuam-passionis-solesmes_1961.1}
 
 [Versum Tertia]
-{initial-style:0;%%(c3) V/. Lo(h)cus(h) is(h)te(h) sanc(h)tus(h) est,(h) in(h) quo(h) o(h)rat(h) sa(h)cér(h hr)dos.(g_'/hvGFEfgf.) (::)
-R/. Pro(h) de(h)líc(h)tis(h) et(h) pec(h)cá(h)tis(h) pó(h)pu(hr)li.(g_'/hvGFEfgf.) (::)}
+{initial-style:0;%%(c3) V/. Lo(h)cus(h) is(h)te(h) sanc(h)tus(h) est,(h) in(h) quo(h) o(h)rat(h) sa(h)cér(h hr)dos.(g_'/hvGF'E!fgf.) (::)
+R/. Pro(h) de(h)líc(h)tis(h) et(h) pec(h)cá(h)tis(h) pó(h)pu(hr)li.(g_'/hvGF'E!fgf.) (::)}
 
 [Capitulum Sexta]
 !Apo 21:3
@@ -179,12 +179,12 @@ R.br. {gabc:Commune/C8/rb--haec_est_domus_paschal_time--solesmes_1961.1}
 R.br. {gabc:Commune/C8/rb--haec_est_domus_domini-passionis-solesmes_1961.1}
 
 [Versum Nona]
-{initial-style:0;%%(c3) V/. Be(h)ne(h) fun(h)dá(h)ta(h) est(h) do(h)mus(h) Dó(h)mi(hr)ni.(g_'/hvGFEfgf.) (::)
-R/. Su(h)pra(h) fir(h)mam(h) pe(h hr)tram.(g_'/hvGFEfgf.) (::)}
+{initial-style:0;%%(c3) V/. Be(h)ne(h) fun(h)dá(h)ta(h) est(h) do(h)mus(h) Dó(h)mi(hr)ni.(g_'/hvGF'E!fgf.) (::)
+R/. Su(h)pra(h) fir(h)mam(h) pe(h hr)tram.(g_'/hvGF'E!fgf.) (::)}
 
 [Versum 3]
-{initial-style:0;%%(c3) V/. Do(h)mum(h) tu(h)am,(h) Dó(h)mi(h)ne,(h) de(h)cet(h) sanc(h)ti(h)tú(h hr)do.(g_'/hvGFEfgf.) (::)
-R/. In(h) lon(h)gi(h)tú(h)di(h)nem(h) di(h)é(h hr)rum.(g_'/hvGFEfgf.) (::)}
+{initial-style:0;%%(c3) V/. Do(h)mum(h) tu(h)am,(h) Dó(h)mi(h)ne,(h) de(h)cet(h) sanc(h)ti(h)tú(h hr)do.(g_'/hvGF'E!fgf.) (::)
+R/. In(h) lon(h)gi(h)tú(h)di(h)nem(h) di(h)é(h hr)rum.(g_'/hvGF'E!fgf.) (::)}
 (sed tonus solemnis nisi ad matutinum loco hujus versus dicitur)
 {initial-style:0;%%(c3) V/. Do(h)mum(h) tu(h)am,(h) Dó(hi)mi(h)ne,(h_’) (,) de(h)cet(h) sanc(f’)ti(e)tú(f_0h)do.(hiHGhih.ghGFE'fggf.) (::)
 R/. In(h) lon(h)gi(h)tú(hi)di(h)nem(h) di(fe)é(f_0h)rum.(hiHGhih.ghGFE’fggf.) (::)}
