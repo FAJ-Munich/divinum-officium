@@ -212,7 +212,7 @@ sub capitulum_minor {
 
       # Transform Tonus solemnis aut simplex into Tonus cum neuma
       map {
-        s/\([a-zA-Z0-9\_\.\~\>\<\'\/\!]+?\) (R\/\.)?\(::\)/\(g\_\'\/hvGF\'Efgf.\) $1\(::\)/g;    # change finalis
+        s/\([a-zA-Z0-9\_\.\~\>\<\'\/\!]+?\) (R\/\.)?\(::\)/\(g\_\'\/hvGF\'E\!fgf.\) $1\(::\)/g;    # change finalis
         s/\((?:hi|hr|h\_0|f?e|f\'?|f\_0?h|h\_\')\)/\(h\)/g;    # More changes for solemn Versicle
         s/\(\,\)//g;
       } @capit[-2 .. -1];
