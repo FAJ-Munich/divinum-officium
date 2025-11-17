@@ -1,81 +1,81 @@
 [Prima]
-Dominica = Allelúja, * confitémini Dómino, quóniam in sǽculum misericórdia ejus, allelúja, allelúja.;;;;7a
+Dominica = {name:Alleluia confitemini. (Sundays throughout the year at Prime);annotation:7.a;mode:7;book:The Liber Usualis, 1961, p. 224 & The Liber Usualis, 1961, p. 228 & Liber antiphonarius, 1960, p. 15 & Liber antiphonarius, 1960, p. 18;transcriber:Andrew Hinkley;%%(c3) AL(e)le(e)lú(ehg/i_[uh:l]j){ja},(i.) *(,) con(i)fi(i)té(ij)mi(hg)ni(fe) Dó(ef)mi(e[ll:1]d)no,(d.) (;) quó(d)ni(f)am(h) in(g_[uh:l]h) saé(i_[uh:l]j)cu(i)lum(i'_[oh:h]) (,) mi(i)se(ij)ri(i)cór(hg)di(f)a(hi) e(fe~)jus,(e.) (;) al(e')le(f)lú(g'){ja},(h) al(f')le(f)lú(e.){ja}.(e.) (::)};;;;7a
 117,118(1-16),118(17-32)
-Feria II = Ínnocens mánibus * et mundo corde ascéndet in montem Dómini.;;;;4E
+Feria II = {name:Innocens manibus;annotation:4.E;mode:4;book:The Liber Usualis, 1961, p. 279A & Liber antiphonarius, 1960, p. 79 & Liber antiphonarius, 1960, p. 81;transcriber:Andrew Hinkley;%%(c4) IN(fd~)no(e')cens(f) má(g')ni(f)bus(ghg.) *() et(h) mun(f')do(g) cor(fe)de(d.) (;) a(dh)scén(hj)det(h) in(gf) mon(g)tem(ghg) Dó(e)mi(e)ni.(e.) (::)};;;;4E
 23,18(1-7),18(8-16),[46]
-Feria III = Deus meus * in te confído non erubéscam.;;;;8c
+Feria III = {name:Deus meus in te confido;annotation:8.c;mode:8;book:The Liber Usualis, 1961, p. 279E & Liber antiphonarius, 1960, p. 113 & Liber antiphonarius, 1960, p. 114;transcriber:Andrew Hinkley;%%(c3) DE(h)us(h') me(h)us,(g.) *(,) in(eg~) te(gf) con(h)fí(fe)do,(df) non(h_f) e(g)ru(f)bé(e.)scam.(e.) (::)};;;;8c
 24(1-8),24(9-15),24(16-23),[95]
-Feria IV = Misericórdia tua, * Dómine, ante óculos meos: et complácui in veritáte tua.;;;;1g
+Feria IV = {name:Misericordia tua;annotation:1.g;mode:1;book:The Liber Usualis, 1961, p. 279H & The Liber Usualis, 1961, p. 279J;transcriber:Andrew Hinkley;%%(c4) MI(d)se(c')ri(d)cór(f')di(e)a(f') tu(g)a,(fe..) *() Dó(d')mi(e)ne,(d_c) (,) an(f')te(g) ó(h')cu(g)los(fe) me(d_g)os,(g.) (;) et(g') com(g)plá(h')cu(g)i(f') in(f) ve(e')ri(f)tá(g)te(fe) tu(d.)a.(d.) (::)};;;;1g
 25,51,52,[96]
-Feria V = In loco páscuæ * ibi Dóminus me collocávit.;;;;7a
+Feria V = {name:In loco pascuae ibi Dominus;annotation:7.a;mode:7;book:The Liber Usualis, 1961, p. 279M & Liber antiphonarius, 1960, p. 152 & Liber antiphonarius, 1960, p. 153;transcriber:Andrew Hinkley;%%(c3) IN(e) lo(g')co(h) pá(i')scu(j)ae,(i.) *(,) i(ij)bi(hg) Dó(f)mi(e)nus(f) me(hv_GF) col(g')lo(f)cá(e.)vit.(e.) (::)};;;;7a
 22,71(1-8),71(9-20),[97]
-Feria VI = Ne discédas a me, * Dómine: quóniam tribulátio próxima est: quóniam non est qui ádjuvet.;;;;2
+Feria VI = {name:Ne discedas;annotation:2.;mode:2;book:The Liber Usualis, 1961, p. 279O & Liber antiphonarius, 1960, p. 172 & Liber antiphonarius, 1960, p. 174;transcriber:Andrew Hinkley;%%(f3) NE(f) di(e)scé(fh)das(hg) a(f) me,(fe) *() Dó(hi)mi(h)ne :(h.) (;) quó(e)ni(ef)am(f') tri(e)bu(f)lá(h')ti(g)o(h) pró(i')xi(h)ma(i) est,(iji.___) (;) quó(e)ni(ef)am(f) non(e_[uh:l]f) est(h') qui(g) ád(e')ju(g)vet.(f.) (::)};;;;2
 21(1-11),21(12-23),21(24-34),[98]
-Sabbato = Exaltáre, Dómine, * qui júdicas terram, redde retributiónem supérbis.;;;;8G
+Sabbato = {name:Exaltare Domine;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 279R & The Liber Usualis, 1961, p. 279S & Liber antiphonarius, 1960, p. 195 & Liber antiphonarius, 1960, p. 197;transcriber:Andrew Hinkley;%%(c4) EX(g)al(fd~)tá(e')re,(f) Dó(gh)mi(h)ne,(g'_[oh:h]) *(,) qui(g) jú(gf)di(g)cas(gh) ter(f.)ram :(f.) (;) red(fg)de(g') re(h)tri(f)bu(g')ti(h)ó(gf)nem(h_j) su(i)pér(g.)bis.(g.) (::)};;;;8G
 93(1-11),93(12-23),107,[149]
 
 [Tertia]
-Dominica = Allelúja, * deduc me, Dómine, in sémitam mandatórum tuórum, allelúja, allelúja.;;;;2
+Dominica = {name:Alleluia deduc me. (Sundays throughout the year at Terce);annotation:2.;mode:2;book:The Liber Usualis, 1961, p. 235 & The Liber Usualis, 1961, p. 237 & Liber antiphonarius, 1960, p. 27 & Liber antiphonarius, 1960, p. 29;transcriber:Andrew Hinkley;%%(f3) AL(eh)le(hg)lú(f_g){ja},(ffe.) *(,) de(f)duc(h') me(g) Dó(h')mi(g)ne(f'_) (,) in(f) sé(h)mi(g)tam(h) man(f)da(fe)tó(f')rum(g) tu(h')ó(f)rum,(f.) (;) al(e)le(f')lú(h){ja},(gf) al(e)le(ef)lú(f.){ja}.(f.) (::)};;;;2
 118(33-48),118(49-64),118(65-80)
-Feria II = Illuminátio mea * et salus mea Dóminus.;;;;8c
+Feria II = {name:Illuminatio mea;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 279A & The Liber Usualis, 1961, p. 279B & Liber antiphonarius, 1960, p. 84 & Liber antiphonarius, 1960, p. 86;transcriber:Andrew Hinkley;%%(c3) IL(h)lu(h)mi(h)ná(h')ti(h)o(g) me(efg)a,(g.) *(,) et(f) sa(g')lus(h) me(f')a(e) Dó(f')mi(e)nus.(e.) (::)};;;;8c
 26(1-11),26(12-20),27
-Feria III = Respéxit me * et exaudívit deprecatiónem meam Dóminus.;;;;8G
+Feria III = {name:Respexit me;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 279E & The Liber Usualis, 1961, p. 279F & Liber antiphonarius, 1960, p. 114 & Liber antiphonarius, 1960, p. 115;transcriber:Andrew Hinkley;%%(c4) RE(g)spé(gj)xit(hg) me,(h.) *(,) et(g') ex(h)au(gf)dí(g_[uh:l]h)vit(g') de(h)pre(j')ca(i)ti(j')ó(k)nem(ji) me(hg)am(h) Dó(i)mi(hg)nus.(g.) (::)};;;;8G
 39(1-7),39(8-18),39(19-24)
-Feria IV =  Deus ádjuvat me: * et Dóminus suscéptor est ánimæ meæ.;;;;8G
+Feria IV = {name:Deus adjuvat me;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 519 & The Liber Usualis, 1961, p. 521 & The Liber Usualis, 1961, p. 768 & Liber antiphonarius, 1960, p. 133 & Liber antiphonarius, 1960, p. 135;transcriber:Andrew Hinkley;%%(c4) DE(g')us(h) ád(gf~)ju(g')vat(h) me,(g.) *(;) et(f) Dó(g')mi(h)nus(j') sus(i)cé(h')ptor(j) est(i_[oh:h]h) á(g')ni(h)mæ(h) me(g.)æ.(g.) (::)};;;;8G
 53,54(1-17),54(18-27)
-Feria V = Quam bonus * Israël Deus, his, qui recto sunt corde.;;;;8c
+Feria V = {name:Quam bonus;annotation:8.c;mode:8;book:The Liber Usualis, 1961, p. 279M & The Liber Usualis, 1961, p. 279N & Liber antiphonarius, 1960, p. 154 & Liber antiphonarius, 1960, p. 155;transcriber:Andrew Hinkley;%%(c3) QUam(hh) bo(hih)nus(e') *() Is(f)ra(e)el(d) De(ef)us(f'_) (,) his(h) qui(h) re(h_f)cto(g') sunt(f) cor(e.)de!(e.) (::)};;;;8c
 72(1-9),72(10-17),72(18-28)
-Feria VI = Éxcita, Dómine, * poténtiam tuam, ut salvos fácias nos.;;;;1a2
+Feria VI = {name:Excita Domine;annotation:1.a2;mode:1;book:The Liber Usualis, 1961, p. 279O & The Liber Usualis, 1961, p. 279Q & Liber antiphonarius, 1960, p. 174 & Liber antiphonarius, 1960, p. 175;transcriber:Andrew Hinkley;%%(c4) EX(f)ci(e)ta,(d') Dó(f)mi(fg)ne,(g') *() pot(f)én(h')ti(g)am(fg~) tu(g)am,(d.) (;) ut(d) sal(e_[uh:l]f)vos(g') fá(f)ci(e')as(f) nos.(d.) (::)};;;;1a2
 79(1-8),79(9-20),81
-Sabbato = Clamor meus, * Dómine, ad te pervéniat: non avértas fáciem tuam a me.;;;;8c
+Sabbato = {name:Clamor meus;annotation:8.c;mode:8;book:The Liber Usualis, 1961, p. 279S & Liber antiphonarius, 1960, p. 197;transcriber:Andrew Hinkley;%%(c3) CLa(h)mor(hf) me(fi)us,(i) *() Dó(hi)mi(hg)ne,(e'_[oh:h]) (,) ad(f) te(h) per(g_[uh:l]h)vé(f')ni(e)at :(f.) (;) non(e') a(g)vér(ef)tas(f) fá(g')ci(h)em(i) tu(h_f)am(g') a(f) me.(e.) (::)};;;;8c
 101(1-13),101(14-23),101(24-29)
 
 [Sexta]
-Dominica = Allelúja, * tuus sum ego, salvum me fac, Dómine, allelúja, allelúja.;;;;8G
+Dominica = {name:Alleluia tuus sum ego. (Sundays throughout the year at Sext);annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 241 & The Liber Usualis, 1961, p. 243 & Liber antiphonarius, 1960, p. 33 & Liber antiphonarius, 1960, p. 35;transcriber:Andrew Hinkley;%%(c4) AL(g)le(g)lú(gj){ja},(hg..) *(,) tu(h)us(g') sum(f) e(gh)go,(h'_) (,) sal(j)vum(ij) me(k) fac(jh) Dó(j)mi(j)ne,(i.) (;) al(h)le(g')lú(h){ja},(h') al(i)le(h)lú(g.){ja}.(g.) (::)};;;;8G
 118(81-96),118(97-112),118(113-128)
-Feria II = In tua justítia * líbera me, Dómine.;;;;8c
+Feria II = {name:In tua justitia;annotation:8.c;mode:8;book:The Liber Usualis, 1961, p. 279B & Liber antiphonarius, 1960, p. 89 & Liber antiphonarius, 1960, p. 91;transcriber:Andrew Hinkley;%%(c3) IN(h') tu(h)a(g') ju(h)stí(f')ti(e)a(g'_[oh:h]) *(,) lí(g)be(h)ra(f') me,(e) Dó(f')mi(e)ne.(e.) (::)};;;;8c
 30(1-10),30(11-22),30(23-31)
-Feria III = Suscepísti me, Dómine: * et confirmásti me in conspéctu tuo.;;;;8G
+Feria III = {name:Suscepisti me;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 279F & Liber antiphonarius, 1960, p. 116;transcriber:Andrew Hinkley;%%(c4) SUs(g)ce(h)pí(gf)sti(g') me,(h) Dó(f')mi(e)ne,(d.) *(;) et(d) con(e')fir(f)má(g')sti(f) me(g_[uh:l]h) in(j) con(h)spé(i_[uh:l]j)ctu(i) tu(g.)o.(g.) (::)};;;;8G
 40,41(1-7),41(8-16)
-Feria IV = In Deo sperávi * non timébo quid fáciat mihi homo.;;;;1f
+Feria IV = {name:In Deo speravi;annotation:1.f;mode:1;book:The Liber Usualis, 1961, p. 279J & The Liber Usualis, 1961, p. 279K & Liber antiphonarius, 1960, p. 135 & Liber antiphonarius, 1960, p. 137;transcriber:Andrew Hinkley;%%(c4) IN(d) De(d_c)o(f') spe(g)rá(f_h)vi,(h.) *(,) non(h) ti(g)mé(ixh_i)bo(g') quid(f) fá(e')ci(f)at(g) mi(e')hi(f) ho(d.)mo.(d.) (::)};;;;1f
 55,56,57
-Feria V = Memor esto * congregatiónis tuæ, Dómine, quam possedísti ab inítio.;;;;5
+Feria V = {name:Memor esto;annotation:5.;mode:5;book:The Liber Usualis, 1961, p. 279N & Liber antiphonarius, 1960, p. 155 & Liber antiphonarius, 1960, p. 156;transcriber:Andrew Hinkley;%%(c3) ME(h)mor(f) e(gh)sto(h) *() con(g')gre(h)ga(i')ti(h)ó(ij)nis(i') tu(h)ae,(hg) Dó(f')mi(e)ne,(f.) (;) quam(f') pos(f)se(f')dí(h)sti(e[ll:1]d) ab(ef) in(e)í(d')ti(d)o.(d.) (::)};;;;5
 73(1-10),73(11-17),73(18-23)
-Feria VI = Beáti, qui hábitant * in domo tua, Dómine.;;;;8G
+Feria VI = {name:Beati qui habitant;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 279Q & Liber antiphonarius, 1960, p. 176;transcriber:Andrew Hinkley;%%(c4) BE(g)á(gj)ti(h') qui(g) há(h')bi(g)tant(g_') *(,) in(f) do(g')mo(h) tu(i)a,(hg) Dó(h')mi(g)ne.(g.) (::)};;;;8G
 83(1-7),83(8-13),86
-Sabbato = Dómine, Deus meus * magnificátus es veheménter.;;;;8G
+Sabbato = {name:Domine Deus meus;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 279T & Liber antiphonarius, 1960, p. 198 & Liber antiphonarius, 1960, p. 200;transcriber:Andrew Hinkley;%%(c4) DO(g)mi(fe)ne(d') De(f)us(g') me(h)us,(g'_) *(,) ma(g)gni(h')fi(g)cá(h')tus(g) es(f) ve(h_j)he(i)mén(g.)ter.(g.) (::)};;;;8G
 103(1-13),103(14-24),103(25-36)
 
 [Nona]
-Dominica = Allelúja, * fáciem tuam, Dómine, illúmina super servum tuum, allelúja, allelúja.;;;;5
+Dominica = {name:Alleluia faciem tuam. (Sundays throughout the year at None);annotation:5.;mode:5;book:The Liber Usualis, 1961, p. 245 & The Liber Usualis, 1961, p. 247 & Liber antiphonarius, 1960, p. 39 & Liber antiphonarius, 1960, p. 41;transcriber:Andrew Hinkley;%%(c3) AL(f)le(d)lú(fh){ja},(h.) *(,) fá(h')ci(g)em(hi) tu(i)am,(h) Dó(jk)mi(i)ne,(h'_) (,) il(i)lú(h_i)mi(h)na(e') su(f)per(h') ser(i)vum(hg) tu(f)um,(f.) (;) al(h)le(g')lú(h){ja},(f') al(f)le(ef)lú(d.){ja}.(d.) (::)};;;;5
 118(129-144),118(145-160),118(161-176)
-Feria II = Exsultáte, justi, * et gloriámini, omnes recti corde.;;;;7a
+Feria II = {name:Exsultate justi;annotation:7.a;mode:7;book:The Liber Usualis, 1961, p. 279D & The Liber Usualis, 1961, p. 279E & Liber antiphonarius, 1960, p. 94 & Liber antiphonarius, 1960, p. 96;transcriber:Andrew Hinkley;%%(c3) EX(e)sul(e)tá(g')te,(h) ju(i)sti,(i.) *(,) et(i) glo(g')ri(h)á(ij)mi(ih)ni,(h'_) (,) o(f)mnes(f'_) re(h)cti(g) cor(e.)de.(e.) (::)};;;;7a
 31,32(1-11),32(12-22)
-Feria III = Salvásti nos, * Dómine, et in nómine tuo confitébimur in sǽcula.;;;;2
+Feria III = {name:Salvasti nos;annotation:2.;mode:2;book:The Liber Usualis, 1961, p. 279F & The Liber Usualis, 1961, p. 279H & Liber antiphonarius, 1960, p. 117 & Liber antiphonarius, 1960, p. 119;transcriber:Andrew Hinkley;%%(f3) SAl(f)vá(fe)sti(f) nos,(h_g) *() Dó(e')mi(g)ne,(f.) (;) et(f) in(f) nó(g')mi(f)ne(e') tu(h)o(h'_) (,) con(g)fi(h)té(i')bi(h)mur(ij) in(hg) saé(f')cu(f)la.(f.) (::)};;;;2
 43(1-10),43(11-22),43(23-28)
-Feria IV =  Deus meus * misericórdia tua prævéniet me.;;;;3b
+Feria IV = {name:Deus meus misericordia;annotation:3.b;mode:3;book:The Liber Usualis, 1961, p. 279K & The Liber Usualis, 1961, p. 279M & Liber antiphonarius, 1960, p. 137 & Liber antiphonarius, 1960, p. 139;transcriber:Andrew Hinkley;%%(c4) DE(j)us(ji) me(hg)us,(g'_) *(,) mi(d)se(e')ri(f)cór(g')di(f)a(e) tu(fg)a(g) prae(h)vé(g')ni(f)et(g) me.(e.) (::)};;;;3b
 58(1-10),58(11-20),59
-Feria V =  Invocábimus * nomen tuum, Dómine: narrábimus mirabília tua.;;;;6
+Feria V = {name:Invocabimus;annotation:6.;mode:6;book:The Liber Usualis, 1961, p. 279N & Liber antiphonarius, 1960, p. 156 & Liber antiphonarius, 1960, p. 157;transcriber:Andrew Hinkley;%%(c4) IN(f)vo(gh)cá(ixi')bi(h)mus(g') *() no(g)men(gf) tu(g)um(gh) Dó(f')mi(e)ne,(d.) (;) nar(cd)rá(f')bi(g)mus(f) mi(f)ra(f)bí(fe)li(g)a(ghg) tu(f.)a.(f.) (::)};;;;6
 74,75(1-6),75(7-12)
-Feria VI = Misericórdia et véritas * præcédent fáciem tuam, Dómine.;;;;8G
+Feria VI = {name:Misericordia et veritas;annotation:1.a;mode:1;book:The Liber Usualis, 1961, p. 279R & Liber antiphonarius, 1960, p. 177 & Liber antiphonarius, 1960, p. 179;transcriber:Andrew Hinkley;%%(c4) MI(h)se(g)ri(f)cór(gh)di(g)a(f) *() et(fe) vé(de)ri(d)tas(c.) (;) prae(cd)cé(ffg)dent(f') fá(f)ci(e')em(f) tu(g)am,(fe) Dó(d)mi(d)ne.(d.) (::)};;;;1a
 88(1-18),88(29-38),88(39-51)
-Sabbato = Ne tacúeris Deus, * quia sermónibus ódii circumdedérunt me.;;;;1f
+Sabbato = {name:Ne tacueris;annotation:1.f;mode:1;book:The Liber Usualis, 1961, p. 279T & The Liber Usualis, 1961, p. 279V & Liber antiphonarius, 1960, p. 200 & Liber antiphonarius, 1960, p. 202;transcriber:Andrew Hinkley;%%(c4) NE(d) ta(e_[uh:l]f)cú(g)e(g)ris,(ge) De(f)us,(d.) *(;) qui(d)a(dc) ser(f)mó(g')ni(f)bus(g') ó(h)di(gf)i(f_g) (,) cir(d)cum(dc)de(d)dé(f')runt(e) me.(d.) (::)};;;;1f
 108(1-12),108(13-20),108(21-30)
 
 [Completorium]
 Dominica = {name:Miserere;annotation:8.G;%%(c4) Mi(g)se(g')ré(h)re(gf..) * mi(gh)hi,(h') Dó(g)mi(fg)ne,(g.) (;) et(h) ex(j)áu(i_0j)di(h) o(h)ra(hg)ti(f)ó(gh)nem(h) me(h.)am(h.) (::)};;;;8G
 4,90,133
-Feria II = Salvum me fac, * Dómine, propter misericórdiam tuam.;;;;8G
+Feria II = {name:Salvum me fac;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 283 & The Liber Usualis, 1961, p. 285 & Liber antiphonarius, 1960, p. 104;transcriber:Andrew Hinkley;%%(c4) SAl(h)vum(f_g~) me(g) fac(gh) *() Dó(f)mi(g)ne,(f.) (,) pro(fd)pter(e') mi(f)se(g')ri(f)cór(gh)di(h)am(h) tu(g.)am.(g.) (::)};;;;8G
 6,7(1-10),7(11-18)
-Feria III = Tu, Dómine, * servábis nos: et custódies nos in ætérnum.;;;;8G
+Feria III = {name:Tu Domine;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 288 & The Liber Usualis, 1961, p. 289 & Liber antiphonarius, 1960, p. 123 & Liber antiphonarius, 1960, p. 125;transcriber:Andrew Hinkley;%%(c4) TU(h') Dó(f)mi(fg)ne(g) *() ser(g)vá(h')bis(g) nos,(f.) (;) et(f') cu(g)stó(f')di(g)es(h) nos(h!iwj_h) in(i') ae(h)tér(g.)num.(g.) (::)};;;;8G
 11,12,15
-Feria IV = Immíttet Ángelus Dómini * in circúitu timéntium eum: et erípiet eos.;;;;3a
+Feria IV = {name:Immittet Angelus;annotation:3.a;mode:3;book:The Liber Usualis, 1961, p. 293 & The Liber Usualis, 1961, p. 294 & Liber antiphonarius, 1960, p. 143 & Liber antiphonarius, 1960, p. 144;transcriber:Andrew Hinkley;%%(c4) IM(g)mít(hi)tet(i') An(i)ge(i)lus(ih) Dó(j)mi(hg)ni(g'_[oh:h]) *(,) in(g) cir(h)cú(j')i(i)tu(h) ti(e_[uh:l]f)mén(g)ti(f)um(e') e(f)um,(e_[oh:h][ll:1]d_[oh:h]) (;) et(dh) e(h)rí(h_j)pi(g)et(gf) e(e.)os.(e.) (::)};;;;3a
 33(1-10),33(11-22),60
-Feria V = Adjútor meus * et liberátor meus esto, Dómine.;;;;8G
+Feria V = {name:Adjutor meus;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 298 & The Liber Usualis, 1961, p. 300 & Liber antiphonarius, 1960, p. 163 & Liber antiphonarius, 1960, p. 164;transcriber:Andrew Hinkley;%%(c4) AD(g)jú(f')tor(h) me(ji)us(g'_[oh:h]) *(,) et(g) li(f')be(g)rá(h')tor(g) me(fe)us(d') e(f)sto(h'_) Dó(f)mi(fg)ne.(g.) (::)};;;;8G
 69,70(1-13),70(14-26)
-Feria VI = Voce mea * ad Dóminum clamávi: neque obliviscétur miseréri Deus.;;;;7c
+Feria VI = {name:Voce mea;annotation:7.c;mode:7;book:The Liber Usualis, 1961, p. 305 & The Liber Usualis, 1961, p. 307 & Liber antiphonarius, 1960, p. 184 & Liber antiphonarius, 1960, p. 186;transcriber:Andrew Hinkley;%%(c3) VO(i')ce(g) me(iv.jki)a(i'_[oh:h]) *(,) ad(i) Dó(i')mi(g)num(h_i) cla(f')má(e)vi,(e.) (;) ne(h_)que(h') ob(h)li(h)vi(f')scé(h)tur(g'_[oh:h]) (,) mi(f)se(e)ré(fh)ri(g) De(e.)us.(e.) (::)};;;;7c
 76(1-12),76(13-20),85
-Sabbato = Intret orátio mea * in conspéctu tuo, Dómine.;;;;5
+Sabbato = {name:Intret oratio mea;annotation:5.;mode:5;book:The Liber Usualis, 1961, p. 313 & The Liber Usualis, 1961, p. 316 & Liber antiphonarius, 1960, p. 207 & Liber antiphonarius, 1960, p. 209;transcriber:Andrew Hinkley;%%(c3) IN(f)tret(d') o(f)rá(h')ti(g)o(f) me(gh)a(h'_) *(,) in(h) con(h)spé(h)ctu(h) tu(h)o(e') Dó(f)mi(e)ne.(d.) (::)};;;;5
 87,102(1-12),102(13-22)
 
 [Adv1]

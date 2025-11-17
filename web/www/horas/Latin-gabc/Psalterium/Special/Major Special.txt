@@ -47,6 +47,9 @@ R.br. {gabc:Psalterium/Dominica/rb--quam_magnificata_sunt--solesmes_1934}
 [HymnusM Day0 Vespera]
 {gabc:Psalterium/Dominica/hy--lucis_creator_optime_in_aestate--solesmes_1934}
 
+[Hymnus Day0 Vespera hiemalis]
+@:Hymnus Day0 Vespera
+
 [HymnusM Day0 Vespera hiemalis]
 {gabc:Psalterium/Dominica/hy--lucis_creator_optime_in_hieme--solesmes_1934}
 
