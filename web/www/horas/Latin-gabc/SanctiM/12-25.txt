@@ -1,13 +1,5 @@
-@Sancti/12-25
-
-[Rule]
-12 lectiones
-
 [Responsory Vespera 1]
 R.br. {gabc:Tempora/Nativitatis/rb--hodie_scietis--solesmes_1934_vesp}
-
-[Responsory Vespera]
-@:Responsory Breve Tertia
 
 [AntMatutinumM]
 Elevámini, * portæ æternáles, † et introíbit Rex glóriæ.;;23
@@ -16,18 +8,6 @@ Nato * Dómino Angelórum chorus canébat, dicens: Salus Deo nostro, allelúja.;
 
 [Ant Matutinum 3N]
 Párvulus * fílius hódie natus est nobis: † et vocábitur Deus, Fortis, allelúja, allelúja.
-
-[Ant Matutinum]
-@Sancti/12-25::1-2
-@:AntMatutinumM:1
-@Sancti/12-25::3-8
-@:AntMatutinumM:2
-@Sancti/12-25::9
-@:AntMatutinumM:3
-;;263;264;265
-
-[Lectio1]
-@Sancti/12-25:Lectio1
 
 [Lectio2]
 @Sancti/12-25:Lectio2:s/-8/-3/ s/4 .*//s
@@ -103,18 +83,6 @@ R. Hoc erat in princípio apud Deum.
 
 [Responsory12]
 @Sancti/12-25:Responsory8
-
-[LectioE]
-@Sancti/09-08
-
-[Responsory TertiaM]
-@Sancti/12-25:Versum Nona
-
-[Responsory SextaM]
-@Sancti/12-25:Versum 2
-
-[Responsory NonaM]
-@Sancti/12-25:Versum Sexta
 
 [Ant Vespera 3]
 @Sancti/12-25::s/.*;;131//

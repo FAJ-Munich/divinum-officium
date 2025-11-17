@@ -1,0 +1,5 @@
+[Name]
+Leónem
+(sed nisi communi Summorum Pontificum)
+Leónis
+Ant=Leo

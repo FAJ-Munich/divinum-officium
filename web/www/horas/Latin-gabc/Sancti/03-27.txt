@@ -1,19 +1,9 @@
-[Rank]
-S. Joannis Damasceni Confessoris;;Duplex;;3;;vide C5a
-
 [Name]
 Jo(f)án(g_0h)nes(kxiji/jkj.)
-
-[Rule]
-vide C5;mtv
-9 lectiones
 
 [Oratio]
 Omnípotens sempitérne Deus, qui ad cultum sacrárum imáginum asseréndum, beátum Joánnem cælésti doctrína et admirábili spíritus fortitúdine imbuísti: concéde nobis ejus intercessióne et exémplo; ut, quorum cólimus imágines, virtútes imitémur et patrocínia sentiámus.
 $Per Dominum
-
-[Lectio1]
-@Commune/C4a:Lectio1
 
 [Lectio2]
 @Commune/C4a:Lectio2

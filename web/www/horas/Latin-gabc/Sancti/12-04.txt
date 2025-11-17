@@ -1,0 +1,6 @@
+[Name]
+Petre Chrysóloge
+
+[Oratio]
+Deus, qui beátum Petrum Chrysólogum Doctórem egrégium, divínitus præmonstrátum, ad regéndam et instruéndam Ecclésiam tuam éligi voluísti: præsta, quǽsumus; ut, quem Doctórem vitæ habúimus in terris, intercessórem habére mereámur in cælis.
+$Per Dominum

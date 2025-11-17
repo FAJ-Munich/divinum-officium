@@ -1,0 +1,6 @@
+[Name]
+Zephyrínum
+
+[Oratio] (nisi communi Summorum Pontificum)
+Præsta, quǽsumus, omnípotens Deus: ut beáti Zephyríni, Mártyris tui atque Pontíficis, cujus gaudémus méritis, instruámur exémplis.
+$Per Dominum

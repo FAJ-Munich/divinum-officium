@@ -1,0 +1,222 @@
+[Ant Vespera]
+Assúmpsit Jesus * Petrum, et Jacóbum, et Joánnem fratrem ejus, et duxit eos in montem excélsum seórsum, et transfigurátus est ante eos.
+Resplénduit * fácies ejus sicut sol, vestiménta autem ejus facta sunt alba sicut nix, allelúja.
+Et ecce * apparuérunt eis Móyses et Elías loquéntes cum Jesu.
+Respóndens autem Petrus, * dixit ad Jesum: Dómine, bonum est nos hic esse.
+Adhuc eo loquénte, * ecce nubes lúcida obumbrávit eos.
+
+[Hymnus Vespera]
+v. Quicúmque Christum quǽritis,
+Oculos in altum tóllite:
+Illic licébit vísere
+Signum perénnis glóriæ.
+_
+Illústre quiddam cérnimus,
+Quod nésciat finem pati,
+Sublíme, celsum, intérminum,
+Antíquius cælo et chao.
+_
+Hic ille Rex est géntium
+Populíque Rex judáici,
+Promíssus Abrahæ patri
+Ejúsque in ævum sémini.
+_
+Hunc, et prophétis téstibus
+Iisdémque signatóribus,
+Testátor et Pater jubet
+Audíre nos et crédere.
+_
+* Jesu, tibi sit glória,
+Qui te revélas párvulis,
+Cum Patre, et almo Spíritu,
+In sempitérna sǽcula.
+Amen.
+
+[Doxology]
+Jesu, tibi sit glória,
+Qui te revélas párvulis,
+Cum Patre, et almo Spíritu,
+In sempitérna sǽcula.
+Amen.
+
+[Doxology] (rubrica monastica aut rubrica 1570)
+@Psalterium/Doxologies:EpiT
+
+[Versum 1]
+{initial-style:0;%%(c3) V/. Glo(h)ri(h)ó(h)sus(h) ap(h)pa(h)ru(h)ís(h)ti(h) in(h) con(h)spéc(h)tu(h) Dó(h)mi(h)ni.(g_'/hvGF'E!fgf.) (::)
+R/. Prop(h)tér(h)e(h)a(h) de(h)có(h)rem(h) índ(h)u(h)it(h) te(h) Dó(h)mi(h)nus.(g_'/hvGF'E!fgf.) (::)}
+
+[Ant 1]
+Christus Jesus, * splendor Patris et figúra substántiæ ejus, portans ómnia verbo virtútis suæ, purgatiónem peccatórum fáciens, in monte excélso gloriósus apparére hódie dignátus est.
+
+[Oratio]
+Deus, qui fídei sacraménta in Unigéniti tui gloriósa Transfiguratióne patrum testimónio roborásti, et adoptiónem filiórum perféctam, voce delápsa in nube lúcida, mirabíliter præsignásti: concéde propítius; ut ipsíus Regis glóriæ nos coherédes effícias, et ejúsdem glóriæ tríbuas esse consórtes.
+$Per eumdem
+
+[Invit]
+Summum Regem glóriæ, * Christum adorémus.
+
+[Ant Matutinum]
+Paulo minus * ab Angelis minorátus, glória et honóre coronátus est, et constitútus super ópera mánuum Dei.;;8
+Revelávit Dóminus * condénsa, et in templo ejus omnes dicent glóriam.;;28
+Speciósus forma * præ fíliis hóminum, diffúsa est grátia in lábiis tuis.;;44
+Illúminans * tu mirabíliter a móntibus ætérnis: turbáti sunt omnes insipiéntes corde.;;75
+Mélior est * dies una in átriis tuis, super míllia.;;83
+Gloriósa * dicta sunt de te, cívitas Dei.;;86
+Thabor et Hermon * in nómine tuo exsultábunt: tuum brácchium cum poténtia.;;88
+(sed rubrica 1960) Thabor et Hermon * in nómine tuo exsultábunt: tuum brácchium cum poténtia.;;88(2-19)
+Lux orta est * justo, et rectis corde lætítia.;;96
+Confessiónem * et decórem índuit, amíctus lúmine sicut vestiménto.;;103
+
+[Nocturn 2 Versum]
+V. Glória et honóre coronásti eum, Dómine.
+R. Et constituísti eum super ópera mánuum tuárum.
+
+[Nocturn 3 Versum]
+V. Magna est glória ejus in salutári tuo.
+R. Glóriam et magnum decórem impónes super eum.
+
+[Responsory1]
+R. Surge, illumináre, Jerúsalem, quia venit lumen tuum,
+* Et glória Dómini super te orta est.
+V. Et ambulábunt gentes in lúmine tuo, et reges in splendóre ortus tui.
+R. Et glória Dómini super te orta est.
+
+[Responsory2]
+R. In splendénte nube Spíritus Sanctus visus est, Patérna vox audíta est:
+* Hic est Fílius meus diléctus, in quo mihi bene complácui; ipsum audíte.
+V. Appáruit nubes obúmbrans, et vox Patris intónuit.
+R. Hic est Fílius meus diléctus, in quo mihi bene complácui; ipsum audíte.
+
+[Responsory3]
+R. Vidéte qualem caritátem dedit nobis Deus Pater,
+* Ut fílii Dei nominémur et simus.
+V. Scimus quóniam, cum apparúerit, símiles ei érimus, quóniam vidébimus eum sícuti est.
+R. Ut fílii Dei nominémur et simus.
+&Gloria
+R. Ut fílii Dei nominémur et simus.
+
+[Responsory4]
+R. Inebriáti sunt ab ubertáte domus tuæ:
+* Et torrénte voluptátis tuæ potásti eos.
+V. Quóniam apud te est fons vitæ, et in lúmine tuo vidébimus lumen.
+R. Et torrénte voluptátis tuæ potásti eos.
+
+[Responsory5]
+R. Præcéptor, bonum est nos hic esse:
+* Faciámus hic tria tabernácula; tibi unum, Móysi unum et Elíæ unum.
+V. Non enim sciébat quid díceret.
+R. Faciámus hic tria tabernácula; tibi unum, Móysi unum et Elíæ unum.
+
+[Responsory6]
+R. Si ministrátio mortis, lítteris deformáta in lapídibus, fuit in glória, ita ut non possent inténdere fílii Israël in fáciem Móysi propter glóriam vultus ejus, quæ evacuátur:
+* Multo magis ministrátio spíritus, quæ manet, erit in glória.
+V. Amplióris enim glóriæ Christus præ Móyse dignus est hábitus, quanto ampliórem honórem habet domo, qui fabricávit eam.
+R. Multo magis ministrátio spíritus, quæ manet, erit in glória.
+&Gloria
+R. Multo magis ministrátio spíritus, quæ manet, erit in glória.
+
+[Responsory7]
+R. Vocávit nos Deus vocatióne sua sancta, secúndum grátiam suam, quæ manifestáta est nunc;
+* Per illuminatiónem Salvatóris nostri Jesu Christi.
+V. Qui destrúxit mortem, illuminávit autem vitam in incorruptiónem.
+R. Per illuminatiónem Salvatóris nostri Jesu Christi.
+
+[Responsory8]
+R. Deus, qui fecit de ténebris lumen splendéscere, illúxit in córdibus nostris
+* Ad illuminatiónem sciéntiæ claritátis Dei, in fácie Jesu Christi.
+V. Exórtum est in ténebris lumen rectis corde, miséricors et miserátor, et justus.
+R. Ad illuminatiónem sciéntiæ claritátis Dei, in fácie Jesu Christi.
+&Gloria
+R. Ad illuminatiónem sciéntiæ claritátis Dei, in fácie Jesu Christi.
+
+[Capitulum Laudes]
+!Phil 3:20-21
+v. Salvatórem exspectámus Dóminum nostrum Jesum Christum, qui reformábit corpus humilitátis nostræ configurátum córpori claritátis suæ.
+$Deo gratias
+
+[Hymnus Laudes]
+v. Lux alma, Jesu, méntium,
+Dum corda nostra récreas,
+Culpæ fugas calíginem,
+Et nos reples dulcédine.
+_
+Quam lætus est, quem vísitas!
+Consors Patérnæ déxteræ,
+Tu dulce lumen pátriæ,
+Carnis negátum sénsibus.
+_
+Splendor Patérnæ glóriæ,
+Incomprehénsa cáritas,
+Nobis amóris cópiam
+Largíre per præséntiam.
+_
+Jesu, tibi sit glória,
+Qui te revélas párvulis,
+Cum Patre, et almo Spíritu,
+In sempitérna sǽcula.
+Amen.
+
+[HymnusM Laudes]
+v. Amor Jesu dulcíssime,
+Quando cor nostrum vísitas,
+Pellis mentis calíginem,
+Et nos reples dulcédine.
+_
+Quam felix est quem sátias!
+Consors patérnæ déxteræ,
+Tu vere lumen pátriæ,
+Quod omnem sensum súperat.
+_
+Splendor patérnæ glóriæ,
+Incomprehénsa bónitas,
+Amóris tui cópiam
+Da nobis per præséntiam.
+_
+Glória tibi Dómine,
+Qu[i] apparuísti hódie,
+Cum Patr[e] et Sancto Spíritu,
+In sempitérna sǽcula. Amen.
+
+[Versum 2]
+{initial-style:0;%%(c3) V/. Co(h)ró(h)na(h) áu(h)re(h)a(h) su(h)per(h) ca(h)put(h) e(h)jus.(g_'/hvGF'E!fgf.) (::)
+R/. Ex(h)prés(h)sa(h) si(h)gno(h) sanc(h)ti(h)tá(h)tis,(h) gló(h)ri(h)æ,(h) et(h) ho(h)nó(h)ris.(g_'/hvGF'E!fgf.) (::)}
+
+[Ant 2]
+Et ecce, * vox de nube dicens: Hic est Fílius meus diléctus, in quo mihi complácui; ipsum audíte, allelúja.
+
+[Lectio Prima]
+!Apoc 21:10-11; 21:23
+v. Sústulit me in spíritu in montem magnum et altum, et osténdit mihi civitátem sanctam Jerúsalem, descendéntem de cælo a Deo, habéntem claritátem Dei; et lucérna ejus est Agnus.
+
+[Responsory Breve Tertia]
+R.br. Gloriósus apparuísti in conspéctu Dómini, * Allelúja, allelúja.
+R. Gloriósus apparuísti in conspéctu Dómini, * Allelúja, allelúja.
+V. Proptérea decórem índuit te Dóminus.
+R. Allelúja, allelúja.
+&Gloria
+R. Gloriósus apparuísti in conspéctu Dómini, * Allelúja, allelúja.
+
+[Capitulum Sexta]
+!2 Cor 3:18
+v. Nos omnes reveláta fácie glóriam Dómini speculántes, in eándem imáginem transformámur a claritáte in claritátem, tamquam a Dómini Spíritu.
+$Deo gratias
+
+[Responsory Breve Sexta]
+R.br. Glória et honóre coronásti eum, Dómine, * Allelúja, allelúja.
+R. Glória et honóre coronásti eum, Dómine, * Allelúja, allelúja.
+V. Et constituísti eum super ópera mánuum tuárum.
+R. Allelúja, allelúja.
+&Gloria
+R. Glória et honóre coronásti eum, Dómine, * Allelúja, allelúja.
+
+[Responsory Breve Nona]
+R.br. Magna est glória ejus in salutári tuo, * Allelúja, allelúja.
+R. Magna est glória ejus in salutári tuo, * Allelúja, allelúja.
+V. Glóriam et magnum decórem impónes super eum.
+R. Allelúja, allelúja.
+&Gloria
+R. Magna est glória ejus in salutári tuo, * Allelúja, allelúja.
+
+[Ant 3]
+Et audiéntes * discípuli cecidérunt in fáciem suam et timuérunt valde: et accéssit Jesus, et tétigit eos dixítque eis: Súrgite et nolíte timére, allelúja.

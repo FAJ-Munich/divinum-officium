@@ -1,20 +1,5 @@
-@Sancti/05-03
-
-[Rule]
-12 lectiones
-Psalmi Dominica
-
 [Responsory Vespera]
 R.br. {gabc:Sancti/05-03/rb--adoramus_te_christe_tp--solesmes_1934}
 
 [Responsory Laudes]
 R.br. {gabc:Sancti/05-03/rb--hoc_signum_crucis_t._paschali--solesmes}
-
-[Responsory TertiaM]
-@Sancti/05-03:Ant Matutinum:4-5 s/\(g\_.* \(\:\:\)/(f\.) (\:\:)/g s/\(h\_'\)/\(h\)/g s/\(\,\)//g
-
-[Responsory SextaM]
-@Sancti/05-03:Ant Matutinum:9-10 s/\(g\_.* \(\:\:\)/(f\.) (\:\:)/g s/\(h\_'\)/\(h\)/g s/\(\,\)//g
-
-[Responsory NonaM]
-@Sancti/05-03:Ant Matutinum:14-15 s/\(g\_.* \(\:\:\)/(f\.) (\:\:)/g s/\(h\_'\)/\(h\)/g s/\(\,\)//g

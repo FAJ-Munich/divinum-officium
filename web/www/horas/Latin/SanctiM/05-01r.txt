@@ -5,10 +5,10 @@
 Psalmi Dominica
 
 [Responsory Vespera]
-@Tempora/Pasc2-3:Responsory Tertia:1-6
+@Tempora/Pasc2-3:Responsory Breve Tertia
 
 [Versum 1]
-@Tempora/Pasc2-3:Responsory Tertia:8-9
+@Tempora/Pasc2-3:Versum Tertia
 
 [Ant Matutinum]
 @Tempora/Pasc2-3::1
@@ -89,17 +89,17 @@ R. Miserére mei, et exáudi me, allelúja.
 [Responsory12]
 @SanctiM/03-19
 
-[Evangelium]
-@Tempora/Pasc2-3
-
 [Responsory Laudes]
-@Tempora/Pasc2-3:Responsory Sexta:1-6
+@Tempora/Pasc2-3:Responsory Breve Sexta
 
 [Responsory TertiaM]
-@Tempora/Pasc2-3:Responsory Tertia:8-9
+@Tempora/Pasc2-3:Versum Tertia
 
 [Responsory SextaM]
-@Tempora/Pasc2-3:Responsory Sexta:8-9
+@Tempora/Pasc2-3:Versum Sexta
 
 [Responsory NonaM]
-@Tempora/Pasc2-3:Responsory Nona:8-9
+@Tempora/Pasc2-3:Versum Nona
+
+[Evangelium]
+@Tempora/Pasc2-3

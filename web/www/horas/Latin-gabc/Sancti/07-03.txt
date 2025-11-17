@@ -1,0 +1,6 @@
+[Name]
+Leónem
+
+[Oratio] (nisi communi Summorum Pontificum)
+Deus, qui beátum Leónem Pontíficem sanctórum tuórum méritis coæquásti: concéde propítius; ut, qui commemoratiónis ejus festa percólimus, vitæ quoque imitémur exémpla.
+$Per Dominum

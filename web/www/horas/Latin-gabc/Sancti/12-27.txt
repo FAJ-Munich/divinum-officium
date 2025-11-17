@@ -1,0 +1,124 @@
+[Versum 1]
+{initial-style:0;%%(c3) V/.Val(h)de(h) ho(h)no(h)rán(h)dus(h) est(h) be(h)á(h)tus(h) Jo(h)án(h)nes.(g_'/hvGF'E!fgf.) (::)
+R/. Qui(h) su(h)pra(h) pec(h)tus(h) Dó(h)mi(h)ni(h) in(h) ce(h)na(h) re(h)cú(h)bu(h)it.(g_'/hvGF'E!fgf.) (::)}
+
+[Ant 1]
+Iste est Joánnes, * qui supra pectus Dómini in cena recúbuit: beátus Apóstolus, cui reveláta sunt secréta cæléstia.
+
+[Oratio]
+Ecclésiam tuam, Dómine, benígnus illústra: ut beáti Joánnis Apóstoli tui et Evangelístæ, illumináta doctrínis, ad dona pervéniat sempitérna.
+$Per Dominum
+
+[Responsory1]
+R. Valde honorándus est beátus Joánnes, qui supra pectus Dómini in cena recúbuit:
+* Cui Christus in cruce Matrem vírginem vírgini commendávit.
+V. Virgo est eléctus a Dómino, atque inter céteros magis diléctus.
+R. Cui Christus in cruce Matrem vírginem vírgini commendávit.
+
+[Responsory2]
+R. Hic est discípulus ille, qui testimónium pérhibet de his, et scripsit hæc:
+* Et scimus quia verum est testimónium ejus.
+V. Fluénta Evangélii de ipso sacro Domínici péctoris fonte potávit.
+R. Et scimus quia verum est testimónium ejus.
+
+[Responsory3]
+R. Hic est beatíssimus Evangelísta et Apóstolus Joánnes,
+* Qui privilégio amóris præcípui, céteris áltius a Dómino méruit honorári.
+V. Hic est discípulus ille, quem diligébat Jesus, qui supra pectus Dómini in cena recúbuit.
+R. Qui privilégio amóris præcípui, céteris áltius a Dómino méruit honorári.
+&Gloria
+R. Qui privilégio amóris præcípui, céteris áltius a Dómino méruit honorári.
+
+[Responsory4]
+R. Qui vícerit, fáciam illum colúmnam in templo meo, dicit Dóminus:  
+* Et scribam super eum nomen meum, et nomen civitátis novæ Jerúsalem.
+V. Vincénti dabo édere de ligno vitæ, quod est in paradíso Dei mei.
+R. Et scribam super eum nomen meum, et nomen civitátis novæ Jerúsalem.
+
+[Responsory5]
+R. Diligébat autem eum Jesus, quóniam speciális prærogatíva castitátis amplióri dilectióne fécerat dignum:  
+* Quia virgo eléctus ab ipso, virgo in ævum permánsit.
+V. In cruce dénique moritúrus, huic Matrem suam vírginem vírgini commendávit.
+R. Quia virgo eléctus ab ipso, virgo in ævum permánsit.
+
+[Responsory6]
+R. In médio Ecclésiæ apéruit os ejus, 
+* Et implévit eum Dóminus spíritu sapiéntiæ et intelléctus.
+V. Jucunditátem et exsultatiónem thesaurizávit super eum.
+R. Et implévit eum Dóminus spíritu sapiéntiæ et intelléctus.
+&Gloria
+R. Et implévit eum Dóminus spíritu sapiéntiæ et intelléctus.
+
+[Responsory7]
+R. In illum diem suscípiam te servum meum, et ponam te sicut signáculum in conspéctu meo: 
+* Quóniam ego elégi te, dicit Dóminus.
+V. Esto fidélis usque ad mortem, et dabo tibi corónam vitæ.
+R. Quóniam ego elégi te, dicit Dóminus.
+
+[Responsory8]
+R. Iste est Joánnes, qui supra pectus Dómini in cena recúbuit: 
+* Beátus Apóstolus, cui reveláta sunt secréta cæléstia.
+V. Fluénta Evangélii de ipso sacro Domínici péctoris fonte potávit.
+R. Beátus Apóstolus, cui reveláta sunt secréta cæléstia.
+&Gloria
+R. Beátus Apóstolus, cui reveláta sunt secréta cæléstia.
+
+[Ant Laudes]
+Valde honorándus est * beátus Joánnes, qui supra pectus Dómini in cena recúbuit.
+Hic est discípulus ille * qui testimónium pérhibet de his: et scimus quia verum est testimónium ejus.
+Hic est discípulus meus: * sic eum volo manére, donec véniam.
+Sunt de hic stántibus, * qui non gustábunt mortem, donec vídeant Fílium hóminis in regno suo.
+Ecce puer meus, * eléctus, quem elégi, pósui super eum Spíritum meum.
+
+[Capitulum Laudes]
+!Sir 15:1-2
+v. Qui timet Deum, fáciet bona: et qui cóntinens est justítiæ, apprehéndet illam, et obviábit illi quasi mater honorificáta.
+$Deo gratias
+
+[Versum 2]
+{initial-style:0;%%(c3) V/.Hic(h) est(h) di(h)scí(h)pu(h)lus(h) il(h)le,(h) qui(h) tes(h)ti(h)mó(h)ni(h)um(h) pér(h)hi(h)bet(h) de(h) his.(g_'/hvGF'E!fgf.) (::)
+R/. Et(h) sci(h)mus(h) qui(h)a(h) ve(h)rum(h) est(h) tes(h)ti(h)mó(h)ni(h)um(h) e(h)jus.(g_'/hvGF'E!fgf.) (::)}
+
+[Octava 2]
+!Commemoratio Octavæ S. Joannis
+Ant. Iste est Joánnes, qui supra pectus Dómini in cena recúbuit: beátus Apóstolus, cui reveláta sunt secréta cæléstia.
+_
+{initial-style:0;%%(c3) V/. Hic(h) est(h) di(h)scí(h)pu(h)lus(h) il(h)le,(h) qui(h) tes(h)ti(h)mó(h)ni(h)um(h) pér(h)hi(h)bet(h) de(h) his.(f.) (::)
+R/. Et(h) sci(h)mus(h) qui(h)a(h) ve(h)rum(h) est(h) tes(h)ti(h)mó(h)ni(h)um(h) e(h)jus.(f.) (::)}
+_
+$Oremus
+v. Ecclésiam tuam, Dómine, benígnus illústra: ut beáti Joánnis Apóstoli tui et Evangelístæ, illumináta doctrínis, ad dona pervéniat sempitérna.
+$Per Dominum
+
+[Octava 2] (rubrica cisterciensis)
+!Commemoratio Octavæ S. Joannis
+Ant. Hic est discípulus ille * qui testimónium pérhibet de his: et scimus quia verum est testimónium ejus.
+_
+@CommuneCist/C1:Versum 2
+_
+$Oremus
+v. Ecclésiam tuam, Dómine, benígnus illústra: ut beáti Joánnis Apóstoli tui et Evangelístæ, illumináta doctrínis, ad dona pervéniat sempitérna.
+$Per Dominum
+
+[Lectio Prima]
+!Sir 15:5
+v. In médio Ecclésiæ apéruit os ejus, et implévit illum Dóminus spíritu sapiéntiæ et intelléctus, et stolam glóriæ índuit eum.
+
+[Capitulum Sexta]
+!Sir 15:3
+v. Cibávit illum pane vitæ et intelléctus, et aqua sapiéntiæ salutáris potávit illum Dóminus, Deus noster.
+$Deo gratias
+
+[Ant 3]
+Exiit * sermo inter fratres, quod discípulus ille non móritur; et non dixit Jesus, Non móritur: sed, Sic eum volo manére, donec véniam.
+
+[Octava 3]
+!Commemoratio Octavæ S. Joannis
+Ant. Exiit sermo inter fratres, quod discípulus ille non móritur; et non dixit Jesus, Non móritur: sed, Sic eum volo manére, donec véniam.
+_
+{initial-style:0;%%(c3) V/. Val(h)de(h) ho(h)no(h)rán(h)dus(h) est(h) be(h)á(h)tus(h) Jo(h)án(h)nes.(f.) (::)
+R/. Qui(h) su(h)pra(h) pec(h)tus(h) Dó(h)mi(h)ni(h) in(h) ce(h)na(h) re(h)cú(h)bu(f)it.(f.) (::)}
+_
+$Oremus
+v. Ecclésiam tuam, Dómine, benígnus illústra: ut beáti Joánnis Apóstoli tui et Evangelístæ, illumináta doctrínis, ad dona pervéniat sempitérna.
+$Per Dominum

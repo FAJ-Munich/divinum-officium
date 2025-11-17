@@ -115,13 +115,13 @@ V. Qui custos est Dómini sui, glorificátur.
 R. Amen dico vobis, quóniam super ómnia bona sua constítuet eum.
 
 [Responsory Laudes] (rubrica cisterciensis)
-@Sancti/03-19:Responsory Tertia
+@Sancti/03-19:Responsory Breve Tertia
 
 [Responsory TertiaM]
 @:Versum 1
 
 [Responsory SextaM]
-@Sancti/03-19:Responsory Tertia:8-9
+@Sancti/03-19:Versum Tertia
 
 [Responsory NonaM]
-@Sancti/03-19:Responsory Sexta:8-9
+@Sancti/03-19:Versum Sexta

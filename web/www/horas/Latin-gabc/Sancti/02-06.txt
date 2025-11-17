@@ -1,0 +1,6 @@
+[Name]
+Titum
+
+[Oratio]
+Deus, qui beátum Titum Confessórem tuum atque Pontíficem apostólicis virtútibus decorásti: ejus méritis et intercessióne concéde; ut juste et pie vivéntes in hoc sǽculo, ad cæléstem pátriam perveníre mereámur.
+$Per Dominum

@@ -7,7 +7,6 @@ vide C4;
 (sed rubrica 1951)
 3 lectiones
 
-
 [Lectio5]
 @Sancti/12-06:Lectio4
 

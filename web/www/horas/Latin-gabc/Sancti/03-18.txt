@@ -1,0 +1,6 @@
+[Name]
+Cyrille
+
+[Oratio]
+Da nobis, quǽsumus, omnípotens Deus, beato Cyríllo Pontífice intercedénte: te solum verum Deum, et quem misísti Jesum Christum ita cognóscere; ut inter oves, quæ vocem ejus áudiunt, perpétuo connumerári mereámur.
+$Per eumdem

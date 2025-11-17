@@ -1,13 +1,3 @@
-[Rank]
-Inventione Sanctæ Crucis;;Duplex II classis;;5.2;;
-
-[Rule]
-proprium
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Psalm5 Vespera=116
-
 [Ant Vespera]
 {name:O magnum pietatis;annotation:7. c;mode:7;book:The Liber Usualis, 1961, p. 1459 & Liber antiphonarius, 1960, p. 700;transcriber:Andrew Hinkley;%%(c3) O(ig/ij) ma(ij)gnum(i'_[oh:h]) *(,) pi(i)e(g)tá(hi)tis(f') o(e)pus!(e.) (;) mors(h'_) mór(h)tu(h)a(f') tunc(h) est,(g.) (;) in(h) li(h!iwj_i)gno(h') quan(h)do(g_[uh:l]h) mór(f')tu(e)a(f'_) vi(h)ta(g) fu(e.)it.(e.) (::) <i>T. P.</i> Al(fg)le(f)lú(e.){ja}.(e.) (::)};;;;7c
 {name:Salva nos Christe;annotation:3. a;mode:3;book:The Liber Usualis, 1961, p. 1460 & Liber antiphonarius, 1960, p. 700;transcriber:Andrew Hinkley;%%(c4) SAl(g)va(hj) nos,(j'_) *(,) Chri(j)ste(j) Sal(h')vá(j)tor,(i.) (,) per(g) vir(h')tú(h)tem(i') Cru(h)cis :(g.) (:) qui(g) sal(g')vá(i)sti(h') Pe(j)trum(i') in(h) ma(g!hw!iv_[oh:h]HG)ri,(h'_) (,) mi(g)se(gf)ré(gh)re(gf) no(e.)bis.(e.) (::) <i>T. P.</i> Al(g)le(gf)lú(e.)ja.(e.) (::)};;;;3a
@@ -22,10 +12,9 @@ Psalm5 Vespera=116
 {name:Nos autem gloriari;annotation:7. c;mode:7;book:Antiphonale Monasticum, 1934, p. 1041;transcriber:Dominique CROCHU;%%(c3) NOS(ig/ij) au(ij)tem(i'_) *(,) glo(i)ri(g')á(h)ri(f') o(g)pór(ff)tet(e.) (;) in(e>) Cru(g')ce(g) Dó(h')mi(g)ni(f') no(h)stri(gv_FE) Je(fg)su(g') Chri(e)sti,(e_0f) al(g>)le(fg)lú(e.)ja(e.) (::)};;;;7c
 {name:Per signum crucis;annotation:8. c;mode:8;book:Antiphonale Monasticum, 1934, p. 900;%%(c4) PER(j) si(j')gnum(j) Cru(jkj)cis(jij.) *(,) de(j) in(j')i(j)mí(h')cis(j) no(i_h)stris(g_0h) (,) lí(f')be(h)ra(jh) nos(i_[uh:l]j) De(h')us(h) no(hg)ster,(f) al(gh)le(h)lú(g.)ja.(g.) (::)};;;;8c
 
-[Capitulum Laudes]
-!Phil 2:5-7
-v. Fratres: Hoc enim sentíte in vobis, quod et in Christo Jesu: qui, cum in forma Dei esset, non rapínam arbitrátus est esse se æquálem Deo: sed semetípsum exinanívit, formam servi accípiens, in similitúdinem hóminum factus, et hábitu invéntus ut homo.
-$Deo gratias.
+[Versum 1]
+{initial-style:0;%%(c3) V/. Hoc(h) sig(h)num(h) Cru(h)cis(h) e(h)rit(h) in(h) cæ(h)lo.(g_'/hvGF'E!fgf.) (::)
+R/. Cum(h) Dó(h)mi(h)nus(h) ad(h) ju(h)di(h)cán(h)dum(h) vé(h)ne(h)rit.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 1]
 {name:O crux splendidior;annotation:1. D;mode:1;book:The Liber Usualis, 1961, p. 1453 & Liber antiphonarius, 1960, p. 699;transcriber:Andrew Hinkley;%%(c4) O(c_[ll:1]d) Crux,(ff) *() splen(dc~)dí(f)di(gh)or(h_g) cun(fe~)ctis(d) a(f_g)stris,(cd..) (;) mun(d_e)do(d) cé(dc)le(d)bris,(f.) (,) ho(fe)mí(d)ni(fe)bus(ddc) mul(f_h)tum(g_[oh:h]e_[oh:h]f_[oh:h]ggh) a(fe)má(d)bi(fe)lis,(ddc.) (;) sán(e!gwh_g)cti(fe)or(fgf) u(e[ll:1]d)ni(ef)vér(dV!cd~)sis :(d.) (:) quae(dh) so(h)la(g_[oh:h]e_[oh:h]f_[oh:h]ggh) fu(fe)í(d)sti(fe) di(ddc~)gna(c.) (,) por(cd~)tá(f)re(ghg___) ta(fe)lén(dc~)tum(efe) mun(d.)di :(d.) (:) dul(h)ce(gf) li(gh)gnum,(ixh/iih.0) (,) dul(f)ces(e[ll:1]d) cla(fg)vos,(g.) (,) dúl(c)ci(d)a(f) fe(fg)rens(fe~) pón(d_[oh:h]e_[oh:h]d_[oh:h])de(cd)ra :(d.) (:) sal(ixh_0!i!@hg~)va(g_[uh:l]hG'_[oh:h]F_[oh:h]E'D) prae(f')sén(g)tem(e[ll:1]d) ca(fe)tér(dd)vam,(c.) (;) in(c_[ll:1]d) tu(fe)is(f') hó(g)di(hg)e(gg) (,) láu(c)di(d)bus(f_g) con(e[ll:1]d~)gre(fe)gá(d.)tam.(d.) (::) <i>T. P.</i> Al(c_[ll:1]d)le(f_gF'E)lú(g_h_g~)ja,(fv_ED'_5C_) al(d_g)le(efe)lú(d.)ja.(d.) (::)};;1d
@@ -43,18 +32,16 @@ $Qui vivis
 Invéntæ Crucis festa recólimus, cujus præcónium univérsum per orbem micánti lúmine fulget, allelúja.;;1
 ;;2
 ;;3
-{initial-style:0;%%(c3) V/. Hoc(h) sig(h)num(h) Cru(h)cis(h) e(h)rit(h) in(h) cæ(h)lo,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)
-R/. Cum(h) Dó(h)mi(h)nus(h) ad(h) ju(h)di(h)cán(h)dum(h) vé(h)ne(h)rit,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)}
 Felix ille triúmphus fit salus ægris, vitæ lignum, mortis remédium, allelúja.;;4
 ;;5
 ;;8
-{initial-style:0;%%(c3) V/. A(h)do(h)rá(h)mus(h) te,(h) Chris(h)te,(h) et(h) be(h)ne(h)dí(h)ci(h)mus(h) ti(h)bi,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)
-R/. Qui(h)a(h) per(h) Cru(h)cem(h) tu(h)am(h) re(h)de(h)mís(h)ti(h) mun(h)dum,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)}
 Adorámus te, Christe, et benedícimus tibi, quia per Crucem tuam redemísti mundum, allelúja.;;95
 ;;96
 ;;97
-{initial-style:0;%%(c3) V/. Om(h)nis(h) ter(h)ra(h) a(h)dó(h)ret(h) te,(h) et(h) psal(h)lat(h) ti(h)bi,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)
-R/. Psal(h)mum(h) di(h)cat(h) nó(h)mi(h)ni(h) tu(h)o,(h) Dó(h)mi(h)ne,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)}
+
+[Nocturn 3 Versum]
+{initial-style:0;%%(c3) V/. Om(h)nis(h) ter(h)ra(h) a(h)dó(h)ret(h) te,(h) et(h) psal(h)lat(h) ti(h)bi.(g_'/hvGF'E!fgf.) (::)
+R/. Psal(h)mum(h) di(h)cat(h) nó(h)mi(h)ni(h) tu(h)o,(h) Dó(h)mi(h)ne.(g_'/hvGF'E!fgf.) (::)}
 
 [Lectio1]
 De Epístola beáti Pauli Apóstoli ad Gálatas
@@ -162,10 +149,14 @@ R. Ut omnis qui credit in ipsum, non péreat, sed hábeat vitam ætérnam. (Alle
 &Gloria
 R. Ut omnis qui credit in ipsum, non péreat, sed hábeat vitam ætérnam. (Allelúja.)
 
-[Lectio93]
-!Commemoratio SS Alexandri I Papa, Eventino et Theoduli Mártyrum
-Alexánder Románus, Hadriáno imperatóre regens Ecclésiam, magnam partem Románæ nobilitátis ad Christum convértit.  Is constítuit ut tantúmmodo panis et vinum in mystério offerétur: vinum autem aqua miscéri jussit, propter sánguinem et aquam, quæ ex Jesu Christi látere profluxérunt; et in Cánone Missæ áddidit, Qui prídie quam paterétur. Idem decrévit ut aqua benedícta, sale admíxto, perpétuo in ecclésia asservarétur, et in cubículis adhiberétur ad fugándos dǽmones. Sedit annos decem, menses quinque et dies vigínti, vitæ sanctitáte et salutáribus institútis illústris. Martýrio coronátus est una cum Evéntio et Theodúlo presbýteris, sepultúsque est via Nomentána, tértio ab Urbe lápide, eódem in loco, ubi secúri percússus fúerat; creátis divérso témpore mense Decémbri presbýteris sex, diáconis duóbus et epíscopis per divérsa loca quinque. Eórum córpora, póstea in Urbem transláta, in ecclésia sanctæ Sabínæ cóndita sunt. In eúmdem diem íncidit beáta mors sancti Juvenális, Narniénsis epíscopi; qui, cum plúrimos in ea urbe sanctitáte et doctrína Christo peperísset, clarus miráculis in pace quiévit ibíque honorífice sepúltus est.
-&teDeum
+[Capitulum Laudes]
+!Phil 2:5-7
+v. Fratres: Hoc enim sentíte in vobis, quod et in Christo Jesu: qui, cum in forma Dei esset, non rapínam arbitrátus est esse se æquálem Deo: sed semetípsum exinanívit, formam servi accípiens, in similitúdinem hóminum factus, et hábitu invéntus ut homo.
+$Deo gratias.
+
+[Versum 2]
+{initial-style:0;%%(c3) V/. A(h)do(h)rá(h)mus(h) te,(h) Chris(h)te,(h) et(h) be(h)ne(h)dí(h)ci(h)mus(h) ti(h)bi.(g_'/hvGF'E!fgf.) (::)
+R/. Qui(h)a(h) per(h) Cru(h)cem(h) tu(h)am(h) re(h)de(h)mís(h)ti(h) mun(h)dum.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 2]
 Super ómnia * ligna cedrórum tu sola excélsior, in qua Vita mundi pepéndit, in qua Christus triumphávit, et mors mortem superávit in ætérnum. (Allelúja.)
@@ -176,47 +167,34 @@ Super ómnia * ligna cedrórum tu sola excélsior, in qua Vita mundi pepéndit, 
 !Phil 2:8-9
 v. Humiliávit semetípsum factus obédiens usque ad mortem, mortem autem Crucis. Propter quod et Deus exaltávit illum, et donávit illi nomen, quod est super omne nomen.
 
-[Responsory Tertia]
-@:Ant Matutinum:4 s/V./R.br./ s/\, al.*/./
-@:Ant Matutinum:4 s/V./R./ s/\, al.*/./
-@:Ant Matutinum:5 s/R./V./ s/\, al.*/./
-@Psalterium/Prayers:Alleluia Duplex: s/^/R. /
+[Responsory Breve Tertia]
+R.br. Hoc signum Crucis erit in cælo: * Allelúja, allelúja.
+R. Hoc signum Crucis erit in cælo: * Allelúja, allelúja.
+V. Cum Dóminus ad judicándum vénerit.
+R. Allelúja, allelúja.
 &Gloria
-@:Ant Matutinum:4 s/V./R./ s/\, al.*/./
-_
-@:Ant Matutinum:9
-@:Ant Matutinum:10
+R. Hoc signum Crucis erit in cælo: * Allelúja, allelúja.
 
 [Capitulum Sexta]
 !Gal 6:14
 v. Mihi autem absit gloriári, nisi in Cruce Dómini nostri Jesu Christi: per quem mihi mundus crucifíxus est, et ego mundo.
 $Deo gratias
 
-[Responsory Sexta]
+[Responsory Breve Sexta]
 R.br. Adorámus te, Christe, et benedícimus tibi: * Allelúja, allelúja.
 R. Adorámus te, Christe, et benedícimus tibi: * Allelúja, allelúja.
 V. Quia per Crucem tuam redemísti mundum.
 R. Allelúja, allelúja.
 &Gloria
 R. Adorámus te, Christe, et benedícimus tibi: * Allelúja, allelúja.
-_
-V. Omnis terra adóret te, et psallat tibi, allelúja.
-R. Psalmum dicat nómini tuo, Dómine, allelúja.
 
-[Capitulum Nona]
-@:Lectio Prima
-$Deo gratias
-
-[Responsory Nona]
+[Responsory Breve Nona]
 R.br. Omnis terra adóret te, et psallat tibi, * Allelúja, allelúja.
 R. Omnis terra adóret te, et psallat tibi, * Allelúja, allelúja.
 V. Psalmum dicat nómini tuo, Dómine.
 R. Allelúja, allelúja.
 &Gloria
 R. Omnis terra adóret te, et psallat tibi, * Allelúja, allelúja.
-_
-V. Hoc signum Crucis erit in cælo, allelúja.
-R. Cum Dóminus ad judicándum vénerit, allelúja.
 
 [Ant 3]
 {name:Crucem sanctam subiit;annotation:2. D;mode:2;book:Liber antiphonarius, 1960, p. 704;transcriber:Andrew Hinkley;%%(f3) CRu(e)cem(ef) san(f)ctam(f!gwh) sú(hg)bi(fg)it,(g.) *(,) qui(gi) in(g)fér(hg~)num(f) con(gf)fré(ef)git:(f.) (:) ac(f)cín(fe)ctus(cb) est(e) po(fh)tén(hg)ti(fg)a,(g'_) (,) sur(i)ré(i_j)xit(g) di(hg)e(f) tér(gf)ti(ef)a,(f.) (;) al(eg~)le(g_f/hvGF/gf)lú(ef~)ja.(f.) (::)};;2

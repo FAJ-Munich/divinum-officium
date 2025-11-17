@@ -1,0 +1,21 @@
+[Hymnus Vespera]
+@Commune/C4:Hymnus Vespera:s/Scándere sedes/Vúlnera Christi/
+
+[Versum 1]
+{initial-style:0;%%(c3) V/. Si(h)gnas(h)ti,(h) Do(h)mi(h)ne,(h) ser(h)vum(h) tu(h)um(h) Fran(h)cis(h)cum.(g_'/hvGF'E!fgf.) (::)
+ R/. Si(h)gnis(h) red(h)emp(h)ti(h)o(h)nis(h) nos(h)træ.(g_'/hvGF'E!fgf.) (::)}
+
+[Oratio]
+Dómine Jesu Christe, qui, frigescénte mundo, ad inflammándum corda nostra tui amóris igne, in carne beatíssimi Francísci passiónis tuæ sacra Stígmata renovásti: concéde propítius; ut ejus méritis et précibus crucem júgiter ferámus, et dignos fructus pæniténtiæ faciámus:
+$Qui vivis
+
+[Responsory8]
+R. Mihi absit gloriari, nisi in cruce Dómini nostri Jesu Christi; 
+* Per quem mihi mundus crucifíxus est, et ego mundo.
+V. Ego enim Stígmata Dómini Jesu in corpore meo porto.
+R. Per quem mihi mundus crucifíxus est, et ego mundo.
+&Gloria
+R. Per quem mihi mundus crucifíxus est, et ego mundo.
+
+[Hymnus Laudes]
+@Commune/C5::s/Migrávit inter sidera/Christi recépit Stígmata/

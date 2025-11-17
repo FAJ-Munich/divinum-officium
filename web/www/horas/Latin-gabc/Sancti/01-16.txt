@@ -1,0 +1,14 @@
+[Name]
+Marcélli
+
+[Oratio]
+Preces pópuli tui, quǽsumus, Dómine, cleménter exáudi: ut beáti Marcélli Mártyris tui atque Pontíficis méritis adjuvémur, cujus passióne lætámur.
+$Per Dominum
+
+[Responsory8]
+R. Dómine, prævenísti eum in benedictiónibus dulcédinis: 
+* Posuísti in cápite ejus corónam de lápide pretióso.
+V. Vitam pétiit a te, et tribuísti ei longitúdinem diérum in sæculum sæculi.
+R. Posuísti in cápite ejus corónam de lápide pretióso.
+&Gloria
+R. Posuísti in cápite ejus corónam de lápide pretióso.

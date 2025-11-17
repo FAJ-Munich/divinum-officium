@@ -1,0 +1,6 @@
+[Name]
+Joánnes Chrysóstome
+
+[Oratio]
+Ecclésiam tuam, quǽsumus, Dómine, grátia cæléstis amplíficet: quam beáti Joánnis Chrysóstomi Confessóris tui atque Pontíficis illustráre voluísti gloriósis méritis et doctrínis.
+$Per Dominum

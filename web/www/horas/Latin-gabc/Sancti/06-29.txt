@@ -1,0 +1,162 @@
+[Ant Vespera]
+Petrus et Joánnes * ascendébant in templum ad horam oratiónis nonam.
+Argéntum et aurum * non est mihi: quod autem hábeo, hoc tibi do.
+Dixit Angelus ad Petrum: * Circúmda tibi vestiméntum tuum, et séquere me.
+Misit Dóminus * Angelum suum, et liberávit me de manu Heródis, allelúja.
+Tu es Petrus, * et super hanc petram ædificábo Ecclésiam meam.
+
+[Hymnus Vespera]
+{:H-Decoralux:}v. Decóra lux æternitátis, áuream
+Diem beátis irrigávit ígnibus,
+Apostolórum quæ corónat Príncipes,
+Reísque in astra líberam pandit viam.
+_
+Mundi Magíster atque cæli Jánitor,
+Romæ paréntes arbitríque géntium,
+Per ensis ille, hic per crucis victor necem,
+Vitæ senátum laureáti póssident.
+_
+O Roma felix, quæ duórum Príncipum
+Es consecráta glorióso sánguine!
+Horum cruóre purpuráta céteras
+Excéllis orbis una pulchritúdines.
+_
+Sit Trinitáti sempitérna glória,
+Honor, potéstas atque jubilátio,
+In unitáte, quæ gubérnat ómnia,
+Per univérsa sæculórum sǽcula. 
+Amen.
+
+[HymnusM Vespera]
+v. Aurea luce et decóre róseo,
+Lux lucis, omne perfudísti sǽculum,
+Decórans cælos ínclyto martyrio,
+Hac sacra die, quæ dat reis véniam.
+_
+Jánitor cæli, Doctor orbis páriter,
+Júdices sæcli, vera mundi lúmina:
+Per crucem alter, alter ense triúmphans,
+Vitæ senátum laureáti póssident.
+_
+O felix Roma, quæ tantórum Príncipum
+Es purpuráta pretióso sánguine!
+Non laude tua, sed ipsórum méritis,
+Excéllis omnem mundi pulchritúdinem.
+_
+Sit Trinitáti sempitérna glória,
+Honor, potéstas, atque jubilátio,
+In unitáte, cui manet impérium,
+Ex tunc et modo, per ætérna sǽcula. Amen.
+
+[Versum 1] (tonus solemnis) 
+{initial-style:0;%%(c3) V/. In(h) om(h)nem(h) ter(hi)ram(h_') (,) so(h)nus(f') e(e)ó(f_0h)rum.(hiHGhih.ghGFE'fggf.) (::)
+R/. Et(h) in(h) fi(h)nes(h) or(h)bis(h) ter(hi)ræ(h_') (,) ver(h)ba(f') e(e)ó(f_0h)rum.(hiHGhih.ghGFE'fggf.) (::)}
+
+[Oratio]
+Deus, qui hodiérnam diem Apostolórum tuórum Petri et Pauli martýrio consecrásti: da Ecclésiæ tuæ, eórum in ómnibus sequi præcéptum; per quos religiónis sumpsit exórdium.
+$Per Dominum
+
+[Octava 1]
+!Commemoratio Octavæ Ss. Apóstoli 
+Ant. Petrus Apostolus, * et Paulus doctor Gentium, ipsi nos docuerunt legem tuam, Domine.
+_
+{initial-style:0;%%(c3) V/. Con(h)stí(h)tu(h)es(h) e(h)os(h) prín(h)ci(h)pes(h) su(h)per(h) om(h)nem(h) ter(h)ram.(f.) (::)
+R/. Mé(h)mo(h)res(h) e(h)runt(h) nó(h)mi(h)nis(h) tu(h)i,(h) Dó(h)mi(f)ne.(f.) (::)}
+_
+$Oremus 
+Deus, qui hodiérnam diem Apostolórum tuórum Petri et Pauli martyrio consecrásti: da Ecclésiæ tuæ, eórum in ómnibus sequi præcéptum; per quos religiónis sumpsit exordium.
+$Per Dominum
+
+[Octava 11] (rubrica tridentina)
+!Commemoratio Octavæ S. Petri
+Ant. Tu es Pastor óvium * Princeps Apostolorum, tibi traditæ sunt claves regni cælorum.
+_
+V. Tu es Petrus.
+R. Et super hanc petram ædificabo Ecclésiam meam.
+_
+$Oremus
+Deus, qui hodiérnam diem Apostolórum tuórum Petri et Pauli martýrio consecrásti: da Ecclésiæ tuæ, eórum in ómnibus sequi præcéptum; per quos religiónis sumpsit exórdium.
+$Per Dominum
+
+[Responsory4]
+R. Dómine, si tu es, jube me veníre ad te super aquas. 
+* Et exténdens manum apprehéndit eum, et dixit Jesus: Módicæ fídei, quare dubitásti?
+V. Cumque vidísset ventum válidum veniéntem, tímuit; et, cum cœpísset mergi, clamávit dicens: Dómine, salvum me fac.
+R. Et exténdens manum apprehéndit eum, et dixit Jesus: Módicæ fídei, quare dubitásti?
+
+[Responsory5]
+R. Surge, Petre, et índue te vestiméntis tuis, áccipe fortitúdinem ad salvándas gentes: 
+* Quia cecidérunt caténæ de mánibus tuis.
+V. Angelus Dómini ástitit, et lumen refúlsit in habitáculo cárceris, percussóque látere Petri, excitávit eum, dicens: Surge, velóciter.
+R. Quia cecidérunt caténæ de mánibus tuis.
+
+[Responsory7]
+R. Ego pro te rogávi, Petre, ut non defíciat fides tua: 
+* Et tu aliquándo convérsus confírma fratres tuos.
+V. Caro et sanguis non revelávit tibi, sed Pater meus, qui est in cælis.
+R. Et tu aliquándo convérsus confírma fratres tuos.
+
+[Capitulum Laudes]
+!Act 12:1-3
+v. Misit Heródes rex manus ut afflígeret quosdam de Ecclésia. Occídit autem Jacóbum fratrem Joánnis gládio. Videns autem quia placéret Judǽis, appósuit ut apprehénderet et Petrum.
+$Deo gratias
+
+[Hymnus Laudes]
+{:H-BeatepastorPetre:}v. Beáte Pastor, Petre, clemens áccipe
+Voces precántum, criminúmque víncula
+Verbo resólve, cui potéstas trádita
+Aperíre terris cælum, apértum cláudere.
+_
+Egrégie Doctor, Paule, mores ínstrue,
+Et nostra tecum péctora in cælum trahe;
+Veláta dum merídiem cernat fides,
+Et solis instar sola regnet cáritas.
+_
+Sit Trinitáti sempitérna gloria,
+Honor, potéstas atque jubilátio,
+In unitáte, quæ gubérnat ómnia,
+Per univérsa æternitátis sǽcula. 
+Amen.
+
+[HymnusM Laudes]
+v. Jam bone Pastor Petre, clemens áccipe
+Vota precántum, et peccáti víncula
+Resólve tibi potestáte trádita,
+Qua cunctis cælum verbo claudis, áperis.
+_
+Doctor egrégie Paule, mores ínstrue,
+Et mente polum nos transférre sátage:
+Donec perféctum largiátur plénius,
+Evacuáto quod ex parte gérimus.
+_
+Sit Trinitáti sempitérna glória,
+Honor, potéstas, atque jubilátio,
+In unitáte, cui manet impérium,
+Ex tunc et modo, per ætérna sǽcula. Amen.
+
+[Versum 2] (tonus solemnis)
+{initial-style:0;%%(c3) V/. An(h)nun(h)ti(h)a(h)vé(hi)runt(h_') (,) ó(h')pe(f)ra(e) De(f_0h)i.(hiHGhih.ghGFE'fggf.) (::)
+R/. Et(h) fac(h)ta(h) e(hi)jus(h_') (,) in(h)tel(f')le(e)xé(f_0h)runt.(hiHGhih.ghGFE'fggf.) (::)}
+
+[Octava 2]
+!Commmemoratio Octavæ Ss. Apóstoli
+Ant. Gloriosi principes terræ, quomodo in vita sua dilexerunt se, ita et in morte non sunt separati.
+_
+{initial-style:0;%%(c3) V/. In(h) om(h)nem(h) ter(h)ram(h) ex(h)í(h)vit(h) so(h)nus(h) e(h)ó(h)rum.(f.) (::)
+R/. Et(h) in(h) fi(h)nes(h) or(h)bis(h) ter(h)ræ(h) ver(h)ba(h) e(h)ó(h)rum.(f.) (::)}
+_
+$Oremus
+Deus, qui hodiérnam diem Apostolórum tuórum Petri et Pauli martýrio consecrásti: da Ecclésiæ tuæ, eórum in ómnibus sequi præcéptum; per quos religiónis sumpsit exórdium.
+$Per Dominum
+
+[Lectio Prima]
+!Act 12:11
+v. Et Petrus ad se revérsus dixit: Nunc scio vere quia misit Dóminus Angelum suum, et erípuit me de manu Heródis et de omni exspectatióne plebis Judæórum.
+
+[Capitulum Sexta]
+!Act 12:5
+v. Petrus quidem servabátur in cárcere; orátio autem fiébat sine intermissióne ab Ecclésia ad Deum pro eo.
+$Deo gratias
+
+[Ant 3]
+Hódie * Simon Petrus ascéndit crucis patíbulum, allelúja: hódie claviculárius regni gaudens migrávit ad Christum: hódie Paulus Apóstolus, lumen orbis terræ, inclináto cápite, pro Christi nómine martýrio coronátus est, allelúja.

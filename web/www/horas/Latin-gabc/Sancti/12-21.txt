@@ -1,15 +1,3 @@
-[Rank]
-S. Thomæ Apostoli;;Duplex II classis;;5.1;;ex C1
-
-[Rank] (rubrica 196)
-S. Thomæ Apostoli;;Duplex II classis;;5;;ex C1
-
-[Rule]
-ex C1;
-9 lectiones;
-Psalmi Dominica
-Antiphonas horas
-
 [Ant 1]
 Quia vidísti me * Thoma, credidísti: beáti qui non vidérunt, et credidérunt, allelúja.
 
@@ -41,9 +29,3 @@ Sic quippe discípulum Dóminus post resurrectiónem suam dubitáre permísit, n
 [Lectio9]
 Dum ergo vidit Thomas, dum palpávit, cur ei dícitur: Quia vidísti me, credidísti? Sed áliud vidit, áliud crédidit. A mortáli quippe hómine divínitas vidéri non pótuit. Hóminem ergo vidit, et Deum conféssus est, dicens: Dóminus meus, et Deus meus. Vidéndo ergo crédidit, qui considerándo verum hóminem, hunc Deum, quem vidére non póterat, exclamávit. Lætíficat valde quod séquitur: Beáti qui non vidérunt, et credidérunt. In qua nimírum senténtia nos speciáliter signáti sumus, qui eum, quem carne non vídimus, mente retinémus. Nos signáti sumus; sed si fidem nostram opéribus séquimur. Ille étenim vere credit, qui exércet operándo quod credit.
 &teDeum
-
-[Ant 2]
-@:Ant 1
-
-[Ant 3]
-@:Ant 1

@@ -1,0 +1,48 @@
+[Ant 1]
+Vade, Anania, * et quære Saulum: ecce enim orat: quia vas electiónis est mihi, ut portet nomen meum coram géntibus, et régibus, et fíliis Israël.
+
+[Oratio]
+Deus, qui univérsum mundum beáti Pauli Apóstoli prædicatióne docuísti: da nobis, quǽsumus; ut, qui ejus hódie Conversiónem cólimus, per ejus ad te exémpla gradiámur.
+$Per Dominum
+_
+@Sancti/01-25:Commemoratio4
+
+[Invit]
+Laudémus Deum nostrum, * In conversióne Doctóris géntium.
+
+[Ant Laudes]
+@:Ant Vespera 3:s/;;.*//g
+
+[Capitulum Laudes]
+!Act 9:1-2
+v. Saulus autem adhuc spirans minárum et cædis in discípulos Dómini, accéssit ad príncipem sacerdótum, et pétiit ab eo epístolas in Damáscum ad synagógas: ut si quos invenísset hujus viæ viros ac mulíeres, vinctos perdúceret in Jerúsalem.
+$Deo gratias
+
+[Lectio Prima]
+!Act 9:22
+v. Saulus autem multo magis convalescébat, et confundébat Judǽos qui habitábant Damásci, affírmans quóniam hic est Christus.
+
+[Capitulum Sexta]
+!Act 9:8-9
+v. Surréxit autem Saulus de terra, apertísque óculis nihil vidébat. Ad manus autem illum trahéntes, introduxérunt Damáscum. Et erat ibi tribus diébus non videns, et non manducávit neque bibit.
+$Deo gratias
+
+[Ant Vespera 3] (nisi rubrica cisterciensis)
+Ego plantávi, * Apóllo rigávit, Deus autem increméntum dedit. Allelúja.;;109
+Libénter gloriábor * in infirmitátibus meis, ut inhábitet in me virtus Christi.;;112
+Grátia Dei * in me vácua non fuit, sed grátia ejus semper in me manet.;;115
+Damásci, præpósitus * gentis Arétæ regis vóluit me comprehéndere: a frátribus per murum demíssus sum in sporta, et sic evási manus ejus in nómine Dómini.;;125
+Ter virgis cæsus sum, * semel lapidátus sum, ter naufrágium pértuli pro Christi nómine.;;138
+
+[Commemoratio4]
+!Commemoratio S. Petri Apostoli
+(deinde dicuntur)
+Ant. Tu es pastor óvium, Princeps Apostolórum, tibi traditæ sunt claves regni cælórum.
+_
+V. Tu es Petrus.
+R. Et super hanc petram ædificábo Ecclésiam meam.
+_
+$Oremus
+(sed rubrica 196 hæc versus omittuntur)
+v. Deus, qui beáto Petro Apóstolo tuo, collátis clávibus regni cæléstis, ligándi atque solvéndi pontifícium tradidísti: concéde; ut, intercessiónis ejus auxílio, a peccatórum nostrórum néxibus liberémur:
+$Qui vivis
