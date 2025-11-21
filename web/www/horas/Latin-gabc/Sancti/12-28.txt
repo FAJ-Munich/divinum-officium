@@ -1,0 +1,178 @@
+[Versum 1]
+{initial-style:0;%%(c3) V/.He(h)ró(h)des(h) i(h)rá(h)tus(h) oc(h)cí(h)dit(h) mul(h)tos(h) pú(h)e(h)ros.(g_'/hvGF'E!fgf.) (::)
+R/. In(h) Béth(h)le(h)hem(h) Ju(h)dæ(h) ci(h)vi(h)tá(h)te(h) Da(h)vid.(g_'/hvGF'E!fgf.) (::)}
+
+[Ant 1]
+Hi sunt, * qui cum muliéribus non sunt coinquináti: vírgines enim sunt, et sequúntur Agnum quocúmque íerit.
+
+[Oratio]
+Deus, cujus hodiérna die præcónium Innocéntes Mártyres non loquéndo, sed moriéndo conféssi sunt: ómnia in nobis vitiórum mala mortífica; ut fidem tuam, quam lingua nostra lóquitur, étiam móribus vita fateátur.
+$Per Dominum
+
+[Hymnus Matutinum]
+v. Audit tyránnus ánxius
+Adésse regum Príncipem,
+Qui nomen Israël regat,
+Teneátque David régiam.
+_
+Exclámat amens núntio:
+Succéssor instat, péllimur:
+Satélles, i, ferrum rape,
+Perfúnde cunas sánguine.
+_
+Quid próficit tantum nefas?
+Quid crimen Heródem juvat?
+Unus tot inter fúnera
+Impúne Christus tóllitur.
+_
+Jesu, tibi sit glória,
+Qui natus es de Vírgine, 
+Cum Patre et almo Spíritu, 
+In sempitérna sǽcula.
+Amen.
+
+[HymnusM Matutinum]
+@:Hymnus Matutinum:s/Jesu, tibi sit glória/Glória tibi Dómine/
+
+[Ant Matutinum 11]
+Isti sunt qui venérunt * ex magna tribulatióne, et lavérunt stolas suas in sánguine Agni.
+
+[Responsory1]
+R. Centum quadragínta quátuor míllia, qui empti sunt de terra, hi sunt qui cum muliéribus non sunt coinquináti: 
+* Vírgines enim permansérunt, ídeo regnant cum Deo, et Agnus Dei cum illis.
+V. Isti sunt qui venérunt ex magna tribulatióne, et lavérunt stolas suas in sánguine Agni.
+R. Vírgines enim permansérunt, ídeo regnant cum Deo, et Agnus Dei cum illis.
+
+[Responsory2]
+R. Sub altáre Dei audívi voces occisórum dicéntium: 
+* Quare non deféndis sánguinem nostrum? Et accepérunt divínum respónsum: Adhuc sustinéte módicum tempus, donec impleátur númerus fratrum vestrórum.
+V. Vidi sub altáre Dei ánimas interfectórum propter verbum Dei, et propter testimónium quod habébant, et clamábant voce magna, dicéntes.
+R. Quare non deféndis sánguinem nostrum? Et accepérunt divínum respónsum: Adhuc sustinéte módicum tempus, donec impleátur númerus fratrum vestrórum.
+
+[Responsory3]
+R. Adoravérunt vivéntem in sǽcula sæculórum, 
+* Mitténtes corónas suas ante thronum Dómini Dei sui.
+V. Et cecidérunt in conspéctu throni in fácies suas: et benedixérunt vivéntem in sǽcula sæculórum.
+R. Mitténtes corónas suas ante thronum Dómini Dei sui.
+&Gloria
+R. Mitténtes corónas suas ante thronum Dómini Dei sui.
+
+[Responsory4]
+R. Effudérunt sánguinem Sanctórum velut aquam in circúitu Jerúsalem: 
+* Et non erat qui sepelíret.
+V. Posuérunt mortália servórum tuórum escas volatílibus cæli, carnes sanctórum tuórum béstiis terræ.
+R. Et non erat qui sepelíret.
+
+[Responsory5]
+R. Isti sunt Sancti, qui passi sunt propter te, Dómine: víndica eos,
+* Quia clamant ad te cotídie.
+V. Víndica, Dómine, sánguinem Sanctórum tuórum, qui effúsus est.
+R. Quia clamant ad te cotídie.
+
+[Responsory6]
+R. Isti sunt, qui non inquinavérunt vestiménta sua: 
+* Ambulábunt mecum in albis, quia digni sunt.
+V. Hi sunt, qui cum muliéribus non sunt coinquináti: vírgines enim sunt.
+R. Ambulábunt mecum in albis, quia digni sunt.
+&Gloria
+R. Ambulábunt mecum in albis, quia digni sunt.
+
+[Responsory7]
+R. Cantábant Sancti cánticum novum ante sedem Dei et Agni: 
+* Et resonábat terra in voces eórum.
+V. Hi empti sunt ex homínibus primítiæ Deo et Agno, et in ore ipsórum non est invéntum mendácium.
+R. Et resonábat terra in voces eórum.
+
+[Responsory8]
+R. Vidi sub altáre Dei ánimas interfectórum propter verbum Dei quod habébant, et clara voce dicébant:
+* Víndica, Dómine, sánguinem Sanctórum tuórum, qui effúsus est.
+V. Sub throno Dei omnes Sancti clamant.
+R. Víndica, Dómine, sánguinem Sanctórum tuórum, qui effúsus est.
+
+[Responsory9]
+R. Isti, qui amícti sunt stolis albis, qui sunt, et unde venérunt? Et dixit mihi:
+* Hi sunt, qui venérunt de tribulatióne magna, et lavérunt stolas suas, et dealbavérunt eas in sánguine Agni.
+V. Vidi sub altáre Dei ánimas interfectórum propter verbum Dei, et propter testimónium quod habébant.
+R. Hi sunt, qui venérunt de tribulatióne magna, et lavérunt stolas suas, et dealbavérunt eas in sánguine Agni.
+&Gloria
+R. Hi sunt, qui venérunt de tribulatióne magna, et lavérunt stolas suas, et dealbavérunt eas in sánguine Agni.
+
+[Ant Laudes]
+Heródes irátus * occídit multos púeros in Béthlehem Judæ civitáte David.
+A bimátu * et infra occídit multos púeros Heródes propter Dóminum.
+Angeli eórum * semper vident fáciem Patris.
+Vox in Rama * audíta est, plorátus et ululátus, Rachel plorans fílios suos.
+Sub throno Dei * omnes Sancti clamant: Víndica sánguinem nostrum, Deus noster.
+
+[Capitulum Laudes]
+!Apo 14:1
+v. Vidi supra montem Sion Agnum stantem, et cum eo centum quadragínta quátuor míllia habéntes nomen ejus, et nomen Patris ejus scriptum in fróntibus suis.
+$Deo gratias
+
+[Hymnus Laudes]
+v. Salvéte, flores Mártyrum,
+Quos lucis ipso in límine
+Christi insecútor sústulit,
+Ceu turbo nascéntes rosas.
+_
+Vos prima Christi víctima,
+Grex immolatórum tener,
+Aram sub ipsam símplices
+Palma et corónis lúditis.
+_
+Jesu, tibi sit glória,
+Qui natus es de Vírgine, 
+Cum Patre et almo Spíritu, 
+In sempitérna sǽcula.
+Amen.
+
+[HymnusM Laudes]
+@:Hymnus Laudes:s/sub/ante/ s/Jesu, tibi sit glória/Glória tibi Dómine/
+
+[Octava 2]
+!Commemoratio Octavæ Ss. Innocentium
+Ant. Hi sunt, qui cum muliéribus non sunt coinquináti: vírgines enim sunt, et sequúntur Agnum quocúmque íerit.
+_
+{initial-style:0;%%(c3) V/. He(h)ró(h)des(h) i(h)rá(h)tus(h) oc(h)cí(h)dit(h) mul(h)tos(h) pú(h)e(f)ros.(f.) (::)
+R/. In(h) Béth(h)le(h)hem(h) Ju(h)dæ(h) ci(h)vi(h)tá(h)te(h) Da(h)vid.(f.) (::)}
+_
+$Oremus
+v. Deus, cujus hodiérna die præcónium Innocéntes Mártyres non loquéndo, sed moriéndo conféssi sunt: ómnia in nobis vitiórum mala mortífica; ut fidem tuam, quam lingua nostra lóquitur, étiam móribus vita fateátur.
+$Per Dominum
+
+[Octava 2] (rubrica cisterciensis)
+!Commemoratio Octavæ SS. Innocentium
+Ant. Heródes irátus * occídit multos púeros in Béthlehem Judæ civitáte David.
+_
+@CommuneCist/C3:Versum 2
+_
+$Oremus
+v. Deus, cujus hodiérna die præcónium Innocéntes Mártyres non loquéndo, sed moriéndo conféssi sunt: ómnia in nobis vitiórum mala mortífica; ut fidem tuam, quam lingua nostra lóquitur, étiam móribus vita fateátur.
+$Per Dominum
+
+[Lectio Prima]
+!Apo 14:4-5
+v. Hi empti sunt ex homínibus primítiæ Deo et Agno, et in ore ipsórum non est invéntum mendácium: sine mácula enim sunt ante thronum Dei.
+
+[Capitulum Sexta]
+!Apo 14:4
+v. Hi sunt, qui cum muliéribus non sunt coinquináti: vírgines enim sunt. Hi sequúntur Agnum quocúmque íerit.
+$Deo gratias
+
+[Versum 3]
+{initial-style:0;%%(c3) V/.Sub(h) thro(h)no(h) De(h)i(h) om(h)nes(h) Sanc(h)ti(h) cla(h)mant.(g_'/hvGF'E!fgf.) (::)
+R/. Vín(h)di(h)ca(h) sán(h)gui(h)nem(h) nos(h)trum,(h) De(h)us(h) nos(h)ter.(g_'/hvGF'E!fgf.) (::)}
+
+[Ant 3]
+Innocéntes pro Christo * infántes occísi sunt, ab iníquo rege lacténtes interfécti sunt: ipsum sequúntur Agnum sine mácula, et dicunt semper: Glória tibi, Dómine.
+
+[Octava 3]
+!Commemoratio Octavæ SS. Innocentium
+Ant. Innocéntes pro Christo infántes occísi sunt, ab iníquo rege lacténtes interfécti sunt: ipsum sequúntur Agnum sine mácula, et dicunt semper: Glória tibi, Dómine.
+_
+{initial-style:0;%%(c3) V/. Sub(h) thro(h)no(h) De(h)i(h) om(h)nes(h) Sanc(h)ti(h) cla(h)mant.(f.) (::)
+R/. Vín(h)di(h)ca(h) sán(h)gui(h)nem(h) nos(h)trum,(h) De(h)us(h) nos(h)ter.(f.) (::)}
+_
+$Oremus
+v. Deus, cujus hodiérna die præcónium Innocéntes Mártyres non loquéndo, sed moriéndo conféssi sunt: ómnia in nobis vitiórum mala mortífica; ut fidem tuam, quam lingua nostra lóquitur, étiam móribus vita fateátur.
+$Per Dominum

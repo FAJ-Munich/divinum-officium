@@ -1,0 +1,58 @@
+[Hymnus Vespera]
+v. Domáre cordis ímpetus Elísabeth
+Fortis, inópsque Deo
+Servíre, regno prǽtulit.
+_
+En fúlgidis recépta cæli sédibus,
+Sidereǽque domus
+Ditáta sanctis gáudiis,
+_
+Nunc regnat inter cǽlites beátior,
+Et premit astra, docens
+Quæ vera sint regni bona.
+_
+Patri potéstas, Filióque glória,
+Perpetuúmque decus
+Tibi sit alme Spíritus.
+Amen.
+
+[Versum 1]
+{initial-style:0;%%(c3) V/. O(h)ra(h) pro(h) no(h)bis,(h) be(h)á(h)ta(h) E(h)lí(h)sa(h)beth.(g_'/hvGF'E!fgf.) (::)
+R/. Ut(h) di(h)gni(h) ef(h)fi(h)ci(h)á(h)mur(h) pro(h)mis(h)si(h)ó(h)ni(h)bus(h) Chris(h)ti.(g_'/hvGF'E!fgf.) (::)}
+
+[Ant 1]
+Et nunc, reges, * intellígite, erudímini, qui judicátis terram.
+
+[Oratio]
+Clementíssime Deus, qui beátam Elísabeth regínam, inter céteras egrégias dotes, béllici furóris sedándi prærogatíva decorásti: da nobis, ejus intercessióne; post mortális vitæ, quam supplíciter pétimus, pacem, ad ætérna gáudia perveníre.
+$Per Dominum
+
+[Invit]
+Laudémus Deum nostrum * In sanctis opéribus beátæ Elísabeth.
+
+[Hymnus Laudes]
+v. Opes decúsque régium relíqueras,
+Elísabeth, Dei dicáta númini:
+Recépta nunc beáris inter Angelos;
+Libens ab hóstium tuére nos dolis.
+_
+Præi, viámque, dux salútis, índica:
+Sequémur: O sit una mens fidélium,
+Odor bonus sit omnis áctio, tuis
+Id ínnuit rosis opérta cáritas.
+_
+Beáta cáritas, in arce síderum
+Potens locáre nos per omne sǽculum:
+Patríque, Filióque summa glória,
+Tibíque laus perénnis, alme Spíritus. 
+Amen.
+
+[Versum 2]
+{initial-style:0;%%(c3) V/. Mé(h)ri(h)tis(h) et(h) pré(h)ci(h)bus(h) be(h)á(h)tæ(h) E(h)lí(h)sa(h)beth.(g_'/hvGF'E!fgf.) (::)
+R/. Pro(h)pí(h)ti(h)us(h) es(h)to,(h) Dó(h)mi(h)ne,(h) pó(h)pu(h)lo(h) tu(h)o.(g_'/hvGF'E!fgf.) (::)}
+
+[Ant 2]
+Tu glória Jerúsalem, * tu lætítia Israël, tu honorificéntia pópuli tui.
+
+[Ant 3]
+Elísabeth, * pacis et pátriæ mater, in cælo triúmphans, dona nobis pacem.

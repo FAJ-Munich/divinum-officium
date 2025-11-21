@@ -1,0 +1,220 @@
+[Ant Vespera]
+Ante lucíferum génitus, * et ante sǽcula, Dóminus Salvátor noster hódie mundo appáruit.
+Venit lumen tuum * Jerúsalem, et glória Dómini super te orta est, et ambulábunt gentes in lúmine tuo, allelúja.
+Apértis thesáuris suis * obtulérunt Magi Dómino aurum, thus, et myrrham, allelúja.
+Mária et flúmina * benedícite Dómino: hymnum dícite fontes Dómino, allelúja.
+Stella ista * sicut flamma corúscat, et Regem regum Deum demónstrat: Magi eam vidérunt, et magno Regi múnera obtulérunt.
+
+[Hymnus Vespera]
+{:H-CrudelisHerodes:}v. Crudélis Heródes, Deum
+Regem veníre quid times?
+Non éripit mortália,
+Qui regna dat cæléstia.
+_
+Ibant magi, quam víderant,
+Stellam sequéntes prǽviam:
+Lumen requírunt lúmine:
+Deum faténtur múnere.
+_
+Lavácra puri gúrgitis
+Cæléstis Agnus áttigit:
+Peccáta, quæ non détulit,
+Nos abluéndo sústulit.
+_
+Novum genus poténtiæ:
+Aquæ rubéscunt hýdriæ,
+Vinúmque jussa fúndere,
+Mutávit unda oríginem.
+_
+* Jesu, tibi sit glória,
+Qui apparuísti géntibus,
+Cum Patre, et almo Spíritu,
+In sempitérna sǽcula.
+Amen.
+
+[HymnusM Vespera]
+@:Hymnus Vespera:s/Crudélis Heródes, Deum.Regem/Hostis Heródes ímpie,\nChristum/s
+
+[Versum 1_]
+{initial-style:0;%%(c3) V/. Re(h)ges(h) Thar(h)sis(h) et(h) ín(h)su(h)læ(h) mú(h)ne(h)ra(h) óf(h)fe(h)rent.(g_'/hvGF'E!fgf.) (::)
+R/. Re(h)ges(h) A(h)ra(h)bum(h) et(h) Sa(h)ba(h) do(h)na(h) ad(h)dú(h)cent.(g_'/hvGF'E!fgf.) (::)}
+(sed tonus solemnis loco hujus versus dicuntur)
+{initial-style:0;%%(c3) V/. Re(h)ges(h) Thar(h)sis(h) et(h) ín(hi)su(h)læ(h_') (,) mú(h)ne(f')ra(e) óf(f_0h)fe(h)rent.(hiHGhih.ghGFE'fggf.) (::)
+R/. Re(h)ges(h) A(h)ra(h)bum(h) et(h) Sa(hi)ba(h_') (,) do(h)na(f') ad(e)dú(f_0h)cent.(hiHGhih.ghGFE'fggf.) (::)}
+
+[Versum 1C]
+V. Omnes de Saba vénient.
+R. Aurum et thus deferéntes, et laudem Dómini annuntiántes.
+
+[Ant 1_]
+Magi vidéntes * stellam, dixérunt ad ínvicem: Hoc signum magni Regis est: eámus et inquirámus eum, et offerámus ei múnera, aurum, thus, et myrrham, allelúja.
+
+[Oratio]
+Deus, qui hodiérna die Unigénitum tuum géntibus stella duce revelásti: concéde propítius; ut qui jam te ex fide cognóvimus, usque ad contemplándam spéciem tuæ celsitúdinis perducámur.
+$Per eumdem
+
+[Invit]
+Christus appáruit nobis, * Veníte adorémus.
+
+[Ant Matutinum]
+Afférte Dómino * fílii Dei, adoráte Dóminum in aula sancta ejus.;;28
+Flúminis ímpetus * lætíficat, allelúja, civitátem Dei, allelúja.;;45
+Psállite Deo nostro, * psállite: psállite Regi nostro, psállite sapiénter.;;46
+Omnis terra adóret te, * et psallat tibi: psalmum dicat nómini tuo, Dómine.;;65
+Reges Tharsis * et ínsulæ múnera ófferent Regi Dómino.;;71
+Omnes gentes * quascúmque fecísti, vénient, et adorábunt coram te, Dómine.;;85
+@SanctiM/01-06:AntMatutinumM:2
+(sed die Epiphaniæ dicitur)
+Veníte adorémus eum: quia ipse est Dóminus Deus noster.;;94
+Adoráte Dóminum, * allelúja: in aula sancta ejus, allelúja.;;95
+Adoráte Deum, * allelúja: omnes Angeli ejus, allelúja.;;96
+
+[Nocturn 1 Versum]
+V. Omnis terra adóret te, et psallat tibi.
+R. Psalmum dicat nómini tuo, Dómine.
+
+[Nocturn 3 Versum]
+V. Adoráte Dóminum, allelúja.
+R. In aula sancta ejus, allelúja.
+
+[Responsory1]
+R. Hódie in Jordáne baptizáto Dómino apérti sunt cæli, et sicut colúmba super eum Spíritus mansit, et vox Patris intónuit:
+* Hic est Fílius meus diléctus, in quo mihi bene complácui.
+V. Descéndit Spíritus Sanctus corporáli spécie sicut colúmba in ipsum, et vox de cælo facta est.
+R. Hic est Fílius meus diléctus, in quo mihi bene complácui.
+
+[Responsory1InfraOctavam]
+R. Tria sunt múnera pretiósa, quæ obtulérunt Magi Dómino in die ista, et habent in se divína mystéria:
+* In auro, ut ostendátur Regis poténtia: in thure, Sacerdótem magnum consídera: et in myrrha, Domínicam sepultúram.
+V. Salútis nostræ auctórem Magi veneráti sunt in cunábulis, et de thesáuris suis mýsticas ei múnerum spécies obtulérunt.
+R. In auro, ut ostendátur Regis poténtia: in thure, Sacerdótem magnum consídera: et in myrrha, Domínicam sepultúram.
+
+[Responsory2]
+R. In colúmbæ spécie Spíritus Sanctus visus est, Patérna vox audíta est:
+* Hic est Fílius meus diléctus, in quo mihi bene complácui.
+V. Cæli apérti sunt super eum, et vox Patris intónuit.
+R. Hic est Fílius meus diléctus, in quo mihi bene complácui.
+
+[Responsory3]
+R. Reges Tharsis et ínsulæ múnera ófferent:
+* Reges Arabum et Saba dona Dómino Deo addúcent.
+V. Omnes de Saba vénient, aurum et thus deferéntes.
+R. Reges Arabum et Saba dona Dómino Deo addúcent.
+&Gloria
+R. Reges Arabum et Saba dona Dómino Deo addúcent.
+
+[Responsory4]
+R. Illumináre, illumináre Jerúsalem, quia venit lux tua:
+* Et glória Dómini super te orta est.
+V. Et ambulábunt gentes in lúmine tuo, et reges in splendóre ortus tui.
+R. Et glória Dómini super te orta est.
+
+[Responsory5]
+R. Omnes de Saba vénient, aurum et thus deferéntes, et laudem Dómino annuntiántes,
+* Allelúja, allelúja, allelúja.
+V. Reges Tharsis et ínsulæ múnera ófferent, reges Arabum et Saba dona addúcent.
+R. Allelúja, allelúja, allelúja.
+
+[Responsory6]
+R. Magi véniunt ab Oriénte Jerosólymam, quæréntes, et dicéntes: Ubi est qui natus est, cujus stellam vídimus?
+* Et vénimus adoráre Dóminum.
+V. Vídimus stellam ejus in Oriénte.
+R. Et vénimus adoráre Dóminum.
+&Gloria
+R. Et vénimus adoráre Dóminum.
+
+[Responsory7]
+R. Stella, quam víderant Magi in Oriénte, antecedébat eos, donec venírent ad locum, ubi puer erat.
+* Vidéntes autem eam, gavísi sunt gáudio magno.
+V. Et intrántes domum, invenérunt púerum cum María matre ejus, et procidéntes adoravérunt eum.
+R. Vidéntes autem eam, gavísi sunt gáudio magno.
+
+[Responsory8]
+R. Vidéntes stellam Magi, gavísi sunt gáudio magno:
+* Et intrántes domum invenérunt púerum cum María matre ejus, et procidéntes adoravérunt eum: * Et apértis thesáuris suis obtulérunt ei múnera, aurum, thus, et myrrham.
+V. Stella, quam víderant Magi in Oriénte, antecedébat eos, usque dum véniens staret supra ubi erat puer.
+R. Et intrántes domum invenérunt púerum cum María matre ejus, et procidéntes adoravérunt eum:
+&Gloria
+R. Et apértis thesáuris suis obtulérunt ei múnera, aurum, thus, et myrrham.
+
+[Capitulum Laudes]
+!Isa 60:1
+v. Surge, illumináre Jerúsalem, quia venit lumen tuum, et glória Dómini super te orta est.
+$Deo gratias
+
+[Hymnus Laudes]
+{:H-Osolamagnarum:}v. O sola magnárum úrbium
+Major Bethlem, cui cóntigit
+Ducem salútis cǽlitus
+Incorporátum gígnere.
+_
+Quem stella, quæ solis rotam
+Vincit decóre, ac lúmine;
+Venísse terris núntiat
+Cum carne terréstri Deum.
+_
+Vidére postquam illum Magi,
+Eóa promunt múnera:
+Stratíque votis ófferunt
+Thus, myrrham, et aurum régium.
+_
+Regem Deúmque annúntiant
+Thesáurus, et fragrans odor
+Thuris Sabǽi, ac mýrrheus
+Pulvis sepúlcrum prǽdocet.
+_
+* Jesu, tibi sit glória,
+Qui apparuísti géntibus,
+Cum Patre, et almo Spíritu
+In sempitérna sǽcula.
+Amen.
+
+[Versum 2]
+{initial-style:0;%%(c3) V/. Ad(h)o(h)rá(h)te(h) De(h)um,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/. Om(h)nes(h) An(h)ge(h)li(h) e(h)jus,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
+(sed tonus solemnis loco hujus versus dicuntur)
+{initial-style:0;%%(c3) V/. Ad(h)o(h)rá(h)te(h) De(hi)um,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)
+R/. Om(h)nes(h) An(h)ge(h)li(h) e(hi)jus,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)}
+
+[Ant 2]
+Hódie * cælésti Sponso juncta est Ecclésia, quóniam in Jordáne lavit Christus ejus crímina: currunt cum munéribus Magi ad regáles núptias, et ex aqua facto vino lætántur convívæ, allelúja.
+
+[Lectio Prima]
+!Isa 60:6
+v. Omnes de Saba vénient, aurum et thus deferéntes, et laudem Dómino annuntiántes.
+
+[Responsory Breve Tertia]
+R.br. Reges Tharsis et ínsulæ múnera ófferent, * Allelúja, allelúja.
+R. Reges Tharsis et ínsulæ múnera ófferent, * Allelúja, allelúja.
+V. Reges Arabum et Saba dona addúcent.
+R. Allelúja, allelúja.
+&Gloria
+R. Reges Tharsis et ínsulæ múnera ófferent, * Allelúja, allelúja.
+
+[Versum Tertia]
+V. Omnes de Saba vénient, allelúja.
+R. Aurum et thus deferéntes, allelúja.
+
+[Capitulum Sexta]
+!Isa 60:4
+v. Leva in circúitu óculos tuos, et vide: omnes isti congregáti sunt, venérunt tibi: fílii tui de longe vénient, et fíliæ tuæ de látere surgent.
+$Deo gratias
+
+[Responsory Breve Sexta]
+R.br. Omnes de Saba vénient, * Allelúja, allelúja.
+R. Omnes de Saba vénient, * Allelúja, allelúja.
+V. Aurum et thus deferéntes.
+R. Allelúja, allelúja.
+&Gloria
+R. Omnes de Saba vénient, * Allelúja, allelúja.
+
+[Responsory Breve Nona]
+R.br. Adoráte Dóminum, * Allelúja, allelúja.
+R. Adoráte Dóminum, * Allelúja, allelúja.
+V. In aula sancta ejus.
+R. Allelúja, allelúja.
+&Gloria
+R. Adoráte Dóminum, * Allelúja, allelúja.
+
+[Ant 3]
+Tribus miráculis * ornátum diem sanctum cólimus: hódie stella Magos duxit ad præsépium: hódie vinum ex aqua factum est ad núptias: hódie in Jordáne a Joánne Christus baptizári vóluit, ut salváret nos, allelúja.

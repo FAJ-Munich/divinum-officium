@@ -1,10 +1,3 @@
-@Sancti/11-01
-
-[Rule]
-vide C3;
-12 lectiones
-Psalmi Dominica
-
 [AntMatutinumM]
 Læténtur * omnes, qui sperant in te, Dómine, † in ætérnum exsultábunt: et habitábis in eis. † Et gloriabúntur in te omnes qui díligent nomen tuum.;;5
 Dilígite * Dóminum, omnes sancti ejus, † quóniam veritátem requíret Dóminus.;;30
@@ -22,9 +15,6 @@ Laudem dícite * Deo nostro omnes Sancti ejus: et qui timétis eum pusílli et m
 @:AntMatutinumM:3
 @Sancti/11-01::9
 ;;259;254;255
-
-[Lectio1]
-@Sancti/11-01:Lectio1:s/-8/-7/ s/8 .*//s
 
 [Lectio2]
 @Sancti/11-01:Lectio1:2-9 s/2-// s/:8/:8, 5:1-5/ s/2 .*8 /8 /s
@@ -52,7 +42,7 @@ Laudem dícite * Deo nostro omnes Sancti ejus: et qui timétis eum pusílli et m
 [Responsory8]
 R. Sanctíssime Conféssor Christi Benedícte monachórum Pater et Dux
 * Intercéde pro nostra omniúmque salúte.
-V. Devótæ plebi súbveni sancta intercessióne, † ut tuis adiúta précibus regna cæléstia consequátur.
+V. Devótæ plebi súbveni sancta intercessióne, † ut tuis adjúta précibus regna cæléstia consequátur.
 R. Intercéde pro nostra omniúmque salúte.
 
 [Lectio9]
@@ -89,4 +79,4 @@ V. Et vidébunt fáciem ejus, et nomen Patris ejus scriptum in fróntibus suis.
 R. Et audívi númerum signatórum centum quadragínta quátuor míllia signáti, † ex omni tribu filiórum Israël.
 
 [Ant Vespera 3]
-@Sancti/11-01:Ant Vespera:s/;;;;/;;109;;/ s/;;;;/;;111;;/ s/;;;;/;;112;;/ s/;;;;/;;115;;/ 
+@Sancti/11-01:Ant Vespera:s/;;;;/;;109;;/ s/;;;;/;;111;;/ s/;;;;/;;112;;/ s/;;;;/;;115;;/

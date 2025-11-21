@@ -1,6 +1,6 @@
 [Versum 1]
-{initial-style:0;%%(c3) V/. Ad(h)du(h)cén(h)tur(h) Re(h)gi(h) Vír(h)gi(h)nes(h) post(h) e(h hr)am.(g_'/hvGFEfgf.) (::)
-R/. Pró(h)xi(h)mæ(h) e(h)jus(h) af(h)fe(h)rén(h)tur(h) ti(h hr)bi.(g_'/hvGFEfgf.) (::)}
+{initial-style:0;%%(c3) V/. Ad(h)du(h)cén(h)tur(h) Re(h)gi(h) Vír(h)gi(h)nes(h) post(h) e(h hr)am.(g_'/hvGF'E!fgf.) (::)
+R/. Pró(h)xi(h)mæ(h) e(h)jus(h) af(h)fe(h)rén(h)tur(h) ti(h hr)bi.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 1]
 {name:Prudentes virgines;annotation:4.A;mode:4;book:The Liber Usualis, 1961, p. 1215 & Liber antiphonarius, 1960, p. [87];transcriber:Andrew Hinkley;%%(c3) PRu(f)dén(e')tes(f) Vír(h)gi(hi)nes,(i'_[oh:h]) *(,) a(i)ptá(h')te(i) lám(j)pa(i')des(h) ve(i_[oh:h])stras :(i.) (;) ec(f')ce(i) spon(g')sus(h) ve(f_e)nit,(f') (,) ex(e)í(d')te(e) ób(gxf_g)vi(h')am(h) e(f.)i.(f.) (::) ^_T. P._^ Al(d_e)le(f_h)lú(f.){ia}.(f.) (::)};;4-alt-A

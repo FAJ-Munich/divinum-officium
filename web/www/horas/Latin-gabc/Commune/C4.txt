@@ -29,8 +29,8 @@
 {gabc:Commune/C4/hy--iste_confessor_conf_pont_in_duplicibus_majoribus--solesmes_1934}
 
 [Versum 1]
-{initial-style:0;%%(c3) V/. A(h)má(h)vit(h) e(h)um(h) Dó(h)mi(h)nus,(h) et(h) or(h)ná(h)vit(h) e(h hr)um.(g_'/hvGFEfgf.) (::)
-R/. Sto(h)lam(h) gló(h)ri(h)æ(h) índ(h)u(h)it(h) e(h hr)um.(g_'/hvGFEfgf.) (::)}
+{initial-style:0;%%(c3) V/. A(h)má(h)vit(h) e(h)um(h) Dó(h)mi(h)nus,(h) et(h) or(h)ná(h)vit(h) e(h hr)um.(g_'/hvGF'E!fgf.) (::)
+R/. Sto(h)lam(h) gló(h)ri(h)æ(h) índ(h)u(h)it(h) e(h hr)um.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 1]
 {name:Sacerdos et Pontifex;office-part:Antiphona;tone:1D;annotation:1.D;book:Liber antiphonarius, 1960, p. [55] & Liber antiphonarius, 1960, p. 577.15 & Liber antiphonarius, 1960, p. 81star;transcriber:Andrew Hinkley;%%(c4) SA(d)cér(dd)dos(c) et(d) Pón(f_g)ti(d)fex,(d_fddc.) *(,) et(f') vir(g)tú(h)tum(g') ó(h)pi(gf)fex,(f.) (;) pa(h)stor(g') bo(h)ne(g') in(f) pó(fe)pu(fg)lo:(gvF'_ED.) (;) o(dd)ra(c) pro(d') no(f)bis(fgf) Dó(d)mi(cd)num.(d.) (::) ^_T. P._^ Al(e)le(fe)lú(d.)ja.(d.) (::)};;1D
@@ -42,7 +42,9 @@ R/. Sto(h)lam(h) gló(h)ri(h)æ(h) índ(h)u(h)it(h) e(h hr)um.(g_'/hvGFEfgf.) (:
 $Per Dominum.
 
 [Invit]
-Regem Confessórum Dóminum, * Veníte, adorémus.
+{name:Regem Confessorum;annotation:4.d;mode:4;book:Liber Responsorialis, 1895, p. 190;transcriber:faj-munich;%%(c4) Re(cd!ff)gem(f) Con(f)fes(f)só(fe)rum(fg) Dó(g_1e)mi(f)num,(deddc) * Ve(ce!fg)ní(g)te,(gh) ad(hv_GF)o(g)ré(gv_FE)mus.(e.) (::)};;4d
+(sed tempore paschali)
+{name:Regem Confessorum T.P.;annotation:6.;mode:6;book:Liber Responsorialis, 1895, p. 162;transcriber:faj-munich;%%(c4) Re(d!ffg)gem(f) Con(f')fes(f)so(f')rum(gh) Dó(g)mi(f)num,(f.) *(:) Ve(f)ní(g)te,(fe) ad(f)o(ixgi)ré(ixhig)mus,(gf..) (;) al(f!gh)le(g_0hFE__D)lú(fghv/ghg)ja.(gf..) (::)};;6
 
 [Ant Matutinum]
 Beátus vir, * qui in lege Dómini meditátur: volúntas ejus pérmanet die ac nocte, et ómnia quæcúmque fáciet, semper prosperabúntur.;;1
@@ -56,12 +58,12 @@ Vitam pétiit * a te, et tribuísti ei, Dómine: glóriam et magnum decórem imp
 Hic accípiet * benedictiónem a Dómino, et misericórdiam a Deo salutári suo: quia hæc est generátio quæréntium Dóminum.;;23
 
 [Nocturn 2 Versum]
-{initial-style:0;%%(c3) V/. E(h)lé(h)git(h) e(h)um(h) Dó(h)mi(h)nus(h) sa(h)cer(h)dó(h)tem(h) si(h hr)bi.(g_'/hvGFEfgf.) (::)
-R/.  Ad(h) sa(h)cri(h)fi(h)cán(h)dum(h) e(h)i(h) hós(h)ti(h)am(h) lau(h hr)dis.(g_'/hvGFEfgf.) (::)}
+{initial-style:0;%%(c3) V/. E(h)lé(h)git(h) e(h)um(h) Dó(h)mi(h)nus(h) sa(h)cer(h)dó(h)tem(h) si(h hr)bi.(g_'/hvGF'E!fgf.) (::)
+R/.  Ad(h) sa(h)cri(h)fi(h)cán(h)dum(h) e(h)i(h) hós(h)ti(h)am(h) lau(h hr)dis.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-{initial-style:0;%%(c3) V/. Tu(h) es(h) sa(h)cér(h)dos(h) in(h) æ(h)tér(h hr)num.(g_'/hvGFEfgf.) (::)
-R/.  Se(h)cún(h)dum(h) ór(h)di(h)nem(h) Mel(h)chí(h)se(hr)dech.(g_'/hvGFEfgf.) (::)}
+{initial-style:0;%%(c3) V/. Tu(h) es(h) sa(h)cér(h)dos(h) in(h) æ(h)tér(h hr)num.(g_'/hvGF'E!fgf.) (::)
+R/.  Se(h)cún(h)dum(h) ór(h)di(h)nem(h) Mel(h)chí(h)se(hr)dech.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Euge, serve bone et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam:
@@ -171,12 +173,11 @@ $Deo gratias
 {(c3) Fun(h)gi(h) sa(h)cer(h)dó(h)ti(f)o,(f.) †(,) et(h) ha(h)bé(h)re(h) lau(h)dem(h) in(h) nó(h)mi(h)ne(g) ip(f)sí(h)us,(h.) *(;) et(h) of(h)fér(h)re(h) il(h)li(h) in(h)cén(h)sum(h) di(h)gnum(h) in(h) o(h)dó(h)rem(h) su(h)a(h)vi(h)tá(f)tis.(ef..) (::)}
 
 [Responsory Breve Tertia]
-R.br. Amávit eum Dóminus, * Et ornávit eum.
-R. Amávit eum Dóminus, * Et ornávit eum.
-V. Stolam glóriæ índuit eum.
-R. Et ornávit eum.
-&Gloria
-R. Amávit eum Dóminus, * Et ornávit eum.
+R.br. {gabc:Commune/C4/rb--amavit_eum_dominus--solesmes_1961.1}
+(sed tempore passionis)
+R.br. {gabc:Commune/C4/rb--amavit_eum_dominus-passionis-solesmes_1961.1}
+(sed tempore paschali)
+R.br. {gabc:Commune/C4/rb--amavit_eum_dominus_resp._br._t.p.--solesmes_1961.1}
 
 [Capitulum Sexta]
 !Sir 44:20; 44:22
@@ -184,20 +185,18 @@ R. Amávit eum Dóminus, * Et ornávit eum.
 $Deo gratias
 
 [Responsory Breve Sexta]
-R.br. Elégit eum Dóminus * Sacerdótem sibi.
-R. Elégit eum Dóminus * Sacerdótem sibi.
-V. Ad sacrificándum ei hóstiam laudis.
-R. Sacerdótem sibi.
-&Gloria
-R. Elégit eum Dóminus * Sacerdótem sibi.
+R.br. {gabc:Commune/C4/rb--elegit_eum--solesmes_1961.1}
+(sed tempore passionis)
+R.br. {gabc:Commune/C4/rb--elegit_eum-passionis-solesmes_1961.1}
+(sed tempore paschali)
+R.br. {gabc:Commune/C4/rb--elegit_eum_paschal_time--solesmes_1961.1}
 
 [Responsory Breve Nona]
-R.br. Tu es sacérdos * In ætérnum.
-R. Tu es sacérdos * In ætérnum.
-V. Secúndum órdinem Melchísedech.
-R. In ætérnum.
-&Gloria
-R. Tu es sacérdos * In ætérnum.
+R.br. {gabc:Commune/C4/rb--tu_es_sacerdos--solesmes_1961.1}
+(sed tempore passionis)
+R.br. {gabc:Commune/C4/rb--tu_es_sacerdos-passionis-solesmes_1961.1}
+(sed tempore paschali)
+R.br. {gabc:Commune/C4/rb--tu_es_sacerdos_paschal_time--solesmes_1961.1}
 
 [Ant 3 summi Pontificis]
 {name:Dum esset summus pontifex;annotation:1.f;mode:1;book:The Liber Usualis, 1961, p. 1181 & Liber antiphonarius, 1960, p. [66] & Liber antiphonarius, 1960, p. 577.16;transcriber:Andrew Hinkley;%%(c4) DUM(d) es(d)set(dc) sum(f)mus(g') Pón(f)ti(gh)fex,(h.) *(,) ter(h_g)ré(ixi')na(h) non(g') mé(fg'h)tu(fe)it :(d.) (;) sed(gg) ad(e) cae(g)lé(h')sti(g)a(f) re(fg)gna(f'_) (,) glo(f)ri(f)ó(e_[uh:l]f)sus(g) mi(fe)grá(d.)vit.(d.) (::) ^_T. P._^ Al(e)le(fe)lú(d.){ia}.(d.) (::)};;1f

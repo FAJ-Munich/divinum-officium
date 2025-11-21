@@ -1,3 +1,10 @@
+[Responsory Vespera]
+R.br. {gabc:Commune/C5/rb--os_justi--solesmes_1934}
+(sed tempore passionis)
+R.br. {gabc:Commune/C5/rb--os_justi-passionis-solesmes_1934}
+(sed tempore paschali)
+R.br. {gabc:Commune/C5/rb--os_justi_t.p.--solesmes_1934}
+
 [Responsory4]
 R. Dómine, prævenísti eum in benedictiónibus dulcédinis,
 * Posuísti in cápite ejus corónam de lápide pretióso.

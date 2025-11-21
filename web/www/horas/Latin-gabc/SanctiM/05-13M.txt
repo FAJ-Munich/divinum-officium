@@ -1,0 +1,106 @@
+[Hymnus Vespera]
+Adéste Sancti plúrimo
+Dum thure, vestra dum piis
+Colúntur ossa rítibus,
+Votis favéte súpplicum.
+_
+Non illa, quamquam trístibus
+Imum redáct[a] in púlverem
+Dudum sepúlchris squálleant,
+Divína virtus déserit.
+_
+Sed sancta præsénti fovet
+Implétque templa númine,
+Sed et futúræ spíritus
+Post sæcla servat glóriæ.
+_
+Hinc ille, qui nostris latet
+Cinis sub aris cónditus,
+Aegris medétur éfficax,
+Torquet, fugátque dǽmones.
+_
+Glória tibi Dómine,
+Qui surrexíst[i] a mórtuis,
+Cum patr[e] et sancto Spíritus,
+In Sempitérna sǽcula.
+Amen.
+
+[Versum 1]
+{initial-style:0;%%(c3) V/. Cus(h)tó(h)dit(h) Dó(h)mi(h)nus(h) óm(h)ni(h)a(h) os(h)sa(h) e(h)ó(h)rum.(g_'/hvGF'E!fgf.) (::)
+R/. U(h)num(h) ex(h) his(h) non(h) con(h)te(h)ré(h)tur.(g_'/hvGF'E!fgf.) (::)}
+
+[Oratio]
+Deus, qui hanc sacrosánctam ecclésiam tot voluísti Sanctórum decorári Relíquiis: auge in nobis resurrectiónis fidem; et fac nos immortális glóriæ partícipes, cujus in eorum cinêribus pígnora venerámur.
+$Per Dominum
+
+[Nocturn 1 Versum]
+V. Dórmiunt in terræ púlvere.
+R. Evigilánunt in vitam ætérnam.
+
+[Nocturn 2 Versum]
+V. Justi quasi virens fólium germinábunt.
+R. Non commovébitur radix eorum.
+
+[Nocturn 3 Versum]
+V. Cum Christus apparúerit, vita vestra.
+R. Tunc et vos apparébitis cum ipso in glória.
+
+[Capitulum Laudes]
+!Rom 8:11
+v. Quod si Spíritus ejus, qui suscitávit Jesum a mórtuis, hábitat in vobis: qui suscitávit Jesum Christum a mórtuis, vivificábit, et mortália córpora vestra, propter inhabitántem Spíritum ejus in vobis.
+$Deo gratias
+
+[Hymnus Laudes]
+O vos unánimes Christiádum chori,
+Sanctórum túmulos et cíneres Patrum,
+Caras exúvias, pígnora cǽlitum,
+Lætis dícite cántibus.
+_
+Cælo quando piis æqua labóribus
+Felíces ánimæ gáudia póssident,
+Pœnárum sóciis débita rédditur
+Hic laus et decus óssibus.
+_
+Passim sparsa, Deus pollíciti memor,
+Custos, ne péreant, pígnora cólligit;
+Electósque suis próvidus ággerit
+Aptándos lápides locis.
+_
+Quin et Relíquias et túmulos sibi
+Aras ipse Deus cónsecrat hóstia;
+Conjungén sque suis se caput ártubus,
+Hos secum simul ímmolat.
+_
+Vos quorum cíneres supplícibus pia,
+Tutum præsídium, plebs colit ósculis;
+Si vos nostra movent, subsídium boni,
+Vestris ferte cliéntibus.
+_
+Ut cum nostra novis spléndida dótibus
+Surget juncta choris spirítuum caro,
+Indivísa Trias sit Deus ómnia
+Nobis semper in ómnibus.
+Amen.
+
+[Capitulum Tertia]
+!Ph 3:20-21
+v. Nostra autem conversátio in cælis est: unde étiam Salvatórem exspectámus Dóminum nostrum Jesum Christum, qui reformábit corpus humilitátis nostræ, configurátum córpori claritátis suæ.
+$Deo gratias
+
+[Capitulum Sexta]
+!1 Pe 4:14
+v. Si exprobrámini in nómine Christi, beáti éritis: quóniam quod est honóris, glóriæ, et virtútis Dei, et qui est ejus Spíritus, super vos requiéscit.
+$Deo gratias
+
+[Capitulum Nona]
+!1 Pe 3:13-14
+v. Quis est, qui vobis nóceat, si boni æmulatóres fuéritis? * sed et si quid patímini propter justítiam, beáti.
+$Deo gratias
+
+[Responsory NonaM]
+V. Gloriósus Deus in Sanctis suis.
+R. Mirábilis in Majestáte sua.
+
+[Versum 3]
+{initial-style:0;%%(c3) V/. Con(h)so(h)lá(h)bor(h) vos,(h) et(h) gau(h)dé(h)bit(h) cor(h) ves(h)trum.(g_'/hvGF'E!fgf.) (::)
+R/. Et(h) os(h)sa(h) ves(h)tra(h) qua(h)si(h) her(h)ba(h) ger(h)mi(h)ná(h)bunt.(g_'/hvGF'E!fgf.) (::)}

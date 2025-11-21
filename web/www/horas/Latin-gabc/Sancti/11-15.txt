@@ -1,0 +1,6 @@
+[Name]
+Albérte
+
+[Oratio]
+Deus, qui beátum Albértum Pontíficem tuum atque Doctórem in humána sapiéntia divínæ fídei subiciénda magnum effecísti: da nobis, quǽsumus; ita ejus magistérii inhærére vestígiis, ut luce perfécta fruámur in cælis.
+$Per Dominum.

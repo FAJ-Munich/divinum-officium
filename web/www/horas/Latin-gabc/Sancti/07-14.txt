@@ -1,0 +1,5 @@
+[Name]
+Bonaventúram
+(sed rubrica 1570)
+Bonaventúræ
+Ant=Bonaventúra

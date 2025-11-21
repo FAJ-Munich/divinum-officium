@@ -1,0 +1,8 @@
+[Name]
+Urbáno
+(sed rubrica 1960)
+Urbánum
+
+[Oratio]
+Da, quǽsumus, omnípotens Deus: ut qui beáti Urbáni Mártyris tui atque Pontíficis solémnia cólimus, ejus apud te intercessiónibus adjuvémur.
+$Per Dominum.

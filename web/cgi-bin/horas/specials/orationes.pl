@@ -848,6 +848,15 @@ sub vigilia_commemoratio {
   my %p = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
   my $a = $p{"Feria Ant 2"};       #$p{"Day$dayofweek Ant 2"};
   my $v = $p{"Feria Versum 2"};    #$p{"Day$dayofweek Versum 2"};
+  if ($lang =~ /gabc/i) {    # Change Versicle into the simple tone
+    map {
+      s/hr\)(.*?\(\,\))/h)$1/g;    # remove (first) superveniente in Tonus solemnis
+      s/(.*\(.*?)hr\)/$1fr)/g;     # change supervenient at puncutum
+      s/\([a-zA-Z0-9\_\.\~\>\<\'\/\!]+?\) (R\/\.)?\(::\)/\(f\.\) $1\(::\)/g;    # change finalis
+      s/\((?:hi|hr|h\_0|f?e|f\'?|f\_0?h|h\_\')\)/\(h\)/g;                       # More changes for solemn Versicle
+      s/\(\,\)//g;
+    } $v;
+  }
   $a =~ s/\s*\*\s*/ /;
   $w = $c . "Ant. $a" . "_\n$v" . "_\n\$Oremus\nv. $w";
   return $w;

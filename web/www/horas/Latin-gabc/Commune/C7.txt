@@ -1,9 +1,20 @@
 [Ant Vespera]
-Dum esset Rex * in accúbitu suo, nardus mea dedit odórem suavitátis.;;109
-In odórem * unguentórum tuórum cúrrimus: adolescéntulæ dilexérunt te nimis.;;112
-Jam hiems tránsiit, * imber ábiit et recéssit: surge, amíca mea, et veni.;;121
-Veni, elécta mea, * et ponam in te thronum meum, allelúja.;;126
-Ista est speciósa * inter fílias Jerúsalem.;;147
+{name:Dum esset rex;annotation:3.a;mode:3;book:The Liber Usualis, 1961, p. 1232 & The Liber Usualis, 1961, p. 1258 & Liber antiphonarius, 1960, p. [114] & Liber antiphonarius, 1960, p. [97];transcriber:Andrew Hinkley;%%(c4) DUM(g) es(gj)set(hg/hjh~) rex(j.) *(,) in(i') ac(j)cú(k')bi(j)tu(h') su(j)o,(ih..) (;) nar(g)dus(h) me(j')a(i) de(g!hwi_[oh:h]g)dit(h'_) (,) o(g)dó(e')rem(f) su(gf)a(gh)vi(gf)tá(e.)tis.(e.) (::) ^_T. P._^ Al(g)le(gf)lú(e.){ja}.(e.) (::)};;109;;3a
+{name:In odorem;annotation:4.A*;mode:4;book:The Liber Usualis, 1961, p. 1233 & The Liber Usualis, 1961, p. 1606 & Liber antiphonarius, 1960, p. 820;transcriber:Andrew Hinkley;%%(c3) IN(e') o(f)dó(h_i)rem(i.) *(,) un(h')guen(i)tó(j)rum(i') tu(h)ó(i)rum(ij) cúr(h')ri(g)mus :(f.) (;) a(f_i)do(g')le(h)scén(f')tu(e)lae(f_e) (,) di(d')le(e)xé(gxf_g)runt(h') te(h) ni(f.)mis.(f.) (::) ^_T. P._^ Al(d_e)le(f_h)lú(f.){ja}.(f.) (::)};;112;;4-alt-Astar
+{name:Jam hiems transiit;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 1233 & The Liber Usualis, 1961, p. 1259 & Liber antiphonarius, 1960, p. [116] & Liber antiphonarius, 1960, p. [98];transcriber:Andrew Hinkley;%%(c4) JAM(g_[uh:l]j) hi(h)ems(gf) tráns(gh)i(h)it,(g.) *(;) im(i')ber(j) áb(k')i(j)it(h) et(j) re(j')cés(i)sit :(i.) (:) sur(jk)ge(ji) a(h)mí(i')ca(j) me(hv_GF)a,(f.) (;) et(h!iwjhi) ve(g.)ni.(g.) (::) ^_T. P._^ Al(hi)le(h)lú(g.){ja}.(g.) (::)};;121;;8G
+{name:Veni electa mea;annotation:1.f;mode:1;book:The Liber Usualis, 1961, p. 1211 & The Liber Usualis, 1961, p. 1233 & Liber antiphonarius, 1960, p. [88] & Liber antiphonarius, 1960, p. [98];transcriber:Andrew Hinkley;%%(c4) VE(d)ni(d) e(dc)lé(f)cta(g) me(f_h)a,(h.) *(;) et(hg~) po(h')nam(g) in(e) te(f) thro(g')num(f) me(fe)um,(dc) (,) al(d)le(fe)lú(d.){ia}.(d.) (::)};;126;;1f
+(sed tempore gesimæ aut tempore passionis)
+{name:Veni electa mea;annotation:1.f;mode:1;book:The Liber Usualis, 1961, p. 1211 & The Liber Usualis, 1961, p. 1233 & Liber antiphonarius, 1960, p. [88] & Liber antiphonarius, 1960, p. [98];transcriber:Andrew Hinkley;%%(c4) VE(d)ni(d) e(dc)lé(f)cta(g) me(f_h)a,(h.) *(;) et(hg~) po(h')nam(g) in(e) te(f) thro(g')num(f) me(fe)um,(dc) di(d)cit(fe) Dó(d)mi(d)nus.(d.) (::)};;126;;1f
+{name:Ista est speciosa (S Mulierum);annotation:8.G*;mode:8;book:The Liber Usualis, 1961, p. 1233 & Liber antiphonarius, 1960, p. [98];transcriber:Andrew Hinkley;%%(c4) I(f)sta(fg) est(g) *() spe(h')ci(g)ó(g_[uh:l]hG'F)sa(f.) (;) in(f)ter(hj~) fí(j)li(i)as(jk) Je(hv_GF)rú(gh)sa(h)lem.(g.) (::) ^_T. P._^ Al(hi)le(h)lú(g.){ia}.(g.) (::)};;147;;8Gstar
+
+[Ant Vespera] (rubrica monastica)
+{name:Dum esset rex;annotation:3.a;mode:3;book:Antiphonale Monasticum, 1934, p. 706;%%(c4)DUM(g) es(gj)set(hg/hi~) rex(i.) *(,) in(i) ac(j)cú(k')bi(j)tu(i') su(h)o,(g.) (;) nar(g)dus(h) me(j')a(i) de(g!hwi_g)dit(h'_) (,) o(g)dó(e')rem(f) † su(gf)a(/gh)vi(gf)tá(e.)tis(e.). (::) ^_T. P._^ † su(gf)a(gh)vi(gf)tá(e)tis(e_f), al(g)le(gf)lú(e.)ja.(e.) (::)};;109;;3a
+{name:In odorem;annotation:4.A*;mode:4;book:Antiphonale Monasticum, 1934, p. 1014;transcriber:Dominique CROCHU;%%(c3) IN(e) o(f)dó(h_i)rem(ii) *(,) un(h')guen(i)tó(j)rum(i') tu(h)ó(i)rum(ij) cúr(h')ri(g>)mus :(f.) (;) a(f_i)do(h')le(g)scén(f')tu(e)læ(f_e) (,) di(d')le(e)xé(gxf_g)runt(h') te(gxg) ni(f.)mis.(f.) (::)};;112;;4-alt-Astar
+{name:Jam hiems transiit;annotation:8.G;mode:8;book:Antiphonale Monasticum, 1934, p. 687;transcriber:Dominique CROCHU;%%(c4)JAM(gi_!jv) hi(h)ems(gf) tráns(gh)i(h)it,(g.) *(,) im(i)ber(j) áb(k')i(j)it(h') et(j) re(j)cés(i.)sit:(i.) (;) sur(jk)ge(ji) a(h)mí(i')ca(j) me(hv_GF)a,(f.) (,) et(h!iwj_h/i_h) † ve(g.)ni.(g.) (::) ^_T.P._^ † ve(g)ni,(g_h) al(i')le(h)lú(g.)ia.(g.) (::)};;121;;8G
+{name:Veni electa mea;annotation:1.f;mode:1;book:Antiphonale Monasticum, 1934, p. 679;transcriber:Dominique CROCHU;%%(c4) VE(d)ni(d) e(dc)lé(f)cta(g) me(f_h)a,(h.) *(,) et(hg~) po(h)nam(g') in(f) te(e_f) thro(g')num(f) me(fe)um,(dc) † al(d)le(fe)lú(d.)ja.(d.) (::)};;126;;1f
+(sed tempore gesimæ aut tempore passionis)
+{name:Veni electa mea;annotation:1.f;mode:1;book:Antiphonale Monasticum, 1934, p. 679;transcriber:Dominique CROCHU;%%(c4) VE(d)ni(d) e(dc)lé(f)cta(g) me(f_h)a,(h.) *(,) et(hg~) po(h)nam(g') in(f) te(e_f) thro(g')num(f) me(fe)um,(dc) di(d)cit(fe) Dó(d)mi(cd)nus.(d.) (::)};;126;;1f
+{name:Ista est speciosa (Virginum);annotation:3.a;mode:3;book:Antiphonale Monasticum, 1934, p. 679;transcriber:Dominique CROCHU;%%(c4) I(g)sta(hi) est(i'_) *() spe(j)ci(h)ó(hji)sa(g'_) (,) in(g>)ter(hi) fí(j)li(ij)as(h) † Je(hv_GF')rú(g)sa(gf)lem.(e.) (::) ^_T.P._^ † Je(h_vGF')rú(g)sa(gf)lem,(e_f) al(g)le(gf)lú(e.)ia.(e.) (::)};;147;;3a
 
 [Hymnus Vespera]
 {gabc:Commune/C7/hy--fortem_virili_pectore--solesmes_1961.1}
@@ -36,7 +47,7 @@ Ista est speciósa * inter fílias Jerúsalem.;;147
 {gabc:Commune/C7/hy--fortem_virili_pectore_octava BMV-TP-solesmes_1934}
 
 [Invit]
-Laudémus Deum nostrum * In confessióne beátæ N..
+{name:Laudemus Deum;annotation:2.;mode:2;book:Liber Responsorialis, 1895, p. 211;transcriber:faj-munich;%%(f3) Lau(ef)dé(f!ghf)mus(fe) De(f)um(hg) nos(hiHG)trum(g) *(:) In(ij) con(kxj@kij)fes(hg)si(hi)ó(hvGF)ne(f!ghf!gffe) (;) be(hg)á(fiih)tæ(gf) N.(ghf)(ef)(f) (::) ^_T. P._^ Al(ef)le(f)lú(f!ghf)ja.(f) (::)};;5
 
 [Ant Matutinum2]
 Læva ejus * sub cápite meo, et déxtera illíus amplexábitur me.;;18
@@ -62,6 +73,9 @@ V. Eructávit cor meum verbum bonum: dico ego ópera mea Regi.
 R. Quem vidi, quem amávi, in quem crédidi, quem diléxi.
 &Gloria
 R. Quem vidi, quem amávi, in quem crédidi, quem diléxi.
+
+[Ant Laudes]
+@:Ant Vespera:s/;;\d+;;/;;;;/g
 
 [Capitulum Laudes]
 !Sir 51:1-3

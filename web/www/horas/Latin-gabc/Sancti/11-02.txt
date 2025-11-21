@@ -1,32 +1,3 @@
-[Rank]
-In Commemoratione Omnium Fidelium Defunctorum;;Duplex;;3;;ex C9
-
-[Rank] (rubrica 196)
-In Commemoratione Omnium Fidelium Defunctorum;;I. classis;;6;;ex C9
-
-[Rank] (rubrica innovata)
-In Commemoratione Omnium Fidelium Defunctorum;;Duplex Solemnity;;6;;ex C9
-
-[Rule]
-ex C9
-Psalmi Dominica
-Antiphonas horas
-Special Conclusio
-Capitulum Versum 2 ad Laudes et Vesperas
-Omit Incipit Hymnus Capitulum Lectio Preces Commemoratio Suffragium
-Limit Benedictiones Oratio
-Requiem gloria
-9 lectiones
-Responsory9
-no Te Deum
-(rubrica 1955 aut rubrica 1960) No prima Vespera
-
-[Initial]
-#Incipit specialis
-$Pater noster
-$Ave Maria
-(sed rubrica 1960 aut rubrica innovata omittuntur)
-
 [Oratio Matutinum]
 &Dominus_vobiscum
 @Commune/C9:Oratio_Fid

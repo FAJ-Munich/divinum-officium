@@ -659,7 +659,7 @@ sub postprocess_ant(\$$) {
     $$ant =~ s/;;.*//;
   }
 
-  ensure_single_alleluia($ant, $lang) if alleluia_required($dayname[0], $votive);
+  ensure_single_alleluia($ant, $lang) if alleluia_required($dayname[0], $votive) && $lang !~ /gabc/;
 }
 
 #*** postprocess_vr($vr, $lang)

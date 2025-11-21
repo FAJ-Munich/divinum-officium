@@ -1,9 +1,16 @@
 [Ant Vespera]
-Qui me conféssus fúerit * coram homínibus, confitébor et ego eum coram Patre meo.
-Qui séquitur me, * non ámbulat in ténebris, sed habébit lumen vitæ, dicit Dóminus.
-Qui mihi minístrat, * me sequátur: et ubi ego sum, illic sit et miníster meus.
-Si quis mihi ministráverit, * honorificábit eum Pater meus, qui est in cælis, dicit Dóminus.
-Volo Pater, * ut ubi ego sum, illic sit et miníster meus.
+{name:Qui me confessus fuerit;annotation:1.f;mode:1;book:The Liber Usualis, 1961, p. 1125 & Liber antiphonarius, 1960, p. [15];transcriber:Andrew Hinkley;%%(c4) QUI(d) me(d) con(dc~)fés(f)sus(g') fú(f)e(gh)rit(h.) *(,) co(ixi_[oh:h]h)ram(g') ho(g)mí(f)ni(gh)bus(g.) (;) con(g)fi(g)té(g)bor(g') et(g) e(e')go(g) e(h_g)um(f_g) (,) co(e)ram(dc~) Pa(d_f)tre(e) me(d.)o.(d.) (::)};;;;1f
+{name:Qui sequitur me;annotation:3.a;mode:3;book:Liber antiphonarius, 1960, p. [16] & Liber antiphonarius, 1960, p. 405;transcriber:Andrew Hinkley;%%(c4) QUI(g) sé(gj)qui(h)tur(g/h'jh~) me,(j.) *(,) non(i_j) ám(k')bu(j)lat(ji) in(h) té(ji)ne(hg)bris,(g.) (;) sed(g) ha(h')bé(j)bit(i') lu(h)men(g') vi(h)tae,(h_i) (,) di(g)cit(gf) Dó(e)mi(e)nus.(e.) (::)};;;;3a
+{name:Qui mihi ministrat;annotation:1.f;mode:1;book:The Liber Usualis, 1961, p. 1125 & Liber antiphonarius, 1960, p. [16];transcriber:Andrew Hinkley;%%(c4) QUI(d) mi(d_c)hi(f) mi(g)ní(f_h)strat,(h.) *(,) me(ixi_[oh:h]h) se(g.)quá(f_h)tur :(g.) (;) et(gg) u(e)bi(g) e(h')go(g) sum,(f.) (,) il(g')lic(f) sit(ff) et(e') mi(f)ní(g)ster(fe) me(d.)us.(d.) (::)};;;;1f
+{name:Si quis mihi ministraverit;annotation:1.f;mode:1;book:The Liber Usualis, 1961, p. 1126 & Liber antiphonarius, 1960, p. [16];transcriber:Andrew Hinkley;%%(c4) SI(d) quis(f') mi(d)hi(dc) mi(f)ni(g')strá(f)ve(gh)rit,(h.) *(,) ho(f)no(g)ri(ixi')fi(h)cá(g')bit(f) e(g)um(gh) Pa(f)ter(ef) me(d)us,(d.) (;) qui(g) est(gh) in(f) cæ(fe)lis,(dc) di(d)cit(fe) Dó(d)mi(d)nus.(d.) (::)};;;;1f
+{name:Volo Pater;annotation:1.a2;mode:1;book:The Liber Usualis, 1961, p. 1126 & Liber antiphonarius, 1960, p. [16];transcriber:Andrew Hinkley;%%(c4) VO(f)lo,(e') Pa(d)ter,(d'_) *(,) ut(f) u(f')bi(e) e(g')go(g) sum,(h.) (;) il(h')lic(g) sit(ff) et(e') mi(f)ní(g)ster(fe) me(d.)us.(d.) (::)};;;;1a2
+
+[Ant Vespera] (rubrica monastica)
+{name:Qui me confessus fuerit;annotation:1.f;mode:1;book:Antiphonale Monasticum, 1934, p. 640;transcriber:Dominique CROCHU;%%(c4) QUI(d) me(d) con(dc~)fés(f)sus(g') fú(f)e(gh)rit(h.) *(,) co(ixi_h)ram(g') ho(g)mí(f)ni(gh)bus(g.) (;) con(g)fi(g)té(g)bor(g') et(g) e(e')go(g) é(h_g)um(f_g) (,) co(e)ram(dc~) Pa(d_f)tre(e) me(d.)o.(d.) (::)};;;;1f
+{name:Qui sequitur me;annotation:3.a;mode:3;book:Antiphonale Monasticum, 1934, p. 381;transcriber:MarkM;%%(c4)QUI(g) sé(gj)qui(h)tur(g!hwi) me,(i.) * (,)non(i_j) ám(k>)bu(j)lat(ji) in(h) té(ji)ne(hg)bris :(g.) (;)sed(g) ha(h')bé(j)bit(i') lu(h)men(g') vi(h)tæ,(h_i) (,)di(g)cit(gf) Dó(e)mi(de)nus.(e.) (::)};;;;3a
+{name:Qui mihi ministrat;annotation:1.f;mode:1;book:Antiphonale Monasticum, 1934, p. 640;transcriber:Dominique CROCHU;%%(c4) QUI(d) mi(d_c)hi(f) mi(g)ní(f_h)strat,(h.) *(,) me(ixi_h) se(gg)quá(f_h)tur :(g.) (;) et(gg) u(e')bi(g) e(h')go(g) sum,(f.) (,) il(g)lic(f) sit(ff) et(e') mi(f)ní(g)ster(fe) me(d.)us.(d.) (::)};;;;1f
+{name:Si quis mihi ministraverit;annotation:1.f;mode:1;book:Antiphonale Monasticum, 1934, p. 641;transcriber:faj-munich;%%(c4) SI(d) quis(f') mi(d)hi(dc) mi(f)ni(g')strá(f)ve(gh)rit,(h_') *(,) ho(f)no(g')ri(ixi)fi(h')cá(g)bit(e') e(g)um(h>') Pa(f)ter(e>') me(d)us,(d.) (;) qui(gh) est(f) in(e>') cæ(d)lis,(c_') di(d)cit(fe) Dó(d)mi(cd)nus.(d.) (::)};;;;1f
+{name:Volo Pater;annotation:1.a2;mode:1;book:Antiphonale Monasticum, 1934, p. 641;transcriber:Dominique CROCHU;%%(c4) VO(f)lo,(e') Pa(d_)ter,(d'_) *(,) ut(f) u(f')bi(e) e(g')go(g) sum,(g_h) (,) il(h')lic(g) sit(ff) et(e') mi(f)ní(g)ster(fe) me(d.)us.(d.) (::)};;;;1a2
 
 [Hymnus Vespera]
 {gabc:Commune/C2/hy--deus_tuorum_militum--solesmes_1961.1}
@@ -43,8 +50,8 @@ Volo Pater, * ut ubi ego sum, illic sit et miníster meus.
 {gabc:Commune/C2/hy--deus_tuorum_tp-octava BMV--solesmes_1934}
 
 [Versum 1]
-{initial-style:0;%%(c3) V/. Gló(h)ri(h)a(h) et(h) ho(h)nó(h)re(h) co(h)ro(h)nás(h)ti(h) e(h)um,(h) Dó(h)mi(hr)ne.(g_'/hvGFEfgf.) (::)
-R/. Et(h) con(h)sti(h)tu(h)ís(h)ti(h) e(h)um(h) su(h)per(h) ó(h)pe(h)ra(h) má(h)nu(h)um(h) tu(h)á(h hr)rum.(g_'/hvGFEfgf.) (::)}
+{initial-style:0;%%(c3) V/. Gló(h)ri(h)a(h) et(h) ho(h)nó(h)re(h) co(h)ro(h)nás(h)ti(h) e(h)um,(h) Dó(h)mi(hr)ne.(g_'/hvGF'E!fgf.) (::)
+R/. Et(h) con(h)sti(h)tu(h)ís(h)ti(h) e(h)um(h) su(h)per(h) ó(h)pe(h)ra(h) má(h)nu(h)um(h) tu(h)á(h hr)rum.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 1]
 {name:Iste sanctus;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 1123 & Liber antiphonarius, 1960, p. [15];transcriber:Andrew Hinkley;%%(c4) I(h)ste(gf) San(g_[uh:l]h)ctus(g.) *(,) pro(f_h) le(j)ge(j') De(j)i(j) su(jk)i(j'_) (,) cer(j)tá(ji)vit(h) us(ij)que(hg) ad(fg~) mor(g)tem,(g.) (;) et(f) a(h) ver(jk)bis(k) im(k)pi(k)ó(kj)rum(k) non(klk) tí(j)mu(ij)it :(j.) (:) fun(j')dá(k)tus(i') e(j)nim(h') e(j)rat(gh!ivHG'g) (,) su(e)pra(f) fir(gh)mam(h) pe(g.)tram.(g.) (::)};;8G
@@ -56,7 +63,7 @@ R/. Et(h) con(h)sti(h)tu(h)ís(h)ti(h) e(h)um(h) su(h)per(h) ó(h)pe(h)ra(h) má
 $Per Dominum
 
 [Invit]
-Regem Mártyrum Dóminum, * Veníte, adorémus.
+{name:Regem Martyrum;annotation:4.d.;mode:4;book:Liber Responsorialis, 1895, p. 148;transcriber:faj-munich;%%(c4) Re(cd!ff)gem(f) Már(f)ty(e)rum(fg) Dó(ge)mi(f)num,(deddc) * Ve(ce!fg)ní(g)te,(gh) ad(hvGF)o(g)ré(gvFE)mus.(e) (::)};;4d
 
 [Ant Matutinum]
 In lege Dómini * fuit volúntas ejus die ac nocte.;;1
@@ -70,12 +77,12 @@ Habitábit * in tabernáculo tuo: requiéscet in monte sancto tuo.;;14
 Posuísti, Dómine, * super caput ejus corónam de lápide pretióso.;;20
 
 [Nocturn 2 Versum]
-{initial-style:0;%%(c3) V/. Po(h)su(h)ís(h)ti,(h) Dó(h)mi(h)ne,(h) su(h)per(h) ca(h)put(h) e(h hr)jus.(g_'/hvGFEfgf.) (::)
-R/.  Co(h)ró(h)nam(h) de(h) lá(h)pi(h)de(h) pre(h)ti(h)ó(h hr)so.(g_'/hvGFEfgf.) (::)}
+{initial-style:0;%%(c3) V/. Po(h)su(h)ís(h)ti,(h) Dó(h)mi(h)ne,(h) su(h)per(h) ca(h)put(h) e(h hr)jus.(g_'/hvGF'E!fgf.) (::)
+R/.  Co(h)ró(h)nam(h) de(h) lá(h)pi(h)de(h) pre(h)ti(h)ó(h hr)so.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-{initial-style:0;%%(c3) V/. Ma(h)gna(h) est(h) gló(h)ri(h)a(h) e(h)jus(h) in(h) sa(h)lu(h)tá(h)ri(h) tu(h hr)o.(g_'/hvGFEfgf.) (::)
-R/.  Gló(h)ri(h)am(h) et(h) ma(h)gnum(h) de(h)có(h)rem(h) im(h)pó(h)nes(h) su(h)per(h) e(h hr)um.(g_'/hvGFEfgf.) (::)}
+{initial-style:0;%%(c3) V/. Ma(h)gna(h) est(h) gló(h)ri(h)a(h) e(h)jus(h) in(h) sa(h)lu(h)tá(h)ri(h) tu(h hr)o.(g_'/hvGF'E!fgf.) (::)
+R/.  Gló(h)ri(h)am(h) et(h) ma(h)gnum(h) de(h)có(h)rem(h) im(h)pó(h)nes(h) su(h)per(h) e(h hr)um.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Iste Sanctus pro lege Dei sui certávit usque ad mortem, et a verbis impiórum non tímuit:
@@ -182,8 +189,8 @@ $Deo gratias
 {gabc:Commune/C2/hy--martyr_dei_qui_unicum-TP-octava BMV-solesmes_1934}
 
 [Versum 2]
-{initial-style:0;%%(c3) V/. Jus(h)tus(h) ut(h) pal(h)ma(h) flo(h)ré(h hr)bit.(g_'/hvGFEfgf.) (::)
-R/. Sic(h)ut(h) ce(h)drus(h) Lí(h)ba(h)ni(h) mul(h)ti(h)pli(h)cá(h)bi(hr)tur.(g_'/hvGFEfgf.) (::)}
+{initial-style:0;%%(c3) V/. Jus(h)tus(h) ut(h) pal(h)ma(h) flo(h)ré(h hr)bit.(g_'/hvGF'E!fgf.) (::)
+R/. Sic(h)ut(h) ce(h)drus(h) Lí(h)ba(h)ni(h) mul(h)ti(h)pli(h)cá(h)bi(hr)tur.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 2]
 {name:Qui odit animam suam;annotation:3.a;mode:3;book:The Liber Usualis, 1961, p. 1129 & Liber antiphonarius, 1960, p. [19] & Liber antiphonarius, 1960, p. 577.13;transcriber:Andrew Hinkley;%%(c4) QUI(g) o(gh!jj)dit(j'_) *(,) á(j)ni(ji)mam(hi) su(h)am(g') in(h) hoc(jh) mun(i_[uh:l]j)do,(i.) (;) in(i_[uh:l]j) vi(k)tam(i) ae(ji)tér(hh)nam(g'_[oh:h]) (,) cu(g)stó(hf)dit(gf) e(e.)am.(e.) (::)};;3a
@@ -195,12 +202,9 @@ R/. Sic(h)ut(h) ce(h)drus(h) Lí(h)ba(h)ni(h) mul(h)ti(h)pli(h)cá(h)bi(hr)tur.(
 {(c3) Jus(h)tus(h) cor(h) su(h)um(h) trá(h)di(h)dit(h) ad(h) vi(h)gi(h)lán(h)dum(h) di(h)lú(h)cu(h)lo(h) ad(h) Dó(h)mi(h)num,(h) qui(h) fe(g)cit(f) il(h)lum,(h.) *(;) et(h) in(h) con(h)spéc(h)tu(h) Al(h)tís(h)si(h)mi(h) de(h)pre(h)cá(f)bi(e)tur.(ef..) (::)}
 
 [Responsory Breve Tertia]
-R.br. Glória et honóre * Coronásti eum, Dómine.
-R. Glória et honóre * Coronásti eum, Dómine.
-V. Et constituísti eum super ópera mánuum tuárum.
-R. Coronásti eum, Dómine.
-&Gloria
-R. Glória et honóre * Coronásti eum, Dómine.
+R.br. {gabc:Commune/C2/rb--gloria_et_honore--solesmes_1961.1}
+(sed tempore passionis)
+R.br. {gabc:Commune/C2/rb--gloria_et_honore-passionis-solesmes_1961.1}
 
 [Capitulum Sexta]
 !Sir 15:3
@@ -208,20 +212,14 @@ R. Glória et honóre * Coronásti eum, Dómine.
 $Deo gratias
 
 [Responsory Breve Sexta]
-R.br. Posuísti, Dómine, * Super caput ejus.
-R. Posuísti, Dómine, * Super caput ejus.
-V. Corónam de lápide pretióso.
-R. Super caput ejus.
-&Gloria
-R. Posuísti, Dómine, * Super caput ejus.
+R.br. {gabc:Commune/C2/rb--posuisti_domine--solesmes_1961.1}
+(sed tempore passionis)
+R.br. {gabc:Commune/C2/rb--posuisti_domine-passionis-solesmes_1961.1}
 
 [Responsory Breve Nona]
-R.br. Magna est glória ejus * In salutári tuo.
-R. Magna est glória ejus * In salutári tuo.
-V. Glóriam et magnum decórem impónes super eum.
-R. In salutári tuo.
-&Gloria
-R. Magna est glória ejus * In salutári tuo.
+R.br. {gabc:Commune/C2/rb--magna_est_gloria_ejus--solesmes}
+(sed tempore passionis)
+R.br. {gabc:Commune/C2/rb--magna_est_gloria_ejus-passionis-solesmes}
 
 [Ant 3]
 {name:Qui vult venire;annotation:1.f;mode:1;book:The Liber Usualis, 1961, p. 1128 & Liber antiphonarius, 1960, p. [21];transcriber:Andrew Hinkley;%%(c4) QUI(d) vult(d) ve(dc)ní(f)re(g) post(f!gwh) me,(h.) *(,) áb(ixi_[oh:h]h)ne(g)get(g') se(g)met(g)í(f_h)psum,(g.) (;) et(g) tol(g')lat(g) cru(e')cem(g) su(h_g)am,(f_g) (,) et(e) se(c)quá(d_f)tur(e) me.(d.) (::)};;1f

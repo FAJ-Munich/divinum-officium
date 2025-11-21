@@ -1,0 +1,3 @@
+[Name]
+Margaríta
+Secreta=Margarítæ

@@ -1,5 +1,5 @@
 [Invit]
-Exsúltent in Dómino sancti, * Allelúja.
+{name:Exsultent;annotation:6.;mode:6;book:Liber Responsorialis, 1895, p. 162;transcriber:faj-munich;%%(c4) EX(d)súl(ffg)tent(f) in(f) Dó(g)mi(fe)no(f) San(ixg_0i)cti,(hig'gf.) *(:) Al(f!gh)le(ghFED)lú(fghv/ghg)ja.(gf..) (::)};;6
 
 [Responsory5]
 R. In servis suis, allelúja,

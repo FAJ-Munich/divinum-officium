@@ -1,0 +1,198 @@
+[Ant Vespera]
+Deus, mundi ópifex, * pósuit hóminem ut operarétur et custodíret terram, allelúja.
+Christus, Dei Fílius, * mánibus suis operári dignátus est, allelúja.
+Artem fabri * fidéliter exércens sanctus Joseph, labóris mirábile refúlget exémplar, allelúja.
+Fidélis servus * et prudens, quem constítuit Dóminus super famíliam suam, allelúja.
+Joseph, ópifex sancte, * ópera nostra tuére, allelúja.
+
+[Versum 1]
+{initial-style:0;%%(c3) V/. So(h)lém(h)ni(h)tas(h) est(h) hó(h)di(h)e(h) sanc(h)ti(h) Jo(hi)seph,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)
+R/.Qui(h) má(h)ni(h)bus(h) su(h)is(h) Fí(h)li(h)o(h) De(h)i(h) mi(h)nis(h)trá(hi)vit,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)}
+
+[Ant 1]
+Christus Dóminus * fabri fílius putári dignátus est, allelúja.
+
+[Oratio]
+Rerum cónditor Deus, qui legem labóris humáno géneri statuísti: concéde propítius; ut, sancti Joseph exémplo et patrocínio, ópera perficiámus quæ prǽcipis, et prǽmia consequámur quæ promíttis.
+$Per Dominum
+
+[Invit]
+Regem regum Dóminum, qui putári dignátus est fabri fílius, * Veníte, adorémus, allelúja.
+
+[Hymnus Matutinum]
+v. Te, pater Joseph, ópifex colénde,
+Názaræ felix látitans in umbra,
+Vócibus magnis animísque plenis
+Nocte canémus.
+_
+Régiam stirpem tenuémque victum
+Mente fers æqua tacitúsque portas,
+Sacra dum multo mánuum labóre
+Pígnora nutris.
+_
+O Faber, sanctum spéculum fabrórum,
+Quanta das plebi documénta vitæ,
+Ut labor sudans, ut et officína
+Sanctificétur.
+_
+Qui carent escis, míseros fovéto;
+Témpera effrénos perimásque lites;
+Mýsticus Christus pátriæ sub umbræ
+Tégmine crescat.
+_
+Tu Deus trinus paritérque et unus,
+Qui pater cunctis opiféxque rerum,
+Fac patrem Joseph imitémur actu,
+Morte imitémur. Amen.
+
+[Ant Matutinum]
+Exit homo * ad opus suum, et ad labórem suum usque ad vésperum, allelúja.;;1
+;;2
+;;3
+Jesus, * cum esset trigínta annórum, putabátur fílius Joseph, allelúja.;;4
+;;5
+;;8
+Nonne hic est * fabri fílius? Nonne hic est fílius Joseph? Allelúja.;;14
+;;20
+;;23
+
+[Nocturn 1 Versum]
+V. Glória et exémplar opíficum, sancte Joseph, allelúja.
+R. Cui obedíre vóluit Fílius Dei, allelúja.
+
+[Nocturn 2 Versum]
+V. O magnam dignitátem labóris, allelúja.
+R. Quem Christus sanctificávit, allelúja.
+
+[Nocturn 3 Versum]
+V. Verbum Dei, per quod facta sunt ómnia, allelúja.
+R. Dignátus est operári mánibus suis, allelúja.
+
+[Responsory1]
+R. Sex diébus operáberis et fácies ómnia ópera tua, séptimo autem die sábbatum Dómini Dei tui est:
+* Non fácies omne opus in eo, allelúja.
+V. Sex enim diébus fecit Dóminus cælum et terram, et requiévit in die séptimo.
+R. Non fácies omne opus in eo, allelúja.
+
+[Responsory2]
+R. Pósuit Dóminus Deus hóminem, quem formáverat, in paradísum voluptátis,
+* Ut operarétur illum, allelúja.
+V. Hæc erat condício hóminis ab inítio.
+R. Ut operarétur illum, allelúja.
+
+[Responsory3]
+R. Post peccátum ejécit Deus hóminem de paradíso voluptátis,
+* Ut in labóribus operarétur terram, allelúja.
+V. Et in sudóre vultus tui, dixit Deus, vescéris pane.
+R. Ut in labóribus operarétur terram, allelúja.
+&Gloria
+R. Ut in labóribus operarétur terram, allelúja.
+
+[Responsory4]
+R. Non fácies calúmniam próximo tuo, nec vi ópprimes eum;
+* Non morábitur opus mercenárii tui apud te usque mane, allelúja.
+V. Dignus est enim operárius mercéde sua.
+R. Non morábitur opus mercenárii tui apud te usque mane, allelúja.
+
+[Responsory5]
+R. Dedísti mihi protectiónem salútis tuæ et déxtera tua suscépit me:
+* Protéctor meus et suscéptor meus, allelúja.
+V. Ego protéctor tuus sum et merces tua magna nimis.
+R. Protéctor meus et suscéptor meus, allelúja.
+
+[Responsory6]
+R. Miser sum ego et pauper;
+* Dóminus sollícitus est mei, allelúja.
+V. Labórem mánuum tuárum manducábis et bene tibi erit, allelúja.
+R. Dóminus sollícitus est mei, allelúja.
+&Gloria
+R. Dóminus sollícitus est mei, allelúja.
+
+[Responsory7]
+R. Jesus erat incípiens quasi annórum trigínta,
+* Qui putabátur fílius Joseph, allelúja.
+V. Faber autem erat Joseph, sponsus Vírginis Maríæ, de qua natus est Christus.
+R. Qui putabátur fílius Joseph, allelúja.
+
+[Responsory8]
+R. Unde huic sapiéntia hæc et virtútes? 
+* Nonne hic est fabri fílius? Allelúja.
+V. Ita dicébant in civitáte Názareth.
+R. Nonne hic est fabri fílius? Allelúja.
+&Gloria
+R. Nonne hic est fabri fílius? Allelúja.
+
+[Capitulum Laudes]
+!Col 3:14-15
+v. Fratres: Caritátem habéte, quod est vínculum perfectiónis, et pax Christi exsúltet in córdibus vestris, et grati estóte.
+$Deo gratias
+
+[Hymnus Laudes]
+v. Auróra, solis núntia
+Florúmque mensi prǽvia,
+Fabri sonóram málleo
+Domum salútat Názaræ.
+_
+Salve, caput domésticum,
+Sub quo suprémus Artifex,
+Sudóre salso róridus,
+Exércet artem pátriam.
+_
+Altis locátus sédibus
+Celsǽque Sponsæ próximus,
+Adésto nunc cliéntibus,
+Quos vexat indigéntia.
+_
+Absíntque vis et júrgia,
+Fraus omnis a mercédibus;
+Victus cibíque cópiam
+Mensúret una párcitas.
+_
+O Trinitátis Unitas,
+Joseph precánte, quǽsumus,
+In pace nostros ómnium
+Gressus viámque dírige.
+Amen.
+
+[Versum 2]
+{initial-style:0;%%(c3) V/. O(h)ra(h) pro(h) no(h)bis,(h) sanc(h)te(h) Jo(hi)seph,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)
+R/.La(h)bó(h)rum(h) nos(h)tró(h)rum(h) pro(h)téc(h)tor(h) fi(h)dé(hi)lis,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)}
+
+[Ant 2]
+Descéndit Jesus * cum María et Joseph, et venit Názareth, et erat súbditus illis, allelúja.
+
+[Lectio Prima]
+!Col 3:24
+v. Quodcúmque fácitis, ex ánimo operámini sicut Dómino, et non homínibus, sciéntes quod a Dómino accipiétis retributiónem hereditátis. Dómino Christo servíte.
+
+[Responsory Breve Tertia]
+R.br. Glória et exémplar opíficum, sancte Joseph. * Allelúja, allelúja.
+R. Glória et exémplar opíficum, sancte Joseph. * Allelúja, allelúja.
+V. Cui obedíre vóluit Fílius Dei.
+R. Allelúja, allelúja.
+&Gloria
+R. Glória et exémplar opíficum, sancte Joseph. * Allelúja, allelúja.
+
+[Capitulum Sexta]
+!Col 3:17
+v. Omne quodcúmque fácitis in verbo aut in ópere, ómnia in nómine Dómini Jesu Christi, grátias agéntes Deo et Patri per ipsum.
+$Deo gratias
+
+[Responsory Breve Sexta]
+R.br. O magnam dignitátem labóris, * Allelúja, allelúja.
+R. O magnam dignitátem labóris, * Allelúja, allelúja.
+V. Quem Christus sanctificávit.
+R. Allelúja, allelúja.
+&Gloria
+R. O magnam dignitátem labóris, * Allelúja, allelúja.
+
+[Responsory Breve Nona]
+R.br. Verbum Dei, per quod facta sunt ómnia, * Allelúja, allelúja.
+R. Verbum Dei, per quod facta sunt ómnia, * Allelúja, allelúja.
+V. Dignátus est operári mánibus suis.
+R. Allelúja, allelúja.
+&Gloria
+R. Verbum Dei, per quod facta sunt ómnia, * Allelúja, allelúja.
+
+[Ant 3]
+Et ipse Jesus * erat incípiens quasi annórum trigínta, ut putabátur, fílius Joseph, allelúja.

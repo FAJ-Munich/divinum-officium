@@ -1,0 +1,3 @@
+[Name]
+Emerentiána
+Secreta=Emerentiánæ

@@ -1,0 +1,7 @@
+[Name]
+Alfónsum Maríam
+Ant=Alfónse María
+
+[Oratio]
+Deus, qui per beátum Alfónsum Maríam Confessórem tuum atque Pontíficem, animárum zelo succénsum, Ecclésiam tuam nova prole fecundásti: quǽsumus; ut, ejus salutáribus mónitis edócti et exémplis roboráti, ad te perveníre felíciter valeámus.
+$Per Dominum.

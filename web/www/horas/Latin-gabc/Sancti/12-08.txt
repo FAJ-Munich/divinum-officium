@@ -1,0 +1,178 @@
+[Ant Vespera]
+Tota pulchra * es, María, et mácula originális non est in te.;;109
+Vestiméntum tuum * cándidum quasi nix, et fácies tua sicut sol.;;112
+Tu glória Jerúsalem, * tu lætítia Israël, tu honorificéntia pópuli nostri.;;121
+Benedícta es tu, * Virgo María, a Dómino Deo excélso præ ómnibus muliéribus super terram.;;126
+Trahe nos, * Virgo immaculáta, post te currémus in odórem unguentórum tuórum.;;147
+
+[Versum 1]
+{initial-style:0;%%(c3) V/.Im(h)ma(h)cu(h)lá(h)ta(h) Con(h)cép(h)ti(h)o(h) est(h) hó(h)di(h)e(h) sanc(h)tæ(h) Ma(h)rí(h)æ(h) Vír(h)gi(h)nis.(g_'/hvGF'E!fgf.) (::)
+R/. Quæ(h) ser(h)pén(h)tis(h) ca(h)put(h) vir(h)gí(h)ne(h)o(h) pe(h)de(h) con(h)trí(h)vit.(g_'/hvGF'E!fgf.) (::)}
+(sed tonus solemnis loco hujus versus dicuntur)
+{initial-style:0;%%(c3) V/. Im(h)ma(h)cu(h)lá(h)ta(h) Con(h)cép(h)ti(h)o(h) est(h) hó(hi)di(h)e(h_') (,) sanc(h)tæ(h) Ma(h)rí(f')æ(e) Vír(f_0h)gi(h)nis.(hiHGhih.ghGFE'fggf.) (::)
+R/. Quæ(h) ser(h)pén(h)tis(h) ca(hi)put(h_') (,) vir(h)gí(h)ne(h)o(h) pe(h)de(f') con(e)trí(f_0h)vit.(hiHGhih.ghGFE'fggf.) (::)}
+
+[Ant 1]
+Beátam me dicent * omnes generatiónes, quia fecit mihi magna, qui potens est, allelúja.
+
+[Oratio]
+Deus, qui per immaculátam Vírginis Conceptiónem dignum Fílio tuo habitáculum præparásti: quǽsumus; ut qui ex morte ejúsdem Fílii tui prævísa, eam ab omni labe præservásti, nos quoque mundos ejus intercessióne ad te perveníre concédas.
+$Per eumdem
+
+[Invit]
+Immaculátam Conceptiónem Vírginis Maríæ celebrémus: * Christum ejus Fílium adorémus Dóminum.
+
+[Hymnus Matutinum]
+v. Præclára custos Vírginum,
+Intácta mater Núminis,
+Cæléstis aulæ jánua,
+Spes nostra, cæli gáudium,
+_
+Inter rubéta lílium,
+Colúmba formosíssima,
+Virga e radíce gérminans
+Nostro medélam vúlneri.
+_
+Turris dracóni impérvia,
+Amíca stella náufragis,
+Tuére nos a fráudibus,
+Tuáque luce dírige.
+_
+Erróris umbras díscute,
+Syrtes dolósas ámove,
+Fluctus tot inter, déviis
+Tutam reclúde sémitam.
+_
+Jesu, tibi sit glória,
+Qui natus es de Vírgine,
+Cum Patre, et almo Spíritu,
+In sempitérna sǽcula.
+Amen.
+
+[Ant Matutinum]
+Admirábile est * nomen tuum, Dómine, in univérsa terra, quia in Vírgine María dignum tibi habitáculum præparásti.;;8
+In sole pósuit * Deus tabernáculum suum.;;18
+In Conceptióne sua * accépit María benedictiónem a Dómino, et misericórdiam a Deo salutári suo.;;23
+Diffúsa est * grátia in Conceptióne ejus, et speciósa appáruit inter fílias hóminum.;;44
+Adjúvit eam * Deus mane dilúculo; sanctificávit tabernáculum suum Altíssimus.;;45
+Gloriósa * dicta sunt de te, cívitas Dei: fundávit te Dóminus in móntibus sanctis.;;86
+Sanctimónia et magnificéntia * in Conceptióne ejus: annuntiáte in ómnibus pópulis glóriam ejus.;;95
+Lætámini, omnes, * in Dómino: et confitémini memóriæ sanctitátis ejus.;;96
+Notum fecit * Dóminus opus suum: in conspéctu géntium revelávit glóriam Genetrícis suæ.;;97
+
+[Nocturn 1 Versum]
+V. Deus omnípotens præcínxit me virtúte.
+R. Et pósuit immaculátam viam meam.
+
+[Nocturn 2 Versum]
+V. In hoc cognóvi quóniam voluísti me.
+R. Quóniam non gaudébit inimícus meus super me.
+
+[Nocturn 3 Versum]
+V. Exaltábo te, Dómine, quóniam suscepísti me.
+R. Nec delectásti inimícos meos super me.
+
+[Responsory1]
+R. Per unum hóminem peccátum in hunc mundum intrávit, in quo omnes peccavérunt. 
+* Ne tímeas, María, invenísti grátiam apud Deum.
+V. Erípuit Dóminus ánimam tuam de morte, et contra inimícum factus est protéctor tuus.
+R. Ne tímeas, María, invenísti grátiam apud Deum.
+
+[Responsory2]
+R. Transíte ad me, omnes qui concupíscitis me: 
+* Et narrábo vobis quanta fecit Deus ánimæ meæ.
+V. Vivit Dóminus, quóniam adimplévit in me misericórdiam suam.
+R. Et narrábo vobis quanta fecit Deus ánimæ meæ.
+
+[Responsory3]
+R. Elécta mea cándida sicut nix in Líbano; sicut favus distíllans lábia ejus: 
+* Mel et lac sub lingua illíus.
+V. Veni de Líbano, sponsa mea, veni, coronáberis coróna gratiárum.
+R. Mel et lac sub lingua illíus.
+&Gloria
+R. Mel et lac sub lingua illíus.
+
+[Responsory4]
+R. Ego ex ore Altíssimi prodívi, primogénita ante omnem creatúram: ego feci in cælis, ut orirétur lumen indefíciens. 
+* Nondum erant abýssi, et ego jam concépta eram.
+V. Deus enim creávit me in justítia, et apprehéndit manum meam, et servávit me.
+R. Nondum erant abýssi, et ego jam concépta eram.
+
+[Responsory5]
+R. Nihil inquinátum in eam incúrrit: 
+* Candor est lucis ætérnæ et spéculum sine mácula.
+V. Est enim hæc speciósior sole, et luci comparáta invenítur púrior.
+R. Candor est lucis ætérnæ et spéculum sine mácula.
+
+[Responsory6]
+R. Signum magnum appáruit in cælo: Múlier amícta sole, et luna sub pédibus ejus, 
+* Et in cápite ejus coróna stellárum duódecim.
+V. Induit eam Dóminus vestiméntis salútis, induménto justítiæ, et quasi sponsam ornávit eam monílibus suis.
+R. Et in cápite ejus coróna stellárum duódecim.
+&Gloria
+R. Et in cápite ejus coróna stellárum duódecim.
+
+[Responsory7]
+R. Hortus conclúsus soror mea sponsa, hortus conclúsus, fons signátus: 
+* Emissiónes tuæ paradísus, o María.
+V. Aperi mihi, soror mea, amíca mea, colúmba mea, immaculáta mea.
+R. Emissiónes tuæ paradísus, o María.
+
+[Responsory8]
+R. Magníficat ánima mea Dóminum: 
+* Quia fecit mihi magna qui potens est, et sanctum nomen ejus.
+V. Ecce enim ex hoc beátam me dicent omnes generatiónes.
+R. Quia fecit mihi magna qui potens est, et sanctum nomen ejus.
+&Gloria
+R. Quia fecit mihi magna qui potens est, et sanctum nomen ejus.
+
+[Ant Laudes]
+@:Ant Vespera:s/;;.*//g
+
+[Capitulum Laudes]
+!Prov 8:22-24
+v. Dóminus possédit me in inítio viárum suárum, ántequam quidquam fáceret a princípio. Ab ætérno ordináta sum, et ex antíquis ántequam terra fíeret. Nondum erant abýssi, et ego jam concépta eram.
+$Deo gratias
+
+[Ant 2]
+Ait Dóminus Deus * ad serpéntem: Inimicítias ponam inter te et mulíerem, et semen tuum et semen illíus: ipsa cónteret caput tuum, allelúja.
+
+[Lectio Prima]
+!Apo 12:1
+v. Signum magnum appáruit in cælo: Múlier amícta sole, et luna sub pédibus ejus, et in cápite ejus coróna stellárum duódecim.
+
+[Responsory Breve Tertia]
+R.br. Deus omnípotens * Præcínxit me virtúte.
+R. Deus omnípotens * Præcínxit me virtúte.
+V. Et pósuit immaculátam viam meam.
+R. Præcínxit me virtúte.
+&Gloria
+R. Deus omnípotens * Præcínxit me virtúte.
+
+[Capitulum Sexta]
+!Ezec 44:2-3
+v. Porta hæc clausa erit, non aperiétur, et vir non intrábit per eam, quóniam Dóminus Deus Israël ingréssus est per eam: erítque clausa príncipi. Princeps ipse sedébit in ea.
+$Deo gratias
+
+[Responsory Breve Sexta]
+R.br. In hoc cognóvi, * Quóniam voluísti me.
+R. In hoc cognóvi, * Quóniam voluísti me.
+V. Quóniam non gaudébit inimícus meus super me.
+R. Quóniam voluísti me.
+&Gloria
+R. In hoc cognóvi, * Quóniam voluísti me.
+
+[Responsory Breve Nona]
+R.br. Exaltábo te, Dómine, * Quóniam suscepísti me.
+R. Exaltábo te, Dómine, * Quóniam suscepísti me.
+V. Nec delectásti inimícos meos super me.
+R. Quóniam suscepísti me.
+&Gloria
+R. Exaltábo te, Dómine, * Quóniam suscepísti me.
+
+[Versum Nona]
+V. Immaculáta Concéptio tua, Dei Génetrix Virgo.
+R. Gáudium annuntiávit univérso mundo.
+
+[Ant 3]
+Hódie egréssa est * virga de radíce Jesse: hódie sine ulla peccáti labe concépta est María: hódie contrítum est ab ea caput serpéntis antíqui, allelúja.

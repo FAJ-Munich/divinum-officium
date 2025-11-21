@@ -56,7 +56,7 @@ sub gethymn {
   $hymn =~ s/_\n(?!!)/_\nr. /g;                 # start stropha with red letter
 
   # Change layout of neuma ad Versiculum if Ant. Monast.
-  if ($lang =~ /gabc/ && $version =~ /monastic/i) { $versum =~ s/g\_\d?\'\/hv/g\_0h\//g; }
+  if ($lang =~ /gabc/ && $version =~ /monastic/i) { $versum =~ s/g\_\d?\'\/hv?/g\_0h\//g; }
 
   my $output = "$section\n$hymn";
   $output .= "_\n$versum" if $versum;

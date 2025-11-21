@@ -1,0 +1,6 @@
+[Oratio]
+Deus, qui beátam Hedwígem a sǽculi pompa ad húmilem tuæ crucis sequélam toto corde transíre docuísti: concéde; ut ejus méritis et exémplo discámus peritúras mundi calcáre delícias, et in ampléxu tuæ crucis ómnia nobis adversántia superáre:
+$Qui vivis
+
+[Invit]
+@Commune/C7::s/ N\./ Hedwígis/

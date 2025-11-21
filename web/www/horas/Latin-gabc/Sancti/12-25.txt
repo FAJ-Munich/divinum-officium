@@ -1,16 +1,3 @@
-[Rank]
-In Nativitate Domini;;Duplex I Classis;;6.9
-
-[Rank] (rubrica 1960)
-In Nativitate Domini;;Duplex I Classis;;7
-
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas Horas
-Doxology=Nat
-No commemoratio
-
 [Ant Vespera]
 {name:Rex pacificus;annotation:8 G.;mode:8;book:The Liber Usualis, 1961, p. 364 & Liber antiphonarius, 1960, p. 259;transcriber:Andrew Hinkley;%%(c4) REX(g_[oh:h]) pa(fd)cí(f)fi(fg)cus(g'_[oh:h]) *(,) ma(g)gni(h)fi(g)cá(h')tus(g) est,(f.) (;) cu(g_[oh:h]f~)jus(g_[uh:l]h) vul(j_)tum(ji) de(h)sí(hi)de(h)rat(g.) (,) u(gf)ni(d')vér(f)sa(fg) ter(g.)ra.(g.) (::)};;109;;8G
 Magnificátus est * Rex pacíficus super omnes reges univérsæ terræ.;;110
@@ -70,7 +57,10 @@ Amen.
 {gabc:Tempora/Nativitatis/hy--christe_redemptor_omnium_ex_patre--solesmes_1934}
 
 [Versum 1]
-{initial-style:0;;%%(c3) V/. Crás(h)ti(h)na(h) di(h)e(h) de(h)lé(hi)bi(h)tur(h_') (,) in(h)í(h')qui(f)tas(e) ter(f_0h)ræ.(hiH'G!hih.ghG'FE'fggf.) (::Z)
+{initial-style:0;%%(c3) V/.Crás(h)ti(h)na(h) di(h)e(h) de(h)lé(h)bi(h)tur(h) in(h)í(h)qui(h)tas(h) ter(h)ræ.(g_'/hvGF'E!fgf.) (::)
+R/. Et(h) re(h)gná(h)bit(h) su(h)per(h) nos(h) Sal(h)vá(h)tor(h) mun(h)di.(g_'/hvGF'E!fgf.) (::)}
+(sed tonus solemnis loco hujus versus dicuntur)
+{initial-style:0;%%(c3) V/. Crás(h)ti(h)na(h) di(h)e(h) de(h)lé(hi)bi(h)tur(h_') (,) in(h)í(h')qui(f)tas(e) ter(f_0h)ræ.(hiH'G!hih.ghG'FE'fggf.) (::)
 R/. Et(h) reg(h)ná(h)bit(h) su(hi)per(h) nos(h_') (,) Sal(h)vá(f')tor(e) mun(f_0h)di.(hiH'G!hih.ghG'FE'fggf.) (::)}
 
 [Ant 1]
@@ -82,17 +72,8 @@ Cum ortus fúerit * sol de cælo, vidébitis Regem regum procedéntem a Patre, t
 {(c3) Con(h)cé(h)de,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(;) ut(h) nos(h) U(h)ni(h)gé(h)ni(h)ti(h) tu(h)i(h) no(h)va(h) per(h) car(h)nem(h) Na(h)tí(h)vi(g)tas(f) lí(h)be(h)ret;(h.) *(;) quos(h) sub(h) pec(h)cá(h)ti(h) ju(h)go(h) ve(h)tús(h)ta(h) sér(h)vi(h)tus(h) te(h)net.(d.) (::)}
 $Per eumdem
 
-[Octava 1]
-@:Octava 3
-
 [Invit]
 Christus natus est nobis: * Veníte, adorémus.
-
-[Hymnus Matutinum]
-@:Hymnus Vespera
-
-[HymnusM Matutinum]
-@:HymnusM Vespera
 
 [Ant Matutinum]
 Dóminus dixit * ad me: Fílius meus es tu, ego hódie génui te.;;2
@@ -300,8 +281,11 @@ Amen.
 @:Hymnus Laudes:s/auctor/Auctor/ s/Concépit alvo/Verbo concépit/ s/Enítitur/Eníxa est/ s/ventre Matris/matris alvo/ s/Baptísta clausum/Clausus Joánnes/ s/Et lacte módico/Parvóque lacte/ s/Jesu, tibi sit glória/Glória tibi Dómine/ s/almo/Sancto/
 
 [Versum 2]
-V. Notum fecit Dóminus, allelúja.
-R. Salutáre suum, allelúja.
+{initial-style:0;%%(c3) V/.No(h)tum(h) fe(h)cit(h) Dó(h)mi(h)nus,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/. Sa(h)lu(h)tá(h)re(h) su(h)um,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
+(sed tonus solemnis loco hujus versus dicuntur)
+{initial-style:0;%%(c3) V/. No(h)tum(h) fe(h)cit(h) Dó(hi)mi(h)nus,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)
+R/. Sa(h)lu(h)tá(h)re(h) su(hi)um,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)}
 
 [Ant 2]
 Glória in excélsis Deo, * et in terra pax homínibus bonæ voluntátis, allelúja, allelúja.
@@ -310,8 +294,19 @@ Glória in excélsis Deo, * et in terra pax homínibus bonæ voluntátis, allel�
 !Commemoratio Octavæ Nativitatis
 Ant. Glória in excélsis Deo, et in terra pax homínibus bonæ voluntátis, allelúja, allelúja.
 _
-V. Notum fecit Dóminus, allelúja.
-R. Salutáre suum, allelúja.
+{initial-style:0;%%(c3) V/. No(h)tum(h) fe(h)cit(h) Dó(h)mi(h)nus,(h) al(h)le(h)lú(h)ja.(f.) (::)
+R/. Sa(h)lu(h)tá(h)re(h) su(h)um,(h) al(h)le(h)lú(h)ja.(f.) (::)}
+_
+$Oremus
+v. Concéde, quǽsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet.
+$Per eumdem
+
+[Octava 2] (rubrica cisterciensis)
+!Commemoratio Octavæ Nativitatis
+Ant. Verbum caro factum est, et habitávit in nobis: et vídimus glóriam ejus, glóriam quasi Unigéniti a Patre plenum grátiæ, et veritátis, allelúia, allelúia, allelúia.
+_
+V. Puer natus est nobis.
+R. Fílius datus est nobis.
 _
 $Oremus
 v. Concéde, quǽsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet.
@@ -329,9 +324,6 @@ R. Allelúja, allelúja.
 &Gloria
 R. Verbum caro factum est, * Allelúja, allelúja.
 
-[Versum Tertia]
-@:Nocturn 3 Versum
-
 [Capitulum Sexta]
 !Heb 1:10
 v. Et: Tu in princípio, Dómine, terram fundásti: et ópera mánuum tuárum sunt cæli.
@@ -348,10 +340,6 @@ R. Notum fecit Dóminus, * Allelúja, allelúja.
 [Versum Sexta]
 V. Vidérunt omnes fines terræ, allelúja.
 R. Salutáre Dei nostri, allelúja.
-
-[Capitulum Nona]
-@:Lectio Prima
-$Deo gratias
 
 [Responsory Breve Nona]
 R.br. Vidérunt omnes fines terræ, * Allelúja, allelúja.
@@ -372,12 +360,6 @@ Exórtum est * in ténebris lumen rectis corde: miséricors, et miserátor, et j
 Apud Dóminum * misericórdia, et copiósa apud eum redémptio.;;129
 De fructu * ventris tui ponam super sedem tuam.;;131
 
-[Capitulum Vespera 3]
-@:Capitulum Laudes
-
-[Versum 3]
-@:Versum 2
-
 [Ant 3]
 Hódie * Christus natus est: hódie Salvátor appáruit: hódie in terra canunt Angeli, lætántur Archángeli: hódie exsúltant justi, dicéntes: Glória in excélsis Deo, allelúja.
 
@@ -385,8 +367,8 @@ Hódie * Christus natus est: hódie Salvátor appáruit: hódie in terra canunt 
 !Commemoratio Octavæ Nativitatis
 Ant. Hódie Christus natus est: hódie Salvátor appáruit: hódie in terra canunt Angeli, lætántur Archángeli: hódie exsúltant justi, dicéntes: Glória in excélsis Deo, allelúja.
 _
-V. Notum fecit Dóminus, allelúja.
-R. Salutáre suum, allelúja.
+{initial-style:0;%%(c3) V/. No(h)tum(h) fe(h)cit(h) Dó(h)mi(h)nus,(h) al(h)le(h)lú(h)ja.(f.) (::)
+R/. Sa(h)lu(h)tá(h)re(h) su(h)um,(h) al(h)le(h)lú(h)ja.(f.) (::)}
 _
 $Oremus
 v. Concéde, quǽsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet.

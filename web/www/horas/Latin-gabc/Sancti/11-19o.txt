@@ -1,0 +1,6 @@
+[Name]
+Pontiáni
+(sed communi Summorum Pontificum)
+Pontiánum
+Secreta=Pontiáni
+Postcommunio=Pontiáno

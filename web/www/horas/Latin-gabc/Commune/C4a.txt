@@ -12,7 +12,7 @@
 [Oratio]
 {(c3) De(h)us,(h) qui(h) pó(h)pu(h)lo(h) tu(h)o(h) æ(h)tér(h)næ(h) sa(h)lú(h)tis(h) be(h)á(h)tum(h) N. mi(h)nís(h)trum(h) tri(h)bu(h)í(h)sti:(f.) †(;) præ(h)sta,(h) quǽ(h)su(h)mus;(h) ut,(h) quem(h) Doc(h)tó(h)rem(h) vi(h)tæ(h) ha(h)bú(h)i(h)mus(g) in(f) ter(h)ris,(h.) *(;) in(h)ter(h)ces(h)só(h)rem(h) ha(h)bé(h)re(h) me(h)re(h)á(h)mur(h) in(h) cœ(h)lis.(d.) (::)}
 (sed communi Summorum Pontificum)
-Deus, qui pópulo tuo ætérnæ salútis beátum N. minístrum tribuísti: præsta, quǽsumus; ut, quem Doctórem vitæ habúimus in terris, intercessórem habére mereámur in cælis.
+{(c3) De(h)us,(h) qui(h) pó(h)pu(h)lo(h) tu(h)o(h) æ(h)tér(h)næ(h) sa(h)lú(h)tis(h) be(h)á(h)tum(h) N. mi(h)nís(h)trum(h) tri(h)bu(h)í(h)sti:(f.) †(;) præ(h)sta,(h) quǽ(h)su(h)mus;(h) ut,(h) quem(h) Doc(h)tó(h)rem(h) vi(h)tæ(h) ha(h)bú(h)i(h)mus(g) in(f) ter(h)ris,(h.) *(;) in(h)ter(h)ces(h)só(h)rem(h) ha(h)bé(h)re(h) me(h)re(h)á(h)mur(h) in(h) cæ(h)lis.(d.) (::)}
 $Per Dominum.
 
 [Responsory8]

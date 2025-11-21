@@ -71,11 +71,19 @@ sub process_inline_alleluias {
 # appropriate translation for $lang).
 sub ensure_single_alleluia {
   my ($text_ref, $lang) = @_;
-  if ($lang =~ /gabc/i) { return; }    # TODO: check T.P. (for Antiphones and Versicles)
 
-  # Add a single 'alleluia', unless it's already there.
-  $$text_ref =~ s/\p{P}?\s*$/ ", " . lc(alleluia($lang)) . '.'/e
-    unless $$text_ref =~ /$alleluia_regexp\p{P}?\)?\s*$/ || !$$text_ref;
+  if ($lang =~ /gabc/i) {
+    return
+      unless $$text_ref =~ /\.\(g\_\'\/hv?GF\'?E\!?fgf\.\)\s*\(\:\:\)/
+      && $$text_ref !~ /(?:(?:al|le|l[úu]|\{?[ij]a\}?\.)\(.*?\)){4}/i; # only Antiphonas cum neuma.
+                                                                       # TODO: check T.P. (for Antiphones and Versicles)
+    $$text_ref =~ s/(\.\(g\_\'\/hv?GF\'?E\!?fgf\.\)\s*\(\:\:\))/\,(h\_\') (\,) al(h)le(h)lú(h)ja$1/;
+  } else {
+
+    # Add a single 'alleluia', unless it's already there.
+    $$text_ref =~ s/\p{P}?\s*$/ ", " . lc(alleluia($lang)) . '.'/e
+      unless $$text_ref =~ /$alleluia_regexp\p{P}?\)?\s*$/ || !$$text_ref;
+  }
 }
 
 #*** ensure_double_alleluia($text, $lang)

@@ -1,0 +1,5 @@
+[Name]
+Bernárdum
+(sed rubrica 1570 aut rubrica 1617)
+Bernárdi
+Ant=Bernárde

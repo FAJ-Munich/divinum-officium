@@ -1,0 +1,38 @@
+[Ant 1]
+Astitérunt * justi ante Dóminum, et ab invicem non sunt separáti: cálicem Dómini biberunt, et amici Dei appelláti sunt.
+
+[Oratio]
+Quǽsumus, omnípotens Deus: ut nos gemináta lætítia hodiérnæ festivitátis excípiat, quæ de beatórum Joánnis et Pauli glorificatióne procédit; quos éadem fides et pássio vere fecit esse germános.
+$Per Dominum
+
+[Responsory4_]
+R. Isti sunt duo viri misericórdiæ, qui assístunt ante Dóminum, 
+* Dominatórem univérsæ terræ.
+V. Isti sunt duæ olívæ, et duo candelábra lucéntia ante Dóminum.
+R. Dominatórem univérsæ terræ.
+
+[Responsory5_]
+R. Vidi conjúnctos viros, habéntes spléndidas vestes, et Angelus Dómini locútus est ad me, dicens: 
+* Isti sunt viri sancti facti amíci Dei.
+V. Vidi Angelum Dei fortem, volántem per médium cælum, voce magna clamántem et dicéntem.
+R. Isti sunt viri sancti facti amíci Dei.
+
+[Ant Laudes] (nisi rubrica cisterciensis)
+Paulus et Joánnes * dixérunt Juliáno: Nos unum Deum cólimus, qui fecit cælum et terram.
+Paulus et Joánnes * dixérunt Terentiáno: Si tuus dóminus est Juliánus, habéto pacem cum illo: nobis álius non est, nisi Dóminus Jesus Christus.
+Joánnes et Paulus, * agnoscéntes tyránnidem Juliáni, facultátes suas paupéribus erogáre cœpérunt.
+Sancti spíritus * et ánimæ justórum, hymnum dícite Deo, allelúja.
+Joánnes et Paulus * dixérunt ad Gallicánum: Fac votum Deo cæli, et eris victor mélius quam fuísti.
+
+[Ant 2]
+Isti sunt Sancti, * qui pro Christi amóre minas hóminum contempsérunt: sancti Mártyres in regno cælórum exsúltant cum Angelis. O quam pretiósa est mors Sanctórum, qui assídue assístunt ante Dóminum, et ab ínvicem non sunt separáti!
+
+[Ant Vespera 3] (nisi rubrica cisterciensis)
+Paulus et Joánnes * dixérunt Juliáno: Nos unum Deum cólimus, qui fecit cælum et terram.;;109
+Paulus et Joánnes * dixérunt Terentiáno: Si tuus dóminus est Juliánus, habéto pacem cum illo: nobis álius non est, nisi Dóminus Jesus Christus.;;110
+Joánnes et Paulus, * agnoscéntes tyránnidem Juliáni, facultátes suas paupéribus erogáre cœpérunt.;;111
+Sancti spíritus * et ánimæ justórum, hymnum dícite Deo, allelúja.;;112
+Joánnes et Paulus * dixérunt ad Gallicánum: Fac votum Deo cæli, et eris victor mélius quam fuísti.;;116
+
+[Ant 3]
+Isti sunt * duæ olívæ, et duo candelábra lucéntia ante Dóminum; habent potestátem cláudere cælum núbibus et aperíre portas ejus, quia linguæ eórum claves cæli factæ sunt.

@@ -1,0 +1,8 @@
+[Name]
+Marco
+(sed rubrica 196)
+Marcum
+
+[Oratio] (nisi rubrica 196)
+Exáudi, Dómine, preces nostras: et, interveniénte beáto Marco, Confessóre tuo atque Pontífice, indulgéntiam nobis tríbue placátus et pacem.
+$Per Dominum

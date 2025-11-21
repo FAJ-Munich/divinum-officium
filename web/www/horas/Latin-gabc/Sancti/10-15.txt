@@ -1,0 +1,45 @@
+[Name]
+Terésiæ
+
+[Hymnus Vespera] (nisi rubrica cisterciensis)
+v. Regis supérni núntia,
+Domum patérnam déseris,
+Terris, Terésa, bárbaris
+Christum datúra aut sánguinem.
+_
+Sed te manet suávior
+Mors, pœna poscit dúlcior: 
+Divíni amóris cúspide
+In vulnus icta cóncides.
+_
+O caritátis víctima!
+Tu corda nostra cóncrema,
+Tibíque gentes créditas
+Avérni ab igne líbera.
+_
+Sit laus Patri cum Fílio
+Et Spíritu Paráclito,
+Tibíque, sancta Trínitas,
+Nunc et per omne sǽculum.
+Amen.
+
+[Oratio]
+Exáudi nos, Deus, salutáris noster: ut sicut de beátæ Terésiæ Vírginis tuæ festivitáte gaudémus; ita cæléstis ejus doctrínæ pábulo nutriámur, et piæ devotiónis erudiámur afféctu. 
+$Per Dominum
+
+[Hymnus Laudes] (nisi rubrica cisterciensis)
+v. Hæc est dies, qua cándidæ
+Instar colúmbæ, cǽlitum
+Ad sacra templa spíritus
+Se tránstulit Terésiæ.
+_
+Sponsíque voces áudiit:
+Veni, soror, de vértice
+Carméli ad Agni núptias;
+Veni ad corónam glóriæ.
+_
+Te, Sponse Jesu Vírginum,
+Beáti adórent órdines,
+Et nuptiáli cántico
+Laudent per omne sǽculum.
+Amen.
