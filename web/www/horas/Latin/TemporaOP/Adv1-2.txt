@@ -30,5 +30,5 @@
 @Tempora/Adv1-0:Responsory8:2 s/.*: /R. /
 
 [Ant 2]
-@Tempora/Adv1-1:Ant 3_
+@Tempora/Adv1-1:Ant 3
 

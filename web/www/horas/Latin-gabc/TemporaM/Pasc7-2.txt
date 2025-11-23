@@ -1,9 +1,5 @@
-@Tempora/Pasc7-2
-
-[Ant Matutinum]
-@TemporaM/Pasc7-0::1-6
-@TemporaM/Pasc7-0::14
-@TemporaM/Pasc7-0::8-13
+[Responsory Vespera]
+@TemporaM/Pasc7-1
 
 [Lectio1]
 @Tempora/Pasc7-2::s/ Non.*//s
@@ -18,6 +14,3 @@
 
 [Responsory3]
 @Tempora/Pasc7-3:Responsory1
-
-[Responsory Vespera]
-@TemporaM/Pasc7-1

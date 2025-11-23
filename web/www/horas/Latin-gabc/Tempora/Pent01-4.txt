@@ -12,12 +12,6 @@ Qui pacem * ponit fines Ecclésiæ, fruménti ádipe sátiat nos Dóminus.;;147
 {name:Sicut novellae;annotation:4. E;mode:4;book:Antiphonale Monasticum, 1934, p. 545;transcriber:Dominique CROCHU;%%(c4) SIc(ffe)ut(d) no(f)vél(gh)læ(gf) o(gh)li(gf)vá(e.)rum,(e.) *(;) Ec(e)clé(g_0hi)si(h)æ(h') fí(h)li(gf)i(gh) sint(gv_FE.) (;) in(fe~) cir(de)cú(e)i(dc)tu(c.) men(gf~)sæ(ghg) Dó(fe)mi(de)ni.(e.) (::)};;127;;4E
 {name:Qui pacem;annotation:5.;mode:5;book:Antiphonale Monasticum, 1934, p. 545;transcriber:Dominique CROCHU;%%(c3) QUI(d_f) pa(h)cem(fh/iih.) *(,) po(i_k)nit(j') fi(i)nes(h') Ec(gxg)clé(hi)si(hv_GF)æ,(f.) (;) fru(gxf_g)mén(h>)ti(ge) á(f)di(ed)pe(d_f) (,) sá(hi)ti(h)at(fef) nos(d.) Dó(ef)mi(ed)nus.(d.) (::)};;147;;5
 
-
-[Capitulum Vespera]
-!1 Cor 11:23-24
-{centering-scheme: latin;%%(c3) Fra(h)tres:(h.) (;) E(h)go(h) e(h)nim(h) ac(h)cé(h)pi(h) a(h) Dó(h)mi(h)no(h) quod(h) et(h) trá(h)di(h)di(h) vo(h)bis, †(f.) quón(h)i(h)am(h) Dó(h)mi(h)nus(h) Je(h)sus,(h) in(h) qua(h) noc(h)te(h) tra(h)de(h)bá(h)tur,(h) ac(h)cé(h)pit(h) pa(h)nem,(h) et(h) grá(h)ti(h)as(h) a(h)gens(h) fre(h)git,(g) et(f) di(h)xit:(h.) (;) Ac(h)cí(h)pi(h)te(h) et(h) man(g)du(f)cá(h)te:(h.) (;) hoc(h) est(h) cor(h)pus(h) me(h)um,(h) quod(h) pro(h) vo(h)bis(g) tra(f)dé(h)tur:(h.) (;) * hoc(h) fá(h)ci(h)te(h) in(h) me(h)am(h) com(h)me(h)mo(h)ra(h)ti(h)ó(f)nem.(ef..) (::)}
-$Deo gratias
-
 [Hymnus Vespera]
 {gabc:Tempora/CorpusChristi/hy--pange_lingua..._corporis--solesmes.1}
 (sed rubrica monastica)
@@ -80,16 +74,22 @@ Amen.
 Fructum salutíferum * gustándum dedit Dóminus mortis suæ témpore.;;1
 A fructu fruménti * et vini multiplicáti fidéles in pace Christi requiéscunt.;;4
 Communióne cálicis, * quo Deus ipse súmitur, non vitulórum sánguine, congregávit nos Dóminus.;;15
-V. Panem cæli dedit eis, allelúja.
-R. Panem Angelórum manducávit homo, allelúja.
 Memor sit Dóminus * sacrifícii nostri: et holocáustum nostrum pingue fiat.;;19
 Parátur * nobis mensa Dómini advérsus omnes, qui tríbulant nos.;;22
 In voce exsultatiónis * résonent epulántes in mensa Dómini.;;41
-V. Cibávit illos ex ádipe fruménti, allelúja.
-R. Et de petra, melle saturávit eos, allelúja.
 Introíbo * ad altáre Dei: sumam Christum, qui rénovat juventútem meam.;;42
 Cibávit nos Dóminus * ex ádipe fruménti: et de petra, melle saturávit nos.;;80
 Ex altári tuo, * Dómine, Christum súmimus: in quem cor et caro nostra exsúltant.;;83
+
+[Nocturn 1 Versum]
+V. Panem cæli dedit eis, allelúja.
+R. Panem Angelórum manducávit homo, allelúja.
+
+[Nocturn 2 Versum]
+V. Cibávit illos ex ádipe fruménti, allelúja.
+R. Et de petra, melle saturávit eos, allelúja.
+
+[Nocturn 3 Versum]
 V. Edúcas panem de terra, allelúja.
 R. Et vinum lætíficet cor hóminis, allelúja.
 
@@ -191,6 +191,10 @@ R. Et qui mandúcat me, vivet propter me.
 Sicut, inquit, misit me vivens Pater, et ego vivo propter Patrem: et qui mandúcat me, et ipse vivet propter me. Ac si díceret: Ut ego vivam propter Patrem, id est, ad illum tamquam ad majórem réferam vitam meam, exinanítio mea fecit, in qua me misit: ut autem quisquam vivat propter me, participátio facit, qua mandúcat me. Ego ítaque humiliátus vivo propter Patrem: ille eréctus vivit propter me. Si autem ita dictus est, Vivo propter Patrem, quia ipse de illo, non ille de ipso est; sine detriménto æqualitátis dictum est. Nec tamen dicéndo, Et qui mandúcat me, et ipse vivet propter me; eándem suam et nostram æqualitátem significávit, sed grátiam mediatóris osténdit.
 &teDeum
 
+[Versum 0]
+V. Comédi favum cum melle meo, allelúja.
+R. Bibi vinum meum cum lacte meo, allelúja.
+
 [Ant Laudes]
 Sapiéntia * ædificávit sibi domum, míscuit vinum et pósuit mensam, allelúja.
 Angelórum esca * nutrivísti pópulum tuum, et panem de cælo præstitísti eis, allelúja.
@@ -199,7 +203,9 @@ Sacerdótes sancti * incénsum et panes ófferunt Deo, allelúja.
 Vincénti dabo * manna abscónditum, et nomen novum, allelúja.
 
 [Capitulum Laudes]
-@:Capitulum Vespera
+!1 Cor 11:23-24
+{centering-scheme: latin;%%(c3) Fra(h)tres:(h.) (;) E(h)go(h) e(h)nim(h) ac(h)cé(h)pi(h) a(h) Dó(h)mi(h)no(h) quod(h) et(h) trá(h)di(h)di(h) vo(h)bis, †(f.) quón(h)i(h)am(h) Dó(h)mi(h)nus(h) Je(h)sus,(h) in(h) qua(h) noc(h)te(h) tra(h)de(h)bá(h)tur,(h) ac(h)cé(h)pit(h) pa(h)nem,(h) et(h) grá(h)ti(h)as(h) a(h)gens(h) fre(h)git,(g) et(f) di(h)xit:(h.) (;) Ac(h)cí(h)pi(h)te(h) et(h) man(g)du(f)cá(h)te:(h.) (;) hoc(h) est(h) cor(h)pus(h) me(h)um,(h) quod(h) pro(h) vo(h)bis(g) tra(f)dé(h)tur:(h.) (;) * hoc(h) fá(h)ci(h)te(h) in(h) me(h)am(h) com(h)me(h)mo(h)ra(h)ti(h)ó(f)nem.(ef..) (::)}
+$Deo gratias
 
 [Hymnus Laudes]
 {:H-Verbumsupernum:}v. Verbum supérnum pródiens,
@@ -242,50 +248,31 @@ Ego sum * panis vivus, qui de cælo descéndi: si quis manducáverit ex hoc pane
 
 [Lectio Prima]
 !1 Cor 11:27
-v. Quicúmque manducáverit panem hunc, vel bíberit cálicem Dómini indígne, reus erit córporis et sánguinis Dómini. 
+v. Quicúmque manducáverit panem hunc, vel bíberit cálicem Dómini indígne, reus erit córporis et sánguinis Dómini.
 
-[Capitulum Tertia]
-@:Capitulum Laudes
-
-[Responsory Tertia]
+[Responsory Breve Tertia]
 R.br. Panem cæli dedit eis, * Allelúja, allelúja.
 R. Panem cæli dedit eis, * Allelúja, allelúja.
 V. Panem Angelórum manducávit homo.
 R. Allelúja, allelúja.
 &Gloria
 R. Panem cæli dedit eis, * Allelúja, allelúja.
-_
-V. Cibávit illos ex ádipe fruménti, allelúja.
-R. Et de petra, melle saturávit eos, allelúja.
 
 [Capitulum Sexta]
 !1 Cor 11:26
 v. Quotiescúmque enim manducábitis panem hunc, et cálicem bibétis, mortem Dómini annuntiábitis donec véniat.
 $Deo gratias
 
-[Responsory Sexta]
+[Responsory Breve Sexta]
 R.br. {gabc:Tempora/CorpusChristi/rb--cibavit_illos._i--solesmes_1957.1}
-_
-V. Edúcas panem de terra, allelúja.
-R. Et vinum lætíficet cor hóminis, allelúja.
 
-[Capitulum Nona]
-@:Lectio Prima
-$Deo gratias
-
-[Responsory Nona]
+[Responsory Breve Nona]
 R.br. Edúcas panem de terra, * Allelúja, allelúja.
 R. Edúcas panem de terra, * Allelúja, allelúja.
 V. Et vinum lætíficet cor hóminis.
 R. Allelúja, allelúja.
 &Gloria
 R. Edúcas panem de terra, * Allelúja, allelúja.
-_
-V. Pósuit fines tuos pacem, allelúja.
-R. Et ádipe fruménti sátiat te, allelúja.
-
-[Versum 3]
-@:Versum 1
 
 [Ant 3]
 O sacrum convívium, * in quo Christus súmitur: recólitur memória passiónis ejus: mens implétur grátia: et futúræ glóriæ nobis pignus datur, allelúja.

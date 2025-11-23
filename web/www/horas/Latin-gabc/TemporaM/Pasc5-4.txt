@@ -1,0 +1,45 @@
+[AntMatutinumM]
+Elevámini, * elevámini, portæ æternáles: † et introíbit rex glóriæ, allelúja.;;23
+Exaltábor * in géntibus, et exaltábor in terra, allelúja.;;45
+Læténtur * cæli, et exsúltet terra, † quia venit Dóminus, allelúja.;;95
+
+[Ant Matutinum 3N]
+Illi autem profécti * prædicavérunt ubíque, Dómino cooperánte, et sermónem confirmánte sequéntibus signis, † allelúja, allelúja.
+
+[Responsory4]
+R. Non relínquam vos órphanos allelúja: † vado, et vénio ad vos, allelúja.
+* Et gaudébit, cor vestrum, † allelúja, allelúja.
+V. In illo die vos cognoscétis quia ego sum in Patre meo, et vos in me, et ego in vobis.
+R. Et gaudébit, cor vestrum, † allelúja, allelúja.
+
+[Responsory8]
+R. Ascéndit Deus in jubilatióne, allelúja
+* Et Dóminus in voce tubæ, † allelúja, allelúja.
+V. Ascéndens Christus in altum, captívam duxit captivitátem.
+R. Et Dóminus in voce tubæ, † allelúja, allelúja.
+
+[Responsory11]
+R. Viri Galilǽi, quid admirámini aspiciéntes in cælum? allelúja
+* Quemádmodum vidístis eum ascendéntem in cælum, ita véniet, † allelúja, allelúja, allelúja.
+V. Cumque intueréntur in cælum eúntem illum, † ecce duo viri astitérunt juxta illos in véstibus albis, qui et dixérunt.
+R. Quemádmodum vidístis eum ascendéntem in cælum, ita véniet, † allelúja, allelúja, allelúja.
+
+[MM Capitulum]
+!Ap 5-12
+@Tempora/Pasc0-3:Responsory1:3 s/V./v./
+$Deo gratias
+_
+V. Exaltáre, Dómine, allelúja, in virtúte tua, allelúja.
+R. Cantábimus et psallémus virtútes tuas, allelúja.
+
+[MM LB]
+!He 6:18-20
+v. Confúgimus ad tenéndam propósitam spem, quam sicut ánchoram habémus ánimæ tutam ac firmam, et incedéntem usque ad interióra veláminis, ubi præcúrsor pro nobis introívit Jesus, secúndum órdinem Melchísedech póntifex factus in ætérnum.
+$Tu autem
+_
+R.br. Dóminus in cælo, * Allelúja, allelúja.
+V. Dóminus in cælo, * Allelúja, allelúja.
+R. Parávit sedem suam.
+V. Allelúja, allelúja.
+&Gloria
+V. Dóminus in cælo, * Allelúja, allelúja.

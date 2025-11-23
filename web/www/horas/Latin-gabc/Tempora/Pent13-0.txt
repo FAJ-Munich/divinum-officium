@@ -1,0 +1,10 @@
+[Oratio]
+Omnípotens sempitérne Deus, da nobis fídei, spei et caritátis augméntum: et, ut mereámur ássequi quod promíttis, fac nos amáre quod prǽcipis.
+$Per Dominum
+
+[Ant 2]
+Cum transíret (sed rubrica cisterciensis aut rubrica praedicatorum)
+Cum ingrederétur Jesus * quoddam castéllum, occurrérunt ei decem viri leprósi, qui stetérunt a longe et levavérunt vocem dicéntes: Jesu præcéptor, miserére nostri.
+
+[Ant 3_]
+Unus autem * ex illis, ut vidit quod mundátus est, regréssus est cum magna voce magníficans Deum, allelúja.

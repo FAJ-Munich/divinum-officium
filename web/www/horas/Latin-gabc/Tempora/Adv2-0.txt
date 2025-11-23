@@ -1,22 +1,6 @@
 [Officium]
 Dominica II Adventus
 
-[Rank]
-;;Semiduplex II. classis;;5.6
-
-[Rank] (rubrica 1570 aut rubrica 1888)
-;;Semiduplex II. classis;;6.1
-
-[Rank] (rubrica 196)
-;;Semiduplex;;6.01
-
-[Rule]
-9 lectiones
-Antiphonas horas
-
-[Ant Vespera] (nisi rubrica tridentina)
-@:Ant Laudes
-
 [Ant 1]
 Veni, Dómine, * visitáre nos in pace, ut lætémur coram te corde perfécto.
 
@@ -154,9 +138,6 @@ $Deo gratias
 !Rom 15:13
 v. Deus autem spei répleat vos omni gáudio et pace in credéndo: ut abundétis in spe, et in virtúte Spíritus Sancti.
 $Deo gratias
-
-[Ant Vespera 3]
-@:Ant Laudes
 
 [Ant 3]
 Tu es, qui ventúrus es, * an álium exspectámus? Dícite Joánni quæ vidístis: Ad lumen rédeunt cæci, mórtui resúrgunt, páuperes evangelizántur, allelúja.

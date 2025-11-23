@@ -1,0 +1,23 @@
+[Oratio]
+Omnípotens sempitérne Deus, qui paschále sacraméntum in reconciliatiónis humánæ fœ́dere contulísti: da méntibus nostris; ut quod professióne celebrámus, imitémur efféctu.
+$Per Dominum
+
+[Responsory1]
+R. Surgens Jesus Dóminus noster, stans in médio discipulórum suórum, dixit:
+* Pax vobis, allelúja: gavísi sunt discípuli viso Dómino, allelúja.
+V. Una ergo sabbatórum, cum fores essent clausæ, ubi erant discípuli congregáti, venit Jesus, et stetit in medio eórum, et dixit eis.
+R. Pax vobis, allelúja: gavísi sunt discípuli viso Dómino, allelúja.
+
+[Responsory2]
+R. Expurgáte vetus ferméntum, ut sitis nova conspérsio: étenim Pascha nostrum immolátus est Christus:
+* Itaque epulémur in Dómino, allelúja.
+V. Mórtuus est propter delícta nostra, et resurréxit propter justificatiónem nostram.
+R. Itaque epulémur in Dómino, allelúja.
+&Gloria
+R. Itaque epulémur in Dómino, allelúja.
+
+[Ant 2]
+Undecim discípuli * in Galilǽa vidéntes Dóminum adoravérunt, allelúja.
+
+[Ant 3]
+Data est mihi * omnis potéstas in cælo et in terra, allelúja.

@@ -1,0 +1,309 @@
+[Ant Vespera]
+Jacob autem * génuit Joseph virum Maríæ; de qua natus est Jesus, qui vocátur Christus.;;109
+Angelus Dómini * appáruit in somnis Joseph, dicens: Joseph, fili David, noli timére accípere Maríam cónjugem tuam; quod enim in ea natum est, de Spíritu Sancto est.;;112
+Pastóres venérunt * festinántes, et invenérunt Maríam, et Joseph, et Infántem pósitum in præsépio.;;121
+Magi, intrántes domum, * invenérunt Púerum cum María, matre ejus.;;126
+Erat Pater ejus * et Mater mirántes super his quæ dicebántur de illo.;;147
+
+[Hymnus Vespera]
+v. O lux beáta cǽlitum
+Et summa spes mortálium,
+Jesu, o cui doméstica
+Arrísit orto cáritas:
+_
+María, dives grátia,
+O sola quæ casto potes
+Fovére Jesum péctore,
+Cum lacte donans óscula:
+_
+Tuque ex vetústis pátribus
+Delécte custos Vírginis
+Dulci patris quem nómine 
+Divína Proles ínvocat:
+_
+De stirpe Jesse nóbili
+Nati in salútem géntium,
+Audíte nos qui súpplices
+Vestras ad aras sístimus.
+_
+Dum sol redux ad vésperum
+Rebus nitórem détrahit,
+Nos hic manéntes íntimo
+Ex corde vota fúndimus.
+_
+Qua vestra sedes flóruit
+Virtútis omnis grátia, 
+Hanc detur in domésticis
+Reférre posse móribus.
+_
+Jesu, tuis obédiens
+Qui factus es paréntibus,
+Cum Patre summo ac Spíritu
+Semper tibi sit glória.
+Amen.
+
+[Doxology]
+Jesu, tuis obédiens
+Qui factus es paréntibus,
+Cum Patre summo ac Spíritu
+Semper tibi sit glória.
+Amen.
+
+[Versum 1]
+V. Beáti qui hábitant in domo tua, Dómine.
+R. In sǽcula sæculórum laudábunt te.
+
+[Ant 1]
+Verbum caro * factum est, et habitávit in nobis, plenum grátiæ et veritátis; de cujus plenitúdine omnes nos accépimus, et grátiam pro grátia, allelúja.
+
+[Oratio]
+Dómine Jesu Christe, qui, Maríæ et Joseph súbditus, domésticam vitam ineffabílibus virtútibus consecrásti: fac nos, utriúsque auxílio, Famíliæ sanctæ tuæ exémplis ínstrui; et consórtium cónsequi sempitérnum:
+$Qui vivis
+
+[Commemoratio]
+@Tempora/Epi1-0a:Oratio:s/V\. .*/V. Omnes de Saba vénient, allelúja./ s/R\. .*/R. Aurum et thus deferéntes, allelúja./
+(sed rubrica cisterciensis)
+@Tempora/Epi1-0a:Oratio
+
+[Invit]
+Christum Dei Fílium, Maríæ et Joseph súbditum, * Veníte, adorémus.
+
+[Hymnus Matutinum]
+v. Sacra jam splendent decoráta lychnis
+Templa, jam sertis redimítur ara,
+Et pio fumant redoléntque acérræ
+Thuris honóre.
+_
+Num juvet Summo Géniti Parénte 
+Régios ortus celebráre cantu?
+Num domus David, décora et vetústæ
+Nómina gentis?
+_
+Grátius nobis memoráre parvum
+Názaræ tectum, tenuémque cultum;
+Grátius Jesu tácitam reférre
+Cármine vitam.
+_
+Nili ab extrémis peregrínus oris,
+Angeli ductu, própere remígrat
+Multa perpéssus Puer, et patérno
+Límine sospes,
+_
+Arte, qua Joseph, húmili excoléndus
+Abdito Jesus juvenéscit ævo,
+Seque fabrílis sócium labóris
+Adicit ultro.
+_
+Irriget sudor mea membra, dixit,
+Antequam sparso mádeant cruóre:
+Hæc quoque humáno géneri expiándo
+Pœna luátur.
+_
+Assidet Nato pia Mater almo,
+Assidet Sponso bona nupta, felix
+Si potest curas releváre fessis
+Múnere amíco.
+_
+O neque expértes óperæ et labóris,
+Nec mali ignári, míseros juváte,
+Quos reluctántes per acúta rerum
+Urget egéstas.
+_
+Démite his fastus, quibus ampla splendet
+Fáustitas, mentem date rebus æquam:
+Quotquot implórant cólumen, benígno
+Cérnite vultu.
+_
+Sit tibi, Jesu, decus atque virtus,
+Sancta qui vitæ documénta præbes,
+Quique cum summo Genitóre et almo
+Flámine regnas.
+Amen.
+
+[Ant Matutinum]
+Cum indúcerent * púerum Jesum paréntes ejus, accépit eum Símeon in ulnas suas, et benedíxit Deum.;;8
+Ut perfecérunt * ómnia secúndum legem Dómini, revérsi sunt in Galilǽam in civitátem suam Názareth.;;18
+Puer autem * crescébat, et confortabátur plenus sapiéntia, et grátia Dei erat in illo.;;23
+Consúrgens Joseph * accépit púerum et matrem ejus nocte, et secéssit in Ægýptum.;;44
+Angelus Dómini * appáruit in somnis Joseph in Ægýpto, dicens: Surge et áccipe púerum et matrem ejus, et vade in terram Israël.;;45
+Et véniens * habitávit Názareth, ut adimplerétur quod dictum est per Prophétas: Quóniam Nazarǽus vocábitur.;;86
+Ibant paréntes Jesu * per omnes annos in Jerúsalem in die solémni Paschæ.;;95
+Cum redírent, * remánsit puer Jesus in Jerúsalem, et non cognovérunt paréntes ejus.;;96
+Non inveniéntes Jesum * regréssi sunt in Jerúsalem, requiréntes eum.;;97
+
+[Nocturn 1 Versum]
+V. Propter nos egénus factus est cum esset dives.
+R. Ut illíus inópia nos dívites essémus.
+
+[Nocturn 2 Versum]
+V. Dóminus vias suas docébit nos.
+R. Et ambulábimus in sémitis ejus.
+
+[Nocturn 3 Versum]
+V. Pauper sum ego, et in labóribus a juventúte mea.
+R. Exaltátus autem humiliátus sum, et conturbátus.
+
+[Responsory1]
+R. Deus noster in terris visus est, 
+* Et cum homínibus conversátus est.
+V. Hic adinvénit omnem viam disciplínæ, et trádidit illam Jacob púero suo.
+R. Et cum homínibus conversátus est.
+
+[Responsory2]
+R. Beáti qui hábitant 
+* In domo tua, Dómine.
+V. In sǽcula sæculórum laudábunt te.
+R. In domo tua, Dómine.
+
+[Responsory3]
+R. Débuit per ómnia frátribus assimilári, 
+* Ut miséricors fíeret.
+V. Cum esset Fílius Dei, dídicit ex iis quæ passus est, obediéntiam.
+R. Ut miséricors fíeret.
+&Gloria
+R. Ut miséricors fíeret.
+
+[Responsory4]
+R. Ego autem mendícus sum et pauper: 
+* Dóminus sollícitus est mei.
+V. Labóres mánuum tuárum quia manducábis, beátus es, et bene tibi erit.
+R. Dóminus sollícitus est mei.
+
+[Responsory5]
+R. Vulpes fóveas habent, et vólucres cæli nidos,
+* Fílius autem hóminis non habet ubi caput reclínet.
+V. Pauper sum ego, et in labóribus a juventúte mea.
+R. Fílius autem hóminis non habet ubi caput reclínet.
+
+[Responsory6]
+R. Cum in forma Dei esset, semetípsum exinanívit, 
+* Formam servi accípiens.
+V. Humiliávit semetípsum, factus obédiens usque ad mortem.
+R. Formam servi accípiens.
+&Gloria
+R. Formam servi accípiens.
+
+[Responsory7]
+R. Vere tu es Rex abscónditus, 
+* Deus Israël Salvátor.
+V. Tu doces hóminem sciéntiam.
+R. Deus Israël Salvátor.
+
+[Responsory8]
+R. Sicut per inobediéntiam uníus hóminis peccatóres constitúti sunt multi: 
+* Ita et per uníus obeditiónem justi constituéntur multi.
+V. Venit Názareth et erat súbditus illis.
+R. Ita et per uníus obeditiónem justi constituéntur multi.
+&Gloria
+R. Ita et per uníus obeditiónem justi constituéntur multi.
+
+[Versum 0]
+V. Ecce testem pópulis dedi eum.
+R. Ducem ac praceptórem géntibus.
+
+[Ant Laudes]
+Post tríduum * invenérunt Jesum in templo sedéntem in médio doctórum, audiéntem illos, et interrogántem eos.
+Dixit mater Jesu * ad illum: Fili, quid fecísti nobis sic? Ecce pater tuus et ego doléntes quærebámus te.
+Descéndit Jesus * cum eis, et venit Názareth, et erat súbditus illis.
+Et Jesus proficiébat * sapiéntia, et ætáte, et grátia apud Deum et hómines.
+Et dicébant: * Unde huic sapiéntia hæc, et virtútes? Nonne hic est fabri fílius?
+
+[Capitulum Laudes]
+!Luc 2:51
+v. Descéndit Jesus cum María et Joseph, et venit Názareth: et erat súbditus illis.
+$Deo gratias
+
+[Hymnus Laudes]
+v. O gente felix hóspita,
+Augústa sedes Názaræ,
+Quæ fovit alma Ecclésiæ
+Et prótulit primórdia.
+_
+Sol, qui perérrat áureo
+Terras jacéntes lúmine,
+Nil grátius per sǽcula
+Hac vidit æde, aut sánctius.
+_
+Ad hanc frequéntes cónvolant
+Cæléstis aulæ núntii, 
+Virtútis hoc sacrárium
+Visunt, revísunt, éxcolunt.
+_
+Qua mente Jesus, qua manu,
+Optáta patris pérficit!
+Quo Virgo gestit gáudio
+Matérna obíre múnera!
+_
+Adest amóris párticeps
+Curǽque Joseph cónjugi,
+Quos mille jungit néxibus
+Virtútis auctor grátia.
+_
+Hi diligéntes ínvicem
+In Jesu amórem cónfluunt,
+Utríque Jesus mútuæ
+Dat caritátis prǽmia.
+_
+Sic fiat, ut nos cáritas
+Jungat perénni fœ́dere,
+Pacémque alens domésticam
+Amára vitæ témperet!
+_
+Jesu, tuis obédiens
+Qui factus es paréntibus,
+Cum Patre summo ac Spíritu
+Semper tibi sit glória.
+Amen.
+
+[Versum 2]
+V. Ponam univérsos fílios tuos doctos a Dómino.
+R. Et multitúdinem pacis fíliis tuis.
+
+[Ant 2]
+Illúmina nos, Dómine, * exémplis Famíliæ tuæ, et dírige pedes nostros in viam pacis.
+
+[Lectio Prima]
+!Phil 2:7
+v. Semetípsum exinanívit formam servi accípiens, in similitúdinem hóminum factus, et hábitu invéntus ut homo.
+
+[Versum Prima]
+Qui Maríæ et Joseph súbditus fuísti.
+
+[Responsory Breve Tertia]
+R.br. Propter nos egénus factus est * Cum esset dives.
+R. Propter nos egénus factus est * Cum esset dives.
+V. Ut illíus inópia nos dívites essémus.
+R. Cum esset dives.
+&Gloria
+R. Propter nos egénus factus est * Cum esset dives.
+
+[Capitulum Sexta]
+!Rom 5:19
+v. Sicut per inobediéntiam uníus hóminis peccatóres constitúti sunt multi, ita et per uníus obeditiónem justi constituéntur multi.
+$Deo gratias
+
+[Responsory Breve Sexta]
+R.br. Dóminus vias suas * Docébit nos.
+R. Dóminus vias suas * Docébit nos.
+V. Et ambulábimus in sémitis ejus.
+R. Docébit nos.
+&Gloria
+R. Dóminus vias suas * Docébit nos.
+
+[Responsory Breve Nona]
+R.br. Pauper sum ego, * Et in labóribus a juventúte mea.
+R. Pauper sum ego, * Et in labóribus a juventúte mea.
+V. Exaltátus autem, humiliátus sum et conturbátus.
+R. Et in labóribus a juventúte mea.
+&Gloria
+R. Pauper sum ego, * Et in labóribus a juventúte mea.
+
+[Ant Vespera 3]
+Post tríduum * invenérunt Jesum in templo sedéntem in médio doctórum, audiéntem illos, et interrogántem eos.;;109
+Dixit mater Jesu * ad illum: Fili, quid fecísti nobis sic? Ecce pater tuus et ego doléntes quærebámus te.;;112
+Descéndit Jesus * cum eis, et venit Názareth, et erat súbditus illis.;;121
+Et Jesus proficiébat * sapiéntia, et ætate, et grátia apud Deum et hómines.;;126
+Et dicébant: * Unde huic sapiéntia hæc, et virtútes? Nonne hic est fabri fílius?;;147
+
+[Ant 3]
+María autem * conservábat ómnia verba hæc, cónferens in corde suo.

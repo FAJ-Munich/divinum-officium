@@ -1,0 +1,12 @@
+[Oratio]
+Omnípotens sempitérne Deus, infirmitátem nostram propítius réspice: atque, ad protegéndum nos, déxteram tuæ majestátis exténde.
+$Per Dominum
+
+[Ant 2_]
+Cum descendísset Jesus * de monte, ecce leprósus véniens adorábat eum, dicens: Dómine, si vis, potes me mundáre: et exténdens manum, tétigit eum, dicens: Volo, mundáre.
+
+[Ant 3]
+Dómine, * si vis, potes me mundáre: et exténdens manum, tétigit eum, dicens: Volo, mundáre.
+
+[Ant 3](rubrica 1960)
+Dómine, * si vis, potes me mundáre: et ait Jesus: Volo, mundáre.

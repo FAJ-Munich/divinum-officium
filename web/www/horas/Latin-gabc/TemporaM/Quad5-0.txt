@@ -1,0 +1,12 @@
+[Ant Matutinum 3N]
+Ego * glóriam meam non quæro: † est qui quærat, et júdicet.
+
+[Responsory4]
+@Tempora/Quad5-1:Responsory1
+&Gloria
+@Tempora/Quad5-1:Responsory1:1-2 s/\n/ /
+
+[Responsory8]
+@Tempora/Quad5-1:Responsory2
+&Gloria
+@Tempora/Quad5-1:Responsory2:1-2 s/\n/ /s

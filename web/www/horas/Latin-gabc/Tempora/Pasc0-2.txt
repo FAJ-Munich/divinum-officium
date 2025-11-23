@@ -1,0 +1,28 @@
+[Oratio]
+Deus, qui Ecclésiam tuam novo semper fœtu multíplicas: concéde fámulis tuis; ut sacraméntum vivéndo téneant, quod fide percepérunt.
+$Per Dominum
+
+[Ant Matutinum]
+@Tempora/Pasc0-0::s/^V\..*//sm
+V. Surréxit Dóminus vere, allelúja.
+R. Et appáruit Simóni, allelúja.
+
+[Responsory1]
+R. Virtúte magna reddébant Apóstoli,
+* Testimónium resurrectiónis Jesu Christi Dómini nostri, allelúja, allelúja.
+V. Repléti quidem Spíritu Sancto loquebántur cum fidúcia verbum Dei.
+R. Testimónium resurrectiónis Jesu Christi Dómini nostri, allelúja, allelúja.
+
+[Responsory2]
+R. De ore prudéntis procédit mel, allelúja: dulcédo mellis est sub língua ejus, allelúja:
+* Favus distíllans lábia ejus, allelúja, allelúja.
+V. Sapiéntia requiéscit in corde ejus, et prudéntia in sermóne oris illíus.
+R. Favus distíllans lábia ejus, allelúja, allelúja.
+&Gloria
+R. Favus distíllans lábia ejus, allelúja, allelúja.
+
+[Ant 2]
+Stetit Jesus * in médio discipulórum suórum, et dixit eis: Pax vobis, allelúja, allelúja.
+
+[Ant 3]
+Vidéte manus meas * et pedes meos, quia ego ipse sum, allelúja, allelúja.

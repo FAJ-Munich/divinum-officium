@@ -1,0 +1,106 @@
+[Ant 1]
+Tunc invocábis, * et Dóminus exáudiet: clamábis, et dicet: Ecce adsum.
+
+[Oratio]
+Deus, qui Ecclésiam tuam ánnua quadragesimáli observatióne puríficas: præsta famíliæ tuæ; ut, quod a te obtinére abstinéndo nítitur, hoc bonis opéribus exsequátur.
+$Per Dominum
+
+[Responsory1]
+R. Ecce nunc tempus acceptábile, ecce nunc dies salútis: commendémus nosmetípsos in multa patiéntia, in jejúniis multis,
+* Per arma justítiæ virtútis Dei.
+V. In ómnibus exhibeámus nosmetípsos sicut Dei minístros, in multa patiéntia, in jejúniis multis.
+R. Per arma justítiæ virtútis Dei.
+
+[Responsory2]
+R. In ómnibus exhibeámus nosmetípsos sicut Dei minístros in multa patiéntia:
+* Ut non vituperétur ministérium nostrum.
+V. Ecce nunc tempus acceptábile, ecce nunc dies salútis: commendémus nosmetípsos in multa patiéntia.
+R. Ut non vituperétur ministérium nostrum.
+
+[Responsory3]
+R. In jejúnio et fletu orábunt sacerdótes, dicéntes:
+* Parce, Dómine, parce pópulo tuo; et ne des hereditátem tuam in perditiónem.
+V. Inter vestíbulum et altáre plorábunt sacerdótes, dicéntes.
+R. Parce, Dómine, parce pópulo tuo; et ne des hereditátem tuam in perditiónem.
+&Gloria
+R. Parce, Dómine, parce pópulo tuo; et ne des hereditátem tuam in perditiónem.
+
+[Responsory4]
+R. Emendémus in mélius, quæ ignoránter peccávimus: ne súbito præoccupáti die mortis, quærámus spátium pœniténtiæ, et inveníre non possímus:
+* Atténde, Dómine, et miserére, quia peccávimus tibi.
+V. Adjuva nos, Deus salutáris noster, et propter honórem nóminis tui, Dómine, líbera nos.
+R. Atténde, Dómine, et miserére, quia peccávimus tibi.
+
+[Responsory5]
+R. Derelínquat ímpius viam suam, et vir iníquus cogitatiónes suas, et revertátur ad Dóminum, et miserébitur ejus:
+* Quia benígnus et miséricors est, et præstábilis super malítia Dóminus Deus noster.
+V. Non vult Dóminus mortem peccatóris, sed ut convertátur et vivat.
+R. Quia benígnus et miséricors est, et præstábilis super malítia Dóminus Deus noster.
+
+[Responsory6]
+R. Paradísi portas apéruit nobis jejúnii tempus: suscipiámus illud orántes, et deprecántes:
+* Ut in die resurrectiónis cum Dómino gloriémur.
+V. In ómnibus exhibeámus nosmetípsos sicut Dei minístros in multa patiéntia.
+R. Ut in die resurrectiónis cum Dómino gloriémur.
+&Gloria
+R. Ut in die resurrectiónis cum Dómino gloriémur.
+
+[Responsory7]
+R. Scíndite corda vestra, et non vestiménta vestra: et convertímini ad Dóminum Deum vestrum:
+* Quia benígnus et miséricors est.
+V. Derelínquat ímpius viam suam, et vir iníquus cogitatiónes suas, et revertátur ad Dóminum, et miserébitur ejus.
+R. Quia benígnus et miséricors est.
+
+[Responsory8]
+R. Frange esuriénti panem tuum, et egénos vagósque induc in domum tuam:
+* Tunc erúmpet quasi mane lumen tuum, et anteíbit fáciem tuam justítia tua.
+V. Cum víderis nudum, óperi eum, et carnem tuam ne despéxeris.
+R. Tunc erúmpet quasi mane lumen tuum, et anteíbit fáciem tuam justítia tua.
+
+[Responsory9]
+R. Angelis suis Deus mandávit de te, ut custódiant te in ómnibus viis tuis:
+* In mánibus portábunt te, ne umquam offéndas ad lápidem pedem tuum.
+V. Super áspidem et basilíscum ambulábis, et conculcábis leónem et dracónem.
+R. In mánibus portábunt te, ne umquam offéndas ad lápidem pedem tuum.
+&Gloria
+R. In mánibus portábunt te, ne umquam offéndas ad lápidem pedem tuum.
+
+[Ant Laudes]
+Cor mundum * crea in me Deus, et spíritum rectum ínnova in viscéribus meis.
+O Dómine, * salvum me fac; o Dómine, bene prosperáre.
+Sic benedícam * te in vita mea, Dómine: et in nómine tuo levábo manus meas.
+In spíritu humilitátis, * et in ánimo contríto suscipiámur, Dómine, a te: et sic fiat sacrifícium nostrum, ut a te suscipiátur hódie, et pláceat tibi, Dómine Deus.
+Laudáte Deum * cæli cælórum, et aquæ omnes.
+
+[Capitulum Laudes]
+!2 Cor 6:1-2
+v. Fratres: Hortámur vos, ne in vácuum grátiam Dei recipiátis. Ait enim: Témpore accépto exaudívi te, et in die salútis adjúvi te.
+$Deo gratias
+
+[Ant 2]
+Ductus est Jesus * in desértum a Spíritu, ut tentarétur a diábolo: et cum jejunásset quadragínta diébus et quadragínta nóctibus, póstea esúriit.
+
+[Ant Prima]
+Jesus autem * cum jejunásset quadragínta diébus et quadragínta nóctibus, póstea esúriit.
+
+[Ant Tertia]
+Tunc assúmpsit * eum diábolus in sanctam civitátem, et státuit eum supra pinnáculum templi, et dixit ei: Si Fílius Dei es, mitte te deórsum.
+
+[Ant Sexta]
+Non in solo pane * vivit homo, sed in omni verbo, quod procédit de ore Dei.
+
+[Capitulum Sexta]
+!2 Cor. 6:2-3
+v. Ecce nunc tempus acceptábile, ecce nunc dies salútis: némini dantes ullam offensiónem, ut non vituperétur ministérium nostrum.
+$Deo gratias
+
+[Ant Nona]
+Dóminum Deum tuum * adorábis, et illi soli sérvies.
+
+[Capitulum Nona]
+!2 Cor 6:9-10
+v. Ut castigáti, et non mortificáti: quasi tristes, semper autem gaudéntes: sicut egéntes, multos autem locupletántes tamquam nihil habéntes, et ómnia possidéntes.
+$Deo gratias
+
+[Ant 3]
+Ecce nunc tempus * acceptábile, ecce nunc dies salútis: in his ergo diébus exhibeámus nosmetípsos sicut Dei minístros in multa patiéntia, in jejúniis, in vigíliis, et in caritáte non ficta.

@@ -1,6 +1,3 @@
-[Rank]
-Feria Quinta in Cena Domini;;Feria privilegiata Duplex I classis;;7
-
 [Rule]
 Psalmi minores Dominica
 Antiphonas horas
@@ -11,20 +8,72 @@ Capitulum Versum 2 ad Laudes tantum
 Minores sine Antiphona
 Feria
 
+[Ant Vespera]
+{gabc:tenebrae/an--calicem_salutaris_et_nomen--solesmes};;115;;2
+{gabc:tenebrae/an--cum_his_qui_oderunt--solesmes_1934};;119;;8G
+{gabc:tenebrae/an--ab_hominibus_iniquis--solesmes};;139;;8G
+{gabc:tenebrae/an--custodi_me_a_laqueo--solesmes_1961.1};;140;;7a
+{gabc:tenebrae/an--considerabam_ad_dexteram--solesmes_1961.1};;141;;7a
+
+[Ant Vespera] (rubrica monastica)
+{gabc:tenebrae/an--calicem_salutaris_accipiam_et_nomen--solesmes_1934};;115;;2
+{gabc:tenebrae/an--cum_his_qui_oderunt--solesmes_1934};;119;;8G
+{gabc:tenebrae/an--ab_hominibus_iniquis--solesmes};;139;;8G
+{gabc:tenebrae/an--custodi_me_a_laqueo--solesmes_1961.1};;140;;7a
+{gabc:tenebrae/an--considerabam_ad_dexteram--solesmes_1934};;141;;7a
+
+[Oratio Matutinum]
+v. Réspice, quǽsumus, Dómine, super hanc famíliam tuam, pro qua Dóminus noster Jesus Christus non dubitávit mánibus tradi nocéntium, et crucis subíre torméntum:
+!Et sub silentio concluditur
+$Qui tecum
+
+[Oratio Vespera]
+/:sine cantu:/
+v. Christus factus est pro nobis obédiens usque ad mortem.
+$Pater totum secreto
+!aliquantulum altius
+_
+&psalm(50)
+(sed rubrica 1955 aut rubrica 196 omittitur)
+@Tempora/Quad6-4:Oratio Matutinum
+
+[Oratio]
+{(c4) CHri(ffg)stus(f.) *(,) fa(fg)ctus(f) est(f') pro(f) no(ghF'ED.g_[oh:h]e/fg)bis(f.) (;) ob(f)é(hf/gh!jj/kjk)di(jij)ens(h_g) (,) us(h!jjh)que(f.) ad(ixfiH'Gh) mor(f_[oh:h]g_[oh:h]f_[oh:h])tem.(f.) (::)}
+(sed hora vespera)
+v. Christus factus est pro nobis obédiens usque ad mortem. /:sine cantu:/
+$Pater totum secreto
+!aliquantulum altius
+_
+&psalm(50)
+(sed rubrica 1955 aut rubrica 196 omittitur)
+@:Oratio Matutinum
+
+[Prelude Vespera] (rubrica 1955 aut rubrica 196)
+!Vesperæ ab iis qui Missæ vespertinæ in Cena Domini intersunt, hodie non dicuntur.
+
+[Prelude Vespera] (rubrica 1955 aut rubrica 1960)
+!Vesperæ ab iis qui Missæ vespertinæ in Cena Domini intersunt, hodie non dicuntur.
+
 [Ant Matutinum]
 {gabc:tenebrae/coena/an--zelus_domus_tuae--solesmes_1961.1};;'68,8c'
 {gabc:tenebrae/coena/an--avertantur_retrorsum--solesmes_1961};;'69,8c'
 {gabc:tenebrae/coena/an--deus_meus_eripe_me--solesmes_1961.1};;'70,8c'
-{initial-style:0;%%(c4) V/. A(h)ver(h)tán(h)tur(h) re(h)trór(h)sum,(h) et (h) e(i')ru(h)bé(g.)scant.(g.) (::)}
-{initial-style:0;%%(c4) R/. Qui(h) có(h)gi(h)tant(h) mí(i')hi(h) má(g.)la.(g.) (::)}
 {gabc:tenebrae/coena/an--liberavit_dominus};;'71,7c'
 {gabc:tenebrae/coena/an--cogitaverunt_impii};;'72,8c'
 {gabc:tenebrae/coena/an--exsurge_domine_et_judica};;'73,1g'
-{initial-style:0;%%(c4) V/. De(h)us(h) me(h)us,(h) é(h)ri(h)pe(h) me(h) de(h) ma(h)nu(h) pec(i')ca(h)tó(g.)ris.(g.) (::)}
-{initial-style:0;%%(c4) R/. Et(h) de(h) ma(h)nu(h) con(h)tra(h) le(h)gem(h) a(h)gén(h)tis(h) et(i') in(h)í(g.)qui.(g.) (::)}
 {gabc:tenebrae/coena/an--dixi_iniquis};;'74,7c'
 {gabc:tenebrae/coena/an--terra_tremuit};;'75,8c'
 {gabc:tenebrae/coena/an--in_die_tribulationis};;'76,7a'
+
+[Nocturn 1 Versum]
+{initial-style:0;%%(c4) V/. A(h)ver(h)tán(h)tur(h) re(h)trór(h)sum,(h) et (h) e(i')ru(h)bé(g.)scant.(g.) (::)}
+{initial-style:0;%%(c4) R/. Qui(h) có(h)gi(h)tant(h) mí(i')hi(h) má(g.)la.(g.) (::)}
+
+[Nocturn 2 Versum]
+{initial-style:0;%%(c4) V/. De(h)us(h) me(h)us,(h) é(h)ri(h)pe(h) me(h) de(h) ma(h)nu(h) pec(i')ca(h)tó(g.)ris.(g.) (::)}
+{initial-style:0;%%(c4) R/. Et(h) de(h) ma(h)nu(h) con(h)tra(h) le(h)gem(h) a(h)gén(h)tis(h) et(i') in(h)í(g.)qui.(g.) (::)}
+
+[Nocturn 3 Versum]
 {initial-style:0;%%(c4) V/. Ex(h)súr(i')ge,(h) Dó(g')mi(g.)ne.(g.) (::)}
 {initial-style:0;%%(c4) R/. Et(h) jú(h)di(h)ca(h) cau(i')sam(h) me(g.)am.(g.) (::)}
 
@@ -103,52 +152,8 @@ Feria
 [Ant 2]
 {name:Traditor autem;annotation:1;mode:1;book:The Liber Usualis, 1961, p. 658 & Liber antiphonarius, 1960, p. 434;transcriber:Andrew Hinkley;%%(c4) TRá(f)di(c')tor(d) au(dh)tem(ixh_i) *() de(h')dit(g) e(e')is(f) si(g)gnum,(fe~) di(d.)cens :(d.) (;) Quem(d) o(fe)scu(d)lá(e')tus(f) fú(gh)e(g)ro,(f.) (,) i(f_g)pse(f) est,(c.) (;) te(e)né(g_[oh:h]e)te(f_e) e(d.)um.(d.) (::)};;solemn1g
 
-[Oratio]
-{(c4) CHri(ffg)stus(f.) *(,) fa(fg)ctus(f) est(f') pro(f) no(ghF'ED.g_[oh:h]e/fg)bis(f.) (;) ob(f)é(hf/gh!jj/kjk)di(jij)ens(h_g) (,) us(h!jjh)que(f.) ad(ixfiH'Gh) mor(f_[oh:h]g_[oh:h]f_[oh:h])tem.(f.) (::)}
-(sed hora vespera)
-v. Christus factus est pro nobis obédiens usque ad mortem. /:sine cantu:/
-$Pater totum secreto
-!aliquantulum altius
-_
-&psalm(50)
-(sed rubrica 1955 aut rubrica 196 omittitur)
-@:Oratio Matutinum
-
-[Oratio Matutinum]
-v. Réspice, quǽsumus, Dómine, super hanc famíliam tuam, pro qua Dóminus noster Jesus Christus non dubitávit mánibus tradi nocéntium, et crucis subíre torméntum:
-!Et sub silentio concluditur
-$Qui tecum
-
-[Prelude Vespera] (rubrica 1955 aut rubrica 1960)
-!Vesperæ ab iis qui Missæ vespertinæ in Cena Domini intersunt, hodie non dicuntur.
-
-[Ant Vespera]
-{gabc:tenebrae/an--calicem_salutaris_et_nomen--solesmes};;115;;2
-{gabc:tenebrae/an--cum_his_qui_oderunt--solesmes_1934};;119;;8G
-{gabc:tenebrae/an--ab_hominibus_iniquis--solesmes};;139;;8G
-{gabc:tenebrae/an--custodi_me_a_laqueo--solesmes_1961.1};;140;;7a
-{gabc:tenebrae/an--considerabam_ad_dexteram--solesmes_1961.1};;141;;7a
-
-[Ant Vespera] (rubrica monastica)
-{gabc:tenebrae/an--calicem_salutaris_accipiam_et_nomen--solesmes_1934};;115;;2
-{gabc:tenebrae/an--cum_his_qui_oderunt--solesmes_1934};;119;;8G
-{gabc:tenebrae/an--ab_hominibus_iniquis--solesmes};;139;;8G
-{gabc:tenebrae/an--custodi_me_a_laqueo--solesmes_1961.1};;140;;7a
-{gabc:tenebrae/an--considerabam_ad_dexteram--solesmes_1934};;141;;7a
-
 [Ant 3]
 {name:Coenantibus autem;annotation:1.f;book:Antiphonale Romanum 1949, p. 437;%%(c4) CŒ(d)nán(d_c)ti(f)bus(g) au(fgwhv_)tem,(h_') (,) ac(f)cé(h')pit(j) Je(h)sus(gf) pa(g_0h)nem,(g.) (;) be(g)ne(g')dí(g)xit(e') ac(g) fre(h_g)git,(f_') (,) de(g)dít(e) di(dc)scí(e_0g)pu(e)lis(fe) su(d.)is.(d.) (::)};;solemn1f
-
-[Oratio Vespera]
-/:sine cantu:/
-v. Christus factus est pro nobis obédiens usque ad mortem.
-$Pater totum secreto
-!aliquantulum altius
-_
-&psalm(50)
-(sed rubrica 1955 aut rubrica 196 omittitur)
-@Tempora/Quad6-4:Oratio Matutinum
-
 
 [Special Completorium]
 !Special Completorium

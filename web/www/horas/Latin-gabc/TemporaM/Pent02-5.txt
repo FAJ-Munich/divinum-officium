@@ -1,0 +1,36 @@
+[Ant Vespera]
+@Tempora/Pent02-5::s/115/129/
+
+[Doxology]
+Glória tibi Dómine,
+Qui Corde fundis grátiam,
+Cum Patre, et Sancto Spíritu,
+In sempitérna sǽcula.
+Amen.
+
+[AntMatutinumM]
+Gustáte * et vidéte, quóniam suávis est Dóminus: † beátus vir, qui sperat in eo.;;33
+Dóminus * dabit benignitátem, † loquétur pacem in plebem suam.;;84
+Suávis * et mitis es, Dómine, † et multæ misericórdiæ omnibus invocántibus te.;;85
+Secúndum multitúdinem * dolórum meórum in Corde meo, † consolatiónes tuæ lætificavérunt ánimam meam.;;93
+
+[Ant Matutinum 3N]
+Confitémini Dómino, * et invocáte nomen ejus: † notas fácite in pópulis adinventiónes ejus.
+
+[Responsory3]
+R. Auferam cor lapídeum de carne vestra, et dabo vobis cor cárneum.
+* Et spíritum meum ponam in médio vestri.
+V. Effúndam super vos aquam vivam, et mundabímini ab ómnibus inquinaméntis vestris.
+R. Et spíritum meum ponam in médio vestri.
+
+[Responsory6]
+R. Gratificávit nos Deus in dilécto Fílio suo,
+* In quo habémus redemptiónem per sánguinem ejus, redemptiónem peccatórum.
+V. Det nobis Dóminus illuminátos óculos cordis nostri in agnitióne ejus.
+R. In quo habémus redemptiónem per sánguinem ejus, redemptiónem peccatórum.
+
+[Responsory11]
+R. Sicut diléxit me pater et ego diléxi vos:
+* Manéte in dilectióne mea.
+V. Si præcépta mea servavéritis, manébitis in dilectióne mea, † sicut et ego Patris mei præcépta servávi, et máneo in ejus dilectióne.
+R. Manéte in dilectióne mea.

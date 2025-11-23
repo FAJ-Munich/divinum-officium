@@ -1,16 +1,3 @@
-[Rank]
-Dominica Pentecostes;;Duplex I Classis cum Octava privilegiata I ordinis;;7
-
-[Rule]
-1 Nocturn
-Psalmi Dominica;
-Antiphonas horas
-Special Evangelii Benedictio
-Hymnus Tertia
-Prima=53
-Psalm5 Vespera=116
-Psalm5 Vespera3=113
-
 [Ant Vespera]
 Cum compleréntur * dies Pentecóstes, erant omnes páriter in eódem loco, allelúja.
 Spíritus Dómini * replévit orbem terrárum, allelúja.
@@ -25,18 +12,13 @@ Loquebántur * váriis linguis Apóstoli magnália Dei, allelúja, allelúja, al
 {name:Fontes et omnia;annotation:1. a2;mode:1;book:Antiphonale Monasticum, 1934, p. 521;transcriber:Albert Bloomfield;%%(c4)FOn(d_h)tes,(h') *(,) et(j) óm(h>)ni(gh)a(h'_) quæ(h) mo(g)vén(e_f)tur(g) in(fe) a(d.)quis,(d.) (;) hym(f_d~)num(e_f) dí(g)ci(f)te(f) De(fe)o,(dc) al(d)le(fe)lú(d.)ja.(d.) (::)};;;;1a2
 {name:Loquebantur Ant.;annotation:7. c2;mode:7;book:Antiphonale Monasticum, 1934, p. 521;transcriber:Albert Bloomfield;%%(c3)LO(h_g)que(f)bán(hi~)tur(i.) *</v>(,) vá(i_j_H_'G_)riis(f!gwh) lin(gf)guis(e') A(f)pó(f)sto(e_fED'e)li(ed..) (;) ma(fh~)gná(h_)li(hg)a(fe) De(f)i,(e.) (;) al(h_g~)le(f)lú(hi~)ja,(i.) (,) al(ef~)le(f_e_2/fv_ED)lú(ef~)ja,(f.) (,) al(h>)le(f_g_F'_D_')lú(f>)ja.(e.) (::)};;;;7c2
 
-[Capitulum Vespera]
-!Act. 2:1-2
-{centering-scheme: latin;%%(c3) CUM(h) com(h)ple(h)rén(h)tur(h) di(h)es(h) Pen(h)te(h)cós(h)tes,(h) e(h)rant(h) om(h)nes(h) pá(h)ri(h)ter(h) in(h) e(h)ó(g)dem(f) lo(h)co:(h.) (;) et(h) fac(h)tus(h) est(h) re(h)pén(h)te(h) de(h) cæ(h)lo(h) so(h)nus,(h) tam(h)quam(h) ad(h)ve(h)ni(h)én(h)tis(h) spí(h)ri(h)tus(h) ve(h)he(h)mén(h)tis,(h) et(h) re(h)plé(h)vit(h) to(h)tam(h) do(h)mum(h) u(h)bi(h) e(h)rant(h) se(h)dén(f)tes.(ef..) (::)}
-$Deo gratias
+[Hymnus Vespera]
+!Prima stropha hymni sequentis dicitur flexibus genibus.
+{gabc:Tempora/Pascha/hy--veni_creator_spiritus--solesmes.1}
 
 [HymnusM Vespera]
 !Prima stropha hymni sequentis dicitur flexibus genibus.
 {gabc:Tempora/Pascha/hy--veni_creator_spiritus--solesmes_1934}
-
-[Hymnus Vespera]
-!Prima stropha hymni sequentis dicitur flexibus genibus.
-{gabc:Tempora/Pascha/hy--veni_creator_spiritus--solesmes.1}
 
 [Versum 1]
 {initial-style:0;%%(c3) V/. Re(h)plé(h)ti(h) sunt(h) om(h)nes(h) Spí(h)ri(h)tu(h) San(hi)cto,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::) R/. Et(h) cœ(h)pé(h)runt(h) lo(hi)qui,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
@@ -52,53 +34,6 @@ $Per Dominum eiusdem
 
 [Invit]
 Allelúja, Spíritus Dómini replévit orbem terrárum: * Veníte, adorémus, allelúja.
-
-[HymnusM Matutinum]
-v. Jam Christus astra ascénderat,
-Revérsus unde vénerat,
-Promíssum Patris múnere,
-Sanctum datúrus Spíritum.
-_
-Solémnis urgébat dies,
-Quo mýstico septémplici
-Orbis volútus sépties,
-Signat beáta témpora.
-_
-Cum lucis hora tértia
-Repénte mundus íntonat,
-Orántibus Apóstolis
-Deum venísse núntiat.
-_
-De Patris ergo lúmine
-Decórus ignis almus est,
-Qui fida Christi péctora
-Calóre Verbi cómpleat.
-_
-Impléta gaudent víscera,
-Affláta Sancto Spíritu,
-Vocésque divérsas íntonant,
-Fantur Dei magnália.
-_
-Ex omni gente cógniti,
-Græcis, Latínis, Bárbaris,
-Cunctísque admirántibus,
-Linguis loquúntur ómnium.
-_
-Judǽa tunc incrédula,
-Vesána torvo spíritu,
-Ructáre musti crápulam,
-Alúmnos Christi cóncrepat.
-_
-Sed signis et virtútibus
-Occúrrit, et docet Petrus,
-Falsa profári pérfidos,
-Joéle teste cómprobans.
-_
-Glória Patri Dómino,
-Natóque, qui a mórtuis
-Surréxit, ac Paráclito,
-In sæculórum sǽcula.
-Amen.
 
 [Hymnus Matutinum]
 {:H-JamChristus astra:}v. Jam Christus astra ascénderat,
@@ -147,6 +82,53 @@ Surréxit, ac Paráclito,
 In sæculórum sǽcula.
 Amen.
 
+[HymnusM Matutinum]
+v. Jam Christus astra ascénderat,
+Revérsus unde vénerat,
+Promíssum Patris múnere,
+Sanctum datúrus Spíritum.
+_
+Solémnis urgébat dies,
+Quo mýstico septémplici
+Orbis volútus sépties,
+Signat beáta témpora.
+_
+Cum lucis hora tértia
+Repénte mundus íntonat,
+Orántibus Apóstolis
+Deum venísse núntiat.
+_
+De Patris ergo lúmine
+Decórus ignis almus est,
+Qui fida Christi péctora
+Calóre Verbi cómpleat.
+_
+Impléta gaudent víscera,
+Affláta Sancto Spíritu,
+Vocésque divérsas íntonant,
+Fantur Dei magnália.
+_
+Ex omni gente cógniti,
+Græcis, Latínis, Bárbaris,
+Cunctísque admirántibus,
+Linguis loquúntur ómnium.
+_
+Judǽa tunc incrédula,
+Vesána torvo spíritu,
+Ructáre musti crápulam,
+Alúmnos Christi cóncrepat.
+_
+Sed signis et virtútibus
+Occúrrit, et docet Petrus,
+Falsa profári pérfidos,
+Joéle teste cómprobans.
+_
+Glória Patri Dómino,
+Natóque, qui a mórtuis
+Surréxit, ac Paráclito,
+In sæculórum sǽcula.
+Amen.
+
 [Ant Matutinum]
 Factus est * repénte de cælo sonus adveniéntis spíritus veheméntis, allelúja, allelúja.;;47
 Confírma hoc, Deus, * quod operátus es in nobis: a templo sancto tuo, quod est in Jerúsalem, allelúja, allelúja.;;67
@@ -185,16 +167,15 @@ Et Pater meus díliget eum, et ad eum veniémus, et mansiónem apud eum faciému
 &teDeum
 
 [Capitulum Laudes]
-@:Capitulum Vespera
-
-[HymnusM Laudes]
-{gabc:Tempora/Pascha/hy--beata_nobis_gaudia--solesmes_1934}
+!Act. 2:1-2
+{centering-scheme: latin;%%(c3) CUM(h) com(h)ple(h)rén(h)tur(h) di(h)es(h) Pen(h)te(h)cós(h)tes,(h) e(h)rant(h) om(h)nes(h) pá(h)ri(h)ter(h) in(h) e(h)ó(g)dem(f) lo(h)co:(h.) (;) et(h) fac(h)tus(h) est(h) re(h)pén(h)te(h) de(h) cæ(h)lo(h) so(h)nus,(h) tam(h)quam(h) ad(h)ve(h)ni(h)én(h)tis(h) spí(h)ri(h)tus(h) ve(h)he(h)mén(h)tis,(h) et(h) re(h)plé(h)vit(h) to(h)tam(h) do(h)mum(h) u(h)bi(h) e(h)rant(h) se(h)dén(f)tes.(ef..) (::)}
+$Deo gratias
 
 [Hymnus Laudes]
 {gabc:Tempora/Pascha/hy--beata_nobis_gaudia--solesmes_1961.1}
 
-[Versum 2]
-@:Versum 1
+[HymnusM Laudes]
+{gabc:Tempora/Pascha/hy--beata_nobis_gaudia--solesmes_1934}
 
 [Ant 2]
 Accípite * Spíritum Sanctum: quorum remiséritis peccáta, remittúntur eis, allelúja.
@@ -205,23 +186,18 @@ Accípite * Spíritum Sanctum: quorum remiséritis peccáta, remittúntur eis, a
 !Act. 2:11
 v. Judǽi quoque et Prosélyti, Cretes et Arabes: audívimus eos loquéntes nostris linguis magnália Dei.
 
-[Hymnus Tertia]
-@:Hymnus Vespera
-
 [HymnusM Tertia]
 @:HymnusM Vespera
 
-[Capitulum Tertia]
-@:Capitulum Vespera
-
-[Responsory Tertia]
+[Responsory Breve Tertia]
 R.br. Spíritus Dómini replévit orbem terrárum, * Allelúja, allelúja.
 R. Spíritus Dómini replévit orbem terrárum, * Allelúja, allelúja.
 V. Et hoc quod cóntinet ómnia, sciéntiam habet vocis.
 R. Allelúja, allelúja.
 &Gloria
 R. Spíritus Dómini replévit orbem terrárum, * Allelúja, allelúja.
-_
+
+[Versum Tertia]
 V. Spíritus Paráclitus, allelúja.
 R. Docébit vos ómnia, allelúja.
 
@@ -230,38 +206,29 @@ R. Docébit vos ómnia, allelúja.
 v. Facta autem hac voce, convénit multitúdo, et mente confúsa est, quóniam audiébat unusquísque lingua sua illos loquéntes.
 $Deo gratias
 
-[Responsory Sexta]
+[Responsory Breve Sexta]
 R.br. Spíritus Paráclitus, * Allelúja, allelúja.
 R. Spíritus Paráclitus, * Allelúja, allelúja.
 V. Docébit vos ómnia. 
 R. Allelúja, allelúja.
 &Gloria
 R. Spíritus Paráclitus, * Allelúja, allelúja.
-_
-V. Repléti sunt omnes Spíritu Sancto, allelúja.
-R. Et cœpérunt loqui, allelúja.
 
-[Capitulum Nona]
-@:Lectio Prima
-$Deo gratias
-
-[Responsory Nona]
+[Responsory Breve Nona]
 R.br. Repléti sunt omnes Spíritu Sancto, * Allelúja, allelúja.
 R. Repléti sunt omnes Spíritu Sancto, * Allelúja, allelúja.
 V. Et cœpérunt loqui.
 R. Allelúja, allelúja.
 &Gloria
 R. Repléti sunt omnes Spíritu Sancto, * Allelúja, allelúja.
-_
-V. Loquebántur váriis linguis Apóstoli, allelúja.
-R. Magnália Dei, allelúja.
+
+[Ant Vespera 3]
+@:Ant Vespera:s/;.*//
 
 [Versum 3]
 {initial-style:0;%%(c3) V/. Lo(h)que(h)bán(h)tur(h) vá(h)ri(h)is(h) lin(h)g{ui}s(h) A(h)pó(hi)sto(hr)li,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::) R/. Ma(h)gná(h)li(h)a(h) De(hi)i,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
-
 
 [Ant 3]
 Hódie * compléti sunt dies Pentecóstes, allelúja: hódie Spíritus Sanctus in igne discípulis appáruit, et tríbuit eis charísmatum dona: misit eos in univérsum mundum prædicáre, et testificári: Qui credíderit et baptizátus fúerit, salvus erit, allelúja.
 (sed rubrica monastica)
 {name:Hodie completi sunt;annotation:1. D;mode:1;book:Antiphonale Monasticum, 1934, p. 524;transcriber:Matthias Bry;%%(c4)HO(c)di(cd)e(d_') *(,) com(f>)plé(fe)ti(de) sunt(ddc) di(f_h)es(g_h) Pen(f_g)te(h)có(fe)stes,(dc) al(d_g)le(fe)lú(d.)ja :(d.) (:) hó(dh'1iv)di(h)e(h'_) (,) Spí(h)ri(hg)tus(gf) San(ghg~)ctus(h_/i/ih.) (;) in(d) i(f>)gne(d'_) di(d)scí(dg)pu(f)lis(fe) ap(d)pá(fe)ru(dc)it,(c'_) (,) et(c) trí(d')bu(d)it(e) e(dc)is(c.) cha(f)rís(g)ma(ed)tum(fe~) do(d.)na :(d.) (:) mi(dh'1iv)sit(h) e(hg)os(g_h) in(h) u(h)ni(hg)vér(h)sum(ji~) mun(h_i)dum(h_') (,) præ(h)di(g')cá(h)re(g') et(f) te(e_f)sti(gh)fi(fe)cá(d.)ri :(d.) (;) qui(fe) cre(d)dí(e')de(f)rit,(gh/hg'_,) et(fh/hg) bap(e')ti(g)zá(fe)tus(d) fú(fe)e(dc)rit,(c.) (,) sal(c_d)vus(f_gF'E) e(ggh)rit,(fv_ED'C__) al(d_g)le(fe)lú(d.)ja.(d.) (::)};;solemn1D
-

@@ -1,10 +1,5 @@
-[Rank]
-Feria Secunda infra Hebdomadam Passionis;;Feria major;;2.1
-
 [Rank] (rubrica 1960)
 Feria Secunda infra Hebdomadam Passionis;;Feria major;;3.9
-
-[Rule]
 
 [Lectio1]
 Léctio sancti Evangélii secúndum Joánnem

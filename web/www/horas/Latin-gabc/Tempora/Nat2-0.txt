@@ -1,0 +1,247 @@
+[Ant Vespera]
+Omnis * qui invocáverit nomen Dómini, salvus erit.
+Sanctum et terríbile * nomen ejus, inítium sapiéntiæ timor Dómini.
+Ego autem * in Dómino gaudébo, et exsultábo in Deo Jesu meo.
+A solis ortu * usque ad occásum laudábile nomen Dómini.
+Sacrificábo * hóstiam laudis, et nomen Dómini invocábo.
+
+[Hymnus Vespera]
+v. Jesu, dulcis memória,
+Dans vera cordis gáudia:
+Sed super mel, et ómnia,
+Ejus dulcis præséntia.
+_
+Nil cánitur suávius,
+Nil audítur jucúndius,
+Nil cogitátur dúlcius,
+Quam Jesus Dei Fílius.
+_
+Jesu, spes pœniténtibus,
+Quam pius es peténtibus!
+Quam bonus te quæréntibus!
+Sed quid inveniéntibus?
+_
+Nec lingua valet dícere,
+Nec líttera exprímere:
+Expértus potest crédere,
+Quid sit Jesum dilígere.
+_
+Sis, Jesu, nostrum gáudium,
+Qui es futúrus prǽmium:
+Sit nostra in te glória,
+Per cuncta semper sǽcula.
+Amen.
+
+[Versum 1]
+V. Sit nomen Dómini benedíctum, allelúja.
+R. Ex hoc nunc et usque in sǽculum, allelúja.
+
+[Ant 1]
+Fecit * mihi magna qui potens est, et sanctum Nomen ejus, allelúja.
+
+[Oratio]
+Deus, qui unigénitum Fílium tuum constituísti humáni géneris Salvatórem, et Jesum vocári jussísti: concéde propítius; ut, cujus sanctum nomen venerámur in terris, ejus quoque aspéctu perfruámur in cælis. 
+$Per eumdem
+
+[Invit]
+Admirábile nomen Jesu, quod est super omne nomen, * Veníte, adorémus.
+
+[Hymnus Matutinum]
+v. Jesu, Rex admirábilis,
+Et triumphátor nóbilis,
+Dulcédo ineffábilis,
+Totus desiderábilis.
+_
+Quando cor nostrum vísitas,
+Tunc lucet ei véritas,
+Mundi viléscit vánitas,
+Et intus fervet cáritas.
+_
+Jesu, dulcédo córdium,
+Fons vivus, lumen méntium,
+Excédens omne gáudium,
+Et omne desidérium.
+_
+Jesum omnes agnóscite,
+Amórem ejus póscite:
+Jesum ardénter quǽrite,
+Quæréndo inardéscite.
+_
+Te nostra, Jesu, vox sonet,
+Nostri te mores éxprimant,
+Te corda nostra díligant,
+Et nunc, et in perpétuum.
+Amen.
+
+[Ant Matutinum]
+Dómine, Dóminus noster, * quam admirábile est nomen tuum in univérsa terra!;;8
+In nómine Jesu * omne genu flectátur cæléstium, terréstrium, et infernórum.;;18
+Confitémini * Dómino, et invocáte nomen ejus: mementóte, quóniam excélsum est nomen ejus.;;23
+Mémores erunt * nóminis tui, Dómine, in omni generatióne et generatiónem.;;44
+Magnificáte * Dóminum mecum, et exaltémus nomen ejus in idípsum.;;45
+Omnes gentes, * quascúmque fecísti, vénient, et adorábunt coram te, Dómine, et glorificábunt nomen tuum.;;86
+Cantáte Dómino * et benedícite nómini ejus: annuntiáte de die in diem salutáre ejus.;;95
+Secúndum nomen tuum, * Deus, sic et laus tua in fines terræ: justítia plena est déxtera tua.;;96
+Cantáte Deo, * psalmum dícite nómini ejus: iter fácite ei, qui ascéndit super occásum, Dóminus nomen illi.;;97
+
+[Nocturn 1 Versum]
+V. Propter nomen tuum, Dómine, propitiáberis peccáto meo.
+R. Multum est enim.
+
+[Nocturn 2 Versum]
+V. Propter glóriam nóminis tui, Dómine, líbera nos.
+R. Et propítius esto peccátis nostris propter nomen tuum.
+
+[Nocturn 3 Versum]
+@:Versum Tertia: s/[\,\.] al.*/./ig
+
+[Responsory1]
+R. Ecce concípies, et paries fílium, et vocábis nomen ejus Jesum: 
+* Ipse enim salvum fáciet pópulum suum a peccátis eórum.
+V. Vocátum est nomen ejus Jesus, quod vocátum est ab Angelo, priúsquam in útero conciperétur.
+R. Ipse enim salvum fáciet pópulum suum a peccátis eórum.
+
+[Responsory2]
+R. Benedíctum est nomen tuum, Deus patrum nostrórum, qui cum irátus fúeris, misericórdiæ recordáberis, 
+* Et in témpore tribulatiónis peccáta dimíttis.
+V. Et benedíctum nomen majestátis tuæ in ætérnum, qui facis mirabília solus.
+R. Et in témpore tribulatiónis peccáta dimíttis.
+
+[Responsory3]
+R. Laudábo nomen tuum assídue, 
+* Et collaudábo illud in confessióne.
+V. Lætábor et exsultábo in te: psallam nómini tuo, Altíssime.
+R. Et collaudábo illud in confessióne.
+&Gloria
+R. Et collaudábo illud in confessióne.
+
+[Responsory4]
+R. Sperent in te, qui novérunt nomen tuum: 
+* Quóniam non dereliquísti quæréntes te, Dómine.
+V. Exsúrge, Dómine, ádjuva nos, et líbera nos propter nomen tuum.
+R. Quóniam non dereliquísti quæréntes te, Dómine.
+
+[Responsory5]
+R. Confiteámur nómini tuo magno, 
+* Quóniam terríbile et sanctum est.
+V. Hi in cúrribus, et hi in equis, nos autem in nómine Dómini, Dei nostri, invocábimus.
+R. Quóniam terríbile et sanctum est.
+
+[Responsory6]
+R. Læténtur omnes, qui sperant in te, Dómine, in ætérnum exsultábunt, et habitábis in eis, et gloriabúntur in te omnes, 
+* Qui díligunt nomen tuum.
+V. Dómine, in lúmine vultus tui ambulábunt, et in nómine tuo exsultábunt tota die.
+R. Qui díligunt nomen tuum.
+&Gloria
+R. Qui díligunt nomen tuum.
+
+[Responsory7]
+R. Tribulatiónem et dolórem invéni: 
+* Et nomen Dómini invocávi.
+V. Turris fortíssima nomen Dómini, in ipso sperávi, et adjútus sum.
+R. Et nomen Dómini invocávi.
+
+[Responsory8]
+R. Exspectábo nomen tuum, Dómine, 
+* Quóniam bonum est in conspéctu sanctórum tuórum.
+V. Ut confiteámur nómini sancto tuo, et gloriémur in laude tua.
+R. Quóniam bonum est in conspéctu sanctórum tuórum.
+&Gloria
+R. Quóniam bonum est in conspéctu sanctórum tuórum.
+
+[Versum 0]
+V. Sit nomen Dómini benedictum.
+R. Ex hoc nunc et usque in sǽculum.
+
+[Ant Laudes]
+Oleum effúsum * nomen tuum, ídeo adolescéntulæ dilexérunt te.
+Scitóte, * quia Dóminus ipse est Deus, cujus nomen in ætérnum.
+Sitívit * ánima mea ad nomen sanctum tuum, Dómine.
+Benedíctum * nomen glóriæ tuæ sanctum, et laudábile, et superexaltátum in sǽcula.
+Júvenes et vírgines, * senes cum junióribus laudáte nomen Dómini, quia exaltátum est nomen ejus solíus.
+
+[Capitulum Laudes]
+!Phil 2:8-10
+v. Fratres: Christus humiliávit semetípsum, factus obédiens usque ad mortem, mortem autem crucis. Propter quod et Deus exaltávit illum, et donávit illi nomen, quod est super omne nomen, ut in nómine Jesu omne genu flectátur.
+$Deo gratias
+
+[Hymnus Laudes]
+v. Jesu decus angélicum,
+In aure dulce cánticum,
+In ore mel miríficum,
+In corde nectar cǽlicum.
+_
+Qui te gustant, esúriunt;
+Qui bibunt, adhuc sítiunt;
+Desideráre nésciunt,
+Nisi Jesum, quem díligunt.
+_
+O Jesu mi dulcíssime,
+Spes suspirántis ánimæ!
+Te quærunt piæ lácrimæ,
+Te clamor mentis íntimæ.
+_
+Mane nobíscum, Dómine,
+Et nos illústra lúmine;
+Pulsa mentis calígine,
+Mundum reple dulcédine.
+_
+Jesu, flos Matris Vírginis,
+Amor nostræ dulcédinis,
+Tibi laus, honor nóminis,
+Regnum beatitúdinis.
+Amen.
+
+[Versum 2]
+@:Versum Nona: s/[\,\.] al.*/./ig
+
+[Ant 2]
+Dedit se, * ut liberáret pópulum, et acquíreret sibi nomen ætérnum, allelúja.
+
+[Lectio Prima]
+!Col 3:17
+v. Omne quodcúmque fácitis in verbo, aut in ópere: ómnia in nómine Dómini Jesu Christi fácite, grátias agéntes Deo et Patri per ipsum.
+
+[Responsory Breve Tertia]
+R.br. Sit nomen Dómini benedíctum, * Allelúja, allelúja.
+R. Sit nomen Domini benedíctum, * Allelúja, allelúja.
+V. Ex hoc nunc et usque in sǽculum.
+R. Allelúja, allelúja.
+&Gloria
+R. Sit nomen Dómini benedíctum, * Allelúja, allelúja.
+
+[Versum Tertia]
+V. Afférte Dómino glóriam et honórem, allelúja.
+R. Afférte Dómino glóriam nómini ejus, allelúja.
+
+[Capitulum Sexta]
+!Phil 2:10-11
+v. In nómine Jesu omne genu flectátur cæléstium, terréstrium, et infernórum: et omnis lingua confiteátur, quia Dóminus Jesus Christus in glória est Dei Patris.
+$Deo gratias
+
+[Responsory Breve Sexta]
+R.br. Afférte Dómino glóriam et honórem, * Allelúja, allelúja.
+R. Afférte Dómino glóriam et honórem, * Allelúja, allelúja.
+V. Afférte Dómino glóriam nómini ejus.
+R. Allelúja, allelúja.
+&Gloria
+R. Afférte Dómino glóriam et honórem, * Allelúja, allelúja.
+
+[Versum Sexta]
+V. Magnificáte Dóminum mecum, allelúja.
+R. Et exaltémus nomen ejus in idípsum, allelúja.
+
+[Responsory Breve Nona]
+R.br. Magnificáte Dóminum mecum, * Allelúja, allelúja.
+R. Magnificáte Dóminum mecum, * Allelúja, allelúja.
+V. Et exaltémus nomen ejus in idípsum.
+R. Allelúja, allelúja.
+&Gloria
+R. Magnificáte Dóminum mecum, * Allelúja, allelúja.
+
+[Versum Nona]
+V. Adjutórium nostrum in nomine Dómini, allelúja.
+R. Qui fecit cælum et terram, allelúja.
+
+[Ant 3]
+Vocábis * nomen ejus Jesum; ipse enim salvum fáciet pópulum suum a peccátis eórum, allelúja.

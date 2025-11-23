@@ -1,0 +1,82 @@
+[Ant 1]
+Módicum * et non vidébitis me, dicit Dóminus: íterum módicum, et vidébitis me, quia vado ad Patrem, allelúja, allelúja.
+
+[Oratio]
+Deus, qui errántibus, ut in viam possint redíre justítiæ, veritátis tuæ lumen osténdis: da cunctis, qui christiána professióne censéntur, et illa respúere, quæ huic inimíca sunt nómini; et ea, quæ sunt apta, sectári.
+$Per Dominum
+
+[Commemoratio]
+!Commemoratio pro Octava S. Joseph
+@Tempora/Pasc2-3:Oratio
+
+[Responsory1]
+R. Dignus es, Dómine, accípere librum, et aperíre signácula ejus, allelúja: quóniam occísus es, et redemísti nos Deo 
+* In sánguine tuo, allelúja.
+V. Fecísti enim nos Deo nostro regnum et sacerdótium.
+R. In sánguine tuo, allelúja.
+
+[Responsory2]
+R. Ego sicut vitis fructificávi suavitátem odóris, allelúja: 
+* Transíte ad me, omnes qui concupíscitis me, et a generatiónibus meis adimplémini, allelúja, allelúja.
+V. In me omnis grátia viæ et veritátis: in me omnes spes vitæ et virtútis.
+R. Transíte ad me, omnes qui concupíscitis me, et a generatiónibus meis adimplémini, allelúja, allelúja.
+
+[Responsory3]
+R. Audívi vocem de cælo, tamquam vocem tonítrui magni, allelúja: Regnábit Deus noster in ætérnum, allelúja: 
+* Quia facta est salus, et virtus, et potéstas Christi ejus, allelúja, allelúja. 
+V. Et vox de throno exívit, dicens: Laudem dícite Deo nostro, omnes Sancti ejus, et qui timétis Deum, pusílli et magni.
+R. Quia facta est salus, et virtus, et potéstas Christi ejus, allelúja, allelúja. 
+&Gloria
+R. Quia facta est salus, et virtus, et potéstas Christi ejus, allelúja, allelúja.
+
+[Responsory4]
+R. Locútus est ad me unus ex septem Angelis, dicens: Veni, osténdam tibi novam nuptam, sponsam Agni: 
+* Et vidi Jerúsalem descendéntem de cælo, ornátam monílibus suis, allelúja, allelúja, allelúja.
+V. Et sústulit me in spíritu in montem magnum et altum.
+R. Et vidi Jerúsalem descendéntem de cælo, ornátam monílibus suis, allelúja, allelúja, allelúja.
+
+[Responsory5]
+R. Audívi vocem in cælo Angelórum multórum dicéntium: 
+* Timéte Dóminum, et date claritátem illi, et adoráte eum, qui fecit cælum et terram, mare et fontes aquárum, allelúja, allelúja.
+V. Vidi Angelum Dei fortem, volántem per médium cæli, voce magna clamántem et dicéntem.
+R. Timéte Dóminum, et date claritátem illi, et adoráte eum, qui fecit cælum et terram, mare et fontes aquárum, allelúja, allelúja.
+
+[Responsory6]
+R. Véniens a Líbano quam pulchra facta est, allelúja: 
+* Et odor vestimentórum ejus super ómnia arómata, allelúja, allelúja.
+V. Favus distíllans lábia ejus, mel et lac sub lingua ejus.
+R. Et odor vestimentórum ejus super ómnia arómata, allelúja, allelúja.
+&Gloria
+R. Et odor vestimentórum ejus super ómnia arómata, allelúja, allelúja.
+
+[Responsory7]
+R. Decantábat pópulus Israël, allelúja: et univérsa multitúdo Jacob canébat legítime: 
+* Et David cum cantóribus cítharam percutiébat in domo Dómini, et laudes Deo canébat, allelúja, allelúja.
+V. Sanctificáti sunt ergo sacerdótes et levítæ: et univérsus Israël deducébat arcam fœ́deris Dómini in júbilo.
+R. Et David cum cantóribus cítharam percutiébat in domo Dómini, et laudes Deo canébat, allelúja, allelúja.
+
+[Responsory8]
+R. Tristítia vestra, allelúja, 
+* Convertétur in gáudium, allelúja, allelúja.
+V. Mundus autem gaudébit, vos vero contristabímini, sed tristítia vestra.
+R. Convertétur in gáudium, allelúja, allelúja.
+&Gloria
+R. Convertétur in gáudium, allelúja, allelúja.
+
+[Capitulum Laudes]
+!1 Pet 2:11
+v. Caríssimi: Obsecro vos tamquam ádvenas et peregrínos abstinére vos a carnálibus desidériis, quæ mílitant advérsus ánimam.
+$Deo gratias
+
+[Capitulum Sexta]
+!1 Pet 2:13-14
+v. Subjécti ígitur estóte omni humánæ creatúræ propter Deum: sive regi quasi præcellénti: sive dúcibus tamquam ab eo missis ad vindíctam malefactórum, laudem vero bonórum.
+$Deo gratias
+
+[Capitulum Nona]
+!1 Pet 2:18-19
+v. Servi, súbditi estóte in omni timóre dóminis, non tantum bonis et modéstis, sed étiam dýscolis. Hæc est enim grátia in Christo Jesu Dómino nostro.
+$Deo gratias
+
+[Ant 3]
+Amen dico vobis, * quia plorábitis et flébitis vos: mundus autem gaudébit, vos vero contristabímini, sed tristítia vestra convertétur in gáudium, allelúja.

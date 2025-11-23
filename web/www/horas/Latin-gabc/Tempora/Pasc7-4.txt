@@ -1,9 +1,3 @@
-[Rank]
-Feria Quinta infra octavam Pentecostes;;Semiduplex I classis;;6.9;;ex Pasc7-0
-
-[Rank] (rubrica 1960)
-Die Quinta infra octavam Pentecostes;;Semiduplex I classis;;6;;ex Pasc7-0
-
 [Rule]
 ex Pasc7-0;
 1 nocturn;
@@ -43,17 +37,14 @@ R. Et repléti sunt omnes Spíritu Sancto, et cœpérunt loqui váriis linguis, 
 Sed hæc, ut secúndum lítteram de hospítii religióne venerábilis est forma præcépti: ita étiam de mystério senténtia cæléstis arrídet. Etenim cum domus elígitur, dignus hospes inquíritur. Videámus ígitur, ne forte Ecclésia præferénda designétur, et Christus. Quæ enim dígnior domus apostólicæ prædicatiónis ingréssu, quam sancta Ecclésia? Aut quis præferéndus magis ómnibus vidétur esse quam Christus, qui pedes suis laváre consuévit hospítibus: et quoscúmque sua recéperit domo, pollútis non patiátur habitáre vestígiis; sed maculósos licet vitæ prióris, in réliquum tamen dignétur mundáre procéssus? Hic est ígitur solus, quem nemo debet desérere, nemo mutáre. Cui bene dícitur: Dómine, ad quem íbimus? verba vitæ ætérnæ habes, et nos crédimus.
 &teDeum
 
-[Ant 2]
-Convocátis Jesus * duódecim discípulis suis, dedit illis virtútem et potestátem super ómnia dæmónia, et ut languóres curárent: et misit illos prædicáre regnum Dei, et sanáre infírmos, allelúja.
-
-[Oratio]
-@Tempora/Pasc7-0:Oratio
-
-[Ant 3]
-Spíritus, * qui a Patre procédit, allelúja: ille me clarificábit, allelúja, allelúja.
-
 [Versum 2]
 @Tempora/Pasc7-1
 
+[Ant 2]
+Convocátis Jesus * duódecim discípulis suis, dedit illis virtútem et potestátem super ómnia dæmónia, et ut languóres curárent: et misit illos prædicáre regnum Dei, et sanáre infírmos, allelúja.
+
 [Versum 3]
 @Tempora/Pasc7-1
+
+[Ant 3]
+Spíritus, * qui a Patre procédit, allelúja: ille me clarificábit, allelúja, allelúja.

@@ -1,24 +1,11 @@
 [Officium]
 Dominica I Adventus
 
-[Rank]
-;;Semiduplex;;6.9
-
-[Rule]
-9 lectiones
-Antiphonas horas
-
-[Ant Vespera] (nisi rubrica tridentina)
-@:Ant Laudes
-
 [Responsory Vespera 1] (rubrica cisterciensis)
 Responsorium. Missus est Gábriel Angelus ad Maríam Vírginem desponsátam Joseph, núntians ei verbum; et expavéscit Virgo de lúmine: ne tímeas, María, invenísti grátiam apud Dóminum: 
 * Ecce concípies, et páries, et vocábitur Altíssimi Fílius.
 V. Dabit ei Dóminus Deus sedem David, patris ejus, et regnábit in domo Jacob in ætérnum.
 R. Ecce concípies, et páries, et vocábitur Altíssimi Fílius. 
-
-[Versum 1]
-@Psalterium/Special/Major Special:Adv Versum 3
 
 [Ant 1]
 Ecce nomen Dómini * venit de longínquo, et cláritas ejus replet orbem terrárum.
@@ -145,16 +132,10 @@ $Deo gratias.
 [Ant 2]
 Spíritus Sanctus * in te descéndet, María: ne tímeas, habébis in útero Fílium Dei, allelúja.
 
-[Capitulum Sexta]
-@Psalterium/Special/Major Special:Feria Laudes
-
 [Capitulum Nona]
 !Rom 13:13-14
 v. Sicut in die honéste ambulémus, non in comessatiónibus et ebrietátibus, non in cubílibus et impudicítiis, non in contentióne et æmulatióne; sed induímini Dóminum Jesum Christum.
 $Deo gratias
-
-[Ant Vespera 3]
-@:Ant Laudes
 
 [Ant 3]
 Ne tímeas, María, * invenísti enim grátiam apud Dóminum: ecce concípies, et páries fílium, allelúja.

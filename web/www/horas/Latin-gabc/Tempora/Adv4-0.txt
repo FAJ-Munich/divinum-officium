@@ -1,22 +1,6 @@
 [Officium]
 Dominica IV Adventus
 
-[Rank]
-;;Semiduplex II. classis;;5.6
-
-[Rank] (rubrica 1570 aut rubrica 1888)
-;;Semiduplex II. classis;;6.1
-
-[Rank] (rubrica 196)
-;;Semiduplex;;6.01
-
-[Rule]
-9 lectiones
-Antiphonas horas
-
-[Ant Vespera] (nisi rubrica tridentina)
-@:Ant Laudes
-
 [Oratio]
 Excita, quǽsumus, Dómine, poténtiam tuam, et veni: et magna nobis virtúte succúrre; ut per auxílium grátiæ tuæ, quod nostra peccáta præpédiunt, indulgéntia tuæ propitiatiónis accéleret:
 $Qui vivis
@@ -152,6 +136,3 @@ $Deo gratias
 !1 Cor 4:5
 v. Itaque nolíte ante tempus judicáre, quoadúsque véniat Dóminus: qui et illuminábit abscóndita tenebrárum, et manifestábit consília córdium: et tunc laus erit unicuíque a Deo.
 $Deo gratias
-
-[Ant Vespera 3]
-@:Ant Laudes
