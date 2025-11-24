@@ -1,12 +1,3 @@
-[Officium]
-Dominica I Adventus
-
-[Responsory Vespera 1] (rubrica cisterciensis)
-Responsorium. Missus est Gábriel Angelus ad Maríam Vírginem desponsátam Joseph, núntians ei verbum; et expavéscit Virgo de lúmine: ne tímeas, María, invenísti grátiam apud Dóminum: 
-* Ecce concípies, et páries, et vocábitur Altíssimi Fílius.
-V. Dabit ei Dóminus Deus sedem David, patris ejus, et regnábit in domo Jacob in ætérnum.
-R. Ecce concípies, et páries, et vocábitur Altíssimi Fílius. 
-
 [Ant 1]
 Ecce nomen Dómini * venit de longínquo, et cláritas ejus replet orbem terrárum.
 

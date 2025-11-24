@@ -7,12 +7,6 @@
 Deus, qui conspicis, quia nos undique mala nostra perturbant: præsta, quǽsumus; ut beáti Joánnis Apóstoli tui et Evangelistæ intercéssio gloriósa nos prótegat.
 $Per Dominum
 
-[Lectio2]
-@Sancti/12-27:Lectio2
-
-[Lectio3]
-@Sancti/12-27:Lectio3
-
 [Lectio4]
 Ex libro sancti Hierónymi Presbýteri contra Jovinianum.
 !Liber 1, n. 26

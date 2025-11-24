@@ -106,9 +106,6 @@ R. Immolábit hædum multitúdo filiórum Israël ad vésperam Paschæ:
 V. Pascha nostrum immolátus est Christus: ítaque epulémur in ázymis sinceritátis et veritátis.
 R. Et edent carnes et ázymos panes.
 
-[Lectio2]
-@Tempora/Quad6-4:Lectio8
-
 [Responsory2]
 R. Comedétis carnes, et saturabímini pánibus:
 * Iste est panis, quem dedit vobis Dóminus ad vescéndum.

@@ -1,6 +1,3 @@
-[Officium]
-Dominica Resurrectionis
-
 [Ant 1]
 {gabc:Tempora/Pascha/an--vespere_autem_sabbati--solesmes};;8G
 
@@ -100,8 +97,3 @@ Ant. {gabc:Tempora/Pascha/an--haec_dies_quam_fecit--solesmes}
 [Ant 43]
 {(c4) Al(g)le(g')lú(h)ja,(f') al(h)le(j)lú(j_0k)ja,(ji!jkj.) (,) al(h)le(j)lú(i_0j)ja,(h_GF) al(gh)le(h)lú(g.)ja.(g.) (::)};;in-directum
 {gabc:Tempora/Pascha/an--haec_dies_quam_fecit--solesmes}
-
-[Prelude Matutinum] (rubrica 1955 aut rubrica 1960)
-!Cum solemnis vigiliæ paschalis celebratio locum obtineat officii nocturni dominicæ Resurrectionis, Matutino ejusdem dominicæ Resurrectionis omisso, statim inter Missarum vigiliæ solemnia, post communionem, cantatur Laudes. Officium dominicæ Resurrectionis prosequitur deínde cum Prima.
-_
-!Qui vero solemni vigiliæ paschali non interfuerunt, tenentur dicere Matutinum et Laudes dominicæ Resurrectionis.

@@ -1,6 +1,3 @@
-[Rank](rubrica 1955 aut rubrica 1960)
-Dominica I Passionis;;I classis Semiduplex;;6
-
 [Lectio1]
 Incipit liber Jeremíæ Prophétæ
 !Jer 1:1-6

@@ -14,15 +14,6 @@ $Oremus
 v. Propitiáre, quǽsumus, Dómine, animábus ómnium famulórum famularúmque tuárum, pro quibus majestátem tuam supplíciter exorámus: ut, per hæc piæ deprecatiónis offícia, perveníre mereántur ad réquiem sempitérnam.
 $Per Dominum
 
-[Lectio1]
-@Commune/C9
-
-[Lectio2]
-@Commune/C9:Lectio5
-
-[Lectio3]
-@Commune/C9:Lectio8
-
 [Lectio4]
 Ex Libro sancti Augustíni Epíscopi de cura pro mórtuis gerénda
 !Cap 2 et 3

@@ -1,15 +1,3 @@
-[Rank] (rubrica 1960)
-In Ascensione Domini;;Duplex I classis;;7
-
-[Rule]
-Psalmi Dominica
-Antiphonas horas
-Duplex
-9 Lectiones
-Doxology=Asc
-Psalm5 vespera=116
-No Commemoratio
-
 [Ant Vespera]
 Viri Galilǽi, * quid aspícitis in cælum? Hic Jesus qui assúmptus est a vobis in cælum, sic véniet, allelúja.
 Cumque intueréntur * in cælum eúntem illum, dixérunt, allelúja.

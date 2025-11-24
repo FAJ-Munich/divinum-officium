@@ -1,12 +1,3 @@
-[Rank] (rubrica 1960)
-Dominica post Ascensionem;;Semiduplex;;5;;vide Tempora/Pasc5-4
-
-[Rule]
-ex Tempora/Pasc5-4;(rubrica tridentina aut rubrica divino)
-9 lectiones
-Doxology=Asc
-StJamesRule=John,Rev
-
 [Ant 1]
 Cum vénerit * Paráclitus, quem ego mittam vobis, Spíritum veritátis, quia Patre procédit, ille testimónium perhibébit de me, allelúja.
 (sed rubrica monastica)
@@ -55,6 +46,12 @@ Salvátor noster, dilectíssimi fratres, ascéndit in cælum: non ergo turbémur
 
 [Lectio5]
 Resurréctio Dómini spes nostra est: ascénsio Dómini glorificátio nostra est. Ascensiónis hódie solémnia celebrámus. Si ergo recte, si fidéliter, si devóte, si sancte, si pie ascensiónem Dómini celebrámus, ascendámus cum illo, et sursum corda habeámus. Ascendéntes autem non extollámur, nec de nostris, quasi de própriis méritis præsumámus. Sursum autem corda habére debémus ad Dóminum. Sursum enim cor non ad Dóminum, supérbia vocátur: sursum autem cor ad Dóminum, refúgium vocátur. Vidéte, fratres, magnum miráculum. Altus est Deus: érigis te, et fugit a te: humílias te, et descéndit ad te. Quare hoc? Quia excélsus est, et humília réspicit, et alta de longe cognóscit. Humília de próximo réspicit, ut attóllat: alta, id est, supérba, de longe cognóscit, ut déprimat.
+
+[Lectio6_]
+Resurréxit enim Christus, ut spem nobis daret, quia surgit homo, qui móritur: ne moriéndo desperarémus, et vitam nostram in morte finítam putarémus, secúros nos fecit. Sollíciti enim erámus de ipsa ánima: et ille nobis resurgéndo, de carnis resurrectióne fidúciam dedit. Crede ergo, ut mundéris. Prius te opórtet crédere, ut póstea per fidem Deum mereáris aspícere. Deum enim vidére vis? Audi ipsum: Beáti mundo corde: quóniam ipsi Deum vidébunt. Prius ergo cógita de corde mundándo: quidquid ibi vides, quod dísplicet Deo, tolle. 
+
+[Lectio6_2]
+Veníre ad te vult Deus, audi ipsum dicéntem: Ego et Pater veniémus, et mansiónem apud eum faciémus.
 
 [Lectio6]
 Resurréxit enim Christus, ut spem nobis daret, quia surgit homo, qui móritur: ne moriéndo desperarémus, et vitam nostram in morte finítam putarémus, secúros nos fecit. Sollíciti enim erámus de ipsa ánima: et ille nobis resurgéndo, de carnis resurrectióne fidúciam dedit. Crede ergo, ut mundéris. Prius te opórtet crédere, ut póstea per fidem Deum mereáris aspícere. Deum enim vidére vis? Audi ipsum: Beáti mundo corde: quóniam ipsi Deum vidébunt. Prius ergo cógita de corde mundándo: quidquid ibi vides, quod dísplicet Deo, tolle. (rubrica 1570)

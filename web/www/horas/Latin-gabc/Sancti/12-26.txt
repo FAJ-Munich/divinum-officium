@@ -89,18 +89,6 @@ $Oremus
 v. Da nobis, quǽsumus, Dómine, imitári quod cólimus: ut discámus et inimícos dilígere; quia ejus natalícia celebrámus, qui novit étiam pro persecutóribus exoráre Dóminum nostrum Jesum Christum Fílium tuum:
 $Qui tecum
 
-[Octava 2] (rubrica cisterciensis)
-!Commemoratio Octavæ S. Stephani
-Ant. Cum autem * esset Stéphanus plenus Spíritu sancto, inténdens in cœlum, vidit glóriam Dei, et Jesum stantem ad déxteram Patris.
-_
-@CommuneCist/C2:Versum 2
-(sed die Nat29)
-@Commune/C2:Versum 1
-_
-$Oremus
-v. Da nobis, quǽsumus, Dómine, imitári quod cólimus: ut discámus et inimícos dilígere; quia ejus natalícia celebrámus, qui novit étiam pro persecutóribus exoráre Dóminum nostrum Jesum Christum Fílium tuum:
-$Qui tecum
-
 [Lectio Prima]
 !Act. 7:59
 v. Pósitis autem génibus, clamávit voce magna, dicens: Dómine, ne státuas illis hoc peccátum. Et cum hoc dixísset, obdormívit in Dómino.

@@ -2,6 +2,21 @@
 Terra * trémuit et quiévit, † dum exsúrgeret in judício Deus, allelúja.;;29
 Nolíte expavéscere: * Jesum quǽritis Nazarénum, crucifíxum: surréxit, non est hic, allelúja.;;243;244;245
 
+[Lectio1]
+@Tempora/Nat03::1-6 s/1-5/2-4/ s/1.*Absit. /2 /s
+
+[Lectio2]
+@Tempora/Nat03::1 s/6-11/5-7/
+@Tempora/Nat03:Lectio1:7
+@Tempora/Nat03::2-3
+
+[Lectio3]
+@Tempora/Nat03:Lectio2:s/6-11/8-10/ s/6 .*8/8/s s/.11 .*//s
+
+[Lectio4]
+@Tempora/Nat03:Lectio2:s/6-11/11-13/ s/6 .*11/11/s
+@Tempora/Nat03:Lectio3:2-3
+
 [Lectio5]
 Sermo sancti Gregórii Nazianzéni
 !Sermone 2. de Paschale
@@ -15,6 +30,16 @@ At vero ei, qui pro nobis passus est ac resurréxit, múnera offerámus. Aurum f
 
 [Lectio8]
 Assúmpsit, quod detérius erat, ut det, quod pæstántius est: mendícus factus est, ut nos illíus mendicitáte ditémur: servi formam suscépit nos in libertátem asserámur. Descéndit, ut evehámur: tentátus est, vincámus: contémptus: ut nos glória affíciat: mórtuus est, ut salútem nobis áfferat: ascéndit ut eos, qui in peccáti lapsu iacébant, ad seípsum trahat. Omnia quíspiam donet, ómnia ei, qui seípsum redemptiónis prétium pro nobis, ac culpæ nostræ succidáneum dedit, ófferat. Nihil autem datúrus est tantum, quantum si seípsum obtúlerit hujus mystérii ratiónem probe intelligéntem; ac propter illum ómnia factus fúerit, quacúmque ipse propter nos factus est.
+
+[Lectio9]
+@Tempora/Pasc0-0:Lectio1:s/ Illæ.*//s
+
+[Lectio10]
+@Tempora/Pasc0-0:Lectio1:s/.*Illæ/Illæ/s s/$/~/
+@Tempora/Pasc0-0:Lectio2:s/ Quia.*//s
+
+[Lectio11]
+@Tempora/Pasc0-0:Lectio2:s/.*Quia/Quia/s
 
 [Capitulum Laudes]
 !1 Cor 5:7

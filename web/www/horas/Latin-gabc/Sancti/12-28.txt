@@ -140,16 +140,6 @@ $Oremus
 v. Deus, cujus hodiérna die præcónium Innocéntes Mártyres non loquéndo, sed moriéndo conféssi sunt: ómnia in nobis vitiórum mala mortífica; ut fidem tuam, quam lingua nostra lóquitur, étiam móribus vita fateátur.
 $Per Dominum
 
-[Octava 2] (rubrica cisterciensis)
-!Commemoratio Octavæ SS. Innocentium
-Ant. Heródes irátus * occídit multos púeros in Béthlehem Judæ civitáte David.
-_
-@CommuneCist/C3:Versum 2
-_
-$Oremus
-v. Deus, cujus hodiérna die præcónium Innocéntes Mártyres non loquéndo, sed moriéndo conféssi sunt: ómnia in nobis vitiórum mala mortífica; ut fidem tuam, quam lingua nostra lóquitur, étiam móribus vita fateátur.
-$Per Dominum
-
 [Lectio Prima]
 !Apo 14:4-5
 v. Hi empti sunt ex homínibus primítiæ Deo et Agno, et in ore ipsórum non est invéntum mendácium: sine mácula enim sunt ante thronum Dei.

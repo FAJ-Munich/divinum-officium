@@ -1,10 +1,3 @@
-[Rank] (rubrica 1955 aut rubrica 1960)
-Feria Quarta Hebdomadæ Sanctæ;;Feria privilegiata;;7
-
-[Rule]
-Antiphonas horas
-Feria
-
 [Lectio1]
 De Jeremía Prophéta
 !Jer 17:13-18

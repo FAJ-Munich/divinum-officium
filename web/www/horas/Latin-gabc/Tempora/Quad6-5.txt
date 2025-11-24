@@ -1,18 +1,3 @@
-[Rank] (rubrica 1955 aut rubrica 1960)
-Feria Sexta in Passione et Morte Domini;;Feria privilegiata Duplex I classis;;7
-
-[Rule]
-Duplex
-Psalmi minores Dominica
-Laudes 2
-Antiphonas horas
-Omit Incipit Invitatorium Hymnus Capitulum Lectio Commemoratio Antiphona finalis Preces Suffragium Conclusion Martyrologium De Officium Capituli
-Limit Benedictiones Oratio
-9 Lectiones 1960
-Capitulum Versum 2 ad Laudes tantum
-Minores sine Antiphona
-Feria
-
 [Oratio]
 {(c4) CHri(ffg)stus(f.) *(,) fa(fg)ctus(f) est(f') pro(f) no(ghF'ED.g_[oh:h]e/fg)bis(f.) (;) ob(f)é(hf/gh!jj/kjk)di(jij)ens(h_g) (,) us(h!jjh)que(f.) ad(ixfiH'Gh) mor(f_[oh:h]g_[oh:h]f_[oh:h])tem.(f.) (::) <sc>Mor</sc>(ixf!hhi)<sc>tem</sc>(g) au(gjj)tem(ixj.h!iw!jvIG'hw!ivHG) cru(fv.ff)cis.(f_c) (,) (fg!hvGF.e!g'h//fhg/hggf.0) (::)}
 (sed hora vespera)
@@ -131,8 +116,5 @@ _
 [Ant 3]
 {gabc:tenebrae/parasceve/an--cum_accepisset_acetum--solesmes};;solemn1f
 
-[Oratio Vespera]
-@Tempora/Quad6-4::s/usque ad mortem/usque ad mortem, mortem autem crucis/
-
-[Special Completorium]
+[Oratio 3]
 @Tempora/Quad6-4::s/usque ad mortem/usque ad mortem, mortem autem crucis/

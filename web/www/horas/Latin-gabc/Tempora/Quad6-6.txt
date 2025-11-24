@@ -1,13 +1,3 @@
-[Rule]
-Psalmi minores Dominica
-Antiphonas horas
-Omit Incipit Invitatorium Hymnus Capitulum Lectio Commemoratio Antiphona finalis Preces Suffragium Conclusion Martyrologium De Officium Capituli
-Limit Benedictiones, Oratio
-9 lectiones 1960
-Capitulum Versum 2 ad Laudes tantum
-Minores sine Antiphona
-Feria
-
 [Ant Matutinum]
 {gabc:tenebrae/sabbato/an--in_pace_in_idipsum};;4;;8G
 {gabc:tenebrae/sabbato/an--habitabit};;14;;4E

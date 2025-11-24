@@ -46,17 +46,11 @@ R. Hódie nata est beáta Virgo María ex progénie David;
 V. Nativitátem beátæ Maríæ Vírginis cum gáudio celebrémus.
 R. Per quam salus mundi credéntibus appáruit, cujus vita gloriósa lucem dedit sǽculo.
 
-[Lectio2]
-@Sancti/08-15t:Lectio2
-
 [Responsory2]
 R. Beatíssimæ Vírginis Maríæ Nativitátem devotíssime celebrémus, 
 * Ut ipsa pro nobis intercédat ad Dóminum Jesum Christum.
 V. Cum jucunditáte Nativitátem beátæ Maríæ Vírginis devotíssime celebrémus.
 R. Ut ipsa pro nobis intercédat ad Dóminum Jesum Christum.
-
-[Lectio3]
-@Sancti/08-15t:Lectio3
 
 [Responsory3]
 R. Gloriósæ Vírginis Maríæ ortum digníssimum recolámus, 

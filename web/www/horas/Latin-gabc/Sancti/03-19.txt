@@ -119,17 +119,11 @@ R. Accépit eum Símeon in ulnas suas, et benedíxit Deum.
 &Gloria
 R. Accépit eum Símeon in ulnas suas, et benedíxit Deum.
 
-[Lectio7]
-@Sancti/12-24:Lectio1
-
 [Responsory7]
 R. Dicit Mater Jesu ad illum: Fili, quid fecísti nobis sic?
 * Ecce pater tuus et ego doléntes quærebámus te.
 V. Et ait ad illos: Quid est, quod me quærebátis? nesciebátis, quia in his quæ Patris mei sunt, opórtet me esse?
 R. Ecce pater tuus et ego doléntes quærebámus te.
-
-[Lectio8]
-@Sancti/12-24:Lectio2
 
 [Responsory8]
 R. Descéndit Jesus cum eis, et venit Názareth: 
@@ -138,10 +132,6 @@ V. Proficiébat sapiéntia, et ætáte, et grátia apud Deum et hómines.
 R. Et erat súbditus illis.
 &Gloria
 R. Et erat súbditus illis.
-
-[Lectio9]
-@Sancti/12-24:Lectio3
-&teDeum
 
 [Ant Laudes]
 {name:Ibant parentes Jesu;mode:1;annotation:1. a3;book:The Liber Usualis, 1961, p. 1405;transcriber:Andrew Hinkley;%%(c4) I(ixdh'!iv)bant(h) *() pa(gf)rén(gh)tes(fe) Je(d)su(f'_) (,) per(d) o(e')mnes(f) an(gh)nos(g) in(hg~) Je(hji)rú(h)sa(g)lem,(h.) (;) in(fh~) di(h)e(ghg___) sol(f_e)é(g)mni(fe) Pa(d.)schae.(d.) (::) <i>^T. P.^</i> Al(e)le(fe)lú(d.){ia}.(d.) (::)};;;;1a3
@@ -180,33 +170,6 @@ Sint tibi plausus, tibi sint honóres,
 Trine, qui regnas, Deus, et corónas
 Aureas servo tríbuis fidéli
 Omne per ævum.
-Amen.
-
-[Hymnus Laudes] (rubrica cisterciensis)
-v. Noctis e coelo ténebris depúlsis, 
-Décidant mentis feritátis umbræ: 
-Hujus ut partos réferat triúmphos 
-Laude perénni. 
-_
-Jamque longævus agitátus annis, 
-Vínculo mortis véteri solútus: 
-Victor et virgo spoliátur ævo, 
-Corpus onústum. 
-_
-Mortis ut victor superávit orcum, 
-Scandit hic vitam simul ad beátam: 
-Summa pro magnis méritis adéptus 
-Præmia palmæ. 
-_
-Ergo regnántem flagitémus ipsum, 
-Cum sua Sponsa véniam precétur, 
-Supplices ut nos capiámus alta 
-Præmia coeli. 
-_
-Laus Patri summo Genitóque semper, 
-Flámini sacro simul et potéstas: 
-Qui Deus simplex ditióne solus 
-Cuncta gubérnat. 
 Amen.
 
 [Versum 2] (tonus solemnis)

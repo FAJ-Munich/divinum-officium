@@ -1,11 +1,3 @@
-[Rule]
-ex Pasc7-0;
-1 nocturn;
-Psalmi Dominica;
-Antiphonas horas
-Hymnus Tertia
-No commemoration
-
 [Oratio]
 Deus, qui Apóstolis tuis Sanctum dedísti Spíritum: concéde plebi tuæ piæ petitiónis efféctum; ut, quibus dedísti fidem, largiáris et pacem.
 $Per Dominum eiusdem

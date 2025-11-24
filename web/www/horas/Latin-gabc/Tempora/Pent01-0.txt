@@ -208,8 +208,8 @@ R. Benedicámus Patrem et Fílium cum Sancto Spíritu:
 V. Benedíctus es, Dómine, in firmaménto cæli: et laudábilis et gloriósus in sǽcula.
 R. Laudémus et superexaltémus eum in sǽcula.
 
-[Lectio8]
-@:Lectio8a
+[Lectio8] (rubrica 1960)
+@:Lectio8a:s/ Dénique.*//s
 
 [Lectio8](rubrica 1960)
 @:Lectio8a:s/ Dénique.*//s
@@ -234,6 +234,10 @@ _
 Homilía sancti Augustíni Epíscopi
 !Serm. 15. in Evang. Matthǽi de Verbis Dómini, post inítium
 Duo sunt ópera misericórdiæ, quæ nos líberant, quæ bréviter ipse Dóminus pósuit in Evangélio: Dimíttite, et dimittétur vobis: date, et dábitur vobis. Dimíttite, et dimittétur vobis, ad ignoscéndum pértinet: Date, et dábitur vobis, ad præstándum benefícium pértinet. Quod ait de ignoscéndo, et tu vis tibi ignósci quod peccas, et habes álium, cui tu possis ignóscere. Rursus, quod pértinet ad tribuéndum benefícium, petit te mendícus, et tu es Dei mendícus. Omnes enim quando orámus, mendíci Dei sumus: ante jánuam magni Patrisfamílias stamus, immo et prostérnimur, súpplices ingemíscimus, áliquid voléntes accípere; et ipsum áliquid ipse Deus est. Quid a te petit mendícus? Panem. Et tu quid petis a Deo, nisi Christum, qui dicit: Ego sum panis vivus, qui de cælo descéndi? Ignósci vobis vultis? ignóscite: Remíttite, et remittétur vobis. Accípere vultis? date, et dábitur vobis.
+&teDeum
+
+[Lectio9] (rubrica 1960)
+@:Lectio8a:s/.*(Dénique)/$1/s
 &teDeum
 
 [Versum 0]

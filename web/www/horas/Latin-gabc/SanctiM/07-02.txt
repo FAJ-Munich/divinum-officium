@@ -3,18 +3,6 @@ Adest namque * Visitátio sacratíssime Vírginis, quæ ex regáli progénie gé
 (sed rubrica cisterciensis)
 Gaude María * Mater Christi, quæ singulári privilégio meruísti portáre Christum Dóminum.
 
-[Responsory2] (rubrica cisterciensis)
-R. En diléctus meus lóquitur mihi: 
-* Intra præcórdia mea dat vocem suam.
-V. Quam dúlcia fáucibus meis elóquia tua, Dómine, super mel ori meo.
-R. Intra præcórdia mea dat vocem suam.
-
-[Responsory3] (rubrica cisterciensis)
-R. Ibo ad montem myrrhæ festinánter, et vidébo verbum hoc,
-* Quod factum est in áuribus meis ab Angelo salutánte.
-V. Viam mandatórum tuórum cucúrri, juxta verbum tuum.
-R. Quod factum est in áuribus meis ab Angelo salutánte.
-
 [Responsory4_]
 R. Magníficat ánima mea Dóminum: † et exsultávit spíritus meus in Deo, salutári meo,
 * Quia respéxit humilitátem ancíllæ suæ.

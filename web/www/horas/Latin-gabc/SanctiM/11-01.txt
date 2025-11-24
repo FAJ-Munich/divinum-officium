@@ -33,20 +33,11 @@ Laudem dícite * Deo nostro omnes Sancti ejus: et qui timétis eum pusílli et m
 [Lectio6]
 @Sancti/11-01:Lectio4:s/.* dum cathólica /Dum cathólica /s
 
-[Lectio7]
-@Sancti/11-01:Lectio5
-
-[Lectio8]
-@Sancti/11-01:Lectio6
-
 [Responsory8]
 R. Sanctíssime Conféssor Christi Benedícte monachórum Pater et Dux
 * Intercéde pro nostra omniúmque salúte.
 V. Devótæ plebi súbveni sancta intercessióne, † ut tuis adjúta précibus regna cæléstia consequátur.
 R. Intercéde pro nostra omniúmque salúte.
-
-[Lectio9]
-@Sancti/11-01:Lectio7
 
 [Responsory9]
 @Commune/C6:Responsory8
@@ -68,9 +59,6 @@ R. Beáti estis, Sancti Dei omnes, qui meruístis consórtes fíeri cæléstium 
 * Ideóque precámur, ut mémores nostri, † intercédere dignémini pro nobis ad Dóminum Deum nostrum.
 V. Gaudéte et exsultáte quóniam merces vestra multa est in cælis.
 R. Ideóque precámur, ut mémores nostri, † intercédere dignémini pro nobis ad Dóminum Deum nostrum.
-
-[Lectio12]
-@Sancti/11-01:Lectio9
 
 [Responsory12]
 R. Vidi Angelum ascendéntem ab ortu solis, habentem signum Dei vivi; † et clamávit voce magna quátuor Angelis, quibus datum est nocere terræ et mari, dicens: † Nolite nocére terræ et mari neque arbóribus, † quoadúsque signémus servos Dei nostri in fróntibus eórum.

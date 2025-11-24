@@ -9,17 +9,6 @@ Unus mílitum * láncea latus ejus apéruit, et contínuo exívit Sanguis et aqu
 [Ant Matutinum 3N]
 Tórcular * calcávi solus, et de géntibus non est vir mecum.
 
-[Ant Matutinum] (rubrica cisterciensis)
-@Sancti/07-01::1-3:s/;;3/;;4/
-@Sancti/07-01::5-6:s/;;29/;;22/ s/;;63/;;29/
-@:AntMatutinumM:1:s/;;115/;;42/
-@Sancti/07-01::7:s/;;7/;;5/
-@Sancti/07-01::4:s/;;22/;;63/
-@Sancti/07-01::8-9:s/;;87/;;73/ s/;;93/;;87/
-Hæc est * Sánguinis aspérsio mélius loquens quam Abel.;;93
-@:AntMatutinumM:2:s/;;119/;;97/
-;;246;247;248
-
 [Responsory8]
 R. Gratificávit † nos Deus in dilécto Fílio suo:
 * In quo habémus redemptiónem per Sánguinem ejus in remissiónem peccatórum.
