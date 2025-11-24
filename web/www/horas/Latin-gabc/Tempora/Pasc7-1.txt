@@ -1,6 +1,3 @@
-[Rank]
-Die II infra octavam Pentecostes;;Duplex I classis;;7;;ex Pasc7-0
-
 [Rule]
 ex Pasc7-0;
 1 nocturn;
@@ -8,6 +5,10 @@ Psalmi Dominica;
 Antiphonas horas
 Hymnus Tertia
 No commemoration
+
+[Oratio]
+Deus, qui Apóstolis tuis Sanctum dedísti Spíritum: concéde plebi tuæ piæ petitiónis efféctum; ut, quibus dedísti fidem, largiáris et pacem.
+$Per Dominum eiusdem
 
 [Lectio1]
 Léctio sancti Evangélii secúndum Joánnem
@@ -44,10 +45,6 @@ Sed dilexérunt, inquit, ténebras magis quam lucem. Ibi pósuit vim. Multi enim
 
 [Ant 2]
 Sic Deus * diléxit mundum, ut Fílium suum unigénitum daret: ut omnis, qui credit in ipsum, non péreat, sed hábeat vitam ætérnam, allelúja.
-
-[Oratio]
-Deus, qui Apóstolis tuis Sanctum dedísti Spíritum: concéde plebi tuæ piæ petitiónis efféctum; ut, quibus dedísti fidem, largiáris et pacem.
-$Per Dominum eiusdem
 
 [Versum 3]
 @Tempora/Pasc7-0:: s/\(hi\)(.*?)\(h\_.*?\(\:\:\)/(h)$1(h_\') (,) al(h)le(h)lú(h)ja\.\(g\_\'\!hGF\'E\!fgf\.\) ::/g s/\s\:\:/ (::)/g

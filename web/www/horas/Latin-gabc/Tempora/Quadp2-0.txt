@@ -1,0 +1,108 @@
+[Ant 1]
+Dixit Dóminus * ad Noë: Finis univérsæ carnis venit coram me: fac tibi arcam de lignis lævigátis, ut salvétur univérsum semen in ea.
+
+[Oratio]
+Deus, qui cónspicis, quia ex nulla nostra actióne confídimus: concéde propítius; ut, contra advérsa ómnia Doctóris géntium protectióne muniámur.
+$Per Dominum
+
+[Responsory1]
+R. Dixit Dóminus ad Noë: Finis univérsæ carnis venit coram me: repléta est terra iniquitáte eórum,
+* Et ego dispérdam eos cum terra.
+V. Fac tibi arcam de lignis lævigátis, mansiúnculas in ea fácies.
+R. Et ego dispérdam eos cum terra.
+
+[Responsory2]
+R. Noë, vir justus atque perféctus, cum Deo ambulávit:
+* Et fecit ómnia quæcúmque præcépit ei Deus.
+V. Fecit sibi arcam, ut salvarétur univérsum semen.
+R. Et fecit ómnia quæcúmque præcépit ei Deus.
+
+[Responsory3]
+R. Quadragínta dies et noctes apérti sunt cæli, et ex omni carne habénte spíritum vitæ ingréssa sunt in arcam:
+* Et clausit a foris óstium Dóminus.
+V. In artículo diéi illíus ingréssus est Noë in arcam et fílii ejus, et uxor illíus et uxóres filiórum ejus.
+R. Et clausit a foris óstium Dóminus.
+&Gloria
+R. Et clausit a foris óstium Dóminus.
+
+[Responsory4]
+R. Ædificávit Noë altáre Dómino, ófferens super illud holocáustum: odoratúsque est Dóminus odórem suavitátis, et benedíxit ei, dicens:
+* Créscite, et multiplicámini, et repléte terram.
+V. Ecce ego státuam pactum meum vobíscum, et cum sémine vestro post vos.
+R. Créscite, et multiplicámini, et repléte terram.
+
+[Responsory5]
+R. Ponam arcum meum in núbibus cæli, dixit Dóminus ad Noë:
+* Et recordábor fœ́deris mei, quod pépigi tecum.
+V. Cumque obdúxero núbibus cælum, apparébit arcus meus in núbibus.
+R. Et recordábor fœ́deris mei, quod pépigi tecum.
+
+[Responsory6]
+R. Per memetípsum jurávi, dicit Dóminus, non adíciam ultra aquas dilúvii super terram: pacti mei recordábor,
+* Ut non perdam aquis dilúvii omnem carnem.
+V. Arcum meum ponam in núbibus, et erit signum fœ́deris inter me et inter terram.
+R. Ut non perdam aquis dilúvii omnem carnem.
+&Gloria
+R. Ut non perdam aquis dilúvii omnem carnem.
+
+[Responsory7]
+R. Benedíxit Deus Noë, et fíliis ejus, et dixit ad eos:
+* Créscite, et multiplicámini, et repléte terram.
+V. Ecce ego státuam pactum meum vobíscum, et cum sémine vestro post vos.
+R. Créscite, et multiplicámini, et repléte terram.
+
+[Responsory8]
+R. Ecce ego státuam pactum meum vobíscum, et cum sémine vestro post vos:
+* Neque erit deínceps dilúvium díssipans terram.
+V. Arcum meum ponam in núbibus, et erit signum fœ́deris inter me et inter terram.
+R. Neque erit deínceps dilúvium díssipans terram.
+
+[Responsory9]
+R. Cum turba plúrima convenírent ad Jesum, et de civitátibus properárent ad eum, dixit per similitúdinem:
+* Exiit qui séminat, semináre semen suum.
+V. Et dum séminat, áliud cécidit in terram bonam, et ortum fecit fructum céntuplum.
+R. Exiit qui séminat, semináre semen suum.
+&Gloria
+R. Exiit qui séminat, semináre semen suum.
+
+[Ant Laudes]
+Secúndum magnam misericórdiam * tuam miserére mei, Deus.
+Si mihi Dóminus * salvátor fúerit, non timébo, quid fáciat mihi homo.
+In velaménto * clamávi valde dilúculo: Deus, Deus meus, ad te de luce vígilo.
+Hymnum dicámus * Dómino Deo nostro.
+In excélsis, * laudáte Deum.
+(sed rubrica tridentina aut rubrica monastica)
+In týmpano et choro, * in chordis et órgano, laudáte Deum.
+
+[Capitulum Laudes]
+!2 Cor 11:19-20
+v. Fratres: Libénter suffértis insipiéntes, cum sitis ipsi sapiéntes: sustinétis enim si quis vos in servitútem rédigit, si quis dévorat, si quis áccipit, si quis extóllitur, si quis in fáciem vos cædit.
+$Deo gratias
+
+[Ant 2]
+Cum turba * plúrima convenírent ad Jesum, et de civitátibus properárent ad eum, dixit per similitúdinem: Exiit qui séminat, semináre semen suum.
+
+[Ant Prima]
+Semen cécidit * in terram bonam, et áttulit fructum in patiéntia.
+
+[Ant Tertia]
+Qui verbum Dei * rétinent corde perfécto et óptimo, fructum áfferunt in patiéntia.
+
+[Ant Sexta]
+Semen cécidit * in terram bonam, et áttulit fructum, áliud centésimum, et áliud sexagésimum.
+
+[Capitulum Sexta]
+!2 Cor 11:25
+v. Ter virgis cæsus sum, semel lapidátus sum: ter naufrágium feci, nocte et die in profúndo maris fui.
+$Deo gratias
+
+[Ant Nona]
+Si vere, fratres, * dívites esse cúpitis, veras divítias amáte.
+
+[Capitulum Nona]
+!2 Cor 12:9
+v. Libénter ígitur gloriábor in infirmitátibus meis, ut inhábitet in me virtus Christi.
+$Deo gratias
+
+[Ant 3]
+Vobis datum est * nosse mystérium regni Dei, céteris autem in parábolis, dixit Jesus discípulis suis.

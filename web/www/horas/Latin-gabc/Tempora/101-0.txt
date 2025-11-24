@@ -1,0 +1,48 @@
+[Ant 1]
+Adapériat Dóminus * cor vestrum in lege sua et in præcéptis suis et fáciat pacem Dóminus Deus noster.
+
+[Responsory1]
+R. Adapériat Dóminus cor vestrum in lege sua et in præcéptis suis et fáciat pacem in diébus vestris:
+* Concédat vobis salútem, et rédimat vos a malis.
+V. Exáudiat Dóminus oratiónes vestras, et reconciliétur vobis, nec vos déserat in témpore malo.
+R. Concédat vobis salútem, et rédimat vos a malis.
+
+[Responsory2]
+R. Exáudiat Dóminus oratiónes vestras, et reconciliétur vobis, nec vos déserat in témpore malo,
+* Dóminus, Deus noster.
+V. Det vobis cor ómnibus, ut colátis eum et faciátis ejus voluntátem.
+R. Dóminus, Deus noster.
+
+[Responsory3]
+R. Congregáti sunt inimíci nostri, et gloriántur in virtúte sua: cóntere fortitúdinem illórum, Dómine, et dispérge illos: 
+* Ut cognóscant quia non est álius qui pugnet pro nobis, nisi tu, Deus noster.
+V. Dispérge illos in virtúte tua, et déstrue eos, protéctor noster, Dómine.
+R. Ut cognóscant quia non est álius qui pugnet pro nobis, nisi tu, Deus noster.
+&Gloria
+R. Ut cognóscant quia non est álius qui pugnet pro nobis, nisi tu, Deus noster.
+
+[Responsory4]
+R. Impetum inimicórum ne timuéritis: mémores estóte, quómodo salvi facti sunt patres nostri:
+* Et nunc clamémus in cælum et miserébitur nostri Deus noster.
+V. Mementóte mirabílium ejus, quæ fecit pharaóni et exercítui ejus in Mari Rubro.
+R. Et nunc clamémus in cælum et miserébitur nostri Deus noster.
+
+[Responsory5]
+R. Congregátæ sunt gentes in multitúdine, ut dímicent contra nos, et ignorámus quid ágere debeámus: 
+* Dómine Deus, ad te sunt óculi nostri, ne pereámus.
+V. Tu scis quæ cógitant in nos: quómodo potérimus subsístere ante fáciem illórum, nisi tu ádjuves nos?
+R. Dómine Deus, ad te sunt óculi nostri, ne pereámus.
+
+[Responsory6]
+R. Tua est poténtia, tuum regnum, Dómine: tu es super omnes gentes:
+* Da pacem, Dómine, in diébus nostris.
+V. Creátor ómnium, Deus, terríbilis et fortis, justus et miséricors.
+R. Da pacem, Dómine, in diébus nostris.
+&Gloria
+R. Da pacem, Dómine, in diébus nostris.
+
+[Responsory7]
+R. Refúlsit sol in clípeos áureos, et resplenduérunt montes ab eis: 
+* Et fortitúdo géntium dissipáta est.
+V. Erat enim exércitus magnus valde et fortis: et appropiávit Judas et exércitus ejus in prǽlio.
+R. Et fortitúdo géntium dissipáta est.

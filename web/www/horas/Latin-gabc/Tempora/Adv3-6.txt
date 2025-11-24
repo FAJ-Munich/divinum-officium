@@ -1,0 +1,26 @@
+[Oratio]
+Deus, qui cónspicis, quia ex nostra pravitáte afflígimur: concéde propítius; ut ex tua visitatióne consolémur:
+$Qui vivis
+
+[Responsory1]
+R. Egrediétur virga de radíce Jesse, et flos de radíce ejus ascéndet: 
+* Et erit justítia cíngulum lumbórum ejus, et fides cinctórium renum ejus.
+V. Et requiéscet super eum spíritus Dómini: spíritus sapiéntiæ, et intelléctus: spíritus consílii, et fortitúdinis.
+R. Et erit justítia cíngulum lumbórum ejus, et fides cinctórium renum ejus.
+
+[Responsory2]
+R. Radix Jesse, qui exsúrget judicáre gentes, in eum gentes sperábunt: 
+* Et erit nomen ejus benedíctum in sǽcula.
+V. Super ipsum continébunt reges os suum, ipsum gentes deprecabúntur.
+R. Et erit nomen ejus benedíctum in sǽcula.
+
+[Responsory3]
+R. Veni, Dómine, et noli tardáre: reláxa facínora plebi tuæ, 
+* Et révoca dispérsos in terram suam.
+V. Excíta, Dómine, poténtiam tuam, et veni, ut salvos fácias nos.
+R. Et révoca dispérsos in terram suam.
+&Gloria
+R. Et révoca dispérsos in terram suam.
+
+[Ant 2]
+Quómodo fiet istud, * Angele Dei, quóniam virum non cognósco? Audi, María Virgo: Spíritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi.

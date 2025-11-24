@@ -1,0 +1,24 @@
+[Ant 1]
+Remánsit puer Jesus * in Jerúsalem, et non cognovérunt paréntes ejus existimántes illum esse in comitátu: et requirébant eum inter cognátos et notos.
+
+[Oratio]
+Vota, quǽsumus, Dómine, supplicántis pópuli cælésti pietáte proséquere: ut et quæ agénda sunt, vídeant, et ad implénda quæ víderint, convaléscant.
+$Per Dominum
+
+[Capitulum Laudes]
+!Rom 12:1
+v. Fratres: Obsécro vos per misericórdiam Dei, ut exhibeátis córpora vestra hóstiam vivéntem, sanctam, Deo placéntem, rationábile obséquium vestrum.
+$Deo gratias
+
+[Capitulum Sexta]
+!Rom 12:3
+v. Dico enim per grátiam quæ data est mihi ómnibus qui sunt inter vos non plus sápere quam opórtet sápere sed sápere ad sobrietátem unicuíque sicut Deus divísit mensúram fídei.
+$Deo gratias
+
+[Capitulum Nona]
+!Rom 12:4-5
+v. Sicut enim in uno córpore multa membra habémus ómnia autem membra non eundem actum habent ita multi unum corpus sumus in Christo sínguli autem alter altérius membra.
+$Deo gratias
+
+[Ant 3]
+Fili, quid fecísti * nobis sic? Ego et pater tuus doléntes quærebámus te. Quid est quod me quærebátis? nesciebátis quia in iis, quæ Patris mei sunt, opórtet me esse?

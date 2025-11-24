@@ -191,7 +191,7 @@ v. Benedictiónes patris tui confortátæ sunt benedictiónibus patrum ejus, don
 $Deo gratias
 
 [Responsory Laudes] (rubrica cisterciensis)
-@:Responsory Tertia
+@:Responsory Breve Tertia
 
 [Hymnus Laudes]
 @Sancti/03-19:Hymnus Matutinum

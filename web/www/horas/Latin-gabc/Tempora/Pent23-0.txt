@@ -1,0 +1,9 @@
+[Oratio]
+Absólve, quǽsumus, Dómine, tuórum delícta populórum: ut a peccatórum néxibus, quæ pro nostra fragilitáte contráximus, tua benignitáte liberémur.
+$Per Dominum
+
+[Ant 2]
+Dicébat enim * intra se: Si tetígero fímbriam vestiménti ejus tantum, salva ero.
+
+[Ant 3]
+At Jesus convérsus * et videns eam dixit: Confíde, fília, fides tua te salvam fecit, allelúja.

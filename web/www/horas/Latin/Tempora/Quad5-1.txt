@@ -8,6 +8,9 @@ Feria Secunda infra Hebdomadam Passionis
 (sed rubrica 196)
 ;;Feria major;;3.9
 
+[Rule]
+
+
 [Lectio1]
 Léctio sancti Evangélii secúndum Joánnem
 !Joannes 7:32-39

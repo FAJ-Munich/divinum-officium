@@ -1,6 +1,3 @@
-[Rank]
-Die III infra octavam Pentecostes;;Duplex I classis;;7;;ex Pasc7-0
-
 [Rule]
 ex Pasc7-0;
 1 nocturn;
@@ -8,6 +5,10 @@ Psalmi Dominica;
 Antiphonas horas
 Hymnus Tertia
 No commemoration
+
+[Oratio]
+Adsit nobis, quǽsumus, Dómine, virtus Spíritus Sancti: quæ et corda nostra cleménter expúrget, et ab ómnibus tueátur advérsis.
+$Per Dominum eiusdem
 
 [Ant Matutinum]
 @Tempora/Pasc7-0::s/V\. .*/V. Spíritus Paráclitus, allelúja.\nR. Docébit vos ómnia, allelúja./s
@@ -42,18 +43,14 @@ R. Prout Spíritus Sanctus dabat éloqui illis, allelúja.
 Quid de istis dicam? Ecce ipsi pharisǽi legébant, et in eo quod legébant, Christum sonábant, ventúrum sperábant, et præséntem non agnoscébant. Jactábant se étiam ipsi inter Vidéntes, hoc est, inter sapiéntes, et negábant Christum, et non intrábant per óstium. Ergo et ipsi, si quos forte sedúcerent, mactándos et occidéndos, non liberándos sedúcerent. Et hos dimittámus. Videámus illos, si forte ipsi intrant per óstium, qui ipsíus Christi nómine gloriántur. Innumerábiles enim sunt, qui se Vidéntes non solum jactant, sed a Christo illuminátos vidéri volunt: sunt autem hærétici.
 &teDeum
 
-[Ant 2]
-Ego sum óstium, * dicit Dóminus: per me si quis introíerit, salvábitur, et páscua invéniet, allelúja.
-
-[Oratio]
-Adsit nobis, quǽsumus, Dómine, virtus Spíritus Sancti: quæ et corda nostra cleménter expúrget, et ab ómnibus tueátur advérsis.
-$Per Dominum eiusdem
-
-[Ant 3]
-Pacem * relínquo vobis, pacem meam do vobis: non quómodo mundus dat, ego do vobis, allelúja.
-
 [Versum 2]
 @Tempora/Pasc7-1
 
+[Ant 2]
+Ego sum óstium, * dicit Dóminus: per me si quis introíerit, salvábitur, et páscua invéniet, allelúja.
+
 [Versum 3]
 @Tempora/Pasc7-1
+
+[Ant 3]
+Pacem * relínquo vobis, pacem meam do vobis: non quómodo mundus dat, ego do vobis, allelúja.

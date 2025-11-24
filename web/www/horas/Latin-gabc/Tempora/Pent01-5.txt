@@ -1,0 +1,2 @@
+[Ant Vespera 3] (rubrica cisterciensis)
+@Tempora/Pent01-4:Ant Vespera:s/;;.*//g

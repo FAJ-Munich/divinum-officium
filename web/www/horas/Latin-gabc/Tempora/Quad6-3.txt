@@ -1,6 +1,3 @@
-[Rank]
-Feria Quarta Majoris Hebdomadæ;;Feria privilegiata;;6.9
-
 [Rank] (rubrica 1955 aut rubrica 1960)
 Feria Quarta Hebdomadæ Sanctæ;;Feria privilegiata;;7
 
@@ -33,9 +30,6 @@ R. Ego autem orábam, et exaudísti me, Dómine, Deus meus.
 17 Sicut ventus urens dispérgam eos coram inimíco: dorsum, et non fáciem osténdam eis in die perditiónis eórum. 
 18 Et dixérunt: Veníte et cogitémus contra Jeremíam cogitatiónes: non enim períbit lex a sacerdóte, neque consílium a sapiénte, nec sermo a prophéta: veníte, et percutiámus eum lingua, et non attendámus ad univérsos sermónes ejus.
 
-[Responsory2]
-@Tempora/Quad6-0:Responsory8
-
 [Lectio3]
 !Jer 18:19-23
 19 Atténde, Dómine, ad me, et audi vocem adversariórum meórum. 
@@ -43,9 +37,6 @@ R. Ego autem orábam, et exaudísti me, Dómine, Deus meus.
 21 Proptérea da fílios eórum in famem, et deduc eos in manus gládii: fiant uxóres eórum absque líberis, et víduæ: et viri eárum interficiántur morte: júvenes eórum confodiántur gládio in prǽlio. 
 22 Audiátur clamor de dómibus eórum: addúces enim super eos latrónem repénte: quia fodérunt fóveam ut cáperent me, et láqueos abscondérunt pédibus meis. 
 23 Tu autem, Dómine, scis omne consílium eórum advérsum me in mortem: ne propitiéris iniquitáti eórum, et peccátum eórum a fácie tua non deleátur: fiant corruéntes in conspéctu tuo, in témpore furóris tui abútere eis.
-
-[Responsory3]
-@Tempora/Quad6-0:Responsory9
 
 [Ant Laudes]
 Líbera me * de sanguínibus, Deus, Deus meus: et exsultábit lingua mea justítiam tuam.
@@ -61,7 +52,7 @@ Fac, Dómine, * judícium injúriam patiéntibus: et vias peccatórum dispérde.
 {name:Omnes inimici mei;annotation:7.a;mode:7;book:Liber antiphonarius, 1960, p. 431;transcriber:Andrew Hinkley;%%(c3) O(e')mnes(e) i(g)ni(h)mí(i)ci(j) me(i')i(h) *(,) au(j)di(k')é(j)runt(ih~) ma(j)lum(k') me(j)um,(ih~) Dó(i_j)mi(j)ne:(i.) (;) lae(i')tá(i)ti(h_g) sunt,(e.) (,) quó(e')ni(i)am(h_f~) tu(g) fe(f)cí(e.)sti.(e.) (::)};;;;7a
 {name:Alliga Domine;annotation:1g2;mode:1;book:Antiphonale Monasticum, 1934, p. 411;%%(c4) AL(f)li(f)ga(ixh_i) Dó(h')mi(g)ne(h) * in(gf~) vín(g)cu(ixig)lis(h.) (,) na(h)ti(g)ó(e')nes(f) gén(g)ti(fe)um,(d_') et(d) re(fd~)ges(e) e(f)á(g_f)rum(g.) in(ec~) com(ef)péd(d)i(cd)bus.(d.) (::)};;;;1g2
 
-[Ant 2]
+[Ant 2_]
 Simon, dormis? * non potuísti una hora vigiláre mecum?
 
 [Oratio 2]

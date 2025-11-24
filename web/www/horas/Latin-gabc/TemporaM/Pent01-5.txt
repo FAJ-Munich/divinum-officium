@@ -1,0 +1,23 @@
+[Ant Matutinum]
+@Tempora/Pent01-4::1 s/;;.*//
+;;
+;;
+;;
+;;
+;;
+@Tempora/Pent01-4:Nocturn 2 Versum
+@Tempora/Pent01-4::2 s/;;.*//
+;;
+;;
+;;
+;;
+;;
+
+[MM Capitulum] (rubrica tridentina aut rubrica divino)
+@Tempora/Quad6-4:Lectio9:1 s/27-34/28-29/
+@Tempora/Quad6-4:Lectio9:3-4 s/28 /v. / s/\n29 / /
+$Deo gratias
+_
+@Tempora/Pent01-4:Versum 2
+(sed rubrica cisterciensis)
+@TemporaM/Pent01-4:Responsory SextaM

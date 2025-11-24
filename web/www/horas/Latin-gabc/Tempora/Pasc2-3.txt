@@ -4,11 +4,6 @@
 {name:Et venerunt festinantes;annotation:7. d;mode:7;book:Liber antiphonarius, 1960, p. 689;transcriber:Andrew Hinkley;%%(c3) ET(e) ve(ei)né(i)runt(h') *() fe(i)sti(k')nán(j)tes,(i!jwk.) (;) et(i) in(h)ve(ik)né(k')runt(k) Ma(j')rí(k)am(j') et(i) Jo(hi)seph,(i.) (;) et(e) in(f)fán(ed~)tem(e) pó(fh)si(g')tum(f) in(g') præ(h)sé(f')pi(e)o,(d) al(ef~)le(f)lú(e.)ja.(e.) (::)};;;;7d
 {name:Et ipse Jesus erat;annotation:7. d;mode:7;book:Liber antiphonarius, 1960, p. 689;transcriber:Andrew Hinkley;%%(c3) ET(e) i(e_i)pse(g_h) Je(i_j)sus(i'_) *(,) e(j)rat(i') in(h)cí(hi)pi(h)ens(h.) (,) qua(hf)si(g) an(h)nó(ij)rum(i) tri(h')gín(i)ta,(i.) (;) ut(e') pu(f)ta(e)bá(d!e'f)tur(f.) (,) fí(f_i)li(h)us(f') Jo(h)seph,(g_h) al(i'_)le(f)lú(e.)ja.(e.) (::)};;;;7d
 
-[Capitulum Vespera]
-!Gen 49:26
-v. Benedictiónes patris tui confortátæ sunt benedictiónibus patrum ejus, donec veníret Desidérium cóllium æternórum: fiant in cápite Joseph, et in vértice Nazarǽi inter fratres suos.
-$Deo gratias
-
 [Ant 1]
 {name:Cum esset desponsata ... allel.;annotation:3.a2;mode:3;book:Liber antiphonarius, 1960, p. 687;transcriber:Andrew Hinkley;%%(c4) CUM(e_d) es(g!hj)set(h) de(g)spon(h')sá(j)ta(j_i) *(,) Ma(i')ter(j) Je(k)su(l') Ma(k)rí(ji)a(hi) Jo(h)seph,(g.) (;) án(g')te(g)quam(i') con(g)ve(h)ní(fe)rent,(d.) (;) in(gh~)vén(g)ta(h) est(j') in(h) ú(j)te(j)ro(i) ha(g!hwi_g)bens(h_g) (,) de(e_f) Spí(g)ri(g)tu(g) San(fe)cto,(d.) (,) al(g!hj)le(gf)lú(e.)ja.(e.) (::)};;solemn3a2
 
@@ -152,6 +147,16 @@ R. Et esto ibi usque dum dicam tibi, allelúja.
 Quamquam si étiam Lucas génitum díceret Joseph ab Heli, nec sic nos hoc verbum perturbáre debéret, ut áliud crederémus quam ab uno Evangelísta gignéntem, ab áltero adoptántem patrem fuísse commemorátum. Neque enim absúrde quisque dícitur non carne sed caritáte genuísse, quem fílium sibi adoptáverit. At vero étiam nos, quibus dedit Deus potestátem fílios ejus fíeri, de natúra atque substántia sua non nos génuit, sicut únicum Fílium, sed útique dilectióne adoptávit.
 &teDeum
 
+[Capitulum Laudes]
+!Gen 49:26
+v. Benedictiónes patris tui confortátæ sunt benedictiónibus patrum ejus, donec veníret Desidérium cóllium æternórum: fiant in cápite Joseph, et in vértice Nazarǽi inter fratres suos.
+$Deo gratias
+
+[Capitulum Laudes]
+!Gen 49:26
+v. Benedictiónes patris tui confortátæ sunt benedictiónibus patrum ejus, donec veníret Desidérium cóllium æternórum: fiant in cápite Joseph, et in vértice Nazarǽi inter fratres suos.
+$Deo gratias
+
 [Versum 2]
 {initial-style:0;%%(c3) V/. De(h)dís(h)ti(h) mi(h)hi(h) pro(h)tec(h)ti(h)ó(h)nem(h) sa(h)lú(h)tis(h) tu(hi)æ,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::) R/. Et(h) déx(h)te(h)ra(h) tu(h)a(h) sus(h)cé(hi)pit(hr) me,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
@@ -161,9 +166,6 @@ Quamquam si étiam Lucas génitum díceret Joseph ab Heli, nec sic nos hoc verbu
 [Lectio Prima]
 !Gen 49:22
 v. Fílius accréscens Joseph, fílius accréscens, et decórus aspéctu: fíliæ discurrérunt super murum.
-
-[Capitulum Tertia]
-@:Capitulum Vespera
 
 [Responsory Breve Tertia]
 R.br. Constítuit eum dóminum domus suæ, * Allelúja, allelúja.

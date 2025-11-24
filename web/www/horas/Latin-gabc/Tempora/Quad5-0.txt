@@ -1,18 +1,5 @@
-[Rank]
-Dominica de Passione;;I classis Semiduplex;;6.9
-
 [Rank](rubrica 1955 aut rubrica 1960)
 Dominica I Passionis;;I classis Semiduplex;;6
-
-[Rule]
-9 lectiones
-Symbolum Athanasium(rubrica tridentina)
-
-[Ant 1]
-@Tempora/Quad4-6:Ant 3
-
-[Oratio]
-@Tempora/Quad4-6:Oratio 3
 
 [Lectio1]
 Incipit liber Jeremíæ Prophétæ
@@ -150,9 +137,6 @@ Ego dæmónium non hábeo, * sed honorífico Patrem meum, dicit Dóminus.
 [Ant Tertia]
 Ego glóriam meam * non quæro: est qui quærat, et júdicet.
 
-[Capitulum Tertia]
-@:Capitulum Laudes
-
 [Ant Sexta]
 Amen, amen, dico vobis: * si quis sermónem meum serváverit, mortem non gustábit in ætérnum.
 
@@ -168,9 +152,6 @@ Tulérunt lápides * Judǽi, ut jácerent in eum: Jesus autem abscóndit se, et 
 !Heb 9:15
 v. Et ídeo novi testaménti mediátor est: ut, morte intercedénte, in redemptiónem eárum prævaricatiónum, quæ erant sub prióri testaménto, repromissiónem accípiant, qui vocáti sunt ætérnæ hereditátis in Christo Jesu, Dómino nostro.
 $Deo gratias
-
-[Capitulum Vespera]
-@:Capitulum Laudes
 
 [Ant 3]
 Abraham pater vester * exsultávit ut vidéret diem meum: vidit, et gavísus est.

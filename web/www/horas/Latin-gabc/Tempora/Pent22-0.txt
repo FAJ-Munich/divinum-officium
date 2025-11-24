@@ -1,0 +1,9 @@
+[Oratio]
+Deus, refúgium nostrum et virtus: adésto piis Ecclésiæ tuæ précibus, auctor ipse pietátis, et præsta; ut, quod fidéliter pétimus, efficáciter consequámur.
+$Per Dominum
+
+[Ant 2]
+Magíster, * scimus quia verax es et viam Dei in veritáte doces, allelúja.
+
+[Ant 3]
+Réddite ergo * quæ sunt Cǽsaris Cǽsari, et quæ sunt Dei Deo, allelúja.

@@ -21,15 +21,13 @@ Psalmi Dominica
 ;;5
 ;;8
 ;;10
-@Tempora/Pasc2-3::4-5
-@Tempora/Pasc2-3::6 s/;;4/;;14/
+@Tempora/Pasc2-3::4 s/;;4/;;14/
 ;;20
 ;;23
 ;;95
 ;;96
 ;;97
-@Tempora/Pasc2-3::9-11 s/;;14/;;256;257;258/
-@Tempora/Pasc2-3::14-15
+@Tempora/Pasc2-3::7 s/;;14/;;256;257;258/
 
 [Lectio3]
 @Tempora/Pasc2-3:Lectio3:s/-49/-45a/ s/ Egréssus.*//s

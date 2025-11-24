@@ -142,7 +142,7 @@ Laudáte * Dóminum de cælis.
 {(c3) Fra(h)tres:(h_') (,) Ne(h)scí(h)tis(h) quod(h) i(h)i(h) qui(h) in(h) stá(h)di(h)o(h) cur(h)runt,(f.) †(;) om(h)nes(h) qui(h)dem(h) cur(h)runt,(h_') (,) sed(g) u(g)nus(g) ác(g)ci(g)pit(g) bra(f)ví(g)um?(gh..) (:) Sic(h) cúr(h)ri(h)te(h) ut(h) com(h)pre(h)hen(h)dá(f)tis.(ef..) (::)}
 $Deo gratias
 
-[Versum 2]
+[Versum 2] (nisi rubrica cisterciensis)
 V. Dómine, refúgium factus es nobis.
 R. A generatióne et progénie.
 

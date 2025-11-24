@@ -1,0 +1,46 @@
+[Versum 1]
+V. Cibávit illos ex ádipe fruménti, allelúja.
+R. Et de petra, melle saturávit eos, allelúja.
+
+[Ant 1]
+Puer Sámuel * ministrábat ante Deum coram Heli, et sermo Dómini erat pretiósus cum eo.
+
+[Oratio]
+Sancti nóminis tui, Dómine, timórem páriter et amórem fac nos habére perpétuum: quia nunquam tua gubernatióne destítuis, quos in soliditáte tuæ dilectiónis instítuis.
+$Per Dominum.
+
+[Commemoratio]
+!Commemoratio de Octava Corporis Christi
+@Tempora/Pent01-4:Oratio
+
+[Responsory8]
+R. Homo quidam fecit cœnam magnam, et misit servum suum hora cœnæ dícere invitátis ut venírent, 
+* Quia paráta sunt ómnia.
+V. Veníte, comédite panem meum, et bíbite vinum quod míscui vobis.
+R. Quia paráta sunt ómnia.
+&Gloria
+R. Quia paráta sunt ómnia.
+
+[Capitulum Laudes]
+!1 Joann. 3:13-14
+v. Caríssimi: Nolíte mirári, si odit vos mundus. Nos scimus quóniam transláti sumus de morte ad vitam, quóniam dilígimus fratres.
+$Deo gratias
+
+[Versum 2]
+V. Panem cæli dedit eis, allelúja.
+R. Panem Angelórum manducávit homo, allelúja.
+
+[Ant 2]
+Homo quidam * fecit cenam magnam, et vocávit multos: et misit servum suum hora cenæ dícere invitátis ut venírent, quia ómnia paráta sunt, allelúja.
+
+[Lectio Prima]
+!1 Joann. 3:18
+v. Filíoli mei, non diligámus verbo neque lingua, sed ópere et veritáte.
+
+[Capitulum Sexta]
+!1 Joann. 3:16
+v. In hoc cognóvimus caritátem Dei: quóniam ille ánimam suam pro nobis pósuit, et nos debémus pro frátribus ánimas pónere.
+$Deo gratias
+
+[Ant 3]
+Exi cito * in platéas et vicos civitátis: et páuperes ac débiles, cæcos et claudos compélle intráre, ut impleátur domus mea, allelúja.

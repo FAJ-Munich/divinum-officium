@@ -8,9 +8,6 @@ Dominica in Albis in Octava Paschæ
 Præsta, quǽsumus, omnípotens Deus: ut qui paschália festa perégimus, hæc, te largiénte, móribus et vita teneámus.
 $Per Dominum
 
-[Invit]
-@Tempora/Pasc0-0
-
 [Lectio1]
 De Epístola beáti Pauli Apóstoli ad Colossénses
 !Col 3:1-7
@@ -46,9 +43,6 @@ R. Veníte, et vidéte, allelúja, allelúja.
 15 et pax Christi exsúltet in córdibus vestris, in qua et vocáti estis in uno córpore: et grati estóte.
 16 Verbum Christi hábitet in vobis abundánter, in omni sapiéntia, docéntes, et commonéntes vosmetípsos, psalmis, hymnis, et cánticis spirituálibus, in grátia cantántes in córdibus vestris Deo.
 17 Omne, quodcúmque fácitis in verbo aut in ópere, ómnia in nómine Dómini Jesu Christi, grátias agéntes Deo et Patri per ipsum.
-
-[Responsory3]
-@Tempora/Pasc0-0:Responsory2
 
 [Lectio4]
 Sermo sancti Augustíni Epíscopi

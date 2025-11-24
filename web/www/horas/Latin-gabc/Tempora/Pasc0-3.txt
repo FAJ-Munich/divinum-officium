@@ -1,0 +1,28 @@
+[Oratio]
+Deus, qui nos resurrectiónis Domínicæ ánnua solemnitáte lætíficas: concéde propítius; ut per temporália festa quæ ágimus, perveníre ad gáudia ætérna mereámur.
+$Per eumdem
+
+[Ant Matutinum]
+@Tempora/Pasc0-0::s/^V\..*//sm
+V. Gavísi sunt discípuli, allelúja.
+R. Viso Dómino, allelúja.
+
+[Responsory1]
+R. Ecce vicit leo de tribu Juda, radix David, aperíre librum, et sólvere septem signácula ejus:
+* Allelúja, allelúja, allelúja.
+V. Dignus est Agnus, qui occísus est, accípere virtútem, et divinitátem, et sapiéntiam, et fortitúdinem, et honórem, et glóriam, et benedictiónem.
+R. Allelúja, allelúja, allelúja.
+
+[Responsory2]
+R. Ego sum vitis vera, et vos pálmites:
+* Qui manet in me, et ego in eo, hic fert fructum multum, allelúja, allelúja.
+V. Sicut diléxit me Pater, et ego diléxi vos.
+R. Qui manet in me, et ego in eo, hic fert fructum multum, allelúja, allelúja.
+&Gloria
+R. Qui manet in me, et ego in eo, hic fert fructum multum, allelúja, allelúja.
+
+[Ant 2]
+Míttite in déxteram * navígii rete, et inveniétis, allelúja.
+
+[Ant 3_]
+Dixit Jesus * discípulis suis: Afférte de píscibus, quos prendidístis nunc. Ascéndit autem Simon Petrus, et traxit rete in terram plenum magnis píscibus, allelúja.

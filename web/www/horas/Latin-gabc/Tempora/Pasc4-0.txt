@@ -1,0 +1,78 @@
+[Ant 1]
+Vado ad eum * qui misit me: et nemo ex vobis intérrogat me: Quo vadis? allelúja, allelúja.
+
+[Oratio]
+Deus, qui fidélium mentes uníus éfficis voluntátis: da pópulis tuis id amáre quod prǽcipis, id desideráre quod promíttis; ut inter mundánas varietátes ibi nostra fixa sint corda, ubi vera sunt gáudia.
+$Per Dominum
+
+[Responsory1]
+R. Si oblítus fúero tui, allelúja, obliviscátur mei déxtera mea: 
+* Adhǽreat lingua mea fáucibus meis, si non memínero tui, allelúja, allelúja.
+V. Super flúmina Babylónis illic sédimus et flévimus, dum recordarémur tui, Sion.
+R. Adhǽreat lingua mea fáucibus meis, si non memínero tui, allelúja, allelúja.
+
+[Responsory2]
+R. Vidérunt te aquæ, Deus, vidérunt te aquæ, et timuérunt: 
+* Multitúdo sónitus aquárum vocem dedérunt nubes, allelúja, allelúja, allelúja.
+V. Illuxérunt coruscatiónes tuæ orbi terræ: vidit et commóta est terra.
+R. Multitúdo sónitus aquárum vocem dedérunt nubes, allelúja, allelúja, allelúja.
+
+[Responsory3]
+R. Narrábo nomen tuum frátribus meis, allelúja: 
+* In médio Ecclésiæ laudábo te, allelúja, allelúja. 
+V. Confitébor tibi in pópulis, Dómine, et psalmum dicam tibi in géntibus.
+R. In médio Ecclésiæ laudábo te, allelúja, allelúja. 
+&Gloria
+R. In médio Ecclésiæ laudábo te, allelúja, allelúja. 
+
+[Responsory4]
+R. In ecclésiis benedícite Deo, allelúja: 
+* Dómino de fóntibus Israël, allelúja, allelúja.
+V. Psalmum dícite nómini ejus, date glóriam laudi ejus.
+R. Dómino de fóntibus Israël, allelúja, allelúja.
+
+[Responsory5]
+R. In toto corde meo, allelúja, exquisívi te, allelúja: 
+* Ne repéllas me a mandátis tuis, allelúja, allelúja.
+V. Benedíctus es tu, Dómine, doce me justificatiónes tuas.
+R. Ne repéllas me a mandátis tuis, allelúja, allelúja.
+
+[Responsory6]
+R. Hymnum cantáte nobis, allelúja: 
+* Quómodo cantábimus cánticum Dómini in terra aliéna? allelúja, allelúja.
+V. Illic interrogavérunt nos, qui captívos duxérunt nos, verba cantiónum.
+R. Quómodo cantábimus cánticum Dómini in terra aliéna? allelúja, allelúja.
+&Gloria
+R. Quómodo cantábimus cánticum Dómini in terra aliéna? allelúja, allelúja.
+
+[Responsory7]
+R. Deus, cánticum novum cantábo tibi, allelúja: 
+* In psaltério decem chordárum psallam tibi, allelúja, allelúja.
+V. Deus meus es tu, et confitébor tibi: Deus meus es tu, et exaltábo te.
+R. In psaltério decem chordárum psallam tibi, allelúja, allelúja.
+
+[Responsory8]
+R. Bonum est confitéri Dómino, allelúja: 
+* Et psállere, allelúja.
+V. In decachórdo psaltério, cum cántico et cíthara.
+R. Et psállere, allelúja.
+&Gloria
+R. Et psállere, allelúja.
+
+[Capitulum Laudes]
+!Jas 1:17
+v. Caríssimi: Omne datum óptimum, et omne donum perféctum desúrsum est, descéndens a Patre lúminum, apud quem non est transmutátio, nec vicissitúdinis obumbrátio.
+$Deo gratias
+
+[Capitulum Sexta]
+!Jas 1:19-20
+v. Scitis, fratres mei dilectíssimi. Sit autem omnis homo velox ad audiéndum: tardus autem ad loquéndum, et tardus ad iram. Ira enim viri justítiam Dei non operátur.
+$Deo gratias
+
+[Capitulum Nona]
+!Jas 1:21
+v. Propter quod abiciéntes omnem immundítiam, et abundántiam malítiæ, in mansuetúdine suscípite ínsitum verbum, quod potest salváre ánimas vestras.
+$Deo gratias
+
+[Ant 3]
+Vado ad eum * qui misit me: sed quia hæc locútus sum vobis, tristítia implévit cor vestrum, allelúja.

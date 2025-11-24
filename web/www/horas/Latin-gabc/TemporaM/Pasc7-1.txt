@@ -1,4 +1,5 @@
-@Tempora/Pasc7-1
+[Responsory Vespera]
+R.br. {gabc:Tempora/Pascha/rb--spiritus_paraclitus_tonus_simplex_pro_diebus_infra_octavam--solesmes_1934}
 
 [Lectio1]
 @Tempora/Pasc7-1::s/ Quod.*//s
@@ -16,9 +17,3 @@
 [Lectio3]
 @Tempora/Pasc7-1:Lectio2:s/.*(Hoc)/$1/s s/$/~/
 @Tempora/Pasc7-1
-
-[Responsory3]
-@TemporaM/Pasc7-0
-
-[Responsory Vespera]
-R.br. {gabc:Tempora/Pascha/rb--spiritus_paraclitus_tonus_simplex_pro_diebus_infra_octavam--solesmes_1934}
