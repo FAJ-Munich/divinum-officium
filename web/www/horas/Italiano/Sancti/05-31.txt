@@ -198,17 +198,6 @@ R. O Regina di misericordia.
 &Gloria
 R. Salve, * o Regina di misericordia.
 
-[Responsory Tertia]
-R.br. Salve, * o Regina di misericordia.
-R. Salve, * o Regina di misericordia.
-V. Da cui è nato Cristo, nostro Re.
-R. O Regina di misericordia.
-&Gloria
-R. Salve, * o Regina di misericordia.
-_
-V. Stava presso la croce di Gesù la Madre sua.
-R. Compartecipe della passione, Regina di tutto il mondo.
-
 [Capitulum Sexta]
 !Sir 24:9-11
 v. Ebbi dimora in ogni luogo e presso ogni popolo, ed ebbi primato su tutte le genti e sottoposi con la forza i cuori del potenti e degli umili.
