@@ -11,10 +11,10 @@ Antiphonas horas
 [Responsory Vespera 1] (rubrica Barroux)
 @Tempora/Pent01-0:Responsory2
 
-[Responsory Vespera] (rubrica 1617 aut rubrica divino aut rubrica Bavariae)
+[Responsory Vespera] (rubrica 1617 aut rubrica divino)
 @:Responsory Breve Tertia
 
-[Versum 1] (rubrica 1617 aut rubrica divino aut rubrica Bavariae)
+[Versum 1] (rubrica 1617 aut rubrica divino)
 @:Versum 3
 
 [AntMatutinumM]
@@ -113,13 +113,13 @@ R. Tibi glória in sǽcula.
 [Responsory12]
 @Tempora/Pent01-0:Responsory8
 
-[Responsory Laudes] (rubrica 1617 aut rubrica divino aut rubrica Bavariae)
+[Responsory Laudes] (rubrica 1617 aut rubrica divino)
 @:Responsory Breve Sexta
 
 [Hymnus Laudes] (nisi rubrica cisterciensis)
 @Tempora/Pent01-0:HymnusM Vespera
 
-[Versum 2] (rubrica 1617 aut rubrica divino aut rubrica Bavariae)
+[Versum 2] (rubrica 1617 aut rubrica divino)
 @Tempora/Pent01-0:Versum 1
 
 [Responsory TertiaM]

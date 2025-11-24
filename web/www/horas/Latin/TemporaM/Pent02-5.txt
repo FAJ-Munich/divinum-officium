@@ -30,7 +30,7 @@ Confitémini Dómino, * et invocáte nomen ejus: † notas fácite in pópulis a
 @Tempora/Pent02-5::2-3
 @Tempora/Pent02-5::4-5
 @:AntMatutinumM:2-4
-@Tempora/Pent02-5::7-8
+@Tempora/Pent02-5::7-9
 ;;221;223(1-8);223(9-16)
 
 [Lectio1]

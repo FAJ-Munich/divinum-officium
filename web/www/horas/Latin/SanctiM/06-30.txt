@@ -182,7 +182,7 @@ R. Intercéde pro nobis ad Deum, qui te elégit.
 [MM Capitulum]
 @:Capitulum Sexta
 _
-@:Ant Matutinum:9-10
+@:Nocturn 2 Versum
 
 [Versum 3]
 @:Versum 1
