@@ -42,8 +42,8 @@ Amen.
 @Psalterium/Doxologies:HeartT
 
 [Versum 1]
-V. Tóllite jugum meum super vos et díscite a me.
-R. Quia mitis sum et húmilis Corde.
+{initial-style:0;%%(c3) V/. Tól(h)li(h)te(h) ju(h)gum(h) me(h)um(h) su(hi)per(h) vos(h_') (,) et(h) dí(h')sci(f)te(e) a(f_0h) me.(hiHGhih.ghGFE'fggf.) (::)
+R/. Qui(h)a(h) mi(hi)tis(h) sum(h_') (,) et(h) hú(h')mi(f)lis(e) Cor(f_0h)de.(hiHGhih.ghGFE'fggf.) (::)}
 
 [Ant 1]
 Ignem * veni míttere in terram, et quid volo nisi ut accendátur?
@@ -279,8 +279,8 @@ Amen.
 @Psalterium/Doxologies:HeartT
 
 [Versum 2]
-V. Hauriétis aquas in gáudio.
-R. De fóntibus Salvatóris.
+{initial-style:0;%%(c3) V/. Hau(h)ri(h)é(h)tis(h) a(hi)quas(h_') (,) in(fe~) gáu(f_0h)di(h)o.(hiHGhih.ghGFE'fggf.) (::)
+R/. De(h) fón(hi)ti(h)bus(h_') Sal(h)va(fe)tó(f_0h)ris.(hiHGhih.ghGFE'fggf.) (::)}
 
 [Ant 2]
 Facta sunt * enim hæc ut Scriptúra implerétur quæ dicit: Vidébunt in quem transfixérunt.

@@ -237,8 +237,8 @@ Nobis donet in pátria.
 Amen.
 
 [Versum 2]
-V. Pósuit fines tuos pacem, allelúja.
-R. Et ádipe fruménti sátiat te, allelúja.
+{initial-style:0;%%(c3) V/. Pó(h)su(h)it(h) fi(h)nes(h) tu(h)os(h) pa(hi)cem,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)
+R/. Et(h) á(h)di(h)pe(h) fru(h)mén(h)ti(h) sá(h)ti(h)at(hi) te,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 2]
 Ego sum * panis vivus, qui de cælo descéndi: si quis manducáverit ex hoc pane, vivet in ætérnum, allelúja.

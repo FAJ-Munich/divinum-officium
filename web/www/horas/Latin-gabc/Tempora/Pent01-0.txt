@@ -35,8 +35,8 @@ Amen.
 {gabc:Psalterium/Feria/hy--o_lux_beata_trinitas_aestivalis--solesmes_1934}
 
 [Versum 1]
-V. Benedicámus Patrem et Fílium cum Sancto Spíritu.
-R. Laudémus et superexaltémus eum in sǽcula.
+{initial-style:0;%%(c3) V/. Be(h)ne(h)di(h)cá(h)mus(h) Pa(h)trem(h) et(h) Fí(hi)li(h)um(h_') (,) cum(h) Sanc(f')to(e) Spí(f_0h)ri(h)tu.(hiHGhih.ghGFE'fggf.) (::)
+R/. Lau(h)dé(h)mus(h) et(h) su(h)per(h)ex(h)al(h)té(hi)mus(h_') (,) e(h)um(f') in(e) sǽ(f_0h)cu(h)la.(hiHGhih.ghGFE'fggf.) (::)}
 
 [Ant 1]
 Grátias * tibi Deus, grátias tibi, vera et una Trínitas, una et summa Déitas, sancta et una Unítas.

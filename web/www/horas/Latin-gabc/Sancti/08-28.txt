@@ -1,6 +1,6 @@
 [Name]
-Augustíno
-Ant=Augustíne
+Au(h)gus(h)tí(h)no(h)
+Ant=Au(g)gus(f)tí(g_0h)ne(kxiji/jkj.)
 
 [Oratio]
 Adésto supplicatiónibus nostris, omnípotens Deus: et, quibus fidúciam sperándæ pietátis indúlges, intercedénte beáto Augustíno Confessóre tuo atque Pontífice, consuétæ misericórdiæ tríbue benígnus efféctum.

@@ -255,7 +255,8 @@ Regnum beatitúdinis.
 Amen.
 
 [Versum 2]
-@:Versum Nona: s/[\,\.] al.*/./ig
+V. Adjutórium nostrum in nomine Dómini.
+R. Qui fecit cælum et terram.
 
 [Ant 2]
 Dedit se, * ut liberáret pópulum, et acquíreret sibi nomen ætérnum, allelúja.

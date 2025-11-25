@@ -817,6 +817,7 @@ sub replaceNdot {
   } else {
     @name = grep(/Oratio\=/, @name) unless $name !~ /Oratio\=/;
   }
+  $name[0] =~ s/kxi/i/ if $version =~ /monastic/i && $lang =~ /gabc/i;    # No b-flat in Monastic for Ant. O Doctor
   $name[0] =~ s/^.*?\=//;
 
   if ($name[0]) {

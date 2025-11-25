@@ -1,6 +1,6 @@
 [Name]
-Hierónymum
-Ant=Hierónyme
+Hie(h)ró(h)ny(h)mum(h)
+Ant=Hie(f)ró(g')ny(h)me(kxiji/jkj.)
 
 [Oratio]
 Deus, qui Ecclésiæ tuæ in exponéndis sacris Scriptúris beátum Hierónymum, Confessórem tuum, Doctórem máximum providére dignátus es: præsta, quǽsumus; ut, ejus suffragántibus méritis, quod ore simul et ópere dócuit, te adjuvánte, exercére valeámus.

@@ -59,8 +59,8 @@ Sit nostra in te glória,
 Per cuncta semper sǽcula. Amen.
 
 [Versum 1_]
-V. Ascéndit Deus in jubilatióne, allelúja.
-R. Et Dóminus in voce tubæ, allelúja.
+{initial-style:0;%%(c3) V/. A(h)scén(h)dit(h) De(h)us(h) in(h) ju(h)bi(h)la(h)ti(h)ó(hi)ne,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)
+R/. Et(h) Dó(h)mi(h)nus(h) in(h) vo(h)ce(h) tu(hi)bæ,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 1]
 Pater, * manifestávi nomen tuum homínibus quos dedísti mihi: nunc autem pro eis rogo, non pro mundo, quia ad te vénio, allelúja.
@@ -247,8 +247,8 @@ v. Primum quidem sermónem feci de ómnibus, o Theóphile, quæ cœpit Jesus fá
 $Deo gratias
 
 [Versum 2]
-V. Dóminus in cælo, allelúja.
-R. Parávit sedem suam, allelúja.
+{initial-style:0;%%(c3) V/. Dó(h)mi(h)nus(h) in(h) cæ(hi)lo,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)
+R/. Pa(h)rá(h)vit(h) se(h)dem(h) su(hi)am,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 2]
 Ascéndo ad Patrem meum, * et Patrem vestrum: Deum meum, et Deum vestrum, allelúja.
