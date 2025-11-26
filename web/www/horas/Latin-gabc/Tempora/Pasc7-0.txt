@@ -30,7 +30,7 @@ R/. Et(h) cœ(h)pé(h)runt(h) lo(hi)qui,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Gh
 {name:Non vos relinquam;annotation:1. D;mode:1;book:Antiphonale Monasticum, 1934, p. 519;transcriber:Matthias Bry;%%(c4)NON(cd~) vos(d) re(d)lín(de~)quam(d') ór(d>)pha(cf)nos,(f_e) al(d>)le(cd)lú(d_e)ja :(ddc.) (;) va(f_h)do,(g_h) et(f) vé(g_h)ni(g)o(fe) ad(cd~) vos,(d_f) al(e>)le(cd)lú(d_e)ja :(ddc.) (:) et(c) gau(cd~)dé(d_e)bit(ddc) cor(c_d) ve(ff)strum,(e_f) al(gh)le(fe)lú(d./)ja.(d.) (::)};;solemn1D
 
 [Oratio]
-{(c3) De(h)us,(h) qui(h) ho(h)di(h)ér(h)na(h) di(h)e(h) cor(h)da(h) fi(h)dé(h)li(h)um(h) San(h)cti(h) Spí(h)ri(h)tus(h) il(h)lus(h)tra(h)ti(h)ó(h)ne(h) do(h)cu(h)ís(h)ti:(f.) †(;) da(h) no(h)bis(h) in(h) e(h)ó(h)dem(h) Spí(h)ri(h)tu(h) rec(g)ta(f) sá(h)pe(h)re;(h.) *(;) et(h) de(h) e(h)jus(h) sem(h)per(h) con(h)so(h)la(h)ti(h)ó(h)ne(h) gau(h)dé(h)re.(d.) (::)}
+{(c3) De(h)us,(h) qui(h) ho(h)di(h)ér(h)na(h) di(h)e(h) cor(h)da(h) fi(h)dé(h)li(h)um(h) San(h)cti(h) Spí(h)ri(h)tus(h) il(h)lus(h)tra(h)ti(h)ó(h)ne(h) do(h)cu(h)ís(h)ti:(f.) †(,) da(h) no(h)bis(h) in(h) e(h)ó(h)dem(h) Spí(h)ri(h)tu(h) rec(g)ta(f) sá(h)pe(h)re;(h.) *(;) et(h) de(h) e(h)jus(h) sem(h)per(h) con(h)so(h)la(h)ti(h)ó(h)ne(h) gau(h)dé(h)re.(d.) (::)}
 $Per Dominum eiusdem
 
 [Invit]

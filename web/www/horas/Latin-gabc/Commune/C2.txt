@@ -59,7 +59,7 @@ R/. Et(h) con(h)sti(h)tu(h)ís(h)ti(h) e(h)um(h) su(h)per(h) ó(h)pe(h)ra(h) má
 {annotation:8.G;%%(c3) I(f)ste(ed) San(e_[uh:l]f)ctus(ee) *(,) pro(c_e) le(h)ge(h) De(h’)i(h) su(hi)i(h'_) (,) cer(h>)tá(hg)vit(f) us(g_0h)que(fe) ad(de~) mor(e.)tem,(e.) (;) et(d) a(f) ver(hi)bis(i’) im(i>)pi(i)ó(ih)rum(i) non(iji’) tí(h)mu(gh)it :(h.) (:) fun(h)dá(i)tus(g') e(h)nim(f’) e(h)rat(e!fwgFEeo) (,) su(c)pra(d) fir(ef)mam(f) pe(e.)tram.(e.) (::)};;8G
 
 [Oratio]
-{(c3)In(h)fir(h)mi(h)tá(h)tem(h) nos(h)tram(h) ré(h)spi(h)ce,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(;) et,(h) qui(h)a(h) pon(h)dus(h) pró(h)pri(h)æ(h) ac(h)ti(h)ó(g)nis(f) gra(h hr)vat,(h.) *(;) be(h)á(h)ti(h) N. Már(h)ty(h)ris(h) tu(h)i(h) at(h)que(h) Pon(h)tí(h)fi(h)cis(h) in(h)ter(h)cés(h)si(h)o(h) glo(h)ri(h)ó(h)sa(h) nos(h) pró(h)te(dr)gat.(d.) (::)}
+{(c3)In(h)fir(h)mi(h)tá(h)tem(h) nos(h)tram(h) ré(h)spi(h)ce,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(,) et,(h) qui(h)a(h) pon(h)dus(h) pró(h)pri(h)æ(h) ac(h)ti(h)ó(g)nis(f) gra(h hr)vat,(h.) *(;) be(h)á(h)ti(h) N. Már(h)ty(h)ris(h) tu(h)i(h) at(h)que(h) Pon(h)tí(h)fi(h)cis(h) in(h)ter(h)cés(h)si(h)o(h) glo(h)ri(h)ó(h)sa(h) nos(h) pró(h)te(dr)gat.(d.) (::)}
 $Per Dominum
 
 [Invit]

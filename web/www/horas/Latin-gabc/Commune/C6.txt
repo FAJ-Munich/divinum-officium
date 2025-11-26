@@ -56,7 +56,7 @@ R/.(::) In(h)tén(h)de,(h) prós(h)pe(h)re(h) pro(h)cé(h)de,(h) et(h) reg(h)na.
 {name:Veni sponsa Christi (I Vesperis);annotation:8.G;mode:8;book:Antiphonale Monasticum, 1934, p. 678;transcriber:Andrew Hinkley;%%(c3) VE(e@fwh)ni(f) spon(fe~)sa(d) Chri(e_f)sti,(e.) *(,) ác(g')ci(h)pe(i) co(hf)ró(hh)nam,(g.) (;) quam(ii) ti(h')bi(h) Dó(ij)mi(i)nus(hg/hih'_1) (,) præ(f)pa(e')rá(f)vit(f'_) † in(h) æ(g)tér(e.)num.(e.) (::) ^_T. P._^ † in(h) æ(g')tér(e)num,(e_f) al(g>)le(fg)lú(e.)ia.(e.) (::)};;8G
 
 [Oratio]
-{(c3)De(h)us,(h) qui(h) in(h)ter(h) cé(h)te(h)ra(h) pot(h)én(h)ti(h)æ(h) tu(h)æ(h) mi(h)rá(h)cu(h)la(h) ét(h)i(h)am(h) in(h) se(h)xu(h) frá(h)gi(h)li(h) vic(h)tó(h)ri(h)am(h) mar(h)tý(h)ri(h)i(h) con(h)tu(h)lís(h)ti:(f.) †(;) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut,(h) qui(h) be(h)á(h)tæ(h) N. Vír(h)gi(h)nis(h) et(h) Már(h)ty(h)ris(h) tu(h)æ(h) na(h)ta(h)lí(h)ci(g)a(f) có(h)li(hr)mus,(h.) *(;) per(h) e(h)jus(h) ad(h) te(h) ex(h)ém(h)pla(h) gra(h)di(h)á(h dr)mur.(d.) (::)}
+{(c3)De(h)us,(h) qui(h) in(h)ter(h) cé(h)te(h)ra(h) pot(h)én(h)ti(h)æ(h) tu(h)æ(h) mi(h)rá(h)cu(h)la(h) ét(h)i(h)am(h) in(h) se(h)xu(h) frá(h)gi(h)li(h) vic(h)tó(h)ri(h)am(h) mar(h)tý(h)ri(h)i(h) con(h)tu(h)lís(h)ti:(f.) †(,) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut,(h) qui(h) be(h)á(h)tæ(h) N. Vír(h)gi(h)nis(h) et(h) Már(h)ty(h)ris(h) tu(h)æ(h) na(h)ta(h)lí(h)ci(g)a(f) có(h)li(hr)mus,(h.) *(;) per(h) e(h)jus(h) ad(h) te(h) ex(h)ém(h)pla(h) gra(h)di(h)á(h dr)mur.(d.) (::)}
 $Per Dominum
 
 [Invit]

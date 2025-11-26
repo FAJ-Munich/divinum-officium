@@ -45,12 +45,12 @@ $Per Dominum.
 
 [Oratio in 2 loco]
 !In ipso die Dedicationis Ecclesiæ et per Ottava, et quando varianda est Oratio 
-{(c3)De(h)us,(h) qui(h) in(h)vi(h)si(h)bí(h)li(h)ter(h) óm(h)ni(h)a(h) cón(h)ti(h)nes,(h) et(h) ta(h)men(h) pro(h) sa(h)lú(h)te(h) gé(h)ne(h)ris(h) hu(h)má(h)ni(h) si(h)gna(h) tu(h)æ(h) pot(h)én(h)ti(h)æ(h) vi(h)si(h)bí(h)li(h)ter(h) os(h)tén(h)dis:(f.) †(;) tem(h)plum(h) hoc(h) pot(h)én(h)ti(h)a(h) tu(h)æ(h) in(h)ha(h)bi(h)ta(h)ti(h)ó(h)nis(h) il(h)lús(h)tra,(h) et(h) con(h)cé(h)de;(h) ut(h) om(h)nes,(h) qui(h) huc(h) de(h)pre(h)ca(h)tú(h)ri(g) con(f)vé(h)ni(hr)unt,(h.) *(;) ex(h) qua(h)cúm(h)que(h) tri(h)bu(h)la(h)ti(h)ó(h)ne(h) ad(h) te(h) cla(h)má(h)ve(h)rint,(h) con(h)so(h)la(h)ti(h)ó(h)nis(h) tu(h)as(h) be(h)ne(h)fí(h)ci(h)a(h) con(h)se(h)quán(h dr)tur.(d.) (::)}
+{(c3)De(h)us,(h) qui(h) in(h)vi(h)si(h)bí(h)li(h)ter(h) óm(h)ni(h)a(h) cón(h)ti(h)nes,(h) et(h) ta(h)men(h) pro(h) sa(h)lú(h)te(h) gé(h)ne(h)ris(h) hu(h)má(h)ni(h) si(h)gna(h) tu(h)æ(h) pot(h)én(h)ti(h)æ(h) vi(h)si(h)bí(h)li(h)ter(h) os(h)tén(h)dis:(f.) †(,) tem(h)plum(h) hoc(h) pot(h)én(h)ti(h)a(h) tu(h)æ(h) in(h)ha(h)bi(h)ta(h)ti(h)ó(h)nis(h) il(h)lús(h)tra,(h) et(h) con(h)cé(h)de;(h) ut(h) om(h)nes,(h) qui(h) huc(h) de(h)pre(h)ca(h)tú(h)ri(g) con(f)vé(h)ni(hr)unt,(h.) *(;) ex(h) qua(h)cúm(h)que(h) tri(h)bu(h)la(h)ti(h)ó(h)ne(h) ad(h) te(h) cla(h)má(h)ve(h)rint,(h) con(h)so(h)la(h)ti(h)ó(h)nis(h) tu(h)as(h) be(h)ne(h)fí(h)ci(h)a(h) con(h)se(h)quán(h dr)tur.(d.) (::)}
 $Per Dominum
 
 [Oratio]
 !In Anniversario Dedicationis Ecclesiæ
-{(c3)De(h)us,(h) qui(h) no(h)bis(h) per(h) sín(h)gu(h)los(h) an(h)nos(h) hu(h)jus(h) sanc(h)ti(h) tem(h)pli(h) tu(h)i(h) con(h)se(h)cra(h)ti(h)ó(h)nis(h) ré(h)pa(h)ras(h) di(h)em,(h) et(h) sa(h)cris(h) sem(h)per(h) mys(h)té(h)ri(h)is(h) re(h)præ(h)sén(h)tas(h) in(h)có(h)lu(f)mes:(f.) †(;) ex(h)áu(h)di(h) pre(h)ces(h) pó(h)pu(h)li(h) tu(h)i,(h) et(h) præ(h)sta;(h) ut(h) quis(h)quis(h) hoc(h) tem(h)plum(h) be(h)ne(h)fí(h)ci(h)a(h) pe(h)ti(h)tú(h)rus(g) in(f)gré(h)di(hr)tur,(h.) *(;) cunc(h)ta(h) se(h) im(h)pe(h)trás(h)se(h) læ(h)té(h dr)tur.(d.) (::)}
+{(c3)De(h)us,(h) qui(h) no(h)bis(h) per(h) sín(h)gu(h)los(h) an(h)nos(h) hu(h)jus(h) sanc(h)ti(h) tem(h)pli(h) tu(h)i(h) con(h)se(h)cra(h)ti(h)ó(h)nis(h) ré(h)pa(h)ras(h) di(h)em,(h) et(h) sa(h)cris(h) sem(h)per(h) mys(h)té(h)ri(h)is(h) re(h)præ(h)sén(h)tas(h) in(h)có(h)lu(f)mes:(f.) †(,) ex(h)áu(h)di(h) pre(h)ces(h) pó(h)pu(h)li(h) tu(h)i,(h) et(h) præ(h)sta;(h) ut(h) quis(h)quis(h) hoc(h) tem(h)plum(h) be(h)ne(h)fí(h)ci(h)a(h) pe(h)ti(h)tú(h)rus(g) in(f)gré(h)di(hr)tur,(h.) *(;) cunc(h)ta(h) se(h) im(h)pe(h)trás(h)se(h) læ(h)té(h dr)tur.(d.) (::)}
 $Per Dominum
 
 [Invit]

@@ -1,5 +1,5 @@
 [Oratio]
-{(c3) De(h)us,(h) qui(h) so(h)lem(h)ni(h)tá(h)te(h) pa(h)schá(h)li,(h) mun(h)do(h) re(h)mé(h)di(h)a(h) con(h)tu(h)lís(h)ti:(f.) †(;) pó(h)pu(h)lum(h) tu(h)um,(h) quǽ(h)su(h)mus,(h) cæ(h)lé(h)sti(h) do(h)no(g) pro(f)sé(h)que(h)re;(h.) *(;) ut(h) et(h) per(h)féc(h)tam(h) li(h)ber(h)tá(h)tem(h) cón(h)se(h)qui(h) me(h)re(h)á(h)tur,(h) (,) et(h) ad(h) vi(h)tam(h) pro(h)fí(h)ci(h)at(h) sem(h)pi(h)tér(h.)nam.(d.) (::)}
+{(c3) De(h)us,(h) qui(h) so(h)lem(h)ni(h)tá(h)te(h) pa(h)schá(h)li,(h) mun(h)do(h) re(h)mé(h)di(h)a(h) con(h)tu(h)lís(h)ti:(f.) †(,) pó(h)pu(h)lum(h) tu(h)um,(h) quǽ(h)su(h)mus,(h) cæ(h)lé(h)sti(h) do(h)no(g) pro(f)sé(h)que(h)re;(h.) *(;) ut(h) et(h) per(h)féc(h)tam(h) li(h)ber(h)tá(h)tem(h) cón(h)se(h)qui(h) me(h)re(h)á(h)tur,(h) (,) et(h) ad(h) vi(h)tam(h) pro(h)fí(h)ci(h)at(h) sem(h)pi(h)tér(h.)nam.(d.) (::)}
 $Per Dominum
 
 [Lectio1]

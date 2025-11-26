@@ -38,7 +38,7 @@ R/. Sto(h)lam(h) gló(h)ri(h)æ(h) índ(h)u(h)it(h) e(h hr)um.(g_'/hvGF'E!fgf.) 
 {name:Sacerdos et pontifex;annotation:1.D;mode:1;book:Antiphonale Monasticum, 1934, p. 656;%%(c4)SA(d)cér(dd)dos(c') et(d) Pón(f_g)ti(d)fex,(dfd___'dc.) *(,) et(f) vir(g')tú(h)tum(g') ó(h)pi(gf)fex,(ggf.) (;) pa(h)stor(g') bo(h)ne(g') in(f>) pó(fe)pu(fg)lo:(gf'fvED.) (;) o(dd)ra(c) pro(d') no(f)bis(fgf) † Dó(d)mi(cd)num.(d.) (::) ^_T. P._^ † Dó(d')mi(c)num,(e_f) al(g>)le(fe)lú(d.)ja.(d.) (::)};;1D
 
 [Oratio]
-{(c3)Da,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(;) ut(h) be(h)á(h)ti(h) N. Con(h)fes(h)só(h)ris(h) tu(h)i(h) at(h)que(h) Pon(h)tí(h)fi(h)cis(h) ve(h)ne(h)rán(h)da(g) so(f)lém(h)ni(hr)tas,(h.) *(;) et(h) de(h)vo(h)ti(h)ó(h)nem(h) no(h)bis(h) áu(h)ge(h)at(h) et(h) sa(h)lú(h dr)tem.(d.) (::)}
+{(c3)Da,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(,) ut(h) be(h)á(h)ti(h) N. Con(h)fes(h)só(h)ris(h) tu(h)i(h) at(h)que(h) Pon(h)tí(h)fi(h)cis(h) ve(h)ne(h)rán(h)da(g) so(f)lém(h)ni(hr)tas,(h.) *(;) et(h) de(h)vo(h)ti(h)ó(h)nem(h) no(h)bis(h) áu(h)ge(h)at(h) et(h) sa(h)lú(h dr)tem.(d.) (::)}
 $Per Dominum.
 
 [Invit]

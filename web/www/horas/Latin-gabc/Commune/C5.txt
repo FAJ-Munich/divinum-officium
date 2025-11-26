@@ -34,7 +34,7 @@
 {name:Similabo eum;annotation:1.D;mode:1;book:Antiphonale Monasticum, 1934, p. 669;transcriber:Dominique CROCHU;%%(c4) SI(c)mi(cd)lá(d)bo(d) e(fv_2/fv_)um(d!ewf_EC.) *(,) vi(f)ro(g) sa(ixhih)pi(g)én(ig~)ti,(h.) (;) qui(h) æ(g')di(f)fi(e)cá(g_h)vit(gfg) (,) do(fe)mum(c'>) su(d)am(d') su(f)pra(ef~) † pe(d.)tram.(d.) (::) ^_T. P._^ † pe(d)tram,(dc) al(d)le(fe)lú(d.)ja(d.) (::)};;1D
 
 [Oratio]
-{(c3)De(h)us,(h) qui(h) nos(h) be(h)á(h)ti(h) N. Con(h)fes(h)só(h)ris(h) tu(h)i(h) án(h)nu(h)a(h) so(h)lem(h)ni(h)tá(h)te(h) læ(h)tí(h)fi(f)cas:(f.) †(;) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut(h) cu(h)jus(h) na(h)ta(h)lí(h)ti(g)a(f) có(h)li(hr)mus,(h.) *(;) ét(h)i(h)am(h) ac(h)ti(h)ó(h)nes(h) i(h)mi(h)té(h dr)mur.(d.) (::)}
+{(c3)De(h)us,(h) qui(h) nos(h) be(h)á(h)ti(h) N. Con(h)fes(h)só(h)ris(h) tu(h)i(h) án(h)nu(h)a(h) so(h)lem(h)ni(h)tá(h)te(h) læ(h)tí(h)fi(f)cas:(f.) †(,) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut(h) cu(h)jus(h) na(h)ta(h)lí(h)ti(g)a(f) có(h)li(hr)mus,(h.) *(;) ét(h)i(h)am(h) ac(h)ti(h)ó(h)nes(h) i(h)mi(h)té(h dr)mur.(d.) (::)}
 $Per Dominum.
 
 [Nocturn 2 Versum]
