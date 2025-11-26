@@ -152,8 +152,6 @@ $Deo gratias
 R.br. {gabc:Commune/C8/rb--domum_tuam--solesmes_1961.1}
 (sed tempore paschali)
 R.br. {gabc:Commune/C8/rb--domum_tuam_paschal_time--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C8/rb--domum_tuam-passionis-solesmes_1961.1}
 
 [Versum Tertia]
 {initial-style:0;%%(c3) V/. Lo(h)cus(h) is(h)te(h) sanc(h)tus(h) est,(h) in(h) quo(h) o(h)rat(h) sa(h)cér(h hr)dos.(g_'/hvGF'E!fgf.) (::)
@@ -168,15 +166,11 @@ $Deo gratias
 R.br. {gabc:Commune/C8/rb--locus_iste--solesmes_1934}
 (sed tempore paschali)
 R.br. {gabc:Commune/C8/rb--locus_iste_paschal_time--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C8/rb--locus_iste-passionis-solesmes_1934}
 
 [Responsory Breve Nona]
 R.br. {gabc:Commune/C8/rb--haec_est_domus_domini--solesmes_1961.1}
 (sed tempore paschali)
 R.br. {gabc:Commune/C8/rb--haec_est_domus_paschal_time--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C8/rb--haec_est_domus_domini-passionis-solesmes_1961.1}
 
 [Versum Nona]
 {initial-style:0;%%(c3) V/. Be(h)ne(h) fun(h)dá(h)ta(h) est(h) do(h)mus(h) Dó(h)mi(hr)ni.(g_'/hvGF'E!fgf.) (::)

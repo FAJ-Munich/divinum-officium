@@ -216,8 +216,6 @@ R/. Prop(h)tér(h)e(h)a(h) be(h)ne(h)dí(h)xit(h) te(h) De(h)us(h) in(h) æ(h)t�
 
 [Responsory Breve Tertia]
 R.br. {gabc:Commune/C6/rb--specie_tua--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C6/rb--specie_tua-passionis-solesmes_1961.1}
 (sed tempore paschali)
 R.br. {gabc:Commune/C6/rb--specie_tua_paschal_time--solesmes_1961.1}
 
@@ -228,15 +226,11 @@ $Deo gratias
 
 [Responsory Breve Sexta]
 R.br. {gabc:Commune/C6/rb--adjuvabit_eam--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C6/rb--adjuvabit_eam-passionis-solesmes_1961.1}
 (sed tempore paschali)
 R.br. {gabc:Commune/C6/rb--adjuvabit_eam_paschal_time--solesmes_1961.1}
 
 [Responsory Breve Nona]
 R.br. {gabc:Commune/C6/rb--elegit_eam--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C6/rb--elegit_eam-passionis-solesmes_1961.1}
 (sed tempore paschali)
 R.br. {gabc:Commune/C6/rb--elegit_eam_deus_TP--1912}
 

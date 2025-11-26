@@ -176,8 +176,6 @@ R/. Et(h) os(h)tén(h)dit(h) il(h)li(h) reg(h)num(h) De(h)i,(h_') (,) al(h)le(h)
 
 [Responsory Breve Tertia]
 R.br. {gabc:Commune/C4/rb--amavit_eum_dominus--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C4/rb--amavit_eum_dominus-passionis-solesmes_1961.1}
 (sed tempore paschali)
 R.br. {gabc:Commune/C4/rb--amavit_eum_dominus_resp._br._t.p.--solesmes_1961.1}
 
@@ -188,15 +186,11 @@ $Deo gratias
 
 [Responsory Breve Sexta]
 R.br. {gabc:Commune/C4/rb--elegit_eum--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C4/rb--elegit_eum-passionis-solesmes_1961.1}
 (sed tempore paschali)
 R.br. {gabc:Commune/C4/rb--elegit_eum_paschal_time--solesmes_1961.1}
 
 [Responsory Breve Nona]
 R.br. {gabc:Commune/C4/rb--tu_es_sacerdos--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C4/rb--tu_es_sacerdos-passionis-solesmes_1961.1}
 (sed tempore paschali)
 R.br. {gabc:Commune/C4/rb--tu_es_sacerdos_paschal_time--solesmes_1961.1}
 

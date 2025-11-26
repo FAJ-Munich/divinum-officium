@@ -138,15 +138,11 @@ $Deo gratias
 
 [Responsory Breve Sexta]
 R.br. {gabc:Commune/C5/rb--os_justi--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C5/rb--os_justi-passionis-solesmes_1961.1}
 (sed tempore paschali)
 R.br. {gabc:Commune/C5/rb--os_justi_paschal_time--solesmes_1961.1}
 
 [Responsory Breve Nona]
 R.br. {gabc:Commune/C5/rb--lex_dei--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C5/rb--lex_dei-passionis-solesmes_1961.1}
 (sed tempore paschali)
 R.br. {gabc:Commune/C5/rb--lex_dei_tempus_paschale--solesmes_1961.1}
 
