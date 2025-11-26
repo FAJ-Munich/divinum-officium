@@ -9,9 +9,11 @@ Angelus Dómini * appáruit Joseph, dicens: Joseph, fili David, noli timére acc
 {gabc:Sancti/03-19/hy--te_joseph_celebrent--solesmes.1}
 
 [Versum 1]
-{initial-style:0;%%(c3) V/. Con(h)stí(h)tu(h)it(h) e(h)um(h) dó(hi)mi(hr)num(h_0)(,) do(h)mus(fe) su(f_0h)æ.(hiH'Ghih.ghG'FE'fggf.) (::) R/. Et(h) prí(h)nci(h)pem(h) om(hi)nis(h_0) (,) pos(h)ses(h)si(h)ó(h)nis(fe) su(f_0h)æ.(hiH'Ghih.ghG'FE'fggf.) (::)}
+{initial-style:0;%%(c3) V/. Con(h)stí(h)tu(h)it(h) e(h)um(h) dó(hi)mi(hr)num(h_0)(,) do(h)mus(fe) su(f_0h)æ.(hiH'Ghih.ghG'FE'fggf.) (::)
+R/. Et(h) prí(h)nci(h)pem(h) om(hi)nis(h_0) (,) pos(h)ses(h)si(h)ó(h)nis(fe) su(f_0h)æ.(hiH'Ghih.ghG'FE'fggf.) (::)}
 (sed tempore paschali)
-{initial-style:0;%%(c3) V/. Con(h)stí(h)tu(h)it(h) e(h)um(h) dó(h)mi(h)num(h) do(h)mus(h) su(hi)æ,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::) R/. Et(h) prí(h)nci(h)pem(h) om(h)nis(h) pos(h)ses(h)si(h)ó(h)nis(h) su(hi)æ,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
+{initial-style:0;%%(c3) V/. Con(h)stí(h)tu(h)it(h) e(h)um(h) dó(h)mi(h)num(h) do(h)mus(h) su(hi)æ,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)
+R/. Et(h) prí(h)nci(h)pem(h) om(h)nis(h) pos(h)ses(h)si(h)ó(h)nis(h) su(hi)æ,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 1]
 {name:Exsurgens Joseph;office-part:Antiphona;annotation:1.g3;book:Antiphonale Monasticum, 1934, p. 840;transcriber:Dominique CROCHU;%%(c4) EX(f)súr(h)gens(g') Jo(h)seph(g') a(f) som(gf~)no,(d.) *(,) fe(hih)cit(g') sic(h)ut(g') præ(h)cé(jk)pit(j) e(ji)i(hg) An(ij)ge(ih)lus(i) Dó(h')mi(g)ni,(h.) (;) et(fe) ac(c_d)cé(ffg)pit(ff)  cón(e_f)ju(g)gem(fe) su(d.)am.(d.) (::) <i>T. P.</i> Al(e)le(fe)lú(d.){ja}.(d.) (::)};;solemn1g3

@@ -26,8 +26,8 @@ R/. Be(h)ne(h) fun(h)dá(h)ta(h) est(h) su(h)pra(h) fir(h)mam(h) pe(h hr)tram.(g
 R/. Be(h)ne(h) fun(h)dá(hi)ta(h) est(h_') (,) su(h)pra(h) fir(h)mam(fe) pe(f_0h)tram.(hiHGhih.ghGFE'fggf.) (::)}
 
 [Versum 1] (tempore paschali)
-{initial-style:0;%%(c3) V/. Hæc(h) est(h) do(h)mus(h) Dó(h)mi(h)ni(h) fír(h)mi(h)ter(h) æ(h)di(h)fi(h)cá(h)ta,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'Efgf.) (::)
-R/. Be(h)ne(h) fun(h)dá(h)ta(h) est(h) su(h)pra(h) fir(h)mam(h) pe(h)tram,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'Efgf.) (::)}
+{initial-style:0;%%(c3) V/. Hæc(h) est(h) do(h)mus(h) Dó(h)mi(h)ni(h) fír(h)mi(h)ter(h) æ(h)di(h)fi(h)cá(h)ta,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/. Be(h)ne(h) fun(h)dá(h)ta(h) est(h) su(h)pra(h) fir(h)mam(h) pe(h)tram,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 (sed tonus solemnis nisi ad matutinum loco hujus versus dicitur)
 {initial-style:0;%%(c3) V/. Hæc(h) est(h) do(h)mus(h) Dó(h)mi(h)ni(h) fír(h)mi(h)ter(h) æ(h)di(h)fi(h)cá(hi)ta(h_’) *(:) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)
 R/. Be(h)ne(h) fun(h)dá(h)ta(h) est(h) su(h)pra(h) fir(h)mam(h) pe(hi)tram,(h_’) *(:) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)}
@@ -190,8 +190,8 @@ R/. In(h) lon(h)gi(h)tú(h)di(h)nem(h) di(h)é(h hr)rum.(g_'/hvGF'E!fgf.) (::)}
 R/. In(h) lon(h)gi(h)tú(hi)di(h)nem(h) di(fe)é(f_0h)rum.(hiHGhih.ghGFE’fggf.) (::)}
 
 [Versum 3] (tempore paschali)
-{initial-style:0;%%(c3) V/. Do(h)mum(h) tu(h)am,(h) Dó(h)mi(h)ne,(h) de(h)cet(h) sanc(h)ti(h)tú(h)do,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'Efgf.) (::)
-R/. In(h) lon(h)gi(h)tú(h)di(h)nem(h) di(h)é(h)rum,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'Efgf.) (::)}
+{initial-style:0;%%(c3) V/. Do(h)mum(h) tu(h)am,(h) Dó(h)mi(h)ne,(h) de(h)cet(h) sanc(h)ti(h)tú(h)do,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/. In(h) lon(h)gi(h)tú(h)di(h)nem(h) di(h)é(h)rum,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 (sed tonus solemnis nisi ad matutinum loco hujus versus dicitur)
 {initial-style:0;%%(c3) V/. Do(h)mum(h) tu(h)am,(h) Dó(h)mi(h)ne,(h) de(h)cet(h) sanc(h)ti(h)tú(hi)do,(h_') *(:) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)
 R/. In(h) lon(h)gi(h)tú(h)di(h)nem(h) di(h)é(hi)rum,(h_') *(:) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)}

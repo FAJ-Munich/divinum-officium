@@ -158,7 +158,8 @@ v. Benedictiónes patris tui confortátæ sunt benedictiónibus patrum ejus, don
 $Deo gratias
 
 [Versum 2]
-{initial-style:0;%%(c3) V/. De(h)dís(h)ti(h) mi(h)hi(h) pro(h)tec(h)ti(h)ó(h)nem(h) sa(h)lú(h)tis(h) tu(hi)æ,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::) R/. Et(h) déx(h)te(h)ra(h) tu(h)a(h) sus(h)cé(hi)pit(hr) me,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
+{initial-style:0;%%(c3) V/. De(h)dís(h)ti(h) mi(h)hi(h) pro(h)tec(h)ti(h)ó(h)nem(h) sa(h)lú(h)tis(h) tu(hi)æ,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)
+R/. Et(h) déx(h)te(h)ra(h) tu(h)a(h) sus(h)cé(hi)pit(hr) me,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 2]
 {name:Joseph fili David;annotation:7. a;mode:7;book:Liber antiphonarius, 1960, p. 691;transcriber:Andrew Hinkley;%%(c3) JO(e)seph(e') fi(e)li(g') Da(h)vid,(i.) (,) * no(h')li(j) ti(i)mé(k)re(j') ac(i)cí(g')pe(h)re(ij) Ma(i)rí(hi)am(i.) (,) cón(hg)ju(fe)gem(de) tu(e)am:(e.) (:) quod(e') e(e)nim(g') in(h) e(i'_)a(i_) na(j_k)tum(j) est,(h'_) (,) de(j_) Spí(i')ri(i)tu(g_h) San(i)cto(gh) est,(fv_ED) al(ef~)le(f)lú(e.)ja.(e.) (::)};;7a

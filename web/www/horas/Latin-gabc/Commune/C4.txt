@@ -159,9 +159,11 @@ $Deo gratias
 {gabc:Commune/C4/hy--jesu_redemptor_omnium_t._paschali-octava BMV-solesmes_1934}
 
 [Versum 2]
-{initial-style:0;%%(c3) V/. Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas.(g_'/hvGF'Efgf.) (::) R/. Et(h) os(h)tén(h)dit(h) il(h)li(h) reg(h)num(h) De(h)i.(g_'/hvGF'Efgf.) (::)}
+{initial-style:0;%%(c3) V/. Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas.(g_'/hvGF'E!fgf.) (::)
+R/. Et(h) os(h)tén(h)dit(h) il(h)li(h) reg(h)num(h) De(h)i.(g_'/hvGF'E!fgf.) (::)}
 (sed tempore paschali)
-{initial-style:0;%%(c3) V/. Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'Efgf.) (::) R/. Et(h) os(h)tén(h)dit(h) il(h)li(h) reg(h)num(h) De(h)i,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'Efgf.) (::)}
+{initial-style:0;%%(c3) V/. Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/. Et(h) os(h)tén(h)dit(h) il(h)li(h) reg(h)num(h) De(h)i,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 2]
 {name:Euge serve bone (Conf Pont);annotation:1.D;mode:1;book:The Liber Usualis, 1961, p. 1181 & Liber antiphonarius, 1960, p. [61];transcriber:Andrew Hinkley;%%(c4) EU(d!ew!fv_E~D~)ge,(d.) *(,) ser(d)ve(e) bo(d')ne(c) et(d) fi(f)dé(d!ewf_c)lis,(c.) (;) qui(f_h)a(g_[uh:l]h) in(f_g) pau(h')ca(g) fu(f')í(g)sti(d_[oh:h]g_[oh:h]f_[oh:h]) fi(fe)dé(dd)lis,(c.) (:) su(c)pra(d) mul(f')ta(f) te(fe) con(dc~)stí(f)tu(f)am,(e_[uh:l]f) (,) di(g)cit(fe) Dó(d)mi(d)nus.(d.) (::) ^_T. P._^ Al(e)le(fe)lú(d.){ia}.(d.) (::)};;1D
