@@ -170,8 +170,8 @@ R. Delíciis áffluens.
 R. Quæ est ista quæ ascéndit de desérto, * Delíciis áffluens?
 
 [Versum Tertia]
-V. Vidérunt eam fíliæ Sion.
-R. Et beatíssimam prædicavérunt.
+{initial-style: 0;%%(c3) V/. Vi(h)dé(h)runt(h) e(h)am(h) fí(h)li(h)æ(h) Si(h)on.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) be(h)a(h)tís(h)si(h)mam(h) præ(h)di(h)ca(h)vé(h)runt.(g_'/hvGF'E!fgf.) (::)}
 
 [Capitulum Sexta]
 !Prov 8:18-19
@@ -187,8 +187,8 @@ R. Pulchræ dilectiónis.
 R. Ego Mater * Pulchræ dilectiónis.
 
 [Versum Sexta]
-V. In me omnis grátia viæ et veritátis.
-R. In me omnis spes vitæ et virtútis.
+{initial-style: 0;%%(c3) V/. In(h) me(h) om(h)nis(h) grá(h)ti(h)a(h) vi(h)æ(h) et(h) ve(h)ri(h)tá(h)tis.(g_'/hvGF'E!fgf.) (::)
+R/.In(h) me(h) om(h)nis(h) spes(h) vi(h)tæ(h) et(h) vir(h)tú(h)tis.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory Breve Nona]
 R.br. Qui me invénerit * Invéniet vitam.
@@ -199,8 +199,8 @@ R. Invéniet vitam.
 R. Qui me invénerit * Invéniet vitam.
 
 [Versum Nona]
-V. Transíte ad me, omnes qui concupíscitis me.
-R. Et a generatiónibus meis implémini.
+{initial-style: 0;%%(c3) V/. Trans(h)í(h)te(h) ad(h) me,(h) om(h)nes(h) qui(h) con(h)cu(h)pí(h)sci(h)tis(h) me.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) a(h) ge(h)ne(h)ra(h)ti(h)ó(h)ni(h)bus(h) me(h)is(h) im(h)plé(h)mi(h)ni.(g_'/hvGF'E!fgf.) (::)}
 
 [Hymnus Vespera 3]
 v. Omnis expértem máculæ Maríam

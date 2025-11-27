@@ -87,11 +87,11 @@ Custodiébant * testimónia ejus, et præcépta ejus, allelúja.;;98
 
 [Nocturn 2 Versum]
 {initial-style:0;%%(c3) V/. Con(h)stí(h)tu(h)es(h) e(h)os(h) prín(h)ci(h)pes(h) su(h)per(h) om(h)nem(h) ter(h hr)ram.(g_'/hvGF'E!fgf.) (::)
-R/.  Mé(h)mo(h)res(h) e(h)runt(h) nó(h)mi(h)nis(h) tu(h)i,(h) Dó(h)mi(hr)ne.(g_'/hvGF'E!fgf.) (::)}
+R/. Mé(h)mo(h)res(h) e(h)runt(h) nó(h)mi(h)nis(h) tu(h)i,(h) Dó(h)mi(hr)ne.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
 {initial-style:0;%%(c3) V/. Ni(h)mis(h) ho(h)no(h)rá(h)ti(h) sunt(h) a(h)mí(h)ci(h) tu(h)i(h) De(h hr)us.(g_'/hvGF'E!fgf.) (::)
-R/.  Ni(h)mis(h) con(h)for(h)tá(h)tus(h) est(h) prin(h)ci(h)pá(h)tus(h) e(h)ó(h hr)rum.(g_'/hvGF'E!fgf.) (::)}
+R/. Ni(h)mis(h) con(h)for(h)tá(h)tus(h) est(h) prin(h)ci(h)pá(h)tus(h) e(h)ó(h hr)rum.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Ecce ego mitto vos sicut oves in médio lupórum, dicit Dóminus:

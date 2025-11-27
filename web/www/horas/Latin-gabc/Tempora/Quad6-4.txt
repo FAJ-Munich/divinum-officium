@@ -60,12 +60,12 @@ _
 {initial-style:0;%%(c4) R/. Qui(h) có(h)gi(h)tant(h) mí(i')hi(h) má(g.)la.(g.) (::)}
 
 [Nocturn 2 Versum]
-{initial-style:0;%%(c4) V/. De(h)us(h) me(h)us,(h) é(h)ri(h)pe(h) me(h) de(h) ma(h)nu(h) pec(i')ca(h)tó(g.)ris.(g.) (::)}
-{initial-style:0;%%(c4) R/. Et(h) de(h) ma(h)nu(h) con(h)tra(h) le(h)gem(h) a(h)gén(h)tis(h) et(i') in(h)í(g.)qui.(g.) (::)}
+{initial-style:0;%%(c4) V/. De(h)us(h) me(h)us,(h) é(h)ri(h)pe(h) me(h) de(h) ma(h)nu(h) pec(i')ca(h)tó(g.)ris.(g.) (::)
+R/. Et(h) de(h) ma(h)nu(h) con(h)tra(h) le(h)gem(h) a(h)gén(h)tis(h) et(i') in(h)í(g.)qui.(g.) (::)}
 
 [Nocturn 3 Versum]
-{initial-style:0;%%(c4) V/. Ex(h)súr(i')ge,(h) Dó(g')mi(g.)ne.(g.) (::)}
-{initial-style:0;%%(c4) R/. Et(h) jú(h)di(h)ca(h) cau(i')sam(h) me(g.)am.(g.) (::)}
+{initial-style:0;%%(c4) V/. Ex(h)súr(i')ge,(h) Dó(g')mi(g.)ne.(g.) (::)
+R/. Et(h) jú(h)di(h)ca(h) cau(i')sam(h) me(g.)am.(g.) (::)}
 
 [Lectio1]
 !Lam 1:1-5 

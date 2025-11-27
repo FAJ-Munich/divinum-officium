@@ -1,6 +1,6 @@
 [Versum 1]
-V. Cibávit illos ex ádipe fruménti, allelúja.
-R. Et de petra, melle saturávit eos, allelúja.
+{initial-style: 0;%%(c3) V/. Ci(h)bá(h)vit(h) il(h)los(h) ex(h) á(h)di(h)pe(h) fru(h)mén(h)ti,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) de(h) pe(h)tra,(h) mel(h)le(h) sa(h)tu(h)rá(h)vit(h) e(h)os,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 1]
 Puer Sámuel * ministrábat ante Deum coram Heli, et sermo Dómini erat pretiósus cum eo.
@@ -75,8 +75,8 @@ v. Caríssimi: Nolíte mirári, si odit vos mundus. Nos scimus quóniam translá
 $Deo gratias
 
 [Versum 2]
-V. Panem cæli dedit eis, allelúja.
-R. Panem Angelórum manducávit homo, allelúja.
+{initial-style: 0;%%(c3) V/. Pa(h)nem(h) cæ(h)li(h) de(h)dit(h) e(h)is,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.Pa(h)nem(h) An(h)ge(h)ló(h)rum(h) man(h)du(h)cá(h)vit(h) ho(h)mo,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 2]
 Homo quidam * fecit cenam magnam, et vocávit multos: et misit servum suum hora cenæ dícere invitátis ut venírent, quia ómnia paráta sunt, allelúja.

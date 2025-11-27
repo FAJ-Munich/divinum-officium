@@ -39,11 +39,11 @@ $Per Dominum.
 
 [Nocturn 2 Versum]
 {initial-style:0;%%(c3) V/. Os(h) jus(h)ti(h) me(h)di(h)tá(h)bi(h)tur(h) sa(h)pi(h)én(h)ti(hr)am.(g_'/hvGF'E!fgf.) (::)
-R/.  Et(h) lin(h)gua(h) e(h)jus(h) lo(h)qué(h)tur(h) ju(h)dí(h)ci(hr)um.(g_'/hvGF'E!fgf.) (::)}
+R/. Et(h) lin(h)gua(h) e(h)jus(h) lo(h)qué(h)tur(h) ju(h)dí(h)ci(hr)um.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
 {initial-style:0;%%(c3) V/. Lex(h) De(h)i(h) e(h)jus(h) in(h) cor(h)de(h) ip(h)sí(h hr)us.(g_'/hvGF'E!fgf.) (::)
-R/.  Et(h) non(h) sup(h)plan(h)ta(h)bún(h)tur(h) gres(h)sus(h) e(h hr)jus.(g_'/hvGF'E!fgf.) (::)}
+R/. Et(h) non(h) sup(h)plan(h)ta(h)bún(h)tur(h) gres(h)sus(h) e(h hr)jus.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory2]
 R. Justus germinábit sicut lílium:

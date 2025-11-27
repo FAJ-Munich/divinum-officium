@@ -38,16 +38,16 @@ Igne me examinásti, * et non est invénta in me iníquitas.;;16
 Interrogátus * te Dóminum conféssus sum, assátus grátias ago.;;20
 
 [Nocturn 1 Versum]
-V. Glória et honóre coronásti eum, Dómine.
-R. Et constituísti eum super ópera mánuum tuarum.
+{initial-style:0;%%(c3) V/. Gló(h)ri(h)a(h) et(h) ho(h)nó(h)re(h) co(h)ro(h)nás(h)ti(h) e(h)um,(h) Dó(h)mi(h)ne.(g_'/hvGF'E!fgf.) (::)
+R/. Et(h) con(h)sti(h)tu(h)ís(h)ti(h) e(h)um(h) su(h)per(h) ó(h)pe(h)ra(h) má(h)nu(h)um(h) tu(h)a(h)rum.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 2 Versum]
-V. Posuísti, Dómine, super caput ejus.
-R. Corónam de lápide pretióso.
+{initial-style: 0;%%(c3) V/. Po(h)su(h)ís(h)ti,(h) Dó(h)mi(h)ne,(h) su(h)per(h) ca(h)put(h) e(h)jus.(g_'/hvGF'E!fgf.) (::)
+R/.Co(h)ró(h)nam(h) de(h) lá(h)pi(h)de(h) pre(h)ti(h)ó(h)so.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Magna est glória ejus in salutári tuo.
-R. Glóriam et magnum decórem impónes super eum.
+{initial-style: 0;%%(c3) V/. Ma(h)gna(h) est(h) gló(h)ri(h)a(h) e(h)jus(h) in(h) sa(h)lu(h)tá(h)ri(h) tu(h)o.(g_'/hvGF'E!fgf.) (::)
+R/.Gló(h)ri(h)am(h) et(h) ma(h)gnum(h) de(h)có(h)rem(h) im(h)pó(h)nes(h) su(h)per(h) e(h)um.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Levíta Lauréntius bonum opus operátus est, qui per signum crucis cæcos illuminávit, 

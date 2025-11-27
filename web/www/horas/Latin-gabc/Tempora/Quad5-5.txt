@@ -55,8 +55,8 @@ In sempitérna sǽcula.
 Amen.
 
 [Versum 1]
-V. Ora pro nobis, Virgo dolorosíssima.
-R. Ut digni efficiámur promissiónibus Christi.
+{initial-style: 0;%%(c3) V/. O(h)ra(h) pro(h) no(h)bis,(h) Vir(h)go(h) do(h)lo(h)ro(h)sís(h)si(h)ma.(g_'/hvGF'E!fgf.) (::)
+R/.Ut(h) di(h)gni(h) ef(h)fi(h)ci(h)á(h)mur(h) pro(h)mis(h)si(h)ó(h)ni(h)bus(h) Chris(h)ti.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 1]
 Tuam ipsíus ánimam * (ait ad Maríam Símeon) pertransíbit gládius.
@@ -109,16 +109,16 @@ Factus sum * sicut homo sine adjutorio, inter mortuos liber.;;87
 Replevit me amaritudine, * inebriavit me absynthio.;;108
 
 [Nocturn 1 Versum]
-V. Posuit me desolatam.
-R. Tota die mærore confectam.
+{initial-style:0;%%(c3) V/. Po(h)su(h)it(h) me(h) de(h)so(h)la(h)tam.(g_'/hvGF'E!fgf.) (::)
+R/. To(h)ta(h) di(h)e(h) mæ(h)ro(h)re(h) con(h)fec(h)tam.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 2 Versum]
-V. Facies mea intumuit a fletu.
-R. Et palpebræ meæ caligaverunt.
+{initial-style: 0;%%(c3) V/. Fa(h)ci(h)es(h) me(h)a(h) in(h)tu(h)mu(h)it(h) a(h) fle(h)tu.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) pal(h)pe(h)bræ(h) me(h)æ(h) ca(h)li(h)ga(h)ve(h)runt.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Deus vitam meam annuntiavi tibi.
-R. Posuisti lacrimas meas in conspectu tuo.
+{initial-style: 0;%%(c3) V/. De(h)us(h) vi(h)tam(h) me(h)am(h) an(h)nun(h)ti(h)a(h)vi(h) ti(h)bi.(g_'/hvGF'E!fgf.) (::)
+R/.Po(h)su(h)is(h)ti(h) la(h)cri(h)mas(h) me(h)as(h) in(h) con(h)spec(h)tu(h) tu(h)o.(g_'/hvGF'E!fgf.) (::)}
 
 [Lectio1]
 De Isaía Prophéta

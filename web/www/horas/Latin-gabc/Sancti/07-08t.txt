@@ -17,16 +17,16 @@ Annuntiaverunt * cæli justitiam ejus, et viderunt omnes populi gloriam ejus;;96
 Judicabit * in justitia, et populos in æquitate;;97
 
 [Nocturn 1 Versum]
-V. Multæ filiæ congregaverunt divitias.
-R. Tu supergressa es universas.
+{initial-style:0;%%(c3) V/. Mul(h)tæ(h) fi(h)li(h)æ(h) con(h)gre(h)ga(h)ve(h)runt(h) di(h)vi(h)ti(h)as.(g_'/hvGF'E!fgf.) (::)
+R/. Tu(h) su(h)per(h)gres(h)sa(h) es(h) u(h)ni(h)ver(h)sas.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 2 Versum]
-V. Virga tua, et baculus tuus.
-R. Ipsa me consolata sunt.
+{initial-style: 0;%%(c3) V/. Vir(h)ga(h) tu(h)a,(h) et(h) ba(h)cu(h)lus(h) tu(h)us.(g_'/hvGF'E!fgf.) (::)
+R/.Ip(h)sa(h) me(h) con(h)so(h)la(h)ta(h) sunt.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Ignis ante ipsum præcedet.
-R. Et inflammabit in circuitu inimicos ejus.
+{initial-style: 0;%%(c3) V/. I(h)gnis(h) an(h)te(h) ip(h)sum(h) præ(h)ce(h)det.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) in(h)flam(h)ma(h)bit(h) in(h) cir(h)cu(h)i(h)tu(h) in(h)i(h)mi(h)cos(h) e(h)jus.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Regali exorta progenie triumphat in cælis Elisabeth, triplici circumdata varietate meritorum:

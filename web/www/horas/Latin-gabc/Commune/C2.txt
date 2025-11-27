@@ -78,11 +78,11 @@ Posuísti, Dómine, * super caput ejus corónam de lápide pretióso.;;20
 
 [Nocturn 2 Versum]
 {initial-style:0;%%(c3) V/. Po(h)su(h)ís(h)ti,(h) Dó(h)mi(h)ne,(h) su(h)per(h) ca(h)put(h) e(h hr)jus.(g_'/hvGF'E!fgf.) (::)
-R/.  Co(h)ró(h)nam(h) de(h) lá(h)pi(h)de(h) pre(h)ti(h)ó(h hr)so.(g_'/hvGF'E!fgf.) (::)}
+R/. Co(h)ró(h)nam(h) de(h) lá(h)pi(h)de(h) pre(h)ti(h)ó(h hr)so.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
 {initial-style:0;%%(c3) V/. Ma(h)gna(h) est(h) gló(h)ri(h)a(h) e(h)jus(h) in(h) sa(h)lu(h)tá(h)ri(h) tu(h hr)o.(g_'/hvGF'E!fgf.) (::)
-R/.  Gló(h)ri(h)am(h) et(h) ma(h)gnum(h) de(h)có(h)rem(h) im(h)pó(h)nes(h) su(h)per(h) e(h hr)um.(g_'/hvGF'E!fgf.) (::)}
+R/. Gló(h)ri(h)am(h) et(h) ma(h)gnum(h) de(h)có(h)rem(h) im(h)pó(h)nes(h) su(h)per(h) e(h hr)um.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Iste Sanctus pro lege Dei sui certávit usque ad mortem, et a verbis impiórum non tímuit:

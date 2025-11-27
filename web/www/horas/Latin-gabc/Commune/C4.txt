@@ -59,11 +59,11 @@ Hic accípiet * benedictiónem a Dómino, et misericórdiam a Deo salutári suo:
 
 [Nocturn 2 Versum]
 {initial-style:0;%%(c3) V/. E(h)lé(h)git(h) e(h)um(h) Dó(h)mi(h)nus(h) sa(h)cer(h)dó(h)tem(h) si(h hr)bi.(g_'/hvGF'E!fgf.) (::)
-R/.  Ad(h) sa(h)cri(h)fi(h)cán(h)dum(h) e(h)i(h) hós(h)ti(h)am(h) lau(h hr)dis.(g_'/hvGF'E!fgf.) (::)}
+R/. Ad(h) sa(h)cri(h)fi(h)cán(h)dum(h) e(h)i(h) hós(h)ti(h)am(h) lau(h hr)dis.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
 {initial-style:0;%%(c3) V/. Tu(h) es(h) sa(h)cér(h)dos(h) in(h) æ(h)tér(h hr)num.(g_'/hvGF'E!fgf.) (::)
-R/.  Se(h)cún(h)dum(h) ór(h)di(h)nem(h) Mel(h)chí(h)se(hr)dech.(g_'/hvGF'E!fgf.) (::)}
+R/. Se(h)cún(h)dum(h) ór(h)di(h)nem(h) Mel(h)chí(h)se(hr)dech.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Euge, serve bone et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam:

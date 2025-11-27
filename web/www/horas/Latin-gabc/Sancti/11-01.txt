@@ -161,8 +161,8 @@ Quid ergo dicit? Beáti páuperes spíritu: quóniam ipsórum est regnum cælór
 &teDeum
 
 [Versum 0]
-V.  Oráte pro nobis, omnes Sancti Dei.
-R. Ut digni eficiámur promissiónibus Christi.
+{initial-style: 0;%%(c3) V/. O(h)rá(h)te(h) pro(h) no(h)bis,(h) om(h)nes(h) Sanc(h)ti(h) De(h)i.(g_'/hvGF'E!fgf.) (::)
+R/.Ut(h) di(h)gni(h) e(h)fi(h)ci(h)á(h)mur(h) pro(h)mis(h)si(h)ó(h)ni(h)bus(h) Chris(h)ti.(g_'/hvGF'E!fgf.) (::)}
 
 [Capitulum Laudes]
 !Apo 7:2-3

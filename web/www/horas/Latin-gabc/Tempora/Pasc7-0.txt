@@ -199,8 +199,8 @@ R. Allelúja, allelúja.
 R. Spíritus Dómini replévit orbem terrárum, * Allelúja, allelúja.
 
 [Versum Tertia]
-V. Spíritus Paráclitus, allelúja.
-R. Docébit vos ómnia, allelúja.
+{initial-style: 0;%%(c3) V/. Spí(h)ri(h)tus(h) Pa(h)rá(h)cli(h)tus,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.Do(h)cé(h)bit(h) vos(h) óm(h)ni(h)a,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Capitulum Sexta]
 !Act. 2:6

@@ -61,16 +61,16 @@ Lætámini, omnes, * in Dómino: et confitémini memóriæ sanctitátis ejus.;;9
 Notum fecit * Dóminus opus suum: in conspéctu géntium revelávit glóriam Genetrícis suæ.;;97
 
 [Nocturn 1 Versum]
-V. Deus omnípotens præcínxit me virtúte.
-R. Et pósuit immaculátam viam meam.
+{initial-style:0;%%(c3) V/. De(h)us(h) om(h)ní(h)pot(h)ens(h) præ(h)cín(h)xit(h) me(h) vir(h)tú(h)te.(g_'/hvGF'E!fgf.) (::)
+R/. Et(h) pó(h)su(h)it(h) im(h)ma(h)cu(h)lá(h)tam(h) vi(h)am(h) me(h)am.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 2 Versum]
-V. In hoc cognóvi quóniam voluísti me.
-R. Quóniam non gaudébit inimícus meus super me.
+{initial-style: 0;%%(c3) V/. In(h) hoc(h) co(h)gnó(h)vi(h) quón(h)i(h)am(h) vo(h)lu(h)ís(h)ti(h) me.(g_'/hvGF'E!fgf.) (::)
+R/.Quón(h)i(h)am(h) non(h) gau(h)dé(h)bit(h) in(h)i(h)mí(h)cus(h) me(h)us(h) su(h)per(h) me.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Exaltábo te, Dómine, quóniam suscepísti me.
-R. Nec delectásti inimícos meos super me.
+{initial-style: 0;%%(c3) V/. Ex(h)al(h)tá(h)bo(h) te,(h) Dó(h)mi(h)ne,(h) quón(h)i(h)am(h) su(h)sce(h)pís(h)ti(h) me.(g_'/hvGF'E!fgf.) (::)
+R/.Nec(h) de(h)lec(h)tás(h)ti(h) in(h)i(h)mí(h)cos(h) me(h)os(h) su(h)per(h) me.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Per unum hóminem peccátum in hunc mundum intrávit, in quo omnes peccavérunt. 
@@ -171,8 +171,8 @@ R. Quóniam suscepísti me.
 R. Exaltábo te, Dómine, * Quóniam suscepísti me.
 
 [Versum Nona]
-V. Immaculáta Concéptio tua, Dei Génetrix Virgo.
-R. Gáudium annuntiávit univérso mundo.
+{initial-style: 0;%%(c3) V/. Im(h)ma(h)cu(h)lá(h)ta(h) Con(h)cép(h)ti(h)o(h) tu(h)a,(h) De(h)i(h) Gé(h)ne(h)trix(h) Vir(h)go.(g_'/hvGF'E!fgf.) (::)
+R/.Gáu(h)di(h)um(h) an(h)nun(h)ti(h)á(h)vit(h) u(h)ni(h)vér(h)so(h) mun(h)do.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 3]
 Hódie egréssa est * virga de radíce Jesse: hódie sine ulla peccáti labe concépta est María: hódie contrítum est ab ea caput serpéntis antíqui, allelúja.

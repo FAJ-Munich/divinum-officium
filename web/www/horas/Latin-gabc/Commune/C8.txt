@@ -69,7 +69,7 @@ Benedícta * glória Dómini, de loco sancto suo, allelúja.;;98
 
 [Nocturn 2 Versum]
 {initial-style:0;%%(c3) V/. Do(h)mus(h) me(h hr)a.(g_'/hvGF'E!fgf.) (::)
-R/.  Do(h)mus(h) o(h)ra(h)ti(h)ó(h)nis(h) vo(h)cá(h)bi(hr)tur.(g_'/hvGF'E!fgf.) (::)}
+R/. Do(h)mus(h) o(h)ra(h)ti(h)ó(h)nis(h) vo(h)cá(h)bi(hr)tur.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. In dedicatióne templi decantábat pópulus laudem: 

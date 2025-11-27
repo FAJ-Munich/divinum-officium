@@ -51,12 +51,12 @@ Dignáre me * laudáre te, Virgo sacráta: da mihi virtútem contra hostes tuos.
 Post partum, * Virgo, invioláta permansísti: Dei Génetrix, intercéde pro nobis. (Allelúja.);;97
 
 [Nocturn 2 Versum]
-V. Stabat juxta crucem Jesu Mater ejus. (Allelúja.)
-R. In passióne sócia, totíus mundi Regína. (Allelúja.)
+{initial-style: 0;%%(c3) V/. Sta(h)bat(h) jux(h)ta(h) cru(h)cem(h) Je(h)su(h) Ma(h)ter(h) e(h)jus.(g_'/hvGF'E!fgf.) (::)
+R/.In(h) pas(h)si(h)ó(h)ne(h) só(h)ci(h)a,(h) to(h)tí(h)us(h) mun(h)di(h) Re(h)gí(h)na.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Beátam me dicent omnes generatiónes. (Allelúja.)
-R. Quia fecit mihi magna qui potens est. (Allelúja.)
+{initial-style: 0;%%(c3) V/. Be(h)á(h)tam(h) me(h) di(h)cent(h) om(h)nes(h) ge(h)ne(h)ra(h)ti(h)ó(h)nes.(g_'/hvGF'E!fgf.) (::)
+R/.Qui(h)a(h) fe(h)cit(h) mi(h)hi(h) ma(h)gna(h) qui(h) pot(h)ens(h) est.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Beáta es, María, quæ credidísti Dómino: perfécta sunt in te quæ dicta sunt tibi.

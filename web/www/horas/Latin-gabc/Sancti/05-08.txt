@@ -88,8 +88,8 @@ Angelus Archángelus Míchaël, * Dei núntius pro animábus justis, allelúja, 
 ;;102
 
 [Nocturn 2 Versum_]
-V. Ascéndit fumus arómatum in conspéctu Dómini, allelúja.
-R. De manu Angeli, allelúja.
+{initial-style:0;%%(c3) V/. A(h)scén(h)dit(h) fu(h)mus(h) a(h)ró(h)ma(h)tum(h) in(h) con(h)spéc(h)tu(h) Dó(h)mi(h)ni,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/. De(h) ma(h)nu(h) An(h)ge(h)li,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Factum est siléntium in cælo, dum commítteret bellum draco cum Michaéle Archángelo: 
@@ -250,8 +250,8 @@ R. Psallam tibi, Deus meus.
 R. In conspéctu Angelórum * Psallam tibi, Deus meus.
 
 [Versum Nona]
-V. Adoráte Deum.
-R. Omnes Angeli ejus.
+{initial-style: 0;%%(c3) V/. Ad(h)o(h)rá(h)te(h) De(h)um.(g_'/hvGF'E!fgf.) (::)
+R/.Om(h)nes(h) An(h)ge(h)li(h) e(h)jus.(g_'/hvGF'E!fgf.) (::)}
 
 [Versum 3]
 {initial-style:0;%%(c3) V/. In(h) con(h)spéc(h)tu(h) An(h)ge(h)ló(h)rum(h) psal(h)lam(h) ti(h)bi,(h) De(h)us(h) me(h)us.(g_'/hvGF'E!fgf.) (::)

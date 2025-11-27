@@ -113,12 +113,12 @@ Verax est * Pater, véritas Fílius, véritas Spíritus Sanctus, o beáta Tríni
 Pater, * et Fílius, et Spíritus Sanctus una substántia est, o beáta Trínitas.;;97
 
 [Nocturn 2 Versum]
-V. Benedíctus es, Dómine, in firmaménto cæli.
-R. Et laudábilis et gloriósus in sǽcula.
+{initial-style: 0;%%(c3) V/. Be(h)ne(h)díc(h)tus(h) es,(h) Dó(h)mi(h)ne,(h) in(h) fir(h)ma(h)mén(h)to(h) cæ(h)li.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) lau(h)dá(h)bi(h)lis(h) et(h) glo(h)ri(h)ó(h)sus(h) in(h) sǽ(h)cu(h)la.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Verbo Dómini cæli firmáti sunt.
-R. Et Spíritu oris ejus omnis virtus eórum.
+{initial-style: 0;%%(c3) V/. Ver(h)bo(h) Dó(h)mi(h)ni(h) cæ(h)li(h) fir(h)má(h)ti(h) sunt.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) Spí(h)ri(h)tu(h) o(h)ris(h) e(h)jus(h) om(h)nis(h) vir(h)tus(h) e(h)ó(h)rum.(g_'/hvGF'E!fgf.) (::)}
 
 [Lectio1]
 De Isaía Prophéta
@@ -241,8 +241,8 @@ Duo sunt ópera misericórdiæ, quæ nos líberant, quæ bréviter ipse Dóminus
 &teDeum
 
 [Versum 0]
-V. Magnus Dóminus, et laudábilis nimis: 
-R. Et magnitúdinis ejus non est finis.
+{initial-style: 0;%%(c3) V/. Ma(h)gnus(h) Dó(h)mi(h)nus,(h) et(h) lau(h)dá(h)bi(h)lis(h) ni(h)mis:(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) ma(h)gni(h)tú(h)di(h)nis(h) e(h)jus(h) non(h) est(h) fi(h)nis.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant Laudes]
 @:Ant Vespera:s/;;.*//g
@@ -310,8 +310,8 @@ R. Cæli firmáti sunt.
 R. Verbo Dómini * Cæli firmáti sunt.
 
 [Versum Nona]
-V. Sit nomen Dómini benedíctum.
-R. Ex hoc nunc, et usque in sǽculum.
+{initial-style: 0;%%(c3) V/. Sit(h) no(h)men(h) Dó(h)mi(h)ni(h) be(h)ne(h)díc(h)tum.(g_'/hvGF'E!fgf.) (::)
+R/.Ex(h) hoc(h) nunc,(h) et(h) us(h)que(h) in(h) sǽ(h)cu(h)lum.(g_'/hvGF'E!fgf.) (::)}
 
 [Versum 3]
 {initial-style:0;%%(c3) V/. Be(h)ne(h)díc(h)tus(h) es,(h) Dó(hi)mi(h)ne,(h_') (,) in(h) fir(h)ma(h)mén(f')to(e) cæ(f_0h)li.(hiH'Ghih.ghG'FE'fggf.) (::)

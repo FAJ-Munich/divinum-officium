@@ -133,11 +133,11 @@ Veni, Sponsa Christi, * áccipe corónam, quam tibi Dóminus præparávit in æt
 
 [Nocturn 2 Versum]
 {initial-style:0;%%(c3) V/. Ad(h)ju(h)vá(h)bit(h) e(h)am(h) De(h)us(h) vul(h)tu(h) su(h hr)o.(g_'/hvGF'E!fgf.) (::)
-R/.  De(h)us(h) in(h) mé(h)di(h)o(h) e(h)jus,(h) non(h) com(h)mo(h)vé(h)bi(hr)tur.(g_'/hvGF'E!fgf.) (::)}
+R/. De(h)us(h) in(h) mé(h)di(h)o(h) e(h)jus,(h) non(h) com(h)mo(h)vé(h)bi(hr)tur.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
 {initial-style:0;%%(c3) V/. E(h)lé(h)git(h) e(h)am(h) De(h)us,(h) et(h) præ(h)e(h)lé(h)git(h) e(h hr)am.(g_'/hvGF'E!fgf.) (::)
-R/.  In(h) ta(h)ber(h)ná(h)cu(h)lo(h) su(h)o(h) ha(h)bi(h)tá(h)re(h) fa(h)cit(h) e(h hr)am.(g_'/hvGF'E!fgf.) (::)}
+R/. In(h) ta(h)ber(h)ná(h)cu(h)lo(h) su(h)o(h) ha(h)bi(h)tá(h)re(h) fa(h)cit(h) e(h hr)am.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Veni Sponsa Christi, áccipe corónam, quam tibi Dóminus præparávit in ætérnum; pro cujus amóre sánguinem tuum fudísti,

@@ -75,8 +75,8 @@ R. Quia véniet Dóminus.
 R. Hódie sciétis * Quia véniet Dóminus.
 
 [Versum Tertia]
-V. Constántes estóte.
-R. Vidébitis auxílium Dómini super vos.
+{initial-style: 0;%%(c3) V/. Con(h)stán(h)tes(h) es(h)tó(h)te.(g_'/hvGF'E!fgf.) (::)
+R/.Vi(h)dé(h)bi(h)tis(h) au(h)xí(h)li(h)um(h) Dó(h)mi(h)ni(h) su(h)per(h) vos.(g_'/hvGF'E!fgf.) (::)}
 
 [Capitulum Sexta]
 !Rom 1:4
@@ -92,8 +92,8 @@ R. Delébitur iníquitas terræ.
 R. Crástina die * Delébitur iníquitas terræ.
 
 [Versum Sexta]
-V. Crástina erit vobis salus.
-R. Dicit Dóminus Deus exercítuum.
+{initial-style: 0;%%(c3) V/. Crás(h)ti(h)na(h) e(h)rit(h) vo(h)bis(h) sa(h)lus.(g_'/hvGF'E!fgf.) (::)
+R/.Di(h)cit(h) Dó(h)mi(h)nus(h) De(h)us(h) ex(h)er(h)cí(h)tu(h)um.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory Breve Nona]
 R.br. Crástina * Erit vobis salus.
@@ -104,5 +104,5 @@ R. Erit vobis salus.
 R. Crástina * Erit vobis salus.
 
 [Versum Nona]
-V. Crástina die delébitur iníquitas terræ.
-R. Et regnábit super nos Salvátor mundi.
+{initial-style: 0;%%(c3) V/. Crás(h)ti(h)na(h) di(h)e(h) de(h)lé(h)bi(h)tur(h) in(h)í(h)qui(h)tas(h) ter(h)ræ.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) re(h)gná(h)bit(h) su(h)per(h) nos(h) Sal(h)vá(h)tor(h) mun(h)di.(g_'/hvGF'E!fgf.) (::)}

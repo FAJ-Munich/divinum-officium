@@ -105,12 +105,12 @@ Formans me * ex útero servum sibi Dóminus, dicit: Dedi te in lucem géntium, u
 Reges vidébunt, * et consúrgent príncipes et adorábunt Dóminum Deum tuum, qui elégit te.;;33
 
 [Nocturn 2 Versum]
-V. Inter natos mulíerum non surréxit major.
-R. Joánne Baptísta.
+{initial-style: 0;%%(c3) V/. In(h)ter(h) na(h)tos(h) mu(h)lí(h)e(h)rum(h) non(h) sur(h)ré(h)xit(h) ma(h)jor.(g_'/hvGF'E!fgf.) (::)
+R/.Jo(h)án(h)ne(h) Bap(h)tís(h)ta.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Elísabeth Zacharíæ magnum virum génuit.
-R. Joánnem Baptístam, præcursórem Dómini.
+{initial-style: 0;%%(c3) V/. E(h)lí(h)sa(h)beth(h) Za(h)cha(h)rí(h)æ(h) ma(h)gnum(h) vi(h)rum(h) gé(h)nu(h)it.(g_'/hvGF'E!fgf.) (::)
+R/.Jo(h)án(h)nem(h) Bap(h)tís(h)tam,(h) præ(h)cur(h)só(h)rem(h) Dó(h)mi(h)ni.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Fuit homo missus a Deo, cui nomen erat Joánnes: 

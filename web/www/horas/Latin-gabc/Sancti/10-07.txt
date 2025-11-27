@@ -101,16 +101,16 @@ Mílites plecténtes corónam * de spinis, imposuérunt super caput ejus.;;96
 Crucis impérium * super húmerum ejus: regnávit a ligno Deus.;;97
 
 [Nocturn 1 Versum]
-V. Sancta Dei Génetrix, semper Virgo María.
-R. Intercéde pro nobis ad Dóminum, Deum nostrum.
+{initial-style:0;%%(c3) V/. Sanc(h)ta(h) De(h)i(h) Gé(h)ne(h)trix,(h) sem(h)per(h) Vir(h)go(h) Ma(h)rí(h)a.(g_'/hvGF'E!fgf.) (::)
+R/. In(h)ter(h)cé(h)de(h) pro(h) no(h)bis(h) ad(h) Dó(h)mi(h)num,(h) De(h)um(h) nos(h)trum.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 2 Versum]
-V. Post partum, Virgo, invioláta permansísti.
-R. Dei Génetrix, intercéde pro nobis.
+{initial-style: 0;%%(c3) V/. Post(h) par(h)tum,(h) Vir(h)go,(h) in(h)vi(h)o(h)lá(h)ta(h) per(h)man(h)sís(h)ti.(g_'/hvGF'E!fgf.) (::)
+R/.De(h)i(h) Gé(h)ne(h)trix,(h) in(h)ter(h)cé(h)de(h) pro(h) no(h)bis.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Speciósa facta es et suávis.
-R. In delíciis tuis, sancta Dei Génetrix.
+{initial-style: 0;%%(c3) V/. Spe(h)ci(h)ó(h)sa(h) fac(h)ta(h) es(h) et(h) su(h)á(h)vis.(g_'/hvGF'E!fgf.) (::)
+R/.In(h) de(h)lí(h)ci(h)is(h) tu(h)is,(h) sanc(h)ta(h) De(h)i(h) Gé(h)ne(h)trix.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Súmite psaltérium jucúndum in insígni die solemnitátis vestræ: 

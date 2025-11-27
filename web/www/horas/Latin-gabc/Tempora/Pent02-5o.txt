@@ -17,8 +17,8 @@ Regnúmque in omne est sǽculum.
 Amen.
 
 [Versum 1]
-V. Ignem veni míttere in terram.
-R. Et quid volo, nisi ut accendátur?
+{initial-style: 0;%%(c3) V/. I(h)gnem(h) ve(h)ni(h) mít(h)te(h)re(h) in(h) ter(h)ram.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) quid(h) vo(h)lo,(h) ni(h)si(h) ut(h) ac(h)cen(h)dá(h)tur?(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 1]
 Impropérium exspectávit cor meum * et misériam: et sustínui qui simul contristarétur, et non fuit; et qui consolarétur, et non invéni.
@@ -47,16 +47,16 @@ Adoráte eum omnes Angeli ejus: audívit, et lætáta est Sion;;97
 Vidérunt omnes términi terræ salutáre Dei nostri;;107
 
 [Nocturn 1 Versum]
-V. Dómine dabis pacem nobis.
-R. Omnia enim ópera nostra operátus es nobis.
+{initial-style:0;%%(c3) V/. Dó(h)mi(h)ne(h) da(h)bis(h) pa(h)cem(h) no(h)bis.(g_'/hvGF'E!fgf.) (::)
+R/. Om(h)ni(h)a(h) e(h)nim(h) ó(h)pe(h)ra(h) nos(h)tra(h) o(h)pe(h)rá(h)tus(h) es(h) no(h)bis.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 2 Versum]
-V. Convérsus est furor tuus.
-R. Et consolátus es me.
+{initial-style: 0;%%(c3) V/. Con(h)vér(h)sus(h) est(h) fu(h)ror(h) tu(h)us.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) con(h)so(h)lá(h)tus(h) es(h) me.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Ex Sion spécies decóris ejus.
-R. Deus noster maniféste véniet.
+{initial-style: 0;%%(c3) V/. Ex(h) Si(h)on(h) spé(h)ci(h)es(h) de(h)có(h)ris(h) e(h)jus.(g_'/hvGF'E!fgf.) (::)
+R/.De(h)us(h) nos(h)ter(h) ma(h)ni(h)fés(h)te(h) vé(h)ni(h)et.(g_'/hvGF'E!fgf.) (::)}
 
 [Lectio1]
 De Isaía Prophéta.
@@ -145,8 +145,8 @@ $Deo gratias
 @:Doxology_
 
 [Versum 2]
-V. Vere languóres nostros ipse tulit.
-R. Et dolóres nostros ipse portávit.
+{initial-style: 0;%%(c3) V/. Ve(h)re(h) lan(h)guó(h)res(h) nos(h)tros(h) ip(h)se(h) tu(h)lit.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) do(h)ló(h)res(h) nos(h)tros(h) ip(h)se(h) por(h)tá(h)vit.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 2]
 Vulnerátus est propter iniquitátes nostras * attrítus est propter scélera nostra: disciplína pacis nostræ super eum, et livóre ejus sanáti sumus.
@@ -168,8 +168,8 @@ R. Languóres nostros ipse tulit.
 R. Vere * Languóres nostros ipse tulit.
 
 [Versum Tertia]
-V. Pósuit fines tuos pacem.
-R. Et ádipe fruménti sátiat te.
+{initial-style: 0;%%(c3) V/. Pó(h)su(h)it(h) fi(h)nes(h) tu(h)os(h) pa(h)cem.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) á(h)di(h)pe(h) fru(h)mén(h)ti(h) sá(h)ti(h)at(h) te.(g_'/hvGF'E!fgf.) (::)
 
 [Capitulum Sexta]
 !Isa 12:4
@@ -185,8 +185,8 @@ R. Fines tuos paces
 R. Pósuit * Fines tuos pacem.
 
 [Versum Sexta]
-V. Dirupísti Dómine víncula mea.
-R. Tibi sacrificábo hóstiam laudis.
+{initial-style: 0;%%(c3) V/. Di(h)ru(h)pís(h)ti(h) Dó(h)mi(h)ne(h) vín(h)cu(h)la(h) me(h)a.(g_'/hvGF'E!fgf.) (::)
+R/.Ti(h)bi(h) sa(h)cri(h)fi(h)cá(h)bo(h) hós(h)ti(h)am(h) lau(h)dis.(g_'/hvGF'E!fgf.) (::)}
 
 [Capitulum Nona]
 !Isa 12:5
@@ -202,12 +202,12 @@ R. Víncula mea
 R. Dirupísti Dómine, * Víncula mea.
 
 [Versum Nona]
-V. Erit Dóminus nominátus in signum ætérnum.
-R. Quod non auferétur.
+{initial-style: 0;%%(c3) V/. E(h)rit(h) Dó(h)mi(h)nus(h) no(h)mi(h)ná(h)tus(h) in(h) si(h)gnum(h) æ(h)tér(h)num.(g_'/hvGF'E!fgf.) (::)
+R/.Quod(h) non(h) au(h)fe(h)ré(h)tur.(g_'/hvGF'E!fgf.) (::)}
 
 [Versum 3]
-V. Hauriétis aquas in gáudio.
-R. De fóntibus Salvatóris.
+{initial-style: 0;%%(c3) V/. Hau(h)ri(h)é(h)tis(h) a(h)quas(h) in(h) gáu(h)di(h)o.(g_'/hvGF'E!fgf.) (::)
+R/.De(h) fón(h)ti(h)bus(h) Sal(h)va(h)tó(h)ris.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 3]
 Ad Jesum autem cum veníssent * ut vidérunt eum jam mórtuum, non fregérunt ejus crura: sed unus mílitum láncea latus ejus apéruit, et contínuo exívit sanguis et aqua.

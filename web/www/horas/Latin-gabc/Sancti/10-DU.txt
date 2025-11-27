@@ -116,12 +116,12 @@ Et ego primogénitum * ponam illum: excélsum præ régibus terræ.;;88(2-30)
 Thronus ejus * sicut sol in conspéctu meo: et sicut luna perfécta in ætérnum.;;88(31-53)
 
 [Nocturn 2 Versum]
-V. Afférte Dómino, famíliæ populórum.
-R. Afférte Dómino glóriam et impérium.
+{initial-style: 0;%%(c3) V/. Af(h)fér(h)te(h) Dó(h)mi(h)no,(h) fa(h)mí(h)li(h)æ(h) po(h)pu(h)ló(h)rum.(g_'/hvGF'E!fgf.) (::)
+R/.Af(h)fér(h)te(h) Dó(h)mi(h)no(h) gló(h)ri(h)am(h) et(h) im(h)pé(h)ri(h)um.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Adorábunt eum omnes reges terræ.
-R. Omnes gentes sérvient ei.
+{initial-style: 0;%%(c3) V/. Ad(h)o(h)rá(h)bunt(h) e(h)um(h) om(h)nes(h) re(h)ges(h) ter(h)ræ.(g_'/hvGF'E!fgf.) (::)
+R/.Om(h)nes(h) gen(h)tes(h) sér(h)vi(h)ent(h) e(h)i.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Super sólium David et super regnum ejus sedébit in ætérnum:

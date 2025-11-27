@@ -143,8 +143,8 @@ Laudáte * Dóminum de cælis.
 $Deo gratias
 
 [Versum 2] (nisi rubrica cisterciensis)
-V. Dómine, refúgium factus es nobis.
-R. A generatióne et progénie.
+{initial-style: 0;%%(c3) V/. Dó(h)mi(h)ne,(h) re(h)fú(h)gi(h)um(h) fac(h)tus(h) es(h) no(h)bis.(g_'/hvGF'E!fgf.) (::)
+R/.A(h) ge(h)ne(h)ra(h)ti(h)ó(h)ne(h) et(h) pro(h)gé(h)ni(h)e.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 2]
 Símile est * regnum cælórum hómini patrifamílias, qui éxiit primo mane condúcere operários in víneam suam, dicit Dóminus.

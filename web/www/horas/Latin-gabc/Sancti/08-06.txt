@@ -69,12 +69,12 @@ Lux orta est * justo, et rectis corde lætítia.;;96
 Confessiónem * et decórem índuit, amíctus lúmine sicut vestiménto.;;103
 
 [Nocturn 2 Versum]
-V. Glória et honóre coronásti eum, Dómine.
-R. Et constituísti eum super ópera mánuum tuárum.
+{initial-style: 0;%%(c3) V/. Gló(h)ri(h)a(h) et(h) ho(h)nó(h)re(h) co(h)ro(h)nás(h)ti(h) e(h)um,(h) Dó(h)mi(h)ne.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) con(h)sti(h)tu(h)ís(h)ti(h) e(h)um(h) su(h)per(h) ó(h)pe(h)ra(h) má(h)nu(h)um(h) tu(h)á(h)rum.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Magna est glória ejus in salutári tuo.
-R. Glóriam et magnum decórem impónes super eum.
+{initial-style: 0;%%(c3) V/. Ma(h)gna(h) est(h) gló(h)ri(h)a(h) e(h)jus(h) in(h) sa(h)lu(h)tá(h)ri(h) tu(h)o.(g_'/hvGF'E!fgf.) (::)
+R/.Gló(h)ri(h)am(h) et(h) ma(h)gnum(h) de(h)có(h)rem(h) im(h)pó(h)nes(h) su(h)per(h) e(h)um.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Surge, illumináre, Jerúsalem, quia venit lumen tuum,

@@ -77,11 +77,11 @@ Ecce merces * Sanctórum copiósa est apud Deum: ipsi vero mórtui sunt pro Chri
 
 [Nocturn 2 Versum]
 {initial-style:0;%%(c3) V/. Ex(h)súl(h)tent(h) jus(h)ti(h) in(h) con(h)spéc(h)tu(h) De(h hr)i.(g_'/hvGF'E!fgf.) (::)
-R/.  Et(h) de(h)lec(h)tén(h)tur(h) in(h) læ(h)tí(h)ti(hr)a.(g_'/hvGF'E!fgf.) (::)}
+R/. Et(h) de(h)lec(h)tén(h)tur(h) in(h) læ(h)tí(h)ti(hr)a.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
 {initial-style:0;%%(c3) V/. Jus(h)ti(h) au(h)tem(h) in(h) per(h)pé(h)tu(h)um(h) vi(h hr)vent.(g_'/hvGF'E!fgf.) (::)
-R/.  Et(h) a(h)pud(h) Dó(h)mi(h)num(h) est(h) mer(h)ces(h) e(h)ó(h hr)rum.(g_'/hvGF'E!fgf.) (::)}
+R/. Et(h) a(h)pud(h) Dó(h)mi(h)num(h) est(h) mer(h)ces(h) e(h)ó(h hr)rum.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Abstérget Deus omnem lácrimam ab óculis Sanctórum: et jam non erit ámplius neque luctus, neque clamor, sed nec ullus dolor:

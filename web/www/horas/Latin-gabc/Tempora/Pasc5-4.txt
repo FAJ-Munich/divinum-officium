@@ -129,12 +129,12 @@ Dóminus in Sion, * allelúja: magnus et excélsus, allelúja.;;98
 Dóminus in cælo, * allelúja: parávit sedem suam, allelúja.;;102
 
 [Nocturn 2 Versum_]
-V. Ascéndens Christus in altum, allelúja.
-R. Captívam duxit captivitátem, allelúja.
+{initial-style:0;%%(c3) V/. A(h)scén(h)dens(h) Chris(h)tus(h) in(h) al(h)tum,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/. Cap(h)tí(h)vam(h) du(h)xit(h) cap(h)ti(h)vi(h)tá(h)tem,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum_]
-V. Ascéndo ad Patrem meum, et Patrem vestrum, allelúja.
-R. Deum meum, et Deum vestrum, allelúja.
+{initial-style: 0;%%(c3) V/. A(h)scén(h)do(h) ad(h) Pa(h)trem(h) me(h)um,(h) et(h) Pa(h)trem(h) ves(h)trum,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.De(h)um(h) me(h)um,(h) et(h) De(h)um(h) ves(h)trum,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Lectio1]
 Incipit liber Actuum Apostolórum

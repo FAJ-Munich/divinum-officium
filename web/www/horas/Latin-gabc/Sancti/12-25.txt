@@ -88,16 +88,16 @@ Læténtur cæli, * et exsúltet terra ante fáciem Dómini, quóniam venit.;;95
 Notum fecit * Dóminus, allelúja, salutáre suum, allelúja.;;97
 
 [Nocturn 1 Versum]
-V. Tamquam sponsus.
-R. Dóminus procédens de thálamo suo.
+{initial-style:0;%%(c3) V/. Tam(h)quam(h) spon(h)sus.(g_'/hvGF'E!fgf.) (::)
+R/. Dó(h)mi(h)nus(h) pro(h)cé(h)dens(h) de(h) thá(h)la(h)mo(h) su(h)o.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 2 Versum]
-V. Speciósus forma præ fíliis hóminum.
-R. Diffúsa est grátia in lábiis tuis.
+{initial-style: 0;%%(c3) V/. Spe(h)ci(h)ó(h)sus(h) for(h)ma(h) præ(h) fí(h)li(h)is(h) hó(h)mi(h)num.(g_'/hvGF'E!fgf.) (::)
+R/.Dif(h)fú(h)sa(h) est(h) grá(h)ti(h)a(h) in(h) lá(h)bi(h)is(h) tu(h)is.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Ipse invocábit me, allelúja.
-R. Pater meus es tu, allelúja.
+{initial-style: 0;%%(c3) V/. Ip(h)se(h) in(h)vo(h)cá(h)bit(h) me,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.Pa(h)ter(h) me(h)us(h) es(h) tu,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Lectio1]
 !Isa 9:1-6
@@ -327,8 +327,8 @@ R. Allelúja, allelúja.
 R. Notum fecit Dóminus, * Allelúja, allelúja.
 
 [Versum Sexta]
-V. Vidérunt omnes fines terræ, allelúja.
-R. Salutáre Dei nostri, allelúja.
+{initial-style: 0;%%(c3) V/. Vi(h)dé(h)runt(h) om(h)nes(h) fi(h)nes(h) ter(h)ræ,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.Sa(h)lu(h)tá(h)re(h) De(h)i(h) nos(h)tri,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory Breve Nona]
 R.br. Vidérunt omnes fines terræ, * Allelúja, allelúja.
@@ -339,8 +339,8 @@ R. Allelúja, allelúja.
 R. Vidérunt omnes fines terræ, * Allelúja, allelúja.
 
 [Versum Nona]
-V. Verbum caro factum est, allelúja.
-R. Et habitávit in nobis, allelúja.
+{initial-style: 0;%%(c3) V/. Ver(h)bum(h) ca(h)ro(h) fac(h)tum(h) est,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) ha(h)bi(h)tá(h)vit(h) in(h) no(h)bis,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant Vespera 3]
 Tecum princípium * in die virtútis tuæ, in splendóribus sanctórum, ex útero ante lucíferum génui te.;;109

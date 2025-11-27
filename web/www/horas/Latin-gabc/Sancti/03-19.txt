@@ -40,12 +40,12 @@ Admónitus in sómnis, * Joseph secéssit in partes Galilǽæ: et véniens habit
 Erat Pater Jesu * et Mater mirántes super his, quæ dicebántur de illo; et benedíxit illis Símeon.;;23
 
 [Nocturn 2 Versum]
-V. Magna est glória ejus in salutári tuo.
-R. Glóriam et magnum decórem impónes super eum.
+{initial-style: 0;%%(c3) V/. Ma(h)gna(h) est(h) gló(h)ri(h)a(h) e(h)jus(h) in(h) sa(h)lu(h)tá(h)ri(h) tu(h)o.(g_'/hvGF'E!fgf.) (::)
+R/.Gló(h)ri(h)am(h) et(h) ma(h)gnum(h) de(h)có(h)rem(h) im(h)pó(h)nes(h) su(h)per(h) e(h)um.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Justus germinábit sicut lílium.
-R. Et florébit in ætérnum ante Dóminum.
+{initial-style: 0;%%(c3) V/. Jus(h)tus(h) ger(h)mi(h)ná(h)bit(h) sic(h)ut(h) lí(h)li(h)um.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) flo(h)ré(h)bit(h) in(h) æ(h)tér(h)num(h) an(h)te(h) Dó(h)mi(h)num.(g_'/hvGF'E!fgf.) (::)}
 
 [Lectio1]
 De libro Génesis
@@ -179,7 +179,7 @@ Amen.
 R/. Et(h) lin(h)gua(h) e(hi)jus(h_') (,) lo(h)qué(h)tur(f') ju(e)dí(f_0h)ci(h)um.(hiHGhih.ghGFE'fggf.) (::)}
 (sed tempore paschali)
 {initial-style:0;%%(c3) V/. Os(h) jus(h)ti(h) me(h)di(h)tá(h)bi(h)tur(h) sa(h)pi(h)én(hi)ti(h)am,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)
-R/.  Et(h) lin(h)gua(h) e(h)jus(h) lo(h)qué(h)tur(h) ju(h)dí(hi)ci(h)um,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)}
+R/. Et(h) lin(h)gua(h) e(h)jus(h) lo(h)qué(h)tur(h) ju(h)dí(hi)ci(h)um,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)}
 
 [Ant 2]
 Ipse Jesus * erat incípiens quasi annórum trigínta, ut putabátur, fílius Joseph.
@@ -218,8 +218,8 @@ R. Sicut lílium.
 R. Justus germinábit * Sicut lílium.
 
 [Versum Nona]
-V. Plantátus in domo Dómini.
-R. In átriis domus Dei nostri.
+{initial-style: 0;%%(c3) V/. Plan(h)tá(h)tus(h) in(h) do(h)mo(h) Dó(h)mi(h)ni.(g_'/hvGF'E!fgf.) (::)
+R/.In(h) á(h)tri(h)is(h) do(h)mus(h) De(h)i(h) nos(h)tri.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant Vespera 3]
 @:Ant Laudes

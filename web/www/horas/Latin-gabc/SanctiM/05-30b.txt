@@ -113,16 +113,16 @@ V. Posuísti, Dómine, super caput ejus.
 R. Corónam de lápide pretióso.
 
 [Nocturn 1 Versum]
-V. Méritis et précibus beátæ Joánnæ.
-R. Propítius esto, Dómine, pópulo tuo.
+{initial-style:0;%%(c3) V/. Mé(h)ri(h)tis(h) et(h) pré(h)ci(h)bus(h) be(h)á(h)tæ(h) Jo(h)án(h)næ.(g_'/hvGF'E!fgf.) (::)
+R/. Pro(h)pí(h)ti(h)us(h) es(h)to,(h) Dó(h)mi(h)ne,(h) pó(h)pu(h)lo(h) tu(h)o.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 2 Versum]
-V. Factus est Dóminus suscéptor meus.
-R. Et refúgium meum in die tribulatiónis.
+{initial-style: 0;%%(c3) V/. Fac(h)tus(h) est(h) Dó(h)mi(h)nus(h) su(h)scép(h)tor(h) me(h)us.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) re(h)fú(h)gi(h)um(h) me(h)um(h) in(h) di(h)e(h) tri(h)bu(h)la(h)ti(h)ó(h)nis.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Posuísti, Dómine, super caput ejus.
-R. Corónam de lápide pretióso.
+{initial-style: 0;%%(c3) V/. Po(h)su(h)ís(h)ti,(h) Dó(h)mi(h)ne,(h) su(h)per(h) ca(h)put(h) e(h)jus.(g_'/hvGF'E!fgf.) (::)
+R/.Co(h)ró(h)nam(h) de(h) lá(h)pi(h)de(h) pre(h)ti(h)ó(h)so.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R.br. Deus ómnium exaudítor est: ipse misit Angelum suum, et tulit me de óvibus patris mei:

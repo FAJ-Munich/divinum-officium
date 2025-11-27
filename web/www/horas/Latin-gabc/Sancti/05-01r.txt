@@ -57,16 +57,16 @@ Nonne hic est * fabri fílius? Nonne hic est fílius Joseph? Allelúja.;;14
 ;;23
 
 [Nocturn 1 Versum]
-V. Glória et exémplar opíficum, sancte Joseph, allelúja.
-R. Cui obedíre vóluit Fílius Dei, allelúja.
+{initial-style:0;%%(c3) V/. Gló(h)ri(h)a(h) et(h) ex(h)ém(h)plar(h) o(h)pí(h)fi(h)cum,(h) sanc(h)te(h) Jo(h)seph,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/. Cu(h)i(h) ob(h)e(h)dí(h)re(h) vó(h)lu(h)it(h) Fí(h)li(h)us(h) De(h)i,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
 
 [Nocturn 2 Versum]
-V. O magnam dignitátem labóris, allelúja.
-R. Quem Christus sanctificávit, allelúja.
+{initial-style: 0;%%(c3) V/. O(h) ma(h)gnam(h) di(h)gni(h)tá(h)tem(h) la(h)bó(h)ris,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.Quem(h) Chris(h)tus(h) sanc(h)ti(h)fi(h)cá(h)vit,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Verbum Dei, per quod facta sunt ómnia, allelúja.
-R. Dignátus est operári mánibus suis, allelúja.
+{initial-style: 0;%%(c3) V/. Ver(h)bum(h) De(h)i,(h) per(h) quod(h) fac(h)ta(h) sunt(h) óm(h)ni(h)a,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.Di(h)gná(h)tus(h) est(h) o(h)pe(h)rá(h)ri(h) má(h)ni(h)bus(h) su(h)is,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Sex diébus operáberis et fácies ómnia ópera tua, séptimo autem die sábbatum Dómini Dei tui est:

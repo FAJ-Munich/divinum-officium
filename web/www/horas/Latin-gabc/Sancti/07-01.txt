@@ -112,16 +112,16 @@ Et bájulans sibi crucem, * exívit in eum, qui dícitur Calváriæ, locum, ubi 
 Ut vidérunt eum jam mórtuum, * non fregérunt ejus crura, sed unus mílitum láncea latus ejus apéruit, et contínuo exívit sanguis et aqua.;;93
 
 [Nocturn 1 Versum]
-V. Redemísti nos, Dómine. 
-R. In sánguine tuo.
+{initial-style:0;%%(c3) V/. Red(h)e(h)mís(h)ti(h) nos,(h) Dó(h)mi(h)ne.(g_'/hvGF'E!fgf.) (::)
+R/. In(h) sán(h)gui(h)ne(h) tu(h)o.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 2 Versum]
-V. Sanguis Jesu Christi, Fílii Dei.
-R. Emúndat nos ab omni peccáto.
+{initial-style: 0;%%(c3) V/. San(h)guis(h) Je(h)su(h) Chris(h)ti,(h) Fí(h)li(h)i(h) De(h)i.(g_'/hvGF'E!fgf.) (::)
+R/.E(h)mún(h)dat(h) nos(h) ab(h) om(h)ni(h) pec(h)cá(h)to.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Christus diléxit nos.
-R. Et lavit nos a peccátis nostris in sánguine suo.
+{initial-style: 0;%%(c3) V/. Chris(h)tus(h) di(h)lé(h)xit(h) nos.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) la(h)vit(h) nos(h) a(h) pec(h)cá(h)tis(h) nos(h)tris(h) in(h) sán(h)gui(h)ne(h) su(h)o.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Jesus, ut sanctificáret per suum sánguinem pópulum, extra portam passus est: 

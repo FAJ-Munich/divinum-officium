@@ -114,12 +114,12 @@ Vidérunt * omnes términi terræ salutáre Dei nostri.;;97
 Psallam tibi * in natiónibus, quia magna est super cælos misericórdia tua.;;107
 
 [Nocturn 2 Versum]
-V. Ego dixi, Dómine, miserére mei.
-R. Sana ánimam meam quia peccávi tibi.
+{initial-style: 0;%%(c3) V/. E(h)go(h) di(h)xi,(h) Dó(h)mi(h)ne,(h) mi(h)se(h)ré(h)re(h) me(h)i.(g_'/hvGF'E!fgf.) (::)
+R/.Sa(h)na(h) á(h)ni(h)mam(h) me(h)am(h) qui(h)a(h) pec(h)cá(h)vi(h) ti(h)bi.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Memóriam fecit mirabílium suórum miserátor Dóminus.
-R. Escam dedit timéntibus se.
+{initial-style: 0;%%(c3) V/. Me(h)mó(h)ri(h)am(h) fe(h)cit(h) mi(h)ra(h)bí(h)li(h)um(h) su(h)ó(h)rum(h) mi(h)se(h)rá(h)tor(h) Dó(h)mi(h)nus.(g_'/hvGF'E!fgf.) (::)
+R/.Es(h)cam(h) de(h)dit(h) ti(h)mén(h)ti(h)bus(h) se.(g_'/hvGF'E!fgf.) (::)}
 
 [Lectio1]
 De Jeremía Prophéta
@@ -227,8 +227,8 @@ Ad hoc enim perforátum est latus tuum, ut nobis páteat intróitus. Ad hoc vuln
 &teDeum
 
 [Versum 0]
-V. Miserátor et miséricors Dóminus.
-R. Longánimis et multum miséricors.
+{initial-style: 0;%%(c3) V/. Mi(h)se(h)rá(h)tor(h) et(h) mi(h)sé(h)ri(h)cors(h) Dó(h)mi(h)nus.(g_'/hvGF'E!fgf.) (::)
+R/.Long(h)á(h)ni(h)mis(h) et(h) mul(h)tum(h) mi(h)sé(h)ri(h)cors.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant Laudes]
 Unus mílitum * láncea latus ejus apéruit et contínuo exívit sanguis et aqua.

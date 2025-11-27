@@ -31,8 +31,8 @@ R. Et pars mea Deus in ætérnum.
 R. Deus cordis mei, * et pars mea Deus in ætérnum.
 
 [Versum 2]
-V. Qui me invénerit, invéniet vitam:
-R. Et háuriet salútem a Dómino
+{initial-style: 0;%%(c3) V/. Qui(h) me(h) in(h)vé(h)ne(h)rit,(h) in(h)vé(h)ni(h)et(h) vi(h)tam:(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) háu(h)ri(h)et(h) sa(h)lú(h)tem(h) a(h) Dó(h)mi(h)no(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 2]
 Extóllens * quædam múlier vocem de turba dixit: Beátus venter qui te portávit, et úbera quæ suxísti.
@@ -55,8 +55,8 @@ R. Ego dilécto meo.
 V. Et ad me convérsio ejus.
 
 [Versum 3]
-V. Viam mandatórum tuórum cucúrri.
-R. Cum dilatásti Cor meum.
+{initial-style: 0;%%(c3) V/. Vi(h)am(h) man(h)da(h)tó(h)rum(h) tu(h)ó(h)rum(h) cu(h)cúr(h)ri.(g_'/hvGF'E!fgf.) (::)
+R/.Cum(h) di(h)la(h)tás(h)ti(h) Cor(h) me(h)um.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 3]
 Exsultávit Cor meum: * in Deo, salutári meo, quia fecit mihi magna qui potens est.

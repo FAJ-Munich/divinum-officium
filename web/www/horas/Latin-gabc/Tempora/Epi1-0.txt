@@ -50,8 +50,8 @@ Semper tibi sit glória.
 Amen.
 
 [Versum 1]
-V. Beáti qui hábitant in domo tua, Dómine.
-R. In sǽcula sæculórum laudábunt te.
+{initial-style: 0;%%(c3) V/. Be(h)á(h)ti(h) qui(h) há(h)bi(h)tant(h) in(h) do(h)mo(h) tu(h)a,(h) Dó(h)mi(h)ne.(g_'/hvGF'E!fgf.) (::)
+R/.In(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum(h) lau(h)dá(h)bunt(h) te.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 1]
 Verbum caro * factum est, et habitávit in nobis, plenum grátiæ et veritátis; de cujus plenitúdine omnes nos accépimus, et grátiam pro grátia, allelúja.
@@ -132,16 +132,16 @@ Cum redírent, * remánsit puer Jesus in Jerúsalem, et non cognovérunt parént
 Non inveniéntes Jesum * regréssi sunt in Jerúsalem, requiréntes eum.;;97
 
 [Nocturn 1 Versum]
-V. Propter nos egénus factus est cum esset dives.
-R. Ut illíus inópia nos dívites essémus.
+{initial-style:0;%%(c3) V/. Prop(h)ter(h) nos(h) e(h)gé(h)nus(h) fac(h)tus(h) est(h) cum(h) es(h)set(h) di(h)ves.(g_'/hvGF'E!fgf.) (::)
+R/. Ut(h) il(h)lí(h)us(h) in(h)ó(h)pi(h)a(h) nos(h) dí(h)vi(h)tes(h) es(h)sé(h)mus.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 2 Versum]
-V. Dóminus vias suas docébit nos.
-R. Et ambulábimus in sémitis ejus.
+{initial-style: 0;%%(c3) V/. Dó(h)mi(h)nus(h) vi(h)as(h) su(h)as(h) do(h)cé(h)bit(h) nos.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) am(h)bu(h)lá(h)bi(h)mus(h) in(h) sé(h)mi(h)tis(h) e(h)jus.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Pauper sum ego, et in labóribus a juventúte mea.
-R. Exaltátus autem humiliátus sum, et conturbátus.
+{initial-style: 0;%%(c3) V/. Pau(h)per(h) sum(h) e(h)go,(h) et(h) in(h) la(h)bó(h)ri(h)bus(h) a(h) ju(h)ven(h)tú(h)te(h) me(h)a.(g_'/hvGF'E!fgf.) (::)
+R/.Ex(h)al(h)tá(h)tus(h) au(h)tem(h) hu(h)mi(h)li(h)á(h)tus(h) sum,(h) et(h) con(h)tur(h)bá(h)tus.(g_'/hvGF'E!fgf.) (::)}
 
 [Lectio1]
 De Epístola beáti Pauli Apóstoli ad Colossénses
@@ -251,8 +251,8 @@ Si non potes sublímen incédere sémitam virginitátis, séquere vel Deum per t
 &teDeum
 
 [Versum 0]
-V. Ecce testem pópulis dedi eum.
-R. Ducem ac praceptórem géntibus.
+{initial-style: 0;%%(c3) V/. Ec(h)ce(h) tes(h)tem(h) pó(h)pu(h)lis(h) de(h)di(h) e(h)um.(g_'/hvGF'E!fgf.) (::)
+R/.Du(h)cem(h) ac(h) pra(h)cep(h)tó(h)rem(h) gén(h)ti(h)bus.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant Laudes]
 Post tríduum * invenérunt Jesum in templo sedéntem in médio doctórum, audiéntem illos, et interrogántem eos.
@@ -309,8 +309,8 @@ Semper tibi sit glória.
 Amen.
 
 [Versum 2]
-V. Ponam univérsos fílios tuos doctos a Dómino.
-R. Et multitúdinem pacis fíliis tuis.
+{initial-style: 0;%%(c3) V/. Po(h)nam(h) u(h)ni(h)vér(h)sos(h) fí(h)li(h)os(h) tu(h)os(h) doc(h)tos(h) a(h) Dó(h)mi(h)no.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) mul(h)ti(h)tú(h)di(h)nem(h) pa(h)cis(h) fí(h)li(h)is(h) tu(h)is.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 2]
 Illúmina nos, Dómine, * exémplis Famíliæ tuæ, et dírige pedes nostros in viam pacis.

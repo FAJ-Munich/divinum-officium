@@ -100,12 +100,12 @@ Intendérunt arcum * rem amáram, ut sagíttent in occúltis immaculátum.;;63
 Deus adjútor * in tribulatiónibus quæ invenérunt nos nimis.;;45
 
 [Nocturn 2 Versum]
-V. Fascículus myrrhæ diléctus meus mihi.
-R. Inter úbera mea commorábitur.
+{initial-style: 0;%%(c3) V/. Fa(h)scí(h)cu(h)lus(h) myr(h)rhæ(h) di(h)léc(h)tus(h) me(h)us(h) mi(h)hi.(g_'/hvGF'E!fgf.) (::)
+R/.In(h)ter(h) ú(h)be(h)ra(h) me(h)a(h) com(h)mo(h)rá(h)bi(h)tur.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Per te salútem hauriámus, Virgo María.
-R. Ex vulnéribus Christi.
+{initial-style: 0;%%(c3) V/. Per(h) te(h) sa(h)lú(h)tem(h) hau(h)ri(h)á(h)mus,(h) Vir(h)go(h) Ma(h)rí(h)a.(g_'/hvGF'E!fgf.) (::)
+R/.Ex(h) vul(h)né(h)ri(h)bus(h) Chris(h)ti.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Símeon, vir justus et timorátus, dixit ad Maríam: 
@@ -207,8 +207,8 @@ R. Qui transítis per viam.
 R. O vos omnes, * Qui transítis per viam.
 
 [Versum Tertia]
-V. Defecérunt præ lácrimis óculi mei.
-R. Conturbáta sunt ómnia víscera mea.
+{initial-style: 0;%%(c3) V/. De(h)fe(h)cé(h)runt(h) præ(h) lá(h)cri(h)mis(h) ó(h)cu(h)li(h) me(h)i.(g_'/hvGF'E!fgf.) (::)
+R/.Con(h)tur(h)bá(h)ta(h) sunt(h) óm(h)ni(h)a(h) ví(h)sce(h)ra(h) me(h)a.(g_'/hvGF'E!fgf.) (::)}
 
 [Capitulum Sexta]
 !Lam. 1:2
@@ -232,8 +232,8 @@ R. Diléctus meus mihi.
 R. Fascículus myrrhæ * Diléctus meus mihi.
 
 [Versum Nona]
-V. Anima mea liquefácta est.
-R. Ut diléctus locútus est.
+{initial-style: 0;%%(c3) V/. A(h)ni(h)ma(h) me(h)a(h) li(h)que(h)fác(h)ta(h) est.(g_'/hvGF'E!fgf.) (::)
+R/.Ut(h) di(h)léc(h)tus(h) lo(h)cú(h)tus(h) est.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 3]
 Oppréssit me dolor, * et fácies mea intúmuit a fletu, et pálpebræ meæ caligavérunt.

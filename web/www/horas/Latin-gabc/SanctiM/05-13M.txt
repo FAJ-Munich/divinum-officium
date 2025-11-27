@@ -34,16 +34,16 @@ Deus, qui hanc sacrosánctam ecclésiam tot voluísti Sanctórum decorári Relí
 $Per Dominum
 
 [Nocturn 1 Versum]
-V. Dórmiunt in terræ púlvere.
-R. Evigilánunt in vitam ætérnam.
+{initial-style:0;%%(c3) V/. Dór(h)mi(h)unt(h) in(h) ter(h)ræ(h) púl(h)ve(h)re.(g_'/hvGF'E!fgf.) (::)
+R/. E(h)vi(h)gi(h)lá(h)nunt(h) in(h) vi(h)tam(h) æ(h)tér(h)nam.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 2 Versum]
-V. Justi quasi virens fólium germinábunt.
-R. Non commovébitur radix eorum.
+{initial-style: 0;%%(c3) V/. Jus(h)ti(h) qua(h)si(h) vi(h)rens(h) fó(h)li(h)um(h) ger(h)mi(h)ná(h)bunt.(g_'/hvGF'E!fgf.) (::)
+R/.Non(h) com(h)mo(h)vé(h)bi(h)tur(h) ra(h)dix(h) e(h)o(h)rum.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Cum Christus apparúerit, vita vestra.
-R. Tunc et vos apparébitis cum ipso in glória.
+{initial-style: 0;%%(c3) V/. Cum(h) Chris(h)tus(h) ap(h)pa(h)rú(h)e(h)rit,(h) vi(h)ta(h) ves(h)tra.(g_'/hvGF'E!fgf.) (::)
+R/.Tunc(h) et(h) vos(h) ap(h)pa(h)ré(h)bi(h)tis(h) cum(h) ip(h)so(h) in(h) gló(h)ri(h)a.(g_'/hvGF'E!fgf.) (::)}
 
 [Capitulum Laudes]
 !Rom 8:11
