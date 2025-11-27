@@ -143,7 +143,7 @@
 {name:Domine refugium;annotation:6.;mode:6;book:Liber antiphonarius, 1960, p. 145;transcriber:Andrew Hinkley;%%(c4) DO(f')mi(g)ne(h') *() re(f)fú(g')gi(f)um(f'_) fa(d)ctus(f) es(g') no(g)bis.(f.) (::)};;89;;6
 {name:Domine in caelo;annotation:8.c;mode:8;book:Liber antiphonarius, 1960, p. 146;transcriber:Andrew Hinkley;%%(c3) DO(h)mi(h)ne,(g') *() in(h) cae(fe)lo(g'_) (,) mi(f)se(g)ri(h)cór(f')di(e)a(f') tu(f)a.(e.) (::)};;35;;8c
 {name:Populus meus ait;annotation:4.E;mode:4;book:Liber antiphonarius, 1960, p. 147;transcriber:Andrew Hinkley;%%(c4) PO(f_d)pu(e')lus(f) me(g)us,(g') *() a(g)it(ge) Dó(f)mi(e)nus,(d.) (;) bo(d)nis(d) me(dh)is(h) ad(h)im(gf)plé(g')bi(f)tur.(e.) (::)};;214;;4E
-{name:Deo nostro jucunda;annotation:8.c;mode:8;book:Liber antiphonarius, 1960, p. 147;transcriber:Andrew Hinkley;%%(c3) DE(h)o(g') no(h)stro(f.) *() ju(ed)cún(e')da(f) sit(g) lau(fe~)dá(f')ti(e)o.(e.) (::);;146;;8c
+{name:Deo nostro jucunda;annotation:8.c;mode:8;book:Liber antiphonarius, 1960, p. 147;transcriber:Andrew Hinkley;%%(c3) DE(h)o(g') no(h)stro(f.) *() ju(ed)cún(e')da(f) sit(g) lau(fe~)dá(f')ti(e)o.(e.) (::)};;146;;8c
 
 [Day4 Laudes1] (tempore paschali)
 {name:Alleluia (Thursday P. T. at Lauds);annotation:8.G;mode:8;book:Antiphonale Romanum, 1912, p. 124;%%(c4)Al(h)le(g)lú(h)ja,(gf) *(,) al(g)le(h)lú(i')ja,(j) al(h')le(h)lú(g.)ja.(g.) (::)};;97;;8G
@@ -235,7 +235,7 @@
 {name:Beatus populus;annotation:8.c;mode:8;book:The Liber Usualis, 1961, p. 308 & Liber antiphonarius, 1960, p. 203;transcriber:Andrew Hinkley;%%(c3) BE(h)á(hg)tus(fe) pó(f')pu(e)lus(e.) *(,) cu(d')jus(f) Dó(h')mi(f)nus(g_[uh:l]h) De(f)us(f) e(e.)jus.(e.) (::)};;143(10-18);;8c
 {name:Magnus Dominus... et magnitudinis;annotation:1.a3;mode:1;book:The Liber Usualis, 1961, p. 309 & The Liber Usualis, 1961, p. 310 & Liber antiphonarius, 1960, p. 203 & Liber antiphonarius, 1960, p. 204;transcriber:Andrew Hinkley;%%(c4) MA(d_h)gnus(h') Dó(j)mi(h)nus(ghg___) *(,) et(f) lau(g)dá(h')bi(g)lis(f') ni(g)mis :(d!ewf.) (;) et(d) ma(e')gni(f)tú(g')di(f)nis(gh) e(gf~)jus(f) non(g) est(fe) fi(d.)nis.(d.) (::)};;144(1-7);;1a3
 {name:Suavis Dominus;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 310 & The Liber Usualis, 1961, p. 311 & Liber antiphonarius, 1960, p. 204;transcriber:Andrew Hinkley;%%(c4) SU(g)á(gj)vis(hg) Dó(h')mi(g)nus(f) *() u(gh)ni(h')vér(g)sis :(g.) (;) et(g) mi(f')se(h)ra(j)ti(i)ó(hk)nes(j') e(i)jus(i.) (,) su(j)per(h') ó(j)mni(i)a(gf) ó(gh)pe(h)ra(h) e(g.)jus.(g.) (::)};;144(8-13);;8G
-{name:Fidelis Dominus;annotation:4.g;mode:4;book:The Liber Usualis, 1961, p. 311 & Liber antiphonarius, 1960, p. 205;transcriber:Andrew Hinkley;%%(c4) FI(e)dé(gh)lis(hg) Dó(h')mi(g)nus(e'_[oh:h]) *(,) in(f) ó(g')mni(f)bus(fe) ver(d)bis(c) su(d_f)is,(f.) (;) et(f) san(ef)ctus(c') in(d) ó(f')mni(e)bus(f') o(g)pé(gh)ri(f)bus(gf) su(e.)is.(e.) (::);;144(14-22);;4g
+{name:Fidelis Dominus;annotation:4.g;mode:4;book:The Liber Usualis, 1961, p. 311 & Liber antiphonarius, 1960, p. 205;transcriber:Andrew Hinkley;%%(c4) FI(e)dé(gh)lis(hg) Dó(h')mi(g)nus(e'_[oh:h]) *(,) in(f) ó(g')mni(f)bus(fe) ver(d)bis(c) su(d_f)is,(f.) (;) et(f) san(ef)ctus(c') in(d) ó(f')mni(e)bus(f') o(g)pé(gh)ri(f)bus(gf) su(e.)is.(e.) (::)};;144(14-22);;4g
 
 [Day6 Vespera] (tempore paschali)
 {name:Alleluia. (Saturday P. T. at Vespers);annotation:6.;mode:6;book:The Liber Usualis, 1961, p. 307 & The Liber Usualis, 1961, p. 312 & Liber antiphonarius, 1960, p. 202 & Liber antiphonarius, 1960, p. 205;transcriber:Andrew Hinkley;%%(c4) AL(f)le(g)lú(gh){ja},(f.) *(,) al(g)le(f)lú(fe){ja},(d') al(f)le(g')lú(g){ja}.(f.) (::)};;143(1-9);;6
@@ -576,7 +576,7 @@ Allelúja, * allelúja, allelúja.;;143;;6
 {name:De profundis;annotation:8.a;mode:8;book:Antiphonale Monasticum, 1934, p. 138;transcriber:fraterMichael;%%(c3)DE(h) pro(g')fún(h>)dis(f.) *() cla(ed)má(e)vi(f') ad(g) te(f') Dó(e)mi(de)ne.(e.) (::)};;129;;8a
 {name:Speret Israel;annotation:T. irreg.;book:Antiphonale Monasticum, 1934, p. 139;transcriber:Harpa Dei;%%(c4)SPe(h_)ret(gg) * Is(f)ra(g)el(h') in(ixi>) Dó(g')mi(ixi)no.(h.) (::)};;130;;irregularis-a
 {name:Et omnis;annotation:T. irreg.;book:Antiphonale Monasticum, 1934, p. 139;transcriber:fraterMichael;%%(c4)ET(h) om(h>)nis(g') *() man(g)su(f')e(g)tú(h')di(ixi)nis(g') e(ixi)jus.(h.) (::)};;131;;irregularis-a
-{name:Ecce quam bonum;annotation:1.a;mode:1;book:Antiphonale Monasticum, 1934, p. 140;transcriber:Harpa Dei;%%(c4)EC(h)ce(h_') quam(g) bo-(hg)num(e') * et(f) quam(g>) iu-(e)cún(fe~)dum(d_') ha-(e)bi(f)tá-(h)re(gf) fra(e_f)tres(g) in(fe) u-(d.)num!(d.) (::);;132;;1a
+{name:Ecce quam bonum;annotation:1.a;mode:1;book:Antiphonale Monasticum, 1934, p. 140;transcriber:Harpa Dei;%%(c4)EC(h)ce(h_') quam(g) bo-(hg)num(e') * et(f) quam(g>) iu-(e)cún(fe~)dum(d_') ha-(e)bi(f)tá-(h)re(gf) fra(e_f)tres(g) in(fe) u-(d.)num!(d.) (::)};;132;;1a
 
 [Monastic Vespera] (feria 3 et tempore paschali)
 {name:Alleluia. (Tuesday P. T. at Vespers);annotation:8.a;mode:8;book:Antiphonale Monasticum, 1934, p. 138;transcriber:Harpa Dei;%%(c3) Al(h)le(g')lú(h)ja,(f'_) * al(e)le(d')lú(e)ja,(f') al(g)le(fe)lú(f)ja.(e.) (::)};;129;;8a

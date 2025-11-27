@@ -153,7 +153,7 @@ R.br. {gabc:Tempora/Cordis/rb--christe_fili_dei_vivi--}
 (sed tonus festivus major)
 {gabc:Psalterium/Festis_major/hy--jam_lucis_orto_sidere_festis_majoribus--solesmes_1934}
 (sed tonus solemnis)
-{gabc:Psalterium/hy--jam_lucis_orto_sidere_solemnitatibus--solesmes_1934}
+{gabc:Psalterium/Solemnis/hy--jam_lucis_orto_sidere_solemnitatibus--solesmes_1934}
 (sed tempore Nativitatis aut tempore Corpus)
 {gabc:Psalterium/Nativitate/hy--jam_lucis_orto_sidere_in_nativitate_domini--solesmes_1934}
 (sed tempore Epiphaniæ)
