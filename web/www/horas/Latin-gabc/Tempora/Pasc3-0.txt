@@ -2,7 +2,7 @@
 Módicum * et non vidébitis me, dicit Dóminus: íterum módicum, et vidébitis me, quia vado ad Patrem, allelúja, allelúja.
 
 [Oratio]
-Deus, qui errántibus, ut in viam possint redíre justítiæ, veritátis tuæ lumen osténdis: da cunctis, qui christiána professióne censéntur, et illa respúere, quæ huic inimíca sunt nómini; et ea, quæ sunt apta, sectári.
+{(c3) De(h)us,(h) qui(h) er(h)rán(h)ti(h)bus,(h) ut(h) in(h) vi(h)am(h) pos(h)sint(h) red(h)í(h)re(h) jus(h)tí(h)ti(h)æ,(h) ve(h)ri(h)tá(h)tis(h) tu(h)æ(h) lu(h)men(h) os(h)tén(h)dis:(f.) †(,) da(h) cunc(h)tis,(h) qui(h) chris(h)ti(h)á(h)na(h) pro(h)fes(h)si(h)ó(h)ne(h) cen(h)sén(h)tur,(h) et(h) il(h)la(h) re(h)spú(h)e(h)re,(h) quæ(h) hu(h)ic(h) in(h)i(h)mí(h)ca(g) sunt(f) nó(h)mi(hr)ni;(h.) *(;) et(h) e(h)a,(h) quæ(h) sunt(h) ap(h)ta,(h) sec(h)tá(h dr)ri.(d.) (::)}
 $Per Dominum
 
 [Commemoratio]
@@ -121,17 +121,17 @@ Hoc módicum longum nobis vidétur, quóniam adhuc ágitur; cum finítum fúerit
 
 [Capitulum Laudes]
 !1 Pet 2:11
-v. Caríssimi: Obsecro vos tamquam ádvenas et peregrínos abstinére vos a carnálibus desidériis, quæ mílitant advérsus ánimam.
+{(c3) Ca(h)rís(h)si(h)mi:(h.) (,) Ob(h)se(h)cro(h) vos(h) tam(h)quam(h) ád(h)ve(h)nas(h) et(h) per(h)e(h)grí(h)nos(f.) †(;) abs(h)ti(h)né(h)re(h) vos(h) a(h) car(h)ná(h)li(h)bus(h) de(g)si(f)dé(h)ri(hr)is,(h.) *(;) quæ(h) mí(h)li(h)tant(h) ad(h)vér(h)sus(h) á(h)ni(f)mam.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Sexta]
 !1 Pet 2:13-14
-v. Subjécti ígitur estóte omni humánæ creatúræ propter Deum: sive regi quasi præcellénti: sive dúcibus tamquam ab eo missis ad vindíctam malefactórum, laudem vero bonórum.
+{(c3) Sub(h)jéc(h)ti(h) í(h)gi(h)tur(h) es(h)tó(h)te(h) om(h)ni(h) hu(h)má(h)næ(h) cre(h)a(h)tú(h)ræ(h) prop(h)ter(h) De(h)um:(f.) †(;) si(h)ve(h) re(h)gi(h) qua(h)si(h) præ(h)cel(h)lén(h)ti:(h_') (,) si(h)ve(h) dú(h)ci(h)bus(h) tam(h)quam(h) ab(h) e(g)o(f) mis(h hr)sis(h.) *(;) ad(h) vin(h)díc(h)tam(h) ma(h)le(h)fac(h)tó(h)rum,(h) lau(h)dem(h) ve(h)ro(h) bo(h)nó(f)rum.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Nona]
 !1 Pet 2:18-19
-v. Servi, súbditi estóte in omni timóre dóminis, non tantum bonis et modéstis, sed étiam dýscolis. Hæc est enim grátia in Christo Jesu Dómino nostro.
+{(c3) Ser(h)vi,(h) súb(h)di(h)ti(h) es(h)tó(h)te(h) in(h) om(h)ni(h) ti(h)mó(h)re(h) dó(h)mi(f)nis,(f.) †(;) non(h) tan(h)tum(h) bo(h)nis(h) et(h) mo(h)dés(h)tis,(h) sed(h) ét(h)i(g)am(f) dýs(h)co(hr)lis.(h.) *(;) Hæc(h) est(h) e(h)nim(h) grá(h)ti(h)a(h) in(h) Chris(h)to(h) Je(h)su(h) Dó(h)mi(h)no(h) nos(f)tro.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

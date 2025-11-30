@@ -1,5 +1,5 @@
 [Oratio]
-Omnípotens et miséricors Deus, de cujus múnere venit, ut tibi a fidélibus tuis digne et laudabíliter serviátur: tríbue, quǽsumus, nobis; ut ad promissiónes tuas sine offensióne currámus.
+{(c3) Om(h)ní(h)pot(h)ens(h) et(h) mi(h)sé(h)ri(h)cors(h) De(h)us,(h) de(h) cu(h)jus(h) mú(h)ne(h)re(h) ve(h)nit,(h) ut(h) ti(h)bi(h) a(h) fi(h)dé(h)li(h)bus(h) tu(h)is(h) di(h)gne(h) et(h) lau(h)da(h)bí(h)li(h)ter(h) ser(h)vi(h)á(h)tur:(f.) †(,) trí(h)bu(h)e,(h) quǽ(h)su(g)mus,(f) no(h hr)bis;(h.) *(;) ut(h) ad(h) pro(h)mis(h)si(h)ó(h)nes(h) tu(h)as(h) si(h)ne(h) of(h)fen(h)si(h)ó(h)ne(h) cur(h)rá(h dr)mus.(d.) (::)}
 $Per Dominum
 
 [Lectio7]

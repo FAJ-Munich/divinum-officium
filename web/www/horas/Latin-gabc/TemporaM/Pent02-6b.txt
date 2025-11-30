@@ -47,7 +47,7 @@ R. Dura sicut inférnus æmulátio.
 
 [Capitulum Nona]
 !Sir 24:9,11
-v. In omni terra steti, et in ómnibus réquiem quæsívi, et in hereditáte Dómini morábor.
+{(c3) In(h) om(h)ni(h) ter(h)ra(h) ste(h)ti,(h) et(h) in(h) óm(h)ni(h)bus(h) ré(h)qui(h)em(g) quæ(f)sí(h hr)vi,(h.) *(;) et(h) in(h) he(h)re(h)di(h)tá(h)te(h) Dó(h)mi(h)ni(h) mo(h)rá(f)bor.(ef..) (::)}
 $Deo gratias
 
 [Responsory NonaM]

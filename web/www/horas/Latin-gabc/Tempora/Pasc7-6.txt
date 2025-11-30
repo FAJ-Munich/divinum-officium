@@ -1,5 +1,5 @@
 [Oratio]
-Méntibus nostris, quǽsumus, Dómine, Spíritum Sanctum benígnus infúnde: cujus et sapiéntia cónditi sumus, et providéntia gubernámur.
+{(c3) Mén(h)ti(h)bus(h) nos(h)tris,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) Spí(h)ri(h)tum(h) Sanc(h)tum(h) be(h)ní(h)gnus(h) in(h)fún(h)de:(f.) †(,) cu(h)jus(h) et(h) sa(h)pi(h)én(h)ti(h)a(h) cón(h)di(g)ti(f) su(h hr)mus,(h.) *(;) et(h) pro(h)vi(h)dén(h)ti(h)a(h) gu(h)ber(h)ná(h dr)mur.(d.) (::)}
 $Per Dominum eiusdem
 
 [Ant Matutinum]

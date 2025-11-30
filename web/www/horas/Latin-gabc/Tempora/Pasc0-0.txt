@@ -2,7 +2,7 @@
 {gabc:Tempora/Pascha/an--vespere_autem_sabbati--solesmes};;8G
 
 [Oratio]
-Deus, qui hodiérna die per Unigénitum tuum æternitátis nobis áditum devícta morte reserásti: vota nostra, quæ præveniéndo aspíras, étiam adjuvándo proséquere.
+{(c3) De(h)us,(h) qui(h) ho(h)di(h)ér(h)na(h) di(h)e(h) per(h) U(h)ni(h)gé(h)ni(h)tum(h) tu(h)um(h) æ(h)ter(h)ni(h)tá(h)tis(h) no(h)bis(h) ád(h)i(h)tum(h) de(h)víc(h)ta(h) mor(h)te(h) re(h)se(h)rás(h)ti:(f.) †(,) vo(h)ta(h) nos(h)tra,(h) quæ(h) præ(h)ve(h)ni(h)én(h)do(g) a(f)spí(h hr)ras,(h.) *(;) ét(h)i(h)am(h) ad(h)ju(h)ván(h)do(h) pro(h)sé(h)que(dr)re.(d.) (::)}
 $Per eumdem
 
 [Special Vespera 1]

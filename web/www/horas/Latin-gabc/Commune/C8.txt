@@ -130,7 +130,7 @@ R. Et turres Jerúsalem gemmis ædificabúntur.
 
 [Capitulum Laudes]
 !Apo 21:2
-{(c3) Vi(h)di(h) ci(h)vi(h)tá(h)tem(h) sanc(h)tam,(h) Je(h)rú(h)sa(h)lem(h) no(h)vam,(f.) †(,) de(h)scen(h)dén(h)tem(h) de(h) cæ(h)lo(g) a(f) De(h)o,(h.) *(;) pa(h)rá(h)tam(h) sic(h)ut(h) spon(h)sam(h) or(h)ná(h)tam(h) vi(h)ro(h) su(f)o.(ef..) (::)}
+{(c3) Vi(h)di(h) ci(h)vi(h)tá(h)tem(h) sanc(h)tam,(h) Je(h)rú(h)sa(h)lem(h) no(h)vam,(f.) †(;) de(h)scen(h)dén(h)tem(h) de(h) cæ(h)lo(g) a(f) De(h)o,(h.) *(;) pa(h)rá(h)tam(h) sic(h)ut(h) spon(h)sam(h) or(h)ná(h)tam(h) vi(h)ro(h) su(f)o.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -146,7 +146,7 @@ $Deo gratias
 
 [Lectio Prima]
 !Apo 21:4-5
-{(c3) Et(h) abs(h)tér(h)get(h) De(h)us(h) om(h)nem(h) lá(h)cri(h)mam(h) ab(h) ó(h)cu(h)lis(h) e(h)ó(h)rum:(f.) †(,) et(h) mors(h) ul(h)tra(h) non(h) e(h)rit,(h) ne(h)que(h) luc(h)tus,(h) ne(h)que(h) cla(h)mor,(h) ne(h)que(h) do(h)lor(h) e(h)rit(h) ul(h)tra,(h) qui(h)a(h) pri(h)ma(h) ab(g)i(f)é(h)runt.(h.) *(;) Et(h) di(h)xit(h) qui(h) se(h)dé(h)bat(h) in(h) thro(h)no:(h) Ec(h)ce(h) no(h)va(h) fá(h)ci(h)o(h) óm(f)ni(e)a.(ef..) (::)}
+{(c3) Et(h) abs(h)tér(h)get(h) De(h)us(h) om(h)nem(h) lá(h)cri(h)mam(h) ab(h) ó(h)cu(h)lis(h) e(h)ó(h)rum:(f.) †(;) et(h) mors(h) ul(h)tra(h) non(h) e(h)rit,(h) ne(h)que(h) luc(h)tus,(h) ne(h)que(h) cla(h)mor,(h) ne(h)que(h) do(h)lor(h) e(h)rit(h) ul(h)tra,(h) qui(h)a(h) pri(h)ma(h) ab(g)i(f)é(h)runt.(h.) *(;) Et(h) di(h)xit(h) qui(h) se(h)dé(h)bat(h) in(h) thro(h)no:(h_') (,) Ec(h)ce(h) no(h)va(h) fá(h)ci(h)o(h) óm(f)ni(e)a.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. {gabc:Commune/C8/rb--domum_tuam--solesmes_1961.1}
@@ -159,7 +159,7 @@ R/. Pro(h) de(h)líc(h)tis(h) et(h) pec(h)cá(h)tis(h) pó(h)pu(hr)li.(g_'/hvGF'
 
 [Capitulum Sexta]
 !Apo 21:3
-{(c3) Et(h) au(h)dí(h)vi(h) vo(h)cem(h) ma(h)gnam(h) de(h) thro(h)no(h) di(h)cén(h)tem:(h) Ec(h)ce(h) ta(h)ber(h)ná(h)cu(h)lum(h) De(h)i(h) cum(h) ho(h)mí(h)ni(h)bus,(h) et(h) ha(h)bi(h)tá(h)bit(h) cum(h) e(h)is;(f.) †(,) et(h) ip(h)si(h) pó(h)pu(h)lus(h) e(g)jus(f) e(h)runt,(h.) *(;) et(h) ip(h)se(h) De(h)us(h) cum(h) e(h)is(h) e(h)rit(h) e(h)ó(h)rum(h) De(f)us.(ef..) (::)}
+{(c3) Et(h) au(h)dí(h)vi(h) vo(h)cem(h) ma(h)gnam(h) de(h) thro(h)no(h) di(h)cén(h)tem:(h_') (,) Ec(h)ce(h) ta(h)ber(h)ná(h)cu(h)lum(h) De(h)i(h) cum(h) ho(h)mí(h)ni(h)bus,(h) et(h) ha(h)bi(h)tá(h)bit(h) cum(h) e(h)is;(f.) †(;) et(h) ip(h)si(h) pó(h)pu(h)lus(h) e(g)jus(f) e(h)runt,(h.) *(;) et(h) ip(h)se(h) De(h)us(h) cum(h) e(h)is(h) e(h)rit(h) e(h)ó(h)rum(h) De(f)us.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

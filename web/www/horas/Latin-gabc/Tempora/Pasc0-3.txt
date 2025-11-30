@@ -1,5 +1,5 @@
 [Oratio]
-Deus, qui nos resurrectiónis Domínicæ ánnua solemnitáte lætíficas: concéde propítius; ut per temporália festa quæ ágimus, perveníre ad gáudia ætérna mereámur.
+{(c3) De(h)us,(h) qui(h) nos(h) re(h)sur(h)rec(h)ti(h)ó(h)nis(h) Do(h)mí(h)ni(h)cæ(h) án(h)nu(h)a(h) so(h)lem(h)ni(h)tá(h)te(h) læ(h)tí(h)fi(f)cas:(f.) †(,) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut(h) per(h) tem(h)po(h)rá(h)li(h)a(h) fes(h)ta(g) quæ(f) á(h)gi(hr)mus,(h.) *(;) per(h)ve(h)ní(h)re(h) ad(h) gáu(h)di(h)a(h) æ(h)tér(h)na(h) me(h)re(h)á(h dr)mur.(d.) (::)}
 $Per eumdem
 
 [Ant Matutinum]

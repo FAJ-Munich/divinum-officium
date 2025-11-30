@@ -9,7 +9,7 @@ Beátus Lauréntius * orábat, dicens: Grátias tibi ago, Dómine, quia jánuas 
 Levíta Lauréntius * bonum opus operátus est, qui per signum crucis cæcos illuminávit, et thesáuros Ecclésiæ dedit paupéribus.
 
 [Oratio]
-Da nobis, quǽsumus, omnípotens Deus: vitiórum nostrórum flammas exstínguere; qui beáto Lauréntio tribuísti tormentórum suórum incéndia superáre.
+{(c3) Da(h) no(h)bis,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(,) vi(h)ti(h)ó(h)rum(h) nos(h)tró(h)rum(h) flam(h)mas(g) ex(f)stín(h)gue(hr)re;(h.) *(;) qui(h) be(h)á(h)to(h) Lau(h)rén(h)ti(h)o(h) tri(h)bu(h)ís(h)ti(h) tor(h)men(h)tó(h)rum(h) su(h)ó(h)rum(h) in(h)cén(h)di(h)a(h) su(h)pe(h)rá(h dr)re.(d.) (::)}
 $Per Dominum
 
 [Octava 1]
@@ -105,7 +105,7 @@ R. Et thesáuros tibi osténdo, et vitam ætérnam promítto.
 
 [Capitulum Laudes]
 !2 Cor 9:6
-v. Fratres: Qui parce séminat, parce et metet; et qui séminat in benedictiónibus, de benedictiónibus et metet.
+{(c3) Fra(h)tres:(h.) (,) Qui(h) par(h)ce(h) sé(h)mi(h)nat,(h) par(h)ce(h) et(h) me(h)tet;(f.) †(;) et(h) qui(h) sé(h)mi(h)nat(h) in(h) be(h)ne(h)dic(g)ti(f)ó(h)ni(hr)bus,(h.) *(;) de(h) be(h)ne(h)dic(h)ti(h)ó(h)ni(h)bus(h) et(h) me(f)tet.(ef..) (::)}
 $Deo gratias
 
 [Versum 2]
@@ -127,12 +127,11 @@ v. Da nobis, quǽsumus, omnípotens Deus: vitiórum nostrorum flammas exstíngue
 $Per Dominum
 
 [Lectio Prima]
-!2 Cor 9:8-9
-v. Potens est autem Deus omnem grátiam abundáre fácere in vobis, ut, in ómnibus semper omnem sufficiéntiam habéntes, abundétis in omne opus bonum, sicut scriptum est: Dispérsit, dedit paupéribus: justítia ejus manet in sǽculum sǽculi.
+!2 {(c3) Pot(h)ens(h) est(h) au(h)tem(h) De(h)us(h) om(h)nem(h) grá(h)ti(h)am(h) ab(h)un(h)dá(h)re(h) fá(h)ce(h)re(h) in(h) vo(h)bis,(f.) †(;) ut,(h) in(h) óm(h)ni(h)bus(h) sem(h)per(h) om(h)nem(h) suf(h)fi(h)ci(h)én(h)ti(h)am(h) ha(h)bén(h)tes,(h) ab(h)un(h)dé(h)tis(h) in(h) om(h)ne(h) o(h)pus(h) bo(h)num,(h) sic(h)ut(h) scrip(h)tum(h) est:(h_') (,) Di(h)spér(h)sit,(h) de(h)dit(g) pau(f)pé(h)ri(hr)bus:(h.) *(;) jus(h)tí(h)ti(h)a(h) e(h)jus(h) ma(h)net(h) in(h) sǽ(h)cu(h)lum(h) sǽ(h)cu(f)li.(ef..) (::)}
 
 [Capitulum Sexta]
 !2 Cor 9:7
-v. Unusquísque prout destinávit in corde suo, non ex tristítia aut ex necessitáte; hílarem enim datórem díligit Deus.
+{(c3) U(h)nus(h)quís(h)que(h) pro(h)ut(h) de(h)sti(h)ná(h)vit(h) in(h) cor(h)de(h) su(h)o,(f.) †(;) non(h) ex(h) tris(h)tí(h)ti(h)a(h) aut(h) ex(h) ne(h)ces(g)si(f)tá(h hr)te;(h.) *(;) hí(h)la(h)rem(h) e(h)nim(h) da(h)tó(h)rem(h) dí(h)li(h)git(h) De(f)us.(ef..) (::)}
 $Deo gratias
 
 [Versum 3]

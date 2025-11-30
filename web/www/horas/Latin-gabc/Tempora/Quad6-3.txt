@@ -49,12 +49,12 @@ Fac, Dómine, * judícium injúriam patiéntibus: et vias peccatórum dispérde.
 Simon, dormis? * non potuísti una hora vigiláre mecum?
 
 [Oratio 2]
-Præsta, quǽsumus, omnípotens Deus: ut, qui nostris excéssibus incessánter afflígimur, per unigéniti Fílii tui passiónem líberemur:
+{(c3) Præ(h)sta,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(,) ut,(h) qui(h) nos(h)tris(h) ex(h)cés(h)si(h)bus(h) in(h)ces(h)sán(h)ter(g) af(f)flí(h)gi(hr)mur,(h.) *(;) per(h) u(h)ni(h)gé(h)ni(h)ti(h) Fí(h)li(h)i(h) tu(h)i(h) pas(h)si(h)ó(h)nem(h) lí(h)be(h)re(h dr)mur:(d.) (::)}
 $Qui tecum
 
 [Ant 3]
 {name:Ancilla dixit Petro;annotation:1.g;mode:1;book:Liber antiphonarius, 1960, p. 432;transcriber:Andrew Hinkley;%%(c4) AN(dd)cíl(c)la(d') di(f)xit(e') Pe(d)tro:(dc__) *(,) Ve(f')re(g) tu(h) ex(g') il(h)lis(fe) es,(d_fddc.) (;) nam(c_d) et(f) lo(f)qué(f')la(f) tu(fg)a(f'_) (,) ma(f)ni(f)fé(e_f)stum(g) te(fe) fa(d.)cit.(d.) (::)};;1g
 
 [Oratio 3]
-Réspice, quǽsumus, Dómine, super hanc famíliam tuam, pro qua Dóminus noster Jesus Christus non dubitávit mánibus tradi nocéntium, et crucis subíre torméntum:
+{(c3) Ré(h)spi(h)ce,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) su(h)per(h) hanc(h) fa(h)mí(h)li(g)am(f) tu(h hr)am,(h.) *(;) pro(h) qua(h) Dó(h)mi(h)nus(h) nos(h)ter(h) Je(h)sus(h) Chris(h)tus(h) non(h) du(h)bi(h)tá(h)vit(h) má(h)ni(h)bus(h) tra(h)di(h) no(h)cén(h)ti(h)um,(h) et(h) cru(h)cis(h) sub(h)í(h)re(h) tor(h)mén(h dr)tum:(d.) (::)}
 $Qui tecum

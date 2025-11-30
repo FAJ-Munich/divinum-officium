@@ -33,7 +33,7 @@ Sit Trinitáti salus indivídua,
 Per infiníta sæculórum sǽcula. Amen.
 
 [Oratio]
-Deus, qui beátum Petrum Apóstolum, a vínculis absolútum, illǽsum abíre fecísti: nostrórum, quæsumus, absólve víncula peccatórum; et ómnia mala a nobis propitiátus exclúde.
+{(c3) De(h)us,(h) qui(h) be(h)á(h)tum(h) Pe(h)trum(h) A(h)pós(h)to(h)lum,(h) a(h) vín(h)cu(h)lis(h) ab(h)so(h)lú(h)tum,(h) il(h)lǽ(h)sum(h) ab(h)í(h)re(h) fe(h)cís(h)ti:(f.) †(,) nos(h)tró(h)rum,(h) quæ(h)su(h)mus,(h) ab(h)sól(h)ve(h) vín(h)cu(h)la(h) pec(g)ca(f)tó(h hr)rum;(h.) *(;) et(h) óm(h)ni(h)a(h) ma(h)la(h) a(h) no(h)bis(h) pro(h)pi(h)ti(h)á(h)tus(h) ex(h)clú(h dr)de.(d.) (::)}
 $Per Dominum
 _
 @Sancti/02-22:Commemoratio4:s/\$Per Dominum//

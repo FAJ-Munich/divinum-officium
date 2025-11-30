@@ -21,7 +21,7 @@ Flamen láudibus éfferant.
 Amen.
 
 [Oratio]
-Deus, qui beátum Hermenegíldum Mártyrem tuum cælésti regno terrénum postpónere docuísti: da quǽsumus nobis; ejus exémplo cadúca despícere, atque ætérna sectári.
+{(c3) De(h)us,(h) qui(h) be(h)á(h)tum(h) Her(h)me(h)ne(h)gíl(h)dum(h) Már(h)ty(h)rem(h) tu(h)um(h) cæ(h)lés(h)ti(h) re(h)gno(h) ter(h)ré(h)num(h) post(h)pó(h)ne(h)re(h) do(h)cu(h)ís(h)ti:(f.) †(,) da(h) quǽ(h)su(h)mus(h) no(h)bis;(h) e(h)jus(h) ex(h)ém(h)plo(h) ca(h)dú(h)ca(g) de(f)spí(h)ce(hr)re,(h.) *(;) at(h)que(h) æ(h)tér(h)na(h) sec(h)tá(h dr)ri.(d.) (::)}
 $Per Dominum
 
 [Hymnus Laudes_]

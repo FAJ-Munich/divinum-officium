@@ -17,12 +17,12 @@ Sed ecce quia turpitúdinis suæ máculas aspéxit, lavánda ad fontem misericó
 Magíster dicit: * Tempus meum prope est, apud te fácio Pascha cum discípulis meis.
 
 [Oratio 2]
-Præsta, quǽsumus, omnípotens Deus: ut dígnitas condiciónis humánæ per immoderántiam sauciáta, medicinális parsimóniæ stúdio reformétur.
+{(c3) Præ(h)sta,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(,) ut(h) dí(h)gni(h)tas(h) con(h)di(h)ci(h)ó(h)nis(h) hu(h)má(h)næ(h) per(h) im(h)mo(h)de(h)rán(h)ti(h)am(h) sau(g)ci(f)á(h hr)ta,(h.) *(;) me(h)di(h)ci(h)ná(h)lis(h) par(h)si(h)mó(h)ni(h)æ(h) stú(h)di(h)o(h) re(h)for(h)mé(h dr)tur.(d.) (::)}
 $Per Dominum
 
 [Ant 3_]
 Desidério desiderávi * hoc Pascha manducáre vobíscum, ántequam pátiar.
 
 [Oratio 3]
-Esto, quǽsumus, Dómine, propítius plebi tuæ: ut, quæ tibi non placent, respuéntes, tuórum pótius repleántur delectatiónibus mandatórum.
+{(c3) Es(h)to,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) pro(h)pí(h)ti(h)us(h) ple(g)bi(f) tu(h hr)æ:(h.) *(;) ut,(h) quæ(h) ti(h)bi(h) non(h) pla(h)cent,(h) re(h)spu(h)én(h)tes,(h) tu(h)ó(h)rum(h) pó(h)ti(h)us(h) re(h)ple(h)án(h)tur(h) de(h)lec(h)ta(h)ti(h)ó(h)ni(h)bus(h) man(h)da(h)tó(h dr)rum.(d.) (::)}
 $Per Dominum

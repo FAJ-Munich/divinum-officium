@@ -6,7 +6,7 @@
 {gabc:tenebrae/an--considerabam_ad_dexteram--solesmes_1961.1};;141;;7a
 
 [Oratio Matutinum]
-v. Concéde, quǽsumus, omnípotens Deus: ut, qui Fílii tui resurrectiónem devóta exspectatióne prævenímus; ejúsdem resurrectiónis glóriam consequámur.
+Concéde, quǽsumus, omnípotens Deus: ut, qui Fílii tui resurrectiónem devóta exspectatióne prævenímus; ejúsdem resurrectiónis glóriam consequámur.
 !Et sub silentio concluditur
 $Per eumdem
 

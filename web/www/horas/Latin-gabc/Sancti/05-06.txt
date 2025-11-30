@@ -4,7 +4,7 @@
 {name:In ferventis olei;annotation:4. E;mode:4;book:Antiphonarium Monasticum, 1934, p. 904;%%(c4) IN(f) fer(de~)vén(ef)tis(e) *() ó(fe)le(d)i(e_[uh:l]f) dó(g_0h)li(f)um(gf~) mis(e.)sus,(e.) (;) Jo(e)án(e[ll:1]d~)nes(e) A(dc)pó(d)sto(de)lus,(e'_[oh:h]) (;) di(dh'1!iv)ví(h)na(hg) se(gh) pro(g)te(gf)gén(g)te(ghg) grá(fe)ti(de)a,(e.) (;) il(e_[uh:l]f)l<sp>'ae</sp>(g_0hG'F)sus(gf) ex(de)í(e)vit,(e_0f) al(g)le(fe)lú(e.)ja.(e.) (::)};;4E
 
 [Oratio]
-Deus, qui conspicis, quia nos undique mala nostra perturbant: præsta, quǽsumus; ut beáti Joánnis Apóstoli tui et Evangelistæ intercéssio gloriósa nos prótegat.
+{(c3) De(h)us,(h) qui(h) con(h)spi(h)cis,(h) qui(h)a(h) nos(h) un(h)di(h)que(h) ma(h)la(h) nos(h)tra(h) per(h)tur(h)bant:(f.) †(,) præ(g)sta,(f) quǽ(h)su(hr)mus;(h.) *(;) ut(h) be(h)á(h)ti(h) Jo(h)án(h)nis(h) A(h)pós(h)to(h)li(h) tu(h)i(h) et(h) E(h)van(h)ge(h)lis(h)tæ(h) in(h)ter(h)cés(h)si(h)o(h) glo(h)ri(h)ó(h)sa(h) nos(h) pró(h)te(dr)gat.(d.) (::)}
 $Per Dominum
 
 [Lectio4]

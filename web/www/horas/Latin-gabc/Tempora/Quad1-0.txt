@@ -2,7 +2,7 @@
 Tunc invocábis, * et Dóminus exáudiet: clamábis, et dicet: Ecce adsum.
 
 [Oratio]
-Deus, qui Ecclésiam tuam ánnua quadragesimáli observatióne puríficas: præsta famíliæ tuæ; ut, quod a te obtinére abstinéndo nítitur, hoc bonis opéribus exsequátur.
+{(c3) De(h)us,(h) qui(h) Ec(h)clé(h)si(h)am(h) tu(h)am(h) án(h)nu(h)a(h) qua(h)dra(h)ge(h)si(h)má(h)li(h) ob(h)ser(h)va(h)ti(h)ó(h)ne(h) pu(h)rí(h)fi(f)cas:(f.) †(,) præ(h)sta(h) fa(h)mí(h)li(h)æ(h) tu(h)æ;(h) ut,(h) quod(h) a(h) te(h) ob(h)ti(h)né(h)re(h) abs(h)ti(h)nén(g)do(f) ní(h)ti(hr)tur,(h.) *(;) hoc(h) bo(h)nis(h) o(h)pé(h)ri(h)bus(h) ex(h)se(h)quá(h dr)tur.(d.) (::)}
 $Per Dominum
 
 [Lectio1]
@@ -132,7 +132,7 @@ Laudáte Deum * cæli cælórum, et aquæ omnes.
 
 [Capitulum Laudes]
 !2 Cor 6:1-2
-v. Fratres: Hortámur vos, ne in vácuum grátiam Dei recipiátis. Ait enim: Témpore accépto exaudívi te, et in die salútis adjúvi te.
+{(c3) Fra(h)tres:(h.) (,) Hor(h)tá(h)mur(h) vos,(h) ne(h) in(h) vá(h)cu(h)um(h) grá(h)ti(h)am(h) De(h)i(h) re(h)ci(h)pi(h)á(h)tis.(f.) †(;) A(h)it(h) e(h)nim:(h_') (,) Tém(h)po(h)re(h) ac(h)cép(h)to(h) ex(g)au(f)dí(h)vi(hr) te,(h.) *(;) et(h) in(h) di(h)e(h) sa(h)lú(h)tis(h) ad(h)jú(h)vi(f) te.(ef..) (::)}
 $Deo gratias
 
 [Ant 2]
@@ -149,7 +149,7 @@ Non in solo pane * vivit homo, sed in omni verbo, quod procédit de ore Dei.
 
 [Capitulum Sexta]
 !2 Cor. 6:2-3
-v. Ecce nunc tempus acceptábile, ecce nunc dies salútis: némini dantes ullam offensiónem, ut non vituperétur ministérium nostrum.
+{(c3) Ec(h)ce(h) nunc(h) tem(h)pus(h) ac(h)cep(h)tá(h)bi(h)le,(h) ec(h)ce(h) nunc(h) di(h)es(h) sa(h)lú(h)tis:(f.) †(;) né(h)mi(h)ni(h) dan(h)tes(h) ul(h)lam(h) of(h)fen(g)si(f)ó(h hr)nem,(h.) *(;) ut(h) non(h) vi(h)tu(h)pe(h)ré(h)tur(h) mi(h)nis(h)té(h)ri(h)um(h) nos(f)trum.(ef..) (::)}
 $Deo gratias
 
 [Ant Nona]
@@ -157,7 +157,7 @@ Dóminum Deum tuum * adorábis, et illi soli sérvies.
 
 [Capitulum Nona]
 !2 Cor 6:9-10
-v. Ut castigáti, et non mortificáti: quasi tristes, semper autem gaudéntes: sicut egéntes, multos autem locupletántes tamquam nihil habéntes, et ómnia possidéntes.
+{(c3) Ut(h) cas(h)ti(h)gá(h)ti,(h) et(h) non(h) mor(h)ti(h)fi(h)cá(h)ti:(f.) †(;) qua(h)si(h) tris(h)tes,(h) sem(h)per(h) au(h)tem(h) gau(h)dén(h)tes:(h_') (,) sic(h)ut(h) e(h)gén(h)tes,(h) mul(h)tos(h) au(h)tem(h) lo(h)cu(g)ple(f)tán(h hr)tes(h.) *(;) tam(h)quam(h) ni(h)hil(h) ha(h)bén(h)tes,(h) et(h) óm(h)ni(h)a(h) pos(h)si(h)dén(f)tes.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

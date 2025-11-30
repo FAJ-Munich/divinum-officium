@@ -1,5 +1,5 @@
 [Oratio]
-Famíliam tuam, quǽsumus, Dómine, contínua pietáte custódi: ut, quæ in sola spe grátiæ cœléstis innítitur, tua semper protectióne muniátur.
+{(c3) Fa(h)mí(h)li(h)am(h) tu(h)am,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) con(h)tí(h)nu(h)a(h) pi(h)e(h)tá(h)te(h) cus(h)tó(h)di:(f.) †(,) ut,(h) quæ(h) in(h) so(h)la(h) spe(h) grá(h)ti(h)æ(h) cœ(h)lés(h)tis(g) in(f)ní(h)ti(hr)tur,(h.) *(;) tu(h)a(h) sem(h)per(h) pro(h)tec(h)ti(h)ó(h)ne(h) mu(h)ni(h)á(h dr)tur.(d.) (::)}
 $Per Dominum
 
 [Lectio1]

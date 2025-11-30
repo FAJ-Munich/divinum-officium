@@ -36,7 +36,7 @@ Tempore sæcli.
 Amen.
 
 [Oratio]
-Deus, qui beatíssimum Confessórem tuum Benedíctum ómnium justórum spíritu replére dignátus es: † concede nobis fámulis tuis, ejus Solemnitátem celebrántibus; ut, ejusdem spíritu repléti, quod te donánte promísimus fidéliter adimpleámus.
+{(c3) De(h)us,(h) qui(h) be(h)a(h)tís(h)si(h)mum(h) Con(h)fes(h)só(h)rem(h) tu(h)um(h) Be(h)ne(h)díc(h)tum(h) óm(h)ni(h)um(h) jus(h)tó(h)rum(h) spí(h)ri(h)tu(h) re(h)plé(h)re(h) di(h)gná(h)tus(f) es:(f.) †(,) con(h)ce(h)de(h) no(h)bis(h) fá(h)mu(h)lis(h) tu(h)is,(h) e(h)jus(h) So(h)lem(h)ni(h)tá(h)tem(h) ce(g)le(f)brán(h)ti(hr)bus;(h.) *(;) ut,(h) e(h)jus(h)dem(h) spí(h)ri(h)tu(h) re(h)plé(h)ti,(h) quod(h) te(h) do(h)nán(h)te(h) pro(h)mí(h)si(h)mus(h) fi(h)dé(h)li(h)ter(h) ad(h)im(h)ple(h)á(h dr)mus.(d.) (::)}
 $Per Dominum
 
 [Invit]

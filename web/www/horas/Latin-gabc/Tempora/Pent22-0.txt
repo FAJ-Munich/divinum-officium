@@ -1,5 +1,5 @@
 [Oratio]
-Deus, refúgium nostrum et virtus: adésto piis Ecclésiæ tuæ précibus, auctor ipse pietátis, et præsta; ut, quod fidéliter pétimus, efficáciter consequámur.
+{(c3) De(h)us,(h) re(h)fú(h)gi(h)um(h) nos(h)trum(h) et(h) vir(h)tus:(f.) †(,) ad(h)és(h)to(h) pi(h)is(h) Ec(h)clé(h)si(h)æ(h) tu(h)æ(h) pré(h)ci(h)bus,(h) auc(h)tor(h) ip(h)se(h) pi(h)e(h)tá(h)tis,(g) et(f) præ(h hr)sta;(h.) *(;) ut,(h) quod(h) fi(h)dé(h)li(h)ter(h) pé(h)ti(h)mus,(h) ef(h)fi(h)cá(h)ci(h)ter(h) con(h)se(h)quá(h dr)mur.(d.) (::)}
 $Per Dominum
 
 [Lectio7]

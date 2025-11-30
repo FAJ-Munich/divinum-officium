@@ -6,7 +6,7 @@ R/.Et(h) de(h) pe(h)tra,(h) mel(h)le(h) sa(h)tu(h)rá(h)vit(h) e(h)os,(h) al(h)l
 Puer Sámuel * ministrábat ante Deum coram Heli, et sermo Dómini erat pretiósus cum eo.
 
 [Oratio]
-Sancti nóminis tui, Dómine, timórem páriter et amórem fac nos habére perpétuum: quia nunquam tua gubernatióne destítuis, quos in soliditáte tuæ dilectiónis instítuis.
+{(c3) Sanc(h)ti(h) nó(h)mi(h)nis(h) tu(h)i,(h) Dó(h)mi(h)ne,(h) ti(h)mó(h)rem(h) pá(h)ri(h)ter(h) et(h) a(h)mó(h)rem(h) fac(h) nos(h) ha(h)bé(h)re(h) per(h)pé(h)tu(f)um:(f.) †(,) qui(h)a(h) nun(h)quam(h) tu(h)a(h) gu(h)ber(h)na(h)ti(h)ó(h)ne(g) de(f)stí(h)tu(hr)is,(h.) *(;) quos(h) in(h) so(h)li(h)di(h)tá(h)te(h) tu(h)æ(h) di(h)lec(h)ti(h)ó(h)nis(h) in(h)stí(h)tu(dr)is.(d.) (::)}
 $Per Dominum.
 
 [Commemoratio]
@@ -71,7 +71,7 @@ Unde nos quoque, nati in hujus peregrinatiónis ærúmna, huc fastidiósi jam v�
 
 [Capitulum Laudes]
 !1 Joann. 3:13-14
-v. Caríssimi: Nolíte mirári, si odit vos mundus. Nos scimus quóniam transláti sumus de morte ad vitam, quóniam dilígimus fratres.
+{(c3) Ca(h)rís(h)si(h)mi:(h.) (,) No(h)lí(h)te(h) mi(h)rá(h)ri,(h) si(h) o(h)dit(h) vos(h) mun(h)dus.(f.) †(;) Nos(h) sci(h)mus(h) quón(h)i(h)am(h) trans(h)lá(h)ti(h) su(h)mus(h) de(h) mor(h)te(g) ad(f) vi(h hr)tam,(h.) *(;) quón(h)i(h)am(h) di(h)lí(h)gi(h)mus(h) fra(f)tres.(ef..) (::)}
 $Deo gratias
 
 [Versum 2]
@@ -83,11 +83,11 @@ Homo quidam * fecit cenam magnam, et vocávit multos: et misit servum suum hora 
 
 [Lectio Prima]
 !1 Joann. 3:18
-v. Filíoli mei, non diligámus verbo neque lingua, sed ópere et veritáte.
+{(c3) Fi(h)lí(h)o(h)li(h) me(h)i,(h) non(h) di(h)li(h)gá(h)mus(h) ver(h)bo(h) ne(g)que(f) lin(h hr)gua,(h.) *(;) sed(h) ó(h)pe(h)re(h) et(h) ve(h)ri(h)tá(f)te.(ef..) (::)}
 
 [Capitulum Sexta]
 !1 Joann. 3:16
-v. In hoc cognóvimus caritátem Dei: quóniam ille ánimam suam pro nobis pósuit, et nos debémus pro frátribus ánimas pónere.
+{(c3) In(h) hoc(h) co(h)gnó(h)vi(h)mus(h) ca(h)ri(h)tá(h)tem(h) De(h)i:(f.) †(;) quón(h)i(h)am(h) il(h)le(h) á(h)ni(h)mam(h) su(h)am(h) pro(h) no(g)bis(f) pó(h)su(hr)it,(h.) *(;) et(h) nos(h) de(h)bé(h)mus(h) pro(h) frá(h)tri(h)bus(h) á(h)ni(h)mas(h) pó(h)ne(f)re.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

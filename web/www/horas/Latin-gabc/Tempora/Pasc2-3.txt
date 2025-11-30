@@ -8,7 +8,7 @@
 {name:Cum esset desponsata ... allel.;annotation:3.a2;mode:3;book:Liber antiphonarius, 1960, p. 687;transcriber:Andrew Hinkley;%%(c4) CUM(e_d) es(g!hj)set(h) de(g)spon(h')sá(j)ta(j_i) *(,) Ma(i')ter(j) Je(k)su(l') Ma(k)rí(ji)a(hi) Jo(h)seph,(g.) (;) án(g')te(g)quam(i') con(g)ve(h)ní(fe)rent,(d.) (;) in(gh~)vén(g)ta(h) est(j') in(h) ú(j)te(j)ro(i) ha(g!hwi_g)bens(h_g) (,) de(e_f) Spí(g)ri(g)tu(g) San(fe)cto,(d.) (,) al(g!hj)le(gf)lú(e.)ja.(e.) (::)};;solemn3a2
 
 [Oratio]
-Deus, qui ineffábili providéntia beátum Joseph sanctíssimæ Genitrícis tuæ sponsum elígere dignátus es: præsta, quǽsumus; ut quem protectórem venerámur in terris, intercessórem habére mereámur in cælis:
+{(c3) De(h)us,(h) qui(h) in(h)ef(h)fá(h)bi(h)li(h) pro(h)vi(h)dén(h)ti(h)a(h) be(h)á(h)tum(h) Jo(h)seph(h) sanc(h)tís(h)si(h)mæ(h) Ge(h)ni(h)trí(h)cis(h) tu(h)æ(h) spon(h)sum(h) e(h)lí(h)ge(h)re(h) di(h)gná(h)tus(f) es:(f.) †(,) præ(h)sta,(h) quǽ(h)su(h)mus;(h) ut(h) quem(h) pro(h)tec(h)tó(h)rem(h) ve(h)ne(h)rá(h)mur(g) in(f) ter(h hr)ris,(h.) *(;) in(h)ter(h)ces(h)só(h)rem(h) ha(h)bé(h)re(h) me(h)re(h)á(h)mur(h) in(h) cæ(h dr)lis:(d.) (::)}
 $Qui vivis
 
 [Invit]
@@ -149,12 +149,7 @@ Quamquam si étiam Lucas génitum díceret Joseph ab Heli, nec sic nos hoc verbu
 
 [Capitulum Laudes]
 !Gen 49:26
-v. Benedictiónes patris tui confortátæ sunt benedictiónibus patrum ejus, donec veníret Desidérium cóllium æternórum: fiant in cápite Joseph, et in vértice Nazarǽi inter fratres suos.
-$Deo gratias
-
-[Capitulum Laudes]
-!Gen 49:26
-v. Benedictiónes patris tui confortátæ sunt benedictiónibus patrum ejus, donec veníret Desidérium cóllium æternórum: fiant in cápite Joseph, et in vértice Nazarǽi inter fratres suos.
+{(c3) Be(h)ne(h)dic(h)ti(h)ó(h)nes(h) pa(h)tris(h) tu(h)i(h) con(h)for(h)tá(h)tæ(h) sunt(h) be(h)ne(h)dic(h)ti(h)ó(h)ni(h)bus(h) pa(h)trum(h) e(h)jus,(f.) †(;) do(h)nec(h) ve(h)ní(h)ret(h) De(h)si(h)dé(h)ri(h)um(h) cól(h)li(h)um(h) æ(g)ter(f)nó(h hr)rum:(h.) *(;) fi(h)ant(h) in(h) cá(h)pi(h)te(h) Jo(h)seph,(h) et(h) in(h) vér(h)ti(h)ce(h) Na(h)za(h)rǽ(h)i(h) in(h)ter(h) fra(h)tres(h) su(f)os.(ef..) (::)}
 $Deo gratias
 
 [Versum 2]
@@ -166,7 +161,7 @@ R/. Et(h) déx(h)te(h)ra(h) tu(h)a(h) sus(h)cé(hi)pit(hr) me,(h_0) (,) al(h)le(
 
 [Lectio Prima]
 !Gen 49:22
-v. Fílius accréscens Joseph, fílius accréscens, et decórus aspéctu: fíliæ discurrérunt super murum.
+{(c3) Fí(h)li(h)us(h) ac(h)cré(h)scens(h) Jo(h)seph,(f.) †(;) fí(h)li(h)us(h) ac(h)cré(h)scens,(h) et(h) de(h)có(h)rus(g) a(f)spéc(h hr)tu:(h.) *(;) fí(h)li(h)æ(h) dis(h)cur(h)ré(h)runt(h) su(h)per(h) mu(f)rum.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Constítuit eum dóminum domus suæ, * Allelúja, allelúja.
@@ -178,7 +173,7 @@ R. Constítuit eum dóminum domus suæ, * Allelúja, allelúja.
 
 [Capitulum Sexta]
 !Gen 49:25
-v. Deus patris tui erit adjútor tuus, et Omnípotens benedícet tibi benedictiónibus cæli désuper.
+{(c3) De(h)us(h) pa(h)tris(h) tu(h)i(h) e(h)rit(h) ad(h)jú(h)tor(h) tu(h)us,(f.) †(;) et(h) Om(h)ní(h)pot(h)ens(h) be(h)ne(h)dí(g)cet(f) ti(h hr)bi(h.) *(;) be(h)ne(h)dic(h)ti(h)ó(h)ni(h)bus(h) cæ(h)li(h) dé(h)su(f)per.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

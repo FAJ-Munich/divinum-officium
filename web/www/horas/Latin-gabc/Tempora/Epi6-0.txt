@@ -1,5 +1,5 @@
 [Oratio]
-Præsta, quǽsumus, omnípotens Deus: ut, semper rationabília meditántes, quæ tibi sunt plácita, et dictis exsequámur et factis.
+{(c3) Præ(h)sta,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(,) ut,(h) sem(h)per(h) ra(h)ti(h)o(h)na(h)bí(h)li(h)a(h) me(g)di(f)tán(h hr)tes,(h.) *(;) quæ(h) ti(h)bi(h) sunt(h) plá(h)ci(h)ta,(h) et(h) dic(h)tis(h) ex(h)se(h)quá(h)mur(h) et(h) fac(h dr)tis.(d.) (::)}
 $Per Dominum
 
 [Lectio1]

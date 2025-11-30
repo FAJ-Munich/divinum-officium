@@ -22,6 +22,9 @@ sub capitulum_major {
     $capit = $capit{$name};
   }
 
+  # Shorter pause at Flexa in Ant. Monasticum compared to Ant. Romanum
+  $capit =~ s/†\(\;\)/†(,)/g if $lang eq 'Latin-gabc' && $version =~ /monastic/i;
+
   if ($vespera == 1 && $version =~ /Ordo Praedicatorum/) {
     $capit .= "\n_\n" . monastic_major_responsory($lang);
   }
@@ -211,6 +214,9 @@ sub capitulum_minor {
         s/\((?:hi|hr|h\_0|f?e|f\'?|f\_0?h|h\_\')\)/\(h\)/g;                       # More changes for solemn Versicle
         s/\(\,\)//g;
       } @capit[-2 .. -1];
+
+      # Shorter pause at Flexa in Ant. Monasticum compared to Ant. Romanum
+      $capit[1] =~ s/†\(\;\)/†(,)/g;
     } elsif ($capit[-1] !~ /g\_\'?\/h/) {
 
       # Transform Tonus solemnis aut simplex into Tonus cum neuma

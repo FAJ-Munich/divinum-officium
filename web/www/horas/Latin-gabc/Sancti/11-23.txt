@@ -12,7 +12,7 @@ Omnes gentes * per gyrum credidérunt Christo Dómino.;;116
 Orémus omnes * ad Dóminum Jesum Christum, ut Confessóribus suis fontis venam apériat.
 
 [Oratio] (nisi communi Summorum Pontificum)
-Deus, qui nos ánnua beáti Cleméntis Mártyris tui atque Pontíficis solemnitáte lætíficas: concéde propítius; ut cujus natalítia cólimus, virtútem quoque passiónis imitémur.
+{(c3) De(h)us,(h) qui(h) nos(h) án(h)nu(h)a(h) be(h)á(h)ti(h) Cle(h)mén(h)tis(h) Már(h)ty(h)ris(h) tu(h)i(h) at(h)que(h) Pon(h)tí(h)fi(h)cis(h) so(h)lem(h)ni(h)tá(h)te(h) læ(h)tí(h)fi(f)cas:(f.) †(,) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut(h) cu(h)jus(h) na(h)ta(h)lí(h)ti(g)a(f) có(h)li(hr)mus,(h.) *(;) vir(h)tú(h)tem(h) quo(h)que(h) pas(h)si(h)ó(h)nis(h) i(h)mi(h)té(h dr)mur.(d.) (::)}
 $Per Dominum
 
 [Responsory1o]

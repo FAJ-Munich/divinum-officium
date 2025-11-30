@@ -50,7 +50,7 @@ R/. Et(h) fe(h)cís(h)ti(h) nos(h) De(h)o(h) nos(h)tro(h) re(h)gnum.(g_'/hvGF'E!
 Accessístis * ad Sion montem, et civitátem Dei vivéntis, Jerúsalem cæléstem, et Testaménti novi mediatórem Jesum, et sánguinis aspersiónem mélius loquéntem quam Abel.
 
 [Oratio]
-Omnípotens sempitérne Deus, qui unigénitum Fílium tuum mundi Redemptórem constituísti, ac ejus Sánguine placári voluísti: concéde, quǽsumus, salútis nostræ prétium solémni cultu ita venerári, atque a præséntis vitæ malis ejus virtúte deféndi in terris; ut fructu perpétuo lætémur in cælis.
+{(c3) Om(h)ní(h)pot(h)ens(h) sem(h)pi(h)tér(h)ne(h) De(h)us,(h) qui(h) u(h)ni(h)gé(h)ni(h)tum(h) Fí(h)li(h)um(h) tu(h)um(h) mun(h)di(h) Red(h)emp(h)tó(h)rem(h) con(h)sti(h)tu(h)ís(h)ti,(h) ac(h) e(h)jus(h) Sán(h)gui(h)ne(h) pla(h)cá(h)ri(h) vo(h)lu(h)ís(h)ti:(f.) †(,) con(h)cé(h)de,(h) quǽ(h)su(h)mus,(h) sa(h)lú(h)tis(h) nos(h)træ(h) pré(h)ti(h)um(h) so(h)lém(h)ni(h) cul(h)tu(h) i(h)ta(h) ve(h)ne(h)rá(h)ri,(h) at(h)que(h) a(h) præ(h)sén(h)tis(h) vi(h)tæ(h) ma(h)lis(h) e(h)jus(h) vir(h)tú(h)te(h) de(h)fén(h)di(g) in(f) ter(h hr)ris;(h.) *(;) ut(h) fruc(h)tu(h) per(h)pé(h)tu(h)o(h) læ(h)té(h)mur(h) in(h) cæ(h dr)lis.(d.) (::)}
 $Per eumdem
 
 [Invit]
@@ -186,7 +186,7 @@ Beáti * qui lavant stolas suas in sánguine Agni.
 
 [Capitulum Laudes]
 !Heb 9:11-12
-v. Fratres: Christus assístens Póntifex futurórum bonórum, per ámplius et perféctius tabernáculum non manufáctum, id est, non hujus creatiónis: neque per sánguinem hircórum aut vitulórum, sed per próprium sánguinem introívit semel in Sancta, ætérna redemptióne invénta.
+{(c3) Fra(h)tres:(h.) (,) Chris(h)tus(h) as(h)sís(h)tens(h) Pón(h)ti(h)fex(h) fu(h)tu(h)ró(h)rum(h) bo(h)nó(h)rum,(h) per(h) ám(h)pli(h)us(h) et(h) per(h)féc(h)ti(h)us(h) ta(h)ber(h)ná(h)cu(h)lum(h) non(h) ma(h)nu(h)fác(h)tum,(h) id(h) est,(h) non(h) hu(h)jus(h) cre(h)a(h)ti(h)ó(h)nis:(f.) †(;) ne(h)que(h) per(h) sán(h)gui(h)nem(h) hir(h)có(h)rum(h) aut(h) vi(h)tu(h)ló(h)rum,(h) sed(h) per(h) pró(h)pri(h)um(h) sán(h)gui(h)nem(h) in(h)tro(h)í(h)vit(h) se(h)mel(g) in(f) Sanc(h hr)ta,(h.) *(;) æ(h)tér(h)na(h) red(h)emp(h)ti(h)ó(h)ne(h) in(h)vén(f)ta.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -245,7 +245,7 @@ Erit sanguis Agni * vobis in signum, dicit Dóminus; et vidébo sánguinem, et t
 
 [Lectio Prima]
 !Heb 9:19-20
-v. Accípiens Móyses sánguinem vitulórum, et hircórum cum aqua et lana coccínea et hyssópo: ipsum quoque librum, et omnem pópulum aspérsit, dicens: Hic sanguis testaménti, quod mandávit ad vos Deus.
+{(c3) Ac(h)cí(h)pi(h)ens(h) Mó(h)y(h)ses(h) sán(h)gui(h)nem(h) vi(h)tu(h)ló(h)rum,(h) et(h) hir(h)có(h)rum(h) cum(h) a(h)qua(h) et(h) la(h)na(h) coc(h)cí(h)ne(h)a(h) et(h) hys(h)só(h)po:(f.) †(;) ip(h)sum(h) quo(h)que(h) li(h)brum,(h) et(h) om(h)nem(h) pó(h)pu(h)lum(h) a(h)spér(g)sit,(f) di(h hr)cens:(h.) *(;) Hic(h) san(h)guis(h) tes(h)ta(h)mén(h)ti,(h) quod(h) man(h)dá(h)vit(h) ad(h) vos(h) De(f)us.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Redemísti nos, Dómine, * In sánguine tuo.
@@ -257,7 +257,7 @@ R. Redemísti nos, Dómine, * In sánguine tuo.
 
 [Capitulum Sexta]
 !Heb 9:13-14
-v. Si sanguis hircórum, et taurórum, et cinis vítulæ aspérsus inquinátos sanctíficat ad emundatiónem carnis: quanto magis sanguis Christi, qui per Spíritum Sanctum semetípsum óbtulit immaculátum Deo, emundábit consciéntiam nostram ab opéribus mórtuis, ad serviéndum Deo vivénti?
+{(c3) Si(h) san(h)guis(h) hir(h)có(h)rum,(h) et(h) tau(h)ró(h)rum,(h) et(h) ci(h)nis(h) ví(h)tu(h)læ(h) a(h)spér(h)sus(h) in(h)qui(h)ná(h)tos(h) sanc(h)tí(h)fi(h)cat(h) ad(h) e(h)mun(h)da(h)ti(h)ó(h)nem(h) car(h)nis:(f.) †(;) quan(h)to(h) ma(h)gis(h) san(h)guis(h) Chris(h)ti,(h) qui(h) per(h) Spí(h)ri(h)tum(h) Sanc(h)tum(h) se(h)met(h)íp(h)sum(h) ób(h)tu(h)lit(h) im(h)ma(h)cu(h)lá(g)tum(f) De(h)o,(h.) *(;) e(h)mun(h)dá(h)bit(h) con(h)sci(h)én(h)ti(h)am(h) nos(h)tram(h) ab(h) o(h)pé(h)ri(h)bus(h) mór(h)tu(h)is,(h) ad(h) ser(h)vi(h)én(h)dum(h) De(h)o(h) vi(h)vén(f)ti?(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

@@ -2,7 +2,7 @@
 Unxérunt Salomónem * Sadoc sacérdos et Nathan prophéta, regem in Gihon et ascendéntes læti dixérunt: Vivat rex in ætérnum.
 
 [Oratio]
-Deus, cujus providéntia in sui dispositióne non fállitur: te súpplices exorámus; ut nóxia cuncta submóveas, et ómnia nobis profutúra concédas.
+{(c3) De(h)us,(h) cu(h)jus(h) pro(h)vi(h)dén(h)ti(h)a(h) in(h) su(h)i(h) dis(h)po(h)si(h)ti(h)ó(h)ne(h) non(h) fál(h)li(f)tur:(f.) †(,) te(h) súp(h)pli(h)ces(h) ex(h)o(h)rá(h)mus;(h) ut(h) nó(h)xi(h)a(h) cunc(h)ta(g) sub(f)mó(h)ve(hr)as,(h.) *(;) et(h) óm(h)ni(h)a(h) no(h)bis(h) pro(h)fu(h)tú(h)ra(h) con(h)cé(h dr)das.(d.) (::)}
 $Per Dominum
 
 [Lectio1]

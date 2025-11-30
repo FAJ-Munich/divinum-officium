@@ -16,7 +16,7 @@ R/. Su(h)per(h) cho(h)ros(h) An(h)ge(h)ló(hi)rum(h_') (,) ad(h) cæ(h)lés(h')t
 Virgo prudentíssima, * quo progréderis, quasi auróra valde rútilans? Fília Sion, tota formósa et suávis es, pulchra ut luna, elécta ut sol.
 
 [Oratio]
-Famulórum tuórum, quǽsumus, Dómine, delíctis ignósce: ut qui tibi placére de áctibus nostris non valémus: Genitrícis Fílii tui Dómini nostri intercessióne salvémur:
+{(c3) Fa(h)mu(h)ló(h)rum(h) tu(h)ó(h)rum,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) de(h)líc(h)tis(h) i(h)gnó(h)sce:(f.) †(,) ut(h) qui(h) ti(h)bi(h) pla(h)cé(h)re(h) de(h) ác(h)ti(h)bus(h) nos(h)tris(h) non(g) va(f)lé(h hr)mus:(h.) *(;) Ge(h)ni(h)trí(h)cis(h) Fí(h)li(h)i(h) tu(h)i(h) Dó(h)mi(h)ni(h) nos(h)tri(h) in(h)ter(h)ces(h)si(h)ó(h)ne(h) sal(h)vé(h dr)mur:(d.) (::)}
 $Qui tecum
 
 [Octava 1]
@@ -77,7 +77,7 @@ R. Intercéde pro nobis ad Dóminum, Deum nostrum.
 
 [Capitulum Laudes]
 !Sir 24:11-12
-v. In ómnibus réquiem quæsívi, et in hereditáte Dómini morábor. Tunc præcépit, et dixit mihi Creátor ómnium: et qui creávit me, requiévit in tabernáculo meo.
+{(c3) In(h) óm(h)ni(h)bus(h) ré(h)qui(h)em(h) quæ(h)sí(h)vi,(h) et(h) in(h) he(h)re(h)di(h)tá(h)te(h) Dó(h)mi(h)ni(h) mo(h)rá(h)bor.(f.) †(;) Tunc(h) præ(h)cé(h)pit,(h) et(h) di(h)xit(h) mi(h)hi(h) Cre(h)á(g)tor(f) óm(h)ni(hr)um:(h.) *(;) et(h) qui(h) cre(h)á(h)vit(h) me,(h) re(h)qui(h)é(h)vit(h) in(h) ta(h)ber(h)ná(h)cu(h)lo(h) me(f)o.(ef..) (::)}
 $Deo gratias
 
 [Ant 2]

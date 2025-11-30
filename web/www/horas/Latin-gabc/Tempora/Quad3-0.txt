@@ -140,7 +140,7 @@ Sol et luna * laudáte Deum: quia exaltátum est nomen ejus solíus.
 
 [Capitulum Laudes]
 !Eph 5:1-2
-v. Fratres: Estóte imitatóres Dei, sicut fílii caríssimi: et ambuláte in dilectióne, sicut et Christus diléxit nos, et trádidit semetípsum pro nobis oblatiónem et hóstiam Deo in odórem suavitátis.
+{(c3) Fra(h)tres:(h.) (,) Es(h)tó(h)te(h) i(h)mi(h)ta(h)tó(h)res(h) De(h)i,(h) sic(h)ut(h) fí(h)li(h)i(h) ca(h)rís(h)si(f)mi:(f.) †(;) et(h) am(h)bu(h)lá(h)te(h) in(h) di(h)lec(h)ti(h)ó(h)ne,(h) sic(h)ut(h) et(h) Chris(h)tus(h) di(h)lé(h)xit(h) nos,(h) et(h) trá(h)di(h)dit(h) se(h)met(h)íp(h)sum(g) pro(f) no(h hr)bis(h.) *(;) ob(h)la(h)ti(h)ó(h)nem(h) et(h) hós(h)ti(h)am(h) De(h)o(h) in(h) o(h)dó(h)rem(h) su(h)a(h)vi(h)tá(f)tis.(ef..) (::)}
 $Deo gratias
 
 [Ant 2]
@@ -157,7 +157,7 @@ Qui non cólligit mecum * dispérgit, et qui non est mecum, contra me est.
 
 [Capitulum Sexta]
 !Eph 5:5
-v. Hoc enim scitóte intellegéntes, quod omnis fornicátor, aut immúndus, aut avarus, quod est idolórum sérvitus, non habet hereditátem in regno Christi et Dei.
+{(c3) Hoc(h) e(h)nim(h) sci(h)tó(h)te(h) in(h)tel(h)le(h)gén(h)tes,(f.) †(;) quod(h) om(h)nis(h) for(h)ni(h)cá(h)tor,(h) aut(h) im(h)mún(h)dus,(h) aut(h) a(h)va(h)rus,(h) quod(h) est(h) i(h)do(h)ló(g)rum(f) sér(h)vi(hr)tus,(h.) *(;) non(h) ha(h)bet(h) he(h)re(h)di(h)tá(h)tem(h) in(h) re(h)gno(h) Chris(h)ti(h) et(h) De(f)i.(ef..) (::)}
 $Deo gratias
 
 [Ant Nona] (nisi rubrica cisterciensis)
@@ -165,7 +165,7 @@ Cum immúndus spíritus * exíerit ab hómine, ámbulat per loca inaquósa, quæ
 
 [Capitulum Nona]
 !Eph 5:8-9
-v. Erátis enim aliquándo ténebræ, nunc autem lux in Dómino: ut fílii lucis ambuláte: fructus enim lucis est in omni bonitáte, et justítia, et veritáte.
+{(c3) E(h)rá(h)tis(h) e(h)nim(h) a(h)li(h)quán(h)do(h) té(h)ne(h)bræ,(h) nunc(h) au(h)tem(h) lux(h) in(h) Dó(h)mi(f)no:(f.) †(;) ut(h) fí(h)li(h)i(h) lu(h)cis(h) am(g)bu(f)lá(h hr)te:(h.) *(;) fruc(h)tus(h) e(h)nim(h) lu(h)cis(h) est(h) in(h) om(h)ni(h) bo(h)ni(h)tá(h)te,(h) et(h) jus(h)tí(h)ti(h)a,(h) et(h) ve(h)ri(h)tá(f)te.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

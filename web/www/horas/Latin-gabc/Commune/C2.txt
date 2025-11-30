@@ -148,7 +148,7 @@ R. Qui minas júdicum non tímuit, nec terrénæ dignitátis glóriam quæsívit
 
 [Capitulum Laudes]
 !Jac 1:12
-{(c3) Be(h)á(h)tus(h) vir,(h) qui(h) suf(h)fert(h) ten(h)ta(h)ti(h)ó(h)nem:(f.) †(,) quón(h)i(h)am(h) cum(h) pro(h)bá(h)tus(h) fú(h)e(h)rit,(h) ac(h)cí(h)pi(h)et(h) co(h)ró(g)nam(f) vi(h)tæ,(h.) *(;) quam(h) re(h)pro(h)mí(h)sit(h) De(h)us(h) di(h)li(h)gén(h)ti(h)bus(f) se.(ef..) (::)}
+{(c3) Be(h)á(h)tus(h) vir,(h) qui(h) suf(h)fert(h) ten(h)ta(h)ti(h)ó(h)nem:(f.) †(;) quón(h)i(h)am(h) cum(h) pro(h)bá(h)tus(h) fú(h)e(h)rit,(h) ac(h)cí(h)pi(h)et(h) co(h)ró(g)nam(f) vi(h)tæ,(h.) *(;) quam(h) re(h)pro(h)mí(h)sit(h) De(h)us(h) di(h)li(h)gén(h)ti(h)bus(f) se.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -206,7 +206,7 @@ R.br. {gabc:Commune/C2/rb--gloria_et_honore--solesmes_1961.1}
 
 [Capitulum Sexta]
 !Sir 15:3
-{(c3) Ci(h)bá(h)vit(h) il(h)lum(h) pa(h)ne(h) vi(h)tæ(h) et(h) in(h)tel(h)léc(h)tus,(f.) †(,) et(h) a(h)qua(h) sa(h)pi(h)én(h)ti(h)æ(h) sa(g)lu(f)tá(h)ris(h.) *(;) po(h)tá(h)vit(h) il(h)lum(h) Dó(h)mi(h)nus(h) De(h)us(h) nos(f)ter.(ef..) (::)}
+{(c3) Ci(h)bá(h)vit(h) il(h)lum(h) pa(h)ne(h) vi(h)tæ(h) et(h) in(h)tel(h)léc(h)tus,(f.) †(;) et(h) a(h)qua(h) sa(h)pi(h)én(h)ti(h)æ(h) sa(g)lu(f)tá(h)ris(h.) *(;) po(h)tá(h)vit(h) il(h)lum(h) Dó(h)mi(h)nus(h) De(h)us(h) nos(f)ter.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

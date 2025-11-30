@@ -2,7 +2,7 @@
 Visiónem quam vidístis, * némini dixéritis, donec a mórtuis resúrgat Fílius hóminis.
 
 [Oratio]
-Deus, qui cónspicis omni nos virtúte destítui: intérius exteriúsque custódi; ut ab ómnibus adversitátibus muniámur in córpore, et a pravis cogitatiónibus mundémur in mente.
+{(c3) De(h)us,(h) qui(h) cón(h)spi(h)cis(h) om(h)ni(h) nos(h) vir(h)tú(h)te(h) de(h)stí(h)tu(h)i:(h_') (,) in(h)té(h)ri(h)us(h) ex(h)te(h)ri(h)ús(h)que(h) cus(h)tó(h)di;(f.) †(,) ut(h) ab(h) óm(h)ni(h)bus(h) ad(h)ver(h)si(h)tá(h)ti(h)bus(h) mu(h)ni(h)á(h)mur(g) in(f) cór(h)po(hr)re,(h.) *(;) et(h) a(h) pra(h)vis(h) co(h)gi(h)ta(h)ti(h)ó(h)ni(h)bus(h) mun(h)dé(h)mur(h) in(h) men(h dr)te.(d.) (::)}
 $Per Dominum
 
 [Lectio1]
@@ -139,7 +139,7 @@ Státuit ea * in ætérnum, et in sǽculum sǽculi: præcéptum pósuit, et non 
 
 [Capitulum Laudes]
 !1 Thess 4:1
-v. Fratres: Rogámus vos, et obsecrámus in Dómino Jesu: ut, quemádmodum accepístis a nobis, quómodo vos opórteat ambuláre, et placére Deo, sic et ambulétis, ut abundétis magis.
+{(c3) Fra(h)tres:(h.) (,) Ro(h)gá(h)mus(h) vos,(h) et(h) ob(h)se(h)crá(h)mus(h) in(h) Dó(h)mi(h)no(h) Je(h)su:(f.) †(;) ut,(h) quem(h)ád(h)mo(h)dum(h) ac(h)ce(h)pís(h)tis(h) a(h) no(h)bis,(h) quó(h)mo(h)do(h) vos(h) o(h)pór(h)te(h)at(h) am(h)bu(h)lá(h)re,(h) et(h) pla(h)cé(g)re(f) De(h hr)o:(h.) *(;) sic(h) et(h) am(h)bu(h)lé(h)tis,(h) ut(h) ab(h)un(h)dé(h)tis(h) ma(f)gis.(ef..) (::)}
 $Deo gratias
 
 [Ant 2]
@@ -153,10 +153,10 @@ Faciámus hic * tria tabernácula; tibi unum, Móysi unum, et Elíæ unum.
 
 [Capitulum Sexta]
 !1 Thess 4:3-4
-v. Hæc est enim volúntas Dei, sanctificátio vestra: ut abstineátis vos a fornicatióne, ut sciat unusquísque vestrum vas suum possidére in sanctificatióne et honóre.
+{(c3) Hæc(h) est(h) e(h)nim(h) vo(h)lún(h)tas(h) De(h)i,(h) sanc(h)ti(h)fi(h)cá(h)ti(h)o(h) ves(h)tra:(f.) †(;) ut(h) abs(h)ti(h)ne(h)á(h)tis(h) vos(h) a(h) for(h)ni(h)ca(g)ti(f)ó(h hr)ne,(h.) *(;) ut(h) sci(h)at(h) u(h)nus(h)quís(h)que(h) ves(h)trum(h) vas(h) su(h)um(h) pos(h)si(h)dé(h)re(h) in(h) sanc(h)ti(h)fi(h)ca(h)ti(h)ó(h)ne(h) et(h) ho(h)nó(f)re.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Nona]
 !1 Thess 4:7
-v. Non enim vocávit nos Deus in immundítiam, sed in sanctificatiónem, in Christo Jesu Dómino nostro.
+{(c3) Non(h) e(h)nim(h) vo(h)cá(h)vit(h) nos(h) De(h)us(h) in(h) im(h)mun(h)dí(h)ti(f)am,(f.) †(;) sed(h) in(h) sanc(h)ti(h)fi(h)ca(g)ti(f)ó(h hr)nem,(h.) *(;) in(h) Chris(h)to(h) Je(h)su(h) Dó(h)mi(h)no(h) nos(f)tro.(ef..) (::)}
 $Deo gratias

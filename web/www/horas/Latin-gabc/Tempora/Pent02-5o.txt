@@ -24,7 +24,7 @@ R/.Et(h) quid(h) vo(h)lo,(h) ni(h)si(h) ut(h) ac(h)cen(h)dá(h)tur?(g_'/hvGF'E!f
 Impropérium exspectávit cor meum * et misériam: et sustínui qui simul contristarétur, et non fuit; et qui consolarétur, et non invéni.
 
 [Oratio 1]
-Concéde quǽsumus omnípotens Deus: ut, qui in sanctíssimo dilécti Fílii tui Corde gloriántes, præcípua in nos caritátis ejus benefícia recólimus; eórum páriter et actu delectémur et fructu.
+{(c3) Con(h)cé(h)de(h) quǽ(h)su(h)mus(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(,) ut,(h) qui(h) in(h) sanc(h)tís(h)si(h)mo(h) di(h)léc(h)ti(h) Fí(h)li(h)i(h) tu(h)i(h) Cor(h)de(h) glo(h)ri(h)án(h)tes,(h) præ(h)cí(h)pu(h)a(h) in(h) nos(h) ca(h)ri(h)tá(h)tis(h) e(h)jus(h) be(h)ne(h)fí(h)ci(h)a(g) re(f)có(h)li(hr)mus;(h.) *(;) e(h)ó(h)rum(h) pá(h)ri(h)ter(h) et(h) ac(h)tu(h) de(h)lec(h)té(h)mur(h) et(h) fruc(h dr)tu.(d.) (::)}
 $Per Dominum
 
 [Invit]
@@ -137,7 +137,7 @@ Pone me * ut signáculum super cor tuum, ut signáculum super bráchium tuum.
 
 [Capitulum Laudes]
 !Isa 12:2
-v. Ecce Deus Salvátor meus, fiduciáliter agam, et non timébo: quia fortitúdo mea et laus mea Dóminus, et factus est mihi in salútem. Hauriétis aquas in gáudio de fóntibus Salvatóris.
+{(c3) Ec(h)ce(h) De(h)us(h) Sal(h)vá(h)tor(h) me(h)us,(h) fi(h)du(h)ci(h)á(h)li(h)ter(h) a(h)gam,(h) et(h) non(h) ti(h)mé(h)bo:(f.) †(;) qui(h)a(h) for(h)ti(h)tú(h)do(h) me(h)a(h) et(h) laus(h) me(h)a(h) Dó(h)mi(h)nus,(h) et(h) fac(h)tus(h) est(h) mi(h)hi(h) in(g) sa(f)lú(h hr)tem.(h.) *(;) Hau(h)ri(h)é(h)tis(h) a(h)quas(h) in(h) gáu(h)di(h)o(h) de(h) fón(h)ti(h)bus(h) Sal(h)va(h)tó(f)ris.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -152,12 +152,12 @@ R/.Et(h) do(h)ló(h)res(h) nos(h)tros(h) ip(h)se(h) por(h)tá(h)vit.(g_'/hvGF'E!
 Vulnerátus est propter iniquitátes nostras * attrítus est propter scélera nostra: disciplína pacis nostræ super eum, et livóre ejus sanáti sumus.
 
 [Oratio 2]
-Concéde quǽsumus omnípotens Deus: ut, qui in sanctíssimo dilécti Fílii tui Corde gloriántes, præcípua in nos caritátis ejus benefícia recólimus: eórum páriter et actu delectémur et fructu.
+{(c3) Con(h)cé(h)de(h) quǽ(h)su(h)mus(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(,) ut,(h) qui(h) in(h) sanc(h)tís(h)si(h)mo(h) di(h)léc(h)ti(h) Fí(h)li(h)i(h) tu(h)i(h) Cor(h)de(h) glo(h)ri(h)án(h)tes,(h) præ(h)cí(h)pu(h)a(h) in(h) nos(h) ca(h)ri(h)tá(h)tis(h) e(h)jus(h) be(h)ne(h)fí(h)ci(h)a(g) re(f)có(h)li(hr)mus:(h.) *(;) e(h)ó(h)rum(h) pá(h)ri(h)ter(h) et(h) ac(h)tu(h) de(h)lec(h)té(h)mur(h) et(h) fruc(h dr)tu.(d.) (::)}
 $Per eumdem
 
 [Lectio Prima]
 !Isa 12:5
-v. Cantáte Dómino quóniam magnífice fecit, annuntiáte hoc in univérsa terra. Exsúlta et lauda habitátio Sion, quia magnus in médio tui sanctus Israël.
+{(c3) Can(h)tá(h)te(h) Dó(h)mi(h)no(h) quón(h)i(h)am(h) ma(h)gní(h)fi(h)ce(h) fe(h)cit,(h) an(h)nun(h)ti(h)á(h)te(h) hoc(h) in(h) u(h)ni(h)vér(h)sa(h) ter(h)ra.(f.) †(;) Ex(h)súl(h)ta(h) et(h) lau(h)da(h) ha(h)bi(h)tá(h)ti(g)o(f) Si(h hr)on,(h.) *(;) qui(h)a(h) ma(h)gnus(h) in(h) mé(h)di(h)o(h) tu(h)i(h) sanc(h)tus(h) Is(h)ra(f)ël.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Vere * Languóres nostros ipse tulit.
@@ -173,7 +173,7 @@ R/.Et(h) á(h)di(h)pe(h) fru(h)mén(h)ti(h) sá(h)ti(h)at(h) te.(g_'/hvGF'E!fgf.
 
 [Capitulum Sexta]
 !Isa 12:4
-v. Dicétis in die illa: Confitémini Dómino, et invocáte nomen ejus: et mementate quóniam excélsum est nomen ejus.
+{(c3) Di(h)cé(h)tis(h) in(h) di(h)e(h) il(h)la:(f.) †(;) Con(h)fi(h)té(h)mi(h)ni(h) Dó(h)mi(h)no,(h) et(h) in(h)vo(h)cá(h)te(h) no(g)men(f) e(h hr)jus:(h.) *(;) et(h) me(h)men(h)ta(h)te(h) quón(h)i(h)am(h) ex(h)cél(h)sum(h) est(h) no(h)men(h) e(f)jus.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]
@@ -190,7 +190,7 @@ R/.Ti(h)bi(h) sa(h)cri(h)fi(h)cá(h)bo(h) hós(h)ti(h)am(h) lau(h)dis.(g_'/hvGF'
 
 [Capitulum Nona]
 !Isa 12:5
-v. Cantáte Dómino quóniam magnífice fecit, annuntiáte hoc in univérsa terra. Exsúlta et lauda habitátio Sion, quia magnus in médio tui sanctus Israël.
+{(c3) Can(h)tá(h)te(h) Dó(h)mi(h)no(h) quón(h)i(h)am(h) ma(h)gní(h)fi(h)ce(h) fe(h)cit,(h) an(h)nun(h)ti(h)á(h)te(h) hoc(h) in(h) u(h)ni(h)vér(h)sa(h) ter(h)ra.(f.) †(;) Ex(h)súl(h)ta(h) et(h) lau(h)da(h) ha(h)bi(h)tá(h)ti(g)o(f) Si(h hr)on,(h.) *(;) qui(h)a(h) ma(h)gnus(h) in(h) mé(h)di(h)o(h) tu(h)i(h) sanc(h)tus(h) Is(h)ra(f)ël.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Nona]

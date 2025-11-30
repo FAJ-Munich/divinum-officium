@@ -6,7 +6,7 @@ R/. Non(h) vi(h)sú(h)rum(h) se(h) mor(h)tem,(h) ni(h)si(h) vi(h)dé(h)ret(h) Ch
 Senex * Púerum portábat, Puer autem senem regébat: quem virgo péperit, et post partum virgo permánsit: ipsum quem génuit, adorávit.
 
 [Oratio]
-Omnípotens sempitérne Deus, majestátem tuam súpplices exorámus: ut, sicut unigénitus Fílius tuus hodiérna die cum nostræ carnis substántia in templo est præsentátus; ita nos fácias purificátis tibi méntibus præsentári.
+{(c3) Om(h)ní(h)pot(h)ens(h) sem(h)pi(h)tér(h)ne(h) De(h)us,(h) ma(h)jes(h)tá(h)tem(h) tu(h)am(h) súp(h)pli(h)ces(h) ex(h)o(h)rá(h)mus:(f.) †(,) ut,(h) sic(h)ut(h) u(h)ni(h)gé(h)ni(h)tus(h) Fí(h)li(h)us(h) tu(h)us(h) ho(h)di(h)ér(h)na(h) di(h)e(h) cum(h) nos(h)træ(h) car(h)nis(h) sub(h)stán(h)ti(h)a(h) in(h) tem(h)plo(h) est(h) præ(g)sen(f)tá(h hr)tus;(h.) *(;) i(h)ta(h) nos(h) fá(h)ci(h)as(h) pu(h)ri(h)fi(h)cá(h)tis(h) ti(h)bi(h) mén(h)ti(h)bus(h) præ(h)sen(h)tá(h dr)ri.(d.) (::)}
 $Per eumdem
 
 [Invit]
@@ -71,7 +71,7 @@ R. Quem virgo concépit, virgo péperit, virgo post partum, quem génuit, adorá
 
 [Capitulum Laudes]
 !Mal 3:1
-v. Ecce ego mitto Angelum meum, et præparábit viam ante fáciem meam. Et statim véniet ad templum sanctum suum Dominátor, quem vos quǽritis, et Angelus Testaménti, quem vos vultis.
+{(c3) Ec(h)ce(h) e(h)go(h) mit(h)to(h) An(h)ge(h)lum(h) me(h)um,(h) et(h) præ(h)pa(h)rá(h)bit(h) vi(h)am(h) an(h)te(h) fá(h)ci(h)em(h) me(h)am.(f.) †(;) Et(h) sta(h)tim(h) vé(h)ni(h)et(h) ad(h) tem(h)plum(h) sanc(h)tum(h) su(h)um(h) Do(h)mi(h)ná(h)tor,(h) quem(g) vos(f) quǽ(h)ri(hr)tis,(h.) *(;) et(h) An(h)ge(h)lus(h) Tes(h)ta(h)mén(h)ti,(h) quem(h) vos(h) vul(f)tis.(ef..) (::)}
 $Deo gratias
 
 [Ant 2]
@@ -79,11 +79,11 @@ Cum indúcerent * púerum Jesum paréntes ejus, accépit eum Símeon in ulnas su
 
 [Lectio Prima]
 !Mal 3:4
-v. Et placébit Dómino sacrifícium Juda et Jerúsalem sicut dies sǽculi et sicut anni antíqui, dicit Dóminus omnípotens.
+{(c3) Et(h) pla(h)cé(h)bit(h) Dó(h)mi(h)no(h) sa(h)cri(h)fí(h)ci(h)um(h) Ju(h)da(h) et(h) Je(h)rú(h)sa(h)lem(h) sic(h)ut(h) di(h)es(h) sǽ(h)cu(f)li(f.) †(;) et(h) sic(h)ut(h) an(h)ni(g) an(f)tí(h hr)qui,(h.) *(;) di(h)cit(h) Dó(h)mi(h)nus(h) om(h)ní(h)pot(f)ens.(ef..) (::)}
 
 [Capitulum Sexta]
 !Mal 3:1-2
-v. Ecce véniet, dicit Dóminus exercítuum: et quis póterit cogitáre diem advéntus ejus, et quis stabit ad vidéndum eum? Ipse enim quasi ignis conflans, et quasi herba fullónum.
+{(c3) Ec(h)ce(h) ve(h)nit,(h) di(h)cit(h) Dó(h)mi(h)nus(h) ex(h)er(h)cí(h)tu(f)um:(f.) †(;)  et(h) quis(h) pót(h)e(h)rit(h) co(h)gi(h)tá(h)re(h) di(h)em(h) ad(h)vén(h)tus(h) e(h)jus,(h.) (,) et(g) quis(g) sta(g)bit(g) ad(g) vi(g)dén(g)dum(f) e(g)um?(gh..) (:) Ip(h)se(h) e(h)nim(h) qua(h)si(h) i(g)gnis(f) con(h)flans,(h.) (;) et(h) qua(h)si(h) her(h)ba(h) ful(h)ló(f)num:(ef..) (::)}
 $Deo gratias
 
 [Ant Vespera 3]

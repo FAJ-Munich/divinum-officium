@@ -1,5 +1,5 @@
 [Oratio]
-Deus, qui Ecclésiam tuam novo semper fœtu multíplicas: concéde fámulis tuis; ut sacraméntum vivéndo téneant, quod fide percepérunt.
+{(c3) De(h)us,(h) qui(h) Ec(h)clé(h)si(h)am(h) tu(h)am(h) no(h)vo(h) sem(h)per(h) fœ(h)tu(h) mul(h)tí(h)pli(f)cas:(f.) †(,) con(h)cé(h)de(h) fá(h)mu(h)lis(h) tu(h)is;(h) ut(h) sa(h)cra(h)mén(h)tum(h) vi(h)vén(g)do(f) té(h)ne(hr)ant,(h.) *(;) quod(h) fi(h)de(h) per(h)ce(h)pé(h dr)runt.(d.) (::)}
 $Per Dominum
 
 [Ant Matutinum]

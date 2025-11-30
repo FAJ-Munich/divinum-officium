@@ -50,7 +50,7 @@ R/.Au(h)rum(h) et(h) thus(h) de(h)fe(h)rén(h)tes,(h) et(h) lau(h)dem(h) Dó(h)m
 Magi vidéntes * stellam, dixérunt ad ínvicem: Hoc signum magni Regis est: eámus et inquirámus eum, et offerámus ei múnera, aurum, thus, et myrrham, allelúja.
 
 [Oratio]
-Deus, qui hodiérna die Unigénitum tuum géntibus stella duce revelásti: concéde propítius; ut qui jam te ex fide cognóvimus, usque ad contemplándam spéciem tuæ celsitúdinis perducámur.
+{(c3) De(h)us,(h) qui(h) ho(h)di(h)ér(h)na(h) di(h)e(h) U(h)ni(h)gé(h)ni(h)tum(h) tu(h)um(h) gén(h)ti(h)bus(h) stel(h)la(h) du(h)ce(h) re(h)ve(h)lás(h)ti:(f.) †(,) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut(h) qui(h) jam(h) te(h) ex(h) fi(h)de(g) co(f)gnó(h)vi(hr)mus,(h.) *(;) us(h)que(h) ad(h) con(h)tem(h)plán(h)dam(h) spé(h)ci(h)em(h) tu(h)æ(h) cel(h)si(h)tú(h)di(h)nis(h) per(h)du(h)cá(h dr)mur.(d.) (::)}
 $Per eumdem
 
 [Invit]
@@ -139,7 +139,7 @@ R. Et apértis thesáuris suis obtulérunt ei múnera, aurum, thus, et myrrham.
 
 [Capitulum Laudes]
 !Isa 60:1
-v. Surge, illumináre Jerúsalem, quia venit lumen tuum, et glória Dómini super te orta est.
+{(c3) Sur(h)ge,(h) il(h)lu(h)mi(h)ná(h)re(h) Je(h)rú(h)sa(f)lem,(f.) †(;) qui(h)a(h) ve(h)nit(h) lu(g)men(f) tu(h hr)um,(h.) *(;) et(h) gló(h)ri(h)a(h) Dó(h)mi(h)ni(h) su(h)per(h) te(h) or(h)ta(f) est.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -181,7 +181,7 @@ Hódie * cælésti Sponso juncta est Ecclésia, quóniam in Jordáne lavit Chris
 
 [Lectio Prima]
 !Isa 60:6
-v. Omnes de Saba vénient, aurum et thus deferéntes, et laudem Dómino annuntiántes.
+{(c3) Om(h)nes(h) de(h) Sa(h)ba(h) vé(h)ni(f)ent,(f.) †(;) au(h)rum(h) et(h) thus(h) de(g)fe(f)rén(h hr)tes,(h.) *(;) et(h) lau(h)dem(h) Dó(h)mi(h)no(h) an(h)nun(h)ti(h)án(f)tes.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Reges Tharsis et ínsulæ múnera ófferent, * Allelúja, allelúja.
@@ -197,7 +197,7 @@ R/.Au(h)rum(h) et(h) thus(h) de(h)fe(h)rén(h)tes,(h) al(h)le(h)lú(h)ja.(g_'/hv
 
 [Capitulum Sexta]
 !Isa 60:4
-v. Leva in circúitu óculos tuos, et vide: omnes isti congregáti sunt, venérunt tibi: fílii tui de longe vénient, et fíliæ tuæ de látere surgent.
+{(c3) Le(h)va(h) in(h) cir(h)cú(h)i(h)tu(h) ó(h)cu(h)los(h) tu(h)os,(h) et(h) vi(h)de:(f.) †(;) om(h)nes(h) is(h)ti(h) con(h)gre(h)gá(h)ti(h) sunt,(h) ve(h)né(g)runt(f) ti(h hr)bi:(h.) *(;) fí(h)li(h)i(h) tu(h)i(h) de(h) lon(h)ge(h) vé(h)ni(h)ent,(h) et(h) fí(h)li(h)æ(h) tu(h)æ(h) de(h) lá(h)te(h)re(h) sur(f)gent.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

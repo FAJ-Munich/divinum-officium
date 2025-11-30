@@ -2,7 +2,7 @@
 Suscépit Deus * Israël, púerum suum: sicut locútus est ad Abraham, et semen ejus usque in sǽculum.
 
 [Oratio]
-Omnípotens sempitérne Deus, qui cæléstia simul et terréna moderáris: supplicatiónes pópuli tui cleménter exáudi; et pacem tuam nostris concéde tempóribus.
+{(c3) Om(h)ní(h)pot(h)ens(h) sem(h)pi(h)tér(h)ne(h) De(h)us,(h) qui(h) cæ(h)lés(h)ti(h)a(h) si(h)mul(h) et(h) ter(h)ré(h)na(h) mo(h)de(h)rá(h)ris:(f.) †(,) sup(h)pli(h)ca(h)ti(h)ó(h)nes(h) pó(h)pu(h)li(h) tu(h)i(h) cle(h)mén(h)ter(g) ex(f)áu(h hr)di;(h.) *(;) et(h) pa(h)cem(h) tu(h)am(h) nos(h)tris(h) con(h)cé(h)de(h) tem(h)pó(h)ri(dr)bus.(d.) (::)}
 $Per Dominum.
 
 [Lectio1]

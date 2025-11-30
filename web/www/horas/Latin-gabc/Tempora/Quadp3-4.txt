@@ -23,12 +23,12 @@ Non ergo absúrde Matthǽus, étiam quod vulgo possit intéllegi, per álios fac
 Dómine, * puer meus jacet paralýticus in domo, et male torquétur: Amen dico tibi, ego véniam, et curábo eum.
 
 [Oratio 2]
-Deus, qui culpa offénderis, pæniténtia placáris: preces pópuli tui supplicántis propítius réspice; et flagélla tuæ iracúndiæ, quæ pro peccátis nostris merémur, avérte.
+{(c3) De(h)us,(h) qui(h) cul(h)pa(h) of(h)fén(h)de(h)ris,(h) pæ(h)ni(h)tén(h)ti(h)a(h) pla(h)cá(h)ris:(f.) †(,) pre(h)ces(h) pó(h)pu(h)li(h) tu(h)i(h) sup(h)pli(h)cán(h)tis(h) pro(h)pí(h)ti(g)us(f) ré(h)spi(hr)ce;(h.) *(;) et(h) fla(h)gél(h)la(h) tu(h)æ(h) i(h)ra(h)cún(h)di(h)æ,(h) quæ(h) pro(h) pec(h)cá(h)tis(h) nos(h)tris(h) me(h)ré(h)mur,(h) a(h)vér(h dr)te.(d.) (::)}
 $Per Dominum
 
 [Ant 3]
 Dómine, * non sum dignus ut intres sub tectum meum: sed tantum dic verbo, et sanábitur puer meus.
 
 [Oratio 3]
-Parce, Dómine, parce populo tuo: ut, dignis flagellatiónibus castigátus, in tua miseratióne respíret.
+{(c3) Par(h)ce,(h) Dó(h)mi(h)ne,(h) par(h)ce(h) po(h)pu(g)lo(f) tu(h hr)o:(h.) *(;) ut,(h) di(h)gnis(h) fla(h)gel(h)la(h)ti(h)ó(h)ni(h)bus(h) cas(h)ti(h)gá(h)tus,(h) in(h) tu(h)a(h) mi(h)se(h)ra(h)ti(h)ó(h)ne(h) re(h)spí(h dr)ret.(d.) (::)}
 $Per Dominum

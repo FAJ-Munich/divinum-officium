@@ -9,7 +9,7 @@ Da mihi in disco * caput Joánnis Baptístæ. Et contristátus est rex propter j
 Misso Heródes * spiculatóre, præcépit amputári caput Joánnis in cárcere. Quo audíto, discípuli ejus venérunt, et tulérunt corpus ejus, et posuérunt illud in monuménto.
 
 [Oratio]
-Sancti Joánnis Baptístæ Præcursóris et Mártyris tui, quǽsumus, Dómine, veneránda festívitas: salutáris auxílii nobis præstet efféctum:
+{(c3) Sanc(h)ti(h) Jo(h)án(h)nis(h) Bap(h)tís(h)tæ(h) Præ(h)cur(h)só(h)ris(h) et(h) Már(h)ty(h)ris(h) tu(h)i,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) ve(h)ne(h)rán(h)da(g) fes(f)tí(h)vi(hr)tas:(h.) *(;) sa(h)lu(h)tá(h)ris(h) au(h)xí(h)li(h)i(h) no(h)bis(h) præ(h)stet(h) ef(h)féc(h dr)tum:(d.) (::)}
 $Qui vivis
 
 [Responsory1]

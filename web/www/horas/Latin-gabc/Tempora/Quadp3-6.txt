@@ -17,5 +17,5 @@ Verum ille non oblivíscitur oratiónem páuperum, neque avértit fáciem suam a
 Me étenim * de die in diem quærunt, et scire vias meas volunt.
 
 [Oratio 2]
-Adésto, Dómine, supplicatiónibus nostris: et concéde; ut hoc solémne jejúnium, quod animábus corporibúsque curándis salúbriter institútum est, devóto servítio celebrémus.
+{(c3) Ad(h)és(h)to,(h) Dó(h)mi(h)ne,(h) sup(h)pli(h)ca(h)ti(h)ó(h)ni(h)bus(h) nos(h)tris:(h) et(h) con(h)cé(h)de;(f.) †(,) ut(h) hoc(h) so(h)lém(h)ne(h) je(h)jú(h)ni(h)um,(h) quod(h) a(h)ni(h)má(h)bus(h) cor(h)po(h)ri(h)bús(h)que(h) cu(h)rán(h)dis(h) sa(h)lú(h)bri(h)ter(h) in(g)sti(f)tú(h)tum(hr) est,(h.) *(;) de(h)vó(h)to(h) ser(h)ví(h)ti(h)o(h) ce(h)le(h)bré(h dr)mus.(d.) (::)}
 $Per Dominum

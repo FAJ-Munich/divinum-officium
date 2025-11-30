@@ -1127,13 +1127,15 @@ sub oratio_solemnis {
     $o =~ /(.*) †\([\,\;]\) (.*) \*\(\;\) (.*)\(h(?:\sdr)?\)(.*)(\$.*)/s;
     ($flexa, $metrum, $prePunctum, $punctum, $concl) = ($1, $2, $3, $4, $5);
   } elsif ($o =~ /\*/) {
-    $o =~ /(.*) \*\(\;\) (.*)\(h\)(.*)(\$.*)/s;
+    $o =~ /(.*) \*\(\;\) (.*)\(h(?:\sdr)?\)(.*)(\$.*)/s;
     ($metrum, $prePunctum, $punctum, $concl) = ($1, $2, $3, $4);
   } else {
-    return $o;
+    $o =~ /(.*)(\$.*)/s;
+    ($punctum, $concl) = ($1, $2);
   }
 
   $concl =~ s/\s*$/ solemnis/s;
+  return "$punctum$concl" unless $metrum;
 
   if ($version =~ /monastic/i) {
 
@@ -1151,7 +1153,6 @@ sub oratio_solemnis {
       $metrum =~ s/hr\)/ir)/g;             # raise pitch in general
     } else {
       $metrum =~ s/\(h/(i/g;               # raise pitch in general
-      $metrum =~ s/hr\)/ir)/g;             # raise pitch in general
       $metrum =~ s/\(i[r\.]\)/(h$1)/g;     # add flexa
     }
     $metrum =~ s/\(i\)/(h)/;               # add initia
@@ -1160,6 +1161,7 @@ sub oratio_solemnis {
     $prePunctum =~ s/^(.*)\(i\)/$1(h)/;    # lower ultimate pitch
     $prePunctum =~ s/^(.*)\(i\)/$1(h)/;    # lower penultimate pitch
     $punctum =~ s/\(d/(i/g;                # raise final pitches
+    $punctum =~ s/dr\)/ir)/g;              # raise final pitches
 
     $o =
       $flexa
@@ -1178,12 +1180,15 @@ sub oratio_solemnis {
       $flexa =~ s/\(h[\_\']+\)/(h.)/;       # incisi minoris momenti => majoris
     } else {
       $metrum =~ s/\(h[r\.]\)/(g$1)/g;      # add flexa
+      $metrum =~ s/hr\)/gr)/g;              # add flexa
       $metrum =~ s/c3/c4/;                  # lower pitch
+      $metrum =~ s/\(h[\_\']+\)/(h.)/;      # incisi minoris momenti => majoris
     }
     $metrum =~ s/\(h\)/(g)/;                # add initia
     $prePunctum =~ s/^(.*)\(h\)/$1(g)/;     # lower ultimate pitch
     $prePunctum =~ s/^(.*)\(h\)/$1(g)/;     # lower penultimate pitch
     $punctum =~ s/\(d/(h/g;                 # raise final pitches
+    $punctum =~ s/dr\)/hr)/g;               # raise final pitches
 
     $o =
       $flexa

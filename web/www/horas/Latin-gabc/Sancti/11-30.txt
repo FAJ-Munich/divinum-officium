@@ -9,7 +9,7 @@ Qui persequebántur justum, * demersísti eos, Dómine, in inférno, et in ligno
 Unus ex duóbus, * qui secúti sunt Dóminum, erat Andréas, frater Simónis Petri, allelúja.
 
 [Oratio]
-Majestátem tuam, Dómine, supplíciter exorámus: ut, sicut Ecclésiæ tuæ beátus Andréas Apóstolus éxstitit prædicátor et rector; ita apud te sit pro nobis perpétuus intercéssor. 
+{(c3) Ma(h)jes(h)tá(h)tem(h) tu(h)am,(h) Dó(h)mi(h)ne,(h) sup(h)plí(h)ci(h)ter(h) ex(h)o(h)rá(h)mus:(f.) †(,) ut,(h) sic(h)ut(h) Ec(h)clé(h)si(h)æ(h) tu(h)æ(h) be(h)á(h)tus(h) An(h)dré(h)as(h) A(h)pós(h)to(h)lus(h) éx(h)sti(h)tit(h) præ(h)di(h)cá(h)tor(g) et(f) rec(h hr)tor;(h.) *(;) i(h)ta(h) a(h)pud(h) te(h) sit(h) pro(h) no(h)bis(h) per(h)pé(h)tu(h)us(h) in(h)ter(h)cés(h dr)sor.(d.) (::)}
 $Per Dominum
 
 [Ant Matutinum]
@@ -77,7 +77,7 @@ R. Súscipe discípulum Christi, ac per te me recípiat, qui per te móriens me 
 
 [Capitulum Laudes]
 !Rom 10:10-11
-v. Fratres: Corde enim créditur ad justítiam, ore autem conféssio fit ad salútem. Dicit enim Scriptúra: Omnis, qui credit in illum, non confundétur.
+{(c3) Fra(h)tres:(h.) (,) Cor(h)de(h) e(h)nim(h) cré(h)di(h)tur(h) ad(h) jus(h)tí(h)ti(f)am,(f.) †(;) o(h)re(h) au(h)tem(h) con(h)fés(h)si(h)o(h) fit(h) ad(g) sa(f)lú(h hr)tem.(h.) *(;) Di(h)cit(h) e(h)nim(h) Scrip(h)tú(h)ra:(h_') (,) Om(h)nis,(h) qui(h) cre(h)dit(h) in(h) il(h)lum,(h) non(h) con(h)fun(h)dé(f)tur.(ef..) (::)}
 $Deo gratias
 
 [Ant 2]
@@ -85,11 +85,11 @@ Concéde nobis * hóminem justum, redde nobis hóminem sanctum: ne interfícias 
 
 [Lectio Prima]
 !Rom 10:16-18
-v. Isaías enim dicit: Dómine, quis crédidit audítui nostro? Ergo fides ex audítu, audítus autem per verbum Christi. Sed dico: Numquid non audiérunt? Et quidem in omnem terram exívit sonus eórum, et in fines orbis terræ verba eórum.
+{(c3) I(h)sa(h)í(h)as(h) e(h)nim(h) di(h)cit:(h.) (,) Dó(g)mi(g)ne,(g) quis(g) cré(g)di(g)dit(g) au(g)dí(g)tu(g)i(f) nos(g)tro?(gh..) (:) Er(h)go(h) fi(h)des(h) ex(h) au(h)dí(h)tu,(h) au(h)dí(h)tus(h) au(h)tem(h) per(h) ver(h)bum(h) Chris(h)ti.(f.) †(;) Sed(h) di(h)co:(h.) (,) Num(g)quid(g) non(g) au(g)di(f)é(g)runt?(gh..) (:) Et(h) qui(h)dem(h) in(h) om(h)nem(h) ter(h)ram(h) ex(h)í(h)vit(h) so(h)nus(g) e(f)ó(h)rum,(h.) *(;) et(h) in(h) fi(h)nes(h) or(h)bis(h) ter(h)ræ(h) ver(h)ba(h) e(h)ó(f)rum.(ef..) (::)}
 
 [Capitulum Sexta]
 !Rom 10:12-13
-v. Non enim est distínctio Judǽi et Græci: nam idem Dóminus ómnium, dives in omnes, qui ínvocant illum. Omnis enim, quicúmque invocáverit nomen Dómini, salvus erit.
+{(c3) Non(h) e(h)nim(h) est(h) di(h)stínc(h)ti(h)o(h) Ju(h)dǽ(h)i(h) et(h) Græ(h)ci:(f.) †(;) nam(h) i(h)dem(h) Dó(h)mi(h)nus(h) óm(h)ni(h)um,(h) di(h)ves(h) in(h) om(h)nes,(h) qui(h) ín(h)vo(g)cant(f) il(h hr)lum.(h.) *(;) Om(h)nis(h) e(h)nim,(h) qui(h)cúm(h)que(h) in(h)vo(h)cá(h)ve(h)rit(h) no(h)men(h) Dó(h)mi(h)ni,(h) sal(h)vus(h) e(f)rit.(ef..) (::)}
 $Deo gratias
 
 [Ant Vespera 3]

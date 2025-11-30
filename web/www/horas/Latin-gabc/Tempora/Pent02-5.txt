@@ -49,7 +49,7 @@ R/. Qui(h)a(h) mi(hi)tis(h) sum(h_') (,) et(h) hú(h')mi(f)lis(e) Cor(f_0h)de.(h
 Ignem * veni míttere in terram, et quid volo nisi ut accendátur?
 
 [Oratio]
-Deus, qui nobis in Corde Fílii tui, nostris vulneráto peccátis, infinítos dilectiónis thesáuros misericórditer largíri dignáris; concéde, quǽsumus, ut illi devótum pietátis nostræ præstántes obséquium, dignæ quoque satisfactiónis exhibeámus offícium.
+{(c3) De(h)us,(h) qui(h) no(h)bis(h) in(h) Cor(h)de(h) Fí(h)li(h)i(h) tu(h)i,(h) nos(h)tris(h) vul(h)ne(h)rá(h)to(h) pec(h)cá(h)tis,(h) in(h)fi(h)ní(h)tos(h) di(h)lec(h)ti(h)ó(h)nis(h) the(h)sáu(h)ros(h) mi(h)se(h)ri(h)cór(h)di(h)ter(h) lar(h)gí(h)ri(h) di(h)gná(h)ris;(f.) †(,) con(h)cé(h)de,(h) quǽ(h)su(h)mus,(h) ut(h) il(h)li(h) de(h)vó(h)tum(h) pi(h)e(h)tá(h)tis(h) nos(h)træ(h) præ(h)stán(h)tes(g) ob(f)sé(h)qui(hr)um,(h.) *(;) di(h)gnæ(h) quo(h)que(h) sa(h)tis(h)fac(h)ti(h)ó(h)nis(h) ex(h)hi(h)be(h)á(h)mus(h) of(h)fí(h)ci(dr)um.(d.) (::)}
 $Per eumdem
 
 [Octava 1]
@@ -239,7 +239,7 @@ Fili, * præbe mihi cor tuum, et óculi tui custódiant vias meas.
 
 [Capitulum Laudes]
 !Eph 3:8-9
-v. Fratres: Mihi ómnium sanctórum mínimo data est grátia hæc, in géntibus evangelizáre investigábiles divítias Christi; et illumináre omnes, quæ sit dispensátio sacraménti abscónditi a sǽculis in Deo.
+{(c3) Fra(h)tres:(h.) (,) Mi(h)hi(h) óm(h)ni(h)um(h) sanc(h)tó(h)rum(h) mí(h)ni(h)mo(h) da(h)ta(h) est(h) grá(h)ti(f)a(f) hæc,(f.) †(;) in(h) gén(h)ti(h)bus(h) e(h)van(h)ge(h)li(h)zá(h)re(h) in(h)ves(h)ti(h)gá(h)bi(h)les(h) di(h)ví(h)ti(g)as(f) Chris(h hr)ti;(h.) *(;) et(h) il(h)lu(h)mi(h)ná(h)re(h) om(h)nes,(h) quæ(h) sit(h) dis(h)pen(h)sá(h)ti(h)o(h) sa(h)cra(h)mén(h)ti(h) abs(h)cón(h)di(h)ti(h) a(h) sǽ(h)cu(h)lis(h) in(h) De(f)o.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -298,7 +298,7 @@ $Per eumdem
 
 [Lectio Prima]
 !Eph 3:17-19
-v. In caritáte radicáti et fundáti, ut possítis comprehéndere cum ómnibus sanctis, quæ sit latitúdo et longitúdo, et sublímitas et profúndum; scire étiam supereminéntem sciéntiæ caritátem Christi, ut impleámini in omnem plenitúdinem Dei.
+{(c3) In(h) ca(h)ri(h)tá(h)te(h) ra(h)di(h)cá(h)ti(h) et(h) fun(h)dá(h)ti,(h) ut(h) pos(h)sí(h)tis(h) com(h)pre(h)hén(h)de(h)re(h) cum(h) óm(h)ni(h)bus(h) sanc(h)tis,(h) quæ(h) sit(h) la(h)ti(h)tú(h)do(h) et(h) lon(h)gi(h)tú(h)do,(h) et(h) sub(h)lí(h)mi(h)tas(h) et(h) pro(h)fún(h)dum;(f.) †(;) sci(h)re(h) ét(h)i(h)am(h) su(h)per(h)e(h)mi(h)nén(h)tem(h) sci(h)én(h)ti(h)æ(h) ca(h)ri(h)tá(g)tem(f) Chris(h hr)ti,(h.) *(;) ut(h) im(h)ple(h)á(h)mi(h)ni(h) in(h) om(h)nem(h) ple(h)ni(h)tú(h)di(h)nem(h) De(f)i.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Tóllite jugum meum super vos * Et díscite a me.
@@ -310,7 +310,7 @@ R. Tóllite jugum meum super vos * Et díscite a me.
 
 [Capitulum Sexta]
 !Eph 3:14-17
-v. Hujus rei grátia flecto génua mea ad Patrem Dómini nostri Jesu Christi, ut det vobis secúndum divítias glóriæ suæ virtúte corroborári per Spíritum ejus in interiórem hóminem: Christum habitáre per fidem in córdibus vestris.
+{(c3) Hu(h)jus(h) re(h)i(h) grá(h)ti(h)a(h) flec(h)to(h) gé(h)nu(h)a(h) me(h)a(h) ad(h) Pa(h)trem(h) Dó(h)mi(h)ni(h) nos(h)tri(h) Je(h)su(h) Chris(h)ti,(f.) †(;) ut(h) det(h) vo(h)bis(h) se(h)cún(h)dum(h) di(h)ví(h)ti(h)as(h) gló(h)ri(h)æ(h) su(h)æ(h) vir(h)tú(h)te(h) cor(h)ro(h)bo(h)rá(h)ri(h) per(h) Spí(h)ri(h)tum(h) e(h)jus(h) in(h) in(h)te(h)ri(h)ó(g)rem(f) hó(h)mi(hr)nem:(h.) *(;) Chris(h)tum(h) ha(h)bi(h)tá(h)re(h) per(h) fi(h)dem(h) in(h) cór(h)di(h)bus(h) ves(f)tris.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]
@@ -323,7 +323,7 @@ R. Ego dixi: Dómine, * Miserére mei.
 
 [Capitulum Nona]
 !Eph 3:17-19
-v. In caritáte radicáti et fundáti, ut possítis comprehéndere cum ómnibus sanctis, quæ sit latitúdo et longitúdo, et sublímitas et profúndum; scire étiam supereminéntem sciéntiæ caritátem Christi, ut impleámini in omnem plenitúdinem Dei.
+{(c3) In(h) ca(h)ri(h)tá(h)te(h) ra(h)di(h)cá(h)ti(h) et(h) fun(h)dá(h)ti,(h) ut(h) pos(h)sí(h)tis(h) com(h)pre(h)hén(h)de(h)re(h) cum(h) óm(h)ni(h)bus(h) sanc(h)tis,(h) quæ(h) sit(h) la(h)ti(h)tú(h)do(h) et(h) lon(h)gi(h)tú(h)do,(h) et(h) sub(h)lí(h)mi(h)tas(h) et(h) pro(h)fún(h)dum;(f.) †(;) sci(h)re(h) ét(h)i(h)am(h) su(h)per(h)e(h)mi(h)nén(h)tem(h) sci(h)én(h)ti(h)æ(h) ca(h)ri(h)tá(g)tem(f) Chris(h hr)ti,(h.) *(;) ut(h) im(h)ple(h)á(h)mi(h)ni(h) in(h) om(h)nem(h) ple(h)ni(h)tú(h)di(h)nem(h) De(f)i.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Nona]
@@ -345,7 +345,7 @@ Fili, * præbe mihi cor tuum, et óculi tui custódiant vias meas.;;147
 Ad Jesum autem * cum veníssent, ut vidérunt eum jam mórtuum, non fregérunt ejus crura, sed unus mílitum láncea latus ejus apéruit et contínuo exívit sanguis et aqua.
 
 [Oratio3]
-Protéctor in te sperántium, Deus, sine quo nihil est válidum, nihil sanctum; multíplica super nos misericórdiam tuam; ut, te rectóre, te duce, sic transeámus per bona temporália, ut non amittámus ætérna.
+{(c3) Pro(h)téc(h)tor(h) in(h) te(h) spe(h)rán(h)ti(h)um,(h) De(h)us,(h) si(h)ne(h) quo(h) ni(h)hil(h) est(h) vá(h)li(h)dum,(h) ni(h)hil(h) sanc(h)tum;(f.) †(,) mul(h)tí(h)pli(h)ca(h) su(h)per(h) nos(h) mi(h)se(h)ri(h)cór(h)di(h)am(h) tu(h)am;(h) ut,(h) te(h) rec(h)tó(h)re,(h) te(h) du(h)ce,(h) sic(h) trans(h)e(h)á(h)mus(h) per(h) bo(h)na(h) tem(g)po(f)rá(h)li(hr)a,(h.) *(;) ut(h) non(h) a(h)mit(h)tá(h)mus(h) æ(h)tér(h dr)na.(d.) (::)}
 $Per Dominum
 
 [Octava 3]

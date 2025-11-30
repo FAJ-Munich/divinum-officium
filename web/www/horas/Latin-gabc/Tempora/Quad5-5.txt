@@ -62,7 +62,7 @@ R/.Ut(h) di(h)gni(h) ef(h)fi(h)ci(h)á(h)mur(h) pro(h)mis(h)si(h)ó(h)ni(h)bus(h
 Tuam ipsíus ánimam * (ait ad Maríam Símeon) pertransíbit gládius.
 
 [Oratio]
-Deus, in cujus passióne, secúndum Simeónis prophetíam, dulcíssimam ánimam gloriósæ Vírginis et Matris Maríæ dolóris gládius pertransívit: concéde, propítius; ut qui transfixiónem ejus et passiónem venerándo recólimus, gloriósis méritis et précibus ómnium Sanctórum cruci fidéliter astántium intercedéntibus, passiónis tuæ efféctum felícem consequámur:
+{(c3) De(h)us,(h) in(h) cu(h)jus(h) pas(h)si(h)ó(h)ne,(h) se(h)cún(h)dum(h) Si(h)me(h)ó(h)nis(h) pro(h)phe(h)tí(h)am,(h) dul(h)cís(h)si(h)mam(h) á(h)ni(h)mam(h) glo(h)ri(h)ó(h)sæ(h) Vír(h)gi(h)nis(h) et(h) Ma(h)tris(h) Ma(h)rí(h)æ(h) do(h)ló(h)ris(h) glá(h)di(h)us(h) per(h)trans(h)í(h)vit:(f.) †(,) con(h)cé(h)de,(h) pro(h)pí(h)ti(h)us;(h) ut(h) qui(h) trans(h)fi(h)xi(h)ó(h)nem(h) e(h)jus(h) et(h) pas(h)si(h)ó(h)nem(h) ve(h)ne(h)rán(h)do(g) re(f)có(h)li(hr)mus,(h.) *(;) glo(h)ri(h)ó(h)sis(h) mé(h)ri(h)tis(h) et(h) pré(h)ci(h)bus(h) óm(h)ni(h)um(h) Sanc(h)tó(h)rum(h) cru(h)ci(h) fi(h)dé(h)li(h)ter(h) a(h)stán(h)ti(h)um(h) in(h)ter(h)ce(h)dén(h)ti(h)bus,(h) pas(h)si(h)ó(h)nis(h) tu(h)æ(h) ef(h)féc(h)tum(h) fe(h)lí(h)cem(h) con(h)se(h)quá(h dr)mur:(d.) (::)}
 $Qui vivis
 
 [Commemoratio 1]
@@ -229,7 +229,7 @@ R. Et Dominicæ passionis fructum sentiamus.
 
 [Capitulum Laudes]
 !Isa 53:1-2
-v. Quis crédidit audítui nostro? et bráchium Dómini cui revelátum est? Et ascéndet sicut virgúltum coram eo, et sicut radix de terra sitiénti.
+{(c3) Quis(h.) (,) cré(g)di(g)dit(g) au(g)dí(g)tu(g)i(f) nos(g)tro?(gh..) (:) et(h.) (,) brá(g)chi(g)um(g) Dó(g)mi(g)ni(g) cu(g)i(g) re(g)ve(g)lá(f)tum(g) est?(gh..) (:) Et(h) a(h)scén(h)det(h) sic(h)ut(h) vir(h)gúl(h)tum(h) co(g)ram(f) e(h)o,(h.) *(;) et(h) sic(h)ut(h) ra(h)dix(h) de(h) ter(h)ra(h) si(h)ti(h)én(f)ti.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -274,7 +274,7 @@ $Per Dominum
 
 [Lectio Prima]
 !Isa 53:8
-Generatiónem ejus quis enarrábit, quia abscíssus est de terra vivéntium; propter scelus pópuli mei percússi eum.
+{(c3) Ge(h)ne(h)ra(h)ti(h)ó(h)nem(h) e(h)jus(h) quis(h) e(h)nar(h)rá(h)bit,(h) qui(h)a(h) ab(h)scís(h)sus(h) est(h) de(h) ter(h)ra(g) vi(f)vén(h)ti(hr)um;(h.) *(;) prop(h)ter(h) sce(h)lus(h) pó(h)pu(h)li(h) me(h)i(h) per(h)cús(h)si(h) e(f)um.(ef..) (::)}
 
 [Versum Prima]
 Qui passus es propter nostram salútem.
@@ -289,7 +289,7 @@ R. Pósuit me * Desolátam.
 
 [Capitulum Sexta]
 !Isa 53:5
-v. Ipse vulnerátus est propter iniquitátes nostras, attrítus est propter scélera nostra: disciplína pacis nostræ super eum, et livóre ejus sanáti sumus.
+{(c3) Ip(h)se(h) vul(h)ne(h)rá(h)tus(h) est(h) prop(h)ter(h) in(h)i(h)qui(h)tá(h)tes(h) nos(h)tras,(h) at(h)trí(h)tus(h) est(h) prop(h)ter(h) scé(h)le(h)ra(h) nos(h)tra:(f.) †(;) di(h)sci(h)plí(h)na(h) pa(h)cis(h) nos(h)træ(h) su(g)per(f) e(h hr)um,(h.) *(;) et(h) li(h)vó(h)re(h) e(h)jus(h) sa(h)ná(h)ti(h) su(f)mus.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]
@@ -302,7 +302,7 @@ R. Fácies mea * Intúmuit a fletu.
 
 [Capitulum Nona]
 !Isa 53:8
-v. Generatiónem ejus quis enarrábit, quia abscíssus est de terra vivéntium; propter scelus pópuli mei percússi eum.
+{(c3) Ge(h)ne(h)ra(h)ti(h)ó(h)nem(h) e(h)jus(h) quis(h) e(h)nar(h)rá(h)bit,(h) qui(h)a(h) ab(h)scís(h)sus(h) est(h) de(h) ter(h)ra(g) vi(f)vén(h)ti(hr)um;(h.) *(;) prop(h)ter(h) sce(h)lus(h) pó(h)pu(h)li(h) me(h)i(h) per(h)cús(h)si(h) e(f)um.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Nona]

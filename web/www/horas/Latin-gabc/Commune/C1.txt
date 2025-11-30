@@ -141,7 +141,7 @@ R. Quorum doctrína fulget Ecclésia, ut sole luna.
 
 [Capitulum Laudes]
 !Eph 2:19-20
-{(c3)Fra(h)tres:(h) Jam(h) non(h) es(h)tis(h) hós(h)pi(h)tes(h) et(h) ád(h)ve(f)næ:(f.) †(,) sed(h) es(h)tis(h) ci(h)ves(h) Sanc(h)tó(h)rum(h) et(h) do(h)més(h)ti(h)ci(h) De(h)i:(h) su(h)per(h)æ(h)di(h)fi(h)cá(h)ti(h) su(h)per(h) fun(h)da(h)mén(h)tum(h) A(h)pos(h)to(h)ló(h)rum,(h) et(h) Pro(g)phe(f)tá(h)rum,(h.) *(;) ip(h)so(h) sum(h)mo(h) an(h)gu(h)lá(h)ri(h) lá(h)pi(h)de(h) Chris(h)to(h) Je(f)su.(ef..) (::)}
+{(c3)Fra(h)tres:(h.) (,) Jam(h) non(h) es(h)tis(h) hós(h)pi(h)tes(h) et(h) ád(h)ve(f)næ:(f.) †(;) sed(h) es(h)tis(h) ci(h)ves(h) Sanc(h)tó(h)rum(h) et(h) do(h)més(h)ti(h)ci(h) De(h)i:(h_') (,) su(h)per(h)æ(h)di(h)fi(h)cá(h)ti(h) su(h)per(h) fun(h)da(h)mén(h)tum(h) A(h)pos(h)to(h)ló(h)rum,(h) et(h) Pro(g)phe(f)tá(h)rum,(h.) *(;) ip(h)so(h) sum(h)mo(h) an(h)gu(h)lá(h)ri(h) lá(h)pi(h)de(h) Chris(h)to(h) Je(f)su.(ef..) (::)}
 $Deo gratias
 
 [HymnusM Laudes]

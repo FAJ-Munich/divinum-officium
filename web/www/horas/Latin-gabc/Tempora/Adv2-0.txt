@@ -2,7 +2,7 @@
 Veni, Dómine, * visitáre nos in pace, ut lætémur coram te corde perfécto.
 
 [Oratio]
-Excita, Dómine, corda nostra ad præparándas Unigéniti tui vias: ut, per ejus advéntum, purificátis tibi méntibus servíre mereámur:
+{(c3) Ex(h)ci(h)ta,(h) Dó(h)mi(h)ne,(h) cor(h)da(h) nos(h)tra(h) ad(h) præ(h)pa(h)rán(h)das(h) U(h)ni(h)gé(h)ni(h)ti(h) tu(h)i(h) vi(h)as:(f.) †(,) ut,(h) per(h) e(h)jus(g) ad(f)vén(h hr)tum,(h.) *(;) pu(h)ri(h)fi(h)cá(h)tis(h) ti(h)bi(h) mén(h)ti(h)bus(h) ser(h)ví(h)re(h) me(h)re(h)á(h dr)mur:(d.) (::)}
 $Qui tecum
 
 [Lectio1]
@@ -117,7 +117,7 @@ R. Visitáre pópulum suum in pace, et constitúere super eum vitam sempitérnam
 
 [Capitulum Laudes]
 !Rom 15:4
-v. Fratres: Quæcúmque scripta sunt, ad nostram doctrínam scripta sunt: ut per patiéntiam, et consolatiónem Scripturárum spem habeámus.
+{(c3) Fra(h)tres:(h.) (,) Quæ(h)cúm(h)que(h) scrip(h)ta(h) sunt,(h) ad(h) nos(h)tram(h) doc(h)trí(h)nam(h) scrip(h)ta(f) sunt:(f.) †(;) ut(h) per(h) pa(h)ti(h)én(h)ti(h)am,(h) et(h) con(h)so(h)la(h)ti(h)ó(h)nem(h) Scrip(g)tu(f)rá(h hr)rum(h.) *(;) spem(h) ha(h)be(h)á(f)mus.(ef..) (::)}
 $Deo gratias
 
 [Ant 2]
@@ -125,12 +125,12 @@ Joánnes autem * cum audísset in vínculis ópera Christi, mittens duos ex disc
 
 [Capitulum Sexta]
 !Rom 15:5-6
-v. Deus autem patiéntiæ, et solácii det vobis idípsum sápere in altérutrum secúndum Jesum Christum: ut unánimes uno ore honorificétis Deum, et Patrem Dómini nostri Jesu Christi.
+{(c3) De(h)us(h) au(h)tem(h) pa(h)ti(h)én(h)ti(h)æ,(h) et(h) so(h)lá(h)ci(h)i(h) det(h) vo(h)bis(h) id(h)íp(h)sum(h) sá(h)pe(h)re(h) in(h) al(h)tér(h)u(h)trum(h) se(h)cún(h)dum(h) Je(h)sum(h) Chris(h)tum:(f.) †(;) ut(h) u(h)ná(h)ni(h)mes(h) u(h)no(h) o(h)re(h) ho(h)no(h)ri(h)fi(h)cé(g)tis(f) De(h hr)um,(h.) *(;) et(h) Pa(h)trem(h) Dó(h)mi(h)ni(h) nos(h)tri(h) Je(h)su(h) Chris(f)ti.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Nona]
 !Rom 15:13
-v. Deus autem spei répleat vos omni gáudio et pace in credéndo: ut abundétis in spe, et in virtúte Spíritus Sancti.
+{(c3) De(h)us(h) au(h)tem(h) spe(h)i(h) ré(h)ple(h)at(h) vos(h) om(h)ni(h) gáu(h)di(h)o(h) et(h) pa(h)ce(h) in(g) cre(f)dén(h hr)do:(h.) *(;) ut(h) ab(h)un(h)dé(h)tis(h) in(h) spe,(h) et(h) in(h) vir(h)tú(h)te(h) Spí(h)ri(h)tus(h) Sanc(f)ti.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

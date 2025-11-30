@@ -17,12 +17,12 @@ Mementóte quod proposúerim númerum trigínta octo annórum in illo lánguido.
 Angelus Dómini * descendébat de cælo, et movebátur aqua, et sanabátur unus.
 
 [Oratio 2]
-Esto, Dómine, propítius plebi tuæ: et, quam tibi facis esse devótam, benígno réfove miserátus auxílio.
+{(c3) Es(h)to,(h) Dó(h)mi(h)ne,(h) pro(h)pí(h)ti(h)us(h) ple(h)bi(h) tu(h)æ:(f.) †(,) et,(h) quam(h) ti(h)bi(h) fa(h)cis(h) es(h)se(g) de(f)vó(h hr)tam,(h.) *(;) be(h)ní(h)gno(h) ré(h)fo(h)ve(h) mi(h)se(h)rá(h)tus(h) au(h)xí(h)li(dr)o.(d.) (::)}
 $Per Dominum
 
 [Ant 3]
 Qui me sanum fecit * ille mihi præcépit: tolle grabátum tuum, et ámbula in pace.
 
 [Oratio 3]
-Exáudi nos, miséricors Deus: et méntibus nostris grátiæ tuæ lumen osténde. 
+{(c3) Ex(h)áu(h)di(h) nos,(h) mi(h)sé(h)ri(g)cors(f) De(h hr)us:(h.) *(;) et(h) mén(h)ti(h)bus(h) nos(h)tris(h) grá(h)ti(h)æ(h) tu(h)æ(h) lu(h)men(h) os(h)tén(h dr)de.(d.) (::)}
 $Per Dominum

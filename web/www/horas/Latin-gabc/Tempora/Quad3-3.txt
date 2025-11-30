@@ -17,12 +17,12 @@ Præcéperat Dóminus, vel imbecillitátes, vel ætátes, vel penúrias paréntu
 Audíte et intellégite * traditiónes, quas Dóminus dedit nobis.
 
 [Oratio 2]
-Præsta nobis, quǽsumus, Dómine: ut salutáribus jejúniis erudíti, a nóxiis quoque vítiis abstinéntes, propitiatiónem tuam facílius impetrémus.
+{(c3) Præ(h)sta(h) no(h)bis,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne:(h_') (,) ut(h) sa(h)lu(h)tá(h)ri(h)bus(h) je(h)jú(h)ni(h)is(h) e(h)ru(h)dí(h)ti,(f.) †(,) a(h) nó(h)xi(h)is(h) quo(h)que(h) ví(h)ti(h)is(h) abs(g)ti(f)nén(h hr)tes,(h.) *(;) pro(h)pi(h)ti(h)a(h)ti(h)ó(h)nem(h) tu(h)am(h) fa(h)cí(h)li(h)us(h) im(h)pe(h)tré(h dr)mus.(d.) (::)}
 $Per Dominum
 
 [Ant 3]
 Non lotis mánibus * manducáre, non coínquinat hóminem.
 
 [Oratio 3]
-Concéde, quǽsumus, omnípotens Deus: ut, qui protectiónis tuæ grátiam quǽrimus, liberáti a malis ómnibus, secúra tibi mente serviámus.
+{(c3) Con(h)cé(h)de,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(h_') (,) ut,(h) qui(h) pro(h)tec(h)ti(h)ó(h)nis(h) tu(h)æ(h) grá(h)ti(g)am(f) quǽ(h)ri(hr)mus,(h.) *(;) li(h)be(h)rá(h)ti(h) a(h) ma(h)lis(h) óm(h)ni(h)bus,(h) se(h)cú(h)ra(h) ti(h)bi(h) men(h)te(h) ser(h)vi(h)á(h dr)mus.(d.) (::)}
 $Per Dominum

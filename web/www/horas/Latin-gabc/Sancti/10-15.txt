@@ -24,7 +24,7 @@ Nunc et per omne sǽculum.
 Amen.
 
 [Oratio]
-Exáudi nos, Deus, salutáris noster: ut sicut de beátæ Terésiæ Vírginis tuæ festivitáte gaudémus; ita cæléstis ejus doctrínæ pábulo nutriámur, et piæ devotiónis erudiámur afféctu. 
+{(c3) Ex(h)áu(h)di(h) nos,(h) De(h)us,(h) sa(h)lu(h)tá(h)ris(h) nos(h)ter:(f.) †(,) ut(h) sic(h)ut(h) de(h) be(h)á(h)tæ(h) Te(h)ré(h)si(h)æ(h) Vír(h)gi(h)nis(h) tu(h)æ(h) fes(h)ti(h)vi(h)tá(h)te(h) gau(h)dé(h)mus;(h) i(h)ta(h) cæ(h)lés(h)tis(h) e(h)jus(h) doc(h)trí(h)næ(h) pá(h)bu(h)lo(h) nu(g)tri(f)á(h hr)mur,(h.) *(;) et(h) pi(h)æ(h) de(h)vo(h)ti(h)ó(h)nis(h) e(h)ru(h)di(h)á(h)mur(h) af(h)féc(h dr)tu.(d.) (::)}
 $Per Dominum
 
 [Hymnus Laudes] (nisi rubrica cisterciensis)

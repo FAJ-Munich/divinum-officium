@@ -2,7 +2,7 @@
 Nemo te condemnávit, múlier? * Nemo, Dómine. Nec ego te condemnábo: jam ámplius noli peccáre.
 
 [Oratio]
-Concéde, quǽsumus, omnípotens Deus: ut, qui ex mérito nostræ actiónis afflígimur, tuæ grátiæ consolatióne respirémus.
+{(c3) Con(h)cé(h)de,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(,) ut,(h) qui(h) ex(h) mé(h)ri(h)to(h) nos(h)træ(h) ac(h)ti(h)ó(h)nis(g) af(f)flí(h)gi(hr)mur,(h.) *(;) tu(h)æ(h) grá(h)ti(h)æ(h) con(h)so(h)la(h)ti(h)ó(h)ne(h) re(h)spi(h)ré(h dr)mus.(d.) (::)}
 $Per Dominum
 
 [Lectio1]
@@ -129,7 +129,7 @@ Reges terræ * et omnes pópuli, laudáte Deum.
 
 [Capitulum Laudes]
 !Gal 4:22-24
-v. Fratres: Scriptum est, quóniam Abraham duos fílios hábuit: unum de ancílla, et unum de líbera: sed qui de ancílla, secúndum carnem natus est: qui autem de líbera, per repromissiónem: quæ sunt per allegoríam dicta.
+{(c3) Fra(h)tres:(h.) (,) Scrip(h)tum(h) est,(h) quón(h)i(h)am(h) A(h)bra(h)ham(h) du(h)os(h) fí(h)li(h)os(h) há(h)bu(h)it:(h_') (,) u(h)num(h) de(h) an(h)cíl(h)la,(h) et(h) u(h)num(h) de(h) lí(h)be(f)ra:(f.) †(;) sed(h) qui(h) de(h) an(h)cíl(h)la,(h) se(h)cún(h)dum(h) car(h)nem(h) na(h)tus(h) est:(h_') (,) qui(h) au(h)tem(h) de(h) lí(h)be(h)ra,(h) per(h) re(h)pro(h)mis(g)si(f)ó(h hr)nem:(h.) *(;) quæ(h) sunt(h) per(h) al(h)le(h)go(h)rí(h)am(h) dic(f)ta.(ef..) (::)}
 $Deo gratias
 
 [Ant 2]
@@ -146,7 +146,7 @@ Satiávit Dóminus * quinque míllia hóminum de quinque pánibus et duobus pís
 
 [Capitulum Sexta]
 !Gal 4:27
-v. Lætáre, stérilis, quæ non paris: erúmpe et clama, quæ non párturis: quia multi fílii desértæ, magis quam ejus, quæ habet virum.
+{(c3) Læ(h)tá(h)re,(h) sté(h)ri(h)lis,(h) quæ(h) non(h) pa(h)ris:(f.) †(;) e(h)rúm(h)pe(h) et(h) cla(h)ma,(h) quæ(g) non(f) pár(h)tu(hr)ris:(h.) *(;) qui(h)a(h) mul(h)ti(h) fí(h)li(h)i(h) de(h)sér(h)tæ,(h) ma(h)gis(h) quam(h) e(h)jus,(h) quæ(h) ha(h)bet(h) vi(f)rum.(ef..) (::)}
 $Deo gratias
 
 [Ant Nona]
@@ -154,7 +154,7 @@ Illi ergo * hómines, cum vidíssent quod fécerat Jesus signum, intra se dicéb
 
 [Capitulum Nona]
 !Gal 4:31
-v. Itaque, fratres, non sumus ancíllæ fílii, sed líberæ: qua libertáte Christus nos liberávit.
+{(c3) I(h)ta(h)que,(h) fra(h)tres,(h) non(h) su(h)mus(h) an(h)cíl(h)læ(h) fí(h)li(h)i,(g) sed(f) lí(h)be(hr)ræ:(h.) *(;) qua(h) li(h)ber(h)tá(h)te(h) Chris(h)tus(h) nos(h) li(h)be(h)rá(f)vit.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

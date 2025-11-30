@@ -116,7 +116,7 @@ R. Et sicut lac coaguláti sunt, allelúja, allelúja.
 
 [Capitulum Laudes]
 !Sap 5:1
-{(c3) Sta(h)bunt(h) jus(h)ti(h) in(h) ma(h)gna(h) con(h)stán(h)ti(h)a(f.) †(,) ad(h)vér(h)sus(h) e(h)os,(h) qui(h) se(h) an(h)gus(h)ti(g)a(f)vé(h)runt,(h.) *(;)  et(h) qui(h) abs(h)tu(h)lé(h)runt(h) la(h)bó(h)res(h) e(h)ó(f)rum.(ef..) (::)}
+{(c3) Sta(h)bunt(h) jus(h)ti(h) in(h) ma(h)gna(h) con(h)stán(h)ti(h)a(f.) †(;) ad(h)vér(h)sus(h) e(h)os,(h) qui(h) se(h) an(h)gus(h)ti(g)a(f)vé(h)runt,(h.) *(;)  et(h) qui(h) abs(h)tu(h)lé(h)runt(h) la(h)bó(h)res(h) e(h)ó(f)rum.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -144,7 +144,7 @@ R/. Mors(h) San(h)ctó(h)rum(h) e(h)jus,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E
 
 [Lectio Prima]
 !Rom 8:28
-{(c3)Sci(h)mus(h) quón(h)i(h)am(h) di(h)li(h)gén(h)ti(h)bus(h) De(h)um(f.) †(,) óm(h)ni(h)a(h) co(h)o(h)pe(h)rán(h)tur(g) in(f) bo(h)num,(h.) *(;) i(h)is(h) qui(h) se(h)cún(h)dum(h) pro(h)pó(h)si(h)tum(h) vo(h)cá(h)ti(h) sunt(h) sanc(f)ti.(ef..) (::)}
+{(c3)Sci(h)mus(h) quón(h)i(h)am(h) di(h)li(h)gén(h)ti(h)bus(h) De(h)um(f.) †(;) óm(h)ni(h)a(h) co(h)o(h)pe(h)rán(h)tur(g) in(f) bo(h)num,(h.) *(;) i(h)is(h) qui(h) se(h)cún(h)dum(h) pro(h)pó(h)si(h)tum(h) vo(h)cá(h)ti(h) sunt(h) sanc(f)ti.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. {gabc:Commune/C1/rb--sancti_et_justi--solesmes_1934}

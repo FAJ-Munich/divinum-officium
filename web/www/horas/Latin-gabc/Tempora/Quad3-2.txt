@@ -23,12 +23,12 @@ Nemo ergo dicat, quia non peccávi in Deum, sed peccávi in fratrem: in hóminem
 Si duo ex vobis * consénserint super terram: de omni re quamcúmque petíerint, fiet illis a Patre meo, dicit Dóminus.
 
 [Oratio 2]
-Exáudi nos, omnípotens et miséricors Deus: et continéntiæ salutáris propítius nobis dona concéde.
+{(c3) Ex(h)áu(h)di(h) nos,(h) om(h)ní(h)pot(h)ens(h) et(h) mi(h)sé(h)ri(g)cors(f) De(h hr)us:(h.) *(;) et(h) con(h)ti(h)nén(h)ti(h)æ(h) sa(h)lu(h)tá(h)ris(h) pro(h)pí(h)ti(h)us(h) no(h)bis(h) do(h)na(h) con(h)cé(h dr)de.(d.) (::)}
 $Per Dominum
 
 [Ant 3]
 Ubi duo vel tres * congregáti fúerint in nómine meo, in médio eórum sum, dicit Dóminus.
 
 [Oratio 3]
-Tua nos, Dómine, protectióne defénde: et ab omni semper iniquitáte custódi.
+{(c3) Tu(h)a(h) nos,(h) Dó(h)mi(h)ne,(h) pro(h)tec(h)ti(h)ó(h)ne(g) de(f)fén(h hr)de:(h.) *(;) et(h) ab(h) om(h)ni(h) sem(h)per(h) in(h)i(h)qui(h)tá(h)te(h) cus(h)tó(h dr)di.(d.) (::)}
 $Per Dominum

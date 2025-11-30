@@ -1,5 +1,5 @@
 [Oratio]
-Omnípotens sempitérne Deus, qui per continéntiam salutárem corpóribus medéris et méntibus: majestátem tuam súpplices exorámus; ut pia jejunántium deprecatióne placátus, et præséntia nobis subsídia tríbuas, et futúra. 
+{(c3) Om(h)ní(h)pot(h)ens(h) sem(h)pi(h)tér(h)ne(h) De(h)us,(h) qui(h) per(h) con(h)ti(h)nén(h)ti(h)am(h) sa(h)lu(h)tá(h)rem(h) cor(h)pó(h)ri(h)bus(h) me(h)dé(h)ris(h) et(h) mén(h)ti(f)bus:(f.) †(,) ma(h)jes(h)tá(h)tem(h) tu(h)am(h) súp(h)pli(h)ces(h) ex(g)o(f)rá(h hr)mus;(h.) *(;) ut(h) pi(h)a(h) je(h)ju(h)nán(h)ti(h)um(h) de(h)pre(h)ca(h)ti(h)ó(h)ne(h) pla(h)cá(h)tus,(h) et(h) præ(h)sén(h)ti(h)a(h) no(h)bis(h) sub(h)sí(h)di(h)a(h) trí(h)bu(h)as,(h) et(h) fu(h)tú(h dr)ra.(d.) (::)}
 $Per Dominum
 
 [Lectio1]

@@ -17,12 +17,12 @@ Est ergo lux, quæ fecit hanc lucem. Hanc amémus, hanc intellégere cupiámus, 
 Qui séquitur me, * non ámbulat in ténebris: sed habébit lumen vitæ, dicit Dóminus.
 
 [Oratio 2]
-Fiat, Dómine, quǽsumus, per grátiam tuam fructuósus nostræ devotiónis afféctus: quia tunc nobis próderunt suscépta jejúnia, si tuæ sint plácita pietáti. 
+{(c3) Fi(h)at,(h) Dó(h)mi(h)ne,(h) quǽ(h)su(h)mus,(h) per(h) grá(h)ti(h)am(h) tu(h)am(h) fruc(h)tu(h)ó(h)sus(h) nos(h)træ(h) de(h)vo(h)ti(h)ó(h)nis(h) af(h)féc(h)tus:(f.) †(,) qui(h)a(h) tunc(h) no(h)bis(h) pród(h)e(h)runt(h) su(h)scép(h)ta(g) je(f)jú(h)ni(hr)a,(h.) *(;) si(h) tu(h)æ(h) sint(h) plá(h)ci(h)ta(h) pi(h)e(h)tá(h dr)ti.(d.) (::)}
 $Per Dominum
 
 [Ant 3]
 {name:Ego sum qui testimonium;office-part:Antiphona;annotation:8.G;book:The Liber Usualis, 1961, p. 568 & Liber antiphonarius, 1960, p. 407;transcriber:Andrew Hinkley;%%(c4) E(g)go(g) sum(g.) *(,) qui(fd) te(e)sti(f)mó(gh)ni(h)um(g) per(g)hí(h)be(g)o(g) de(h_i) me(gh)í(g)pso :(f.) (;) et(g) te(g)sti(g)mó(gh)ni(g)um(f) pér(g')hi(h)bet(j) de(j) me,(i'_[oh:h]) (,) qui(g) mi(i_[uh:l]j)sit(h) me(i) Pa(g.)ter.(g.) (::)};;8G
 
 [Oratio 3]
-Quǽsumus, omnípotens Deus, famíliam tuam propítius réspice: ut, te largiénte, regátur in córpore; et, te servánte, custodiátur in mente.
+{(c3) Quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us,(h) fa(h)mí(h)li(h)am(h) tu(h)am(h) pro(h)pí(h)ti(h)us(h) ré(h)spi(f)ce:(f.) †(,) ut,(h) te(h) lar(h)gi(h)én(h)te,(h) re(h)gá(h)tur(g) in(f) cór(h)po(hr)re;(h.) *(;) et,(h) te(h) ser(h)ván(h)te,(h) cus(h)to(h)di(h)á(h)tur(h) in(h) men(h dr)te.(d.) (::)}
 $Per Dominum

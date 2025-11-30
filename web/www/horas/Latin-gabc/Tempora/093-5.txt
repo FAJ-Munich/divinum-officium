@@ -1,5 +1,5 @@
 [Oratio] (nisi ad vesperam aut rubrica 196)
-Præsta, quǽsumus, omnípotens Deus: ut observatiónes sacras ánnua devotióne recoléntes, et córpore tibi placeámus, et mente.
+{(c3) Præ(h)sta,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(,) ut(h) ob(h)ser(h)va(h)ti(h)ó(h)nes(h) sa(h)cras(h) án(h)nu(h)a(h) de(h)vo(h)ti(h)ó(h)ne(h) re(g)co(f)lén(h hr)tes,(h.) *(;) et(h) cór(h)po(h)re(h) ti(h)bi(h) pla(h)ce(h)á(h)mus,(h) et(h) men(h dr)te.(d.) (::)}
 $Per Dominum
 
 [Lectio1]

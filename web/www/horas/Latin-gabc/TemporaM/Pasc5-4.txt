@@ -59,8 +59,8 @@ R. Quemádmodum vidístis eum ascendéntem in cælum, ita véniet, † allelúja
 @Tempora/Pasc0-3:Responsory1:3 s/V./v./
 $Deo gratias
 _
-V. Exaltáre, Dómine, allelúja, in virtúte tua, allelúja.
-R. Cantábimus et psallémus virtútes tuas, allelúja.
+{initial-style:0;%%(c3) V/. Ex(h)al(h)tá(h)re,(h) Dó(h)mi(h)ne,(h) al(h)le(h)lú(h)ja,(h) in(h) vir(h)tú(h)te(h) tu(h)a,(h) al(h)le(h)lú(h)ja.(f.) (::)
+R/. Can(h)tá(h)bi(h)mus(h) et(h) psal(h)lé(h)mus(h) vir(h)tú(h)tes(h) tu(h)as,(h) al(h)le(h)lú(h)ja.(f.) (::)}
 
 [MM LB]
 !He 6:18-20

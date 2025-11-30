@@ -1,5 +1,5 @@
 [Oratio]
-Da, quǽsumus, Dómine, pópulo tuo diabólica vitáre contágia: et te solum Deum pura mente sectári.
+{(c3) Da,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) pó(h)pu(h)lo(h) tu(h)o(h) di(h)a(h)bó(h)li(h)ca(h) vi(h)tá(h)re(g) con(f)tá(h)gi(hr)a:(h.) *(;) et(h) te(h) so(h)lum(h) De(h)um(h) pu(h)ra(h) men(h)te(h) sec(h)tá(h dr)ri.(d.) (::)}
 $Per Dominum
 
 [Lectio7]

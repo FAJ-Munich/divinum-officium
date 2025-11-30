@@ -1,5 +1,5 @@
 [Oratio]
-Deus, qui diversitátem géntium in confessióne tui nóminis adunásti: da, ut renátis fonte baptísmatis una sit fides méntium et píetas actiónum.
+{(c3) De(h)us,(h) qui(h) di(h)ver(h)si(h)tá(h)tem(h) gén(h)ti(h)um(h) in(h) con(h)fes(h)si(h)ó(h)ne(h) tu(h)i(h) nó(h)mi(h)nis(h) ad(h)u(h)nás(h)ti:(f.) †(,) da,(h) ut(h) re(h)ná(h)tis(h) fon(h)te(g) bap(f)tís(h)ma(hr)tis(h.) *(;) u(h)na(h) sit(h) fi(h)des(h) mén(h)ti(h)um(h) et(h) pí(h)e(h)tas(h) ac(h)ti(h)ó(h dr)num.(d.) (::)}
 $Per Dominum
 
 [Lectio1]

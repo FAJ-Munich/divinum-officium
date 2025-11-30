@@ -58,7 +58,7 @@ At contra, hi qui de falsa justítia superbíre solent, céteros quosque despíc
 
 [Capitulum Laudes]
 !1 Pet 5:6-7
-v. Caríssimi, humiliámini sub poténti manu Dei, ut vos exáltet in témpore visitatiónis; omnem sollicitúdinem vestram proiciéntes in eum, quóniam ipsi cura est de vobis.
+{(c3) Ca(h)rís(h)si(h)mi,(h) hu(h)mi(h)li(h)á(h)mi(h)ni(h) sub(h) pot(h)én(h)ti(h) ma(h)nu(h) De(h)i,(h) ut(h) vos(h) ex(h)ál(h)tet(h) in(h) tém(h)po(h)re(h) vi(h)si(h)ta(h)ti(h)ó(h)nis;(f.) †(;) om(h)nem(h) sol(h)li(h)ci(h)tú(h)di(h)nem(h) ves(h)tram(h) pro(h)i(h)ci(h)én(h)tes(g) in(f) e(h hr)um,(h.) *(;) quón(h)i(h)am(h) ip(h)si(h) cu(h)ra(h) est(h) de(h) vo(f)bis.(ef..) (::)}
 $Deo gratias
 
 [Ant 2]
@@ -66,12 +66,12 @@ Quis ex vobis * homo, qui habet centum oves et, si perdíderit unam ex illis, no
 
 [Capitulum Sexta]
 !1 Pet 5:8-9
-v. Sóbrii estóte, et vigiláte: quia adversárius vester diábolus tamquam leo rúgiens círcuit, quærens quem dévoret: cui resístite fortes in fide, sciéntes eámdem passiónem ei, quæ in mundo est, vestræ fraternitáti fíeri.
+{(c3) Só(h)bri(h)i(h) es(h)tó(h)te,(h) et(h) vi(h)gi(h)lá(h)te:(h_') (,) qui(h)a(h) ad(h)ver(h)sá(h)ri(h)us(h) ves(h)ter(h) di(h)á(h)bo(h)lus(h) tam(h)quam(h) le(h)o(h) rú(h)gi(h)ens(h) cír(h)cu(h)it,(h) quæ(h)rens(h) quem(h) dé(h)vo(f)ret:(f.) †(;) cu(h)i(h) re(h)sís(h)ti(h)te(h) for(h)tes(g) in(f) fi(h hr)de,(h.) *(;) sci(h)én(h)tes(h) e(h)ám(h)dem(h) pas(h)si(h)ó(h)nem(h) e(h)i,(h) quæ(h) in(h) mun(h)do(h) est,(h) ves(h)træ(h) fra(h)ter(h)ni(h)tá(h)ti(h) fí(h)e(f)ri.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Nona]
 !1 Pet 5:10-11
-v. Deus autem omnis grátiæ, qui vocávit nos in ætérnam suam glóriam in Christo Jesu, módicum passos ipse perfíciet, confirmábit solidabítque. Ipsi glória et impérium in sǽcula sæculórum. Amen.
+{(c3) De(h)us(h) au(h)tem(h) om(h)nis(h) grá(h)ti(h)æ,(h) qui(h) vo(h)cá(h)vit(h) nos(h) in(h) æ(h)tér(h)nam(h) su(h)am(h) gló(h)ri(h)am(h) in(h) Chris(h)to(h) Je(h)su,(f.) †(;) mó(h)di(h)cum(h) pas(h)sos(h) ip(h)se(h) per(h)fí(h)ci(h)et,(h) con(h)fir(h)má(h)bit(h) so(h)li(g)da(f)bít(h hr)que.(h.) *(;) Ip(h)si(h) gló(h)ri(h)a(h) et(h) im(h)pé(h)ri(h)um(h) in(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(h) A(f)men.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

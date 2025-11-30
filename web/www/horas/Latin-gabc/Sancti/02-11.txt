@@ -9,7 +9,7 @@ Hódie nomen tuum * ita magnificávit Dóminus, ut non recédat laus tua de ore 
 Ista est * colúmba mea, perfécta mea, immaculáta mea.
 
 [Oratio]
-Deus, qui per immaculátam Vírginis Conceptiónem dignum Fílio tuo habitáculum præparásti: súpplices a te quǽsumus; ut, ejúsdem Vírginis Apparitiónem celebrántes, salútem mentis et córporis consequámur.
+{(c3) De(h)us,(h) qui(h) per(h) im(h)ma(h)cu(h)lá(h)tam(h) Vír(h)gi(h)nis(h) Con(h)cep(h)ti(h)ó(h)nem(h) di(h)gnum(h) Fí(h)li(h)o(h) tu(h)o(h) ha(h)bi(h)tá(h)cu(h)lum(h) præ(h)pa(h)rás(h)ti:(f.) †(,) súp(h)pli(h)ces(h) a(h) te(h) quǽ(h)su(h)mus;(h) ut,(h) e(h)jús(h)dem(h) Vír(h)gi(h)nis(h) Ap(h)pa(h)ri(h)ti(h)ó(h)nem(h) ce(g)le(f)brán(h hr)tes,(h.) *(;) sa(h)lú(h)tem(h) men(h)tis(h) et(h) cór(h)po(h)ris(h) con(h)se(h)quá(h dr)mur.(d.) (::)}
 $Per eumdem
 
 [Hymnus Matutinum]
@@ -119,7 +119,7 @@ Hódie nomen tuum * ita magnificávit Dóminus, ut non recédat laus tua de ore 
 
 [Capitulum Laudes]
 !Cant 2:13-14
-v. Surge, amíca mea, speciósa mea, et veni, colúmba mea, in foramínibus petræ, in cavérna macériæ, osténde mihi fáciem tuam, sonet vox tua in áuribus meis.
+{(c3) Sur(h)ge,(h) a(h)mí(h)ca(h) me(h)a,(h) spe(h)ci(h)ó(h)sa(h) me(h)a,(h) et(h) ve(h)ni,(f.) †(;) co(h)lúm(h)ba(h) me(h)a,(h) in(h) fo(h)ra(h)mí(h)ni(h)bus(h) pe(h)træ,(h) in(h) ca(h)vér(h)na(g) ma(f)cé(h)ri(hr)æ,(h.) *(;) os(h)tén(h)de(h) mi(h)hi(h) fá(h)ci(h)em(h) tu(h)am,(h) so(h)net(h) vox(h) tu(h)a(h) in(h) áu(h)ri(h)bus(h) me(f)is.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -159,7 +159,7 @@ Præclára salútis auróra, * ex te, Virgo María, exívit sol justítiæ, qui 
 
 [Lectio Prima]
 !Sir 24:25-26
-v. In me grátia omnis viæ et veritátis, in me omnis spes vitæ et virtútis. Transíte ad me, omnes qui concupíscitis me, et a generatiónibus meis implémini.
+{(c3) In(h) me(h) grá(h)ti(h)a(h) om(h)nis(h) vi(h)æ(h) et(h) ve(h)ri(h)tá(h)tis,(f.) †(;) in(h) me(h) om(h)nis(h) spes(h) vi(h)tæ(h) et(g) vir(f)tú(h hr)tis.(h.) *(;) Trans(h)í(h)te(h) ad(h) me,(h) om(h)nes(h) qui(h) con(h)cu(h)pí(h)sci(h)tis(h) me,(h) et(h) a(h) ge(h)ne(h)ra(h)ti(h)ó(h)ni(h)bus(h) me(h)is(h) im(h)plé(h)mi(f)ni.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Quæ est ista quæ ascéndit de desérto, * Delíciis áffluens?
@@ -175,7 +175,7 @@ R/.Et(h) be(h)a(h)tís(h)si(h)mam(h) præ(h)di(h)ca(h)vé(h)runt.(g_'/hvGF'E!fgf
 
 [Capitulum Sexta]
 !Prov 8:18-19
-v. Mecum sunt divítiæ et glória, opes supérbæ et justítia: mélior est enim fructus meus auro et lápide pretióso.
+{(c3) Me(h)cum(h) sunt(h) di(h)ví(h)ti(h)æ(h) et(h) gló(h)ri(f)a,(f.) †(;) o(h)pes(h) su(h)pér(h)bæ(h) et(g) jus(f)tí(h)ti(hr)a:(h.) *(;) mé(h)li(h)or(h) est(h) e(h)nim(h) fruc(h)tus(h) me(h)us(h) au(h)ro(h) et(h) lá(h)pi(h)de(h) pre(h)ti(h)ó(f)so.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

@@ -118,7 +118,7 @@ R. Et vos símiles homínibus exspectántibus dóminum suum, quando revertátur 
 
 [Capitulum Laudes]
 !Sir 44:16-17
-{(c3) Ec(h)ce(h) sa(h)cér(h)dos(h) ma(h)gnus,(f.) †(,) qui(h) in(h) di(h)é(h)bus(h) su(h)is(h) plá(h)cu(h)it(h) De(h)o,(h) et(h) in(h)vén(h)tus(g) est(f) jus(h)tus:(h.) *(;) et(h) in(h) tém(h)po(h)re(h) i(h)ra(h)cún(h)di(h)æ(h) fac(h)tus(h) est(h) re(h)con(h)ci(h)li(h)á(f)ti(e)o.(ef..) (::)}
+{(c3) Ec(h)ce(h) sa(h)cér(h)dos(h) ma(h)gnus,(f.) †(;) qui(h) in(h) di(h)é(h)bus(h) su(h)is(h) plá(h)cu(h)it(h) De(h)o,(h) et(h) in(h)vén(h)tus(g) est(f) jus(h)tus:(h.) *(;) et(h) in(h) tém(h)po(h)re(h) i(h)ra(h)cún(h)di(h)æ(h) fac(h)tus(h) est(h) re(h)con(h)ci(h)li(h)á(f)ti(e)o.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -172,7 +172,7 @@ R/. Et(h) os(h)tén(h)dit(h) il(h)li(h) reg(h)num(h) De(h)i,(h_') (,) al(h)le(h)
 
 [Lectio Prima]
 !Sir 45:19-20
-{(c3) Fun(h)gi(h) sa(h)cer(h)dó(h)ti(f)o,(f.) †(,) et(h) ha(h)bé(h)re(h) lau(h)dem(h) in(h) nó(h)mi(h)ne(g) ip(f)sí(h)us,(h.) *(;) et(h) of(h)fér(h)re(h) il(h)li(h) in(h)cén(h)sum(h) di(h)gnum(h) in(h) o(h)dó(h)rem(h) su(h)a(h)vi(h)tá(f)tis.(ef..) (::)}
+{(c3) Fun(h)gi(h) sa(h)cer(h)dó(h)ti(f)o,(f.) †(;) et(h) ha(h)bé(h)re(h) lau(h)dem(h) in(h) nó(h)mi(h)ne(g) ip(f)sí(h)us,(h.) *(;) et(h) of(h)fér(h)re(h) il(h)li(h) in(h)cén(h)sum(h) di(h)gnum(h) in(h) o(h)dó(h)rem(h) su(h)a(h)vi(h)tá(f)tis.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. {gabc:Commune/C4/rb--amavit_eum_dominus--solesmes_1961.1}
@@ -181,7 +181,7 @@ R.br. {gabc:Commune/C4/rb--amavit_eum_dominus_resp._br._t.p.--solesmes_1961.1}
 
 [Capitulum Sexta]
 !Sir 44:20; 44:22
-{(c3) Non(h) est(h) in(h)vén(h)tus(h) sí(h)mi(h)lis(h) il(h)li,(f.) †(,) qui(h) con(h)ser(h)vá(h)ret(h) le(h)gem(g) Ex(f)cél(h)si:(h.) *(;) íd(h)e(h)o(h) ju(h)re(h)ju(h)rán(h)do(h) fe(h)cit(h) il(h)lum(h) Dó(h)mi(h)nus(h) cré(h)sce(h)re(h) in(h) ple(h)bem(h) su(f)am.(ef..) (::)}
+{(c3) Non(h) est(h) in(h)vén(h)tus(h) sí(h)mi(h)lis(h) il(h)li,(f.) †(;) qui(h) con(h)ser(h)vá(h)ret(h) le(h)gem(g) Ex(f)cél(h)si:(h.) *(;) íd(h)e(h)o(h) ju(h)re(h)ju(h)rán(h)do(h) fe(h)cit(h) il(h)lum(h) Dó(h)mi(h)nus(h) cré(h)sce(h)re(h) in(h) ple(h)bem(h) su(f)am.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

@@ -2,7 +2,7 @@
 Montes Gélboë, * nec ros nec plúvia véniant super vos: quia in te abjéctus est clípeus fórtium, clípeus Saul, quasi non esset unctus óleo. Quómodo cecidérunt fortes in bello? Jónathas in excélsis interféctus est: Saul et Jónathas, amábiles et decóri valde in vita sua, in morte quoque non sunt divísi.
 
 [Oratio]
-Deus, qui diligéntibus te bona invisibília præparásti: infúnde córdibus nostris tui amóris afféctum; ut te in ómnibus et super ómnia diligéntes, promissiónes tuas, quæ omne desidérium súperant, consequámur.
+{(c3) De(h)us,(h) qui(h) di(h)li(h)gén(h)ti(h)bus(h) te(h) bo(h)na(h) in(h)vi(h)si(h)bí(h)li(h)a(h) præ(h)pa(h)rás(h)ti:(f.) †(,) in(h)fún(h)de(h) cór(h)di(h)bus(h) nos(h)tris(h) tu(h)i(h) a(h)mó(h)ris(h) af(h)féc(h)tum;(h) ut(h) te(h) in(h) óm(h)ni(h)bus(h) et(h) su(h)per(h) óm(h)ni(h)a(h) di(g)li(f)gén(h hr)tes,(h.) *(;) pro(h)mis(h)si(h)ó(h)nes(h) tu(h)as,(h) quæ(h) om(h)ne(h) de(h)si(h)dé(h)ri(h)um(h) sú(h)pe(h)rant,(h) con(h)se(h)quá(h dr)mur.(d.) (::)}
 $Per Dominum
 
 [Lectio1]

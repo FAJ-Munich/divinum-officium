@@ -2,7 +2,7 @@
 Vade, Anania, * et quære Saulum: ecce enim orat: quia vas electiónis est mihi, ut portet nomen meum coram géntibus, et régibus, et fíliis Israël.
 
 [Oratio]
-Deus, qui univérsum mundum beáti Pauli Apóstoli prædicatióne docuísti: da nobis, quǽsumus; ut, qui ejus hódie Conversiónem cólimus, per ejus ad te exémpla gradiámur.
+{(c3) De(h)us,(h) qui(h) u(h)ni(h)vér(h)sum(h) mun(h)dum(h) be(h)á(h)ti(h) Pau(h)li(h) A(h)pós(h)to(h)li(h) præ(h)di(h)ca(h)ti(h)ó(h)ne(h) do(h)cu(h)ís(h)ti:(f.) †(,) da(h) no(h)bis,(h) quǽ(h)su(h)mus;(h) ut,(h) qui(h) e(h)jus(h) hó(h)di(h)e(h) Con(h)ver(h)si(h)ó(g)nem(f) có(h)li(hr)mus,(h.) *(;) per(h) e(h)jus(h) ad(h) te(h) ex(h)ém(h)pla(h) gra(h)di(h)á(h dr)mur.(d.) (::)}
 $Per Dominum
 _
 @Sancti/01-25:Commemoratio4
@@ -15,16 +15,16 @@ Laudémus Deum nostrum, * In conversióne Doctóris géntium.
 
 [Capitulum Laudes]
 !Act 9:1-2
-v. Saulus autem adhuc spirans minárum et cædis in discípulos Dómini, accéssit ad príncipem sacerdótum, et pétiit ab eo epístolas in Damáscum ad synagógas: ut si quos invenísset hujus viæ viros ac mulíeres, vinctos perdúceret in Jerúsalem.
+{(c3) Sau(h)lus(h) au(h)tem(h) ad(h)huc(h) spi(h)rans(h) mi(h)ná(h)rum(h) et(h) cæ(h)dis(h) in(h) di(h)scí(h)pu(h)los(h) Dó(h)mi(h)ni,(h) ac(h)cés(h)sit(h) ad(h) prín(h)ci(h)pem(h) sa(h)cer(h)dó(h)tum,(f.) †(;) et(h) pé(h)ti(h)it(h) ab(h) e(h)o(h) e(h)pís(h)to(h)las(h) in(h) Da(h)más(h)cum(h) ad(h) sy(g)na(f)gó(h hr)gas:(h.) *(;) ut(h) si(h) quos(h) in(h)ve(h)nís(h)set(h) hu(h)jus(h) vi(h)æ(h) vi(h)ros(h) ac(h) mu(h)lí(h)e(h)res,(h) vinc(h)tos(h) per(h)dú(h)ce(h)ret(h) in(h) Je(h)rú(h)sa(f)lem.(ef..) (::)}
 $Deo gratias
 
 [Lectio Prima]
 !Act 9:22
-v. Saulus autem multo magis convalescébat, et confundébat Judǽos qui habitábant Damásci, affírmans quóniam hic est Christus.
+{(c3) Sau(h)lus(h) au(h)tem(h) mul(h)to(h) ma(h)gis(h) con(h)va(h)le(h)scé(h)bat,(f.) †(;) et(h) con(h)fun(h)dé(h)bat(h) Ju(h)dǽ(h)os(h) qui(h) ha(h)bi(h)tá(h)bant(g) Da(f)má(h hr)sci,(h.) *(;) af(h)fír(h)mans(h) quón(h)i(h)am(h) hic(h) est(h) Chris(f)tus.(ef..) (::)}
 
 [Capitulum Sexta]
 !Act 9:8-9
-v. Surréxit autem Saulus de terra, apertísque óculis nihil vidébat. Ad manus autem illum trahéntes, introduxérunt Damáscum. Et erat ibi tribus diébus non videns, et non manducávit neque bibit.
+{(c3) Sur(h)ré(h)xit(h) au(h)tem(h) Sau(h)lus(h) de(h) ter(h)ra,(h) a(h)per(h)tís(h)que(h) ó(h)cu(h)lis(h) ni(h)hil(h) vi(h)dé(h)bat.(f.) †(;) Ad(h) ma(h)nus(h) au(h)tem(h) il(h)lum(h) tra(h)hén(h)tes,(h) in(h)tro(h)du(h)xé(h)runt(g) Da(f)más(h hr)cum.(h.) *(;) Et(h) e(h)rat(h) i(h)bi(h) tri(h)bus(h) di(h)é(h)bus(h) non(h) vi(h)dens,(h) et(h) non(h) man(h)du(h)cá(h)vit(h) ne(h)que(h) bi(f)bit.(ef..) (::)}
 $Deo gratias
 
 [Ant Vespera 3] (nisi rubrica cisterciensis)

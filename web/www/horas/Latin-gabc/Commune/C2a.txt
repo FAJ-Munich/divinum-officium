@@ -1,5 +1,5 @@
 [Oratio altera]
-{(c3)Da,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(h) ut,(h) qui(h) be(h)á(h)ti(h) N. Már(h)ty(h)ris(h) tu(h)i,(h) so(h)lém(h)ni(h)a(h) có(h)li(h)mus,(h) e(h)jus(h) a(h)pud(h) te(h) in(h)ter(h)ces(h)si(h)ó(h)ni(h)bus(h) ad(g)ju(f)vé(h hr)mur.(h.) (::)}
+{(c3)Da,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(h_') (,) ut,(h) qui(h) be(h)á(h)ti(h) N. Már(h)ty(h)ris(h) tu(h)i,(h) so(h)lém(h)ni(h)a(h) có(h)li(h)mus,(h) e(h)jus(h) a(h)pud(h) te(h) in(h)ter(h)ces(h)si(h)ó(h)ni(h)bus(h) ad(g)ju(f)vé(h hr)mur.(h.) (::)}
 $Per Dominum
 
 [Oratio]

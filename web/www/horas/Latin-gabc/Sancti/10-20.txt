@@ -31,7 +31,7 @@ Novum canámus cánticum.
 Amen.
 
 [Oratio]
-Da, quǽsumus, omnípotens Deus: ut, sancti Joánnis Confessóris exémplo in sciéntia Sanctórum proficiéntes, atque áliis misericórdiam exhibéntes; ejus méritis, indulgéntiam apud te consequámur.
+{(c3) Da,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(,) ut,(h) sanc(h)ti(h) Jo(h)án(h)nis(h) Con(h)fes(h)só(h)ris(h) ex(h)ém(h)plo(h) in(h) sci(h)én(h)ti(h)a(h) Sanc(h)tó(h)rum(h) pro(h)fi(h)ci(h)én(h)tes,(h) at(h)que(h) á(h)li(h)is(h) mi(h)se(h)ri(h)cór(h)di(h)am(h) ex(g)hi(f)bén(h hr)tes;(h.) *(;) e(h)jus(h) mé(h)ri(h)tis,(h) in(h)dul(h)gén(h)ti(h)am(h) a(h)pud(h) te(h) con(h)se(h)quá(h dr)mur.(d.) (::)}
 $Per Dominum
 
 [Hymnus Matutinum]

@@ -2,7 +2,7 @@
 O beátum virum, * cujus ánima paradísum póssidet! Unde exsúltant Ángeli, lætántur Archángeli, chorus Sanctórum proclámat, turba Vírginum invítat: Mane nobíscum in ætérnum.
 
 [Oratio]
-Deus, qui cónspicis, quia ex nulla nostra virtúte subsístimus: concéde propítius; ut, intercessióne beáti Martíni Confessóris tui atque Pontíficis, contra ómnia advérsa muniámur.
+{(c3) De(h)us,(h) qui(h) cón(h)spi(h)cis,(h) qui(h)a(h) ex(h) nul(h)la(h) nos(h)tra(h) vir(h)tú(h)te(h) sub(h)sís(h)ti(f)mus:(f.) †(,) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut,(h) in(h)ter(h)ces(h)si(h)ó(h)ne(h) be(h)á(h)ti(h) Mar(h)tí(h)ni(h) Con(h)fes(h)só(h)ris(h) tu(h)i(h) at(h)que(g) Pon(f)tí(h)fi(hr)cis,(h.) *(;) con(h)tra(h) óm(h)ni(h)a(h) ad(h)vér(h)sa(h) mu(h)ni(h)á(h dr)mur.(d.) (::)}
 $Per Dominum
 
 [Invit]

@@ -6,7 +6,7 @@ R/.Et(h) ha(h)bi(h)tá(h)vit(h) in(h) no(h)bis,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'
 Dum médium siléntium * tenérent ómnia, et nox in suo cursu médium iter perágeret, omnípotens Sermo tuus, Dómine, a regálibus sédibus venit, allelúja.
 
 [Oratio]
-Omnípotens sempitérne Deus, dírige actus nostros in beneplácito tuo: ut in nómine dilécti Fílii tui mereámur bonis opéribus abundáre:
+{(c3) Om(h)ní(h)pot(h)ens(h) sem(h)pi(h)tér(h)ne(h) De(h)us,(h) dí(h)ri(h)ge(h) ac(h)tus(h) nos(h)tros(h) in(h) be(h)ne(h)plá(h)ci(h)to(h) tu(h)o:(f.) †(,) ut(h) in(h) nó(h)mi(h)ne(h) di(h)léc(h)ti(h) Fí(h)li(g)i(f) tu(h hr)i(h.) *(;) me(h)re(h)á(h)mur(h) bo(h)nis(h) o(h)pé(h)ri(h)bus(h) ab(h)un(h)dá(h dr)re:(d.) (::)}
 $Qui tecum
 
 [Lectio4]
@@ -46,16 +46,16 @@ Prophetávit ítaque Simeon, prophetáverat virgo, prophetáverat copuláta conj
 
 [Capitulum Laudes]
 !Gal 4:1-2
-v. Fratres: Quanto témpore heres párvulus est, nihil differt a servo, cum sit dóminus ómnium: sed sub tutóribus et actóribus est usque ad præfínitum tempus a patre.
+{(c3) Fra(h)tres:(h.) (,) Quan(h)to(h) tém(h)po(h)re(h) he(h)res(h) pár(h)vu(h)lus(h) est,(h) ni(h)hil(h) dif(h)fert(h) a(h) ser(h)vo,(h) cum(h) sit(h) dó(h)mi(h)nus(h) óm(h)ni(f)um:(f.) †(;) sed(h) sub(h) tu(h)tó(h)ri(h)bus(h) et(h) ac(h)tó(g)ri(f)bus(h hr) est(h.) *(;) us(h)que(h) ad(h) præ(h)fí(h)ni(h)tum(h) tem(h)pus(h) a(h) pa(f)tre.(ef..) (::)}
 $Deo gratias
 
 [Lectio Prima]
 !Gal 4:7
-v. Itaque jam non est servus, sed fílius: quod si fílius, et hæres per Deum.
+{(c3) I(h)ta(h)que(h) jam(h) non(h) est(h) ser(h)vus,(g) sed(f) fí(h)li(hr)us:(h.) *(;) quod(h) si(h) fí(h)li(h)us,(h) et(h) hæ(h)res(h) per(h) De(f)um.(ef..) (::)}
 
 [Capitulum Sexta]
 !Gal 4:4-5
-v. At ubi venit plenitúdo témporis, misit Deus Fílium suum factum ex mulíere, factum sub lege, ut eos, qui sub lege erant, redímeret, ut adoptiónem filiórum reciperémus.
+{(c3) At(h) u(h)bi(h) ve(h)nit(h) ple(h)ni(h)tú(h)do(h) tém(h)po(f)ris,(f.) †(;) mi(h)sit(h) De(h)us(h) Fí(h)li(h)um(h) su(h)um(h) fac(h)tum(h) ex(h) mu(h)lí(h)e(h)re,(h) fac(h)tum(h) sub(h) le(h)ge,(h) ut(h) e(h)os,(h) qui(h) sub(h) le(h)ge(h) e(h)rant,(g) red(f)í(h)me(hr)ret,(h.) *(;) ut(h) ad(h)op(h)ti(h)ó(h)nem(h) fi(h)li(h)ó(h)rum(h) re(h)ci(h)pe(h)ré(f)mus.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

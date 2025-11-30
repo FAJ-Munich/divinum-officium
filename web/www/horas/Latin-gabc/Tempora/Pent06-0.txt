@@ -2,7 +2,7 @@
 Obsecro, Dómine, * aufer iniquitátem servi tui, quia insipiénter egi.
 
 [Oratio]
-Deus virtútum, cujus est totum quod est óptimum: ínsere pectóribus nostris amórem tui nóminis, et præsta in nobis religiónis augméntum; ut, quæ sunt bona, nútrias, ac pietátis stúdio, quæ sunt nutríta, custódias.
+{(c3) De(h)us(h) vir(h)tú(h)tum,(h) cu(h)jus(h) est(h) to(h)tum(h) quod(h) est(h) óp(h)ti(f)mum:(f.) †(,) ín(h)se(h)re(h) pec(h)tó(h)ri(h)bus(h) nos(h)tris(h) a(h)mó(h)rem(h) tu(h)i(h) nó(h)mi(h)nis,(h) et(h) præ(h)sta(h) in(h) no(h)bis(h) re(h)li(h)gi(h)ó(h)nis(g) aug(f)mén(h hr)tum;(h.) *(;) ut,(h) quæ(h) sunt(h) bo(h)na,(h) nú(h)tri(h)as,(h) ac(h) pi(h)e(h)tá(h)tis(h) stú(h)di(h)o,(h) quæ(h) sunt(h) nu(h)trí(h)ta,(h) cus(h)tó(h)di(dr)as.(d.) (::)}
 $Per Dominum
 
 [Lectio1]

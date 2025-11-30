@@ -13,7 +13,7 @@
 {gabc:tenebrae/an--considerabam_ad_dexteram--solesmes_1934};;141;;7a
 
 [Oratio Matutinum]
-v. Réspice, quǽsumus, Dómine, super hanc famíliam tuam, pro qua Dóminus noster Jesus Christus non dubitávit mánibus tradi nocéntium, et crucis subíre torméntum:
+Réspice, quǽsumus, Dómine, super hanc famíliam tuam, pro qua Dóminus noster Jesus Christus non dubitávit mánibus tradi nocéntium, et crucis subíre torméntum:
 !Et sub silentio concluditur
 $Qui tecum
 

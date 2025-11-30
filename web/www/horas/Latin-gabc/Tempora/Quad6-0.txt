@@ -2,7 +2,7 @@
 Pater juste, * mundus te non cognóvit: ego autem novi te, quia tu me misísti.
 
 [Oratio]
-Omnípotens sempitérne Deus, qui humáno géneri, ad imitándum humilitátis exémplum, Salvatórem nostrum carnem súmere, et crucem subíre fecísti: concéde propítius; ut et patiéntiæ ipsíus habére documénta, et resurrectiónis consórtia mereámur.
+{(c3) Om(h)ní(h)pot(h)ens(h) sem(h)pi(h)tér(h)ne(h) De(h)us,(h) qui(h) hu(h)má(h)no(h) gé(h)ne(h)ri,(h) ad(h) i(h)mi(h)tán(h)dum(h) hu(h)mi(h)li(h)tá(h)tis(h) ex(h)ém(h)plum,(h) Sal(h)va(h)tó(h)rem(h) nos(h)trum(h) car(h)nem(h) sú(h)me(h)re,(h) et(h) cru(h)cem(h) sub(h)í(h)re(h) fe(h)cís(h)ti:(f.) †(,) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut(h) et(h) pa(h)ti(h)én(h)ti(h)æ(h) ip(h)sí(h)us(h) ha(h)bé(h)re(h) do(g)cu(f)mén(h hr)ta,(h.) *(;) et(h) re(h)sur(h)rec(h)ti(h)ó(h)nis(h) con(h)sór(h)ti(h)a(h) me(h)re(h)á(h dr)mur.(d.) (::)}
 $Per eumdem
 
 [Lectio1]
@@ -125,7 +125,7 @@ Confundántur * qui me persequúntur, et non confúndar ego, Dómine, Deus meus.
 
 [Capitulum Laudes]
 !Phil 2:5-7
-v. Fratres: Hoc enim sentíte in vobis, quod et in Christo Jesu: qui, cum in forma Dei esset, non rapínam arbitrátus est esse se æquálem Deo: sed semetípsum exinanívit, formam servi accípiens, in similitúdinem hóminum factus, et hábitu invéntus ut homo.
+{(c3) Fra(h)tres:(h.) (,) Hoc(h) e(h)nim(h) sen(h)tí(h)te(h) in(h) vo(h)bis,(h) quod(h) et(h) in(h) Chris(h)to(h) Je(h)su:(h_') (,) qui,(h) cum(h) in(h) for(h)ma(h) De(h)i(h) es(h)set,(h) non(h) ra(h)pí(h)nam(h) ar(h)bi(h)trá(h)tus(h) est(h) es(h)se(h) se(h) æ(h)quá(h)lem(h) De(h)o:(f.) †(;) sed(h) se(h)met(h)íp(h)sum(h) ex(h)i(h)na(h)ní(h)vit,(h) for(h)mam(h) ser(h)vi(h) ac(h)cí(h)pi(h)ens,(h) in(h) si(h)mi(h)li(h)tú(h)di(h)nem(h) hó(h)mi(g)num(f) fac(h hr)tus,(h.) *(;) et(h) há(h)bi(h)tu(h) in(h)vén(h)tus(h) ut(h) ho(f)mo.(ef..) (::)}
 $Deo gratias
 
 [Ant 2]
@@ -142,7 +142,7 @@ Tibi revelávi * causam meam, defénsor vitæ meæ, Dómine, Deus meus.
 
 [Capitulum Sexta]
 !Phil 2:8-9
-v. Humiliávit semetípsum factus obédiens usque ad mortem, mortem autem crucis. Propter quod et Deus exaltávit illum, et donávit illi nomen, quod est super omne nomen.
+{(c3) Hu(h)mi(h)li(h)á(h)vit(h) se(h)met(h)íp(h)sum(h) fac(h)tus(h) ob(h)é(h)di(h)ens(h) us(h)que(h) ad(h) mor(h)tem,(h) mor(h)tem(h) au(h)tem(h) cru(h)cis.(f.) †(;) Prop(h)ter(h) quod(h) et(h) De(h)us(h) ex(h)al(h)tá(g)vit(f) il(h hr)lum,(h.) *(;) et(h) do(h)ná(h)vit(h) il(h)li(h) no(h)men,(h) quod(h) est(h) su(h)per(h) om(h)ne(h) no(f)men.(ef..) (::)}
 $Deo gratias
 
 [Ant Nona]
@@ -150,7 +150,7 @@ Invocábo * nomen tuum, Dómine: ne avértas fáciem tuam a clamóre meo.
 
 [Capitulum Nona]
 !Phil 2:10-11
-v. In nómine Jesu omne genu flectátur cæléstium, terréstrium, et infernórum: et omnis lingua confiteátur, quia Dóminus Jesus Christus in glória est Dei Patris.
+{(c3) In(h) nó(h)mi(h)ne(h) Je(h)su(h) om(h)ne(h) ge(h)nu(h) flec(h)tá(h)tur(h) cæ(h)lés(h)ti(h)um,(h) ter(h)rés(h)tri(h)um,(h) et(h) in(h)fer(h)nó(h)rum:(f.) †(;) et(h) om(h)nis(h) lin(h)gua(h) con(h)fi(g)te(f)á(h hr)tur,(h.) *(;) qui(h)a(h) Dó(h)mi(h)nus(h) Je(h)sus(h) Chris(h)tus(h) in(h) gló(h)ri(h)a(h) est(h) De(h)i(h) Pa(f)tris.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

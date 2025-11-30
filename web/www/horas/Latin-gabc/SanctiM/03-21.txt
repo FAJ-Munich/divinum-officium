@@ -49,7 +49,7 @@ R/. Sto(h)lam(h) gló(h)ri(h)æ(h) índ(h)u(h)it(h) e(hi)um,(h_') (,) al(h)le(fe
 Exsúltet ómnium * turba fidélium pro glória almi Patris Benedícti; læténtur præcípue catérvæ monachórum, celebrántes ejus festa in terris, de cujus societáte sancti congáudent in cælis.
 
 [Oratio]
-Omnípotens sempitérne Deus, qui hodiérna die carnis edúctum ergástulo sanctíssimum Confessórem tuum Benedíctum sublevásti ad cælum: † concéde, quǽsumus, hæc festa tuis fámulis celebrántibus cunctórum véniam delictórum; * ut, qui exsultántibus ánimis ejus claritáti congáudent, ipso apud te interveniénte, consociéntur et méritis.
+{(c3) Om(h)ní(h)pot(h)ens(h) sem(h)pi(h)tér(h)ne(h) De(h)us,(h) qui(h) ho(h)di(h)ér(h)na(h) di(h)e(h) car(h)nis(h) e(h)dúc(h)tum(h) er(h)gás(h)tu(h)lo(h) sanc(h)tís(h)si(h)mum(h) Con(h)fes(h)só(h)rem(h) tu(h)um(h) Be(h)ne(h)díc(h)tum(h) sub(h)le(h)vás(h)ti(h) ad(h) cæ(h)lum:(f.) †(,) con(h)cé(h)de,(h) quǽ(h)su(h)mus,(h) hæc(h) fes(h)ta(h) tu(h)is(h) fá(h)mu(h)lis(h) ce(h)le(h)brán(h)ti(h)bus(h) cunc(h)tó(h)rum(h) vé(h)ni(h)am(h) de(g)lic(f)tó(h hr)rum;(h.) *(;) ut,(h) qui(h) ex(h)sul(h)tán(h)ti(h)bus(h) á(h)ni(h)mis(h) e(h)jus(h) cla(h)ri(h)tá(h)ti(h) con(h)gáu(h)dent,(h) ip(h)so(h) a(h)pud(h) te(h) in(h)ter(h)ve(h)ni(h)én(h)te,(h) con(h)so(h)ci(h)én(h)tur(h) et(h) mé(h)ri(dr)tis.(d.) (::)}
 $Per Dominum
 
 [Hymnus Matutinum]
@@ -175,7 +175,7 @@ Vir Dómini Benedíctus * ómnium justórum spíritu plenus fuit: ipse intercéd
 
 [Capitulum Laudes]
 !Eccl 50:6-7
-v. Ecce Conféssor magnus, quasi stella matutína in médio nébulæ, et quasi luna plena, in diébus suis lucet. Et quasi sol refúlgens, sic ille effúlsit in templo Dei.
+{(c3) Ec(h)ce(h) Con(h)fés(h)sor(h) ma(h)gnus,(f.) †(;) qua(h)si(h) stel(h)la(h) ma(h)tu(h)tí(h)na(h) in(h) mé(h)di(h)o(h) né(h)bu(h)læ,(h) et(h) qua(h)si(h) lu(h)na(h) ple(h)na,(h) in(h) di(h)é(h)bus(h) su(g)is(f) lu(h hr)cet.(h.) *(;) Et(h) qua(h)si(h) sol(h) re(h)fúl(h)gens,(h) sic(h) il(h)le(h) ef(h)fúl(h)sit(h) in(h) tem(h)plo(h) De(f)i.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -217,12 +217,12 @@ Sanctíssime * Conféssor Dómini, Monachórum pater et dux, Benedícte, interc�
 
 [Capitulum Sexta]
 !Eccl 50:3-4
-v. In diébus ipsíus emanavérunt pútei aquárum, et quasi mare adimpléti sunt supra modum. Qui curávit gentem suam, et liberávit eam a perditióne.
+{(c3) In(h) di(h)é(h)bus(h) ip(h)sí(h)us(h) e(h)ma(h)na(h)vé(h)runt(h) pú(h)te(h)i(h) a(h)quá(h)rum,(f.) †(;) et(h) qua(h)si(h) ma(h)re(h) ad(h)im(h)plé(h)ti(h) sunt(h) su(g)pra(f) mo(h hr)dum.(h.) *(;) Qui(h) cu(h)rá(h)vit(h) gen(h)tem(h) su(h)am,(h) et(h) li(h)be(h)rá(h)vit(h) e(h)am(h) a(h) per(h)di(h)ti(h)ó(f)ne.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Nona]
 !Eccl 50:10-11,13-14
-v. Quasi vas auri sólidum, ornátum omni lápide pretióso. Quasi olíva púllulans, et cypréssus in altitúdinem se extóllens. Et circa illum coróna fratrum: quasi plantátio cedri in monte Líbano, sic circa illum stetérunt quasi rami palmæ: et omnes fílii Aaron in glória sua.
+{(c3) Qua(h)si(h) vas(h) au(h)ri(h) só(h)li(h)dum,(h) or(h)ná(h)tum(h) om(h)ni(h) lá(h)pi(h)de(h) pre(h)ti(h)ó(f)so.(ef..) (:) Qua(h)si(h) o(h)lí(h)va(h) púl(h)lu(h)lans,(h) et(h) cy(h)prés(h)sus(h) in(h) al(h)ti(h)tú(h)di(h)nem(h) se(h) ex(h)tól(h)lens.(f.) †(;) Et(h) cir(h)ca(h) il(h)lum(h) co(h)ró(h)na(h) fra(h)trum:(h) qua(h)si(h) plan(h)tá(h)ti(h)o(h) ce(h)dri(h) in(h) mon(g)te(f) Lí(h)ba(hr)no,(h.) *(;) sic(h) cir(h)ca(h) il(h)lum(h) ste(h)té(h)runt(h) qua(h)si(h) ra(h)mi(h) pal(h)mæ:(h) et(h) om(h)nes(h) fí(h)li(h)i(h) A(h)a(h)ron(h) in(h) gló(h)ri(h)a(h) su(f)a.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

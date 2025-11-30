@@ -1,5 +1,5 @@
 [Oratio]
-Omnípotens sempitérne Deus, qui paschále sacraméntum in reconciliatiónis humánæ fœ́dere contulísti: da méntibus nostris; ut quod professióne celebrámus, imitémur efféctu.
+{(c3) Om(h)ní(h)pot(h)ens(h) sem(h)pi(h)tér(h)ne(h) De(h)us,(h) qui(h) pas(h)chá(h)le(h) sa(h)cra(h)mén(h)tum(h) in(h) re(h)con(h)ci(h)li(h)a(h)ti(h)ó(h)nis(h) hu(h)má(h)næ(h) fœ́(h)de(h)re(h) con(h)tu(h)lís(h)ti:(f.) †(,) da(h) mén(h)ti(h)bus(h) nos(h)tris;(h) ut(h) quod(h) pro(h)fes(h)si(h)ó(h)ne(h) ce(g)le(f)brá(h hr)mus,(h.) *(;) i(h)mi(h)té(h)mur(h) ef(h)féc(h dr)tu.(d.) (::)}
 $Per Dominum
 
 [Lectio1]

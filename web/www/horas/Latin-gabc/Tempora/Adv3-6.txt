@@ -1,5 +1,5 @@
 [Oratio]
-Deus, qui cónspicis, quia ex nostra pravitáte afflígimur: concéde propítius; ut ex tua visitatióne consolémur:
+{(c3) De(h)us,(h) qui(h) cón(h)spi(h)cis,(h) qui(h)a(h) ex(h) nos(h)tra(h) pra(h)vi(h)tá(h)te(h) af(h)flí(h)gi(f)mur:(f.) †(,) con(h)cé(h)de(g) pro(f)pí(h)ti(hr)us;(h.) *(;) ut(h) ex(h) tu(h)a(h) vi(h)si(h)ta(h)ti(h)ó(h)ne(h) con(h)so(h)lé(h dr)mur:(d.) (::)}
 $Qui vivis
 
 [Lectio1]

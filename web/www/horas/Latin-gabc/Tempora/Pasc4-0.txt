@@ -2,7 +2,7 @@
 Vado ad eum * qui misit me: et nemo ex vobis intérrogat me: Quo vadis? allelúja, allelúja.
 
 [Oratio]
-Deus, qui fidélium mentes uníus éfficis voluntátis: da pópulis tuis id amáre quod prǽcipis, id desideráre quod promíttis; ut inter mundánas varietátes ibi nostra fixa sint corda, ubi vera sunt gáudia.
+{(c3) De(h)us,(h) qui(h) fi(h)dé(h)li(h)um(h) men(h)tes(h) u(h)ní(h)us(h) éf(h)fi(h)cis(h) vo(h)lun(h)tá(h)tis:(f.) †(,) da(h) pó(h)pu(h)lis(h) tu(h)is(h) id(h) a(h)má(h)re(h) quod(h) prǽ(h)ci(h)pis,(h) id(h) de(h)si(h)de(h)rá(h)re(h) quod(g) pro(f)mít(h hr)tis;(h.) *(;) ut(h) in(h)ter(h) mun(h)dá(h)nas(h) va(h)ri(h)e(h)tá(h)tes(h) i(h)bi(h) nos(h)tra(h) fi(h)xa(h) sint(h) cor(h)da,(h) u(h)bi(h) ve(h)ra(h) sunt(h) gáu(h)di(dr)a.(d.) (::)}
 $Per Dominum
 
 [Lectio1]
@@ -115,17 +115,17 @@ Quid sibi ergo vult, quod hic ait: Hæc autem vobis ab inítio non dixi, quia vo
 
 [Capitulum Laudes]
 !Jas 1:17
-v. Caríssimi: Omne datum óptimum, et omne donum perféctum desúrsum est, descéndens a Patre lúminum, apud quem non est transmutátio, nec vicissitúdinis obumbrátio.
+{(c3) Ca(h)rís(h)si(h)mi:(h.) (,) Om(h)ne(h) da(h)tum(h) óp(h)ti(h)mum,(h) et(h) om(h)ne(h) do(h)num(h) per(h)féc(h)tum(h) de(h)súr(h)sum(h) est,(h) de(h)scén(h)dens(h) a(h) Pa(h)tre(h) lú(h)mi(f)num,(f.) †(;) a(h)pud(h) quem(h) non(h) est(h) trans(g)mu(f)tá(h)ti(hr)o,(h.) *(;) nec(h) vi(h)cis(h)si(h)tú(h)di(h)nis(h) ob(h)um(h)brá(h)ti(f)o.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Sexta]
 !Jas 1:19-20
-v. Scitis, fratres mei dilectíssimi. Sit autem omnis homo velox ad audiéndum: tardus autem ad loquéndum, et tardus ad iram. Ira enim viri justítiam Dei non operátur.
+{(c3) Sci(h)tis,(h) fra(h)tres(h) me(h)i(h) di(h)lec(h)tís(h)si(f)mi.(f.) †(;) Sit(h) au(h)tem(h) om(h)nis(h) ho(h)mo(h) ve(h)lox(h) ad(h) au(h)di(h)én(h)dum:(h_') (,) tar(h)dus(h) au(h)tem(h) ad(h) lo(h)quén(h)dum,(h) et(h) tar(h)dus(g) ad(f) i(h hr)ram.(h.) *(;) I(h)ra(h) e(h)nim(h) vi(h)ri(h) jus(h)tí(h)ti(h)am(h) De(h)i(h) non(h) o(h)pe(h)rá(f)tur.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Nona]
 !Jas 1:21
-v. Propter quod abiciéntes omnem immundítiam, et abundántiam malítiæ, in mansuetúdine suscípite ínsitum verbum, quod potest salváre ánimas vestras.
+{(c3) Prop(h)ter(h) quod(h) ab(h)i(h)ci(h)én(h)tes(h) om(h)nem(h) im(h)mun(h)dí(h)ti(h)am,(h) et(h) ab(h)un(h)dán(h)ti(h)am(h) ma(h)lí(h)ti(f)æ,(f.) †(;) in(h) man(h)su(h)e(h)tú(h)di(h)ne(h) su(h)scí(h)pi(h)te(h) ín(h)si(g)tum(f) ver(h hr)bum,(h.) *(;) quod(h) pot(h)est(h) sal(h)vá(h)re(h) á(h)ni(h)mas(h) ves(f)tras.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

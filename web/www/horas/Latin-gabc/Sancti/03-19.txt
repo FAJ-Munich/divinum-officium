@@ -19,7 +19,7 @@ R/. Et(h) prí(h)nci(h)pem(h) om(h)nis(h) pos(h)ses(h)si(h)ó(h)nis(h) su(hi)æ,
 {name:Exsurgens Joseph;office-part:Antiphona;annotation:1.g3;book:Antiphonale Monasticum, 1934, p. 840;transcriber:Dominique CROCHU;%%(c4) EX(f)súr(h)gens(g') Jo(h)seph(g') a(f) som(gf~)no,(d.) *(,) fe(hih)cit(g') sic(h)ut(g') præ(h)cé(jk)pit(j) e(ji)i(hg) An(ij)ge(ih)lus(i) Dó(h')mi(g)ni,(h.) (;) et(fe) ac(c_d)cé(ffg)pit(ff)  cón(e_f)ju(g)gem(fe) su(d.)am.(d.) (::) <i>T. P.</i> Al(e)le(fe)lú(d.){ja}.(d.) (::)};;solemn1g3
 
 [Oratio]
-Sanctíssimæ Genetrícis tuæ spónsi, quǽsumus, Dómine, méritis adjuvémur; ut quod possibílitas nostra non óbtinet, ejus nobis intercessióne donétur.
+{(c3) Sanc(h)tís(h)si(h)mæ(h) Ge(h)ne(h)trí(h)cis(h) tu(h)æ(h) spón(h)si,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) mé(h)ri(h)tis(h) ad(h)ju(h)vé(h)mur;(f.) †(,) ut(h) quod(h) pos(h)si(h)bí(h)li(h)tas(h) nos(h)tra(g) non(f) ób(h)ti(hr)net,(h.) *(;) e(h)jus(h) no(h)bis(h) in(h)ter(h)ces(h)si(h)ó(h)ne(h) do(h)né(h dr)tur.(d.) (::)}
 $Qui vivis
 
 [Invit]
@@ -144,7 +144,7 @@ R. Et erat súbditus illis.
 
 [Capitulum Laudes]
 !Prov 28:20; 27:18
-{centering-scheme: latin;%%(c3) Vir(h) fi(h)dé(h)lis(h) mul(h)tum(h) lau(h)dá(h)bi(h)tur.(h.) (,) Et,(h) qui(h) cus(h)tos(h) est(h) Dó(h)mi(h)ni(h) su(h)i,(h) glo(h)ri(h)fi(h)cá(f)bi(e)tur.(ef..) (::)}
+{(c3) Vir(h) fi(h)dé(h)lis(h) mul(h)tum(g) lau(f)dá(h)bi(hr)tur.(h.) *(,) Et,(h) qui(h) cus(h)tos(h) est(h) Dó(h)mi(h)ni(h) su(h)i,(h) glo(h)ri(h)fi(h)cá(f)bi(er)tur.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -186,7 +186,7 @@ Ipse Jesus * erat incípiens quasi annórum trigínta, ut putabátur, fílius Jo
 
 [Lectio Prima]
 !Sap 10:10
-v. Prófugum justum dedúxit Sapiéntia per vias rectas, et osténdit illi regnum Dei, et dedit illi sciéntiam sanctórum; honestávit illum in labóribus, et complévit labóres illíus.
+{(c3) Pró(h)fu(h)gum(h) jus(h)tum(h) de(h)dú(h)xit(h) Sa(h)pi(h)én(h)ti(h)a(h) per(h) vi(h)as(h) rec(h)tas,(f.) †(;) et(h) os(h)tén(h)dit(h) il(h)li(h) re(h)gnum(h) De(h)i,(h) et(h) de(h)dit(h) il(h)li(h) sci(h)én(h)ti(h)am(g) sanc(f)tó(h hr)rum;(h.) *(;) ho(h)nes(h)tá(h)vit(h) il(h)lum(h) in(h) la(h)bó(h)ri(h)bus,(h) et(h) com(h)plé(h)vit(h) la(h)bó(h)res(h) il(h)lí(f)us.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Constítuit eum * Dóminum domus suæ.
@@ -198,7 +198,7 @@ R. Constítuit eum * Dóminum domus suæ.
 
 [Capitulum Sexta]
 !Sir 45:1; 45:4
-v. Diléctus Deo et homínibus, cujus memória in benedictióne est. In fide et lenitáte ipsíus sanctum fecit illum, et elégit eum ex omni carne.
+{(c3) Di(h)léc(h)tus(h) De(h)o(h) et(h) ho(h)mí(h)ni(h)bus,(h) cu(h)jus(h) me(h)mó(h)ri(h)a(h) in(h) be(h)ne(h)dic(h)ti(h)ó(h)ne(f) est.(f.) †(;) In(h) fi(h)de(h) et(h) le(h)ni(h)tá(h)te(h) ip(h)sí(h)us(h) sanc(h)tum(h) fe(g)cit(f) il(h hr)lum,(h.) *(;) et(h) e(h)lé(h)git(h) e(h)um(h) ex(h) om(h)ni(h) car(f)ne.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

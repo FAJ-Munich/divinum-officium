@@ -2,7 +2,7 @@
 Ante me * non est formátus Deus, et post me non erit: quia mihi curvábitur omne genu, et confitébitur omnis lingua.
 
 [Oratio]
-Aurem tuam, quǽsumus, Dómine, précibus nostris accómmoda: et mentis nostræ ténebras, grátia tuæ visitatiónis illústra:
+{(c3) Au(h)rem(h) tu(h)am,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) pré(h)ci(h)bus(h) nos(h)tris(h) ac(h)cóm(h)mo(f)da:(f.) †(,) et(h) men(h)tis(h) nos(g)træ(f) té(h)ne(hr)bras,(h.) *(;) grá(h)ti(h)a(h) tu(h)æ(h) vi(h)si(h)ta(h)ti(h)ó(h)nis(h) il(h)lús(h dr)tra:(d.) (::)}
 $Qui vivis
 
 [Lectio1]
@@ -120,7 +120,7 @@ R. Quia de Sion exíbit lex, et verbum Dómini de Jerúsalem.
 
 [Capitulum Laudes]
 !Phil 4:4-5
-v. Fratres: Gaudéte in Dómino semper: íterum dico, gaudéte. Modéstia vestra nota sit ómnibus homínibus: Dóminus enim prope est.
+{(c3) Fra(h)tres:(h.) (,) Gau(h)dé(h)te(h) in(h) Dó(h)mi(h)no(h) sem(h)per:(h_') (,) í(h)te(h)rum(h) di(h)co,(h) gau(h)dé(h)te.(f.) †(;) Mo(h)dés(h)ti(h)a(h) ves(h)tra(h) no(h)ta(h) sit(h) óm(h)ni(h)bus(g) ho(f)mí(h)ni(hr)bus:(h.) *(;) Dó(h)mi(h)nus(h) e(h)nim(h) pro(h)pe(f) est.(ef..) (::)}
 $Deo gratias
 
 [Ant 2]
@@ -128,12 +128,12 @@ Super sólium * David, et super regnum ejus sedébit in ætérnum, allelúja.
 
 [Capitulum Sexta]
 !Phil 4:6
-v. Nihil sollíciti sitis: sed in omni oratióne, et obsecratióne cum gratiárum actióne, petitiónes vestræ innotéscant apud Deum.
+{(c3) Ni(h)hil(h) sol(h)lí(h)ci(h)ti(h) si(h)tis:(f.) †(;) sed(h) in(h) om(h)ni(h) o(h)ra(h)ti(h)ó(h)ne,(h) et(h) ob(h)se(h)cra(h)ti(h)ó(h)ne(h) cum(h) gra(h)ti(h)á(h)rum(h) ac(g)ti(f)ó(h hr)ne,(h.) *(;) pe(h)ti(h)ti(h)ó(h)nes(h) ves(h)træ(h) in(h)no(h)tés(h)cant(h) a(h)pud(h) De(f)um.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Nona]
 !Phil 4:7
-v. Et pax Dei, quæ exsúperat omnem sensum, custódiat corda vestra, et intellegéntias vestras in Christo Jesu Dómino nostro.
+{(c3) Et(h) pax(h) De(h)i,(h) quæ(h) ex(h)sú(h)pe(h)rat(h) om(h)nem(h) sen(h)sum,(f.) †(;) cus(h)tó(h)di(h)at(h) cor(h)da(h) ves(h)tra,(h) et(h) in(h)tel(h)le(h)gén(h)ti(g)as(f) ves(h hr)tras(h.) *(;) in(h) Chris(h)to(h) Je(h)su(h) Dó(h)mi(h)no(h) nos(f)tro.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

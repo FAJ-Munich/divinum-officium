@@ -31,7 +31,7 @@ Amen.
 Angelus Gábriel * appáruit Daniéli et dixit illi: Ab exórdio precum tuárum egréssus est sermo; ego autem veni ut indicárem tibi; tu ergo animadvérte sermónem et intéllige visiónem.
 
 [Oratio]
-Deus, qui inter céteros Angelos, ad annuntiándum Incarnatiónis tuæ mystérium, Gabriélem Archángelum elegísti: concéde propítius; ut qui festum ejus celebrámus in terris, ipsíus patrocínium sentiámus in cælis:
+{(c3) De(h)us,(h) qui(h) in(h)ter(h) cé(h)te(h)ros(h) An(h)ge(h)los,(h) ad(h) an(h)nun(h)ti(h)án(h)dum(h) In(h)car(h)na(h)ti(h)ó(h)nis(h) tu(h)æ(h) mys(h)té(h)ri(h)um,(h) Ga(h)bri(h)é(h)lem(h) Arch(h)án(h)ge(h)lum(h) e(h)le(h)gís(h)ti:(f.) †(,) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut(h) qui(h) fes(h)tum(h) e(h)jus(h) ce(h)le(h)brá(h)mus(g) in(f) ter(h hr)ris,(h.) *(;) ip(h)sí(h)us(h) pa(h)tro(h)cí(h)ni(h)um(h) sen(h)ti(h)á(h)mus(h) in(h) cæ(h dr)lis:(d.) (::)}
 $Qui vivis
 
 [Invit]
@@ -111,7 +111,7 @@ Dixit autem María * Angelum: Quómodo fiet istud, quóniam virum non cognósco?
 
 [Capitulum Laudes]
 !Dan 9:21-22
-v. Ecce vir Gábriel, quem víderam in visióne a princípio, cito volans tétigit me in témpore sacrifícii vespertíni. Et dócuit me, et locútus est mihi, dixítque: Dániel, nunc egréssus sum ut docérem te, et intellégeres.
+{(c3) Ec(h)ce(h) vir(h) Gá(h)bri(h)el,(h) quem(h) ví(h)de(h)ram(h) in(h) vi(h)si(h)ó(h)ne(h) a(h) prin(h)cí(h)pi(h)o,(h) ci(h)to(h) vo(h)lans(h) té(h)ti(h)git(h) me(h) in(h) tém(h)po(h)re(h) sa(h)cri(h)fí(h)ci(h)i(h) ves(h)per(h)tí(h)ni.(f.) †(;) Et(h) dó(h)cu(h)it(h) me,(h) et(h) lo(h)cú(h)tus(g) est(f) mi(h hr)hi,(h.) *(;) di(h)xít(h)que:(h_') (,) Dá(h)ni(h)el,(h) nunc(h) e(h)grés(h)sus(h) sum(h) ut(h) do(h)cé(h)rem(h) te,(h) et(h) in(h)tel(h)lé(h)ge(f)res.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -146,11 +146,11 @@ Gábriel Angelus * descéndit ad Zacharíam, et ait illi: Uxor tua páriet tibi 
 
 [Lectio Prima]
 !Dan 9:25
-v. Scito ergo et animadvérte: Ab éxitu sermónis, ut íterum ædificétur Jerúsalem, usque ad Christum ducem, hebdómades septem et hebdómades sexagínta duæ erunt.
+{(c3) Sci(h)to(h) er(h)go(h) et(h) a(h)nim(h)ad(h)vér(h)te:(f.) †(;) Ab(h) éx(h)i(h)tu(h) ser(h)mó(h)nis,(h) ut(h) í(h)te(h)rum(h) æ(h)di(h)fi(h)cé(h)tur(h) Je(h)rú(h)sa(h)lem,(h) us(h)que(h) ad(h) Chris(g)tum(f) du(h hr)cem,(h.) *(;) heb(h)dó(h)ma(h)des(h) sep(h)tem(h) et(h) heb(h)dó(h)ma(h)des(h) se(h)xa(h)gín(h)ta(h) du(h)æ(h) e(f)runt.(ef..) (::)}
 
 [Capitulum Sexta]
 !Dan 9:23-24
-v. Ego autem veni, ut indicárem tibi, quia vir desideriórum es. Septuagínta hebdómades abbreviátæ sunt, ut finem accípiat peccátum, et impleátur vísio et prophetía, et ungátur Sanctus sanctórum.
+{(c3) E(h)go(h) au(h)tem(h) ve(h)ni,(h) ut(h) in(h)di(h)cá(h)rem(h) ti(h)bi,(h) qui(h)a(h) vir(h) de(h)si(h)de(h)ri(h)ó(h)rum(f) es.(f.) †(;) Sep(h)tu(h)a(h)gín(h)ta(h) heb(h)dó(h)ma(h)des(h) ab(h)bre(h)vi(h)á(h)tæ(h) sunt,(h) ut(h) fi(h)nem(h) ac(h)cí(h)pi(h)at(h) pec(h)cá(h)tum,(h) et(h) im(h)ple(h)á(h)tur(h) ví(h)si(h)o(h) et(h) pro(g)phe(f)tí(h hr)a,(h.) *(;) et(h) un(h)gá(h)tur(h) Sanc(h)tus(h) sanc(h)tó(f)rum.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

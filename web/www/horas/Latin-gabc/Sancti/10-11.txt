@@ -13,7 +13,7 @@ Vidérunt eam * fíliæ Sion, et beátam dixérunt, et regínæ laudavérunt eam
 Cum jucunditáte * Maternitátem beátæ Maríæ semper Vírginis celebrémus.
 
 [Oratio]
-Deus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscípere voluísti: præsta supplícibus tuis: ut qui vere eam Genetrícem Dei crédimus, ejus apud te intercessiónibus adjuvémur.
+{(c3) De(h)us,(h) qui(h) de(h) be(h)á(h)tæ(h) Ma(h)rí(h)æ(h) Vír(h)gi(h)nis(h) ú(h)te(h)ro(h) Ver(h)bum(h) tu(h)um,(h) An(h)ge(h)lo(h) nun(h)ti(h)án(h)te,(h) car(h)nem(h) su(h)scí(h)pe(h)re(h) vo(h)lu(h)ís(h)ti:(f.) †(,) præ(h)sta(h) sup(h)plí(h)ci(h)bus(h) tu(h)is:(h_') (,) ut(h) qui(h) ve(h)re(h) e(h)am(h) Ge(h)ne(h)trí(h)cem(h) De(g)i(f) cré(h)di(hr)mus,(h.) *(;) e(h)jus(h) a(h)pud(h) te(h) in(h)ter(h)ces(h)si(h)ó(h)ni(h)bus(h) ad(h)ju(h)vé(h dr)mur.(d.) (::)}
 $Per eumdem
 
 [Invit]
@@ -105,7 +105,7 @@ R. Et de meis viscéribus génui Deum et hóminem.
 
 [Capitulum Laudes]
 !Sir 24:12-13
-v. Qui creávit me, requiévit in tabernáculo meo, et dixit mihi: in Jacob inhábita, et in eléctis meis mitte radíces.
+{(c3) Qui(h) cre(h)á(h)vit(h) me,(h) re(h)qui(h)é(h)vit(h) in(h) ta(h)ber(h)ná(h)cu(h)lo(h) me(h)o,(f.) †(;) et(h) di(h)xit(h) mi(h)hi:(h_') (,) in(h) Ja(h)cob(g) in(f)há(h)bi(hr)ta,(h.) *(;) et(h) in(h) e(h)léc(h)tis(h) me(h)is(h) mit(h)te(h) ra(h)dí(f)ces.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]

@@ -169,7 +169,7 @@ Et Pater meus díliget eum, et ad eum veniémus, et mansiónem apud eum faciému
 
 [Capitulum Laudes]
 !Act. 2:1-2
-{centering-scheme: latin;%%(c3) CUM(h) com(h)ple(h)rén(h)tur(h) di(h)es(h) Pen(h)te(h)cós(h)tes,(h) e(h)rant(h) om(h)nes(h) pá(h)ri(h)ter(h) in(h) e(h)ó(g)dem(f) lo(h)co:(h.) (;) et(h) fac(h)tus(h) est(h) re(h)pén(h)te(h) de(h) cæ(h)lo(h) so(h)nus,(h) tam(h)quam(h) ad(h)ve(h)ni(h)én(h)tis(h) spí(h)ri(h)tus(h) ve(h)he(h)mén(h)tis,(h) et(h) re(h)plé(h)vit(h) to(h)tam(h) do(h)mum(h) u(h)bi(h) e(h)rant(h) se(h)dén(f)tes.(ef..) (::)}
+{(c3) CUM(h) com(h)ple(h)rén(h)tur(h) di(h)es(h) Pen(h)te(h)cós(h)tes,(h) e(h)rant(h) om(h)nes(h) pá(h)ri(h)ter(h) in(h) e(h)ó(g)dem(f) lo(h)co:(h.) (;) et(h) fac(h)tus(h) est(h) re(h)pén(h)te(h) de(h) cæ(h)lo(h) so(h)nus,(h) tam(h)quam(h) ad(h)ve(h)ni(h)én(h)tis(h) spí(h)ri(h)tus(h) ve(h)he(h)mén(h)tis,(h) et(h) re(h)plé(h)vit(h) to(h)tam(h) do(h)mum(h) u(h)bi(h) e(h)rant(h) se(h)dén(f)tes.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -185,7 +185,7 @@ Accípite * Spíritum Sanctum: quorum remiséritis peccáta, remittúntur eis, a
 
 [Lectio Prima]
 !Act. 2:11
-v. Judǽi quoque et Prosélyti, Cretes et Arabes: audívimus eos loquéntes nostris linguis magnália Dei.
+{(c3) Ju(h)dǽ(h)i(h) quo(h)que(h) et(h) Pro(h)sé(h)ly(h)ti,(h) Cre(h)tes(h) et(h) A(h)ra(f)bes:(f.) †(;) au(h)dí(h)vi(h)mus(h) e(h)os(h) lo(h)quén(h)tes(h) nos(g)tris(f) lin(h hr)guis(h.) *(;) ma(h)gná(h)li(h)a(h) De(f)i.(ef..) (::)}
 
 [HymnusM Tertia]
 @:HymnusM Vespera
@@ -204,7 +204,7 @@ R/.Do(h)cé(h)bit(h) vos(h) óm(h)ni(h)a,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.
 
 [Capitulum Sexta]
 !Act. 2:6
-v. Facta autem hac voce, convénit multitúdo, et mente confúsa est, quóniam audiébat unusquísque lingua sua illos loquéntes.
+{(c3) Fac(h)ta(h) au(h)tem(h) hac(h) vo(h)ce,(h) con(h)vé(h)nit(h) mul(h)ti(h)tú(h)do,(f.) †(;) et(h) men(h)te(g) con(f)fú(h)sa(hr) est,(h.) *(;) quón(h)i(h)am(h) au(h)di(h)é(h)bat(h) u(h)nus(h)quís(h)que(h) lin(h)gua(h) su(h)a(h) il(h)los(h) lo(h)quén(f)tes.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

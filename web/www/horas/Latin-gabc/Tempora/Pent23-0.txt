@@ -1,5 +1,5 @@
 [Oratio]
-Absólve, quǽsumus, Dómine, tuórum delícta populórum: ut a peccatórum néxibus, quæ pro nostra fragilitáte contráximus, tua benignitáte liberémur.
+{(c3) Ab(h)sól(h)ve,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) tu(h)ó(h)rum(h) de(h)líc(h)ta(h) po(h)pu(h)ló(h)rum:(f.) †(,) ut(h) a(h) pec(h)ca(h)tó(h)rum(h) né(h)xi(h)bus,(h) quæ(h) pro(h) nos(h)tra(h) fra(h)gi(h)li(h)tá(h)te(g) con(f)trá(h)xi(hr)mus,(h.) *(;) tu(h)a(h) be(h)ni(h)gni(h)tá(h)te(h) li(h)be(h)ré(h dr)mur.(d.) (::)}
 $Per Dominum
 
 [Lectio7]

@@ -45,7 +45,7 @@ Amen.
 Nolíte me consideráre * quod fusca sim, quia decolorávit me sol: fílii matris meæ pugnavérunt contra me.
 
 [Oratio]
-Deus, in cujus passióne, secúndum Simeónis prophetíam, dulcíssimam ánimam gloriósæ Vírginis et Matris Maríæ dolóris gládius pertransívit: concéde propítius; ut, qui dolóres ejus venerándo recólimus, passiónis tuæ efféctum felícem consequámur:
+{(c3) De(h)us,(h) in(h) cu(h)jus(h) pas(h)si(h)ó(h)ne,(h) se(h)cún(h)dum(h) Si(h)me(h)ó(h)nis(h) pro(h)phe(h)tí(h)am,(h) dul(h)cís(h)si(h)mam(h) á(h)ni(h)mam(h) glo(h)ri(h)ó(h)sæ(h) Vír(h)gi(h)nis(h) et(h) Ma(h)tris(h) Ma(h)rí(h)æ(h) do(h)ló(h)ris(h) glá(h)di(h)us(h) per(h)trans(h)í(h)vit:(f.) †(,) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut,(h) qui(h) do(h)ló(h)res(h) e(h)jus(h) ve(h)ne(h)rán(h)do(g) re(f)có(h)li(hr)mus,(h.) *(;) pas(h)si(h)ó(h)nis(h) tu(h)æ(h) ef(h)féc(h)tum(h) fe(h)lí(h)cem(h) con(h)se(h)quá(h dr)mur:(d.) (::)}
 $Qui vivis
 
 [Invit]
@@ -166,7 +166,7 @@ R. Ut perficiátur propitiátio et benedíctio.
 
 [Capitulum Laudes]
 !Lam 2:13
-v. Cui comparábo te? vel cui assimilábo te, fília Jerúsalem? cui exæquábo te, et consolábor te, virgo fília Sion? Magna est velut mare contrítio tua.
+{(c3) Cu(h)i(h.) (,) com(g)pa(g)rá(f)bo(g) te?(gh..) (:) vel(h) cu(h)i(h) as(h)si(h)mi(h)lá(h)bo(h) te,(h.) (,) fí(g)li(g)a(g) Je(g)rú(f)sa(g)lem?(gh..) (:) cu(h)i(h) ex(h)æ(h)quá(h)bo(h) te,(h) et(h) con(h)so(h)lá(h)bor(h) te,(h.) (,) vir(g)go(g) fí(g)li(g)a(f) Si(g)on?(gh..) (:) Ma(h)gna(h) est(h) vel(h)ut(h) ma(h)re(h) con(h)trí(h)ti(h)o(h) tu(f)a.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -196,7 +196,7 @@ Veníte, * ascendámus ad montem Dómini, et vidéte, si est dolor, sicut dolor 
 
 [Lectio Prima]
 !Lam. 2:18
-v. Deduc quasi torréntem lácrimas per diem et noctem; non des réquiem tibi, neque táceat pupílla óculi tui.
+{(c3) De(h)duc(h) qua(h)si(h) tor(h)rén(h)tem(h) lá(h)cri(h)mas(h) per(h) di(h)em(h) et(h) noc(h)tem;(f.) †(;) non(h) des(h) ré(h)qui(g)em(f) ti(h hr)bi,(h.) *(;) ne(h)que(h) tá(h)ce(h)at(h) pu(h)píl(h)la(h) ó(h)cu(h)li(h) tu(f)i.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. O vos omnes, * Qui transítis per viam.
@@ -212,7 +212,7 @@ R/.Con(h)tur(h)bá(h)ta(h) sunt(h) óm(h)ni(h)a(h) ví(h)sce(h)ra(h) me(h)a.(g_'
 
 [Capitulum Sexta]
 !Lam. 1:2
-v. Plorans plorávit in nocte, et lácrimæ ejus in maxíllis ejus: non est qui consolétur eam ex ómnibus caris ejus.
+{(c3) Plo(h)rans(h) plo(h)rá(h)vit(h) in(h) noc(h)te,(f.) †(;) et(h) lá(h)cri(h)mæ(h) e(h)jus(h) in(h) ma(h)xíl(g)lis(f) e(h hr)jus:(h.) *(;) non(h) est(h) qui(h) con(h)so(h)lé(h)tur(h) e(h)am(h) ex(h) óm(h)ni(h)bus(h) ca(h)ris(h) e(f)jus.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

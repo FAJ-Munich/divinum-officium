@@ -249,7 +249,7 @@ R/.Et(h) ma(h)gni(h)tú(h)di(h)nis(h) e(h)jus(h) non(h) est(h) fi(h)nis.(g_'/hvG
 
 [Capitulum Laudes]
 !Rom 11:33
-v. O Altitúdo divitiárum sapiéntiæ, et sciéntiæ Dei, quam incomprehensibília sunt judícia ejus, et investigábiles viæ ejus!
+{(c3) O(h) Al(h)ti(h)tú(h)do(h) di(h)vi(h)ti(h)á(h)rum(h) sa(h)pi(h)én(h)ti(h)æ,(h) et(h) sci(h)én(h)ti(h)æ(h) De(h)i,(f.) †(;) quam(h) in(h)com(h)pre(h)hen(h)si(h)bí(h)li(h)a(h) sunt(h) ju(h)dí(h)ci(g)a(f) e(h hr)jus,(h.) *(;) et(h) in(h)ves(h)ti(h)gá(h)bi(h)les(h) vi(h)æ(h) e(f)jus!(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -288,14 +288,14 @@ $Per Dominum
 
 [Lectio Prima]
 !1 Joann. 5:7
-v. Tres sunt, qui testimónium dant in cælo: Pater, Verbum et Spíritus Sanctus, et hi tres unum sunt.
+{(c3) Tres(h) sunt,(h) qui(h) tes(h)ti(h)mó(h)ni(h)um(h) dant(h) in(h) cæ(h)lo:(f.) †(;) Pa(h)ter,(h) Ver(h)bum(h) et(h) Spí(h)ri(g)tus(f) Sanc(h hr)tus,(h.) *(;) et(h) hi(h) tres(h) u(h)num(f) sunt.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. {gabc:Tempora/Trinitatis/rb--benedicamus_patrem_et_filium--solesmes_1934}
 
 [Capitulum Sexta]
 !2 Cor 13:13
-v. Grátia Dómini nostri Jesu Christi et cáritas Dei et communicátio Sancti Spíritus sit cum ómnibus vobis. Amen.
+{(c3) Grá(h)ti(h)a(h) Dó(h)mi(h)ni(h) nos(h)tri(h) Je(h)su(h) Chris(h)ti(f.) †(;) et(h) cá(h)ri(h)tas(h) De(h)i(h) et(h) com(h)mu(h)ni(h)cá(h)ti(h)o(h) Sanc(g)ti(f) Spí(h)ri(hr)tus(h.) *(;) sit(h) cum(h) óm(h)ni(h)bus(h) vo(h)bis.(h) A(f)men.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

@@ -2,7 +2,7 @@
 Obsécro, Dómine: * meménto, quæso, quómodo ambuláverim coram te in veritáte et in corde perfécto et quod plácitum est coram te, fécerim.
 
 [Oratio]
-Omnípotens sempitérne Deus, qui, abundántia pietátis tuæ, et mérita súpplicum excédis et vota: effúnde super nos misericórdiam tuam; ut dimíttas quæ consciéntia métuit, et adícias quod orátio non præsúmit.
+{(c3) Om(h)ní(h)pot(h)ens(h) sem(h)pi(h)tér(h)ne(h) De(h)us,(h) qui,(h) ab(h)un(h)dán(h)ti(h)a(h) pi(h)e(h)tá(h)tis(h) tu(h)æ,(h) et(h) mé(h)ri(h)ta(h) súp(h)pli(h)cum(h) ex(h)cé(h)dis(h) et(h) vo(h)ta:(f.) †(,) ef(h)fún(h)de(h) su(h)per(h) nos(h) mi(h)se(h)ri(h)cór(h)di(h)am(h) tu(h)am;(h) ut(h) di(h)mít(h)tas(h) quæ(h) con(h)sci(h)én(h)ti(g)a(f) mé(h)tu(hr)it,(h.) *(;) et(h) ad(h)í(h)ci(h)as(h) quod(h) o(h)rá(h)ti(h)o(h) non(h) præ(h)sú(h dr)mit.(d.) (::)}
 $Per Dominum
 
 [Lectio1]

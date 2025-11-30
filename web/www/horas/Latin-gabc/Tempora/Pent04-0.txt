@@ -2,7 +2,7 @@
 Præváluit David * in Philisthǽum in funda et lápide in nómine Dómini.
 
 [Oratio]
-Da nobis, quǽsumus, Dómine: ut et mundi cursus pacífice nobis tuo órdine dirigátur; et Ecclésia tua tranquílla devotióne lætétur.
+{(c3) Da(h) no(h)bis,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(f)ne:(f.) †(,) ut(h) et(h) mun(h)di(h) cur(h)sus(h) pa(h)cí(h)fi(h)ce(h) no(h)bis(h) tu(h)o(h) ór(h)di(h)ne(h) di(g)ri(f)gá(h hr)tur;(h.) *(;) et(h) Ec(h)clé(h)si(h)a(h) tu(h)a(h) tran(h)quíl(h)la(h) de(h)vo(h)ti(h)ó(h)ne(h) læ(h)té(h dr)tur.(d.) (::)}
 $Per Dominum
 
 [Lectio1]

@@ -156,7 +156,7 @@ Cum sanctus Benedíctus * post tríduum in cella consísteret, elevátis óculis
 
 [Capitulum Laudes]
 !Cant 2:13-14
-v. Surge, amíca mea, speciósa mea, et veni, colúmba mea, in foramínibus petræ, in cavérna macériæ, osténde mihi fáciem tuam, sonet vox tua in áuribus meis: vox enim tua dulcis, et fácies tua decóra.
+{(c3) Sur(h)ge,(h) a(h)mí(h)ca(h) me(h)a,(h) spe(h)ci(h)ó(h)sa(h) me(h)a,(h) et(h) ve(h)ni,(f.) †(;) co(h)lúm(h)ba(h) me(h)a,(h) in(h) fo(h)ra(h)mí(h)ni(h)bus(h) pe(h)træ,(h) in(h) ca(h)vér(h)na(h) ma(h)cé(h)ri(h)æ,(h) os(h)tén(h)de(h) mi(h)hi(h) fá(h)ci(h)em(h) tu(h)am,(h) so(h)net(h) vox(h) tu(h)a(h) in(h) áu(h)ri(g)bus(f) me(h hr)is:(h.) *(;) vox(h) e(h)nim(h) tu(h)a(h) dul(h)cis,(h) et(h) fá(h)ci(h)es(h) tu(h)a(h) de(h)có(f)ra.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -200,12 +200,12 @@ O quam præclára sunt * mérita beátæ Scholásticæ! O quanta virtus lacrimá
 
 [Capitulum Sexta]
 !Cant 6:8
-v. Un est colúmba mea, perfécta mea: vidérunt eam fíliæ Sion, et beatíssimam prædicavérunt et regínæ laudavérunt eam.
+{(c3) U(h)na(h) est(h) co(h)lúm(h)ba(h) me(h)a,(h) per(h)féc(h)ta(h) me(h)a:(f.) †(;) vi(h)dé(h)runt(h) e(h)am(h) fí(h)li(h)æ(h) Si(h)on,(h) et(h) be(h)a(h)tís(h)si(h)mam(h) præ(h)di(g)ca(f)vé(h hr)runt(h.) *(;) et(h) re(h)gí(h)næ(h) lau(h)da(h)vé(h)runt(h) e(f)am.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Nona]
 !Cant 5:12
-v. Oculi ejus sicut colúmbæ super rívulos aquárum, quæ lacte sunt lotæ, et résident juxta fluénta pleníssima.
+{(c3) O(h)cu(h)li(h) e(h)jus(h) sic(h)ut(h) co(h)lúm(h)bæ(h) su(h)per(h) rí(h)vu(h)los(h) a(h)quá(h)rum,(f.) †(;) quæ(h) lac(h)te(g) sunt(f) lo(h hr)tæ,(h.) *(;) et(h) ré(h)si(h)dent(h) jux(h)ta(h) flu(h)én(h)ta(h) ple(h)nís(h)si(f)ma.(ef..) (::)}
 
 [Ant 3]
 Hódie * sacra virgo Scholástica in spécie colúmbæ, ad ǽthera tota festíva perréxit: hódie cœlestis vitæ gáudiis cum fratre suo pérfrui merétur in sempitérnum.

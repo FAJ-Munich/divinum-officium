@@ -1,5 +1,5 @@
 [Oratio]
-Omnípotens sempitérne Deus, da nobis fídei, spei et caritátis augméntum: et, ut mereámur ássequi quod promíttis, fac nos amáre quod prǽcipis.
+{(c3) Om(h)ní(h)pot(h)ens(h) sem(h)pi(h)tér(h)ne(h) De(h)us,(h) da(h) no(h)bis(h) fí(h)de(h)i,(h) spe(h)i(h) et(h) ca(h)ri(h)tá(h)tis(h) aug(h)mén(h)tum:(f.) †(,) et,(h) ut(h) me(h)re(h)á(h)mur(h) ás(h)se(h)qui(h) quod(g) pro(f)mít(h hr)tis,(h.) *(;) fac(h) nos(h) a(h)má(h)re(h) quod(h) prǽ(h)ci(dr)pis.(d.) (::)}
 $Per Dominum
 
 [Lectio7]

@@ -198,7 +198,7 @@ R. Ecce sponsus venit, exíte óbviam ei.
 
 [Capitulum Laudes]
 !2 Cor 10:17-18
-{(c3) Fra(h)tres:(h) Qui(h) glo(h)ri(h)á(h)tur,(h) in(h) Dó(h)mi(h)no(h) glo(h)ri(h)é(h)tur.(f.) †(,) Non(h) e(h)nim(h) qui(h) se(h)íp(h)sum(h) com(h)mén(h)dat,(h) il(h)le(g) pro(f)bá(h)tus(h) est;(h.) *(;) sed(h) quem(h) De(h)us(h) com(h)mén(f)dat.(ef..) (::)}
+{(c3) Fra(h)tres:(h.) (,) Qui(h) glo(h)ri(h)á(h)tur,(h) in(h) Dó(h)mi(h)no(h) glo(h)ri(h)é(h)tur.(f.) †(;) Non(h) e(h)nim(h) qui(h) se(h)íp(h)sum(h) com(h)mén(h)dat,(h) il(h)le(g) pro(f)bá(h)tus(h) est;(h.) *(;) sed(h) quem(h) De(h)us(h) com(h)mén(f)dat.(ef..) (::)}
 $Deo gratias
 
 [Versum 2]
@@ -212,7 +212,7 @@ R/. Prop(h)tér(h)e(h)a(h) be(h)ne(h)dí(h)xit(h) te(h) De(h)us(h) in(h) æ(h)t�
 
 [Lectio Prima]
 !Sir 51:13-14
-{(c3) Dó(h)mi(h)ne,(h) De(h)us(h) me(h)us,(h) ex(h)al(h)tás(h)ti(h) su(h)per(h) ter(h)ram(h) ha(h)bi(h)ta(h)ti(h)ó(h)nem(h) me(h)am,(h) et(h) pro(h) mor(h)te(h) de(h)flu(h)én(h)te(h) de(h)pre(h)cá(h)ta(f) sum.(f.) †(,) In(h)vo(h)cá(h)vi(h) Dó(h)mi(h)num,(h) Pa(h)trem(h) Dó(h)mi(h)ni(h) me(h)i,(h) ut(h) non(h) de(h)re(h)lín(h)quat(h) me(h) in(h) di(h)e(h) tri(h)bu(h)la(h)ti(h)ó(g)nis(f) me(h)æ,(h.) *(;) et(h) in(h) tém(h)po(h)re(h) su(h)per(h)bó(h)rum(h) si(h)ne(h) ad(h)ju(h)tó(f)ri(e)o.(ef..) (::)}
+{(c3) Dó(h)mi(h)ne,(h) De(h)us(h) me(h)us,(h) ex(h)al(h)tás(h)ti(h) su(h)per(h) ter(h)ram(h) ha(h)bi(h)ta(h)ti(h)ó(h)nem(h) me(h)am,(h) et(h) pro(h) mor(h)te(h) de(h)flu(h)én(h)te(h) de(h)pre(h)cá(h)ta(f) sum.(f.) †(;) In(h)vo(h)cá(h)vi(h) Dó(h)mi(h)num,(h) Pa(h)trem(h) Dó(h)mi(h)ni(h) me(h)i,(h) ut(h) non(h) de(h)re(h)lín(h)quat(h) me(h) in(h) di(h)e(h) tri(h)bu(h)la(h)ti(h)ó(g)nis(f) me(h)æ,(h.) *(;) et(h) in(h) tém(h)po(h)re(h) su(h)per(h)bó(h)rum(h) si(h)ne(h) ad(h)ju(h)tó(f)ri(e)o.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. {gabc:Commune/C6/rb--specie_tua--solesmes_1961.1}
@@ -221,7 +221,7 @@ R.br. {gabc:Commune/C6/rb--specie_tua_paschal_time--solesmes_1961.1}
 
 [Capitulum Sexta]
 !2 Cor 11:2
-{(c3) Æ(h)mu(h)lor(h) e(h)nim(h) vos(h) De(h)i(h) æ(h)mu(h)la(h)ti(h)ó(h)ne.(f.) †(,) De(h)spón(h)di(h) e(h)nim(h) vos(h) u(g)ni(f) vi(h)ro,(h.) *(;) vír(h)gi(h)nem(h) cas(h)tam(h) ex(h)hi(h)bé(h)re(h) Chris(f)to.(ef..) (::)}
+{(c3) Æ(h)mu(h)lor(h) e(h)nim(h) vos(h) De(h)i(h) æ(h)mu(h)la(h)ti(h)ó(h)ne.(f.) †(;) De(h)spón(h)di(h) e(h)nim(h) vos(h) u(g)ni(f) vi(h)ro,(h.) *(;) vír(h)gi(h)nem(h) cas(h)tam(h) ex(h)hi(h)bé(h)re(h) Chris(f)to.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

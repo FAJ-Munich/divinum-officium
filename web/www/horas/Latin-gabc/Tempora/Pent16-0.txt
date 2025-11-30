@@ -1,5 +1,5 @@
 [Oratio]
-Tua nos, quǽsumus, Dómine, grátia semper et prævéniat et sequátur: ac bonis opéribus júgiter præstet esse inténtos.
+{(c3) Tu(h)a(h) nos,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) grá(h)ti(h)a(h) sem(h)per(h) et(h) præ(h)vé(h)ni(h)at(h) et(g) se(f)quá(h hr)tur:(h.) *(;) ac(h) bo(h)nis(h) o(h)pé(h)ri(h)bus(h) jú(h)gi(h)ter(h) præ(h)stet(h) es(h)se(h) in(h)tén(h dr)tos.(d.) (::)}
 $Per Dominum
 
 [Lectio7]

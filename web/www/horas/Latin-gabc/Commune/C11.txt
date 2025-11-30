@@ -133,7 +133,7 @@ R/. Ut(h) dig(h)ni(h) ef(h)fi(h)ci(h)á(h)mur(h) pro(h)mis(h)si(h)ó(h)ni(h)bus(
 
 [Capitulum Laudes]
 !Sir 24:14
-{(c3) Ab(h) in(h)í(h)ti(h)o(h) et(h) an(h)te(h) sǽ(h)cu(h)la(h) cre(h)á(h)ta(f) sum,(f.) †(,) et(h) us(h)que(h) ad(h) fu(h)tú(h)rum(h) sǽ(h)cu(h)lum(g) non(f) dé(h)si(h)nam,(h.) *(;) et(h) in(h) ha(h)bi(h)ta(h)ti(h)ó(h)ne(h) sanc(h)ta(h) co(h)ram(h) ip(h)so(h) mi(h)nis(h)trá(f)vi.(ef..) (::)}
+{(c3) Ab(h) in(h)í(h)ti(h)o(h) et(h) an(h)te(h) sǽ(h)cu(h)la(h) cre(h)á(h)ta(f) sum,(f.) †(;) et(h) us(h)que(h) ad(h) fu(h)tú(h)rum(h) sǽ(h)cu(h)lum(g) non(f) dé(h)si(h)nam,(h.) *(;) et(h) in(h) ha(h)bi(h)ta(h)ti(h)ó(h)ne(h) sanc(h)ta(h) co(h)ram(h) ip(h)so(h) mi(h)nis(h)trá(f)vi.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -154,11 +154,11 @@ $Deo gratias
 
 [Lectio Prima]
 !Sir 24:19-20
-{(c3) In(h) pla(h)té(h)is(h) sic(h)ut(h) cin(h)na(h)mó(h)mum(h) et(h) bál(h)sa(h)mum(h) a(h)ro(h)ma(h)tí(h)zans(h) o(h)dó(h)rem(h) de(h)di:(f.) †(,) qua(h)si(h) myr(h)rha(g) e(f)léc(h)ta,(h.) *(;) de(h)di(h) su(h)a(h)vi(h)tá(h)tem(h) o(h)dó(f)ris.(ef..) (::)}
+{(c3) In(h) pla(h)té(h)is(h) sic(h)ut(h) cin(h)na(h)mó(h)mum(h) et(h) bál(h)sa(h)mum(h) a(h)ro(h)ma(h)tí(h)zans(h) o(h)dó(h)rem(h) de(h)di:(f.) †(;) qua(h)si(h) myr(h)rha(g) e(f)léc(h)ta,(h.) *(;) de(h)di(h) su(h)a(h)vi(h)tá(h)tem(h) o(h)dó(f)ris.(ef..) (::)}
 
 [Capitulum Sexta]
 !Sir 24:15-16
-{(c3) Et(h) sic(h) in(h) Si(h)on(h) fir(h)má(h)ta(h) sum,(h) et(h) in(h) ci(h)vi(h)tá(h)te(h) sanc(h)ti(h)fi(h)cá(h)ta(h) si(h)mí(h)li(h)ter(h) re(h)qui(h)é(h)vi,(h) et(h) in(h) Je(h)rú(h)sa(h)lem(h) pot(h)és(h)tas(h) me(h)a.(f.) †(,) Et(h) ra(h)di(h)cá(h)vi(h) in(h) pó(h)pu(h)lo(h) ho(h)no(h)ri(h)fi(h)cá(h)to,(h) et(h) in(h) par(h)te(h) De(h)i(h) me(h)i(h) he(h)ré(h)di(h)tas(g) il(f)lí(h)us,(h.) *(;) et(h) in(h) ple(h)ni(h)tú(h)di(h)ne(h) sanc(h)tó(h)rum(h) de(h)tén(h)ti(h)o(h) me(f)a.(ef..) (::)}
+{(c3) Et(h) sic(h) in(h) Si(h)on(h) fir(h)má(h)ta(h) sum,(h) et(h) in(h) ci(h)vi(h)tá(h)te(h) sanc(h)ti(h)fi(h)cá(h)ta(h) si(h)mí(h)li(h)ter(h) re(h)qui(h)é(h)vi,(h) et(h) in(h) Je(h)rú(h)sa(h)lem(h) pot(h)és(h)tas(h) me(h)a.(f.) †(;) Et(h) ra(h)di(h)cá(h)vi(h) in(h) pó(h)pu(h)lo(h) ho(h)no(h)ri(h)fi(h)cá(h)to,(h) et(h) in(h) par(h)te(h) De(h)i(h) me(h)i(h) he(h)ré(h)di(h)tas(g) il(f)lí(h)us,(h.) *(;) et(h) in(h) ple(h)ni(h)tú(h)di(h)ne(h) sanc(h)tó(h)rum(h) de(h)tén(h)ti(h)o(h) me(f)a.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

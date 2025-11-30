@@ -1,5 +1,5 @@
 [Oratio]
-Excita, quǽsumus, Dómine, poténtiam tuam, et veni: ut hi, qui in tua pietáte confídunt, ab omni cítius adversitáte liberéntur:
+{(c3) Ex(h)ci(h)ta,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) pot(h)én(h)ti(h)am(h) tu(h)am,(h) et(h) ve(h)ni:(f.) †(,) ut(h) hi,(h) qui(h) in(h) tu(h)a(h) pi(h)e(h)tá(h)te(g) con(f)fí(h hr)dunt,(h.) *(;) ab(h) om(h)ni(h) cí(h)ti(h)us(h) ad(h)ver(h)si(h)tá(h)te(h) li(h)be(h)rén(h dr)tur:(d.) (::)}
 $Qui vivis
 
 [Lectio1]

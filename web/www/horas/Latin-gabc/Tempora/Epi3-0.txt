@@ -1,5 +1,5 @@
 [Oratio]
-Omnípotens sempitérne Deus, infirmitátem nostram propítius réspice: atque, ad protegéndum nos, déxteram tuæ majestátis exténde.
+{(c3) Om(h)ní(h)pot(h)ens(h) sem(h)pi(h)tér(h)ne(h) De(h)us,(h) in(h)fir(h)mi(h)tá(h)tem(h) nos(h)tram(h) pro(h)pí(h)ti(h)us(h) ré(h)spi(f)ce:(f.) †(,) at(h)que,(h) ad(h) pro(g)te(f)gén(h)dum(hr) nos,(h.) *(;) déx(h)te(h)ram(h) tu(h)æ(h) ma(h)jes(h)tá(h)tis(h) ex(h)tén(h dr)de.(d.) (::)}
 $Per Dominum
 
 [Lectio1]

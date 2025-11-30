@@ -2,7 +2,7 @@
 Fecit Joas * rectum coram Dómino cunctis diébus, quibus dócuit eum Jójada sacérdos.
 
 [Oratio]
-Deus, qui omnipoténtiam tuam parcéndo máxime et miserándo maniféstas: multíplica super nos misericórdiam tuam; ut, ad tua promíssa curréntes, cæléstium bonórum fácias esse consórtes.
+{(c3) De(h)us,(h) qui(h) om(h)ni(h)pot(h)én(h)ti(h)am(h) tu(h)am(h) par(h)cén(h)do(h) má(h)xi(h)me(h) et(h) mi(h)se(h)rán(h)do(h) ma(h)ni(h)fés(h)tas:(f.) †(,) mul(h)tí(h)pli(h)ca(h) su(h)per(h) nos(h) mi(h)se(h)ri(h)cór(h)di(h)am(h) tu(h)am;(h) ut,(h) ad(h) tu(h)a(h) pro(h)mís(h)sa(g) cur(f)rén(h hr)tes,(h.) *(;) cæ(h)lés(h)ti(h)um(h) bo(h)nó(h)rum(h) fá(h)ci(h)as(h) es(h)se(h) con(h)sór(h dr)tes.(d.) (::)}
 $Per Dominum
 
 [Lectio1]

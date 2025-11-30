@@ -37,12 +37,12 @@ R. Pacífice loquebántur mihi inimíci mei, et in ira molésti erant mihi: * Vi
 In die magno * festivitátis stábat Jesus, et clamábat dicens: Si quis sitit, véniat ad me, et bibat.
 
 [Oratio 2]
-Sanctífica, quǽsumus, Dómine, nostra jejúnia: et cunctárum nobis indulgéntiam propítius largíre culpárum.
+{(c3) Sanc(h)tí(h)fi(h)ca,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) nos(h)tra(g) je(f)jú(h)ni(hr)a:(h.) *(;) et(h) cunc(h)tá(h)rum(h) no(h)bis(h) in(h)dul(h)gén(h)ti(h)am(h) pro(h)pí(h)ti(h)us(h) lar(h)gí(h)re(h) cul(h)pá(h dr)rum.(d.) (::)}
 $Per Dominum
 
 [Ant 3]
 {name:Si quis sitit;office-part:Antiphona;mode:4;annotation:4.a;book:Antiphonale Monasticum, 1934, p. 394;transcriber:Harpa Dei;%%(c3) SI(e') quis(f) si(h_i)tit,(ii) *(,) vé(h')ni(i)at(j) et(ih~) bi(i.)bat:(i.) (;) et(f') de(i) ven(h')tre(g) e(f_e~)jus(f_e) (,) flu(d')ent(e) a(f')quæ(h) vi(f.)væ.(f.) (::)};;4a
 
 [Oratio 3]
-Da, quǽsumus, Dómine, pópulo tuo salútem mentis et córporis: ut bonis opéribus inhæréndo, tua semper mereátur protectióne deféndi.
+{(c3) Da,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) pó(h)pu(h)lo(h) tu(h)o(h) sa(h)lú(h)tem(h) men(h)tis(g) et(f) cór(h)po(hr)ris:(h.) *(;) ut(h) bo(h)nis(h) o(h)pé(h)ri(h)bus(h) in(h)hæ(h)rén(h)do,(h) tu(h)a(h) sem(h)per(h) me(h)re(h)á(h)tur(h) pro(h)tec(h)ti(h)ó(h)ne(h) de(h)fén(h dr)di.(d.) (::)}
 $Per Dominum.

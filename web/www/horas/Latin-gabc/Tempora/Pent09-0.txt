@@ -2,7 +2,7 @@
 Dum tólleret Dóminus * Elíam per túrbinem in cælum, Eliséus clamábat: Pater mi, currus Israël et auríga ejus.
 
 [Oratio]
-Páteant aures misericórdiæ tuæ, Dómine, précibus supplicántium: et, ut peténtibus desideráta concédas; fac eos, quæ tibi sunt plácita, postuláre.
+{(c3) Pá(h)te(h)ant(h) au(h)res(h) mi(h)se(h)ri(h)cór(h)di(h)æ(h) tu(h)æ,(h) Dó(h)mi(h)ne,(h) pré(h)ci(h)bus(h) sup(h)pli(h)cán(h)ti(f)um:(f.) †(,) et,(h) ut(h) pe(h)tén(h)ti(h)bus(h) de(h)si(h)de(h)rá(h)ta(g) con(f)cé(h hr)das;(h.) *(;) fac(h) e(h)os,(h) quæ(h) ti(h)bi(h) sunt(h) plá(h)ci(h)ta,(h) pos(h)tu(h)lá(h dr)re.(d.) (::)}
 $Per Dominum
 
 [Lectio1]

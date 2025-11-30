@@ -11,7 +11,7 @@
 @Commune/C9:Oratio_a_porta:s/&psalm.*\)//s
 _
 $Oremus
-v. Propitiáre, quǽsumus, Dómine, animábus ómnium famulórum famularúmque tuárum, pro quibus majestátem tuam supplíciter exorámus: ut, per hæc piæ deprecatiónis offícia, perveníre mereántur ad réquiem sempitérnam.
+Propitiáre, quǽsumus, Dómine, animábus ómnium famulórum famularúmque tuárum, pro quibus majestátem tuam supplíciter exorámus: ut, per hæc piæ deprecatiónis offícia, perveníre mereántur ad réquiem sempitérnam.
 $Per Dominum
 
 [Lectio4]
@@ -77,7 +77,7 @@ R. Amen.
 @Commune/C9:Oratio_a_porta:s/&psalm.*\)//s
 _
 $Oremus
-v. Súpplices, Dómine, pro animábus ómnium famulórum famularúmque tuárum preces effúndimus: ut, quidquid conversatióne contraxérunt humána, clemens indúlgeas, et pœnis eórum finem benígnus impónas.
+Súpplices, Dómine, pro animábus ómnium famulórum famularúmque tuárum preces effúndimus: ut, quidquid conversatióne contraxérunt humána, clemens indúlgeas, et pœnis eórum finem benígnus impónas.
 $Per Dominum
 
 [Special Prima]

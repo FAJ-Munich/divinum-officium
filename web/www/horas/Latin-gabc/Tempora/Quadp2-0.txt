@@ -2,7 +2,7 @@
 Dixit Dóminus * ad Noë: Finis univérsæ carnis venit coram me: fac tibi arcam de lignis lævigátis, ut salvétur univérsum semen in ea.
 
 [Oratio]
-Deus, qui cónspicis, quia ex nulla nostra actióne confídimus: concéde propítius; ut, contra advérsa ómnia Doctóris géntium protectióne muniámur.
+{(c3) De(h)us,(h) qui(h) cón(h)spi(h)cis,(h) qui(h)a(h) ex(h) nul(h)la(h) nos(h)tra(h) ac(h)ti(h)ó(h)ne(h) con(h)fí(h)di(f)mus:(f.) †(,) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut,(h) con(h)tra(h) ad(h)vér(g)sa(f) óm(h)ni(hr)a(h.) *(;) Doc(h)tó(h)ris(h) gén(h)ti(h)um(h) pro(h)tec(h)ti(h)ó(h)ne(h) mu(h)ni(h)á(h dr)mur.(d.) (::)}
 $Per Dominum
 
 [Lectio1]
@@ -128,7 +128,7 @@ In týmpano et choro, * in chordis et órgano, laudáte Deum.
 
 [Capitulum Laudes]
 !2 Cor 11:19-20
-v. Fratres: Libénter suffértis insipiéntes, cum sitis ipsi sapiéntes: sustinétis enim si quis vos in servitútem rédigit, si quis dévorat, si quis áccipit, si quis extóllitur, si quis in fáciem vos cædit.
+{(c3) Fra(h)tres:(h.) (,) Li(h)bén(h)ter(h) suf(h)fér(h)tis(h) in(h)si(h)pi(h)én(h)tes,(h) cum(h) si(h)tis(h) ip(h)si(h) sa(h)pi(h)én(h)tes:(f.) †(;) sus(h)ti(h)né(h)tis(h) e(h)nim(h) si(h) quis(h) vos(h) in(h) ser(h)vi(h)tú(h)tem(h) réd(h)i(h)git,(h) si(h) quis(h) dé(h)vo(h)rat,(h) si(h) quis(h) ác(h)ci(h)pit,(h) si(h) quis(g) ex(f)tól(h)li(hr)tur,(h.) *(;) si(h) quis(h) in(h) fá(h)ci(h)em(h) vos(h) cæ(f)dit.(ef..) (::)}
 $Deo gratias
 
 [Ant 2]
@@ -145,7 +145,7 @@ Semen cécidit * in terram bonam, et áttulit fructum, áliud centésimum, et á
 
 [Capitulum Sexta]
 !2 Cor 11:25
-v. Ter virgis cæsus sum, semel lapidátus sum: ter naufrágium feci, nocte et die in profúndo maris fui.
+{(c3) Ter(h) vir(h)gis(h) cæ(h)sus(h) sum,(h) se(h)mel(h) la(h)pi(h)dá(h)tus(h) sum:(h_') (,) ter(h) nau(h)frá(h)gi(g)um(f) fe(h hr)ci,(h.) *(;) noc(h)te(h) et(h) di(h)e(h) in(h) pro(h)fún(h)do(h) ma(h)ris(h) fu(f)i.(ef..) (::)}
 $Deo gratias
 
 [Ant Nona]
@@ -153,7 +153,7 @@ Si vere, fratres, * dívites esse cúpitis, veras divítias amáte.
 
 [Capitulum Nona]
 !2 Cor 12:9
-v. Libénter ígitur gloriábor in infirmitátibus meis, ut inhábitet in me virtus Christi.
+{(c3) Li(h)bén(h)ter(h) í(h)gi(h)tur(h) glo(h)ri(h)á(h)bor(h) in(h) in(h)fir(h)mi(h)tá(h)ti(g)bus(f) me(h hr)is,(h.) *(;) ut(h) in(h)há(h)bi(h)tet(h) in(h) me(h) vir(h)tus(h) Chris(f)ti.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

@@ -30,7 +30,7 @@ Amen.
 R/. U(h)num(h) ex(h) his(h) non(h) con(h)te(h)ré(h)tur.(g_'/hvGF'E!fgf.) (::)}
 
 [Oratio]
-Deus, qui hanc sacrosánctam ecclésiam tot voluísti Sanctórum decorári Relíquiis: auge in nobis resurrectiónis fidem; et fac nos immortális glóriæ partícipes, cujus in eorum cinêribus pígnora venerámur.
+{(c3) De(h)us,(h) qui(h) hanc(h) sa(h)cro(h)sánc(h)tam(h) ec(h)clé(h)si(h)am(h) tot(h) vo(h)lu(h)ís(h)ti(h) Sanc(h)tó(h)rum(h) de(h)co(h)rá(h)ri(h) Re(h)lí(h)qui(f)is:(f.) †(,) au(h)ge(h) in(h) no(h)bis(h) re(h)sur(h)rec(h)ti(h)ó(g)nis(f) fi(h hr)dem;(h.) *(;) et(h) fac(h) nos(h) im(h)mor(h)tá(h)lis(h) gló(h)ri(h)æ(h) par(h)tí(h)ci(h)pes,(h) cu(h)jus(h) in(h) e(h)o(h)rum(h) ci(h)nêri(h)bus(h) pí(h)gno(h)ra(h) ve(h)ne(h)rá(h dr)mur.(d.) (::)}
 $Per Dominum
 
 [Nocturn 1 Versum]
@@ -47,7 +47,7 @@ R/.Tunc(h) et(h) vos(h) ap(h)pa(h)ré(h)bi(h)tis(h) cum(h) ip(h)so(h) in(h) gló
 
 [Capitulum Laudes]
 !Rom 8:11
-v. Quod si Spíritus ejus, qui suscitávit Jesum a mórtuis, hábitat in vobis: qui suscitávit Jesum Christum a mórtuis, vivificábit, et mortália córpora vestra, propter inhabitántem Spíritum ejus in vobis.
+{(c3) Si(h) Spí(h)ri(h)tus(h) e(h)jus,(h) qui(h) su(h)sci(h)tá(h)vit(h) Je(h)sum(h) a(h) mór(h)tu(h)is,(h) há(h)bi(h)tat(h) in(h) vo(h)bis:(f.) †(;) qui(h) su(h)sci(h)tá(h)vit(h) Je(h)sum(h) Chris(h)tum(h) a(h) mór(h)tu(h)is,(h) vi(h)vi(h)fi(h)cá(h)bit,(h) et(h) mor(h)tá(h)li(h)a(h) cór(h)po(g)ra(f) ves(h hr)tra,(h.) *(;) prop(h)ter(h) in(h)ha(h)bi(h)tán(h)tem(h) Spí(h)ri(h)tum(h) e(h)jus(h) in(h) vo(f)bis.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -84,17 +84,17 @@ Amen.
 
 [Capitulum Tertia]
 !Ph 3:20-21
-v. Nostra autem conversátio in cælis est: unde étiam Salvatórem exspectámus Dóminum nostrum Jesum Christum, qui reformábit corpus humilitátis nostræ, configurátum córpori claritátis suæ.
+{(c3) Nos(h)tra(h) au(h)tem(h) con(h)ver(h)sá(h)ti(h)o(h) in(h) cæ(h)lis(f) est:(f.) †(;) un(h)de(h) ét(h)i(h)am(h) Sal(h)va(h)tó(h)rem(h) ex(h)spec(h)tá(h)mus(h) Dó(h)mi(h)num(h) nos(h)trum(h) Je(h)sum(h) Chris(h)tum,(h) qui(h) re(h)for(h)má(h)bit(h) cor(h)pus(h) hu(h)mi(h)li(h)tá(g)tis(f) nos(h hr)træ,(h.) *(;) con(h)fi(h)gu(h)rá(h)tum(h) cór(h)po(h)ri(h) cla(h)ri(h)tá(h)tis(h) su(f)æ.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Sexta]
 !1 Pe 4:14
-v. Si exprobrámini in nómine Christi, beáti éritis: quóniam quod est honóris, glóriæ, et virtútis Dei, et qui est ejus Spíritus, super vos requiéscit.
+{(c3) Si(h) ex(h)pro(h)brá(h)mi(h)ni(h) in(h) nó(h)mi(h)ne(h) Chris(h)ti,(h) be(h)á(h)ti(h) é(h)ri(f)tis:(f.) †(;) quón(h)i(h)am(h) quod(h) est(h) ho(h)nó(h)ris,(h) gló(h)ri(h)æ,(h) et(h) vir(h)tú(h)tis(h) De(h)i,(h) et(h) qui(h) est(h) e(g)jus(f) Spí(h)ri(hr)tus,(h.) *(;) su(h)per(h) vos(h) re(h)qui(h)é(f)scit.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Nona]
 !1 Pe 3:13-14
-v. Quis est, qui vobis nóceat, si boni æmulatóres fuéritis? * sed et si quid patímini propter justítiam, beáti.
+{(c3) Quis(h) est,(h) qui(h) vo(h)bis(h) nó(h)ce(h)at,(h.) (,) si(g) bo(g)ni(g) æ(g)mu(g)la(g)tó(g)res(g) fu(g)é(f)ri(g)tis?(gh..) *(;) sed(h) et(h) si(h) quid(h) pa(h)tí(h)mi(h)ni(h) prop(h)ter(h) jus(h)tí(h)ti(h)am,(h) be(h)á(f)ti.(ef..) (::)}
 $Deo gratias
 
 [Responsory NonaM]

@@ -2,7 +2,7 @@
 Exaudísti, Dómine, * oratiónem servi tui, ut ædificárem templum nómini tuo.
 
 [Oratio]
-Largíre nobis, quǽsumus, Dómine, semper spíritum cogitándi quæ recta sunt, propítius et agéndi: ut, qui sine te esse non póssumus, secúndum te vívere valeámus.
+{(c3) Lar(h)gí(h)re(h) no(h)bis,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) sem(h)per(h) spí(h)ri(h)tum(h) co(h)gi(h)tán(h)di(h) quæ(h) rec(h)ta(h) sunt,(h) pro(h)pí(h)ti(h)us(h) et(h) a(h)gén(h)di:(f.) †(,) ut,(h) qui(h) si(h)ne(h) te(h) es(h)se(g) non(f) pós(h)su(hr)mus,(h.) *(;) se(h)cún(h)dum(h) te(h) ví(h)ve(h)re(h) va(h)le(h)á(h dr)mus.(d.) (::)}
 $Per Dominum
 
 [Lectio1]

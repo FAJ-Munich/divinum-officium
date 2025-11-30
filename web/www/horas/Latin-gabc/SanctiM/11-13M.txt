@@ -1,5 +1,5 @@
 [Oratio]
-Concéde, quǽsumus omnípotens Deus, ut ad meliórem vitam sanctórum Monachórum exémpla nos próvocent: † quátenus, quorum solémnia ágimus, * étiam actus imitémur.
+{(c3) Con(h)cé(h)de,(h) quǽ(h)su(h)mus(h) om(h)ní(h)pot(h)ens(h) De(h)us,(h) ut(h) ad(h) me(h)li(h)ó(h)rem(h) vi(h)tam(h) sanc(h)tó(h)rum(h) Mo(h)na(h)chó(h)rum(h) ex(h)ém(h)pla(h) nos(h) pró(h)vo(f)cent:(f.) †(,) quá(h)te(h)nus,(h) quo(h)rum(h) so(h)lém(h)ni(g)a(f) á(h)gi(hr)mus,(h.) *(;) ét(h)i(h)am(h) ac(h)tus(h) i(h)mi(h)té(h dr)mur.(d.) (::)}
 $Per Dominum
 
 [Hymnus Matutinum]
@@ -33,7 +33,7 @@ O quam gloriósum est regnum * in quo cum Christo gaudent omnes Sancti, amícti 
 
 [Capitulum Laudes]
 !Isa 8:18
-v. Ecce ego et púeri mei quos dedit mihi Dóminus in signum, et in porténtum Israël a Dómino exercítuum, qui hábitat in monte Sion.
+{(c3) Ec(h)ce(h) e(h)go(h) et(h) pú(h)e(h)ri(h) me(h)i(h) quos(h) de(h)dit(h) mi(h)hi(h) Dó(h)mi(h)nus(h) in(h) si(h)gnum,(f.) †(;) et(h) in(h) por(h)tén(h)tum(h) Is(h)ra(h)ël(h) a(h) Dó(h)mi(h)no(h) ex(g)er(f)cí(h)tu(hr)um,(h.) *(;) qui(h) há(h)bi(h)tat(h) in(h) mon(h)te(h) Si(f)on.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -65,12 +65,12 @@ Amen.
 
 [Capitulum Sexta]
 !Sir 44:7
-v. Omnes isti in generatiónibus gentis suæ glóriam adépti sunt, et in diébus suis habéntur in láudibus.
+{(c3) Om(h)nes(h) is(h)ti(h) in(h) ge(h)ne(h)ra(h)ti(h)ó(h)ni(h)bus(h) gen(h)tis(h) su(h)æ(h) gló(h)ri(h)am(g) ad(f)ép(h)ti(hr) sunt,(h.) *(;) et(h) in(h) di(h)é(h)bus(h) su(h)is(h) ha(h)bén(h)tur(h) in(h) láu(h)di(f)bus.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Nona]
 !Sir 44:13
-v. Fílii eórum propter illos usque in ætérnum manent: semen eórum et glória eórum non derelinquétur.
+{(c3) Fí(h)li(h)i(h) e(h)ó(h)rum(h) prop(h)ter(h) il(h)los(h) us(h)que(h) in(h) æ(h)tér(g)num(f) ma(h hr)nent:(h.) *(;) se(h)men(h) e(h)ó(h)rum(h) et(h) gló(h)ri(h)a(h) e(h)ó(h)rum(h) non(h) de(h)re(h)lin(h)qué(f)tur.(ef..) (::)}
 $Deo gratias
 
 [Ant Vespera 3]

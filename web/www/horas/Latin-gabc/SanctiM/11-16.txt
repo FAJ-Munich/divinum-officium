@@ -51,7 +51,7 @@ Amen.
 Egredímini * et vidéte, fíliæ Sion, Gertrúdem in diadémate quo coronávit illam Christus in die desponsatiónis illíus, et in die lætítiæ cordis ejus.
 
 [Oratio]
-Deus, qui in puríssimo corde beátæ Gertrúdis Vírginis tuæ jucúndam tibi habitatiónem præparásti; ejus méritis et intercessióne cordis nostri máculas cleménter abstérge; ut digna divínæ majestátis tuæ habitátio éffici mereátur.
+{(c3) De(h)us,(h) qui(h) in(h) pu(h)rís(h)si(h)mo(h) cor(h)de(h) be(h)á(h)tæ(h) Ger(h)trú(h)dis(h) Vír(h)gi(h)nis(h) tu(h)æ(h) ju(h)cún(h)dam(h) ti(h)bi(h) ha(h)bi(h)ta(h)ti(h)ó(h)nem(h) præ(h)pa(h)rás(h)ti;(f.) †(,) e(h)jus(h) mé(h)ri(h)tis(h) et(h) in(h)ter(h)ces(h)si(h)ó(h)ne(h) cor(h)dis(h) nos(h)tri(h) má(h)cu(h)las(h) cle(h)mén(h)ter(g) abs(f)tér(h hr)ge;(h.) *(;) ut(h) di(h)gna(h) di(h)ví(h)næ(h) ma(h)jes(h)tá(h)tis(h) tu(h)æ(h) ha(h)bi(h)tá(h)ti(h)o(h) éf(h)fi(h)ci(h) me(h)re(h)á(h dr)tur.(d.) (::)}
 $Per Dominum
 
 [Hymnus Matutinum]
@@ -188,7 +188,7 @@ Ancílla fidélis * et sponsa elécta intrávit in cor et gáudium Dómini sui, 
 
 [Capitulum Laudes]
 !Cant 3:4
-v. Invéni quem díligit ánima mea: ténui eum, nec dimíttam, donec introdúcam illum in domum matris meæ, et in cubículum genetrícis meæ.
+{(c3) In(h)vé(h)ni(h) quem(h) dí(h)li(h)git(h) á(h)ni(h)ma(h) me(h)a:(f.) †(;) té(h)nu(h)i(h) e(h)um,(h) nec(h) di(h)mít(h)tam,(h) do(h)nec(h) in(h)tro(h)dú(h)cam(h) il(h)lum(h) in(h) do(h)mum(h) ma(g)tris(f) me(h hr)æ,(h.) *(;) et(h) in(h) cu(h)bí(h)cu(h)lum(h) ge(h)ne(h)trí(h)cis(h) me(f)æ.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]

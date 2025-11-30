@@ -4,7 +4,7 @@ Usque modo * non petístis quidquam in nómine meo: pétite, et accipiétis, all
 {name:Usque modo;office-part:Antiphona;mode:2;book:Antiphonale Monasticum, 1934, p. 499;transcriber:Jakub Jelínek;commentary:Io. 16, 24;%%(f3) US(e)que(ef~) mo(f)do(f'_) *(,) non(f) pe(g_h)tís(i)tis(hg) quid(f.)quam(f.) (,) in(f) nó(gh)mi(g)ne(f) me(e.)o:(e.) (;) pé(g)ti(f)te,(e'_) (,) et(f) ac(f')ci(e)pi(f')é(h)tis,(g_h) al(ij)le(hg)lú(f.)ia.(f.) (::)};;2-monasticus
 
 [Oratio]
-Deus, a quo bona cuncta procédunt, largíre supplícibus tuis: ut cogitémus, te inspiránte, quæ recta sunt; et, te gubernánte, éadem faciámus.
+{(c3) De(h)us,(h) a(h) quo(h) bo(h)na(h) cunc(h)ta(h) pro(h)cé(h)dunt,(h) lar(h)gí(h)re(h) sup(h)plí(h)ci(h)bus(h) tu(h)is:(f.) †(,) ut(h) co(h)gi(h)té(h)mus,(h) te(h) in(h)spi(h)rán(h)te,(g) quæ(f) rec(h)ta(hr) sunt;(h.) *(;) et,(h) te(h) gu(h)ber(h)nán(h)te,(h) é(h)a(h)dem(h) fa(h)ci(h)á(h dr)mus.(d.) (::)}
 $Per Dominum
 
 [Lectio1]
@@ -67,17 +67,17 @@ Usque modo, inquit, non petístis quidquam in nómine meo. Pétite, et accipiét
 
 [Capitulum Laudes]
 !Jac 1:22-24
-v. Caríssimi: Estóte factóres verbi, et non auditóres tantum: falléntes vosmetípsos. Quia si quis audítor est verbi, et non factor, hic comparábitur viro consideránti vultum nativitátis suæ in spéculo: considerávit enim se, et ábiit, et statim oblítus est qualis fúerit.
+{(c3) Ca(h)rís(h)si(h)mi:(h.) (,) Es(h)tó(h)te(h) fac(h)tó(h)res(h) ver(h)bi,(h) et(h) non(h) au(h)di(h)tó(h)res(h) tan(h)tum:(h_') (,) fal(h)lén(h)tes(h) vos(h)met(h)íp(h)sos.(f.) †(;) Qui(h)a(h) si(h) quis(h) au(h)dí(h)tor(h) est(h) ver(h)bi,(h) et(h) non(h) fac(h)tor,(h) hic(h) com(h)pa(h)rá(h)bi(h)tur(h) vi(h)ro(h) con(h)si(h)de(h)rán(h)ti(h) vul(h)tum(h) na(h)ti(h)vi(h)tá(h)tis(h) su(h)æ(g) in(f) spé(h)cu(hr)lo:(h.) *(;) con(h)si(h)de(h)rá(h)vit(h) e(h)nim(h) se,(h) et(h) áb(h)i(h)it,(h) et(h) sta(h)tim(h) ob(h)lí(h)tus(h) est(h) qua(h)lis(h) fú(h)e(f)rit.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Sexta]
 !Jas 1:25
-v. Qui autem perspéxerit in legem perféctam libertátis, et permánserit in ea, non audítor obliviósus factus, sed factor operis: hic beátus in facto suo erit.
+{(c3) Qui(h) au(h)tem(h) per(h)spé(h)xe(h)rit(h) in(h) le(h)gem(h) per(h)féc(h)tam(h) li(h)ber(h)tá(h)tis,(h) et(h) per(h)mán(h)se(h)rit(h) in(h) e(h)a,(f.) †(;) non(h) au(h)dí(h)tor(h) ob(h)li(h)vi(h)ó(h)sus(h) fac(h)tus,(h) sed(h) fac(h)tor(g) o(f)pe(h hr)ris:(h.) *(;) hic(h) be(h)á(h)tus(h) in(h) fac(h)to(h) su(h)o(h) e(f)rit.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Nona]
 !Jas 1:27
-v. Relígio munda et immaculáta apud Deum et Patrem, hæc est: visitáre pupíllos et víduas in tribulatióne eórum, et immaculátum se custodíre ab hoc sǽculo.
+{(c3) Re(h)lí(h)gi(h)o(h) mun(h)da(h) et(h) im(h)ma(h)cu(h)lá(h)ta(h) a(h)pud(h) De(h)um(h) et(h) Pa(h)trem,(h) hæc(h) est:(f.) †(;) vi(h)si(h)tá(h)re(h) pu(h)píl(h)los(h) et(h) ví(h)du(h)as(h) in(h) tri(h)bu(h)la(h)ti(h)ó(h)ne(g) e(f)ó(h hr)rum,(h.) *(;) et(h) im(h)ma(h)cu(h)lá(h)tum(h) se(h) cus(h)to(h)dí(h)re(h) ab(h) hoc(h) sǽ(h)cu(f)lo.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

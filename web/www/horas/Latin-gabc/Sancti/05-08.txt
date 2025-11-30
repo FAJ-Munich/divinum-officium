@@ -70,7 +70,7 @@ R/. Ha(h)bens(h) thu(h)rí(h)bu(h)lum(h) áu(h)re(h)um(h) in(h) ma(h)nu(h) su(h)
 Dum sacrum mystérium * cérneret Joánnes, Archángelus Míchaël tuba cécinit: Ignósce, Dómine, Deus noster, qui áperis librum, et solvis signácula ejus, allelúja.
 
 [Oratio]
-Deus, qui, miro órdine, Angelórum ministéria hominúmque dispénsas: concéde propítius; ut, a quibus tibi ministrántibus in cælo semper assístitur, ab his in terra vita nostra muniátur. 
+{(c3) De(h)us,(h) qui,(h) mi(h)ro(h) ór(h)di(h)ne,(h) An(h)ge(h)ló(h)rum(h) mi(h)nis(h)té(h)ri(h)a(h) ho(h)mi(h)núm(h)que(h) dis(h)pén(h)sas:(f.) †(,) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut,(h) a(h) qui(h)bus(h) ti(h)bi(h) mi(h)nis(h)trán(h)ti(h)bus(h) in(h) cæ(h)lo(h) sem(h)per(g) as(f)sís(h)ti(hr)tur,(h.) *(;) ab(h) his(h) in(h) ter(h)ra(h) vi(h)ta(h) nos(h)tra(h) mu(h)ni(h)á(h dr)tur.(d.) (::)}
 $Per Dominum
 
 [Invit]
@@ -147,7 +147,7 @@ R. Stetit in auxílium pro animábus justis. (Allelúja.)
 
 [Capitulum Laudes]
 !Apo 1:1-2
-v. Significávit Deus, quæ opórtet fíeri cito, loquens per Angelum suum servo suo Joánni, qui testimónium perhíbuit verbo Dei, et testimónium Jesu Christi, quæcúmque vidit.
+{(c3) Si(h)gni(h)fi(h)cá(h)vit(h) De(h)us,(h) quæ(h) o(h)pór(h)tet(h) fí(h)e(h)ri(h) ci(h)to,(f.) †(;) lo(h)quens(h) per(h) An(h)ge(h)lum(h) su(h)um(h) ser(h)vo(h) su(h)o(h) Jo(h)án(h)ni,(h) qui(h) tes(h)ti(h)mó(h)ni(h)um(h) per(h)hí(h)bu(h)it(h) ver(g)bo(f) De(h hr)i,(h.) *(;) et(h) tes(h)ti(h)mó(h)ni(h)um(h) Je(h)su(h) Chris(h)ti,(h) quæ(h)cúm(h)que(h) vi(f)dit.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -218,7 +218,7 @@ Factum est * siléntium in cælo, dum draco commítteret bellum; et Míchaël pu
 
 [Lectio Prima]
 !Apo 12:7-8
-v. Factum est prǽlium magnum in cælo: Míchaël et Angeli ejus præliabántur cum dracóne, et draco pugnábat et ángeli ejus: et non prævaluérunt, neque locus invéntus est eórum ámplius in cælo.
+{(c3) Fac(h)tum(h) est(h) prǽ(h)li(h)um(h) ma(h)gnum(h) in(h) cæ(h)lo:(f.) †(;) Mí(h)cha(h)ël(h) et(h) An(h)ge(h)li(h) e(h)jus(h) præ(h)li(h)a(h)bán(h)tur(h) cum(h) dra(h)có(h)ne,(h) et(h) dra(h)co(h) pu(h)gná(h)bat(h) et(h) án(h)ge(g)li(f) e(h hr)jus:(h.) *(;) et(h) non(h) præ(h)va(h)lu(h)é(h)runt,(h) ne(h)que(h) lo(h)cus(h) in(h)vén(h)tus(h) est(h) e(h)ó(h)rum(h) ám(h)pli(h)us(h) in(h) cæ(f)lo.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Stetit Angelus * Juxta aram templi.
@@ -230,7 +230,7 @@ R. Stetit Angelus * Juxta aram templi.
 
 [Capitulum Sexta]
 !Apo 5:11-12
-v. Audívi vocem Angelórum multórum in circúitu throni, et animálium et seniórum; et erat númerus eórum míllia míllium, voce magna dicéntium: Salus Deo nostro.
+{(c3) Au(h)dí(h)vi(h) vo(h)cem(h) An(h)ge(h)ló(h)rum(h) mul(h)tó(h)rum(h) in(h) cir(h)cú(h)i(h)tu(h) thro(h)ni,(h) et(h) a(h)ni(h)má(h)li(h)um(h) et(h) se(h)ni(h)ó(h)rum;(f.) †(;) et(h) e(h)rat(h) nú(h)me(h)rus(h) e(h)ó(h)rum(h) míl(h)li(g)a(f) míl(h)li(hr)um,(h.) *(;) vo(h)ce(h) ma(h)gna(h) di(h)cén(h)ti(h)um:(h_') (,) Sa(h)lus(h) De(h)o(h) nos(f)tro.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

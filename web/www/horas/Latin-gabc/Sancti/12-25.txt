@@ -232,7 +232,7 @@ Párvulus fílius * hódie natus est nobis: et vocábitur Deus, Fortis, allelúj
 
 [Capitulum Laudes]
 !Heb 1:1-2
-v. Multifáriam, multísque modis olim Deus loquens pátribus in prophétis: novíssime diébus istis locútus est nobis in Fílio, quem constítuit herédem universórum, per quem fecit et sǽcula.
+{(c3) Mul(h)ti(h)fá(h)ri(h)am,(h) mul(h)tís(h)que(h) mo(h)dis(h) o(h)lim(h) De(h)us(h) lo(h)quens(h) pá(h)tri(h)bus(h) in(h) pro(h)phé(h)tis:(f.) †(;) no(h)vís(h)si(h)me(h) di(h)é(h)bus(h) is(h)tis(h) lo(h)cú(h)tus(h) est(h) no(h)bis(h) in(h) Fí(h)li(h)o,(h) quem(h) con(h)stí(h)tu(h)it(h) he(h)ré(h)dem(h) u(h)ni(g)ver(f)só(h hr)rum,(h.) *(;) per(h) quem(h) fe(h)cit(h) et(h) sǽ(h)cu(f)la.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -303,7 +303,7 @@ $Per eumdem
 
 [Lectio Prima]
 !Heb 1:11-12
-v. Ipsi períbunt, tu autem permanébis; et omnes sicut vestiméntum veteráscent: et velut amíctum mutábis eos, et mutabúntur: tu autem idem ipse es, et anni tui non defícient.
+{(c3) Ip(h)si(h) per(h)í(h)bunt,(h) tu(h) au(h)tem(h) per(h)ma(h)né(h)bis;(f.) †(;) et(h) om(h)nes(h) sic(h)ut(h) ves(h)ti(h)mén(h)tum(h) ve(h)te(h)rá(h)scent:(h_') (,) et(h) vel(h)ut(h) a(h)míc(h)tum(h) mu(h)tá(h)bis(h) e(h)os,(h) et(h) mu(g)ta(f)bún(h hr)tur:(h.) *(;) tu(h) au(h)tem(h) i(h)dem(h) ip(h)se(h) es,(h) et(h) an(h)ni(h) tu(h)i(h) non(h) de(h)fí(h)ci(f)ent.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Verbum caro factum est, * Allelúja, allelúja.
@@ -315,7 +315,7 @@ R. Verbum caro factum est, * Allelúja, allelúja.
 
 [Capitulum Sexta]
 !Heb 1:10
-v. Et: Tu in princípio, Dómine, terram fundásti: et ópera mánuum tuárum sunt cæli.
+{(c3) Et:(h.) (,) Tu(h) in(h) prin(h)cí(h)pi(h)o,(h) Dó(h)mi(h)ne,(h) ter(h)ram(g) fun(f)dás(h hr)ti:(h.) *(;) et(h) ó(h)pe(h)ra(h) má(h)nu(h)um(h) tu(h)á(h)rum(h) sunt(h) cæ(f)li.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]
