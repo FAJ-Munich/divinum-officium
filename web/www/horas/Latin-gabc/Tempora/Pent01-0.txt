@@ -59,9 +59,9 @@ _
 R/. Et(h) de(h)scén(h)dat(h) su(h)per(h) nos(h) mi(h)se(h)ri(h)cór(h)di(h)a(h) tu(h)a.(f.) (::)}
 _
 $Oremus solemnis
-{(c4) De(g)us,(h) in(h) te(h) spe(h)rán(h)ti(h)um(h) for(h)ti(h)tú(h)do,(h) a(h)dés(h)to(h) pro(h)pí(h)ti(h)us(h) in(h)vo(h)ca(h)ti(h)ó(h)ni(h)bus(h) nos(h)tris:(g.) †(;) et,(g) qui(h)a(h) si(h)ne(h) te(h) ni(h)hil(h) pot(h)est(h) mor(h)tá(h)lis(h) in(h)fír(h)mi(h)tas,(h) præ(h)sta(h) au(h)xí(h)li(h)um(h) grá(h)ti(h)æ(h) tu(h)æ;(h.) *(;) ut,(h) in(h) ex(h)se(h)quén(h)dis(h) man(h)dá(h)tis(h) tu(h)is,(h) et(h) vo(h)lun(h)tá(h)te(h) ti(h)bi(h) et(h) ac(h)ti(h)ó(h)ne(h) pla(h)ce(g)á(g)mus.(i.) (::)}
+{(c4) De(g)us,(h) in(h) te(h) spe(h)rán(h)ti(h)um(h) for(h)ti(h)tú(h)do,(h) a(h)dés(h)to(h) pro(h)pí(h)ti(h)us(h) in(h)vo(h)ca(h)ti(h)ó(h)ni(h)bus(h) nos(h)tris:(g.) *(;) et,(g) qui(h)a(h) si(h)ne(h) te(h) ni(h)hil(h) pot(h)est(h) mor(h)tá(h)lis(h) in(h)fír(h)mi(h)tas,(h) præ(h)sta(h) au(h)xí(h)li(h)um(h) grá(h)ti(h)æ(h) tu(h)æ;(h.) (;) ut,(h) in(h) ex(h)se(h)quén(h)dis(h) man(h)dá(h)tis(h) tu(h)is,(h) et(h) vo(h)lun(h)tá(h)te(h) ti(h)bi(h) et(h) ac(h)ti(h)ó(h)ne(h) pla(h)ce(g)á(g)mus.(h.) (::)}
 (sed rubrica monastica)
-{(c3) De(h)us,(i) in(i) te(i) spe(i)rán(i)ti(i)um(i) for(i)ti(i)tú(i)do,(i) a(i)dés(i)to(i) pro(i)pí(i)ti(i)us(i) in(i)vo(i)ca(i)ti(i)ó(i)ni(i)bus(i) nos(i)tris:(h.) †(,) et,(h) qui(i)a(i) si(i)ne(i) te(i) ni(i)hil(i) pot(i)est(i) mor(i)tá(i)lis(i) in(i)fír(i)mi(i)tas,(i) præ(i)sta(i) au(i)xí(i)li(i)um(i) grá(i)ti(i)æ(i) tu(i)æ;(i_') *(;) ut,(i) in(i) ex(i)se(i)quén(i)dis(i) man(i)dá(i)tis(i) tu(i)is,(i) et(i) vo(i)lun(i)tá(i)te(i) ti(i)bi(i) et(i) ac(i)ti(i)ó(i)ne(i) pla(i)ce(h)á(h)mus.(i.) (::)}
+{(c3) De(h)us,(i) in(i) te(i) spe(i)rán(i)ti(i)um(i) for(i)ti(i)tú(i)do,(i) a(i)dés(i)to(i) pro(i)pí(i)ti(i)us(i) in(i)vo(i)ca(i)ti(i)ó(i)ni(i)bus(i) nos(i)tris:(h.) *(;) et,(h) qui(i)a(i) si(i)ne(i) te(i) ni(i)hil(i) pot(i)est(i) mor(i)tá(i)lis(i) in(i)fír(i)mi(i)tas,(i) præ(i)sta(i) au(i)xí(i)li(i)um(i) grá(i)ti(i)æ(i) tu(i)æ;(i_') (,) ut,(i) in(i) ex(i)se(i)quén(i)dis(i) man(i)dá(i)tis(i) tu(i)is,(i) et(i) vo(i)lun(i)tá(i)te(i) ti(i)bi(i) et(i) ac(i)ti(i)ó(i)ne(i) pla(i)ce(h)á(h)mus.(i.) (::)}
 $Per Dominum solemnis
 
 [Invit]
@@ -279,12 +279,14 @@ Benedícta sit * sancta creátrix et gubernátrix ómnium, sancta et indivídua 
 !Commemoratio Dominica I post Pentecostes
 Ant. Estóte ergo misericórdes, sicut et Pater vester miséricors est, dicit Dóminus.
 _
-V. Dóminus regnávit, decórem índuit.
-R. Induit Dóminus fortitúdinem, et præcínxit se virtúte.
+{initial-style:0;%%(c3) V/. Dó(h)mi(h)nus(h) re(h)gná(h)vit,(h) de(h)có(h)rem(h) índ(h)u(fr)it.(f.) (::)
+R/. Ind(h)u(h)it(h) Dó(h)mi(h)nus(h) for(h)ti(h)tú(h)di(h)nem,(h) et(h) præ(h)cín(h)xit(h) se(h) vir(h)tú(h fr)te.(f.) (::)}
 _
-$Oremus
-Deus, in te sperántium fortitúdo, adésto propítius invocatiónibus nostris: et, quia sine te nihil potest mortális infírmitas, præsta auxílium grátiæ tuæ; ut, in exsequéndis mandátis tuis, et voluntáte tibi et actióne placeámus.
-$Per Dominum
+$Oremus solemnis
+{(c4) De(g)us,(h) in(h) te(h) spe(h)rán(h)ti(h)um(h) for(h)ti(h)tú(h)do,(h) a(h)dés(h)to(h) pro(h)pí(h)ti(h)us(h) in(h)vo(h)ca(h)ti(h)ó(h)ni(h)bus(h) nos(h)tris:(g.) *(;) et,(g) qui(h)a(h) si(h)ne(h) te(h) ni(h)hil(h) pot(h)est(h) mor(h)tá(h)lis(h) in(h)fír(h)mi(h)tas,(h) præ(h)sta(h) au(h)xí(h)li(h)um(h) grá(h)ti(h)æ(h) tu(h)æ;(h.) (;) ut,(h) in(h) ex(h)se(h)quén(h)dis(h) man(h)dá(h)tis(h) tu(h)is,(h) et(h) vo(h)lun(h)tá(h)te(h) ti(h)bi(h) et(h) ac(h)ti(h)ó(h)ne(h) pla(h)ce(g)á(g)mus.(h.) (::)}
+(sed rubrica monastica)
+{(c3) De(h)us,(i) in(i) te(i) spe(i)rán(i)ti(i)um(i) for(i)ti(i)tú(i)do,(i) a(i)dés(i)to(i) pro(i)pí(i)ti(i)us(i) in(i)vo(i)ca(i)ti(i)ó(i)ni(i)bus(i) nos(i)tris:(h.) *(;) et,(h) qui(i)a(i) si(i)ne(i) te(i) ni(i)hil(i) pot(i)est(i) mor(i)tá(i)lis(i) in(i)fír(i)mi(i)tas,(i) præ(i)sta(i) au(i)xí(i)li(i)um(i) grá(i)ti(i)æ(i) tu(i)æ;(i_') (,) ut,(i) in(i) ex(i)se(i)quén(i)dis(i) man(i)dá(i)tis(i) tu(i)is,(i) et(i) vo(i)lun(i)tá(i)te(i) ti(i)bi(i) et(i) ac(i)ti(i)ó(i)ne(i) pla(i)ce(h)á(h)mus.(i.) (::)}
+$Per Dominum solemnis
 
 [Lectio Prima]
 !1 Joann. 5:7
@@ -324,9 +326,11 @@ Te Deum * Patrem ingénitum, te Fílium unigénitum, te Spíritum Sanctum Parác
 !Commemoratio Dominica I post Pentecostem
 Ant. Nolíte judicáre, ut non judicémini: in quo enim judício judicavéritis, judicabímini, dicit Dóminus.
 _
-V. Dirigátur, Dómine, orátio mea. 
-R. Sicut incénsum in conspéctu tuo.
+{initial-style:0;%%(c3) V/. Di(h)ri(h)gá(h)tur,(h) Dó(h)mi(h)ne,(h) o(h)rá(h)ti(h)o(h) me(h fr)a.(f.) (::)
+R/. Sic(h)ut(h) in(h)cén(h)sum(h) in(h) con(h)spéc(h)tu(h) tu(h fr)o.(f.) (::)}
 _
-$Oremus
-Deus, in te sperántium fortitúdo, adésto propítius invocatiónibus nostris: et, quia sine te nihil potest mortális infírmitas, præsta auxílium grátiæ tuæ; ut, in exsequéndis mandátis tuis, et voluntáte tibi et actióne placeámus.
-$Per Dominum
+$Oremus solemnis
+{(c4) De(g)us,(h) in(h) te(h) spe(h)rán(h)ti(h)um(h) for(h)ti(h)tú(h)do,(h) a(h)dés(h)to(h) pro(h)pí(h)ti(h)us(h) in(h)vo(h)ca(h)ti(h)ó(h)ni(h)bus(h) nos(h)tris:(g.) *(;) et,(g) qui(h)a(h) si(h)ne(h) te(h) ni(h)hil(h) pot(h)est(h) mor(h)tá(h)lis(h) in(h)fír(h)mi(h)tas,(h) præ(h)sta(h) au(h)xí(h)li(h)um(h) grá(h)ti(h)æ(h) tu(h)æ;(h.) (;) ut,(h) in(h) ex(h)se(h)quén(h)dis(h) man(h)dá(h)tis(h) tu(h)is,(h) et(h) vo(h)lun(h)tá(h)te(h) ti(h)bi(h) et(h) ac(h)ti(h)ó(h)ne(h) pla(h)ce(g)á(g)mus.(h.) (::)}
+(sed rubrica monastica)
+{(c3) De(h)us,(i) in(i) te(i) spe(i)rán(i)ti(i)um(i) for(i)ti(i)tú(i)do,(i) a(i)dés(i)to(i) pro(i)pí(i)ti(i)us(i) in(i)vo(i)ca(i)ti(i)ó(i)ni(i)bus(i) nos(i)tris:(h.) *(;) et,(h) qui(i)a(i) si(i)ne(i) te(i) ni(i)hil(i) pot(i)est(i) mor(i)tá(i)lis(i) in(i)fír(i)mi(i)tas,(i) præ(i)sta(i) au(i)xí(i)li(i)um(i) grá(i)ti(i)æ(i) tu(i)æ;(i_') (,) ut,(i) in(i) ex(i)se(i)quén(i)dis(i) man(i)dá(i)tis(i) tu(i)is,(i) et(i) vo(i)lun(i)tá(i)te(i) ti(i)bi(i) et(i) ac(i)ti(i)ó(i)ne(i) pla(i)ce(h)á(h)mus.(i.) (::)}
+$Per Dominum solemnis

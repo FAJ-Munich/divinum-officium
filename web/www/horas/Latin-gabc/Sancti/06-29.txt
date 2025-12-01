@@ -63,20 +63,24 @@ _
 {initial-style:0;%%(c3) V/. Con(h)stí(h)tu(h)es(h) e(h)os(h) prín(h)ci(h)pes(h) su(h)per(h) om(h)nem(h) ter(h)ram.(f.) (::)
 R/. Mé(h)mo(h)res(h) e(h)runt(h) nó(h)mi(h)nis(h) tu(h)i,(h) Dó(h)mi(f)ne.(f.) (::)}
 _
-$Oremus 
-Deus, qui hodiérnam diem Apostolórum tuórum Petri et Pauli martyrio consecrásti: da Ecclésiæ tuæ, eórum in ómnibus sequi præcéptum; per quos religiónis sumpsit exordium.
-$Per Dominum
+$Oremus solemnis 
+{(c4)De(g)us,(h) qui(h) ho(h)di(h)ér(h)nam(h) di(h)em(h) A(h)pos(h)to(h)ló(h)rum(h) tu(h)ó(h)rum(h) Pe(h)tri(h) et(h) Pau(h)li(h) mar(h)ty(h)ri(h)o(h) con(h)se(h)crás(h)ti:(g.) *(;) da(g) Ec(h)clé(h)si(h)æ(h) tu(h)æ,(h) e(h)ó(h)rum(h) in(h) óm(h)ni(h)bus(h) se(h)qui(h) præ(h)cép(h)tum;(h.) (;) per(h) quos(h) re(h)li(h)gi(h)ó(h)nis(h) sump(h)sit(h) ex(g)or(g)di(h hr)um.(h.) (::)}
+(sed rubrica monastica)
+{(c3)De(h)us,(i) qui(i) ho(i)di(i)ér(i)nam(i) di(i)em(i) A(i)pos(i)to(i)ló(i)rum(i) tu(i)ó(i)rum(i) Pe(i)tri(i) et(i) Pau(i)li(i) mar(i)ty(i)ri(i)o(i) con(i)se(i)crás(i)ti:(h.) *(;) da(h) Ec(i)clé(i)si(i)æ(i) tu(i)æ,(i) e(i)ó(i)rum(i) in(i) óm(i)ni(i)bus(i) se(i)qui(i) præ(i)cép(i)tum;(i_') (,) per(i) quos(i) re(i)li(i)gi(i)ó(i)nis(i) sump(i)sit(i) ex(h)or(h)di(i ir)um.(i.) (::)}
+$Per Dominum solemnis
 
 [Octava 11] (rubrica tridentina)
 !Commemoratio Octavæ S. Petri
 Ant. Tu es Pastor óvium * Princeps Apostolorum, tibi traditæ sunt claves regni cælorum.
 _
-V. Tu es Petrus.
-R. Et super hanc petram ædificabo Ecclésiam meam.
+{initial-style:0;%%(c3) V/. Tu(h) es(h) Pe(h fr)trus.(f.) (::)
+R/. Et(h) su(h)per(h) hanc(h) pe(h)tram(h) æ(h)di(h)fi(h)cá(h)bo(h) Ec(h)clé(h)si(h)am(h) me(h fr)am.(f.) (::)}
 _
-$Oremus
-Deus, qui hodiérnam diem Apostolórum tuórum Petri et Pauli martýrio consecrásti: da Ecclésiæ tuæ, eórum in ómnibus sequi præcéptum; per quos religiónis sumpsit exórdium.
-$Per Dominum
+$Oremus solemnis 
+{(c4)De(g)us,(h) qui(h) ho(h)di(h)ér(h)nam(h) di(h)em(h) A(h)pos(h)to(h)ló(h)rum(h) tu(h)ó(h)rum(h) Pe(h)tri(h) et(h) Pau(h)li(h) mar(h)ty(h)ri(h)o(h) con(h)se(h)crás(h)ti:(g.) *(;) da(g) Ec(h)clé(h)si(h)æ(h) tu(h)æ,(h) e(h)ó(h)rum(h) in(h) óm(h)ni(h)bus(h) se(h)qui(h) præ(h)cép(h)tum;(h.) (;) per(h) quos(h) re(h)li(h)gi(h)ó(h)nis(h) sump(h)sit(h) ex(g)or(g)di(h hr)um.(h.) (::)}
+(sed rubrica monastica)
+{(c3)De(h)us,(i) qui(i) ho(i)di(i)ér(i)nam(i) di(i)em(i) A(i)pos(i)to(i)ló(i)rum(i) tu(i)ó(i)rum(i) Pe(i)tri(i) et(i) Pau(i)li(i) mar(i)ty(i)ri(i)o(i) con(i)se(i)crás(i)ti:(h.) *(;) da(h) Ec(i)clé(i)si(i)æ(i) tu(i)æ,(i) e(i)ó(i)rum(i) in(i) óm(i)ni(i)bus(i) se(i)qui(i) præ(i)cép(i)tum;(i_') (,) per(i) quos(i) re(i)li(i)gi(i)ó(i)nis(i) sump(i)sit(i) ex(h)or(h)di(i ir)um.(i.) (::)}
+$Per Dominum solemnis
 
 [Responsory4]
 R. Dómine, si tu es, jube me veníre ad te super aquas. 
@@ -145,9 +149,11 @@ _
 {initial-style:0;%%(c3) V/. In(h) om(h)nem(h) ter(h)ram(h) ex(h)í(h)vit(h) so(h)nus(h) e(h)ó(h)rum.(f.) (::)
 R/. Et(h) in(h) fi(h)nes(h) or(h)bis(h) ter(h)ræ(h) ver(h)ba(h) e(h)ó(h)rum.(f.) (::)}
 _
-$Oremus
-Deus, qui hodiérnam diem Apostolórum tuórum Petri et Pauli martýrio consecrásti: da Ecclésiæ tuæ, eórum in ómnibus sequi præcéptum; per quos religiónis sumpsit exórdium.
-$Per Dominum
+$Oremus solemnis 
+{(c4)De(g)us,(h) qui(h) ho(h)di(h)ér(h)nam(h) di(h)em(h) A(h)pos(h)to(h)ló(h)rum(h) tu(h)ó(h)rum(h) Pe(h)tri(h) et(h) Pau(h)li(h) mar(h)ty(h)ri(h)o(h) con(h)se(h)crás(h)ti:(g.) *(;) da(g) Ec(h)clé(h)si(h)æ(h) tu(h)æ,(h) e(h)ó(h)rum(h) in(h) óm(h)ni(h)bus(h) se(h)qui(h) præ(h)cép(h)tum;(h.) (;) per(h) quos(h) re(h)li(h)gi(h)ó(h)nis(h) sump(h)sit(h) ex(g)or(g)di(h hr)um.(h.) (::)}
+(sed rubrica monastica)
+{(c3)De(h)us,(i) qui(i) ho(i)di(i)ér(i)nam(i) di(i)em(i) A(i)pos(i)to(i)ló(i)rum(i) tu(i)ó(i)rum(i) Pe(i)tri(i) et(i) Pau(i)li(i) mar(i)ty(i)ri(i)o(i) con(i)se(i)crás(i)ti:(h.) *(;) da(h) Ec(i)clé(i)si(i)æ(i) tu(i)æ,(i) e(i)ó(i)rum(i) in(i) óm(i)ni(i)bus(i) se(i)qui(i) præ(i)cép(i)tum;(i_') (,) per(i) quos(i) re(i)li(i)gi(i)ó(i)nis(i) sump(i)sit(i) ex(h)or(h)di(i ir)um.(i.) (::)}
+$Per Dominum solemnis
 
 [Lectio Prima]
 !Act 12:11

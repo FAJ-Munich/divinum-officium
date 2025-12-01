@@ -136,9 +136,11 @@ _
 {initial-style:0;%%(c3) V/. He(h)ró(h)des(h) i(h)rá(h)tus(h) oc(h)cí(h)dit(h) mul(h)tos(h) pú(h)e(f)ros.(f.) (::)
 R/. In(h) Béth(h)le(h)hem(h) Ju(h)dæ(h) ci(h)vi(h)tá(h)te(h) Da(h)vid.(f.) (::)}
 _
-$Oremus
-v. Deus, cujus hodiérna die præcónium Innocéntes Mártyres non loquéndo, sed moriéndo conféssi sunt: ómnia in nobis vitiórum mala mortífica; ut fidem tuam, quam lingua nostra lóquitur, étiam móribus vita fateátur.
-$Per Dominum
+$Oremus solemnis
+{(c4)De(g)us,(h) cu(h)jus(h) ho(h)di(h)ér(h)na(h) di(h)e(h) præ(h)có(h)ni(h)um(h) In(h)no(h)cén(h)tes(h) Már(h)ty(h)res(h) non(h) lo(h)quén(h)do,(h) sed(h) mo(h)ri(h)én(h)do(h) con(h)fés(h)si(h) sunt:(g.) *(;) óm(g)ni(h)a(h) in(h) no(h)bis(h) vi(h)ti(h)ó(h)rum(h) ma(h)la(h) mor(h)tí(h)fi(h)ca;(h) ut(h) fi(h)dem(h) tu(h)am,(h.) (;) quam(h) lin(h)gua(h) nos(h)tra(h) ló(h)qui(h)tur,(h) ét(h)i(h)am(h) mó(h)ri(h)bus(h) vi(h)ta(h) fa(g)te(g)á(h hr)tur.(h.) (::)}
+(sed rubrica monastica)
+{{(c3)De(h)us,(i) cu(i)jus(i) ho(i)di(i)ér(i)na(i) di(i)e(i) præ(i)có(i)ni(i)um(i) In(i)no(i)cén(i)tes(i) Már(i)ty(i)res(i) non(i) lo(i)quén(i)do,(i) sed(i) mo(i)ri(i)én(i)do(i) con(i)fés(i)si(i) sunt:(h.) *(;) óm(h)ni(i)a(i) in(i) no(i)bis(i) vi(i)ti(i)ó(i)rum(i) ma(i)la(i) mor(i)tí(i)fi(i)ca;(i) ut(i) fi(i)dem(i) tu(i)am,(i_') (,) quam(i) lin(i)gua(i) nos(i)tra(i) ló(i)qui(i)tur,(i) ét(i)i(i)am(i) mó(i)ri(i)bus(i) vi(i)ta(i) fa(h)te(h)á(i ir)tur.(i.) (::)}
+$Per Dominum solemnis
 
 [Lectio Prima]
 !Apo 14:4-5
@@ -163,6 +165,8 @@ _
 {initial-style:0;%%(c3) V/. Sub(h) thro(h)no(h) De(h)i(h) om(h)nes(h) Sanc(h)ti(h) cla(h)mant.(f.) (::)
 R/. Vín(h)di(h)ca(h) sán(h)gui(h)nem(h) nos(h)trum,(h) De(h)us(h) nos(h)ter.(f.) (::)}
 _
-$Oremus
-v. Deus, cujus hodiérna die præcónium Innocéntes Mártyres non loquéndo, sed moriéndo conféssi sunt: ómnia in nobis vitiórum mala mortífica; ut fidem tuam, quam lingua nostra lóquitur, étiam móribus vita fateátur.
-$Per Dominum
+$Oremus solemnis
+{(c4)De(g)us,(h) cu(h)jus(h) ho(h)di(h)ér(h)na(h) di(h)e(h) præ(h)có(h)ni(h)um(h) In(h)no(h)cén(h)tes(h) Már(h)ty(h)res(h) non(h) lo(h)quén(h)do,(h) sed(h) mo(h)ri(h)én(h)do(h) con(h)fés(h)si(h) sunt:(g.) *(;) óm(g)ni(h)a(h) in(h) no(h)bis(h) vi(h)ti(h)ó(h)rum(h) ma(h)la(h) mor(h)tí(h)fi(h)ca;(h) ut(h) fi(h)dem(h) tu(h)am,(h.) (;) quam(h) lin(h)gua(h) nos(h)tra(h) ló(h)qui(h)tur,(h) ét(h)i(h)am(h) mó(h)ri(h)bus(h) vi(h)ta(h) fa(g)te(g)á(h hr)tur.(h.) (::)}
+(sed rubrica monastica)
+{{(c3)De(h)us,(i) cu(i)jus(i) ho(i)di(i)ér(i)na(i) di(i)e(i) præ(i)có(i)ni(i)um(i) In(i)no(i)cén(i)tes(i) Már(i)ty(i)res(i) non(i) lo(i)quén(i)do,(i) sed(i) mo(i)ri(i)én(i)do(i) con(i)fés(i)si(i) sunt:(h.) *(;) óm(h)ni(i)a(i) in(i) no(i)bis(i) vi(i)ti(i)ó(i)rum(i) ma(i)la(i) mor(i)tí(i)fi(i)ca;(i) ut(i) fi(i)dem(i) tu(i)am,(i_') (,) quam(i) lin(i)gua(i) nos(i)tra(i) ló(i)qui(i)tur,(i) ét(i)i(i)am(i) mó(i)ri(i)bus(i) vi(i)ta(i) fa(h)te(h)á(i ir)tur.(i.) (::)}
+$Per Dominum solemnis

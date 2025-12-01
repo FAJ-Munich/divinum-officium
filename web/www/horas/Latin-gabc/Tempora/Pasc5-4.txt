@@ -256,12 +256,14 @@ Ascéndo ad Patrem meum, * et Patrem vestrum: Deum meum, et Deum vestrum, allel�
 [Octava 2]
 Ant. Ascéndo ad Patrem meum, * et Patrem vestrum: Deum meum, et Deum vestrum, allelúja.
 _
-V. Dóminus in cælo, allelúja.
-R. Parávit sedem suam, allelúja.
+{initial-style:0;%%(c3) V/. Dó(h)mi(h)nus(h) in(h) cæ(h)lo,(h) al(h)le(h)lú(h fr)ja.(f.) (::)
+R/. Pa(h)rá(h)vit(h) se(h)dem(h) su(h)am,(h) al(h)le(h)lú(h fr)ja.(f.) (::)}
 _
-$Oremus
-Concéde, quǽsumus, omnípotens Deus: ut, qui hodiérna die Unigénitum tuum, Redemptórem nostrum, ad cælos ascendísse crédimus; ipsi quoque mente in cæléstibus habitémus.
-$Per eumdem
+$Oremus solemnis
+{(c4)Con(g)cé(h)de,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(g.) *(;) ut,(g) qui(h) ho(h)di(h)ér(h)na(h) di(h)e(h) U(h)ni(h)gé(h)ni(h)tum(h) tu(h)um,(h) Red(h)emp(h)tó(h)rem(h) nos(h)trum,(h) ad(h) cæ(h)los(h) a(h)scen(h)dís(h)se(h) cré(h)di(h)mus;(h.) (;) ip(h)si(h) quo(h)que(h) men(h)te(h) in(h) cæ(h)lés(h)ti(h)bus(h) ha(g)bi(g)té(h hr)mus.(h.) (::)}
+(sed rubrica monastica)
+{(c3)Con(h)cé(i)de,(i) quǽ(i)su(i)mus,(i) om(i)ní(i)pot(i)ens(i) De(i)us:(h.) *(;) ut,(h) qui(i) ho(i)di(i)ér(i)na(i) di(i)e(i) U(i)ni(i)gé(i)ni(i)tum(i) tu(i)um,(i) Red(i)emp(i)tó(i)rem(i) nos(i)trum,(i) ad(i) cæ(i)los(i) a(i)scen(i)dís(i)se(i) cré(i)di(i)mus;(i_') (,) ip(i)si(i) quo(i)que(i) men(i)te(i) in(i) cæ(i)lés(i)ti(i)bus(i) ha(h)bi(h)té(i ir)mus.(i.) (::)}
+$Per eumdem solemnis
 
 [Lectio Prima]
 !Act. 1:11
@@ -304,12 +306,14 @@ O Rex glóriæ, * Dómine virtútum, qui triumphátor hódie super omnes cælos 
 [Octava 3]
 Ant. O Rex glóriæ, * Dómine virtútum, qui triumphátor hódie super omnes cælos ascendísti, ne derelínquas nos órphanos; sed mitte promíssum Patris in nos, Spíritum veritátis, allelúja.
 _
-V. Ascéndit Deus in jubilatióne, allelúja.
-R. Et Dóminus in voce tubæ, allelúja.
+{initial-style:0;%%(c3) V/. A(h)scén(h)dit(h) De(h)us(h) in(h) ju(h)bi(h)la(h)ti(h)ó(h)ne,(h) al(h)le(h)lú(h fr)ja.(f.) (::)
+R/. Et(h) Dó(h)mi(h)nus(h) in(h) vo(h)ce(h) tu(h)bæ,(h) al(h)le(h)lú(h fr)ja.(f.) (::)}
 (sed rubrica tridentina loco hæc versus dicitur)
-V. Dóminus in cælo, allelúja.
-R. Parávit sedem suam, allelúja.
+{initial-style:0;%%(c3) V/. Dó(h)mi(h)nus(h) in(h) cæ(h)lo,(h) al(h)le(h)lú(h fr)ja.(f.) (::)
+R/. Pa(h)rá(h)vit(h) se(h)dem(h) su(h)am,(h) al(h)le(h)lú(h fr)ja.(f.) (::)}
 _
-$Oremus
-Concéde, quǽsumus, omnípotens Deus: ut, qui hodiérna die Unigénitum tuum, Redemptórem nostrum, ad cælos ascendísse crédimus; ipsi quoque mente in cæléstibus habitémus.
-$Per eumdem
+$Oremus solemnis
+{(c4)Con(g)cé(h)de,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(g.) *(;) ut,(g) qui(h) ho(h)di(h)ér(h)na(h) di(h)e(h) U(h)ni(h)gé(h)ni(h)tum(h) tu(h)um,(h) Red(h)emp(h)tó(h)rem(h) nos(h)trum,(h) ad(h) cæ(h)los(h) a(h)scen(h)dís(h)se(h) cré(h)di(h)mus;(h.) (;) ip(h)si(h) quo(h)que(h) men(h)te(h) in(h) cæ(h)lés(h)ti(h)bus(h) ha(g)bi(g)té(h hr)mus.(h.) (::)}
+(sed rubrica monastica)
+{(c3)Con(h)cé(i)de,(i) quǽ(i)su(i)mus,(i) om(i)ní(i)pot(i)ens(i) De(i)us:(h.) *(;) ut,(h) qui(i) ho(i)di(i)ér(i)na(i) di(i)e(i) U(i)ni(i)gé(i)ni(i)tum(i) tu(i)um,(i) Red(i)emp(i)tó(i)rem(i) nos(i)trum,(i) ad(i) cæ(i)los(i) a(i)scen(i)dís(i)se(i) cré(i)di(i)mus;(i_') (,) ip(i)si(i) quo(i)que(i) men(i)te(i) in(i) cæ(i)lés(i)ti(i)bus(i) ha(h)bi(h)té(i ir)mus.(i.) (::)}
+$Per eumdem solemnis

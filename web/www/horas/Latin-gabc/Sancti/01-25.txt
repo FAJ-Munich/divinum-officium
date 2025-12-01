@@ -39,10 +39,12 @@ Ter virgis cæsus sum, * semel lapidátus sum, ter naufrágium pértuli pro Chri
 (deinde dicuntur)
 Ant. Tu es pastor óvium, Princeps Apostolórum, tibi traditæ sunt claves regni cælórum.
 _
-V. Tu es Petrus.
-R. Et super hanc petram ædificábo Ecclésiam meam.
+{initial-style:0;%%(c3) V/. Tu(h) es(h) Pe(h fr)trus.(f.) (::)
+R/. Et(h) su(h)per(h) hanc(h) pe(h)tram(h) æ(h)di(h)fi(h)cá(h)bo(h) Ec(h)clé(h)si(h)am(h) me(h fr)am.(f.) (::)}
 _
-$Oremus
+$Oremus solemnis
 (sed rubrica 196 hæc versus omittuntur)
-v. Deus, qui beáto Petro Apóstolo tuo, collátis clávibus regni cæléstis, ligándi atque solvéndi pontifícium tradidísti: concéde; ut, intercessiónis ejus auxílio, a peccatórum nostrórum néxibus liberémur:
-$Qui vivis
+{(c4)De(g)us,(h) qui(h) be(h)á(h)to(h) Pe(h)tro(h) A(h)pós(h)to(h)lo(h) tu(h)o,(h) col(h)lá(h)tis(h) clá(h)vi(h)bus(h) re(h)gni(h) cæ(h)lés(h)tis,(h) li(h)gán(h)di(h) at(h)que(h) sol(h)vén(h)di(h) pon(h)ti(h)fí(h)ci(h)um(h) tra(h)di(h)dís(h)ti:(g.) *(;) con(g)cé(h)de;(h) ut,(h) in(h)ter(h)ces(h)si(h)ó(h)nis(h) e(h)jus(h) au(h)xí(h)li(h)o,(h.) (;) a(h) pec(h)ca(h)tó(h)rum(h) nos(h)tró(h)rum(h) né(h)xi(h)bus(h) li(g)be(g)ré(h hr)mur:(h.) (::)}
+(sed rubrica monastica)
+{(c3)De(h)us,(i) qui(i) be(i)á(i)to(i) Pe(i)tro(i) A(i)pós(i)to(i)lo(i) tu(i)o,(i) col(i)lá(i)tis(i) clá(i)vi(i)bus(i) re(i)gni(i) cæ(i)lés(i)tis,(i) li(i)gán(i)di(i) at(i)que(i) sol(i)vén(i)di(i) pon(i)ti(i)fí(i)ci(i)um(i) tra(i)di(i)dís(i)ti:(h.) *(;) con(h)cé(i)de;(i) ut,(i) in(i)ter(i)ces(i)si(i)ó(i)nis(i) e(i)jus(i) au(i)xí(i)li(i)o,(i_') (,) a(i) pec(i)ca(i)tó(i)rum(i) nos(i)tró(i)rum(i) né(i)xi(i)bus(i) li(h)be(h)ré(i ir)mur:(i.) (::)}
+$Qui vivis solemnis

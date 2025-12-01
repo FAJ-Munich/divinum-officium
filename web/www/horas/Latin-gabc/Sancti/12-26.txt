@@ -85,9 +85,11 @@ _
 {initial-style:0;%%(c3) V/. Se(h)pe(h)li(h)é(h)runt(h) Sté(h)pha(h)num(h) vi(h)ri(h) ti(h)mo(h)rá(h)ti.(f.) (::)
 R/. Et(h) fe(h)cé(h)runt(h) planc(h)tum(h) ma(h)gnum(h) su(h)per(h) e(h)um.(f.) (::)}
 _
-$Oremus
-v. Da nobis, quǽsumus, Dómine, imitári quod cólimus: ut discámus et inimícos dilígere; quia ejus natalícia celebrámus, qui novit étiam pro persecutóribus exoráre Dóminum nostrum Jesum Christum Fílium tuum:
-$Qui tecum
+$Oremus solemnis
+{(c4)Da(g) no(h)bis,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) i(h)mi(h)tá(h)ri(h) quod(h) có(h)li(h)mus:(g.) *(;) ut(g) dis(h)cá(h)mus(h) et(h) in(h)i(h)mí(h)cos(h) di(h)lí(h)ge(h)re;(h) qui(h)a(h) e(h)jus(h) na(h)ta(h)lí(h)ci(h)a(h) ce(h)le(h)brá(h)mus,(h) qui(h) no(h)vit(h) ét(h)i(h)am(h) pro(h) per(h)se(h)cu(h)tó(h)ri(h)bus(h) ex(h)o(h)rá(h)re(h.) (;) Dó(h)mi(h)num(h) nos(h)trum(h) Je(h)sum(h) Chris(h)tum(h) Fí(h)li(g)um(g) tu(h hr)um:(h.) (::)}
+(sed rubrica monastica)
+{(c3)Da(h) no(i)bis,(i) quǽ(i)su(i)mus,(i) Dó(i)mi(i)ne,(i) i(i)mi(i)tá(i)ri(i) quod(i) có(i)li(i)mus:(h.) *(;) ut(h) dis(i)cá(i)mus(i) et(i) in(i)i(i)mí(i)cos(i) di(i)lí(i)ge(i)re;(i) qui(i)a(i) e(i)jus(i) na(i)ta(i)lí(i)ci(i)a(i) ce(i)le(i)brá(i)mus,(i) qui(i) no(i)vit(i) ét(i)i(i)am(i) pro(i) per(i)se(i)cu(i)tó(i)ri(i)bus(i) ex(i)o(i)rá(i)re(i_') (,) Dó(i)mi(i)num(i) nos(i)trum(i) Je(i)sum(i) Chris(i)tum(i) Fí(i)li(h)um(h) tu(i ir)um:(i.) (::)}
+$Qui tecum solemnis
 
 [Lectio Prima]
 !Act. 7:59
@@ -112,6 +114,8 @@ _
 {initial-style:0;%%(c3) V/. Sté(h)pha(h)nus(h) vi(h)dit(h) cæ(h)los(h) a(h)pér(h)tos.(f.) (::)
 R/. Vi(h)dit,(h) et(h) in(h)tro(h)í(h)vit:(h) be(h)á(h)tus(h) ho(h)mo,(h) cu(h)i(h) cæ(h)li(h) pa(h)té(h)bant.(f.) (::)}
 _
-$Oremus
-v. Da nobis, quǽsumus, Dómine, imitári quod cólimus: ut discámus et inimícos dilígere; quia ejus natalícia celebrámus, qui novit étiam pro persecutóribus exoráre Dóminum nostrum Jesum Christum Fílium tuum:
-$Qui tecum
+$Oremus solemnis
+{(c4)Da(g) no(h)bis,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) i(h)mi(h)tá(h)ri(h) quod(h) có(h)li(h)mus:(g.) *(;) ut(g) dis(h)cá(h)mus(h) et(h) in(h)i(h)mí(h)cos(h) di(h)lí(h)ge(h)re;(h) qui(h)a(h) e(h)jus(h) na(h)ta(h)lí(h)ci(h)a(h) ce(h)le(h)brá(h)mus,(h) qui(h) no(h)vit(h) ét(h)i(h)am(h) pro(h) per(h)se(h)cu(h)tó(h)ri(h)bus(h) ex(h)o(h)rá(h)re(h.) (;) Dó(h)mi(h)num(h) nos(h)trum(h) Je(h)sum(h) Chris(h)tum(h) Fí(h)li(g)um(g) tu(h hr)um:(h.) (::)}
+(sed rubrica monastica)
+{(c3)Da(h) no(i)bis,(i) quǽ(i)su(i)mus,(i) Dó(i)mi(i)ne,(i) i(i)mi(i)tá(i)ri(i) quod(i) có(i)li(i)mus:(h.) *(;) ut(h) dis(i)cá(i)mus(i) et(i) in(i)i(i)mí(i)cos(i) di(i)lí(i)ge(i)re;(i) qui(i)a(i) e(i)jus(i) na(i)ta(i)lí(i)ci(i)a(i) ce(i)le(i)brá(i)mus,(i) qui(i) no(i)vit(i) ét(i)i(i)am(i) pro(i) per(i)se(i)cu(i)tó(i)ri(i)bus(i) ex(i)o(i)rá(i)re(i_') (,) Dó(i)mi(i)num(i) nos(i)trum(i) Je(i)sum(i) Chris(i)tum(i) Fí(i)li(h)um(h) tu(i ir)um:(i.) (::)}
+$Qui tecum solemnis

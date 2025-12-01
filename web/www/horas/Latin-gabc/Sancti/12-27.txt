@@ -86,9 +86,11 @@ _
 {initial-style:0;%%(c3) V/. Hic(h) est(h) di(h)scí(h)pu(h)lus(h) il(h)le,(h) qui(h) tes(h)ti(h)mó(h)ni(h)um(h) pér(h)hi(h)bet(h) de(h) his.(f.) (::)
 R/. Et(h) sci(h)mus(h) qui(h)a(h) ve(h)rum(h) est(h) tes(h)ti(h)mó(h)ni(h)um(h) e(h)jus.(f.) (::)}
 _
-$Oremus
-v. Ecclésiam tuam, Dómine, benígnus illústra: ut beáti Joánnis Apóstoli tui et Evangelístæ, illumináta doctrínis, ad dona pervéniat sempitérna.
-$Per Dominum
+$Oremus solemnis
+{(c4)Ec(g)clé(h)si(h)am(h) tu(h)am,(h) Dó(h)mi(h)ne,(h) be(h)ní(h)gnus(h) il(h)lús(h)tra:(g.) *(;) ut(g) be(h)á(h)ti(h) Jo(h)án(h)nis(h) A(h)pós(h)to(h)li(h) tu(h)i(h) et(h) E(h)van(h)ge(h)lís(h)tæ,(h) il(h)lu(h)mi(h)ná(h)ta(h) doc(h)trí(h)nis,(h.) (;) ad(h) do(h)na(h) per(h)vé(h)ni(h)at(h) sem(g)pi(g)tér(h hr)na.(h.) (::)}
+(sed rubrica monastica)
+{(c3)Ec(h)clé(i)si(i)am(i) tu(i)am,(i) Dó(i)mi(i)ne,(i) be(i)ní(i)gnus(i) il(i)lús(i)tra:(h.) *(;) ut(h) be(i)á(i)ti(i) Jo(i)án(i)nis(i) A(i)pós(i)to(i)li(i) tu(i)i(i) et(i) E(i)van(i)ge(i)lís(i)tæ,(i) il(i)lu(i)mi(i)ná(i)ta(i) doc(i)trí(i)nis,(i_') (,) ad(i) do(i)na(i) per(i)vé(i)ni(i)at(i) sem(h)pi(h)tér(i ir)na.(i.) (::)}
+$Per Dominum solemnis
 
 [Lectio Prima]
 !Sir 15:5
@@ -109,6 +111,8 @@ _
 {initial-style:0;%%(c3) V/. Val(h)de(h) ho(h)no(h)rán(h)dus(h) est(h) be(h)á(h)tus(h) Jo(h)án(h)nes.(f.) (::)
 R/. Qui(h) su(h)pra(h) pec(h)tus(h) Dó(h)mi(h)ni(h) in(h) ce(h)na(h) re(h)cú(h)bu(f)it.(f.) (::)}
 _
-$Oremus
-v. Ecclésiam tuam, Dómine, benígnus illústra: ut beáti Joánnis Apóstoli tui et Evangelístæ, illumináta doctrínis, ad dona pervéniat sempitérna.
-$Per Dominum
+$Oremus solemnis
+{(c4)Ec(g)clé(h)si(h)am(h) tu(h)am,(h) Dó(h)mi(h)ne,(h) be(h)ní(h)gnus(h) il(h)lús(h)tra:(g.) *(;) ut(g) be(h)á(h)ti(h) Jo(h)án(h)nis(h) A(h)pós(h)to(h)li(h) tu(h)i(h) et(h) E(h)van(h)ge(h)lís(h)tæ,(h) il(h)lu(h)mi(h)ná(h)ta(h) doc(h)trí(h)nis,(h.) (;) ad(h) do(h)na(h) per(h)vé(h)ni(h)at(h) sem(g)pi(g)tér(h hr)na.(h.) (::)}
+(sed rubrica monastica)
+{(c3)Ec(h)clé(i)si(i)am(i) tu(i)am,(i) Dó(i)mi(i)ne,(i) be(i)ní(i)gnus(i) il(i)lús(i)tra:(h.) *(;) ut(h) be(i)á(i)ti(i) Jo(i)án(i)nis(i) A(i)pós(i)to(i)li(i) tu(i)i(i) et(i) E(i)van(i)ge(i)lís(i)tæ,(i) il(i)lu(i)mi(i)ná(i)ta(i) doc(i)trí(i)nis,(i_') (,) ad(i) do(i)na(i) per(i)vé(i)ni(i)at(i) sem(h)pi(h)tér(i ir)na.(i.) (::)}
+$Per Dominum solemnis

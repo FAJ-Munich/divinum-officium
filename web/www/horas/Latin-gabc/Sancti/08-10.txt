@@ -19,9 +19,11 @@ _
 {initial-style:0;%%(c3) V/. Le(h)vi(h)ta(h) Lau(h)rén(h)ti(h)us(h) bo(h)num(h) o(h)pus(h) o(h)pe(h)rá(h)tus(f) est.(f.) (::)
 R/. Qui(h) per(h) si(h)gnum(h) cru(h)cis(h) cæ(h)cos(h) il(h)lu(h)mi(h)ná(h)vit.(f.) (::)}
 _
-$Oremus
-v. Da nobis, quǽsumus, omnípotens Deus: vitiórum nostrorum flammas exstínguere; qui beáto Lauréntio tribuísti tormentórum suórum incéndia superáre.
-$Per Dominum
+$Oremus solemnis
+{(c4)Da(g) no(h)bis,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(g.) *(;) vi(g)ti(h)ó(h)rum(h) nos(h)tro(h)rum(h) flam(h)mas(h) ex(h)stín(h)gue(h)re;(h.) (;) qui(h) be(h)á(h)to(h) Lau(h)rén(h)ti(h)o(h) tri(h)bu(h)ís(h)ti(h) tor(h)men(h)tó(h)rum(h) su(h)ó(h)rum(h) in(h)cén(h)di(h)a(h) su(g)pe(g)rá(h hr)re.(h.) (::)}
+(sed rubrica monastica)
+{(c3)Da(h) no(i)bis,(i) quǽ(i)su(i)mus,(i) om(i)ní(i)pot(i)ens(i) De(i)us:(h.) *(;) vi(h)ti(i)ó(i)rum(i) nos(i)tro(i)rum(i) flam(i)mas(i) ex(i)stín(i)gue(i)re;(i_') (,) qui(i) be(i)á(i)to(i) Lau(i)rén(i)ti(i)o(i) tri(i)bu(i)ís(i)ti(i) tor(i)men(i)tó(i)rum(i) su(i)ó(i)rum(i) in(i)cén(i)di(i)a(i) su(h)pe(h)rá(i ir)re.(i.) (::)}
+$Per Dominum solemnis
 
 [Invit]
 Beátus Lauréntius Christi Martyr triúmphat coronátus in cælis: * Veníte, adorémus Dóminum.
@@ -122,9 +124,11 @@ _
 {initial-style:0;%%(c3) V/. Di(h)sper(h)sit,(h) de(h)dit(h) pau(h)pé(h)ri(f)bus.(f.) (::)
 R/. Jus(h)tí(h)ti(h)a(h) e(h)jus(h) ma(h)net(h) in(h) sæ(h)cu(h)lum(h) sæ(h)cu(f)li.(f.) (::)}
 _
-$Oremus
-v. Da nobis, quǽsumus, omnípotens Deus: vitiórum nostrorum flammas exstínguere; qui beáto Lauréntio tribuísti tormentórum suórum incéndia superáre.
-$Per Dominum
+$Oremus solemnis
+{(c4)Da(g) no(h)bis,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(g.) *(;) vi(g)ti(h)ó(h)rum(h) nos(h)tro(h)rum(h) flam(h)mas(h) ex(h)stín(h)gue(h)re;(h.) (;) qui(h) be(h)á(h)to(h) Lau(h)rén(h)ti(h)o(h) tri(h)bu(h)ís(h)ti(h) tor(h)men(h)tó(h)rum(h) su(h)ó(h)rum(h) in(h)cén(h)di(h)a(h) su(g)pe(g)rá(h hr)re.(h.) (::)}
+(sed rubrica monastica)
+{(c3)Da(h) no(i)bis,(i) quǽ(i)su(i)mus,(i) om(i)ní(i)pot(i)ens(i) De(i)us:(h.) *(;) vi(h)ti(i)ó(i)rum(i) nos(i)tro(i)rum(i) flam(i)mas(i) ex(i)stín(i)gue(i)re;(i_') (,) qui(i) be(i)á(i)to(i) Lau(i)rén(i)ti(i)o(i) tri(i)bu(i)ís(i)ti(i) tor(i)men(i)tó(i)rum(i) su(i)ó(i)rum(i) in(i)cén(i)di(i)a(i) su(h)pe(h)rá(i ir)re.(i.) (::)}
+$Per Dominum solemnis
 
 [Lectio Prima]
 !2 {(c3) Pot(h)ens(h) est(h) au(h)tem(h) De(h)us(h) om(h)nem(h) grá(h)ti(h)am(h) ab(h)un(h)dá(h)re(h) fá(h)ce(h)re(h) in(h) vo(h)bis,(f.) †(;) ut,(h) in(h) óm(h)ni(h)bus(h) sem(h)per(h) om(h)nem(h) suf(h)fi(h)ci(h)én(h)ti(h)am(h) ha(h)bén(h)tes,(h) ab(h)un(h)dé(h)tis(h) in(h) om(h)ne(h) o(h)pus(h) bo(h)num,(h) sic(h)ut(h) scrip(h)tum(h) est:(h_') (,) Di(h)spér(h)sit,(h) de(h)dit(g) pau(f)pé(h)ri(hr)bus:(h.) *(;) jus(h)tí(h)ti(h)a(h) e(h)jus(h) ma(h)net(h) in(h) sǽ(h)cu(h)lum(h) sǽ(h)cu(f)li.(ef..) (::)}

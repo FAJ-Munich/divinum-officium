@@ -46,9 +46,11 @@ _
 {initial-style:0;%%(c3) V/. Ex(h)al(h)tá(h)ta(h) est(h) sanc(h)ta(h) De(h)i(h) Gé(h)ne(f)trix.(f.) (::)
 R/. Su(h)per(h) cho(h)ros(h) An(h)ge(h)ló(h)rum(h) ad(h) cæ(h)lés(h)ti(h)a(h) re(h)gna.(f.) (::)}
 _
-$Oremus 
-Omnípotens sempitérne Deus, qui Immaculátam Vírginem Maríam, Fílii tui Genetrícem, córpore et ánima ad cæléstem glóriam assumpsísti: concéde, quǽsumus; ut ad supérna semper inténti, ipsíus glóriæ mereámur esse consórtes.
-$Per eumdem
+$Oremus solemnis 
+{(c4)Om(g)ní(h)pot(h)ens(h) sem(h)pi(h)tér(h)ne(h) De(h)us,(h) qui(h) Im(h)ma(h)cu(h)lá(h)tam(h) Vír(h)gi(h)nem(h) Ma(h)rí(h)am,(h) Fí(h)li(h)i(h) tu(h)i(h) Ge(h)ne(h)trí(h)cem,(h) cór(h)po(h)re(h) et(h) á(h)ni(h)ma(h) ad(h) cæ(h)lés(h)tem(h) gló(h)ri(h)am(h) as(h)sump(h)sís(h)ti:(g.) *(;) con(g)cé(h)de,(h) quǽ(h)su(h)mus;(h) ut(h) ad(h) su(h)pér(h)na(h) sem(h)per(h) in(h)tén(h)ti,(h.) (;) ip(h)sí(h)us(h) gló(h)ri(h)æ(h) me(h)re(h)á(h)mur(h) es(h)se(g) con(g)sór(h hr)tes.(h.) (::)}
+(sed rubrica monastica)
+{(c3)Om(h)ní(i)pot(i)ens(i) sem(i)pi(i)tér(i)ne(i) De(i)us,(i) qui(i) Im(i)ma(i)cu(i)lá(i)tam(i) Vír(i)gi(i)nem(i) Ma(i)rí(i)am,(i) Fí(i)li(i)i(i) tu(i)i(i) Ge(i)ne(i)trí(i)cem,(i) cór(i)po(i)re(i) et(i) á(i)ni(i)ma(i) ad(i) cæ(i)lés(i)tem(i) gló(i)ri(i)am(i) as(i)sump(i)sís(i)ti:(h.) *(;) con(h)cé(i)de,(i) quǽ(i)su(i)mus;(i) ut(i) ad(i) su(i)pér(i)na(i) sem(i)per(i) in(i)tén(i)ti,(i_') (,) ip(i)sí(i)us(i) gló(i)ri(i)æ(i) me(i)re(i)á(i)mur(i) es(i)se(h) con(h)sór(i ir)tes.(i.) (::)}
+$Per eumdem solemnis
 
 [Hymnus Matutinum]
 v. Surge! Jam terris fera bruma cessit,
@@ -140,9 +142,11 @@ _
 {initial-style:0;%%(c3) V/. Ex(h)al(h)tá(h)ta(h) est(h) sanc(h)ta(h) De(h)i(h) Gé(h)ne(f)trix.(f.) (::)
 R/. Su(h)per(h) cho(h)ros(h) An(h)ge(h)ló(h)rum(h) ad(h) cæ(h)lés(h)ti(h)a(h) re(h)gna.(f.) (::)}
 _
-$Oremus 
-Omnípotens sempitérne Deus, qui Immaculátam Vírginem Maríam, Fílii tui Genetrícem, córpore et ánima ad cæléstem glóriam assumpsísti: concéde, quǽsumus; ut ad supérna semper inténti, ipsíus glóriæ mereámur esse consórtes.
-$Per eumdem
+$Oremus solemnis 
+{(c4)Om(g)ní(h)pot(h)ens(h) sem(h)pi(h)tér(h)ne(h) De(h)us,(h) qui(h) Im(h)ma(h)cu(h)lá(h)tam(h) Vír(h)gi(h)nem(h) Ma(h)rí(h)am,(h) Fí(h)li(h)i(h) tu(h)i(h) Ge(h)ne(h)trí(h)cem,(h) cór(h)po(h)re(h) et(h) á(h)ni(h)ma(h) ad(h) cæ(h)lés(h)tem(h) gló(h)ri(h)am(h) as(h)sump(h)sís(h)ti:(g.) *(;) con(g)cé(h)de,(h) quǽ(h)su(h)mus;(h) ut(h) ad(h) su(h)pér(h)na(h) sem(h)per(h) in(h)tén(h)ti,(h.) (;) ip(h)sí(h)us(h) gló(h)ri(h)æ(h) me(h)re(h)á(h)mur(h) es(h)se(g) con(g)sór(h hr)tes.(h.) (::)}
+(sed rubrica monastica)
+{(c3)Om(h)ní(i)pot(i)ens(i) sem(i)pi(i)tér(i)ne(i) De(i)us,(i) qui(i) Im(i)ma(i)cu(i)lá(i)tam(i) Vír(i)gi(i)nem(i) Ma(i)rí(i)am,(i) Fí(i)li(i)i(i) tu(i)i(i) Ge(i)ne(i)trí(i)cem,(i) cór(i)po(i)re(i) et(i) á(i)ni(i)ma(i) ad(i) cæ(i)lés(i)tem(i) gló(i)ri(i)am(i) as(i)sump(i)sís(i)ti:(h.) *(;) con(h)cé(i)de,(i) quǽ(i)su(i)mus;(i) ut(i) ad(i) su(i)pér(i)na(i) sem(i)per(i) in(i)tén(i)ti,(i_') (,) ip(i)sí(i)us(i) gló(i)ri(i)æ(i) me(i)re(i)á(i)mur(i) es(i)se(h) con(h)sór(i ir)tes.(i.) (::)}
+$Per eumdem solemnis
 
 [Lectio Prima]
 !Judith 15:10

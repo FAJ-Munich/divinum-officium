@@ -56,12 +56,14 @@ $Per eumdem
 !Commemoratio pro Octava SSmi Cordis D.N.J.C
 Ant. Ignem * veni míttere in terram, et quid volo nisi ut accendátur?
 _
-V. Tóllite jugum meum super vos et díscite a me.
-R. Quia mitis sum et húmilis Corde.
+{initial-style:0;%%(c3) V/. Tól(h)li(h)te(h) ju(h)gum(h) me(h)um(h) su(h)per(h) vos(h) et(h) dí(h)sci(h)te(h) a(h fr) me.(f.) (::)
+R/. Qui(h)a(h) mi(h)tis(h) sum(h) et(h) hú(h)mi(h)lis(h) Cor(h fr)de.(f.) (::)}
 _
-$Oremus
-Deus, qui nobis in Corde Fílii tui, nostris vulneráto peccátis, infinítos dilectiónis thesáuros misericórditer largíri dignáris; concéde, quǽsumus, ut illi devótum pietátis nostræ præstántes obséquium, dignæ quoque satisfactiónis exhibeámus offícium.
-$Per eumdem
+$Oremus solemnis
+{(c4)De(g)us,(h) qui(h) no(h)bis(h) in(h) Cor(h)de(h) Fí(h)li(h)i(h) tu(h)i,(h) nos(h)tris(h) vul(h)ne(h)rá(h)to(h) pec(h)cá(h)tis,(h) in(h)fi(h)ní(h)tos(h) di(h)lec(h)ti(h)ó(h)nis(h) the(h)sáu(h)ros(h) mi(h)se(h)ri(h)cór(h)di(h)ter(h) lar(h)gí(h)ri(h) di(h)gná(h)ris;(g.) *(;) con(g)cé(h)de,(h) quǽ(h)su(h)mus,(h) ut(h) il(h)li(h) de(h)vó(h)tum(h) pi(h)e(h)tá(h)tis(h) nos(h)træ(h) præ(h)stán(h)tes(h) ob(h)sé(h)qui(h)um,(h.) (;) di(h)gnæ(h) quo(h)que(h) sa(h)tis(h)fac(h)ti(h)ó(h)nis(h) ex(h)hi(h)be(h)á(h)mus(g) of(g)fí(h)ci(hr)um.(h.) (::)}
+(sed rubrica monastica)
+{(c3)De(h)us,(i) qui(i) no(i)bis(i) in(i) Cor(i)de(i) Fí(i)li(i)i(i) tu(i)i,(i) nos(i)tris(i) vul(i)ne(i)rá(i)to(i) pec(i)cá(i)tis,(i) in(i)fi(i)ní(i)tos(i) di(i)lec(i)ti(i)ó(i)nis(i) the(i)sáu(i)ros(i) mi(i)se(i)ri(i)cór(i)di(i)ter(i) lar(i)gí(i)ri(i) di(i)gná(i)ris;(h.) *(;) con(h)cé(i)de,(i) quǽ(i)su(i)mus,(i) ut(i) il(i)li(i) de(i)vó(i)tum(i) pi(i)e(i)tá(i)tis(i) nos(i)træ(i) præ(i)stán(i)tes(i) ob(i)sé(i)qui(i)um,(i_') (,) di(i)gnæ(i) quo(i)que(i) sa(i)tis(i)fac(i)ti(i)ó(i)nis(i) ex(i)hi(i)be(i)á(i)mus(h) of(h)fí(i)ci(ir)um.(i.) (::)}
+$Per eumdem solemnis
 
 [Invit]
 Cor Jesu amóre nostri vulnerátum * Veníte, adorémus.
@@ -289,12 +291,14 @@ Facta sunt * enim hæc ut Scriptúra implerétur quæ dicit: Vidébunt in quem t
 !Commemoratio pro Octava SSmi Cordis D.N.J.C
 Ant. Facta sunt * enim hæc ut Scriptúra implerétur quæ dicit: Vidébunt in quem transfixérunt.
 _
-V. Hauriétis aquas in gáudio.
-R. De fóntibus Salvatóris.
+{initial-style:0;%%(c3) V/. Hau(h)ri(h)é(h)tis(h) a(h)quas(h) in(h) gáu(h)di(fr)o.(f.) (::)
+R/. De(h) fón(h)ti(h)bus(h) Sal(h)va(h)tó(h fr)ris.(f.) (::)}
 _
-$Oremus
-Deus, qui nobis in Corde Fílii tui, nostris vulneráto peccátis, infinítos dilectiónis thesáuros misericórditer largíri dignáris; concéde, quǽsumus, ut illi devótum pietátis nostræ præstántes obséquium, dignæ quoque satisfactiónis exhibeámus offícium.
-$Per eumdem
+$Oremus solemnis
+{(c4)De(g)us,(h) qui(h) no(h)bis(h) in(h) Cor(h)de(h) Fí(h)li(h)i(h) tu(h)i,(h) nos(h)tris(h) vul(h)ne(h)rá(h)to(h) pec(h)cá(h)tis,(h) in(h)fi(h)ní(h)tos(h) di(h)lec(h)ti(h)ó(h)nis(h) the(h)sáu(h)ros(h) mi(h)se(h)ri(h)cór(h)di(h)ter(h) lar(h)gí(h)ri(h) di(h)gná(h)ris;(g.) *(;) con(g)cé(h)de,(h) quǽ(h)su(h)mus,(h) ut(h) il(h)li(h) de(h)vó(h)tum(h) pi(h)e(h)tá(h)tis(h) nos(h)træ(h) præ(h)stán(h)tes(h) ob(h)sé(h)qui(h)um,(h.) (;) di(h)gnæ(h) quo(h)que(h) sa(h)tis(h)fac(h)ti(h)ó(h)nis(h) ex(h)hi(h)be(h)á(h)mus(g) of(g)fí(h)ci(hr)um.(h.) (::)}
+(sed rubrica monastica)
+{(c3)De(h)us,(i) qui(i) no(i)bis(i) in(i) Cor(i)de(i) Fí(i)li(i)i(i) tu(i)i,(i) nos(i)tris(i) vul(i)ne(i)rá(i)to(i) pec(i)cá(i)tis,(i) in(i)fi(i)ní(i)tos(i) di(i)lec(i)ti(i)ó(i)nis(i) the(i)sáu(i)ros(i) mi(i)se(i)ri(i)cór(i)di(i)ter(i) lar(i)gí(i)ri(i) di(i)gná(i)ris;(h.) *(;) con(h)cé(i)de,(i) quǽ(i)su(i)mus,(i) ut(i) il(i)li(i) de(i)vó(i)tum(i) pi(i)e(i)tá(i)tis(i) nos(i)træ(i) præ(i)stán(i)tes(i) ob(i)sé(i)qui(i)um,(i_') (,) di(i)gnæ(i) quo(i)que(i) sa(i)tis(i)fac(i)ti(i)ó(i)nis(i) ex(i)hi(i)be(i)á(i)mus(h) of(h)fí(i)ci(ir)um.(i.) (::)}
+$Per eumdem solemnis
 
 [Lectio Prima]
 !Eph 3:17-19
@@ -352,9 +356,11 @@ $Per Dominum
 !Commemoratio pro Octava SSmi Cordis D.N.J.C
 Ant. Ad Jesum autem * cum venissent, ut vidérunt eum jam mortuum, non fregérunt ejus crura, sed unus militum lancea latus ejus apéruit et continuo exívit sanguis et aqua.
 _
-V. Hauriétis aquas in gáudio.
-R. De fóntibus Salvatóris.
+{initial-style:0;%%(c3) V/. Hau(h)ri(h)é(h)tis(h) a(h)quas(h) in(h) gáu(h)di(fr)o.(f.) (::)
+R/. De(h) fón(h)ti(h)bus(h) Sal(h)va(h)tó(h fr)ris.(f.) (::)}
 _
-$Oremus
-Protéctor in te sperántium, Deus, sine quo nihil est válidum, nihil sanctum; multíplica super nos misericórdiam tuam; ut, te rectóre, te duce, sic transeámus per bona temporália, ut non amittámus ætérna.
-$Per Dominum
+$Oremus solemnis
+{(c4)Pro(g)téc(h)tor(h) in(h) te(h) spe(h)rán(h)ti(h)um,(h) De(h)us,(h) si(h)ne(h) quo(h) ni(h)hil(h) est(h) vá(h)li(h)dum,(h) ni(h)hil(h) sanc(h)tum;(g.) *(;) mul(g)tí(h)pli(h)ca(h) su(h)per(h) nos(h) mi(h)se(h)ri(h)cór(h)di(h)am(h) tu(h)am;(h) ut,(h) te(h) rec(h)tó(h)re,(h) te(h) du(h)ce,(h) sic(h) trans(h)e(h)á(h)mus(h) per(h) bo(h)na(h) tem(h)po(h)rá(h)li(h)a,(h.) (;) ut(h) non(h) a(h)mit(h)tá(h)mus(g) æ(g)tér(h hr)na.(h.) (::)}
+(sed rubrica monastica)
+{(c3)Pro(h)téc(i)tor(i) in(i) te(i) spe(i)rán(i)ti(i)um,(i) De(i)us,(i) si(i)ne(i) quo(i) ni(i)hil(i) est(i) vá(i)li(i)dum,(i) ni(i)hil(i) sanc(i)tum;(h.) *(;) mul(h)tí(i)pli(i)ca(i) su(i)per(i) nos(i) mi(i)se(i)ri(i)cór(i)di(i)am(i) tu(i)am;(i) ut,(i) te(i) rec(i)tó(i)re,(i) te(i) du(i)ce,(i) sic(i) trans(i)e(i)á(i)mus(i) per(i) bo(i)na(i) tem(i)po(i)rá(i)li(i)a,(i_') (,) ut(i) non(i) a(i)mit(i)tá(i)mus(h) æ(h)tér(i ir)na.(i.) (::)}
+$Per Dominum solemnis

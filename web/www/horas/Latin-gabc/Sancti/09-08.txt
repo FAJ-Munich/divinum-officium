@@ -33,9 +33,11 @@ _
 {initial-style:0;%%(c3) V/. Na(h)tí(h)vi(h)tas(h) est(h) hó(h)di(h)e(h) sanc(h)tæ(h) Ma(h)rí(h)æ(h) Vír(h)gi(f)nis.(f.) (::)
 R/. Cu(h)jus(h) vi(h)ta(h) ín(h)cli(h)ta(h) cunc(h)tas(h) il(h)lus(h)trat(h) ec(h)clé(h)si(f)as.(f.) (::)}
 _
-$Oremus
-v. Fámulis tuis, quǽsumus, Dómine, cæléstis gratiæ munus impertíre: ut, quibus beátæ Vírginis partus éxstitit salútis exórdium; Nativitátis ejus votíva solémnitas pacis tríbuat increméntum.
-$Per Dominum
+$Oremus solemnis
+{(c4)Fá(g)mu(h)lis(h) tu(h)is,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) cæ(h)lés(h)tis(h) gra(h)ti(h)æ(h) mu(h)nus(h) im(h)per(h)tí(h)re:(g.) *(;) ut,(g) qui(h)bus(h) be(h)á(h)tæ(h) Vír(h)gi(h)nis(h) par(h)tus(h) éx(h)sti(h)tit(h) sa(h)lú(h)tis(h) ex(h)ór(h)di(h)um;(h.) (;) Na(h)ti(h)vi(h)tá(h)tis(h) e(h)jus(h) vo(h)tí(h)va(h) so(h)lém(h)ni(h)tas(h) pa(h)cis(h) trí(h)bu(h)at(h) in(g)cre(g)mén(h hr)tum.(h.) (::)}
+(sed rubrica monastica)
+{(c3)Fá(h)mu(i)lis(i) tu(i)is,(i) quǽ(i)su(i)mus,(i) Dó(i)mi(i)ne,(i) cæ(i)lés(i)tis(i) gra(i)ti(i)æ(i) mu(i)nus(i) im(i)per(i)tí(i)re:(h.) *(;) ut,(h) qui(i)bus(i) be(i)á(i)tæ(i) Vír(i)gi(i)nis(i) par(i)tus(i) éx(i)sti(i)tit(i) sa(i)lú(i)tis(i) ex(i)ór(i)di(i)um;(i_') (,) Na(i)ti(i)vi(i)tá(i)tis(i) e(i)jus(i) vo(i)tí(i)va(i) so(i)lém(i)ni(i)tas(i) pa(i)cis(i) trí(i)bu(i)at(i) in(h)cre(h)mén(i ir)tum.(i.) (::)}
+$Per Dominum solemnis
 
 [Invit]
 Nativitátem Vírginis Maríæ celebrémus: * Christum ejus Fílium adorémus Dóminum.

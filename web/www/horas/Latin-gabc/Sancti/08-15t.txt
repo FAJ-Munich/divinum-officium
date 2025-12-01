@@ -26,9 +26,11 @@ _
 {initial-style:0;%%(c3) V/. Ex(h)al(h)tá(h)ta(h) est(h) sanc(h)ta(h) De(h)i(h) Gé(h)ne(f)trix.(f.) (::)
 R/. Su(h)per(h) cho(h)ros(h) An(h)ge(h)ló(h)rum(h) ad(h) cæ(h)lés(h)ti(h)a(h) re(h)gna.(f.) (::)}
 _
-$Oremus
-Famulórum tuorum, quǽsumus, Domine, delíctis ignósce: utqui tibi plácere de áctibus nostris non valémus; Genitrícis Fílii tui Dómini nostri intercessióne salvémur:
-$Qui tecum
+$Oremus solemnis
+{(c4)Fa(g)mu(h)ló(h)rum(h) tu(h)o(h)rum,(h) quǽ(h)su(h)mus,(h) Do(h)mi(h)ne,(h) de(h)líc(h)tis(h) i(h)gnó(h)sce:(g.) *(;) ut(g) qui(h) ti(h)bi(h) plá(h)ce(h)re(h) de(h) ác(h)ti(h)bus(h) nos(h)tris(h) non(h) va(h)lé(h)mus;(h.) (;) Ge(h)ni(h)trí(h)cis(h) Fí(h)li(h)i(h) tu(h)i(h) Dó(h)mi(h)ni(h) nos(h)tri(h) in(h)ter(h)ces(h)si(h)ó(h)ne(g) sal(g)vé(h hr)mur:(h.) (::)}
+(sed rubrica monastica)
+{(c3)Fa(h)mu(i)ló(i)rum(i) tu(i)o(i)rum,(i) quǽ(i)su(i)mus,(i) Do(i)mi(i)ne,(i) de(i)líc(i)tis(i) i(i)gnó(i)sce:(h.) *(;) ut(h) qui(i) ti(i)bi(i) plá(i)ce(i)re(i) de(i) ác(i)ti(i)bus(i) nos(i)tris(i) non(i) va(i)lé(i)mus;(i_') (,) Ge(i)ni(i)trí(i)cis(i) Fí(i)li(i)i(i) tu(i)i(i) Dó(i)mi(i)ni(i) nos(i)tri(i) in(i)ter(i)ces(i)si(i)ó(i)ne(h) sal(h)vé(i ir)mur:(i.) (::)}
+$Qui tecum solemnis
 
 [Invit]
 Veníte, adorémus Regem regum, * Cujus hódie ad æthéreum Virgo Mater assúmpta est cælum.
@@ -90,9 +92,11 @@ _
 {initial-style:0;%%(c3) V/. Ex(h)al(h)tá(h)ta(h) est(h) sanc(h)ta(h) De(h)i(h) Gé(h)ne(f)trix.(f.) (::)
 R/. Su(h)per(h) cho(h)ros(h) An(h)ge(h)ló(h)rum(h) ad(h) cæ(h)lés(h)ti(h)a(h) re(h)gna.(f.) (::)}
 _
-$Oremus
-Famulórum tuorum, quǽsumus, Domine, delíctis ignósce: utqui tibi plácere de áctibus nostris non valémus; Genitrícis Fílii tui Dómini nostri intercessióne salvémur:
-$Qui tecum
+$Oremus solemnis
+{(c4)Fa(g)mu(h)ló(h)rum(h) tu(h)o(h)rum,(h) quǽ(h)su(h)mus,(h) Do(h)mi(h)ne,(h) de(h)líc(h)tis(h) i(h)gnó(h)sce:(g.) *(;) ut(g) qui(h) ti(h)bi(h) plá(h)ce(h)re(h) de(h) ác(h)ti(h)bus(h) nos(h)tris(h) non(h) va(h)lé(h)mus;(h.) (;) Ge(h)ni(h)trí(h)cis(h) Fí(h)li(h)i(h) tu(h)i(h) Dó(h)mi(h)ni(h) nos(h)tri(h) in(h)ter(h)ces(h)si(h)ó(h)ne(g) sal(g)vé(h hr)mur:(h.) (::)}
+(sed rubrica monastica)
+{(c3)Fa(h)mu(i)ló(i)rum(i) tu(i)o(i)rum,(i) quǽ(i)su(i)mus,(i) Do(i)mi(i)ne,(i) de(i)líc(i)tis(i) i(i)gnó(i)sce:(h.) *(;) ut(h) qui(i) ti(i)bi(i) plá(i)ce(i)re(i) de(i) ác(i)ti(i)bus(i) nos(i)tris(i) non(i) va(i)lé(i)mus;(i_') (,) Ge(i)ni(i)trí(i)cis(i) Fí(i)li(i)i(i) tu(i)i(i) Dó(i)mi(i)ni(i) nos(i)tri(i) in(i)ter(i)ces(i)si(i)ó(i)ne(h) sal(h)vé(i ir)mur:(i.) (::)}
+$Qui tecum solemnis
 
 [Responsory Breve Tertia]
 R.br. Exaltáta est * Sancta Dei Génetrix.
