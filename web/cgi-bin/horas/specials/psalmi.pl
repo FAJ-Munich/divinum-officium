@@ -162,6 +162,8 @@ sub psalmi_minor {
         }
         $name = "Adv4$i";
       }
+
+      $name =~ s/\d+$/OP/ if $version =~ /praedicatorum/i;
     }
 
     if ($name eq 'Pasch' && $lang =~ /gabc/i && $version =~ /monastic/i) {
