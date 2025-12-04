@@ -65,12 +65,13 @@ sub invitatorium {
   $ant =~ s/^.*?\=\s*//;
   $ant = chompd($ant);
   my $invitMode;
-  if ($lang =~ /gabc/i) { $ant =~ s/;;(.*)$//; $invitMode = $1; }    # strip Invit Mode from Antiphone
+  if ($lang =~ /gabc/i) { $ant =~ s/;;(.*)$//; $invitMode = $1; }    # GABC: strip Invit Mode from Antiphone
   $ant = "Ant. $ant";
   postprocess_ant($ant, $lang);
   my @ant = split('\*', $ant);
 
-  if ($lang =~ /gabc/i && $ant =~ /(\([cf][1-4]b?\))/) {             # postProcess Ant1 for GABC
+  # GABC: postProcess Ant1
+  if ($lang =~ /gabc/i && $ant =~ /(\([cf][1-4]b?\))/) {
     my $clef = $1;
     $ant[1] =~ s/^\s*\([,;:]\)//;
     $ant[1] = '{' . $clef . $ant[1];
@@ -263,30 +264,20 @@ sub psalmi_matutinum {
 
   if ($lang =~ /gabc/i) {
     foreach my $psalmline (@psalmi) {
-      my @a = split(';;', $psalmline);    # retrieve psalmtone behind second ;;
+      my @a = split(';;', $psalmline);    # Retrieve psalmtone given behind second ';;'
 
       if (@a > 2) {
-        my $ant0 = chompd($a[0]);
-        my @psalm0 = split(';', chompd($a[1]));
-        my $psalmTone = chompd($a[2]);
+        my $ant0 = chompd($a[0]);                  # Retrieve Antiphon
+        my @psalm0 = split(';', chompd($a[1]));    # Split multiple Psalms
+        my $psalmTone = chompd($a[2]);             # Retrieve PsalmTone
 
         foreach my $ps0 (@psalm0) {
-          $ps0 = "'$ps0,$psalmTone'";    # combine psalm tone with all psalms
+          $ps0 = "'$ps0,$psalmTone'";              # combine psalm tone with all psalms
         }
         my $psalm0 = join(';', @psalm0);
-        $psalmline = "$ant0;;$psalm0";    # recombine antiphone line
+        $psalmline = "$ant0;;$psalm0";             # Recombine antiphone line
       }
     }
-  }
-
-  if ( $version =~ /Trident/i
-    && $testmode =~ /seasonal/i
-    && $winner =~ /Sancti/i
-    && $rank >= 2
-    && $rank < 5
-    && !exists($winner{'Ant Matutinum'}))
-  {
-    $comment = 0;
   }
   setcomment($label, 'Source', $comment, $lang, $prefix);
 
@@ -1227,7 +1218,7 @@ sub lectio : ScriptFunc {
   #handle parentheses in non Latin
   if ($lang !~ /Latin/i) {
     process_inline_alleluias(\$w, $lang, $dayname[0] =~ /Pasc/);
-    $w =~ s/\((.*?[.,\d].*?)\)/parenthesised_text($1)/eg;
+    $w =~ s/\(([^(]*?[.,\d][^(]*?)\)/parenthesised_text($1)/eg;
   }
 
   $w = replaceNdot($w, $lang);
@@ -1370,8 +1361,11 @@ sub responsory_gloria {
 
     if ($lang =~ /gabc/ && $w =~ /\{.*\}/) {
       if ($w =~ /\_\s\{gabc:/) {
+
+        # Choose Responsory with Gloria
+        #TODO: properly develop this feature together with filling the Matins database
         $w =~ s/\_\s\{gabc:(.*)\}/\_ \{gabc:$1-gloria\}/;
-      }    # choose Responsory with Gloria #TODO: check T.P.!
+      }
 
     } elsif ($w !~ /\&Gloria/i) {
       $w =~ s/[\s_]*$//gs;

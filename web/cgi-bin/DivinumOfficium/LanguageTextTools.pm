@@ -40,6 +40,8 @@ sub suppress_alleluia {
   my ($text_ref, $gabcf) = @_;
 
   if ($gabcf) {
+
+    # Suppress alleluja for GABC and ensure single full stop at end of chant.
     $$text_ref =~ s/(.*)(?:\(.*?\)\s*)+\(?al\(.*\)le\(.*\)l[uú]\(.*\)\{?[ij]a\}?[\.\,]*\((.*?)\)\)?/$1.($2)/ig;
     $$text_ref =~ s/[.,]{2,}\(/.(/;
   } else {
@@ -55,8 +57,12 @@ sub process_inline_alleluias {
 
   if ($lang =~ /gabc/i) {
     if ($paschalf) {
+
+      # GABC: For Monastic, in Paschaltide, if the pattern is † … (::) ^_T. P._^ † … (::), remove text between daggers
       $$text_ref =~ s/†.*?\s?(\<i\>|\_|\^|\|)+T\.\s?P\.(\<\/i\>|\_|\^|\|)+(\s*†)?/ /img;
     } else {
+
+      # GABC: Outside Paschaltide, remove † and remove text after ^_T. P._^
       $$text_ref =~ s/(?:†(.*?))?\s*(\<i\>|\_|\^|\|)+T\.\s?P\.(\<\/i\>|\_|\^|\|)+.*?\(\:\:\)/$1/img;
     }
   } elsif ($paschalf) {
@@ -73,10 +79,13 @@ sub ensure_single_alleluia {
   my ($text_ref, $lang) = @_;
 
   if ($lang =~ /gabc/i) {
+
+    # GABC: Functionality is limited to Versus in Tonus cum neuma, unless alleluja is already there.
     return
       unless $$text_ref =~ /\.\(g\_\'\/hv?GF\'?E\!?fgf\.\)\s*\(\:\:\)/
-      && $$text_ref !~ /(?:(?:al|le|l[úu]|\{?[ij]a\}?\.)\(.*?\)){4}/i; # only Antiphonas cum neuma.
-                                                                       # TODO: check T.P. (for Antiphones and Versicles)
+      && $$text_ref !~ /(?:(?:al|le|l[úu])\(.*?\)){3}\{?[ij]a\}?\.\(g\_\'\/hv?GF\'?E\!?fgf\.\)\s*\(\:\:\)/i;
+
+    # For Tonus Versus cum Neuma, move finalis to the end of allelúja.
     $$text_ref =~ s/(\.\(g\_\'\/hv?GF\'?E\!?fgf\.\)\s*\(\:\:\))/\,(h\_\') (\,) al(h)le(h)lú(h)ja$1/;
   } else {
 
@@ -93,7 +102,9 @@ sub ensure_single_alleluia {
 # the Paschal form.
 sub ensure_double_alleluia {
   my ($text_ref, $lang) = @_;
-  if ($lang =~ /gabc/i) { return; }    # TODO: check T.P. (for Resp. breve)
+
+  # GABC: Functionality deactivated; Tonus paschalis to be input in database
+  if ($lang =~ /gabc/i) { return; }
 
   my $alleluia = prayer('Alleluia Duplex', $lang);
   $alleluia =~ s/\s+$//;
@@ -110,7 +121,7 @@ sub ensure_double_alleluia {
 # 'Alleluja * alleluja, alleluja.'
 sub alleluia_ant {
   my ($lang) = @_;
-  if ($lang =~ /gabc/i) { return prayer('Alleluia Ant', $lang); }
+  if ($lang =~ /gabc/i) { return prayer('Alleluia Ant', $lang); }    # TODO: check if obsolete
   my $u = alleluia($lang);
   my $l = lc $u;
 

@@ -603,8 +603,7 @@ Allelúja, * allelúja, allelúja.;;143;;6
 {name:Domine clamavi ad te;annotation:8.a;mode:8;book:Antiphonale Monasticum, 1934, p. 151;transcriber:Harpa Dei;%%(c3) DO(h)mi(h)ne(g'_) *() cla(h)má(f')vi(e) ad(g') te,(h) ex(fe)áu(f')di(e) me.(e.) (::)};;140;;8a
 
 [Monastic Vespera] (feria 5 et tempore paschali)
-{annotation:3.g;book:Antiphonale Monasticum, 1934, p. 149;
-transcriber:faj-munich;%%(c4) AL(g)le(h')lú(j)ja,(j_i) *() al(h')le(g)lú(gh)ja,(g_f) al(g)le(gf)lú(e.)ja.(e.) (::)};;138(1-9);;3g
+{annotation:3.g;book:Antiphonale Monasticum, 1934, p. 149;transcriber:faj-munich;%%(c4) AL(g)le(h')lú(j)ja,(j_i) *() al(h')le(g)lú(gh)ja,(g_f) al(g)le(gf)lú(e.)ja.(e.) (::)};;138(1-9);;3g
 ;;138(10-23);;3g
 ;;139;;3g
 ;;140;;3g

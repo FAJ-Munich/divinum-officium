@@ -34,7 +34,8 @@ sub lectio_brevis_prima {
 
   if ($brevis =~ /\(ef\.\.\)/) {
 
-    # Transform Tonus Capitulum (Nona) into Tonus Lectio brevis
+    # GABC: All Lectio Prima are either input in Tonus Capitulum or links to Capitulum Nona
+    # Therefore: Transform Tonus Capitulum (Nona) into Tonus Lectio brevis here
     map {
       s/(.*)\(f/$1(h./g;
       s/er\)/dr\)/g;
@@ -91,7 +92,7 @@ sub capitulum_prima {
 
     if ($primaresponsory) {
       if ($lang =~ /gabc/i) {
-        $resp[0] = $primaresponsory;
+        $resp[0] = $primaresponsory;    # GABC: Take whole Responsorium from [Versum Prima]
       } else {
         $resp[2] = "V. $primaresponsory";
       }

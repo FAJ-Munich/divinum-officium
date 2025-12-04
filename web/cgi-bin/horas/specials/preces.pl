@@ -22,7 +22,7 @@ sub preces {
 
   if (
     $dayofweek
-    && !($dayofweek == 6 && $hora =~ /vespera/i)    # Dominicales at Completorium are also said if Feriales at Vespers!
+    && !($dayofweek == 6 && $hora =~ /vespera/i)    # Dominicales ad Completorium are also said if Feriales at Vespers!
     && (
       $winner !~ /sancti/i && ($rule =~ /Preces/i || $dayname[0] =~ /Adv|Quad(?!p)/i || emberday())    #
       || ($version !~ /1955|1960|Newcal/ && $winner{Rank} =~ /vigil/i && $dayname[1] !~ /Epi|Pasc/i)

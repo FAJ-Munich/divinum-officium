@@ -16,6 +16,8 @@ our %setupstring_caches_by_version;
 # Pseudo constants to be used in vero() sub
 # Commune Summorum Pont. introduced in 1942 only (=> not for Monastic 1930)
 my %subjects = (
+
+  # Standard subjects
   rubricis => sub {$version},
   rubrica => sub {$version},
   tempore => \&get_tempus_id,
@@ -23,15 +25,19 @@ my %subjects = (
   communi => sub { our $version },
   'die' => \&get_dayname_for_condition,
   feria => sub { our $dayofweek + 1 },
-  tonus => sub {$chantTone},
-  toni => sub {$chantTone},
   commune => sub { our $commune },
   votiva => sub { our $votive },
   officio => sub { $dayname[1]; },
   ad => sub { our $missa ? 'missam' : our $hora; },
   mense => sub { our $month },    # mense is not perfect eg. 1 matches also 10 11 12
+
+  # GABC subjects
+  tonus => sub {$chantTone},
+  toni => sub {$chantTone},
 );
 my %predicates = (
+
+  # Standard predicates
   tridentina => sub { shift =~ /Trident/ },
   monastica => sub { shift =~ /Monastic/ },
   innovata => sub { shift =~ /2020 USA|NewCal/i },
@@ -44,10 +50,12 @@ my %predicates = (
   longior => sub { shift == 1 },
   brevior => sub { shift == 2 },
   'summorum pontificum' => sub { shift =~ /194[2-9]]|195[45]|196/ },
+  feriali => sub { shift =~ /feria|vigilia/i; },
+
+  # GABC predicates (for "tonus" and "tempore", respectively
   'in solemnitatibus' => sub { shift =~ /solemnis|resurrectionis/i },
   'in hieme' => sub { shift =~ /hieme|Adventus|Nativitatis|Epiphani|gesimæ|Passionis/i },
   'in æstate' => sub { shift !~ /hieme|Adventus|Nativitatis|Epiphani|gesimæ|Passionis/i },
-  feriali => sub { shift =~ /feria|vigilia/i; },
 );
 
 # Constants specifying which @-directives to resolve when calling &setupstring.
@@ -162,10 +170,18 @@ sub get_tempus_id {
   our @dayname;
   our ($day, $month, $year, $dayofweek, $version, $hora);
   my $vesp_or_comp = ($hora =~ /Vespera/i) || ($hora =~ /Completorium/i);
-  our $monthday;    # = monthday($day, $month, $year, ($version =~ /196/) + 0, $vesp_or_comp);
+  our $monthday;
   my $oct_or_nov = $monthday =~ /^(10|11)\d\-/;
   local $_ = $dayname[0];
 
+  # Standard: Adventus—Nativitatis—Epiphaniæ—post Epiphaniam—Septuagesimæ–Quadragesimæ–Passionis–...
+  #           ...–8va Paschæ–post 8vam Paschæ–8va Ascensionis–post 8vam Ascensionis–8va Pentecostes–...
+  #           ...–post Pentecosten
+  # Standard augmentation for "post Pentecosten": Corpus Christi—8va C.C.—SSmi Cordis—8va—8va SSmi Cordis
+  # GABC: Augmented periods for determining correct chant scores:
+  #           post partum: Jan 14th — Feb 2nd usque ad Nonam inclusive
+  #           in hieme:    Sabbato ante Dominica I Octobris ad Vesperas usque ad Triduum Sacrum
+  #           in æstate:   Pascha – Sabbato ante Dom. I. Oct. usque ad Nonam inclusive
   /^Adv/
     ? 'Adventus'
     : /^Nat/ ? ($month == 1 && ($day >= 6 || ($day == 5 && $vesp_or_comp)))
@@ -567,7 +583,8 @@ sub setupstring($$%) {
 
     if (%$new_sections) {
 
-      # Fill in missing "pre-Urban hymn translations to avoid being overriden by Latin
+      # Fill in missing "pre-Urban hymn translations to avoid being overwritten by Latin
+      # GABC: deactivated as pre-Urban Hymnody should not be overwritten by post-Urban at all
       foreach my $seckey (keys(%{$new_sections})) {
         if ($seckey =~ /Hymnus(.*?) (.*)/) {
           unless ($lang =~ /gabc/i || exists(${$new_sections}{"Hymnus$1M $2"})) {

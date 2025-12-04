@@ -306,7 +306,8 @@ function readings() {
 
 sub horasjsend() {
 
-  #empty but necessary
+  # Gregorian Chant (GABC) functionality:
+  # Empty but necessary function to mask the corresponding one from horasjs.pl!
 }
 
 # below function is unused

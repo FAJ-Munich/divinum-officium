@@ -105,7 +105,7 @@ sub specials {
       setcomment($label, 'Preces', $comment, $lang) if ($rule !~ /Omit.*? $ite mute/i);
 
       if ( $item =~ /incipit/i
-        && $version !~ /Cist|1955|196/
+        && $version !~ /1955|196/
         && $winner !~ /C12/
         && !($version =~ /cist/i && $winner =~ /C9/))
       {
@@ -126,7 +126,7 @@ sub specials {
       next;
     }
 
-    #if rule says 'Ave only', omit Pater and Credo from Incipit
+    # if rule says 'Ave only', omit Pater and Credo from Incipit
     if ($rule =~ /Ave only/i && $item =~ /incipit/i) {
       setcomment($label, 'Preces', 2, $lang);
 
@@ -185,23 +185,11 @@ sub specials {
       next;
     }
 
-    # Capitulum @ Primam (if not replaced by Versum in loco capituli
+    # Capitulum @ Primam (if not replaced by Versum in loco capituli)
     if ($item =~ /Capitulum/i && $hora eq 'Prima') {
       push(@s, capitulum_prima($lang, $item =~ /Responsorium/i));
       next;
     }
-
-    # Capitulum @ Completorium
-    #    if ($item =~ /Capitulum/i && $hora =~ /Completorium/i) {
-    #      $tind--;
-    #			if ($lang =~ /gabc/i) {  push(@s, $t[$tind++]); next; } # GABC: don't look for start of response
-    #      while ($tind < @t && $t[$tind] !~ /^\s*(?:V|R.br)\./) { push(@s, $t[$tind++]); }
-    #      my @resp = ();
-    #      while ($tind < @t && $t[$tind] !~ /^\s*\#/) { push(@resp, $t[$tind++]); }
-    #      postprocess_short_resp(@resp, $lang);
-    #      push(@s, @resp);
-    #      next;
-    #    }
 
     if ($item =~ /Lectio brevis/i && $hora eq 'Completorium') {
       my %lectio = %{setupstring($lang, 'Psalterium/Special/Minor Special.txt')};
@@ -589,18 +577,7 @@ sub getantvers {
   my $w = '';
   my $c = 0;
 
-  #	our $chantTone;
-  #	if ($lang =~ /gabc/ && $chantTone =~ /solemnis/i) {
-  #		($w, $c) = getproprium("$item $ind solemn", $lang, 1, 1);
-  #		if (!$w && $ind > 1) {
-  #			my $i = 4 - $ind;
-  #			($w, $c) = getproprium("$item $i solemn", $lang, 1, 1);
-  #		}
-  #	}
-  #	if (!$w) {
   ($w, $c) = getproprium("$item $ind", $lang, 1);
-
-  #	}
 
   if (!$w && $ind > 1) {
     my $i = 4 - $ind;
@@ -817,7 +794,8 @@ sub replaceNdot {
   } else {
     @name = grep(/Oratio\=/, @name) unless $name !~ /Oratio\=/;
   }
-  $name[0] =~ s/kxi/i/ if $version =~ /monastic/i && $lang =~ /gabc/i;    # No b-flat in Monastic for Ant. O Doctor
+  $name[0] =~ s/kxi/i/
+    if $version =~ /monastic/i && $lang =~ /gabc/i;    # GABC: Remove b-flat in Monastic for Ant. O Doctor
   $name[0] =~ s/^.*?\=//;
 
   if ($name[0]) {

@@ -520,20 +520,25 @@ sub setcell {
     print "<p>" if $officium =~ /Eofficium|Emissa/;
     topnext_cell(\$text, $lang) unless $popup || $officium =~ /Eofficium|Emissa/;
 
-    if ($lang =~ /gabc/i) {    # post process GABC chants
+    # GABC: post process chants
+    if ($lang =~ /gabc/i) {
       my $dId = 0;
 
-      # Merge Orationes
       if ($text =~ /Commemoratio|Suffragium/) {
 
+        # Merge Commemoratio et Suffragium
         # The Versicle are given in the simple tone with clef (c3) ending on (f.)
         # Roman: The Oration follows in the solemn tone.
         # Keeping the clef (c4) and adding custos for that purpose.
         $text =~
           s/\.\((f)\.\)\s*\(\:\:\)\}(?:\s|\_|\<br\/\>)*\{(\(c4\) O\(h\)ré\([gh]{1,2}\)mus\.\([fh]\.\) \(\:\:\)\})/.($1.) (f+::) $2/gs;
       } elsif ($text =~ /Incipit/i) {
+
+        # Merge &Alleluja with &Deus in adjutorium
         $text =~ s/(men\.\([defgh]\.?\) \(\:\:\))\}(?:\s|\_|\<br\/\>)*\{\(c[34]\) (Al|Laus)\(/$1 $2\(/gs;
       }
+
+      # Merge Versicle with following Oremus, with following Oratio, with following Conclusio
       $text =~
         s/\.\(([dfghi])\.\)\s*\(\:\:\)\}(?:\s|\_|\<br\/\>)*\{\(c[34]\) (O\([hi]\)ré\([ghi]{1,2}\)mus\.\([fhi]\.\) \(\:\:\)\})/.($1.) (::) $2/gs;
       $text =~ s/(O\([hi]\)ré\([ghi]{1,2}\)mus\.\([fhi]\.\)) \(\:\:\)\}(?:\s|\_|\<br\/\>)*\{\(c[34]\)/$1 (:)/gs;
@@ -546,19 +551,21 @@ sub setcell {
       $text =~
         s/(?<=R\/.\s?A\([defgh]\.?\)men\.\([defgh]\.?\) \(\:\:\))\s?R\/. A\([gh]\.?\)men\.\([gh]\.?\) \(\:\:\)//g;
 
-      # Merge Chapter and Lectio brevis
+      # Merge Chapter and Lectio brevis with Deo gratias / Tu autem
       $text =~
         s/(\.\(ef\.\.\) \(\:\:\))\}(?:\s|\_|\<br\/\>)*\{(?:initial\-style\:0\;\%\%)\(c[34]\) (R\/. De\(h\)o\(h\))/$1 $2/gs;
       $text =~
         s/(\.\(d\.\) \(\:\:\))\}(?:\s|\_|\<br\/\>)*\{(?:initial\-style\:0\;\%\%)\(c[34]\) (V\/. Tu\(h\) au\(g\))/$1 $2/gs;
 
-      # retrieve all GABC scores from files
+      # Retrieve all GABC scores from files
       while ($text =~ /\{gabc:(.+?)\}/is) {
         my $temp = $1;
         my $gregFile = "chants/$1.gabc";
         $gregFile = checkfile($lang, $gregFile);
 
-        if ($gregFile =~ /\/Latin\/.*gloria\.gabc/i) {    # if second Responsory GABC doesnot exist
+        if ($gregFile =~ /\/Latin\/.*gloria\.gabc/i) {
+
+          # if second Responsory GABC doesnot exist (cf. TODO in specmatins.pl)
           $gregFile = "chants/$temp.gabc";
           $gregFile =~ s/\-gloria//;
           $gregFile = checkfile($lang, $gregFile);
@@ -584,9 +591,9 @@ sub setcell {
           s/\(\:\:\)\}/\(\:\:\)<\/DIV><DIV ID="GCHANT$hora$searchind-$dId" class="GCHANT" width="100\%"><\/DIV>/s;
         $text =~
           s/(name:[a-zA-Z\s\.\:]*?)\(([a-zA-Z\s\.\:]*?)\)([a-zA-Z\s\.\:]*?);/$1 $2 $3;/gm; # remove parentheses in title
-        $text =~ s/<i>T\.\s?P\.<\/i>/\_\^T. P.\^\_ /g;                                     #Tempore Paschalis
+        $text =~ s/<i>T\.\s?P\.<\/i>/\_\^T. P.\^\_ /g;                                     # Tempore Paschalis
         $text =~ s/<\/?i>/\_/g;                                                            # italics
-        $text =~ s/<\/?b>|<v>\\greheightstar<\/v>/*/g;
+        $text =~ s/<\/?b>|<v>\\greheightstar<\/v>/*/g;                                     # asterisk
         $text =~ s/<\/?sc>/\%/g;                                                           # small capitals
         $text =~ s/<\/?c>/\^/g;                                                            # coloured
         $text =~ s/<\/?e>/\_/g;                                                            # elisions
@@ -601,16 +608,18 @@ sub setcell {
         $text =~ s/%%\(/%%\n\(/gi;                      # insert break at end of header
         $text =~ s/;([a-z\%\(])/;\n$1/gi;               # insert break in header
         $text =~ s/(\(\:\:\)\}?) <br\/?>\n/$1 \n/gi;    # remove wrong HTML linebreaks
-        $text =~ s/\) \* /\) \*() /g;                   # star to be followed by ()
+        $text =~ s/\) \* /\) \*() /g;                   # asterisk always to be followed by ()
         $text =~ s/(\([\,\;\:]+\))\s*?(\^?\d+\.\^?|(<sp>)?[VR]\/(<\/sp>)?\.)\s/ $2$1 /gs;
-        $text =~ s/†\(([a-z0-9\_\'\.]+?)\)/($1) ^†^(,) /g;    #        $text =~ s/\) \^?†\^?\(?\)?/\) ^†^() /g;
-        $text =~ s/(<sp>)?V\/(<\/sp>)?\.?(\(\))?/V\/\.() /g;
-        $text =~ s/(<sp>)?R\/(<\/sp>)?\.?(\(\))?/R\/\.() /g;
-        $text =~ s/\.\(\) \(\:\:\)/.(::)/g;                   # contract () (::)
+        $text =~ s/†\(([a-z0-9\_\'\.]+?)\)/($1) ^†^(,) /g;      # coloured flexa
+        $text =~ s/(<sp>)?V\/(<\/sp>)?\.?(\(\))?/V\/\.() /g;    # Versiculum
+        $text =~ s/(<sp>)?R\/(<\/sp>)?\.?(\(\))?/R\/\.() /g;    # Responsorium
+        $text =~ s/\.\(\) \(\:\:\)/.(::)/g;                     # contract () (::)
         $text =~ s/<\/?nlba>//g;
         $text =~ s/\_/\|\|/g;
       }
-    } else {    # post process non-GABC
+    } else {
+
+      # post process non-GABC
       if ($text =~ /%(.*?)%/) {
         $text = activate_links(\$text, $lang);
       }
@@ -629,7 +638,6 @@ sub setcell {
   $text =~ s/wait[0-9]+//ig;
   $text =~ s/\_/ /g;
 
-  # $text =~ s/\{\:.*?\:\}(<br/>)*\s*//g;
   $text =~ s/\{\:.*?\:\}//sg;
   $text =~ s/\`//g;                                                 #` #accent grave for editor
   $text =~ s/\s([»!?;:])/&nbsp;$1/g unless $lang eq 'Latin-gabc';   # no-break space before punctutation (mostly French)
