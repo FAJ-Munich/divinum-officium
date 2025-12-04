@@ -24,7 +24,7 @@ Feria III = Respéxit me * et exaudívit deprecatiónem meam Dóminus.
 Feria IV =  Deus ádjuvat me: * et Dóminus suscéptor est ánimæ meæ.
 53, 54(2-16), 54(17-24)
 Feria V = Quam bonus * Israël Deus, his, qui recto sunt corde.
-72(1-9), 2(10-17), 72(18-28)
+72(1-9), 72(10-17), 72(18-28)
 Feria VI =  Éxcita, Dómine, * poténtiam tuam, ut salvos fácias nos.
 79(2-8),79(9-20), 81
 Sabbato = Clamor meus, * Dómine, ad te pervéniat: non avértas fáciem tuam a me.
@@ -77,6 +77,13 @@ Feria VI = Voce mea * ad Dóminum clamávi: neque obliviscétur miseréri Deus.
 76(2-13),76(14-21),85
 Sabbato = Intret orátio mea * in conspéctu tuo, Dómine.
 87,102(1-12),102(13-22)
+
+[AdvOP]
+1 = Veni et líbera nos, Deus noster.
+@:Adv46:3
+3 = Tuam, Dómine, éxcite poténtiam, et veni ad salvándum nos.
+4 =
+5 = In tuo advéntu érue nos, Dómine.
 
 [Adv1]
 1 = In illa die * stillábunt montes dulcédinem, et colles fluent lac et mel, allelúja.
@@ -242,6 +249,8 @@ Sexta Feria II=Áspice in me, * et miserére mei, Dómine.;;118(129-136),118(137
 Sexta Feria=Qui hábitas * in cælis, miserére nobis.;;122,123,124
 Nona Dominica=Allelúja, * allelúja, allelúja (allelúja);;118(81-88),118(89-96),118(97-104)
 Nona Feria II=Fiat manus tua, * Dómine, ut salvet me: quóniam mandáta tua elégi.;;118(153-160),118(161-168),118(169-176)
+(sed rubrica Barroux)
+Nona Feria II=Fiat manus tua, * Dómine, ut salvum me fácias, quia mandáta tua concupívi.;;118(153-160),118(161-168),118(169-176)
 Nona Feria=Beáti omnes, * qui timent Dóminum.;;125,126,127
 
 [Cistercian_]

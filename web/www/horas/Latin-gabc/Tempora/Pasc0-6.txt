@@ -1,5 +1,5 @@
 [Oratio]
-Concéde, quǽsumus, omnípotens Deus: ut, qui festa paschália venerándo égimus, per hæc contíngere ad gáudia ætérna mereámur.
+{(c3) Con(h)cé(h)de,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(,) ut,(h) qui(h) fes(h)ta(h) pas(h)chá(h)li(h)a(h) ve(h)ne(h)rán(g)do(f) é(h)gi(hr)mus,(h.) *(;) per(h) hæc(h) con(h)tín(h)ge(h)re(h) ad(h) gáu(h)di(h)a(h) æ(h)tér(h)na(h) me(h)re(h)á(h dr)mur.(d.) (::)}
 $Per Dominum
 
 [Lectio1]

@@ -31,7 +31,7 @@ Amen.
 Ego sum Ráphaël Angelus, * qui asto ante Dóminum: vos autem benedícite Deum, et narráte ómnia mirabília ejus, allelúja.
 
 [Oratio]
-Deus, qui beátum Raphaélem Archángelum Tobíæ fámulo tuo cómitem dedísti in via: concéde nobis fámulis tuis; ut ejúsdem semper protegámur custódia et muniámur auxílio.
+{(c3) De(h)us,(h) qui(h) be(h)á(h)tum(h) Ra(h)pha(h)é(h)lem(h) Arch(h)án(h)ge(h)lum(h) To(h)bí(h)æ(h) fá(h)mu(h)lo(h) tu(h)o(h) cóm(h)i(h)tem(h) de(h)dís(h)ti(h) in(h) vi(h)a:(f.) †(,) con(h)cé(h)de(h) no(h)bis(h) fá(h)mu(h)lis(h) tu(h)is;(h) ut(h) e(h)jús(h)dem(h) sem(h)per(h) pro(g)te(f)gá(h hr)mur(h.) *(;) cus(h)tó(h)di(h)a(h) et(h) mu(h)ni(h)á(h)mur(h) au(h)xí(h)li(dr)o.(d.) (::)}
 $Per Dominum
 
 [Ant Matutinum]
@@ -102,7 +102,7 @@ R. Vos autem benedícite Dóminum, et narráte ómnia mirabília ejus.
 
 [Capitulum Laudes]
 !Tob 12:12
-v. Quando orábas cum lácrimis, et sepeliébas mórtuos, et derelinquébas prándium tuum, et mórtuos abscondébas per diem in domo tua, et nocte sepeliébas eos, ego óbtuli oratiónem tuam Dómino.
+{(c3) Quan(h)do(h) o(h)rá(h)bas(h) cum(h) lá(h)cri(h)mis,(h) et(h) se(h)pe(h)li(h)é(h)bas(h) mór(h)tu(h)os,(h) et(h) de(h)re(h)lin(h)qué(h)bas(h) prán(h)di(h)um(h) tu(h)um,(f.) †(;) et(h) mór(h)tu(h)os(h) abs(h)con(h)dé(h)bas(h) per(h) di(h)em(h) in(h) do(h)mo(h) tu(h)a,(h) et(h) noc(h)te(h) se(h)pe(h)li(h)é(g)bas(f) e(h hr)os,(h.) *(;) e(h)go(h) ób(h)tu(h)li(h) o(h)ra(h)ti(h)ó(h)nem(h) tu(h)am(h) Dó(h)mi(f)no.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -110,11 +110,11 @@ $Deo gratias
 
 [Lectio Prima]
 !Tob 12:20
-v. Tempus est ut revértar ad eum qui me misit: vos autem benedícite Deum, et narráte ómnia mirabília ejus.
+{(c3) Tem(h)pus(h) est(h) ut(h) re(h)vér(h)tar(h) ad(h) e(h)um(h) qui(h) me(h) mi(h)sit:(f.) †(;) vos(h) au(h)tem(h) be(h)ne(h)dí(h)ci(g)te(f) De(h hr)um,(h.) *(;) et(h) nar(h)rá(h)te(h) óm(h)ni(h)a(h) mi(h)ra(h)bí(h)li(h)a(h) e(f)jus.(ef..) (::)}
 
 [Capitulum Sexta]
 !Tob 12:14-15
-v. Et nunc misit me Dóminus, ut curárem te, et Saram, uxórem fílii tui, a dæmónio liberárem. Ego enim sum Ráphaël Angelus: unus ex septem, qui astámus ante Dóminum.
+{(c3) Et(h) nunc(h) mi(h)sit(h) me(h) Dó(h)mi(h)nus,(h) ut(h) cu(h)rá(h)rem(h) te,(h) et(h) Sa(h)ram,(h) u(h)xó(h)rem(h) fí(h)li(h)i(h) tu(h)i,(h) a(h) dæ(h)mó(h)ni(h)o(h) li(h)be(h)rá(h)rem.(f.) †(;) E(h)go(h) e(h)nim(h) sum(h) Rá(h)pha(g)ël(f) An(h)ge(hr)lus:(h.) *(;) u(h)nus(h) ex(h) sep(h)tem,(h) qui(h) a(h)stá(h)mus(h) an(h)te(h) Dó(h)mi(f)num.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

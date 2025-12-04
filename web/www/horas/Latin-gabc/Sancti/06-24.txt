@@ -46,7 +46,7 @@ R/. Cu(h)i(h) no(hi)men(h_') (,) e(h)rat(f') Jo(e)án(f_0h)nes.(hiHGhih.ghGFE'fg
 Ingrésso * Zacharía templum Dómini, appáruit ei Gábriel Angelus stans a dextris altáris incénsi.
 
 [Oratio]
-Deus, qui præséntem diem honorábilem nobis in beáti Joánnis nativitáte fecísti: da pópulis tuis spirituálium grátiam gaudiórum; et ómnium fidélium mentes dírige in viam salútis ætérnæ.
+{(c3) De(h)us,(h) qui(h) præ(h)sén(h)tem(h) di(h)em(h) ho(h)no(h)rá(h)bi(h)lem(h) no(h)bis(h) in(h) be(h)á(h)ti(h) Jo(h)án(h)nis(h) na(h)ti(h)vi(h)tá(h)te(h) fe(h)cís(h)ti:(f.) †(,) da(h) pó(h)pu(h)lis(h) tu(h)is(h) spi(h)ri(h)tu(h)á(h)li(h)um(h) grá(h)ti(h)am(h) gau(g)di(f)ó(h hr)rum;(h.) *(;) et(h) óm(h)ni(h)um(h) fi(h)dé(h)li(h)um(h) men(h)tes(h) dí(h)ri(h)ge(h) in(h) vi(h)am(h) sa(h)lú(h)tis(h) æ(h)tér(h dr)næ.(d.) (::)}
 $Per Dominum
 
 [Octava 1]
@@ -56,9 +56,11 @@ _
 {initial-style:0;%%(c3) V/. Fu(h)it(h) ho(h)mo(h) mis(h)sus(h) a(h) De(h)o.(f.) (::)
 R/. Cu(h)i(h) no(h)men(h) e(h)rat(h) Jo(h)án(h)nes.(f.) (::)}
 _
-$Oremus
-v. Deus, qui præséntem diem honorábilem nobis in beáti Joánnis nativitáte fecísti: da pópulis tuis spirituálium grátiam gaudiórum; et ómnium fidélium mentes dírige in viam salútis ætérnæ.
-$Per Dominum
+$Oremus solemnis
+{(c4)De(g)us,(h) qui(h) præ(h)sén(h)tem(h) di(h)em(h) ho(h)no(h)rá(h)bi(h)lem(h) no(h)bis(h) in(h) be(h)á(h)ti(h) Jo(h)án(h)nis(h) na(h)ti(h)vi(h)tá(h)te(h) fe(h)cís(h)ti:(g.) *(;) da(g) pó(h)pu(h)lis(h) tu(h)is(h) spi(h)ri(h)tu(h)á(h)li(h)um(h) grá(h)ti(h)am(h) gau(h)di(h)ó(h)rum;(h.) (;) et(h) óm(h)ni(h)um(h) fi(h)dé(h)li(h)um(h) men(h)tes(h) dí(h)ri(h)ge(h) in(h) vi(h)am(h) sa(h)lú(h)tis(g) æ(g)tér(h hr)næ.(h.) (::)}
+(sed rubrica monastica)
+{(c3)De(h)us,(i) qui(i) præ(i)sén(i)tem(i) di(i)em(i) ho(i)no(i)rá(i)bi(i)lem(i) no(i)bis(i) in(i) be(i)á(i)ti(i) Jo(i)án(i)nis(i) na(i)ti(i)vi(i)tá(i)te(i) fe(i)cís(i)ti:(h.) *(;) da(h) pó(i)pu(i)lis(i) tu(i)is(i) spi(i)ri(i)tu(i)á(i)li(i)um(i) grá(i)ti(i)am(i) gau(i)di(i)ó(i)rum;(i_') (,) et(i) óm(i)ni(i)um(i) fi(i)dé(i)li(i)um(i) men(i)tes(i) dí(i)ri(i)ge(i) in(i) vi(i)am(i) sa(i)lú(i)tis(h) æ(h)tér(i ir)næ.(i.) (::)}
+$Per Dominum solemnis
 
 [Invit]
 Regem Præcursóris Dóminum, * Veníte, adorémus.
@@ -97,23 +99,6 @@ Amen.
 Priúsquam te formárem * in útero, novi te; et ántequam progrederéris, sanctificávi te.;;1
 Ad ómnia quæ mittam te, * dicit Dóminus, ibis: ne tímeas, et quæ mandávero tibi, loquéris ad eos.;;2
 Ne tímeas * a fácie eórum, quia ego tecum sum, dicit Dóminus.;;3
-V. Fuit homo missus a Deo.
-R. Cui nomen erat Joánnes.
-Misit Dóminus * manum suam, et tétigit os meum, et prophétam in géntibus dedit me Dóminus.;;4
-Ecce dedi verba mea * in ore tuo: ecce constítui te super gentes et regna.;;5
-Dóminus * ab útero vocávit me, de ventre matris meæ recordátus est nóminis mei.;;8
-V. Inter natos mulíerum non surréxit major.
-R. Joánne Baptísta.
-Pósuit os meum * Dóminus quasi gládium acútum: sub umbra manus suæ protéxit me.;;14
-Formans me * ex útero servum sibi Dóminus, dicit: Dedi te in lucem géntium, ut sis salus mea usque ad extrémum terræ.;;20
-Reges vidébunt, * et consúrgent príncipes et adorábunt Dóminum Deum tuum, qui elégit te.;;33
-V. Elísabeth Zacharíæ magnum virum génuit.
-R. Joánnem Baptístam, præcursórem Dómini.
-
-[Ant Matutinum]
-Priúsquam te formárem * in útero, novi te; et ántequam progrederéris, sanctificávi te.;;1
-Ad ómnia quæ mittam te, * dicit Dóminus, ibis: ne tímeas, et quæ mandávero tibi, loquéris ad eos.;;2
-Ne tímeas * a fácie eórum, quia ego tecum sum, dicit Dóminus.;;3
 Misit Dóminus * manum suam, et tétigit os meum, et prophétam in géntibus dedit me Dóminus.;;4
 Ecce dedi verba mea * in ore tuo: ecce constítui te super gentes et regna.;;5
 Dóminus * ab útero vocávit me, de ventre matris meæ recordátus est nóminis mei.;;8
@@ -122,12 +107,12 @@ Formans me * ex útero servum sibi Dóminus, dicit: Dedi te in lucem géntium, u
 Reges vidébunt, * et consúrgent príncipes et adorábunt Dóminum Deum tuum, qui elégit te.;;33
 
 [Nocturn 2 Versum]
-V. Inter natos mulíerum non surréxit major.
-R. Joánne Baptísta.
+{initial-style: 0;%%(c3) V/. In(h)ter(h) na(h)tos(h) mu(h)lí(h)e(h)rum(h) non(h) sur(h)ré(h)xit(h) ma(h)jor.(g_'/hvGF'E!fgf.) (::)
+R/.Jo(h)án(h)ne(h) Bap(h)tís(h)ta.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Elísabeth Zacharíæ magnum virum génuit.
-R. Joánnem Baptístam, præcursórem Dómini.
+{initial-style: 0;%%(c3) V/. E(h)lí(h)sa(h)beth(h) Za(h)cha(h)rí(h)æ(h) ma(h)gnum(h) vi(h)rum(h) gé(h)nu(h)it.(g_'/hvGF'E!fgf.) (::)
+R/.Jo(h)án(h)nem(h) Bap(h)tís(h)tam,(h) præ(h)cur(h)só(h)rem(h) Dó(h)mi(h)ni.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Fuit homo missus a Deo, cui nomen erat Joánnes: 
@@ -192,7 +177,7 @@ Tu, puer, * Prophéta Altíssimi vocáberis; præíbis ante Dóminum paráre via
 
 [Capitulum Laudes]
 !Isa 49:1
-v. Audíte, ínsulæ, et atténdite, pópuli de longe: Dóminus ab útero vocávit me, de ventre matris meæ recordátus est nóminis mei.
+{(c3) Au(h)dí(h)te,(h) ín(h)su(h)læ,(h) et(h) at(h)tén(h)di(h)te,(h) pó(h)pu(h)li(h) de(h) lon(h)ge:(f.) †(;) Dó(h)mi(h)nus(h) ab(h) ú(h)te(h)ro(g) vo(f)cá(h)vit(hr) me,(h.) *(;) de(h) ven(h)tre(h) ma(h)tris(h) me(h)æ(h) re(h)cor(h)dá(h)tus(h) est(h) nó(h)mi(h)nis(h) me(f)i.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -242,13 +227,15 @@ _
 {initial-style:0;%%(c3) V/. Is(h)te(h) pu(h)er(h) ma(h)gnus(h) co(h)ram(h) Dó(h)mi(f)no.(f.) (::)
 R/. Nam(h) et(h) ma(h)nus(h) e(h)jus(h) cum(h) ip(h)so(f) est.(f.) (::)}
 _
-$Oremus
-v. Deus, qui præséntem diem honorábilem nobis in beáti Joánnis nativitáte fecísti: da pópulis tuis spirituálium grátiam gaudiórum; et ómnium fidélium mentes dírige in viam salútis ætérnæ.
-$Per Dominum
+$Oremus solemnis
+{(c4)De(g)us,(h) qui(h) præ(h)sén(h)tem(h) di(h)em(h) ho(h)no(h)rá(h)bi(h)lem(h) no(h)bis(h) in(h) be(h)á(h)ti(h) Jo(h)án(h)nis(h) na(h)ti(h)vi(h)tá(h)te(h) fe(h)cís(h)ti:(g.) *(;) da(g) pó(h)pu(h)lis(h) tu(h)is(h) spi(h)ri(h)tu(h)á(h)li(h)um(h) grá(h)ti(h)am(h) gau(h)di(h)ó(h)rum;(h.) (;) et(h) óm(h)ni(h)um(h) fi(h)dé(h)li(h)um(h) men(h)tes(h) dí(h)ri(h)ge(h) in(h) vi(h)am(h) sa(h)lú(h)tis(g) æ(g)tér(h hr)næ.(h.) (::)}
+(sed rubrica monastica)
+{(c3)De(h)us,(i) qui(i) præ(i)sén(i)tem(i) di(i)em(i) ho(i)no(i)rá(i)bi(i)lem(i) no(i)bis(i) in(i) be(i)á(i)ti(i) Jo(i)án(i)nis(i) na(i)ti(i)vi(i)tá(i)te(i) fe(i)cís(i)ti:(h.) *(;) da(h) pó(i)pu(i)lis(i) tu(i)is(i) spi(i)ri(i)tu(i)á(i)li(i)um(i) grá(i)ti(i)am(i) gau(i)di(i)ó(i)rum;(i_') (,) et(i) óm(i)ni(i)um(i) fi(i)dé(i)li(i)um(i) men(i)tes(i) dí(i)ri(i)ge(i) in(i) vi(i)am(i) sa(i)lú(i)tis(h) æ(h)tér(i ir)næ.(i.) (::)}
+$Per Dominum solemnis
 
 [Lectio Prima]
 !Isa 49:7
-v. Reges vidébunt, et consúrgent príncipes et adorábunt Dóminum Deum tuum, et Sanctum Israël, qui elégit te.
+{(c3) Re(h)ges(h) vi(h)dé(h)bunt,(h) et(h) con(h)súr(h)gent(h) prín(h)ci(f)pes(f.) †(;) et(h) ad(h)o(h)rá(h)bunt(h) Dó(h)mi(h)num(h) De(g)um(f) tu(h hr)um,(h.) *(;) et(h) Sanc(h)tum(h) Is(h)ra(h)ël,(h) qui(h) e(h)lé(h)git(f) te.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Fuit homo * Missus a Deo.
@@ -260,7 +247,7 @@ R. Fuit homo * Missus a Deo.
 
 [Capitulum Sexta]
 !Isa 49:5-6
-v. Et nunc, hæc dicit Dóminus formans me ex útero servum sibi: Dedi te in lucem géntium, ut sis salus mea usque ad extrémum terræ.
+{(c3) Et(h) nunc,(h) hæc(h) di(h)cit(h) Dó(h)mi(h)nus(h) for(h)mans(h) me(h) ex(h) ú(h)te(h)ro(h) ser(h)vum(h) si(h)bi:(f.) †(;) De(h)di(h) te(h) in(h) lu(g)cem(f) gén(h)ti(hr)um,(h.) *(;) ut(h) sis(h) sa(h)lus(h) me(h)a(h) us(h)que(h) ad(h) ex(h)tré(h)mum(h) ter(f)ræ.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

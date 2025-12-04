@@ -1,11 +1,3 @@
-@Tempora/Pasc2-3
-
-[Rule]
-proper
-Psalmi Dominica
-Antiphonas horas
-12 lectiones;
-
 [Ant Vespera]
 @SanctiM/03-19:Ant Vespera:1
 {name:Missus est Angelus Gabriel a Deo In Sol. S. Joseph;annotation:8.g2;mode:8;book:Antiphonale Monasticum, 1934, p. 886;%%(c4) Mis(f)sus(fg) est(gg) * An(f)ge(h)lus(j) Gá(jk)bri(j)el(j') a(j) De(j)o(h_') (,) in(h) ci(g)vi(h')tá(i)tem(h') Ga(g)li(f)lǽ(gh)æ,(g_') (,) cu(g)i(h) no(g)men(e_f) Ná(gh)za(h)reth,(g.) (;) ad(g) Vír(g')gi(h)nem(j') de(j)spon(h')sá(j)tam(ig) vi(hi)ro(h.) (,) cu(fe)i(d) no(e')men(f) e(gh)rat(h') Jo(g)seph,(gv_FD_') al(f)le(fg)lú(g.)ja.(g.) (::)};;;;8g
@@ -13,15 +5,10 @@ Antiphonas horas
 {name:Et venerunt festinantes;annotation:3. a;mode:3;book:Antiphonale Monasticum, 1934, p. 887;%%(c4) ET(gj) ve(h)né(g!hwi)runt(i') * fes(i)ti(j')nán(k>)tes,(i_') (,) et(k) in(k')ve(i)né(kl)runt(k) Ma(j)rí(ji)am,(h') et(g) Jo(hi)seph,(i.) (;) et(g) in(h')fán(g)tem(e>') pó(f)si(e)tum(d) in(f) præ(e_f)sé(gh)pi(g)o,(gf) al(g)le(gf)lú(e.)ja.(e.) (::)};;;;3a
 {name:Et ipse Jesus;annotation:7. d;mode:7;book:Antiphonale Monasticum, 1934, p. 887;%%(c3) ET(e) ip(e_i)se(g_h) Je(i_j)sus(i_') (,) * e(j)rat(i') in(h)cí(hi)pi(h)ens(h.) (,) qua(hf)si(h') an(i)nó(ij)rum(i) tri(h')gín(i)ta(i.) (;) ut(e') pu(f)ta(e)bá(d_0ef)tur(f.) fí(f_i)li(h)us(g') Jo(e)seph,(e_f) al(g>)le(fg)lú(e.)ja.(e.) (::)};;;;7d
 
-[Capitulum Vespera]
-!Gen 49:26
-v. Benedictiónes patris tui confortátæ sunt benedictiónibus patrum ejus, donec veníret Desidérium cóllium æternórum: fiant in cápite Joseph, et in vértice Nazarǽi inter fratres suos.
-$Deo gratias
-_
-R.br.
-{gabc:Sancti/03-19/rb--constituit_eum--solesmes_1957}
+[Responsory Vespera]
+R.br. {gabc:Sancti/03-19/rb--constituit_eum--solesmes_1957}
 (sed tonus minor)
-{gabc:Sancti/03-19/rb--constituit_eum_dominum_t._pasch.--solesmes_1934}
+R.br. {gabc:Sancti/03-19/rb--constituit_eum_dominum_t._pasch.--solesmes_1934}
 
 [Hymnus Vespera]
 @Sancti/03-19:Hymnus Vespera
@@ -35,23 +22,6 @@ R.br.
 [Invit]
 Laudémus Deum nostrum * In veneratióne beáti Joseph, protectóris nostri, allelúja.
 
-[Hymnus Matutinum]
-@Tempora/Pasc2-3:Hymnus Vespera
-
-Ant Matutinum]
-@Tempora/Pasc2-3::1-3 s/3/4/
-@Tempora/Pasc2-3::7-8 
-;;10
-@Tempora/Pasc2-3::4-5
-@Tempora/Pasc2-3::6 s/4/14/ 
-@Tempora/Pasc2-3::12-13
-;;95
-;;96
-;;97
-@Tempora/Pasc2-3::9-10
-@Tempora/Pasc2-3::11 s/;;14/;;256;257;258/
-@Tempora/Pasc2-3::14-15
-
 [Lectio3]
 @Tempora/Pasc2-3::s/-49/-45a/ s/Egréssus .*//s
 
@@ -64,21 +34,6 @@ R. Fuit Dóminus cum Joseph, et dedit ei grátiam in conspéctu príncipis cárc
 V. Quidquid fiébat, sub ipso erat: Dóminus enum erat cum illo, et ómnia ópera ejus dirigébat.
 R. Qui trádidit in manu illíus univérsos vinctos, allelúja. 
 
-[Responsory4]
-@Tempora/Pasc2-3:Responsory3
-
-[Lectio5]
-@Tempora/Pasc2-3:Lectio4
-
-[Responsory5]
-@Tempora/Pasc2-3:Responsory4
-
-[Lectio6]
-@Tempora/Pasc2-3:Lectio5
-
-[Responsory6]
-@Tempora/Pasc2-3:Responsory5
-
 [Lectio7]
 @Tempora/Pasc2-3:Lectio6:s/ Meménto .*//s
 
@@ -90,18 +45,6 @@ R. Miserére mei, et exáudi me, allelúja.
 
 [Lectio8]
 @Tempora/Pasc2-3:Lectio6:s/.* Meménto /Meménto /s
-
-[Responsory8]
-@Tempora/Pasc2-3:Responsory6
-
-[Lectio9]
-@Tempora/Pasc2-3:Lectio7
-
-[Responsory9]
-@Tempora/Pasc2-3:Responsory7
-
-[Lectio10]
-@Tempora/Pasc2-3:Lectio8
 
 [Responsory10]
 R. Ascéndit Joseph a Galilæa de civitáte Názareth in Judæam, in civitátem David, quæ vocatur Béthlehem:
@@ -124,28 +67,11 @@ R. Fidélis servus et prudens, quem constítuit Dóminus super famíliam suam:
 V. Qui custos est Dómini sui, glorificátur.
 R. Amen dico vobis, quóniam super ómnia bona sua constítuet eum, allelúja.
 
-[Ant Laudes]
-@:Ant Vespera
-
-[Capitulum Laudes]
-@Tempora/Pasc2-3
-_
+[Responsory Laudes]
 R.br. {gabc:Sancti/03-19/rb--confitebor_nomini_tuo--solesmes}
-
-[Hymnus Laudes]
-@SanctiM/03-19:Hymnus Matutinum
 
 [Ant 2]
 {name:Joseph fili David;annotation:7. a;mode:7;book:Antiphonale Monasticum, 1934, p. 889;transcriber:Dominique CROCHU;%%(c3) JO(e)seph,(e) fi(e)li(g') Da(h)vid,(i.) (,) * no(h)li(j') ti(i)mé(k)re(j') ac(i)cí(g')pe(h)re(ij) Ma(i)rí(h)am(i'_) (,) cón(g>)ju(fe~)gem(de~) tu(e.)am :(e.) (:) quod(e) e(e)nim(g) in(h) e(i'_)a(i_) na(j_k)tum(j>) est(h'_) (,) de(j) Spí(i)ri(i)tu(g_i) San(g)cto(h) est,(fv_ED) al(ef)le(f)lú(e.)ja.(e.) (::)};;7a
-
-[Responsory Tertia]
-@:Versum 1
-
-[Responsory Sexta]
-@Tempora/Pasc2-3:Responsory Sexta:8-9
-
-[Responsory Nona]
-@Tempora/Pasc2-3:Responsory Nona:8-9
 
 [Ant 3]
 {name:Fili quid fecisti S. Joseph;annotation:3. b;mode:3;%%(c4) FI(g_j)li,(i.) (,) * quid(gh) fe(e_0f)cí(gh)sti(g') no(f)bis(de) sic?(e.) (;) Ec(g)ce(gh) pa(f)ter(h') tu(j)us(ji) et(h) e(i_j)go(i'_) (,) do(k)lén(jv_IG)tes(h_g) quæ(h)re(g)bá(e_0f)mus(g) te,(e_') (,) al(g)le(gf)lú(e.)ja.(e.) (::)};;solemn3-antiquo-b

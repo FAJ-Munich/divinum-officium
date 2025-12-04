@@ -87,11 +87,11 @@ Custodiébant * testimónia ejus, et præcépta ejus, allelúja.;;98
 
 [Nocturn 2 Versum]
 {initial-style:0;%%(c3) V/. Con(h)stí(h)tu(h)es(h) e(h)os(h) prín(h)ci(h)pes(h) su(h)per(h) om(h)nem(h) ter(h hr)ram.(g_'/hvGF'E!fgf.) (::)
-R/.  Mé(h)mo(h)res(h) e(h)runt(h) nó(h)mi(h)nis(h) tu(h)i,(h) Dó(h)mi(hr)ne.(g_'/hvGF'E!fgf.) (::)}
+R/. Mé(h)mo(h)res(h) e(h)runt(h) nó(h)mi(h)nis(h) tu(h)i,(h) Dó(h)mi(hr)ne.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
 {initial-style:0;%%(c3) V/. Ni(h)mis(h) ho(h)no(h)rá(h)ti(h) sunt(h) a(h)mí(h)ci(h) tu(h)i(h) De(h hr)us.(g_'/hvGF'E!fgf.) (::)
-R/.  Ni(h)mis(h) con(h)for(h)tá(h)tus(h) est(h) prin(h)ci(h)pá(h)tus(h) e(h)ó(h hr)rum.(g_'/hvGF'E!fgf.) (::)}
+R/. Ni(h)mis(h) con(h)for(h)tá(h)tus(h) est(h) prin(h)ci(h)pá(h)tus(h) e(h)ó(h hr)rum.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Ecce ego mitto vos sicut oves in médio lupórum, dicit Dóminus:
@@ -141,7 +141,7 @@ R. Quorum doctrína fulget Ecclésia, ut sole luna.
 
 [Capitulum Laudes]
 !Eph 2:19-20
-{(c3)Fra(h)tres:(h) Jam(h) non(h) es(h)tis(h) hós(h)pi(h)tes(h) et(h) ád(h)ve(f)næ:(f.) †(,) sed(h) es(h)tis(h) ci(h)ves(h) Sanc(h)tó(h)rum(h) et(h) do(h)més(h)ti(h)ci(h) De(h)i:(h) su(h)per(h)æ(h)di(h)fi(h)cá(h)ti(h) su(h)per(h) fun(h)da(h)mén(h)tum(h) A(h)pos(h)to(h)ló(h)rum,(h) et(h) Pro(g)phe(f)tá(h)rum,(h.) *(;) ip(h)so(h) sum(h)mo(h) an(h)gu(h)lá(h)ri(h) lá(h)pi(h)de(h) Chris(h)to(h) Je(f)su.(ef..) (::)}
+{(c3)Fra(h)tres:(h.) (,) Jam(h) non(h) es(h)tis(h) hós(h)pi(h)tes(h) et(h) ád(h)ve(f)næ:(f.) †(;) sed(h) es(h)tis(h) ci(h)ves(h) Sanc(h)tó(h)rum(h) et(h) do(h)més(h)ti(h)ci(h) De(h)i:(h_') (,) su(h)per(h)æ(h)di(h)fi(h)cá(h)ti(h) su(h)per(h) fun(h)da(h)mén(h)tum(h) A(h)pos(h)to(h)ló(h)rum,(h) et(h) Pro(g)phe(f)tá(h)rum,(h.) *(;) ip(h)so(h) sum(h)mo(h) an(h)gu(h)lá(h)ri(h) lá(h)pi(h)de(h) Chris(h)to(h) Je(f)su.(ef..) (::)}
 $Deo gratias
 
 [HymnusM Laudes]

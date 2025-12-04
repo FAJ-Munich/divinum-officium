@@ -29,20 +29,11 @@ Invénit Philíppus * Nathánæl, et dicit ei: † Quem scripsit Móyses in Lege
 [Lectio2]
 @Sancti/03-19:Lectio1:s/1-/4-/ s/1.*4/4/s
 
-[Lectio3]
-@Sancti/03-19:Lectio2
-
-[Lectio4]
-@Sancti/03-19:Lectio3
-
 [Responsory4]
 R. Benedictiónes patris tui confortátæ sunt benedictiónibus patrum ejus:
 * Donec veníret desidérium cóllium æternórum.
 V. Fiant in cápite Joseph, et in vértice Nazaraéi inter fratres suos.
 R. Donec veníret desidérium cóllium æternórum.
-
-[Lectio5]
-@Sancti/03-19:Lectio4
 
 [Responsory5]
 R. Angelus Dómini appáruit Joseph, dicens: † Joseph, fili David, noli timére accípere Maríam cónjugem tuam
@@ -69,23 +60,14 @@ R. Quod enim in ea natum est de Spíritu Sancto est.
 [Responsory8]
 @Sancti/03-19:Responsory6
 
-[Lectio9]
-@Sancti/12-24:Lectio1
-
 [Responsory9]
 R. Ibant paréntes Jesu per omnes annos in Jerúsalem in die solémni Paschæ: † consumptísque diébus cum redírent, remánsit puer Jesus in Jerúsalem,
 * Et non cognovérunt paréntes ejus.
 V. Existimántes autem illum esse in comitátu, † requirébant eum inter cognátos et notos.
 R. Et non cognovérunt paréntes ejus.
 
-[Lectio10]
-@Sancti/12-24:Lectio2
-
 [Responsory10]
 @Sancti/03-19:Responsory7
-
-[Lectio11]
-@Sancti/12-24:Lectio3
 
 [Responsory11]
 @Sancti/03-19:Responsory8

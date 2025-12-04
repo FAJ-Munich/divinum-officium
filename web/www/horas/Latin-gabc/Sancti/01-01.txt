@@ -9,7 +9,7 @@ Ecce María génuit * nobis Salvatórem, quem Joánnes videns, exclamávit, dice
 Propter nímiam * caritátem suam, qua diléxit nos Deus, Fílium suum misit in similitúdinem carnis peccáti, allelúja.
 
 [Oratio]
-Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fecúnda, humáno géneri prǽmia præstitísti: tríbue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum:
+{(c3) De(h)us,(h) qui(h) sa(h)lú(h)tis(h) æ(h)tér(h)næ,(h) be(h)á(h)tæ(h) Ma(h)rí(h)æ(h) vir(h)gi(h)ni(h)tá(h)te(h) fe(h)cún(h)da,(h) hu(h)má(h)no(h) gé(h)ne(h)ri(h) prǽ(h)mi(h)a(h) præ(h)sti(h)tís(h)ti:(f.) †(,) trí(h)bu(h)e,(h) quǽ(h)su(h)mus;(h) ut(h) ip(h)sam(h) pro(h) no(h)bis(h) in(h)ter(h)cé(h)de(h)re(h) sen(g)ti(f)á(h hr)mus,(h.) *(;) per(h) quam(h) me(h)rú(h)i(h)mus(h) auc(h)tó(h)rem(h) vi(h)tæ(h) su(h)scí(h)pe(h)re,(h) Dó(h)mi(h)num(h) nos(h)trum(h) Je(h)sum(h) Chris(h)tum(h) Fí(h)li(h)um(h) tu(h dr)um:(d.) (::)}
 $Qui tecum
 
 [Ant Matutinum]
@@ -76,7 +76,7 @@ R. Salvatórem sæculórum, ipsum Regem Angelórum, sola Virgo lactábat úbere 
 
 [Capitulum Laudes]
 !Titus 2:11-12
-v. Appáruit grátia Dei Salvatóris nostri ómnibus homínibus, erúdiens nos, ut abnegántes impietátem, et sæculária desidéria, sóbrie, et juste, et pie vivámus in hoc sǽculo.
+{(c3) Ap(h)pá(h)ru(h)it(h) grá(h)ti(h)a(h) De(h)i(h) Sal(h)va(h)tó(h)ris(h) nos(h)tri(h) óm(h)ni(h)bus(h) ho(h)mí(h)ni(f)bus,(f.) †(;) e(h)rú(h)di(h)ens(h) nos,(h) ut(h) ab(h)ne(h)gán(h)tes(h) im(h)pi(h)e(h)tá(h)tem,(h) et(h) sæ(h)cu(h)lá(h)ri(h)a(h) de(g)si(f)dé(h)ri(hr)a,(h.) *(;) só(h)bri(h)e,(h) et(h) jus(h)te,(h) et(h) pi(h)e(h) vi(h)vá(h)mus(h) in(h) hoc(h) sǽ(h)cu(f)lo.(ef..) (::)}
 $Deo gratias
 
 [Ant 2]

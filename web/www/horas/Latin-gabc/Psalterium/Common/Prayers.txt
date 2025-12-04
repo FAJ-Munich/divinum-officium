@@ -325,9 +325,6 @@ $Amen
 (sed rubrica cisterciensis)
 {initial-style:0;%%(c3)R/. Et(d) cum(d) frá(d)tri(d)bus(d) nos(d)tris(d) ab(d)sén(d)ti(d)bus.(d) (::)}
 
-[Divinum auxilium] (rubrica bavariae)
-{initial-style:0;%%(c3)V/. Di(d)ví(d)num(d) au(d)xí(d)li(d)um(d) ^✠^ má(d)ne(d)at(d) sem(d)per(d) no(d)bís(d)cum.(d.) (::) R/. A(d)men.(d.) (::)}
-
 [Alleluia Ant]
 {name:AllelujaAnt;annotation:6.f;%%(c4) AL(f)le(g)lú(g_0h)ja,(f_') (,) * al(g)le(f)lú(fe)ja,(d') al(f)le(g')lú(g)ja.(f.) (::)}
 
@@ -382,7 +379,7 @@ Benedictio. {(c3) Noc(h)tem(h) qui(h)é(h)tam(h) et(h) fi(h)nem(g) per(f)féc(h)
 
 [Jube domne]
 {initial-style:0;%%(c3) V/. Ju(h)be,(h) dom(h)ne,(g_) be(h)ne(h)dí(h)ce(d)re.(d.) (::)}
-(sed rubrica 1960 aut rubrica bavariae dicitur)
+(sed rubrica 1960 dicitur)
 {initial-style:0;%%(c3) V/. Ju(h)be,(h) Dó(h)mi(g)ne,(g_) be(h)ne(h)dí(h)ce(d)re.(d.) (::)}
 
 [Conclusio cisterciensis]

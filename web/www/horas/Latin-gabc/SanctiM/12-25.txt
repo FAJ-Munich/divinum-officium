@@ -15,9 +15,6 @@ Párvulus * fílius hódie natus est nobis: † et vocábitur Deus, Fortis, alle
 [Lectio3]
 @Sancti/12-25:Lectio2:s/1-/4-/ s/1 .*4 /4 /s
 
-[Lectio4]
-@Sancti/12-25:Lectio3
-
 [Responsory4]
 R. Descéndit de cælis Deus verus a Patre génitus, † introívit in úterum Vírginis, nobis ut apparéret visíbilis, indútus carne humána protoparénte édita:
 * Et exívit per portem clausam † Deus et homo, Lux et vita, cónditor mundi.
@@ -36,14 +33,8 @@ R. Et exívit per portem clausam † Deus et homo, Lux et vita, cónditor mundi.
 [Responsory6]
 @Sancti/12-25:Responsory5
 
-[Lectio7]
-@Sancti/12-25:Lectio5
-
 [Responsory7]
 @Sancti/12-25:Responsory6
-
-[Lectio8]
-@Sancti/12-25:Lectio6
 
 [Responsory8]
 R. Angelus ad pastóres ait: Annúntio vobis gáudium magnum: quod erit omni pópulo: † quia natus est vobis Salvátor,
@@ -63,23 +54,14 @@ In Isaía légimus: Generatiónem ejus quis enarrábit? Non ergo putémus Evange
 [Responsory9]
 @Sancti/01-01:Responsory1
 
-[Lectio10]
-@Sancti/12-25:Lectio7
-
 [Responsory10]
 @Sancti/12-25:Responsory7
-
-[Lectio11]
-@Sancti/12-25:Lectio8
 
 [Responsory11]
 R. In princípio erat Verbum, et Verbum erat apud Deum, † et Deus erat Verbum.
 * Hoc erat in princípio apud Deum.
 V. Omnia per ipsum facta sunt, et sine ipso factum est nihil.
 R. Hoc erat in princípio apud Deum.
-
-[Lectio12]
-@Sancti/12-25:Lectio9
 
 [Responsory12]
 @Sancti/12-25:Responsory8

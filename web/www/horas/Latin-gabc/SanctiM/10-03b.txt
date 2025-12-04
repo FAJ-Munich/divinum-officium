@@ -57,7 +57,7 @@ Erúmpet quasi mane * lumen tuum, et anteíbit fáciem tuam justítia tua, et gl
 
 [Capitulum Laudes]
 !Is 66:12
-v. Hæc dicit Dóminus: Ecce ego declinábo super eam quasi flúvium pacis, et quasi torréntem inundántem glóriam géntium, quam sugétis: † ad úbera portabímini, * et super génua blandiéntur vobis.
+{(c3) Hæc(h) di(h)cit(h) Dó(h)mi(h)nus:(h_') (,) Ec(h)ce(h) e(h)go(h) de(h)cli(h)ná(h)bo(h) su(h)per(h) e(h)am(h) qua(h)si(h) flú(h)vi(h)um(h) pa(h)cis,(h) et(h) qua(h)si(h) tor(h)rén(h)tem(h) in(h)un(h)dán(h)tem(h) gló(h)ri(h)am(h) gén(h)ti(h)um,(h) quam(h) su(h)gé(h)tis:(f.) †(;) ad(h) ú(h)be(h)ra(h) por(g)ta(f)bí(h)mi(hr)ni,(h.) *(;) et(h) su(h)per(h) gé(h)nu(h)a(h) blan(h)di(h)én(h)tur(h) vo(f)bis.(ef..) (::)}
 $Deo gratias
 
 [Responsory Laudes]
@@ -109,7 +109,7 @@ Requiem tibi dabit * Dóminus semper, et implébit splendóribus ánimam tuam; e
 
 [Capitulum Sexta]
 !Is 66:13
-v. Quómodo si cui mater blandiátur, † ita ego consolábor vos, * et in Jerúsalem consolabímini.
+{(c3) Quó(h)mo(h)do(h) si(h) cu(h)i(h) ma(h)ter(h) blan(h)di(h)á(h)tur,(f.) †(;) i(h)ta(h) e(h)go(h) con(g)so(f)lá(h)bor(hr) vos,(h.) *(;) et(h) in(h) Je(h)rú(h)sa(h)lem(h) con(h)so(h)la(h)bí(h)mi(f)ni.(ef..) (::)}
 $Deo gratias
 
 [Responsory SextaM]
@@ -118,7 +118,7 @@ R. Et delectábitur super salutári suo.
 
 [Capitulum Nona]
 !Is 66:14
-v. Vidébitis, et gaudébit cor vestrum, † et ossa vestra quasi herba germinábunt * et cognoscétur manus Dómini servis ejus, et indignábitur inimícis suis.
+{(c3) Vi(h)dé(h)bi(h)tis,(h) et(h) gau(h)dé(h)bit(h) cor(h) ves(h)trum,(f.) †(;) et(h) os(h)sa(h) ves(h)tra(h) qua(h)si(h) her(h)ba(h) ger(g)mi(f)ná(h hr)bunt(h.) *(;) et(h) co(h)gno(h)scé(h)tur(h) ma(h)nus(h) Dó(h)mi(h)ni(h) ser(h)vis(h) e(h)jus,(h) et(h) in(h)di(h)gná(h)bi(h)tur(h) in(h)i(h)mí(h)cis(h) su(f)is.(ef..) (::)}
 $Deo gratias
 
 [Responsory NonaM]

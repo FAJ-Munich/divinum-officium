@@ -1,14 +1,5 @@
-[Rule]
-ex Pasc7-0;
-1 nocturn;
-Psalmi Dominica;
-Antiphonas horas
-Hymnus Tertia
-Feria Te Deum
-no93
-
 [Oratio]
-Da, quǽsumus, Ecclésiæ tuæ, miséricors Deus: ut, Sancto Spíritu congregáta, hostíli nullátenus incursióne turbétur.
+{(c3) Da,(h) quǽ(h)su(h)mus,(h) Ec(h)clé(h)si(h)æ(h) tu(h)æ,(h) mi(h)sé(h)ri(h)cors(h) De(h)us:(f.) †(,) ut,(h) Sanc(h)to(h) Spí(h)ri(h)tu(h) con(g)gre(f)gá(h hr)ta,(h.) *(;) hos(h)tí(h)li(h) nul(h)lá(h)te(h)nus(h) in(h)cur(h)si(h)ó(h)ne(h) tur(h)bé(h dr)tur.(d.) (::)}
 $Per Dominum eiusdem
 
 [Ant Matutinum]

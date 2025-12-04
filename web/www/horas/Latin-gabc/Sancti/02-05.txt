@@ -1,6 +1,6 @@
 [Name]
-Agathæ
-Postcommunio=Agatha
+A(h)ga(h)thæ(h)
+Postcommunio=A(h)ga(h)tha(h)
 
 [Ant Vespera]
 Quis es tu, * qui venísti ad me curáre vúlnera mea? Ego sum Apóstolus Christi: nihil in me dúbites, fília.

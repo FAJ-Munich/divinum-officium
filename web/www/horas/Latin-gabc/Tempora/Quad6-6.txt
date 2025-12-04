@@ -1,13 +1,3 @@
-[Rule]
-Psalmi minores Dominica
-Antiphonas horas
-Omit Incipit Invitatorium Hymnus Capitulum Lectio Commemoratio Antiphona finalis Preces Suffragium Conclusion Martyrologium De Officium Capituli
-Limit Benedictiones, Oratio
-9 lectiones 1960
-Capitulum Versum 2 ad Laudes tantum
-Minores sine Antiphona
-Feria
-
 [Ant Matutinum]
 {gabc:tenebrae/sabbato/an--in_pace_in_idipsum};;4;;8G
 {gabc:tenebrae/sabbato/an--habitabit};;14;;4E
@@ -25,12 +15,12 @@ Feria
 {initial-style:0;;%%(c4) R/. Dór(h)mi(h)am(h) et(h) re(i')qui(h)és(g.)cam.(g.) (::)}
 
 [Nocturn 2 Versum]
-{initial-style:0;;%%(c4) V/. Tu(h) aut(h)em,(h) Dó(h)mi(h)ne,(h) mi(h)se(h)ré(i')re(h) me(g.)i.(g.) (::)}
-{initial-style:0;;%%(c4) R/. Et(h) re(h)sú(h)sci(h)ta(h) me,(h) et(h) re(h)trí(i')bu(h)am(h) é(g.)is.(g.) (::)}
+{initial-style:0;;%%(c4) V/. Tu(h) aut(h)em,(h) Dó(h)mi(h)ne,(h) mi(h)se(h)ré(i')re(h) me(g.)i.(g.) (::)
+R/. Et(h) re(h)sú(h)sci(h)ta(h) me,(h) et(h) re(h)trí(i')bu(h)am(h) é(g.)is.(g.) (::)}
 
 [Nocturn 3 Versum]
-{initial-style:0;;%%(c4) V/. In(h) pá(h)ce(h) fác(h)tus(h) est(h) ló(i')cus(h) é(g.)jus.(g.) (::)}
-{initial-style:0;;%%(c4) R/. Et(h) in(h) Sí(h)on(h) ha(h)bi(h)tá(i')ti(h)o(h) é(g.)jus.(g.) (::)}
+{initial-style:0;;%%(c4) V/. In(h) pá(h)ce(h) fác(h)tus(h) est(h) ló(i')cus(h) é(g.)jus.(g.) (::)
+R/. Et(h) in(h) Sí(h)on(h) ha(h)bi(h)tá(i')ti(h)o(h) é(g.)jus.(g.) (::)}
 
 [Lectio1]
 !Lam 3:22-30

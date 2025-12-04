@@ -35,7 +35,7 @@ sub psalmi_minor {
   );
   my %psalmi = %{setupstring($lang, 'Psalterium/Psalmi/Psalmi minor.txt')};
   my (@psalmi, $ant, $psalms, $prefix);
-  my $psalmTone;
+  my $psalmTone;    # GABC: for selection of PsalmTone
 
   if ($version =~ /Monastic/) {
     @psalmi = split("\n", $psalmi{Monastic});
@@ -54,7 +54,7 @@ sub psalmi_minor {
     my @a = split(';;', $psalmi[$i]);
     $ant = chompd($a[1]);
     $psalms = chompd($a[2]);
-    if ($lang =~ /gabc/i) { $psalmTone = chompd($a[3]); }    # retrieve Psalm Tone
+    if ($lang =~ /gabc/i) { $psalmTone = chompd($a[3]); }    # GABC: retrieve Psalm Tone
   } elsif ($version =~ /trident/i) {
     my $daytype = $dayofweek ? 'Feria' : 'Dominica';
     my %psalmlines = split(/\n|=/, $psalmi{Tridentinum});
@@ -86,7 +86,7 @@ sub psalmi_minor {
     my @a = split(';;', $psalmlines{$psalmkey});
     $ant = chompd($a[0]);
     $psalms = chompd($a[1]);
-    if ($lang =~ /gabc/i) { $psalmTone = chompd($a[2]); }    # retrieve Psalm Tone
+    if ($lang =~ /gabc/i) { $psalmTone = chompd($a[2]); }    # GABC: retrieve Psalm Tone
   } else {
     @psalmi = split("\n", $psalmi{$hora});
     my $i = 2 * $dayofweek;
@@ -162,9 +162,13 @@ sub psalmi_minor {
         }
         $name = "Adv4$i";
       }
+
+      $name =~ s/\d+$/OP/ if $version =~ /praedicatorum/i;
     }
 
     if ($name eq 'Pasch' && $lang =~ /gabc/i && $version =~ /monastic/i) {
+
+      # GABC: Tone of Alleluja antiphone changes per Hour
       $ind =
           ($hora =~ /prima/i) ? 0
         : ($hora =~ /tertia/i) ? 2
@@ -244,12 +248,12 @@ sub psalmi_minor {
   setcomment($label, 'Source', $comment, $lang, $prefix);
 
   if ($w{Rule} =~ /Minores sine Antiphona/i || $hora eq 'Completorium' && $version =~ /^Monastic/) {
+
+    # GABC: Psalms without Antiphone get their PsalmTone here
     $ant = '';
     $psalmTone = 'in-dir';
     setbuild2('Sine antiphonae');
-  }
-
-  if ($lang =~ /gabc/i) {    # retrieve Psalm Tone
+  } elsif ($lang =~ /gabc/i) {    # retrieve Psalm Tone
     if ($ant =~ s/;;(.*);;(.*)/;;$1/) {    # strip from antiphone
       $psalmTone = $2;
       $ant =~ s/;;\s*$//;
@@ -339,7 +343,7 @@ sub psalmi_major {
           && ($winner =~ /Sancti/i && $rank >= ($version =~ /cist/i ? 2.2 : 4) && $dayname[1] !~ /vigil/i))
       ) {
         $head = $version =~ /cist/i ? 'DaycF' : 'DaymF';
-      } elsif ($dayofweek == 0 && $dayname[0] =~ /Pasc/i && $version !~ /cisterciensis/i) {
+      } elsif (($dayofweek == 0 || $version =~ /trident/i) && $dayname[0] =~ /Pasc/i && $version !~ /cisterciensis/i) {
         $head = 'DaymP';
       }
     }
@@ -589,7 +593,7 @@ sub psalmi_major {
     && $lang !~ /gabc/i
     && (!exists($winner{"Ant $hora"}) || $commune =~ /C10/)
     && $communetype !~ /ex/i
-    && ($version !~ /^Trident/ || $hora eq 'Vespera')
+    && ($version !~ /Trident/ || $hora eq 'Vespera')
     && ($version !~ /Monastic/ || $hora ne 'Laudes' || $winner{Rank} !~ /Dominica/i))
   {
     $psalmi[0] =~ s/.*(?=;;)/ alleluia_ant($lang) /e;
@@ -599,26 +603,13 @@ sub psalmi_major {
 
     if ($version =~ /Monastic(?! Cist)/ && $hora eq 'Laudes') {
       $psalmi[-1] =~ s/.*(?=;;)/ alleluia_ant($lang) /e;
-    } elsif ($version =~ /cist/i && $hora =~ /laudes/i && $rule !~ /matutinum romanum/i) {
-
-      # Cistercien Lauds under single Antiphone except for Triduum and Officium Defunctorum
-      $psalmi[$_] =~ s/.*(?=;;)// foreach (1 .. 4);
     } else {
       $psalmi[3] =~ s/.*(?=;;)//;
     }
+  } elsif ($version =~ /cist/i && $hora =~ /laudes/i && $rule !~ /matutinum romanum/i) {
 
-    # redundant sectio to be removed
-    if ($lang =~ /gabc/i) {
-      $psalmi[0] =~ s/(?=;;\')(.*)\,.*\'/$1,6\'/;
-      $psalmi[1] =~ s/(?=;;\')(.*)\,.*\'/$1,6\'/;
-      $psalmi[2] =~ s/(?=;;\')(.*)\,.*\'/$1,6\'/;
-
-      if ($version =~ /monastic/i && $hora =~ /laudes/i) {
-        $psalmi[-1] =~ s/(?=;;\')(.*)\,.*\'/$1,6\'/;
-      } else {
-        $psalmi[3] =~ s/(?=;;\')(.*)\,.*\'/$1,6\'/;
-      }
-    }
+    # Cistercien Lauds under single Antiphone except for Triduum and Officium Defunctorum
+    $psalmi[$_] =~ s/.*(?=;;)// foreach (1 .. 4);
   }
 
   if (($dayname[0] =~ /Adv|Quad/ || emberday()) && $hora eq 'Laudes' && $version !~ /Trident/) {

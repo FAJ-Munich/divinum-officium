@@ -24,7 +24,7 @@ R/. Da(h) mi(h)hi(h) vir(h)tú(h)tem(h) con(h)tra(h) hos(h)tes(h) tu(h hr)os.(g_
 {name:Sancta Maria;annotation:1.D;mode:1;transcriber:faj-munich;%%(c4) SAn(cd~)cta(d) Ma(d)rí(fd__!ev_DC'd)a,(d_c) *(,) suc(f_e)cúr(g_0h)re(e_d) mí(fgf)se(ed/fd)ris,(d.) (;) ju(dh'1iv)va(h_g) pu(h)sil(gf~)lá(g_0h)ni(fv_ED)mes,(d.) (;) ré(c_0d)fo(dg_1hv)ve(e_d) flé(fgf)bi(ed/fd)les:(d.) (:) o(c)ra(d) pro(fe) pó(f)pu(d_0eDC')lo,(d_c) (;) in(c)tér(d>)ve(f_0gF'E)ni(g_0h) pro(ddc) cle(dfE'D)ro,(d.) (;) in(h)ter(gf~)cé(ghg')de(h_/i/ih_') pro(f) de(gh)vó(g_0hFD___)to(fv_EC') (,) fe(e)mí(gh)ne(ed)o(fe) se(d.)xu :(d.) (:) sén(c)ti(d)ant(fe~) o(f>)mnes(d') tu(g)um(c>') ju(d)vá(fd/ec)men,(c.) *(;) qui(f)cúm(gh)que(hg!hiHGgo) cé(f)le(g_0hGF'g)brant(g_f) (,) tu(e)am(g) sanc(g_0h)tam(f') fe(f)sti(fe)vi(c)tá(efd___)tem.(d.) (::) _^T. P.^_ Al(c)le(ce)lú(d.)ja.(d.) (::)};;1D
 
 [Oratio]
-{(c3)Con(h)cé(h)de(h) nos(h) fá(h)mu(h)los(h) tu(h)os,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne(h) De(h)us,(h) per(h)pé(h)tu(h)a(h) men(h)tis(h) et(h) cór(h)po(h)ris(h) sa(h)ni(h)tá(h)te(h) gau(h)dé(h)re:(f.) †(;) et,(h) glo(h)ri(h)ó(h)sa(h) be(h)á(h)tæ(h) Ma(h)rí(h)æ(h) sem(h)per(h) Vír(h)gi(h)nis(h) in(h)ter(h)ces(g)si(f)ó(h hr)ne,(h.) *(;) a(h) præ(h)sén(h)ti(h) li(h)be(h)rá(h)ri(h) tris(h)tí(h)ti(h)a,(h) et(h) æ(h)tér(h)na(h) pér(h)fru(h)i(h) læ(h)tí(h)ti(dr)a.(d.) (::)}
+{(c3)Con(h)cé(h)de(h) nos(h) fá(h)mu(h)los(h) tu(h)os,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne(h) De(h)us,(h) per(h)pé(h)tu(h)a(h) men(h)tis(h) et(h) cór(h)po(h)ris(h) sa(h)ni(h)tá(h)te(h) gau(h)dé(h)re:(f.) †(,) et,(h) glo(h)ri(h)ó(h)sa(h) be(h)á(h)tæ(h) Ma(h)rí(h)æ(h) sem(h)per(h) Vír(h)gi(h)nis(h) in(h)ter(h)ces(g)si(f)ó(h hr)ne,(h.) *(;) a(h) præ(h)sén(h)ti(h) li(h)be(h)rá(h)ri(h) tris(h)tí(h)ti(h)a,(h) et(h) æ(h)tér(h)na(h) pér(h)fru(h)i(h) læ(h)tí(h)ti(dr)a.(d.) (::)}
 $Per Dominum
 
 [Invit]
@@ -133,7 +133,7 @@ R/. Ut(h) dig(h)ni(h) ef(h)fi(h)ci(h)á(h)mur(h) pro(h)mis(h)si(h)ó(h)ni(h)bus(
 
 [Capitulum Laudes]
 !Sir 24:14
-{(c3) Ab(h) in(h)í(h)ti(h)o(h) et(h) an(h)te(h) sǽ(h)cu(h)la(h) cre(h)á(h)ta(f) sum,(f.) †(,) et(h) us(h)que(h) ad(h) fu(h)tú(h)rum(h) sǽ(h)cu(h)lum(g) non(f) dé(h)si(h)nam,(h.) *(;) et(h) in(h) ha(h)bi(h)ta(h)ti(h)ó(h)ne(h) sanc(h)ta(h) co(h)ram(h) ip(h)so(h) mi(h)nis(h)trá(f)vi.(ef..) (::)}
+{(c3) Ab(h) in(h)í(h)ti(h)o(h) et(h) an(h)te(h) sǽ(h)cu(h)la(h) cre(h)á(h)ta(f) sum,(f.) †(;) et(h) us(h)que(h) ad(h) fu(h)tú(h)rum(h) sǽ(h)cu(h)lum(g) non(f) dé(h)si(h)nam,(h.) *(;) et(h) in(h) ha(h)bi(h)ta(h)ti(h)ó(h)ne(h) sanc(h)ta(h) co(h)ram(h) ip(h)so(h) mi(h)nis(h)trá(f)vi.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -154,17 +154,14 @@ $Deo gratias
 
 [Lectio Prima]
 !Sir 24:19-20
-{(c3) In(h) pla(h)té(h)is(h) sic(h)ut(h) cin(h)na(h)mó(h)mum(h) et(h) bál(h)sa(h)mum(h) a(h)ro(h)ma(h)tí(h)zans(h) o(h)dó(h)rem(h) de(h)di:(f.) †(,) qua(h)si(h) myr(h)rha(g) e(f)léc(h)ta,(h.) *(;) de(h)di(h) su(h)a(h)vi(h)tá(h)tem(h) o(h)dó(f)ris.(ef..) (::)}
+{(c3) In(h) pla(h)té(h)is(h) sic(h)ut(h) cin(h)na(h)mó(h)mum(h) et(h) bál(h)sa(h)mum(h) a(h)ro(h)ma(h)tí(h)zans(h) o(h)dó(h)rem(h) de(h)di:(f.) †(;) qua(h)si(h) myr(h)rha(g) e(f)léc(h)ta,(h.) *(;) de(h)di(h) su(h)a(h)vi(h)tá(h)tem(h) o(h)dó(f)ris.(ef..) (::)}
 
 [Capitulum Sexta]
 !Sir 24:15-16
-{(c3) Et(h) sic(h) in(h) Si(h)on(h) fir(h)má(h)ta(h) sum,(h) et(h) in(h) ci(h)vi(h)tá(h)te(h) sanc(h)ti(h)fi(h)cá(h)ta(h) si(h)mí(h)li(h)ter(h) re(h)qui(h)é(h)vi,(h) et(h) in(h) Je(h)rú(h)sa(h)lem(h) pot(h)és(h)tas(h) me(h)a.(f.) †(,) Et(h) ra(h)di(h)cá(h)vi(h) in(h) pó(h)pu(h)lo(h) ho(h)no(h)ri(h)fi(h)cá(h)to,(h) et(h) in(h) par(h)te(h) De(h)i(h) me(h)i(h) he(h)ré(h)di(h)tas(g) il(f)lí(h)us,(h.) *(;) et(h) in(h) ple(h)ni(h)tú(h)di(h)ne(h) sanc(h)tó(h)rum(h) de(h)tén(h)ti(h)o(h) me(f)a.(ef..) (::)}
+{(c3) Et(h) sic(h) in(h) Si(h)on(h) fir(h)má(h)ta(h) sum,(h) et(h) in(h) ci(h)vi(h)tá(h)te(h) sanc(h)ti(h)fi(h)cá(h)ta(h) si(h)mí(h)li(h)ter(h) re(h)qui(h)é(h)vi,(h) et(h) in(h) Je(h)rú(h)sa(h)lem(h) pot(h)és(h)tas(h) me(h)a.(f.) †(;) Et(h) ra(h)di(h)cá(h)vi(h) in(h) pó(h)pu(h)lo(h) ho(h)no(h)ri(h)fi(h)cá(h)to,(h) et(h) in(h) par(h)te(h) De(h)i(h) me(h)i(h) he(h)ré(h)di(h)tas(g) il(f)lí(h)us,(h.) *(;) et(h) in(h) ple(h)ni(h)tú(h)di(h)ne(h) sanc(h)tó(h)rum(h) de(h)tén(h)ti(h)o(h) me(f)a.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]
 {name:Beatam me dicent;annotation:8.G;mode:8;book:The Liber Usualis, 1961, p. 1263;transcriber:Andrew Hinkley;%%(c4) BE(g)á(gj)tam(h) me(g') di(h)cent(gf~) *(,) o(g_[uh:l]h)mnes(g'_[oh:h]) ge(h)ne(gf)ra(g)ti(gh)ó(f.)nes,(f.) (;) qui(f)a(g') an(f)cíl(g')lam(h) hú(j_k)mi(j)lem(ji/jkj.) (,) re(h'_)spé(j)xit(i) De(g.)us.(g.) (::) _^T. P.^_ Al(hi)le(h)lú(g.){ia}.(g.) (::)};;8G
 (sed rubrica monastica)
 {name:Beatam me dicent;office-part:Antiphona;mode:8;book:Antiphonale Monasticum, 1934, p. 957;transcriber:Matthias Bry;%%(c4)BE(g)á(gj)tam(h>) me(g') di(h)cent(gf~) *() om(g_h)nes(g_') ge(h)ne(gf)ra(g)ti(gh)ó(f.)nes,(f.) (;) qui(f)a(g') an(f)cíl(g')lam(h) hú(j_k)mi(j)lem(ji/jkj.) (,) re(h’_)spé(j)xit(i') † De(g.)us(g.) (::) _^T. P.^_ † De(g)us,(g_h) al(i>)le(hi)lú(g.)ja.(g.) (::)};;solemn8G
-
-[Ant 43] (rubrica Ordo Praedicatorum)
-Corde et ánimo Christo canámus glóriam, in hac sacra solemnitáte præcélsæ Genitrícis Dei Maríæ.

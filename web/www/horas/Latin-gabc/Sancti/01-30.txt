@@ -1,6 +1,6 @@
 [Name]
-Martínæ
-Postcommunio=Martína
+Mar(h)tí(h)næ(h)
+Postcommunio=Mar(h)tí(h)na(h)
 
 [Hymnus Matutinum]
 v. Martínæ célebri pláudite nómini,

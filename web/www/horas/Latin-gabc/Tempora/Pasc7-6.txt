@@ -1,15 +1,5 @@
-[Rule]
-ex Pasc7-0;
-1 nocturn;
-Antiphonas horas
-Psalmi Dominica;
-Hymnus Tertia
-Feria Te Deum
-no93
-no secunda vespera
-
 [Oratio]
-Méntibus nostris, quǽsumus, Dómine, Spíritum Sanctum benígnus infúnde: cujus et sapiéntia cónditi sumus, et providéntia gubernámur.
+{(c3) Mén(h)ti(h)bus(h) nos(h)tris,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) Spí(h)ri(h)tum(h) Sanc(h)tum(h) be(h)ní(h)gnus(h) in(h)fún(h)de:(f.) †(,) cu(h)jus(h) et(h) sa(h)pi(h)én(h)ti(h)a(h) cón(h)di(g)ti(f) su(h hr)mus,(h.) *(;) et(h) pro(h)vi(h)dén(h)ti(h)a(h) gu(h)ber(h)ná(h dr)mur.(d.) (::)}
 $Per Dominum eiusdem
 
 [Ant Matutinum]
@@ -26,10 +16,6 @@ Vide cleméntiam Dómini Salvatóris: nec indignatióne commótus nec scélere o
 
 [Lectio2]
 Sábbato medicínæ Domínicæ ópera cœpta signíficat, ut inde nova creatúra cœ́perit, ubi vetus creatúra ante desívit: nec sub lege esse Dei Fílium, sed supra legem in ipso princípio designáret: nec solvi legem, sed impléri. Neque enim per legem, sed verbo factus est mundus, sicut légimus: Verbo Dómini cæli firmáti sunt. Non sólvitur ergo lex, sed implétur: ut fiat renovátio hóminis jam labéntis. Unde et Apóstolus ait: Exspoliántes vos véterem hóminem, indúite novum, qui secúndum Deum creátus est.
-
-[Lectio3]
-@Tempora/Quad3-4:Lectio3
-&teDeum
 
 [Versum 2]
 @Tempora/Pasc7-1

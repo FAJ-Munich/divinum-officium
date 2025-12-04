@@ -1,5 +1,5 @@
 [Oratio]
-Præsta, quǽsumus, omnípotens Deus: ut redemptiónis nostræ ventúra solémnitas et præséntis nobis vitæ subsídia cónferat, et ætérnæ beatitúdinis prǽmia largiátur.
+{(c3) Præ(h)sta,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(,) ut(h) red(h)emp(h)ti(h)ó(h)nis(h) nos(h)træ(h) ven(h)tú(h)ra(h) so(h)lém(h)ni(h)tas(h) et(h) præ(h)sén(h)tis(h) no(h)bis(h) vi(h)tæ(h) sub(h)sí(h)di(g)a(f) cón(h)fe(hr)rat,(h.) *(;) et(h) æ(h)tér(h)næ(h) be(h)a(h)ti(h)tú(h)di(h)nis(h) prǽ(h)mi(h)a(h) lar(h)gi(h)á(h dr)tur.(d.) (::)}
 $Per Dominum.
 
 [Responsory1]

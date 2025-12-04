@@ -2,7 +2,7 @@
 Beáta Agnes * in médio flammárum expansis mánibus orábat: Te déprecor, omnípotens, adorande, colende, Pater metuende, quia per sanctum Fílium tuum evasi minas sacrilegi tyranni, et carnis spurcítias immaculáto calle transívi: et ecce vénio ad te, quem amávi, quem quæsívi, quem semper optavi.
 
 [Oratio]
-Omnípotens sempitérne Deus, qui infírma mundi éligis, ut fórtia quæque confúndas: concéde propítius; ut, qui beátæ Agnétis Vírginis et Mártyris tuæ solémnia cólimus, ejus apud te patrocínia sentiámus.
+{(c3) Om(h)ní(h)pot(h)ens(h) sem(h)pi(h)tér(h)ne(h) De(h)us,(h) qui(h) in(h)fír(h)ma(h) mun(h)di(h) é(h)li(h)gis,(h) ut(h) fór(h)ti(h)a(h) quæ(h)que(h) con(h)fún(h)das:(f.) †(,) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut,(h) qui(h) be(h)á(h)tæ(h) A(h)gné(h)tis(h) Vír(h)gi(h)nis(h) et(h) Már(h)ty(h)ris(h) tu(h)æ(h) so(h)lém(h)ni(g)a(f) có(h)li(hr)mus,(h.) *(;) e(h)jus(h) a(h)pud(h) te(h) pa(h)tro(h)cí(h)ni(h)a(h) sen(h)ti(h)á(h dr)mus.(d.) (::)}
 $Per Dominum
 
 [Ant Matutinum]
@@ -78,12 +78,12 @@ Ecce, quod concupívi, * jam vídeo: quod sperávi, jam téneo: ipsi sum juncta 
 
 [Capitulum Sexta]
 !Sir 51:4-5
-v. Liberásti me secúndum multitúdinem misericórdiæ nóminis tui a rugiéntibus, præparátis ad escam, de mánibus quæréntium ánimam meam, et de multis tribulatiónibus quæ circumdedérunt me.
+{(c3) Li(h)be(h)rás(h)ti(h) me(h) se(h)cún(h)dum(h) mul(h)ti(h)tú(h)di(h)nem(h) mi(h)se(h)ri(h)cór(h)di(h)æ(h) nó(h)mi(h)nis(h) tu(h)i(h) a(h) ru(h)gi(h)én(h)ti(h)bus,(h) præ(h)pa(h)rá(h)tis(h) ad(h) es(h)cam,(f.) †(;) de(h) má(h)ni(h)bus(h) quæ(h)rén(h)ti(h)um(h) á(h)ni(g)mam(f) me(h hr)am,(h.) *(;) et(h) de(h) mul(h)tis(h) tri(h)bu(h)la(h)ti(h)ó(h)ni(h)bus(h) quæ(h) cir(h)cum(h)de(h)dé(h)runt(f) me.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Nona]
 !Sir 51:8; 51:12
-v. Laudábit usque ad mortem ánima mea Dóminum, quóniam éruis sustinéntes te, et líberas eos de manu angústiæ, Dómine, Deus noster.
+{(c3) Lau(h)dá(h)bit(h) us(h)que(h) ad(h) mor(h)tem(h) á(h)ni(h)ma(h) me(h)a(h) Dó(h)mi(f)num,(f.) †(;) quón(h)i(h)am(h) é(h)ru(h)is(h) sus(h)ti(h)nén(h)tes(h) te,(h) et(h) lí(h)be(h)ras(h) e(h)os(h) de(h) ma(h)nu(g) an(f)gús(h)ti(hr)æ,(h.) *(;) Dó(h)mi(h)ne,(h) De(h)us(h) nos(f)ter.(ef..) (::)}
 $Deo gratias
 
 [Ant Vespera 3]

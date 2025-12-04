@@ -44,7 +44,7 @@ _
 Beáta es, * Virgo María, Dei Génetrix, quæ credidísti Dómino; perfécta sunt in te quæ dicta sunt tibi, intercéde pro nobis ad Dóminum, Deum nostrum.
 
 [Oratio]
-Deus, cujus Unigénitus per vitam, mortem et resurrectiónem suam nobis salútis ætérnæ prǽmia comparávit: concéde, quǽsumus; ut hæc mystéria sacratíssimo beátæ Maríæ Vírginis Rosário recoléntes, et imitémur quod cóntinent, et quod promíttunt, assequámur.
+{(c3) De(h)us,(h) cu(h)jus(h) U(h)ni(h)gé(h)ni(h)tus(h) per(h) vi(h)tam,(h) mor(h)tem(h) et(h) re(h)sur(h)rec(h)ti(h)ó(h)nem(h) su(h)am(h) no(h)bis(h) sa(h)lú(h)tis(h) æ(h)tér(h)næ(h) prǽ(h)mi(h)a(h) com(h)pa(h)rá(h)vit:(f.) †(,) con(h)cé(h)de,(h) quǽ(h)su(h)mus;(h) ut(h) hæc(h) mys(h)té(h)ri(h)a(h) sa(h)cra(h)tís(h)si(h)mo(h) be(h)á(h)tæ(h) Ma(h)rí(h)æ(h) Vír(h)gi(h)nis(h) Ro(h)sá(h)ri(h)o(h) re(g)co(f)lén(h hr)tes,(h.) *(;) et(h) i(h)mi(h)té(h)mur(h) quod(h) cón(h)ti(h)nent,(h) et(h) quod(h) pro(h)mít(h)tunt,(h) as(h)se(h)quá(h dr)mur.(d.) (::)}
 $Per eumdem
 
 [Invit]
@@ -101,16 +101,16 @@ Mílites plecténtes corónam * de spinis, imposuérunt super caput ejus.;;96
 Crucis impérium * super húmerum ejus: regnávit a ligno Deus.;;97
 
 [Nocturn 1 Versum]
-V. Sancta Dei Génetrix, semper Virgo María.
-R. Intercéde pro nobis ad Dóminum, Deum nostrum.
+{initial-style:0;%%(c3) V/. Sanc(h)ta(h) De(h)i(h) Gé(h)ne(h)trix,(h) sem(h)per(h) Vir(h)go(h) Ma(h)rí(h)a.(g_'/hvGF'E!fgf.) (::)
+R/. In(h)ter(h)cé(h)de(h) pro(h) no(h)bis(h) ad(h) Dó(h)mi(h)num,(h) De(h)um(h) nos(h)trum.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 2 Versum]
-V. Post partum, Virgo, invioláta permansísti.
-R. Dei Génetrix, intercéde pro nobis.
+{initial-style: 0;%%(c3) V/. Post(h) par(h)tum,(h) Vir(h)go,(h) in(h)vi(h)o(h)lá(h)ta(h) per(h)man(h)sís(h)ti.(g_'/hvGF'E!fgf.) (::)
+R/.De(h)i(h) Gé(h)ne(h)trix,(h) in(h)ter(h)cé(h)de(h) pro(h) no(h)bis.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Speciósa facta es et suávis.
-R. In delíciis tuis, sancta Dei Génetrix.
+{initial-style: 0;%%(c3) V/. Spe(h)ci(h)ó(h)sa(h) fac(h)ta(h) es(h) et(h) su(h)á(h)vis.(g_'/hvGF'E!fgf.) (::)
+R/.In(h) de(h)lí(h)ci(h)is(h) tu(h)is,(h) sanc(h)ta(h) De(h)i(h) Gé(h)ne(h)trix.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Súmite psaltérium jucúndum in insígni die solemnitátis vestræ: 
@@ -175,7 +175,7 @@ Exaltáta est * Virgo María super choros Angelórum, et in cápite ejus coróna
 
 [Capitulum Laudes]
 !Sir 24:25; 39:17
-v. In me grátia omnis viæ et veritátis, in me omnis spes vitæ et virtútis. Ego, quasi rosa plantáta super rivos aquárum, fructificávi.
+{(c3) In(h) me(h) grá(h)ti(h)a(h) om(h)nis(h) vi(h)æ(h) et(h) ve(h)ri(h)tá(h)tis,(f.) †(;) in(h) me(h) om(h)nis(h) spes(h) vi(h)tæ(h) et(g) vir(f)tú(h hr)tis.(h.) *(;) E(h)go,(h) qua(h)si(h) ro(h)sa(h) plan(h)tá(h)ta(h) su(h)per(h) ri(h)vos(h) a(h)quá(h)rum,(h) fruc(h)ti(h)fi(h)cá(f)vi.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -215,7 +215,7 @@ Solemnitátem hodiérnam * sacratíssimi Rosárii Genetrícis Dei Maríæ devót
 
 [Lectio Prima]
 !Sir 24:17-18
-v. Quasi cedrus exaltáta sum in Líbano, et quasi cypréssus in monte Sion: quasi palma exaltáta sum in Cades, et quasi plantátio rosæ in Jéricho.
+{(c3) Qua(h)si(h) ce(h)drus(h) ex(h)al(h)tá(h)ta(h) sum(h) in(h) Lí(h)ba(h)no,(h) et(h) qua(h)si(h) cy(h)prés(h)sus(h) in(h) mon(h)te(h) Si(h)on:(f.) †(;) qua(h)si(h) pal(h)ma(h) ex(h)al(h)tá(h)ta(h) sum(g) in(f) Ca(h hr)des,(h.) *(;) et(h) qua(h)si(h) plan(h)tá(h)ti(h)o(h) ro(h)sæ(h) in(h) Jé(h)ri(f)cho.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Sancta Dei Génetrix, * Semper Virgo María.
@@ -227,7 +227,7 @@ R. Sancta Dei Génetrix, * Semper Virgo María.
 
 [Capitulum Sexta]
 !Sir 39:19
-v. Floréte flores quasi lílium et date odórem et frondéte in grátiam; collaudáte cánticum et benedícite Dóminum in opéribus suis.
+{(c3) Flo(h)ré(h)te(h) flo(h)res(h) qua(h)si(h) lí(h)li(f)um(f.) †(;) et(h) da(h)te(h) o(h)dó(h)rem(h) et(h) fron(h)dé(h)te(g) in(f) grá(h)ti(hr)am;(h.) *(;) col(h)lau(h)dá(h)te(h) cán(h)ti(h)cum(h) et(h) be(h)ne(h)dí(h)ci(h)te(h) Dó(h)mi(h)num(h) in(h) o(h)pé(h)ri(h)bus(h) su(f)is.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

@@ -34,7 +34,7 @@ Légibus orbem.
 Amen.
 
 [Oratio]
-Concéde, quǽsumus, omnípotens Deus: ut ad meliórem vitam beatórum Mauri et Plácidi Confessórum tuórum exémpla nos próvocent; quátenus, quorum memóriam ágimus, étiam actus imitémur.
+{(c3) Con(h)cé(h)de,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(h_') (,) ut(h) ad(h) me(h)li(h)ó(h)rem(h) vi(h)tam(h) be(h)a(h)tó(h)rum(h) Mau(h)ri(h) et(h) Plá(h)ci(h)di(h) Con(h)fes(h)só(h)rum(h) tu(h)ó(h)rum(h) ex(h)ém(h)pla(h) nos(h) pró(h)vo(f)cent;(f.) †(,) quá(h)te(h)nus,(h) quo(h)rum(h) me(h)mó(h)ri(g)am(f) á(h)gi(hr)mus,(h.) *(;) ét(h)i(h)am(h) ac(h)tus(h) i(h)mi(h)té(h dr)mur.(d.) (::)}
 $Per Dominum
 
 [Responsory1]

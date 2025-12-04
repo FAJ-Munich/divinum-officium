@@ -1,17 +1,8 @@
-[Officium]
-Dominica I Adventus
-
-[Responsory Vespera 1] (rubrica cisterciensis)
-Responsorium. Missus est Gábriel Angelus ad Maríam Vírginem desponsátam Joseph, núntians ei verbum; et expavéscit Virgo de lúmine: ne tímeas, María, invenísti grátiam apud Dóminum: 
-* Ecce concípies, et páries, et vocábitur Altíssimi Fílius.
-V. Dabit ei Dóminus Deus sedem David, patris ejus, et regnábit in domo Jacob in ætérnum.
-R. Ecce concípies, et páries, et vocábitur Altíssimi Fílius. 
-
 [Ant 1]
 Ecce nomen Dómini * venit de longínquo, et cláritas ejus replet orbem terrárum.
 
 [Oratio]
-Excita, quǽsumus, Dómine, poténtiam tuam, et veni: ut ab imminéntibus peccatórum nostrórum perículis, te mereámur protegénte éripi, te liberánte salvári:
+{(c3) Ex(h)ci(h)ta,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) pot(h)én(h)ti(h)am(h) tu(h)am,(h) et(h) ve(h)ni:(f.) †(,) ut(h) ab(h) im(h)mi(h)nén(h)ti(h)bus(h) pec(h)ca(h)tó(h)rum(h) nos(h)tró(h)rum(h) pe(h)rí(h)cu(h)lis,(h) te(h) me(h)re(h)á(h)mur(h) pro(h)te(h)gén(g)te(f) é(h)ri(hr)pi,(h.) *(;) te(h) li(h)be(h)rán(h)te(h) sal(h)vá(h dr)ri:(d.) (::)}
 $Qui vivis
 
 [Lectio1]
@@ -126,7 +117,7 @@ R. Dóminus justus noster.
 
 [Capitulum Laudes]
 !Rom 13:11
-v. Fratres: Hora est jam nos de somno súrgere: nunc enim própior est nostra salus, quam cum credídimus.
+{(c3) Fra(h)tres:(h.) (,) Ho(h)ra(h) est(h) jam(h) nos(h) de(h) som(h)no(h) súr(h)ge(f)re:(f.) †(;) nunc(h) e(h)nim(h) pró(h)pi(h)or(h) est(h) nos(g)tra(f) sa(h hr)lus,(h.) *(;) quam(h) cum(h) cre(h)dí(h)di(f)mus.(ef..) (::)}
 $Deo gratias.
 
 [Ant 2]
@@ -134,7 +125,7 @@ Spíritus Sanctus * in te descéndet, María: ne tímeas, habébis in útero Fí
 
 [Capitulum Nona]
 !Rom 13:13-14
-v. Sicut in die honéste ambulémus, non in comessatiónibus et ebrietátibus, non in cubílibus et impudicítiis, non in contentióne et æmulatióne; sed induímini Dóminum Jesum Christum.
+{(c3) Sic(h)ut(h) in(h) di(h)e(h) ho(h)nés(h)te(h) am(h)bu(h)lé(h)mus,(h) non(h) in(h) co(h)mes(h)sa(h)ti(h)ó(h)ni(h)bus(h) et(h) e(h)bri(h)e(h)tá(h)ti(f)bus,(f.) †(;) non(h) in(h) cu(h)bí(h)li(h)bus(h) et(h) im(h)pu(h)di(h)cí(h)ti(h)is,(h) non(h) in(h) con(h)ten(h)ti(h)ó(h)ne(h) et(h) æ(h)mu(h)la(g)ti(f)ó(h hr)ne;(h.) *(;) sed(h) ind(h)u(h)í(h)mi(h)ni(h) Dó(h)mi(h)num(h) Je(h)sum(h) Chris(f)tum.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

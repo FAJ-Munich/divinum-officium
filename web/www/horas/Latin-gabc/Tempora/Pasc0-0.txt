@@ -1,11 +1,8 @@
-[Officium]
-Dominica Resurrectionis
-
 [Ant 1]
 {gabc:Tempora/Pascha/an--vespere_autem_sabbati--solesmes};;8G
 
 [Oratio]
-Deus, qui hodiérna die per Unigénitum tuum æternitátis nobis áditum devícta morte reserásti: vota nostra, quæ præveniéndo aspíras, étiam adjuvándo proséquere.
+{(c3) De(h)us,(h) qui(h) ho(h)di(h)ér(h)na(h) di(h)e(h) per(h) U(h)ni(h)gé(h)ni(h)tum(h) tu(h)um(h) æ(h)ter(h)ni(h)tá(h)tis(h) no(h)bis(h) ád(h)i(h)tum(h) de(h)víc(h)ta(h) mor(h)te(h) re(h)se(h)rás(h)ti:(f.) †(,) vo(h)ta(h) nos(h)tra,(h) quæ(h) præ(h)ve(h)ni(h)én(h)do(g) a(f)spí(h hr)ras,(h.) *(;) ét(h)i(h)am(h) ad(h)ju(h)ván(h)do(h) pro(h)sé(h)que(dr)re.(d.) (::)}
 $Per eumdem
 
 [Special Vespera 1]
@@ -100,8 +97,3 @@ Ant. {gabc:Tempora/Pascha/an--haec_dies_quam_fecit--solesmes}
 [Ant 43]
 {(c4) Al(g)le(g')lú(h)ja,(f') al(h)le(j)lú(j_0k)ja,(ji!jkj.) (,) al(h)le(j)lú(i_0j)ja,(h_GF) al(gh)le(h)lú(g.)ja.(g.) (::)};;in-directum
 {gabc:Tempora/Pascha/an--haec_dies_quam_fecit--solesmes}
-
-[Prelude Matutinum] (rubrica 1955 aut rubrica 1960)
-!Cum solemnis vigiliæ paschalis celebratio locum obtineat officii nocturni dominicæ Resurrectionis, Matutino ejusdem dominicæ Resurrectionis omisso, statim inter Missarum vigiliæ solemnia, post communionem, cantatur Laudes. Officium dominicæ Resurrectionis prosequitur deínde cum Prima.
-_
-!Qui vero solemni vigiliæ paschali non interfuerunt, tenentur dicere Matutinum et Laudes dominicæ Resurrectionis.

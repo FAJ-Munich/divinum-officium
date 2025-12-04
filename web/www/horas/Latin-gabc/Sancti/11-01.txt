@@ -59,7 +59,7 @@ Amen.
 Ángeli, * Archángeli, Throni et Dominatiónes, Principátus et Potestátes, Virtútes cælórum, Chérubim atque Séraphim, Patriárchæ et Prophétæ, sancti legis Doctóres, Apóstoli, omnes Christi Mártyres, sancti Confessóres, Vírgines Dómini, Anachorítæ, Sanctíque omnes, intercédite pro nobis.
 
 [Oratio]
-Omnípotens sempitérne Deus, qui nos ómnium Sanctórum tuórum mérita sub una tribuísti celebritáte venerári: quǽsumus; ut desiderátam nobis tuæ propitiatiónis abundántiam, multiplicátis intercessóribus, largiáris.
+{(c3) Om(h)ní(h)pot(h)ens(h) sem(h)pi(h)tér(h)ne(h) De(h)us,(h) qui(h) nos(h) óm(h)ni(h)um(h) Sanc(h)tó(h)rum(h) tu(h)ó(h)rum(h) mé(h)ri(h)ta(h) sub(h) u(h)na(h) tri(h)bu(h)ís(h)ti(h) ce(h)le(h)bri(h)tá(h)te(h) ve(h)ne(h)rá(h)ri:(f.) †(,) quǽ(h)su(h)mus;(h) ut(h) de(h)si(h)de(h)rá(h)tam(h) no(h)bis(h) tu(h)æ(h) pro(h)pi(h)ti(h)a(h)ti(h)ó(h)nis(h) ab(g)un(f)dán(h)ti(hr)am,(h.) *(;) mul(h)ti(h)pli(h)cá(h)tis(h) in(h)ter(h)ces(h)só(h)ri(h)bus,(h) lar(h)gi(h)á(h dr)ris.(d.) (::)}
 $Per Dominum
 
 [Invit]
@@ -161,12 +161,12 @@ Quid ergo dicit? Beáti páuperes spíritu: quóniam ipsórum est regnum cælór
 &teDeum
 
 [Versum 0]
-V.  Oráte pro nobis, omnes Sancti Dei.
-R. Ut digni eficiámur promissiónibus Christi.
+{initial-style: 0;%%(c3) V/. O(h)rá(h)te(h) pro(h) no(h)bis,(h) om(h)nes(h) Sanc(h)ti(h) De(h)i.(g_'/hvGF'E!fgf.) (::)
+R/.Ut(h) di(h)gni(h) e(h)fi(h)ci(h)á(h)mur(h) pro(h)mis(h)si(h)ó(h)ni(h)bus(h) Chris(h)ti.(g_'/hvGF'E!fgf.) (::)}
 
 [Capitulum Laudes]
 !Apo 7:2-3
-v. Ecce ego Joánnes vidi álterum Angelum ascendéntem ab ortu solis, habéntem signum Dei vivi: et clamávit voce magna quátuor Ángelis, quibus datum est nocére terræ et mari, dicens: Nolíte nocére terræ et mari, neque arbóribus, quoadúsque signémus servos Dei nostri in fróntibus eórum.
+{(c3) Ec(h)ce(h) e(h)go(h) Jo(h)án(h)nes(h) vi(h)di(h) ál(h)te(h)rum(h) An(h)ge(h)lum(h) a(h)scen(h)dén(h)tem(h) ab(h) or(h)tu(h) so(h)lis,(h) ha(h)bén(h)tem(h) si(h)gnum(h) De(h)i(h) vi(h)vi:(f.) †(;) et(h) cla(h)má(h)vit(h) vo(h)ce(h) ma(h)gna(h) quá(h)tu(h)or(h) Án(h)ge(h)lis,(h) qui(h)bus(h) da(h)tum(h) est(h) no(h)cé(h)re(h) ter(h)ræ(h) et(h) ma(h)ri,(h) di(h)cens:(h_') (,) No(h)lí(h)te(h) no(h)cé(h)re(h) ter(h)ræ(h) et(h) ma(h)ri,(h) ne(h)que(g) ar(f)bó(h)ri(hr)bus,(h.) *(;) quo(h)ad(h)ús(h)que(h) si(h)gné(h)mus(h) ser(h)vos(h) De(h)i(h) nos(h)tri(h) in(h) frón(h)ti(h)bus(h) e(h)ó(f)rum.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -237,11 +237,11 @@ Te gloriósus * Apostolórum chorus, te Prophetárum laudábilis númerus, te M�
 
 [Lectio Prima]
 !Apo 7:12
-v. Benedíctio, et cláritas, et sapiéntia, et gratiárum áctio, honor, virtus, et fortitúdo Deo nostro, in sǽcula sæculórum. Amen.
+{(c3) Be(h)ne(h)díc(h)ti(h)o,(h) et(h) clá(h)ri(h)tas,(h) et(h) sa(h)pi(h)én(h)ti(h)a,(h) et(h) gra(h)ti(h)á(h)rum(h) ác(h)ti(f)o,(f.) †(;) ho(h)nor,(h) vir(h)tus,(h) et(h) for(h)ti(h)tú(h)do(h) De(g)o(f) nos(h hr)tro,(h.) *(;) in(h) sǽ(h)cu(h)la(h) sæ(h)cu(h)ló(h)rum.(h) A(f)men.(ef..) (::)}
 
 [Capitulum Sexta]
 !Apo 7:9
-v. Post hæc vidi turbam magnam, quam dinumeráre nemo póterat ex ómnibus géntibus, et tríbubus, et pópulis, et linguis, stantes ante thronum Dei, in conspéctu Agni, amícti stolis albis, et palmæ in mánibus eórum.
+{(c3) Post(h) hæc(h) vi(h)di(h) tur(h)bam(h) ma(h)gnam,(h) quam(h) di(h)nu(h)me(h)rá(h)re(h) ne(h)mo(h) pót(h)e(f)rat(f.) †(;) ex(h) óm(h)ni(h)bus(h) gén(h)ti(h)bus,(h) et(h) trí(h)bu(h)bus,(h) et(h) pó(h)pu(h)lis,(h) et(h) lin(h)guis,(h) stan(h)tes(h) an(h)te(h) thro(h)num(h) De(h)i,(h) in(h) con(h)spéc(h)tu(h) A(h)gni,(h) a(h)míc(h)ti(h) sto(g)lis(f) al(h hr)bis,(h.) *(;) et(h) pal(h)mæ(h) in(h) má(h)ni(h)bus(h) e(h)ó(f)rum.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Nona]

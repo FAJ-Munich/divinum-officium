@@ -29,7 +29,7 @@ Amen.
 Benedictiónem * ómnium géntium dedit illi Dóminus, et testaméntum suum confirmávit super cápita eórum.
 
 [Oratio]
-Deus, qui sanctos Jóachim et Annam glorióse Matris Unigéniti tui paréntes elegísti: da nobis eórum précibus, in tuórum consórtio electórum cleméntiam tuam perpétuo collaudáre.
+{(c3) De(h)us,(h) qui(h) sanc(h)tos(h) Jó(h)a(h)chim(h) et(h) An(h)nam(h) glo(h)ri(h)ó(h)se(h) Ma(h)tris(h) U(h)ni(h)gé(h)ni(h)ti(h) tu(h)i(h) pa(h)rén(h)tes(h) e(h)le(h)gís(h)ti:(f.) †(,) da(h) no(h)bis(h) e(h)ó(h)rum(h) pré(h)ci(h)bus,(h) in(h) tu(h)ó(h)rum(h) con(h)sór(h)ti(h)o(h) e(h)lec(h)tó(h)rum(h) cle(h)mén(h)ti(g)am(f) tu(h hr)am(h.) *(;) per(h)pé(h)tu(h)o(h) col(h)lau(h)dá(h dr)re.(d.) (::)}
 $Per eumdem
 
 [Invit]
@@ -155,7 +155,7 @@ Sapiéntiam * Sanctórum narrant pópuli, † et laudes eórum pronúntiat omnis
 
 [Capitulum Laudes]
 !Isa 56:1
-v. Hæc dicit Dóminus: Custodíte judícium, et fácite justítiam: † quia juxta est salus mea ut véniat, * et justítia mea ut revelétur.
+{(c3) Hæc(h) di(h)cit(h) Dó(h)mi(h)nus:(h_') (,) Cus(h)to(h)dí(h)te(h) ju(h)dí(h)ci(h)um,(h) et(h) fá(h)ci(h)te(h) jus(h)tí(h)ti(f)am:(f.) †(;) qui(h)a(h) jux(h)ta(h) est(h) sa(h)lus(h) me(h)a(g) ut(f) vé(h)ni(hr)at,(h.) *(;) et(h) jus(h)tí(h)ti(h)a(h) me(h)a(h) ut(h) re(h)ve(h)lé(f)tur.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -185,12 +185,12 @@ Ego sum * Deus patrum vestrórum, dicit Dóminus: videns vidi afflictiónem póp
 
 [Capitulum Sexta]
 !Isa 56:7
-v. Addúcam eos in montem sanctum meum, et lætificábo eos in domo oratiónis meæ: † holocáusta eórum et víctimæ eórum * placébunt mihi super altári meo.
+{(c3) Ad(h)dú(h)cam(h) e(h)os(h) in(h) mon(h)tem(h) sanc(h)tum(h) me(h)um,(h) et(h) læ(h)ti(h)fi(h)cá(h)bo(h) e(h)os(h) in(h) do(h)mo(h) o(h)ra(h)ti(h)ó(h)nis(h) me(h)æ:(f.) †(;) ho(h)lo(h)cáus(h)ta(h) e(h)ó(h)rum(h) et(h) víc(h)ti(h)mæ(g) e(f)ó(h hr)rum(h.) *(;) pla(h)cé(h)bunt(h) mi(h)hi(h) su(h)per(h) al(h)tá(h)ri(h) me(f)o.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Nona]
 !Eccl 2:19
-v. Qui timent Dóminum inquírent quæ beneplácita sunt ei, † et qui díligunt eum, * replebúntur lege ipsíus.
+{(c3) Qui(h) ti(h)ment(h) Dó(h)mi(h)num(h) in(h)quí(h)rent(h) quæ(h) be(h)ne(h)plá(h)ci(h)ta(h) sunt(h) e(h)i,(f.) †(;) et(h) qui(h) dí(h)li(g)gunt(f) e(h hr)um,(h.) *(;) re(h)ple(h)bún(h)tur(h) le(h)ge(h) ip(h)sí(f)us.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

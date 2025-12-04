@@ -22,6 +22,10 @@ sub capitulum_major {
     $capit = $capit{$name};
   }
 
+  # GABC: Capitula are input in database acc. to Ant. Romanum
+  # Shorter pause at Flexa in Ant. Monasticum
+  $capit =~ s/†\(\;\)/†(,)/g if $lang eq 'Latin-gabc' && $version =~ /monastic/i;
+
   if ($vespera == 1 && $version =~ /Ordo Praedicatorum/) {
     $capit .= "\n_\n" . monastic_major_responsory($lang);
   }
@@ -197,13 +201,15 @@ sub capitulum_minor {
 
   if ($lang =~ /gabc/) {
     if (@capit[-1] =~ /V\/\./) {
+
+      # If V/. ... R/. ... is on a single line, break it in two
       splice(@capit, -1, 1, split('R/.', $capit[-1]));
       $capit[-1] =~ s/^/R\/./;
     }
 
     if ($version =~ /monastic/i) {
 
-      # Transform Tonus solemnis aut communis into Tonus simplex
+      # Transform Versiculum: Tonus solemnis aut communis into Tonus simplex
       map {
         s/hr\)(.*?\(\,\))/h)$1/g;    # remove (first) superveniente in Tonus solemnis
         s/(.*\(.*?)hr\)/$1fr)/g;     # change superveniente at puncutum
@@ -211,9 +217,13 @@ sub capitulum_minor {
         s/\((?:hi|hr|h\_0|f?e|f\'?|f\_0?h|h\_\')\)/\(h\)/g;                       # More changes for solemn Versicle
         s/\(\,\)//g;
       } @capit[-2 .. -1];
+
+      # Capitula are input in database acc. to Ant. Romanum
+      # Shorter pause at Flexa in Ant. Monasticum
+      $capit[1] =~ s/†\(\;\)/†(,)/g;
     } elsif ($capit[-1] !~ /g\_\'?\/h/) {
 
-      # Transform Tonus solemnis aut simplex into Tonus cum neuma
+      # Transform Versiculum: Tonus solemnis aut simplex into Tonus cum neuma
       map {
         s/\([a-zA-Z0-9\_\.\~\>\<\'\/\!]+?\) (R\/\.)?\(::\)/\(g\_\'\/hvGF\'E\!fgf.\) $1\(::\)/g;    # change finalis
         s/\((?:hi|hr|h\_0|f?e|f\'?|f\_0?h|h\_\')\)/\(h\)/g;    # More changes for solemn Versicle

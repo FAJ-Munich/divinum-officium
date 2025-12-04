@@ -1,6 +1,6 @@
 [Name]
-Eleuthérii
+E(h)leu(h)thé(h)ri(h)i(h)
 (sed communi Summorum Pontificum)
-Eleuthérium
-Secreta=Eleuthérii
-Postcommunio=Eleuthério
+E(h)leu(h)thé(h)ri(h)um(h)
+Secreta=E(h)leu(h)thé(h)ri(h)i(h)
+Postcommunio=E(h)leu(h)thé(h)ri(h)o(h)

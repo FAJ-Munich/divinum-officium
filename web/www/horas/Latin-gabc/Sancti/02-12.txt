@@ -6,7 +6,7 @@ R/. Se(h)men(h) e(h)ó(h)rum(h) et(h) gló(h)ri(h)a(h) e(h)ó(h)rum(h) non(h) de
 Non recédet * laus tua, Virgo María, de ore hóminum, qui mémores fúerint virtútis Dómini in ætérnum, pro quibus non pepercísti ánimæ tuæ.
 
 [Oratio]
-Dómine Jesu Christe, qui ad recoléndam memóriam dolórum sanctíssimæ Genetrícis tuæ, per septem beátos Patres nova Servórum ejus família Ecclésiam tuam fecundásti: concéde propítius; ita nos eórum consociári flétibus, ut perfruámur et gáudiis.
+{(c3) Dó(h)mi(h)ne(h) Je(h)su(h) Chris(h)te,(h) qui(h) ad(h) re(h)co(h)lén(h)dam(h) me(h)mó(h)ri(h)am(h) do(h)ló(h)rum(h) sanc(h)tís(h)si(h)mæ(h) Ge(h)ne(h)trí(h)cis(h) tu(h)æ,(h) per(h) sep(h)tem(h) be(h)á(h)tos(h) Pa(h)tres(h) no(h)va(h) Ser(h)vó(h)rum(h) e(h)jus(h) fa(h)mí(h)li(h)a(h) Ec(h)clé(h)si(h)am(h) tu(h)am(h) fœ(h)cun(h)dás(h)ti:(f.) †(,) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) i(h)ta(h) nos(h) e(h)ó(h)rum(h) con(h)so(h)ci(h)á(g)ri(f) flé(h)ti(hr)bus,(h.) *(;) ut(h) per(h)fru(h)á(h)mur(h) et(h) gáu(h)di(dr)is.(d.) (::)}
 $Qui vivis
 
 [Hymnus Matutinum]
@@ -48,7 +48,7 @@ Amen.
 
 [Capitulum Laudes]
 !1 Pet 4:13
-v. Caríssimi: Communicántes Christi passiónibus gaudéte, ut et in revelatióne glóriæ ejus gaudeátis exsultántes.
+{(c3) Ca(h)rís(h)si(h)mi:(h.) (,) Com(h)mu(h)ni(h)cán(h)tes(h) Chris(h)ti(h) pas(h)si(h)ó(h)ni(h)bus(h) gau(h)dé(h)te,(f.) †(;) ut(h) et(h) in(h) re(h)ve(h)la(h)ti(h)ó(h)ne(h) gló(h)ri(g)æ(f) e(h hr)jus(h.) *(;) gau(h)de(h)á(h)tis(h) ex(h)sul(h)tán(f)tes.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]

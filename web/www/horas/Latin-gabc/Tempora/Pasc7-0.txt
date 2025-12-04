@@ -21,7 +21,8 @@ Loquebántur * váriis linguis Apóstoli magnália Dei, allelúja, allelúja, al
 {gabc:Tempora/Pascha/hy--veni_creator_spiritus--solesmes_1934}
 
 [Versum 1]
-{initial-style:0;%%(c3) V/. Re(h)plé(h)ti(h) sunt(h) om(h)nes(h) Spí(h)ri(h)tu(h) San(hi)cto,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::) R/. Et(h) cœ(h)pé(h)runt(h) lo(hi)qui,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
+{initial-style:0;%%(c3) V/. Re(h)plé(h)ti(h) sunt(h) om(h)nes(h) Spí(h)ri(h)tu(h) San(hi)cto,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)
+R/. Et(h) cœ(h)pé(h)runt(h) lo(hi)qui,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 1]
 {name:Non vos relinquam;annotation:1. D;mode:1;book:The Liber Usualis, 1961, p. 862 & Liber antiphonarius, 1960, p. 502;%%(c4) NON(cd~) vos(d) re(d)lín(de~)quam(d) *() ór(dc~)pha(df)nos,(f_e) al(d)le(cd)lú(d_e){ja} :(ddc.) (:) va(f_h)do,(g_[uh:l]h) et(f) vé(g_[uh:l]h)ni(g)o(fe) ad(cd~) vos,(d_f) al(e)le(cd)lú(d_e){ja} :(ddc.) (:) et(c) gau(cd~)dé(d_e)bit(d_c) cor(c_[ll:1]d) ve(f_)strum,(e_[uh:l]f) al(gh)le(fe)lú(d.){ja}.(d.) (::)};;solemn1D
@@ -29,7 +30,7 @@ Loquebántur * váriis linguis Apóstoli magnália Dei, allelúja, allelúja, al
 {name:Non vos relinquam;annotation:1. D;mode:1;book:Antiphonale Monasticum, 1934, p. 519;transcriber:Matthias Bry;%%(c4)NON(cd~) vos(d) re(d)lín(de~)quam(d') ór(d>)pha(cf)nos,(f_e) al(d>)le(cd)lú(d_e)ja :(ddc.) (;) va(f_h)do,(g_h) et(f) vé(g_h)ni(g)o(fe) ad(cd~) vos,(d_f) al(e>)le(cd)lú(d_e)ja :(ddc.) (:) et(c) gau(cd~)dé(d_e)bit(ddc) cor(c_d) ve(ff)strum,(e_f) al(gh)le(fe)lú(d./)ja.(d.) (::)};;solemn1D
 
 [Oratio]
-{(c3) De(h)us,(h) qui(h) ho(h)di(h)ér(h)na(h) di(h)e(h) cor(h)da(h) fi(h)dé(h)li(h)um(h) San(h)cti(h) Spí(h)ri(h)tus(h) il(h)lus(h)tra(h)ti(h)ó(h)ne(h) do(h)cu(h)ís(h)ti:(f.) †(;) da(h) no(h)bis(h) in(h) e(h)ó(h)dem(h) Spí(h)ri(h)tu(h) rec(g)ta(f) sá(h)pe(h)re;(h.) *(;) et(h) de(h) e(h)jus(h) sem(h)per(h) con(h)so(h)la(h)ti(h)ó(h)ne(h) gau(h)dé(h)re.(d.) (::)}
+{(c3) De(h)us,(h) qui(h) ho(h)di(h)ér(h)na(h) di(h)e(h) cor(h)da(h) fi(h)dé(h)li(h)um(h) San(h)cti(h) Spí(h)ri(h)tus(h) il(h)lus(h)tra(h)ti(h)ó(h)ne(h) do(h)cu(h)ís(h)ti:(f.) †(,) da(h) no(h)bis(h) in(h) e(h)ó(h)dem(h) Spí(h)ri(h)tu(h) rec(g)ta(f) sá(h)pe(h)re;(h.) *(;) et(h) de(h) e(h)jus(h) sem(h)per(h) con(h)so(h)la(h)ti(h)ó(h)ne(h) gau(h)dé(h)re.(d.) (::)}
 $Per Dominum eiusdem
 
 [Invit]
@@ -168,7 +169,7 @@ Et Pater meus díliget eum, et ad eum veniémus, et mansiónem apud eum faciému
 
 [Capitulum Laudes]
 !Act. 2:1-2
-{centering-scheme: latin;%%(c3) CUM(h) com(h)ple(h)rén(h)tur(h) di(h)es(h) Pen(h)te(h)cós(h)tes,(h) e(h)rant(h) om(h)nes(h) pá(h)ri(h)ter(h) in(h) e(h)ó(g)dem(f) lo(h)co:(h.) (;) et(h) fac(h)tus(h) est(h) re(h)pén(h)te(h) de(h) cæ(h)lo(h) so(h)nus,(h) tam(h)quam(h) ad(h)ve(h)ni(h)én(h)tis(h) spí(h)ri(h)tus(h) ve(h)he(h)mén(h)tis,(h) et(h) re(h)plé(h)vit(h) to(h)tam(h) do(h)mum(h) u(h)bi(h) e(h)rant(h) se(h)dén(f)tes.(ef..) (::)}
+{(c3) CUM(h) com(h)ple(h)rén(h)tur(h) di(h)es(h) Pen(h)te(h)cós(h)tes,(h) e(h)rant(h) om(h)nes(h) pá(h)ri(h)ter(h) in(h) e(h)ó(g)dem(f) lo(h)co:(h.) (;) et(h) fac(h)tus(h) est(h) re(h)pén(h)te(h) de(h) cæ(h)lo(h) so(h)nus,(h) tam(h)quam(h) ad(h)ve(h)ni(h)én(h)tis(h) spí(h)ri(h)tus(h) ve(h)he(h)mén(h)tis,(h) et(h) re(h)plé(h)vit(h) to(h)tam(h) do(h)mum(h) u(h)bi(h) e(h)rant(h) se(h)dén(f)tes.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -184,7 +185,7 @@ Accípite * Spíritum Sanctum: quorum remiséritis peccáta, remittúntur eis, a
 
 [Lectio Prima]
 !Act. 2:11
-v. Judǽi quoque et Prosélyti, Cretes et Arabes: audívimus eos loquéntes nostris linguis magnália Dei.
+{(c3) Ju(h)dǽ(h)i(h) quo(h)que(h) et(h) Pro(h)sé(h)ly(h)ti,(h) Cre(h)tes(h) et(h) A(h)ra(f)bes:(f.) †(;) au(h)dí(h)vi(h)mus(h) e(h)os(h) lo(h)quén(h)tes(h) nos(g)tris(f) lin(h hr)guis(h.) *(;) ma(h)gná(h)li(h)a(h) De(f)i.(ef..) (::)}
 
 [HymnusM Tertia]
 @:HymnusM Vespera
@@ -198,12 +199,12 @@ R. Allelúja, allelúja.
 R. Spíritus Dómini replévit orbem terrárum, * Allelúja, allelúja.
 
 [Versum Tertia]
-V. Spíritus Paráclitus, allelúja.
-R. Docébit vos ómnia, allelúja.
+{initial-style: 0;%%(c3) V/. Spí(h)ri(h)tus(h) Pa(h)rá(h)cli(h)tus,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.Do(h)cé(h)bit(h) vos(h) óm(h)ni(h)a,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Capitulum Sexta]
 !Act. 2:6
-v. Facta autem hac voce, convénit multitúdo, et mente confúsa est, quóniam audiébat unusquísque lingua sua illos loquéntes.
+{(c3) Fac(h)ta(h) au(h)tem(h) hac(h) vo(h)ce,(h) con(h)vé(h)nit(h) mul(h)ti(h)tú(h)do,(f.) †(;) et(h) men(h)te(g) con(f)fú(h)sa(hr) est,(h.) *(;) quón(h)i(h)am(h) au(h)di(h)é(h)bat(h) u(h)nus(h)quís(h)que(h) lin(h)gua(h) su(h)a(h) il(h)los(h) lo(h)quén(f)tes.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]
@@ -226,7 +227,8 @@ R. Repléti sunt omnes Spíritu Sancto, * Allelúja, allelúja.
 @:Ant Vespera:s/;.*//
 
 [Versum 3]
-{initial-style:0;%%(c3) V/. Lo(h)que(h)bán(h)tur(h) vá(h)ri(h)is(h) lin(h)g{ui}s(h) A(h)pó(hi)sto(hr)li,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::) R/. Ma(h)gná(h)li(h)a(h) De(hi)i,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
+{initial-style:0;%%(c3) V/. Lo(h)que(h)bán(h)tur(h) vá(h)ri(h)is(h) lin(h)g{ui}s(h) A(h)pó(hi)sto(hr)li,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)
+R/. Ma(h)gná(h)li(h)a(h) De(hi)i,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 3]
 Hódie * compléti sunt dies Pentecóstes, allelúja: hódie Spíritus Sanctus in igne discípulis appáruit, et tríbuit eis charísmatum dona: misit eos in univérsum mundum prædicáre, et testificári: Qui credíderit et baptizátus fúerit, salvus erit, allelúja.

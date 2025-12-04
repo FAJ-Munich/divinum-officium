@@ -1,5 +1,5 @@
 [Oratio]
-Deus, qui nos hodiérna die Exaltatiónis sanctæ Crucis ánnua solemnitáte lætíficas: præsta, quǽsumus; ut, cujus mystérium in terra cognóvimus, ejus redemptiónis prǽmia in cælo mereámur.
+{(c3) De(h)us,(h) qui(h) nos(h) ho(h)di(h)ér(h)na(h) di(h)e(h) Ex(h)al(h)ta(h)ti(h)ó(h)nis(h) sanc(h)tæ(h) Cru(h)cis(h) án(h)nu(h)a(h) so(h)lem(h)ni(h)tá(h)te(h) læ(h)tí(h)fi(f)cas:(f.) †(,) præ(h)sta,(h) quǽ(h)su(h)mus;(h) ut,(h) cu(h)jus(h) mys(h)té(h)ri(h)um(h) in(h) ter(h)ra(g) co(f)gnó(h)vi(hr)mus,(h.) *(;) e(h)jus(h) red(h)emp(h)ti(h)ó(h)nis(h) prǽ(h)mi(h)a(h) in(h) cæ(h)lo(h) me(h)re(h)á(h dr)mur.(d.) (::)}
 $Per eumdem
 
 [Invit]

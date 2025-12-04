@@ -1,3 +1,2 @@
 [Oratio 2]
-Deus, a quo bona cuncta procédunt, largire supplicibus tuis: ut cogitemus, te inspirante, quæ recta sunt; et, te gubernante, eadem faciámus.
-$Per Dominum.
+@Tempora/Pasc5-0

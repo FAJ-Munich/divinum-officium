@@ -42,7 +42,7 @@ Gregórius, * monachórum spéculum, pater Urbis, orbis delíciæ.
 
 [Capitulum Laudes]
 !Eccl 50:1
-v. Ecce sacérdos magnus, qui in vita sua suffúlsit domum, et in diébus suis corroborávit templum.
+{(c3) Ec(h)ce(h) sa(h)cér(h)dos(h) ma(h)gnus,(h) qui(h) in(h) vi(h)ta(h) su(h)a(h) suf(h)fúl(g)sit(f) do(h hr)mum,(h.) *(;) et(h) in(h) di(h)é(h)bus(h) su(h)is(h) cor(h)ro(h)bo(h)rá(h)vit(h) tem(f)plum.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -77,12 +77,12 @@ Gregórius, * respíciens Anglórum júvenes, ait: Angélicam habent fáciem, et
 
 [Capitulum Sexta]
 !Eccl 47:11-12
-v. Stare fecit cantóres contra altáre, et in sono eórum dulces fecit modos. Et dedit in celebratiónibus decus, et ornávit témpora usque ad consummatiónem vitæ.
+{(c3) Sta(h)re(h) fe(h)cit(h) can(h)tó(h)res(h) con(h)tra(h) al(h)tá(h)re,(h) et(h) in(h) so(h)no(h) e(h)ó(h)rum(h) dul(h)ces(h) fe(h)cit(h) mo(h)dos.(f.) †(;) Et(h) de(h)dit(h) in(h) ce(h)le(h)bra(h)ti(h)ó(h)ni(g)bus(f) de(h hr)cus,(h.) *(;) et(h) or(h)ná(h)vit(h) tém(h)po(h)ra(h) us(h)que(h) ad(h) con(h)sum(h)ma(h)ti(h)ó(h)nem(h) vi(f)tæ.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Nona]
 !Eccl 50:4-5
-v. Curávit gentem suam, et liberávit eam a perditióne. Qui præváluit amplificáre civitátem, qui adéptus est glóriam in conversatióne gentis.
+{(c3) Cu(h)rá(h)vit(h) gen(h)tem(h) su(h)am,(h) et(h) li(h)be(h)rá(h)vit(h) e(h)am(h) a(h) per(h)di(h)ti(h)ó(h)ne.(f.) †(;) Qui(h) præ(h)vá(h)lu(h)it(h) am(h)pli(h)fi(h)cá(h)re(h) ci(g)vi(f)tá(h hr)tem,(h.) *(;) qui(h) ad(h)ép(h)tus(h) est(h) gló(h)ri(h)am(h) in(h) con(h)ver(h)sa(h)ti(h)ó(h)ne(h) gen(f)tis.(ef..) (::)}
 $Deo gratias
 
 [Ant Vespera 3]

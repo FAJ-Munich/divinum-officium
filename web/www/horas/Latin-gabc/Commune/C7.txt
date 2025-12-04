@@ -79,7 +79,7 @@ R. Quem vidi, quem amávi, in quem crédidi, quem diléxi.
 
 [Capitulum Laudes]
 !Sir 51:1-3
-{(c3) Con(h)fi(h)té(h)bor(h) ti(h)bi,(h) Dó(h)mi(h)ne,(h) Rex,(h) et(h) col(h)lau(h)dá(h)bo(h) te(h) De(h)um(h) Sal(h)va(h)tó(h)rem(h) me(h)um.(f.) †(,) Con(h)fi(h)té(h)bor(h) nó(h)mi(h)ni(h) tu(h)o:(h) quón(h)i(h)am(h) ad(h)jú(h)tor(h) et(h) pro(h)téc(h)tor(h) fac(h)tus(g) es(f) mi(h)hi,(h.) *(;) et(h) li(h)be(h)rás(h)ti(h) cor(h)pus(h) me(h)um(h) a(h) per(h)di(h)ti(h)ó(f)ne.(ef..) (::)}
+{(c3) Con(h)fi(h)té(h)bor(h) ti(h)bi,(h) Dó(h)mi(h)ne,(h) Rex,(h) et(h) col(h)lau(h)dá(h)bo(h) te(h) De(h)um(h) Sal(h)va(h)tó(h)rem(h) me(h)um.(f.) †(;) Con(h)fi(h)té(h)bor(h) nó(h)mi(h)ni(h) tu(h)o:(h_') (,) quón(h)i(h)am(h) ad(h)jú(h)tor(h) et(h) pro(h)téc(h)tor(h) fac(h)tus(g) es(f) mi(h)hi,(h.) *(;) et(h) li(h)be(h)rás(h)ti(h) cor(h)pus(h) me(h)um(h) a(h) per(h)di(h)ti(h)ó(f)ne.(ef..) (::)}
 $Deo gratias
 
 [Ant 2]
@@ -89,11 +89,11 @@ $Deo gratias
 
 [Lectio Prima]
 !Sir 51:8; 51:12
-{(c3) Lau(h)dá(h)bit(h) us(h)que(h) ad(h) mor(h)tem(h) á(h)ni(h)ma(h) me(h)a(h) Dó(h)mi(f)num,(f.) †(,) quón(h)i(h)am(h) é(h)ru(h)is(h) sus(h)ti(h)nén(h)tes(h) te,(h) et(h) lí(h)be(h)ras(h) e(h)os(h) de(h) ma(h)nu(g) an(f)gús(h)ti(h)æ,(h.) *(;) Dó(h)mi(h)ne,(h) De(h)us(h) nos(f)ter.(ef..) (::)}
+{(c3) Lau(h)dá(h)bit(h) us(h)que(h) ad(h) mor(h)tem(h) á(h)ni(h)ma(h) me(h)a(h) Dó(h)mi(f)num,(f.) †(;) quón(h)i(h)am(h) é(h)ru(h)is(h) sus(h)ti(h)nén(h)tes(h) te,(h) et(h) lí(h)be(h)ras(h) e(h)os(h) de(h) ma(h)nu(g) an(f)gús(h)ti(h)æ,(h.) *(;) Dó(h)mi(h)ne,(h) De(h)us(h) nos(f)ter.(ef..) (::)}
 
 [Capitulum Sexta]
 !Sir 51:4-5
-{(c3) Li(h)be(h)rás(h)ti(h) me(h) se(h)cún(h)dum(h) mul(h)ti(h)tú(h)di(h)nem(h) mi(h)se(h)ri(h)cór(h)di(h)æ(h) nó(h)mi(h)nis(h) tu(h)i(h) a(h) ru(h)gi(h)én(h)ti(h)bus,(h) præ(h)pa(h)rá(h)tis(h) ad(h) es(h)cam,(f.) †(,) de(h) má(h)ni(h)bus(h) quæ(h)rén(h)ti(h)um(h) á(h)ni(g)mam(f) me(h)am,(h.) *(;) et(h) de(h) mul(h)tis(h) tri(h)bu(h)la(h)ti(h)ó(h)ni(h)bus(h) quæ(h) cir(h)cum(h)de(h)dé(f)runt(e) me.(ef..) (::)}
+{(c3) Li(h)be(h)rás(h)ti(h) me(h) se(h)cún(h)dum(h) mul(h)ti(h)tú(h)di(h)nem(h) mi(h)se(h)ri(h)cór(h)di(h)æ(h) nó(h)mi(h)nis(h) tu(h)i(h) a(h) ru(h)gi(h)én(h)ti(h)bus,(h) præ(h)pa(h)rá(h)tis(h) ad(h) es(h)cam,(f.) †(;) de(h) má(h)ni(h)bus(h) quæ(h)rén(h)ti(h)um(h) á(h)ni(g)mam(f) me(h)am,(h.) *(;) et(h) de(h) mul(h)tis(h) tri(h)bu(h)la(h)ti(h)ó(h)ni(h)bus(h) quæ(h) cir(h)cum(h)de(h)dé(f)runt(e) me.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

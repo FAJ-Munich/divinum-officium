@@ -1,13 +1,5 @@
-[Rule]
-ex Pasc7-0;
-1 nocturn;
-Psalmi Dominica;
-Antiphonas horas
-Hymnus Tertia
-No commemoration
-
 [Oratio]
-Adsit nobis, quǽsumus, Dómine, virtus Spíritus Sancti: quæ et corda nostra cleménter expúrget, et ab ómnibus tueátur advérsis.
+{(c3) Ad(h)sit(h) no(h)bis,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) vir(h)tus(h) Spí(h)ri(h)tus(h) Sanc(h)ti:(f.) †(,) quæ(h) et(h) cor(h)da(h) nos(h)tra(h) cle(h)mén(h)ter(g) ex(f)púr(h hr)get,(h.) *(;) et(h) ab(h) óm(h)ni(h)bus(h) tu(h)e(h)á(h)tur(h) ad(h)vér(h dr)sis.(d.) (::)}
 $Per Dominum eiusdem
 
 [Ant Matutinum]

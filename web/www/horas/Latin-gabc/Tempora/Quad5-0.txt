@@ -1,6 +1,3 @@
-[Rank](rubrica 1955 aut rubrica 1960)
-Dominica I Passionis;;I classis Semiduplex;;6
-
 [Lectio1]
 Incipit liber Jeremíæ Prophétæ
 !Jer 1:1-6
@@ -142,7 +139,7 @@ Amen, amen, dico vobis: * si quis sermónem meum serváverit, mortem non gustáb
 
 [Capitulum Sexta]
 !Heb 9:13-14
-v. Si enim sanguis hircórum, et taurórum, et cinis vítulæ aspérsus inquinátos sanctíficat ad emundatiónem carnis: quanto magis sanguis Christi, qui per Spíritum Sanctum semetípsum óbtulit immaculátum Deo, emundábit consciéntiam nostram ab opéribus mórtuis, ad serviéndum Deo vivénti?
+{(c3) Si(h) san(h)guis(h) hir(h)có(h)rum,(h) et(h) tau(h)ró(h)rum,(h) et(h) ci(h)nis(h) ví(h)tu(h)læ(h) a(h)spér(h)sus(h) in(h)qui(h)ná(h)tos(h) sanc(h)tí(h)fi(h)cat(h) ad(h) e(h)mun(h)da(h)ti(h)ó(h)nem(h) car(h)nis:(f.) †(;) quan(h)to(h) ma(h)gis(h) san(h)guis(h) Chris(h)ti,(h) qui(h) per(h) Spí(h)ri(h)tum(h) Sanc(h)tum(h) se(h)met(h)íp(h)sum(h) ób(h)tu(h)lit(h) im(h)ma(h)cu(h)lá(g)tum(f) De(h)o,(h.) *(;) e(h)mun(h)dá(h)bit(h) con(h)sci(h)én(h)ti(h)am(h) nos(h)tram(h) ab(h) o(h)pé(h)ri(h)bus(h) mór(h)tu(h)is,(h) ad(h) ser(h)vi(h)én(h)dum(h) De(h)o(h) vi(h)vén(f)ti?(ef..) (::)}
 $Deo gratias
 
 [Ant Nona]
@@ -150,7 +147,7 @@ Tulérunt lápides * Judǽi, ut jácerent in eum: Jesus autem abscóndit se, et 
 
 [Capitulum Nona]
 !Heb 9:15
-v. Et ídeo novi testaménti mediátor est: ut, morte intercedénte, in redemptiónem eárum prævaricatiónum, quæ erant sub prióri testaménto, repromissiónem accípiant, qui vocáti sunt ætérnæ hereditátis in Christo Jesu, Dómino nostro.
+{(c3) Et(h) íd(h)e(h)o(h) no(h)vi(h) tes(h)ta(h)mén(h)ti(h) me(h)di(h)á(h)tor(h) est:(h_') (,) ut,(h) mor(h)te(h) in(h)ter(h)ce(h)dén(h)te,(h) in(h) red(h)emp(h)ti(h)ó(h)nem(h) e(h)á(h)rum(h) præ(h)va(h)ri(h)ca(h)ti(h)ó(h)num,(h) quæ(h) e(h)rant(h) sub(h) pri(h)ó(h)ri(h) tes(h)ta(h)mén(h)to,(f.) †(;) re(h)pro(h)mis(h)si(h)ó(h)nem(h) ac(h)cí(h)pi(h)ant,(h) qui(h) vo(h)cá(h)ti(h) sunt(h) æ(h)tér(h)næ(h) he(h)re(g)di(f)tá(h hr)tis(h.) *(;) in(h) Chris(h)to(h) Je(h)su,(h) Dó(h)mi(h)no(h) nos(f)tro.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

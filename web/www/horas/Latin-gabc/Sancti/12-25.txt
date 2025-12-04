@@ -69,7 +69,7 @@ Cum ortus fúerit * sol de cælo, vidébitis Regem regum procedéntem a Patre, t
 {name:Cum ortus fuerit sol;annotation:8 G.;mode:8;book:Antiphonale Monasticum, 1934, p. 239;transcriber:Dominique CROCHU;%%(c4) CUM(gd~) or(f_0gh)tus(g) *() fú(gh)e(g)rit(g') sol(h) de(g') cæ(h)lo,(g_') (,) vi(f)dé(h')bi(g)tis(f) Re(g')gem(h) re(h!iwj_g)gum(g.) (;) pro(f)ce(gh)dén(h>)tem(g_hG'F) a(h.g!hwi_h) Pa(g.)tre,(g.) (;) tam(g_e~)quam(gg) spon(f_e)sum(f_') (,) de(d) thá(e_f)la(gh)mo(h) su(g.)o.(g.) (::)};;solemn8G
 
 [Oratio]
-{(c3) Con(h)cé(h)de,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(;) ut(h) nos(h) U(h)ni(h)gé(h)ni(h)ti(h) tu(h)i(h) no(h)va(h) per(h) car(h)nem(h) Na(h)tí(h)vi(g)tas(f) lí(h)be(h)ret;(h.) *(;) quos(h) sub(h) pec(h)cá(h)ti(h) ju(h)go(h) ve(h)tús(h)ta(h) sér(h)vi(h)tus(h) te(h)net.(d.) (::)}
+{(c3) Con(h)cé(h)de,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(,) ut(h) nos(h) U(h)ni(h)gé(h)ni(h)ti(h) tu(h)i(h) no(h)va(h) per(h) car(h)nem(h) Na(h)tí(h)vi(g)tas(f) lí(h)be(h)ret;(h.) *(;) quos(h) sub(h) pec(h)cá(h)ti(h) ju(h)go(h) ve(h)tús(h)ta(h) sér(h)vi(h)tus(h) te(h)net.(d.) (::)}
 $Per eumdem
 
 [Invit]
@@ -88,16 +88,16 @@ Læténtur cæli, * et exsúltet terra ante fáciem Dómini, quóniam venit.;;95
 Notum fecit * Dóminus, allelúja, salutáre suum, allelúja.;;97
 
 [Nocturn 1 Versum]
-V. Tamquam sponsus.
-R. Dóminus procédens de thálamo suo.
+{initial-style:0;%%(c3) V/. Tam(h)quam(h) spon(h)sus.(g_'/hvGF'E!fgf.) (::)
+R/. Dó(h)mi(h)nus(h) pro(h)cé(h)dens(h) de(h) thá(h)la(h)mo(h) su(h)o.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 2 Versum]
-V. Speciósus forma præ fíliis hóminum.
-R. Diffúsa est grátia in lábiis tuis.
+{initial-style: 0;%%(c3) V/. Spe(h)ci(h)ó(h)sus(h) for(h)ma(h) præ(h) fí(h)li(h)is(h) hó(h)mi(h)num.(g_'/hvGF'E!fgf.) (::)
+R/.Dif(h)fú(h)sa(h) est(h) grá(h)ti(h)a(h) in(h) lá(h)bi(h)is(h) tu(h)is.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Ipse invocábit me, allelúja.
-R. Pater meus es tu, allelúja.
+{initial-style: 0;%%(c3) V/. Ip(h)se(h) in(h)vo(h)cá(h)bit(h) me,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.Pa(h)ter(h) me(h)us(h) es(h) tu,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Lectio1]
 !Isa 9:1-6
@@ -232,7 +232,7 @@ Párvulus fílius * hódie natus est nobis: et vocábitur Deus, Fortis, allelúj
 
 [Capitulum Laudes]
 !Heb 1:1-2
-v. Multifáriam, multísque modis olim Deus loquens pátribus in prophétis: novíssime diébus istis locútus est nobis in Fílio, quem constítuit herédem universórum, per quem fecit et sǽcula.
+{(c3) Mul(h)ti(h)fá(h)ri(h)am,(h) mul(h)tís(h)que(h) mo(h)dis(h) o(h)lim(h) De(h)us(h) lo(h)quens(h) pá(h)tri(h)bus(h) in(h) pro(h)phé(h)tis:(f.) †(;) no(h)vís(h)si(h)me(h) di(h)é(h)bus(h) is(h)tis(h) lo(h)cú(h)tus(h) est(h) no(h)bis(h) in(h) Fí(h)li(h)o,(h) quem(h) con(h)stí(h)tu(h)it(h) he(h)ré(h)dem(h) u(h)ni(g)ver(f)só(h hr)rum,(h.) *(;) per(h) quem(h) fe(h)cit(h) et(h) sǽ(h)cu(f)la.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -297,24 +297,15 @@ _
 {initial-style:0;%%(c3) V/. No(h)tum(h) fe(h)cit(h) Dó(h)mi(h)nus,(h) al(h)le(h)lú(h)ja.(f.) (::)
 R/. Sa(h)lu(h)tá(h)re(h) su(h)um,(h) al(h)le(h)lú(h)ja.(f.) (::)}
 _
-$Oremus
-v. Concéde, quǽsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet.
-$Per eumdem
-
-[Octava 2] (rubrica cisterciensis)
-!Commemoratio Octavæ Nativitatis
-Ant. Verbum caro factum est, et habitávit in nobis: et vídimus glóriam ejus, glóriam quasi Unigéniti a Patre plenum grátiæ, et veritátis, allelúia, allelúia, allelúia.
-_
-V. Puer natus est nobis.
-R. Fílius datus est nobis.
-_
-$Oremus
-v. Concéde, quǽsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet.
-$Per eumdem
+$Oremus solemnis
+{(c4)Con(g)cé(h)de,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(g.) *(;) ut(g) nos(h) U(h)ni(h)gé(h)ni(h)ti(h) tu(h)i(h) no(h)va(h) per(h) car(h)nem(h) Na(h)tí(h)vi(h)tas(h) lí(h)be(h)ret;(h.) (;) quos(h) sub(h) pec(h)cá(h)ti(h) ju(h)go(h) ve(h)tús(h)ta(h) sér(h)vi(g)tus(g) te(h hr)net.(h.) (::)}
+(sed rubrica monastica)
+{(c3)Con(h)cé(i)de,(i) quǽ(i)su(i)mus,(i) om(i)ní(i)pot(i)ens(i) De(i)us:(h.) *(;) ut(h) nos(i) U(i)ni(i)gé(i)ni(i)ti(i) tu(i)i(i) no(i)va(i) per(i) car(i)nem(i) Na(i)tí(i)vi(i)tas(i) lí(i)be(i)ret;(i_') (,) quos(i) sub(i) pec(i)cá(i)ti(i) ju(i)go(i) ve(i)tús(i)ta(i) sér(i)vi(h)tus(h) te(i ir)net.(i.) (::)}
+$Per eumdem solemnis
 
 [Lectio Prima]
 !Heb 1:11-12
-v. Ipsi períbunt, tu autem permanébis; et omnes sicut vestiméntum veteráscent: et velut amíctum mutábis eos, et mutabúntur: tu autem idem ipse es, et anni tui non defícient.
+{(c3) Ip(h)si(h) per(h)í(h)bunt,(h) tu(h) au(h)tem(h) per(h)ma(h)né(h)bis;(f.) †(;) et(h) om(h)nes(h) sic(h)ut(h) ves(h)ti(h)mén(h)tum(h) ve(h)te(h)rá(h)scent:(h_') (,) et(h) vel(h)ut(h) a(h)míc(h)tum(h) mu(h)tá(h)bis(h) e(h)os,(h) et(h) mu(g)ta(f)bún(h hr)tur:(h.) *(;) tu(h) au(h)tem(h) i(h)dem(h) ip(h)se(h) es,(h) et(h) an(h)ni(h) tu(h)i(h) non(h) de(h)fí(h)ci(f)ent.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Verbum caro factum est, * Allelúja, allelúja.
@@ -326,7 +317,7 @@ R. Verbum caro factum est, * Allelúja, allelúja.
 
 [Capitulum Sexta]
 !Heb 1:10
-v. Et: Tu in princípio, Dómine, terram fundásti: et ópera mánuum tuárum sunt cæli.
+{(c3) Et:(h.) (,) Tu(h) in(h) prin(h)cí(h)pi(h)o,(h) Dó(h)mi(h)ne,(h) ter(h)ram(g) fun(f)dás(h hr)ti:(h.) *(;) et(h) ó(h)pe(h)ra(h) má(h)nu(h)um(h) tu(h)á(h)rum(h) sunt(h) cæ(f)li.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]
@@ -338,8 +329,8 @@ R. Allelúja, allelúja.
 R. Notum fecit Dóminus, * Allelúja, allelúja.
 
 [Versum Sexta]
-V. Vidérunt omnes fines terræ, allelúja.
-R. Salutáre Dei nostri, allelúja.
+{initial-style: 0;%%(c3) V/. Vi(h)dé(h)runt(h) om(h)nes(h) fi(h)nes(h) ter(h)ræ,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.Sa(h)lu(h)tá(h)re(h) De(h)i(h) nos(h)tri,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory Breve Nona]
 R.br. Vidérunt omnes fines terræ, * Allelúja, allelúja.
@@ -350,8 +341,8 @@ R. Allelúja, allelúja.
 R. Vidérunt omnes fines terræ, * Allelúja, allelúja.
 
 [Versum Nona]
-V. Verbum caro factum est, allelúja.
-R. Et habitávit in nobis, allelúja.
+{initial-style: 0;%%(c3) V/. Ver(h)bum(h) ca(h)ro(h) fac(h)tum(h) est,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) ha(h)bi(h)tá(h)vit(h) in(h) no(h)bis,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant Vespera 3]
 Tecum princípium * in die virtútis tuæ, in splendóribus sanctórum, ex útero ante lucíferum génui te.;;109
@@ -370,6 +361,8 @@ _
 {initial-style:0;%%(c3) V/. No(h)tum(h) fe(h)cit(h) Dó(h)mi(h)nus,(h) al(h)le(h)lú(h)ja.(f.) (::)
 R/. Sa(h)lu(h)tá(h)re(h) su(h)um,(h) al(h)le(h)lú(h)ja.(f.) (::)}
 _
-$Oremus
-v. Concéde, quǽsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet.
-$Per eumdem
+$Oremus solemnis
+{(c4)Con(g)cé(h)de,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(g.) *(;) ut(g) nos(h) U(h)ni(h)gé(h)ni(h)ti(h) tu(h)i(h) no(h)va(h) per(h) car(h)nem(h) Na(h)tí(h)vi(h)tas(h) lí(h)be(h)ret;(h.) (;) quos(h) sub(h) pec(h)cá(h)ti(h) ju(h)go(h) ve(h)tús(h)ta(h) sér(h)vi(g)tus(g) te(h hr)net.(h.) (::)}
+(sed rubrica monastica)
+{(c3)Con(h)cé(i)de,(i) quǽ(i)su(i)mus,(i) om(i)ní(i)pot(i)ens(i) De(i)us:(h.) *(;) ut(h) nos(i) U(i)ni(i)gé(i)ni(i)ti(i) tu(i)i(i) no(i)va(i) per(i) car(i)nem(i) Na(i)tí(i)vi(i)tas(i) lí(i)be(i)ret;(i_') (,) quos(i) sub(i) pec(i)cá(i)ti(i) ju(i)go(i) ve(i)tús(i)ta(i) sér(i)vi(h)tus(h) te(i ir)net.(i.) (::)}
+$Per eumdem solemnis

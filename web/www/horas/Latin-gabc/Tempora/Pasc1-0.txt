@@ -1,11 +1,8 @@
-[Officium]
-Dominica in Albis in Octava Paschæ
-
 [Ant 1]
 {name:Cum esset sero;annotation:1.D;mode:1;book:The Liber Usualis, 1961, p. 807 & Liber antiphonarius, 1960, p. 456;transcriber:Andrew Hinkley;%%(c4) CUM(c) es(cd)set(d') se(d)ro(d') *() di(d)e(d') il(f)la(dcd) (,) u(c)na(d) sab(fd/fg'h)ba(fe)tó(d)rum,(d.) (;) et(dc~) fo(f')res(g) es(h)sent(gf~) clau(g_[uh:l]h)sae,(fv_ED.) (,) u(d)bi(d) e(dc)rant(f) di(g')scí(f)pu(gh)li(hg) con(fg)gre(hg)gá(gfg)ti,(d.) (;) ste(g)tit(g') Je(g)sus(h') in(g) mé(fg)di(f)o,(f.) (;) et(f) di(g)xit(f) e(e'_[oh:h])is :(f_) (,) Pax(gf) vo(fe)bis,(dc) al(d)le(fe)lú(d.){ia}.(d.) (::)};;1d
 
 [Oratio]
-Præsta, quǽsumus, omnípotens Deus: ut qui paschália festa perégimus, hæc, te largiénte, móribus et vita teneámus.
+{(c3) Præ(h)sta,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(,) ut(h) qui(h) pas(h)chá(h)li(h)a(h) fes(h)ta(g) per(f)é(h)gi(hr)mus,(h.) *(;) hæc,(h) te(h) lar(h)gi(h)én(h)te,(h) mó(h)ri(h)bus(h) et(h) vi(h)ta(h) te(h)ne(h)á(h dr)mus.(d.) (::)}
 $Per Dominum
 
 [Lectio1]
@@ -73,17 +70,17 @@ Dixit eis: Pax vobis. Sicut misit me Pater, et ego mitto vos: id est, sicut misi
 
 [Capitulum Laudes]
 !1 Joann. 5:4
-v. Caríssimi: Omne, quod natum est ex Deo, vincit mundum: et hæc est victória, quæ vincit mundum, fides nostra.
+{(c3) Ca(h)rís(h)si(h)mi:(h.) (,) Om(h)ne,(h) quod(h) na(h)tum(h) est(h) ex(h) De(h)o,(h) vin(h)cit(h) mun(h)dum:(f.) †(;) et(h) hæc(h) est(h) vic(h)tó(h)ri(h)a,(h) quæ(h) vin(g)cit(f) mun(h hr)dum,(h.) *(;) fi(h)des(h) nos(f)tra.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Sexta]
 !1 Joann. 5:5-6
-v. Quis est autem qui vincit mundum, nisi qui credit quóniam Jesus est Fílius Dei? hic est, qui venit per aquam et sánguinem, Jesus Christus: non in aqua solum, sed in aqua et sánguine.
+{(c3)  Quis(h) est(h) au(h)tem(h) qui(h) vin(h)cit(h) mun(h)dum,(h.) (,) ni(g)si(g) qui(g) cre(g)dit(g) quón(g)i(g)am(g) Je(g)sus(g) est(g) Fí(g)li(g)us(f) De(g)i?(gh..) (:) hic(h) est,(h) qui(h) ve(h)nit(h) per(h) a(h)quam(h) et(h) sán(h)gui(h)nem,(h) Je(g)sus(f) Chris(h)tus:(h.) *(;) non(h) in(h) a(h)qua(h) so(h)lum,(h) sed(h) in(h) a(h)qua(h) et(h) sán(f)gui(e)ne.(ef..) (::)}
 $Deo gratias
 
 [Capitulum Nona]
 !1 Joann. 5:9-10
-v. Si testimónium hóminum accípimus, testimónium Dei majus est: quóniam hoc est testimónium Dei, quod majus est, quóniam testificátus est de Fílio suo. Qui credit in Fílium Dei, habet testimónium Dei in se.
+{(c3) Si(h) tes(h)ti(h)mó(h)ni(h)um(h) hó(h)mi(h)num(h) ac(h)cí(h)pi(h)mus,(h) tes(h)ti(h)mó(h)ni(h)um(h) De(h)i(h) ma(h)jus(f) est:(f.) †(;) quón(h)i(h)am(h) hoc(h) est(h) tes(h)ti(h)mó(h)ni(h)um(h) De(h)i,(h) quod(h) ma(h)jus(h) est,(h) quón(h)i(h)am(h) tes(h)ti(h)fi(h)cá(h)tus(h) est(h) de(h) Fí(h)li(g)o(f) su(h hr)o.(h.) *(;) Qui(h) cre(h)dit(h) in(h) Fí(h)li(h)um(h) De(h)i,(h) ha(h)bet(h) tes(h)ti(h)mó(h)ni(h)um(h) De(h)i(h) in(f) se.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

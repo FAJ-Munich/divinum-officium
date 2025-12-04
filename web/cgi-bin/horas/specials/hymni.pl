@@ -55,7 +55,8 @@ sub gethymn {
   $hymn =~ s/\*\s*//g;                          # remove star
   $hymn =~ s/_\n(?!!)/_\nr. /g;                 # start stropha with red letter
 
-  # Change layout of neuma ad Versiculum if Ant. Monast.
+  # GABC: Versicula are given in Roman Tonus cum Neuma, i.e., g_'/hvGF'E!fgf.
+  # For Ant. Monastic changed to Tonus communis, i.e., g_0h/GF'E!fgf.
   if ($lang =~ /gabc/ && $version =~ /monastic/i) { $versum =~ s/g\_\d?\'\/hv?/g\_0h\//g; }
 
   my $output = "$section\n$hymn";

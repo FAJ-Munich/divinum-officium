@@ -16,7 +16,7 @@ R/. Quæ(h) ser(h)pén(h)tis(h) ca(hi)put(h_') (,) vir(h)gí(h)ne(h)o(h) pe(h)de
 Beátam me dicent * omnes generatiónes, quia fecit mihi magna, qui potens est, allelúja.
 
 [Oratio]
-Deus, qui per immaculátam Vírginis Conceptiónem dignum Fílio tuo habitáculum præparásti: quǽsumus; ut qui ex morte ejúsdem Fílii tui prævísa, eam ab omni labe præservásti, nos quoque mundos ejus intercessióne ad te perveníre concédas.
+{(c3) De(h)us,(h) qui(h) per(h) im(h)ma(h)cu(h)lá(h)tam(h) Vír(h)gi(h)nis(h) Con(h)cep(h)ti(h)ó(h)nem(h) di(h)gnum(h) Fí(h)li(h)o(h) tu(h)o(h) ha(h)bi(h)tá(h)cu(h)lum(h) præ(h)pa(h)rás(h)ti:(f.) †(,) quǽ(h)su(h)mus;(h) ut(h) qui(h) ex(h) mor(h)te(h) e(h)jús(h)dem(h) Fí(h)li(h)i(h) tu(h)i(h) præ(h)ví(h)sa,(h) e(h)am(h) ab(h) om(h)ni(h) la(h)be(h) præ(g)ser(f)vás(h hr)ti,(h.) *(;) nos(h) quo(h)que(h) mun(h)dos(h) e(h)jus(h) in(h)ter(h)ces(h)si(h)ó(h)ne(h) ad(h) te(h) per(h)ve(h)ní(h)re(h) con(h)cé(h dr)das.(d.) (::)}
 $Per eumdem
 
 [Invit]
@@ -61,16 +61,16 @@ Lætámini, omnes, * in Dómino: et confitémini memóriæ sanctitátis ejus.;;9
 Notum fecit * Dóminus opus suum: in conspéctu géntium revelávit glóriam Genetrícis suæ.;;97
 
 [Nocturn 1 Versum]
-V. Deus omnípotens præcínxit me virtúte.
-R. Et pósuit immaculátam viam meam.
+{initial-style:0;%%(c3) V/. De(h)us(h) om(h)ní(h)pot(h)ens(h) præ(h)cín(h)xit(h) me(h) vir(h)tú(h)te.(g_'/hvGF'E!fgf.) (::)
+R/. Et(h) pó(h)su(h)it(h) im(h)ma(h)cu(h)lá(h)tam(h) vi(h)am(h) me(h)am.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 2 Versum]
-V. In hoc cognóvi quóniam voluísti me.
-R. Quóniam non gaudébit inimícus meus super me.
+{initial-style: 0;%%(c3) V/. In(h) hoc(h) co(h)gnó(h)vi(h) quón(h)i(h)am(h) vo(h)lu(h)ís(h)ti(h) me.(g_'/hvGF'E!fgf.) (::)
+R/.Quón(h)i(h)am(h) non(h) gau(h)dé(h)bit(h) in(h)i(h)mí(h)cus(h) me(h)us(h) su(h)per(h) me.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Exaltábo te, Dómine, quóniam suscepísti me.
-R. Nec delectásti inimícos meos super me.
+{initial-style: 0;%%(c3) V/. Ex(h)al(h)tá(h)bo(h) te,(h) Dó(h)mi(h)ne,(h) quón(h)i(h)am(h) su(h)sce(h)pís(h)ti(h) me.(g_'/hvGF'E!fgf.) (::)
+R/.Nec(h) de(h)lec(h)tás(h)ti(h) in(h)i(h)mí(h)cos(h) me(h)os(h) su(h)per(h) me.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Per unum hóminem peccátum in hunc mundum intrávit, in quo omnes peccavérunt. 
@@ -131,7 +131,7 @@ R. Quia fecit mihi magna qui potens est, et sanctum nomen ejus.
 
 [Capitulum Laudes]
 !Prov 8:22-24
-v. Dóminus possédit me in inítio viárum suárum, ántequam quidquam fáceret a princípio. Ab ætérno ordináta sum, et ex antíquis ántequam terra fíeret. Nondum erant abýssi, et ego jam concépta eram.
+{(c3) Dó(h)mi(h)nus(h) pos(h)sé(h)dit(h) me(h) in(h) in(h)í(h)ti(h)o(h) vi(h)á(h)rum(h) su(h)á(h)rum,(h) án(h)te(h)quam(h) quid(h)quam(h) fá(h)ce(h)ret(h) a(h) prin(h)cí(h)pi(f)o.(f.) †(;) Ab(h) æ(h)tér(h)no(h) or(h)di(h)ná(h)ta(h) sum,(h) et(h) ex(h) an(h)tí(h)quis(h) án(h)te(h)quam(h) ter(g)ra(f) fí(h)e(hr)ret.(h.) *(;) Non(h)dum(h) e(h)rant(h) a(h)býs(h)si,(h) et(h) e(h)go(h) jam(h) con(h)cép(h)ta(h) e(f)ram.(ef..) (::)}
 $Deo gratias
 
 [Ant 2]
@@ -139,7 +139,7 @@ Ait Dóminus Deus * ad serpéntem: Inimicítias ponam inter te et mulíerem, et 
 
 [Lectio Prima]
 !Apo 12:1
-v. Signum magnum appáruit in cælo: Múlier amícta sole, et luna sub pédibus ejus, et in cápite ejus coróna stellárum duódecim.
+{(c3) Si(h)gnum(h) ma(h)gnum(h) ap(h)pá(h)ru(h)it(h) in(h) cæ(h)lo:(f.) †(;) Mú(h)li(h)er(h) a(h)míc(h)ta(h) so(h)le,(h) et(h) lu(h)na(h) sub(h) pé(h)di(g)bus(f) e(h hr)jus,(h.) *(;) et(h) in(h) cá(h)pi(h)te(h) e(h)jus(h) co(h)ró(h)na(h) stel(h)lá(h)rum(h) du(h)ó(h)de(f)cim.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Deus omnípotens * Præcínxit me virtúte.
@@ -151,7 +151,7 @@ R. Deus omnípotens * Præcínxit me virtúte.
 
 [Capitulum Sexta]
 !Ezec 44:2-3
-v. Porta hæc clausa erit, non aperiétur, et vir non intrábit per eam, quóniam Dóminus Deus Israël ingréssus est per eam: erítque clausa príncipi. Princeps ipse sedébit in ea.
+{(c3) Por(h)ta(h) hæc(h) clau(h)sa(h) e(h)rit,(h) non(h) a(h)pe(h)ri(h)é(h)tur,(h) et(h) vir(h) non(h) in(h)trá(h)bit(h) per(h) e(h)am,(f.) †(;) quón(h)i(h)am(h) Dó(h)mi(h)nus(h) De(h)us(h) Is(h)ra(h)ël(h) in(h)grés(h)sus(h) est(h) per(h) e(h)am:(h_') (,) e(h)rít(h)que(h) clau(g)sa(f) prín(h)ci(hr)pi.(h.) *(;) Prin(h)ceps(h) ip(h)se(h) se(h)dé(h)bit(h) in(h) e(f)a.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]
@@ -171,8 +171,8 @@ R. Quóniam suscepísti me.
 R. Exaltábo te, Dómine, * Quóniam suscepísti me.
 
 [Versum Nona]
-V. Immaculáta Concéptio tua, Dei Génetrix Virgo.
-R. Gáudium annuntiávit univérso mundo.
+{initial-style: 0;%%(c3) V/. Im(h)ma(h)cu(h)lá(h)ta(h) Con(h)cép(h)ti(h)o(h) tu(h)a,(h) De(h)i(h) Gé(h)ne(h)trix(h) Vir(h)go.(g_'/hvGF'E!fgf.) (::)
+R/.Gáu(h)di(h)um(h) an(h)nun(h)ti(h)á(h)vit(h) u(h)ni(h)vér(h)so(h) mun(h)do.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 3]
 Hódie egréssa est * virga de radíce Jesse: hódie sine ulla peccáti labe concépta est María: hódie contrítum est ab ea caput serpéntis antíqui, allelúja.

@@ -34,12 +34,16 @@ sub lectio_brevis_prima {
 
   if ($brevis =~ /\(ef\.\.\)/) {
 
-    # Transform Tonus Capitulum (Nona) into Tonus Lectio brevis
+    # GABC: All Lectio Prima are either input in Tonus Capitulum or links to Capitulum Nona
+    # Therefore: Transform Tonus Capitulum (Nona) into Tonus Lectio brevis here
     map {
       s/(.*)\(f/$1(h./g;
       s/er\)/dr\)/g;
       s/\(ef\.\.\)/(d.)/g;
     } $brevis;
+
+    # Shorter pause at Flexa in Ant. Monasticum compared to Ant. Romanum
+    $brevis =~ s/†\(\;\)/†(,)/g if $version =~ /monastic/i;
   }
 
   $brevis = "\$benedictio Prima\n$brevis" unless $version =~ /^Monastic/;
@@ -69,6 +73,9 @@ sub capitulum_prima {
   my $capit = $brevis{$key} . "\n\$Deo gratias\n_\n";
   setbuild1('Capitulum', "Psalterium $key");
 
+  # Shorter pause at Flexa in Ant. Monasticum compared to Ant. Romanum
+  $capit =~ s/†\(\;\)/†(,)/g if $lang eq 'Latin-gabc' && $version =~ /monastic/i;
+
   if ($version =~ /1963/) {
     $capit = "$label\n" . $capit;
   } else {
@@ -85,7 +92,7 @@ sub capitulum_prima {
 
     if ($primaresponsory) {
       if ($lang =~ /gabc/i) {
-        $resp[0] = $primaresponsory;
+        $resp[0] = $primaresponsory;    # GABC: Take whole Responsorium from [Versum Prima]
       } else {
         $resp[2] = "V. $primaresponsory";
       }

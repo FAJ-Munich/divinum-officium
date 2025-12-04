@@ -22,7 +22,7 @@ R/. Cum(h) Dó(h)mi(h)nus(h) ad(h) ju(h)di(h)cán(h)dum(h) vé(h)ne(h)rit.(g_'/h
 {name:O Crux splendidior;annotation:1. d2;mode:1;book:Antiphonale Monasticum, 1934, p. 898;transcriber:Dominique CROCHU;%%(c4) O(c_d) Crux,(ff) *() splen(dc~)dí(f)di(gh)or(h_g~) cun(fe~)ctis(d) a(d_g)stris,(cd..) (;) mun(d_e)do(d) cé(dc)le(d)bris,(f.) (,) ho(fe)mí(d)ni(fe)bus(ddc) mul(f_h)tum(gef___/ggh) a(fe)má(d)bi(fe)lis,(ddc.) (;) sán(e!gwh_g)cti(ed)or(fgf) u(ed)ni(ef)ver(d_cd)sis :(d.) (:) quæ(dh) so(h)la(gef___/ggh) fu(fe)í(d)sti(fe) di(dd)gna(c.) (,) por(cf)tá(f)re(ghg___) ta(fe)lén(dc~)tum(efe~___) mun(d.)di :(d.) (:) dul(h>)ce(gf) li(gh)gnum,(h_/iih.) (,) dul(f)ces(ed) cla(fg)vos,(g.) (,) dúl(c')ci(d)a(f) fe(fg)rens(fe~) pón(ded___)de(cd)ra :(d.) (:) sal(ixh_iH'~G~)va(g_hGF'___ED') præ(f)sén(g>)tem(ed~) ca(fe)tér(d>)vam,(c_/ddc.) (;) in(c_d) tu(fe)is(f') hó(g)di(hg)e(gg) (,) láu(c)di(d)bus(f_g) con(ed~)gre(fe)gá(d.)tam,(d.) (;) al(c_0d)le(f_0gF'E)lú(ggh)ja,(fv_ED'C__) al(d_0g)le(fe)lú(d.)ja.(d.) (::)};;1d2
 
 [Oratio]
-Deus, qui in præclára salutíferæ Crucis Inventióne, passiónis tuæ mirácula suscitásti: concéde; ut vitális ligni prétio, ætérnæ vitæ suffrágia consequámur:
+{(c3) De(h)us,(h) qui(h) in(h) præ(h)clá(h)ra(h) sa(h)lu(h)tí(h)fe(h)ræ(h) Cru(h)cis(h) In(h)ven(h)ti(h)ó(h)ne,(h) pas(h)si(h)ó(h)nis(h) tu(h)æ(h) mi(h)rá(h)cu(h)la(h) su(h)sci(h)tás(h)ti:(f.) †(,) con(h)cé(h)de;(h) ut(h) vi(h)tá(h)lis(h) li(g)gni(f) pré(h)ti(hr)o,(h.) *(;) æ(h)tér(h)næ(h) vi(h)tæ(h) suf(h)frá(h)gi(h)a(h) con(h)se(h)quá(h dr)mur:(d.) (::)}
 $Qui vivis
 
 [Invit]
@@ -151,7 +151,7 @@ R. Ut omnis qui credit in ipsum, non péreat, sed hábeat vitam ætérnam. (Alle
 
 [Capitulum Laudes]
 !Phil 2:5-7
-v. Fratres: Hoc enim sentíte in vobis, quod et in Christo Jesu: qui, cum in forma Dei esset, non rapínam arbitrátus est esse se æquálem Deo: sed semetípsum exinanívit, formam servi accípiens, in similitúdinem hóminum factus, et hábitu invéntus ut homo.
+{(c3) Fra(h)tres:(h.) (,) Hoc(h) e(h)nim(h) sen(h)tí(h)te(h) in(h) vo(h)bis,(h) quod(h) et(h) in(h) Chris(h)to(h) Je(h)su:(h) qui,(h) cum(h) in(h) for(h)ma(h) De(h)i(h) es(h)set,(h) non(h) ra(h)pí(h)nam(h) ar(h)bi(h)trá(h)tus(h) est(h) es(h)se(h) se(h) æ(h)quá(h)lem(h) De(h)o:(f.) †(;) sed(h) se(h)met(h)íp(h)sum(h) ex(h)i(h)na(h)ní(h)vit,(h) for(h)mam(h) ser(h)vi(h) ac(h)cí(h)pi(h)ens,(h) in(h) si(h)mi(h)li(h)tú(h)di(h)nem(h) hó(h)mi(g)num(f) fac(h hr)tus,(h.) *(;) et(h) há(h)bi(h)tu(h) in(h)vén(h)tus(h) ut(h) ho(f)mo.(ef..) (::)}
 $Deo gratias.
 
 [Versum 2]
@@ -165,7 +165,7 @@ Super ómnia * ligna cedrórum tu sola excélsior, in qua Vita mundi pepéndit, 
 
 [Lectio Prima]
 !Phil 2:8-9
-v. Humiliávit semetípsum factus obédiens usque ad mortem, mortem autem Crucis. Propter quod et Deus exaltávit illum, et donávit illi nomen, quod est super omne nomen.
+{(c3) Hu(h)mi(h)li(h)á(h)vit(h) se(h)met(h)íp(h)sum(h) fac(h)tus(h) ob(h)é(h)di(h)ens(h) us(h)que(h) ad(h) mor(h)tem,(h) mor(h)tem(h) au(h)tem(h) Cru(h)cis.(f.) †(;) Prop(h)ter(h) quod(h) et(h) De(h)us(h) ex(h)al(h)tá(g)vit(f) il(h hr)lum,(h.) *(;) et(h) do(h)ná(h)vit(h) il(h)li(h) no(h)men,(h) quod(h) est(h) su(h)per(h) om(h)ne(h) no(f)men.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Hoc signum Crucis erit in cælo: * Allelúja, allelúja.
@@ -177,7 +177,7 @@ R. Hoc signum Crucis erit in cælo: * Allelúja, allelúja.
 
 [Capitulum Sexta]
 !Gal 6:14
-v. Mihi autem absit gloriári, nisi in Cruce Dómini nostri Jesu Christi: per quem mihi mundus crucifíxus est, et ego mundo.
+{(c3) Mi(h)hi(h) au(h)tem(h) ab(h)sit(h) glo(h)ri(h)á(h)ri,(f.) †(;) ni(h)si(h) in(h) Cru(h)ce(h) Dó(h)mi(h)ni(h) nos(h)tri(h) Je(g)su(f) Chris(h hr)ti:(h.) *(;) per(h) quem(h) mi(h)hi(h) mun(h)dus(h) cru(h)ci(h)fí(h)xus(h) est,(h) et(h) e(h)go(h) mun(f)do.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]

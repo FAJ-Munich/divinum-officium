@@ -8,7 +8,7 @@
 {name:Cum esset desponsata ... allel.;annotation:3.a2;mode:3;book:Liber antiphonarius, 1960, p. 687;transcriber:Andrew Hinkley;%%(c4) CUM(e_d) es(g!hj)set(h) de(g)spon(h')sá(j)ta(j_i) *(,) Ma(i')ter(j) Je(k)su(l') Ma(k)rí(ji)a(hi) Jo(h)seph,(g.) (;) án(g')te(g)quam(i') con(g)ve(h)ní(fe)rent,(d.) (;) in(gh~)vén(g)ta(h) est(j') in(h) ú(j)te(j)ro(i) ha(g!hwi_g)bens(h_g) (,) de(e_f) Spí(g)ri(g)tu(g) San(fe)cto,(d.) (,) al(g!hj)le(gf)lú(e.)ja.(e.) (::)};;solemn3a2
 
 [Oratio]
-Deus, qui ineffábili providéntia beátum Joseph sanctíssimæ Genitrícis tuæ sponsum elígere dignátus es: præsta, quǽsumus; ut quem protectórem venerámur in terris, intercessórem habére mereámur in cælis:
+{(c3) De(h)us,(h) qui(h) in(h)ef(h)fá(h)bi(h)li(h) pro(h)vi(h)dén(h)ti(h)a(h) be(h)á(h)tum(h) Jo(h)seph(h) sanc(h)tís(h)si(h)mæ(h) Ge(h)ni(h)trí(h)cis(h) tu(h)æ(h) spon(h)sum(h) e(h)lí(h)ge(h)re(h) di(h)gná(h)tus(f) es:(f.) †(,) præ(h)sta,(h) quǽ(h)su(h)mus;(h) ut(h) quem(h) pro(h)tec(h)tó(h)rem(h) ve(h)ne(h)rá(h)mur(g) in(f) ter(h hr)ris,(h.) *(;) in(h)ter(h)ces(h)só(h)rem(h) ha(h)bé(h)re(h) me(h)re(h)á(h)mur(h) in(h) cæ(h dr)lis:(d.) (::)}
 $Qui vivis
 
 [Invit]
@@ -26,16 +26,16 @@ Consúrgens Joseph, * accépit Púerum et Matrem ejus, et venit in terram Israë
 ;;23
 
 [Nocturn 1 Versum]
-V. Confitébor nómini tuo, allelúja.
-R. Quóniam adjútor et protéctor factus es mihi, allelúja.
+{initial-style:0;%%(c3) V/. Con(h)fi(h)té(h)bor(h) nó(h)mi(h)ni(h) tu(h)o,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/. Quón(h)i(h)am(h) ad(h)jú(h)tor(h) et(h) pro(h)téc(h)tor(h) fac(h)tus(h) es(h) mi(h)hi,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 2 Versum]
-V. Réspice de cælo, et vide, et vísita víneam istam, allelúja.
-R. Et pérfice eam, allelúja.
+{initial-style: 0;%%(c3) V/. Ré(h)spi(h)ce(h) de(h) cæ(h)lo,(h) et(h) vi(h)de,(h) et(h) ví(h)si(h)ta(h) ví(h)ne(h)am(h) is(h)tam,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) pér(h)fi(h)ce(h) e(h)am,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
-V. Invocávi Dóminum, Patrem Dómini mei, allelúja.
-R. Ut non derelínquat me in die tribulatiónis, allelúja.
+{initial-style: 0;%%(c3) V/. In(h)vo(h)cá(h)vi(h) Dó(h)mi(h)num,(h) Pa(h)trem(h) Dó(h)mi(h)ni(h) me(h)i,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.Ut(h) non(h) de(h)re(h)lín(h)quat(h) me(h) in(h) di(h)e(h) tri(h)bu(h)la(h)ti(h)ó(h)nis,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Lectio1]
 De libro Génesis
@@ -149,23 +149,19 @@ Quamquam si étiam Lucas génitum díceret Joseph ab Heli, nec sic nos hoc verbu
 
 [Capitulum Laudes]
 !Gen 49:26
-v. Benedictiónes patris tui confortátæ sunt benedictiónibus patrum ejus, donec veníret Desidérium cóllium æternórum: fiant in cápite Joseph, et in vértice Nazarǽi inter fratres suos.
-$Deo gratias
-
-[Capitulum Laudes]
-!Gen 49:26
-v. Benedictiónes patris tui confortátæ sunt benedictiónibus patrum ejus, donec veníret Desidérium cóllium æternórum: fiant in cápite Joseph, et in vértice Nazarǽi inter fratres suos.
+{(c3) Be(h)ne(h)dic(h)ti(h)ó(h)nes(h) pa(h)tris(h) tu(h)i(h) con(h)for(h)tá(h)tæ(h) sunt(h) be(h)ne(h)dic(h)ti(h)ó(h)ni(h)bus(h) pa(h)trum(h) e(h)jus,(f.) †(;) do(h)nec(h) ve(h)ní(h)ret(h) De(h)si(h)dé(h)ri(h)um(h) cól(h)li(h)um(h) æ(g)ter(f)nó(h hr)rum:(h.) *(;) fi(h)ant(h) in(h) cá(h)pi(h)te(h) Jo(h)seph,(h) et(h) in(h) vér(h)ti(h)ce(h) Na(h)za(h)rǽ(h)i(h) in(h)ter(h) fra(h)tres(h) su(f)os.(ef..) (::)}
 $Deo gratias
 
 [Versum 2]
-{initial-style:0;%%(c3) V/. De(h)dís(h)ti(h) mi(h)hi(h) pro(h)tec(h)ti(h)ó(h)nem(h) sa(h)lú(h)tis(h) tu(hi)æ,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::) R/. Et(h) déx(h)te(h)ra(h) tu(h)a(h) sus(h)cé(hi)pit(hr) me,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
+{initial-style:0;%%(c3) V/. De(h)dís(h)ti(h) mi(h)hi(h) pro(h)tec(h)ti(h)ó(h)nem(h) sa(h)lú(h)tis(h) tu(hi)æ,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)
+R/. Et(h) déx(h)te(h)ra(h) tu(h)a(h) sus(h)cé(hi)pit(hr) me,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 2]
 {name:Joseph fili David;annotation:7. a;mode:7;book:Liber antiphonarius, 1960, p. 691;transcriber:Andrew Hinkley;%%(c3) JO(e)seph(e') fi(e)li(g') Da(h)vid,(i.) (,) * no(h')li(j) ti(i)mé(k)re(j') ac(i)cí(g')pe(h)re(ij) Ma(i)rí(hi)am(i.) (,) cón(hg)ju(fe)gem(de) tu(e)am:(e.) (:) quod(e') e(e)nim(g') in(h) e(i'_)a(i_) na(j_k)tum(j) est,(h'_) (,) de(j_) Spí(i')ri(i)tu(g_h) San(i)cto(gh) est,(fv_ED) al(ef~)le(f)lú(e.)ja.(e.) (::)};;7a
 
 [Lectio Prima]
 !Gen 49:22
-v. Fílius accréscens Joseph, fílius accréscens, et decórus aspéctu: fíliæ discurrérunt super murum.
+{(c3) Fí(h)li(h)us(h) ac(h)cré(h)scens(h) Jo(h)seph,(f.) †(;) fí(h)li(h)us(h) ac(h)cré(h)scens,(h) et(h) de(h)có(h)rus(g) a(f)spéc(h hr)tu:(h.) *(;) fí(h)li(h)æ(h) dis(h)cur(h)ré(h)runt(h) su(h)per(h) mu(f)rum.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Constítuit eum dóminum domus suæ, * Allelúja, allelúja.
@@ -177,7 +173,7 @@ R. Constítuit eum dóminum domus suæ, * Allelúja, allelúja.
 
 [Capitulum Sexta]
 !Gen 49:25
-v. Deus patris tui erit adjútor tuus, et Omnípotens benedícet tibi benedictiónibus cæli désuper.
+{(c3) De(h)us(h) pa(h)tris(h) tu(h)i(h) e(h)rit(h) ad(h)jú(h)tor(h) tu(h)us,(f.) †(;) et(h) Om(h)ní(h)pot(h)ens(h) be(h)ne(h)dí(g)cet(f) ti(h hr)bi(h.) *(;) be(h)ne(h)dic(h)ti(h)ó(h)ni(h)bus(h) cæ(h)li(h) dé(h)su(f)per.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]
@@ -189,8 +185,8 @@ R. Allelúja, allelúja.
 R. Confitébor nómini tuo, * Allelúja, allelúja.
 
 [Versum Sexta]
-V. Justus germinábit sicut lílium, allelúja.
-R. Et florébit in ætérnum ante Dóminum, allelúja.
+{initial-style: 0;%%(c3) V/. Jus(h)tus(h) ger(h)mi(h)ná(h)bit(h) sic(h)ut(h) lí(h)li(h)um,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) flo(h)ré(h)bit(h) in(h) æ(h)tér(h)num(h) an(h)te(h) Dó(h)mi(h)num,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory Breve Nona]
 R.br. Justus germinábit sicut lílium, * Allelúja, allelúja.
@@ -201,11 +197,12 @@ R. Allelúja, allelúja.
 R. Justus germinábit sicut lílium, * Allelúja, allelúja.
 
 [Versum Nona]
-V. Plantátus in domo Dómini, allelúja.
-R. In átriis domus Dei nostri, allelúja.
+{initial-style: 0;%%(c3) V/. Plan(h)tá(h)tus(h) in(h) do(h)mo(h) Dó(h)mi(h)ni,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.In(h) á(h)tri(h)is(h) do(h)mus(h) De(h)i(h) nos(h)tri,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Versum 3]
-{initial-style:0;%%(c3) V/. Sub(h) um(h)bra(h) il(h)lí(h)us,(h) quem(h) de(h)si(h)de(h)rá(h)ve(h)ram,(h) se(hi)di,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::) R/. Et(h) fru(h)ctus(h) e(h)jus(h) dul(h)cis(h) gut(h)tú(h)ri(h) me(hi)o,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
+{initial-style:0;%%(c3) V/. Sub(h) um(h)bra(h) il(h)lí(h)us,(h) quem(h) de(h)si(h)de(h)rá(h)ve(h)ram,(h) se(hi)di,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)
+R/. Et(h) fru(h)ctus(h) e(h)jus(h) dul(h)cis(h) gut(h)tú(h)ri(h) me(hi)o,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
 [Ant 3]
 {name:Fili quid fecisti S. Joseph;annotation:3. b;mode:3;book:Liber antiphonarius, 1960, p. 693;transcriber:Andrew Hinkley;%%(c4) FI(g_j)li,(i.) (,) * quid(gh) fe(e)cí(gh)sti(g') no(f)bis(de) sic?(e.) (;) Ec(g)ce(gh) pa(f)ter(h') tu(j)us(ji) et(h) e(i_j)go(i'_) (,) do(k)lén(jv_IG)tes(h_g) quæ(e)re(f)bá(gh)mus(gf) te,(g) (,) al(gv_FD)le(e_f)lú(gg)ja.(e.) (::)};;solemn3b

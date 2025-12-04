@@ -56,7 +56,7 @@ R/.(::) In(h)tén(h)de,(h) prós(h)pe(h)re(h) pro(h)cé(h)de,(h) et(h) reg(h)na.
 {name:Veni sponsa Christi (I Vesperis);annotation:8.G;mode:8;book:Antiphonale Monasticum, 1934, p. 678;transcriber:Andrew Hinkley;%%(c3) VE(e@fwh)ni(f) spon(fe~)sa(d) Chri(e_f)sti,(e.) *(,) ác(g')ci(h)pe(i) co(hf)ró(hh)nam,(g.) (;) quam(ii) ti(h')bi(h) Dó(ij)mi(i)nus(hg/hih'_1) (,) præ(f)pa(e')rá(f)vit(f'_) † in(h) æ(g)tér(e.)num.(e.) (::) ^_T. P._^ † in(h) æ(g')tér(e)num,(e_f) al(g>)le(fg)lú(e.)ia.(e.) (::)};;8G
 
 [Oratio]
-{(c3)De(h)us,(h) qui(h) in(h)ter(h) cé(h)te(h)ra(h) pot(h)én(h)ti(h)æ(h) tu(h)æ(h) mi(h)rá(h)cu(h)la(h) ét(h)i(h)am(h) in(h) se(h)xu(h) frá(h)gi(h)li(h) vic(h)tó(h)ri(h)am(h) mar(h)tý(h)ri(h)i(h) con(h)tu(h)lís(h)ti:(f.) †(;) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut,(h) qui(h) be(h)á(h)tæ(h) N. Vír(h)gi(h)nis(h) et(h) Már(h)ty(h)ris(h) tu(h)æ(h) na(h)ta(h)lí(h)ci(g)a(f) có(h)li(hr)mus,(h.) *(;) per(h) e(h)jus(h) ad(h) te(h) ex(h)ém(h)pla(h) gra(h)di(h)á(h dr)mur.(d.) (::)}
+{(c3)De(h)us,(h) qui(h) in(h)ter(h) cé(h)te(h)ra(h) pot(h)én(h)ti(h)æ(h) tu(h)æ(h) mi(h)rá(h)cu(h)la(h) ét(h)i(h)am(h) in(h) se(h)xu(h) frá(h)gi(h)li(h) vic(h)tó(h)ri(h)am(h) mar(h)tý(h)ri(h)i(h) con(h)tu(h)lís(h)ti:(f.) †(,) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut,(h) qui(h) be(h)á(h)tæ(h) N. Vír(h)gi(h)nis(h) et(h) Már(h)ty(h)ris(h) tu(h)æ(h) na(h)ta(h)lí(h)ci(g)a(f) có(h)li(hr)mus,(h.) *(;) per(h) e(h)jus(h) ad(h) te(h) ex(h)ém(h)pla(h) gra(h)di(h)á(h dr)mur.(d.) (::)}
 $Per Dominum
 
 [Invit]
@@ -133,11 +133,11 @@ Veni, Sponsa Christi, * áccipe corónam, quam tibi Dóminus præparávit in æt
 
 [Nocturn 2 Versum]
 {initial-style:0;%%(c3) V/. Ad(h)ju(h)vá(h)bit(h) e(h)am(h) De(h)us(h) vul(h)tu(h) su(h hr)o.(g_'/hvGF'E!fgf.) (::)
-R/.  De(h)us(h) in(h) mé(h)di(h)o(h) e(h)jus,(h) non(h) com(h)mo(h)vé(h)bi(hr)tur.(g_'/hvGF'E!fgf.) (::)}
+R/. De(h)us(h) in(h) mé(h)di(h)o(h) e(h)jus,(h) non(h) com(h)mo(h)vé(h)bi(hr)tur.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
 {initial-style:0;%%(c3) V/. E(h)lé(h)git(h) e(h)am(h) De(h)us,(h) et(h) præ(h)e(h)lé(h)git(h) e(h hr)am.(g_'/hvGF'E!fgf.) (::)
-R/.  In(h) ta(h)ber(h)ná(h)cu(h)lo(h) su(h)o(h) ha(h)bi(h)tá(h)re(h) fa(h)cit(h) e(h hr)am.(g_'/hvGF'E!fgf.) (::)}
+R/. In(h) ta(h)ber(h)ná(h)cu(h)lo(h) su(h)o(h) ha(h)bi(h)tá(h)re(h) fa(h)cit(h) e(h hr)am.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Veni Sponsa Christi, áccipe corónam, quam tibi Dóminus præparávit in ætérnum; pro cujus amóre sánguinem tuum fudísti,
@@ -198,7 +198,7 @@ R. Ecce sponsus venit, exíte óbviam ei.
 
 [Capitulum Laudes]
 !2 Cor 10:17-18
-{(c3) Fra(h)tres:(h) Qui(h) glo(h)ri(h)á(h)tur,(h) in(h) Dó(h)mi(h)no(h) glo(h)ri(h)é(h)tur.(f.) †(,) Non(h) e(h)nim(h) qui(h) se(h)íp(h)sum(h) com(h)mén(h)dat,(h) il(h)le(g) pro(f)bá(h)tus(h) est;(h.) *(;) sed(h) quem(h) De(h)us(h) com(h)mén(f)dat.(ef..) (::)}
+{(c3) Fra(h)tres:(h.) (,) Qui(h) glo(h)ri(h)á(h)tur,(h) in(h) Dó(h)mi(h)no(h) glo(h)ri(h)é(h)tur.(f.) †(;) Non(h) e(h)nim(h) qui(h) se(h)íp(h)sum(h) com(h)mén(h)dat,(h) il(h)le(g) pro(f)bá(h)tus(h) est;(h.) *(;) sed(h) quem(h) De(h)us(h) com(h)mén(f)dat.(ef..) (::)}
 $Deo gratias
 
 [Versum 2]
@@ -212,31 +212,25 @@ R/. Prop(h)tér(h)e(h)a(h) be(h)ne(h)dí(h)xit(h) te(h) De(h)us(h) in(h) æ(h)t�
 
 [Lectio Prima]
 !Sir 51:13-14
-{(c3) Dó(h)mi(h)ne,(h) De(h)us(h) me(h)us,(h) ex(h)al(h)tás(h)ti(h) su(h)per(h) ter(h)ram(h) ha(h)bi(h)ta(h)ti(h)ó(h)nem(h) me(h)am,(h) et(h) pro(h) mor(h)te(h) de(h)flu(h)én(h)te(h) de(h)pre(h)cá(h)ta(f) sum.(f.) †(,) In(h)vo(h)cá(h)vi(h) Dó(h)mi(h)num,(h) Pa(h)trem(h) Dó(h)mi(h)ni(h) me(h)i,(h) ut(h) non(h) de(h)re(h)lín(h)quat(h) me(h) in(h) di(h)e(h) tri(h)bu(h)la(h)ti(h)ó(g)nis(f) me(h)æ,(h.) *(;) et(h) in(h) tém(h)po(h)re(h) su(h)per(h)bó(h)rum(h) si(h)ne(h) ad(h)ju(h)tó(f)ri(e)o.(ef..) (::)}
+{(c3) Dó(h)mi(h)ne,(h) De(h)us(h) me(h)us,(h) ex(h)al(h)tás(h)ti(h) su(h)per(h) ter(h)ram(h) ha(h)bi(h)ta(h)ti(h)ó(h)nem(h) me(h)am,(h) et(h) pro(h) mor(h)te(h) de(h)flu(h)én(h)te(h) de(h)pre(h)cá(h)ta(f) sum.(f.) †(;) In(h)vo(h)cá(h)vi(h) Dó(h)mi(h)num,(h) Pa(h)trem(h) Dó(h)mi(h)ni(h) me(h)i,(h) ut(h) non(h) de(h)re(h)lín(h)quat(h) me(h) in(h) di(h)e(h) tri(h)bu(h)la(h)ti(h)ó(g)nis(f) me(h)æ,(h.) *(;) et(h) in(h) tém(h)po(h)re(h) su(h)per(h)bó(h)rum(h) si(h)ne(h) ad(h)ju(h)tó(f)ri(e)o.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. {gabc:Commune/C6/rb--specie_tua--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C6/rb--specie_tua-passionis-solesmes_1961.1}
 (sed tempore paschali)
 R.br. {gabc:Commune/C6/rb--specie_tua_paschal_time--solesmes_1961.1}
 
 [Capitulum Sexta]
 !2 Cor 11:2
-{(c3) Æ(h)mu(h)lor(h) e(h)nim(h) vos(h) De(h)i(h) æ(h)mu(h)la(h)ti(h)ó(h)ne.(f.) †(,) De(h)spón(h)di(h) e(h)nim(h) vos(h) u(g)ni(f) vi(h)ro,(h.) *(;) vír(h)gi(h)nem(h) cas(h)tam(h) ex(h)hi(h)bé(h)re(h) Chris(f)to.(ef..) (::)}
+{(c3) Æ(h)mu(h)lor(h) e(h)nim(h) vos(h) De(h)i(h) æ(h)mu(h)la(h)ti(h)ó(h)ne.(f.) †(;) De(h)spón(h)di(h) e(h)nim(h) vos(h) u(g)ni(f) vi(h)ro,(h.) *(;) vír(h)gi(h)nem(h) cas(h)tam(h) ex(h)hi(h)bé(h)re(h) Chris(f)to.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]
 R.br. {gabc:Commune/C6/rb--adjuvabit_eam--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C6/rb--adjuvabit_eam-passionis-solesmes_1961.1}
 (sed tempore paschali)
 R.br. {gabc:Commune/C6/rb--adjuvabit_eam_paschal_time--solesmes_1961.1}
 
 [Responsory Breve Nona]
 R.br. {gabc:Commune/C6/rb--elegit_eam--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C6/rb--elegit_eam-passionis-solesmes_1961.1}
 (sed tempore paschali)
 R.br. {gabc:Commune/C6/rb--elegit_eam_deus_TP--1912}
 

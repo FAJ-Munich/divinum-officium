@@ -1,7 +1,5 @@
 [Responsory Vespera]
 R.br. {gabc:Commune/C4/rb--elegit_eum--solesmes_1934}
-(sed tempore passionis)
-R.br. {gabc:Commune/C4/rb--elegit_eum-passionis-solesmes_1934}
 (sed tempore paschali)
 R.br. {gabc:Commune/C4/rb--elegit_eum_paschal_time--solesmes_1934}
 
@@ -38,8 +36,6 @@ R. Ad sacrificándum ei hóstiam laudis.
 
 [Responsory Laudes]
 R.br. {gabc:Commune/C4/rb--amavit_eum_dominus--solesmes_1934}
-(sed tempore passionis)
-R.br. {gabc:Commune/C4/rb--amavit_eum_dominus-passionis-solesmes_1934}
 (sed tempore paschali)
 R.br. {gabc:Commune/C4/rb--amavit_eum_dominus_resp._br._t.p.--solesmes_1934}
 

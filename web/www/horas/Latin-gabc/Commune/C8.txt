@@ -5,7 +5,7 @@
 {name:Bene fundata est;annotation:8.c;mode:8;book:The Liber Usualis, 1961, p. 1247 & Liber antiphonarius, 1960, p. [107];transcriber:Andrew Hinkley;%%(c4) BE(j_)ne(ji) fun(hg~)dá(hi)ta(h) est(g'_[oh:h]) *(,) do(g)mus(e') Dó(f)mi(e)ni(d.) (;) su(e)pra(f) fir(gh)mam(h) pe(g.)tram.(g.) (::) ^_T. P._^ Al(hi)le(h)lú(g.){ia}.(g.) (::)};;112;;8c
 {name:Lapides pretiosi;annotation:1.g;mode:1;book:The Liber Usualis, 1961, p. 1247 & Liber antiphonarius, 1960, p. [107];transcriber:Andrew Hinkley;%%(c4) LA(dd)pi(c)des(d') pre(f)ti(e')ó(d)si(d!ewf.) *(,) o(c)mnes(d) mu(f')ri(e) tu(d!ewf)i,(fc..) (;) et(c_[ll:1]d) tur(f_g)res(f) Je(f_g)rú(h)sa(fe)lem(d!ewf.) (,) gem(cd)mis(f') ae(f)di(e)fi(gh)ca(fe)bún(d.)tur.(d.) (::) ^_T. P._^ Al(e)le(fe)lú(d.){ia}.(d.) (::)};;147;;1g
 
-[Ant Vespera]
+[Ant Vespera] (rubrica monastica)
 {name:Domum tuam Domine;annotation:7.a;mode:7;book:Antiphonale Monasticum, 1934, p. 697; transcriber:Dominique CROCHU;%%(c3) DO(e)mum(f') tu(h)am(h') Dó(h)mi(ij)ne(ii) *(,) de(g)cet(i) san(h')cti(g)tú(e_f)do,(f.) (;) in(f) lon(e')gi(f)tú(g')di(h)nem(g') † di(f)é(e.)rum(e.) (::) ^_T. P._^ † di(f)é(e)rum,(e_f) al(g')le(f)lú(e.)ja.(e.) (::)};;109;;7a
 {name:Domus mea;annotation:1.D2;mode:1;book:Antiphonale Monasticum, 1934, p. 697;transcriber:Dominique CROCHU;%%(c4) DO(c)mus(d) me(f_g)a,(ghg___go) *(,) do(f!gwhg)mus(h') o(g)ra(f')ti(f)ó(f_e)nis(g) † vo(fe)cá(d)bi(cd)tur.(d.) (::) ^_T. P._^ † vo(fe)cá(d)bi(cd)tur,(dc) al(d)le(fe)lú(d.)ja.(d.) (::)};;110;;1D2
 {name:Haec est domus Domini;annotation:1.f;mode:1;book:Antiphonale Monasticum, 1934, p. 697;transcriber:Dominique CROCHU;%%(c4) HÆC(d) est(d) do(d')mus(d) Dó(f')mi(e)ni(d_c) *(,) fír(f_h)mi(g_h)ter(g_h) æ(f_g)di(h')fi(g)cá(f_g)ta :(c.) (:) be(c_d)ne(f') fun(f)dá(fg)ta(f) est(ff) (,) su(e')pra(f) † fir(g>)mam(fe~) pe(d.)tram.(d.) (::) ^_T. P._^ † fir(g'>)mam(f) pe(fe)tram,(dc) al(d)le(fe)lú(d.)ja.(d.) (::)};;111;;1f
@@ -26,8 +26,8 @@ R/. Be(h)ne(h) fun(h)dá(h)ta(h) est(h) su(h)pra(h) fir(h)mam(h) pe(h hr)tram.(g
 R/. Be(h)ne(h) fun(h)dá(hi)ta(h) est(h_') (,) su(h)pra(h) fir(h)mam(fe) pe(f_0h)tram.(hiHGhih.ghGFE'fggf.) (::)}
 
 [Versum 1] (tempore paschali)
-{initial-style:0;%%(c3) V/. Hæc(h) est(h) do(h)mus(h) Dó(h)mi(h)ni(h) fír(h)mi(h)ter(h) æ(h)di(h)fi(h)cá(h)ta,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'Efgf.) (::)
-R/. Be(h)ne(h) fun(h)dá(h)ta(h) est(h) su(h)pra(h) fir(h)mam(h) pe(h)tram,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'Efgf.) (::)}
+{initial-style:0;%%(c3) V/. Hæc(h) est(h) do(h)mus(h) Dó(h)mi(h)ni(h) fír(h)mi(h)ter(h) æ(h)di(h)fi(h)cá(h)ta,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/. Be(h)ne(h) fun(h)dá(h)ta(h) est(h) su(h)pra(h) fir(h)mam(h) pe(h)tram,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 (sed tonus solemnis nisi ad matutinum loco hujus versus dicitur)
 {initial-style:0;%%(c3) V/. Hæc(h) est(h) do(h)mus(h) Dó(h)mi(h)ni(h) fír(h)mi(h)ter(h) æ(h)di(h)fi(h)cá(hi)ta(h_’) *(:) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)
 R/. Be(h)ne(h) fun(h)dá(h)ta(h) est(h) su(h)pra(h) fir(h)mam(h) pe(hi)tram,(h_’) *(:) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)}
@@ -45,12 +45,12 @@ $Per Dominum.
 
 [Oratio in 2 loco]
 !In ipso die Dedicationis Ecclesiæ et per Ottava, et quando varianda est Oratio 
-{(c3)De(h)us,(h) qui(h) in(h)vi(h)si(h)bí(h)li(h)ter(h) óm(h)ni(h)a(h) cón(h)ti(h)nes,(h) et(h) ta(h)men(h) pro(h) sa(h)lú(h)te(h) gé(h)ne(h)ris(h) hu(h)má(h)ni(h) si(h)gna(h) tu(h)æ(h) pot(h)én(h)ti(h)æ(h) vi(h)si(h)bí(h)li(h)ter(h) os(h)tén(h)dis:(f.) †(;) tem(h)plum(h) hoc(h) pot(h)én(h)ti(h)a(h) tu(h)æ(h) in(h)ha(h)bi(h)ta(h)ti(h)ó(h)nis(h) il(h)lús(h)tra,(h) et(h) con(h)cé(h)de;(h) ut(h) om(h)nes,(h) qui(h) huc(h) de(h)pre(h)ca(h)tú(h)ri(g) con(f)vé(h)ni(hr)unt,(h.) *(;) ex(h) qua(h)cúm(h)que(h) tri(h)bu(h)la(h)ti(h)ó(h)ne(h) ad(h) te(h) cla(h)má(h)ve(h)rint,(h) con(h)so(h)la(h)ti(h)ó(h)nis(h) tu(h)as(h) be(h)ne(h)fí(h)ci(h)a(h) con(h)se(h)quán(h dr)tur.(d.) (::)}
+{(c3)De(h)us,(h) qui(h) in(h)vi(h)si(h)bí(h)li(h)ter(h) óm(h)ni(h)a(h) cón(h)ti(h)nes,(h) et(h) ta(h)men(h) pro(h) sa(h)lú(h)te(h) gé(h)ne(h)ris(h) hu(h)má(h)ni(h) si(h)gna(h) tu(h)æ(h) pot(h)én(h)ti(h)æ(h) vi(h)si(h)bí(h)li(h)ter(h) os(h)tén(h)dis:(f.) †(,) tem(h)plum(h) hoc(h) pot(h)én(h)ti(h)a(h) tu(h)æ(h) in(h)ha(h)bi(h)ta(h)ti(h)ó(h)nis(h) il(h)lús(h)tra,(h) et(h) con(h)cé(h)de;(h) ut(h) om(h)nes,(h) qui(h) huc(h) de(h)pre(h)ca(h)tú(h)ri(g) con(f)vé(h)ni(hr)unt,(h.) *(;) ex(h) qua(h)cúm(h)que(h) tri(h)bu(h)la(h)ti(h)ó(h)ne(h) ad(h) te(h) cla(h)má(h)ve(h)rint,(h) con(h)so(h)la(h)ti(h)ó(h)nis(h) tu(h)as(h) be(h)ne(h)fí(h)ci(h)a(h) con(h)se(h)quán(h dr)tur.(d.) (::)}
 $Per Dominum
 
 [Oratio]
 !In Anniversario Dedicationis Ecclesiæ
-{(c3)De(h)us,(h) qui(h) no(h)bis(h) per(h) sín(h)gu(h)los(h) an(h)nos(h) hu(h)jus(h) sanc(h)ti(h) tem(h)pli(h) tu(h)i(h) con(h)se(h)cra(h)ti(h)ó(h)nis(h) ré(h)pa(h)ras(h) di(h)em,(h) et(h) sa(h)cris(h) sem(h)per(h) mys(h)té(h)ri(h)is(h) re(h)præ(h)sén(h)tas(h) in(h)có(h)lu(f)mes:(f.) †(;) ex(h)áu(h)di(h) pre(h)ces(h) pó(h)pu(h)li(h) tu(h)i,(h) et(h) præ(h)sta;(h) ut(h) quis(h)quis(h) hoc(h) tem(h)plum(h) be(h)ne(h)fí(h)ci(h)a(h) pe(h)ti(h)tú(h)rus(g) in(f)gré(h)di(hr)tur,(h.) *(;) cunc(h)ta(h) se(h) im(h)pe(h)trás(h)se(h) læ(h)té(h dr)tur.(d.) (::)}
+{(c3)De(h)us,(h) qui(h) no(h)bis(h) per(h) sín(h)gu(h)los(h) an(h)nos(h) hu(h)jus(h) sanc(h)ti(h) tem(h)pli(h) tu(h)i(h) con(h)se(h)cra(h)ti(h)ó(h)nis(h) ré(h)pa(h)ras(h) di(h)em,(h) et(h) sa(h)cris(h) sem(h)per(h) mys(h)té(h)ri(h)is(h) re(h)præ(h)sén(h)tas(h) in(h)có(h)lu(f)mes:(f.) †(,) ex(h)áu(h)di(h) pre(h)ces(h) pó(h)pu(h)li(h) tu(h)i,(h) et(h) præ(h)sta;(h) ut(h) quis(h)quis(h) hoc(h) tem(h)plum(h) be(h)ne(h)fí(h)ci(h)a(h) pe(h)ti(h)tú(h)rus(g) in(f)gré(h)di(hr)tur,(h.) *(;) cunc(h)ta(h) se(h) im(h)pe(h)trás(h)se(h) læ(h)té(h dr)tur.(d.) (::)}
 $Per Dominum
 
 [Invit]
@@ -69,7 +69,7 @@ Benedícta * glória Dómini, de loco sancto suo, allelúja.;;98
 
 [Nocturn 2 Versum]
 {initial-style:0;%%(c3) V/. Do(h)mus(h) me(h hr)a.(g_'/hvGF'E!fgf.) (::)
-R/.  Do(h)mus(h) o(h)ra(h)ti(h)ó(h)nis(h) vo(h)cá(h)bi(hr)tur.(g_'/hvGF'E!fgf.) (::)}
+R/. Do(h)mus(h) o(h)ra(h)ti(h)ó(h)nis(h) vo(h)cá(h)bi(hr)tur.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. In dedicatióne templi decantábat pópulus laudem: 
@@ -130,7 +130,7 @@ R. Et turres Jerúsalem gemmis ædificabúntur.
 
 [Capitulum Laudes]
 !Apo 21:2
-{(c3) Vi(h)di(h) ci(h)vi(h)tá(h)tem(h) sanc(h)tam,(h) Je(h)rú(h)sa(h)lem(h) no(h)vam,(f.) †(,) de(h)scen(h)dén(h)tem(h) de(h) cæ(h)lo(g) a(f) De(h)o,(h.) *(;) pa(h)rá(h)tam(h) sic(h)ut(h) spon(h)sam(h) or(h)ná(h)tam(h) vi(h)ro(h) su(f)o.(ef..) (::)}
+{(c3) Vi(h)di(h) ci(h)vi(h)tá(h)tem(h) sanc(h)tam,(h) Je(h)rú(h)sa(h)lem(h) no(h)vam,(f.) †(;) de(h)scen(h)dén(h)tem(h) de(h) cæ(h)lo(g) a(f) De(h)o,(h.) *(;) pa(h)rá(h)tam(h) sic(h)ut(h) spon(h)sam(h) or(h)ná(h)tam(h) vi(h)ro(h) su(f)o.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -146,14 +146,12 @@ $Deo gratias
 
 [Lectio Prima]
 !Apo 21:4-5
-{(c3) Et(h) abs(h)tér(h)get(h) De(h)us(h) om(h)nem(h) lá(h)cri(h)mam(h) ab(h) ó(h)cu(h)lis(h) e(h)ó(h)rum:(f.) †(,) et(h) mors(h) ul(h)tra(h) non(h) e(h)rit,(h) ne(h)que(h) luc(h)tus,(h) ne(h)que(h) cla(h)mor,(h) ne(h)que(h) do(h)lor(h) e(h)rit(h) ul(h)tra,(h) qui(h)a(h) pri(h)ma(h) ab(g)i(f)é(h)runt.(h.) *(;) Et(h) di(h)xit(h) qui(h) se(h)dé(h)bat(h) in(h) thro(h)no:(h) Ec(h)ce(h) no(h)va(h) fá(h)ci(h)o(h) óm(f)ni(e)a.(ef..) (::)}
+{(c3) Et(h) abs(h)tér(h)get(h) De(h)us(h) om(h)nem(h) lá(h)cri(h)mam(h) ab(h) ó(h)cu(h)lis(h) e(h)ó(h)rum:(f.) †(;) et(h) mors(h) ul(h)tra(h) non(h) e(h)rit,(h) ne(h)que(h) luc(h)tus,(h) ne(h)que(h) cla(h)mor,(h) ne(h)que(h) do(h)lor(h) e(h)rit(h) ul(h)tra,(h) qui(h)a(h) pri(h)ma(h) ab(g)i(f)é(h)runt.(h.) *(;) Et(h) di(h)xit(h) qui(h) se(h)dé(h)bat(h) in(h) thro(h)no:(h_') (,) Ec(h)ce(h) no(h)va(h) fá(h)ci(h)o(h) óm(f)ni(e)a.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. {gabc:Commune/C8/rb--domum_tuam--solesmes_1961.1}
 (sed tempore paschali)
 R.br. {gabc:Commune/C8/rb--domum_tuam_paschal_time--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C8/rb--domum_tuam-passionis-solesmes_1961.1}
 
 [Versum Tertia]
 {initial-style:0;%%(c3) V/. Lo(h)cus(h) is(h)te(h) sanc(h)tus(h) est,(h) in(h) quo(h) o(h)rat(h) sa(h)cér(h hr)dos.(g_'/hvGF'E!fgf.) (::)
@@ -161,22 +159,18 @@ R/. Pro(h) de(h)líc(h)tis(h) et(h) pec(h)cá(h)tis(h) pó(h)pu(hr)li.(g_'/hvGF'
 
 [Capitulum Sexta]
 !Apo 21:3
-{(c3) Et(h) au(h)dí(h)vi(h) vo(h)cem(h) ma(h)gnam(h) de(h) thro(h)no(h) di(h)cén(h)tem:(h) Ec(h)ce(h) ta(h)ber(h)ná(h)cu(h)lum(h) De(h)i(h) cum(h) ho(h)mí(h)ni(h)bus,(h) et(h) ha(h)bi(h)tá(h)bit(h) cum(h) e(h)is;(f.) †(,) et(h) ip(h)si(h) pó(h)pu(h)lus(h) e(g)jus(f) e(h)runt,(h.) *(;) et(h) ip(h)se(h) De(h)us(h) cum(h) e(h)is(h) e(h)rit(h) e(h)ó(h)rum(h) De(f)us.(ef..) (::)}
+{(c3) Et(h) au(h)dí(h)vi(h) vo(h)cem(h) ma(h)gnam(h) de(h) thro(h)no(h) di(h)cén(h)tem:(h_') (,) Ec(h)ce(h) ta(h)ber(h)ná(h)cu(h)lum(h) De(h)i(h) cum(h) ho(h)mí(h)ni(h)bus,(h) et(h) ha(h)bi(h)tá(h)bit(h) cum(h) e(h)is;(f.) †(;) et(h) ip(h)si(h) pó(h)pu(h)lus(h) e(g)jus(f) e(h)runt,(h.) *(;) et(h) ip(h)se(h) De(h)us(h) cum(h) e(h)is(h) e(h)rit(h) e(h)ó(h)rum(h) De(f)us.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]
 R.br. {gabc:Commune/C8/rb--locus_iste--solesmes_1934}
 (sed tempore paschali)
 R.br. {gabc:Commune/C8/rb--locus_iste_paschal_time--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C8/rb--locus_iste-passionis-solesmes_1934}
 
 [Responsory Breve Nona]
 R.br. {gabc:Commune/C8/rb--haec_est_domus_domini--solesmes_1961.1}
 (sed tempore paschali)
 R.br. {gabc:Commune/C8/rb--haec_est_domus_paschal_time--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C8/rb--haec_est_domus_domini-passionis-solesmes_1961.1}
 
 [Versum Nona]
 {initial-style:0;%%(c3) V/. Be(h)ne(h) fun(h)dá(h)ta(h) est(h) do(h)mus(h) Dó(h)mi(hr)ni.(g_'/hvGF'E!fgf.) (::)
@@ -190,8 +184,8 @@ R/. In(h) lon(h)gi(h)tú(h)di(h)nem(h) di(h)é(h hr)rum.(g_'/hvGF'E!fgf.) (::)}
 R/. In(h) lon(h)gi(h)tú(hi)di(h)nem(h) di(fe)é(f_0h)rum.(hiHGhih.ghGFE’fggf.) (::)}
 
 [Versum 3] (tempore paschali)
-{initial-style:0;%%(c3) V/. Do(h)mum(h) tu(h)am,(h) Dó(h)mi(h)ne,(h) de(h)cet(h) sanc(h)ti(h)tú(h)do,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'Efgf.) (::)
-R/. In(h) lon(h)gi(h)tú(h)di(h)nem(h) di(h)é(h)rum,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'Efgf.) (::)}
+{initial-style:0;%%(c3) V/. Do(h)mum(h) tu(h)am,(h) Dó(h)mi(h)ne,(h) de(h)cet(h) sanc(h)ti(h)tú(h)do,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/. In(h) lon(h)gi(h)tú(h)di(h)nem(h) di(h)é(h)rum,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 (sed tonus solemnis nisi ad matutinum loco hujus versus dicitur)
 {initial-style:0;%%(c3) V/. Do(h)mum(h) tu(h)am,(h) Dó(h)mi(h)ne,(h) de(h)cet(h) sanc(h)ti(h)tú(hi)do,(h_') *(:) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)
 R/. In(h) lon(h)gi(h)tú(h)di(h)nem(h) di(h)é(hi)rum,(h_') *(:) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)}

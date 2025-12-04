@@ -31,7 +31,7 @@ Amen.
 Omnes sunt administratórii * Spíritus, in ministérium missi propter eos, qui hereditátem capiunt salútis.
 
 [Oratio]
-Deus, qui ineffábili providéntia sanctos Angelos tuos ad nostram custódiam míttere dignáris: largíre supplícibus tuis; et eórum semper protectióne deféndi, et ætérna societáte gaudére.
+{(c3) De(h)us,(h) qui(h) in(h)ef(h)fá(h)bi(h)li(h) pro(h)vi(h)dén(h)ti(h)a(h) sanc(h)tos(h) An(h)ge(h)los(h) tu(h)os(h) ad(h) nos(h)tram(h) cus(h)tó(h)di(h)am(h) mít(h)te(h)re(h) di(h)gná(h)ris:(f.) †(,) lar(h)gí(h)re(h) sup(h)plí(h)ci(h)bus(h) tu(h)is;(h) et(h) e(h)ó(h)rum(h) sem(h)per(h) pro(h)tec(g)ti(f)ó(h hr)ne(h.) *(;) de(h)fén(h)di,(h) et(h) æ(h)tér(h)na(h) so(h)ci(h)e(h)tá(h)te(h) gau(h)dé(h dr)re.(d.) (::)}
 $Per Dominum
 
 [Invit]
@@ -104,7 +104,7 @@ R. Et nunc, Dominator cælórum, mitte Angelum tuum bonum ante nos, in timóre e
 
 [Capitulum Laudes]
 !Exod. 23:20-21
-v. Ecce ego mittam Angelum meum, qui præcédat te, et custódiat in via, et introdúcat in locum, quem parávi. Obsérva eum et audi vocem ejus.
+{(c3) Ec(h)ce(h) e(h)go(h) mit(h)tam(h) An(h)ge(h)lum(h) me(h)um,(f.) †(;) qui(h) præ(h)cé(h)dat(h) te,(h) et(h) cus(h)tó(h)di(h)at(h) in(h) vi(h)a,(h) et(h) in(h)tro(h)dú(h)cat(h) in(h) lo(h)cum,(h) quem(g) pa(f)rá(h hr)vi.(h.) *(;) Ob(h)sér(h)va(h) e(h)um(h) et(h) au(h)di(h) vo(h)cem(h) e(f)jus.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -176,11 +176,11 @@ Revérsus est * Angelus qui loquebátur in me, et suscitávit me; quasi virum qu
 
 [Lectio Prima]
 !Exod 23:22-23
-v. Quod, si audíeris vocem ejus et féceris ómnia quæ loquor, inimícus ero inimícis tuis et afflígam affligéntes te. Præcedétque te Angelus meus.
+{(c3) Quod,(h) si(h) au(h)dí(h)e(h)ris(h) vo(h)cem(h) e(h)jus(h) et(h) fé(h)ce(h)ris(h) óm(h)ni(h)a(h) quæ(h) lo(h)quor,(f.) †(;) in(h)i(h)mí(h)cus(h) e(h)ro(h) in(h)i(h)mí(h)cis(h) tu(h)is(h) et(h) af(h)flí(h)gam(h) af(g)fli(f)gén(h)tes(hr) te.(h.) *(;) Præ(h)ce(h)dét(h)que(h) te(h) An(h)ge(h)lus(h) me(f)us.(ef..) (::)}
 
 [Capitulum Sexta]
 !Exod. 23:21
-v. Nec contemnéndum putes, quia non dimíttet cum peccáveris, et est nomen meum in illo.
+{(c3) Nec(h) con(h)tem(h)nén(h)dum(h) pu(h)tes,(f.) †(;) qui(h)a(h) non(h) di(h)mít(h)tet(h) cum(g) pec(f)cá(h)ve(hr)ris,(h.) *(;) et(h) est(h) no(h)men(h) me(h)um(h) in(h) il(f)lo.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

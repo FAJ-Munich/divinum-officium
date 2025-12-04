@@ -225,23 +225,33 @@ sub psalmi_matutinum_monastic {
   setcomment($label, 'Source', $comment, $lang, $prefix);
 
   if ($lang =~ /gabc/i) {
-    my $psalmTone = 'in-dir';
+    my $psalmTone = '';
 
     foreach my $psalmline (@psalmi) {
-      if ($psalmline =~ /[VR]\/?\./) { $psalmTone = 'in-dir'; next; }    #skip over Versicles
-      my @a = split(';;', $psalmline);                                   # retrieve psalmtone behind second ;;
+      if ($psalmline =~ /[VR]\/?\./) {
 
-      if (@a > 2) {
-        $psalmTone = chompd($a[2]);                                      # update psalmtone
+        #skip over Versicles
+        $psalmTone = '';
+        next;
       }
-      my $ant0 = chompd($a[0]);
-      my @psalm0 = split(';', chompd($a[1]));
 
-      foreach my $ps0 (@psalm0) {
-        $ps0 = "'$ps0,$psalmTone'";                                      # combine psalm tone with all psalms
+      my @a = split(';;', $psalmline);    # Retrieve psalmtone given behind second ';;'
+
+      $psalmTone = chompd($a[2]) if (@a > 2);    # Update psalmtone if present
+
+      my $ant0 = chompd($a[0]);                  # Retrieve Antiphon
+      my $psalm0 = chompd($a[1]);                # Retrieve Psalms
+
+      if ($psalmTone) {
+        my @psalm0 = split(';', $psalm0);        # Split multiple Psalms
+
+        foreach my $ps0 (@psalm0) {
+          $ps0 = "'$ps0,$psalmTone'";            # combine psalm tone with all psalms
+        }
+        my $psalm0 = join(';', @psalm0);
       }
-      my $psalm0 = join(';', @psalm0);
-      $psalmline = "$ant0;;$psalm0";                                     # recombine antiphone line
+
+      $psalmline = "$ant0;;$psalm0";    # Recombine antiphone line
     }
   }
   nocturn(1, $lang, \@psalmi, (0 .. 7));
@@ -498,7 +508,6 @@ sub lectioE {
   my %w = columnsel($lang) ? %winner : %winner2;
   my %com = columnsel($lang) ? %commune : %commune2;
   my $win = $winner;
-
   my $evang = "Evangelium";
 
   if ($rule =~ qr/in 3 Nocturno Lectiones ex Commune in (\d+) loco/i) {

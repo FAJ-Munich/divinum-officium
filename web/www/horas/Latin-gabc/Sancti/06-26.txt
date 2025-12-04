@@ -2,7 +2,7 @@
 Astitérunt * justi ante Dóminum, et ab invicem non sunt separáti: cálicem Dómini biberunt, et amici Dei appelláti sunt.
 
 [Oratio]
-Quǽsumus, omnípotens Deus: ut nos gemináta lætítia hodiérnæ festivitátis excípiat, quæ de beatórum Joánnis et Pauli glorificatióne procédit; quos éadem fides et pássio vere fecit esse germános.
+{(c3) Quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(h_') (,) ut(h) nos(h) ge(h)mi(h)ná(h)ta(h) læ(h)tí(h)ti(h)a(h) ho(h)di(h)ér(h)næ(h) fes(h)ti(h)vi(h)tá(h)tis(h) ex(h)cí(h)pi(f)at,(f.) †(,) quæ(h) de(h) be(h)a(h)tó(h)rum(h) Jo(h)án(h)nis(h) et(h) Pau(h)li(h) glo(h)ri(h)fi(h)ca(h)ti(h)ó(h)ne(g) pro(f)cé(h hr)dit;(h.) *(;) quos(h) é(h)a(h)dem(h) fi(h)des(h) et(h) pás(h)si(h)o(h) ve(h)re(h) fe(h)cit(h) es(h)se(h) ger(h)má(h dr)nos.(d.) (::)}
 $Per Dominum
 
 [Responsory4_]

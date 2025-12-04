@@ -2,7 +2,7 @@
 {name:Dixit Dominus;annotation:8 G.;mode:8;book:Antiphonale Monasticum, 1934, p. 311;%%(c4)DI(d)xit(f) Dó(fg)mi(g)nus(g_h_g_) *() ad(fe) A(fgf)dam:(g.) (;) De(d) li(f_g)gno(g) quod(gh) est(h) in(gh~) mé(h)di(gf)o(f') pa(g)ra(h')dí(i)si,(j.) ne(hg) có(fg)me(g)das:(g.) (:) in(gj/ijk) qua(j_vIH') ho(j)ra(ji) co(hg)mé(h')de(g)ris,(f.) (;) mor(ghi.hiwj)te(h_GF') mo(h)ri(hih)é(g.)ris.(g.) (::)};;8G
 
 [Oratio]
-Preces pópuli tui, quǽsumus, Dómine, cleménter exáudi: ut, qui juste pro peccátis nostris afflígimur, pro tui nóminis glória misericórditer liberémur.
+{(c3) Pre(h)ces(h) pó(h)pu(h)li(h) tu(h)i,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) cle(h)mén(h)ter(h) ex(h)áu(h)di:(f.) †(,) ut,(h) qui(h) jus(h)te(h) pro(h) pec(h)cá(h)tis(h) nos(h)tris(g) af(f)flí(h)gi(hr)mur,(h.) *(;) pro(h) tu(h)i(h) nó(h)mi(h)nis(h) gló(h)ri(h)a(h) mi(h)se(h)ri(h)cór(h)di(h)ter(h) li(h)be(h)ré(h dr)mur.(d.) (::)}
 $Per Dominum.
 
 [Invit]
@@ -139,12 +139,12 @@ Laudáte * Dóminum de cælis.
 
 [Capitulum Laudes]
 !1 Cor 9:24
-{(c3) Fra(h)tres:(h_') (,) Ne(h)scí(h)tis(h) quod(h) i(h)i(h) qui(h) in(h) stá(h)di(h)o(h) cur(h)runt,(f.) †(;) om(h)nes(h) qui(h)dem(h) cur(h)runt,(h_') (,) sed(g) u(g)nus(g) ác(g)ci(g)pit(g) bra(f)ví(g)um?(gh..) (:) Sic(h) cúr(h)ri(h)te(h) ut(h) com(h)pre(h)hen(h)dá(f)tis.(ef..) (::)}
+{(c3) Fra(h)tres:(h_') (,) Ne(h)scí(h)tis(h) quod(h) i(h)i(h) qui(h) in(h) stá(h)di(h)o(h) cur(h)runt,(f.) †(;) om(h)nes(h) qui(h)dem(h) cur(h)runt,(h_') (,) sed(g) u(g)nus(g) ác(g)ci(g)pit(g) bra(f)ví(g)um?(gh..) (:) Sic(f) cúr(h)ri(hr)te(h) *(;) ut(h) com(h)pre(h)hen(h)dá(f)tis.(ef..) (::)}
 $Deo gratias
 
 [Versum 2] (nisi rubrica cisterciensis)
-V. Dómine, refúgium factus es nobis.
-R. A generatióne et progénie.
+{initial-style: 0;%%(c3) V/. Dó(h)mi(h)ne,(h) re(h)fú(h)gi(h)um(h) fac(h)tus(h) es(h) no(h)bis.(g_'/hvGF'E!fgf.) (::)
+R/.A(h) ge(h)ne(h)ra(h)ti(h)ó(h)ne(h) et(h) pro(h)gé(h)ni(h)e.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 2]
 Símile est * regnum cælórum hómini patrifamílias, qui éxiit primo mane condúcere operários in víneam suam, dicit Dóminus.
@@ -160,7 +160,7 @@ Quid hic statis * tota die otiósi? respondérunt, et dixérunt: Quia nemo nos c
 
 [Capitulum Sexta]
 !1 Cor 9:25
-v. Omnis autem, qui in agóne conténdit, ab ómnibus se ábstinet: et illi quidem ut corruptíbilem corónam accípiant, nos autem incorrúptam.
+{(c3) Om(h)nis(h) au(h)tem,(h) qui(h) in(h) a(h)gó(h)ne(h) con(h)tén(h)dit,(h) ab(h) óm(h)ni(h)bus(h) se(h) ábs(h)ti(f)net:(f.) †(;) et(h) il(h)li(h) qui(h)dem(h) ut(h) cor(h)rup(h)tí(h)bi(h)lem(h) co(h)ró(h)nam(g) ac(f)cí(h)pi(hr)ant,(h.) *(;) nos(h) au(h)tem(h) in(h)cor(h)rúp(f)tam.(ef..) (::)}
 $Deo gratias
 
 [Ant Nona]
@@ -168,7 +168,7 @@ Voca operários, * et redde illis mercédem suam, dicit Dóminus.
 
 [Capitulum Nona]
 !1 Cor 10:4-5
-v. Bibébant autem de spiritáli, consequénte eos, petra: petra autem erat Christus: sed non in plúribus eórum beneplácitum est Deo.
+{(c3) Bi(h)bé(h)bant(h) au(h)tem(h) de(h) spi(h)ri(h)tá(h)li,(h) con(h)se(h)quén(h)te(h) e(h)os,(h) pe(h)tra:(f.) †(;) pe(h)tra(h) au(h)tem(h) e(g)rat(f) Chris(h hr)tus:(h.) *(;) sed(h) non(h) in(h) plú(h)ri(h)bus(h) e(h)ó(h)rum(h) be(h)ne(h)plá(h)ci(h)tum(h) est(h) De(f)o.(ef..) (::)}
 $Deo gratias
 
 [Ant 3]

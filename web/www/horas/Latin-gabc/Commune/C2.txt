@@ -59,7 +59,7 @@ R/. Et(h) con(h)sti(h)tu(h)ís(h)ti(h) e(h)um(h) su(h)per(h) ó(h)pe(h)ra(h) má
 {annotation:8.G;%%(c3) I(f)ste(ed) San(e_[uh:l]f)ctus(ee) *(,) pro(c_e) le(h)ge(h) De(h’)i(h) su(hi)i(h'_) (,) cer(h>)tá(hg)vit(f) us(g_0h)que(fe) ad(de~) mor(e.)tem,(e.) (;) et(d) a(f) ver(hi)bis(i’) im(i>)pi(i)ó(ih)rum(i) non(iji’) tí(h)mu(gh)it :(h.) (:) fun(h)dá(i)tus(g') e(h)nim(f’) e(h)rat(e!fwgFEeo) (,) su(c)pra(d) fir(ef)mam(f) pe(e.)tram.(e.) (::)};;8G
 
 [Oratio]
-{(c3)In(h)fir(h)mi(h)tá(h)tem(h) nos(h)tram(h) ré(h)spi(h)ce,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(;) et,(h) qui(h)a(h) pon(h)dus(h) pró(h)pri(h)æ(h) ac(h)ti(h)ó(g)nis(f) gra(h hr)vat,(h.) *(;) be(h)á(h)ti(h) N. Már(h)ty(h)ris(h) tu(h)i(h) at(h)que(h) Pon(h)tí(h)fi(h)cis(h) in(h)ter(h)cés(h)si(h)o(h) glo(h)ri(h)ó(h)sa(h) nos(h) pró(h)te(dr)gat.(d.) (::)}
+{(c3)In(h)fir(h)mi(h)tá(h)tem(h) nos(h)tram(h) ré(h)spi(h)ce,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(,) et,(h) qui(h)a(h) pon(h)dus(h) pró(h)pri(h)æ(h) ac(h)ti(h)ó(g)nis(f) gra(h hr)vat,(h.) *(;) be(h)á(h)ti(h) N. Már(h)ty(h)ris(h) tu(h)i(h) at(h)que(h) Pon(h)tí(h)fi(h)cis(h) in(h)ter(h)cés(h)si(h)o(h) glo(h)ri(h)ó(h)sa(h) nos(h) pró(h)te(dr)gat.(d.) (::)}
 $Per Dominum
 
 [Invit]
@@ -78,11 +78,11 @@ Posuísti, Dómine, * super caput ejus corónam de lápide pretióso.;;20
 
 [Nocturn 2 Versum]
 {initial-style:0;%%(c3) V/. Po(h)su(h)ís(h)ti,(h) Dó(h)mi(h)ne,(h) su(h)per(h) ca(h)put(h) e(h hr)jus.(g_'/hvGF'E!fgf.) (::)
-R/.  Co(h)ró(h)nam(h) de(h) lá(h)pi(h)de(h) pre(h)ti(h)ó(h hr)so.(g_'/hvGF'E!fgf.) (::)}
+R/. Co(h)ró(h)nam(h) de(h) lá(h)pi(h)de(h) pre(h)ti(h)ó(h hr)so.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
 {initial-style:0;%%(c3) V/. Ma(h)gna(h) est(h) gló(h)ri(h)a(h) e(h)jus(h) in(h) sa(h)lu(h)tá(h)ri(h) tu(h hr)o.(g_'/hvGF'E!fgf.) (::)
-R/.  Gló(h)ri(h)am(h) et(h) ma(h)gnum(h) de(h)có(h)rem(h) im(h)pó(h)nes(h) su(h)per(h) e(h hr)um.(g_'/hvGF'E!fgf.) (::)}
+R/. Gló(h)ri(h)am(h) et(h) ma(h)gnum(h) de(h)có(h)rem(h) im(h)pó(h)nes(h) su(h)per(h) e(h hr)um.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory1]
 R. Iste Sanctus pro lege Dei sui certávit usque ad mortem, et a verbis impiórum non tímuit:
@@ -148,7 +148,7 @@ R. Qui minas júdicum non tímuit, nec terrénæ dignitátis glóriam quæsívit
 
 [Capitulum Laudes]
 !Jac 1:12
-{(c3) Be(h)á(h)tus(h) vir,(h) qui(h) suf(h)fert(h) ten(h)ta(h)ti(h)ó(h)nem:(f.) †(,) quón(h)i(h)am(h) cum(h) pro(h)bá(h)tus(h) fú(h)e(h)rit,(h) ac(h)cí(h)pi(h)et(h) co(h)ró(g)nam(f) vi(h)tæ,(h.) *(;) quam(h) re(h)pro(h)mí(h)sit(h) De(h)us(h) di(h)li(h)gén(h)ti(h)bus(f) se.(ef..) (::)}
+{(c3) Be(h)á(h)tus(h) vir,(h) qui(h) suf(h)fert(h) ten(h)ta(h)ti(h)ó(h)nem:(f.) †(;) quón(h)i(h)am(h) cum(h) pro(h)bá(h)tus(h) fú(h)e(h)rit,(h) ac(h)cí(h)pi(h)et(h) co(h)ró(g)nam(f) vi(h)tæ,(h.) *(;) quam(h) re(h)pro(h)mí(h)sit(h) De(h)us(h) di(h)li(h)gén(h)ti(h)bus(f) se.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -203,23 +203,17 @@ R/. Sic(h)ut(h) ce(h)drus(h) Lí(h)ba(h)ni(h) mul(h)ti(h)pli(h)cá(h)bi(hr)tur.(
 
 [Responsory Breve Tertia]
 R.br. {gabc:Commune/C2/rb--gloria_et_honore--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C2/rb--gloria_et_honore-passionis-solesmes_1961.1}
 
 [Capitulum Sexta]
 !Sir 15:3
-{(c3) Ci(h)bá(h)vit(h) il(h)lum(h) pa(h)ne(h) vi(h)tæ(h) et(h) in(h)tel(h)léc(h)tus,(f.) †(,) et(h) a(h)qua(h) sa(h)pi(h)én(h)ti(h)æ(h) sa(g)lu(f)tá(h)ris(h.) *(;) po(h)tá(h)vit(h) il(h)lum(h) Dó(h)mi(h)nus(h) De(h)us(h) nos(f)ter.(ef..) (::)}
+{(c3) Ci(h)bá(h)vit(h) il(h)lum(h) pa(h)ne(h) vi(h)tæ(h) et(h) in(h)tel(h)léc(h)tus,(f.) †(;) et(h) a(h)qua(h) sa(h)pi(h)én(h)ti(h)æ(h) sa(g)lu(f)tá(h)ris(h.) *(;) po(h)tá(h)vit(h) il(h)lum(h) Dó(h)mi(h)nus(h) De(h)us(h) nos(f)ter.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]
 R.br. {gabc:Commune/C2/rb--posuisti_domine--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C2/rb--posuisti_domine-passionis-solesmes_1961.1}
 
 [Responsory Breve Nona]
 R.br. {gabc:Commune/C2/rb--magna_est_gloria_ejus--solesmes}
-(sed tempore passionis)
-R.br. {gabc:Commune/C2/rb--magna_est_gloria_ejus-passionis-solesmes}
 
 [Ant 3]
 {name:Qui vult venire;annotation:1.f;mode:1;book:The Liber Usualis, 1961, p. 1128 & Liber antiphonarius, 1960, p. [21];transcriber:Andrew Hinkley;%%(c4) QUI(d) vult(d) ve(dc)ní(f)re(g) post(f!gwh) me,(h.) *(,) áb(ixi_[oh:h]h)ne(g)get(g') se(g)met(g)í(f_h)psum,(g.) (;) et(g) tol(g')lat(g) cru(e')cem(g) su(h_g)am,(f_g) (,) et(e) se(c)quá(d_f)tur(e) me.(d.) (::)};;1f

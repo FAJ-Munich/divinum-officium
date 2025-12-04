@@ -1,14 +1,5 @@
-[Rule]
-ex Pasc7-0;
-1 nocturn;
-Psalmi Dominica;
-Antiphonas horas
-Hymnus Tertia
-Feria Te Deum
-no93
-
 [Oratio]
-Mentes nostras, quǽsumus, Dómine, Paráclitus, qui a te procédit, illúminet: et indúcat in omnem, sicut tuus promísit Fílius, veritátem:
+{(c3) Men(h)tes(h) nos(h)tras,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) Pa(h)rá(h)cli(h)tus,(h) qui(h) a(h) te(h) pro(h)cé(h)dit,(g) il(f)lú(h)mi(hr)net:(h.) *(;) et(h) in(h)dú(h)cat(h) in(h) om(h)nem,(h) sic(h)ut(h) tu(h)us(h) pro(h)mí(h)sit(h) Fí(h)li(h)us,(h) ve(h)ri(h)tá(h dr)tem:(d.) (::)}
 $Qui tecum eiusdem
 
 [Ant Matutinum]

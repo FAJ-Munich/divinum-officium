@@ -24,7 +24,9 @@ sub teDeum : ScriptFunc {
 }
 
 #*** Deus_in_adjutorium($lang)
-# return Ferial, Festal, or Solemn chant
+# Called from Ordinarium of the Major Hours
+# returns Ferial, Festal, or Solemn chant for Incipit
+# and stores is for usage by &Alleluja
 sub Deus_in_adjutorium : ScriptFunc {
 
   my $lang = shift;
@@ -171,17 +173,20 @@ sub Benedicamus_Domino : ScriptFunc {
 
     if ($lang !~ /gabc/i) {
 
-      # Paschal octave (Feria IV - Sabbato)
+      # Standard: Paschal octave and ante Septuagesima
       return $text =~ s/\.\s*\n/", " . lc(prayer('Alleluia Duplex', $lang)) . "\n"/egr;
     } else {
+
+      # GABC: Paschal octave (Feria IV - Sabbato only) and ante Septuagesima
       return prayer('Benedicamus Domino1', $lang);
     }
 
     return $text;
   } elsif ($lang !~ /gabc/i || $hora !~ /(Matutinum|Laudes|Vespera)/i) {
-    return $text;    # Little hours
+    return $text;    # Standard or GABC ad minores
   }
 
+  # GABC: Benedicamus depending on the solemnity of the day (ChantTone)
   my %benedicamus = %{setupstring($lang, 'Psalterium/Benedicamus.txt')};
   return ($benedicamus{"$chantTone$vespera"}) || ($benedicamus{"$chantTone"}) || prayer('Benedicamus Domino', 'Latin');
 }
@@ -194,8 +199,10 @@ sub handleverses {
 
   map {
     if ($_[1] && !$gabc && /^(name:|\([cf][1-4]\))/) {
-      $gabc = 1;
-      s/^/{/;    # append brace, s.t. gabc is recognized by webdia.pl
+
+      # GABC: Chant has to start with '{' s.t. gabc is recognized by webdia.pl
+      $gabc = 1;    # prevent further opening braces
+      s/^/{/;       # append brace once
     }
 
     if ($_[1]) {
@@ -205,6 +212,7 @@ sub handleverses {
       s/(\([cf][1-4]\)|\s?)(\d+\.)(\s\S)/$1\^$2\^$3/g;
     }
 
+    # GABC: Change PsalmTones as requested
     if ($_[2] =~ /^[s56]/) {
       if ($_[3] =~ /^5g/) {
 
@@ -477,11 +485,7 @@ sub psalm : ScriptFunc {
       # Deal with formatting specifics necessary for perl scripting
       $fname = ($psnum =~ /,/) ? "$psnum.gabc" : "Psalm$psnum.txt";
 
-      #$fname =~ s/\:/\./g;
-      $fname =~ s/\,/-/g;    # file name with dash not comma
-          #$psnum =~ s/\:\:/ \& /g;                                         # Multiple Psalms joined together
-          #$psnum =~ s/\:/; Part: /;                                        # n-th Part of Psalm
-          #$psnum =~ s/,,.*?,,//;
+      $fname =~ s/\,/-/g;          # file name with dash not comma
       $psnum =~ s/,/; Tonus: /;    # name Tone in Psalm headline
 
       # Extract Tone and folder (also to be used for Doxology)
@@ -555,6 +559,8 @@ sub psalm : ScriptFunc {
   my $source;
 
   if ($psnum > 150 && $psnum < 300 && @lines) {
+
+    # GABC: Retrieve Headlines for Cantica from Latin folder
     if ($fname =~ /\.gabc/) {
       map { s/[\(\)]//g; } @lines[0 .. 5];
       $psnum =~ s/(;.*)//;
@@ -611,7 +617,7 @@ sub psalm : ScriptFunc {
     if ($lines[0] =~ s{/:\x{2021}:/$}{}) { $lines[1] =~ s{^\d+:\d+[a-z]? \K}{/:\x{2021}:/ }; }
   } elsif (!$antline && $lang =~ /gabc/i && $psnum !~ /in Directum/) {
 
-    # Remove Intonation
+    # GABC: Remove consecutive Intonation if two or more Psalms are sung under the same Antiphone
     $title .= ' sine intonatio';
     $lines[7] =~ /\((.*?)\)/;
     my $tenor = $1;
@@ -633,7 +639,7 @@ sub psalm : ScriptFunc {
   if ($psnum != 210 && !$nogloria) {
     if ($lines[0] =~ /^\{/ && !triduum_gloria_omitted()) {
 
-      # Add Gloria/Requiem Chant
+      # GABC: Add Gloria/Requiem Chant
       my $doxology = 'gloria';
       $doxology = 'requiem' if $commune =~ /C9/ || ($version =~ /monastic/i && $psnum == 129 && $hora eq 'Prima');
       $fname = "Psalterium/Psalmorum/$ffolder/$doxology-$ftone.gabc";
@@ -645,6 +651,8 @@ sub psalm : ScriptFunc {
         $output =~ s/\}\n$/ \n$line\}\n/;
       }
     } else {
+
+      # Standard: Add Gloria/Requiem Chant
       $output .= "\&Gloria\n";
     }
   }

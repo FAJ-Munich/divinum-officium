@@ -34,16 +34,16 @@
 {name:Similabo eum;annotation:1.D;mode:1;book:Antiphonale Monasticum, 1934, p. 669;transcriber:Dominique CROCHU;%%(c4) SI(c)mi(cd)lá(d)bo(d) e(fv_2/fv_)um(d!ewf_EC.) *(,) vi(f)ro(g) sa(ixhih)pi(g)én(ig~)ti,(h.) (;) qui(h) æ(g')di(f)fi(e)cá(g_h)vit(gfg) (,) do(fe)mum(c'>) su(d)am(d') su(f)pra(ef~) † pe(d.)tram.(d.) (::) ^_T. P._^ † pe(d)tram,(dc) al(d)le(fe)lú(d.)ja(d.) (::)};;1D
 
 [Oratio]
-{(c3)De(h)us,(h) qui(h) nos(h) be(h)á(h)ti(h) N. Con(h)fes(h)só(h)ris(h) tu(h)i(h) án(h)nu(h)a(h) so(h)lem(h)ni(h)tá(h)te(h) læ(h)tí(h)fi(f)cas:(f.) †(;) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut(h) cu(h)jus(h) na(h)ta(h)lí(h)ti(g)a(f) có(h)li(hr)mus,(h.) *(;) ét(h)i(h)am(h) ac(h)ti(h)ó(h)nes(h) i(h)mi(h)té(h dr)mur.(d.) (::)}
+{(c3)De(h)us,(h) qui(h) nos(h) be(h)á(h)ti(h) N. Con(h)fes(h)só(h)ris(h) tu(h)i(h) án(h)nu(h)a(h) so(h)lem(h)ni(h)tá(h)te(h) læ(h)tí(h)fi(f)cas:(f.) †(,) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut(h) cu(h)jus(h) na(h)ta(h)lí(h)ti(g)a(f) có(h)li(hr)mus,(h.) *(;) ét(h)i(h)am(h) ac(h)ti(h)ó(h)nes(h) i(h)mi(h)té(h dr)mur.(d.) (::)}
 $Per Dominum.
 
 [Nocturn 2 Versum]
 {initial-style:0;%%(c3) V/. Os(h) jus(h)ti(h) me(h)di(h)tá(h)bi(h)tur(h) sa(h)pi(h)én(h)ti(hr)am.(g_'/hvGF'E!fgf.) (::)
-R/.  Et(h) lin(h)gua(h) e(h)jus(h) lo(h)qué(h)tur(h) ju(h)dí(h)ci(hr)um.(g_'/hvGF'E!fgf.) (::)}
+R/. Et(h) lin(h)gua(h) e(h)jus(h) lo(h)qué(h)tur(h) ju(h)dí(h)ci(hr)um.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
 {initial-style:0;%%(c3) V/. Lex(h) De(h)i(h) e(h)jus(h) in(h) cor(h)de(h) ip(h)sí(h hr)us.(g_'/hvGF'E!fgf.) (::)
-R/.  Et(h) non(h) sup(h)plan(h)ta(h)bún(h)tur(h) gres(h)sus(h) e(h hr)jus.(g_'/hvGF'E!fgf.) (::)}
+R/. Et(h) non(h) sup(h)plan(h)ta(h)bún(h)tur(h) gres(h)sus(h) e(h hr)jus.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory2]
 R. Justus germinábit sicut lílium:
@@ -87,7 +87,7 @@ R. Ipse intercédat pro peccátis ómnium populórum.
 
 [Capitulum Laudes]
 !Sir 31:8-9
-{(c3) Be(h)á(h)tus(h) vir,(h) qui(h) in(h)vén(h)tus(h) est(h) si(h)ne(h) má(h)cu(f)la,(f.) †(,) et(h) qui(h) post(h) au(h)rum(h) non(h) áb(h)i(h)it,(h) nec(h) spe(h)rá(h)vit(h) in(h) pe(h)cú(h)ni(h)a(h) et(g) the(f)sáu(h)ris.(h.)*(;) Quis(g) est(g) hic,(g) et(g) lau(g)dá(g)bi(g)mus(f) e(g)um?(gh..) (:) fe(h)cit(h) e(h)nim(h) mi(h)ra(h)bí(h)li(h)a(h) in(h) vi(h)ta(h) su(f)a.(ef..) (::)}
+{(c3) Be(h)á(h)tus(h) vir,(h) qui(h) in(h)vén(h)tus(h) est(h) si(h)ne(h) má(h)cu(f)la,(f.) †(;) et(h) qui(h) post(h) au(h)rum(h) non(h) áb(h)i(h)it,(h) nec(h) spe(h)rá(h)vit(h) in(h) pe(h)cú(h)ni(h)a(h) et(g) the(f)sáu(h)ris.(h.) *(;) Quis(g) est(g) hic,(g) et(g) lau(g)dá(g)bi(g)mus(f) e(g)um?(gh..) (:) fe(h)cit(h) e(h)nim(h) mi(h)ra(h)bí(h)li(h)a(h) in(h) vi(h)ta(h) su(f)a.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -129,7 +129,7 @@ $Deo gratias
 
 [Lectio Prima]
 !Sap 10:10
-{(c3) Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas,(f.) †(,) et(h) os(h)tén(h)dit(h) il(h)li(h) re(h)gnum(h) De(h)i,(h) et(h) de(h)dit(h) il(h)li(h) sci(h)én(h)ti(h)am(g) sanc(f)tó(h)rum:(h.) *(;) ho(h)nes(h)tá(h)vit(h) il(h)lum(h) in(h) la(h)bó(h)ri(h)bus,(h) et(h) com(h)plé(h)vit(h) la(h)bó(h)res(h) il(h)lí(f)us.(ef..) (::)}
+{(c3) Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas,(f.) †(;) et(h) os(h)tén(h)dit(h) il(h)li(h) re(h)gnum(h) De(h)i,(h) et(h) de(h)dit(h) il(h)li(h) sci(h)én(h)ti(h)am(g) sanc(f)tó(h)rum:(h.) *(;) ho(h)nes(h)tá(h)vit(h) il(h)lum(h) in(h) la(h)bó(h)ri(h)bus,(h) et(h) com(h)plé(h)vit(h) la(h)bó(h)res(h) il(h)lí(f)us.(ef..) (::)}
 
 [Capitulum Sexta]
 !Sir 39:6
@@ -138,15 +138,11 @@ $Deo gratias
 
 [Responsory Breve Sexta]
 R.br. {gabc:Commune/C5/rb--os_justi--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C5/rb--os_justi-passionis-solesmes_1961.1}
 (sed tempore paschali)
 R.br. {gabc:Commune/C5/rb--os_justi_paschal_time--solesmes_1961.1}
 
 [Responsory Breve Nona]
 R.br. {gabc:Commune/C5/rb--lex_dei--solesmes_1961.1}
-(sed tempore passionis)
-R.br. {gabc:Commune/C5/rb--lex_dei-passionis-solesmes_1961.1}
 (sed tempore paschali)
 R.br. {gabc:Commune/C5/rb--lex_dei_tempus_paschale--solesmes_1961.1}
 
