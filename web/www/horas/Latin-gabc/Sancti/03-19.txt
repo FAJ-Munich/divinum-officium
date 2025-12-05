@@ -11,7 +11,7 @@ Angelus Dómini * appáruit Joseph, dicens: Joseph, fili David, noli timére acc
 [Versum 1]
 {initial-style:0;%%(c3) V/. Con(h)stí(h)tu(h)it(h) e(h)um(h) dó(hi)mi(hr)num(h_0)(,) do(h)mus(fe) su(f_0h)æ.(hiH'Ghih.ghG'FE'fggf.) (::)
 R/. Et(h) prí(h)nci(h)pem(h) om(hi)nis(h_0) (,) pos(h)ses(h)si(h)ó(h)nis(fe) su(f_0h)æ.(hiH'Ghih.ghG'FE'fggf.) (::)}
-(sed tempore paschali)
+(sed tempore paschali loco Hujus versus dicuntur)
 {initial-style:0;%%(c3) V/. Con(h)stí(h)tu(h)it(h) e(h)um(h) dó(h)mi(h)num(h) do(h)mus(h) su(hi)æ,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)
 R/. Et(h) prí(h)nci(h)pem(h) om(h)nis(h) pos(h)ses(h)si(h)ó(h)nis(h) su(hi)æ,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
 
@@ -177,7 +177,7 @@ Amen.
 [Versum 2] (tonus solemnis)
 {initial-style:0;%%(c3) V/. Os(h) jus(hi)ti(h_') (,) me(h)di(h)tá(h)bi(h)tur(h) sa(f')pi(e)én(f_0h)ti(h)am.(hiHGhih.ghGFE'fggf.) (::)
 R/. Et(h) lin(h)gua(h) e(hi)jus(h_') (,) lo(h)qué(h)tur(f') ju(e)dí(f_0h)ci(h)um.(hiHGhih.ghGFE'fggf.) (::)}
-(sed tempore paschali)
+(sed tempore paschali loco hujus versus dicuntur)
 {initial-style:0;%%(c3) V/. Os(h) jus(h)ti(h) me(h)di(h)tá(h)bi(h)tur(h) sa(h)pi(h)én(hi)ti(h)am,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)
 R/. Et(h) lin(h)gua(h) e(h)jus(h) lo(h)qué(h)tur(h) ju(h)dí(hi)ci(h)um,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)}
 
@@ -227,7 +227,7 @@ R/.In(h) á(h)tri(h)is(h) do(h)mus(h) De(h)i(h) nos(h)tri.(g_'/hvGF'E!fgf.) (::)
 [Versum 3]
 {initial-style:0;%%(c3) V/. Gló(h)ri(h)a(h) et(h) di(h)ví(hi)ti(h)æ(h_') (,) in(h) do(f')mo(e) e(f_0h)jus.(hiHGhih.ghGFE'fggf.) (::)
 R/. Et(h) jus(h)tí(h)ti(h)a(h) e(hi)jus(h_') (,) ma(h)net(h) in(h) sǽ(h')cu(f)lum(e) sǽ(f_0h)cu(h)li.(hiHGhih.ghGFE'fggf.) (::)}
-(sed tempore paschali)
+(sed tempore paschali loco hujus versus dicuntur)
 {initial-style:0;%%(c3) V/. Gló(h)ri(h)a(h) et(h) di(h)ví(h)ti(h)æ(h) in(h) do(h)mo(h) e(hi)jus,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)
 R/. Et(h) jus(h)tí(h)ti(h)a(h) e(h)jus(h) ma(h)net(h) in(h) sǽ(h)cu(h)lum(h) sǽ(hi)cu(h)li,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)}
 

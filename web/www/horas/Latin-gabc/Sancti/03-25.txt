@@ -8,7 +8,7 @@ Ecce ancílla Dómini: * fiat mihi secúndum verbum tuum. (Allelúja.);;147
 [Versum 1]
 {initial-style:0;%%(c3) V/. A(h)ve,(h) Ma(h)rí(hi)a,(h_') (,) grá(h')ti(f)a(e) ple(f_0h)na.(hiHGhih.ghGFE'fggf.) (::)
 R/. Dó(h')mi(f)nus(e) te(f_0h)cum.(hiHGhih.ghGFE'fggf.) (::)}
-(sed tempore paschali)
+(sed tempore paschali loco hujus versus dicuntur)
 {initial-style:0;%%(c3) V/. A(h)ve,(h) Ma(h)rí(h)a,(h) grá(h)ti(h)a(h) ple(hi)na(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)
 R/. Dó(h)mi(h)nus(h) te(hi)cum(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)}
 

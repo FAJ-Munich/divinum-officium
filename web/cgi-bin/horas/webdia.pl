@@ -551,11 +551,13 @@ sub setcell {
       $text =~
         s/(?<=R\/.\s?A\([defgh]\.?\)men\.\([defgh]\.?\) \(\:\:\))\s?R\/. A\([gh]\.?\)men\.\([gh]\.?\) \(\:\:\)//g;
 
-      # Merge Chapter and Lectio brevis with Deo gratias / Tu autem
+      # Merge Chapter, Lectio brevis, and Martyrolgium with Deo gratias / Tu autem / Et álibi
       $text =~
         s/(\.\(ef\.\.\) \(\:\:\))\}(?:\s|\_|\<br\/\>)*\{(?:initial\-style\:0\;\%\%)\(c[34]\) (R\/. De\(h\)o\(h\))/$1 $2/gs;
       $text =~
         s/(\.\(d\.\) \(\:\:\))\}(?:\s|\_|\<br\/\>)*\{(?:initial\-style\:0\;\%\%)\(c[34]\) (V\/. Tu\(h\) au\(g\))/$1 $2/gs;
+      $text =~
+        s/(\.\(d\.\) \(\:\:\))\}(?:\s|\_|\<br\/\>)*\{(?:initial\-style\:0\;\%\%)\(c[34]\) (V\/. Et\(h\) á\(h\)li)/$1 $2/gs;
 
       # Retrieve all GABC scores from files
       while ($text =~ /\{gabc:(.+?)\}/is) {
