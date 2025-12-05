@@ -41,7 +41,7 @@ Amen.
 [Versum 1]
 {initial-style:0;%%(c3) V/. A(h)má(h)vit(h) e(h)um(h) Dó(hi)mi(h)nus,(h_') (,) et(h) or(h)ná(f')vit(e) e(f_0h)um.(hiHGhih.ghGFE'fggf.) (::)
 R/. Sto(h)lam(h) gló(hi)ri(h)æ(h_') (,) índ(h')u(f)it(e) e(f_0h)um.(hiHGhih.ghGFE'fggf.) (::)}
-(sed tempore paschali)
+(sed tempore paschali loco hujus versus dicuntur)
 {initial-style:0;%%(c3) V/. A(h)má(h)vit(h) e(h)um(h) Dó(h)mi(h)nus,(h) et(h) or(h)ná(h)vit(h) e(hi)um,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)
 R/. Sto(h)lam(h) gló(h)ri(h)æ(h) índ(h)u(h)it(h) e(hi)um,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)}
 
@@ -208,7 +208,7 @@ Amen.
 [Versum 2]
 {initial-style:0;%%(c3) V/. Jus(h)tum(h) de(h)dú(h)xit(h) Dó(hi)mi(h)nus(h_') (,) per(h) vi(f')as(e) rec(f_0h)tas.(hiHGhih.ghGFE'fggf.) (::)
 R/. Et(h) os(h)tén(h)dit(h) il(hi)li(h_') (,) re(h)gnum(fe) De(f_0h)i.(hiHGhih.ghGFE'fggf.) (::)}
-(sed tempore paschali)
+(sed tempore paschali loco hujus versus dicuntur)
 {initial-style:0;%%(c3) V/. Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(hi)tas,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)
 R/. Et(h) os(h)tén(h)dit(h) il(h)li(h) re(h)gnum(h) De(hi)i,(h_') (,) al(h)le(fe)lú(f_0h)ja.(hiHGhih.ghGFE'fggf.) (::)}
 

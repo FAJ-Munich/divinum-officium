@@ -161,7 +161,7 @@ $Deo gratias
 [Versum 2]
 {initial-style:0;%%(c3) V/. Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas.(g_'/hvGF'E!fgf.) (::)
 R/. Et(h) os(h)tén(h)dit(h) il(h)li(h) reg(h)num(h) De(h)i.(g_'/hvGF'E!fgf.) (::)}
-(sed tempore paschali)
+(sed tempore paschali loco hujus versus dicuntur)
 {initial-style:0;%%(c3) V/. Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
 R/. Et(h) os(h)tén(h)dit(h) il(h)li(h) reg(h)num(h) De(h)i,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
