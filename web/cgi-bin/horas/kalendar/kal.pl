@@ -111,9 +111,12 @@ sub findkalentry {
 # prepare one day entry in kalendar
 sub kalendar_entry {
   my ($date, $ver) = @_;
+  our $dioecesis;
 
   $date = substr($date, 0, 5);
-  my @kalentries = split('~', get_from_directorium('kalendar', $ver, $date));
+  my $kalentries = get_from_directorium('tempora', $ver, $date, 0, $dioecesis);
+  $kalentries ||= get_from_directorium('kalendar', $ver, $date);
+  my @kalentries = split('~', $kalentries);
   return '' unless @kalentries;
 
   my $s = shift @kalentries;
