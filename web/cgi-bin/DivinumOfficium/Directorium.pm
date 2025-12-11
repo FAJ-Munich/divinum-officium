@@ -52,8 +52,9 @@ sub load_transfer_file {
   my $name = shift;
   my $filter = shift;
   my $type = shift;
+  my $dioecesis = shift;
 
-  my @lines = do_read "$datafolder/$type/$name.txt";
+  my @lines = do_read($dioecesis ? "$datafolder/$type/$dioecesis/$name.txt" : "$datafolder/$type/$name.txt");
   my $regexp = qr{^(?:Hy|seant)?(?:01|02-[01]|02-2[01239]|dirge1)};
   my $regexp2 = qr{^(?:Hy|seant)?(?:01|02-[01]|02-2[01239]|.*=(01|02-[01]|02-2[0123])|dirge1)};
 
@@ -83,38 +84,41 @@ sub load_kalendar {
 }
 
 sub load_tempora {
-  my ($version) = @_;
+  my ($version, $year, $dioecesis) = @_;
   die "Can't load tempora for empty version" unless $version;
   die "Can't load tempora for unknown version $version" unless defined $_data{$version};
   my $cache_key = "tempora:$version";
+  $cache_key .= ":$dioecesis" if $dioecesis && $dioecesis ne 'Generale';
+  $dioecesis ||= 'Generale';
 
   unless (is_cached($cache_key)) {
-    
+
     my (@tempora) = ();
-    my @lines = load_transfer_file('Generale', 0, 'Tempora');
-    
+    my @lines = load_transfer_file($dioecesis, 0, 'Tempora');
+
     foreach (@lines) {
       my ($line, $ver) = split(/\s*;;\s*/);
-      
+
       if (!$ver || ($ver =~ $_data{$version}{lc('transfer')})) {
         push(@tempora, split(/=/, $line, 2));
       }
     }
-    
+
     %{$_dCACHE{$cache_key}} = @tempora;
-    
+
   }
 }
 
-#*** load_transfer($version, $year, $stransferf)
-# load transfer table based on easterday
-sub load_transfer {
-  my $version = shift;
-  my $year = shift;
+#*** load_transfers($version, $year, $stransferf)
+# load transfer table by type based on easterday
+sub load_transfers {
+  my ($version, $year, $type, $dioecesis) = @_;
   die "Can't load transfer for empty version" unless $version;
   die "Can't load transfer for unknown version $version" unless defined $_data{$version};
-  my $type = shift || 'Transfer';
-  my $cache_key = lcfirst "$type:$version:$year";
+  $type ||= 'Transfer';
+  $dioecesis ||= '';
+  $dioecesis = '' if $dioecesis eq 'Generale';
+  my $cache_key = $dioecesis ? lcfirst "$type:$version:$dioecesis:$year" : lcfirst "$type:$version:$year";
 
   unless (is_cached($cache_key)) {
 
@@ -125,15 +129,15 @@ sub load_transfer {
     my $letter = ($easter - 319 + ($easter[1] == 4 ? 1 : 0)) % 7;
     my @letters = ('a', 'b', 'c', 'd', 'e', 'f', 'g');
 
-    my @lines = load_transfer_file($letters[$letter], $isleap, $type);
+    my @lines = load_transfer_file($letters[$letter], $isleap, $type, $dioecesis);
 
-    push(@lines, load_transfer_file($easter, $isleap, $type));
+    push(@lines, load_transfer_file($easter, $isleap, $type, $dioecesis));
 
     if ($isleap) {    # load Jan & Feb from next file
       $easter++;
       $easter = 401 if $easter == 332;
-      push(@lines, load_transfer_file($letters[$letter - 6], 2, $type));
-      push(@lines, load_transfer_file($easter, 2, $type));
+      push(@lines, load_transfer_file($letters[$letter - 6], 2, $type, $dioecesis));
+      push(@lines, load_transfer_file($easter, 2, $type, $dioecesis));
     }
 
     my (@transfer) = ();
@@ -153,11 +157,18 @@ sub load_transfer {
   %{$_dCACHE{$cache_key}};
 }
 
+#*** load_transfer($version, $year)
+# load transfer table (wrapper)
+sub load_transfer {
+  my ($version, $year, $dioecesis) = @_;
+  load_transfers($version, $year, 'Transfer', $dioecesis);
+}
+
 #*** load_stransfer($version, $year)
-# load scriptura transfer
+# load scriptura transfer table (wrapper)
 sub load_stransfer {
-  my ($version, $year) = @_;
-  load_transfer($version, $year, 'Stransfer');
+  my ($version, $year, $dioecesis) = @_;
+  load_transfers($version, $year, 'Stransfer', $dioecesis);
 }
 
 ### public functions
@@ -167,17 +178,21 @@ sub load_stransfer {
 # 'kalendar|tempora|transfer|stransfer' from files located in
 # Tabulae subdirectories
 sub get_from_directorium {
-  my ($subject, $version, $key, $year) = @_;
+  my ($subject, $version, $key, $year, $dioecesis) = @_;
   my $cache_key = "$subject:$version";
   $cache_key .= ":$year" if $year;
+  my $cache_key_dioecesis = ($dioecesis && $dioecesis ne 'Generale') ? "$subject:$version:$dioecesis" : '';
+  $cache_key_dioecesis .= ":$year" if $year && $cache_key_dioecesis;
   my $base = $subject eq 'kalendar' ? 'base' : 'tbase';
 
   no strict;
 
   &{"load_$subject"}($version, $year) unless is_cached $cache_key;
+  &{"load_$subject"}($version, $year, $dioecesis) unless !$cache_key_dioecesis || is_cached $cache_key_dioecesis;
 
-  $_dCACHE{$cache_key}{$key}
-    || ($_data{$version}{$base} && get_from_directorium($subject, $_data{$version}{$base}, $key, $year))
+  ($_dCACHE{$cache_key_dioecesis}{$key} && $_dCACHE{$cache_key_dioecesis}{$key} . ";;$dioecesis")
+    || $_dCACHE{$cache_key}{$key}
+    || ($_data{$version}{$base} && get_from_directorium($subject, $_data{$version}{$base}, $key, $year, $dioecesis))
     || '';
 }
 
