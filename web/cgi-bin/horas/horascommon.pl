@@ -18,7 +18,7 @@ sub error {
 }
 
 sub occurrence {
-  my ($day, $month, $year, $version, $tomorrow) =
+  my ($day, $month, $year, $version, $dioecesis, $tomorrow) =
     @_;    # sort out occurence for the day or the next day in case of $tomorrow
 
   # globals readonly
@@ -61,38 +61,73 @@ sub occurrence {
 
   my @officename = ($weekname, '', '');
 
-  # look for permanent Transfers assigned to the day of the year (as of 2023-5-22 only 12-12n in Newcal version)
-  my $transfertemp = get_from_directorium('tempora', $version, $sday);
+  # look for permanent Transfers assigned to the day of the year
+  my $transfertemp = get_from_directorium('tempora', $version, $sday, 0, $dioecesis);
+  $transfertemp =~ s/;;.*//;    # strip dioecesis flag and discard
 
-  if ($transfertemp && $transfertemp !~ /tempora/i) {
-    $transfertemp = subdirname('Sancti', $version) . "$transfertemp";    # add path to Sancti folder if necessary
-  } elsif ($transfertemp && $version =~ /monastic/i) {
-    $transfertemp = subdirname('Tempora', $version) . ($transfertemp =~ s/Tempora[^\/]\///r);
+  if ($transfertemp =~ s/::([a-g])//) {
+
+    my $litdom = $1;
+    my @easter = geteaster($year);
+    my $easter = $easter[1] * 100 + $easter[0];
+
+    my $letter = ($easter - 319 + ($easter[1] == 4 ? 1 : 0)) % 7;
+    my @letters = ('a', 'b', 'c', 'd', 'e', 'f', 'g');
+
+    if (leapyear($year) && $sday =~ /^(?:01|02-[01]|02-2[01239])/) {
+      $transfertemp = '' unless $litdom =~ $letters[$letter - 6];
+    } else {
+      $transfertemp = '' unless $litdom =~ $letters[$letter];
+    }
+
   }
+  my @transfertemp = split("~", $transfertemp);
 
-  # get annual transfers if applicable depending on the day of Easter
-  my $transfers = get_from_directorium('transfer', $version, $sday, $year);
-  my @transfers = split("~", $transfers);
-
-  foreach $transfer (@transfers) {
-    if ($transfer) {
-      if ($transfer !~ /tempora/i) {
-        $transfer = subdirname('Sancti', $version) . $transfer;
-      } else {
-        $transfer = subdirname('Tempora', $version) . ($transfer =~ s/Tempora\///r);
+  foreach $transfertemp (@transfertemp) {
+    if ($transfertemp) {
+      if ($transfertemp !~ /tempora/i) {
+        $transfertemp = subdirname('Sancti', $version) . "$transfertemp";    # add path to Sancti folder if necessary
+      } elsif ($version =~ /monastic/i) {
+        $transfertemp = subdirname('Tempora', $version) . ($transfertemp =~ s/Tempora[^\/]\///r);
       }
     }
   }
+  $transfertemp = shift @transfertemp;
 
-  # handle the case of a transferred vigil which does not have its own file "mm-ddv"
-  if ($transfers[0] =~ /v$/ && !(-e "$datafolder/Latin/$transfers[0].txt")) {
-    unless (leapyear($year) && $transfers[0] =~ /02-23v/) {
-      $transfervigil = shift @transfers;
-      $transfervigil =~ s/v$/\.txt/;
+  # get annual transfers if applicable depending on the day of Easter
+  my $transfers = get_from_directorium('transfer', $version, $sday, $year, $dioecesis);
+  $transfers =~ s/;;(.*)//;    # strip dioecesis flag
+  my $transferSource = $1;
+  my @transfers = split("~", $transfers);
+
+  if ($transfers) {
+    foreach $transfer (@transfers) {
+      if ($transfer) {
+        if ($transfer !~ /tempora/i) {
+          $transfer = subdirname('Sancti', $version) . "$transfer";    # add path to Sancti folder if necessary
+        } else {
+          $transfer = subdirname('Tempora', $version) . ($transfer =~ s/Tempora\///r);
+        }
+      }
     }
-    $transfer = '';
-  } else {
-    $transfer = shift @transfers;
+
+    # handle the case of a transferred vigil which does not have its own file "mm-ddv"
+    if ($transfers[0] =~ /v$/ && !(-e "$datafolder/Latin/$transfers[0].txt")) {
+      unless (leapyear($year) && $transfers[0] =~ /02-23v/) {
+        $transfervigil = shift @transfers;
+        $transfervigil =~ s/v$/\.txt/;
+      }
+      $transfer = '';
+    } else {
+      $transfer = shift @transfers;
+    }
+
+    if ($transferSource) {
+
+      # Discard local permanent transfer only if local annual transfer but keep the former if general transfer
+      $transfertemp = '';
+      @transfertemp = ();
+    }
   }
 
   if ($testmode eq 'Sanctoral') {
@@ -169,6 +204,7 @@ sub occurrence {
 
     if ($transfertemp && $transfertemp =~ /Sancti/ && !transfered($transfertemp, $year, $version)) {
       $sfile = $transfertemp;
+      @commemoentries = @transfertemp;
     } elsif ($transfer =~ /Sancti/) {
       $sfile = $transfer;
       @commemoentries = @transfers;
@@ -732,7 +768,7 @@ sub occurrence {
 }
 
 sub concurrence {
-  my ($day, $month, $year, $version) = @_;    # sort out concurrence for the day and the next day
+  my ($day, $month, $year, $version, $dioecesis) = @_;    # sort out concurrence for the day and the next day
 
   # globals readonly
   our ($hora, $missa, $caller, $datafolder, $lang2);
@@ -753,7 +789,7 @@ sub concurrence {
   our ($missanumber, $votive, $lang1);
   our $datafolder;
 
-  occurrence($day, $month, $year, $version, 1);    # get next day's office
+  occurrence($day, $month, $year, $version, $dioecesis, 1);    # get next day's office
   $cwinner = $winner;
   $crank = $rank;
   my $ccomrank = $comrank;
@@ -770,7 +806,7 @@ sub concurrence {
   my %cwinner = $csanctoraloffice ? %csaint : %ctempora;
   my @cwrank = $csanctoraloffice ? @csrank : @ctrank;
 
-  occurrence($day, $month, $year, $version, 0);    # get today's office
+  occurrence($day, $month, $year, $version, $dioecesis, 0);    # get today's office
   %winner = $sanctoraloffice ? %saint : %tempora;
   my @wrank = $sanctoraloffice ? @srank : @trank;
 
@@ -1453,7 +1489,7 @@ sub precedence {
   our (%tempora, %saint, %ctempora, %csaint) = () x 2;
 
   # globals read only
-  our ($hora, $version, $missa, $missanumber, $votive, $lang1, $lang2);
+  our ($hora, $version, $missa, $missanumber, $votive, $lang1, $lang2, $dioecesis);
   our ($vespera, $cvespera, $tvesp, $svesp, $rank);
   our $datafolder;
 
@@ -1488,9 +1524,9 @@ sub precedence {
 
   ### Get the relevant Office and Commemorations
   if ($hora =~ /vespera|completorium/i && $votive !~ /C12/i) {
-    concurrence($day, $month, $year, $version);
+    concurrence($day, $month, $year, $version, $dioecesis);
   } else {
-    occurrence($day, $month, $year, $version, 0);
+    occurrence($day, $month, $year, $version, $dioecesis, 0);
   }
 
   $duplex = 0;

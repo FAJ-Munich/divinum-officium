@@ -5,7 +5,7 @@ use utf8;
 # Divine Office fills the chapters from ordinarium
 $a = 4;
 
-use DivinumOfficium::Directorium qw(dirge);
+use DivinumOfficium::Directorium qw(get_from_directorium dirge);
 
 require "$Bin/specials/capitulis.pl";
 require "$Bin/specials/hymni.pl";
@@ -623,7 +623,7 @@ sub getseant {
 
   my $key = sprintf("seant%02i-%02i", $month, $day);
 
-  if (my ($d) = get_from_directorium('stransfer', $version, $year, $key)) {
+  if (my ($d) = get_from_directorium('stransfer', $version, $key, $year)) {
     my %w = %{setupstring($lang, "Tempora/$d.txt")};
     $w = $w{'Ant 3'};
   }
