@@ -3,9 +3,10 @@ use utf8;
 
 # prepare one day entry in ordo
 sub ordo_entry {
-  my ($date, $ver, $compare, $winneronly) = @_;
+  my ($date, $ver, $dioe, $compare, $winneronly) = @_;
 
   our $version = $ver;
+  our $dioecesis = $dioe;
   our ($day, $month, $year, $dayname, %scriptura, @commemoentries);
 
   precedence($date);
@@ -91,13 +92,13 @@ sub ordo_entry {
 # prepare row
 sub table_row {
   my ($date) = shift;
-  our ($version1, $compare, $version2, $dayofweek);
+  our ($version1, $compare, $version2, $dayofweek, $dioecesis);
 
   my $d = substr($date, 3, 2) + 0;
-  my ($c1, $c2, $cv) = ordo_entry($date, $version1, $compare);
+  my ($c1, $c2, $cv) = ordo_entry($date, $version1, $dioecesis, $compare);
 
   if ($compare) {
-    my ($c21, $c22, $cv2) = ordo_entry($date, $version2, $compare);
+    my ($c21, $c22, $cv2) = ordo_entry($date, $version2, $dioecesis, $compare);
     $c1 .= "<br/>$c21";
     $c2 .= "<br/>$c22";
     $cv .= "<br/>$cv2";

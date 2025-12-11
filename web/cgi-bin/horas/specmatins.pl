@@ -1522,13 +1522,15 @@ sub ant_matutinum_paschal {
 #*** initiarule($month, $day, $year)
 # returns the key from the proper Str$ver$year table for the date
 sub initiarule {
+
+  our $version, $dioecesis;
   my $month = shift;
   my $day = shift;
   my $year = shift;
 
   my $key = sprintf("%02i-%02i", $month, $day);
 
-  return get_from_directorium('stransfer', $version, $key, $year);
+  return get_from_directorium('stransfer', $version, $key, $year, $dioecesis);
 }
 
 #*** resolveitable(\%w, $file, $lang)
