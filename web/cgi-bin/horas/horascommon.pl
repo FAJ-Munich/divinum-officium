@@ -139,7 +139,14 @@ sub occurrence {
     $tday = subdirname('Tempora', $version) . "$weekname" . (($weekname !~ /Nat/i) ? "-$dayofweek" : "");
 
     # look for permanent Transfers assigned to the Temporal, most prominently the Ferias in the Octaves of S. Joseph, Corpus Christi, Ssmi Cordis
-    $tfile = get_from_directorium('tempora', $version, $tday) || $tday;
+    $tfile = get_from_directorium('tempora', $version, $tday, 0, $dioecesis) || $tday;
+    $tfile =~ s/;;.*//;    # strip dioecesis flag and discard
+
+    if ($tfile =~ /\~/) {
+      my @tr = split('~', $tfile);
+      $tfile = shift @tr;
+      @transfers = @transfers || @tr;
+    }
 
     if ($transfertemp && $transfertemp =~ /tempora/i && !transfered($transfertemp, $year, $version)) {
 
@@ -211,7 +218,9 @@ sub occurrence {
     } elsif ($sfile && transfered($sfile, $year, $version)) {
       $transfered = $sfile;
       $sfile = '';
-    } elsif ($transfer =~ /tempora/i && @transfers) {
+    } elsif ($transfer || @transfers) {
+      push(@commemoentries, $transfer) if $transfer;
+
       foreach my $tr (@transfers) {
         push(@commemoentries, $tr);
       }
@@ -357,7 +366,6 @@ sub occurrence {
       %saint = {};
       $sname = '';
       @srank = ();
-      @commemoentries = ();
     }
 
   }
@@ -1386,7 +1394,7 @@ sub extract_common {
   my ($communetype, $commune);
   our ($datafolder);
 
-  if ($common_field =~ /^(ex|vide)\s*(C[0-9]+[a-z]*\-*[12]*)/i) {
+  if ($common_field =~ /^(ex|vide)\s*(?!Sancti)((?:[a-z\s]*\/)?C[0-9]+[a-z]*\-*[123]*)/i) {
 
     # Genuine common.
     $communetype = $1;
