@@ -139,7 +139,14 @@ sub occurrence {
     $tday = subdirname('Tempora', $version) . "$weekname" . (($weekname !~ /Nat/i) ? "-$dayofweek" : "");
 
     # look for permanent Transfers assigned to the Temporal, most prominently the Ferias in the Octaves of S. Joseph, Corpus Christi, Ssmi Cordis
-    $tfile = get_from_directorium('tempora', $version, $tday) || $tday;
+    $tfile = get_from_directorium('tempora', $version, $tday, 0, $dioecesis) || $tday;
+    $tfile =~ s/;;.*//;    # strip dioecesis flag and discard
+
+    if ($tfile =~ /\~/) {
+      my @tr = split('~', $tfile);
+      $tfile = shift @tr;
+      @transfers = @transfers || @tr;
+    }
 
     if ($transfertemp && $transfertemp =~ /tempora/i && !transfered($transfertemp, $year, $version)) {
 
@@ -211,7 +218,9 @@ sub occurrence {
     } elsif ($sfile && transfered($sfile, $year, $version)) {
       $transfered = $sfile;
       $sfile = '';
-    } elsif ($transfer =~ /tempora/i && @transfers) {
+    } elsif ($transfer || @transfers) {
+      push(@commemoentries, $transfer) if $transfer;
+
       foreach my $tr (@transfers) {
         push(@commemoentries, $tr);
       }
@@ -357,7 +366,6 @@ sub occurrence {
       %saint = {};
       $sname = '';
       @srank = ();
-      @commemoentries = ();
     }
 
   }
@@ -1386,7 +1394,7 @@ sub extract_common {
   my ($communetype, $commune);
   our ($datafolder);
 
-  if ($common_field =~ /^(ex|vide)\s*(C[0-9]+[a-z]*\-*[12]*)/i) {
+  if ($common_field =~ /^(ex|vide)\s*(?!Sancti)((?:[a-z\s]*\/)?C[0-9]+[a-z]*\-*[123]*)/i) {
 
     # Genuine common.
     $communetype = $1;
@@ -1395,7 +1403,7 @@ sub extract_common {
 
     if ($paschal_tide) {
       my $divfolder = $datafolder;
-      $divfolder =~ s/missa/horas/g if $commune =~ /C[1-5](?!\d)[a-z]?/;
+      $divfolder =~ s/missa/horas/g if $commune =~ /C\d(?![3-9])[a-z]?/;
       my $paschal_fname = "$divfolder/Latin/" . subdirname('Commune', $version) . "$commune" . 'p.txt';
       my $temp_fname = $paschal_fname;    # temp_fname solution to be removed again once CommuneCist is filled
       $temp_fname =~ s/Cist/M/;
