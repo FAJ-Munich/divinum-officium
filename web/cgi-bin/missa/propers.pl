@@ -498,7 +498,7 @@ sub getcommemoratio {
     my $file = $2;
     if ($file =~ /^C[0-9]+$/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
     $file = "$file.txt";
-    if ($file =~ /^C/) { $file = "Commune/$file"; }
+    if ($file =~ /(?:[a-z\s]*\/)?C[0-9]+/) { $file = "Commune/$file"; }
     %c = %{setupstring($lang, $file)};
   } else {
     %$c = {};
@@ -573,7 +573,7 @@ sub getproprium {
     if (
         !$w
       && $commune =~ /Sancti/i
-      && ( $commune{Rank} =~ /;;ex\s*(C[0-9a-z]+)/i
+      && ( $commune{Rank} =~ /;;ex\s*((?:[a-z\s]*\/)?C[0-9a-z]+)/i
         || $commune{Rank} =~ /;;ex\s*(Sancti\/.*?)\s/i)
     ) {
       my $fn = $1;
@@ -606,9 +606,15 @@ sub getfromcommune {
   my $buildflag = shift;
   my $c = '';
 
-  if ($commemoratio{Rule} =~ /ex\s*(C[0-9]+[a-z]*)/) { $c = $1; }
-  if ($commemoratio{Rule} =~ /vide\s*(C[0-9]+[a-z]*|Sancti\/.*?|Tempora\/.*?)(\s|\;)/ && $flag) { $c = $1; }
-  if ($hora =~ /Prima/i && $rule =~ /(ex|vide)\s*(C[0-9]+[a-z]*|Sancti\/.*?|Tempora\/.*?)(\s|\;)/) { $c = $2; }
+  if ($commemoratio{Rule} =~ /ex\s*((?:[a-z\s]*\/)?C[0-9]+[a-z]*)/) { $c = $1; }
+
+  if ($commemoratio{Rule} =~ /vide\s*((?:[a-z\s]*\/)?C[0-9]+[a-z]*|Sancti\/.*?|Tempora\/.*?)(\s|\;)/ && $flag) {
+    $c = $1;
+  }
+
+  if ($hora =~ /Prima/i && $rule =~ /(ex|vide)\s*((?:[a-z\s]*\/)?C[0-9]+[a-z]*|Sancti\/.*?|Tempora\/.*?)(\s|\;)/) {
+    $c = $2;
+  }
   if (!$c) { return; }
 
   if ($c =~ /^C/) {

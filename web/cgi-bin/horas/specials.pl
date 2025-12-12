@@ -381,7 +381,7 @@ sub specials {
 
     # Set special conclusion when Office of the Dead follows.
     if ($item =~ /Conclusio/ && $commune !~ /C9/i && $votive !~ /C9/i) {
-      my $dirge = dirge($version, $hora, $day, $month, $year);
+      my $dirge = dirge($version, $hora, $day, $month, $year, $dioecesis);
 
       if (($dirge || ($winner{Rule} =~ /Vesperae Defunctorum/ && $vespera == 3))
         && $hora eq 'Vespera')

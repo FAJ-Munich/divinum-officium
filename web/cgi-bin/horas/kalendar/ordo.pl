@@ -29,8 +29,8 @@ sub ordo_entry {
   $c2 .= "<I>" . setfont(liturgical_color($h2), " $h2") . "</I>" if $h2;
   $c2 .= "<I>" . setfont($smallblack, " $scripturaUt") . "</I>" if $scripturaUt;
 
-  if ($c2 && @commemoentries > ($winner =~ /Tempora/i ? 0 : 1)) {
-    for my $ind (($winner =~ /Tempora/i ? 0 : 1) .. @commemoentries - 1) {
+  if ($c2 && @commemoentries > ($winner =~ /Tempora/i && $commemoentries[0] !~ /Tempora/ ? 0 : 1)) {
+    for my $ind (($winner =~ /Tempora/i && $commemoentries[0] !~ /Tempora/ ? 0 : 1) .. @commemoentries - 1) {
       my %com = %{setupstring('Latin', "$commemoentries[$ind].txt")};
       my $comname = $com{Rank};
       $comname =~ s/\;\;.*//;
@@ -67,7 +67,7 @@ sub ordo_entry {
     $c2 = '' unless $c2 =~ /Commemoratio|Scriptura/;
   }
 
-  if (dirge($version, 'Laudes', $day, $month, $year)) { $c1 .= setfont($smallblack, ' dirge'); }
+  if (dirge($version, 'Laudes', $day, $month, $year, $dioecesis)) { $c1 .= setfont($smallblack, ' dirge'); }
   if ($version !~ /1960/ && $initia) { $c1 .= setfont($smallfont, ' *I*'); }
 
   if ($version !~ /1955|196/ && $winner{Rule} =~ /\;mtv/i) {
