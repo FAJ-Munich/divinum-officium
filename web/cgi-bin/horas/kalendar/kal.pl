@@ -84,9 +84,10 @@ sub latin_uppercase {
 
 # findkalentry - read rank from sancti file
 sub findkalentry {
+
   my ($entry, $ver) = @_;
   our $winner = subdirname('Sancti', $ver) . "$entry.txt";
-  $version = $ver;
+  our $version = $ver;
   my %saint = %{setupstring('Latin', "$winner")};
 
   my @srank = split(";;", $saint{Rank});
@@ -115,6 +116,7 @@ sub kalendar_entry {
 
   $date = substr($date, 0, 5);
   my $kalentries = get_from_directorium('tempora', $ver, $date, 0, $dioecesis);
+  $kalentries =~ s/;;.*//;    # strip dioecesis flag
   $kalentries ||= get_from_directorium('kalendar', $ver, $date);
   my @kalentries = split('~', $kalentries);
   return '' unless @kalentries;
@@ -127,7 +129,7 @@ sub kalendar_entry {
 
   while (my $ke = shift @kalentries) {
     my ($d1, $d2) = findkalentry($ke, $ver);
-    $output .= ' Com. ' . $d1;
+    $output .= ' <I>Com.</I> ' . $d1;
   }
 
   $output;

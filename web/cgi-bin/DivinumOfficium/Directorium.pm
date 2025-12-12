@@ -133,7 +133,12 @@ sub load_transfers {
 
     push(@lines, load_transfer_file($easter, $isleap, $type, $dioecesis));
 
-    if ($isleap) {    # load Jan & Feb from next file
+    if ($isleap) {
+
+      # get transfers across the leap day (Diœcesian calendars only)
+      push(@lines, load_transfer_file($easter . 'bis', 0, $type, $dioecesis));
+
+      # load Jan & Feb from next file
       $easter++;
       $easter = 401 if $easter == 332;
       push(@lines, load_transfer_file($letters[$letter - 6], 2, $type, $dioecesis));
@@ -144,7 +149,8 @@ sub load_transfers {
 
     foreach (@lines) {
       my ($line, $ver) = split(/\s*;;\s*/);
-
+      next unless $line;
+      
       if (!$ver || ($ver =~ $_data{$version}{lc($type)})) {
         push(@transfer, split(/=/, $line, 2));
       }
@@ -190,8 +196,12 @@ sub get_from_directorium {
   &{"load_$subject"}($version, $year) unless is_cached $cache_key;
   &{"load_$subject"}($version, $year, $dioecesis) unless !$cache_key_dioecesis || is_cached $cache_key_dioecesis;
 
-  ($_dCACHE{$cache_key_dioecesis}{$key} && $_dCACHE{$cache_key_dioecesis}{$key} . ";;$dioecesis")
+  $cache_key_dioecesis
+    ? ($_dCACHE{$cache_key_dioecesis}{$key} && $_dCACHE{$cache_key_dioecesis}{$key} . ";;$dioecesis")
     || $_dCACHE{$cache_key}{$key}
+    || ($_data{$version}{$base} && get_from_directorium($subject, $_data{$version}{$base}, $key, $year, $dioecesis))
+    || ''
+    : $_dCACHE{$cache_key}{$key}
     || ($_data{$version}{$base} && get_from_directorium($subject, $_data{$version}{$base}, $key, $year, $dioecesis))
     || '';
 }
@@ -203,27 +213,41 @@ sub transfered {
   my $str = shift;
   my $year = shift;
   my $version = shift;
+  my $dioecesis = shift;
 
   $str =~ s+Sancti(M|Cist|OP)?/++;
   return '' unless $str;
 
-  my $cache_key = "transfer:$version:$year";
+  my @cache_key =
+    $dioecesis && $dioecesis ne 'Generale'
+    ? ("transfer:$version:$dioecesis:$year", "transfer:$version:$year")
+    : ("transfer:$version:$year");
+
+  # To avoid unnecessary duplications of Transfers, only match files with same 'mm-dd' from the same folder
+  $str =~ m+(^.*?/)+;
+  my $strFolder = $1 || '';
 
   no strict;
 
-  load_transfer($version, $year) unless is_cached $cache_key;
+  foreach my $cache_key (@cache_key) {
+    load_transfer($version, $year, $dioecesis) unless is_cached $cache_key;
 
-  my %transfer = %{$_dCACHE{$cache_key}};
+    my %transfer = %{$_dCACHE{$cache_key}};
 
-  while (my ($key, $val) = each %transfer) {
-    next unless $val;
-    next if $key =~ /(dirge|Hy)/i;
+    while (my ($key, $val) = each %transfer) {
+      next unless $val;
+      next if $key =~ /(dirge|Hy)/i;
 
-    if ($val =~ /Tempora/i && $val !~ /Epi1\-0/i) { next; }
+      if ($val =~ /Tempora/i && $val !~ /Epi1\-0/i) { next; }
 
-    if ($val !~ /^$key/ && ($str =~ /$val/i || $val =~ /$str/i) && $transfer{$key} !~ /v\s*$/i) {
-      return $key;
+      if ( $val !~ /^$key/
+        && (($str =~ /$val/i && $val =~ /^$strFolder/) || $val =~ /$str/i)
+        && $transfer{$key} !~ /v\s*$/i)
+      {
+        return $key;
+      }
     }
+    $dioecesis = '';
   }
 
   while (my ($key, $val) = each %{$_dCACHE{"tempora:$version"}}) {
@@ -232,7 +256,7 @@ sub transfered {
     if ($val =~ /$str/i && $transfer{$key} && $transfer{$key} !~ /v\s*$/i) { return $key; }
   }
 
-  return $_data{$version}{'tbase'} ? transfered($str, $year, $_data{$version}{'tbase'}) : '';
+  return $_data{$version}{'tbase'} ? transfered($str, $year, $_data{$version}{'tbase'}, $dioecesis) : '';
 }
 
 #*** check_coronatio($day, $month)
@@ -247,7 +271,7 @@ sub check_coronatio {
 #*** dirge($version, $hora, $day, $month, $year)
 # check if defunctorum shoul be said after hora
 sub dirge {
-  my ($version, $hora, $day, $month, $year) = @_;
+  my ($version, $hora, $day, $month, $year, $dioecesis) = @_;
 
   return 0 unless $hora =~ /Vespera|Laudes/i;
 
@@ -255,10 +279,19 @@ sub dirge {
     $hora =~ /Laudes/i
     ? get_sday($month, $day, $year)
     : nextday($month, $day, $year);
-  my $dirgeline =
-      get_from_directorium('transfer', $version, 'dirge1', $year) . ' '
-    . get_from_directorium('transfer', $version, 'dirge2', $year) . ' '
-    . get_from_directorium('transfer', $version, 'dirge3', $year);
+  my $dirgeline;
+
+  if ($dioecesis) {
+    $dirgeline =
+        get_from_directorium('transfer', $version, 'dirge1', $year, $dioecesis) . ' '
+      . get_from_directorium('transfer', $version, 'dirge2', $year, $dioecesis) . ' '
+      . get_from_directorium('transfer', $version, 'dirge3', $year, $dioecesis);
+  } else {
+    $dirgeline =
+        get_from_directorium('transfer', $version, 'dirge1', $year) . ' '
+      . get_from_directorium('transfer', $version, 'dirge2', $year) . ' '
+      . get_from_directorium('transfer', $version, 'dirge3', $year);
+  }
   $dirgeline =~ /$sday/;
 }
 
