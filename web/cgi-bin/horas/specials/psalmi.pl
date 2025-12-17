@@ -138,6 +138,9 @@ sub psalmi_minor {
       $prefix = '';
       $comment = 6;
     }
+
+    my %w = columnsel($lang) ? %winner : %winner2;
+    $ant = $w{"Ant Completorium$vespera"} || $ant;
   }
 
   if ($winner =~ /tempora/i || $dayname[0] =~ /pasc/i) {
@@ -496,6 +499,7 @@ sub psalmi_major {
       && $hora eq 'Laudes')
     {
       @p = split("\n", $psalmi{'DayaC Laudes2'});
+      $p[2] = ";;62";
     }
   }
   my $lim = 5;
