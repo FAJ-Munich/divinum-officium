@@ -1,0 +1,3 @@
+#= sunday letter: c, rule number: 14, next: 2083, prev: 2021
+02-02=Tempora/Quadp1-2;;1888 1906
+02-27=Tempora/aliquibus locis/Quadp1-2-OratioDNJC~Tempora/Quad1-6;;1888 1906

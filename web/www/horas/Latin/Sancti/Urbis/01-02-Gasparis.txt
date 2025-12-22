@@ -1,0 +1,71 @@
+[Officium]
+B. Gasparis del Bufalo, Confessoris
+(sed rubrica 195 aut rubrica 196)
+S. Gasparis del Bufalo, Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4
+
+[Rule]
+vide C4;mtv
+9 lectiones
+
+[Comment]
+Beatificatio:	18 Dec 1905
+Sanctificatio:	12 Jun 1954
+
+[Oratio]
+Deus, qui ad salútem ao imárum, quas tuo pretioso sanguine redemísti, novam per beatum Gásparem in Ecclésia tua famíliam congregásti: concéde propítius; ut, ipso intercedénte, copiósum tuæ redemptiónis fructum consequámur: 
+$Qui vivis
+
+[Introitus]
+!Apoc. 5:9-10
+v. Dignus es, Dómine, accípere librum et aperíre signácula ejus: quóniam occísus es, et redemísti nos Deo in sánguine tuo, et fecísti nos Deo nostro regnum et sacerdótes. 
+!Ps. 83,2-3 
+V. Quam dilécta tabernácula tua, Dómine virtutum! concupiscit, et déficit ánima mea in átria Dómini. 
+&Gloria
+v. Dignus es, Dómine, accípere librum et aperíre signácula ejus: quóniam occísus es, et redemísti nos Deo in sánguine tuo, et fecísti nos Deo nostro regnum et sacerdótes. 
+
+[Lectio]
+Léctio Epístolæ beáti Pauli Apóstoli ad Ephésios.
+!Eph 1:3-7
+Benedictus Deus et Pater Dómini nostri Jesu Christi, qui benedíxit nos in omni benedictióne spirituáli in cæléstibus in Christo, sicut elégit nos in ipso ante mundi constitutiónem, ut essémus sancti et immaculáti in conspéctu ejus in caritáte. Qui prædestinávit nos in adoptiónem filiórum per Jesum Christum in ipsum: secúndum propósitum voluntátis suæ, in laudem glóriæ grátiæ
+suæ, in qua gratificávit nos in dilécto Fílio suo. In quo habémus redemptiónem per sánguinem ejus.
+
+[Graduale]
+!Apoc 14:6
+Vidi álterum Angelum volántem per médium cæli, habéntem Evangélium ætérnum, ut evangelizáret sedéntibus super terram.
+!Rom 10:15
+V. Quam speciósi pedes evangelizántium pacem, evangelizántium bona!
+Allelúja, allelúja. 
+!2 Cor. 2:14
+V. Deo autem grátias, qui odóremn otítiæ suæ maniféstat per nos in omni loco. Allelúja.
+
+[GradualeP]
+Allelúja, allelúja. 
+!Rom 10:15
+V. Quam speciósi pedes evangelizántium pacem, evangelizántium bona!
+Allelúja.
+!2 Cor. 2:14
+V. Deo autem grátias, qui odóremn otítiæ suæ maniféstat per nos in omni loco. Allelúja.
+
+[Evangelium]
+Sequéntia ++ sancti Evangélii secúndum Marcum
+!Mc 16:15-18
+In illo témpore: Dixit Jesus discípulis suis: Eúntes in mundum univérsum, prædicate Evangélium omni creatúræ. Qui credíderit, et baptizátus fúerit, salvus erit: qui vero non credíderit, condemnábitur. Signa autem eos, qui credíderint, hæc sequéntur: In nómine meo dæmónia ejícient: linguis loquéntur novis: serpéntes tollent: et si mortíferum quid bíberint, non eis nocébit: super ægros manus impónent, et bene habébunt.
+
+[Offertorium]
+!Apoc 22:14
+Beáti, qui lavant stolas suas in sánguine Agni: ut sit potéstas eórum in ligno vitæ.
+
+[Secreta]
+Dómine Jesu Chrlste, qui pres tiósi sánguinis tui divítias in beátum Gásparem effudísti: fac nos hanc salutárem hóstiam sic tibi offérre, ut ejúsdem sánguinis fructus large percípere mereámur: 
+$Qui vivis
+
+[Communio]
+!Apoc. 7:17
+Agnus, qui in médio throni est, reget illos, et dedúcet eos ad vitæ fontes aquárum.
+
+[Postcommunio]
+Inténde nobis fámulis tuis, quæsumus, Dómine: et beáto Gáspare Confessóre tuo intercedénte, quam ille ex hoc divíno convívio spíritus gustávit dulcédinem; eámdem et nos hauríre concédas. 
+$Per Dominum
