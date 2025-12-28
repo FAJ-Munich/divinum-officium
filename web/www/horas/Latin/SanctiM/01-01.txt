@@ -12,7 +12,7 @@ Lectio1 TempNat
 [Responsory Vespera 1]
 @Sancti/12-25:Responsory Breve Tertia
 (sed rubrica cisterciensis)
-@SanctiM/12-25:Responsory4
+@SanctiCist/12-25:Responsory4
 (sed rubrica Barroux)
 @Commune/C11:Responsory1
 
