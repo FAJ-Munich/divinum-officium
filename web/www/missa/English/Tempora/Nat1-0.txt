@@ -1,11 +1,6 @@
 [Officium]
 Dominica Infra Octavam Nativitatis
 
-[Rule]
-Gloria
-Credo
-Prefatio=Nat
-
 [Introitus]
 !Wis 18:14-15
 v. When a profound stillness compassed everything and the night in its swift course was half spent, Your all-powerful Word, O Lord, bounded from heaven’s royal throne.
@@ -18,10 +13,9 @@ v. When a profound stillness compassed everything and the night in its swift cou
 O Almighty and eternal God, direct our actions in conformity with Your will, that in the name of Your beloved Son we may be worthy to do good works in abundance.
 $Qui tecum
 
-[Commemoratio Oratio]
-!For Octave of Nativity
-Grant, we beseech You, almighty God, that the new birth, in the flesh, of Your only-begotten Son may deliver us whom the bondage of old keeps under the yoke of sin.
-$Per eumdem
+[Commemoratio Oratio] (nisi rubrica 1960)
+!For the Octave of the Nativity.
+@Sancti/12-25m3:Oratio
 
 [Lectio]
 Lesson from the letter of St. Paul the Apostle to the Galatians
@@ -48,10 +42,9 @@ God has made the world firm, not to be moved. Your throne, O God, stands firm fr
 Grant, we beseech You, almighty God, that the gift offered in the sight of Your majesty may obtain for us the grace of reverent devotion and secure us eternal happiness.
 $Per Dominum
 
-[Commemoratio Secreta]
-!For Octave of Nativity
-Make holy the sacrificial gifts we offer, O Lord, and by the new birth of Your only-begotten Son cleanse us from the stains of our sins.
-$Per eumdem
+[Commemoratio Secreta] (nisi rubrica 1960)
+!For the Octave of the Nativity.
+@Sancti/12-25m3:Secreta
 
 [Communio]
 !Matt 2:20
@@ -61,7 +54,6 @@ Take the Child and His mother, and go into the land of Israel, for those who sou
 By the working of this sacrament, O Lord, may our sins be erased and our just desires fulfilled.
 $Per Dominum
 
-[Commemoratio Postcommunio]
-!For Octave of Nativity
-Grant, we beseech You, almighty God, that the Saviour of the world, born this day, Who is the author of our birth in godliness, may bestow on us immortal life.
-$Qui tecum
+[Commemoratio Postcommunio] (nisi rubrica 1960)
+!For the Octave of the Nativity.
+@Sancti/12-25m3:Postcommunio

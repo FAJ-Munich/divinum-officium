@@ -1,12 +1,8 @@
 [Officium]
-S. Silvestri Papæ et Conf.
+S. Silvestri Papæ et Confessoris
 
-
+[Name]
 Silvester
-
-[Commemoratio Oratio]
-!Pro Octava Nativitatis.
-@Sancti/12-25m3:Oratio
 
 [Lectio]
 @Commune/C4a
@@ -24,14 +20,3 @@ V. Invéni David servum meum: óleo sancto meo unxi eum. Allelúja.
 
 [Evangelium]
 @Commune/C5
-
-[Offertorium]
-@Commune/C4
-
-[Commemoratio Secreta]
-!Pro Octava Nativitatis.
-@Sancti/12-25m3:Secreta
-
-[Commemoratio Postcommunio]
-!Pro Octava Nativitatis.
-@Sancti/12-25m3:Postcommunio
