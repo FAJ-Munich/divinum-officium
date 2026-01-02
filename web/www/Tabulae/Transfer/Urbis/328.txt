@@ -1,0 +1,3 @@
+#= sunday letter: c, rule number:  7, next: 2027, prev: 1948
+Tempora/Quadp2-2=X-X;;1888 1906
+Tempora/Quad2-6=aliquibus locis/Quadp2-2-PassionisDNJC;;1888 1906

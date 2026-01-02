@@ -1,0 +1,20 @@
+@Sancti/05-25o
+
+[Rank]
+;;Duplex;;3;;vide C2b-1
+
+[Rule]
+vide C2b-1;
+9 lectiones
+Gloria
+
+[Lectio4]
+@Sancti/05-25o:Lectio94
+
+[Lectio5]
+Sermo sancti Augustíni Epíscopi
+!De S. Cypriano, serm. 12.
+Sermónem exigit tam grata et religiosa solemnitas, qua passiónem beáti Martyris Urbáni celebramus. Tristis procul dúbio tunc Ecclesia fuit, non damno cadentis, sed desiderio recedentis, semper cúpiens videre praesentem tam bonum rectorem atque doctorem. Sed quos afflixerat sollicitudo certaminis, consolata est corona victoris. Et nunc non solum sine ulla tristitia, verum etiam cum ingenti laetitia, cuncta quae tunc gesta sunt, legdndo recolimus: dieque isto gaudere nobis concessum est, non timere. Neque enim formidamus terribiliter venientem, sed exspectamus hilariter redeúntem.
+
+[Lectio6]
+Vicina corporis morte, non moriebatur in animo pastoris vigilantia pastoralis: et cura tuendi Dominici gregis usque ad extremum vitae hujus diem mente s6bria tenebatur. Nec excutiebat ab animo diligentiam fidelissimi dispensatoris manus jam proxima cruenti carnificis. Ita se Martyrem cogitabat futúrum, ut esse non obHvisceretur episcopum; magis curans, quam rationem pastorum principi de commissis sibi ovibus redderet, quam quid infideli proconsuli de fide propria responderet. Amabat quippe eum qui Petro dixerat: Amas me? pasce oves meas. Et pascebat oves ejus pro quibus sanguinem fúndere, illum imitans, præparabat.

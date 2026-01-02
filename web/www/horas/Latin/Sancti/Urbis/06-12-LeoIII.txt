@@ -1,0 +1,68 @@
+[Officium]
+S. Leonis III Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b
+9 lectiones
+
+[Name]
+Leónis
+(sed communi Summorum Pontificum)
+Leónem
+
+[Lectio4]
+Leo hujus nóminis tertius, Ro-
+manus, ex patre Astippio, a
+pueritia in vestiario patriar-
+chii Lateranensis in omnem eccle-
+siasticam ac divinam disciplinam
+educatus, ex monacho sancti Be-
+nedicti, presbyter cardinalis, ac
+demum Pontifex Maximus, incre-
+dibili omnium consensione, ipso
+die obitus Adriani creatus est, an-
+no septingentesimo nonagesimo
+quinto, seditque in sancta Petri
+sede annos viginti, menses quin-
+que, dies decem et septem.
+
+
+[Lectio5]
+Talem se in pontificatu exhibuit,
+qualem se ante assumptionem
+praebiierat: piissimum scilicet, mi-
+tissimimi, singulari in Deum reli-
+gione, erga proximum caritate,
+prudentia in rebus gerendis, paii-
+perumsegroriimque parentem, Ec-
+clesiae defensorem, divini cultus
+promotorem, litpote qui maxima
+quaeque pro Christo et Eccldsia
+sedulo praestitit, et patienter tole-
+rdvit.
+
+[Lectio6]
+Cum ab impiis, erutis 6cuhs, et
+confossus vulneribus, semivi-
+vus relictus fuisset, postridie per
+insigne miraculum sanus inventus
+est, iisdemque parricidisvitam suis
+precibus obtinuit. Carolo Magno
+Francórum regi Romanum impe-
+rium detulit; peregrinis amph'ssi-
+mum xenodochium exstriixit: pa-
+trim6nium aH6sque fundos paupe-
+ribus adscripsit. Basilicas Urbis,
+praesertim Lateranensem (in cujus
+patriarchio trichnium magnum su-
+per 6mnia trichnia fundavit), et sa-
+cras aedes tot ac tantis divitiis cu-
+mulavit, ut fidem omnem superare
+videatur. Vitam demum rehgio-
+sissimam pio fine coronavit, pri-
+die Idus Jiinii, anno D6mini octin-
+gentesimo decimo sexto, et sepiil-
+tus est in Vaticano.

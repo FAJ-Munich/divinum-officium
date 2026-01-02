@@ -1,0 +1,6 @@
+#= sunday letter: d, Diœcesis Urbis seu Romana
+01-11=01-10;;1570 1888 1906
+02-17=Urbis/01-11cc;;1888 1906
+07-12=Urbis/07-04-OmnisSSRESP~07-12~07-12o;;1888 1906
+08-22=08-22t~08-22cc;;1570 M1617 1888 1906
+08-23=aliquibus locis/08-22~08-23;;1888 1906

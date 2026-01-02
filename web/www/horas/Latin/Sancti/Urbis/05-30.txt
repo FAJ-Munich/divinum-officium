@@ -1,0 +1,57 @@
+@Sancti/05-30
+
+[Rank]
+;;Duplex;;3;;vide C2b
+
+[Rule]
+vide C2b;
+9 lectiones
+Gloria
+
+[Lectio4]
+@Sancti/05-30:Lectio93
+
+[Lectio5]
+Sermo sancti Augusíni Epíscopi
+!Sermo 138 de Verbis Domini
+Pastor bonus Christus. Quid Pe-
+trus? nonne bonus pastor? non-
+ne et ipse animam suam pro 6vi-
+bus p6suit? Quid Paulus? Quid
+ceteri Ap6stoli? Quid e6rum tem-
+pora consequentes beati episcopi
+Martyres? Quid etiam iste sanctus
+Felix? Nonne omnes pastóres boni, non mercenarii, de quibus"
+dicitur: Amen dico vobis, perce-
+perunt mercedem suam? Omnes
+ergo illi pastores boni, non solum
+quia sanguinem fuderunt, sed quia
+pro ovibus fuderunt Non enimfu-
+derunt elatione, sed caritate.
+
+[Lectio6]
+Nam et apud haereticos, qui pro-
+pter iniquitates et errores su-
+os aliquid molestiarum perpessi
+fuerunt, n6mine martyrii se jactant:
+ut hoc pdllio dealbati facilius fu-
+rentur, quia lupi sunt Si autem
+vultis scire in quo niimero habendi
+sunt, pastorem bonum Paulum
+Apostolum audite: qudniam non
+omnes, qui corpora sua in passio-
+ne etiam ignibus tradunt, aestiman-
+di sunt sanguinem fudisse pro ovi-
+bus, sed potius contra oves. Si
+distribiiero, inquit omnia meapau-
+peribus, et tradidero corpusmeum,
+ut ardeam: Jam ipsi sunt: sed vi-
+de quid sequitur: Caritatem autem
+non hiibeam, nihil mihi prodest
+Ecce venitur ad passionem, ecce
+venitur et ad sanguinis effusionem,
+venitur et ad cdrporum incensio-
+nem; et tamen nihil prodest, quia
+caritas deest. Adde caritatem, pro-
+sunt omnia: detrahe caritatem, ni-
+hil prosunt cetera.

@@ -1,0 +1,122 @@
+[Officium]
+B. Eugenii III Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;
+9 lectiones
+
+[Name]
+Eugénii
+
+[Oratio]
+Da,quǽsumus omnipotens Deus, beati Eugenii Confessoris tui atque Pontificis intercessióne: ut toto tibi corde famulemur; quia nulla nobis praevalebit hostilitas, si in te veraciter confidamus.
+$Per Dominum
+
+[Lectio4]
+Eugenius hujus nominis tertius,
+Bernardus antea dictus, pa-
+tria Pisanus fuit. Exacta ado-
+lescentia, clericali militiae nomen
+dedit, et sacerd6tio postea initia-
+tus, ob egregias animi dotes inter
+can6nicos metropolitanae Pisanae
+cooptari meruit. Sancti Bernardi,
+qui tunc Pisas advenerat, exemplo
+illectus, eidem sese instituendum
+dedit, atque in Claravalle mona-
+sticum induit habitum. Tanti viri
+disciplina adeo profecit,ut primum
+Farfensi monasterio ab eo praep6-
+situs, deinde abbas ccen6bii san-
+ct6rum Vincentii et Anastasii ad
+Aquas Salvias ab Innocentio se-
+ciindo Summo Pontifice electus
+fiierit. Quo in obeiindo miinere
+cum sanctim6niae ac prudentiae
+miro splend6re inclaruisset, a car-
+dinalibus post Liicii seciindi 6b-
+itum cunctis suffragiis P6ntifex
+Maximus creatus est. Vix autem
+ab inito pontificatu, perduellium
+turbis Eccl^siae Romanae princi-
+patum evertere adnitentibus, se-
+mel atque iterum ab Urbe disce-
+dere c6gitur, sedataque deinde
+tempestate iterum ad eam summo
+hon6re, et bon6rum gratulati6ne
+regréditur.
+
+[Lectio5]
+Viterbii commorans, Anglise le-
+gatos, Scotiae, Germaniae, Hi-
+spaniae et Galliae excepit, beato
+Petro in ejus persdna obedientiam
+et obsequium profitentes; itemque
+nonmillos Armenise episcopos, qui
+insuper Metropolitani ac gentis
+suae nomine de gravi6ribus orien-
+talis ecclesiae neg6tiis ejus exqui-
+siverunt sententiam. Profectus in
+Galliam, concilia Rhemis ac Tre-
+viris celebravit, in quibus Eonis et
+Gilberti Porretani proscripsit er-
+rores, aliaque plura sapienter con-
+stituit ad cleri disciplinam, et Ec-
+clesiae Hbertatem. Coendbia deinde
+Claravallense ac Cisterciense una
+cum sancto Bernardo invisit prae-
+claris ubique sanctae conversatio-
+nis exemplis relictis. Ab eodem
+Bernardo salutaria monita exqui-
+sivit ad Ecclesiam administran-
+dam, et apostolicae Sedis jura pro-
+tuenda; ille vero ei pretiosum li-
+brumde Consideratione dedit, quo
+Pontificis principisque praeroga-
+tivae et officia coelesti sapientia
+declarantur. Litterarum quoque
+cultor eximius, cum theologiae ac
+jurisprudentiae reform^vit studia,
+tum academicos, uti vocant, gra-
+dus instituit, quo adolescentium
+animos alacriores redderet.
+
+[Lectio6]
+Singulari pacis fov6ndae cupiditate, curas omnes intendit, ut
+discordias PisAnos inter et Luc6n-
+ses componeret. Dec{3rem domus
+Dei summopere dilexit: nam et
+basilicam Liberianam pulchriori
+decoravit orn^tu, et dlia templa
+quampliira, aut ref6cit, aut pretio-
+sis donis ditavit. Vaticanae autem
+basilicae quartam oblationum par»
+tem sibi de more competentem,
+praeter decimam jam a sancto
+Leone nono Apostol6rum Principi
+attributam, elargitus est. Henri-
+cum imperatdrem, cathoIic6rum
+principum n6bile exemplar, san-
+ctorum in album retulit. Tandem
+Tibure, quo aestivos cal6res vitan-
+di causa ab Urbe conc6sserat, gra-
+vi morbo implicitus, mortem ju-
+st6rum opp6tiit octavo Idus Jiilii
+anno millesimo centesimo quin-
+quagesimo tertio, postquam in
+Petri cathedra sedisset aiios octo,
+et menses quatuor. Corpus Ro-
+mam delatum, c6nditum fuit in
+Vaticano, una cum sancti Greg6rii
+tertii et bedti Petri Levitae exiiviis.
+Sacrum porro cultum jam tunc
+miracul6rum accedente fulg6re ei
+exhibitum, et in aliis quoque re-
+gi6nibus, ad haec usque tdmpora
+vigentem, Summus P6ntifex Pius
+nonus, ex Sacrorum Rituum Con-
+gregati6nis conpiilto, ratum habuit
+et confirmavit.

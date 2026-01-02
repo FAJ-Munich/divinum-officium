@@ -1,0 +1,25 @@
+[Officium]
+S. Antherus, Papæ et Martyris
+
+[Rank]
+;;Duplex;;3;;vide C2b
+
+[Rule]
+vide C2b
+9 lectiones
+
+[Name]
+Anthéri
+(sed communi summorum pontificum)
+Anthérum
+
+[Lectio4]
+Antherus, natióne Græcus, patre Romulo, post sanctum Pontianura Romae ordinatus est Episcopus. Is gesta martyrum diligenter a notariis conquisivit ac in Ecclesia recondidit. Propter eam causam a Maximo Praefecto martyrio coronatus est tertio Nonas Januarii, sepultusque in coemeterio Callisti via Appia Maximino principe. Unica ordinatione, mense Decembri, ordinavit Episcopum Fundanae civitatis in Campania. Sedit in Pontificatu mensem unum, dies duodecim.
+
+[Lectio5]
+Sermo sancti Augustini Episcopi.
+!De verbis Domini 50
+Pastor bonus Christus. Quid Petrus ? Nonne fudisse pro ovibus, sed bonus pastor ? Nonne et ipse animam suam pro ovibus posuit? Quid Paulus ? Quid ceteri Apostoli? Quid eorum tempora conséquentes beáti Epíscopi mártyres? Quid étiam iste sanctus Anthérus? Nonne omnes pastóres boni, non mercenárii, de quibus dícitur: Amen dico vobos, percepérunt mercédem suam? Omnes ergo illi pastores boni, non solum quia sanguinem fuderunt, sed quia pro ovibus fuderunt. Non enim fuderunt elatione, sed caritate.
+
+[Lectio6]
+Nam et apud haereticos, qui propter iniquitates, et errores suos aliquid molestiarum perpessi fuerunt, nomine martyrii se jactant: ut hoc pallio dealbati facilius furentur, quia lupi sunt. Si autem vultis scire, in quo numero habendi sunt, pastorem bonum, Paulum Apostolum audite ; quoniam non omnes, qui corpora sua in passione etiam ignibus tradunt, aestimandi sunt sanguinem potius contra oves. Si distribuero, inquit, omnia mea pauperibus, et tradidero corpus meum, ut ardeam: jam ipsi sunt; sed vide quid sequitur; caritatem autem non habeam, nihil mihi prodest. Ecce venítur ad passiónem, ecce venítur et ad sánguinis effusiónem, venítur et ad córporum incensiónem; et tamen nihil prodes, quia cáritas deest. Adde caritátem, prosunt ómnis: détrahe caritátem, nihil prosunt cétera.

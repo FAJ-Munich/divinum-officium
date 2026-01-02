@@ -1,0 +1,83 @@
+[Officium]
+S. Philumenæ Virginis et Martyris
+
+[Rank]
+;;Duplex;;3;;vide C6
+
+[Rule]
+vide C6;
+9 lectiones
+
+[Oratio]
+Deus, qui inter cetera potentiae tuae miracula etiam in sexu fragili victoriam martyrii contulisti: concede propitius; ut qui beatae Philumenae, Virginis et Martyris tuae, natalitia colimus, per ejus ad te exempla gradiamur.
+$Per Dominum
+
+[Lectio4]
+Inter cetera Martyrum sepiil-
+chra, quae in coemeterio Pri-
+scillae ad viam Salariam re-
+periri solent, illud exstitit quo re-
+positum ftierat sanctae Philumenae
+corpus, uti ex tumuli inscriptione
+tribus laterculis apposita perlege-
+batur. Licet vero inventa ibidem
+fiierit phiala sanguinis, et alia in-
+sculpta conspicerenturmartyrii in-
+signia, dolendum tamen est, res ab
+eadem gestas, actaque ac genus
+martyrii quod ipsa fecit, obscura
+perstitisse. Ceterum ubi primum
+sacrum hoc corpus, ex beneficen-
+tia Pii septimi initio pontificatus
+ejus acceptum, cultui fidelis populi
+propositum fuit Mugnaniin Nolana
+dioecesi, ingens illico famae celebri-
+tas ac religio erga sanctam Mar-
+tyrem percrebuit, praesertim ob
+signa, quae ejiisdem praesidio ac-
+ccssisse lindique ferebatur. Hinc
+factum est ut compliirium antisti-
+tum, cultoriimque Martyris postu-
+lationibus permotus Gregorius de-
+cimus sextus Pontifex Maximus,
+universa rei ratione matiire per-
+pensa, festum ejiisdem cum Officio
+et Missa in memorataNolana dioe-
+cesi et alibi agendumbenigne per-
+miserit.
+
+[Lectio5]
+Sermo sancti Ambrósii Epíscopi
+!Lib. 1. de Virg., cica init.
+Quóniam hódie natális est Vírginis, invitat nunc integritatis
+amor, ut aliquid de virginitate di-
+camus: ne veluti transitu quodam
+praestricta videatur, quae princi-
+palis est virtus. Non enim ideo
+laudabilis virginitas, quia in Mar-
+tyribus reperitur: sed quia ipsa
+Martyres faciat. Quis autem hu-
+mano eam possit ingenio compre-
+hendere, quam nec natiira suis in-
+cliisit legibus? Aut quis naturali
+voce complecti, quod supra usum
+natiirae sit? E coelo accersivit,
+quod imitaretur in terris. Nec im-
+merito vivendi sibi usum quaesivit
+e coelo, quae sponsum sibi invenit
+in cœlo.
+
+[Lectio6]
+Haec nubes, aera, Angelos, sideraque transgrediens, Verbum
+Dei in ipso sinu Patris invenit, et
+toto hausit pectore. Namquis tan-
+tum, cuminvenerit, relinquat boni?
+Unguentum enim exinanitum est
+nomen tuum: propterea adolescen-
+tulae dilexerunt te, et attraxerunt
+te. Postremo, non meum est illud,
+quoniam quae non nubunt, neque
+nubentur, erunt sicut Angeli Dei
+in ccelo. Nemo ergo miretur, si
+Angelis comparentur, quae Ange-
+lorum Domino copulantur.

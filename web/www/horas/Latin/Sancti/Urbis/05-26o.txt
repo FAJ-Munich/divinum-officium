@@ -1,0 +1,57 @@
+@Sancti/05-26o
+
+[Rank]
+;;Duplex;;3;;vide C2b
+
+[Rule]
+vide C2b;
+9 lectiones
+
+[Lectio4]
+Eleutherius, natione Graecus,
+Abiindio patre natus Nico-
+poli Epiri oppido, ex pres-
+bytero sanctae Romanae Ecclesise,
+post Soteris mortem, totius cleri
+suffragiis, Romanus Pontifex re-
+nuntiatus est, Marco Aurelio im-
+peratore Augiisto, anno Domini
+centesimoseptuagesimonono. Quo
+miinere egregie, et summa cum
+laude functus est annos quinde-
+cim, dies viginti tres: tribus ordi-
+nationibus mense Decembri factis,
+creatisque presbyteris duodecim,
+diaconis octo, episcopis per diver-
+sa loca quindecim.
+
+[Lectio5]
+Ab Ecclesia Lugdunensi per litteras, de nonnúllis quaestioni-
+bus consiiltus, Irenseum virum do-
+ctissimum litterarum latorem hu-
+maniter excepit eique Apostolicas
+traditiones, quas RomanaEcclesia
+ilhbatas servaverat, aperuit Su-
+perstitiosas Montanistarum xero-
+phagias damnavit: optimas leges
+pro recta judiciorum ecclesiastico-
+rum formaprsescripsit; Marci6nem
+et Valentinum sæpius relapsos, ab
+Ecclesia penitus ejecit.
+
+[Lectio6]
+Cum summa pace Ecclesia frue-
+retur, multos etiam ex optima-
+tibus ad Christi fidem Romse con-
+vertit ALiicio Britannorum rege
+litteras per legatos accepit, divini
+verbi ministros postulante, ad
+quem Fugatium et DamianumRo-
+manae Ecclesiae presbyteros misit,
+a quibus rex ipse cumtota familia,
+et siibditi fere omnes sacro lava-
+cro regenerati fuere. His demum
+aliisque pro divino cultu peractis,
+sancto fine quievit, sub imperatore
+Commodo, quinto Kalendas Junii,
+sepiiltus in Vaticano.

@@ -1,0 +1,321 @@
+[Officium]
+Ss. Redemptoris
+
+[Rank]
+;;Duplex majus;;4;;
+
+[Rule]
+9 lectiones
+Psalmi Dominica
+Antiphonas horas
+Doxology=Nat
+
+[Ant Vespera]
+Virgam virtiitis suae emittet Dominus ex Sion, et regnabit in saeculum saeculi.;;109
+Redemptiónem misit Dóminus populo suo: mandavit in æternum testamentum suum.;;110
+Misericordia mea, et refúgium meum Dominus: susceptor meus, et liberator meus.;;115
+Apud Dominum misericordia, et copiosa apud eum redemptio.;;129
+In quaciimque die invocavero te, exaudies me: multiplicabis in anima mea virtutem.;;137
+
+[Hymnus Vespera]
+@Psalterium/Special/Major Special:Hymnus Adv Vespera:1-5
+@Psalterium/Special/Major Special:Hymnus Adv Vespera:11-20
+@Psalterium/Special/Major Special:Hymnus Adv Vespera:6-10
+@Psalterium/Special/Major Special:Hymnus Adv Vespera:21-25
+@Psalterium/Doxologies:Nat
+
+[Versum 1]
+V. Redemísti nos Dómine in sánguine tuo.
+R. Et fecísti nos Deo nostro regnum.
+
+[Ant 1]
+Salus autem mea in sempiternum erit, et justitia mea in generationes generationum, alleliija.
+
+[Oratio]
+Deus, qui Unigénitum tuum mundi Redemptórem constituísti, et per eum, devícta morte, nos misericórditer ad vitam reparásti: concéde; ut hæc benefícia recoléntes, tibi perpétu caritáte adhærére, et ejúsdem redemptiónis fructum percípere mereámur.
+$Per Dominum
+
+[Invit]
+Redemptórem sæculórum ipsum Regum Angelórum, * Adorémus Dóminum.
+
+[Hymnus Matutinum]
+@Psalterium/Special/Matutinum Special:Day3 Hymnus:1-5
+@Psalterium/Special/Matutinum Special:Day3 Hymnus:11-15
+@Psalterium/Special/Matutinum Special:Day3 Hymnus:6-10
+@Psalterium/Doxologies:Nat
+
+[Ant Matutinum]
+Voce mea ad Dominum clamavi, et exaudivit me de monte sancto suo.;;3
+Domine Dominus noster, quam admirabile  est nomen tuum in univérsa terra!;;8
+Dóminus in templo sancto suo: Dóminus in cœlo sedes ejus.;;10
+Suscepimus Deus misericordiam tuam in medio templi tui.;;19
+Tu es ipse Rex meus, qui mandas salútes in Jacob.;;23
+Immola Deo sacrificium laudis, et redde Altissimo vota tua.;;45
+Ego autem ad Deum clamavi, et Dominus salvavit me.;;60
+Deus meus, Salvator meus, salutare meum, et spes mea in aeternum.;;74
+Protector noster aspice Deus, et respice in faciem Christi tui.;;83
+
+[Nocturn 1 Versum]
+V. Redime me Domine et miserere mei. 
+R. In ecclésiis benedícam te Dómine.
+
+[Nocturn 2 Versum]
+V. Memento nostri Domine in beneplacito populi tui.
+R. Visita nos in salutari tuo.
+
+[Nocturn 3 Versum]
+V. Notam fecisti in Gentibus virtutem tuam. 
+R. Redemisti in brachio tuo populum tuum.
+
+[Lectio1]
+@Tempora/Adv4-3::s/-3/-5/
+@Tempora/Adv4-3:Lectio2:2-3
+
+[Responsory1]
+R. Vidi Dominum sedentem super solium excelsum, et elevatum: et plena erat omnis terra majestate ejus:
+* Et ea quae sub ipso erant, replebant templum.
+V. Seraphim stabant super illud: sex alae uni, et sex alae alteri. 
+R. Et ea quae sub ipso erant, replebant templum.
+
+[Lectio2]
+@Tempora/Adv4-3::1 s/4-6/6-8/
+@Tempora/Adv4-3::4
+@Tempora/Adv4-3:Lectio3:2-3
+
+[Responsory2]
+R. Aspice Domine de sede sancta tua, et cogita de nobis: inclina Deus meus aurem tuam, et audi.
+* Aperi oculos tuos, et vide tribulationem nostram. 
+V. Qui regis Israel, intende, qui dedúcis velut ovem Joseph.
+R. Aperi oculos tuos, et vide tribulationem nostram. 
+
+[Lectio3]
+De Epistola beati Pauli Apóstoli ad Hebrǽos
+!Is 51:9-15
+9 Consúrge, consúrge, indúere fortitúdinem, bráchium Dómini: consúrge sicut in diébus antíquis, in generatiónibus sæculórum. Numquid non tu percussísti supérbum, vulnerásti dracónem?
+10 Numquid non tu siccásti mare, aquam abýssi veheméntis: qui posuísti profúndum maris viam, ut transírent liberáti?
+11 Et nunc qui redémpti sunt a Dómino, reverténtur, et vénient in Sion laudántes, et lætítia sempitérna super cápita eórum: gáudium et lætítiam tenébunt: fúgiet dolor et gémitus.
+12 Ego, ego ipse consolábor vos. Quis tu, ut timéres ab hómine mortáli, et a fílio hóminis qui quasi fœnum ita aréscet?
+13 Et oblítus es Dómini factóris tui, qui teténdit cælos et fundávit terram: et formidásti iúgiter tota die a fácie furóris eius qui te tribulábat, et paráverat ad perdéndum. Ubi nunc est furor tribulántis?
+14 Cito véniet grádiens ad aperiéndum: et non interfíciet usque ad interneciónem, nec defíciet panis eius.
+15 Ego autem sum Dóminus Deus tuus.
+
+[Responsory3]
+R. Deus, qui sedes super thronum, et júdicas aequitatem, esto refúgium paúperum in tribulatione:
+* Quia tu solus laborem, et dolorem consideras. 
+V. Tibi enim derelictus est pauper, pupillo tu eris adjútor.
+R. Quia tu solus laborem, et dolorem consideras. 
+&Gloria
+R. Quia tu solus laborem, et dolorem consideras. 
+
+[Lectio4]
+@Tempora/Adv4-0::s/$/~/
+@Tempora/Adv4-0:Lectio5:s/Quod per.*//
+
+[Responsory4]
+R. A dextris est mihi Dominus, ne commovear:
+* Propter hoc dilatatum est cor meum, et exsultavit lingua mea. 
+V. Dominus pars haereditatis meae, et calicis mei.
+R. Propter hoc dilatatum est cor meum, et exsultavit lingua mea. 
+
+[Lectio5 additio]
+Nam si inter homines ea demum firma amicitia est, quammorum similitudo sociarit, cum tamen parilitas voluntatum saepe in reprobos tendat affectus: quantum nobis optandum, atque nitendum est, ut in nullo ab iis, quae Deo sunt placita, discrepemus? De quo dicit Propheta: Quóniam ira in indignatione ejus, et vita in voluntate ejus, quia non aliter nobis erit dignitas divinae majestatis, nisi imitatio fúerit voluntatis.
+
+[Lectio5]
+@Tempora/Adv4-0:Lectio6:s/.*(Diligéndo)/$1/ s/$/~/
+@:Lectio5 additio
+
+[Responsory5]
+R. Apud Dominum misericordia
+* Et copiosa apud eum redemptio.
+y. Humiles spiritu salvabit. 
+R. Et copiosa apud eum redemptio.
+
+[Lectio6]
+Dicente itaque Domino: Diliges
+Dominum Deum tuum ex toto
+corde tuo, et ex tota mente tua; et
+diliges proximum tuum sicut teip-
+sum, suscipiat fidelis anima aucto-
+ris sui atque rectoris immarcesci-
+bilemcaritatem, totamquese etiam
+ejus subjiciat voluntati, in cujus
+operibus atque judiciis nihil vacat
+a veritate justitiae, nihil a misera-
+tione clementiae. Quoniam etsi ma-
+gnis quis laboribus, et multis fati-
+getur incommodis, bona est illi
+causa tolerandi, qui se adversis
+vel corrigi intelligit, vel probari.
+
+[Responsory6]
+R. Rememorati sunt, quia Deus adjútor est eorum: 
+* Et Deus excelsus Redemptor eorum est.
+V. Et pavit eos in innoc6ntia cordis sui.
+R. Et Deus excelsus Redemptor eorum est.
+&Gloria
+R. Et Deus excelsus Redemptor eorum est.
+
+[Lectio7]
+Léctio sancti Evangélii secúndum Joánnem
+!Joann 3:
+In illo témpore: Dixit Jesus Nicodémo: Nemo ascéndit in cœlum, nisi qui descéndit de cœlo, Fílius hóminis, qui est in cœlo. Et réliqua.
+_
+Homilía sancti Augustini Epíscopi
+!Ex Tract. in cap. 3. Joann.
+Nemo ascendit in coelum, nisi
+qui de ccelo descendit. De-
+scendit enim, et m6rtuus est,
+et ipsa morte liberavitnos a morte.
+Morte occisus, mortem occidit. Et
+nostis fratres, quia mors ista per
+diaboli invidiam intravit in mun-
+dum. Deusmortemnon fecit, Scri-
+ptiira loquitur: Neclaetatur, inquit,
+in *perditi6ne vivorum; creavit
+enim, ut essent omnia. Sed quid
+ibi ait? Invidia autem diaboli mors
+intravit in orbem terrarum. Ad
+mortem a diabolo propinatam non
+veniret homovi adactus: non enim
+cogendi potentiam diabolus habe-
+bat, sed persuadendi versiitiam.
+Si non consentires, nihil invexerat
+diabolus; consensio tua, o homo,
+te perduxit ad mortem. Amortali
+mortales nati, et ex immortalibus
+mortales facti. Ab Adam omnes
+homines mortales; Jesus autem Fi-
+lius Dei, Verbum Dei, per quod
+facta sunt omnia, unicus, aequalis
+Patri, mortalis factus est, quia Verbum caro factum est, et habitavit
+in nobis. Si ergo mortem suscepit,
+et mortem suspendit in cruce, de
+ipsa morte liberantur mortales.
+Quod in figiira factum est apud
+antiquos, commemoravit illud D6-
+minus.
+
+[Responsory7]
+R. Laudábilis populus, 
+* Quem Dominus exercituum benedixit dicens: Opus manuum mearum tu es: hasreditas mea Israel. 
+V. Beata gens, cujus est Dominus Deus; populus eléctus in haereditatem.
+R. Quem Dominus exercituum benedixit dicens: Opus manuum mearum tu es: hasreditas mea Israel. 
+
+[Lectio8]
+Et sicut, inquit, Moyses exaltavit
+serpentem in eremo, ita exal-
+tari oportet Filium h6minis: Quis
+est serpens exaltatus? Mors D6-
+mini in cruce. Quia enim a ser-
+pente mors, per serpentis effigiem
+figurata est mors. Morsus serpen-
+tum lethalis, mors D6mini vitalis.
+Attenditur serpens, ut nihil valeat
+serpens. Quidesthoc? Attenditur
+mors, ut nihil valeat mors. Sed
+cujus mors? Mors vitse. None vita
+Christus? Et tamen mortuus est
+Christus.
+
+[Responsory8]
+@Tempore/Pent01-0
+
+[Lectio9]
+Interim modo fratres, ut a pec-
+cato sanemur, Christum crucifi-
+xumintueamur: quia sicut Moyses,
+inquit, exaltavit serpentem in eremo, ita exaltari op6rtet Filium ho-
+minis; ut omnis, qui credit in eum,
+non pereat, sed habeat vitam ae-
+ternam. Qudmodo, qui intueban-
+tur illum serpentem, non peribant
+morsibus serpentum: sic, qui intu-
+entur fide mortem Christi, sanan-
+tur a morsibus peccat6rum. Sed
+illi sanabantur a morte ad vitam
+temporalem: hic autem ait, ut ha-
+beant vitam aeternam. Hoc enim
+interest inter figuratam imaginem,
+et rem ipsam: figura praestabat vi-
+tam temporalem; res ipsa, cujus
+illa figiira erat, praestat vitam ae-
+ternam.
+
+[Ant Laudes]
+Cantáte Dómino, * quóniam magnífice fecit: annuntiáte hoc in univérsa terra.
+Ecce Deus * Salvátor meus, fiduciáliter agam: quia factus est mihi in salútem, allelúja.
+Hauriétis aquas * in gaúdio de fóntibus Salvatóris, et dicétis: Confitémini Dómino, et invocáte nomen ejus.
+Facta est salus, * et virtus, et regnum Dei nostri, et potéstas Christi ejus.
+Exsúlta et lauda * habitátio Sion, quia magnus in médio tui sanctus Israel.
+
+[Capitulum Laudes]
+!Tob 3
+Benedictum nomen tuum Deus patrum nostrorum: qui cum iratus ftieris, misericórdiam facies, et in tempore tribulationis peccata dimittis his, qui invocant te.
+$Deo gratias
+
+[Hymnus Laudes]
+@Tempora/Pasc5-4:Hymnus Vespera:1-10
+@Tempora/Pasc5-4:Hymnus Vespera:16-20
+@Psalterium/Doxologies:Nat
+
+[Versum 2]
+V. Dómine refúgium factus es nobis.
+R. A generatióne, et progénie.
+
+[Ant 2]
+Ecce Deus noster iste, exspectávimus eum, et salvábit nos: sustinúimus eum; exsultábimus, et lætábimur in salutári ejus, allelúja.
+
+[Versum Prima]
+V. Qui redemísti mundum.
+
+[Lectio Prima]
+!Apoc 4:
+Dignus es Dómine Deus noster, accípere glóriam, et honórem, et virtútem: quóniam occísus es, et redemísti nos Deo in sánguine tuo ex omni tribu, et lingua, et pópulo, et natióne, et fecísti nos Deo nostro regnum.
+
+[Responsory Breve Tertia]
+R.br. Redime me Domine, * Et miserere mei. 
+R. Redime me Domine, * Et miserere mei. 
+V. In ecclésiis benedícam te Dómine.
+R. Et miserere mei.
+&Gloria
+R. Redime me Domine, * Et miserere mei. 
+
+[Versum Tertia]
+@:Nocturn 2 Versum
+
+[Capitulum Sexta]
+!1 Cor 1:
+Ex ipso autem vos estis in Christo Jesu, qui factus est nobis sapiéntia a Deo, et justítia, et sanctificátio, et redémptio.
+$Deo gratias
+
+[Responsory Breve Sexta]
+R.br. Memento nostri Domine * In beneplacito populi tui.
+R. Memento nostri Domine * In beneplacito populi tui.
+V. Visita nos in salutari tuo.
+* In beneplacito populi tui.
+&Gloria
+R. Memento nostri Domine * In beneplacito populi tui.
+
+[Versum Sexta]
+@:Versum 1
+
+[Responsory Breve Nona]
+R.br.  Notam fecisti in pópulis * Virtutem tuam.
+R. Notam fecisti in pópulis * Virtutem tuam.
+V. Redemisti in brachio tuo populum tuum.
+* Virtutem tuam.
+&Gloria
+R. Notam fecisti in pópulis * Virtutem tuam.
+
+[Capitulum Nona]
+@:Lectio Prima
+$Deo gratias
+
+[Versum Nona]
+@:Versum 2
+
+[Versum 3]
+@:Versum 1
+
+[Ant 3]
+Regnum tuum, regnum ómnium sæculórum, et dominátio tua in omni generatióne, et generatiónem, allelúja.
