@@ -1,0 +1,112 @@
+[Officium]
+S. Gallicani Martyris
+
+[Rank]
+;;Duplex;;3;;vide C2
+
+[Rule]
+vide C2
+9 lectiones
+
+[Name]
+Gallicánum
+
+[Oratio]
+Deus, qui beatum Gallicanum Martyrem ad tui cognitionem mirabiliter perduxisti, et per eum novo Ecclésiam tuam caritatis exemplo illustrare dignatus es: concéde propitius; ut ejiisdem precibus et imitatione, promissa misericordibus praemia consequamur.
+$Per Dominum
+
+[Lectio4]
+Gallicanus, vir consularis, et
+triumphali hon6re clarissi-
+mus, sua virtiite et militari
+glória Constantini Augústi sibi
+gratiam conciliavit. Magis autem
+quae Dei sunt quaerens, a sanctis
+Joanne et Paulo cœlésti luce per-
+fiisus, et Evangelii doctrina erudi-
+tus, Jesu Christi fidem ore simul
+atque ópere profitéri coepit. Nam
+cum sancto Hilarino ad Ostia Ti-
+berina secédens, peregrinórum at-
+que infirmórum curae et servitúti
+se totum addixit; cujus rei fama
+toto orbe divulgata, multi lindique
+illuc confluentes videbant virum
+ex patritio et consule lavantem
+paiiperum pedes, ponentem men-
+sam, aquam manibus effundentem,
+languentibus sollicite ministran-
+tem; denique tamquam Christo
+ipsi, minimis ejus, scilicet mendi-
+cis et peregrinis, officia etiam hu-
+millima exhibentem.
+
+[Lectio5]
+His miseric6rdiae operibus quae
+fratribus exhibuit, Patris coe-
+lestis misericordiam promeritus
+est, et passione Christo FiHo Dei
+consociari. Cum enim imperium
+impius Apostata Julianus adeptus
+esset, Gallicanus, ex illa misericor-
+dise sede et paiiperum ac peregri-
+norum hospitio pulsus, Alexan-
+driam perrexit, ubi eum Raucia-
+nus judex sacrificare daemoniis, id
+est ethnic6rum diis, imperavit.
+Verum Christi miles jiidicis minas
+contemnens, nec curans illecebras,
+nullum honorem idolis Gentium,
+tamquam mbrtuis simulacris, sed
+Deo vivo tribuendum docens, tor-
+mentis et morti se paratum exhi-
+buit. Itaque gladio perciissus vi-
+tam paiiperum servitio nobilem
+glorioso martyrio consummavit.
+
+
+[Lectio6]
+Ex Oratióne S. Gregórii Nysséni
+!Append. Gretseri, 237., sive tom. 3. Oper. S. Greg.
+Frange esurienti panemtuum, et
+egenos sine tecto induc in do-
+mumtuam. Multamnobis hoctem-
+pus affert nudorum vagoriimque
+copiam. Hdspites exsulesque non
+desunt; ubique licet protensas
+opem implorantium manus aspi-
+cere. His aer sub dio tectum prae-
+bet. Porticus, et bivia, et partes
+fori magis desertae sunt hospitia:
+nycticoracum et noctuarum more,
+in cavernis latitant. Pannosis, at-
+tritis et lacerdtis teguntur indu-
+mentis. Agricultiirge fructus est il-
+lis miserantium animi benignitas;
+cibus, si quid ab accedente qu6-
+piam impetraverint; p6tio eadem
+quae brutis animantibus, nimirum
+fontes. Vagam et agrestem tradii-
+cunt vitam, calamitatibus et ne-
+cessitate compiilsi. His necessaria
+victui suppedita tu, qui jejiinas.
+Erga fratres calamit6sos benignus
+esto; quod ventri siibtrahis, tribue
+esuriénti.
+
+[Lectio7]
+Léctio sancti Evangélii secúndum Lucam
+!Luc 10:...
+In illo témpore: Suscípiens jesus, dixit: Home quidam descendébat ab Jerúsalem in Jéricho, et íncidit in latrónes, qui étiam despoliavérunt eum: et plagis impósitis abiérunt, semivívo relícto. Et réliqua.
+_
+Homilía S. Gregórii Nazianzéni
+!Ex Orat. 16. Tom. 1.
+Purgémur ítaque per misericórdiæ offícia, ...
+
+[Lectio8]
+At mihi quidem ...
+
+[Lectio9]
+Verum díxerit fortásse ...
+
+

@@ -1,0 +1,163 @@
+[Officium]
+S. Benedictus Josephi Labre Confessoris
+
+[Rank]
+;;Semiduplex;;2.2;;vide C5
+(sed rubrica tridentina)
+;;Duplex;;3;;vide C5
+(sed rubrica 1960)
+;;Simplex;;1.1;vide C5
+
+[Rule]
+vide C5
+9 lectiones
+Antiphonas horas
+
+[Oratio]
+Deus, qui sanctum Benedíctum Joséphum Confessorem tuum humilitátis stúdio, et paupertátis amore tibi uni adhærére fecísti: da nobis, ejus suffragántibus méritis, terréna cuncta despícere, et cœléstia semper inquírere. 
+$Per Dominum
+
+[Lectio4]
+n oppido Amettes Bolonien-
+sis dioecesis in Gallia ex ho-
+nestis piissimisque parenti-
+bus ortus est Benedictus Josephus
+Labre. Divina gratia praeventus,
+gravem et a nugis alienam indo-
+lem a puerili aetate ostendit, et
+suis fratribus pietate, obedientia,
+solertia in addiscendis christianae
+doctrinae ac litterarum rudimentis
+perfectumexemplarprsefulsit. Duo-
+dennis ad patruum sacerd6tem pa-
+rceciae praepositum missus, erudi-
+tione pariter ac virtiite profecit,
+Hinc caritate flagrans in proximos,
+confluentium egenorum nullum a
+se discedere sivit inanem, eidem-
+que patruo socium individuum se
+adjiinxit in segrorum solatium, dira
+lue per loca grassante, cujus ille
+victima occiibuit. Nulli labori par-
+cens, necpericulo territus, viliora
+quseque obivit officia ad eorum
+levandam calamitatem, qui morbo
+correpti jacebant, pastorum quo-
+que vices explens in pascendis
+gregibus ab eis relictis, gramine in
+arvis a se collecto pro pecorum
+alimonia; ideoque factum est ut
+sibi angeli nomen promeriierit.
+Neque aliter exinde egit apud
+aviinculum, ubi omnino splendi-
+dum caritatis et mansuetiidinis
+specimen edidit, mira patientia et
+benignitate longo tempore perpes-
+sus singuldrem cujiisdam contu-
+bernalis morositatem, a quo noctu
+diiique male habebatur.
+
+
+[Lectio5]
+Ad austerissimum vitae genus
+jamdiu se appellatum sentiens,
+rigido jejiinio aut duro tantum pa-
+ne dies transigere assueverat, bre-
+vem fessis membris quietem dare
+super nudos asseres cum cervicali
+ex ligneis fragmentis, flagello se
+caedere, pluresque horas flexis ante augustissimum Eucharistiae Sa-
+cramentumgenibus orandoimpen-
+dere. Ratus porro se ad asperius
+ahquod coenobiticum institiitum a
+Deo vocari, ad Trappenses pri-
+mum se contulit, deinde ad Gar-
+thusidnos, postremo ad Cister-
+cienses. Sed ob gracilem corporis
+habitum et contractas aegritiidines
+a singulis abire coactus fuit; ita
+disponente Deo, ut beatus jiivenis
+arctioris sequelae crucis Christi in
+medio populi spectdculum fieret
+mundo, et Angelis, et hominibus.
+Nam cum ferventiori prece divi-
+num lumen implorasset, interna
+clarissima locutione intellexit, se-
+ctanda sibi fore ardua sancti Ale-
+xii vestigia, durissimamque vitam
+in sacris peregrinationibus tradu-
+cendam. Probante igitur conscien-
+tiae suae moderat6re, annos natus
+viginti duos, pia suscepit longissi-
+ma itinera; pedes, veste obsoleta,
+et rudi pileolo tectus, fune prae-
+cinctus ac male calceatus, sine pe-
+ciinia, reriimque omnium inops,
+oblata tantum stipe victitans, et
+saccum d6ferens omistum saxis,
+quo peregrinandi labores sibi gra-
+viores redderet. Hac ratione mul-
+tas Europae regiones pliiries per-
+agravit, ubique sanctiora loca vi-
+sitando, numquam vestes immii-
+tans, aestum, brumam, imbres per-
+ferens, noctu cubans pleriimque
+sub dio, declinansque a trita via
+et divers6riis ut vitaret pericula,
+et animum liberius in Deum inten-
+deret.
+
+[Lectio6]
+Ubiciimque consfsteret mira vir-
+tutum relinquebat exempla,
+cum sanctitatis fama haud raris
+prodigiis confirmata. Septimo an-
+te 6bitum anno Eomam repetiit,
+ibiqueconstitit, etsi quotannisLau-
+retanam Beatse Virginis aedem, et
+alia viciniora sanctuaria adire non
+prsetermiserit Cdelitem potius
+quam viatoris vitam in Urbe agere
+visus est. Tecto ut plurimum ca-
+rens, lacero eodemindumento per-
+p6tuo usus, oleribus herbisque per
+viam abjectis vel oblatis analectis
+sive e sterquih'nio promptis in-
+6diam relevabat, sitim aut exstin-
+guebat aqua, aut aceto vexabat.
+Saepe tota nocte orabat in amphi-
+theatro Flavio, tot Martyrum san-
+guine consecrato. Maximam vero
+diei partem in templis diicere con-
+suevit vel ante Deiparse imaginem
+vel coram sacrosancta Eucharistia
+publicse adorationi proposita, ibi-
+que immobilis, ardens, nitenti vul-
+tu, oculisque in sacram hostiam
+defixis morabatur in contempla-
+tidne ejus, quem diligebat Inse-
+ctis erosus, squalore obsitus, quid-
+quid irrisionum aut injuriarum a
+pleb6cula sibi irrogabatur, laetus
+et constans perferebat Anno de-
+nique millesimo septingentesimo
+octogesimotertio, die decimasexta
+Aprilis, cum in templo sanctae Ma-
+riae ad Montes precationi plures
+dedisset horas, correptus deliquio,
+traductiisque vicinas in a^des be-
+n6fici h6minis, sanctissime animam
+Deo reddidit, trigesimo quintoae-
+tatis anno. Quem virtiitibus et mirdculis clarum Pius nonus Ponti-
+fex Maximus beatorum, novisque
+fulgentem signis Leo decimus ter-
+tius sanctorum albo adscripsit.
+
+[Lectio7]
+@Commune/C2:Lectio7 in 2 loco
+
+[Lectio8]
+@Commune/C2:Lectio8 in 2 loco
+
+[Lectio9]
+@Commune/C2:Lectio9 in 2 loco

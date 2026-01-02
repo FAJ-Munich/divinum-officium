@@ -1,0 +1,80 @@
+[Officium]
+S. Julii I Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;
+9 lectiones
+
+[Name]
+Júlii
+(sed communi Summorum Pontificum)
+Júlium
+
+[Lectio4]
+Július Romanus Rustici fílius,
+post beatum Marcum ad summum pontificatum evectus,
+vitae sanctitate et stiidio asserendae fidei christianae insigniter elu-
+xit. Grassabatur per Orientem
+arianae hseresis impietas, multique
+sanctissimi episcopi e suis sddibus
+exsulare cogebantur, quos ille,
+praesertim sanctum Athanasium,
+humanissime exc6pit, et constan-
+tissime contra adversarios def6n-
+dit. Tyriam et Antiochenam syn-
+odum, ut Nicaenam abolerent fi-
+dem, ab Arianis coactam conde-
+mnavit, et Romae duo concilia con-
+vocavit, in quibus exsulum episco-
+pdrum querdlas excepit, et inno-
+c6ntiam declaravit.
+
+[Lectio5]
+Constanti Augiisto religiosissimo
+principi, per Occidentem im-
+peranti, auctor fuit, ut Constan-
+tium fratrem Arian6rum fautorem,
+in Oriente regndntem, precibus et
+minis ad revocandum ab exsilio
+Athanasium permoveret. Dolosam
+fidei f6rmulam ab Eusebianis, Arii
+sectatoribus,
+in seciinda synodo
+Antiochena conceptam rejecit, et
+magnum Sardice^se concilium ex
+Occidentis et Orientis episcopis
+indixit, missisque legatis, multa
+ibidem pro fide catholica et disci-
+plina ecclesiastica restitudnda uti-
+liter constituit.
+
+[Lectio6]
+Praeter haec, basilicas duas in
+Urbe exstruxit, sacrisque pi-
+cturis exornavit, unam juxta Fo-
+rum Romanum, alteram in via Fla-
+minia. Tria aedificavit coemeteria,
+unum in eadem via Flaminia, alte-
+rum in via Aurelia, tertium in Por-
+tuensi. Constituit ne sac6rdos alibi
+quam apud jiidicem ecclesiasticum
+causam diceret, jussitque ut omnia
+ad rem ecclesiasticam spectantia
+per protonotarium conficerentur
+instrumenta. Tribus ordinati6ni-
+bus mense Decembri creavit dia-
+conos tres, presbyteros decem et
+octo, episcopos novem. Postquam
+Dei Ecclesiam sanctissime rexis-
+set annis quindecim, mensibus
+quinque, diebus septemdecim, pri-
+die Idus Aprilis feliciter migravit
+ad D6minum, sepiiltus in coemete-
+rio Calepodii. Inde translatae reli-
+quiae ad ecclesiam sanctae Mariae
+trans Tiberim ab ipso amplifica-
+tam, sub altari majóri honorifice
+rec6nditse sunt.

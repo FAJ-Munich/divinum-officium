@@ -1,0 +1,4 @@
+#= sunday letter: f, Diœcesis Urbis seu Romana
+07-07=Urbis/07-04-OmnisSSRESP~Urbis/07-07-BenedictusXI;;1888
+07-07=Urbis/07-04-OmnisSSRESP~Urbis/07-07-BenedictusXI~07-07;;1906
+09-07=aliquibus locis/08-22;;1888 1906

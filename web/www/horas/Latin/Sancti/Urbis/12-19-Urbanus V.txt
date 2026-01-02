@@ -1,0 +1,35 @@
+[Officium]
+B. Urbani V Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b-1
+
+[Rule]
+vide C4b-1; mtv
+9 lectiones
+In 3 Nocturno lectiones ex Commune in 2 loco
+
+[Name]
+Urbáni
+
+[Oratio]
+Deus, qui ad tuénda fórtiter Sedis Apostólicæ jura fidémque cathólicam late propagándam, beátum Urbánum Confessórum tuum atque Pontíficem constántia roborásti: fac nos ipsius præsídiis adjútos ita militánti Ecclésiæ servíre, ut triumphánti consociári mereámur.
+$Per Dominum
+
+[Lectio4]
+Urbánus Quintus, Póntifex Máximum, nóbili Grimoardórum gente natus, in Castro Grisáco Diœcésis Mimaténsis, quum innocént
+adolescentia floreret, monasticum habitum sub regula sancti Benedicti induit, ac in Massiliense cœnobium sancti Victoris cooptandus, vota nuncupavit. In Theologiæ ac Juris disciplinis ita excelluit, ut per plures annos Tolosæ, Parisiis, Avenione, in Monte Pessulano, Decreta summa cum laude interpretaretur. Abbas dein sancti Germani Antissiodorensis a Clemente Sexto, postmodum ab Innocentio Sexto sancti Victoris Massiliensis præses renuntiatus, tam imperio, quam obedientia summus et eximius, ad majora jam paratus, dum arduis negotiis et legationibus pro Ecclesia fungeretur, in Petri Sedem assumptus, Avenione ritu solemni coronatus est.
+
+[Lectio5]
+Vix inito Pontificatu animum admovit ad Sedem Apostolicam in Urbem reducendam, ad mores Fidelium emendandos, ad Clericorum restaurandam disciplinam, ad Claustra reformanda, ad Catholicam fidem propagandam. Apostolicas enim Missiones, Fratribus Minoribus, commissas promovit usque ad Tartaros et ultimos Orientales, multosque Hæreticos ex Albania, Valachia et Bulgaria ad Ecclesiam Catholicam reduxit. Nihil etiam omisit ut Græcorum contumaciam vinceret, recepta semel et iterum ab Imperatore Joanne Fidei professione. Sacrum bellum contra Infideles indixit, ac Rege Cypri copiis præfecto, Alexandriam Ægypti feliciter expugnavit.
+
+[Lectio6]
+Interim Civilem Sedis Apostolicæ Principatum pene eversum, Ægidio Cardinale Albornotio egregiam opem conferente, ita restituit, ut sibi et successoribus suis, necessaria tandem libertate parta, lubens et ovans, in almam Urbem , cum ingenti Romanorum gaudio redierit. Basilicas Petri et Pauli instauravit, ac sacrosanctam Lateranensem Ecclesiam incendio penitus absumptam magnis sumptibus restituit. In qua capita Principum Apostolorum, retroactis temporibus in sacellum sancti Laurentii translata, recogn6vit, eaque solemniter populo romano ostensa et in Thecas inserta auro et gemmis distincta, fidelibus colenda proposuit. Monasterium in Monte Pessulano instituit; præterea Montis Cassini Cœnobium in priscum decus alter quasi conditor, redintegravit. Demum ab Urbe cum animo iterum revertendi, ob Ecclesiæ negotia discessit, et Avenionem pervenit, ubi lethali morbo correptus , pretiosam mortem oppetiit anno millesimo tercentesimo septuagesimo. Miraculis post obitum clarus de positus est in sancti Victoris Ecclesia ubi adhuc vivens sepulcrum sibi statuerat. Cultum, ab immemorabili tempore eidem exhibitum, post quintum ab obitu revolutum sæculum Pius Nonus Pontifex Maximus prævio Sacrorum Rituum Congregationis consilio approbavit et confirmavit ; ej usque Officium et Missam sub ritu duplici a Clero Romano et a pluribus diœcesibus recitari celebrarique benigne indulsit.
+
+[Secreta]
+Réspice, Dómine, múnera quæ in beáti Urbáni Confessóris tui et Pontíficis commemoratióne deférimus: ut, ejúsdem méritis, et medélam nobis operéntur, et glóriam.
+$Per Dominum
+
+[Postcommunio]
+Sacraménta quæ súmpsimus, Dómine Deus noster, illam nobis fidem innútriant: quam et apostólica dócuit prædicátio, et beáti Urbani Confessóris tui atque Pontíficis sollicitúdo custodívit.
+$Per Dominum
