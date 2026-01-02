@@ -605,13 +605,14 @@ sub setupstring($$%) {
       if (@baserank) {
         my @newrank = split(';;', ${$new_sections}{Rank});
         my $office = ${$new_sections}{Officium};
-        $office =~ s/\s+$//;
+        $office =~ s/\s+$//s;
+        $newrank[0] =~ s/\s+$//s;
         $baserank[0] = $office || $newrank[0];
         ${$new_sections}{Rank} = join(';;', @baserank);
       } elsif (exists(${$new_sections}{Officium})) {
         my @newrank = split(';;', ${$new_sections}{Rank});
         $newrank[0] = ${$new_sections}{Officium};
-        $newrank[0] =~ s/\s+$//;
+        $newrank[0] =~ s/\s+$//s;
         ${$new_sections}{Rank} = join(';;', @newrank);
       }
 

@@ -30,7 +30,7 @@ sub ordo_entry {
 
   if ($c2 && @commemoentries > ($winner =~ /Tempora/i ? 0 : 1)) {
     for my $ind (($winner =~ /Tempora/i ? 0 : 1) .. @commemoentries - 1) {
-      my %com = %{setupstring('Latin', "$commemoentries[$ind].txt")};
+      my %com = %{setupstring($lang1, "$commemoentries[$ind].txt")};
       my $comname = $com{Rank};
       $comname =~ s/\;\;.*//;
       $c2 .= " <I>&amp; " . setfont(liturgical_color($comname), " $comname") . "</I>" if $comname;

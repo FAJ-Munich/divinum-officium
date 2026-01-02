@@ -449,12 +449,14 @@ sub occurrence {
       $commemoratio = $tname;
       $comrank = $trank[2];
       $cvespera = $tvesp;
-      $officename[2] = "Commemoratio: $trank[0]";
+      my %tc = %{setupstring($lang1, "$tname")};
+      my @tr = split(";;", $tc{Rank});
+      $officename[2] = "Commemoratio: $tr[0]";
       $officename[2] =~ s/:/ ad Laudes \& Matutinum:/ if $tfile =~ /Pasc5\-[13]/i;    # Rogation Monday and Vigilia Acs
       $officename[2] =~ s/:/ ad Laudes tantum:/ if $trank[0] =~ /Quattuor.*Sept/;     # QT in Sep
     } elsif (my $transferedC = $commemoentries[0]) {
       $commemoratio = "$transferedC.txt";
-      my %tc = %{setupstring('Latin', "$transferedC.txt")};
+      my %tc = %{setupstring($lang1, "$transferedC.txt")};
       my @cr = split(";;", $tc{Rank});
       $comrank = $cr[2];
       $cvespera = $svesp;
@@ -477,7 +479,7 @@ sub occurrence {
       }
     } elsif ($transfered) {    #&& !$vflag)
       if ($hora !~ /Vespera|Completorium/i) {
-        my %t = %{officestring('Latin', "$transfered.txt")};
+        my %t = %{officestring($lang1, "$transfered.txt")};
 
         if (%t) {
           my @tr = split(";;", $t{Rank});
@@ -495,7 +497,7 @@ sub occurrence {
     }
 
     if (!$officename[2] && $transfervigil) {
-      my %vw = %{setupstring('Latin', $transfervigil)};
+      my %vw = %{setupstring($lang1, $transfervigil)};
 
       if (%vw) {
         my $o = $vw{'Oratio Vigilia'};
@@ -510,7 +512,7 @@ sub occurrence {
       ($_) = split(/\n/, $saint{'Commemoratio 2'} || $saint{'Commemoratio'});
 
       if (/\@([a-z0-9\/\-]+?)\:/isx) {
-        my %s = %{setupstring('Latin', "$1.txt")};
+        my %s = %{setupstring($lang1, "$1.txt")};
         $_ = "!Commemoratio " . $s{'Officium'};
       }
       $officename[2] = "Commemoratio: $_" if (s/^!Commemoratio //);
@@ -536,8 +538,8 @@ sub occurrence {
           # we put the source of the transferred Letio1 into the headline
           my @tsfile = split('~', $ittable);
           my $tsfile = subdirname('Tempora', $version) . $tsfile[0] . ".txt";
-          %tscrip = %{officestring('Latin', $tsfile)};
-          $tsrank = $tscrip{Rank} || $tscrip{Scriptura};
+          my %tscrip = %{officestring($lang1, $tsfile)};
+          my $tsrank = $tscrip{Rank} || $tscrip{Scriptura};
           $tsrank =~ s/\s*;;.*|\s*$//s;
           $officename[2] = "Tempora: $trank[0] (Scriptura ut in: $tsrank)";
         } elsif ($version !~ /monastic/i || $tname !~ /(?:Pasc|Pent)/ || $month > 10) {
@@ -619,11 +621,12 @@ sub occurrence {
         $cvespera = $svesp;
       }
 
-      # Don't say "Commemoratio in Commemoratione"
-      my $comm = $srank[0] =~ /^In Commemoratione/ ? '' : 'Commemoratio:';
+      my %cc = %{setupstring($lang1, $sname)};    # Allow Vernacular in string
+      my @cr = split(";;", $cc{Rank});
 
-      #$officename[2] = "$comm$laudesonly: $srank[0]";
-      $officename[2] = "$comm $srank[0]";
+      # Don't say "Commemoratio in Commemoratione"
+      my $comm = $cr[0] =~ /^In Commemoratione/ ? '' : 'Commemoratio:';
+      $officename[2] = "$comm $cr[0]";
 
       if ($version =~ /196/i) {
         $officename[2] =~ s/:/ $laudesonly:/ if ($trank[2] >= 5 && $srank[2] < 2) || ($climit1960 == 2);
@@ -653,7 +656,7 @@ sub occurrence {
 
       if ($climit1960) {
         $laudesonly = ($missa) ? '' : ($climit1960 == 2) ? ' ad Laudes tantum' : '';
-        my %tc = %{setupstring('Latin', $commemoratio)};
+        my %tc = %{setupstring($lang1, $commemoratio)};
         my @cr = split(";;", $tc{Rank});
         $comrank = $cr[2];
         $cvespera = $svesp;
@@ -676,7 +679,7 @@ sub occurrence {
       }
     } elsif ($transfered) {
       if ($hora !~ /Vespera|Completorium/i) {
-        my %t = %{officestring('Latin', "$transfered.txt")};
+        my %t = %{officestring($lang1, "$transfered.txt")};
 
         if (%t) {
           my @tr = split(";;", $t{Rank});
@@ -710,7 +713,7 @@ sub occurrence {
         # we put the source of the transferred Letio1 into the headline
         my @tsfile = split('~', $ittable);
         my $tsfile = subdirname('Tempora', $version) . $tsfile[0] . ".txt";
-        %tscrip = %{officestring('Latin', $tsfile)};
+        %tscrip = %{officestring($lang1, $tsfile)};
         $tsrank = $tscrip{Rank} || $tscrip{Scriptura};
         $tsrank =~ s/\s*;;.*|\s*$//s;
         $officename[2] = "Scriptura ut in: $tsrank";
@@ -729,6 +732,7 @@ sub occurrence {
   if ($version =~ /trident/i && $communetype =~ /ex/i && $rank < 1.5) { $communetype = 'vide'; }
 
   $comrank =~ s/\s*//g;
+
 }
 
 sub concurrence {
