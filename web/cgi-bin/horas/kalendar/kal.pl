@@ -87,14 +87,14 @@ sub findkalentry {
   my ($entry, $ver) = @_;
   our $winner = subdirname('Sancti', $ver) . "$entry.txt";
   $version = $ver;
-  my %saint = %{setupstring('Latin', "$winner")};
+  my %saint = %{setupstring($lang1, "$winner")};
 
   my @srank = split(";;", $saint{Rank});
 
   return '' unless $srank[0];
 
   our $rank = @srank[2];
-  my $rankname = rankname('Latin');
+  my $rankname = rankname($lang1);
 
   # TODO: get rid of below line when setupstring respects version conditionals
   $rankname =~ s/IV. classis/Memoria/ if $ver =~ /Monastic|Ordo Praedicatorum/;
