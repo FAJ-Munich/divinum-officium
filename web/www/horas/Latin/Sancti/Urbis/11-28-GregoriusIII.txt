@@ -1,0 +1,28 @@
+[Officium]
+S. Gregorii III Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;
+9 lectiones
+
+[Name]
+Gregórii
+(sed communi Summorum Pontificum)
+Gregórium
+
+[Oratio 3]
+@Commune/C4b-1:Oratio
+
+[Lectio4]
+Gregorius, hujus nominis tertius, natione Syrus, patre Joanne, Gregorio secundo vita functo, unanimi cleri et populi consensu, nec non divino quodam instinctu, cum dignissimus omnium esset, subrogatus est, anno Christi septingentesimo trigesimoprimo. Vir singulari doctrina et virtiite, latina et graeca lingua eruditus, mirabili dicendi faciindia, atque adeo felici memoria, ut totum psalterium memoriter recitaret; is demum, quem praedecessori suo Gregório doctrina et prudentia sapientissimi homines aequiparandum esse duxerunt.
+
+[Lectio5]
+Catholicæ fidei propugnator acerrimus, Leónem Isaiirum imperatorem iconoclastam paternis monitis et litteris ad saniorem mentem reducere conatus est. Sed cum nihil proficeret, convocato Romae nonaginta quinque episcoporum concilio, sacrarum imaginum cultum apostolico decreto firmavit,
+et diro anathemate feriit Iconomachos. Quae cum ad Leonis aures pervenissent, altius rugire coepit, misitque adversus Gregorium florentissimam classem cum potentissimo exercitu: sed haec, volente ac vindice Deo, in Adriatico saeva tempestate agitata, fœdo naufrágio périit.
+
+[Lectio6]
+Multa quoque a Luitprando Longobardorum rege inique passus est, qui et Urbem longa obsidione cinxit, et sancti Petri basilicam sacrilega manu diripuit. In his angiistiis sanctissimus Pontifex ad Carolum Martellum, antecessoris exemplo, legatos cum sacris muneribus destinavit. Munivit Urbis mœnia: largas in egenos eleemosynas erogavit, novas basilicas a fundamentis exstriixit, antiquas ornavit, ac restauravit, Vaticanam praesertim, intra quam oratorium auro, argento, gemmis, omnique pretiosi 6peris genere ditatum erexit, in quo sanctorum Apostolorum et Martyrum reliquias summa cura et diligentia toto christiani orbis ambitu conquisitas reposuit, et colendas exposuit, eo maxime tempore, quo illas agiomachi diabolico furore proculcabant. Multa monasteria restituit, et sanctis legibus instriixit, statuitque, ut presbyteri et monachi alternis noctu diiique divinas laudes celebrarent. Fractus demum laboribus, meritis licet atque virtiitibus inclytus, anno sui pontificatus undecimo nondum peracto, quarto Kalendas Decembris pie obiit in Domino, et in praedicto oratório Vaticáno sepúltus est.
+

@@ -1,0 +1,21 @@
+[Officium]
+S. Alexandri I Papæ et Martyris
+
+[Rank]
+;;Duplex;;3;;vide C2
+
+[Rule]
+vide C2;
+9 lectiones
+
+[Name]
+Alexándri
+
+[Lectio4]
+Alexander Romanus ex patre Alexandro de vico Caput Tauri, júvenis quidem aetate, sed sanctitate incomparabiHs et fide clarissimus, post Evaristum sedem Apostolicam obtinuit. In memoriam passionis Christi, primus in sacrificio Missae addidit: Qui pridie quam pateretur; usque ad ea verba: Hoc est Corpus meum. Instituit ut tantúmmodo panis et vinum in mysterio offerretur, atque in consecratione corporis et sanguinis Domini vinum aqua misceretur, propter sanguinem et aquam, quæ ex Jesu Christi latere profluxerunt. Idem decrevit, ut aqua benedicta sale admixta, sacris precibus interpositis, tam in tempHs quam in cubiculis, ad fugandos daemones perpetuo asservaretur. Cumautem esset christianae religionis ferventissimus praedic^tor, dum vixit, mirum in modum in hoc diligens fuit, ut doctrina vitaeque exemplo, quoscúmque posset, ad veram Christi religi6nem perdúceret.
+
+[Lectio5]
+Cum igitur multis Romae, ut, abjurata falsa religione, veram fidem susciperent, persuasisset, senatores ahquot, et Hermetem, Urbis praefectum, cum uxore, filiis, sorore, ac tota domo, Jesu Christo peperit. Quam ob rem accusatus, quod Christianus esset, ex principis edicto captus, et in carcerem conjectus, ibidem diu, quod a christianae fidei professione recedere nollet, detentus est. Cum autem vinctus teneretur, púeri ministerio, qui facem ardentem praeferebat, prodigiose intempestæ noctis silentio, e carcere ad domum Quirini tribúni, ubi beatus Hermes Urbis praefectus paulo ante captus, in custodia servabatur, edúctus, primum filiam ejus Balbinam aegram sanavit, deinde patrem Quirinum miraculo attonitum, et adChristum traductum, cum filia baptismi lavacro abluit. Hinc vero factum est, ut Quirinus iis omnibus, quotquot pro fide Christi vinctos habebat, libertatem abeundi concesserit. Erant inter illos Eventius et Theodulus, qui sancto Alexandro adjuncti, exire de carcere noluerunt, sed Deo laudes persolventes martyrii palmam constanter exspectarunt.
+
+[Lectio6]
+Ex his sanctus Alexánder primum ab Aureliano júdice interrogatus de christianae religionis mysteriis, ea revelare noluit, asserens sanctum esse quod Aurelianus manifestari cupiebat, et non permitti a Christo sanctum dari canibus. Ob quae verba beatus Pontifex in equúleum impositus est, lingulis dilaniatus, atque lampadibus admotis gravissime ustus; cumque nullam amplius vocem emitteret, interrogatus ab Aureliano cur taceret, hoc dignum Martyr responsum dedit: Quia tempore orationis homo christianus cum Deo loquitur. Deposito Alexandro, exhibiti sunt Eventius et Theodúlus, quos cumAurelianus in fide constantes invenisset, jussit Alexandrum et Eventium dorsum ad dorsum ligatos in ignem praecipitari; Theodúlum vero ibidem astare, ut quasi eorumperterritus passione, ad sacrificandum idohs consentiret. Cum autem Theodúlus sponte in flammas prosiliísset, et cum ipsis hymnos decantaret, ac Deo gratias ageret, fecit impius judex Alexándrum punctis creberrimis per omnia membraperforari, quo fine vir sanctus martyrium suum gloriose complevit. Hujus corpus beata Severa religiosa femina sustulit, et cum c6rpore beati Eventii gladio consummati in uno eodemque sepúlchro posuit, via Nomentlna in prædio suo, unde postea ad Urbem translatum, in ecclesia sanctae Sabinae reconditum fuit.

@@ -1,0 +1,21 @@
+[Officium]
+S. Zosimi Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;mtv
+9 lectiones
+
+[Name]
+Zósimi
+
+[Lectio4]
+Zosimus Graecus, Abrahámi filius, post sanctum Innocentium Romanae Ecclesiae Episcopatum suscepit. Is Africanorum Conciliorum decretis adversus Pelagianam haeresim in sententiae suae robur adnexuit, et ad impiorum excidium gladio Petri dexteras omnium armavit Antistitum; iis namque ab ipso probatis, per totum mundum haeresis Pelagiana damnata est. Damnavit et Pelagium ipsum una cum Goelestio, datis hac de re litteris ad universam Ecclesiam.
+
+[Lectio5]
+Ecclesiasticae disciplinae tenacissimus tuit, compluribus ad eam ubique sive servandam, sive restituendam destinatis gravibus epistolis. Definiit, juxta probatum Ecclesiae morem, ut si quis ab infantia ecclesiasticis ministeriis nomen dedisset, inter lectores usque ad vigesimum aetatis annum, continuata observatione duraret. Si vero major jam, et grandaevus post baptismum, sive inter lectores, sive inter exorcistas, quinquennio teneretur, et inde acolythus, vel subdiaconus, quatuor annis, et sic ad diaconatum (si mereretur) accMeret, in quo ordine quinque annis haerere deberet, et inde, suffragantibus votis, sacerdotium promereri posset.
+
+[Lectio6]
+Sancivit, ut diaconi laevas linostimis pallis tegerent: potestatemque fecit, ut per parochias paschalis cereus benediceretur. Cavit praeterea, ne clerico poculum propinaretur in publico, praeterquam in fidelium cellis et maxime clericorum. Qui cum sanctissime rexisset Ecclesiam annum unum, menses quatuor , dies septem, quievit in pace; sepultiisque est juxta corpus sancti Laurentii martyris via Tiburtina, septimo Kalendas Januarii, Honorio, et Theodosio juniore imperantibus. Una ordinatione, mense Decembri, creavit presbyteros decem, diaconos tres, episcopos per divérsa loca octo.

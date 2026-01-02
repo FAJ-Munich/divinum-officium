@@ -1,0 +1,14 @@
+[Officium]
+S. Hadriani III Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;
+9 lectiones
+
+[Name]
+Hadriáni
+(sed communi Summorum Pontificum)
+Hadriánum
