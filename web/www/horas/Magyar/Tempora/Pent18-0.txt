@@ -1,5 +1,5 @@
 [Officium]
-Dominica XVIII Post Pentecosten
+Pünkösd utáni XVIII. vasárnap
 
 [Oratio]
 Vezesse szívünket, kérünk, Urunk irgalmas működésed, mert nélküled nem lehetünk előtted kedvesek.
@@ -7,7 +7,7 @@ $Per Dominum
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matt 9:1-8
+!Mt 9:1-8
 At that time Jesus entered into a ship, and passed over, and came into His own city. And so on.
 _
 Homily by St Peter Chrysologus, Archbishop (of Ravenna.)

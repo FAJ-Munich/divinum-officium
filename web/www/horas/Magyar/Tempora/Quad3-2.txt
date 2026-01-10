@@ -1,9 +1,9 @@
 [Officium]
-Feria Tertia infra Hebdomadam III in Quadragesima
+Kedd nagyböjt III. hetében
 
 [Lectio1]
 Evangélium szent Máté Apostol kőnyvéből
-!Matt 18:15-22
+!Mt 18:15-22
 Azon időben mondá Jézus tanítványainak: Ha testvéred megbántott, menj, és figyelmeztesd négyszemközt. És így tovább.
 _
 Homily by St Austin, Bishop (of Hippo.)

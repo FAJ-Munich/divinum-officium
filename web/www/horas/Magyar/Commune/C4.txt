@@ -82,7 +82,7 @@ R. Melkizedek rendje szerint`
 
 [Lectio1]
 Olvasmány szent Pál apostol Timóteushoz írott első leveléből
-!1 Tim 3:1-7
+!1Tim 3:1-7
 1 Igaz beszéd ez: Aki püspökségre törekszik, jó dolgot kíván.
 2 A püspöknek azonban feddhetetlennek, egyszer nősültnek, józannak, megfontoltnak, mértéktartónak, vendégszeretőnek és a tanításra rátermettnek kell lennie.
 3 Ne legyen iszákos vagy erőszakoskodó, hanem megértő, békeszerető s nem kapzsi.
@@ -93,7 +93,7 @@ Olvasmány szent Pál apostol Timóteushoz írott első leveléből
 
 [Lectio2]
 From the Epistola ad Titus.
-!Titus 1:7-11
+!Tit 1:7-11
 7 A püspök ugyanis, mint az Isten megbízottja, legyen feddhetetlen, ne legyen önhitt, ingerlékeny, iszákos, erőszakos, kapzsi,
 8 hanem legyen vendégszerető, jóakaratú, megfontolt, igaz, tisztességes, fegyelmezett.
 9 Álljon szilárdan a hiteles tanítás alapján, hogy éppúgy képes legyen az egészséges tanítással buzdítani, mint az ellentmondókat megcáfolni.
@@ -101,7 +101,7 @@ From the Epistola ad Titus.
 11 Ezeket el kell hallgattatni, mert egész családokat feldúlnak, s aljas haszonlesésből ártalmas dolgokat tanítanak.
 
 [Lectio3]
-!Titus 2:1-8
+!Tit 2:1-8
 1 Te ellenben azt hirdesd, ami az üdvös tanításnak megfelel.
 2 Az idős férfiak józanok, tisztességesek, megfontoltak legyenek a hitben, szeretetben és türelemben.
 3 Az idős asszonyok hasonlóképpen legyenek komoly magaviseletűek, senkit se rágalmazzanak, ne igyanak sok bort, hanem tanítsanak a jóra.
@@ -113,7 +113,7 @@ From the Epistola ad Titus.
 
 [Lectio7]
 Evangélium szent Máté Apostol kőnyvéből
-!Matt 25:14-23
+!Mt 25:14-23
 Azon időben így szólt Jézus tanítványaihoz: Úgy lesz, mint azzal az emberrel, aki idegenbe készült. Összehívta szolgáit, s rájuk bízta vagyonát. És így tovább.
 _
 Homily by Pope St Gregory (the Great.)
@@ -228,7 +228,29 @@ Olvasmány Jézus Sírák fia könyvéből
 !Sir 44:16-27; 45:3-20
 v. Hénok tetszett az Istennek, és a paradicsomba vitetett, hogy a népeknek bönbánatot hirdessen.  Noé tökéletesnek és igaznak találtatott, és a harag idején engesztelés lett.  Azért hagyatott a földön maradék, mikor a vízözön volt.  Örök szövetséget kötött vele, hogy ne töröltessék el minden test vízözönnel.  Ábrahám sok nemzet nagy atyja, nem talál magához hasonlót dicsöségben; ö megtartotta a Fölséges törvényét, és szövetségben volt vele.  Annak testén állapította meg a szövetséget, és ö a kisértetben hívnek találtatott.  Azért dicsöséget adott neki nemzetében, megesküdvén: hogy megsokasítja öt, mint a föld porát;  és mint a csillagokat, fölmagasztalja ivadékát, és örökössé teszi tengertöl tengerig, és a folyóvíztöl a föld határaig.  És Izsákkal szintazon módon cselekedett atyjáért, Ábrahámért.  Minden nemzetek áldását neki adta az Úr, és szövetségét megerösítette Jákob fején.  Elismerte öt áldásai által, és örökséget adott neki, és részenkint elosztá azt a tizenkét nemzetség között.  És megtartotta neki az irgalmasság férfiait, kik kedvet találtak minden ember szemei elött.
 
+[Tractus]
+!Sir 44:16
+Íme a főpap, ki életének napjaiban tetszett az Istennek.
+!Sir 44, 20
+Nem akadt hozzá hasonló, ki úgy megtartotta a fölséges törvényét.
+!Zsolt 111, 3
+Boldog az az ember, ki az Urat féli; és parancsaiban nagy tetszését leli.
+V. Hatalmas lesz a földön ivadéka; az igazak nemzedéke áldott leszen.
+V. Dicsőség és gazdagság lesz házában; és igazsága mindörökre megmarad.
+
 [Evangelium]
 Evangélium + szent Máté Apostol kőnyvéből
-!Matt 25:14-23
+!Mt 25:14-23
 v. Úgy lesz, mint azzal az emberrel, aki idegenbe készült. Összehívta szolgáit, s rájuk bízta vagyonát.  Az egyiknek öt talentumot adott, a másiknak kettőt, a harmadiknak csak egyet, kinek-kinek rátermettsége szerint, aztán útra kelt.  Aki öt talentumot kapott, menten elkezdett vele kereskedni, s másik ötöt nyert rajta.  Ugyanígy az is, aki kettőt kapott, másik kettőt szerzett.  Aki egyet kapott, elment, ásott egy gödröt, és elrejtette urának pénzét.  Hosszú idő elteltével megjött a szolgák ura, és számadást tartott.  Jött, aki öt talentumot kapott, és felmutatta a másik öt talentumot: Uram, öt talentumot adtál, nézd, másik ötöt nyertem rajta. -  Jól van, te hűséges, derék szolga - mondta neki ura. - Minthogy a kevésben hű voltál, sokat bízok rád: menj be urad örömébe!  Jött az is, aki két talentumot kapott, s így szólt: Uram, két talentumot adtál, nézd, másik kettőt szereztem. -  Jól van, te hűséges, derék szolga. Mivel a kevésben hű voltál, sokat bízok rád: menj be urad örömébe!
+
+[Secreta]
+Szenteid, kérünk, Urunk, örvendeztessenek meg minket mindenütt, hogy érdemeiket ünnepelve, oltalmukat érezhessük.
+$Per Dominum
+
+[Communio]
+!Lk 12, 42
+Hű és okos sáfár, kit az Úr háznépe fölé rendel, hogy búzát adjon nekik mérték szerint a maga idejében. (Allelúja.)
+
+[Postcommunio]
+Add meg, kérünk, mindenható Isten, hogy a vett adományokért hálát adva Szent N. hitvallód és püspököd közbenjárására ég nagyobb jótéteményeket nyerhessünk.
+$Per Dominum

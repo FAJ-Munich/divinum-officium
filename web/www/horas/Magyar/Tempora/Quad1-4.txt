@@ -1,9 +1,9 @@
 [Officium]
-Feria Quinta infra Hebdomadam I in Quadragesima
+Csütörtök nagyböjt I. hetében
 
 [Lectio1]
 Evangélium szent Máté könyvéből
-!Matt 15:21-28
+!Mt 15:21-28
 Azon továbbmenve, Jézus Tírusz és Szidon vidékére vonult vissza. És így tovább.
 _
 Homily by St Jerome, Priest (at Bethlehem.)

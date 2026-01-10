@@ -1,9 +1,9 @@
 [Officium]
-Sabbato Quattuor Temporum Quadragesimae
+Szombat nagyböjt I. hetében
 
 [Lectio1]
 Evangélium szent Máté Apostol kőnyvéből
-!Matt 17:1-9
+!Mt 17:1-9
 Azon időben  Jézus maga mellé vette Pétert, Jakabot és testvérét, Jánost, s fölment külön velük egy magas hegyre. Ott elváltozott előttük És így tovább.
 _
 Homily by Pope St Leo (the Great.)

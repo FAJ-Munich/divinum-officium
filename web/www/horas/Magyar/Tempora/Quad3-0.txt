@@ -1,9 +1,9 @@
 [Officium]
-Dominica III in Quadragesima
+Nagyböjt III. vasárnapja
 
 [Lectio1]
 Olvasmány Mózes első könyvéből
-!Gen 37:2-10
+!Ter 37:2-10
 2 Jákob családjának története a következő: amikor József tizenhét esztendős volt, bátyjaival együtt a juhokat őrizte. Mivel még fiatal volt, apja feleségeinek, Bilhának és Szilpának fiai mellé osztották be. József közölte apjával, ami rosszat azokról mondtak.
 3 Izrael jobban szerette Józsefet, mint a többi fiát, mivel öreg korában született. Ezért egy ujjas köntöst csináltatott neki.
 4 Mikor bátyjai látták, hogy jobban szereti, mint összes többi fiát, meggyűlölték, és nem tudtak vele barátságos szót váltani.
@@ -15,7 +15,7 @@ Olvasmány Mózes első könyvéből
 10 Amikor elbeszélte apjának és testvéreinek, apja megfeddte, mondván: „Mit akar jelenteni ez az álom, amit láttál? Nekem, anyádnak és bátyáidnak, nekünk a földig kell hajolnunk előtted?”
 
 [Lectio2]
-!Gen 37:11-20
+!Ter 37:11-20
 11 Bátyjai féltékenyek lettek rá, apja ellenben megjegyezte magának a dolgot.
 12 Amikor bátyjai elmentek, és apjuk juhait Szichemben legeltették,
 13 Izrael ezt mondta Józsefnek: „Bátyáid Szichemnél legeltetnek, gyere, hadd küldjelek el hozzájuk.” „Készen vagyok” - felelte.
@@ -28,7 +28,7 @@ Olvasmány Mózes első könyvéből
 20 Rajta, öljük meg, dobjuk egy ciszternába és mondjuk azt, hogy vadállat ette meg. Akkor majd meglátjuk, mi lesz az álmaiból.”
 
 [Lectio3]
-!Gen 37:21-28
+!Ter 37:21-28
 21 Mikor Ruben ezt meghallotta, igyekezett kimenteni kezükből, és így szólt: „Ne vegyük el az életét.”
 22 Ruben még azt mondta nekik: „Ne ontsatok vért, dobjátok be a ciszternába, ott a pusztában, de kezeteket ne emeljétek rá.” (Ezt mondta), mert ki akarta menteni kezükből és vissza akarta küldeni apjához.
 23 Mihelyt József testvéreihez ért, azok levették József ujjas köntösét, ami rajta volt,
@@ -40,7 +40,7 @@ Olvasmány Mózes első könyvéből
 
 [Lectio7]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luke 11:14-28
+!Lk 11:14-28
 Azon időben Jézus kiűzött egy néma gonosz lelket. Amikor a gonosz lélek kiment, a néma megszólalt. A nép elcsodálkozott. És így tovább.
 _
 Homily by the Venerable Bede, Priest (at Jarrow.)
@@ -48,16 +48,16 @@ Homily by the Venerable Bede, Priest (at Jarrow.)
 We read in Matthew (xii. 22) that the devil, by which this poor creature was possessed, was not only dumb, but also blind; and that, when he was healed by the Lord, he saw as well as spake. Three miracles, therefore, were performed on this one man; the blind saw, the dumb spake, and the possessed was delivered. This mighty work was then indeed wrought carnally, but it is still wrought spiritually in the conversion of believers, when the devil is cast out of them, so that their eyes see the light of faith, and the lips, that before were dumb, are opened that their mouth may show forth the praise of God. But some of them said He casteth out devils through Beelzebub, the chief of the devils. These some were not of the multitude, but liars among the Pharisees and Scribes, as we are told by the other Evangelist (24.)
 
 [Capitulum Laudes]
-!Eph 5:1-2
+!Ef 5:1-2
 v. Tesvérek: Mint Isten kedves gyermekei, legyetek az ő követői és éljetek szeretetben, ahogy Krisztus is szeretett minket, és odaadta magát értünk jó illatú áldozati adományként az Istennek.
 $Deo gratias
 
 [Capitulum Sexta]
-!Eph 5:5
+!Ef 5:5
 v. Legyetek meggyőződve, hogy semmiféle erkölcstelennek, tisztátalannak, kapzsinak, más szóval bálványimádónak nincs öröksége Krisztus és az Isten országában.
 $Deo gratias
 
 [Capitulum Nona]
-!Eph 5:8-9
+!Ef 5:8-9
 v. Valaha sötétség voltatok, most azonban világosság az Úrban. Éljetek úgy, mint a világosság fiai. A világosság gyümölcse csupa jóság, igazságosság és egyenesség.
 $Deo gratias

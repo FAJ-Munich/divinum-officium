@@ -1,5 +1,5 @@
 [Dominica Tertia]
-!1 John. 4:16
+!1Jn. 4:16
 v. Az Isten szeretet, és aki kitart a szeretetben, az az Istenben marad, s az Isten is benne marad.
 $Deo gratias
 
@@ -33,7 +33,7 @@ V. Az Úr az én pásztorom, nem szenvedek hiányt
 R. Zöldellő réteken legeltet.
 
 [Dominica Nona]
-!1 Cor 6:20
+!1Kor 6:20
 v. Nagy volt a váltságdíjatok! Dicsőítsétek meg tehát Istent testetekben!
 $Deo gratias
 
@@ -67,7 +67,7 @@ V. Jöjj segítségemre, ne hagy el
 R. Ne vess meg engem Istenem, üdvösségem
 
 [Feria Sexta_]
-!Rom 13:8
+!Róm 13:8
 v. Ne tartozzatok senkinek semmivel, csak kölcsönös szeretettel, mert aki embertársát szereti, a többi törvényt is megtartja.
 $Deo gratias
 
@@ -80,7 +80,7 @@ R. Minden időben
 R. Áldjuk az Urat * minden időben
 
 [Feria Nona_]
-!1 Pet 1:17-19
+!1Pt 1:17-19
 v. Éljetek istenfélelemben zarándoklástok idején. Hisz tudjátok, hogy nem veszendő ezüstön vagy aranyon szabadultatok ki, hanem Krisztusnak, a hibátlan és egészen tiszta báránynak a drága vére árán.
 $Deo gratias
 
@@ -156,7 +156,7 @@ V. Feletted, Jeruzsálem, feltámad az Úr.
 R. És dicsősége feletted leszen.
 
 [Quad Tertia]
-!Joel 2:12-13
+!Jo 2:12-13
 v. Térjetek vissza hozzám teljes szívetekből, böjtölve, sírva és gyászolva. A szíveteket szaggassátok meg, ne a ruhátokat, mondja a Mindenható Úr.
 $Deo gratias
 
@@ -177,7 +177,7 @@ V. Megszabadított engem * a vadászok tőrétől.
 R. És az éles szavaktól
 
 [Quad Sexta]
-!Isa 55:7
+!Iz 55:7
 v. Hagyja el útját a gonosz, és gondolatait a bűnös; térjen vissza az Úrhoz, mert megkönyörül rajta, Istenünkhöz, mert bőkezű a megbocsátásban
 $Deo gratias
 
@@ -194,7 +194,7 @@ V. Igazsága irányít és megvédelmez téged.
 R. Nem kell félned az éji sötéttől.
 
 [Quad Nona]
-!Isa 58:7
+!Iz 58:7
 v. Törd meg az éhezőnek kenyeredet, és a hajléktalan szegényt fogadd be házadba. Ha mezítelent látsz, öltöztesd föl, és ne fordulj el embertársad elől!
 $Deo gratias
 
@@ -266,7 +266,7 @@ V. Ments meg engem, Uram, a rosz embertől.
 R. A gonosz férfiútól ments meg engem.
 
 [Pasch Tertia]
-!Rom 6:9-10
+!Róm 6:9-10
 v. Tudjuk, hogy Krisztus feltámadt a halálból, többé nem hal meg, a halál nem lesz többé úrrá rajta. Aki meghalt, az egyszer s mindenkorra meghalt a bűnnek, aki azonban él, az Istennek él.
 $Deo gratias
 
@@ -287,7 +287,7 @@ V. Feltámadott az Úr a sirból. Alleluja.
 R. Aki érettünk a keresztfán függött. Alleluja.
 
 [Pasch Sexta]
-!1 Cor 15:20-22
+!1Kor 15:20-22
 v. De Krisztus feltámadt a halálból elsőként a halottak közül. Mivel egy ember idézte elő a halált, a halottak is egy ember révén támadnak fel. Amint ugyanis Ádámban mindenki meghal, úgy Krisztusban mindenki életre is kel
 $Deo gratias
 
@@ -304,7 +304,7 @@ V. Öröm töltötte el a tanítványokat. Alleluja.
 R. Az Úr láttára. Alleluja.
 
 [Pasch Nona]
-!1 Pet 3:18
+!1Pt 3:18
 v. Mert Krisztus is meghalt egyszer a bunökért, az Igaz a bunösökért, hogy az Istenhez vezessen minket. A test szerint ugyan megölték, de a lélek szerint életre kelt. 
 $Deo gratias
 

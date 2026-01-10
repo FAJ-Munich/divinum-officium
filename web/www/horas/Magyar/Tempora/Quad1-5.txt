@@ -1,9 +1,9 @@
 [Officium]
-Feria Sexta Quattuor Temporum Quadragesimae
+Péntek nagyböjt I. hetében
 
 [Lectio1]
 Evangélium szent János Apostol kőnyvéből
-!John 5:1-15
+!Jn 5:1-15
 Azon időben ünnepük volt a zsidóknak, s Jézus fölment Jeruzsálembe És így tovább.
 _
 Homily by St Austin, Bishop (of Hippo.)

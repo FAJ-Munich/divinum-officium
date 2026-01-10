@@ -1,9 +1,9 @@
-[Officium]
-Feria Sexta Quattuor Temporum Septembris
+[Scriptura]
+Péntek Szeptember III. vasárnapja után
 
 [Lectio1]
 Evangélium szent Lukács Evangélista kőnyvéből
-!Luke 7:36-50
+!Lk 7:36-50
 Azon időben egy farizeus meghívta Jézust, hogy egyék nála. Betért hát a farizeus házába, és asztalhoz telepedett. És így tovább.
 _
 Homily by Pope St Gregory (the Great.)

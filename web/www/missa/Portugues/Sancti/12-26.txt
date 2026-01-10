@@ -16,7 +16,7 @@ Bem-aventurados os que são rectos nos seus caminhos e cumprem a Lei do Senhor.
 v. Reuniram-se os príncipes em assembleia e pronunciaram-se contra mim: e os maus perseguiram-me injustamente: Auxiliai-me, Senhor, meu Deus, pois o vosso servo tem observado os vossos ensinos.
 
 [Oratio]
-Concedei-nos, Senhor, Vos imploramos, a graça de imitar aquele que honramos, a fim de que neste dia aprendamos a amar os nossos inimigos, pois que celebramos a festa daquele que soube rogar pelos seus perseguidores a nosso Senhor Jesus Cristo:
+Concedei-nos, Senhor, Vos imploramos, a graça de imitar aquele que honramos, a fim de que neste dia aprendamos a amar os nossos inimigos, pois que celebramos a festa daquele que soube rogar pelos seus perseguidores a Nosso Senhor Jesus Cristo:
 $Qui tecum
 
 [Commemoratio Oratio]
@@ -69,7 +69,7 @@ Santificai, Senhor, pelo novo Nascimento do vosso Filho Unigénito, as oblatas q
 $Per eundem
 
 [Communio]
-!Act 7:55; 7:58; 7:59
+!Act 7:55; 7:58-59
 Vejo os céus abertos e Jesus, de pé, à dextra de Deus omnipotente. Ó Senhor Jesus, recebei o meu espírito e lhes não imputeis este pecado.
 
 [Postcommunio]

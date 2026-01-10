@@ -1,9 +1,9 @@
 [Officium]
-Sabbato infra Hebdomadam IV in Quadragesima
+Szombat nagyböjt IV. hetében
 
 [Lectio1]
 Evangélium szent János könyvéből
-!John 8:12-20
+!Jn 8:12-20
 Azon időben mondá Jézus a zsidók seregeinek: Én vagyok a világ világossága. Aki követ, nem jár többé sötétségben, hanem övé lesz az élet világossága. És így tovább.
 _
 Homily on this passage by St Austin, Bishop (of Hippo.)

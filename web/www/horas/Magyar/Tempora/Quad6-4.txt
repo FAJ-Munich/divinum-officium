@@ -1,5 +1,5 @@
 [Officium]
-Feria Quinta in Coena Domini
+Csütörtök nagyböjt VI. hetében
 
 [Oratio Matutinum]
 v. Look down, we beseech thee, O Lord, on this thy family, for which our Lord Jesus Christ did not hesitate to be delivered up into the hands of wicked men, and to suffer the torment of the Cross.
@@ -18,7 +18,7 @@ _
 
 [Lectio1]
 Olvasmány Jeremiás próféta siralmainak könyvéből
-!Lam 1:1-5
+!Siral 1:1-5
 1 Ó, mily elhagyottan ül a város, amely egykor tele volt néppel! Olyan, mint az özvegy, bár nagy volt a népek között. A tartományok úrnőjét, lám, robotra fogták.
 2 Csak sír, egyre sír éjjelente, könnyei peregnek az arcán. Azok közül, akik szerették, egy sincs, hogy vigasztalja. Barátai mind cserbenhagyták, és ellenségeivé lettek.
 3 Számkivetésbe került Júda, alávetve elnyomásnak, nehéz szolgaságnak. A pogány népek között lakik, s nem talál nyugalmat. Üldözői mind utolérték, ott, ahol nem volt menekvése.
@@ -27,7 +27,7 @@ Olvasmány Jeremiás próféta siralmainak könyvéből
 r. Jerusalem, Jerusalem, térj meg Uradhoz Istenedhez.
 
 [Lectio2]
-!Lam 1:6-9
+!Siral 1:6-9
 6 Sion leányának eltűnt minden dicsősége. Fejedelmei olyanok lettek, mint a kosok, amelyek nem találnak legelőt. Erejüket vesztve vonszolják magukat üldözőik előtt.
 7 Jeruzsálem emlékezetébe idézi nyomorúsága és elnyomatása napjait, amikor népe ellenség kezére került, és senki nem sietett segítségére. Elnyomói látták ezt, és mulattak pusztulásán.
 8 Súlyosan vétkezett Jeruzsálem, és tisztátalanná vált. Azok, akik tisztelték, most mind megvetik, mert látják gyalázatát. Ő maga meg csak sóhajtozik, és szégyenében elfordítja arcát.
@@ -35,7 +35,7 @@ r. Jerusalem, Jerusalem, térj meg Uradhoz Istenedhez.
 r. Jerusalem, Jerusalem, térj meg Uradhoz Istenedhez.
 
 [Lectio3]
-!Lam 1:10-14
+!Siral 1:10-14
 10 Az ellenség kinyújtotta kezét minden drágasága felé. S látnia kellett, amint a pogányok behatoltak szentélyébe; azok, akiknek megtiltottad, hogy belépjenek gyülekezetedbe.
 11 Egész népe sóhajtozik, és kenyér után eseng. Odaadják élelemért minden kincsüket, csak hogy megmentsék életüket. „Nézz rám, Uram, és vedd észre, mennyire megvetnek!”
 12 Ó, ti mindnyájan, akik erre jártok az úton, nézzetek ide és lássátok: Van-e oly fájdalom, mint az én fájdalmam? Mert lesújtott rám az Úr izzó haragjának napján.
@@ -45,7 +45,7 @@ r. Jerusalem, Jerusalem, térj meg Uradhoz Istenedhez.
 
 [Lectio7]
 Szent Pál Apostol Korintusiakhoz írott leveléből
-!1 Cor 11:17-22
+!1Kor 11:17-22
 17 A következő intézkedéssel kapcsolatban nem dicsérlek meg titeket, mivel összejöveteletek nem javatokra, hanem károtokra szolgál.
 18 Először is azt hallom, hogy amikor közösségbe gyűltök, szakadás mutatkozik köztetek, s ezt részben el is hiszem.
 19 Kell is, hogy szakadás legyen körötökben, mert a megbízhatók csak így tűnnek ki közületek.
@@ -54,14 +54,14 @@ Szent Pál Apostol Korintusiakhoz írott leveléből
 22 Nincs otthonotok evésre-ivásra? Vagy megvetitek Isten egyházát, és megszégyenítitek a szegényeket? Mit mondjak nektek? Dicsérjelek? Ezért nem dicsérlek benneteket.
 
 [Lectio8]
-!1 Cor 11:23-26
+!1Kor 11:23-26
 23 Én ugyanis az Úrtól kaptam, amit közöltem is veletek: Urunk Jézus elárulásának éjszakáján fogta a kenyeret,
 24 hálát adott, megtörte, és így szólt: „Vegyétek és egyétek, ez az én testem értetek. Ezt tegyétek az én emlékezetemre.”
 25 Ugyanígy vacsora után fogta a kelyhet, és így szólt: „Ez a kehely az új szövetség az én véremben. Ezt tegyétek, valahányszor isztok belőle, az én emlékezetemre.”
 26 Valahányszor ugyanis e kenyeret eszitek, és e kehelyből isztok, az Úr halálát hirdetitek, amíg el nem jön.
 
 [Lectio9]
-!1 Cor 11:27-34
+!1Kor 11:27-34
 27 Ezért aki méltatlanul eszi a kenyeret vagy issza az Úr kelyhét, az Úr teste és vére ellen vét.
 28 Tehát vizsgálja meg magát mindenki, s csak úgy egyék a kenyérből és igyék a kehelyből,
 29 mert aki csak eszik és iszik anélkül, hogy megkülönböztetné az (Úr) testét, saját ítéletét eszi és issza.
