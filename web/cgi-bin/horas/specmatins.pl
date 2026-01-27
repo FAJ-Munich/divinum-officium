@@ -86,9 +86,10 @@ sub invitatorium {
   if (my @a = do_read($fname)) {
     $_ = join("\n", @a);
 
-    if ($rule =~ /Invit2/i) {
+    if ($rule =~ /Invit2/i || !$dayofweek && $version =~ /praedicatorum/i) {
 
       # old Invitatorium2 = Quadp[123]-0
+      # and pradicatorum at Sundays
       s/ \*.*?(\(\:\:\)\})?$/ \1/m;
     } elsif ($dayname[0] =~ /Quad[56]/i
       && $winner =~ /tempora/i
@@ -108,8 +109,14 @@ sub invitatorium {
       # old Invitatorium4
       s/^(v\.|\{\([cf][1-4]b?\))\s*.* \+ (.)/\1 \u\2/m;
     }
+     elsif ($rule =~ /Invit5/i)
+    {
+      # Invitatorium5 for Cist. Pre-Lent,
+      # removing the [Invit] verse
+      s/^(v\.|\{\([cf][1-4]b?\))\s*.* \= (.)/\1 \u\2/m;
+    }
 
-    s{[+*^] }{}g;    # clean division marks
+    s{[+*^=] }{}g;    # clean division marks
 
     s/\$ant2/$ant2/eg;
     s/\$ant/$ant/eg;
@@ -148,13 +155,14 @@ sub hymnusmatutinum {
     $name = gettempora('Hymnus matutinum');
     $name = ($name) ? "Hymnus $name" : "Day$dayofweek Hymnus";
 
-    if ($name =~ /Day[1-6] Hymnus/i && $version =~ /Cist/i) {
+    if ($name =~ /Day[1-6] Hymnus/i && $version =~ /Cist|praedicatorum/i) {
       $name = "Day0 Hymnus";
     }
     $comment = ($name) ? 1 : 5;
 
     if (
-      $name =~ /^Day0 Hymnus$/i
+         $name =~ /^Day0 Hymnus$/i
+      && $version !~ /praedicatorum/i
       && (
         $month < 4
         || ( ($monthday && $monthday =~ /^1[0-9][0-9]\-/ && $version !~ /Cist/i)
@@ -503,6 +511,12 @@ sub get_absolutio_et_benedictiones {
     @ben = split("\n", $mariae{Benedictio});
     setbuild2('Special benedictio');
 
+    ## Cistercian Votive offices
+  } elsif ($winner =~ /00-V[BE]/) {
+    my %w = (columnsel($lang)) ? %winner : %winner2;
+    @ben = split("\n", $w{Benedictio});
+    setbuild2('Special benedictio: Cistercian Votive Offices');
+
     ## 3 lectiones
   } else {
     @ben = split(/\n/, $ben{'Nocturn 3'});    #  will modify for tempora
@@ -638,6 +652,7 @@ sub lectio : ScriptFunc {
 
   if ( $num < 4
     && $version =~ /trident|monastic.*divino/i
+    && $version !~ /cist/i
     && $winner{Rank} =~ /Dominica/i
     && $month != 12
     && $dayofweek > 0)
@@ -1272,7 +1287,7 @@ sub tedeum_required {
 
           # 2 below conditions can be ommited if [Rule] '9 lectiones' wont be false
           || $duplex == 1
-          || ($version =~ /19(?:55|60)/ && gettype1960() != LT1960_DEFAULT)
+          || ($version =~ /19(?:55|6[02])/ && gettype1960() != LT1960_DEFAULT)
         )
       )
     )

@@ -56,7 +56,7 @@ sub oratio {
     || ($winner{Rank} =~ /Quattuor/i && $dayname[0] !~ /Pasc7/i && $version !~ /196|cist/i && $hora eq 'Vespera'))
   {
     my $name = "$dayname[0]-0";
-    if ($name =~ /(?:Epi1|Nat)/i && $version !~ /Monastic/) { $name = 'Epi1-0a'; }
+    if ($name =~ /(?:Epi1|Nat)/i && $version ne 'Monastic - 1930') { $name = 'Epi1-0a'; }
     %w = %{setupstring($lang, subdirname('Tempora', $version) . "$name.txt")};
   }
 
@@ -178,6 +178,8 @@ sub oratio {
             push(@s, '$Kyrie', '$pater secreto', "_");
           }
         }
+      } elsif ($winner =~ /C12/ && $version !~ /19[56]|cist/i) {
+        push(@s, '$Kyrie');
       }
 
       if ($priest) {
@@ -622,7 +624,17 @@ sub delconclusio {
   my $ostr = shift;
   my $conclusio = shift;
 
-  if ($ostr =~ s/^(\$(?!Oremus).*?(\n|$)((_|\s*)(\n|$))*)//m) {
+  if ($ostr =~ /\$Per/s && $ostr =~ /\$Qui/s && $version !~ /196/) {
+    if ($ostr =~ /(.*?)(\n\$Per [^\n\r]*?\s*)$/s) {
+      $conclusio = $2;
+      $ostr = $1;
+      $ostr =~ s/\$Qui [^\n\r]*\s*//;
+    } elsif ($ostr =~ /(.*?)(\n\$Qui [^\n\r]*?\s*)$/s) {
+      $conclusio = $2;
+      $ostr = $1;
+      $ostr =~ s/\$Per [^\n\r]*\s*//;
+    }
+  } elsif ($ostr =~ s/^(\$(?!Oremus).*?(\n|$)((_|\s*)(\n|$))*)//m) {
     $conclusio = $1;
   }
 

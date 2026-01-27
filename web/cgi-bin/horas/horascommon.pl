@@ -2056,6 +2056,7 @@ sub spell_var {
     $t =~ s/(allelú)ja/$1ia/gi if $version =~ /cist/i;
     $t =~ s/(c)(æ|ae)l/$1œl/gi if $version =~ /cist/i;
     $t =~ s/(c)([aá]r[ií])(t|ss)/$1h$2$3/gi if $version =~ /cist/i;
+    $t =~ s/>([aá]r[ií])(t|ss)/>h$1$2/gi if $version =~ /cist/i;
     $t =~ s/>aríssim/>haríssim/gi if $version =~ /cist/i;
     $t =~ s/(A|a)b(i|í)ci/$1bj$2ci/gi if $version =~ /cist/i;
   }
@@ -2160,7 +2161,7 @@ sub gettempora {
   }
 
   if ($caller eq 'Hymnus major' && !$tname) {
-    $tname = ($version !~ /cist/i || ($hora eq 'Vespera' && $dayofweek == 6)) ? "Day$dayofweek" : 'Day0';
+    $tname = ($version !~ /cist|praedicatorum/i || ($hora eq 'Vespera' && $dayofweek == 6)) ? "Day$dayofweek" : 'Day0';
   }
 
   if ($caller =~ /^Capitulum|major$/ && !$tname) {    # caller is Capitulum major/minor or getfrompsalterium
