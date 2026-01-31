@@ -985,6 +985,7 @@ sub concurrence {
     my $flrank =
         ($version =~ /cist/i && $cwinner{Rank} =~ /Dominica/i)
       ? ($rank < ($tomorrowname[0] =~ /Adv1|Quad[156]/ ? 4.9 : $version =~ /altovadensis/i ? 3.9 : 2.9) ? 2 : $rank)
+      : ($version =~ /bavariae/i && $cwinner{Rank} =~ /Dominica/i && $tomorrowname[0] =~ /Adv|Quad/ && $rank < 4.9) ? 2
       : $version =~ /trident/i ? (
           ($rank < 2.9 && !($rank == 2.1 && $winner{Rank} !~ /infra Octavam/i)) ? 2
         : ((($rank >= 3 && $rank < 3.9) || ($rank >= 4.1 && $rank < 4.9)) && $rank != 3.9 && $rank != 3.2) ? 3
