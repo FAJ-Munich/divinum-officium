@@ -150,7 +150,7 @@ sub load_transfers {
     foreach (@lines) {
       my ($line, $ver) = split(/\s*;;\s*/);
       next unless $line;
-      
+
       if (!$ver || ($ver =~ $_data{$version}{lc($type)})) {
         push(@transfer, split(/=/, $line, 2));
       }

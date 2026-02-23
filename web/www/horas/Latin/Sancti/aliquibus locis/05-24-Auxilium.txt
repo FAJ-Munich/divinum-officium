@@ -1,0 +1,135 @@
+[Officium]
+Beatæ Mariæ Virginis sub titulo Auxilium Christianorum
+
+[Rank]
+;;Duplex majus;;4;;ex C11
+
+[Rule]
+ex C11
+9 lectiones
+Antiphonas horas
+
+[Comment]
+Proprium viz. 1888, pp. [383]–[272]
+
+[Hymnus Vespera]
+Sæpe dum Christi populus cruéntis
+Hostis infénsi premerétur armis,
+Venit adjútrix pia Virgo cœlo 
+Lapsa seréno.
+_
+Prisca sic Patrum monumenta narrant,
+Templa testantur spolús opimis
+Clara, votivo repetita cultu
+Festa quotannis.
+_
+En novi grates liceat Mariæ
+Cantici lætis modulis referre
+Pro novis donis, resonante plausu
+Urbis et Orbis.
+_
+Oh dies felix, memoranda fastis,
+Qua Petri Sedes fidei magistrum
+Triste post lustrum reducem beata
+Sorte recepit!
+_
+Virgines castæ, puerique puri,
+Gestiens clerus, populúsque grato
+Corde Reginae celebrare cœli
+Múnera certent.
+_
+Virginum Virgo, benedicta Jesu
+Mater, hæc auge bona; fac precamur,
+Ut gregem Pastor Pius adsalútis
+Pascua ducat.
+_
+Te per ætérnos venerémur annos,
+Trinitas, summo celebranda plausu:
+Te fide mentes, resonóque linguæ
+Cármine laudent. Amen.
+
+[Ant 1]
+Ecce Maria erat spes nostra, ad quam confugimus in auxilium, ut liberaret nos, et venit in adjutorium nobis.
+
+[Oratio]
+Omnipotens et miséricors Deus, qui ad defensionem populi christiani in beatissima Virgine Maria perpetuum auxilium mirabiliter constituisti: concede propitius; ut tali præsidio muniti, certantes in vita, victoriam de hoste maligno consequi valeamus in morte.
+$Per Dominum
+
+[Hymnus Matutinum]
+@:Hymnus Vespera
+
+[Lectio4]
+Sermo sancti Bernárdi Abbátis
+!Ex Sermone de 12 Stellis
+Veheménter quidem nobis, dilectissimi, vir unus et mulier una nocuere: sed gratias Deo, per unum nihilominus virum et mulierem unam ómnia restaurantur, nec sine magno fœnore gratiarum. Et quidem suificere poterat Christus: siquidem et nunc omnis sufficientia nostra ex eo est: sed nobis bonum non erat esse hominem solum. Congruum magis ut adesset nostrae reparationi sexus uterque. Jam itaque nec ipsa muiier benedicta in mulieribus videbitur otiósa: invenietur equidem locus ejus in hac reconciliatione.  Opus est enim mediatóre ad mediatorem Christum: nec alter nobis utilior quam Maria. Crudelis nimium mediatrix Heva, per quam serpens antiquus pestiferum etiam ipsi viro virus infudit: sed fidelis Maria, quae saliitis antidotum et viris et mulieribus propinavit. Illa enim ministra seductionis, haec propitiationis; illa suggessit prævaricationem, haec ingessit redemptionem. Quid ad Mariam accedere trepidet humana fragilitas? Nihil austerum in ea, nihil terribile; tota suavis est, ómnibus offerens lac et lanam. Revolve diligentius evangelicae historiae seriem universam: et si quid forte increpatorium, si
+quid durum, si quod denique signum vel levis indignationis occurrerit in Maria, de cetero suspectam habeas, et accedere verearis.
+
+[Lectio5]
+Quod si...
+
+[Lectio6]
+Præsentíssimum ...
+
+[Lectio7]
+Léctio sancti Evangélii secúndum Lucam
+!Luc 11:
+In illo témpore: Loquénte Jesu ad turbas, extóllens vocem quædam múlier de turba, dixit illi: Beátus venter, qui te portávit. Et réliqua.
+_
+Homilía sancti Bernárdi Abbátis
+!In nativitate B. M. V.
+Intuére o homo, ...
+
+[Responsory7]
+R. Felix namque es, sacra Virgo María, et omni laude digníssima:
+* Quia ex te ortus est sol justítiæ, Christus, Deus noster.
+V. Ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu: séntiant omnes tuum juvámen, quicúmque célebrant tuam sanctum implórant auxílium.
+R. Quia ex te ortus est sol justítiæ, Christus, Deus noster.
+
+[Lectio8]
+In ómnibus ...
+
+[Lectio9]
+Filíoli, hæc peccatórum ...
+
+[Hymnus Laudes]
+Te Redemptoris, Dominique nostri
+Dicimus Matrem, speciosa Virgo,
+Christianorum decus, et levamen –
+Rebus in arctis.
+_
+Sæviant portæ licet inferorum,
+Hostis antiquus fremat, et minaces
+Ut Deo, sacrum populetur agmen,
+Suscitet iras.
+_
+Nil truces possunt furiæ nocere
+Mentibus castis, prece quas vocata
+Annuens Virgo fovet, et superno
+Robore firmat.
+_
+Tanta si nobis faveat Patrona,
+Bellici cessat sceleris tumultus,
+Mille sternuntur, fugiuntve turmæ,
+Mille cohortes.
+_
+Tollit ut sancta caput in Sione
+Turris, arx firmo fabricata muro,
+Civitas David, clypeis, et acri
+Milite tuta.
+_
+Virgo sic fortis Domini potenti
+Dextera, cæli cumulata donis,
+A piis longe famulis repellit
+Dæmonis ictus.
+_
+Te per æternos veneremur annos
+Trinitas, summo celebranda plausu,
+Te fide mentes, resonoque linguæ
+Carmine laudent. Amen.
+
+[Ant 2]
+Ad te, o sancta Dei Génitrix, clamávimus, et per te venit Dómini auxílium nobis.
+
+[Ant 3]
+Sancta María, succurre míseris, juva pusillánimes, réfove flébiles, ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu: séntiant omnes tuum juvámen, quicúmque tuum sanctum implórant auxílium.
+

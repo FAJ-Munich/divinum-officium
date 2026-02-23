@@ -1,0 +1,75 @@
+[Officium]
+S. Sergii I Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;
+9 lectiones
+
+[Name]
+Sérgii
+(sed communi Summorum Pontificum)
+Sérgium
+
+[Lectio4]
+Sergius, Antiochenus genere,
+Tiberio patre, Panormi in Si-
+cilia natus, Conone vita fun-
+cto, anno Christi sexcentesimo
+octogesimo septimo,
+anuente Deo,
+et suffragantibus omnium votis, in
+sacro Lateranensi palatio assiim-
+ptus, foedissimum schisma, quod
+exarchi imperatoris avaritia et
+Paschalis archidiaconi ambitio ex-
+citarant, in ipso ortu exstinxit.
+Adeodato Pontifice Romam ve-
+niens, in Ecclesiae Romanae cle-
+rum ab eodem ascitus, et a Leone
+hujus nominis seciindo presbyter
+tituli sanctae Susannae ordinatus,
+impigre suo miinere defiinctus est.
+
+[Lectio5]
+Canones a Graecis sextas synodo
+dein affictos, instante licet et
+dira minante imperatdre, admit-
+tere noluit, sed ut spiirios, non
+sine vitae periculo, constanter ab-
+jecit. Magnam Dominicae crucis
+portionem, revelante Deo a se in-
+ventam, in basilica Constantiniana
+populoadorandamcollocavit. Cor-
+pus sancti Leonis in obsciiro cdn-
+ditum angulo, Dei nutu, inde amo-
+vit, et ornatiori loco 6mnibus co-
+lendum exposuit. Basilicam de-
+mum Vaticanam inmimeris donis
+ornavit, egregiis certe amoris sui
+erga Principem Apostolorum mo-
+numentis.
+
+[Lectio6]
+Chilianum et sócios martyrio de-
+inde affectos in Germaniam,
+Willibrordum et Switbertum cum
+sociis in Frisiam aliasque circum-
+jectas regiones misit, in quibus
+maximum paganorum niimerum
+ad Christi fidem converterunt.
+Coadvallum Britonum regem Ro-
+mam venientem excepit, et sacro
+baptismate tinxit. Ravennatibus
+Damianum, Leodiensibus Uber-
+tum, Britannis Berectualdum epi-
+scopos ordinavit. Statuit ut Litur-
+giae sacrae pius versus: Agnus Dei,
+qui tollis peccata mundi, miserere
+nobis, adderetur. Meritis denique
+plenus, postquam sedisset trede-
+cim annis, mensibus octo, sancto
+fine quievit, ac sepiiltus est in Va-
+ticano.

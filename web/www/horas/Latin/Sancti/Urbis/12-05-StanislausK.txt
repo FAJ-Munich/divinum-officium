@@ -1,0 +1,177 @@
+[Officium]
+S. Stanislai Kostkæ Confessoris
+
+[Rank]
+;;Duplex;;3;;C5
+
+[Rule]
+vide C5;mtv
+9 lectiones
+
+[Name]
+Stanislái
+
+[Oratio]
+Deus, qui inter cétera sapiéntiæ tuæ mirácula, étiam in ténera ætáte matúræ sanctitátis grátiam contulisti: da, quæsumus; ut beáti Stanislái exémplo, tempus instánter operándo rediméntes, in ætérnam ingredi réquiem festinémus.
+$Per Dominum
+
+[Lectio4]
+Stanislaus, senatoria Kostkarum gente ortus in Polónia,
+quam olim esset militiamse-
+cutiirus, nomenJesu praenuntiavit,
+paritiirae matris gremio divinitus
+inscriptum. Virginitatem adhuc
+puer ita coluit, ut paterna in men-
+sa si quid minus pudice dictum
+audisset, prae horrore exanimis
+corriieret. Ad Viennense in Aii-
+stria seminarium studiorum causa
+missus, non minus exemplo soda-
+libus quam venerationi fuit. Coa-
+ctus inde in lutherani hospitis ae-
+des migrare, ibique a Paulo fratre
+ad liberiorem vitam omni etiam
+asperitatum genere incitatus, do-
+mesticum bellum toto biennio con-
+stantissime sustinuit, ad aeterna
+se, non ad cadiica natumaffirmans.
+Itaque linicum illi erat rerum coe-
+lestium desiderium, perpetua cum
+Deo consuetudo, cultus Deiparae
+adeo tener, ut matrem suavissime
+appellaret.
+
+[Lectio5]
+Quotidianae fratris vexati6ni cre-
+bra ipse jejunia, flagella, alios-
+que ins6ntis corpiisculi cruciatus
+adjiciens, lethalem in morbum in-
+cidit. Quo ingravescente, cumdae-
+monem horrendi canis specie insi-
+lientem signo crucis ter fugasset,
+sacrum Viaticum, quod in haereti-
+ca domo deciimbens frustra ab ho-
+minibus petebat, ab Angelis acce-
+pit Mox ad piieri Jesu comple-
+xum a beatissima ejus Matre c6-
+miter admissus, ac Societati jussus
+nomen dare, siibito convaluit. Sed
+cum aditum ad illam patris timor
+in Germania prsecltideret, peregri-
+ni habitu, solus, pedes, mendicus
+fugam arripit, certus non sistere,
+nisi voti compos fiat. Iter non uno
+Deibeneficio pr6sperum fuit. Nam
+praeter alia, Pauli profugum fra-
+trem jam assequentis equi, immis-
+so divinitus torp6re, constiterunt;
+et Stanislaus Angel6rum pane ite-
+rum angelico ministerio refectus,
+post duodecies centena passuum
+millia, tandem Romae in Societa-
+tem Jesu a sancto Francisco B6r-
+gia generali praep6sito meruit co-
+optari.
+
+[Lectio6]
+Tir6nis emeriti virtiites in religiósæ vitae palsestra splendi-
+dius elux6re; caritas praesertim
+erga Deum, in quem assidue alie-
+nata a sensibus mente rapiebatur.
+Inde illi facies semper accensa,
+nonmimquam radians, perennes
+lacrimae; ardor pectoris tantus, ut
+media quoque hieme foret ingesta
+identidemgelidatemperandus. Ita-
+que am6re verius quam febri ae-
+stuans, die assiimptae in coelum
+Virgini sacro, ad ejus triumphalem
+pompam pr6pius, ut optaverat,
+spectandam, ab ipsa beatarumVir-
+ginum choro stipata vocatus est
+ex Quirinali domo probati6nis, an-
+no innocentis vitae decimo octavo,
+operumplenior quamdierimi. Mul-
+tis post obitum miraculis in sua
+praesertim Polonia enituit; cujus
+armis contra formidabiles Turca-
+rum exercitus spectabilis e coelo
+afFuit non semel, et civitates alias
+peste, alias incendio liberavit
+QuamobremClemensdecimus eum
+inter primarios totius regni Patro-
+nos constituit; Benedictus vero
+decimus tertius (quod a Clemente
+undecimo jampridem fiierat decre-
+tum) in sanctorum niimerum re-
+tulit.
+
+[Lectio7]
+Léctio sancti Evangélii secúndum Matthæum
+!Mt 19:
+In illo témpore: Obláti sunt Jesu párvuli, ut manus eis impóneret. Et réliqua.
+_
+Homilía S. Augustíni Epíscopi
+!In Psalm 118.
+Quid parvulus, nisi hiimilis?
+Haec sunt mirabilia testimo-
+ómnia tua Domine, quae scru-
+tata est anima parvuli hujus: et
+ideo invenit, quia humiliatus est,
+et parvulus factus est. Quis enim
+facit mandata tua, sicut facienda
+sunt, id est ex fide, quae per dile-
+ctionem Dei operatur, nisi ejus in
+corde per Spiritum sanctum ipsa
+dilectio dijffundatur? Hoc etiam
+iste parvulus confitetur. Osmeum,
+inquit, aperui, et attraxi spiritum,
+quia mandata tua desiderabam.
+Quid desiderabat, nisi facere man-
+data divina? Sed non erat unde fa-
+ceret infirmus fortia, et parvulus
+magna. Aperuit os, cdnfitens quod
+per se ipse non faceret, et attraxit
+unde faceret.
+
+[Lectio8]
+Jiinior sum ego, inquit, et con-
+temptus:justificationes tuasnon
+sumoblitus. Nonsicut inimici mei,
+qui obliti sunt verborum tuorum.
+Videtur autem minor aetate noi>
+obhtus justificationes Dei, dolere
+pro inimicis suis aetate majoribus,
+qui obh'ti sunt. Nam quid est, Jii-
+nior ego non sum oblitus, nisi illi
+majores obliti sunt? Sed contem-
+ptum se dicit hic jiinior; ideo fa-
+ctus est major: quia ignobilia et
+contemptibilia mundi elegit Deus,
+et ea quae non sunt, tamquamsint,
+ut ea quae sunt, evacuentur. Et
+ecce sunt novissimi, qui erant pri-
+mi, et primi, qui erant novissimi.
+
+[Lectio9]
+Iste autem jiinior non est oblitus,
+quia non suam voluit habere ju-
+stitiam, sedDei; de quaetiamnunc
+dicit: Justitia tua, justitia in seter-
+num. Propter hanc passus est per-
+secutionem jiinior a majore, ut di-
+ceret jiinior quod sequitur: Tribu-
+latio et necessitas invenerunt me;
+mandata tua meditatio mea est.
+Saeviant, persequantur; dum ta-
+men mandata Dei non relinquan-
+tur, et ex ipsis mandatis etiam qui
+sseviunt diligantur. Intellectum da
+mihi, et vivam. Intellectum poscit
+iste jiinior, quem si non haberet,
+non super seniores intelligeret.
+Sed eum poscit in tribulatione et
+necessitate, quo intelligat quamsit
+contemnendum quod ei possunt
+auferre persequentes inimici, a
+quibus se dicit esse contemptum.

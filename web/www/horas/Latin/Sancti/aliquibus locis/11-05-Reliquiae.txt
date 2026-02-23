@@ -1,0 +1,136 @@
+[Officium]
+Ss. Reliquiarum quæ in Ecclesia asservantur
+
+[Rank]
+;;Duplex;;3;;ex C3a
+
+[Rule]
+ex C3a
+9 lectiones
+Psalmi Dominica
+Antiphonas horas
+
+[Oratio]
+Auge in nobis Domine resurrectionis fidem, qui in sanctorum tuorum Reliquiis mirabilia operaris: et fac nos immortalis gloriæ participes, cujus in eorum cineribus pignora veneramur. 
+$Per Dominum
+
+[Lectio4]
+Ex Tractátu sancti Joánnis Damascéni de fide orthodóxa
+!Liber 4, Cap. 16
+Christus Dominus sanctorum
+reliquias velut salutiferos fon-
+tes praebuit, ex quibus pliiri-
+manobis beneficia manant, suavissimumque
+unguentum prófluit. Nec
+vero quisquam huic sermdni fidem
+detrahat; nam si aqua in deserto
+ex aspera et solida rupe, atque
+ex asini maxilla ad sedandamSam-
+sonis sitim, Deo ita volente, prosi-
+liit, eritne cur cuiquam incredibile
+videatur, ex Martyrum reliquiis
+suave unguentum scaturire? Mini-
+me certe; iis quidem, quibus Dei
+potentia honorque quo Sanctos
+suos afficit, perspectus et explora-
+tus est. Atque illud quidem veteri
+lege comparatum erat, ut quisquis
+mortuum contigisset, immiindus
+censeretur; verum hi in mortuo-
+rum niimero minime habéndi sunt.
+
+[Lectio5]
+Ex quo enim ipsamet vita, ac
+vitae Auctor inter m6rtuos ad-
+scriptus est, eos, qui in spe resur-
+rectionis fideique erga eum diem
+extremum clauserunt, mortuos
+haudquaquam appellamus. Qui
+enim mortuum corpus miracula
+edere queat? Per ea daemones ex-
+pelliintur, morbi profligantur, ae-
+groti sanantur, caeci prospiciunt,
+leprdsi mundantur, tentationes ac
+mcer6res discutitintur, ac denique
+omne donum optimum a Patre lti-
+minum, eorum opera, ad eos, qui
+fide minime diibia postulant, de-
+scendit. Quid non lab6ris susci-
+pias, ut patr6num quemdam nan-
+ciscaris, qui te mortali regi offe-
+rat, ac tuo nomine ad eum verba
+faciat? An non igitur hi honorandi
+sunt, qui totius humanigeneris pa-
+tronos se profitentur, ac Deo no-
+stra causa siipplicant?
+
+[Lectio6]
+Honorandi certe, et quidem ita,
+ut in eorum n6mine templa
+Deo exstruamus, dona offeramus,
+eorum memoriam colamus, atque
+in ea spiritualiter oblectemur; quo
+nimirum laetitia nostra iis, a quibus
+invitamur, congruat, ne, dum eos
+colere et demereri studemus, of-
+fendamus potius et irritemus. Qui-
+bus enim rebus Deus colitur, iis-
+dem quoque servi ipsius oblectan-
+tur: quibus autem Deus offenditur,
+iisdem etiam ipsius milites offen-
+duntur. Quocirca in psalmis, et
+hymnis, et canticis spiritualibus,
+et compunctione, et eorum, qui in
+egestate versantur, commiseratio-
+ne, quibus obsequiis Deus potissi-
+mum conciliatur, sanctos colamus;
+statuas ipsis et visibiles imagines
+erigamus; imo ipsi virtiitibus eo-
+rum imitandis hoc consequamur,
+ut vivse eorum statuse atque ima-
+gines simus.
+
+[Introitus]
+!Ps 33:20-21
+v. Multæ tribulatiónes justórum, et de his ómnibus liberávit eos Dóminus: Dóminus custodit ómnia ossa eórum: unum ex his non conterétur.
+!Ps ibid.:2
+Benedícam Dóminum in omni témpore: semper laus ejus in ore meo.
+&Gloria
+v. Multæ tribulatiónes justórum, et de his ómnibus liberávit eos Dóminus: Dóminus custodit ómnia ossa eórum: unum ex his non conterétur.
+
+[Lectio]
+!Eccli 44:10-15
+Hi viri misericórdiæ sunt, quorum pietátes non defuérunt: cum sémine eórum pérmanent bona, heréditas sancta nepótes eórum, et in testaméntis stetit semen eórum: et Fílii eórum propter illos usque in ætérnum manent: semen eórum et glória eórum non derelinquétur. Córpora ipsórum in pace
+sepúlta sunt, et nomen eórum vivit in generatiónem et generatiónem. Sapiéntiam ipsórum narrent pópuli, et laudem eórum núntiet Ecclésia.
+
+[Graduale]
+!Ps 149:5 et 1
+Exsultábunt Sancti in glória: lætabúntur in cubílibus suis. 
+V. Cantáte Dómino cánticum novum: laus ejus in ecclésia sanctórum.
+Allelúja, allelúja.
+!Ps. 67:4
+V. Justi epuléntur et exsúltent in conspéctu Dei: et delecténtur in lætítia. Allelúja.
+
+[Tractus]
+!Ps 149:5 et 1
+Exsultábunt Sancti in glória: lætabúntur in cubílibus suis. 
+V. Cantáte Dómino cánticum novum: laus ejus in ecclésia sanctórum.
+!Ps 125:5-6
+Qui séminant in lácrimis, in gáudio metent.
+V. Eúntes ibant et flebant, mitténtes sémina sua.
+V. Veniéntes autem vénient cum exsultatióne, portántes manípulos suos.
+
+[Offertorium]
+@Commune/C3
+
+[Secreta]
+Implorámus, Dómine, cleméntiam tuam: ut Sanctórum tuórum, quorum Relíquias venerámur, suffragántibus méritis, hóstia, quam offérimus, nostrórum sit expiátio delictórum. 
+$Per Dominum
+
+[Communio]
+!Ps 32:1
+Gadéte, justi, in Dómino: rectas decet collaudátio. (Allelúja.)
+
+[Postcommunio]
+Multíplica super nos, quǽsumus, Dómine, per hæc sancta, quæ súmpsimus, misericórdiam tuam: ut, sicut in tuórum sollemnitáte Sanctórum, quorum Relíquias cólimus, pia devotióne lætámur; ita eórum perpétua societáte, te largiénte, fruámur. 
+$Per Dominum

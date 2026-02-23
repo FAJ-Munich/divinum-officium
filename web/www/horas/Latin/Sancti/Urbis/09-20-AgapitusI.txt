@@ -1,0 +1,78 @@
+[Officium]
+S. Agapiti I Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b-1
+(sed rubrica 1888)
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b-1;
+(sed rubrica 1888)
+vide C4b;
+9 lectiones
+
+[Name]
+Agapíti
+(sed communi Summorum Pontificum)
+Agapítum
+
+[Lectio4]
+Joanne hujus nominis seciindo,
+e vivis sublato, Agapitus, Ro-
+manus genere, patre Gordia-
+no, sanctae Romanae Ecclesiae
+archidiaconus, propter singularem
+eruditionem, qua probe et appri-
+me instriictus erat, et compositos
+castigatissimae vitae mores, quibus
+prae ceteris eminebat, commiini-
+bus totius cleri suffragiis, et omni-
+um bonorum gratulatione, ad san-
+ctam Petri sedem promotus est;
+et sublimem illam provinciam per-
+inde administravit, ac si non ab
+hominibus, sed ab ipso Deo ele-
+ctus fuisset.
+
+[Lectio5]
+Egregiis laudum titulis ab anti-
+quis Patribus decoratus est,
+dictusque ab iis praeco justitiae,
+Evangelii tuba, vas catholicum,
+vir pietate et miraculis celeberri-
+mus, quibus heroicas illius virtii-
+tes et apostolicae vitae sanctimo-
+niam Deus illustravit. Aliquot hu-
+jus sanctissimi Praesulis decretales
+exstant, in quibus catholicae fidei
+dogmata sarta tectaque servantur,
+ecclesiasticae disciplinae forma et
+regula traditur, sacrorum cano-
+num et antiquarum traditionum
+indemnitati consiilitur, ac demum
+omnes et singulae pastoralis solli-
+citiidinis partes implentur.
+
+[Lectio6]
+Constantinópolim profectus est,
+alio prorsus quam ad quem
+homines illum destinarant consilio,
+divino scilicet instinctu et nutu: ut
+Anthimum haereticum patriarcham
+Constantinopolitanum Theodorae
+imperatricis malis artibus intrii-
+sum exauctoraret atque damnaret,
+et in ejus locum Mennam substi-
+tueret; patriarchales item sedes
+Alexandrinam et Antiochenam,
+extriisis haereticis, catholicis pa-
+storibus restitiieret. Sed tandem
+biennio pontificatus nondum ex-
+pleto, vir sanctissimus, in quo ni-
+hil, nisi longiorem vitam catholici
+desiderassent, Constantinopoli pie
+6biit, anno Christi quingentesimo
+trigesimo sexto. Ejus corpus Ro-
+mamtranslatum, in Vaticano con-
+ditum est.

@@ -1,0 +1,62 @@
+@Sancti/10-11
+
+[Rank]
+;;Duplex majus;;4;;ex C11
+
+[Rule]
+ex C11;
+9 lectiones
+Psalmi Dominica
+Antiphonas horas
+Doxology=Nat
+
+[Ant Vespera]
+Beáta es, * Virgo María, quæ ómnium portásti Creatórem.;;109
+Genuísti, * qui te fecit, et in ætérnum pérmanes Virgo.;;112
+Beátam me dicent * omnes generatiónes, qui ancíllam húmilem respéxit Dóminus.;;121
+Fecit mihi magna * qui potens est, sanctum nomen ejus.;;126
+Vidérunt eam * fíliæ Sion, et beátam dixérunt, et regínæ laudavérunt eam.;;147
+
+[Lectio6]
+Opórtuit ut primam Genitricis
+integritatem nascentis incor-
+riiptio custodiret, et complacitum
+sibi claustrum puddris et sanctita-
+tis hospitium divini Spiritus virtus
+infusa servaret, quae statiierat de-
+jecta erigere, confracta solidare,
+et superandis carnis illdcebris mul-
+tiplicatam pudicitiae donare virtii-
+tem; ut virginitas, quae in aliis non
+poteratsalvaessegenerando, fieret
+aliis imitabilis renascendo. Hoc
+ipsum autem, quod Christus nasci
+eligit ex Virgine, nonne apparet
+altissimae fuisse rationis, ut scili-
+cet humano generi natam saliitem
+diabolus ignoraret, et spirituali la-
+tente conceptu, quem non alium
+videret quam alios, non aliter cre-
+deret natum esse quam ceteros?
+Quod ut fieret, editus est Christus
+ex Virgine, quam Spiritus sanctus
+foecundavit; et cum in omnibus
+matribus non fiat sine peccati sorde conceptio, haec inde purgatio-
+nem traxit, unde concepit.
+
+[Nocturn 3 Versum]
+V. Fecit mihi magna qui potens est.
+R. Misericórdia ejua a progénie in progénies timéntibus eum.
+
+[Lectio8] (feria 1)
+@Sancti/10-11::s/$/~/
+@Sancti/10-11:Lectio9
+
+[Ant Laudes]
+@:Ant Vespera:s/;;.*//gm
+
+[Ant 2]
+@Commune/C11:Ant 1:s/sanctam festivitátem/admirábilem Maternitátem/
+
+[Versum 3]
+@:Versum 1
