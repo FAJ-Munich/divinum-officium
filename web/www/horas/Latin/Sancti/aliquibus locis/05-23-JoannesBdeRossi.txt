@@ -1,0 +1,24 @@
+[Officium]
+S. Joannis Baptistæ de Rossi Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C5
+
+[Rule]
+vide C5
+9 lectiones
+
+[Name]
+Joánnem Baptístam
+
+[Oratio]
+Deus, qui sanctura Joannera Baptistam Confessorem tuum in evangelizandis pauperibus caritate et patientia decorasti: concede quaesumus; ut cujus pia merita veneramur, virtútum quoque imitémur exempla.
+$Per Dominum
+
+[Lectio4]
+
+[Lectio5]
+
+[Lectio6]
+
+

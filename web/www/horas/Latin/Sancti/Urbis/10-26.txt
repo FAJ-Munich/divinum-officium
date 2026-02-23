@@ -1,0 +1,51 @@
+[Officium]
+S. Evaristi Papæ et Martyris
+
+[Rank]
+;;Duplex;;3;;vide C2b
+
+[Rule]
+vide C2b;
+9 lectiones
+
+[Lectio4]
+Evarístus Græcus natióne, patre Jud-
+æo genitus, christianae
+pietatis studiosissimus Tra-
+jano imperatore ad cathedramPe-
+tri promotus est, seditque in ea
+annos novem, menses tres. Fecit
+ordinationes quatuor mense De-
+cembri, ac creavit presbyteros de-
+cem et septem, diaconos duos,
+episcopos per divérsa loca quíndecim.
+
+[Lectio5]
+Ecclesiarum titulos Urbis Romae
+presbyteris eum divisisse legi-
+mus, ut unusquisque suae paroeciae
+terminis ac limitibus distinguere-
+tur; et mandasse, ut altaria, in qui-
+bus Sacra fiunt, exstriicta ex lapi-
+de, benedicerentur: ut septem dia-
+coni episcopum custodirent, ipsi-
+que adessent dum praedicationis
+evangelicae officio et ministerio
+fiingitur, quasi traditae ab illo do-
+ctrinae testes.
+
+[Lectio6]
+Constituit etiam ex traditione
+apostolica, ut matrimonium
+piiblice celebretur, et sacerd6tis
+benedictio adhibeatur. His aliis-
+que salutaribus utilibiisque con-
+stitutionibus edendis pontificatus
+sui tempus transegit; non tamen
+illud omisit, ut simulacrorum cul-
+tum ex animis hominum avelleret;
+qua in re, cum strenue laborasset,
+martyrio coronatus est, ac sepiil-
+tus prope sepiilchrum Principis
+Apostolbrum in Vaticano, septimo
+Kalendas Novembris.

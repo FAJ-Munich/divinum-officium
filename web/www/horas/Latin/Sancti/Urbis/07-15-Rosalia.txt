@@ -1,0 +1,23 @@
+[Officium]
+Inventionis Corporis S. Rosaliæ Panormitis Virginis
+
+[Rank]
+;;Duplex;;3;;vide C6
+
+[Rule]
+vide C6
+9 lectiones
+Antiphonas horas
+
+[Oratio]
+Exáudi nos, Deus, salutáris noster: ut sicut de beátæ Rosáliæ Vírginis tuæ festivitáte gaudémus; ita piæ devotiónis erudiámur afféctu; et ejus intercessióne ab iracúndiæ tuæ flagéllis misericórditer liberémur.
+$Per Dominum
+
+[Lectio4]
+Rosália Virgo, orta Panórmi ...
+
+[Lectio5]
+In hac specu ...
+
+[Lectio6]
+Cœlésti deínde consílio ...

@@ -1,0 +1,114 @@
+[Officium]
+B. Benedicti XI Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;
+9 lectiones
+
+[Name]
+Benedíctum
+
+[Oratio]
+Deus, qui beatum Benedíctum Pontíficem benedictiónis tuæ gratia ad cælum sublevásti: pópulum tuum, quǽsumus, nova benedictióne sanctifica; et a cunctis malis imminéntibus, ejus méritis et précibus, tua virtúte defende.
+$Per Dominum
+
+[Lectio4]
+Benedictus undecimus, ex ho-
+nesta Boccassinorum familia
+Tarvisii natus, anno setatis
+decimo quarto Praedicatorum in-
+stitiitum ampl6xus est; in quo hu-
+manis divinisque stiidiis quatuor-
+decim annis impense vacdvit, toti-
+demque summa cum eruditionis
+laude privatim ac publice docuit.
+Sanctitatis et prudentiae fama con-
+spicuus, per varios gradus et di-
+gnitates ordinis ad supremum ejus
+magisterium evectus est; quo in
+miinere ceteris exemplo praelu-
+cens, disciplinam mirifice fovit, ac
+brevi tempore ordinem ipsum am-
+plificavit. Hlius 6pera Bonifacius
+octavus in pacificandis Galliarum
+et Britanniae regibus feliciter usus,
+lustrandis commissis sibi provin-
+ciis in Gdllia peregrinantem san-
+ctae RomanaeEcclesiae cardinalem
+presbyterum creavit, atque ad XJr-
+bem accitum in Pannoniam lega-
+tum designavit, ubi tres principes
+de regni illius successione conten-
+dentes mira dexteritatecomp6suit.
+
+[Lectio5]
+Pacata Hungaria Romam reversus, Bonifacio Anagniae cir-
+cumvdnto inter h6stium minas et
+invasi6nes fortiter astitit, haesitque
+indiviilse, reliquis ferme 6mnibus
+ab eo fugientibus. Mox eodem
+Pontifice humanis rebus exempto,
+in Petri Sedem mira Patrum con-
+sensi6ne suff^ectus est. In eo digni-
+tatis fastigio, ab omni fastu pror-
+sus alienus, demissidnem adeo
+coluit, ut addiictam ad se matrem
+adhuc superstitem paulo splendi-
+dius, ut decere videbatur, ornatam,
+a se dimiserit tamquam non suam:
+mox vero nativo, atque humilidre
+cultu vestitam peramanter ample-
+xatus, honorifice habuit. Violatae
+in praedecessore suo pontificiae di-
+gnitdtis auctores anathemate mul-
+ctavit; ab illo autem severius ha-
+bitos, pristinis honoribus restitiitos
+in v6niam et gratiam recepit. Pa-
+candis Italiae provinciis, Guelph6-
+rum et Gibellin6rum, Alborum et
+Nigr6rum facti6nibus miserrime
+divexatis, Nicoldum cardinalem
+Pratensem 6rdinis Praedicat6rum
+a latere legatum creavit, eumdem-
+que in Angliam, Sc6tiam, et Hiber-
+niam ad conciliandos reges et prin-
+cipes ire jussit.
+
+[Lectio6]
+Pacis studiosissimus eam náviter promovit tumin Germania,
+cui intestinis dissidiis laboranti
+praesto fuit, tum in Sicilia, quam
+sublato interdicto communioni re-
+stituit. Sed et Galliarum regni cum
+ApostolicaSedeconcordiam paulo
+antea gravissime laesam feliciter
+instauravit. In Orientem etiam,
+aliasque schismatic6rum provin-
+cias apost6Iicae mentis curas por-
+rexit, et Martino archiepiscopo
+Antibardnsi disciplinae ecclesiasti-
+cae restaurationem impense com-
+mendavit. Serviae regem Orosium
+ad ejurandum schisma litteris a-
+mantissimis excitavit. Syriae de-
+mum ac Palaestinae recuperandae
+intentum, aliaque ad religionis in-
+crementum cogitantem atque mo-
+lientem commiinis necessitas prae-
+venit. Mortuus est Periisiae, anno
+millesimo trecentesimo quarto,
+nono pontificatus mense nondum
+expleto,humilique,ut ipse jiisserat,
+loco, apud fratres suos Praedica-
+tores conditus est, miraculis statim
+post 6bitum clarus. Cultum ab im-
+memorabili tempore ei delatum
+Clemens duodecimus approbavit,
+utque ejus festum cum Oificio et
+Missa sub ritu diiplici in universo
+Praedicatbrum ordine, atque a
+clero Tarvisino et Perusino cele-
+braretur, indúlsit.

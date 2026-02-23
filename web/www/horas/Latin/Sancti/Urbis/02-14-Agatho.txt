@@ -1,0 +1,62 @@
+[Officium]
+S. Agathonis Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;mtv
+9 lectiones
+
+[Name]
+Agathónis
+
+[Lectio4]
+Agatho, natione Siculus, ex
+doctissimo ac sanctissimo
+monacho Romanus Ponti-
+fex creatus est, anno Christi sex-
+centesimo septuagesimo octavo.
+Vir summa humanitate, eximio
+animi candore, singulari morum
+suavitate et comitate prseditus,
+cunctorum amans, cunctis amabi-
+Hssimus. Ita demum a natiira et
+gratia comparatus, ut ad supre-
+mam illam dignitatem gerendam
+natus seu factus esse videretur.
+
+[Lectio5]
+Acceptis a Constantino Pogona-
+to litteris ad Donum prædecessorem scriptis, pro convocando
+concilio cEcumenico, ad diutiirnum
+schisma tollendum, quo laborabat
+Ecclesia, et definiendas fidei con-
+troversias, quae toto fere Oriente
+maximas tempestates atque ruinas
+excitarant, provinciales synodos
+in Occidente haberi curavit, in qui-
+bus Monothelitarum causa discu-
+teretur, et damnarentur errores.
+
+[Lectio6]
+His praemissis, Legatos suos, et
+concilii Romani, misit Con-.
+stantinopolim cum binis litteris ad
+imperatorem, in quibus prsedicta
+hseresi docte, fuse ac solide refu-
+tata, damnatisque primariis illius
+sectatoribus, Sergio scilicet, Cyro,
+Paulo, Pyrrho, Petro et aliis, ante-
+cessores suos ab omni erroris labe
+immiines huciisque fuisse expres-
+sis verbis declaravit. Agathonis
+igitur auctoritate sexta synodus
+universalis congregata est, in qua
+iidem errores iidemque errantes
+damnati fuerunt. Demumcumtres
+annos et quinque circiter menses
+sedisset, pie obiit in Domino, et in
+basilica principis Apostolorum se-
+pulturae mandatus est.
+

@@ -1,0 +1,80 @@
+[Officium]
+S. Pauli I Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;
+9 lectiones
+
+[Name]
+Pauli
+(sed communi Summorum Pontificum)
+Paulum
+
+[Lectio4]
+Paulus hujus nominis primus,
+natione Romanus,patre Con-
+stantino, post obitum Ste-
+phani tertii germani fratris, anno
+Christi septingentesimo quinqua-
+gesimo septimo in ejus locum, no-
+vo exemplo, subrogatus est. Sed
+hoc eximiae illius virtiiti debeba-
+tur. Cum enim a Gregorio seciin-
+do in patriarchio Lateranensi, una
+cum fratre, a primis annis ad chri-
+stianos mores et omnem eruditio-
+nem ecclesiasticam egregie for-
+matus fuisset, dignidrem clerus
+non habuit, quem perturbatissimis
+illis temporibus pio fratri succes-
+sorem eligeret.
+
+[Lectio5]
+Constantinum Copronymum lit-
+teris per legatum ad eummis-
+sis, semel atque iterum sollicitavit
+ut saniorem doctrinam amplecte-
+r6tur; sed haereticus et induratus
+princeps solliciti past6ris vocem
+audire noluit, et in catholicos, ac
+praecipue in monachos ssevire non
+cessavit: quorum pliirimi, ut a ty-
+ranno se subdiicerent, in Italiam
+se receperunt; quos benigne Pau-
+lus excepit, iisque templa et mona-
+steria, congruis instriicta reditibus,
+assignavit, in quibus Graeca lingua,
+et patrio ritu sacra peragerent.
+
+[Lectio6]
+Exstant multae illius epistolae ad
+Pipinum Francorum regem
+scriptae, in quibus gratias agit
+optimo, et de Romana Ecclesia
+benemerito principi, pro suscepta
+Ecclesiae contra Longobardorum
+irruptiones defensione; eúmque
+raris elogiis cumulatum impense
+hort^tur, ne umquam a coepto de-
+sistat. Cumautem coemeteria extra
+muros a Longobardis diruta fuis-
+sent, multas inde sanctorum ex-
+livias, ne barbaris in praedam ce-
+derent, in Urbem intulit; quarum
+non mddicam partem in ecclesiam
+monasterii a se constriicti in pa-
+ternis aedibus et pingui censu di-
+tati collocavit. Ceterum si quid
+ipsi temporis residui ecclesiastici
+regiminis cura relinqueret, id to-
+tum alendis Christi pauperibus,
+aegris, viduis, ac detentis in carcere
+consolandis, liberandisque oppres-
+sis aere alieno impendit. Et tan-
+dem matiirus coelo pie obiit, un-
+decimopontificatus anno jam inito,
+et in Vaticano sepiiltus est.
+

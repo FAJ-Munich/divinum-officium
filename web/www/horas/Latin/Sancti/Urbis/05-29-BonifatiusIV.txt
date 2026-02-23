@@ -1,0 +1,64 @@
+[Officium]
+S. Bonifacii IV Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;mtv
+9 lectiones
+
+[Name]
+Bonifácii
+(sed communi Summorum Pontificum)
+Bonifácium
+
+[Lectio4]
+Bonifacius hujus nominis quar-
+tus, Joannis filius, Valeriae
+Marsorumnatus, ex monacho
+sancti Sebastiani extra Urbem, et
+Presbytero Cardinali, sub impera-
+tore Phoca, ad pontificatum as-
+siimptus est, et consecratus die
+Dominico, quinto Kalendas Se-
+ptembris, anno D6mini sexcente-
+simo septimo, seditque annos sex,
+menses octo, dies tredecim, dud-
+bus ordinationibus peractis mense
+Decembri, in quibus episcopos vi-
+ginti quinque, diaconos octo cre-
+avit.
+
+[Lectio5]
+Statim paternam domum in mo-
+nasterium erexit, et fundossuos
+in monachorum usum eidem mo-
+nasterio adscripsit: sed ut longe
+maj6ri beneficio hujus institiiti ho-
+mines sibi obstringeret, convoca-
+tis ad synodum Italiae episcopis,
+sanctis legibus labentem monacho-
+rum disciphnam restituit. MeUitus
+Londinensis episcopus, qui Ro-
+mam venerat, de rebus Anglicis
+Christi Vicdrium consultiirus, syn-
+odo interfuit, ilHiisque decreta cum
+litteris Bonifacii in Britanniam
+tulit.
+
+[Lectio6]
+Ab imperatóre Phoca sanctissimus Pontifex nobile Romae
+deliibrum, Pantheon scilicet, obti-
+nuit: christiano ritu consecratum
+in ecclesiam Deipara^ Virgini et
+sanctis Martyribus dicatam muta-
+vit. Ad majorem sanctitatem con-
+ciliandam, incredibilem sacrarum
+reliquiarum vim, ex diversis are-
+nariis. ediictam, inferri, et juxta
+principem aram condi curavit.
+Denique sub Heraclio virtiite ac
+meritis clarus obdormivit in D6-
+mino, octávo Kalendas Júnii, se-
+pultusque est in Vaticano.

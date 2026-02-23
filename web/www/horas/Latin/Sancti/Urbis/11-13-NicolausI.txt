@@ -1,0 +1,95 @@
+[Officium]
+S. Nicolai I Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;
+9 lectiones
+
+[Name]
+Nicolái
+(sed communi Summorum Pontificum)
+Nicoláum
+
+[Lectio4]
+Nicolaus hujus nominis pri-
+mus, natione Romanus, pa-
+tre Theod6ro regionario,
+Benedicto tertio e vivis sublato,
+mirabili omnium consensione, an-
+no Christi octingentesimo quin-
+quagesimo octavo, a clero electus,
+et ex basilica principis Apostolo-
+rum, in qua latitabat, per vim edii-
+ctus, adductiisque in Lateranense
+patriarchium, Romanus Pontifex
+renuntiatus est. A prima pueritia
+pietatem omnemque virtiitem c6-
+luit, eosque in sacris litteris pro-
+gressus fecit, ut eum Sergius se-
+cundus in ipso eodem patriarchio,
+Ecclesiae Romanae subdiaconum,
+Leo vero quartus diaconum crea-
+verint, Benedictus demum tertius
+ejus consilio et ductu universam
+Ecclesiam administraverit.
+
+[Lectio5]
+Exstant pliirimae ab eo scriptae
+epistolae, in quibus errantes
+correxit, superbos depressit, op-
+pressos recreavit. Episcopos, re-
+ges, imperatores in officio conti-
+nuit: Joannis Ravennatis archiepi-
+scopi contumaciam fregit: Hinc-
+marum Rhem6nsem archiepisco-
+pum de injiista Rhotaldi episcopi
+Suessionensis depositione acriter
+reprehendit; ejus ea de re, nec non
+synodiSylvanect£nsis judicium ab-
+rogavit; tumapudsanctamMariam
+Majorem in pervigilio Nativitatis
+Dominicae Missarum solemnia ex-
+plens, episcopum ipsum pristinae
+dignitati, et paulo post suae sedi
+plene restituit. Lotharium regem,
+qui rejecta legitima uxore Theut-
+berga, Waldradam concubinam
+diixerat intentato anathemate, ad
+saniorem mentemrediixit. Electio-
+nem Photii laici h6minis reproba-
+vit, et patriarcham Ignatium in
+pristinam sedem restituit. Eccle-
+siae demum Romanae jura ita de-
+fendit, ut singulae illius epistolae
+quasi totidem fortissima Sedis
+apostdlicae munimenta esse vi-
+deantur.
+
+[Lectio6]
+Cum illius zelus intra tunc prae-
+scriptos Ecclesiae fines conti-
+neri non posset, ad conversionem
+infidelium applicuit animum, fecit-
+que ut amplissima Bulgarorum
+gens, una cum rege, ad Christi fi-
+dem conversa, Ecclesise Romanae,
+frendente licet imperatore schi-
+smatico, accesserit. Operam quo-
+que suam privatis pietatis officiis
+sedulo navavit. Hinc descripta 6-
+mnium indigentium nomina apud
+se habere voluit, ut singulis accu-
+ratius succiirreret. Reparandis
+etiam ornandisque basilicis Urbis,
+praecipue Lateranensi patriarchio
+liberalem manum appdsuit, et nul-
+lis siimptibus pepercit. Inito de-
+mumdecimo pontificatus anno, in
+ccelum migravit, et in Vaticano
+sepultus est.
+
+[Oratio3]
+@Commune/C4-1

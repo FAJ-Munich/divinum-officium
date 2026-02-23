@@ -331,21 +331,31 @@ for my $ver (1 .. @versions) {
 
 #      print "$sday :::: $winner :: $dpx1[0]\n" if $winner =~ /Sancti/;
 
-      if (@dpx1 && $winner =~ /$dpx1[0]/) {
-        print "$sday :::: Dropped Duplex I. classis $dpx1[0]\n";
-        shift(@dpx1);
-      } elsif (@dpx2 && $winner =~ $dpx2[0]) {
-        print "$sday :::: Dropped Duplex II. classis $dpx2[0]\n";
-        shift(@dpx2);
-      } elsif (@dxm && $winner =~ $dxm[0]) {
-        print "$sday :::: Dropped Duplex majus $dxm[0]\n";
-        shift(@dxm);
-      } elsif (@dpx && $winner =~ $dpx[0]) {
-        print "$sday :::: Dropped Duplex minus $dpx[0]\n";
-        shift(@dpx);
-      } elsif (@sdx && $winner =~ $sdx[0]) {
-        print "$sday :::: Dropped Semiduplex $sdx[0]\n";
-        shift(@sdx);
+      if (@dpx1) {
+        if ($winner =~ /$dpx1[0]/) {
+          print "$sday :::: Dropped Duplex I. classis $dpx1[0]\n";
+          shift(@dpx1);
+        }
+      } elsif (@dpx2) {
+        if ($winner =~ /$dpx2[0]/) {
+          print "$sday :::: Dropped Duplex II. classis $dpx2[0]\n";
+          shift(@dpx2);
+        }
+      } elsif (@dxm) {
+        if ($winner =~ /$dxm[0]/) {
+          print "$sday :::: Dropped Duplex majus $dxm[0]\n";
+          shift(@dxm);
+        }
+      } elsif (@dpx) {
+        if ($winner =~ /$dpx[0]/) {
+          print "$sday :::: Dropped Duplex minus $dpx[0]\n";
+          shift(@dpx);
+        }
+      } elsif (@sdx) {
+        if ($winner =~ /$sdx[0]/) {
+          print "$sday :::: Dropped Semiduplex $sdx[0]\n";
+          shift(@sdx);
+        }
       }
     }
   }    # for days of year

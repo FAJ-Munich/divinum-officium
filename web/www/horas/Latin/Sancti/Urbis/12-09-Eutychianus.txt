@@ -1,0 +1,29 @@
+[Officium]
+S. Eutychiani Papæ et Martyris
+
+[Rank]
+;;Duplex;;3;;vide C2b-1
+
+[Rule]
+vide C2b;-1
+9 lectiones
+In 3 Nocturno lectiones ex C4 in 2 loco
+
+[Name]
+Eutychiáni
+(sed communi Summorum Pontificum)
+Eutychiánum
+
+[Lectio4]
+Eutychiánus, natióne Tuscus, pátria Lunénsis, Maríno patre, post beáti Felícis sacerdótium Románæ Ecclésiæ Episcopátum suscépit. Constítuit fruges, fabas, et uvas super altári benedíci: itémque a fidélibus nullátenus mártyrem sepelíri sine dalmática, aut purpuráto colóbio. Qui cum per divérsa loca trecéntos sexagínta duos mártyres sua manu sepelísset, illis et ipse sociátus, sub Numeriáno Imperatóre martyrio coronátus est sexto Idus Decémbris, sepultúsque in cœmetério Callísti via Appia. Quinque ordinatiónibus mense Decémbri creávit Presbyteros quatuórdecim, Diáconos quinque, Epíscopos per diversa loca novem. Vixit in Pontificátu annos octo, menses quinque, et dies áliquot. 
+
+[Lectio5]
+Sermo sancti Máximi Epíscopi
+!De S. Cypriano Hom. 2.
+In maryrio beatíssimi Eutychiani, fratres carissimi , universa nobiscum Christi exsultat Ecclesia, quam in omne gaudium , et cœlestis eruditione sermonis instruxit, et munere triumphalis sanguinis decorávit. Fuit enim in eo, sicut compertum habemus, et
+contra errores diaboli spiritualis sapientiae plenitudo, et adversum persecutiones mundi Christiani pectoris mitigata 
+constantia. Quis non hujusmodi virum quantis valet praeconiis prosequatur, cujus eloquentia inspirata divinitus et Ecclesias docuit et saeculum confutavit?
+
+[Lectio6]
+Vere hic mirabilis atque omnium ubique studiis celebrandus, quem sanctitas sacerdotem, peritia doctorem, fides martyrem consecravit. Pretiosa , inquit David , in conspectu Domini mors Sanctorum ejus. Videte, carissimi, in quantum
+venerabilis Eutychianus etiam propheticam supergressus est laudem , cujus in conspectu Domini non solum mors, sed et vita exstitit pretiosa. Moriendo namque proprium Christo sanguinem dedit: vivendo nihilominus cohortatione fortissima innumeros coelo martyres acquisivit.

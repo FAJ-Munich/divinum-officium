@@ -1,0 +1,210 @@
+[Officium]
+S. Emygdii Epicopis et Martyris
+
+[Rank]
+;;Duplex;;3;;vide C2
+
+[Rule]
+vide C2;
+9 lectiones
+Psalmi Dominica
+Antiphonas horas
+Psalm5 Vespera=116
+Psalm5 Vespera3=115
+
+[Name]
+Emýgdii
+
+[Ant Vespera]
+Ut cognóvit * Emýgdius, quod magnus est Dóminus Deus noster præ ómnibus diis, státuit custodíre judícia justítiae suæ.
+Exivit de domo sua, * et de cognatione sua, et venit in terram, quam monstraverat illi Deus.
+In hoc excitavit * illum Dóminus, ut ostenderet in eo virtútem suam, et annuntiaret inter Gentes nomen suum.
+Intellectum dedit ei, * et instrúxit in via hac, qua graderetur, et firmavit super eum oculos suos.
+Directus est * in conversionem Gentium, et tulit abominationes earum.
+
+[Hymnus Vespera]
+Aúdiat miras oriens cadensque
+Sol tuas laudes celebresque palmas,
+advenientibusiterumimperatorum
+Praesul Emygdi,columen,tuæque Glória gentis.
+_
+O jubar coeli radiis dec6rum,
+O potens signis, meritisque felix,
+Quem Deus gestis ad hibere suévit
+Grándibus olim.
+_
+Ethnico primum g6nitus parente,
+Illico nomen siiperis dedisti,
+Patriis spretis opibus, beata
+Regna requirens.
+_
+Miles hinc scriptus Triadis supernæ
+Italis infers sacra bella plagis,
+Instruis verbo, tribuisque mira
+Dona salútis.
+_
+Victor, et dives spoliis, deorum
+Templa subvertis, simulacra et aras,
+Mox feras gentes numerosa reddis
+Agmina Christo.
+_
+Sit salus illi, decus atque virtus,
+Qui super cœli solio corúscans,
+Totius mundi seriem gubernat
+Trinus et unus.
+Amen.
+
+[Versum 1]
+V. Terra trémuit et quiévit.
+R. Dum pro nobis deprecarétur Emýgdius.
+
+[Ant 1]
+Emýgdius spíritu oris sui idolórum cultum et templa subvértit: quos in Christo génuit fílios, illos fidéliter a ruínis terræmótus servávit.
+
+[Oratio]
+Deus, qui beátum Emýgdium Mártyrem tuum atque Pontíficem idolórum victória et miraculórum glória decorásti: concéde propítius; ut, eo interveniénte, malórum spirítuum virtútibus mereámur.
+$Per Dominum
+
+[Hymnus Matutinum]
+Imperas saxo, latitans repente
+Lympha consúrgit, fluitans salúbri
+Fonte baptismi, populosque lustras
+Flumine sacro.
+_
+Pectoris duros silices repelle,
+Saxeum cordis tiimidi rigorem
+Contere, ut sordes lacrimosa manans
+Abluat unda.
+_
+Non times saevi rabiem tyranni,
+Sanguine effiiso, generose Martyr:
+Quin tibi abscissum caput usque ad aras
+Mortuus effers.
+_
+Nunc triumphator super astra regnans,
+Semitam nobis aditúmque monstra:
+Súpplices ductor genitos supernis
+Sedibus infer.
+_
+Annuat cœlo Pater atque Natus,
+Annuat, compar utriúsque virtus,
+Spiritus votis, Deus unus omni
+Temporis ævo.
+Amen.
+
+[Ant Matutinum]
+;;1
+;;2
+;;3
+;;4
+;;5
+;;8
+;;10
+;;14
+;;20
+
+[Lectio1]
+
+[Responsory1]
+
+[Lectio2]
+
+[Responsory2]
+
+[Lectio3]
+
+[Responsory3]
+
+[Lectio4]
+
+[Responsory4]
+
+[Lectio5]
+
+[Responsory5]
+
+[Lectio6]
+
+[Responsory6]
+
+[Lectio7]
+
+[Responsory7]
+
+[Lectio8]
+
+[Responsory8]
+
+
+[Lectio9]
+Nam gentem contra gentem ex-
+siirgere, eariimque pressiiram
+terris insistere plus jam in nostris
+temporibus cernimus, quam in co-
+dicibus legimus. Quodterrsemotus
+urbes inniimeras dbruat, ex aliis
+mundi partibus scitis quam fre-
+quenter audivimus. Pestilentias
+sine cessatione patimur. Signa ve-
+ro in sole, et luna, et stelHs, adhuc
+aperte minime vidimus; sed quia
+et haec non longe sint, ex ipsa jam
+aeris immutatione coUigimus.
+
+[Ant Laudes]
+@:Ant Vespera
+
+[Hymnus Laudes]
+Jesu, corona Martyrum,
+Qui post cruenta prælia
+Ad sempiterna præmia
+Sanctum vocasti Emygdium:
+_
+Casti cruoris piirpura
+Palmaque ovantem n6bili,
+Inter choros ccelestium
+Reples beato liimine:
+_
+Nunc ejus ad vict6rias
+Nos somnolentos excita:
+Virtiitis ad praec6nia
+Sop6re mersos libera.
+_
+Ut invocatus reddidit
+Membris saliitem languidis,
+Sic labe prorsus criminum
+Arcana purget mentium.
+_
+Ut editis miraculis,
+Aras deorum diruit,
+Sic damna prsesens arceat,
+Quseciimque nobis imminent.
+_
+Ut voce quondam siistulit
+Cultus nefandos dsemonum,
+Sic impetret precantibus
+^terna coeli gaiidia.
+_
+Tu postulatis annue,
+Rex magne Jesu Martyrum,
+Cum Patre, et almo Spiritu
+Regnans per omne sseculum.
+Amen.
+
+[Versum 2]
+V. Ora pro nobis sancte Emýgdi.
+R. ut digni eficiámur promissiónibus Christi.
+
+[Ant 2]
+O virum ineffábilem, per quem nobis antíqua prodígia Móysis corúscant, cujus nútibus e saxo aqua baptísmatis
+Asculáno pópulo emanávit: per quem evangélica lux effúlsit: quem triúmphans excépit cúria cœléstis; illic pro nobis intercédere dignétur, ut suo mereámur gaudére consórtio.
+
+[Hymnus Vespera 3]
+@:Hymnus Laudes
+
+[Versum 3]
+V. Méritis et précibus beáti Emýgdii.
+R. Propítius eso Dómine clero et pópulo tuo.
+
+[Ant 3]
+O Emýgdi, Martyr glorióse, quos in Christo genuísti fílios, et veræ fídei lacte enutrísti, tua, quǽsumus, orátio comméndet nos indesinénter Deo.

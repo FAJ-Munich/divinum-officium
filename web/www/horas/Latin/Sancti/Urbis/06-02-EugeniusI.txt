@@ -1,0 +1,66 @@
+[Officium]
+S. Eugenii IV Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;mtv
+9 lectiones
+
+[Name]
+Eugénii
+(sed communi Summorum Pontificum)
+Eugénium
+
+[Lectio4]
+Beato Martino hujus nominis
+primo, tyrannica haeretici im-
+perat6ris sententia Cherso-
+nam relegato, Theodoro exarcho
+instante, Eugenius patria Roma-
+nus, qui fere a cunabulis sacro cleric6rum ordini se addixerat, ab-
+sentis Pontificis vices gessit, ne
+Romanse Ecclesiae administratio
+cessasse omnino videretur; sed
+hac revera potestate modeste uti
+visus est, cum probe sciret, Marti-
+no viv6nte se legitimum Pontifi-
+cem non esse, sed illius dumtaxat
+quasi vices gerentem.
+
+[Lectio5]
+Ubi vero praedictus Christi Mar-
+tyr, aerumnis et inedia confe-
+ctus, ad beatam vitam migravisset,
+in cathedra Petri, clero consen-
+tiente, ut legitimus Petri succes-
+sor sedit, et in illo Apostolici mi-
+nisterii ciilmine talem se gessit,
+qualem supremi muneris ei crediti
+dignitas, et omnium Christi fide-
+lium ejus curae commissorum sa-
+lus et utilitas postulabant; mitis
+enim fuit, benignus et mansuetus,
+et, quod caput est, vitae sanctimo-
+nia illiistris.
+
+[Lectio6]
+Singularem cleri curam habuit,
+quem paterno semper amore
+et multis beneficiis proseciitus est.
+In egenos tamen mirabilis ejus be-
+neficentia enituit, quibus reditus
+Ecclesiae vivens et moriens libe-
+rali manu erogavit, apprime ratus,
+Ecclesise opes ad nobilidres usus
+applicari nonposse, et ex manibus
+indigentium ad aeternitatis aera-
+rium, cum incredibili spiritualis
+usúrae lucro, recta tradiici. Trans-
+actis demum duobus annis, et no-
+vem fere. mensibus, sancto fine
+quievit, anno Christi sexcentesimo
+quinquagesimo quinto, et ejus cor-
+pus in basilica sancti Petri recon-
+ditum fuit.

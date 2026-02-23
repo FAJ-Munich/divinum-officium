@@ -1,0 +1,23 @@
+[Officium]
+S. Anastasii IX Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;
+9 lectiones
+
+[Name]
+Anastásii
+(sed communi Summorum Pontificum)
+Anastásium
+
+[Lectio4]
+Anastásius Romanus filius Maximi, Siricio vita functo, Romanae Ecclesiae est ordinatus episcopus; quo eam praeclare regente, de Orientis partibus haereticorum Origenistarum saeva tempestas simplicitatem fidei, quæ Apostoli voce laudata est, pollúere et labefactare conata est. Sed vir ditissimae paupertatis et apostolicæ sollicitudinis Anastasius statim noxium perculit caput, et sibilantia hydrae oracompescuit, latitantesque in foveis suis hæreticos persecútus, suis in Occidente litteris damnavit, quod erat in Oriente damnatum. Nec illi umquam cura defuit Evangelii fidem circa suos custodire pópulos, partesque populi sui, per quaeque spatia diversa terrarum diffúsas, quantum poterat, litteris convenire, ne qua profan£e interpretationis origo subreperet, quae devotas animas immissa sui caHgine labefactaret.
+
+[Lectio5]
+Ad eum, atque Venérium, Mediolanensis ecclesiae sacerdótem, Africana synodus episcopum legatum destinavit, ut eidem Africanae ecclesiae sacris ministris maxime indigenti, subveniretur, ne in diversis pene emortuis plebibus (in quibus nec unus quidem diaconus, vel litteratus reperiebatur) innumerabiles animae perirent. Adeosdem Africanos episcopos epistolam misit Anastasius, paternae et fraternae caritatis sollicitudine et sinceritate eos adhortans, ut haereticorum et schismaticórum Donatistarum insidiis et improbitatibus (quibus Africanam ecclesiam catholicam vexabant) nullo modo dissimularent. Hujus item sancti Pontificis auctoritate factum est, ut Donatistae episcopi, seu quilibet clerici, quantum ad ecclesiastica officia pertineret, sic in catholicam susciperentur unitatem, quemadmodum expedire videretur iis, quorum salúti per eorum consulebatur officium vel exercendum, vel omittendum.
+
+[Lectio6]
+Constituit nullátenus transmarinum hominem in clericatus honorem sine quinque episcoporum chirographo suscipiendum. Itemque sancivit, ut quotiescúmque sancta recitarentur Evangelia, sacerdotes non sederent, sed curvi starent. Fecit in Urbe basilicam Crescentianam in regione secúnda, via Mamertina. Duabus ordinationibus mense Decembri, creatis presbyteris octo, diaconis quinque, episcopis per diversa loca decem, quiévit in pace, sepultúsque est in coemeterio suo ad Ursum Pileatum, sub Arcadio et Honorio: quem (ut sanctus Hierónymus scribit) diu Roma habere non meruit, ne orbis caput sub tali Episcopo truncaretur: imo idcirco raptus est atque transldtus, ne semel latam sententiam précibus suis flectere conaretur; nam haud multo post ejus obitum, Roma a Gothis capta atque diruta fuit.

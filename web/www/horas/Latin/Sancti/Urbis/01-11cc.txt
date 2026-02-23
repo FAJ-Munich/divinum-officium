@@ -1,0 +1,66 @@
+@Sancti/01-11cc
+
+[Rank]
+;;Duplex;;3;;vide C2b
+
+[Rule]
+vide C2b;
+9 lectiones
+
+[Lectio4]
+Hyginus Atheniensis, philoso-
+pho patre, cum jam Roma-
+nae Ecclesiae presbyter es-
+set, cleri suffragiis, Telesphoro
+suffectus est. Sedit in sancta Petri
+sede, imperatore Antonino Pio
+Augiisto, annos tres, menses lin-
+decim, dies viginti octo. Ubi pri-
+mumPontifex renuntiatus est, cle-
+ricorum ordines in suos gradus
+distinxit, ac fecit, ut in iis ecclesiis,
+quas Titulos vocant, tum primarii
+ministri, tum alii eisdem subjecti
+adessent, qui fidelibus, cum res
+postularet, sacra ministrarent.
+
+[Lectio5]
+Instituit etiam ne absque celebra-
+tione Missae templa vel oratoria
+sacro ritu consecrarentur: ne in-
+consiilto episcopo, vel nova con-
+struerentur, vel jam constriicta de-
+struerentur, et ne materies ad sa-
+crum illum usum congesta et de-
+stinata, in profanos usus converte-
+retur. Edixit praeterea, ut patrini
+baptismo adessent, qui de sacro
+fonte infantes levarent: ne quis
+episcopus reus criminis damnare-
+tur, nisi a comprovincialibus epi-
+scopis ejus causa probe disciissa
+fuisset. Cuncta haec ejus titulo ac
+nomine sancita exstant. Tres or-
+dinationes habuit mense Decem-
+bri, quibus creavit episcopos sex,
+presbyteros quindecim, diaconos
+quinque.
+
+[Lectio6]
+Cum autem paulo ante Justinus
+clarissimus philosophuset Chri-
+sti Martyr scripsisset apologiam
+pro religione christiana ad impe-
+ratorem Antoninum Pium Augii-
+stum, obtinuit ut perseciitio desae-
+viret. Hinc a Christianorum caede,
+non quidem omnino, plurimum
+tamen, piiblico principis edicto,
+temperatum est. Sanctissimo ta-
+men pastori, cujus cura Dominico
+gregi consiiltum fiierat, parcitum
+non fuit; nempe hic glorioso mar-
+tyrio, ne antecessoribus dissimilis
+esset, innocentissimam vitam ter-
+minavit, die undecima Januarii, et
+sepiiltus est in Vaticano.

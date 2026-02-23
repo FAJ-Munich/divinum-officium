@@ -1,0 +1,11 @@
+[Officium]
+Ss. Simplicii, Faustini et Beatricis Martyrum
+
+[Rank]
+;;Simplex;;1.1;;vide C3a
+
+[Rule]
+vide C3a;
+
+[Oratio]
+@Sancti/07-29cc::s/Fel\w+\, //

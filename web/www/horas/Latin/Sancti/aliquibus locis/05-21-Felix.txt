@@ -1,0 +1,28 @@
+[Officium]
+S. Felicis a Cantalicio Confessoris
+
+[Rank]
+;;Semiduplex;;2.2;;vide C5
+
+[Rule]
+vide C5;mtv
+9 lectiones
+
+[Name]
+Felícis
+
+[Oratio]
+Fac nos, Dómine Jesu, in simplicitáte et innocéntia cordis nostri ambuláre: quarum amóre de sinu Matris inter beáti Felícis Confessóris tui bráchia descendísti:
+$Qui vivis
+
+[Lectio4]
+
+[Lectio5]
+
+[Lectio6]
+
+[Lectio7]
+
+[Lectio8]
+
+[Lectio9]

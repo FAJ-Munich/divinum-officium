@@ -1,0 +1,55 @@
+@Sancti/01-05cc
+
+[Rank]
+;;Duplex;;3;;vide C2b-1
+
+[Rule]
+vide C2b-1;
+9 lectiones
+
+[Lectio4]
+Telesphorus, natióne Graecus,
+patria Thuriensis in magna
+Grsecia, ex presbytero Ro-
+manae Ecclesiae (cujus dignum mi-
+nistrum egerat) Póntifex Maximus
+creatus est. Hoc supremummunus
+ita óbiit, ut eximius Petri succes-
+sor lectus esse videretur. In ejus
+cathedra sedit sub imperatóre An-
+tonino Pio, fervente persecutiónis
+aestu. Qui tamen non óbstitit, ne
+sedulam óperam regendse Christi
+Ecclesise sollicitus navarit.
+
+[Lectio5]
+Hinc novis decr^tis multa illum
+egregie sancivisse legimus,
+quas ad iidelium mores, Ecclesia-
+sticórum libertatem, et sacros ri-
+tus attinent: scilicet quadragesimale jejunium, jam olim ab Apo-
+stolis traditum,novo edicto restau-
+rasse; ac mandasse ut in Natali
+Domini sanctum Missae sacrifici-
+umter celebraretur, media nocte,
+illucescente aurora, hora demum
+tórtia post solis ortum; et consti-
+tuisse ut sacrae Liturgiae hymnus
+angelicus, Gloria in excelsis Deo,
+adderetur.
+
+[Lectio6]
+Edixisse quoque ne sacerdotes a
+populo arguerentur, ut subli-
+mis ordinis dignitati consiileret.
+Ordinatione quadriiplici, mense
+Decembri, creavit presbyteros duo-
+decim, diaconos octo, episcopos
+tredecim per diversa loca. Cum
+autem in propaganda fide arden-
+tissimus esset, ac proinde idoló-
+rum sacerdotibus invisus, captus
+tandem capitis abscissione marty-
+rium consummavit Nonis Januarii,
+et ejus corpus in Vaticano sepiil-
+tum est.

@@ -1,0 +1,26 @@
+[Officium]
+S. Leonardi a Portu Mauritio Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C5
+
+[Rule]
+vide C5;
+9 lectiones
+
+[Name]
+Urbáni
+
+[Oratio]
+Deus, qui in obstinatis peccatorum cordibus ad poenitentiam flectendis beatum Leonardum Confessorem tuum opere ac sermone potentem effecisti: da quaesimius; ut per ejus preces et merita e cordibus nostris contritionis lacrimas elicere valeamus. 
+$Per Dominum
+
+[Lectio4]
+Leonárdus ...
+
+[Lectio5]
+A primo tirocínio, ...
+
+[Lectio6]
+Imménsa porro fuit ...
+

@@ -1,0 +1,177 @@
+[Officium]
+Desponsationis Beatæ Mariæ Virginis cum S. Joseph
+
+[Rank]
+;;Duplex majus;;4;;ex C11
+
+[Rule]
+ex C11
+9 lectiones
+Antiphonas horas
+
+[Comment]
+Proprium viz. 1888, pp. [268]–[272]
+
+[Ant Vespera]
+Desponsátio * gloriósæ Vírginis Maríæ, ex sémine Abrahæ, ortæ de tribu Juda, clara ex stirpe David.;;109
+Desponsátio est hódie * sanctæ Maríæ Vírginis, cujus vita ínclyta cunctas illústrat ecclésias.;;112
+Regáli ex progénie * María exórta refúlget: cujus précibus nos adjuvári mente et spíritu devotíssime póscimus.;;121
+Corde et ánimo * Christo canámus glóriam in hac sacra solemnitáte præcélsæ Genitrícis Dei Maríæ.;;126
+Cum jucunditáte * Desponsatiónem beátæ Maríæ celebrémus, ut ipsa pro nobis intercédat ad Dóminum Jesum Christum.;;147
+
+[Versum 1]
+V. Desponsátio est hódie sanctæ Maríæ Vírginis. 
+R. Cujus vita ínclyta cunctas illústrat ecclésias.
+
+[Ant 1]
+Gloriósæ Vírginis Maríæ Desponsatiónem digníssimam recolámus, quæ et Genitrícis dignitátem obtínuit, et virginálem pudicítiam non amísit.
+
+[Oratio]
+Fámulis tuis, quǽsumus Dómine, cœléstis grátiæ munus impertíre: ut, quibus beátæ Vírginis partus éxstitit salútis exórdium, Desponsatiónis ejus votiva solémnitas pacis tríbuat increméntum. 
+$Per Dominum
+(hora vespera dicuntur)
+_
+@:Commemoratio4
+
+[Invit]
+Desponsatiónem Vírginis Mariæ celebremus,* Christum ejus Fílium adorémus Dóminum.
+
+[Lectio1]
+@Sancti/08-15t
+
+[Responsory1]
+R. Hódie desponsata est beata Virgo Maria ex progenie David: 
+* Per quam salus mundi credentibus apparuit, cujus vita gloriósa lucem dedit sæculo. 
+V. Desponsationem beatæ Mariæ Virginis cum gaúdio celebremus. 
+R. Per quam salus mundi credentibus apparuit, cujus vita gloriósa lucem dedit sæculo. 
+
+[Lectio2]
+@Sancti/08-15t
+
+[Responsory2]
+R. Beatissimæ Virginis Mariæ Desponsatiónem devotissime celebremus:
+* Ut ipsa pro nobis intercédat ad Dóminum Jesum Christum. 
+V. Cum jucunditate Desponsationem beatæ Mariæ Virginis devotissime celebremus.
+R. Ut ipsa pro nobis intercédat ad Dóminum Jesum Christum. 
+
+[Lectio3]
+@Sancti/08-15t
+
+[Responsory3]
+R. Gloriósæ Virginis Mariæ Desponsatiónem dignissimam recolamus:
+* Cujus Dóminus humilitatem respexit, quæ Angelo nuntiante concépit Salvatórem mundi.
+V. Beatissimæ Virginis Mariæ Desponsatiónem devotissime celebremus.
+R. Cujus Dóminus humilitatem respexit, quæ Angelo nuntiante concépit Salvatórem mundi.
+&Gloria
+R. Cujus Dóminus humilitatem respexit, quæ Angelo nuntiante concépit Salvatórem mundi.
+
+[Lectio4]
+Sermo sancti Bernárdi Abbátis
+!Ex Homil. 2. super « Missus est »
+Oportébat a principe mundi aliquam diu celari divini consilii sacramentum: non quod Deus, si palam opus suum facere vellet, impediri posse ab illo metúeret: sed quiaipse, qui non solum potenter, sed etiam sapienter quæcumque vóluit, fecit, sicut in omnibus operibus suis quasdam rerum vel temporum congruentias propter ordinis pulchritudinem servare consuevit: ita in hoc quoque tam magnifico opere suo, nostræ videlicet reparationis, non tantum potentiam suam, sed et prudéntiam osténdere vóluit.
+
+[Responsory4]
+R. Desponsatio gloriosæ Virginis Mariæ ex semine Abrahæ, ortæ de tribu Juda, clara ex stirpe David,
+* Cujus vita inclyta cunctas illústrat ecclesias. 
+V. Hodie desponsata est beata Virgo Maria ex progenie David.
+R. Cujus vita inclyta cunctas illústrat ecclesias. 
+
+[Lectio5]
+Conveniens ergo erat, ut suaviter quoque omnia, cœlestia scilicet et terrena, disponeret, quatenus et illinc dejiciens inquietum, réliquos in pace firmaret; et hic debellaturus invidum, nobis prius suæ humilitatis et mansuetúdinis valde necessarium exemplum reliqueret: sicque mirabili fieret moderamine sapientiæ, ut et suis suavis, et hostibus fortis appareret.
+
+[Responsory5]
+R. Cum jucunditate Desponsatiónem beatæ Mariæ celebremus:
+* Ut ipsa pro nobis intercedat ad Dominum Jesum Christum. 
+V. Corde et animo Christo canamus gloriam in hac sacra solemnitate præcelsæ Genitricis Dei Mariæ.
+R. Ut ipsa pro nobis intercedat ad Dominum Jesum Christum. 
+
+[Lectio6]
+Quid enim prodésset diábolum a Deo vinci, nobis manentibus superbis? Necessario igitur desponsata est Maria Joseph, quando per hoc et a canibus sanctum absconditur, et a sponso virginitas comprobatur, et Virginis tam verecúndiæ parcitur, quam famæ providetur. Quid sapientius? quid dignius divina providentia? Uno tali consilio secretis cœlestibus et admittitur testis, et exclúditur hostis, et integra servatur fama Virginis Matris.
+
+[Responsory6]
+R. Desponsatio tua, Dei Genitrix Virgo, gaúdium annuntiávit universo mundo:
+† Ex te enim ortus est sol justitiæ, Christus Deus noster:
+* Qui solvens maledictionem, dedit benedictionem: et confúndens mortem, donavit nobis vitam
+sempiternam.
+V. Benedicta tu in mulieribus, et benedictus fructus ventris tui. 
+R. Ex te enim ortus est sol justitiæ, Christus Deus noster: 
+&Gloria
+R. Qui solvens maledictionem, dedit benedictionem: et confúndens mortem, donavit nobis vitam
+sempiternam. 
+
+[Lectio7]
+Léctio sancti Evangélii secúndum Matthǽum
+!Matth 1:
+Cum esset desponsáta mater Jesu María Joseph, ántequam convenírent, invénta est in útero habens de Spíritu sancto. Et réliqua.
+_
+Homilía sancti Hierónymi Presbýteri
+Quare non de simplici virgine, sed de desponsata concipitur? Primum, ut per generationem Joseph, origo Mariæ monstraretur: secúndo, ne lapidaretur a Judæis ut adúltera: tertio, ut in Ægyptum fúgiens haberet solatium. Martyr Ignatius etiam quartam addidit causam, cur a desponsata conceptus sit: Ut partus, inquiens, ejus celaretur diabolo, dum eum putat non de virgine, sed de uxore generatum.
+
+[Responsory7]
+@Commune/C11:Responsory8:1-4
+
+[Lectio8]
+Antequam convenirent, inventa est in útero habens de Spiritu sancto. Non ab alio inventa est, nisi a Joseph, qui penelicentia maritali futuræ uxoris omnia noverat. Quod autem dicitur, Antequam convenirent; non sequitur ut postea convenerint: sed Scriptura quod factum non sit, osténdit.
+
+[Responsory8]
+R. Felix namque es, sacra Virgo María, et omni laude digníssima:
+† Quia ex te ortus est sol justítiæ, * Christus, Deus noster.
+V. Ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu: séntiant omnes tuum juvámen, quicúmque célebrant tuam sanctam Desponsatiónem.
+R. Quia ex te ortus est sol justítiæ.
+&Gloria
+R. Christus, Deus noster.
+
+[Lectio9]
+Joseph autem vir ejus, cum esset justus, et nollet eam traducere, voluit occulte dimittere eam. Si quis fornicariæ conjúngitur, unum corpus efficitur, et in lege præceptum est, non solum reos, sed et conscios criminum obnoxios esse peccati: quomodo Joseph, cum crimen celaret uxoris, justus scribitur? Sed hoc testimonium Mariæ est, quod Joseph sciens illius castitatem, et admirans quod evenerat, celat silentio, cujus mysterium nesciebat.
+
+[Ant Laudes]
+@:Ant Vespera:s/;;\d+(?![a-z])//g
+
+[Versum 2]
+@:Versum 1
+
+[Ant 2]
+Desponsatiónem hodiérnam perpétuæ Vírginis Genitrícis Dei Maríæ solémniter celebrémus, qua celsitúdo throni procéssit, allelúja.
+
+[Oratio 2]
+@:Oratio:1-2
+_
+!Commemoratio S. Joseph Sponsi Beatæ Mariæ Vírginis
+Ant. Ipse Jesus erat incípiens quasi annórum triginta, ut putabátur fílius Joseph.
+_
+V. Os justi meditábitur sapiéntiam.
+R. Et lingua ejus loquétur judícium.
+_
+$Oremus
+v. Sanctíssimæ Genitrícis tuæ Sponsi, quǽsumus Dómine, méritis adjuvémur: ut quod possibílitas nostra non óbtinet, ejus nobis intercessione donetur.
+$Per Dominum
+
+[Versum 3]
+@:Versum 1
+
+[Ant 3]
+Desponsátio tua, Dei Génitrix Virgo, gaúdium annuntiávit univérso mundo: ex te enim ortus est sol justítiæ, Christus Deus noster: qui solvens maledictiónem, dedit benedictiónem: et confúndens mortem, donávit nobis vitam sempitérnam.
+
+[Oratio 3]
+@:Oratio:1-2
+_
+!Commemoratio S. Joseph Sponsi Beatæ Mariæ Vírginis
+Ant. Ecce fidélis servus et prudens, quem constítuit Dóminus super famíliam suam.
+_
+V. Glória et divítiæ in domo ejus.
+R. Et justítia ejus manet in sǽculum sǽculi.
+_
+$Oremus
+v. Sanctíssimæ Genitrícis tuæ Sponsi, quǽsumus Dómine, méritis adjuvémur: ut quod possibílitas nostra non óbtinet, ejus nobis intercessione donetur.
+$Per Dominum
+
+[Commemoratio4]
+!Commemoratio S. Joseph Sponsi Beatæ Mariæ Vírginis
+Ant. Exsúrgens Joseph a somno, fecit sicut præcépit ei Angelus Dómini, et accépit cónjugem suam.
+_
+V. Constítuit eum dóminum domus suæ.
+R. Et príncipem omnis possessiónis suæ.
+_
+$Oremus
+v. Sanctíssimæ Genitrícis tuæ Sponsi, quǽsumus Dómine, méritis adjuvémur: ut quod possibílitas nostra non óbtinet, ejus nobis intercessione donetur.
+$Per Dominum

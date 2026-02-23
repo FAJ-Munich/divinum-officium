@@ -1,0 +1,55 @@
+@Sancti/10-07t
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;
+9 lectiones
+In 3 Nocturno lectiones ex Commune in 2 loco
+
+[Lectio4]
+@Sancti/10-07:Lectio93
+
+[Lectio5]
+Sermo sancti Gregórii Papæ
+!2. part. Past. c. 1.
+Tantum debet actionem populi
+actio transcendere praesulis,
+quantum distare solet a grege vita
+pastoris. Oportet namque, ut me-
+tiri se sollicite stiideat, quanta te-
+nendae rectitiidinis necessitate con-
+stringitur, sub cujus aestimati6ne
+populus grex vocatur. Sit ergo
+(nec6sse est) cogitatidne mundus,
+actione praecipuus, discretus in
+silentio, litilis in verbo, singulis
+compassione prdximus, prae cun-
+ctis contemplatione suspensus,
+bene agentibus per humilitatem
+socius, contra delinquentium vitia
+per zelum justitiae erectus, inter-
+norum curam in exteriorum occu-
+patione non minuens, exteriorum
+providentiam in interiórum sollicitúdine non relinquens.
+
+[Lectio6]
+Considerandum quoque est, quia
+cum curam populi electus Prae-
+sul suscipit, quasi ad aegrum me-
+dicus accedit. Si ergo adhuc in
+ejus corpore passiones vivunt, qua
+praesumptione perciissum mederi
+properat, qui in facie vulnus por-
+tat? Ille igitur modis omnibus debet ad exemplum bene vivendi
+pertrahi, qui cunctis carnis passio-
+nibus moriens jam spiritualiter vi-
+vit: qui prospera mundipostponit:
+qui nulla adversa pertimescit: qui
+sola interna desiderat Cujus in-
+tentioni bene congruens, nec omni-
+no per imbecillitatem corpus, nec
+valde per contumaciam repiignat
+spiritus: qui ad aliena cupienda
+non diicitur, sed propria largitur.

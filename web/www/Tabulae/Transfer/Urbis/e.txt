@@ -1,0 +1,9 @@
+#= sunday letter: e, Diœcesis Urbis seu Romana
+07-13=Urbis/07-04-OmnisSSRESP~Urbis/07-13;;1888 1906
+08-23=08-23o;;1570 M1617
+08-23=08-23~08-23o;;1888 1906
+08-24=X-X;;1570 M1617
+08-24=aliquibus locis/08-22;;1888 1906
+10-12=aliquibus locis/10-11;;1888 1906
+10-19=aliquibus locis/10-DT-PuritasBMV~10-19;;1888 1906
+12-18=aliquibus locis/11-DS-PatrociniumBMV;;1888 1906

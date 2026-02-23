@@ -1,0 +1,155 @@
+[Officium]
+S. Margaritæ Cortonensis Pœnitentis
+
+[Rank]
+;;Semiduplex;;2.2;;vide C7a
+(sed rubrica 196)
+;;Simplex;;1.1;;vide C7a
+
+[Rule]
+vide C7a;
+9 lectiones
+
+[Oratio]
+Deus, qui famulam tuam Margaritam de perditionis via ad saliitis tramitem misericorditer deduxisti: eadem nobis miseratione concede; ut quam prius errantem sectari non erubiiimus, moxpoenitentem impigre sequi gloriemur.
+$Per Dominum
+
+[Lectio4]
+Margarita, a loco dormitionis
+Cortonensis appellata, La-
+viani in Tiiscia ortum ha-
+Primis adolescentiae suse an-
+nis mundi voluptatibus capta, in
+Montis Politiani civitate vanam et
+Iiibricam vitam duxit; sed cum
+amasium ab hostibus foede trans-
+fossum indicio canis in fovea sub
+strue lignorum tumulatum fortiiito
+reperisset, illico facta est manus
+Domini super eam; quae magno
+culparum suarum moerore tacta,
+exiit foras, et flevit am^re. Itaque
+Lavianum reversa, crine detonso,
+neglecto capite, puUaque veste
+contecta, erroribus suis mundique
+illecebris mintium misit; inqueae-
+dibus Deo sacris, fune ad collum
+alligato, humi prociimbens, ab
+dmnibus quos antea moribus suis
+palam offenderat, veniam exora-
+vit. Mox Cortonam profecta, in
+cinere et cilicio a se laesam Dei
+majestatem placare studuit, donec
+post triennale virtutum experi-
+mentum a fratribus Minoribus spi-
+ritualis vitae diicibus Tertii ordi-
+nis habitum impetravit Uberes
+exinde lacrimse ei familiares fue-
+runt, atque ima suspiria tanta ani-
+mi contriti6ne ducta, ut diu eHn-
+guis consisteret. Lectulus nuda
+humus, cervical lapis aut lignum
+porrexit; atqueita noctesinsomnes
+in coelestium meditatione trahere
+consuevit, nullum amplius pravum
+desiderium perpessa, dum bonus
+spiritus promptior infirmam car-
+nem ad subeundos labores erige-
+bat.
+
+[Lectio5]
+A dæmone insidiis funestisque
+conatibus lacessita, mulier
+fortis hostem ex verbis detectum
+semel atque iterum invicta repulit.
+Ad eludendum vanae gloriae leno-
+cinium, quo a malo spiritu pete-
+batur, praeteritos mores suos per
+vicos, et plateas alta voce accu-
+sare non destitit, omni supplicio
+se ream inclamans: nec nisi a con-
+fessario deterrita, in speciosam fa-
+ciem, olim impiiri amoris causam,
+saevire abstinuit, aegre ferens suam
+formam longa carnis maceratione
+non aboleri. Quibus aliisque magnae pcenitdntiae argumdntis suo-
+rum criminum labe expiata, atque
+ita de se triumphatrix, ut sensus
+plane omnes a mundi illecebris
+custodiret, digna facta est, quae
+saepe Domini consuetiidine fruere-
+tur. Ejiisdem quoque Christi et
+VirginisMatrisdolorum, quodipsa
+ardenter expetierat, particeps fa-
+cta, cunctis sensibus destitiita, et
+vere mortua interdum visa est.
+Ad eam proinde, veluti ad perfe-
+ctionis magistram, exdissitis etiam
+regi6nibus pliirimi conveniebant:
+ipsa vero coelesti, quo erat perfii-
+sa, liimine cordium secreta, con-
+scientias hominum, imo et peccata
+in remotis licet partibus Deum of-
+fendentium cum dolore et lacrimis
+detegens, summaque in Deum et
+proximum caritate fervens, ingen-
+tem animarum fructum operata
+est. Ægris ad se venientibus salii-
+tem, obsessis a daemone liberatio-
+nem impetravit. Piierum defiin-
+ctum lugente matre ad vitam re-
+diixit. Imminentes bellorum tu-
+miiltus assiduis orationibus seda-
+vit. Denique summae pietatis ope-
+ribus vivos et mdrtuos sibi deme-
+ruit.
+
+
+[Lectio6]
+Tot sanctis operibus occupata,
+de rigore quo assidue corpus
+suum exercebat, nihil remisit, ne-
+que a stiidio coelestia meditandi
+se avelli passa est, in utroque vitae
+genere plane admiranda,utramque
+sororem Magdalenam et Martham
+referens. Tandem pro se Domi-
+num orans ut ex hac valle lacri-
+marum sursum in coelestem pa-
+triam evocaretur, exaudita est
+oratio ejus, die atque hora dormi-
+ti6nis ei patefactis. Meritis itaque
+et laboribus plena, ac coelestibus
+donis cumulata, ccepit c6rporis vi-
+ribus destitui, perque dies decem
+et septem nullo cibo, sed divinis
+tantum colloquiis refecta est: tum
+sanctissimis Eccl^siae sacramentis
+rite susceptis, vultu hilari, atque
+6culis in coelum conversis, octavo
+Kalendas Martias, anno aetatis
+quinquagesimo, suae conversi6nis
+vigesimo tertio, humanae vero sa-
+liitis millesimo ducentesimo nona-
+g^simo septimo, felix migravit ad
+sponsum. Corpus in hanc usque
+diem vegetum, incorruptum, illae-
+sum, et suaviter olens summa reli-
+gi6ne colitur in ecclesia fratrum
+Min6rum, quae jam ab eademMar-
+garita appellatur. Miraculis conti-
+nuo floruit, quibus perm6ti Ro-
+mani Pontifices ad augendum ejus
+cultum pliirima liberaliter indul-
+serunt. Benedictus vero decimus
+tertius in festo Pentec6stes, die
+sexta decima Maji anni millesimi
+septingentesimi vigesimi octavi,
+solemnem ejus canonizationem re-
+ligiosissime celebravit.
+
+[Ant 2]
+Ut cognovit, * resipuit Seraphici Ordinis Magdalena: dimissa sunt ei peccata multa, quia dilexit multum.
+
+[Ant 3]
+Ego dilécto meo, * et ad me conversio ejus: inveni quem diligit anima mea, tenui eum, nec dimittam.

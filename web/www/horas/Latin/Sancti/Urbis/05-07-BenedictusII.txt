@@ -1,0 +1,23 @@
+[Officium]
+S. Benedicti II Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;
+9 lectiones
+
+[Name]
+Benedícti
+(sed communi Summorum Pontificum)
+Benedíctum
+
+[Lectio4]
+Benedictus hujus nóminis secúndus, Romdnusgenere, patre Joanne ortus, post Leonis secundi obitum ad munus Apostolicum assúmptus est, anno Christi sexcentesimo octogésimo quarto, et supremum christianae rei públicae clavum novem circiter menses tenuit, dignissimus certe, qui diútius teneret, cum a primis pueritiae annis se totum ecclesiasticis ministeriis addixisset, ac sedulam divinis litteris et sacrae psalmódiae óperam navasset.
+
+[Lectio5]
+Hic non uno dumtaxat nomine,verum etiam coelestis benedictiónis gratia et sanctae conversationis exemplo Benedictus, mansuetus, mitis et húmilis, insignis etiam patientiae,et paúperum amantissimus, in quos iarga manu reditus Ecclésiae profúdit. Ad restaurándam quoque ac exorndndam Principis Apostolorum basilicam, aliasque Urbis ecclesias, animum et manum applicuit, in quo multa aureorum millia pie consúmpsit.
+
+[Lectio6]
+Mirifico etiam conservandae et propagandae religionis zelo flagravit. Macarium patriarcham Antiochenum, a sexta synodo propter hæresim depositum, ad saniorem mentem redúcere summo stúdio laboravit. Scriptis etiam ad episcopos Hispaniæ litteris, eosdem monuit ut declararent apertius et sanius, quae de voluntate Dei et tribus Christi substantiis ante scripserant. Constantinus vero imperator tanto illum amore et honore prosecutus est, ut et capillos suorum fihorum, in signum observantiae, illi obtúlerit. Sancto tandem fine quievit, et sepúltus est in Vaticano.

@@ -1,0 +1,81 @@
+[Officium]
+S. Zachariæ III Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;
+9 lectiones
+
+[Name]
+Zacharíæ
+(sed communi Summorum Pontificum)
+Zacharíam
+
+[Lectio4]
+Zacharias natione Graecus,
+patre Polychronio, Grego-
+rio tertio ex hac luce sub-
+tracto, ad beati Petri Cathedram
+est evectus. Vir fuit mitissimi
+ingenii, mirae suavitatis et gratiae,
+cleri ac populi Romani amator,
+ad iram tardus, ad misericordiam
+et clementiam promptissimus,nulli
+malum pro malo reddens, sed
+vincens in bono malum; adeo ut
+quos habiierat semulos et inimi-
+cos, eosdem initio pontificatus ho-
+noribus et prsemiis afifecerit. Pon-
+tifex creatus, ut Italiam armis
+Longobardorum vexatam suse
+tranquillitati restitiieret, ad Luit-
+prandum regem, Interamnse de-
+gentem, et legatos misit, et ipse
+profectus est, ubi et orationis ele-
+gantia, et vitae sanctitate sic re-
+gem demiilsit, ut quas civitates,
+oppida et patrimonia ab Ecclesia
+abstiilerat, eidem restitiierit.
+
+[Lectio5]
+Sed et Ticinum usque profectus
+eúmdem infiexit, ut a Ra-
+vennatum oppressione cessaret.
+Rachim adiit, Perusiam acri obsi-
+dione prementem, quemtanta ora-
+ti6nis majestate permovit, ut et ab
+omni oppugnatione desisteret, et
+religionis amore succensus, regiam
+dignitatem et paludamentum monachali institiito et habitu permu-
+taret. Consiiltus a Francis, regnum
+illud a Childerico, viro stiipido et
+ignavo, ad Pipinum, pietate et for-
+titiidine praestantem, auctoritate
+apostolica transtulit. Multas syn-
+odos et conciHa celebravit, pro
+ecclesiasticae disciphna^ restaura-
+tione.
+
+[Lectio6]
+Romae omnia loca sacra aut reparavit, autditiora effecit. San-
+ct6rum imagines vetustate exole-
+tas renovavit, et Lateranense pa-
+triarchium, quod magna in pemi-
+ria invenerat, pene a novo restau-
+ravit, ac multas reliquias ibi inven-
+tas diversis ecclesiis distribuit
+Pauperibus alendis reditus assi-
+gnavit. Bibliothecam sancti Petri
+construxit, basilicam sancti Geor-
+gii in Velabro condidit; aedificavit
+et oratorium divae Caeciliae via Ti-
+burtina. Clerum valde dilexit, et
+donativum singulis presbyteris et
+diaconis erogavit. Sancti Gregorii
+Dialogorumlibrosin graecumtrans-
+tulit, rebiisque variis pro Ecclesiae
+utilitate non minus pie quam pro-
+spere gestis, sanctitatis laiirea est
+coronatus.

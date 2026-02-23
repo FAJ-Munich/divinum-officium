@@ -1,0 +1,23 @@
+[Officium]
+S. Gelasii I Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;mtv
+9 lectiones
+
+[Name]
+Gelásii
+
+[Lectio4]
+Gelasius, gente Africanus, patre Valerio, in Fehcis tertii locum subrogatus, pontificatum gessit annos quatuor, menses octo, duodeviginti dies. Creavit in diiplici ordinatione diaconos duos, presbyteros triginta et duos, sexaginta septem per diversa loca episcopos. Vir sane singulari fidei propagandæ ac servandæ zelo ardentissimus, omnilitteratiira, prsesertim sacra, instructissimus, et intrepidi pectoris robore, tum ad vindicanda Ecclesiæ et Sedis apostolicæ jura, tum ad retundendam hæreticorum et schismaticorum proterviam armatus.
+
+[Lectio5]
+Ejus cura et stiidio non clerus modo pliirimum auctus est, verum etiam universa Ecclesia magnis incrementis adolevit. In quo certe illius prudentia mirabilis fuit, cum eo tempore Anastasius, imperatorhæreticus, et Theodoricus Arianus rerum utriiisque imperii potirentur. Imminente famis periculo, libere annóna Urbem recreavit. Lupercalia, aliaque Gentilium spectacula, quæ ad hæc usque tempora, post tam multa imperatorum edicta adversus idololatriam lata, et Romanorum Pontificum studia ad eam exstirpandam adhibita, viguisse constat, Andromacho senatore, aliisque
+Romanis frustra licet refragantibus, penitus abolevit.
+
+[Lectio6]
+Alia quamplúrima ad dignitatem et disciplinam Ecclesiæ spectantia præstitit, sancivit, et scripsit. Defensóres Acacii, Euphemium præsertim Constantinopolitanum damnavit; scriptisque ad diversos nervosissimis juxta atque doctissimis litteris, vel eos in officio continuit, vel aberrantes rediixit. Pelagianos, Manichseos et alios hæreticos cœrcuit, eoriimque libros piiblicis flainis tradi curavit. Præter decretales et hymnos ecclesiasticos, egregia scripsit opiiscula contra Nestórium, Arium, Pelagium et Eutycheten. Sed illud præ ceteris memorandum, quod
+libros canónicos ab aliis, et probatos ab apócryphis, in Romanasynodo septuaginta episcopórum, singulari decreto distinxit. Post multos demumlabóres in regenda universaH Ecclesia exantldtos, sanctissimus et doctissimus Póntifex pie óbiit in Dómino undecimo Kalendas Decembris, anno Christi quadringentíssimo nonagesimo sexto, et sepiiltus est in Vaticano.

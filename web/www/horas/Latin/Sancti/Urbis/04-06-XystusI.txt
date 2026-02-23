@@ -1,0 +1,69 @@
+[Officium]
+S. Xysti I Papæ et Martyris
+
+[Rank]
+;;Duplex;;3;;vide C2b
+
+[Rule]
+vide C2b;
+9 lectiones
+
+[Name]
+Xysti
+(sed communi Summorum Pontificum)
+Xystum
+
+[Lectio4]
+Xystus hujus nominis primus,
+Romanus natione, de re-
+gione Urbis septima, quse
+Via lata dicta est, patre Pastore
+genitus, in locum Alexandri primi,
+RomaniPontificis,nobilissimomar-
+tyrio coronati, totius cleri suffra-
+giis suffectus, supremo illo miinere
+egregie et summa cum laude per-
+fiinctus est annis novem, mensibus
+decem, diebus octo, sub imperato-
+ribus Adriano et Antonino Pio
+Augustis.
+
+[Lectio5]
+Nonnulla ad discipli-
+nam ecclesiasticam
+pertinentia prudentissime
+statuit, scilicet, ne sacra
+vasa et ministeria ab
+aliis, qui sacri ministri
+non essent , contrecta¬
+rentur : ne sacrum cor¬
+porale, ut vocant, ex alia,
+quam linea materia fieret:
+ut sacrum Trisagium in
+Missa populus decanta¬
+ret : et ne ullus Episco¬
+pus Romam evocatus ad
+suam deinde dioecesim
+rediens susciperetur, nisi
+litteris apostolicis, quas
+Formatas et Canonicas
+antiqui vocabant, muni¬
+tus esset.
+
+[Lectio6]
+Tres ordinationes mense Decembri pro
+more fecit , in quibus
+creavit Episcopos qua-
+tuor pro diversis locis,
+Presbyteros undecim ,
+Diaconos tres. Vir reve¬
+ra singulari vitae sancti¬
+monia, incredibili mo¬
+rum facilitate, eximia in
+pauperes liberalitate, fre¬
+quentibus etiam insi¬
+gnis miraculis, illustri
+tandem martyrio coro¬
+natus, octavo Idus A
+prilis, et sepultus in Va¬
+ticano.

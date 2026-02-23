@@ -1,0 +1,83 @@
+[Officium]
+S. Hormisdæ II Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;mtv
+9 lectiones
+
+[Name]
+Hormísdæ
+
+[Lectio4]
+Hormisdas, nati6ne Campanus,
+Justo patre Frusinate, septi-
+mo a Symmachi 6bitu die,
+cum jam sanctae Romanae Eccle-
+siae diaconus esset, suiha 6mnium
+consensi6ne ad sanctam Petri Se-
+dem provectus est: in qua ita se
+gessit, et dominico gregi pascendo
+sedulam 6peram navavit, ut non
+sine singulari Dei providentia ac
+divino consilio electum fuisse per-
+spectum sit. Hoc quippe h6mine
+iis temp6ribus Ecclesia indigebat,
+qui et res arduas faciendas ani-
+mose susciperet, et susceptas ad
+optatum finem strenue perdiiceret.
+
+[Lectio5]
+Ubi supremum Pontificis munus
+iniit, totum fere christianum
+orbem sub regibus barbaris vel
+haereticis gementem invenit, et
+distractam in partes Ecclesiam.
+Sed octo aiiorum spatio, vir plane
+Deo plenus, perenni cura ac felici
+lab6rum suorum eventu, eo rem
+addiixit, ut Orientales ecclesiae, ab
+octoginta circiter annis fcedo schi-
+smate separatae, subscripto libello,
+quem is per suos legatos miserat,
+ad unitatem redierint; et Africae
+sui episcopi, quos in Sardiniam
+Vandali releg^rant, fiierint resti-
+tiiti, et Lazorum rex ac populus
+ad Christi iidem, ejus opera, indii-
+ctus sit; ac demum Clodoveus
+Francorum rex ad eamdem fidem
+conversus, solemni legatione ad
+Sedem apost61icam, cordnam aii-
+ream gemmis distinctam Hormis-
+dae obtulerit, ad perpetuum obe-
+dientiae et fidei monumentum.
+
+[Lectio6]
+Manichæos item discussit, eoriimque codices ante fores
+Constantinianae basilicae incendio
+concremavit. Complures epistolas
+scripsit ad varios, per universum
+orbem christianum, in quibus ar-
+dentissimus zelus religionis ampli-
+ficandae, quo meduUitus flagrabat,
+sacrarum litterarum scientia, cum
+limpidissimo et amdeno stylo con-
+juncta, qua pliirimum valebat, sin-
+gularis rerum gerendarum peritia,
+praesertim cum regibus et optima-
+tibus, qua prae ceteris pollebat,
+alisequeheroicianimidotes, mirum
+in modum elucent. Ejus demum
+pia liberalitas in egenos et sacras
+aedes profiisa fuit. Actandem suo-
+rum votorum compos, annis ac
+meritis gravis, et rerum gestarum
+gloria apudDeumet homines cele-
+berrimus, post novem pontificatus
+annos, ad ccelestem patriam mi-
+gravit, anno Christi quingentesimo
+vigesimo tertio, exanimi corporis
+exúviis Vaticanae basilicae relictis.

@@ -1,0 +1,23 @@
+[Officium]
+S. Dionysii Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;mtv
+9 lectiones
+
+[Name]
+Dionýsii
+
+[Lectio4]
+Dionýsius ex monacho, post beatum Xystum Secundum Romanae Ecclesiae Episcopus est constitutus. Is contra Sabellianos scripsit : et adversus eos, qui Filium Dei opus, aut creaturam asseverabant, plura volumina edidit. Dionysii Alexandrini Episcopi apud se accusati, quasi qui Filium Dei factum, et non substantialem Patri diceret, in Romana Synodo causam discussit, ad quem ejusdem Synodi id indigne ferentis sententiam perscripsit. Sed cum Alexandrinus Antistes iterum atque iterum, missis Romam suis scriptis, se purgasset, atque defendisset, maturo demum consilio est absolutus. Presbyteris Ecclesias in urbe Dionysius distribuit, et coemeteria, parochias, atque dioeceses divisit. Denique multis pro Ecclesia perfunctus laboribus, ac fidei documentis clarus, Aureliano Imperatore migravit ad Dominum , sepultusque est in coemeterio Gallisti via Appia, sexto Kalendas Januarii. Habuit mense Decembri ordinationes duas, quibus creavit Presbyteros duodecim, Diaconos sex, Episcopos per diversa loca septem. Sedit annos undecim, menses tres, dies quatuordecim. 
+
+[Lectio5]
+Sermo sancti Jóannis Chrysóstomi
+!In Epist. ad Rom. cap. 15., serm. 29., circa finem
+Christum díliengs, ...
+
+[Lectio6]
+Et Sámuel quoque ...

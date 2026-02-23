@@ -1,0 +1,83 @@
+[Officium]
+S. Siricii Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b-1
+
+[Rule]
+vide C4b-1;mtv
+9 lectiones
+
+[Oratio]
+Deus, qui beatum Siricium Confessorem atque Pontificem ecclesiasticæ disciplinæ propagatorem eximium effecisti: da Ecclesiæ tuæ, ejus institútis proficere, et meritis adjuvari. 
+$Per Dominum
+
+[Lectio4]
+Siricius Romanus, ex presby-
+tero tituli Pastoris, vita fun-
+cto sancto DamasoPapa, cleri
+populique universi acclamatione
+ad apostolicam Sedem evectus est,
+obnitente frustra Ursicino schi-
+smatico, gratulante vero in primis
+Valentiniano imperatore, qui ma-
+gnum innocentiae et probitatis ex-
+emplum eum praedicavit. Ipso sui
+pontificatus exordio decretalem
+epistolam, saluberrimis institutid-
+nibus plenam,
+ad Himerium dedit
+Tarraconensem episcopum, aliis
+Hispaniarum ecclesiis communi-
+candam, ut cornipti clericorum
+mores emendarentur, et disciplinae
+vigor instauraretur, quaminAfrica
+quoquecollabentem, habita Romae
+synodo octoginta episcoporum,
+reparandam curavit.
+
+[Lectio5]
+Innúmera sunt cetera, quae pro
+fidei defensione toto sui pontifi-
+catus tempore invicte peregit. Jo-
+vinianum monachum, sanctas vir-
+ginitatis hostem, et christianum
+Epiciirum in Romana synodo ana-
+themate confixit. Bonosum quo-
+que Sardicensem episcopum, Chri-
+sti divinitatem et Deiparae post
+partum virginitatem inficiantem
+damnavit. Manichaeos ex Urbe
+ejectos imperiali lege saecularibus
+pcenis coërcendos subjecit; red-
+euntes vero ad Ecclesiam in mo-
+nasteria detriidi, ac nonnisi in vi-
+tae exitu ad communionem recipi
+voluit.
+
+[Lectio6]
+Religionis tuendae et amplifican-
+dae stiidium, quod sane quam
+maximum declarabat, egregie ad-
+jiivit magnus Theodosius impera-
+tor, qui cum, sublatis Gentilium
+simulacris, templisque interdictis
+aut evdrsis, idolorum cultum o-
+mnem aboleri jussisset, christiana
+religio, ipso sedente Pontifice, mi-
+rifice propagata est. Praeclaris pro
+Ecclesia functus laboribus,
+editisque sanctissimis legibus, septua-
+genario major obdormivit in D6-
+mino, anno saliitis trecentesimo
+nonagesimo octavo. Sedit in pon-
+tificatu annos circiter quatuorde-
+cim. Ejus corpus e coemeterio Pri-
+scillae via Salaria in titulum san-
+ctae Praxedis a Paschali primo
+translatum est. Illius vero nomen
+Benedictus decimus quartus Pon-
+tifex Maximus, plene vindicata
+ejus ab objectis criminibus inno-
+centia, in Romani Martyroldgii
+tabulas referri jussit.

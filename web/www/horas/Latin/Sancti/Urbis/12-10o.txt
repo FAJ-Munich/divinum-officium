@@ -1,0 +1,17 @@
+@Sancti/12-10o
+
+[Rank]
+;;Duplex;;3;;vide C2b
+
+[Rule]
+vide C2b;
+9 lectiones
+
+[Lectio4]
+Melchíades Afer post Eusébium Románam ténuit Ecclésiam. Qui cum adhuc Pesbyter esset, misit diáconos cum lítteris Maxénti Imperatóris, et lítteris Præfécti Prætórii ad Urbis Præféctum, ut ea loca recíperet, quæ fúerant Christiánis, témpore persecutiónis, abláta. Réddita autem Ecllésiis pace, Constantínum Augústum adivére Donatístæ, ut in eórum contra Cæciliánum Carthaginiénsem Epíscopum causa júdices daret. Quibus Constantinus respondit : Petistis a me in sæculo judicium, cum ego ipse Christi judicium exspectem. Attamen dati sunt judices Episcopi tres missique Romam ad Melchiadem Pontificem, ut ibi pro fratrum concordia et unitate Synodus cogeretur.
+
+[Lectio5]
+In Urbem itaque hi tres profecti, convenerunt cum áliis quindecim Episcopis, ipsoque Melchiade in domum Faustæ in Lateranis, ubi causa discussa, Cæcilianus omnium Episcoporum senténtiis, innocens est pronuntiatus , et ejusdem Melchiadis decreto judicium est clausum. Ut autem Donatistæ Catholicæ unirentur Ecclesiæ, Melchiades (prout scribit sanctus Augustinus) tanquam vir optimus, filius Christianæ pacis, et pater Christianæ plebis admodum laboravit, oblata etiam conditione, ut quibuscumque in locis duo essent contrariarum factionum Episcopi, is confirmaretur qui prior fuisset ordinatus, et alteri plebs alia regenda provideretur.
+
+[Lectio6]
+Sanxit, ne ulla ratione die dominico, aut quinta feria, quis fidelium jejunaret, quia eos dies quasi sacro jejunio deputatos pagani celebrabant. Item statuit, ut oblationes consecratæ per Episcopum, quæ dicebantur fermentum, per Ecclesias dirigerentur: ne Presbyteri in suis Titulis una cum suis plebibus celebrantes, se ab Episcopi communione separatos judicarent. Qui cum in persecutione Maximiani multa passus esset, tandem sub Constantino quievit in Domino, quarto Idus Decembris sepultusque est in cœmeterio Callisti via Appia. Una ordinatione creavit Presbyteros sex, Diaconos quinque. Episcopos per divérsa loca úndecim.

@@ -1,0 +1,266 @@
+[Officium]
+In Translatione Almæ Domus Beatæ Mariæ Virginis
+
+[Rank]
+;;Duplex majus;;4;;ex C11
+
+[Rule]
+ex C11
+9 lectiones
+Antiphonas horas
+Gloria
+Credo
+Prefatio=Maria=Festivitate;
+
+[Ant VesperaBMV]
+Propter domum * Dómini Dei nostri quæsívi bona tibi.;;121
+Dómine Deus * exaltásti super terram habitatiónem meam.;;126
+Domum majestátis meæ, * et locum pedum meórum glorificábo.;;147
+
+[Ant Vespera]
+@Commune/C8::1
+@Commune/C8::2 s/\.;;/: in ea omnis qui petit, áccipit, et qui quærit ínvenit: et pulsánti aperiétur.;;/ s/;;110/;;112/
+@:Ant VesperaBMV
+
+[Versum 1]
+@Commune/C8
+
+[Ant 1]
+@Commune/C8
+
+[Oratio]
+Deus, qui beátæ Maríæ Vírginis Domum per incarnáti Verbi mystérium misericórditer consecrásti, eámque in sinu Ecclésiæ tuæ mirbíliter collocásti: concéde; ut segregáti a tabernáculis peccatórum, digni efficiámur habitatóres Domus sanctæ tuæ.
+$Per eumdem
+
+[Invit]
+Salvatórem mundi in domo Vírginis de Spíritu sancto concéptum, * Veníte, adorémus.
+
+[Hymnus Matutinum]
+@Commune/C8
+
+[HymnusM Matutinum]
+@Commune/C8
+
+[Ant Matutinum]
+Eleváta est magnificéntia tua super cœlos.;;8
+In sole pósuit tabernáculum suum, et ipse tamquam sponsus procédens de thálamo suo.;;18
+Quis ascéndat in montem Dómini? aut quis stabit in loco sancto ejus? Innocens mánibus, et mundo corde.;;23
+Diffúsa est grátia in lábiis tuis, proptérea benedíxit te Deus in ætérnum, et in sæculum sæculi.;;44
+Sanctificávit tabernáculum suum Altíssimus.;;45
+Homo natus est in ea, et ipse fundávit eam Altíssimus.;;86
+Tóllite hóstias, et introíte in átria ejus: * adoráte Dóminum in átrio sancto ejus.;;95
+Vidérunt omnes pópuli glóriam ejus.;;96
+Cantáte Dómino canticum novum, quia mirabília fecit Dóminus, allelíja.;;97
+
+[Nocturn 1 Versum]
+V. Hic domus Dei est, et porta cœli.
+R. Et vocábitur ala Dei.
+
+[Nocturn 2 Versum]
+V. Dómine, diléxi decórem domus tuæ,
+R. Et locum habitatiónis glóriæ tuæ.
+
+V. Domum tuam, Dómine, decet sanctitúdo.
+R. In longitúdinem diérum.
+
+[Lectio1]
+De libro tértio Regum
+!3 Reg 8:22-23, 27-30
+22 Stetit autem Sálomon ante altáre Dómini in conspéctu ecclésiæ Israël, et expándit manus suas in cælum,
+23 et ait:
+27 Ergóne putándum est quod vere Deus hábitet super terram? si enim cælum, et cæli cælórum, te cápere non possunt, quanto magis domus hæc, quam ædificávi!
+28 Sed réspice ad oratiónem servi tui, et ad preces eius, Dómine Deus meus: audi hymnum et oratiónem quam servus tuus orat coram te hódie:
+29 ut sint óculi tui apérti super domum hanc nocte ac die: super domum, de qua dixísti: Erit nomen meum ibi: ut exáudias oratiónem quam orat in loco isto ad te servus tuus:
+30 ut exáudias deprecatiónem servi tui et pópuli tui Israël, quodcúmque oráverint in loco isto, et exáudies in loco habitáculi tui in cælo: et cum exaudíeris, propítius eris.
+
+[Responsory1]
+@Sancti/08-15t
+
+[Lectio2]
+!3 Reg 8:33-36
+33 Si fúgerit pópulus tuus Israël inimícos suos (quia peccatúrus est tibi), et agéntes pœniténtiam, et confiténtes nómini tuo, vénerint, et oráverint, et deprecáti te fúerint in domo hac:
+34 exáudi in cælo, et dimítte peccátum pópuli tui Israël, et redúces eos in terram quam dedísti pátribus eórum.
+35 Si clausum fúerit cælum, et non plúerit propter peccáta eórum, et orántes in loco isto, pœniténtiam égerint nómini tuo, et a peccátis suis convérsi fúerint propter afflictiónem suam:
+36 exáudi eos in cælo, et dimítte peccáta servórum tuórum, et pópuli tui Israël: et osténde eis viam bonam per quam ámbulent, et da plúviam super terram tuam, quam dedísti pópulo tuo in possessiónem.
+
+[Responsory2]
+R. Quæ est ista, quæ ascéndit sicur auróra consúrgens, pulchra ut luna, elécta ut sol,
+* Terríbilis ut castrórum ácies ordináta?
+V. Fília Sion, tota formósa et suávis es, pulchra ut luna, elécta ut sol.
+* Terríbilis ut castrórum ácies ordináta?
+
+[Lectio3]
+!3 Reg 8:38-43
+38 Si quis cognóverit plagam cordis sui, et expánderit manus suas in domo hac,
+39 tu exáudies in cælo in loco habitatiónis tuæ, et repropitiáberis, et fácies ut des unicuíque secúndum omnes vias suas, sicut víderis cor eius (quia tu nosti solus cor ómnium filiórum hóminum),
+40 ut tímeant te cunctis diébus quibus vivunt super fáciem terræ quam dedísti pátribus nostris.
+41 Insuper et alienígena, qui non est de pópulo tuo Israël, cum vénerit de terra longínqua propter nomen tuum (audiétur enim nomen tuum magnum, et manus tua fortis, et bráchium tuum
+42 exténtum ubíque), cum vénerit ergo, et oráverit in hoc loco,
+43 tu exáudies in cælo, in firmaménto habitáculi tui, et fácies ómnia pro quibus invocáverit te alienígena: ut discant univérsi pópuli terrárum nomen tuum timére, sicut pópulus tuus Israël, et probent quia nomen tuum invocátum est super domum hanc.
+
+[Responsory3]
+@Commune/C11:Responsory5
+
+[Lectio4]
+Sermo sancti Bernárdi Abbátis
+!Serm. 52 de divers.
+Sapientia , quæ Dei erat, et Deus erat, de sinu Patris ad nos veniens, ædificavit sibi domum, ipsam scilicet Matrem suam Virginem Mriam, in qua septem columnas excidit. Quid est in ea septem columnas excidere, nisi ipsam dignum sibi habitaculum fide, et operibus præparare ? Nimirum ternarius numerus ad fidem propter sanctam Trinitatem, quaternarius pertinet ad mores propter quatuor principales virtutes. Quod autem in beata Maria sancta Trinitas fuerit, fuerit dico per præsentiam majestatis ; ubi solus Filius erat per susceptionem humanitatis, testatur nuntius cœlestis, qui ei arcana mysteria reserans, ait : Ave gratia plena. Dominus tecum ; et post pauca : Spiritus sanctus superveniet in te, et virtus Altissimi obumbrabit tibi. Ecce habes Dominum, habes virtutem Altissimi, habes Spiritum sanctum, habes Patrem, Filium, et Spiritum sanctum.
+
+[Responsory4]
+R. O quam metuendus est locus iste!
+* Vere non est hic aliud, nisi domus Dei, et porta cœli.
+V. Hæc est domus Domini firmiter ædificata, bene fundata est supra firmam petram.
+R. Vere non est hic aliud, nisi domus Dei, et porta cœli.
+
+[Lectio5]
+Utrum autem et quatuor principales virtutes, tamquam quatuor columnas possederit, inquisitione dignum videtur. Primum ergo videamus, an fortitudinem habuerit. Quæ nimirum virtus quomodo illi abesse potuit, quæ abjectis sæcularibus pompis, spretisque voluptatibus carnis, soli Deo in virginitate vivere proposuit? Ni fallor, hæc Virgo est, quæ apud Salomonem legitur : Mulierem fortem quis inveniet ? procul, et de ultimis finibus pretium ejus. Porro quod temperans et justa fiierit, ex Angeli collocutione, et sui ipsius responsione, luce clarius comprobamus. Salutata quippe tam venerabiliter ab Angelo : Ave, gratia plena. Dominus tecum ; non se extulit, quasi quæ ex singulari gratiæ privilegio benediceretur, sed siluit, et qualis esset insolita hæc salutatio secum cogitavit. Qua in re, quid nisi temperans fuit? At vero, cum de cœlestibus mysteriis ab eodem Angelo doceretur, diligenter quæsivit, quomodo conciperet et pareret, quæ virum utique non cognosceret, et in hoc sine dubio prudens exstitit.
+
+[Responsory5]
+@Commune/C8:Responsory2
+
+[Lectio6]
+Justitiæ autem præ se fert insigne, ubi se ancillam Domini confitetur ; nam quod justorum sit confessio, testatur qui ait ; Verumtamen justi confitebuntur nomini tuo. Fuit igitur beata Virgo Maria fortis in proposito, temperans in silentio, prudens in interrogatione, justa in confessione. His itaque quatuor morum columnis, et tribus fidei prædictis exstruxit in ea sibi domum Sapientia cœlestis, quæ adeo mentem ejus replevit, ut de plenitudine mentis fœcundaretur et caro. Ipsius autem Virginis natalis domus divinis mysteriis consecrata , Angelorum ministerio ab infidelium potestate in Dalmatiam prius, deinde in agrum Laurentánum Picénæ provinciæ translata fuit, sedente sancto Cœlestino Quinto : eamdemque ipsam esse, in qua Verbum caro factum est, et habitavit in nobis, tum pontificiis diplomatibus, et celeberrima totius orbis veneratione, tum continua miraculorum virtute et cœlestium beneficiorum gratia comprobatur. Quibus permotus Innocentius Duodecimus, quo ferventius erga Matris amantissimæ cultum Fidelium memoria excitaretur, ejusdem sanctæ Domus Translationem anniversaria solemnitate in tota Piceni Provincia veneratam. Missa etiam et Officio proprio celebrari præcepit.
+
+[Responsory6]
+@Commune/C8:Responsory7
+
+[Lectio7]
+Léctio sancti Evangélii secúndum Lucam
+!Luc 1:26-38
+In illo témpore: Missus est Angelus Gábriel a Deo in civitátem Galilææ, cui nomen Názareth, ad Vírginem desponsátam viro, cui nomen erat Joseph, de domo David, et nomen Vírginis María. Et réliqua.
+_
+Homilía sancti Bernárdi Abbátis
+!Ex Homilía 1 super Missus
+Quæ est hæc Virgo tam venerabilis, ut salutetur ab Angelo? tam humilis, ut desponsata sit fabro? Pulchra permixtio virginitatis et humilitatis: nec mediocriter placet Deo illa anima, in qua et humilitas commendat virginitatem, et virginitas exornat humilitatem. Sed quanta, putas veneratione digna est, in qua humilitatem exaltat fœcunditas, et partus consecrat virginitatem? Audis virginem, audis humilem? Laudabilis virtus virginitas, sed magis necessaria humílitas: illa consúlitur ista præcípitur.
+
+[Responsory7]
+R. Diffúsa est grátia in lábiis tuis,
+* Proptérea benedíxit te Deus in ætérnum.
+V. Myrrha, et gutta, et cásia a vestiméntis tuis, a dómibus ebúrneis, ex quibus te delectavérunt filiæ regum in honóre tuo.
+R. Proptérea benedíxit te Deus in ætérnum.
+
+[Lectio8]
+!Ex Hom. 2 super eodem loco.
+Missus est, inquit, Angelus ad virginem, virginem carne, virginem mente, virginem professione, virginem denique qualem describit Apostolus, mente et corpore sanctam, nec no viter, nec fortuito inventam, sed a sacculo electam, ab Altissimo præcognitam, et siti præparatam, ab Angelis servatam, a Patribus præfiguratam, a Prophetis promissam. Ut pauca loquar de pluribus, quam sibi aliam pra.‘dixisse Deus videtur, quando ad serpentem ait ; Inimicitias ponam inter te et mulierem? Et si adhuc dubitas, an de Maria dixerit, audi quod sequitur: Ipsa cónteret caput tuum ; cui hæc servata victoria est, nisi Mariæ ?
+
+[Responsory8]
+R. Beáta es, Virgo María Dei Génitrix, quæ credidísti Dómino: perfécta sunt in te, quæ dicta sunt tibi: ecce exaltáta es super chros Angelórum:
+* Intercéde pro nobis ad Dóminum Deum nostrum.
+V. Ave María, grátia plena: Dóminus tecum.
+&Gloria
+R. Intercéde pro nobis ad Dóminum Deum nostrum.
+
+[Lectio9]
+!Ex Hom. 3 super eodem loco.
+Et ingréssus Angelus ad eam, dixit: Ave gratia plena. Dominus tecum. Quo ingressus ad eam? Puto in sacrarium pudici cubiculi, ubi illa fortassis, clauso super se ostio, orabat l'atrem in abseondito. Solent Angeli adstare orantibus, et delectari in his, quos vident levare puras manus in oratione. Holocaustum sanctie devotionis gaudent se offerre Deo in odorem suavitatis. Mariæ autem orationes, quantum placuerint in conspectu Altissimi, Angelus indicavit, qui ingressus ad eam tam reverenter salutavit.
+
+[Ant Laudes]
+@Commune/C8:Ant Vespera:1 s/;;\d+/;;/
+@Commune/C8:Ant Vespera:2 s/\.;;/: in ea omnis qui petit, áccipit, et qui quærit ínvenit: et pulsánti aperiétur.;;/ s/;;\d+/;;/
+@:Ant VesperaBMV:s/;;\d+//gm
+
+[Capitulum Laudes]
+!Eccl. 24:1
+v. In omnibus requiem quæsivi, et in hæreditate Domini morabor. Tunc præcepit, et dixit mihi Creator omnium ; et qui creavit me, requievit in tabernaculo meo.
+$Deo gratias
+
+[Hymnus Laudes]
+@Commune/C8
+
+[HymnusM Laudes]
+@Commune/C8
+
+[Versum 2]
+V. Introibimus in tabernaculum ejus.
+R. Adorabimus in loco, ubi steterunt pedes ejus.
+
+[Ant 2]
+Ecce tabernaculum Dei cum hominibus, et habitabit cum eis: et ipsi populus ejus erunt, et ipse Deus cum eis erit eórum Deus.
+
+[Responsory Breve Tertia]
+R.br. Hic domus Dei est, * Et porta cœli.
+R. Hic domus Dei est, * Et porta cœli.
+V. Et vocábitur aula Dei.
+R. Et porta cœli.
+&Gloria
+R. Hic domus Dei est, * Et porta cœli.
+
+[Versum Tertia]
+@Commune/C8:Versum 0
+
+[Responsory Breve Sexta]
+R.br. Dómine, * Diléxi decórem doums tuæ.
+R. Dómine, * Diléxi decórem doums tuæ.
+V. Et locum habitatiónis glóriæ tuæ.
+R. Diléxi decórem doums tuæ.
+&Gloria
+R. Dómine, * Diléxi decórem doums tuæ.
+
+[Versum Sexta]
+@Commune/C8:Versum 3
+
+[Responsory Breve Nona]
+R.br. Domum tuam, Dómine, * Decet sanctitúdo.
+R. Domum tuam, Dómine, * Decet sanctitúdo.
+V. In longitúdinem diérum.
+R. Decet sanctitúdo.
+&Gloria
+R. Domum tuam, Dómine, * Decet sanctitúdo.
+
+[Versum Nona]
+V. Hic domus Dei est, et porta cœli.
+R. Et vocábitur aula Dei.
+
+[Versum 3]
+@:Versum 1
+
+[Ant 3]
+@Commune/C8
+
+[Introitus]
+@Commune/C8
+
+[Lectio]
+Léctio libri Sapiéntiæ.
+!Eccli. 2:1,11-13 et 15-20
+In ómnibus requiem quæsívi, et in hereditáte Dómini morábor. Tunc præcépit et dixit mihi Creator ómnium: et qui creávit me, requiévit in tabernáculo meo, et dixit mihi: In Jacob inhábita, et in Israël hereditáre, et in eléctis meis mitte radíces. Et sic in Sion firmáta sum, et in civitáte sanctificáta simíliter requiévi, et in Jerúsalem potéstas mea. Et radicávi in pópulo honorificáto, et in parte Dei mei heréditas illíus, et in plenitúdine sanctórum deténtio mea. Quasi cedrus exaltáta sum in Líbano, et quasi cypréssus in monte Sion. Quasi palma exaltáta sum in Cades, et quasi plantátio rosæ in Jéricho. Quasi olíva speciósa in campis, et quasi plátanus exaltáta sum juxta aquam in platéis. Sicut cinnamómum et bálsamum aromatízans odórem dedi: quasi myrrha elécta dedi suavitátem odóris.
+
+[Graduale]
+!Ps 20:4
+Unam pétii a Dómino, hanc requíram, ut inhábitem in domo Dómini ómnibus diébus vitæ meæ.
+V. Ut vídeam voluptátem Dómini, et vísitem templum ejus.
+Allelúja, allelúja.
+!Ps 83:5
+Beáti, qui hábitant in domo tua, Dómine: in sǽcula sæculórum laudábunt te. Allelúja.
+
+[GradualeP]
+Allelúja, allelúja.
+!Ps 83:5 et 11
+Beáti, qui hábitant in domo tua, Dómine: in sǽcula sæculórum laudábunt te. Allelúja.
+V. Mélior est dies una in átriis tuis super mília. Allelúja.
+
+[Tractus]
+!Ps 83:5 et 11
+Beáti, qui hábitant in domo tua, Dómine: in sǽcula sæculórum laudábunt te.
+V. Mélior est dies una in átriis tuis super mília.
+V. Elegi abjéctus esse in domo Dei mei: magis quam habitáre in tabernáculis peccatórum.
+
+[Evangelium]
+@Sancti/03-25
+
+[Offertorium]
+!Ps 5:8
+Introíbo in domum tuam, adorábo ad templum sanctum tuum, et confitébor nómini tuo. (Allelúja.)
+
+[Secreta]
+Accipe, quǽsumus, Dómine, múnera in hac sacra domo dignánter obláta: et, beátæ Maríæ Vírginis suffragántibus méritis, ad nostræ salútis auxílium proveníre concéde.
+$Per Dominum
+
+[Communio]
+!Prov. 8:34-35
+Beátus, qui audit me, et qui vígilat ad fores meas cotídie, et obsérvat ad postes óstii mei. Qui me invénerit, invéniet vitam, et háuriet salútem a Dómino. (Allelúja.)
+
+[Postcommunio]
+Quǽsumus, Dómine, Deus noster: ut sacrosáncta mystéria, quæ pro reparatiónis nostræ munímine contulísti, intercedénte beáta María semper Vírgine, et præsens nobis remédium esse fácias et futúrum.
+$Per Dominum
+

@@ -1,0 +1,23 @@
+[Officium]
+S. Leonis IX Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;
+9 lectiones
+
+[Name]
+Leónis
+(sed communi Summorum Pontificum)
+Leónem
+
+[Lectio4]
+Leo hujus nóminis nonus, ex nobili Francorum prosapia oriúndus, Dagsburgensis comes, ac TuUensis episcopus, Bruno antea dictus, omnium Cardinalium suffragiis, ac commúni fidelium gratulatione, ad sanctissimam Petri sedem evectus est, et in ea sedit annis quinque, duóbus mensibus, diebus octo. Vir omni virtútum genere et sacra doctrina eximius, ut Apostolicum hoc munus impleret, nullis laboribus, nullis sumptibus, nullis incómmodis pepércit.
+
+[Lectio5]
+Germaniam et Italiam saepius, Galliam semel visitavit. Habuit novem concilia, Rhemis, Mogúntiae, Vercellis, Papiæ, Romæ, ad restaurandos Christianórum raores. Multas litteras ad imperatores, reges, patriárchas, episcopos, zelo ac pietate flagrantes scripsit. Legatos ad imperatoremConstantinopolitanum, pro reductione Græcorum, semel atque iterum misit; Berengarium haereticum semel iterúmque damnavit, et Michaelem Cerularium patriarcham, insignem schismáticum, anathémate pérculit.
+
+[Lectio6]
+Dum Romæ ageret, ter in hebdomada a sacrosancta ecclesia Lateranensi ad Vaticanam, nudis pedibus, noctu, orans et psallens pergebat. Principi Apostolorum decimam oblationum partem sibi de more competentem, pontificio diplomate cessit. Patrimonium suum proprium in erectionem monasterii impóndit: unde etiam quotannis pecúnia submitteretur in sumptus rosae aúreæ, quam Romani Pontifices antiquo et solemni ritu benedicunt. In paúperes et peregrinos effúsam liberalitatem exercuit. Sub leprosi forma et habitu Christum aliquando proprio lecto excepit. Denique multis pro Ecclesia laboribus exantlatis, obiit die decima nona Aprilis, anno millesimo quinquagesimo quarto, ante et post mortemmultis miraculis clarus, ac sepúltus est in Vaticano. 

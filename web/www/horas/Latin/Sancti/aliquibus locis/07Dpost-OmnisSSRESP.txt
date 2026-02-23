@@ -1,0 +1,98 @@
+[Officium]
+Commemoratio Omnium Ss. Romanæ Ecclesiæ Summorum Pontificum
+
+[Rank]
+;;Duplex;;3;;ex C1
+
+[Rule]
+9 lectiones
+Psalmi Dominica
+Antiphonas horas
+Psalm5 Vespera=116
+Psalm5 Vespera3=138
+
+[Ant Vespera]
+Sancti tui * Dómine florebunt sicut lilium, et sicut odor balsami erunt ante te.
+In cœléstibus regnis * sanctórum habitátio est, et in ætérnum réquies eórum.
+Cópora sanctórum * in pace sepúlta sunt, et nómina eórum vivent in ætérnum.
+Spíritus et ánimæ justórum * hymnum dícite Deo nostro, allelúja.
+Fulgébunt justi * sicut sol in conspéctu Dei.
+
+[Hymnus Vespera]
+Rex gloriose Praesulum,
+Corona confitentium,
+Qui respuentes terrea
+Perdiicis ad coelestia.
+_
+Aurem benignam protinus
+Appone nostris vocibus:
+Trophaea sacra pangimus:
+Ignosce quod deliquimus.
+_
+Tu vincis in Martyribus,
+Parcendo Confessoribus:
+Tu vince nostra crimina,
+Donando indulgentiam.
+_
+Deo Patri sit gloria,
+Ejiisque soli Filio,
+Cum Spiritu Paraclito,
+Et nunc, et in perpetuum.
+Amen.
+
+[Versum 1]
+V. Exáltent eos in ecclésia plebis.
+R. Et in cáthedra seniórum laudent eos.
+
+[Ant 1]
+Sacerdótes Dei benedícite Dóminum, servi Dómini hymnum dícite Deo, allelúja.
+
+[Oratio]
+Deus, qui pópulis tuis indulgéntia cónsulis et amóre domináris: da spíritum sapiéntiæ suffragántibus méritis Antístitum Ecclésiæ tuæ, quibus dedísti régimen disciplínæ; ut de proféctu sanctárum óvium fiant gaúdia ætérna pastórum.
+$Per Dominum
+
+[Invit]
+Christum Príncipem Pastórum * Veníte adorémus.
+
+[Hymnus Matutinum]
+Æterna Chrristi múnera,
+Et gloriam Pontificum
+Laudes canentes debitas,
+Laetis canamus mentibus.
+_
+Ecclesiárum Príncipes,
+Belli triumpháles duces,
+Cæléstis aulæ mílites,
+Et vera mundi lúmina.
+_
+Devóta Sanctórum fides,
+Invícta spes credéntium,
+Perfécta Christi cáritas
+Mundi triúmphat principem.
+_
+In his Paterna gloria,
+In his voliintas Spiritus,
+Exsúltat in his Filius,
+Cœlum repletur gaúdio.
+_
+Te nunc Redemptor qusesumus,
+Ut ipsorum consortio
+Jungas precantes servulos,
+In sempiterna sæcula. 
+Amen.
+
+[Lectio1]
+De libro Ecclesiástici
+!Eccl. 44:
+
+
+[Ant Laudes]
+@:Ant Vespera
+
+[Capitulum Laudes]
+!Hebr 13:
+Fratres: Mementóte præpositórum vestrórum, qui vobis locúti sunt verbum Dei: quorum intuéntes éxitum conversatiónis, imitámini fidem.
+$Deo gratias
+
+[Hymnus Laudes]
+@:Hymnus Vespera

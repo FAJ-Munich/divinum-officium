@@ -1,0 +1,9 @@
+[Officium]
+Ss. Lanceæ et Clavorum Domini Nostri Jesu Christi
+
+[Rank]
+;;Duplex majus;;4;;
+
+[Rule]
+9 lectiones
+Antiphonas horas
