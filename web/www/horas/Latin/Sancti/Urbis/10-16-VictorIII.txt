@@ -1,0 +1,120 @@
+[Officium]
+B. Victoris III Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;
+9 lectiones
+
+[Name]
+Victórem
+
+[Oratio]
+Deus, qui per beátum Victórem Confessórem tuum atque Pontíficem in summa Ecclésiae dignitáte declinánda eaque tuénda, præclárum humilitátis et fortitúdinis exémplum dedísti: concéde nobis, ejus méritis et imitatióne; hóstium ómnium insídias invícto ánimo superáre. 
+$Per Dominum
+
+[Lectio4]
+jictor Papa tertius, Deside-
+A\V7/.
+rius anteadictus, Beneventi
+principefamilianatus, apri-
+mis annis eximia pietate morum-
+que innocentia praefulsit. Vix ex-
+acta adolescentia terrenas niiptias
+aversatus, quas ei parentes statii-
+erant, sponsam clam deserens,
+eremum petiit. Matre vero et con-
+sanguineis id aegre ferentibus, ne
+a sancto proposito dimoveretur,
+monachi vitam amplexus. varias
+successive sedes mutavit. Cavense
+scilicet monasteriuminc61uit, post-
+ea ad ccen6bium insulae Tremitis
+divertit, et apud eremitas montis
+Maj611ae aliquando delituit. Dein cum ex gravi morbo convaluisset,
+Cassinum montem ascendit, ubi
+propter singulares virtiites a mo-
+nachis Abbas designatus, et a Ste-
+phano nono confirmatus est. Ejiis-
+dem Pontificis nutu Constantino-
+polim Legatus mittitur pro resti-
+tuenda Ecclesiae Graecae cumApo-
+stolica Sede communione.
+
+[Lectio5]
+Stephano defiincto ad Cassinen-
+se ccen6bium reversus, brevi a
+Nicolao seciindo sanctae Romanae
+Ecclesiae Cardinalis renuntiatus
+fuit, simiilque Cassinensis Abbas
+benedictus. IdemPontifex ejiisque
+success6res eum ad praecipua ac
+difficillima Ecclesiae negotia per-
+tractanda destinarunt, quin a mo-
+nachorum regimine distraheretur;
+nam non solum eorum aucto nii-
+mero sanctae regulae observantiam
+promovit, sed ccenobium fere ex
+integro restituit. Basilicam insu-
+per sancti patris Benedicti cor-
+pore claram, adeo splendide a
+fundamentis excitavit, pretiosis-
+quelapidibusaborientalibus etiam
+oris advectis, operibus musivis, ac
+sacra supellectili mira arte magno-
+que sumptu elaborata ditavit, ut
+praeclarum munificentiae ejus in-
+geniiqueexstetmonumentum.Hanc
+basilicam Alexander seciindus in
+signum suae erga Desiderium be-
+nevolentiae, consecravit, adstanti-
+bus quampliirimis Episcopis, et
+Cardinalibus, inter quos digni sunt
+memdria sanctus Petrus Damia-
+nus et Hildebrandus, qui postea
+Gregorii septimi asstimpto nomine
+eidem Alexandro successit.
+
+[Lectio6]
+Cum ipse sanctus Gregorius
+morti proximus eumtamquam
+dignissimum qui sibi in Apost61i-
+ca Sede succederet designasset,
+communi suffragio Desiderius P6n-
+tifex eligitur. At hujus humilitas
+tunc maxime enituit, qui per an-
+num fere integrum tantam dignita-
+tem declinavit. Enixis dein prae-
+sulum, principum, ac populi pre-
+cibus indtictus, in Capuana synodo
+Victoris nomen et summi pontifi-
+catus insignia accepit. Romamde-
+diictus, solemni ritu consecratur,
+ejectis inde pseudopontifice Gui-
+berto ejtisque factionis hominibus.
+Exercitum sub vexillo sancti Pe-
+tri ex tota fere Italia collectum
+contraSaracenostransmisit in Afri-
+cam, ubi commisso prselio, illorum
+acies penitus profligavit. Bene-
+venti coacta synodo, schismaticos
+anathemate perculit, ac investitii-
+ras, quse in electionibus libertatem
+Ecclesiae opprimebant, omnino
+proscripsit; pltiraque alia ad ec-
+clesiasticam disciplinam pertinen-
+tia decrevit. Peracta synodo, le-
+thali morbo correptus, Cassinum
+a Cardinalibus et Episcopis comi-
+tatus deferri voluit, ubi laboribus
+aerumnisque pro concilianda Ec-
+clesiae paceconfectus, animam Deo
+reddidit sanctitate et miraculis il-
+ltistris, anno millesimo octogesi-
+mo septimo. Sedit a suae conse-
+crationis die menses quatuor et
+dies septem; ejtisque corpus in
+basilica Cassinensi summa vene-
+ratione colitur.

@@ -1,0 +1,69 @@
+[Officium]
+S. Deusdedit Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;mtv
+9 lectiones
+
+[Name]
+Deúsdedit
+
+[Lectio4]
+Bonifacio hujus nominis quarto
+e vivis sublato, postquam Se-
+desapostolicamensibusquin-
+que et duodecim diebus vacasset,
+beatus Deiisdedit egregiis virtiiti-
+bus et eximia sanctitate conspi-
+cuus, nati6ne Romanus, patre Ste-
+phano, unanimi omnium consensione, ex subdiacono Romanus
+Pontifex creatus est. Ut autem
+subdiaconus Pontifex crearetur,
+tunc primum accidit absque ma-
+jorum exemplo; sed ut, aliis prae-
+termissis, Deiisdedit eligeretur, in-
+signis ejiisdem sanctimonia prae-
+stitit, qua mirifice inter tot tene-
+bras illustratus emicuit.
+
+
+[Lectio5]
+Hic a domo Dei regiminis ini-
+tium fecit. Cleri enim maxi-
+mam curam gessit, quem cum im-
+minutum et valde distractum in-
+venisset, eiimdem plurimum auxit,
+in pristinas sedes restituit, et mul-
+tis beneficiis cumulavit. Sedplane
+dolendum est, tanti Pontificis fa-
+cta, scriptorum inopia, aut certe
+temporis injiiria, obsciira mansis-
+se: quae quidem insignia fuisse
+oportuit, cum eum antiquitus Ec-
+clesia inter sanctos receperit, et
+annua commemoratione ut san-
+ctum fiierit venerata.
+
+[Lectio6]
+Illud tamen unum ac singulare
+non excidit. Cum enim ob ter-
+raemotus vehementissimos, ele-
+phantiae lues orta esset, dum affii-
+ctae Urbi sanctissimus Pontifex
+prospiceret, praesensque raro ex-
+emplo aegros inviseret, unum ex
+illis, in quo Christum contempla-
+tus est, benigne complexus et os-
+culatus, divino miraculo eumdem
+a lepra mundavit, ut vetera Eccle-
+siae monumenta testantur. Episto-
+lae ab eo scriptae fragmentum ex-
+stat, in quo luculentum de spiri-
+tuali cognatione decretum conti-
+netur. Ubi demum tres annos se-
+disset, ex hac vita discessit, anno
+Christi sexcentesimo decimo sé-
+ptimo, et sepultus est in Vaticano.

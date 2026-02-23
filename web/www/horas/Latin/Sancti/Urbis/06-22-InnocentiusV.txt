@@ -1,0 +1,25 @@
+[Officium]
+B. Innocentius V Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b
+9 lectiones
+
+[Name]
+Innocéntium
+
+[Oratio]
+Deus, qui beátum Innocéntium Confessórem atque Pontíficem, sciéntiæ ac prudéntiæ donis decorátum, pacis et unitátis conciliatórem effecísti; ejus intercessióne nobis concéde cœléstia sápere, et ómnia bona concórdi stúdio sectári.
+$Per Dominum
+
+[Lectio4]
+Inocentius, antea Petrus de Tarentasia dictus, anno supra millesimum circiter biscentesimo vigesimo quinto natus est. Dives aeque ac nobilis et elegantioris formae a tenera aetate in Ordine praedicatorum se suaque omnia Deo mancipavit. Per annos ferme triginta in coenobio Parisiensi religiosis moribus sacrisque litteris apprime excultus, sapientiae ac sanctitatis culmen ascendit. Ad theologicas disciplinas in Academia Parisiensi tradendas, et ad regimen Provinciae sui Ordinis semel et iterum vocatus egregius fuit sacrae scientiae Magister, et praelatus inter fratres acceptissimus. Uberrimo animarum fructu populos Galliae verbi Dei praedicatione informavit, sibique haud exiguam dicendi laudem promeruit. 
+
+[Lectio5]
+A beato Gregorio Decimo Pontifice maximo Ecclesiae Lugdunensi regendae praepositus, cleri populique graves ac diuturnas contentiones brevi ac feliciter sedavit. In Senatum Purpuratorum Patrum adscitus ŒEcumenicae Synodo Lugduni celebrandae sollicite omnia disposuit : tum in ipsa Synodo jussu Pontificis una cum sancto Bona ventura majoris momenti negotia moderatus est. Ejus praesertim opera Graecorum conjunctio cum Latinis probata est : quaerelae cleri saecularis contra regularem sublatae, et Conclavis statuta ad futuras Romanorum Pontificum electiones sancita.
+
+[Lectio6]
+Aretii beato Gregorio Decimo vita functo, cunctis Cardinalium suffragiis ad Petri Cathedram evectus est. Magnanimi decessoris consilia prosecutus, impigre studuit ut Orientales a jugo infidelium liberaret : Carolum Siciliae regem cum Italicis civitatibus amice composuit : Rodulphum imperatorem Ecclesiae Romanae ditioni ab Alpibus minitantem propulsavit : contra Saracenos , Hispaniam invadentes, celeritate magna exercitum cruce signatorum instruxit : normas dedit, quibus religiosa Graecorum cum Latinis reconciliatio perficeretur, a successoribus sedulo retentas. Haec tanta operatus brevi quinque mensium decursu, dum majora adhuc ab eo sperabat Ecclesia, febri Romae correptus anno aetatis suae quinquagesimo primo ad Superos piissime evolavit. Multis in vita et post mortem miraculis claruit. Quamobrem statim ab exitu cultus ecclesiasticus beato Pontifici praestitus fuit : quem nunquam intermissum , ex Sacrorum Rituum Congregationis consulto, Leo Papa Decimus tertius confirmavit.

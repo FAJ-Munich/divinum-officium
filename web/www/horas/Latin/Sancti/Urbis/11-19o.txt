@@ -1,0 +1,53 @@
+@Sancti/11-19o
+
+[Rank]
+;;Duplex;;3;;vide C2b
+
+[Rule]
+vide C2b;
+9 lectiones
+In 3 Nocturno Lectiones ex Commune in 3 loco
+
+[Lectio4]
+@Sancti/11-19o
+
+[Lectio5]
+Sermo sancti Augustíni Epíscopi
+!De S. Cypriano, serm. 12
+Sermonem éxigit tam grata et religiósa solémnitas, qua passiónem beati Martyris Pontiani
+celebramus. Tristis procul dubio
+tunc Eccl6sia fuit, non damno ca-
+dentis, sed desiderio recedentis,
+semper ciipiens videre praesentem
+tam bonum rectdrem atque docto-
+rem. Sed quos afflixerat sollicitii-
+do certaminis, consolata est coro-
+na victoris. Et nunc non solum sine ulla tristitia, verum etiam
+cum ingenti laetitia, cuncta quæ
+tunc gestasunt, legendo recolimus:
+dieque isto gaudere nobis conces-
+sum est, non timere. Neque enim
+formidamus terribiliter venientem,
+sed exspectamus hiláriter redeúntem.
+
+[Lectio6]
+Vicina corporis morte, non mo-
+riebatur in animo pastoris vi-
+gilantia pastoralis: et cura tuendi
+Dominici gregis usque ad extre-
+mumvitae hujus diemmente sobria
+tenebatur. Nec excutiebat ab ani-
+mo diligentiam fidelissimi dispen-
+satoris manusjam prtfxima cruenti
+carnificis. Ita se Martyrem cogi-
+tabat futurum, ut esse non oblivi-
+scerdtur episcopum; magis curans,
+quam rationem pastorum principi
+de commissis sibi ovibus redderet,
+quam quid infideli proconsuli de
+fide pr6pria responderet. Amabat
+quippe eum qui Petro dixerat:
+Amas me? pasce oves meas. Et
+pascebat oves ejus pro quibus
+sanguinem fundere, illum imitans,
+praeparabat.

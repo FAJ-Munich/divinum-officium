@@ -1,0 +1,252 @@
+[Officium]
+Puritatis Beatæ Mariæ Virginis
+
+[Rank]
+;;Duplex majus;;4;;ex C11
+
+[Rule]
+ex C11;
+9 lectiones
+Psalmi Dominica
+Antiphonas horas
+Doxology=Nat
+
+[Ant Vespera]
+Sicut lílium * inter spinas, sic amíca mea inter fílias.;;109
+Diléctus meus mihi, * et ego illi, qui páscitur inter lília.;;112
+Quam pulchra es, * amica mea, quam pulchra es!;;121
+Una est * colúmba mea, perfécta mea.;;126
+Vidérunt eam * fíliæ Sion, et beatíssimam pr‘dicavérunt..;;147
+
+[Hymnus Vespera]
+@Sancti/12-08:Hymnus Matutinum
+
+[Versum 1]
+V. Cum jucunditáte virgintátem beátæ Maríæ semper Vírginis celebrémus.
+R. Ut ipsa pro nobis intercédat ad Dóminum Jesum Christum.
+
+[Ant 1]
+Nihil inquinátum in eam incúrrit: candor est lucis ætérnæ, et spéculum sine mácula.
+
+[Oratio]
+Da, quæsumus, omnípotens ætérne Deus: ut puríssimæ Vírginis Maríæ integérrimam Virginitátem festíva celebritáte venerántes; ejus intercessióne, puritátem mentis et córporis consequámur.
+$Per Dominum
+
+[Invit]
+Virginitátem Deíparæ celebrémus: * Christum ejus Fílium adorémus Dóminum.
+
+[Hymnus Matutinum]
+v. O stella Jacob fúlgida,
+O solis instar spléndida
+Auróra, qui nil púrius
+Refúlget inter sídera.
+_
+Stolis amictae candidis,
+Tibi catervae cdelitum
+Plaudunt, sacraeque virgines
+Laudes perennes cdncinunt.
+_
+Quin obsequentes offerunt
+Ligiistra et alba lilia;
+Candor sed horum vincitur
+Candore casti pectoris.
+_
+Nostra Angelorum laúdibus
+Abjecta tellus assonans
+Ad astra voces efferat,
+Et Virginis praeconia.
+_
+Jesu, tibi sit glória,
+Qui natus es de Vírgine,
+Cum Patre, et almo Spíritu,
+In sempitérna sǽcula.
+Amen.
+
+[Nocturn 1 Versum]
+V. Venérunt mihi ómnia bona páriter cum illa.
+R. Et innumerábilis honéstas per manus illíus.
+
+[Nocturn 2 Versum]
+@Sancti/10-07
+
+[Nocturn 3 Versum]
+V. Invenísti grátiam apud Deum.
+R. Sancta Dei Génitrix, Virgo immaculáta.
+
+[Lectio1]
+@Sancti/07-02::s/-7/-10/ 
+@Sancti/07-02:Lectio2:2-4
+
+[Responsory1]
+R. Dilectus meus mihi, et ego illi, qui pascitur inter lilia:
+* Pulchra es amica mea, suavis et decora sicut Jeriisalem, terribilis ut castrorum acies ordinata. 
+V. Una est colúmba mea, perfecta mea. Viderunt eam filiae Sion, et beatissimam praedicaverunt.
+R. Pulchra es amica mea, suavis et decora sicut Jeriisalem, terribilis ut castrorum acies ordinata. 
+
+[Lectio2]
+@Sancti/08-18bmv:Lectio1:s/-4/-7/
+5 Duo úbera tua sicut duo hínnuli, cápreæ gemélli, qui pascúntur in líliis.
+6 Donec aspíret dies, et inclinéntur umbræ, vadam ad montem myrrhæ, et ad collem thuris.
+7 Tota pulchra es amíca mea, et mácula non est in te.
+
+[Responsory2]
+R. Surge, própera amíca mea, colúmba mea, formosa mea, et veni: 
+* Jam hiems transiit, imber abiit et recessit: fiores apparuerunt in terra nostra. 
+V. Surgam, et circuibo civitatem: per vicos et plateas quaeram quem diligit anima mea.
+R. Jam hiems transiit, imber abiit et recessit: fiores apparuerunt in terra nostra. 
+
+[Lectio3]
+@Sancti/08-18bmv:Lectio2:s/7-10/8-12/
+11 Favus distíllans lábia tua sponsa: mel et lac sub lingua tua: et odor vestimentórum tuórum sicut odor thuris.
+12 Hortus conclúsus soror mea sponsa, hortus conclúsus, fons signátus.
+
+[Responsory3]
+R. Adjúro vos filiae Jerúsalem, si inveneritis dilectum meum, ut nuntietis ei quia amóre langueo.
+* Qualis est dilectus tuus, o pulcherrima mulierum? 
+V. Dilectus meus candidus et rubiciindus, electus ex millibus. Talis est dilectus meus: ipse est amicus meus filiae Jerúsalem. 
+R. Qualis est dilectus tuus, o pulcherrima mulierum? 
+&Gloria
+R. Qualis est dilectus tuus, o pulcherrima mulierum? 
+
+[Lectio4]
+@Sancti/12-08o
+
+[Responsory4]
+R. Beatissima Virgo Maria, hortus conclúsus, fons signatus, Regina Angelorum, Domina mundi,
+* Per quam Deus descendit in terras, ut homines ascendere mererentur ad coelos. 
+V. Ad te clamamus exsules filii Hevae: recordare nostri sanctissima Virgo.
+R. Per quam Deus descendit in terras, ut homines ascendere mererentur ad coelos. 
+
+[Lectio5]
+@Sancti/12-08o
+
+[Responsory5]
+R. Beata Maria tantse exstitit puritatis, ut Mater Domini esse mereretur. 
+* Deus quam elegerat creavit: de qua crearetur elegit. 
+V. Ipsa est stella ex Jacob, cujus radius universum orbem illúminat.
+R. Deus quam elegerat creavit: de qua crearetur elegit.
+
+[Lectio6]
+Ex sancto Petro Chrysólogo
+!Serm. 143.
+Hæc dedit coelis gloriam, terris Deum, fidem Gentibus, finem vitiis, vitae ordinem, moribus disciplinam. Gratiam, quam detulit Angelus, accepit Virgo, salútem sasculis redditúra. Vere benedicta Virgo, quae et virginitatis possidet decus, et matris dignitatem: vere benedicta, quae et superni conceptus meruit gratiam, et servavit integritatis coronam. Vere
+benedicta, quaa et divini germinis suscepit gloriam, et regina exstitit totius castitatis.
+
+[Responsory6]
+R. Quomodo fiet istud, quoniam virum non cognosco? Spiritus sanctus superveniet in te,
+† Et virtus Altissimi obumbrabit tibi: ideóque
+* Quod nascetur ex te Sanctum, vocabitur Filius Dei. 
+V. Dixit autem Maria: Ecce ancilla Domini, fiat mihi secúndum verbum tuum.
+R. Et virtus Altissimi obumbrabit tibi: ideóque
+&Gloria
+R. Quod nascetur ex te Sanctum, vocabitur Filius Dei. 
+
+[Lectio7]
+Léctio sancti Evangélii secúndum Lucam
+!Luc 1:26-38
+In illo témpore: Missus est Angelus Gabriel a Deo in civitátem Galilææ, cui nomen Nazareth, ad Vírginem desponsatam viro. Et réliqua.
+_
+Homilía sancti Bernárdi Abbátis
+!Homil. 2 super Missus est
+Novum canticum illud, quod
+solis dabitur in regno Dei
+cantare virginibus, ipsam
+virginum Reginam, imo primam
+inter ceteras esse cantatiiram, ne-
+mo est qui ambigat. Puto autem
+illam, praeter illud quod solis licet,
+cum omnibus tamen virginibus ei,
+ut dixi, comrmine erit, dulciori
+quodam atque elegantiori carmine
+lastificatiiram esse civitatem Dei.
+Hujus itaque dulcisonos depro-
+mere vel exprimere modulos ne
+ipsarum quidem virginum ulla
+digna invenietur, quia merito de-
+cantandum servabitur illi, quae
+sola de partu, et partu divino gloriatur. Gloriatur, dixi, de partu,
+non in se, sed in ipso quem pepe-
+rit. Deus siquidem, (Deus enim est,
+quem peperit) Matrem suam sin-
+gulari in coelestibus donatiirus glo-
+ria, singulari in terris praevenire
+curavit et gratia, qua videlicet in-
+effabiliter et intacta conciperet, et
+pareret incorrúpta.
+
+[Responsory7]
+R. Egredietur virga de radice Jesse, et flos de radice ejus ascendet: 
+* Ecce Virgo concipiet, et pariet Filium, et vocabitur nomen ejus Emmanuel. 
+V. Joseph fili David, noli timere accipere Mariam conjugem tuam: quod enim in ea natum est, de Spiritu sancto est.
+R. Ecce Virgo concipiet, et pariet Filium, et vocabitur nomen ejus Emmanuel. 
+
+[Lectio8 ferialis]
+Deum hujusmodi decebat nativitas, qua nonnisi de Virgine na-
+scer6tur. Talis congruebat et Vir-
+gini partus, ut non pareret, nisi
+Deum. Proinde factor hominum,
+ut homo fieret, nascitiirus de ho-
+mine, talem sibi ex omnibus de-
+buit deligere, imo condere ma-
+trem, qualem et se decere sci6bat,
+et sibi noverat placitiiram. Vdluit
+itaque esse Virginem, de qua im-
+maculata immaculatus procederet,
+6mnium maculas purgaturus. V6-
+luit et humilem, de qua mitis et
+humilis corde prodiret, harum in
+se virtiitum necessarium omnibus,
+saluberrimiimqueexemplumosten-
+siirus. Dedit Virgini partum, qui
+ei jam ante et virginitatis inspira-
+verat votum, et humilitatis praero-
+gaverat meritum. Ut igitur, quse
+Sanctum sanctorum conceptiira
+erat pariter et parittira, sancta esset corpore, accepit donum virgi-
+nitatis; ut esset et mente, accepit
+donum humilitatis.
+
+[Lectio8]
+@:Lectio8 ferialis
+(sed feria 1 dicuntur)
+@:Lectio8 ferialis:s/$/~/
+@:Lectio9
+
+[Responsory8]
+R. Beata Dei Genitrix Maria, templum Domini, sacrarium Spiritus sancti,
+* Sola sine exemplo placuisti Domino nostro Jesu Christo. 
+V. Genuisti qui te fecit, et in aeternum permanes Virgo.
+R. Sola sine exemplo placuisti Domino nostro Jesu Christo. 
+&Gloria
+R. Sola sine exemplo placuisti Domino nostro Jesu Christo. 
+
+[Lectio9]
+O admirabilem et omni honore dignissimam
+Virginem! O feminam singulariter
+venerandam, super omnes feminas
+admirabilem, parentum reparatri-
+cem, posterorum vivificatricem!
+Missus est Angelus ad Virginem,
+Virginem carne
+, Virginem mente,
+Virginem professidne, Virginem
+denique, qualem describit Aposto-
+lus, mente et corpore sanctam, nec
+ntfviter, nec forttiito inventam, sed
+a sseculo electam, ab Altissimo
+praecognitam, et sioi praeparatam,
+ab Angelis servatam, a Patribus
+praefiguratam, a Prophetis pro-
+missam.
+
+[Ant Laudes]
+@:Ant Vespera:s/;;.*//gm
+
+[Capitulum Laudes]
+@Commune/C6a:Capitulum Nona
+
+[Ant 2]
+Sancta et immaculata Mariae Virginitas, quibus te latidibus efferam nescio: quia per te Redemptorem nostrum suscepimus Dominumnostrum Jesum Christum.
+
+[Ant 3]
+Beata Dei Genitrix Maria, Virgo perpetua, sacrarium Spiritus sancti, sola sine exemplo placuisti Domino nostro Jesu Christo.

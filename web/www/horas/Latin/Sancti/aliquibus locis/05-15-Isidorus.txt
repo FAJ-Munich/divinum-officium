@@ -1,0 +1,28 @@
+[Officium]
+S. Isidori Agricolæ Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C5
+
+[Rule]
+vide C5;mtv
+9 lectiones
+
+[Name]
+Isidóro
+
+[Oratio]
+Da nobis, quæsumus misericors Deus: beáto Isidóro Agricola, Confessore tuo intercedente, superbe non sapere; sed ejus meritis et exemplis placita tibi semper humilitate deservire. 
+$Per Dominum
+
+[Lectio4]
+
+[Lectio5]
+
+[Lectio6]
+
+[Lectio7]
+
+[Lectio8]
+
+[Lectio9]

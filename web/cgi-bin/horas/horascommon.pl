@@ -592,7 +592,7 @@ sub occurrence {
       my %scrip = %{officestring('Latin', $tname)};
 
       if (
-           !(exists($saint{"Lectio1"}) && ($saint{Rule} !~ /Lectio1 Quad/i || $dayname[0] =~ /Quad(\d|p3\-[3456])/i))
+           !(exists($saint{"Lectio1"}) && ($saint{Rule} !~ /Lectio1 Quad/i || $tname =~ /Quad(\d|p3\-[3456])/i))
         && exists($scrip{Lectio1})
         && $scrip{Lectio1} !~ /evangelii/i
         && ( $saint{Rank} !~ /\;\;ex /
@@ -610,7 +610,7 @@ sub occurrence {
           %tscrip = %{officestring('Latin', $tsfile)};
           $tsrank = $tscrip{Rank} || $tscrip{Scriptura};
           $tsrank =~ s/\s*;;.*|\s*$//s;
-          $officename[2] = "Tempora: $trank[0] (Scriptura ut in: $tsrank)";
+          $officename[2] = "Tempora: $trank[0] (Scriptura ut in: $tsrank)" if $tsfile !~ $tfile && $tsrank;
         } elsif ($version !~ /monastic/i || $tname !~ /(?:Pasc|Pent)/ || $month > 10) {
           $officename[2] = "Tempora: $trank[0]";
         } else {

@@ -1,0 +1,83 @@
+[Officium]
+S. Paschalis I Papæ et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
+[Rule]
+vide C4b;
+9 lectiones
+
+[Name]
+Paschális
+(sed communi Summorum Pontificum)
+Paschálem
+
+[Lectio4]
+Paschalis hujus nominis primus,
+biduo post Stéphani quinti
+obitum vix exacto, commu-
+nibus cleri suifragiis, ad supremum
+Sedis apostó1icae apicem, invitus
+licet et valde relúctans, anno Dó-
+mini nostri Jesu Christi octingen-
+tesimo decimo septimo promotus
+est. Vir sane omnigena doctrina,
+sacra praesertim instructissimus,
+vitae sanctimonia insignis, dicendi
+facultate clarissimus, singulari de-
+nique pietate in Deum et caritate
+in proximum, ut exteriora bona
+hilari semper animo pauperibus
+erogabat, ita interioris animi opes,
+vigiliis, orationibus et jejuniis va-
+cans, accumulabat.
+
+[Lectio5]
+A pueritia in Lateranensis eccle-
+sise patriarchio, sub oculis
+Pontificum, educatus, ita in omni
+virtútum genere, litteris et disci-
+plina ecclesiastica profecit, ut pri-
+mum sacris ordinibus initiatus,
+mox ejus virtute perspecta, a Leo-
+ne tertio monasterio sancti Ste-
+phani praefectus fúerit; in quo et
+súbditis sibi monachis exemplo
+fuit, et peregrinos ad limina Apo-
+stolorum turmatim accedentes ita
+excepit, ut omnibus necessaria
+suppeditaret, iisque, Christum imi-
+tatus, abjecta etiam exhiberet mi-
+nistória; quibus pietatis et carita-
+tis officiis dignissimus omniumha-
+bitus est, qui Dominico gregi et
+toti Ecclesiae praeesset.
+
+[Lectio6]
+Nihil porro in eo desideratum
+est, quod ad perfectam regi-
+minis ApostoHci sollicitúdinem
+pertineret; ecclesiae Occidentalis
+disciphnam, quce sub eo maxime
+floruit, intactam servavit; Orien-
+talem vero, ab imperatore et pa-
+triarcha iconomachis agitatam,
+litteris et legatione recreavit, et
+Graecis Romam confugientibus,
+monasterium sanctaePraxedis, am-
+plissimis reditibus a se instrúctum
+benigne concessit. Multa etiam
+corpora sanctórum ex coemeteriis,
+Pauli primi exemplo, ac praeser-
+tim sanctae Caeciliae, ipsa mon-
+str^nte et revelante, in Urbem in-
+tulit. Nova templa excitavit, re-
+stauravit, et mirifice ornavit anti-
+qua. Xenodochia, et sacrdrum vir-
+ginum coenobia, novo censu recre-
+avit. Exstincti demum incendii
+miraculo clarissimus, migravit ad
+Dominum octavo sui pontificdtus
+anno, et in Vaticana basilica con-
+ditus est.
