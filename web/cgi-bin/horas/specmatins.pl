@@ -98,14 +98,14 @@ sub invitatorium {
   if (my @a = do_read($fname)) {
     $_ = join("\n", @a);
 
-    if ($rule =~ /Invit2/i || !$dayofweek && $version =~ /praedicatorum/i) {
+    if ($rule =~ /Invit2/i || !$dayofweek && $version =~ /praedicatorum/i && $rule !~ /Invit5/) {
 
       # old Invitatorium2 = Quadp[123]-0
       # and pradicatorum at Sundays
       s/ \*.*?(\(\:\:\)\})?$/ \1/m;
     } elsif ($dayname[0] =~ /Quad[56]/i
       && $winner =~ /tempora/i
-      && $rule !~ /Gloria responsory/i
+      && $rule !~ /Gloria responsory|Invit6/i
       && $version !~ /Praedicatorum/)
     {
 
@@ -125,9 +125,18 @@ sub invitatorium {
       # Invitatorium5 for Cist. Pre-Lent,
       # removing the [Invit] verse
       s/^(v\.|\{\([cf][1-4]b?\))\s*.* \= (.)/\1 \u\2/m;
+    } elsif ($rule =~ /Invit6/i) {
+
+      # Invitatorium for Cist. Palm Sunday,
+      # removing the [Invit] verse + repeating the specified verse
+      # instead of the entire Invit. twice in a row
+      s/&Gloria/\&Gloria2/;
+      s/\$ant\s*(?=\&)//s;
+      s/\$ant2\s*(?=\$)//s;
+      s/_(.*)(.) _ .*/$1.\nAnt. $1/m;
     }
 
-    s{[+*^=] }{}g;    # clean division marks
+    s{[+*^=_] }{}g;    # clean division marks
 
     s/\$ant2/$ant2/eg;
     s/\$ant/$ant/eg;
@@ -608,7 +617,7 @@ sub matins_lectio_responsory_alleluia(\$$) {
 
   my @resp = split("\n", $$r);
   ensure_single_alleluia(\$resp[1], $lang);
-  ensure_single_alleluia(\$resp[3], $lang);
+  ensure_single_alleluia(\$resp[3], $lang) if !($version =~ /cist/i && $resp[4] =~ /\&Gloria/i);
   ensure_single_alleluia(\$resp[-1], $lang);
   $$r = join("\n", @resp);
 }
@@ -881,10 +890,10 @@ sub lectio : ScriptFunc {
       setbuild2("Lectiones ex 3 fiunt 4") if $num == 1;
     }
 
-    if ($version =~ /Trident/ && $winner =~ /Sancti/ && $rank < 2) {
+    if ($version =~ /Trident/ && $winner =~ /Sancti/) {
 
-      # dirty hack to fix 3932
-      $w{Responsory1} = $w{Responsory2} = '';
+      # dirty hack to fix 3932 and also 5033/5027
+      $w{Responsory1} = $w{Responsory2} = $w{Responsory3} = '';
     }
     if ($w && $num == 1) { setbuild2("Lectio1 ex scriptura"); }
   } elsif (!$w && $num == 4 && exists($commemoratio{"Lectio$num"}) && ($version =~ /1960/i)) {
@@ -927,14 +936,30 @@ sub lectio : ScriptFunc {
   # Combine lessons 8 and 9 if there's a commemoration to be read in place of
   # lesson 9, and if the office of the day requires it. In fact the rubrics
   # always *permit* such a contraction, but we don't support that yet.
-  if ( $version !~ /1960/
+  # Issue 5027 No. 5: Acknowledgement of this contraction for Tridentine version (trial)
+  if ( $version !~ /1960|Cist/i
     && $num == 8
-    && $rule =~ /Contract8/i
-    && (exists($winner{Lectio93}) || exists($commemoratio{Lectio7})))
+    && ($rule =~ /Contract8/i || $version =~ /Trident/i)
+    && !exists($winner{Responsory9})
+    && (exists($winner{Lectio93}) || exists($commemoratio{Lectio7}) || $homilyflag))
   {
-    %w = (columnsel($lang)) ? %winner : %winner2;
-    $w = $w{Lectio8} . $w{Lectio9};
-    setbuild2("ex Lectiones 8 et 9 fit una");
+    if (exists($winner{Lectio8}) && exists($winner{Lectio9})) {
+      my %win = (columnsel($lang)) ? %winner : %winner2;
+      $w = $win{Lectio8};
+      $w .= "\n\$rubrica NonaAdjuncta\n\/:«" unless $rule =~ /Contract8/i;
+      $w .= $win{Lectio9};
+      $w =~ s/\&teDeum\n*//g;
+      $w =~ s/\s+$/»:\//s unless $rule =~ /Contract8/i;
+      setbuild2("ex Lectiones 8 et 9 fit una");
+    } elsif (!exists($winner{Lectio8}) && exists($commune{Lectio8})) {
+      my %com = (columnsel($lang)) ? %commune : %commune2;
+      $w = $com{Lectio8};
+      $w .= "\n\$rubrica NonaAdjuncta\n\/:«" unless $rule =~ /Contract8/i;
+      $w .= $com{Lectio9};
+      $w =~ s/\&teDeum\n*//g;
+      $w =~ s/\s+$/»:\//s unless $rule =~ /Contract8/i;
+      setbuild2("ex Lectiones 8 et 9 fit una");
+    }
   }
   my $wo = $w;
 
@@ -1204,11 +1229,16 @@ sub lectio : ScriptFunc {
       }
     }
     matins_lectio_responsory_alleluia($s, $lang) if alleluia_required($dayname[0], $votive);
-    $s = responsory_gloria($s, $num);
+    $s = responsory_gloria($s, $num, $lang);
     $w =~ s/\s*$/\n\_\n$s/;
   }
 
   $w =~ s/^\_//;
+
+  # In Cistercian books, the asterisks are always red
+  if ($version =~ /Cist/i) {
+    $w =~ s{\*}{<FONT COLOR="RED">*</FONT>}g;
+  }
 
   # add initial to text
   if ($w !~ /^!/m) {
@@ -1375,9 +1405,10 @@ sub responsory_gloria {
   my $w = shift;
   $w =~ s/\&Gloria1?/\&Gloria1/g;
   my $num = shift;
+  my $lang = shift;
 
   return $w
-    if (($num == 1 && $winner =~ /(?:Adv1|Pasc0)-0/i) || $rule =~ /requiem Gloria/i);
+    if (($num == 1 && $winner =~ /(?:Adv1|Pasc0)-0/i && $version !~ /cist/i) || $rule =~ /requiem Gloria/i);
 
   my $rpn = ($rule =~ /12 lectio/) ? 4 : 3;    # readings per nocturn
 
@@ -1401,7 +1432,39 @@ sub responsory_gloria {
 
     } elsif ($w !~ /\&Gloria/i) {
       $w =~ s/[\s_]*$//gs;
-      $w =~ s/(R\..*?)$/$1\n\&Gloria1\n$1/;
+
+      # In Passiontide, Gloria Patri is omitted, and replaced by the first two lines of the R.
+      if ($winner =~ /Quad[56]/ && $version =~ /monastic/i) {
+        $w =~ s/^(R\..*)\n(\* .*)\n(V\..*)\n(R\..*)$/$1\n$2\n$4\n$5\n\&Gloria1\n$1 $2/m;
+        $w =~ s/  / /g;
+
+        # In Cist. version, the format of final Responsory in each Nocturn
+        # is a bit different in Paschaltide:
+      } elsif (alleluia_required($dayname[0], $votive) && $version =~ /cist/i) {
+        my $all = prayer('Alleluia Duplex', $lang);
+        $w =~ s/† //g;
+
+        # only in second...
+        $w =~ s/(\*.*), allel[uú][ij]a(?:, allel[uú][ij]a)/$1/g;
+
+        # and fourth line, every Alleluia. needs to be removed
+        $w =~ s/(V\..*\nR\..*). allel[uú][ij]a(?:, allel[uú][ij]a)/$1/mg;
+        $w =~ s/^(R\..*)\n(\* .*)\n(V\..*)\n(R\..*)$/$1\n$2 \* $all\n$3\n$4\n\&Gloria1\nR. $all/m;
+        $w =~ s/  / /g;
+      } else {
+        $w =~ s/(R\..*?)$/$1\n\&Gloria1\n$1/;
+      }
+
+      # This format needs to be checked also when linking another,
+      # non-Cistercian final Responsory from extra T.P.
+    } elsif (alleluia_required($dayname[0], $votive)
+      && $version =~ /cist/i
+      && $w !~ /R\. Allel[uú][ij]a(?:, allel[uú][ij]a)?/)
+    {
+      my $all = prayer("Alleluia Duplex", $lang);
+      $w =~ s/. \(?allel[uú][ij]a(?:, allel[uú][ij]a)?\.?\)?/./ig;
+      $w =~ s/^(R\..*)\n(\* .*)\n(V\..*)\n(R\..*)\n(.*\n.*)$/$1\n$2 \* $all\n$3\n$4\n\&Gloria1\nR. $all/m;
+      $w =~ s/  / /g;
     }
   } else {
     $w =~ s/.\&Gloria.*//s;

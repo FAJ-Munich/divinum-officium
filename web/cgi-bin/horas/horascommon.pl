@@ -795,7 +795,7 @@ sub concurrence {
 
     # Dies Octavae privilegiatae (post-Divino) and Octavae Festorum Domini, si primaria fuerint et solemniora (pre-Divino)
     # give way at 2nd Vespers to Duplex I. et II. classis only!
-    $rank = $wrank[2] = 4.99;
+    $rank = $wrank[2] = 4.99 unless $version =~ /Cist/i;
   }
 
   if ( $cwrank[0] =~ /Dominica/i
@@ -827,13 +827,23 @@ sub concurrence {
   }
 
   if ($ctrank[0] =~ /(?<!De )Dominica|Trinitatis/i
-    && !($version =~ /19(?:55|6)|altovadensis/i && $ctrank[0] =~ /Dominica Resurrectionis|Dominica/i))
+    && !($version =~ /19(?:55|6)|altovadensis/i && $ctrank[0] =~ /Dominica Resurrectionis/i))
   {
 
     # if tomorrow is a Sunday, get rid of today's tempora completely; necessary Commemorations are handled in the Sunday database file
     if ($sanctoraloffice && $srank[0] !~ /infra octavam Nativitatis$/i) {
       if ($commemoentries[0] =~ /tempora/i) {
         shift @commemoentries;
+
+        if (@commemoentries) {
+          $commemoratio = $commemoentries[0];
+          my %tc = %{setupstring('Latin', $commemoratio)};
+          my @cr = split(";;", $tc{Rank});
+          $comrank = $cr[2];
+        } else {
+          $commemoratio = '';
+          $comrank = 0;
+        }
       }
     } else {
       %winner = {};
@@ -1076,6 +1086,7 @@ sub concurrence {
         && !($cwinner =~ /07-01/ && $trank[0] =~ /Sangu|Cor[dp]/))
       {
         # privilidged Feria, Dominica, or infra 8vam only
+        # except for Saturdays at 1st Vespers of the Sunday
         # no Commemoration of the Octaves of Ssmi Corporis and Ssmi Cordis on Precious Blood #4586
         $dayname[2] .= "<br/>Vespera de sequenti; commemoratio de off. priv. tantum";
       } else {
@@ -2154,11 +2165,8 @@ sub gettempora {
     $tname = 'Pasch';
   }
 
-  if ($caller eq 'Lectio brevis Prima') {
-    $tname = 'Feria'
-      if ($version !~ /196|cist/i && $dayofweek >= 3 && $dayname[0] eq 'Quadp3');
-    $tname = 'Per Annum'
-      unless $tname && $version !~ /cist/i;
+  if ($caller eq 'Lectio brevis Prima' && $version !~ /cist/i) {
+    $tname ||= 'Per Annum';
   }
 
   if ($caller eq 'Hymnus major' && !$tname) {

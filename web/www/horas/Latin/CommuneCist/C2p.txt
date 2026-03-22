@@ -16,6 +16,9 @@ R. Et apud Dóminum est merces eórum, allelúia.
 [Oratio]
 @Commune/C2
 
+[Invit 3L]
+Allelúia, allelúia, * Allelúia.
+
 [Hymnus Matutinum]
 @Commune/C2:Hymnus Vespera
 
@@ -108,6 +111,7 @@ R. Et non tanget illos torméntum mortis, allelúia, allelúia.
 @Commune/C2p:Lectio8:s/Sed cum .*//s
 
 [Lectio11]
+@Commune/C2p:Lectio8:s/.* (?=Sed cum )//s s/$/~/
 @Commune/C2p:Lectio9:s/Secúndum hoc .*//s
 
 [Responsory11]
@@ -121,6 +125,11 @@ R. Lavérunt stolas suas,
 * Et cándidas eas fecérunt in sánguine Agni, Allelúia, allelúia, allelúia.
 V. Isti sunt qui venérunt ex magna tribulatióne, et lavérunt stolas suas:
 R. Et cándidas eas fecérunt in sánguine Agni, Allelúia, allelúia, allelúia.
+
+[MM Capitulum]
+@CommuneCist/C1p:Capitulum Sexta
+_
+@CommuneM/C3::3-4
 
 [Hymnus Laudes]
 @Commune/C2
@@ -148,6 +157,18 @@ R. Allelúia, allelúia.
 
 [Evangelium]
 @Commune/C2p
+
+[Lectio1 in 2 loco]
+@CommuneCist/C2:Lectio1
+
+[Lectio2 in 2 loco]
+@CommuneCist/C2:Lectio2
+
+[Lectio3 in 2 loco]
+@CommuneCist/C2:Lectio3
+
+[Lectio4 in 2 loco]
+@CommuneCist/C2:Lectio4
 
 [Lectio5 in 2 loco]
 @Commune/C2p:Lectio4 in 2 loco
@@ -177,3 +198,18 @@ R. Allelúia, allelúia.
 
 [Evangelium in 2 loco]
 @Commune/C3p:Evangelium
+
+[Lectio9 in 4 loco]
+@CommuneCist/C2:Lectio9 in 4 loco
+
+[Lectio10 in 4 loco]
+@CommuneCist/C2:Lectio10 in 4 loco
+
+[Lectio11 in 4 loco]
+@CommuneCist/C2:Lectio11 in 4 loco
+
+[Lectio12 in 4 loco]
+@CommuneCist/C2:Lectio12 in 4 loco
+
+[Evangelium in 4 loco]
+@CommuneCist/C2:Evangelium in 4 loco

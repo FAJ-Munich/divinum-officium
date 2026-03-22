@@ -168,6 +168,7 @@ sub specials {
       if ( $version =~ /Cist/i
         && $winner{Rank} =~ /Feria|Vigilia|infra oct/i
         && $dayname[0] =~ /Pent|Epi/i
+        && $dayofweek > 0
         && $month > 5
         && $month < 11)
       {
@@ -733,6 +734,8 @@ sub checksuffragium {
 
   if ($commemoratio) {
     my @r = split(';;', $commemoratio{Rank});
+
+    $ranklimit = 7 if $version =~ /^Trident/;
 
     return 0
       if $r[2] >= $ranklimit

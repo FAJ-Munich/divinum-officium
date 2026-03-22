@@ -193,7 +193,7 @@ sub psalmi_matutinum_monastic {
       || ($dayname[1] =~ /in Vigilia (?:Pent|Epi)/i && $version !~ /196/)
 
     )
-    && !($dayname[0] =~ /Pasc0/ && $dayofweek > 2)
+    && !($dayname[0] =~ /Pasc0/ && ($dayofweek > 2 && $version !~ /Cist/i))
   ) {
 
     if (exists($winner{'Ant Matutinum'})) {
@@ -207,7 +207,10 @@ sub psalmi_matutinum_monastic {
 
         if ($i == 0 || $i == 8) {
           $p = "$p[$i]$p";
-        } elsif ($version =~ /Cist/i && ($i == 2 || $i == 4)) {
+        } elsif ($version =~ /Cist/i
+          && $dayname[0] !~ /Pasc/
+          && ($i == 2 || $i == 4))
+        {
 
           # CIST: there are three Ant. for first Nocturn
           if ($i == 4 && ($dayofweek == 1 || $dayofweek == 4)) {
@@ -303,8 +306,8 @@ sub psalmi_matutinum_monastic {
       setbuild2("Lectio unica de Sancto");
     }
     push(@s, "\n");
-  } elsif ($dayname[0] =~ /(Pasc[1-6]|Pent)/i
-    && $winner{Rank} !~ /quat(t?)uor|Dominica/i
+  } elsif ($dayname[0] =~ /(Pasc[0-7]|Pent)/i
+    && $winner{Rank} !~ /quat(t?)uor.*(Adv|Quad)|Dominica/i
     && $rule !~ /(3|12) lectiones/
     && $version =~ /Cist/i
     && ($winner =~ /Tempora/i || $winner{Rank} =~ /Vigil|infra Oct/i))
@@ -473,7 +476,7 @@ sub legend_monastic {
       $resp = "Responsory for ne lesson not found!";
     }
   }
-  $resp = responsory_gloria($resp, 3);
+  $resp = responsory_gloria($resp, 3, $lang);
   matins_lectio_responsory_alleluia($resp, $lang) if alleluia_required($dayname[0], $votive);
   push(@s, $resp);
 }
@@ -507,6 +510,10 @@ sub brevis_monastic {
   }
   $lectio =~ s/&Gloria1?/&Gloria1/;
   $lectio =~ s/&Gloria.*//s if $version =~ /Cist/i;
+
+  # In Cistercian books, the asterisks in R.br. are always red
+  $lectio =~ s{(R\..*)\*}{$1<FONT COLOR="RED">*</FONT>}g if $version =~ /Cist/i;
+
   if ($lectio) { $lectio = "#Lectio brevis\n$lectio" }
   push(@s, $lectio);
 }
@@ -577,7 +584,12 @@ sub lectioE {
   @e = grep { !/^!/ } @e;     # remove rubrics
   $e[0] =~ s/^(v. )?/v. /;    # add initial to text
 
-  join("\n", "v. $begin", join(' ', @e));
+  # In the CIST version, before the Gospel reading, there is a Dominus vobiscum dialog
+  if ($version =~ /Cist/i) {
+    join("\n", Dominus_vobiscum($lang), "\n", "v. $begin", join(' ', @e));
+  } else {
+    join("\n", "v. $begin", join(' ', @e));
+  }
 }
 
 sub lectioE_required {
