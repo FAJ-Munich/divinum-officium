@@ -1731,7 +1731,7 @@ sub precedence {
     }
 
     if ($winner{Rank} =~ /\;\;ex\s/
-      || ($version =~ /Trident/i && $rank =~ /\;\;(ex|vide)/i && $duplex > 1))
+      || ($version =~ /Trident/i && $winner{Rank} =~ /\;\;(ex|vide)/i && $duplex > 1))
     {
       $communerule = $commune{Rule};
     }
@@ -1749,14 +1749,34 @@ sub precedence {
       } elsif ($dayname[0] =~ /(Quadp|Quad)/i && $version !~ /Praedicatorum/) {
         $vtv = 'C12Q';
       }
-    } elsif ($dayname[0] =~ /Pasc/ && $vtv =~ /C[1-3]/) {
-      $vtv .= 'p';
+      $commemoratio = $commemoratio1 = $cwinner = $scriptura = $commune = '';
+      %commemoratio = %commemoratio1 = %cwinner = %scriptura = %commune = {};
+      @commemoentries = @ccommemoentries = ();
+    } else {
+
+      $vtv .= 'p' if ($dayname[0] =~ /Pasc/ && $vtv =~ /C[1-3]/);    # Enable Commune T.P.
+      $vtv =~ s/^V/Votiva\/V/;    # Re-direct the path to the subdirectory for Votive offices
+
+      if ($commemoratio =~ /Tempora/) {
+
+        # Keep the 9th lesson from the Sunday or Feria (typically in Lent)
+        push(@commemoentries, $winner);
+      } else {
+
+        # Put the usual winner of the day as first to be commemorated.
+        unshift(@commemoentries, $winner);
+        $commemoratio = $winner;
+        %commemoratio = %winner;
+      }
     }
     $winner = subdirname('Commune', $version) . "$vtv.txt";
-    $commemoratio = $commemoratio1 = $cwinner = $scriptura = $commune = '';
     %winner = %{setupstring($lang1, $winner)};
-    %commemoratio = %commemoratio1 = %cwinner = %scriptura = %commune = {};
-    @commemoentries = @ccommemoentries = ();
+
+    if ($winner{Rank}) {
+      my @vrank = split(';;', $winner{Rank});
+      $rank = $vrank[2];
+      $duplex = $vrank[1] !~ /duplex/i ? 1 : $vrank[1] =~ /semiduplex/i ? 2 : 3;
+    }
     $rule = $winner{Rule};
 
     if ($vtv =~ /C12/i) {
@@ -1765,7 +1785,7 @@ sub precedence {
       %commune = %{setupstring($lang1, $commune)};
     } else {
 
-      if ($version =~ /^Trident|^Divino/i) {
+      if ($version =~ /^Trident|^Divino/i && $vtv !~ /Votiva/) {
 
         # Make Votive Matutinum fully Sanctoral (Duplex, 3 Nocturns) irrespective of rank of the day
         $rule .= "\n9 lectiones";
