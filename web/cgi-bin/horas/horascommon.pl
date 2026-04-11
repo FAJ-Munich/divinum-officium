@@ -2020,9 +2020,10 @@ sub setChantTone {
 
 sub subdirname {
   my ($subdir, $version) = @_;
+  our @dayname;
   return "${subdir}Cist/" if $version =~ /Cisterciensis/;
   return "${subdir}M/" if $version =~ /^Monastic/;
-  return "${subdir}M/" if $version =~ /^Bavariae/;
+  return "${subdir}M/" if $version =~ /^Bavariae/ && $dayname[0] !~ /Pasc0/;
   return "${subdir}OP/" if $version =~ /^Ordo Praedicatorum/;
   "$subdir/";
 }

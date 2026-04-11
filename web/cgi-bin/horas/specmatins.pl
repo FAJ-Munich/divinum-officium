@@ -906,8 +906,7 @@ sub lectio : ScriptFunc {
         )
       )
     )
-    )
-  {    # which has not been superseded by the sanctoral
+  ) {    # which has not been superseded by the sanctoral
     %w = (columnsel($lang)) ? %commune : %commune2;
     $w = $w{"Lectio$num"};
     if ($w && $num == 1) { setbuild2("Lectio1-3 from $commune replacing homily"); }
