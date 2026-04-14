@@ -1416,7 +1416,7 @@ sub tedeum_required {
     )
     && $rule !~ /no Te Deum/
     && $commune !~ /C9/
-    && ($winner !~ /(?:Adv|Quad)/ || $version =~ /^Monastic/)
+    && ($winner !~ /^Tempora.*(?:Adv|Quad)/ || $version =~ /^Monastic/)
     && (
          (!$dayofweek && $dayname[1] !~ /(Vigilia)/)
       || ($winner =~ /Sancti|Commune/i && $dayname[1] !~ /(Vigilia)/)           # Commune = Votive
@@ -1610,7 +1610,10 @@ sub initiarule {
 
   my $key = sprintf("%02i-%02i", $month, $day);
 
-  return get_from_directorium('stransfer', $version, $key, $year, $dioecesis);
+  my $initfile = get_from_directorium('stransfer', $version, $key, $year, $dioecesis);
+
+  $initfile =~ s/;;.*$//;    # remove dioecesis flag
+  return $initfile;
 }
 
 #*** resolveitable(\%w, $file, $lang)

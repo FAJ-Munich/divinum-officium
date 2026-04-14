@@ -588,7 +588,10 @@ sub occurrence {
       $officename[2] =~ s/:/ ad Laudes tantum:/ if ($srank[2] >= 5 && $saint{'Commemoratio 2'} || $version =~ /196/);
     }
 
-    if (($hora =~ /matutinum/i || (!$officename[2] && $hora !~ /Vespera|Completorium/i)) && $rank < 7 && $trank[0]) {
+    if ( ($hora =~ /matutinum/i || (!$officename[2] && $hora !~ /Vespera|Completorium/i && !$missa))
+      && $rank < 7
+      && $trank[0])
+    {
       my %scrip = %{officestring('Latin', $tname)};
 
       if (
