@@ -959,18 +959,25 @@ sub Credo {
   our @commemoentries;
   my $flag = 1;
 
-  if ( $dayofweek == 0
+  if (
+       $dayofweek == 0
     || ($rank >= 5 && $winner =~ /Sancti/ && $winner{Rank} !~ /Vigil/i)
-    || ($winner{Rank} =~ /Octav/i && $winner{Rank} !~ /post Octavam/i)
-    || ($commemoratio{Rank} =~ /Octav/i && $commemoratio{Rank} !~ /post Octavam/i && $version !~ /196/))
-  {
+    || ($winner{Rank} =~ /Octav/i && $winner{Rank} !~ /post Octavam/i && $winner{Rank} !~ /Simplex/i)
+    || ( $commemoratio{Rank} =~ /Octav/i
+      && $commemoratio{Rank} !~ /post Octavam/i
+      && $commemoratio{Rank} !~ /Simplex/i
+      && $version !~ /196/)
+  ) {
     $flag = 0;
   } elsif (@commemoentries) {
     foreach my $commemo (@commemoentries) {
       if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
       my %c = %{setupstring('Latin', $commemo)};
 
-      if ($c{Rank} =~ /Octav/i && $c{Rank} !~ /post Octavam/ && $version !~ /196/) {
+      if ( (($c{Rank} =~ /Octav/i && $c{Rank} !~ /post Octavam/) || $c{Rule} =~ /Credo/i)
+        && $c{Rank} !~ /Simplex/i
+        && $version !~ /196/)
+      {
         $flag = 0;
         last;
       }
