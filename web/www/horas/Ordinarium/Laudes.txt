@@ -33,7 +33,7 @@ $rubrica Clara voce
 #Canticum: Benedictus
 
 #Preces Feriales
-(sed rubrica Monastica aut rubrica 1962 omittitur)
+(sed rubrica ^Monastic aut rubrica 1962 omittitur)
 
 #Oratio
 

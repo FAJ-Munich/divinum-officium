@@ -671,7 +671,9 @@ sub Divinum_auxilium : ScriptFunc {
   if ($lang =~ /gabc/i) { return prayer("Divinum auxilium", $lang); }
   my @text = split(/\n/, prayer("Divinum auxilium", $lang));
   $text[-2] = "V. $text[-2]";
-  $text[-1] =~ s/.*\. // unless ($version =~ /Monastic/i);    # contract resp. "Et cum fratribus… " to "Amen." for Roman
+  $text[-1] =~ s/.*\. // unless ($version =~ /Monastic/i && $version !~ /Bavariae/i);
+
+  # contract resp. "Et cum fratribus… " to "Amen." for Roman
   $text[-1] = "R. $text[-1]";
   join("\n", @text);
 }
@@ -680,7 +682,7 @@ sub Domine_labia : ScriptFunc {
   my $lang = shift;
   my $text = prayer("Domine labia", $lang);
 
-  if ($version =~ /monastic/i) {                              # triple times with one cross sign
+  if ($version =~ /monastic/i) {    # triple times with one cross sign
     $text .= "\n$text\n$text";
     $text =~ s/\+\+/$&++/;
     $text =~ s/\+\+ / /g;

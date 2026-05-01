@@ -153,6 +153,8 @@ sub martyrologium {
     $a = '10-DU' if ($version !~ /1570|1617|1888|1910/ && $month == 10 && $dayofweek == 6 && $day > 23 && $day < 31);
     $a = 'Defuncti' if $winner{Rank} =~ /ex C9/i;
     $a = 'DefunctiM' if ($month == 11 && $day == 14 && $version =~ /Monastic/);
+    $a = '05-SP' if ( $version =~ /bavariae/i && $dayofweek == 5 && (($month == 4 && $day == 30) || ($month == 5 && $day < 7)));
+    $a = '05-SS' if ($version =~ /bavariae/i && $dayofweek == 5 && ($month == 5 && $day < 14) && $dayname[0] !~ /Pasc[67]/i);
     my %a = %{setupstring($lang, "$dir/Mobile.txt")};
     $a{$a};
   };
