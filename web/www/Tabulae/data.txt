@@ -14,6 +14,7 @@ Monastic - 1963 - Barroux,M1963B,M1963B,M1963,Monastic - 1963
 Monastic Tridentinum Cisterciensis 1951,C1951,C1951,C1915
 Monastic Tridentinum Cisterciensis Altovadensis,CAV,CAV,CAV
 Ordo Praedicatorum - 1962,OP1962,1960,XXXX,Rubrics 1960 - 1960
+Bavariae Monastic Tridentinum,Bavariae,BMT,BMT,Divino Afflatu - 1939,Divino Afflatu - 1939
 # - missa still uses old names
 Tridentine 1570,1570,1570,1570
 Tridentine 1910,1906,1906,1906,Tridentine - 1888

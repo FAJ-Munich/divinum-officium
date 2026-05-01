@@ -23,7 +23,7 @@ $Deus in adjutorium
 #Capitulum Versus
 
 #Preces Feriales
-(rubrica 196 aut rubrica 1955 aut rubrica monastica omittitur)
+(rubrica 196 aut rubrica 1955 aut rubrica ^Monastic omittitur)
 
 #Oratio
 
