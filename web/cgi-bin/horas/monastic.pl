@@ -338,16 +338,6 @@ sub psalmi_matutinum_monastic {
   ) {
     lectiones(2, $lang);    # lessons 5 – 8
 
-    # Tenebrae office:
-    # commented out tenebre is Roman Matutinum
-    # if (($dayname[0] eq "Quad6") && ($dayofweek > 3))  {
-    #   for (16..18) { antetpsalm_mm($psalmi[$_], $_); }
-    #   antetpsalm_mm('', -2);
-    #   push(@s, $psalmi[19], $psalmi[20], "\n");
-    #   lectiones(3, $lang);
-    #   return;
-    # }
-
     # Prepare 3rd nocturn canticles (sub una antiphona)
     my ($ant, $p) = split(/;;/, $psalmi[16]);
     my %w = (columnsel($lang)) ? %winner : %winner2;
@@ -370,7 +360,6 @@ sub psalmi_matutinum_monastic {
     lectiones(3, $lang);    # Homily with responsories #9-#12
 
     push(@s, lectioE($lang), "R. " . translate("Amen", $lang), "_", "\$Te decet");
-
     return;
   }
 

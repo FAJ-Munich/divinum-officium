@@ -1105,6 +1105,7 @@ sub concurrence {
     my $flrank =
         ($version =~ /cist/i && $cwinner{Rank} =~ /Dominica/i)
       ? ($rank < ($tomorrowname[0] =~ /Adv1|Quad[156]/ ? 4.9 : $version =~ /altovadensis/i ? 3.9 : 2.9) ? 2 : $rank)
+      : ($version =~ /bavariae/i && $cwinner{Rank} =~ /Dominica/i && $tomorrowname[0] =~ /Adv|Quad/ && $rank < 4.9) ? 2
       : $version =~ /trident/i ? (
           ($rank < 2.9 && !($rank == 2.1 && $winner{Rank} !~ /infra Octavam/i)) ? 2
         : ((($rank >= 3 && $rank < 3.9) || ($rank >= 4.1 && $rank < 4.9)) && $rank != 3.9 && $rank != 3.2) ? 3
@@ -2150,8 +2151,10 @@ sub setChantTone {
 
 sub subdirname {
   my ($subdir, $version) = @_;
+  our @dayname;
   return "${subdir}Cist/" if $version =~ /Cisterciensis/;
   return "${subdir}M/" if $version =~ /^Monastic/;
+  return "${subdir}M/" if $version =~ /^Bavariae/ && $dayname[0] !~ /Pasc0/ && !($dayname[0] =~ /Pasc7/ && $hora =~ /Matutinum/i);
   return "${subdir}OP/" if $version =~ /^Ordo Praedicatorum/;
   "$subdir/";
 }
