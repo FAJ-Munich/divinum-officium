@@ -918,7 +918,7 @@ sub lectio : ScriptFunc {
         )
       )
     )
-  ) {
+  ) {    # which has not been superseded by the sanctoral
     %w = (columnsel($lang)) ? %commune : %commune2;
     $w = $w{"Lectio$num"};
     if ($w && $num == 1) { setbuild2("Lectio1-3 from $commune replacing homily"); }
@@ -999,7 +999,8 @@ sub lectio : ScriptFunc {
     $w .= $w1;
     setbuild2("ex Lectiones 2 et 3 fit una");
   }
-  if ($version =~ /monastic/i && $num == 3) { $w = monastic_lectio3($w, $lang); }
+
+  if ($version =~ /monastic/i && $num == 3) { $w = monastic_lectio3($w, $lang); }    # check for diverge in monastic
 
   if (!$w && exists($commune{"Lectio$num"})) {
     my %c = (columnsel($lang)) ? %commune : %commune2;
@@ -1049,7 +1050,7 @@ sub lectio : ScriptFunc {
   }
   my $wo = $w;
 
-  #look for commemoratio 9
+  #look for commemoratio 9 (or 12)
   #if ($rule =~ /9 lectio/i && $rank < 2) {$rule =~ s/9 lectio//i;}
   if (
        $version !~ /196/
@@ -1149,9 +1150,9 @@ sub lectio : ScriptFunc {
         setbuild2("Lectio ultimo: Commemoratio pro Vigilia (#1)");
       }
     }
-    my $cflag = 1;    #*************  03-30-10
-                      #if ($winner{Rule} =~ /9 lectiones/i && exists($winner{Responsory9})) { $cflag = 0; }
-                      #if ($winner{Rule} !~ /9 lectiones/i && exists($winner{Responsory3})) { $cflag = 0; }
+    my $cflag = 1;    #*************	03-30-10
+    if ($winner{Rule} =~ /9 lectiones/i && exists($winner{Responsory9})) { $cflag = 0; }
+    if ($winner{Rule} !~ /(9|12) lectiones/i && exists($winner{Responsory3})) { $cflag = 0; }
 
     if ( !$L9winnerflag
       && ($commemoratio =~ /sancti/i && $commemoratio{Rank} =~ /S\. /i || $commemoratio{Rank} =~ /infra octavam/i)
@@ -1247,7 +1248,7 @@ sub lectio : ScriptFunc {
   }
 
   # add responsory
-  if (!tedeum_required($num) || $version =~ /^(?:Monastic|Ordo Praedicatorum)/) {
+  if (!tedeum_required($num) || $version =~ /(?:Monastic|Ordo Praedicatorum)/) {
     my $s;
     $na = $num;
 
@@ -1406,7 +1407,7 @@ sub tedeum_required {
   my $num = shift;
   our ($rule, $version, $winner, $commune, @dayname, $dayofweek, $duplex);
 
-  return $num == 12 if $version =~ /^Monastic/;
+  return $num == 12 if $version =~ /Monastic/;
 
   (    # last lectio?
     ($num == 9 && $rule =~ /9 lectiones/i)

@@ -1,0 +1,29 @@
+#This file only notes the differences to Divino Afflatu - 1939
+*January*
+01-12=01-12t=Septima die infra Octavam Epiphaniae=2=
+*February*
+*March*
+*April*
+*May*
+05-03=05-03~Urbis/05-03-Juvenalis=Inventio S. Crucis=S. Juvenalis=
+05-13=Bavaria/Monacensis/05-13-AlexanderI-ET~05-13=Ss. Alexandris et Sociorum Mm=4=
+05-31=05-31~05-31o=Beatae Mariae Virginis Regina=5=S. Petronillae Virginis=1=
+*June*
+06-01=06-01=S. Angelae Mericiae Virginis=3=
+*July*
+*Augustus*
+08-11=08-11oct~08-11=Secunda die infra Octavam S. Laurentii=2=Ss. Tiburtii et Susannae Virg. Martyrum=1=
+08-12=08-12~08-12oct=S. Clarae Virginis=3=Tertia die infra Octavam S. Laurentii=2=
+08-13=08-13oct~08-13=Quarta die infra Octavam S. Laurentii=2=Ss. Hippolyti et Cassiani Martyrum=1=
+08-14=08-14oct~08-14~08-14cc=Quinta die infra Octavam S. Laurentii=2=Vigiliae Assumptionis Beatae Mariae Virginis=1.5=S. Eusebii=1
+*September*
+09-03=09-03=S. Pius X Papae Confessoris=3=
+09-09=09-09bmv~09-09=Secunda die infra Octavam S. Nativitatis Beatae Mariae Virginis=2=S. Gorgonii mart=1=
+09-10=09-10~09-10bmv=S. Nicolai de Tolentino Confessoris=3=Tertia die infra Octavam=2=
+09-11=09-11bmv~09-11=Quarta die infra Octavam Nativitatis Beatae Mariae Virginis=2=Ss. Proti et Hyacinthi Martyrum=1=
+09-13=09-13bmv=Sexta die infra Octavam Nativitatis Beatae Mariae Virginis=2=
+09-14=09-14~09-14bmv=In Exaltatione Sanctae crucis=3=Sexta die infra Octavam Nativitatis Beatae Mariae Virginis=2=
+*October*
+*November*
+11-02=11-02oct=Secunda die infra Octavam Omnium Sanctorum=2=Commemoratio Omnium Fidelium Defunctorum=1=
+*December*

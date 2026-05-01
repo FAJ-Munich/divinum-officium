@@ -76,6 +76,12 @@ Octáva sacratíssimi Cordis Jesu.
  
 [10-DU]
 Festum Dómini nostri Jesu Christi Regis.
+
+[05-SP]
+Solémnitas beátæ Mariæ Vírginis, Patrónæ Baváriæ.
+
+[05-SS]
+Octáva beátæ Mariæ Vírginis, Patrónæ Baváriæ.
  
 [Defuncti]
 Hac die Commemorátio ómnium Fidélium Defunctórum; in qua commúnis pia Mater Ecclésia, postquam univérsos fílios suos jam in cælo lætántes cóngruis stúduit celebráre præcóniis, mox et omnes adhuc in Purgatório geméntes válidis apud Dóminum et Sponsum Christum satágit suffrágiis adjuváre, ut quam cítius váleant ad societátem supernórum cívium perveníre.

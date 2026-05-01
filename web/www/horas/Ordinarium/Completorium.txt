@@ -39,7 +39,7 @@ $Deus in adjutorium
 #Hymnus
 
 #Canticum: Nunc dimittis
-(sed rubrica Monastica omittitur)
+(sed rubrica ^Monastic omittitur)
 
 #Preces Dominicales
 (sed rubrica 196 aut rubrica 1955 aut rubrica cisterciensis omittitur)
