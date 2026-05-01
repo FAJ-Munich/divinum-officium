@@ -270,3 +270,5 @@ Completorium=;;4,90,133
 @:Cistercian_:3-4
 @:Monastic_:7-18
 Completorium=;;4,90,133
+(sed rubrica bavariae)
+Completorium=Miserére * mihi, Dómine, et exáudi oratiónem meam;;4,90,133
