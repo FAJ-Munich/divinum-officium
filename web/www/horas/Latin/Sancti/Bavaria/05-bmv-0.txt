@@ -1,0 +1,10 @@
+[Officium]
+De II die infra Octavam Beatae Mariae Virginis Patronæ Bavariæ
+
+[Rank]
+;;Semiduplex;;2;;ex Sancti/Bavaria/05-SP
+
+[Rule]
+ex Sancti/Bavaria/05-SP;
+Antiphonas horas
+Doxology=Nat
