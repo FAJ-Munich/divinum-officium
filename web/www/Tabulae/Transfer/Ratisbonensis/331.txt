@@ -1,4 +1,11 @@
 #= sunday letter: f, rule number: 10, Diœcesis Ratisbonensis 
 Tempora/Pasc4-6=Bavaria/05-SP;;DA
 Tempora/Pasc4-6=Bavaria/05-SPr;;1954 1960
+TemporaM/Pasc4-6=Bavaria/05-SP;;BMT
+TemporaM/Pasc5-0=Bavaria/05-bmv-0;;BMT
+TemporaM/Pasc5-1=Bavaria/05-bmv-1;;BMT
+TemporaM/Pasc5-2=Bavaria/05-bmv-2;;BMT
+TemporaM/Pasc5-3=Bavaria/05-bmv-3;;BMT
+TemporaM/Pasc5-5=Bavaria/05-bmv-5;;BMT
+TemporaM/Pasc5-6=Bavaria/05-SS;;BMT
 #=Finis Tabula translationis pro festis Dominica assignato et Vigilia

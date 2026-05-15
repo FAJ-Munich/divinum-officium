@@ -1,4 +1,11 @@
 #= sunday letter: d, rule number:  1, Diœcesis Monacensis et Frisingensis 
 Tempora/Pasc5-6=Bavaria/05-SP;;DA
 Tempora/Pasc5-6=Bavaria/05-SPr;;1954 1960
+TemporaM/Pasc5-6=Bavaria/05-SP;;BMT
+TemporaM/Pasc6-0=Bavaria/05-bmv-0;;BMT
+TemporaM/Pasc6-1=Bavaria/05-bmv-1;;BMT
+TemporaM/Pasc6-2=Bavaria/05-bmv-2;;BMT
+TemporaM/Pasc6-3=Bavaria/05-bmv-3;;BMT
+TemporaM/Pasc6-4=Bavaria/05-bmv-4;;BMT
+TemporaM/Pasc6-5=Bavaria/05-bmv-5;;BMT
 #=Finis Tabula translationis pro festis Dominica assignato et Vigilia
