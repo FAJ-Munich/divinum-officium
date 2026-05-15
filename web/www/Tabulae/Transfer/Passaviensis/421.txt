@@ -1,4 +1,11 @@
 #= sunday letter: f, rule number: 31, Diœcesis Passaviensis 
 Tempora/Pasc1-6=Bavaria/05-SP;;DA
 Tempora/Pasc1-6=Bavaria/05-SPr;;1954 1960
+TemporaM/Pasc1-6=Bavaria/05-SP;;BMT
+TemporaM/Pasc2-0=Bavaria/05-bmv-0;;BMT
+TemporaM/Pasc2-1=Bavaria/05-bmv-1;;BMT
+TemporaM/Pasc2-2=Bavaria/05-bmv-2;;BMT
+TemporaM/Pasc2-4=Bavaria/05-bmv-4;;BMT
+TemporaM/Pasc2-5=Bavaria/05-bmv-5;;BMT
+TemporaM/Pasc2-6=Bavaria/05-SS;;BMT
 #=Finis Tabula translationis pro festis Dominica assignato et Vigilia
