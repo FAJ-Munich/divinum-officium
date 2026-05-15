@@ -12,6 +12,7 @@ no commemoratio;
 Minores sine Antiphona;
 Capitulum Versum 2;
 Psalmi Dominica;
+(rubrica Bavariae)Matutinum Romanum
 
 [Oratio]
 Deus, qui Ecclésiam tuam novo semper fœtu multíplicas: concéde fámulis tuis; ut sacraméntum vivéndo téneant, quod fide percepérunt.
