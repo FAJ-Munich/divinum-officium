@@ -1,0 +1,17 @@
+@Sancti/Bavaria/Passaviensis/05-04-Florianus
+
+[Rule]
+vide C2
+12 lectiones
+
+[Lectio5]
+@Sancti/Bavaria/Passaviensis/05-04-Florianus:Lectio4
+
+[Lectio6]
+@Sancti/Bavaria/Passaviensis/05-04-Florianus:Lectio5:s/Corpus.*//s
+
+[Lectio7]
+@Sancti/Bavaria/Passaviensis/05-04-Florianus:Lectio5:s/.*(Corpus)/$1/s
+
+[Lectio8]
+@Sancti/Bavaria/Passaviensis/05-04-Florianus:Lectio6

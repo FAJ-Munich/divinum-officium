@@ -1,0 +1,5 @@
+@Sancti/Bavaria/04-23-Conradus
+
+[Rule]
+vide C5;
+12 lectiones
