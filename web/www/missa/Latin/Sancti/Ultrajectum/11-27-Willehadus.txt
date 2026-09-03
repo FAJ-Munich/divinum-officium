@@ -1,0 +1,18 @@
+[Officium]
+S. Willehadi Episcopi et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4-1
+(sed rubrica 1960)
+;;Duplex;;2.1;;vide C4-1
+
+[Rule]
+vide C4-1;
+Gloria
+
+[Name]
+Willehádi
+
+[Oratio]
+Deus, qui sanctum Willehádum, tui honóris zelo et martýrii desidério succénsum, ad prædicándum géntibus glóriam tuam míttere voluísti: concéde, quǽsumus; ut, ejúsdem mónitis et exémplis instrúcti, cæléstem cum ipso glóriam consequámur.
+$Per Dominum

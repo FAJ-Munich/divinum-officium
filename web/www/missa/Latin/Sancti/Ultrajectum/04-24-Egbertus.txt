@@ -1,0 +1,28 @@
+[Officium]
+S. Egberti Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C5-1
+(sed rubrica 1960)
+;;Duplex;;2.1;;vide C5-1
+
+[Rule]
+vide C5-1;
+Gloria
+
+[Name]
+Egbérto
+
+[Oratio]
+Deus, cujus Spíritu beátus Egbértus, salútem géntium sítiens, vários fídei præcónes in opus evangélicum destinávit: dírige, quǽsumus, ejus intercedéntibus méritis, ad te tuórum corda servórum; ut, Spíritu tui fervóre concépto, et in fide inveniántur stábiles et in ópere efficáces.
+$Per Dominum eiusdem
+
+[Lectio]
+Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios
+!1 Cor 4:9-14
+Fratres: Spectáculum facti sumus mundo et Angelis et homínibus. Nos stulti propter Christum, vos autem prudéntes in Christo: nos infírmi, vos autem fortes: vos nóbiles, nos autem ignóbiles. Usque in hanc horam et esurímus, et sitímus, et nudi sumus, et cólaphis cǽdimur, et instábiles sumus, et laborámus operántes mánibus nostris: maledícimur, et benedícimus: persecutiónem pátimur, et sustinémus: blasphemámur, et obsecrámus: tamquam purgaménta hujus mundi facti sumus, ómnium peripséma usque adhuc. Non ut confúndam vos, hæc scribo, sed ut fílios meos caríssimos móneo: in Christo Jesu, Dómino nostro.
+
+[Evangelium]
+Sequéntia ++ sancti Evangélii secúndum Lucam
+!Luc 10:1-9
+In illo témpore: Designávit Dóminus et álios septuagínta duos: et misit illos binos ante fáciem suam in omnem civitátem et locum, quo erat ipse ventúrus. Et dicébat illis: Messis quidem multa, operárii autem pauci. Rogáte ergo Dóminum messis, ut mittat operários in messem suam. Ite: ecce, ego mitto vos sicut agnos inter lupos. Nolíte portáre sácculum neque peram neque calceaménta; et néminem per viam salutavéritis. In quamcúmque domum intravéritis, primum dícite: Pax huic dómui: et si ibi fúerit fílius pacis, requiéscet super illum pax vestra: sin autem, ad vos revertétur. In eádem autem domo manéte, edéntes et bibéntes quæ apud illos sunt: dignus est enim operárius mercéde sua. Nolíte transíre de domo in domum. Et in quamcúmque civitátem intravéritis, et suscéperint vos, manducáte quæ apponúntur vobis: et curáte infírmos, qui in illa sunt, et dícite illis: Appropinquávit in vos regnum Dei.

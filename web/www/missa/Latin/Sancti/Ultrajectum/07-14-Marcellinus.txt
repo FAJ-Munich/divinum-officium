@@ -1,0 +1,18 @@
+[Officium]
+S. Marcellini Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C5
+(sed rubrica 1960)
+;;Duplex;;2.1;;vide C5
+
+[Rule]
+vide C5;
+Gloria
+
+[Name]
+Marcellíno
+
+[Oratio]
+Deus, qui nos, per evangélicam beáti Marcellíni Confessóris tui prædicatiónem, in Christo illumináre dignátus es: præsta, quǽsumus, ejus intercessióne; ut hoc in nostro respléndeat ópere, quod per fidem fulget in mente.
+$Per Dominum

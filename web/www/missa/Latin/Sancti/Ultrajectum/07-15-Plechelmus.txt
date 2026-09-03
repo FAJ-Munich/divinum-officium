@@ -1,0 +1,16 @@
+[Officium]
+S. Plechelmi Episcopi et Confessoris
+
+[Rank]
+;;Simplex;;1.1;;vide C4
+
+[Rule]
+vide C4;
+Gloria
+
+[Name]
+Plechélmo
+
+[Oratio]
+Omnípotens sempitérne Deus, in cujus conspéctu semper éxstitit præclára vita Sanctórum: præsta, quǽsumus; ut, qui beáti Plechélmi Confessóris tui atque Pontíficis natalícia cólimus, ejus in cælo consórtium, te miseránte, obtinére possímus.
+$Per Dominum

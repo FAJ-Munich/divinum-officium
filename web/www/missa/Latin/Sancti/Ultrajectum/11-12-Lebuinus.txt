@@ -1,0 +1,18 @@
+[Officium]
+S. Lebuini Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C5
+(sed rubrica 1960)
+;;Duplex;;2.1;;vide C5
+
+[Rule]
+vide C5;
+Gloria
+
+[Name]
+Lebuíno
+
+[Oratio]
+Omnípotens sempitérne Deus, qui nobis, per beátum Lebuínum Confessórem, glóriam tuam manifestáre dignátus es: ejus, quǽsumus, intercessióne custódi in nobis ópera misericórdiæ tuæ; ut, stábili fide et caritáte perfécta, in confessióne tui nóminis perseverémus.
+$Per Dominum

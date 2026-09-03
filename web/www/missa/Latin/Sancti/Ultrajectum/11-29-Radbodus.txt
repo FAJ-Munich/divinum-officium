@@ -1,0 +1,18 @@
+[Officium]
+S. Radbodi Episcopi et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4-1
+(sed rubrica 1960)
+;;Duplex;;2.1;;vide C4-1
+
+[Rule]
+vide C4-1;
+Gloria
+
+[Name]
+Radbódi
+
+[Oratio]
+Deus, qui beátum Radbódum Confessórem tuum atque Pontíficem Sanctórum méritis coæquásti: tríbue nobis, quǽsumus; ex ejus imitatióne, terréna despícere et cæléstium donórum semper participatióne gaudére.
+$Per Dominum

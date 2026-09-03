@@ -1,0 +1,13 @@
+[Rank]
+In Dedicatione Ecclesiæ Metropolitanæ;;Duplex I classis cum Octava communi;;6.5;;ex C8
+(sed rubrica 196)
+In Dedicatione Ecclesiæ Metropolitanæ;;Duplex I classis;;6;;ex C8
+
+[Rule]
+ex C8;
+Gloria
+CredoDA
+Prefatio=Dedicatio
+
+[Oratio]
+@Commune/C8
