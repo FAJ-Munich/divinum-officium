@@ -1,10 +1,4 @@
 [Officium]
-Lundi de la deuxième semaine de l’Avent
-
-[Lectio1]
-Lecture du Livre du Prophète Isaïe
-
-[Officium]
 Mardi de la deuxième semaine de l’Avent
 
 [Lectio1]
