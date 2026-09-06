@@ -1,5 +1,5 @@
 [Officium]
-Dominica II Adventus
+2e dimanche de l’Avent
 
 [Ant 1]
 Venez, Seigneur, * nous visiter dans la paix, afin que nous nous réjouissions devant vous, avec un cœur parfait.
@@ -9,11 +9,11 @@ Excitez, Seigneur, nos cœurs pour préparer la route à votre Fils unique, afin
 $Qui tecum
 
 [Lectio1]
-De Isaía Prophéta
-!Isa 11:1-4
+Lecture du Livre du Prophète Isaïe
+!Is 11:1-4
 1 Il sortira un rejeton de la tige de Jessé, et une fleur naîtra de sa racine.
-2 Et l'Esprit du Seigneur se reposera sur Lui ; l'esprit de sagesse et d'intelligence, l'esprit de conseil et de force, l'esprit de science et de piété;
-3 et Il sera rempli de l'esprit de la crainte du Seigneur. Il ne jugera point sur le rapport des yeux, et Il ne condamnera point par un oui-dire ;
+2 Et l’Esprit du Seigneur se reposera sur Lui : l’esprit de sagesse et d’intelligence, l’esprit de conseil et de force, l’esprit de science et de piété, 
+3 et Il sera rempli de l’esprit de la crainte du Seigneur. Il ne jugera point sur le rapport des yeux, et Il ne condamnera point par un ouï-dire,
 4 mais Il jugera les pauvres avec justice, et Il Se déclarera le juste vengeur des humbles de la terre.
 
 [Responsory1]
@@ -23,11 +23,11 @@ V. Car je suis le Seigneur ton Dieu, le Saint d’Israël, ton Rédempteur.
 R. Je te sauverai et je te délivrerai, ne crains pas.
 
 [Lectio2]
-!Isa 11:4-7
-4 Il frappera la terre avec la verge de Sa bouche, et Il tuera l'impie par le souffle de Ses lèvres.
+!Is 11:4-7
+4 Il frappera la terre avec la verge de Sa bouche, et Il tuera l’impie par le souffle de Ses lèvres.
 5 La justice sera la ceinture de Ses reins, et la fidélité le baudrier dont Il sera ceint.
-6 Le loup habitera avec l'agneau, et le léopard se couchera auprès du chevreau ; le veau, le lion et la brebis demeureront ensemble, et un petit enfant les conduira.
-7 Le veau et l'ours iront dans les mêmes pâturages, leurs petits se reposeront ensemble, et le lion mangera la paille comme le bœuf.
+6 Le loup habitera avec l’agneau, et le léopard se couchera auprès du chevreau. Le veau, le lion et la brebis demeureront ensemble, et un petit enfant les conduira.
+7 Le veau et l’ours iront dans les mêmes pâturages, leurs petits se reposeront ensemble, et le lion mangera la paille comme le bœuf.
 
 [Responsory2]
 R. Voici que le Seigneur viendra, et tous ses Saints avec lui, et il y aura en ce jour-là une grande lumière ; et ils sortiront de Jérusalem comme une eau pure : et le Seigneur régnera éternellement.
@@ -36,8 +36,8 @@ V. Voici que le Seigneur viendra avec puissance : et le royaume, et la puissance
 R. Sur toutes les Nations.
 
 [Lectio3]
-!Isa 11:8-10
-8 L'enfant encore à la mamelle se jouera sur le trou de l'aspic, et celui qui aura été sevré mettra sa main dans la caverne du basilic.
+!Is 11:8-10
+8 L’enfant encore à la mamelle se jouera sur le trou de l’aspic, et celui qui aura été sevré mettra sa main dans la caverne du basilic.
 9 Ils ne nuiront point, et ils ne tueront point sur toute Ma montagne sainte, parce que la terre est remplie de la connaissance du Seigneur, comme la mer des eaux qui la couvrent.
 10 En ce jour, le rejeton de Jessé sera comme un étendard pour les peuples ; les nations Lui offriront leurs prières, et Son sépulcre sera glorieux.
 
@@ -50,8 +50,8 @@ R. Et il t’enlèvera toute affliction.
 R. Et il t’enlèvera toute affliction.
 
 [Lectio4]
-Du Commentaire de saint Jérôme, prêtre, sur le Prophète Isaïe.
-!Liber 4. in cap. 11 Isaíæ.
+Du Commentaire de saint Jérôme, Prêtre, sur le Prophète Isaïe
+!Livre 4 sur le chapitre 11 d’Isaïe 
 « Et il y sortira un rejeton de la racine de Jessé. » Jusqu’au commencement de la vision ou du poids de Babylone, que vit Isaïe, fils d’Amos, toute cette prophétie se rapporte au Christ. Nous allons l’expliquer par parties, de peur que, proposée et discutée à la fois tout entière, elle ne jette la confusion dans la mémoire du lecteur. Les Juifs prétendent que le rejeton et la fleur, sortis de la racine de Jessé, désignent le Seigneur lui-même, dont la puissance royale serait indiquée par le rejeton, et la beauté figurée par la fleur.
 
 [Responsory4]
@@ -70,7 +70,7 @@ V. J’établirai dans Sion le salut, et dans Jérusalem, ma gloire.
 R. Et vous verrez, et votre cœur se réjouira.
 
 [Lectio6]
-Donc, sur cette fleur qui, par la Vierge Marie, s’élève tout à coup du tronc et de la racine de Jessé, se reposera l’Esprit du Seigneur ; puisqu’il a plu à Dieu que « toute la plénitude de la divinité habite en lui corporellement » et qu’elle n’y soit pas en partie, comme dans les autres Saints, selon ces paroles que les Nazaréens lisent dans leur Évangile, écrit en langue hébraïque : Toute la source du Saint-Esprit descendra sur lui. Or, le Seigneur est esprit, et où est l’esprit du Seigneur se trouve la liberté.
+Donc, sur cette fleur qui, par la Vierge Marie, s’élève tout à coup du tronc et de la racine de Jessé, se reposera l’Esprit du Seigneur, puisqu’il a plu à Dieu que « toute la plénitude de la divinité habite en lui corporellement » et qu’elle n’y soit pas en partie, comme dans les autres Saints, selon ces paroles que les Nazaréens lisent dans leur Évangile, écrit en langue hébraïque : « Toute la source du Saint-Esprit descendra sur lui. » Or, le Seigneur est esprit, et où est l’esprit du Seigneur se trouve la liberté.
 
 [Responsory6]
 R. Jérusalem, tu planteras une vigne sur tes montagnes : tu tressailliras de joie, parce que le jour du Seigneur viendra ; lève-toi, Sion, retourne au Seigneur ton Dieu ; Jacob, réjouis-toi, et sois dans l’allégresse.
@@ -82,12 +82,12 @@ R. Parce que ton Sauveur viendra du milieu des Nations.
 
 [Lectio7]
 Lecture du saint Évangile selon saint Matthieu
-!Matt 11:2-10
+!Mt 11:2-10
 En ce temps-là : Jean, dans sa prison, ayant entendu parler des œuvres du Christ, lui envoya dire par ses disciples : Êtes-vous celui qui doit venir, ou devons-nous en attendre un autre ? Et le reste.
 _
-Homélie de saint Grégoire, Pape.
-!Homilia 6 in Evangelia, post initium
-Après tant de signes et de prodiges que le Sauveur avait fait voir, il ne pouvait être pour personne un sujet de scandale, mais il aurait dû rester pour tous un sujet d’admiration. Cependant après tant de miracles, sa mort causa un très grand scandale dans l’esprit des infidèles ; et c’est pourquoi saint Paul a dit : « Nous prêchons le Christ crucifié ; scandale pour les Juifs, folie pour les Gentils ». Oui, les hommes regardèrent comme une folie que l’auteur de la vie mourût pour le salut des hommes ; et ainsi l’homme a tiré un sujet de scandale de ce qui devait le plus exciter sa reconnaissance. Car Dieu doit être honoré par les hommes d’une manière d’autant plus digne, qu’il a souffert pour les hommes de plus indignes traitements.
+Homélie de saint Grégoire, Pape
+!Homélie 6 in sur l’Évangile, après le début
+Après tant de signes et de prodiges que le Sauveur avait fait voir, il ne pouvait être pour personne un sujet de scandale, mais il aurait dû rester pour tous un sujet d’admiration. Cependant après tant de miracles, sa mort causa un très grand scandale dans l’esprit des infidèles, et c’est pourquoi saint Paul a dit : « Nous prêchons le Christ crucifié, scandale pour les Juifs, folie pour les Gentils. » Oui, les hommes regardèrent comme une folie que l’auteur de la vie mourût pour le salut des hommes, et ainsi l’homme a tiré un sujet de scandale de ce qui devait le plus exciter sa reconnaissance. Car Dieu doit être honoré par les hommes d’une manière d’autant plus digne, qu’il a souffert pour les hommes de plus indignes traitements.
 
 [Responsory7]
 R. Le Seigneur sortira de Samarie par la porte qui regarde l’Orient : et il viendra en Bethléem marchant sur les eaux de la rédemption de Juda :
@@ -100,12 +100,12 @@ Quel est donc le sens de ces paroles : « Bienheureux celui qui ne sera point sc
 
 [Responsory8]
 R. Hâtez-vous, Seigneur, ne tardez pas :
-* Et délivrez votre peupleEt délivrez votre peuple
+* Et délivrez votre peuple.
 V. Venez, Seigneur, et ne tardez pas, pardonnez les péchés de votre peuple.
-R. Et délivrez votre peuple
+R. Et délivrez votre peuple.
 
 [Lectio9]
-Mais, écoutons ce que le Sauveur dit aux foules, en leur parlant de Jean, après avoir renvoyé les disciples de ce même Jean : « Qu’êtes-vous allé voir au désert ? un roseau agité par le vent ? » Question qu’il pose non pour affirmer l’exactitude de la comparaison, mais pour la nier. Un roseau s’incline vers le côté opposé dès que la brise le touche. Et que nous désigne le Sauveur par ce terme de roseau, sinon l’âme charnelle ? Celle-ci, aussitôt que la faveur ou la disgrâce viennent l’atteindre, s’incline d’un côté ou de l’autre.
+Mais, écoutons ce que le Sauveur dit aux foules, en leur parlant de Jean, après avoir renvoyé les disciples de ce même Jean : « Qu’êtes-vous allé voir au désert ? Un roseau agité par le vent ? » Question qu’il pose non pour affirmer l’exactitude de la comparaison, mais pour la nier. Un roseau s’incline vers le côté opposé dès que la brise le touche. Et que nous désigne le Sauveur par ce terme de roseau, sinon l’âme charnelle ? Celle-ci, aussitôt que la faveur ou la disgrâce viennent l’atteindre, s’incline d’un côté ou de l’autre.
 
 [Responsory9]
 R. Voici que le Seigneur viendra, descendant avec splendeur, et sa force avec lui,
@@ -123,7 +123,7 @@ Les montagnes et les collines * chanteront devant Dieu des louanges, et tous les
 Voici que notre Seigneur * viendra avec puissance et illuminera les yeux de ses serviteurs, alléluia.
 
 [Capitulum Laudes]
-!Rom 15:4
+!Rm 15:4
 v. Mes Frères : tout ce qui a été écrit avant nous l’a été pour notre instruction, afin que, par la patience et la consolation que donnent les Écritures, nous possédions l’espérance.
 $Deo gratias
 
@@ -131,13 +131,13 @@ $Deo gratias
 Or Jean, * quand il eut appris dans la prison les œuvres de Jésus-Christ, envoyant deux de ses disciples, lui dit : Est-ce vous qui devez venir, ou est-ce un autre que nous attendons ?
 
 [Capitulum Sexta]
-!Rom 15:5-6
-v. Que le Dieu de la patience et de la consolation vous donne d’avoir les uns envers les autres les mêmes sentiments selon Jésus- Christ, afin que, d’un même cœur et d’une même bouche, vous glorifiiez Dieu, le Père de notre Seigneur Jésus- Christ.
+!Rm 15:5-6
+v. Que le Dieu de la patience et de la consolation vous donne d’avoir les uns envers les autres les mêmes sentiments selon Jésus-Christ, afin que, d’un même cœur et d’une même bouche, vous glorifiiez Dieu, le Père de notre Seigneur Jésus-Christ.
 $Deo gratias
 
 [Capitulum Nona]
-!Rom 15:13
-v. Que le Dieu de l’espérance vous remplisse de toute joie et de toute paix dans la foi, afin que, par la vertu de l’Ésprit-Saint, vous abondiez en espérance.
+!Rm 15:13
+v. Que le Dieu de l’espérance vous remplisse de toute joie et de toute paix dans la foi, afin que, par la vertu de l’Esprit Saint, vous abondiez en espérance.
 $Deo gratias
 
 [Ant 3]
