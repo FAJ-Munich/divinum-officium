@@ -1,5 +1,5 @@
 [Rank]
-Notre Seingneur Jésus Christ, Roi;;Duplex 1 class;;6.5;;
+Notre Seigneur Jésus Christ, Roi;;Duplex 1 class;;6.5;;
 
 [Ant Vespera]
 Pacifique * sera son nom et son trône sera très ferme à perpétuité.
@@ -15,11 +15,11 @@ C’est Vous, des esprits et des cœurs.
 Le seul arbitre, nous le confessons.
 _
 Une foule criminelle vocifère :
-« Du règne du Christ, nous ne voulons pas »,
+Du règne du Christ, nous ne voulons pas,
 Mais c’est Vous que nos ovations proclament
 Souverain Roi de tous.
 _
-O Christ-Prince portant la paix
+Ô Christ-Prince portant la paix
 Soumettez-Vous les esprits rebelles ;
 Les égarés loin de Votre amour,
 Au bercail unique rassemblez-les.
@@ -47,7 +47,7 @@ _
 @:Doxology
 
 [Doxology]
-O Jésus, gloire soit à vous,
+Ô Jésus, gloire soit à vous,
 Qui gouvernez les sceptres du monde,
 Ainsi qu’au Père et à l’Esprit de vie,
 Dans les siècles éternels.
@@ -65,17 +65,17 @@ Dieu tout-puissant et éternel, qui avez voulu restaurer tout dans la personne d
 $Qui tecum
 
 [Invit]
-A Jésus-Christ le Roi des rois, * Venez, offrons l’adoration.
+À Jésus-Christ le Roi des rois, * Venez, offrons l’adoration.
 
 [Hymnus Matutinum]
-v. Eternelle image du Très-Haut Dieu,
-lumière née de lumière,
-A vous, Rédempteur, soit gloire,
+v. Éternelle image du Très-Haut Dieu,
+Lumière née de lumière,
+Àvous, Rédempteur, soit gloire,
 Honneur, puissance royale !
 _
 Vous êtes seul, avant tous les siècles,
 L’espoir et le centre des temps ;
-A qui, de droit le sceptre des nations
+À qui, de droit le sceptre des nations
 Sur tous, par le Père, a été confié.
 _
 C’est vous, fleur de la toute pure Vierge
@@ -103,7 +103,7 @@ _
 [Ant Matutinum]
 Pour moi, * j’ai été établi roi, par lui, sur Sion, sa montagne sainte, promulguant son précepte.;;2
 De gloire * et d’honneur, vous l’avez couronné, Seigneur ; vous avez tout mis sous ses pieds.;;8
- Élevez-vous * portes éternelles, et il entrera, le roi de gloire.;;23
+Élevez-vous * portes éternelles, et il entrera, le roi de gloire.;;23
 Il siégera, * le Seigneur Roi, éternellement ; le Seigneur bénira son peuple dans la paix.;;28
 Sceptre de droiture * est le sceptre de votre règne. C’est pourquoi les peuples vous loueront éternellement et dans les siècles des siècles.;;44
 Chantez des psaumes * à notre Roi, chantez : car c’est le grand Roi de toute la terre.;;46
@@ -120,9 +120,14 @@ V. Ils l’adoreront, tous les rois de la terre.
 R. Toutes les nations le serviront.
 
 [Lectio1]
-De l’Épître de saint Paul Apôtre aux Colossiens.
+De l’Épître de saint Paul Apôtre aux Colossiens
 !Col 1:3-8
-Nous ne cessons de rendre grâces à Dieu, Père de notre Seigneur Jésus Christ, en pensant à vous dans nos prières, depuis que nous avons appris votre foi dans le Christ Jésus, et la charité que vous avez à l’égard de tous les Saints, en raison de l’espérance qui vous est réservée dans les cieux. Cette espérance, vous en avez naguère entendu l’annonce dans la Parole de vérité, la Bonne Nouvelle, qui est parvenue chez vous de même que dans le monde entier elle fructifie et se développe ; chez vous elle fait de même depuis le jour où vous avez appris et compris dans sa vérité la grâce de Dieu. C’est Épaphras, notre cher compagnon de service, qui vous en a instruits ; il nous supplée fidèlement comme ministre du Christ, et c’est lui-même qui nous a fait connaître votre dilection dans l’Esprit.
+3 Nous ne cessons de rendre grâces à Dieu, Père de notre Seigneur Jésus-Christ, en pensant à vous dans nos prières, 
+4 depuis que nous avons appris votre foi dans le Christ Jésus, et la charité que vous avez à l’égard de tous les Saints, 
+5 en raison de l’espérance qui vous est réservée dans les cieux. Cette espérance, vous en avez naguère entendu l’annonce dans la Parole de vérité, la Bonne Nouvelle, 
+6 qui est parvenue chez vous de même que dans le monde entier elle fructifie et se développe. Chez vous elle fait de même depuis le jour où vous avez appris et compris dans sa vérité la grâce de Dieu. 
+7 C’est Épaphras, notre cher compagnon de service, qui vous en a instruits. Il nous supplée fidèlement comme ministre du Christ, 
+8 et c’est lui-même qui nous a fait connaître votre dilection dans l’Esprit.
 
 [Responsory1]
 R. Sur le trône de David et sur son royaume, il siégera à jamais.
@@ -132,17 +137,30 @@ R. Il sera appelé Dieu, Fort, Prince de la paix.
 
 [Lectio2]
 !Col 1:9-17
-C’est pourquoi nous aussi, depuis le jour où nous avons reçu ces nouvelles, nous ne cessons de prier pour vous et de demander à Dieu qu’il vous fasse parvenir à la pleine connaissance de sa volonté, en toute sagesse et intelligence spirituelle. Vous pourrez ainsi mener une vie digne du Seigneur et qui Lui plaise en tout : vous produirez toutes sortes de bonnes œuvres et grandirez dans la connaissance de Dieu ; animés d’une puissante énergie par la vigueur de sa gloire, vous acquerrez une parfaite constance et endurance ; avec joie vous remercierez le Père qui vous a mis en mesure de partager le sort des Saints dans la lumière. Il nous a en effet arrachés à l’empire des ténèbres et nous a transférés dans le royaume de son Fils bien-aimé, en qui nous avons la rédemption, la rémission des péchés. Il est l’image du Dieu invisible, Premier-Né de toute créature, car c’est en lui qu’ont été créées toutes choses, dans les cieux et sur la terre, les visibles et les invisibles, Trônes, Seigneuries, Principautés, Puissances ; tout a été créé par lui et pour lui. Il est avant toutes choses et tout subsiste en lui.
+9 C’est pourquoi nous aussi, depuis le jour où nous avons reçu ces nouvelles, nous ne cessons de prier pour vous et de demander à Dieu qu’il vous fasse parvenir à la pleine connaissance de sa volonté, en toute sagesse et intelligence spirituelle. 
+10 Vous pourrez ainsi mener une vie digne du Seigneur et qui Lui plaise en tout : vous produirez toutes sortes de bonnes œuvres et grandirez dans la connaissance de Dieu.
+11 Animés d’une puissante énergie par la vigueur de sa gloire, vous acquerrez une parfaite constance et endurance,
+12 avec joie vous remercierez le Père qui vous a mis en mesure de partager le sort des Saints dans la lumière. 
+13 Il nous a en effet arrachés à l’empire des ténèbres et nous a transférés dans le royaume de son Fils bien-aimé, 
+14 en qui nous avons la rédemption, la rémission des péchés. 
+15 Il est l’image du Dieu invisible, Premier-Né de toute créature, 
+16 car c’est en lui qu’ont été créées toutes choses, dans les cieux et sur la terre, les visibles et les invisibles, Trônes, Seigneuries, Principautés, Puissances. Tout a été créé par lui et pour lui. 
+17 Il est avant toutes choses et tout subsiste en lui.
 
 [Responsory2]
-R. Je contemplais dans les visions de la nuit. Voici, venant sur les nuées du ciel, le Fils de l’homme. A lui fut conféré empire et honneur,
+R. Je contemplais dans les visions de la nuit. Voici, venant sur les nuées du ciel, le Fils de l’homme. À lui fut conféré empire et honneur,
 * Tous peuples, nations et langue le servirent,
 V. Son empire est empire à jamais, qui ne passera point, et son royaume ne sera pas détruit.
 R. Tous peuples, nations et langue le servirent.
 
 [Lectio3]
 !Col 1:18-23
-Et il est aussi la Tête du Corps, c’est-à-dire de l’Église : II est le Principe, Premier-Né d’entre les morts, (il fallait qu’il obtînt en tout la primauté), car Dieu s’est plu à faire habiter en lui toute la Plénitude et par lui à réconcilier tous les êtres pour lui, aussi bien sur la terre que dans les cieux, en faisant la paix par le sang de sa croix. Vous-mêmes, qui étiez devenus jadis des étrangers et des ennemis, par vos pensées et vos œuvres mauvaises, voici qu’à présent II vous a réconciliés dans son corps de chair, le livrant à la mort, pour vous faire paraître devant Lui saints, sans tache et sans reproche. Il faut seulement que vous persévériez dans la foi, affermis sur des bases solides, sans vous laisser détourner de l’espérance promise par l’Évangile que vous avez entendu, qui a été prêché à toute créature sous le ciel, et dont moi, Paul, je suis devenu le ministre.
+18 Et il est aussi la Tête du Corps, c’est-à-dire de l’Église : II est le Principe, Premier-Né d’entre les morts, afin qu’il obtînt en tout la primauté,
+19 car Dieu s’est plu à faire habiter en lui toute la Plénitude 
+20 et par lui à réconcilier tous les êtres pour lui, aussi bien sur la terre que dans les cieux, en faisant la paix par le sang de sa croix. 
+21 Vous-mêmes, qui étiez devenus jadis des étrangers et des ennemis, par vos pensées et vos œuvres mauvaises, voici qu’à présent II vous a réconciliés dans son corps de chair, le livrant à la mort
+22 pour vous faire paraître devant Lui saints, sans tache et sans reproche. 
+23 Il faut seulement que vous persévériez dans la foi, affermis sur des bases solides, sans vous laisser détourner de l’espérance promise par l’Évangile que vous avez entendu, qui a été prêché à toute créature sous le ciel, et dont moi, Paul, je suis devenu le ministre.
 
 [Responsory3]
 R. Toi, Bethléem, Ephrata, le plus petit des clans de Juda : de toi sortira celui qui sera le chef d’Israël.
@@ -153,9 +171,9 @@ R. Il sera la paix.
 R. Il sera la paix.
 
 [Lectio4]
-De la lettre encyclique du Pape Pie XI.
-!Lettre Encycl. Quas primas du 11 Décembre 1925.
-L’Année sainte ayant offert plus d’une occasion de glorifier la royauté du Christ, Nous agirons, semble-t-il, de manière pleinement conforme à Notre charge apostolique si, répondant aux demandes qui Nous ont été adressées individuellement ou en commun par de très nombreux cardinaux, évêques et fidèles, Nous terminons cette année en introduisant dans la liturgie de l’Église une fête spéciale de Notre-Seigneur Jésus Christ Roi. Que le Christ soit appelé Roi au sens figuré, en raison du degré suprême d’excellence par lequel il surpasse et domine toutes les créatures, c’est là depuis longtemps un usage communément reçu. On dit ainsi de lui qu’il règne « sur les esprits des hommes» , non pas tant à cause de la pénétration de son intelligence ou de la profondeur de sa science que parce qu’il est lui-même la Vérité et que les hommes doivent puiser en lui la vérité et l’accepter avec soumission ; il règne de même « sur les volontés des hommes» , non seulement parce qu’à la sainteté de la volonté divine correspondent en lui l’intégrité et l’obéissance parfaites de la volonté humaine, mais aussi parce qu’il donne à notre volonté libre les inspirations qui la portent à s’enflammer pour de nobles buts. Le Christ est enfin reconnu « Roi des cœurs» en raison de sa « charité qui surpasse toute connaissance» , ainsi que de sa bonté et de sa tendresse qui attirent les âmes : personne n’a jamais eu et personne n’aura jamais à l’avenir le privilège d’être aimé par toutes les nations, comme l’a été le Christ Jésus. Mais, pour entrer plus profondément dans notre sujet, nul ne saurait nier que le titre de roi et le pouvoir royal doivent, au sens propre du mot, être reconnus au Christ Homme ; c’est seulement en tant qu’il est homme qu’il a reçu du Père « la puissance, l’honneur et la royauté» ; en effet, le Verbe de Dieu, qui a la même substance que le Père, possède nécessairement tout en commun avec le Père et il a donc le pouvoir suprême et absolu sur toutes les créatures.
+De la lettre encyclique du Pape Pie XI
+!Lettre Encyclique Quas primas du 11 Décembre 1925
+L’Année sainte ayant offert plus d’une occasion de glorifier la royauté du Christ, Nous agirons, semble-t-il, de manière pleinement conforme à Notre charge apostolique si, répondant aux demandes qui Nous ont été adressées individuellement ou en commun par de très nombreux cardinaux, évêques et fidèles, Nous terminons cette année en introduisant dans la liturgie de l’Église une fête spéciale de Notre-Seigneur Jésus-Christ Roi. Que le Christ soit appelé Roi au sens figuré, en raison du degré suprême d’excellence par lequel il surpasse et domine toutes les créatures, c’est là depuis longtemps un usage communément reçu. On dit ainsi de lui qu’il règne « sur les esprits des hommes », non pas tant à cause de la pénétration de son intelligence ou de la profondeur de sa science que parce qu’il est lui-même la Vérité et que les hommes doivent puiser en lui la vérité et l’accepter avec soumission. Il règne de même « sur les volontés des hommes », non seulement parce qu’à la sainteté de la volonté divine correspondent en lui l’intégrité et l’obéissance parfaites de la volonté humaine, mais aussi parce qu’il donne à notre volonté libre les inspirations qui la portent à s’enflammer pour de nobles buts. Le Christ est enfin reconnu « Roi des cœurs » en raison de sa « charité qui surpasse toute connaissance », ainsi que de sa bonté et de sa tendresse qui attirent les âmes : personne n’a jamais eu et personne n’aura jamais à l’avenir le privilège d’être aimé par toutes les nations, comme l’a été le Christ Jésus. Mais, pour entrer plus profondément dans notre sujet, nul ne saurait nier que le titre de roi et le pouvoir royal doivent, au sens propre du mot, être reconnus au Christ Homme :c’est seulement en tant qu’il est homme qu’il a reçu du Père « la puissance, l’honneur et la royauté ». En effet, le Verbe de Dieu, qui a la même substance que le Père, possède nécessairement tout en commun avec le Père et il a donc le pouvoir suprême et absolu sur toutes les créatures.
 
 [Responsory4]
 R. Exulte, fille de Sion, jubile, fille de Jérusalem, car ton roi vient à toi, le juste, le sauveur.
@@ -164,7 +182,7 @@ V. Sa puissance s’étendra de la mer à la mer, et depuis les fleuves jusqu’
 R. Il annoncera la paix aux nations.
 
 [Lectio5]
-Le fondement sur lequel reposent cette dignité et cette puissance de Notre-Seigneur est bien Indiqué par Cyrille d’Alexandrie en ces termes : « II possède, en résumé, sur toutes les créatures, un pouvoir qui n’a pas été conquis par la violence, ni reçu d’ailleurs, mais il l’a par son essence et sa nature» ; sa souveraineté se fonde en effet sur cette union admirable qu’on appelle hypostatique. Il en résulte non seulement que le Christ doit être adoré comme Dieu par les anges et par les hommes, mais aussi que les anges et les hommes doivent obéir et se soumettre au pouvoir de cet Homme : ainsi, même au seul titre de l’union hypostatique, le Christ possède l’autorité sur toutes les créatures. Si nous voulons maintenant expliquer brièvement la grandeur et la nature de cette dignité, il est à peine nécessaire de dire qu’elle comporte trois pouvoirs, à défaut desquels elle ne peut guère se concevoir. Des témoignages recueillis dans la Sainte Écriture et concernant la suprématie universelle de notre Rédempteur le montrent de manière surabondante et il faut le croire de foi catholique : le Christ Jésus a été donné aux hommes comme le Rédempteur en qui ils doivent avoir confiance, mais aussi comme le législateur à qui ils doivent obéir. Les évangiles ne rapportent pas tant qu’il a établi des lois qu’ils ne le font voir lui-même établissant ces lois : tous ceux qui observeront ces préceptes, déclare le divin Maître en divers endroits et en des termes différents, prouveront leur charité envers lui et demeureront en son amour. Quant au pouvoir judiciaire, Jésus déclare lui-même aux Juifs qu’il lui a été attribué par le Père, lorsque ceux-ci l’accusent d’avoir violé le repos du sabbat en guérissant miraculeusement un malade : « Le Père ne juge personne, mais il a donné tout jugement au Fils» . Ce pouvoir comporte également pour lui le droit (car cette prérogative ne peut être séparée du jugement) de décerner aux hommes encore vivants des récompenses et des châtiments. Mais il faut encore reconnaître au Christ le pouvoir qu’on appelle exécutif : la nécessité d’obéir à son commandement s’impose en effet à tous et cela sous la menace faite aux rebelles de supplices auxquels nul ne saurait se soustraire.
+Le fondement sur lequel reposent cette dignité et cette puissance de Notre-Seigneur est bien indiqué par Cyrille d’Alexandrie en ces termes : « II possède, en résumé, sur toutes les créatures un pouvoir qui n’a pas été conquis par la violence, ni reçu d’ailleurs, mais il l’a par son essence et sa nature. » Sa souveraineté se fonde en effet sur cette union admirable qu’on appelle hypostatique. Il en résulte non seulement que le Christ doit être adoré comme Dieu par les Anges et par les hommes, mais aussi que les Anges et les hommes doivent obéir et se soumettre au pouvoir de cet Homme : ainsi, même au seul titre de l’union hypostatique, le Christ possède l’autorité sur toutes les créatures. Si nous voulons maintenant expliquer brièvement la grandeur et la nature de cette dignité, il est à peine nécessaire de dire qu’elle comporte trois pouvoirs, à défaut desquels elle ne peut guère se concevoir. Des témoignages recueillis dans la Sainte Écriture et concernant la suprématie universelle de notre Rédempteur le montrent de manière surabondante et il faut le croire de foi catholique : le Christ Jésus a été donné aux hommes comme le Rédempteur en qui ils doivent avoir confiance, mais aussi comme le législateur à qui ils doivent obéir. Les Évangiles ne rapportent pas tant qu’il a établi des lois qu’ils ne le font voir lui-même établissant ces lois : tous ceux qui observeront ces préceptes, déclare le divin Maître en divers endroits et en des termes différents, prouveront leur charité envers lui et demeureront en son amour. Quant au pouvoir judiciaire, Jésus déclare lui-même aux Juifs qu’il lui a été attribué par le Père, lorsque ceux-ci l’accusent d’avoir violé le repos du sabbat en guérissant miraculeusement un malade : « Le Père ne juge personne, mais il a donné tout jugement au Fils. » Ce pouvoir comporte également pour lui le droit (car cette prérogative ne peut être séparée du jugement) de décerner aux hommes encore vivants des récompenses et des châtiments. Mais il faut encore reconnaître au Christ le pouvoir qu’on appelle exécutif : la nécessité d’obéir à son commandement s’impose en effet à tous et cela sous la menace faite aux rebelles de supplices auxquels nul ne saurait se soustraire.
 
 [Responsory5]
 R. Il faut qu’il règne car Dieu a tout mis sous ses pieds,
@@ -173,24 +191,24 @@ V. Quand toutes choses lui auront été soumises, alors le Fils lui-même se sou
 R. Afin que Dieu soit tout en tous.
 
 [Lectio6]
-Il n’en est pas moins vrai que cette royauté est principalement de nature spirituelle et se rapporte aux réalités spirituelles, ainsi que le montrent les textes bibliques que nous avons rappelés et comme le Christ Seigneur le confirme par sa façon d’agir. En plus d’une occasion en effet, comme les Juifs et les Apôtres eux-mêmes croyaient faussement que le Messie allait rendre la liberté au peuple et rétablir le royaume d’Israël, il leur enleva et détruisit cette opinion et cette espérance vaines ; lorsque la foule d’admirateurs qui l’environnaient voulut le proclamer roi, il refusa le nom et l’honneur, en fuyant et en se cachant ; devant le magistrat romain, il déclara que son royaume n’était pas « de ce monde» . Le royaume qu’il propose dans les évangiles est tel que les hommes doivent se préparer à y entrer en faisant pénitence, mais qu’ils ne peuvent y entrer que par la foi et par le baptême, lequel, tout en étant un rite extérieur, signifie et opère cependant la régénération intérieure ; il s’oppose uniquement au royaume de Satan et à la puissance des ténèbres et il demande à ses membres non seulement que, détachant leur cœur des richesses et des biens terrestres, ils pratiquent la douceur et aient faim et soif de la justice, mais encore qu’ils renoncent à eux-mêmes et portent leur croix. Comme le Christ Rédempteur a acquis l’Église par son sang et s’est offert et s’offre perpétuellement comme Prêtre en victime pour les péchés, qui ne voit que la fonction royale elle-même revêt le caractère de ces deux fonctions et y participe ? Ce serait d’ailleurs une grossière erreur de refuser au Christ Homme l’autorité sur les choses civiles, puisqu’il reçoit de son Père un pouvoir tellement absolu sur les êtres créés que tout est placé sous sa souveraineté. C’est pourquoi, par Notre autorité apostolique, Nous instituons la fête de Notre-Seigneur Jésus Christ Roi, qui devra être célébrée dans tout l’univers, chaque année, le dernier dimanche d’octobre, c’est-à-dire le dimanche qui précède la fête de Tous les Saints. Nous ordonnons aussi que soit renouvelée chaque année en ce même jour la consécration du genre humain au Sacré-Cœur de Jésus.
+Il n’en est pas moins vrai que cette royauté est principalement de nature spirituelle et se rapporte aux réalités spirituelles, ainsi que le montrent les textes bibliques que nous avons rappelés et comme le Christ Seigneur le confirme par sa façon d’agir. En plus d’une occasion en effet, comme les Juifs et les Apôtres eux-mêmes croyaient faussement que le Messie allait rendre la liberté au peuple et rétablir le royaume d’Israël, il leur enleva et détruisit cette opinion et cette espérance vaines. Lorsque la foule d’admirateurs qui l’environnaient voulut le proclamer roi, il refusa le nom et l’honneur, en fuyant et en se cachant ; devant le magistrat romain, il déclara que son royaume n’était pas « de ce monde ». Le royaume qu’il propose dans les Évangiles est tel que les hommes doivent se préparer à y entrer en faisant pénitence, mais qu’ils ne peuvent y entrer que par la foi et par le baptême, lequel, tout en étant un rite extérieur, signifie et opère cependant la régénération intérieure. Il s’oppose uniquement au royaume de Satan et à la puissance des ténèbres et il demande à ses membres non seulement que, détachant leur cœur des richesses et des biens terrestres, ils pratiquent la douceur et aient faim et soif de la justice, mais encore qu’ils renoncent à eux-mêmes et portent leur croix. Comme le Christ Rédempteur a acquis l’Église par son sang et s’est offert et s’offre perpétuellement comme Prêtre en victime pour les péchés, qui ne voit que la fonction royale elle-même revêt le caractère de ces deux fonctions et y participe ? Ce serait d’ailleurs une grossière erreur de refuser au Christ Homme l’autorité sur les choses civiles, puisqu’il reçoit de son Père un pouvoir tellement absolu sur les êtres créés que tout est placé sous sa souveraineté. C’est pourquoi, par Notre autorité apostolique, Nous instituons la fête de Notre-Seigneur Jésus-Christ Roi, qui devra être célébrée dans tout l’univers, chaque année, le dernier dimanche d’octobre, c’est-à-dire le dimanche qui précède la fête de Tous les Saints. Nous ordonnons aussi que soit renouvelée chaque année en ce même jour la consécration du genre humain au Sacré-Cœur de Jésus.
 
 [Responsory6]
 R. Le Christ a fait de nous une royauté de prêtres pour Dieu son Père.
-* A lui gloire et empire dans les siècles des siècles.
-V. Il est le premier né des morts, le prince des rois de la terre.
-R. A lui gloire et empire dans les siècles des siècles.
+* À lui gloire et empire dans les siècles des siècles.
+V. Il est le premier-né des morts, le prince des rois de la terre.
+R. À lui gloire et empire dans les siècles des siècles.
 &Gloria
-R. A lui gloire et empire dans les siècles des siècles.
+R. À lui gloire et empire dans les siècles des siècles.
 
 [Lectio7]
-Lecture du saint Évangile selon saint Jean.
-!Jean 18:33-37
-En ce temps-là, Pilate dit à Jésus « Tu es le roi des Juifs ?» Jésus lui répondit : « Dis-tu cela de toi-même ou d’autres te l’ont-ils dit de moi ?» : Et la suite.
+Lecture du saint Évangile selon saint Jean
+!Jn 18:33-37
+En ce temps-là, Pilate dit à Jésus : « Tu es le roi des Juifs ?» Jésus lui répondit : « Dis-tu cela de toi-même, ou d’autres te l’ont-ils dit de moi ? ». Et la suite.
 _
-Homélie de saint Augustin, évêque.
-!Traité 51 sur Jean 12-13, et Traité 117 sur Jean 19-21.
-Quel intérêt pour le Roi des siècles de devenir le roi des hommes ? Le Christ n’est pas roi d’Israël pour lever un tribut, pour équiper une armée ou pour combattre des ennemis visibles, mais pour gouverner les âmes, pour veiller à leur salut éternel, et pour conduire au royaume des cieux ceux qui croient, espèrent et aiment. Pour le Fils de Dieu égal au Père, Verbe « par qui tout fut fait» , c’est donc une condescendance de consentir à être roi d’Israël et non une promotion. C’est la marque de sa miséricorde, bien loin d’être un accroissement de pouvoir. II est au ciel le Seigneur des anges celui qui reçoit sur terre le nom de roi des Juifs... Mais le Christ n’est-il que roi des Juifs ? Ne l’est-il pas de toutes les nations ? — Bien sûr que si ! Il l’avait dit prophétiquement : « J’ai été constitué par Dieu roi sur Sion, sa montagne sainte, je publierai le décret du Seigneur.» Mais, puisqu’il s’agit de la montagne de Sion, on pourrait dire qu’il a été constitué roi des Juifs seulement, aussi les versets suivants déclarent-ils : « Le Seigneur m’a dit : tu es mon fils, c’est moi qui t’engendre aujourd’hui ; demande et je te donnerai les nations pour héritage et pour ta possession les confins de la terre.»
+Homélie de saint Augustin, Évêque
+!Traité 51 sur Jean 12-13, et Traité 117 sur Jean 19-21
+Quel intérêt pour le Roi des siècles de devenir le roi des hommes ? Le Christ n’est pas roi d’Israël pour lever un tribut, pour équiper une armée ou pour combattre des ennemis visibles, mais pour gouverner les âmes, pour veiller à leur salut éternel, et pour conduire au royaume des cieux ceux qui croient, espèrent et aiment. Pour le Fils de Dieu égal au Père, Verbe « par qui tout fut fait », c’est donc une condescendance de consentir à être roi d’Israël et non une promotion. C’est la marque de sa miséricorde, bien loin d’être un accroissement de pouvoir. II est au ciel le Seigneur des Anges celui qui reçoit sur terre le nom de roi des Juifs. Mais le Christ n’est-il que roi des Juifs ? Ne l’est-il pas de toutes les nations ? Bien sûr que si ! Il l’avait dit prophétiquement : « J’ai été constitué par Dieu roi sur Sion, sa montagne sainte, je publierai le décret du Seigneur. » Mais, puisqu’il s’agit de la montagne de Sion, on pourrait dire qu’il a été constitué roi des Juifs seulement, aussi les versets suivants déclarent-ils : « Le Seigneur m’a dit : tu es mon fils, c’est moi qui t’engendre aujourd’hui. Demande et je te donnerai les nations pour héritage et pour ta possession les confins de la terre. »
 
 [Responsory7]
 R. Le royaume de ce monde est devenu celui de notre Seigneur et de son Christ,
@@ -199,8 +217,8 @@ V. Toutes les familles des nations se prosterneront devant sa face, car au Seign
 R. Il régnera dans les siècles des siècles.
 
 [Lectio8]
-!Traité 115 sur Jean 18-36.
-Jésus répondit : « Mon royaume n’est pas de ce monde. Si mon royaume était de ce monde, mes gens auraient combattu pour que je ne fusse pas livré aux Juifs. Mais mon royaume n’est pas d’ici.» Voici l’enseignement que notre bon Maître a voulu nous donner ; mais il fallait d’abord nous faire connaître quelle fausse opinion les gens (païens ou juifs de qui Pilate l’avait recueillie) s’étaient faite sur le royaume de Dieu. Comme si le Christ avait été condamné à mort, pour avoir brigué un règne indu ou comme s’il avait fallu s’opposer prudemment au danger que son royaume aurait fait courir soit aux Romains, soit aux Juifs, étant donné la jalousie réciproque habituelle aux souverains !
+!Traité 115 sur Jean 18-36
+Jésus répondit : « Mon royaume n’est pas de ce monde. Si mon royaume était de ce monde, mes gens auraient combattu pour que je ne fusse pas livré aux Juifs. Mais mon royaume n’est pas d’ici. » Voici l’enseignement que notre bon Maître a voulu nous donner. Mais il fallait d’abord nous faire connaître quelle fausse opinion les gens, qu’il s’agisse des païens ou des Juifs, de qui Pilate avait recueilli le témoignage, s’étaient faite sur le royaume de Dieu. Comme si le Christ avait été condamné à mort, pour avoir brigué un règne indu ou comme s’il avait fallu s’opposer prudemment au danger que son royaume aurait fait courir soit aux Romains, soit aux Juifs, étant donné la jalousie réciproque habituelle aux souverains !
 
 [Responsory8]
 R. Les dix cornes que tu vois, ce sont dix rois. Ils combattront contre l’Agneau et l’Agneau les vaincra,
@@ -211,7 +229,7 @@ R. Car il est le Seigneur des seigneurs et le Roi des rois.
 R. Car il est le Seigneur des seigneurs et le Roi des rois.
 
 [Lectio9]
-Or le Seigneur aurait pu répondre aussitôt : Mon royaume n'est pas d'ici : à la première question posée par le gouverneur : Es-tu le roi des Juifs ? Mais en posant une question en retour, à savoir s'il a dit cela de lui-même, ou si d'autres l'ont dit, c'était sa volonté de montrer par la réponse de Pilate que cela lui avait été présenté comme un crime par les Juifs dans leur conférence. avec le gouverneur : nous exposant ainsi les pensées des hommes, qu'il savait : qu'elles sont vaines ; et à eux après la réponse de Pilate, en faisant une réponse plus raisonnable et plus appropriée aux Juifs et aux Gentils : Mon royaume n'est pas de ce monde.
+Or le Seigneur aurait pu répondre aussitôt : « Mon royaume n’est pas d’ici » à la première question posée par le gouverneur : « Es-tu le roi des Juifs ? » Mais en posant une question en retour, à savoir s’il a dit cela de lui-même, ou si d’autres l’ont dit, c’était sa volonté de montrer par la réponse de Pilate que cela lui avait été présenté comme un crime par les Juifs dans leur conférence avec le gouverneur, nous exposant ainsi les pensées des hommes qu’il savait vaines, et à eux après la réponse de Pilate, en faisant une réponse plus raisonnable et plus appropriée aux Juifs et aux Gentils : « Mon royaume n’est pas de ce monde. »
 &teDeum
 
 [Ant Laudes]
@@ -237,8 +255,8 @@ Ni par violence ou crainte, qu’il les a soumis ;
 Du haut de la potence où il a été élevé,
 C’est par l’amour qu’il a tout attiré.
 _
-O trois fois heureuse la cité
-A qui le Christ à bon droit commande
+Ô trois fois heureuse la cité
+À qui le Christ à bon droit commande
 Et qui marche exécutant les ordres
 Donnés au monde, du haut du ciel.
 _
@@ -268,7 +286,7 @@ Il a fait de nous * un royaume pour Dieu et son Père, le premier-né des morts 
 
 [Lectio Prima]
 !Col 1:19-20
-v. Il a plu à Dieu de faire habiter en lui toute plénitude et par lui de réconcilier toutes choses en lui, pacifiant par le sang de sa croix, soit les choses de la terre, soit celles du ciel, en le Christ Jésus Notre-Seigneur.
+v. Il a plu à Dieu de faire habiter en lui toute plénitude et par lui de réconcilier toutes choses en lui, pacifiant par le sang de sa croix, soit les choses de la terre, soit celles du ciel, dans le Christ Jésus Notre-Seigneur.
 
 [Versum Prima]
 Qui en toutes choses tenez la primauté.
@@ -296,7 +314,7 @@ R. Apportez au Seigneur, * Familles des peuples.
 
 [Capitulum Nona]
 !Col 1:19-20
-v. Il a plu à Dieu de faire habiter en lui toute plénitude et par lui de réconcilier toutes choses en lui, pacifiant par le sang de sa croix, soit les choses de la terre, soit celles du ciel, en le Christ Jésus Notre-Seigneur.
+v. Il a plu à Dieu de faire habiter en lui toute plénitude et par lui de réconcilier toutes choses en lui, pacifiant par le sang de sa croix, soit les choses de la terre, soit celles du ciel, dans le Christ Jésus Notre-Seigneur.
 $Deo gratias
 
 [Responsory Breve Nona]
@@ -308,4 +326,4 @@ R. Tous les rois de la terre
 R. Ils l’adoreront, * Tous les rois de la terre
 
 [Ant 3]
-Il porte sur son manteau * et sur sa cuisse, l’inscription : Roi des rois et Seigneur des seigneurs. A Lui la gloire et l’empire dans les siècles des siècles.
+Il porte sur son manteau * et sur sa cuisse, l’inscription : Roi des rois et Seigneur des seigneurs. À Lui la gloire et l’empire dans les siècles des siècles.
