@@ -1,0 +1,40 @@
+[Officium]
+S. Bernardi Abbatis et Ecclesiæ Doctoris
+
+[Rank]
+;;vide C5a
+
+[Rule]
+vide C5a;
+Gloria
+CredoDA
+
+[Oratio]
+Pérfice, quǽsumus, Dómine, pium in nobis sanctæ religiónis efféctum: et, ad obtinéndam tuæ grátiæ largitátem, beátus Bernárdus, Abbas et Doctor egrégius, suis apud te semper pro nobis méritis et précibus intercédat.
+$Per Dominum
+
+[Lectio]
+@Commune/C5a:Lectio in 2 loco
+
+[Graduale]
+!Sap. 8:2
+Sapiéntiam amávi et exquisívi a iuventúte mea, et quæsívi sponsam mihi eam assúmere, et amátor factus sum formæ illíus.
+!Sap. 8:10-11
+V. Habébo propter sapiéntiam claritátem ad turbas, et in conspéctu poténtium admirábilis ero, et fácies príncipum mirabúntur me. Allelúja, allelúja.
+V. Caritáte vulnerátus, castitáte dealbátus, verbo vitæ laureátus est Bernárdus, sublimátus in glória. Allelúja.
+
+[Offertorium]
+!Cant. 1:12
+Fascículus myrrhæ diléctus meus mihi, inter úbera mea commorábitur.
+
+[Secreta]
+Grata tibi sit, Deus, intercedénte beáto Bernárdo, huius oblátio Sacraménti, quod, in memóriam passiónis Unigéniti tui, tuæ offérimus maiestáti.
+$Per eundem
+
+[Communio]
+!Eccli. 51:30
+Dedit mihi Dóminus linguam mercédem meam: et in ipsa laudábo eum.
+
+[Postcommunio]
+Suum in nobis, omnípotens Deus, intercedénte beáto Bernárdo, cibus, quem súmpsimus, operétur efféctum: ut incórporet nos sibi esus edéntes.
+$Per Dominum

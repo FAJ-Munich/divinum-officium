@@ -1,0 +1,28 @@
+[Officium]
+S. Augustini Episcopi et Confessoris et Ecclesiæ Doctoris
+
+[Rank]
+;;ex C4a
+
+[Rule]
+vide C4a;
+Gloria
+CredoDA
+
+[Oratio]
+Deus, qui abditióra sapiéntiæ tuæ arcána beáto Augustíno revelándo, et divínæ caritátis flammas in eius corde excitándo, miráculum colúmnæ nubis et ignis in Ecclésia tua renovásti: concéde; ut eius ductu mundi vórtices felíciter transeámus, et ad ætérnam promissiónis pátriam perveníre mereámur.
+$Per Dominum
+
+[Lectio]
+Léctio libri Sapiéntiæ
+!Eccli. 50:1-14
+Ecce sacérdos magnus, qui in vita sua suffúlsit domum, et in diébus suis corroborávit templum. Templi étiam altitúdo ab ipso fundáta est, duplex ædificátio, et excélsi paríetes templi. In diébus ipsíus emanavérunt pútei aquárum, et quasi mare adimpléti sunt supra modum. Qui curávit gentem suam et liberávit eam a perditióne. Qui præváluit amplificáre civitátem, qui adéptus est glóriam in conversatióne gentis, et ingréssum domus et átrii amplificávit. Quasi stella matutína in médio nébulæ, et quasi luna plena, in diébus suis lucet; et quasi sol refúlgens, sic ille effúlsit in templo Dei. Quasi arcus refúlgens inter nébulas glóriæ, et quasi flos rosárum in diébus vernis, et quasi lília quæ sunt in tránsitu aquæ, et quasi thus rédolens in diébus æstátis; quasi ignis efúlgens, et thus ardens in igne; quasi vas auri sólidum, ornátum omni lápide pretióso; quasi olíva púllulans, et cypréssus in altitúdinem se extóllens, in accipiéndo ipsum stolam glóriæ, et vestíri eum in consummatiónem virtútis. In ascénsu altáris sancti
+glóriam dedit sanctitátis amíctum. In accipiéndo autem partes de manu sacerdótum, et ipse stans iuxta aram; et circa illum coróna fratrum; quasi plantátio cedri in monte Líbano, sic circa ilium stetérunt quasi rami palmæ, et omnes filii Aaron in glória sua.
+
+[Secreta]
+Omnípotens sempitérne Deus, qui præcláro sapiéntiæ lúmine beáti Augustíni mentem illustrásti, et sancti amóris iáculo eiúsdem cor transverberásti: da nobis fámulis tuis; ut illíus doctrínæ et caritátis partícipes éffici mereámur.
+$Per Dominum
+
+[Postcommunio]
+Fove, Dómine, famíliam tuam munéribus sacris, quam cælésti libámine recreásti: et, ut solémnia sancti Augustíni devóte concélebret; indúnde lumen supérnæ cognitiónis et flamam ætérnæ caritátis.
+$Per Dominum
