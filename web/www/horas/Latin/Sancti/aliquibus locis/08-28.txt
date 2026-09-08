@@ -1,8 +1,7 @@
-[Officium]
-S. Augustini Episcopi et Confessoris et Ecclesiæ Doctoris
+@Sancti/08-28
 
-[Rank]
-;;ex C4a
+[Comment]
+Missæ pro aliquibus locis, MR 1962, p. [195]
 
 [Rule]
 vide C4a;
