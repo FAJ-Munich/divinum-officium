@@ -37,7 +37,7 @@ $Per Dominum
 Célébrons la Nativité de la Vierge Marie : * Adorons son Fils, le Christ Seigneur.
 
 [Lectio1]
-@Sancti/08-15:Lectio1
+@Sancti/08-15t
 
 [Responsory1]
 R. Aujourd’hui est née la bienheureuse Vierge Marie, de la descendance de David :
@@ -46,7 +46,7 @@ V. Célébrons joyeusement la Nativité de la bienheureuse Vierge Marie.
 R. Par qui le salut du monde est apparu aux croyants et dont la vie glorieuse a donné lumière à ce siècle.
 
 [Lectio2]
-@Sancti/08-15:Lectio2
+@Sancti/08-15t
 
 [Responsory2]
 R. De la bienheureuse Vierge Marie, célébrons très dévotement la Nativité,
@@ -55,7 +55,7 @@ V. Avec bonheur célébrons très dévotement la Nativité de la bienheureuse Vi
 R. Pour qu’elle même intercède pour nous auprès du Seigneur Jésus-Christ.
 
 [Lectio3]
-@Sancti/08-15:Lectio3
+@Sancti/08-15t
 
 [Responsory3]
 R. De la glorieuse Vierge Marie, célébrons la très noble naissance
