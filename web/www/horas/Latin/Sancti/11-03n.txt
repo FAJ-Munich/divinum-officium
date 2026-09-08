@@ -1,5 +1,5 @@
 [Officium]
-S. Martin de Porres, religious
+S. Martin de Porres, Confessoris
 
 [Rank]
 ;;Duplex optional;;2;;vide C5
