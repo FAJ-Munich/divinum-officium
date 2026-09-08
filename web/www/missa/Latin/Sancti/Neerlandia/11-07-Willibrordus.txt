@@ -1,0 +1,51 @@
+[Officium]
+S. Willibrordi Episcopi et Confessoris
+
+[Rank]
+;;Duplex I classis;;6;;vide C4
+
+[Rule]
+vide C4;
+Gloria
+Credo
+
+[Name]
+Willibrórdo
+
+[Oratio]
+Deus, qui beátum Willibrórdum Pontíficem ad prædicándum géntibus glóriam tuam destináre dignátus es, ut perféctam filiórum Dei adoptiónem recíperent: da nobis, quǽsumus, ejus intercessióne perseverántem in tua voluntáte famulátum; ut in diébus nostris mérito et número pópulus tibi sérviens augeátur.
+$Per Dominum
+
+[Lectio]
+Léctio Epístolæ beáti Pauli Apóstoli ad Hebrǽos
+!Hebr 13:7-9; 13:15-17
+Fratres: Mementóte præpositórum vestrórum, qui vobis locúti sunt verbum Dei: quorum intuéntes éxitum conversatiónis, imitámini fidem. Jesus Christus heri et hódie: ipse et in sǽcula. Doctrínis váriis et peregrínis nolíte abdúci. Per ipsum ergo offerámus hóstiam laudis semper Deo, id est fructum labiórum confiténtium nómini ejus. Beneficéntiæ autem et communiónis nolíte oblivísci: tálibus enim hóstiis promerétur Deus. Obœdíte præpósitis vestris, et subjacéte eis. Ipsi enim pervígilant, quasi ratiónem pro animábus vestris redditúri.
+
+[Graduale]
+!Ps 33:12
+Veníte, fílii, audíte me: timórem Dómini docébo vos.
+!Ps 33:6
+Accédite ad eum, et illuminámini: et fácies vestræ non confundéntur. Allelúja, allelúja.
+!Joann 15:16
+Ego vos elégi de mundo, ut eátis, et fructum afferátis: et fructus vester máneat. Allelúja.
+
+[Evangelium]
+Sequéntia ++ sancti Evangélii secúndum Matthǽum
+!Matt 25:14-23
+In illo témpore: Dixit Jesus discípulis suis parábolam hanc: Homo péregre proficíscens vocávit servos suos, et trádidit illis bona sua. Et uni dedit quinque talénta, álii autem duo, álii vero unum, unicuíque secúndum própriam virtútem, et proféctus est statim. Abiit autem, qui quinque talénta accéperat, et operátus est in eis, et lucrátus est ália quinque. Simíliter et, qui duo accéperat, lucrátus est ália duo. Qui autem unum accéperat, ábiens fodit in terram, et abscóndit pecúniam dómini sui. Post multum vero témporis venit dóminus servórum illórum, et pósuit ratiónem cum eis. Et accédens qui quinque talénta accéperat, óbtulit ália quinque talénta, dicens: Dómine, quinque talénta tradidísti mihi, ecce, ália quinque superlucrátus sum. Ait illi dóminus ejus: Euge, serve bone et fidélis, quia super pauca fuísti fidélis, super multa te constítuam: intra in gáudium dómini tui. Accéssit autem et qui duo talénta accéperat, et ait: Dómine, duo talénta tradidísti mihi, ecce, ália duo lucrátus sum. Ait illi dóminus ejus: Euge, serve bone et fidélis, quia super pauca fuísti fidélis, super multa te constítuam: intra in gáudium dómini tui.
+
+[Offertorium]
+!Ps 88:25
+Véritas mea et misericórdia mea cum ipso: et in nómine meo exaltábitur cornu ejus.
+
+[Secreta]
+Múnera, quæ tuæ majestáti deférimus, omnípotens Deus, intercedénte beáti Willibrórdi Confessóris tui atque Pontíficis patrocínio, grátiam in nobis operéntur et glóriam.
+$Per Dominum
+
+[Communio]
+!Matt 25:20-21
+Dómine, quinque talénta tradidísti mihi: ecce, ália quinque superlucrátus sum. Euge, serve bone et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, intra in gáudium Dómini tui.
+
+[Postcommunio]
+Omnípotens Deus, qui nos pia devotióne beáti Willibrórdi Confessóris tui atque Pontíficis in hoc sacratíssimum ovíle congregásti: concéde nobis divíno pábulo satiátis; ut cum eódem pastóre ad cæléstis vitæ gáudium perveníre valeámus.
+$Per Dominum

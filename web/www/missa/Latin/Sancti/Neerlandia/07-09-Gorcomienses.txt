@@ -1,0 +1,23 @@
+[Officium]
+Ss. Martyrum Gorcomiensium
+
+[Rank]
+;;Duplex;;3;;vide C3
+(sed rubrica 1960)
+;;Duplex;;2.1;;vide C3
+
+[Rule]
+vide C3;
+Gloria
+
+[Oratio]
+Deus, qui beatórum Mártyrum tuórum Leonárdi et Sociórum ejus gloriósum pro fide tua certámen æternitátis láurea decorásti: concéde propítius; ut, eórum méritis et imitatióne certántes in terris, cum ipsis coronári mereámur in cælis.
+$Per Dominum
+
+[Secreta]
+Múnera tibi, Dómine, nostræ devotiónis offérimus: quæ et pro tuórum tibi grata sint honóre Justórum, et nobis salutária, te miseránte, reddántur.
+$Per Dominum
+
+[Postcommunio]
+Præsta nobis, quǽsumus, Dómine: intercedéntibus sanctis Martýribus tuis Leonárdo et Sóciis ejus; ut, quod ore contíngimus, pura mente capiámus.
+$Per Dominum

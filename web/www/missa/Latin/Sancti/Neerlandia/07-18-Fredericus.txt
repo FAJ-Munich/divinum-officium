@@ -1,0 +1,18 @@
+[Officium]
+S. Frederici Episcopi et Martyris
+
+[Rank]
+;;Duplex;;3;;vide C2-1
+(sed rubrica 1960)
+;;Duplex;;2.1;;vide C2-1
+
+[Rule]
+vide C2-1;
+Gloria
+
+[Name]
+Fridérico
+
+[Oratio]
+Deus, pro cujus honóre gloriósus Póntifex Fridéricus gládiis impiórum occúbuit: da nobis, quǽsumus, ejus intercessióne; contra oblectaménta peccáti, mentis ratióne persístere, et nulla hujus mundi advérsa formidáre.
+$Per Dominum

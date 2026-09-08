@@ -1,0 +1,26 @@
+[Officium]
+S. Albrici Episcopi et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4-1
+(sed rubrica 1960)
+;;Duplex;;2.1;;vide C4-1
+
+[Rule]
+vide C4-1;
+Gloria
+
+[Name]
+Albríci
+
+[Oratio]
+Largíre, quǽsumus, Dómine, omnípotens Deus, per mérita beáti Albríci Confessóris tui atque Pontíficis fragilitáti nostræ subsídium, et præsta; ut, sicut ille Ecclésiæ tuæ éxstitit prædicátor et rector, ita apud te sit pro nobis perpétuus intercéssor.
+$Per Dominum
+
+[Secreta]
+Sit tibi, quǽsumus, Dómine Deus, nostræ devotiónis oblátio acceptábilis: ut, beáto Albríco Confessóre tuo intercedénte, et tuæ pláceat majestáti et nostræ profíciat salúti.
+$Per Dominum
+
+[Postcommunio]
+Mystériis divínis refécti, Dómine, quǽsumus: ut beáti Albríci Confessóris tui intercessióne protegámur; pro cujus ánnua veneratióne hæc tuæ obtúlimus majestáti.
+$Per Dominum

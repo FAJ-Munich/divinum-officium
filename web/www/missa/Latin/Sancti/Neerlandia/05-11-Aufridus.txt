@@ -1,0 +1,18 @@
+[Officium]
+S. Aufridi Episcopi et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4
+(sed rubrica 1960)
+;;Duplex;;2.1;;vide C4
+
+[Rule]
+vide C4;
+Gloria
+
+[Name]
+Aufrído
+
+[Oratio]
+Omnípotens et miséricors Deus, qui sancto Aufrído Confessóri tuo atque Pontífici affluéntibus hujus sǽculi divítiis cor non appónere dedísti: ejus méritis et précibus concéde; ut, mundo crucifíxi, tibi soli vivámus.
+$Per Dominum
