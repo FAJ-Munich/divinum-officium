@@ -1,8 +1,8 @@
 [Officium]
-Feria IV Quattuor Temporum in Adventu
+Mercredi des Quatre-Temps de l’Avent
 
 [Officium] (rubrica innovata)
-Feria IV infra Hebdomadam III Adventus
+Mercredi de la troisième semaine de l’Avent
 
 [Oratio]
 Faites, nous vous le demandons, Seigneur : que la solennité approchant de notre rédemption nous apporte avec elle les grâces nécessaires pour la vie présente et nous obtienne la récompense du bonheur éternel.
@@ -21,7 +21,7 @@ R. Dis aux villes de Juda et aux habitants de Sion : Voici notre Dieu que nous a
 @Sancti/03-25:Lectio8
 
 [Responsory2]
-R. Il se lèvera une étoile de Jacob, et il s’élèvera un homme d’ Israël, et il frappera tous les chefs des étrangers :
+R. Il se lèvera une étoile de Jacob, et il s’élèvera un homme d’Israël, et il frappera tous les chefs des étrangers :
 * Et toute la terre sera sa possession.
 V. Tous les rois de la terre l’adoreront ; toutes les Nations le serviront.
 R. Et toute la terre sera sa possession.
@@ -31,11 +31,11 @@ R. Et toute la terre sera sa possession.
 
 [Responsory3]
 R. Le Seigneur Dominateur viendra bientôt :
-* Et son nom sera appelé Emmanuel
+* Et son nom sera appelé Emmanuel.
 V. Dans ses jours s’élèvera la Justice et une abondance de paix.
-R. Et son nom sera appelé Emmanuel
+R. Et son nom sera appelé Emmanuel.
 &Gloria
-R. Et son nom sera appelé Emmanuel
+R. Et son nom sera appelé Emmanuel.
 
 [Ant 2]
 Il fut envoyé, l’Ange * Gabriel, à Marie, vierge qu’avait épousée Joseph.
