@@ -1,0 +1,25 @@
+[Officium]
+In Octava S. Willibrordi Episcopi et Confessoris
+
+[Rank]
+In Octava S. Willibrordi;;Duplex majus;;4;;vide C4
+
+[Rule]
+vide C4;
+Gloria
+Credo
+
+[Name]
+Willibrórdo
+
+[Oratio]
+Deus, qui beátum Willibrórdum Pontíficem ad prædicándum géntibus glóriam tuam destináre dignátus es, ut perféctam filiórum Dei adoptiónem recíperent: da nobis, quǽsumus, ejus intercessióne perseverántem in tua voluntáte famulátum; ut in diébus nostris mérito et número pópulus tibi sérviens augeátur.
+$Per Dominum
+
+[Secreta]
+Múnera, quæ tuæ majestáti deférimus, omnípotens Deus, intercedénte beáti Willibrórdi Confessóris tui atque Pontíficis patrocínio, grátiam in nobis operéntur et glóriam.
+$Per Dominum
+
+[Postcommunio]
+Omnípotens Deus, qui nos pia devotióne beáti Willibrórdi Confessóris tui atque Pontíficis in hoc sacratíssimum ovíle congregásti: concéde nobis divíno pábulo satiátis; ut cum eódem pastóre ad cæléstis vitæ gáudium perveníre valeámus.
+$Per Dominum

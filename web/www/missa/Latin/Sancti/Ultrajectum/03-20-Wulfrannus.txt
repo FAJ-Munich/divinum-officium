@@ -1,0 +1,18 @@
+[Officium]
+S. Wulfranni Episcopi et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4
+(sed rubrica 1960)
+;;Duplex;;2.1;;vide C4
+
+[Rule]
+vide C4;
+Gloria
+
+[Name]
+Wulfránno
+
+[Oratio]
+Deus, qui pópulo tuo ætérnæ salútis beátum Wulfránnum minístrum tribuísti: præsta, quǽsumus; ut, quem doctórem vitæ habúimus in terris, intercessórem habére mereámur in cælis.
+$Per Dominum

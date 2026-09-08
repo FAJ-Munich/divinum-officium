@@ -1,0 +1,18 @@
+[Officium]
+S. Walphridi Episcopi et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4-1
+(sed rubrica 1960)
+;;Duplex;;2.1;;vide C4-1
+
+[Rule]
+vide C4-1;
+Gloria
+
+[Name]
+Walphrídi
+
+[Oratio]
+Deus, qui singulári providéntia sanctum Walphrídum ad nostram in fide instructiónem míttere dignátus es, et primítias gentis nostræ ejus prædicatióne tibi assumpsísti: concéde, quǽsumus; ut, piis ejus précibus adjúti, salutária tua præcépta fidéliter custodiámus et vitam ætérnam consequámur.
+$Per Dominum

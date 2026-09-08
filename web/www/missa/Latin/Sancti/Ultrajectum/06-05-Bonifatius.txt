@@ -1,0 +1,25 @@
+[Officium]
+Ss. Bonifatii Episcopi et Sociorum Martyrum
+
+[Rank]
+;;Duplex II classis;;5;;vide C2
+
+[Rule]
+Evangelium non appropriatum
+vide C2;
+Gloria
+
+[Introitus]
+@Sancti/06-05
+
+[Oratio]
+Deus, qui diversitátem géntium, beáti Bonifátii Mártyris tui atque Pontíficis et Sociórum ejus prædicatióne, in confessióne tui nóminis adunásti: da nobis, quǽsumus; intercessióne eórum, velle et implére quæ prǽcipis, ut pópulo, ad æternitátem vocáto, una sit fides méntium et píetas actiónum.
+$Per Dominum
+
+[Secreta]
+Super has hóstias, Dómine, quǽsumus, benedíctio copiósa descéndat: quæ et sanctificatiónem nostram misericórditer operétur; et de sancti Bonifátii Mártyris tui atque Pontíficis et Sociórum ejus fáciat sollemnitáte gaudére.
+$Per Dominum
+
+[Postcommunio]
+Sanctificáti, Dómine, salutári mystério: quǽsumus; ut nobis sancti Bonifátii Mártyris tui atque Pontíficis et Sociórum ejus pia non desit orátio, quorum nos donásti patrocínio gubernári.
+$Per Dominum

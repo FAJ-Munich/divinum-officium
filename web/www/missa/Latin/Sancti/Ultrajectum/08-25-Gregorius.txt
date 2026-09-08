@@ -1,0 +1,18 @@
+[Officium]
+S. Gregorii Episcopi et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4-1
+(sed rubrica 1960)
+;;Duplex;;2.1;;vide C4-1
+
+[Rule]
+vide C4-1;
+Gloria
+
+[Name]
+Gregórii
+
+[Oratio]
+Deus, qui Ecclésiam beáti Gregórii Confessóris tui atque Pontíficis gloriósis méritis ac miráculis illustráre dignátus es: da nobis, ejus intercessióne; id amáre quod præcipis, id desideráre quod promíttis, ut inter mundánas varietátes ibi nostra fixa sint corda, ubi vera sunt gáudia.
+$Per Dominum

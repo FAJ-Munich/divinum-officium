@@ -1,0 +1,18 @@
+[Officium]
+S. Hungeri Episcopi et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4
+(sed rubrica 1960)
+;;Duplex;;2.1;;vide C4
+
+[Rule]
+vide C4;
+Gloria
+
+[Name]
+Hungéro
+
+[Oratio]
+Deus, qui beátum Hungérum, Confessórem tuum atque Pontíficem, via crucis sanctificásti, et per multas tribulatiónes in regnum tuum intráre fecísti: ejus méritis et précibus nobis concéde; ut in divérsis mundi varietátibus in patiéntia nostra ánimas nostras possideámus.
+$Per Dominum

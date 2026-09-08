@@ -1,0 +1,18 @@
+[Officium]
+S. Adelberti Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C5
+(sed rubrica 1960)
+;;Duplex;;2.1;;vide C5
+
+[Rule]
+vide C5;
+Gloria
+
+[Name]
+Adelbérto
+
+[Oratio]
+Excita, quǽsumus, Dómine, in Ecclésia tua spíritum, cui beátus Adelbértus Levíta servívit: ut, eódem nos repléti, studeámus amáre quod amávit, et ópere exercére quod dócuit.
+$Per Dominum eiusdem
