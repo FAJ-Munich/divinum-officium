@@ -1,0 +1,29 @@
+[Officium]
+In Translatione S. Martini Episcopi et Confessoris
+
+[Rank]
+;;Duplex;;3;;vide C4
+(sed rubrica 1960)
+;;Duplex;;2.1;;vide C4
+
+[Rule]
+vide C4;
+Gloria
+
+[Introitus]
+@Commune/C2
+
+[Name]
+Martíno
+
+[Oratio]
+Deus, qui cónspicis, quia ex nulla nostra virtúte subsístimus: concéde propítius; ut, intercessióne beáti Martíni Confessóris tui atque Pontíficis, contra ómnia advérsa muniámur.
+$Per Dominum
+
+[Secreta]
+Sanctífica, quǽsumus, Dómine Deus, hæc múnera, quæ in sollemnitáte sancti Antístitis tui Martíni offérimus: ut per ea vita nostra inter advérsa et próspera ubíque dirigátur.
+$Per Dominum
+
+[Postcommunio]
+Præsta, quǽsumus, Dómine, Deus noster: ut, quorum festivitáte votíva sunt sacraménta, eórum intercessióne salutária nobis reddántur.
+$Per Dominum
