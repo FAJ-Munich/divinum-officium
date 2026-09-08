@@ -1,6 +1,5 @@
 [Officium]
 S. Catharinæ Virginis et Martyris
-Titularis Ecclesiæ Metropolitanæ
 
 [Rank]
 ;;Duplex I classis cum Octava communi;;6.5;;vide C6

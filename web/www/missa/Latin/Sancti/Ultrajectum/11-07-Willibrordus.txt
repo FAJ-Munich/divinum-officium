@@ -1,6 +1,5 @@
 [Officium]
 S. Willibrordi Episcopi et Confessoris
-Titularis Ecclesiæ Metropolitanæ et Patroni principalis Archidiœcesis
 
 [Rank]
 ;;Duplex I classis cum Octava communi;;6.5;;vide C4
