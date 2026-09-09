@@ -16,6 +16,6 @@
 10-16=Neerlandia/DedicatioEcclesiarum;;1570 1888 1906 DA 1954 1960
 11-07=Neerlandia/11-07-Willibrordus;;1570 1888 1906 DA 1954 1960
 11-08=Neerlandia/11-08-Willehadus;;1570 1888 1906 DA 1954 1960
-11-11=Neerlandia/Groningen/11-11-Martinus;;1570 1888 1906 DA 1954 1960
+11-11=Neerlandia/Groningen/11-11;;1570 1888 1906 DA 1954 1960
 11-29=Neerlandia/11-29-Radbodus;;1570 1888 1906 DA 1954 1960
 12-22=Neerlandia/12-22-Hungerus;;1570 1888 1906 DA 1954 1960
