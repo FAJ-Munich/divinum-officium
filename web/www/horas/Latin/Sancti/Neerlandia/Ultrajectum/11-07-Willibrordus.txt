@@ -1,13 +1,14 @@
 [Officium]
-S. Willibrordi Episcopi et Confessoris
+S. Willibrordi Episcopi et Confessoris, Titularis Ecclesiæ Metropolitanæ et Patroni principalis Archidiœcesis
 
 [Rank]
-;;Duplex I classis cum Octava communi;;6.5;;vide C4
+;;Duplex I classis cum Octava communi;;6.5;;ex C4
 (sed rubrica 196)
-;;Duplex I classis;;6;;vide C4
+;;Duplex I classis;;6;;ex C4
 
 [Rule]
-vide C4;
+ex C4;
+9 lectiones
 Gloria
 Credo
 
