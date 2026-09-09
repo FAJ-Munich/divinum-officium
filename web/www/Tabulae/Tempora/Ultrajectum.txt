@@ -28,7 +28,7 @@
 11-12=Neerlandia/Ultrajectum/11-12-Lebuinus;;1570 1888 1906 DA 1954 1960
 11-14=Neerlandia/Ultrajectum/11-14-OctavaWillibrordi;;1570 1888 1906 DA 1954
 11-18=Neerlandia/Ultrajectum/11-18-OctavaMartini;;1570 1888 1906 DA 1954
-11-25=Neerlandia/Ultrajectum/11-25-Catharina;;1570 1888 1906 DA 1954 1960
+11-25=Neerlandia/Ultrajectum/11-25;;1570 1888 1906 DA 1954 1960
 11-27=Neerlandia/Ultrajectum/11-27-Willehadus;;1570 1888 1906 DA 1954 1960
 11-29=Neerlandia/Ultrajectum/11-29-Radbodus;;1570 1888 1906 DA 1954 1960
 12-02=Neerlandia/Ultrajectum/12-02-OctavaCatharinae;;1570 1888 1906 DA 1954

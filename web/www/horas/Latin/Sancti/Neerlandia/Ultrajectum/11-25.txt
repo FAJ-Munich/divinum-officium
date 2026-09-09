@@ -1,0 +1,15 @@
+@Sancti/11-25
+
+[Officium]
+S. Catharinæ Virginis et Martyris, Titularis Ecclesiæ Metropolitanæ
+
+[Rank]
+;;Duplex I classis cum Octava communi;;6.5;;ex C6
+(sed rubrica 196)
+;;Duplex I classis;;6;;ex C6
+
+[Rule]
+ex C6;
+9 lectiones
+Gloria
+Credo
