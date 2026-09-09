@@ -2,12 +2,10 @@
 S. Gertrudis Virginis
 
 [Rank]
-;;Duplex;;3;;vide C6a
-(sed rubrica 1960)
-;;Duplex;;2.1;;vide C6a
+;;Duplex;;3;;vide C6a-1
 
 [Rule]
-vide C6a;
+vide C6a-1;
 Gloria
 
 [Name]
@@ -16,21 +14,3 @@ Gertrúdis
 [Oratio]
 Tuórum nos, Dómine, quǽsumus, précibus tuére Sanctórum: ut, festa beátæ Gertrúdis Vírginis débite venerántes; et fidéli muniámur auxílio et magnífico proficiámus exémplo.
 $Per Dominum
-
-[Introitus]
-@Commune/C6a-1
-
-[Lectio]
-@Commune/C6a-1
-
-[Graduale]
-@Commune/C6a-1
-
-[Evangelium]
-@Commune/C6a-1
-
-[Offertorium]
-@Commune/C6a-1
-
-[Communio]
-@Commune/C6a-1

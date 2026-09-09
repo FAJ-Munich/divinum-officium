@@ -1,7 +1,7 @@
 03-01=Neerlandia/Ultrajectum/03-01-Switbertus;;1570 1888 1906 DA 1954 1960
 03-03=Neerlandia/Ultrajectum/03-03-Fredericus;;1570 1888 1906 DA 1954 1960
 03-04=Neerlandia/Ultrajectum/03-04-Albricus;;1570 1888 1906 DA 1954 1960
-03-17=Neerlandia/Ultrajectum/03-17-Gertrudis;;1570 1888 1906 DA 1954 1960
+03-17=Neerlandia/03-17-Gertrudis;;1570 1888 1906 DA 1954 1960
 03-20=Neerlandia/Ultrajectum/03-20-Wulfrannus;;1570 1888 1906 DA 1954 1960
 03-26=Neerlandia/Ultrajectum/03-26-Ludgerus;;1570 1888 1906 DA 1954 1960
 04-14=Neerlandia/Ultrajectum/04-14-Liduina;;1570 1888 1906 DA 1954 1960
