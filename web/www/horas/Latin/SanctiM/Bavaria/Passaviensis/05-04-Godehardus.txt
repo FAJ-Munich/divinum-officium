@@ -1,0 +1,19 @@
+@Sancti/Bavaria/Passaviensis/05-04-Godehardus
+
+[Rule]
+vide C4-1
+12 lectiones
+Psalmi Dominica
+Antiphonas horas
+
+[Lectio5]
+@Sancti/Bavaria/Passaviensis/05-04-Godehardus:Lectio4
+
+[Lectio6]
+@Sancti/Bavaria/Passaviensis/05-04-Godehardus:Lectio5:s/At ille.*//s
+
+[Lectio7]
+@Sancti/Bavaria/Passaviensis/05-04-Godehardus:Lectio5:s/.*(At ille)/$1/s
+
+[Lectio8]
+@Sancti/Bavaria/Passaviensis/05-04-Godehardus:Lectio6
