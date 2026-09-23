@@ -1,0 +1,84 @@
+@Sancti/Bavaria/05-SP
+
+[Rule]
+ex C11;
+12 lectiones
+Antiphonas horas
+Doxology=Nat
+
+[Ant Matutinum]
+Terram nostram cælitus * ros inebriávit, florem cum divínitus Christum germinávit, allelúja.;;8
+;;18
+;;23
+;;44
+;;45
+;;47
+Virga florem, * stella solem, coætérnam Patri Prolem Virgo Mater génuit, allelúja.;;84
+;;86
+;;95
+;;96
+;;97
+;;98
+Signum magnum * fémina est amícta sole hæc refúlgens Dómina gloriósa Prole, allelúja.;;249;250;251
+
+[Lectio4]
+@Commune/C11:Lectio2
+
+[Responsory4]
+@CommuneM/C11
+
+[Lectio5]
+@Sancti/Bavaria/05-SP:Lectio4
+
+[Responsory5]
+@Sancti/Bavaria/05-SP:Responsory4
+
+[Lectio6]
+@Sancti/Bavaria/05-SP:Lectio5
+
+[Responsory6]
+@Sancti/Bavaria/05-SP:Responsory5
+
+[Lectio7]
+Mariánus iste cultus apud pósteros inváluit. Testes sund permúltæ Congregationes Mariáles, quibus complúres étiam e régia família nomen dedérunt ac dare solent. Huc pértinet mos avítus exornándi frontes domórum státua vel saltem imágine Matris Dei. Exstat autem Ordo équitum sancti Geórgii, qui juxta statúa cum fidem cathólicam tum speciátim doctrínam de immaculáta Vírginis Maríæ Conceptióne, étiam ante definitiónem dógmatis, constánter propagávit. 
+
+[Responsory7]
+@Sancti/Bavaria/05-SP:Responsory6
+
+[Lectio8]
+His multis et æquálium et majórum exémplis Baváriæ pópulus ad ita agéndum addúcitur, ut ómnibus opéribus suis præsint “Deus et María”. Gratíssimo autem ánimo Ludovíco tértio, regi suo, plausit idem pópulus, cum ille apud ædes Mariánus Hodíngæ públice testátus est, quantópere sibi cordi sit, ut Mater María a se suísque honóre et cultu celebrétur. Benedíctus Papa décimus quintus votis præfáti Ludovíci regis tértii ejúsque uxóris Maríæ Therésiæ benígne ánnuens concéssit, ut ex inhumáni belli tempóribus speciále festum Patrónæ Baváriæ a regni istíus íncolis quotánnis recolerétur.
+
+
+[Lectio9]
+@Sancti/Bavaria/05-SP:Lectio7
+
+[Responsory9]
+@Sancti/Bavaria/05-SP:Responsory7
+
+[Lectio10]
+@Sancti/Bavaria/05-SP:Lectio8
+
+[Responsory10]
+@Sancti/Bavaria/05-SP:Responsory8
+
+[Lectio11]
+!Sermo de duodecim prærogativis, sub init.
+Quid ad Maríam accédere trépidet humána fragílitas? Nihil austérum in ea, nihil terríbile; tota suávis est lanam. Revólve diligéntius evangélicæ históriæ sériem univérsam, et si quid forte increpatórium, si quid durum, si quod dénique signum vel ténuis indignatiónis occúrrerit in María, de cétero suspéctam hábeas, et accédere vereáris. 
+
+[Lectio12]
+Quod si (ut vere sunt) plena magis ómnia pietátis et grátiæ, plena mansuetúdinis et misericórdiæ, quæ ad eam pértinent, invéneris: age grátias ei, qui talem tibi mediatrícem benigníssima miseratióne provídit, in qua nihil posset esse suspéctum; quæ ómnibus misericórdiæ sinum áperit, ut de plenitúdine ejus accípiant univérsi: captívus redemptiónem, æger curatiónem, tristis consolatiónem, peccátor véniam, justus grátiam, ut non sit, qui se abscóndat a calóre ejus.
+
+[Responsory TertiaM]
+V. Spécie tua et pulchritdudine tua, allelúja.
+R. Inténde, próspere procéde, et regna, allelúja.
+
+[Responsory SextaM]
+V. Adjuvábit eam Deus vultu suo, allelúja.
+R. Deus in médio ejus, non commovébitur.
+
+[Responsory NonaM]
+V. Elégit eam Deus, et præelégit eam, allelúja.
+R. In tabernáculo suo habitáre facit eam, allelúja.
+
+[Evangelium]
+@Tempora/Epi2-0

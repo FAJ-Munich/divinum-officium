@@ -1,0 +1,109 @@
+[Rank]
+In Octava Beatae Mariae Virginis Patronæ Bavariæ;;Duplex majus;;4.1;;vide C11
+
+[Rule]
+vide C11;
+12 lectiones
+Antiphonas horas
+Doxology=Nat
+
+[Capitulum Vespera]
+@CommuneM/C10
+
+[Hymnus Vespera]
+@CommuneM/C11
+
+[Versum 1]
+@SanctiM/Bavariae/05-SP
+
+[Ant 1]
+@SanctiM/Bavariae/05-SP
+
+[Oratio]
+@SanctiM/Bavariae/05-SP
+
+[Invit]
+@SanctiM/Bavariae/05-SP
+
+[Hymnus Matutinum]
+@SanctiM/Bavariae/05-SP
+
+[Lectio5]
+Sermo sancti Augustíni Epíscopi
+!Sermo 18 de Sanctis, in medio
+Exsúltat María, ...
+
+[Responsory5]
+@SanctiM/Bavariae/05-SP
+
+[Lectio6]
+O beáta Maria, quis ...
+
+
+[Responsory6]
+@SanctiM/Bavariae/05-SP
+
+[Lectio7]
+Sit per te ...
+
+[Responsory7]
+@SanctiM/Bavariae/05-SP
+
+[Lectio8]
+...
+
+[Lectio9]
+Léctio sancti Evangélii secúndum Joánnem
+!Joannes 2:1-11
+In illo témpore: Núptiæ factæ sunt in Cana Galilǽæ, et erat mater Jesu ibi. Vocátus est autem et Jesus, et discípuli ejus ad núptias. Et réliqua.
+_
+Homilía sancti Bernárdi Abbátis
+!Dominica I post Octavam Epiphaniæ
+!Sermo 1, De miraculo facto in nuptiis, sub init.
+Deficiénte vino, dixit Mater Jesu ad eum: Vinum non habent. Compássa est María eórum verecúndiæ, sicut miséricors, sicut benigníssima. Quid, inquam, mirum, si pietátem éxhibent víscera pietátis? Nonne, qui pomum in manu sua tenúerit dimídia die, réliqua diéi parte pomi servábit odórem? Qantum ígitur víscera illa virtus pietátis affécit, in quibus novem ménsibus requiévit? Nam et ante mentem replévit quam ventrem, et, cum procéssit ex útero, ab ánimo non recéssit. Dúrior forásse et austérior vidéri posset respónsio Dómini; sed nóverat ille, cui loquerétur; et quis loquerétur, illa non ignorábat. Dénique ut scias, quómodo respónsum ipsum accéperit aut quantum de Fílii benignitáte præsúmpserit, ait minístris: Quæcúmque præcéperit vobis, serváte et fácite.
+
+[Responsory9]
+@SanctiM/Bavariae/05-SP
+
+[Lectio10]
+!Sermo2, de spiritualibus nuptiis, in medio
+... Quid mihi et tibi est, múlier? Quid tibi et illi est, Dómine? Nonne, quod fílio et matri?
+
+[Responsory10]
+@SanctiM/Bavariae/05-SP
+
+[Lectio11]
+Quid ad illam pértines, quæris, cum tu sis benedíctus fructus ventris eius immaculáti? Nonne ipsa est, quæ, salvo pudóre, concépit et sine corruptióne te péperit? Nonne ipsa est, in cuius útero novem ménsibus morátus es, cuius Vírgineis ubéribus lactátus es, cum qua iam duódecim annórum factus, de Jerúsalem descendísti et eras súbditus illi? Nunc ergo, Dómine, quid moléstus es illi, dicens: Quid mihi et tibi? Multum per omnem modum. Sed maniféste iam Vídeo, quod non velut indígnans aut confúndere volens Vírginis Matris téneram verecúndiam díceris: Quid mihi et tibi: cum, veniéntibus ad te iuxta Matris præcéptum minístris, nihil cunctátus, fácias, quod illa suggéssit.
+
+[Lectio12]
+Ut quid ergo, ...
+
+[Capitulum Laudes]
+@CommuneM/C10:Capitulum Vespera
+
+[Hymnus Laudes]
+@SanctiM/Bavariae/05-SP
+
+[Versum 2]
+@:Versum 1
+
+[Ant 2]
+@SanctiM/Bavariae/05-SP
+
+[Responsory Tertia]
+@SanctiM/Bavariae/05-SP
+
+[Responsory Sexta]
+@SanctiM/Bavariae/05-SP
+
+[Responsory Nona]
+@SanctiM/Bavariae/05-SP
+
+[Versum 3]
+@SanctiM/Bavariae/05-SP
+
+[Ant 3]
+@SanctiM/Bavariae/05-SP
+
+[Evangelium]
+@Tempora/Epi2-0
