@@ -1,0 +1,6 @@
+[Rank]
+In Dedicatione Ecclesiæ Metropolitanæ;;Duplex I. cl.;;6.5;;ex CommuneM/C8
+
+[Rule]
+ex C8;
+12 lectiones
