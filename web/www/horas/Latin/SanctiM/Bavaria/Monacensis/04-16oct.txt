@@ -1,0 +1,5 @@
+[Rank]
+De III die infra Octavam Dedicatione Ecclesiæ Metropolitanæ;;Duplex I. cl.;;2;;ex C8
+
+[Rule]
+ex CommuneM/C8;
