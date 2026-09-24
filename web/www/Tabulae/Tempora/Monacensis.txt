@@ -60,3 +60,5 @@
 10-18=10-18~Bavaria/10-T8oct;;1888 1906 DA
 10-31=Bavaria/10-31-Wolfgangus~10-31;;1888 1906 DA
 10-31=Bavaria/10-31-Wolfgangus;;1960
+11-05=Bavaria/Monacensis/11-05-Reliquiae~Bavaria/11-05oct;;1888 1906 DA
+11-06=Bavaria/11-06-Leonardus~11-06oct;;1888 1906 DA
