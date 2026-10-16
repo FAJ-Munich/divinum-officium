@@ -1131,6 +1131,7 @@ sub lectio : ScriptFunc {
         my @comm = split("\n", $comm{'Lectio'});
         $comment = ($commemoratio{Rank} =~ /Feria/) ? $comm[0] : ($commemoratio =~ /01\-05\./) ? $comm[3] : $comm[1];
         $w = setfont($redfont, $comment) . "\n$wc";
+        $L9winnerflag = 1;
       }
     }
 
@@ -1149,19 +1150,17 @@ sub lectio : ScriptFunc {
         setbuild2("Lectio ultimo: Commemoratio pro Vigilia (#1)");
       }
     }
-    my $cflag = 1;    #*************  03-30-10
-                      #if ($winner{Rule} =~ /9 lectiones/i && exists($winner{Responsory9})) { $cflag = 0; }
-                      #if ($winner{Rule} !~ /9 lectiones/i && exists($winner{Responsory3})) { $cflag = 0; }
 
-    if ( !$L9winnerflag
-      && ($commemoratio =~ /sancti/i && $commemoratio{Rank} =~ /[SB]\. /i || $commemoratio{Rank} =~ /infra octavam/i)
+    if (
+      !$L9winnerflag
+      && ( ($commemoratio =~ /sancti/i && $commemoratio{Rank} =~ /[SB]\. /i || $commemoratio{Rank} =~ /infra octavam/i)
+        || ($commeoratio !~ /Sancti/i && $commemoentries[1] =~ /sancti/i))
       && ($winner !~ /tempora/i || $winner{Rank} < 5)
       && ($version !~ /1955/ || $comrank > 4)
       && $version !~ /Cist/i
-      && $cflag)
-    {
+    ) {
       %w = (columnsel($lang)) ? %commemoratio : %commemoratio2;
-      my $ji = exists($w{"Lectio94"}) ? 94 : 93;
+      my $jc = exists($w{"Lectio94"}) ? 94 : 93;
       $wc = $w{"Lectio94"};
 
       if (!$wc && $commemoratio{Rank} !~ /infra octav/i && $version !~ /Monastic/) {
@@ -1173,24 +1172,27 @@ sub lectio : ScriptFunc {
           if ($wc =~ /(.*?)\_/s) { $wc = $1; }
           $wc .= $w1;
         }
-        $ji = '4-6';
+        $jc = '4-6' if $wc;
       }
 
       if (!$wc) {
         $wc = $w{"Lectio93"};
-        $jc = 93;
+        $jc = 93 if $wc;
       }
 
-      if (!$wc && $commemoratio{Rank} =~ /infra octav/i && $version !~ /Monastic/) {
+      if ( !$wc
+        && ($commemoratio{Rank} =~ /infra octav/i || $commemoratio =~ /tempora/i)
+        && $version !~ /Monastic/)
+      {
         if (my $commemo1 = $commemoentries[1]) {
           %w = %{setupstring($lang, $commemo1 . ".txt")};
           $wc = $w{Lectio94} || ($w{Lectio4} . $w{Lectio5} . $w{Lectio6}) || $w{Lectio93};
-          setbuild2("entered $commemo1");
+          $jc = $commemo1 if $wc;
         }
       }
 
       if ($wc) {
-        setbuild2("Last lectio: Commemoratio from Sancti #$ji");
+        setbuild2("Last lectio: Commemoratio from Sancti #$jc");
 
         if ($wc !~ /^\!/) {    # add Commemoratio comment if not there already
           if (exists($w{Rank})) {
