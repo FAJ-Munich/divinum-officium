@@ -874,12 +874,15 @@ sub lectio : ScriptFunc {
   }
   my $w = $w{"Lectio$num"};
 
-  if ($nocturn == 1 && $rule =~ /Lectio1 Quad/i && $dayname[0] !~ /Quad(\d|p3\-[3456])/i) {
+  if ($nocturn == 1 && ($rule =~ /Lectio1 Quad/i && $dayname[0] !~ /Quad(\d|p3\-[3456])/i)
+    || ($rule =~ /Lectio1 QT/i && $commemoratio{Rank} !~ /Quattuor/i))
+  {
 
     # For some Saints, the assigned I nocturn readings (from Commune) are valid in Quadragesima only;
     # in Septuag/Paschaltide, these get the Lessons from the occurent scripture instead (e.g., 04-13)
+    # The same holds true for some Saints in occurrence with Ember days only (e.g., 12-23-Hartmannus)
     $w = '';
-    $rule =~ s/in 1 Nocturno L.*loco//;
+    $rule =~ s/in 1 Nocturno L.*loco//i;
   }
 
   #  if ($nocturn == 1 && $commemoratio{Rank} =~ /Quattuor/i && $month == 9) {
