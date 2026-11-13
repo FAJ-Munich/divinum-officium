@@ -619,45 +619,56 @@ sub occurrence {
       $officename[2] =~ s/:/ ad Laudes tantum:/ if ($srank[2] >= 5 && $saint{'Commemoratio 2'} || $version =~ /196/);
     }
 
-    my $ittable = $missa ? '' : initiarule($month, $day, $year);
+    if ($missa) {
+      $scriptura = $tname;
+    } else {
+      my $ittable = $missa ? '' : initiarule($month, $day, $year);
 
-    if ( ($hora =~ /matutinum/i || (!$hora && $ittable) || (!$officename[2] && $hora !~ /Vespera|Completorium/i))
-      && $rank < 7
-      && $trank[0]
-      && !$missa)
-    {
-      my %scrip = %{officestring('Latin', $tname)};
+      if (!$hora
+        || ($hora =~ /matutinum/i || (!$hora && $ittable) || (!$officename[2] && $hora !~ /Vespera|Completorium/i))
+        && $rank < 7
+        && $trank[0])
+      {
+        my %scrip = %{officestring('Latin', $tname)};
+        $scriptura = $tname;
+        $officename[3] = "Tempora: $trank[0]" if $trank[0] && $officename[2] !~ /$trank[0]/i;
 
-      if (
-           !(exists($saint{"Lectio1"}) && ($saint{Rule} !~ /Lectio1 Quad/i || $tname =~ /Quad(\d|p3\-[3456])/i))
-        && exists($scrip{Lectio1})
-        && $scrip{Lectio1} !~ /evangelii/i
-        && ( $saint{Rank} !~ /\;\;ex /
-          || $saint{Rule} =~ /Lectio1 temp/i)
-      ) {
+        if (
+          !(
+               (exists($saint{"Lectio1"}) || $saint{Rule} =~ /In 1 Nocturno lectiones ex/i)
+            && ($saint{Rule} !~ /Lectio1 Quad/i || $tname =~ /Quad(\d|p3\-[3456])/i)
+          )
+          && exists($scrip{Lectio1})
+          && $scrip{Lectio1} !~ /evangelii/i
+          && ( $saint{Rank} !~ /\;\;ex /
+            || $saint{Rule} =~ /Lectio1 temp/i)
+        ) {
 
-        if ($ittable && $ittable !~ /\~[AH]$/) {
+          if ($ittable && $ittable !~ /\~[AH]$/) {
 
-          # If we have transferred scripture which is not coming "after" the actual day's
-          # we put the source of the transferred Letio1 into the headline
-          my @tsfile = split('~', $ittable);
-          my $tsfile = subdirname('Tempora', $version) . $tsfile[0] . ".txt";
-          %tscrip = %{officestring('Latin', $tsfile)};
-          $tsrank = $tscrip{Rank} || $tscrip{Scriptura};
-          $tsrank =~ s/\s*;;.*|\s*$//s;
-          $officename[2] ||= "Tempora: $trank[0]";
-          $officename[2] .= " (Scriptura ut in: $tsrank)" if $tsfile !~ $tfile && $tsrank;
-        } elsif ($version !~ /monastic/i || $tname !~ /(?:Pasc|Pent)/ || $month > 10) {
-          $officename[2] = "Scriptura: $trank[0]";
-        } else {
-          $officename[2] = "Tempora: $trank[0]";
+            # If we have transferred scripture which is not coming "after" the actual day's
+            # we put the source of the transferred Letio1 into the headline
+            my @tsfile = split('~', $ittable);
+            my $tsfile = subdirname('Tempora', $version) . $tsfile[0] . ".txt";
+            %tscrip = %{officestring('Latin', $tsfile)};
+            $tsrank = $tscrip{Rank} || $tscrip{Scriptura};
+            $tsrank =~ s/\s*;;.*|\s*$//s;
+
+            my @ordo = ();
+            my $l1 = lectio(1, 'Latin');
+            my ($lnum, $incipit, $source, $verbum);
+            $l1 =~ /(?:Lectio (\d+)).*?\n(?:([\w\s]+?)\n)?(?:\!([\d\s\w-:]+?)\n)?/s;
+            $lnum = "L$1";
+            $incipit = $2;
+            $source = $3;
+
+            $officename[3] .= "<br/> $lnum $incipit";
+            $officename[3] .= " e $tsrank" if $tsfile !~ $tfile && $tsrank;
+          } elsif ($version !~ /monastic/i || $tname !~ /(?:Pasc|Pent)/ || $month > 10) {
+            $officename[3] =~ s/Tempora/Scriptura/;
+          }
         }
-      } else {
-        $officename[2] = "Tempora: $trank[0]";
       }
-      $scriptura = $tname;
-    } elsif ($missa) {
-      $scriptura = $tname;
     }
   } else {    # winner is Tempora
     if ($hora !~ /Vespera/i && $trank[2] < ($version =~ /cist/i ? 1.25 : 1.5) && $transfervigil)

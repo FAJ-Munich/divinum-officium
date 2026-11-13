@@ -27,21 +27,40 @@ sub ordo_entry {
   return "$h1, $h2" if $winneronly =~ /winneronly/;    # finish here for ical
   return "$h1 ($h2)" if $winneronly =~ /winnerupd/;    # finish here for ical_comm
 
-  my ($c1, $c2);
+  my ($c1, $c2, $c3, $cv, $scripturaUt);
   $c1 = "<B>" . setfont(liturgical_color($h1), $h1) . "</B>" . setfont('1 maroon', "&ensp;$h2");
   $c1 =~ s/Hebdomadam/Hebd/i;
   $c1 =~ s/Quadragesima/Quadr/i;
 
   $c2 = $dayname[2];
-
+  $c2 =~ s/Hebdomadam/Hebd/i;
+  $c2 =~ s/Quadragesima/Quadr/i;
   ($h1, $h2) = split(/: /, $c2, 2);
-  $h2 =~ s/(\(Scriptura ut in\: .*\))//;
-  my $scripturaUt = $1;
+
+  if ($h2 =~ s/\(Scriptura ut in\: (.*)\)//) {
+    $scripturaUt = setfont('1 maroon', "Scriptura ut in") . setfont(liturgical_color($2), " $2");
+  }
   ($c2, $h1, $h2) = ('', '', $h1) unless $h2;
   $c2 = setfont($smallblack, "$h1:") if $h1;
   $c2 .= "<I>" . setfont(liturgical_color($h2), " $h2") . "</I>" if $h2;
 
-  if ($c2 && @commemoentries > ($winner =~ /Tempora/i && $commemoentries[0] !~ /Tempora/ ? 0 : 1)) {
+  $c3 = $dayname[3];
+  $c3 =~ s/Hebdomadam/Hebd/i;
+  $c3 =~ s/Quadragesima/Quadr/i;
+  ($h1, $h2) = split(/: /, $c3, 2);
+
+  if ($h2 =~ s/(L\d(?: Incipit)?) (.*? e) (.*)//) {
+    $scripturaUt = setfont($smallfont, "*$1* ") . setfont('1 maroon', $2) . setfont(liturgical_color($3), " $3");
+    $scripturaUt =~ s/Hebdomadam/Hebd/i;
+    $scripturaUt =~ s/Quadragesima/Quadr/i;
+  }
+  ($c3, $h1, $h2) = ('', '', $h1) unless $h2;
+  $c3 = setfont($smallblack, "$h1:") if $h1;
+  $c3 .= "<I>" . setfont(liturgical_color($h2), " $h2") . "</I>" if $h2;
+
+  my $extraComm;
+
+  if (@commemoentries > ($winner =~ /Tempora/i && $commemoentries[0] !~ /Tempora/ ? 0 : 1)) {
     for my $ind (($winner =~ /Tempora/i && $commemoentries[0] !~ /Tempora/ ? 0 : 1) .. @commemoentries - 1) {
       my %com = %{setupstring('Latin', "$commemoentries[$ind].txt")};
       my @comRank = split(';;', $com{Rank});
@@ -57,18 +76,16 @@ sub ordo_entry {
       # No Commemoration of Common Octaves on feasts Duplex I. or II. classis
       next if ($comRank[2] < 2.1 && $comRank[0] =~ /Infra Octav/i && $rank >= 5 && $winner =~ /Sancti/i);
 
-      $c2 .= " <I>&amp; " . setfont(liturgical_color($comRank[0]), " $comRank[0]") . "</I>" if $comRank[0];
+      $extraComm .=
+        " <I>" . setfont($smallblack, "&amp;") . setfont(liturgical_color($comRank[0]), " $comRank[0]") . "</I>"
+        if $comRank[0];
 
       # Under the 1960 rubrics, on II. cl and higher days, allow at most one commemoration.
       last if ($version =~ /1960/ && $rank >= 5 || ($rank >= 4 && $winner{Rank} =~ /Feria|Sabbato/i));
     }
   }
-  $c2 .= "<I>" . setfont($smallblack, " $scripturaUt") . "</I>" if $scripturaUt;
 
-  return "$c2" if $winneronly =~ /comm/i;    # finish here for ical_comm - comm
-
-  $c2 =~ s/Hebdomadam/Hebd/i;
-  $c2 =~ s/Quadragesima/Quadr/i;
+  return "$c2 $extraComm" if $winneronly =~ /comm/i;    # finish here for ical_comm - comm
 
   if ($version !~ /1955|196/ && $winner{Rule} =~ /\;mtv/i) {
     $c1 .= setfont('1 black', ' m.t.v.');
@@ -79,7 +96,7 @@ sub ordo_entry {
   if (
        $version !~ /196/
     && $winner =~ /Sancti/
-    && $winner{Rule} !~ /Lectio1 tempora/i
+    && $winner{Rule} !~ /Lectio1 tempora|Lectio1 TempNat/i
     && ( exists($winner{Lectio1})
       || $winner{Rule} =~ /In 1 nocturno lectiones ex C/i
       || ($wRank[3] =~ /^ex/ && $wRank[2] >= 3.1 || $wRank[2] == 1.5))
@@ -99,11 +116,20 @@ sub ordo_entry {
   if (substr($date, 0, 5) lt '12-24' && substr($date, 0, 5) gt '01-13') {
 
     # outside Nat put Sancti winner in right column
-    ($c2, $c1) = ($c1, $c2) if $winner =~ /sancti/i;
+    if ($winner =~ /sancti/i) {
+      ($c2, $c1) = ($c1, $c2);
+      ($c3, $c1) = ($c1, $c3) if !$c1 || $c1 =~ /Commemoratio/i && $commemoentries[0] !~ /Tempora/;
+      $extraComm =~ s/^ <I>(.*?)&amp;<\/FONT>/$1Commemoratio:<\/FONT><I>/ unless $c3;
+      $extraComm = $c3 . $extraComm;
+    }
+    $c2 .= "<br /> $extraComm";
+
   } else {
 
     # inside Nat clear right column unless it is commemoratio of saint
     $c2 = '' unless $c2 =~ /Commemoratio/;
+    $scripturaUt = setfont('1 maroon', $1) . $c3 if $c3 =~ s/<FONT SIZE='-1' >(Scriptura:)<\/FONT>//;
+    $c3 = '';
   }
 
   if (dirge($version, 'Laudes', $day, $month, $year, $dioecesis)) { $c1 .= setfont($smallblack, ' dirge'); }
@@ -115,10 +141,15 @@ sub ordo_entry {
   concurrence($day, $month, $year, $version, $dioecesis);    # Replacing precedence()
   $hora = $temphora;
   my $cv = $dayname[2];
-  $cv =~ s/.*?(Vespera|A capitulo|$)/$1/;
+  $cv =~ s/.*?(A capitulo)/Vespera \l$1/;
+  $cv =~ s/.*?(Vespera|$)/$1/;
+  $cv = setfont('1 maroon', $cv);
+
+  $cv = "$scripturaUt<br/>$cv" if $scripturaUt;
 
   if ($compare) {
     $c2 ||= '_';
+    $c3 ||= '_';
     $cv ||= '_';
   }
   return ($c1, $c2, $cv);

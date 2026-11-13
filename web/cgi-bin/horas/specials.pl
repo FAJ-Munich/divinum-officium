@@ -30,9 +30,7 @@ sub specials {
     $r =~ s/\s*$//;
     $r =~ s/\n/ : /sg;
     $r = ":: $r ::" if $r;
-    $buildscript =
-      setfont($largefont, "$hora $date1") . "\n"
-    . setfont($smallblack, "$dayname[1]") . "\n";
+    $buildscript = setfont($largefont, "$hora $date1") . "\n" . setfont($smallblack, "$dayname[1]") . "\n";
     $buildscript .= setfont($smallblack, "$dayname[2]\n $r") . "\n" if $dayname[2];
   }
 

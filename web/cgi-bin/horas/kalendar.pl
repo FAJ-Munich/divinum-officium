@@ -55,6 +55,8 @@ our $smallblack;
 our $smallfont;
 
 require "$Bin/../DivinumOfficium/SetupString.pl";
+require "$Bin/horas.pl";
+require "$Bin/specials.pl";
 require "$Bin/horascommon.pl";
 require "$Bin/specmatins.pl";
 require "$Bin/../DivinumOfficium/dialogcommon.pl";

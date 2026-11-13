@@ -978,23 +978,45 @@ sub bottom_links_menu {
 #*** html_dayhead($head, $subhead)
 # return day headline in html
 sub html_dayhead {
-  my ($head, $subhead) = @_;
+  my ($head, $subhead, $ordoInfo) = @_;
 
-  my $output = setfont(liturgical_color($head), $head);
+  my $output;
+
+  if ($head =~ s/ ~ (.*)//) {
+    $output = setfont(liturgical_color($head), $head)
+      . "&emsp;<SPAN STYLE=\"font-size:82%;\"><SPAN STYLE=\"color:maroon;\">$1</SPAN></SPAN>";
+  } else {
+    $output = setfont(liturgical_color($head), $head);
+  }
 
   if ($subhead) {
-    my ($pre, $main) = split(/: /, $subhead, 2);           # Split the pre-position from office title
-    my ($main, $vespera) = split(/\<br\/\>/, $main, 2);    # Split any Vespers information
-    $main =~ s/\(Scriptura ut in\: (.*)\)//;               # Save any Scripture transfer information
-    my $scripturaUt = $1;
+    my ($pre, $main) = split(/: /, $subhead, 2);              # Split the pre-position from office title
+    my ($main, $vesperOrdo) = split(/\<br\/\>/, $main, 2);    # Split any Vespers information
+    my $scripturaUt;
+
+    if ($main =~ s/\(Scriptura ut in\: (.*)\)//) {
+
+      # Save any Scripture transfer information
+      $scripturaUt = $1;
+    }
     $output .= "<br/>\n<I><SPAN STYLE=\"font-size:82%;\"><SPAN STYLE=\"color:maroon;\">$pre";
     $output .= ":</SPAN> " . setfont(liturgical_color($main, ''), $main) if $main;
-    $output .= "<br/><SPAN STYLE=\"color:maroon;\">$vespera<\SPAN>" if $vespera;
+    $output .= "<br/><SPAN STYLE=\"color:maroon;\">$vesperOrdo<\SPAN>" if $vesperOrdo;
     $output .=
       "<br/><SPAN STYLE=\"color:maroon;\">Scriptura ut in <\SPAN>"
       . setfont(liturgical_color($scripturaUt, ''), $scripturaUt)
       if $scripturaUt && $hora eq 'Matutinum';
     $output .= "</SPAN></I>\n";
+  }
+
+  if ($ordoInfo) {
+    $output .= "<br/>\n<I><SPAN STYLE=\"font-size:82%;\"><SPAN STYLE=\"color:maroon;\">";
+
+    if ($ordoInfo =~ s/\:\:(.*?)\:\://) {
+      $output .= "$ordoInfo</SPAN>" . setfont(liturgical_color($1), $1) . "</SPAN></I>";
+    } else {
+      $output .= "$ordoInfo</SPAN></SPAN></I>";
+    }
   }
   $output =~ s/\s\&\s/ &amp; /;    # HTML - ampersand
   $output;
